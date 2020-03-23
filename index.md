@@ -1,15 +1,15 @@
 ## Betacoronavirus
 
 ### Public Advice
-- Wear a mask in all indoor places where infectious people can be, so at least in all public ones. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11]. 
-- Measure and observe your temperature several times every day and record the values. As the slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7](#7),[10].
+- Wear a mask in all indoor places where infectious people can be, so at least in all public ones. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11](#10). 
+- Measure and observe your temperature several times every day and record the values. As the slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7](#7),[10](#10).
 
 
 ### Model
 
 In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. So the virus is attached to tiny dry particles. Which dust like fly around. For very small particles this is smoke diffusing around. This yields a different transmission pattern than the aerosol/droplets spread model. 
 
-In their very illustrative paper [11] Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory. 
+In their very illustrative paper [11](#11) Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory. 
 Avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol. This dry form model this turns into avoiding a smoker's smoke. The latter is much more difficult since smoke can remain in the air for much longer. 
 Thus the proposed model would also indicate adopting protection measures.
 
@@ -17,29 +17,29 @@ The aerosol transmission explains well the observed spread patterns of influenza
 
 ### Observations
 
-* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells[12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the expresses ACE2 [6]. Since other Coronavirinae, namely 229E, infect the cells from the apical surface [3] support the hypothesis that this is the case too for SARS-Cov-1 and SARS-Cov-2. Therefore for infection SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the havier the earlier. Dust and very small particles are much more likely to enter deep into the lungs than aerosols \[citation will be added]. 
+* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1](#1),[2](#2),[9](#9). ACE2 is apically expressed on lung alveolar epithelial cells[12](#12). In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the expresses ACE2 [6](#6). Since other Coronavirinae, namely 229E, infect the cells from the apical surface [3] support the hypothesis that this is the case too for SARS-Cov-1 and SARS-Cov-2. Therefore for infection SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the havier the earlier. Dust and very small particles are much more likely to enter deep into the lungs than aerosols \[citation will be added]. 
 
-* In confined settings without special protection reproduction numbers well above the number of close contacts a person has have been observed [15]. Which is not very likely to observe with the classical aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore they don't concentration in the air quite rapidly decreases \[citation to be added]. Dry dust, on the other hand, less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air:
+* In confined settings without special protection reproduction numbers well above the number of close contacts a person has have been observed [15](#15). Which is not very likely to observe with the classical aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore they don't concentration in the air quite rapidly decreases \[citation to be added]. Dry dust, on the other hand, less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air:
 	Sars-Cov-1:
-	- Hospitals in China [15]
-	- Hotel in Hong Kong [14] 
+	- Hospitals in China [15](#15)
+	- Hotel in Hong Kong [14](#14)
 	
 	Sars-Cov-2:
-	- Diamond Princess Cruise Ship in Japan [15]
-	- Music Club in Japan (see Introduction [15])
-	- Church in Korea (see Introduction [15])
-	- Hospitals in Nothern Italy [13]
+	- Diamond Princess Cruise Ship in Japan [15](#15)
+	- Music Club in Japan (see Introduction [15](#15))
+	- Church in Korea (see Introduction [15](#15))
+	- Hospitals in Nothern Italy [13](#13)
 	Mers-Cov:
 	- Main spreading in Winter season and in generally dry areas.
 The primary spreading in very dry (indoor) areas would also explain why the described coronaviruses diseases occurred recently, even though overall hygiene increased.  
 * In settings without prior SARS experience the infection rate in health care workers is very high:
-	* In 2003 in South East Asia [15]
-	* In 2019/2020 in Europe - Italy especially [13] ~<br>~
+	* In 2003 in South East Asia [15](#15)
+	* In 2019/2020 in Europe - Italy especially [13](#13) ~<br>~
 	
 	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask could possibly reduce the infection rates (there many cities in China reported few infections in hospitals \[citation to be added]).
 #### Further evidences
 Remark: The following pieces of evidence are 'in work'. 
-* In humid and warm temperature environments (above 33 degrees) there are no know events of a step increase in death numbers. [11] shows that a high temperature of 33 Celsius and high relative don't yield a much faster rate of inactivation.
+* In humid and warm temperature environments (above 33 degrees) there are no know events of a step increase in death numbers. [11](#11) shows that a high temperature of 33 Celsius and high relative don't yield a much faster rate of inactivation.
 
 * The initial animal to human of  Sars-Cov-2 and occurred in a setting of cold outside temperature and therefore dry indoor air, namely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. 
 	Similar transmission settings from animal to human have been likely the case for 
@@ -52,31 +52,31 @@ As mentioned a good metaphor is avoiding a smoke's smoke. So the right ventilati
 ### References
 Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. 
 * Describing that the cell entry point is ACE2:
-[1](SARS-Cov-1), [2](SARS-Cov-1), [9](SARS-Cov-2)
+[1](#1)(SARS-Cov-1), [2](#2)(SARS-Cov-1), [9](#9)(SARS-Cov-2)
 
 * Describing the ACE2 \[surface\] expression locations:
-[6], [12]
+[6](#6), [12](#12)
 
 * Describing that some coronaviruses enter via the apical surface:
-[3](HCov 229E, uses a different receptor however cell entry side is likely more conserved)
+[3](#3)(HCov 229E, uses a different receptor however cell entry side is likely more conserved)
 
 * Describing the viral distribution across the organs:
-[5](SARS-Cov-1), [6](SARS-Cov-1),[14]
+[5](#5)(SARS-Cov-1), [6](#6)(SARS-Cov-1),[14](#14)
 * Describing clinal findings which are most notable in the lung
 
 * Describing that a relevant number of patients has only an increase in temperature below 38 degrees and so if fever is defined as a temperature above 38 no fever:
-[7], [10]
+[7](#7), [10](#10)
 
 * Describing aerosol transmission in the case of influenza
-[8]
+[8](#8)
 
 * Describing dr
-[11]
+[11](#11)
 
 * Describing human airway
 
 * Describing spread potential i.e. high effective reproduction numbers in confined settings:
-[15]
+[15](#15)
 
 
 
