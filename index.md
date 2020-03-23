@@ -81,7 +81,8 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 [15](#15)
 
 
-//html elements to be displayed correctly in work 
+//html elements to be displayed correctly in work //for now read as the repository: https://github.com/forestgrape/coronavirus/blob/master/index.md 
+
 <ol>
     <li id=1>
   Keiji Kuba1,7 , Yumiko Imai1,7, Shuan Rao2,7, Hong Gao3, Feng Guo2, Bin Guan2, Yi Huan2, Peng Yang2,
