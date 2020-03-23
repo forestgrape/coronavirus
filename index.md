@@ -1,4 +1,4 @@
-## Betacoronavirus
+## Proposal of a Dry Form Betacoronavirus Transmission Model
 
 ### Public Advice
 - Wear a mask in all indoor places where infectious people can be, so at least in all public ones. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11](#10). 
