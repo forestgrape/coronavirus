@@ -45,8 +45,7 @@ Remark: The following pieces of evidence are 'in work'.
 	Similar transmission settings from animal to human have been likely the case for 
 	Sars-Cov-1 (as for Sars-Cov-2 a live animal market) and MERS (probably indoor riding arena for camels) animal to human jumps. 
 
-### Adapted Protections measures
-work in progress
+### Adapted Protections measures //work in progress
 As mentioned a good metaphor is avoiding a smoke's smoke. So the right ventilation and indoor wearing a mask is key. 
 
 ### References
