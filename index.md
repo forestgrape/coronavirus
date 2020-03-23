@@ -94,7 +94,7 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
     https://doi.org/10.1038/nm1267
 
  
-        
+//html elements to be displayed correctly in work    
 </li>
 <li id=2>Wan Y, Shang J, Graham R, Baric RS, Li F.
 <strong>Receptor recognition by novel coronavirus from
