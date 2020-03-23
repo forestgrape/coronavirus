@@ -89,7 +89,7 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
         <strong>A crucial role of angiotensin converting enzyme 2 (ACE2)
     in SARS coronavirus–induced lung injury </strong>
     NATURE MEDICINE VOLUME 11 | NUMBER 8 | AUGUST 2005
-    doi:10.1038/nm1267
+    https://doi.org/10.1038/nm1267
 
  
         
@@ -137,7 +137,7 @@ acute respiratory syndrome is associated with multiorgan
 Yu Lung Lau1 and JS Malik Peiris2
     <strong>Pathogenesis of severe acute respiratory syndrome</strong>
     Current Opinion in Immunology 2005, 17:404–410
-    https://doi.org10.1016/j.coi.2005.05.009
+    https://doi.org/10.1016/j.coi.2005.05.009
     </li>
     
 <li id=7>
@@ -149,8 +149,7 @@ pneumonia in Wuhan, China: a descriptive study
         Lancet Infect Dis 2020
 Published Online
 February 24, 2020
-https://doi.org/10.1016/
-S1473-3099(20)30086-4
+https://doi.org/10.1016/S1473-3099(20)30086-4
     </li>
 <li id=8>
     Raymond Tellier <strong>
@@ -183,7 +182,7 @@ Viability of the SARS Coronavirus
     Hindawi Publishing Corporation
 Advances in Virology
 Volume 2011, Article ID 734690, 7 pages
-https://doi:10.1155/2011/734690
+https://doi.org/10.1155/2011/734690
     </li>
     
 <li id=12>
@@ -194,7 +193,7 @@ understanding SARS pathogenesis
     </strong>
     Journal of Pathology
 J Pathol 2004; 203: 631–637
-Published online in Wiley InterScience (www.interscience.wiley.com). https://DOI:10.1002/path.1570
+Published online in Wiley InterScience (www.interscience.wiley.com). https://doi.org/10.1002/path.1570
     </li>
 <li id=13>
     The Lancet Editoral<strong>
