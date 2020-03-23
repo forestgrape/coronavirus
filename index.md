@@ -81,7 +81,7 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 [15](#15)
 
 
-
+//html elements to be displayed correctly in work 
 <ol>
     <li id=1>
   Keiji Kuba1,7 , Yumiko Imai1,7, Shuan Rao2,7, Hong Gao3, Feng Guo2, Bin Guan2, Yi Huan2, Peng Yang2,
@@ -94,7 +94,7 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
     https://doi.org/10.1038/nm1267
 
  
-//html elements to be displayed correctly in work    
+   
 </li>
 <li id=2>Wan Y, Shang J, Graham R, Baric RS, Li F.
 <strong>Receptor recognition by novel coronavirus from
