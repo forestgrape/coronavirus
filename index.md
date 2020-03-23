@@ -211,7 +211,7 @@ Published online in Wiley InterScience (www.interscience.wiley.com). https://doi
     
 <li id=15> 
     Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020</strong>
-   https://doi.org/10.1016/j.idm.2020.02.003
+   [https://doi.org/10.1016/j.idm.2020.02.003]
 
 
 </ol>
