@@ -43,10 +43,10 @@ Remark: The following pieces of evidence are 'in work'.
 
 * The initial animal to human of  Sars-Cov-2 and occurred in a setting of cold outside temperature and therefore dry indoor air, namely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. 
 	Similar transmission settings from animal to human have been likely the case for 
-	Sars-Cov-1 (as for Sars-Cov-2 a live animal market) and MERS (probably indoor riding arena for camels) animal to human jumps. 
+	Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
 
 ### Adapted Protections measures //work in progress
-As mentioned a good metaphor is avoiding a smoker's smoke. So the right indoor ventilation and indoor wearing a mask is key. 
+As mentioned a good metaphor is avoiding a smoker's smoke or filtering out the soot. So the right indoor ventilation and indoor wearing a mask is key. 
 
 ### References
 Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. 
