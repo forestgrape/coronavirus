@@ -7,10 +7,13 @@
 
 ### Model
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. So the virus is attached to tiny dry particles. Which dust like fly around. For very small particles this is smoke diffusing around. This yields a different transmission pattern than the aerosol/droplets spread model. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. So the virus is attached to tiny dry particles. Which dust like fly around. Or for very small particles smoke diffusing around. This yields a different transmission pattern than the aerosol/droplets spread model. 
 
-In their very illustrative paper [11](#11) Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory. 
-Avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol. This dry form model this turns into avoiding a smoker's smoke. The latter is much more difficult since smoke can remain in the air for much longer. 
+In their very illustrative paper [11](#11) Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
+
+When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol. In this dry form model it is avoiding a smoker's smoke. The latter is much more difficult since smoke can remain in the air for much longer. 
+Just smelling would be the theoretical possibility of an infection. But for the percentages to be in two digits, one needs likely to be that close to a person that the cloths would be smelling. 
+
 Thus the proposed model would also indicate adopting protection measures.
 
 The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the Betacoronaviruses than the aerosol model:
