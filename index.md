@@ -2,7 +2,7 @@
 
 ### Public Advice
 - Wear a mask in all indoor places where infectious people can be, so at least in all public ones. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11]. 
-- Measure and observe your temperature several times every day and record the values. As the slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[10].
+- Measure and observe your temperature several times every day and record the values. As the slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7](#7),[10].
 
 
 ### Model
