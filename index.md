@@ -84,7 +84,7 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 //html elements to be displayed correctly in work //for now read as the repository: https://github.com/forestgrape/coronavirus/blob/master/index.md 
 
 <ol>
-    <li id=1>
+    <li id>
   Keiji Kuba1,7 , Yumiko Imai1,7, Shuan Rao2,7, Hong Gao3, Feng Guo2, Bin Guan2, Yi Huan2, Peng Yang2,
     Yanli Zhang2, Wei Deng3, Linlin Bao3, Binlin Zhang3, Guang Liu2, Zhong Wang4, Mark Chappell5,
     Yanxin Liu2, Dexian Zheng2, Andreas Leibbrandt1, Teiji Wada1, Arthur S Slutsky6, Depei Liu2, Chuan Qin3,
@@ -97,7 +97,7 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
  
    
 </li>
-<li id=2>Wan Y, Shang J, Graham R, Baric RS, Li F.
+<li id>Wan Y, Shang J, Graham R, Baric RS, Li F.
 <strong>Receptor recognition by novel coronavirus from
 Wuhan: An analysis based on decade-long
 structural studies of SARS. 
@@ -106,7 +106,7 @@ J Virology 2020;
 published online Jan 29. https://doi.org/10.1128/JVI.00127-20.
 </li>
         
-<li id=3>
+<li id>
             GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
 DIANNA M. BLAU,3 KATHRYN V. HOLMES,3 BEVERLY L. DAVIDSON,4 STANLEY PERLMAN,1,5
 AND PAUL B. MCCRAY, JR.1
@@ -116,7 +116,7 @@ from the Apical Surface
             </strong>
             JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
 </li>
-<li id=4>
+<li id>
     Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,
 Jeannette Guarner MDa, Cynthia S. Goldsmith MSa, Kathleen Tatti PhDa,
 Michelle Packard MPHa, Laurie Mueller BA, BSa, Mu-Zong Wub, Pierre Rollin MDc,
@@ -130,20 +130,20 @@ respiratory syndrome in Taiwan
     Human Pathology (2005) 36, 303 – 309
 
 </li>
-<li id=5>
+<li id>
         Farcas GA, Poutanen SM, Mazzulli T, Willey BM, Butany J,
 Asa SL, Faure P, Akhavan P, Low DE, Kain KC: <strong>Fatal severe
 acute respiratory syndrome is associated with multiorgan
     involvement by coronavirus.</strong> J Infect Dis 2005, 191:193-197
     </li>
-<li id=6>
+<li id>
 Yu Lung Lau1 and JS Malik Peiris2
     <strong>Pathogenesis of severe acute respiratory syndrome</strong>
     Current Opinion in Immunology 2005, 17:404–410
     https://doi.org/10.1016/j.coi.2005.05.009
     </li>
     
-<li id=7>
+<li id>
         Heshui Shi*, Xiaoyu Han*, Nanchuan Jiang*, Yukun Cao, Osamah Alwalid, Jin Gu, Yanqing Fan†, Chuansheng Zheng†
         <strong>
             Radiological findings from 81 patients with COVID-19
@@ -154,7 +154,7 @@ Published Online
 February 24, 2020
 https://doi.org/10.1016/S1473-3099(20)30086-4
     </li>
-<li id=8>
+<li id>
     Raymond Tellier <strong>
     Review of Aerosol Transmission of
     Influenza A Virus</strong>
@@ -173,11 +173,11 @@ April 16, 2020 a 2020 Elsevier Inc.
 https://doi.org/10.1016/j.cell.2020.02.052
     </li>
     
-<li id=10>
+<li id>
     SARS-CoV-2 Infection in Children
 This letter was published on March 18, 2020, at NEJM.org.
     </li>
-<li id=11>
+<li id>
     K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
 <strong> The Effects of Temperature and Relative Humidity on the
 Viability of the SARS Coronavirus
@@ -188,7 +188,7 @@ Volume 2011, Article ID 734690, 7 pages
 https://doi.org/10.1155/2011/734690
     </li>
     
-<li id=12>
+<li id>
     I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
 <strong> Tissue distribution of ACE2 protein, the functional
 receptor for SARS coronavirus. A first step in
@@ -198,12 +198,12 @@ understanding SARS pathogenesis
 J Pathol 2004; 203: 631–637
 Published online in Wiley InterScience (www.interscience.wiley.com). https://doi.org/10.1002/path.1570
     </li>
-<li id=13>
+<li id>
     The Lancet Editoral<strong>
     COVID-19: protecting health-care workers</strong>
     www.thelancet.com Vol 395 March 21, 2020
  </li>
-<li id=14>
+<li id>
     J S M Peiris, Y Guan, K Y Yuen
     <strong>
         Severe acute respiratory syndrom</strong>
