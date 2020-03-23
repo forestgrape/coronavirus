@@ -46,7 +46,7 @@ Remark: The following pieces of evidence are 'in work'.
 	Sars-Cov-1 (as for Sars-Cov-2 a live animal market) and MERS (probably indoor riding arena for camels) animal to human jumps. 
 
 ### Adapted Protections measures //work in progress
-As mentioned a good metaphor is avoiding a smoke's smoke. So the right ventilation and indoor wearing a mask is key. 
+As mentioned a good metaphor is avoiding a smoker's smoke. So the right ventilation and indoor wearing a mask is key. 
 
 ### References
 Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. 
