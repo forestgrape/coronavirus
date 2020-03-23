@@ -42,7 +42,7 @@ The primary spreading in very dry (indoor) areas would also explain why the desc
 	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask could possibly reduce the infection rates (there many cities in China reported few infections in hospitals \[citation to be added]).
 #### Further evidences
 Remark: The following pieces of evidence are 'in work'. 
-* In humid and warm temperature environments (above 33 degrees) there are no know events of a step increase in death numbers. [11] shows that a high temperature of 33 Celsius and high relative don't yield a much faster rate of inactivation.
+* In humid and warm temperature environments (above 33 degrees) there are no know events of a step increase in death numbers. [11] shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees yield a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselfs within aerosols. In this case an aerosol like spreading pattern with no super-spreading events would be exspected. 
 
 * The initial animal to human of  Sars-Cov-2 and occurred in a setting of cold outside temperature and therefore dry indoor air, namely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. 
 	Similar transmission settings from animal to human have been likely the case for 
