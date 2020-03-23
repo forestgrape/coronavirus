@@ -54,7 +54,7 @@ As mentioned a good metaphor is avoiding a smoker's smoke or filtering out the s
 ### References
 Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. 
 * Describing that the cell entry point is ACE2:
-[1](SARS-Cov-1), [2](SARS-Cov-1), [9](SARS-Cov-2)
+[1] (SARS-Cov-1), [2] (SARS-Cov-1), [9] (SARS-Cov-2)
 
 * Describing the ACE2 \[surface\] expression locations:
 [6], [12]
@@ -63,7 +63,7 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 [3](HCov 229E, uses a different receptor however cell entry side is likely more conserved)
 
 * Describing the viral distribution across the organs:
-[5](SARS-Cov-1), [6](SARS-Cov-1),[14]
+[5] (SARS-Cov-1), [6] (SARS-Cov-1),[14]
 * Describing clinal findings which are most notable in the lung
 
 * Describing that a relevant number of patients has only an increase in temperature below 38 degrees and so if fever is defined as a temperature above 38 no fever:
