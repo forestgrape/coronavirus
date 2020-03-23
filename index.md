@@ -81,8 +81,6 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 [15]
 
 
-//html elements to be displayed correctly in work //for now read as the repository: https://github.com/forestgrape/coronavirus/blob/master/index.md 
-
 <ol>
 <li>
   Keiji Kuba1,7 , Yumiko Imai1,7, Shuan Rao2,7, Hong Gao3, Feng Guo2, Bin Guan2, Yi Huan2, Peng Yang2,
@@ -213,7 +211,6 @@ Published online in Wiley InterScience (www.interscience.wiley.com). https://doi
 <li> 
     Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020</strong>
    [https://doi.org/10.1016/j.idm.2020.02.003]
-
-
+</li>
 </ol>
 
