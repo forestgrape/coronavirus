@@ -67,13 +67,13 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 * Describing that a relevant number of patients has only an increase in temperature below 38 degrees and so if fever is defined as a temperature above 38 no fever:
 [7](#7), [10](#10)
 
-* Describing aerosol transmission in the case of influenza
+* Describing aerosol transmission in the case of influenza:
 [8](#8)
 
-* Describing dr
+* Describing that dry spreading is possible:
 [11](#11)
 
-* Describing human airway
+* Describing the human airway:
 
 * Describing spread potential i.e. high effective reproduction numbers in confined settings:
 [15](#15)
