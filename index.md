@@ -7,20 +7,19 @@
 
 ### Model
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. So the virus is attached to tiny dry particles. Which dust like fly around or for very small particles smoke diffusing around. This yields a different transmission pattern than the aerosol/droplets spread model[8]. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to tiny dry particles, which dust like fly around or for very small particles: diffusing smoke like around. This yields a different transmission pattern than the aerosol[8] or the droplets spread model. 
 
 In their very illustrative paper [11] Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
 
-When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol. In this dry form model it is avoiding a smoker's smoke. The latter is much more difficult since smoke can remain in the air for much longer. 
-Just smelling would be the theoretical possibility of an infection. But for the percentages to be in two digits, one needs likely to be that close to a person that the cloths would be smelling. 
-
+When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
+Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 Thus the proposed model would also indicate adopting protection measures.
 
-The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the Betacoronaviruses than the aerosol model:
+The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed beetacoronaviruses spread patterns than the aerosol model:
 
 ### Observations
 
-* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the expresses ACE2 [6]. Both physical constraints and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for betacoronaviruses. Therefore for infection SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier. Dust and very small particles are much more likely to enter deep into the lungs than aerosols [citation will be added]. 
+* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier. Dust and very small particles are much more likely to enter deep into the lungs than aerosols [citation will be added]. 
 
 * In confined settings without special protection reproduction numbers well above the number of close contacts a person has have been observed [15]. Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore they don't concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
 	Sars-Cov-1:
