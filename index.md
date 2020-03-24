@@ -2,12 +2,12 @@
 
 ### Public Advice
 - Wear a mask in all indoor places where infectious people can be, so at least in all public ones. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11]. 
-- Measure and observe your temperature several times every day and record the values. As the slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[10].
+- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[10].
 
 
 ### Model
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. So the virus is attached to tiny dry particles. Which dust like fly around. Or for very small particles smoke diffusing around. This yields a different transmission pattern than the aerosol/droplets spread model. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. So the virus is attached to tiny dry particles. Which dust like fly around or for very small particles smoke diffusing around. This yields a different transmission pattern than the aerosol/droplets spread model[8]. 
 
 In their very illustrative paper [11] Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
 
@@ -36,13 +36,13 @@ The aerosol transmission explains well the observed spread patterns of influenza
 	- Main spreading in Winter season and in generally dry areas.
 The primary spreading in very dry (indoor) areas would also explain why the described coronaviruses diseases occurred recently, even though overall hygiene increased.  
 * In settings without prior SARS experience the infection rate in health care workers is very high:
-	* In 2003 in South East Asia [15]
-	* In 2019/2020 in Europe - Italy especially [13]<br>
+	* 2003 in South East Asia [15]
+	* 2019/2020 in Europe - Italy especially [13]<br>
 	
 	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask could possibly reduce the infection rates (there many cities in China reported few infections in hospitals \[citation to be added]).
 #### Further evidences
 Remark: The following pieces of evidence are 'in work'. 
-* In humid and warm temperature environments (above 33 degrees) there are no known events of a step increase in death numbers. [11] shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselfs within aerosols. In this case an aerosol like spreading pattern with no super-spreading events would be exspected. 
+* In humid and warm temperature environments (above 33 degrees) there are no known events of a step increase in death numbers. [11] shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselfs within aerosols. In this case an aerosol like spreading pattern with no super-spreading events would be expected. 
 
 * The initial animal to human of  Sars-Cov-2 and occurred in a setting of cold outside temperature and therefore dry indoor air, namely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. 
 	Similar transmission settings from animal to human have been likely the case for 
