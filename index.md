@@ -19,7 +19,7 @@ The aerosol transmission explains well the observed spread patterns of influenza
 
 ### Observations
 
-* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier. Dust and very small particles are much more likely to enter deep into the lungs than aerosols [citation will be added]. 
+* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier. Small and especially light particles are more likely to enter deep into the lungs than larger aerosols (to be checked) [16]. 
 
 * In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [15]. Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
 	Sars-Cov-1:
@@ -75,7 +75,7 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 [11]
 
 * Describing the human airway:
-
+[16]
 * Describing spread potential i.e. high effective reproduction numbers in confined settings:
 [15]
 
@@ -212,6 +212,10 @@ Published online in Wiley InterScience (www.interscience.wiley.com). https://doi
    [https://doi.org/10.1016/j.idm.2020.02.003]
 </li>
 <li>
-	
+B O Stuart<strong>
+	Deposition and clearance of inhaled particles.</strong>
+Environ Health Perspect. 1984 Apr; 55: 369–390.
+https://doi.org/10.1289/ehp.8455369
+</li>
 </ol>
 
