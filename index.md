@@ -47,8 +47,8 @@ The aerosol transmission explains well the observed spread patterns of influenza
 	- particles diameter
 	- particles density
 	- breathing volumen and frequency<br><br>
-To estimate to deposited fraction several methods are used:
-	- Model the lung as a static pipe system and do the physics[18]. This some model. An often used such model has been 	done by the International Commission on Radiological Protection (ICRP)[21].
+To estimate the deposited fraction several methods are used:
+	- Model the lung as a static pipe system and do the physics[18]. An often used such model has been done by the International Commission on Radiological Protection (ICRP)[21].
 	- Expermimental settings. A person inhales some test particles and the number of absorbed particles is measured for 	    different volumina breathed. 
 	- Particles based simulations[Citation to be added]. 
 
