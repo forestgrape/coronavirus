@@ -60,24 +60,23 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 
 * Describing that some coronaviruses enter via the apical surface:
 [3](HCov 229E, uses a different receptor however cell entry side is likely more conserved)
-
 * Describing the viral distribution across the organs:
 [5] (SARS-Cov-1), [6] (SARS-Cov-1),[14]
 * Describing clinal findings which are most notable in the lung
-
 * Describing that a relevant number of patients has only an increase in temperature below 38 degrees and so if fever is defined as a temperature above 38 no fever:
 [7], [10]
-
 * Describing aerosol transmission in the case of influenza:
 [8]
-
 * Describing that dry spreading is possible:
 [11]
-
-* Describing the human airway:
-[16]
 * Describing spread potential i.e. high effective reproduction numbers in confined settings:
 [15]
+* Describing the human airway:
+[16],[17]
+* Describing particle deposition in the human airway
+[18]
+
+
 
 
 <ol>
@@ -217,5 +216,17 @@ B O Stuart<strong>
 Environ Health Perspect. 1984 Apr; 55: 369–390.
 https://doi.org/10.1289/ehp.8455369
 </li>
+<li>
+	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
+	<strong>Chaotic mixing deep in the lung.</strong>
+	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15.
+	https://doi.org/10.1073/pnas.102318299
+</li>
+<li>
+	Fishler, R., Hofemeier, P., Etzion, Y. et al. 
+	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
+	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
+</li>
+	
 </ol>
 
