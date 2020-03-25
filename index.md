@@ -40,7 +40,7 @@ The aerosol transmission explains well the observed spread patterns of influenza
 * The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier [16],[17]. 
 	- Droplets mostly don't enter the lung [16],[19]. 
 	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well  	deposited[19] (the Sars-Cov-2 diameter is between 50 and 200 nm [20]. 
-	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells [to be confirmed and citation to be added, work in progress]. 
+	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells [to be confirmed and citation to be added, work in progress]. <br><br>
 	===
 	Conversational remark:
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors. 		Important factors are:
