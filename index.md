@@ -5,16 +5,16 @@
 - Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[10].
 
 ### Abstract
-A new dry form transmission model for betacoronaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability to survive in dry form, this enables the proposed transmission.
-To the transmission models described in literature  for viruses are:
+A new dry form transmission model for betacoronaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability to survive in dry form, this gives makes a dry form transmission possible.
+The transmission models described in literature  for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
 * Aerosols
 
-this new model is added:
+the new model is added:
 * Dry form transmission 
 
-Compared to aerosols, tiny dry particulates can diffuse around (smoke), stay in air even longer and may have a higher lung deposition fraction. 
+Compared to aerosols, tiny dry particulates can diffuse around (smoke), stay in air even longer and may have a higher lung deposition fraction and less clearance. 
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for betacoronaviruses. 
@@ -41,6 +41,16 @@ The aerosol transmission explains well the observed spread patterns of influenza
 	- Droplets mostly don't enter the lung [16],[19]. 
 	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well  	deposited[19] (the Sars-Cov-2 diameter is between 50 and 200 nm [20]. 
 	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells [to be confirmed and citation to be added, work in progress]. 
+	
+Conversational remarks:
+How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors. Important factors are:
+* particles diameter
+* particles density
+* breathing volumen and frequency
+To the author understanding, to estimate to deposited fraction several methods are used:
+* Model the lung as a static pipe system and do the physics[18]. This some model. An often used such model has been done by the International Commission on Radiological Protection (ICRP)[21].
+* Expermimental settings. A person inhales some test particles and the number of absorbed particles is measured for different volumina breathed. 
+* Particles based simulations[Citation to be added]. 
 
 * In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [15]. Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
 	Sars-Cov-1:
@@ -266,5 +276,16 @@ The Lancet, Volume 395, Issue 10223, 507 - 513
 	https://doi.org/10.1016/S0140-6736(20)30211-7
 	</li>
 	
+</ol>
+
+
+### Additional Resources
+
+<ol>
+	<li>
+		The New ICRP Model for the Respiratory Tract
+M.R. Bailey (INVITED)
+Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
+	</li>
 </ol>
 
