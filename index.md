@@ -41,7 +41,7 @@ The aerosol transmission explains well the observed spread patterns of influenza
 	- Droplets mostly don't enter the lung [16],[19]. 
 	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well  	deposited[19] (the Sars-Cov-2 diameter is between 50 and 200 nm [20]. 
 	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells [to be confirmed and citation to be added, work in progress]. 
-	<div testsize=12>
+	===
 	Conversational remark:
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors. 		Important factors are:
 	- particles diameter
@@ -51,7 +51,7 @@ To estimate the deposited fraction several methods are used:
 	- Model the lung as a static pipe system and do the physics[18]. An often used such model has been done by the International Commission on Radiological Protection (ICRP)[21].
 	- Expermimental settings. A person inhales some test particles and the number of absorbed particles is measured for 	    different volumina breathed. 
 	- Particles based simulations[Citation to be added]. 
-	</div>
+	===
 
 * In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [15]. Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
 	Sars-Cov-1:
