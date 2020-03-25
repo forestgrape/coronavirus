@@ -4,6 +4,24 @@
 - Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11]. 
 - Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[10].
 
+### Abrstract
+A new dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability to survive in dry form, this enables the proposed transmission.
+To the transmission models described in literature  for viruses are:
+* Contact (direct and indirect via fomites)
+* Droplets
+* Aerosols
+
+this new model is added:
+* Dry form transmission 
+
+Compared to aerosols, tiny dry particulates can diffuse around (smoke), stay in air even longer and may have a higher lung deposition fraction. 
+
+It is argued 
+* the described properties of dry form transmission explain well the observed transmission patterns for Betacoronaviruses. 
+* the anatomy of the human airway and the entry receptor (ACE2) distribution for Sars-Cov-1/2 suggest that two relevant transmission models for Sars-Cov-1/2 are the aerosol and the dry form. 
+
+Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key are indoor ventilation and wearing in indoor public spaces a mask. 
+
 
 ### Model
 
