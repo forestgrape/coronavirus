@@ -11,7 +11,7 @@
     * avoid excessive caffeine, excessive sport, excessive alcohol ...
     * sleep enough and eat healthy
  
-   Do NOT take Covid-19 lightly: it is often serious in shortterm and if there are possible longterm effects is unknown
+   Do NOT take Covid-19 lightly: it is often serious in shortterm and if there are possible longterm effects is unknown.
 - The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors. But if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is a good idea. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. So:
 - Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the coronavirus [10] (it was shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your freqeuntly washed cloths inside keeps the air humid.  
 - Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[9]. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most common disease. 
