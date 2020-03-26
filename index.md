@@ -6,11 +6,10 @@
     * added Reference [21] showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
 
 ### Public Advice
-- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11]. 
-Ventilate your rooms regularly by opening all windows for 10 minutes. 
-Don't have very dry air inside. Drying your freqeuntly washed cloth inside keeps the air humid.  
+- The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors. But if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is a good idea. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. So:
+- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the coronavirus [11] (it was shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your freqeuntly washed cloths inside keeps the air humid.  
 - Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[10]. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most common disease. 
-- The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors. But if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is a good idea. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. 
+
 
 ### Abstract
 A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary "drive" is needed to devolop this ability.
@@ -51,11 +50,11 @@ The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. A
 	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well  	deposited[19] (the Sars-Cov-2 diameter is between 50 and 200 nm [20]. 
 	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
 	===<br>
-Conversational remarks about how I understand particle deposition models so fare: <br>
+Conversational remarks about how I understand particle deposition models: <br>
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors. 		Important factors are:
-- particles diameter
-- particles density
-- breathing volumen and frequency<br><br>
+- particles properties such as diameter, density, form and material
+- breathing volumen and frequency
+- air humidity and how air is moistened in the lung<br><br>
 
 Generally the modelling the airflow in the lung is quite complicated [22],[24]. 
 To estimate the deposited fraction several methods are used:
