@@ -18,7 +18,7 @@ The transmission models described in literature [a recent recommended review is 
 * Droplets
 * Aerosols
 
-the new model is added:
+this new model is added:
 * Dry form transmission 
 
 Compared to aerosols, tiny dry particulates can diffuse around (smoke), stay in air even longer and may have a higher lung deposition fraction and less clearance. 
