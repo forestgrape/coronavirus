@@ -3,6 +3,7 @@
 ### Recent Updates
 - 26.3.20:  Public Advice
 - 25./26.3.20:  Aerosol and particle inhalation into the lung (more updates on the way)
+    * added Reference [21] showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
 
 ### Public Advice
 - Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11]. 
@@ -12,7 +13,7 @@ Don't have very dry air inside. Drying your freqeuntly washed cloth inside keeps
 - The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors. But if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is a good idea. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. 
 
 ### Abstract
-A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability to survive in dry form, this gives makes a dry form transmission possible.
+A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary "drive" is needed to devolop this ability.
 The transmission models described in literature [a recent recommended review is 22]  for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
@@ -21,7 +22,7 @@ The transmission models described in literature [a recent recommended review is 
 this new model is added:
 * Dry form transmission 
 
-Compared to aerosols, tiny dry particulates can diffuse around (smoke), stay in air even longer and may have a higher lung deposition fraction and less clearance. 
+Compared to aerosols, tiny dry particulates can diffuse around like smoke or better smoke is a collection of tiny dry particulates diffusing around, stay in air even longer and may have a higher lung deposition fraction and less clearance. 
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Betacoronaviruses. 
@@ -42,25 +43,31 @@ Thus the proposed model would also indicate adopting protection measures.
 
 The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
 
-### Observations
+### Evidences
 
-* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier [16],[17]. 
+#### Evidence from Biological Properties
+The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier [16],[17]. 
 	- Droplets mostly don't enter the lung [16],[19]. 
 	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well  	deposited[19] (the Sars-Cov-2 diameter is between 50 and 200 nm [20]. 
-	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells [to be confirmed and citation to be added, work in progress]. <br><br>
+	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
 	===<br>
-	Conversational remark:
+Conversational remarks about how I understand particle deposition models so fare: <br>
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors. 		Important factors are:
-	- particles diameter
-	- particles density
-	- breathing volumen and frequency<br><br>
-Generally the airflow in the lung is quite complicated[17]. 
+- particles diameter
+- particles density
+- breathing volumen and frequency<br><br>
+
+Generally the modelling the airflow in the lung is quite complicated [22],[24]. 
 To estimate the deposited fraction several methods are used:
-	- Model the lung as a static pipe system and do the physics[18]. An often used such model has been done by the International Commission on Radiological Protection (ICRP)[23].
-	- Expermimental settings. A person inhales some test particles and the number of absorbed particles is measured for 	    different volumina breathed. 
-	- Particles based simulations[Citation to be added]. <br>
+- Model the lung as a static pipe system and do the physics[18]. An often used such model has been done by the International Commission on Radiological Protection (ICRP)[23].
+- Expermimental settings. A person inhales some test particles and the number of absorbed particles is measured for different volumina breathed[refernce to be added]
+- Particles based simulations[21]. 
+
+
+<br>
 	===
 
+#### Evidences from the observed Spread Patterns
 * In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [15]. Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
 	Sars-Cov-1:
 	- Hospitals in China [15]
@@ -91,7 +98,7 @@ Remark: The following pieces of evidence are 'in work'.
 As mentioned a good metaphor is avoiding a smoker's smoke or filtering out the soot. So the right indoor ventilation and indoor wearing a mask is key. 
 
 ### References
-Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. 
+Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. References are grouped by topic. In the case where several topics apply, one has been choosen. 
 * Describing that the cell entry point is ACE2:
 [1] (SARS-Cov-1), [2] (SARS-Cov-1), [9] (SARS-Cov-2)
 
@@ -113,8 +120,12 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 [15]
 * Describing the human airway:
 [16],[17]
-* Describing particle deposition in the human airway
+* Describing particle deposition in the human airway on inhale
 [18]
+* Describing particle deposition in the human airway on exhale. This is important both for diagnostic and transmission of Covid-19. 
+[21]
+
+
 
 
 
@@ -191,12 +202,6 @@ February 24, 2020
 https://doi.org/10.1016/S1473-3099(20)30086-4
 </li>
 <li>
-    Raymond Tellier <strong>
-    Review of Aerosol Transmission of
-    Influenza A Virus</strong>
-Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2006
-    </li>
-<li>
     Markus Hoffmann, Hannah Kleine-Weber,
 Simon Schroeder, ..., Marcel A. Müller,
 Christian Drosten, Stefan Pöhlmann
@@ -256,18 +261,50 @@ B O Stuart<strong>
 Environ Health Perspect. 1984 Apr; 55: 369–390.
 https://doi.org/10.1289/ehp.8455369
 </li>
+
+
 <li>
-	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
-	<strong>Chaotic mixing deep in the lung.</strong>
-	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15.
-	https://doi.org/10.1073/pnas.102318299
-</li>
-<li>
-	Fishler, R., Hofemeier, P., Etzion, Y. et al. 
-	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
-	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
+	Chen, Nanshan et al.
+	<strong>Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study</strong>
+The Lancet, Volume 395, Issue 10223, 507 - 513
+	https://doi.org/10.1016/S0140-6736(20)30211-7
 </li>
 
+
+	
+</ol>
+
+
+#### Transmission Models of Diseases
+<ol start=18>
+<li>
+    Raymond Tellier <strong>
+    Review of Aerosol Transmission of
+    Influenza A Virus</strong>
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2006
+    </li>
+<li> 
+	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
+	<strong>Transmission routes of respiratory viruses among humans.</strong>
+	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
+</li>
+</ol>
+
+
+####  Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation
+
+<ol start=20>
+<li>
+		The New ICRP Model for the Respiratory Tract
+M.R. Bailey (INVITED)
+Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
+	</li>
+    
+<li>
+	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
+	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/260. 10.1016/j.resp.2018.11.003. 
+    </li>
+    
 <li>Paul Baron
 	<strong>
 	Generation and Behavior
@@ -277,35 +314,20 @@ Division of Applied Technology
 National Institute for Occupational Safety and Health
 Centers for Disease Control and Prevention
 	https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
-
-<li>
-	Chen, Nanshan et al.
-	<strong>Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study</strong>
-The Lancet, Volume 395, Issue 10223, 507 - 513
-	https://doi.org/10.1016/S0140-6736(20)30211-7
-	</li>
-
-<li>
-	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
-	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/260. 10.1016/j.resp.2018.11.003. 
+    </li>
+    <li>
+	Fishler, R., Hofemeier, P., Etzion, Y. et al. 
+	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
+	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
+</li>
+    <li>
+	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
+	<strong>Chaotic mixing deep in the lung.</strong>
+	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15.
+	https://doi.org/10.1073/pnas.102318299
 </li>
 
-<li> 
-	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
-	<strong>Transmission routes of respiratory viruses among humans.</strong>
-	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
-</li>
-	
 </ol>
 
-
-### Additional Resources
-
-<ol start=23>
-	<li>
-		The New ICRP Model for the Respiratory Tract
-M.R. Bailey (INVITED)
-Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
-	</li>
-</ol>
-
+<!-- 
+ -->
