@@ -13,7 +13,7 @@ Don't have very dry air inside. Drying your freqeuntly washed cloth inside keeps
 
 ### Abstract
 A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability to survive in dry form, this gives makes a dry form transmission possible.
-The transmission models described in literature  for viruses are:
+The transmission models described in literature [a recent recommended review is 22]  for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
 * Aerosols
