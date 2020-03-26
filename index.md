@@ -277,15 +277,13 @@ https://doi.org/10.1289/ehp.8455369
 	<strong>Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study</strong>
 The Lancet, Volume 395, Issue 10223, 507 - 513
 	https://doi.org/10.1016/S0140-6736(20)30211-7
+	
+	
+	
+	
+<br><br><strong> Transmission Models of Diseases</strong>
 </li>
 
-
-	
-</ol>
-
-
-<li><strong> Transmission Models of Diseases</strong></li>
-<ol start=18>
 <li>
     Raymond Tellier <strong>
     Review of Aerosol Transmission of
@@ -296,16 +294,16 @@ Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2
 	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
 	<strong>Transmission routes of respiratory viruses among humans.</strong>
 	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
-</li>
 
 
-<li>
-<strong>  Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
+
+<br><br><strong>  	Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 </li>
+
 
 <li>
 		The New ICRP Model for the Respiratory Tract
-M.R. Bailey (INVITED)
+M.R. Bailey 
 Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
 	</li>
     
