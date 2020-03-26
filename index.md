@@ -56,7 +56,7 @@ The aerosol transmission explains well the observed spread patterns of influenza
 	- breathing volumen and frequency<br><br>
 Generally the airflow in the lung is quite complicated[17]. 
 To estimate the deposited fraction several methods are used:
-	- Model the lung as a static pipe system and do the physics[18]. An often used such model has been done by the International Commission on Radiological Protection (ICRP)[21].
+	- Model the lung as a static pipe system and do the physics[18]. An often used such model has been done by the International Commission on Radiological Protection (ICRP)[23].
 	- Expermimental settings. A person inhales some test particles and the number of absorbed particles is measured for 	    different volumina breathed. 
 	- Particles based simulations[Citation to be added]. <br>
 	===
@@ -301,7 +301,7 @@ The Lancet, Volume 395, Issue 10223, 507 - 513
 
 ### Additional Resources
 
-<ol start=21>
+<ol start=23>
 	<li>
 		The New ICRP Model for the Respiratory Tract
 M.R. Bailey (INVITED)
