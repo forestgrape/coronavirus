@@ -9,6 +9,7 @@
 ### Public Advice
 - Live a healthy lifestyle 
     * sleep enough, eat healthy and do a little sport
+    
   and especially avoid anything that weakens your immunsystem:
     * avoid excessive caffeine, excessive sport, excessive alcohol ...
  
