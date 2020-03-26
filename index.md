@@ -12,7 +12,7 @@ Don't have very dry air inside. Drying your freqeuntly washed cloth inside keeps
 - The coronavirus transmission can be smoke like. A neighbours candle won't harm. But if you are at a place with an indoor barbecue (many infected people coughing), wearing a mask is a good idea. 
 
 ### Abstract
-A new dry form transmission model for betacoronaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability to survive in dry form, this gives makes a dry form transmission possible.
+A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability to survive in dry form, this gives makes a dry form transmission possible.
 The transmission models described in literature  for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
@@ -24,7 +24,7 @@ the new model is added:
 Compared to aerosols, tiny dry particulates can diffuse around (smoke), stay in air even longer and may have a higher lung deposition fraction and less clearance. 
 
 It is argued 
-* the described properties of dry form transmission explain well the observed transmission patterns for betacoronaviruses. 
+* the described properties of dry form transmission explain well the observed transmission patterns for Betacoronaviruses. 
 * the anatomy of the human airway and the entry receptor (ACE2) distribution for Sars-Cov-1/2 suggest that two relevant transmission models for Sars-Cov-1/2 are the aerosol and the dry form. 
 
 Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key are indoor ventilation and wearing in indoor public spaces a mask. 
@@ -40,11 +40,11 @@ When avoiding the influenza aerosol spread is avoiding somebody’s reek of alco
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 Thus the proposed model would also indicate adopting protection measures.
 
-The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed betacoronaviruses spread patterns than the aerosol model:
+The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
 
 ### Observations
 
-* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier [16],[17]. 
+* The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier [16],[17]. 
 	- Droplets mostly don't enter the lung [16],[19]. 
 	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well  	deposited[19] (the Sars-Cov-2 diameter is between 50 and 200 nm [20]. 
 	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells [to be confirmed and citation to be added, work in progress]. <br><br>
