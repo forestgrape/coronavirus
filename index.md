@@ -25,7 +25,7 @@ Compared to aerosols, tiny dry particulates can diffuse around (smoke), stay in 
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Betacoronaviruses. 
-* the anatomy of the human airway and the entry receptor (ACE2) distribution for Sars-Cov-1/2 suggest that two relevant transmission models for Sars-Cov-1/2 are the aerosol and the dry form. 
+* the anatomy of the human airway and the entry receptor (ACE2) distribution for Sars-Cov-1/2 suggest that the two most relevant transmission models for Sars-Cov-1/2 are the aerosol and the dry form. 
 
 Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key are indoor ventilation and wearing in indoor public spaces a mask. 
 
