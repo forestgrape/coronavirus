@@ -9,7 +9,7 @@
 ### Public Advice
 - Live a healthy lifestyle and especially avoid anything that weakens your immunsystem:
     * avoid excessive caffeine, excessive sport, excessive alcohol ...
-    * sleep enough and eat healthy
+    * sleep enough, eat healthy and do a little sport
  
    Do NOT take Covid-19 lightly: it is often serious in shortterm and if there are possible longterm effects is unknown.
 - The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors. But if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is a good idea. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. So:
