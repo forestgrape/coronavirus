@@ -1,5 +1,8 @@
 ## Proposal of a Dry Form Transmission Model for the Betacoronavirus
 
+### Note
+If the page is not shown correctly watch on https://github.com/forestgrape/coronavirus/blob/master/index.md
+
 ### Recent Updates
 - 26.3.20:  Public Advice
 - 25./26.3.20:  Aerosol and particle inhalation into the lung (more updates on the way)
