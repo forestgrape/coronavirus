@@ -4,16 +4,23 @@
 - 26.3.20:  Public Advice
 - 25./26.3.20:  Aerosol and particle inhalation into the lung (more updates on the way)
     * added Reference [21] showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
+- 26.3.20: References grouped by topic, References are redone at the moment the may not all point right
 
 ### Public Advice
+- Live a healthy lifestyle and especially avoid anything that weakens your immunsystem:
+    * avoid excessive caffeine, excessive sport, excessive alcohol ...
+    * sleep enough and eat healthy
+ 
+   Do NOT take Covid-19 lightly: it is often serious in shortterm and if there are possible longterm effects is unknown
 - The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors. But if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is a good idea. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. So:
-- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the coronavirus [11] (it was shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your freqeuntly washed cloths inside keeps the air humid.  
-- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[10]. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most common disease. 
+- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the coronavirus [10] (it was shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your freqeuntly washed cloths inside keeps the air humid.  
+- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[9]. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most common disease. 
 
+ 
 
 ### Abstract
 A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary "drive" is needed to devolop this ability.
-The transmission models described in literature [a recent recommended review is 22]  for viruses are:
+The transmission models described in literature [a recent recommended review is 19]  for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
 * Aerosols
@@ -32,9 +39,9 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 ### Model
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to tiny dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol[8] or the droplets spread model. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to tiny dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol[18] or the droplets spread model. 
 
-In their very illustrative paper [11] Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
+In their very illustrative paper [10] Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
 
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
