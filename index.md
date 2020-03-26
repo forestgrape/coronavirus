@@ -284,7 +284,7 @@ The Lancet, Volume 395, Issue 10223, 507 - 513
 </ol>
 
 
-#### Transmission Models of Diseases
+<li><strong> Transmission Models of Diseases</strong></li>
 <ol start=18>
 <li>
     Raymond Tellier <strong>
@@ -297,12 +297,12 @@ Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2
 	<strong>Transmission routes of respiratory viruses among humans.</strong>
 	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
 </li>
-</ol>
 
 
-####  Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation
+<li>
+<strong>  Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
+</li>
 
-<ol start=20>
 <li>
 		The New ICRP Model for the Respiratory Tract
 M.R. Bailey (INVITED)
