@@ -284,6 +284,17 @@ Centers for Disease Control and Prevention
 The Lancet, Volume 395, Issue 10223, 507 - 513
 	https://doi.org/10.1016/S0140-6736(20)30211-7
 	</li>
+
+<li>
+	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
+	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/260. 10.1016/j.resp.2018.11.003. 
+</li>
+
+<li> 
+	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
+	<strong>Transmission routes of respiratory viruses among humans.</strong>
+	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
+</li>
 	
 </ol>
 
