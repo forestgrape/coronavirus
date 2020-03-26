@@ -1,5 +1,9 @@
 ## Proposal of a Dry Form Transmission Model for the Betacoronavirus
 
+### Recent Updates
+- 26.3.20:  Public Advice
+- 25./26.3.20:  Aerosol and particle inhalation into the lung (more updates in the next hour)
+
 ### Public Advice
 - Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the Sars-Cov-1 virus [11]. 
 Ventilate your rooms regularly by opening all windows for 10 minutes. 
