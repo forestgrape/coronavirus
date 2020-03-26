@@ -9,7 +9,7 @@
 Ventilate your rooms regularly by opening all windows for 10 minutes. 
 Don't have very dry air inside. Drying your freqeuntly washed cloth inside keeps the air humid.  
 - Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[10]. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most common disease. 
-- Think the coronavirus transmission smoke like. A neighbours candle won't harm. But if you are at a place with an indoor barbecue (many infected people coughing), wearing a mask is a good idea. 
+- The coronavirus transmission can be smoke like. A neighbours candle won't harm. But if you are at a place with an indoor barbecue (many infected people coughing), wearing a mask is a good idea. 
 
 ### Abstract
 A new dry form transmission model for betacoronaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability to survive in dry form, this gives makes a dry form transmission possible.
