@@ -125,7 +125,7 @@ As mentioned a good metaphor is avoiding a smoker's smoke or filtering out the s
 
 ### References
 Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. References are grouped by topic. In the case where several topics apply, one has been choosen. 
-Instead of numbered the references are named by the correspondence author. 
+Instead of numbered the references are named by the correspondence author (lowercase needed due to the way github pages works). 
 
 <!--
 to be updated
