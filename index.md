@@ -2,7 +2,6 @@
 
 ### Note
 * If the page is not shown correctly read on https://github.com/forestgrape/coronavirus/blob/master/index.md
-* References have been redone; they should point right
 
 ### Recent Updates
 - 27.3.20: Clarifications and more references added.
