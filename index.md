@@ -65,7 +65,7 @@ Thus the proposed model would also indicate adopting protection measures.
 ### Evidences
 
 #### Evidence from Biological Properties
-The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is conistent with the viral loads observed in different part of the body: The only location where all patients had viral loads was the lung [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
+The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is conistent with the viral loads observed in different part of the body: The only location where all patients had viral loads was the lung [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
 
 From the above argumentation lung entry for Sars-Cov-1/2 is crucial for infection. 
 The physiology of the airways is such that particles are absorbed as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [KL](#kleinstreuer). 
@@ -99,7 +99,7 @@ The aerosol transmission explains well the observed spread patterns of influenza
 * In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
 	Sars-Cov-1:
 	- Hospitals in China [Mizumoto](#mizumoto)
-	- Hotel in Hong Kong [14]
+	- Hotel in Hong Kong, especially during cooler outside temperatures [lin](#lin), [chan](#chan)
 	
 	Sars-Cov-2:
 	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto)
@@ -263,17 +263,7 @@ to be updated
 	https://doi.org/10.1016/j.cell.2020.02.052
  
 
-* ##### timens
-	I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
-	<strong> Tissue distribution of ACE2 protein, the functional
-	receptor for SARS coronavirus. A first step in
-	understanding SARS pathogenesis</strong>
-	Journal of Pathology
-	J Pathol 2004; 203: 631–637
-	Published online in Wiley InterScience
-	https://doi.org/10.1002/path.1570
- 
-
+### Enviromental Factors on Betacoronaviruses
 
 * ##### chan
 	K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
@@ -283,7 +273,23 @@ to be updated
 	Advances in Virology
 	Volume 2011, Article ID 734690, 7 pages
 	https://doi.org/10.1155/2011/734690
+    
+    
+* ##### lin
+    LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection. Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054
 
+### Expression Locations of ACE2
+* ##### timens
+	I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
+	<strong> Tissue distribution of ACE2 protein, the functional
+	receptor for SARS coronavirus. A first step in
+	understanding SARS pathogenesis</strong>
+	Journal of Pathology
+	J Pathol 2004; 203: 631–637
+	Published online in Wiley InterScience
+	https://doi.org/10.1002/path.1570
+    
+    
     
     
 ### Epidemiological Patterns
