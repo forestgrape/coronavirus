@@ -5,14 +5,16 @@
 * References have been redone; they should point right
 
 ### Recent Updates
+- 27.3.20: Clarifications and more references added.
 - 27.3.20: References redone. Named by correspondence author instead of numbered. 
 - 26.3.20:  Public Advice extended and clarified. 
 - 25./26.3.20:  Corrected and looked up aerosol/particulate inhalation. 
-    In the first version I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. There are two mistakes:
-    1. The evolutionary roots of the lung are the alimentary system. Substances coming in were just cleared down. As we often do too, evolution usually rather than rebuilding from scratch it gradually bends things right.  
-    2. The lungs developped before we were upright and in the original case the clearance of of aerosols is early and very good [Kleinstreuer](#kleinstreuer). Ciliate movement works even uphill as every ski tourer knows. But there are limits, so a "workaround" evolved: clearance by macrophages.  
-* added Reference [Kleinstreuer](#kleinstreuer) showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
+    In the first version I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
+    1. The evolutionary roots of the lung are the alimentary system, so substances coming in were just cleared down. Even as lung and alimentary separated this stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
+    2. The lungs developped before we were upright and in the original case the clearance of of aerosols is early and very good; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans smallest particulates are cleared by macrophages [citation to be added].  
+* added References describing particle deposition and clearance in the lung. Some e.g. [Kleinstreuer](#kleinstreuer) are showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
 - 26.3.20: References grouped by topic
+- 25.3.20: Abstract added
 
 ### Public Advice
 Do NOT take Covid-19 lightly: it can be very serious in shortterm and if there are possible longterm effects is unknown.  
@@ -72,8 +74,10 @@ The physiology of the airways is such that particles are absorbed as early as po
 	- Droplets mostly don't enter the lung.
 	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm [citation to be added]. 
 	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
-	===<br>
-Conversational remarks about how I understand particle deposition models: <br>
+    
+=====
+#### Intermezzo Particle Deposition and Clearance in the Lung
+Conversational remarks about how I understand particle deposition models. <br>
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors. 		Important factors are:
 - particles properties such as diameter, density, form and material
 - breathing volumen and frequency
@@ -81,15 +85,14 @@ Conversational remarks about how I understand particle deposition models: <br>
 
 Generally the modelling the airflow in the lung is complicated [Tsuda](#tsuda),[Stuart](#stuart). 
 To estimate the deposited fraction several methods are used:
-- Model the lung as a static pipe system and do the physics [Stuart](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey](#bailey).
+- Model the lung as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). Mostly this methods yields some complicated differential equations which are solved/simulated with a computer based approach e.g. Monte Carlo methods. 
+- Particles based computer simulations. [Kleinstreuer et al](#kleinstreuer) used this methods to compare the deposited particulates on in/exhalation between mice and humans.
 - Expermimental in vivo settings:
-    * A person inhales some test particles and the number of absorbed particles is measured for different volumina inhaled. For small volumina the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased and the adsorbed particles measured again, the previous result is substracted and the remaining adsorbtion is the next deeper lung part  [refernce to be added].
+    * A person inhales some test particles and the number of absorbed particles is measured for different volumina inhaled. For small volumina the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is substracted and the remaining adsorbtion is the next deeper lung part  [refernce to be added].
     * Experimental data on regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separtion can be done by measuring the particle clearance kinetics during the first few days after inhalation.
-- Particles based simulations [Kleinstreuer](#kleinstreuer). 
+- Expermental in vitro setting:
 
-
-<br>
-	===
+=====
     
     
 #### Evidences from the observed Spread Patterns
@@ -128,7 +131,9 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 Instead of numbered the references are named by the correspondence author. 
 
 <!--
-to be updated
+
+TODO UPDATE REFERENCES
+
 * Describing that the cell entry point is ACE2:
 [1] (SARS-Cov-1), [2] (SARS-Cov-1), [9] (SARS-Cov-2)
 
@@ -163,7 +168,6 @@ to be updated
 * ##### zhang
     Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in    Wuhan, China: a descriptive study <br>Chen, Nanshan et al. <br>The Lancet, Volume 395, Issue 10223, 507 - 513
     https://doi.org/10.1016/S0140-6736(20)30211-7
-  
 
 * ##### zaki
     Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,
@@ -175,7 +179,6 @@ to be updated
     coronavirus in lung of a fatal case of severe acute
     respiratory syndrome in Taiwan</strong>Human Pathology (2005) 36, 303 – 309
     https://doi.org/10.1016/j.humpath.2004.11.006  
- 
 
 * ##### shi
     Heshui Shi*, Xiaoyu Han*, Nanchuan Jiang*, Yukun Cao, Osamah Alwalid, Jin Gu, Yanqing Fan†, Chuansheng Zheng†
@@ -186,29 +189,24 @@ to be updated
     February 24, 2020
     https://doi.org/10.1016/S1473-3099(20)30086-4
  
-
 * ##### farcas
     Farcas GA, Poutanen SM, Mazzulli T, Willey BM, Butany J,
     Asa SL, Faure P, Akhavan P, Low DE, Kain KC: <strong>Fatal severe
     acute respiratory syndrome is associated with multiorgan
     involvement by coronavirus.</strong> J Infect Dis 2005, 191:193-197
     https://doi.org/10.1086/426870
- 
 
 * ##### peiris
     J S M Peiris, Y Guan, K Y Yuen
     <strong>Severe acute respiratory syndrom</strong>
     nature medicine, 30 November 2004
     https://doi.org/10.1038/nm1143
- 
-
 
 * ##### wong
      SARS-CoV-2 Infection in Children</strong>
      This letter was published on March 18, 2020, at NEJM.org.
      https://doi.org/10.1056/NEJMc2005073
-   
-   
+     
     
 ### Biology of Coronaviruses 
 
@@ -221,7 +219,6 @@ to be updated
 	in SARS coronavirus–induced lung injury </strong>
 	NATURE MEDICINE VOLUME 11 | NUMBER 8 | AUGUST 2005
 	https://doi.org/10.1038/nm1267
- 
     
 * ##### lif
 	Wan Y, Shang J, Graham R, Baric RS, Li F.
@@ -230,9 +227,7 @@ to be updated
 	structural studies of SARS. </strong>
 	J Virology 2020;
 	published online Jan 29. .
-	https://doi.org/10.1128/JVI.00127-20
- 
-
+	https://doi.org/10.1128/JVI.00127-20 
 
 * ##### mccray
 	GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
@@ -243,14 +238,11 @@ to be updated
 	JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
 	https://doi.org/10.1128/jvi.74.19.9234-9239.2000
     
-
 * ##### lau
 	Yu Lung Lau and JS Malik Peiris <strong>Pathogenesis of severe acute respiratory syndrome</strong>
 	Current Opinion in Immunology 2005, 17:404–410
 	https://doi.org/10.1016/j.coi.2005.05.009
  
-    
-
 * ##### hoffmann
 	Markus Hoffmann, Hannah Kleine-Weber,
 	Simon Schroeder, ..., Marcel A. Müller,
@@ -272,13 +264,14 @@ to be updated
 	Hindawi Publishing Corporation
 	Advances in Virology
 	Volume 2011, Article ID 734690, 7 pages
-	https://doi.org/10.1155/2011/734690
-    
+	https://doi.org/10.1155/2011/734690   
     
 * ##### lin
     LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection. Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054
 
+
 ### Expression Locations of ACE2
+
 * ##### timens
 	I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
 	<strong> Tissue distribution of ACE2 protein, the functional
@@ -287,20 +280,16 @@ to be updated
 	Journal of Pathology
 	J Pathol 2004; 203: 631–637
 	Published online in Wiley InterScience
-	https://doi.org/10.1002/path.1570
-    
-    
+	https://doi.org/10.1002/path.1570    
     
     
 ### Epidemiological Patterns
     
-
 *  ##### le
 	The Lancet Editoral<strong>
 	COVID-19: protecting health-care workers</strong>
 	www.thelancet.com Vol 395 March 21, 2020
 	https://doi.org/10.1016/S0140-6736(20)30644-9 
-
 
 *  ##### mizumoto 
 	Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on    board the diamond Princess Cruises Ship, 2020</strong>
@@ -308,7 +297,6 @@ to be updated
   
     
 ### Transmission and Infection of  Respiratory Viruses</strong>
-
 
 * ##### kikkert
 	Marjolein Kikkert
@@ -327,14 +315,13 @@ to be updated
 	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
 
 
-
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
 * ##### stuart
-	B O Stuart<strong>
-	Deposition and clearance of inhaled particles.</strong>
-	Environ Health Perspect. 1984 Apr; 55: 369–390.
-	https://doi.org/10.1289/ehp.8455369
+    B O Stuart<strong>
+    Deposition and clearance of inhaled particles.</strong>
+    Environ Health Perspect. 1984 Apr; 55: 369–390.
+    https://doi.org/10.1289/ehp.8455369
 
 * ##### bailey
 	The New ICRP Model for the Respiratory Tract
@@ -344,8 +331,7 @@ to be updated
 * ##### kleinstreuer
 	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
 	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
-   
-   
+    
 * ##### baron
 	Paul Baron<strong>
 	Generation and Behavior
@@ -353,13 +339,11 @@ to be updated
 	Division of Applied Technology
 	National Institute for Occupational Safety and Health
 	Centers for Disease Control and Prevention      https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
-    
-    
+       
 * ##### sznitman
 	Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
 	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
 	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
-
 
 * ##### tsuda
 	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
