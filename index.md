@@ -9,35 +9,35 @@
 - 27.3.20: References redone. Named by correspondence author instead of numbered. 
 - 26.3.20:  Public Advice extended and clarified. 
 - 25./26.3.20:  Corrected and looked up aerosol/particulate inhalation. 
-    In the first version I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
+    In the first version, I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
     1. The evolutionary roots of the lung are the alimentary system, so substances coming in were just cleared down. Even as lung and alimentary separated this stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
-    2. The lungs developped before we were upright and in the original case the clearance of of aerosols is early and very good; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans smallest particulates are cleared by macrophages [citation to be added].  
+    2. The lungs developed before we were upright and in the original case the clearance of aerosols is early and very good; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
 * 25./26./27. added References describing particle deposition and clearance in the lung. Some e.g. [Kleinstreuer](#kleinstreuer) are showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
 - 26.3.20: References grouped by topic
 - 25.3.20: Abstract added
 
 ### Public Advice
-Do NOT take Covid-19 lightly: it can be very serious in shortterm and if there are possible longterm effects is unknown.  
+Do NOT take Covid-19 lightly: it can be very serious in short-term and if there are possible long-term effects is unknown.  
    
-- The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. 
+- The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. 
 
-- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your freqeuntly washed cloths inside keeps the air humid.  
+- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your frequently washed cloths inside keeps the air humid.  
 
 - Keep proper hygiene.
 
 - Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#zhang), [Wong](#wong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most common disease. 
 
 - Live a healthy lifestyle 
-    * sleep enough, eat healthy and do some sport
+    * sleep enough, eat healthily and do some sport
     
-    and avoid anything that weakens your immunsystem:
+    and avoid anything that weakens your immun system:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
 
  
 
 ### Abstract
-A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to devolop this ability.
-The transmission models described in literature (a recent recommended review is [Herfst](#herfst)  for viruses are:
+A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
+The transmission models described in the literature (a recent recommended review is [Herfst](#herfst)  for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
 * Aerosols
@@ -45,13 +45,13 @@ The transmission models described in literature (a recent recommended review is 
 this new model is added:
 * Dry form transmission 
 
-Compared to aerosols, tiny dry particulates can diffuse around like smoke - actually smoke is a collection of tiny dry particulates diffusing around - , stay in air even longer and may have a higher lung deposition fraction and less clearance. 
+Compared to aerosols, tiny dry particulates can diffuse around like smoke - smoke is a collection of tiny dry particulates diffusing around -, stay in the air even longer and may have a higher lung deposition fraction and less clearance. 
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Betacoronaviruses. 
 * the anatomy of the human airway and the entry receptor (ACE2) distribution for Sars-Cov-1/2 suggest that the two most relevant transmission models for Sars-Cov-1/2 are the aerosol and the dry form. 
 
-Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key are indoor ventilation and wearing in indoor public spaces a mask. 
+Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key is indoor ventilation and wearing in indoor public spaces a mask. 
 
 
 ### Model
@@ -60,19 +60,19 @@ In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
 
-When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
+When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 Thus the proposed model would also indicate adopting protection measures.
 
-### Evidences
+### Evidence for Dry Form Transmission
 
 #### Evidence from Biological Properties
-The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is conistent with the viral loads observed in different part of the body: The only location where all patients had viral loads was the lung [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
+The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads was the lung [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
 
 From the above argumentation lung entry for Sars-Cov-1/2 is crucial for infection. 
 The physiology of the airways is such that particles are absorbed as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [KL](#kleinstreuer). 
 	- Droplets mostly don't enter the lung.
-	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm [citation to be added]. 
+	- Aerosols that are smaller than 10 μm [KL](#kleinstreuer) can enter the lung. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm [citation to be added]. 
 	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
     
 =====
@@ -80,22 +80,22 @@ The physiology of the airways is such that particles are absorbed as early as po
 Conversational remarks about how I understand particle deposition models. <br>
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors. 		Important factors are:
 - particles properties such as diameter, density, form and material
-- breathing volumen and frequency
+- breathing volume and frequency
 - air humidity and how air is moistened in the lung[citation to be added]<br><br>
 
-Generally the modelling the airflow in the lung is complicated [Tsuda](#tsuda),[Stuart](#stuart). 
+Modeling or expermentally determine the airflow in the lung is complicated [Tsuda](#tsuda),[Stuart](#stuart). 
 To estimate the deposited fraction several methods are used:
-- Model the lung as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). Mostly this methods yields some complicated differential equations which are solved/simulated with a computer based approach e.g. Monte Carlo methods. 
-- Particles based computer simulations. [Kleinstreuer et al](#kleinstreuer) used this methods to compare the deposited particulates on in/exhalation between mice and humans.
-- Expermimental in vivo settings:
-    * A person inhales some test particles and the number of absorbed particles is measured for different volumina inhaled. For small volumina the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is substracted and the remaining adsorbtion is the next deeper lung part  [refernce to be added].
-    * Experimental data on regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separtion can be done by measuring the particle clearance kinetics during the first few days after inhalation.
-- Expermental in vitro setting:
+- Model the lung as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). This method yields some complicated differential equations which are solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
+- Particles based computer simulations. [Kleinstreuer et al](#kleinstreuer) used this method to compare the deposited particulates on in/exhalation between mice and humans.
+- Experimental in vivo settings:
+    * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
+    * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation.
+- Experimental in vitro setting: [sznitman](#sznitman). 
 
 =====
     
     
-#### Evidences from the observed Spread Patterns
+#### Evidence from the observed Spread Patterns
 
 The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
 
@@ -116,7 +116,7 @@ The primary spreading in very dry (indoor) areas would also explain why the desc
 	* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
 	* 2019/2020 in Europe - Italy especially [LE](#le)<br>
 	
-	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask could possibly reduce the infection rates (there many cities in China reported few infections in hospitals \[citation to be added]).
+	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals \[citation to be added]).
 #### Further evidences
 Remark: The following pieces of evidence are 'in work'. 
 * In humid and warm temperature environments (above 33 degrees) there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselfs within aerosols. In this case an aerosol like spreading pattern with no super-spreading events would be expected. 
