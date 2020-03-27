@@ -2,7 +2,7 @@
 
 ### Note
 * If the page is not shown correctly read on https://github.com/forestgrape/coronavirus/blob/master/index.md
-* References are redone at the moment they may not all point right
+* References have been redone; they should point right
 
 ### Recent Updates
 - 27.3.20: References instead of numbered named by correspondence author. 
@@ -99,7 +99,7 @@ The aerosol transmission explains well the observed spread patterns of influenza
 * In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
 	Sars-Cov-1:
 	- Hospitals in China [Mizumoto](#mizumoto)
-	- Hotel in Hong Kong, especially during cooler outside temperatures [lin](#lin), [chan](#chan)
+	- Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan)
 	
 	Sars-Cov-2:
 	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto)
@@ -125,7 +125,7 @@ As mentioned a good metaphor is avoiding a smoker's smoke or filtering out the s
 
 ### References
 Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. References are grouped by topic. In the case where several topics apply, one has been choosen. 
-Instead of numbered the references are named by the correspondence author (lowercase needed due to the way github pages works). 
+Instead of numbered the references are named by the correspondence author. 
 
 <!--
 to be updated
