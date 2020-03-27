@@ -212,76 +212,76 @@ Instead of numbered the references are named by the correspondence author.
 ### Biology of Coronaviruses 
 
 * ##### Jiang
-    Keiji Kuba , Yumiko Imai, Shuan Rao, Hong Gao, Feng Guo, Bin Guan, Yi Huan, Peng Yang,
-    Yanli Zhang, Wei Deng, Linlin Bao, Binlin Zhang, Guang Liu, Zhong Wang, Mark Chappell,
-    Yanxin Liu, Dexian Zheng, Andreas Leibbrandt, Teiji Wada, Arthur S Slutsky, Depei Liu, Chuan Qin,
-    Chengyu Jiang & Josef M Penninger1<br>
-    <strong>A crucial role of angiotensin converting enzyme 2 (ACE2)
-    in SARS coronavirus–induced lung injury </strong>
-    NATURE MEDICINE VOLUME 11 | NUMBER 8 | AUGUST 2005
-    https://doi.org/10.1038/nm1267
+	Keiji Kuba , Yumiko Imai, Shuan Rao, Hong Gao, Feng Guo, Bin Guan, Yi Huan, Peng Yang,
+	Yanli Zhang, Wei Deng, Linlin Bao, Binlin Zhang, Guang Liu, Zhong Wang, Mark Chappell,
+	Yanxin Liu, Dexian Zheng, Andreas Leibbrandt, Teiji Wada, Arthur S Slutsky, Depei Liu, Chuan Qin,
+	Chengyu Jiang & Josef M Penninger1<br>
+	<strong>A crucial role of angiotensin converting enzyme 2 (ACE2)
+	in SARS coronavirus–induced lung injury </strong>
+	NATURE MEDICINE VOLUME 11 | NUMBER 8 | AUGUST 2005
+	https://doi.org/10.1038/nm1267
  
     
 * ##### LiF
-    Wan Y, Shang J, Graham R, Baric RS, Li F.
-    <strong>Receptor recognition by novel coronavirus from
-    Wuhan: An analysis based on decade-long
-    structural studies of SARS. </strong>
-    J Virology 2020;
-    published online Jan 29. .
-    https://doi.org/10.1128/JVI.00127-20
+	Wan Y, Shang J, Graham R, Baric RS, Li F.
+	<strong>Receptor recognition by novel coronavirus from
+	Wuhan: An analysis based on decade-long
+	structural studies of SARS. </strong>
+	J Virology 2020;
+	published online Jan 29. .
+	https://doi.org/10.1128/JVI.00127-20
  
 
 
 * ##### McCray
-    GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
-    DIANNA M. BLAU,3 KATHRYN V. HOLMES,3 BEVERLY L. DAVIDSON,4 STANLEY PERLMAN,1,5
-    AND PAUL B. MCCRAY, JR.1
-    <strong>Human Coronavirus 229E Infects Polarized Airway Epithelia
-    from the Apical Surface</strong>
-    JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
-    https://doi.org/10.1128/jvi.74.19.9234-9239.2000
+	GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
+	DIANNA M. BLAU,3 KATHRYN V. HOLMES,3 BEVERLY L. DAVIDSON,4 STANLEY PERLMAN,1,5
+	AND PAUL B. MCCRAY, JR.1
+	<strong>Human Coronavirus 229E Infects Polarized Airway Epithelia
+	from the Apical Surface</strong>
+	JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
+	https://doi.org/10.1128/jvi.74.19.9234-9239.2000
     
 
 * ##### Lau
-    Yu Lung Lau and JS Malik Peiris <strong>Pathogenesis of severe acute respiratory syndrome</strong>
-    Current Opinion in Immunology 2005, 17:404–410
-    https://doi.org/10.1016/j.coi.2005.05.009
+	Yu Lung Lau and JS Malik Peiris <strong>Pathogenesis of severe acute respiratory syndrome</strong>
+	Current Opinion in Immunology 2005, 17:404–410
+	https://doi.org/10.1016/j.coi.2005.05.009
  
     
 
 * ##### Hoffmann
-    Markus Hoffmann, Hannah Kleine-Weber,
-    Simon Schroeder, ..., Marcel A. Müller,
-    Christian Drosten, Stefan Pöhlmann
-    <strong>SARS-CoV-2 Cell Entry Depends on ACE2 and
-    TMPRSS2 and Is Blocked by a Clinically Proven
-    Protease Inhibitor</strong>
-    Hoffmann et al., 2020, Cell 181, 1–10
-    April 16, 2020 a 2020 Elsevier Inc.
-    https://doi.org/10.1016/j.cell.2020.02.052
+	Markus Hoffmann, Hannah Kleine-Weber,
+	Simon Schroeder, ..., Marcel A. Müller,
+	Christian Drosten, Stefan Pöhlmann
+	<strong>SARS-CoV-2 Cell Entry Depends on ACE2 and
+	TMPRSS2 and Is Blocked by a Clinically Proven
+	Protease Inhibitor</strong>
+	Hoffmann et al., 2020, Cell 181, 1–10
+	April 16, 2020 a 2020 Elsevier Inc.
+	https://doi.org/10.1016/j.cell.2020.02.052
  
 
 * ##### Timens
-    I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
-    <strong> Tissue distribution of ACE2 protein, the functional
-    receptor for SARS coronavirus. A first step in
-    understanding SARS pathogenesis</strong>
-    Journal of Pathology
-    J Pathol 2004; 203: 631–637
-    Published online in Wiley InterScience
-    https://doi.org/10.1002/path.1570
+	I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
+	<strong> Tissue distribution of ACE2 protein, the functional
+	receptor for SARS coronavirus. A first step in
+	understanding SARS pathogenesis</strong>
+	Journal of Pathology
+	J Pathol 2004; 203: 631–637
+	Published online in Wiley InterScience
+	https://doi.org/10.1002/path.1570
  
 
 
 * ##### Chan
-    K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
-    <strong> The Effects of Temperature and Relative Humidity on the
-    Viability of the SARS Coronavirus</strong>
-    Hindawi Publishing Corporation
-    Advances in Virology
-    Volume 2011, Article ID 734690, 7 pages
-    https://doi.org/10.1155/2011/734690
+	K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
+	<strong> The Effects of Temperature and Relative Humidity on the
+	Viability of the SARS Coronavirus</strong>
+	Hindawi Publishing Corporation
+	Advances in Virology
+	Volume 2011, Article ID 734690, 7 pages
+	https://doi.org/10.1155/2011/734690
 
     
     
@@ -289,74 +289,74 @@ Instead of numbered the references are named by the correspondence author.
     
 
 *  ##### LE
-    The Lancet Editoral<strong>
-    COVID-19: protecting health-care workers</strong>
-    www.thelancet.com Vol 395 March 21, 2020
-    https://doi.org/10.1016/S0140-6736(20)30644-9 
+	The Lancet Editoral<strong>
+	COVID-19: protecting health-care workers</strong>
+	www.thelancet.com Vol 395 March 21, 2020
+	https://doi.org/10.1016/S0140-6736(20)30644-9 
 
 
 *  ##### Mizumoto 
-   Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on    board the diamond Princess Cruises Ship, 2020</strong>
-   https://doi.org/10.1016/j.idm.2020.02.003
+	Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on    board the diamond Princess Cruises Ship, 2020</strong>
+	https://doi.org/10.1016/j.idm.2020.02.003
   
     
 ### Transmission and Infection of  Respiratory Viruses</strong>
 
 
 * ##### Kikkert
-    Marjolein Kikkert
-    <strong> Innate Immune Evasion by Human Respiratory RNA Viruses</strong>
-    J Innate Immun 2020;12:4–20
-    https://doi.org/10.1159/000503030
+	Marjolein Kikkert
+	<strong> Innate Immune Evasion by Human Respiratory RNA Viruses</strong>
+	J Innate Immun 2020;12:4–20
+	https://doi.org/10.1159/000503030
 
 * ##### Tellier
-    Raymond Tellier <strong>
-    Review of Aerosol Transmission of
-    Influenza A Virus</strong>
-    Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2006
+	Raymond Tellier <strong>
+	Review of Aerosol Transmission of
+	Influenza A Virus</strong>
+	Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2006
   
 * ##### Herfst
-    Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
-    <strong>Transmission routes of respiratory viruses among humans.</strong>
-    Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
+	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
+	<strong>Transmission routes of respiratory viruses among humans.</strong>
+	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
 
 
 
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
 * ##### Stuart
- B O Stuart<strong>
+	B O Stuart<strong>
 	Deposition and clearance of inhaled particles.</strong>
-Environ Health Perspect. 1984 Apr; 55: 369–390.
-https://doi.org/10.1289/ehp.8455369
+	Environ Health Perspect. 1984 Apr; 55: 369–390.
+	https://doi.org/10.1289/ehp.8455369
 
 * ##### Bailey
-The New ICRP Model for the Respiratory Tract
-M.R. Bailey 
-Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
+	The New ICRP Model for the Respiratory Tract
+	M.R. Bailey 
+	Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
 
 * ##### Kleinstreuer
-V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
+	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
 	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
    
    
 * ##### Baron
-    Paul Baron<strong>
-    Generation and Behavior
-    of Airborne Particles (Aerosols) </strong>
-    Division of Applied Technology
-    National Institute for Occupational Safety and Health
-    Centers for Disease Control and Prevention      https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
+	Paul Baron<strong>
+	Generation and Behavior
+	of Airborne Particles (Aerosols) </strong>
+	Division of Applied Technology
+	National Institute for Occupational Safety and Health
+	Centers for Disease Control and Prevention      https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
     
     
 * ##### Sznitman
-Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
+	Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
 	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
 	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
 
 
 * ##### Tsuda
-Tsuda A1, Rogers RA, Hydon PE, Butler JP.
-<strong>Chaotic mixing deep in the lung.</strong>
-Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
+	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
+	<strong>Chaotic mixing deep in the lung.</strong>
+	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
 
