@@ -65,7 +65,7 @@ Thus the proposed model would also indicate adopting protection measures.
 ### Evidences
 
 #### Evidence from Biological Properties
-The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#LiF),[Hoffmann](#Hoffmann),[Jiang](#Jiang). ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#Timens),[Lau](#Lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is conistent with the viral loads observed in different part of the body: The only location where all patients had viral loads was the lung [Farcas et al](Farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].  [Kleinstreuer et al](#Kleinstreuer) have shown that upon exhale particles are deposited in the nose. 
+The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#LiF),[Hoffmann](#Hoffmann),[Jiang](#Jiang). ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#Timens),[Lau](#Lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is conistent with the viral loads observed in different part of the body: The only location where all patients had viral loads was the lung [Farcas et al](Farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#Kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
 
 From the above argumentation lung entry for Sars-Cov-1/2 is crucial for infection. 
 The physiology of the airways is such that particles are absorbed as early as possible and the heavier the earlier [Stuart](#Stuart), [Balley](#Bailey), [KL](#Kleinstreuer). 
@@ -359,9 +359,4 @@ Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman
 Tsuda A1, Rogers RA, Hydon PE, Butler JP.
 <strong>Chaotic mixing deep in the lung.</strong>
 Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
-</li>
 
-</ol>
-
-<!-- 
- -->
