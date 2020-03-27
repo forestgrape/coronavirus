@@ -1,32 +1,41 @@
 ## Proposal of a Dry Form Transmission Model for the Betacoronavirus
 
 ### Note
-If the page is not shown correctly watch on https://github.com/forestgrape/coronavirus/blob/master/index.md
+* If the page is not shown correctly read on https://github.com/forestgrape/coronavirus/blob/master/index.md
+* References are redone at the moment they may not all point right
 
 ### Recent Updates
-- 26.3.20:  Public Advice
-- 25./26.3.20:  Aerosol and particle inhalation into the lung (more updates on the way)
-    * added Reference [21] showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
-- 26.3.20: References grouped by topic, References are redone at the moment the may not all point right
+- 27.3.20: References instead of numbered named by correspondence author. 
+- 26.3.20:  Public Advice extended and clarified. 
+- 25./26.3.20:  Corrected and looked up aerosol/particulate inhalation. 
+    In the first version I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. There are two mistakes:
+    1. The evolutionary roots of the lung are the alimentary system. Substances coming in were just cleared down. As we often do too, evolution usually rather than rebuilding from scratch it gradually bends things right.  
+    2. The lungs developped before we were upright and in the original case the clearance of of aerosols is early and very good [Kleinstreuer](#Kleinstreuer). Ciliate movement works even uphill as every ski tourer knows. But there are limits, so a "workaround" evolved: clearance by macrophages.  
+* added Reference [Kleinstreuer](#Kleinstreuer) showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
+- 26.3.20: References grouped by topic
 
 ### Public Advice
-- Live a healthy lifestyle 
-    * sleep enough, eat healthy and do a little sport
-    
-  and especially avoid anything that weakens your immunsystem:
-    * avoid excessive caffeine, excessive sport, excessive alcohol ...
- 
-   Do NOT take Covid-19 lightly: it can be very serious in shortterm and if there are possible longterm effects is unknown.
+Do NOT take Covid-19 lightly: it can be very serious in shortterm and if there are possible longterm effects is unknown.  
    
-- The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors. But if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is a good idea. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. So:
-- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. Chan et al. have shown that this inactivates the coronavirus [10] (it was shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your freqeuntly washed cloths inside keeps the air humid.  
-- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [7],[9]. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most common disease. 
+- The coronavirus transmission can be smoke like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. 
+
+- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#Chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your freqeuntly washed cloths inside keeps the air humid.  
+
+- Keep proper hygiene.
+
+- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#Zhang), [Wong](#Wong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most common disease. 
+
+- Live a healthy lifestyle 
+    * sleep enough, eat healthy and do some sport
+    
+    and avoid anything that weakens your immunsystem:
+    * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
 
  
 
 ### Abstract
-A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary "drive" is needed to devolop this ability.
-The transmission models described in literature [a recent recommended review is 19]  for viruses are:
+A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to devolop this ability.
+The transmission models described in literature (a recent recommended review is [Herfst](#Herfst)  for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
 * Aerosols
@@ -34,7 +43,7 @@ The transmission models described in literature [a recent recommended review is 
 this new model is added:
 * Dry form transmission 
 
-Compared to aerosols, tiny dry particulates can diffuse around like smoke or better smoke is a collection of tiny dry particulates diffusing around, stay in air even longer and may have a higher lung deposition fraction and less clearance. 
+Compared to aerosols, tiny dry particulates can diffuse around like smoke - actually smoke is a collection of tiny dry particulates diffusing around - , stay in air even longer and may have a higher lung deposition fraction and less clearance. 
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Betacoronaviruses. 
@@ -45,72 +54,80 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 ### Model
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to tiny dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol[18] or the droplets spread model. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [Tellier](#Tellier) or the droplets spread model. 
 
-In their very illustrative paper [10] Chan et al. show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
+In their very illustrative paper [Chan et al.](#Chan) show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
 
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 Thus the proposed model would also indicate adopting protection measures.
 
-The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
-
 ### Evidences
 
 #### Evidence from Biological Properties
-The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [1],[2],[9]. ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [6],[12]. Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung.  The physiology of the human airways evolved such that particles are absorbed as early as possible and the heavier the earlier [16],[17]. 
-	- Droplets mostly don't enter the lung [16],[19]. 
-	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well  	deposited[19] (the Sars-Cov-2 diameter is between 50 and 200 nm [20]. 
+The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#LiF),[Hoffmann](#Hoffmann),[Jiang](#Jiang). ACE2 is apically expressed on lung alveolar epithelial cells [12]. In the upper respiratory tract only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#Timens),[Lau](#Lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [3] suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is conistent with the viral loads observed in different part of the body: The only location where all patients had viral loads was the lung [Farcas et al](Farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].  [Kleinstreuer et al](#Kleinstreuer) have shown that upon exhale particles are deposited in the nose. 
+
+From the above argumentation lung entry for Sars-Cov-1/2 is crucial for infection. 
+The physiology of the airways is such that particles are absorbed as early as possible and the heavier the earlier [Stuart](#Stuart), [Balley](#Bailey), [KL](#Kleinstreuer). 
+	- Droplets mostly don't enter the lung.
+	- Aerosols which are smaller than 10 μm  can enter the lung. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm [citation to be added]. 
 	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
 	===<br>
 Conversational remarks about how I understand particle deposition models: <br>
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors. 		Important factors are:
 - particles properties such as diameter, density, form and material
 - breathing volumen and frequency
-- air humidity and how air is moistened in the lung<br><br>
+- air humidity and how air is moistened in the lung[citation to be added]<br><br>
 
-Generally the modelling the airflow in the lung is quite complicated [22],[24]. 
+Generally the modelling the airflow in the lung is complicated [Tsuda](#Tsuda),[Stuart](#Stuart). 
 To estimate the deposited fraction several methods are used:
-- Model the lung as a static pipe system and do the physics[18]. An often used such model has been done by the International Commission on Radiological Protection (ICRP)[23].
-- Expermimental settings. A person inhales some test particles and the number of absorbed particles is measured for different volumina breathed[refernce to be added]
-- Particles based simulations[21]. 
+- Model the lung as a static pipe system and do the physics [Stuart](#Stuart),  [Bailey](#Bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey](#Bailey).
+- Expermimental in vivo settings:
+    * A person inhales some test particles and the number of absorbed particles is measured for different volumina inhaled. For small volumina the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased and the adsorbed particles measured again, the previous result is substracted and the remaining adsorbtion is the next deeper lung part  [refernce to be added].
+    * Experimental data on regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separtion can be done by measuring the particle clearance kinetics during the first few days after inhalation.
+- Particles based simulations [Kleinstreuer](#Kleinstreuer). 
 
 
 <br>
 	===
-
+    
+    
 #### Evidences from the observed Spread Patterns
-* In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [15]. Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
+
+The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
+
+* In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#Mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
 	Sars-Cov-1:
-	- Hospitals in China [15]
+	- Hospitals in China [Mizumoto](#Mizumoto)
 	- Hotel in Hong Kong [14]
 	
 	Sars-Cov-2:
-	- Diamond Princess Cruise Ship in Japan [15]
-	- Music Club in Japan (see Introduction [15])
-	- Church in Korea (see Introduction [15])
-	- Hospitals in Nothern Italy [13]
+	- Diamond Princess Cruise Ship in Japan [Mizumoto](#Mizumoto)
+	- Music Club in Japan (see Introduction [Mizumoto](#Mizumoto))
+	- Church in Korea (see Introduction [Mizumoto](#Mizumoto))
+	- Hospitals in Nothern Italy [LE](#LE)
 	Mers-Cov:
 	- Main spreading in Winter season and in generally dry areas.
 The primary spreading in very dry (indoor) areas would also explain why the described coronaviruses diseases occurred recently, even though overall hygiene increased.  
 * In settings without prior SARS experience the infection rate in health care workers is very high:
-	* 2003 in South East Asia [15]
-	* 2019/2020 in Europe - Italy especially [13]<br>
+	* 2003 in South East Asia  (see Introduction [Mizumoto](#Mizumoto))
+	* 2019/2020 in Europe - Italy especially [LE](#LE)<br>
 	
 	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask could possibly reduce the infection rates (there many cities in China reported few infections in hospitals \[citation to be added]).
 #### Further evidences
 Remark: The following pieces of evidence are 'in work'. 
-* In humid and warm temperature environments (above 33 degrees) there are no known events of a step increase in death numbers. [11] shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselfs within aerosols. In this case an aerosol like spreading pattern with no super-spreading events would be expected. 
+* In humid and warm temperature environments (above 33 degrees) there are no known events of a step increase in death numbers. [Chan](#Chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselfs within aerosols. In this case an aerosol like spreading pattern with no super-spreading events would be expected. 
 
-* The initial animal to human of  Sars-Cov-2 and occurred in a setting of cold outside temperature and therefore dry indoor air, namely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. 
-	Similar transmission settings from animal to human have been likely the case for 
-	Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
+* The initial animal to human of  Sars-Cov-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
 
 ### Adapted Protections measures //work in progress
 As mentioned a good metaphor is avoiding a smoker's smoke or filtering out the soot. So the right indoor ventilation and indoor wearing a mask is key. 
 
 ### References
 Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. References are grouped by topic. In the case where several topics apply, one has been choosen. 
+Instead of numbered the references are named by the correspondence author. 
+
+<!--
 * Describing that the cell entry point is ACE2:
 [1] (SARS-Cov-1), [2] (SARS-Cov-1), [9] (SARS-Cov-2)
 
@@ -132,209 +149,216 @@ Remark: Sometimes reviews or remarks in introductions are cited which reference 
 [15]
 * Describing the human airway:
 [16],[17]
-* Describing particle deposition in the human airway on inhale
+* Describing particle deposition in the human airway on inhale:
 [18]
-* Describing particle deposition in the human airway on exhale. This is important both for diagnostic and transmission of Covid-19. 
+* Describing particle deposition in the human airway on exhale. This is important both for diagnostic and transmission of Covid-19:
 [21]
 
+-->
 
 
+### Clinical Observations
+
+* ##### Zhang
+    Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in    Wuhan, China: a descriptive study <br>Chen, Nanshan et al. <br>The Lancet, Volume 395, Issue 10223, 507 - 513
+    https://doi.org/10.1016/S0140-6736(20)30211-7
+  
+
+* ##### Zaki
+    Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,
+    Jeannette Guarner MDa, Cynthia S. Goldsmith MSa, Kathleen Tatti PhDa,
+    Michelle Packard MPHa, Laurie Mueller BA, BSa, Mu-Zong Wub, Pierre Rollin MDc,
+    Ih-Jen Su MD, PhDd, Sherif R. Zaki MD, PhDa,
+    <strong>Immunohistochemical, in situ hybridization,
+    and ultrastructural localization of SARS-associated
+    coronavirus in lung of a fatal case of severe acute
+    respiratory syndrome in Taiwan</strong>Human Pathology (2005) 36, 303 – 309
+    https://doi.org/10.1016/j.humpath.2004.11.006  
+ 
+
+* ##### Shi
+    Heshui Shi*, Xiaoyu Han*, Nanchuan Jiang*, Yukun Cao, Osamah Alwalid, Jin Gu, Yanqing Fan†, Chuansheng Zheng†
+    <strong> Radiological findings from 81 patients with COVID-19
+    pneumonia in Wuhan, China: a descriptive study</strong>
+    Lancet Infect Dis 2020
+    Published Online
+    February 24, 2020
+    https://doi.org/10.1016/S1473-3099(20)30086-4
+ 
+
+* ##### GA
+    Farcas GA, Poutanen SM, Mazzulli T, Willey BM, Butany J,
+    Asa SL, Faure P, Akhavan P, Low DE, Kain KC: <strong>Fatal severe
+    acute respiratory syndrome is associated with multiorgan
+    involvement by coronavirus.</strong> J Infect Dis 2005, 191:193-197
+    https://doi.org/10.1086/426870
+ 
+
+* ##### Peiris
+    J S M Peiris, Y Guan, K Y Yuen
+    <strong>Severe acute respiratory syndrom</strong>
+    nature medicine, 30 November 2004
+    https://doi.org/10.1038/nm1143
+ 
 
 
+* ##### Wong
+     SARS-CoV-2 Infection in Children</strong>
+     This letter was published on March 18, 2020, at NEJM.org.
+     https://doi.org/10.1056/NEJMc2005073
+   
+   
+    
+### Biology of Coronaviruses 
 
-<ol>
-<li>
-  Keiji Kuba1,7 , Yumiko Imai1,7, Shuan Rao2,7, Hong Gao3, Feng Guo2, Bin Guan2, Yi Huan2, Peng Yang2,
-    Yanli Zhang2, Wei Deng3, Linlin Bao3, Binlin Zhang3, Guang Liu2, Zhong Wang4, Mark Chappell5,
-    Yanxin Liu2, Dexian Zheng2, Andreas Leibbrandt1, Teiji Wada1, Arthur S Slutsky6, Depei Liu2, Chuan Qin3,
-    Chengyu Jiang2 & Josef M Penninger1<br>
-        <strong>A crucial role of angiotensin converting enzyme 2 (ACE2)
+* ##### Jiang
+    Keiji Kuba , Yumiko Imai, Shuan Rao, Hong Gao, Feng Guo, Bin Guan, Yi Huan, Peng Yang,
+    Yanli Zhang, Wei Deng, Linlin Bao, Binlin Zhang, Guang Liu, Zhong Wang, Mark Chappell,
+    Yanxin Liu, Dexian Zheng, Andreas Leibbrandt, Teiji Wada, Arthur S Slutsky, Depei Liu, Chuan Qin,
+    Chengyu Jiang & Josef M Penninger1<br>
+    <strong>A crucial role of angiotensin converting enzyme 2 (ACE2)
     in SARS coronavirus–induced lung injury </strong>
     NATURE MEDICINE VOLUME 11 | NUMBER 8 | AUGUST 2005
     https://doi.org/10.1038/nm1267
-
  
-   
-</li>
-<li>Wan Y, Shang J, Graham R, Baric RS, Li F.
-<strong>Receptor recognition by novel coronavirus from
-Wuhan: An analysis based on decade-long
-structural studies of SARS. 
-        </strong>
-J Virology 2020;
-published online Jan 29. https://doi.org/10.1128/JVI.00127-20.
-</li>
-        
-<li>
-            GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
-DIANNA M. BLAU,3 KATHRYN V. HOLMES,3 BEVERLY L. DAVIDSON,4 STANLEY PERLMAN,1,5
-AND PAUL B. MCCRAY, JR.1
-            <strong>
-                Human Coronavirus 229E Infects Polarized Airway Epithelia
-from the Apical Surface
-            </strong>
-            JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
-</li>
-<li>
-    Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,
-Jeannette Guarner MDa, Cynthia S. Goldsmith MSa, Kathleen Tatti PhDa,
-Michelle Packard MPHa, Laurie Mueller BA, BSa, Mu-Zong Wub, Pierre Rollin MDc,
-Ih-Jen Su MD, PhDd, Sherif R. Zaki MD, PhDa,*
-    <strong>
-        Immunohistochemical, in situ hybridization,
-and ultrastructural localization of SARS-associated
-coronavirus in lung of a fatal case of severe acute
-respiratory syndrome in Taiwan
-    </strong>
-    Human Pathology (2005) 36, 303 – 309
+    
+* ##### LiF
+    Wan Y, Shang J, Graham R, Baric RS, Li F.
+    <strong>Receptor recognition by novel coronavirus from
+    Wuhan: An analysis based on decade-long
+    structural studies of SARS. </strong>
+    J Virology 2020;
+    published online Jan 29. .
+    https://doi.org/10.1128/JVI.00127-20
+ 
 
-</li>
-<li>
-        Farcas GA, Poutanen SM, Mazzulli T, Willey BM, Butany J,
-Asa SL, Faure P, Akhavan P, Low DE, Kain KC: <strong>Fatal severe
-acute respiratory syndrome is associated with multiorgan
-    involvement by coronavirus.</strong> J Infect Dis 2005, 191:193-197
-</li>
-<li>
-Yu Lung Lau1 and JS Malik Peiris2
-    <strong>Pathogenesis of severe acute respiratory syndrome</strong>
+
+* ##### McCray
+    GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
+    DIANNA M. BLAU,3 KATHRYN V. HOLMES,3 BEVERLY L. DAVIDSON,4 STANLEY PERLMAN,1,5
+    AND PAUL B. MCCRAY, JR.1
+    <strong>Human Coronavirus 229E Infects Polarized Airway Epithelia
+    from the Apical Surface</strong>
+    JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
+    https://doi.org/10.1128/jvi.74.19.9234-9239.2000
+    
+
+* ##### Lau
+    Yu Lung Lau and JS Malik Peiris <strong>Pathogenesis of severe acute respiratory syndrome</strong>
     Current Opinion in Immunology 2005, 17:404–410
     https://doi.org/10.1016/j.coi.2005.05.009
-    </li>
+ 
     
-<li>
-        Heshui Shi*, Xiaoyu Han*, Nanchuan Jiang*, Yukun Cao, Osamah Alwalid, Jin Gu, Yanqing Fan†, Chuansheng Zheng†
-        <strong>
-            Radiological findings from 81 patients with COVID-19
-pneumonia in Wuhan, China: a descriptive study
-        </strong>
-        Lancet Infect Dis 2020
-Published Online
-February 24, 2020
-https://doi.org/10.1016/S1473-3099(20)30086-4
-</li>
-<li>
+
+* ##### Hoffmann
     Markus Hoffmann, Hannah Kleine-Weber,
-Simon Schroeder, ..., Marcel A. Müller,
-Christian Drosten, Stefan Pöhlmann
-<strong>SARS-CoV-2 Cell Entry Depends on ACE2 and
-TMPRSS2 and Is Blocked by a Clinically Proven
-Protease Inhibitor
-    </strong>
+    Simon Schroeder, ..., Marcel A. Müller,
+    Christian Drosten, Stefan Pöhlmann
+    <strong>SARS-CoV-2 Cell Entry Depends on ACE2 and
+    TMPRSS2 and Is Blocked by a Clinically Proven
+    Protease Inhibitor</strong>
     Hoffmann et al., 2020, Cell 181, 1–10
-April 16, 2020 a 2020 Elsevier Inc.
-https://doi.org/10.1016/j.cell.2020.02.052
-    </li>
-    
-<li>
-    SARS-CoV-2 Infection in Children
-This letter was published on March 18, 2020, at NEJM.org.
-    </li>
-<li>
-    K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
-<strong> The Effects of Temperature and Relative Humidity on the
-Viability of the SARS Coronavirus
-    </strong>
-    Hindawi Publishing Corporation
-Advances in Virology
-Volume 2011, Article ID 734690, 7 pages
-https://doi.org/10.1155/2011/734690
-    </li>
-    
-<li>
+    April 16, 2020 a 2020 Elsevier Inc.
+    https://doi.org/10.1016/j.cell.2020.02.052
+ 
+
+* ##### Timens
     I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
-<strong> Tissue distribution of ACE2 protein, the functional
-receptor for SARS coronavirus. A first step in
-understanding SARS pathogenesis
-    </strong>
+    <strong> Tissue distribution of ACE2 protein, the functional
+    receptor for SARS coronavirus. A first step in
+    understanding SARS pathogenesis</strong>
     Journal of Pathology
-J Pathol 2004; 203: 631–637
-Published online in Wiley InterScience (www.interscience.wiley.com). https://doi.org/10.1002/path.1570
-</li>
-<li>
+    J Pathol 2004; 203: 631–637
+    Published online in Wiley InterScience
+    https://doi.org/10.1002/path.1570
+ 
+
+
+* ##### Chan
+    K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
+    <strong> The Effects of Temperature and Relative Humidity on the
+    Viability of the SARS Coronavirus</strong>
+    Hindawi Publishing Corporation
+    Advances in Virology
+    Volume 2011, Article ID 734690, 7 pages
+    https://doi.org/10.1155/2011/734690
+
+    
+    
+### Epidemiological Patterns
+    
+
+*  ##### LE
     The Lancet Editoral<strong>
     COVID-19: protecting health-care workers</strong>
     www.thelancet.com Vol 395 March 21, 2020
-</li>
-<li>
-    J S M Peiris, Y Guan, K Y Yuen
-    <strong>
-        Severe acute respiratory syndrom</strong>
-    nature medicine, 30 November 2004
-</li>
+    https://doi.org/10.1016/S0140-6736(20)30644-9 
+
+
+*  ##### Mizumoto 
+   Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on    board the diamond Princess Cruises Ship, 2020</strong>
+   https://doi.org/10.1016/j.idm.2020.02.003
+  
     
-<li> 
-    Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020</strong>
-   [https://doi.org/10.1016/j.idm.2020.02.003]
-</li>
-<li>
-B O Stuart<strong>
-	Deposition and clearance of inhaled particles.</strong>
-Environ Health Perspect. 1984 Apr; 55: 369–390.
-https://doi.org/10.1289/ehp.8455369
-</li>
+### Transmission and Infection of  Respiratory Viruses</strong>
 
 
-<li>
-	Chen, Nanshan et al.
-	<strong>Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study</strong>
-The Lancet, Volume 395, Issue 10223, 507 - 513
-	https://doi.org/10.1016/S0140-6736(20)30211-7
-	
-	
-	
-	
-<br><br><strong> Transmission Models of Diseases</strong>
-</li>
+* ##### Kikkert
+    Marjolein Kikkert
+    <strong> Innate Immune Evasion by Human Respiratory RNA Viruses</strong>
+    J Innate Immun 2020;12:4–20
+    https://doi.org/10.1159/000503030
 
-<li>
+* ##### Tellier
     Raymond Tellier <strong>
     Review of Aerosol Transmission of
     Influenza A Virus</strong>
-Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2006
-    </li>
-<li> 
-	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
-	<strong>Transmission routes of respiratory viruses among humans.</strong>
-	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
+    Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2006
+  
+* ##### Herfst
+    Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
+    <strong>Transmission routes of respiratory viruses among humans.</strong>
+    Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
 
 
 
-<br><br><strong>  	Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
-</li>
+### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
+* ##### Stuart
+ B O Stuart<strong>
+	Deposition and clearance of inhaled particles.</strong>
+Environ Health Perspect. 1984 Apr; 55: 369–390.
+https://doi.org/10.1289/ehp.8455369
 
-<li>
-		The New ICRP Model for the Respiratory Tract
+* ##### Bailey
+The New ICRP Model for the Respiratory Tract
 M.R. Bailey 
 Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
-	</li>
+
+* ##### Kleinstreuer
+V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
+	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
+   
+   
+* ##### Baron
+    Paul Baron<strong>
+    Generation and Behavior
+    of Airborne Particles (Aerosols) </strong>
+    Division of Applied Technology
+    National Institute for Occupational Safety and Health
+    Centers for Disease Control and Prevention      https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
     
-<li>
-	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
-	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/260. 10.1016/j.resp.2018.11.003. 
-    </li>
     
-<li>Paul Baron
-	<strong>
-	Generation and Behavior
-of Airborne Particles (Aerosols)
-	</strong>
-Division of Applied Technology
-National Institute for Occupational Safety and Health
-Centers for Disease Control and Prevention
-	https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
-    </li>
-    <li>
-	Fishler, R., Hofemeier, P., Etzion, Y. et al. 
+* ##### Sznitman
+Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
 	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
 	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
-</li>
-    <li>
-	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
-	<strong>Chaotic mixing deep in the lung.</strong>
-	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15.
-	https://doi.org/10.1073/pnas.102318299
+
+
+* ##### Tsuda
+Tsuda A1, Rogers RA, Hydon PE, Butler JP.
+<strong>Chaotic mixing deep in the lung.</strong>
+Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
 </li>
 
 </ol>
