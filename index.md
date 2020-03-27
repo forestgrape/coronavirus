@@ -5,7 +5,7 @@
 * References have been redone; they should point right
 
 ### Recent Updates
-- 27.3.20: References instead of numbered named by correspondence author. 
+- 27.3.20: References redone. Named by correspondence author instead of numbered. 
 - 26.3.20:  Public Advice extended and clarified. 
 - 25./26.3.20:  Corrected and looked up aerosol/particulate inhalation. 
     In the first version I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. There are two mistakes:
@@ -317,10 +317,9 @@ to be updated
 	https://doi.org/10.1159/000503030
 
 * ##### tellier
-	Raymond Tellier <strong>
-	Review of Aerosol Transmission of
-	Influenza A Virus</strong>
-	Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 11, November 2006
+    Tellier R. (2006). Review of aerosol transmission of influenza A virus. Emerging infectious diseases, 12(11), 1657–1662. 
+    https://doi.org/10.3201/eid1211.060426 (seems broken)<br>
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372341/
   
 * ##### herfst
 	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
