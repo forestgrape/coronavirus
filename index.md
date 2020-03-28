@@ -123,7 +123,7 @@ Conversational remarks about how I understand particle deposition models. <br>
 <br><br>
 
 ##### depositions
-There are [various methods](#methods) for the calculation of particulates depositions. In the following deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diag to be added]
+There are [various methods](#methods) for the calculation of particulates depositions. In the following deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
 
 ##### methods
 Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further - to my knowledge - most modeling methods ignore the softness and dynamics of the respiratory system.
