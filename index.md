@@ -46,7 +46,7 @@ The transmission models described in the literature (a recent recommended review
 this new model is added:
 * Dry form transmission 
 
-Compared to aerosols, tiny dry particulates can diffuse around like smoke - smoke is a collection of tiny dry particulates diffusing around -, stay in the air even longer and may have a higher lung deposition fraction and less clearance. 
+Compared to aerosols, tiny dry particulates can diffuse around smoke-like - smoke is a collection of tiny dry particulates diffusing around -, stay in the air even longer and may have a higher lung deposition fraction and less clearance. 
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Betacoronaviruses. 
