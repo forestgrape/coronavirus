@@ -6,16 +6,13 @@
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
 
 ### Recent Updates
-- 27.3.20: Clarifications and more references added.
+- 28.3.20: Sections Model and Evidence from Biological Properties
 - 27.3.20: References redone. Named by correspondence author instead of numbered. 
-- 26.3.20:  Public Advice extended and clarified. 
-- 25./26.3.20:  Corrected and looked up aerosol/particulate inhalation. 
-    In the first version, I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
+- 27/28.3.20: Public Advice extended and clarified. 
+- 25/26/27.3.20:  Corrected and looked up aerosol/particulate inhalation. 
+    In the first version, I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is [at least] double wrong:
     1. The evolutionary roots of the lung are the alimentary system, so substances coming in were just cleared down. Even as lung and alimentary separated this stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright and in the original case the clearance of aerosols is early and very good; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
-* 25./26./27. added References describing particle deposition and clearance in the lung. Some e.g. [Kleinstreuer](#kleinstreuer) are showing particulates deposition both at inhalation and exhalation. The first is import for infection, the latter both for spread and diagnostics. 
-- 26.3.20: References grouped by topic
-- 25.3.20: Abstract added
 
 ### Public Advice
 Do NOT take Covid-19 lightly: it can be very serious in short-term and if there are possible long-term effects is unknown.  
@@ -60,25 +57,27 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 ### Model
 
-The model proposes the infection pathway:
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [Tellier](#Tellier), which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the obligate lung [entry](#entry) for Sars-Cov-2. 
+
+In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 keeps its infectiousness in dry form so the dry form infection is possible in theory.
+
+The newly proposed infection:
 * Dry Particulates in Air -> Lung
 
-known aerosol pathway:
+in addition to the known aerosol pathway:
 * Aersol with Virus in Air -> Respiratory Tract
 
-for the coronavirus the relevant part of the respiratory tract is the lung.
+for the coronavirus the relevant part of the respiratory tract is the [lung](#entry).
 
 
-aerosols and dry particulates can convert to each other:
+Aerosols containing particulates and dry particulates can convert to each other:
 
 * Dry Particulates in Air  -> Aersol with Virus in Air (more likely in humid air, particulates act as condensation nuclei)
 * Dry Particulates in Air  <- Aersol with Virus in Air (more likely in dry air)
 
-Dry particulates get into the air either by the above conversion, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. 
+Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles on the floor or fomites or from faeces. [to check: vacuum cleaner particle filter size].  [to be improved and check if dirt is relevant]
 
-Infectious aerosols can be get into the air from the lower or upper respiratory tract. In the the upper respiratory tract there are viruses to since particles exhaled from the lung are often [deposited](#depositions) in the upper respiratory tract.
-
-In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 keeps its infectiousness in dry form so this form transmission is possible in theory.
+Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking [citation to be added]. In the the upper respiratory tract there are viruses too, since particles exhaled from the lung are often [deposited](#depositions) in the upper respiratory tract. This is exploited for Covid-19 swab tests in the pharynx. 
 
 
 <!--
@@ -101,14 +100,14 @@ In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 k
 ## Evidence for Dry Form Transmission
 
 ### Evidence from Biological Properties
-#### entry_point
+#### entry
 The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads was the lung [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
 
 From the above argumentation lung entry for Sars-Cov-1/2 is crucial for infection. 
-The physiology of the airways is such that particles are absorbed as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [KL](#kleinstreuer). 
-	- Droplets mostly don't enter the lung.
-	- Small Aerosols can enter the lung. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm [to be confirmed and citation to be added]. 
-	- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
+The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [KL](#kleinstreuer). 
+- Droplets mostly don't enter the lung.
+- Small Aerosols can enter the lung. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
+- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
     
 =====
 #### Intermezzo Particle Deposition and Clearance in the Lung
