@@ -6,7 +6,7 @@
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
 
 ### Recent Updates
-- 28.3.20: Sections Model and Evidence from Biological Properties
+- 28.3.20: Sections Model and Evidence from Biological Properties partly redone
 - 27.3.20: References redone. Named by correspondence author instead of numbered. 
 - 27/28.3.20: Public Advice extended and clarified. 
 - 25/26/27.3.20:  Corrected and looked up aerosol/particulate inhalation. 
