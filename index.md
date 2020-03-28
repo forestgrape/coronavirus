@@ -52,7 +52,7 @@ It is argued
 * the described properties of dry form transmission explain well the observed transmission patterns for Sars-Cov. 
 * the entry receptor of Sars-Cov (ACE2) distribution and the observed viral loads in different organs indicate that Sars-Cov has the lung as obligate entry point. Particle depositions at exhalation, can explain the viral load in the pharynx and particle deposition at inhalation, show that only aerosols and dry particulates are entering the lung.
 
-The overall argumentation suggests for Sars-Cov the most relevant transmission models are aerosol and the proposed dry form. 
+The overall argumentation suggests, that the most relevant transmission models are aerosol and the proposed dry form. 
 
 Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key is indoor ventilation and wearing in 'risky' indoor spaces a mask. 
 
