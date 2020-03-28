@@ -6,13 +6,13 @@
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
 
 ### Recent Updates
-- 28.3.20: Sections Model and Evidence from Biological Properties partly redone
+- 28.3.20: Sections 'Model' and 'Evidence' from Biological Properties partly redone
 - 27.3.20: References redone. Named by correspondence author instead of numbered. 
 - 27/28.3.20: Public Advice extended and clarified. 
 - 25/26/27.3.20:  Corrected and looked up aerosol/particulate inhalation. 
-    In the first version, I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is [at least] double wrong:
-    1. The evolutionary roots of the lung are the alimentary system, so substances coming in were just cleared down. Even as lung and alimentary separated this stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
-    2. The lungs developed before we were upright and in the original case the clearance of aerosols is early and very good; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
+    In the first version, I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
+    1. The evolutionary roots of the lung are the alimentary system, so substances coming in were just cleared down. Even as the lung and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
+    2. The lung developed before we were upright and in the original case the clearance of aerosols is early and very good; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
 
 ### Public Advice
 Do NOT take Covid-19 lightly: it can be very serious in short-term and if there are possible long-term effects is unknown.  
@@ -24,9 +24,9 @@ Do NOT take Covid-19 lightly: it can be very serious in short-term and if there 
 - Keep proper hygiene. Especially wash your hands well after toilet. 
 Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So currently just avoid them all. 
-   * it is known that viruses causing commen cold are transmitted through droplet. These viruses can weaken the immun sytem defence [kikkert](#kikkert) and therefore could induce an increased infection risk.  
+   * it is known that viruses causing commen cold are transmitted through droplets. These viruses can weaken the immun sytem defence [kikkert](#kikkert) and therefore could induce an increased infection risk.  
 
-- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#zhang), [Wong](#wong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
+- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#zhang), [Wong](#wong), [Zhong](#zhong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily and do some sport
@@ -74,8 +74,13 @@ for the coronavirus the relevant part of the respiratory tract is the [lung](#en
 
 Aerosols containing particulates and dry particulates can convert to each other:
 
-* Dry Particulates in Air  -> Aersol with Virus in Air (more likely in humid air, particulates act as condensation nuclei)
-* Dry Particulates in Air  <- Aersol with Virus in Air (more likely in dry air)
+* Dry Particulates in Air  -> Small Aersol with Virus in Air (more likely in humid air, particulates act as condensation nuclei)
+* Dry Particulates in Air  <- Small Aersol with Virus in Air (more likely in dry air)
+
+and smaller aerosol can convert to larger: 
+* Small Aerosol <-> Large Aerosol (in dry air equilibrium tends to the left, in humid to the right)
+
+The larger tend to fall to the ground due since their movement is driven more by gravity.
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles on the floor or fomites or from faeces. [to check: vacuum cleaner particle filter size].  [to be improved and check if dirt is relevant]
 
@@ -126,13 +131,13 @@ Conversational remarks about how I understand particle deposition models. <br>
 <br><br>
 
 ##### depositions
-There are [various methods](#methods) for the calculation of particulates depositions. In the following deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
+There are [various methods](#methods) for the calculation of particulates depositions. For this work the deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
 
 ##### methods
 Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further - to my knowledge - most modeling methods ignore the softness and dynamics of the respiratory system.
 
 - Model the lung as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). These methods yield some differential equations. Nowadays these equations are solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
-- Particles based computer simulations. [Kleinstreuer et al](#kleinstreuer) used this method to compare the deposited particulates on in/exhalation between mice and humans.
+- Model the lung accurately in 3D and do the physics. [Kleinstreuer et al](#kleinstreuer) used this method to compare the deposited particulates on in/exhalation between mice and humans.
 - Experimental in vivo settings:
     * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
     * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
@@ -178,9 +183,14 @@ Just smelling would be the theoretical possibility of an infection. But for the 
 
 This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm (probably above 1000 nm is enough). Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key. 
 
-### References
-Remark: Sometimes reviews or remarks in introductions are cited which reference further to the original work. References are grouped by topic. In the case where several topics apply, one has been choosen. 
-Instead of numbered the references are named by the correspondence author. 
+
+
+## References
+
+#### Note 
+* Sometimes reviews or remarks in introductions are cited which reference further to the original work. 
+* References are grouped by topic. In the case where several topics apply, one has been choosen. 
+* Instead of numbered the references are named by the correspondence author or a descriptive tag.   
 
 <!--
 
@@ -248,16 +258,38 @@ TODO UPDATE REFERENCES
     involvement by coronavirus.</strong> J Infect Dis 2005, 191:193-197
     https://doi.org/10.1086/426870
 
+* ##### wong
+     SARS-CoV-2 Infection in Children</strong>
+     This letter was published on March 18, 2020, at NEJM.org.
+     https://doi.org/10.1056/NEJMc2005073
+     
+* ##### zhong
+    W. Guan, Z. Ni, Yu Hu, W. Liang, C. Ou, J. He, L. Liu, H. Shan, C. Lei, D.S.C. Hui, B. Du, L. Li, G. Zeng, K.-Y. Yuen, R. Chen, C. Tang, T. Wang, P. Chen, J. Xiang, S. Li, Jin-lin Wang, Z. Liang, Y. Peng, L. Wei, Y. Liu, Ya-hua Hu, P. Peng, Jian-ming Wang, J. Liu, Z. Chen, G. Li, Z. Zheng, S. Qiu, J. Luo, C. Ye, S. Zhu, and N. Zhong <strong>Clinical Characteristics of Coronavirus Disease 2019 in China</strong>
+    February 28, 2020,last updated on March 6, 2020, at NEJM.org.
+    https://doi.org/10.1056/NEJMoa2002032
+     
+     
+### Phatogenesis and Viral Loads
+
+* ##### lau
+	Yu Lung Lau and JS Malik Peiris <strong>Pathogenesis of severe acute respiratory syndrome</strong>
+	Current Opinion in Immunology 2005, 17:404–410
+	https://doi.org/10.1016/j.coi.2005.05.009
+    
 * ##### peiris
     J S M Peiris, Y Guan, K Y Yuen
     <strong>Severe acute respiratory syndrom</strong>
     nature medicine, 30 November 2004
     https://doi.org/10.1038/nm1143
-
-* ##### wong
-     SARS-CoV-2 Infection in Children</strong>
-     This letter was published on March 18, 2020, at NEJM.org.
-     https://doi.org/10.1056/NEJMc2005073
+    
+* ##### case-series    
+    Francois-Xavier Lescure*, Lila Bouadma*, Bruno Lina*, Sylvie van-der-Werf*, Yazdan Yazdanpanah* et al.
+    <strong>Clinical and virological data of the first cases of COVID-19 in Europe: a case series</strong>
+    Lancet Infect Dis 2020
+    PublishedOnline
+    March 27, 2020 https://doi.org/10.1016/ S1473-3099(20)30200-0<br>
+    See Online/Comment https://doi.org/10.1016/ S1473-3099(20)30237-1
+    
      
     
 ### Biology of Coronaviruses 
@@ -289,11 +321,6 @@ TODO UPDATE REFERENCES
 	from the Apical Surface</strong>
 	JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
 	https://doi.org/10.1128/jvi.74.19.9234-9239.2000
-    
-* ##### lau
-	Yu Lung Lau and JS Malik Peiris <strong>Pathogenesis of severe acute respiratory syndrome</strong>
-	Current Opinion in Immunology 2005, 17:404–410
-	https://doi.org/10.1016/j.coi.2005.05.009
  
 * ##### hoffmann
 	Markus Hoffmann, Hannah Kleine-Weber,
