@@ -24,9 +24,9 @@ Do NOT take Covid-19 lightly: it can be very serious in short-term and if there 
 - Keep proper hygiene. Especially wash your hands well after toilet. 
 Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So currently just avoid them all. 
-   * it is known that viruses causing commen cold are transmitted through droplet. These viruses can weaken the immun sytem defence [kikkert](#kikkert) and therefore possibly induce increased infection risk for Covid-19 
+   * it is known that viruses causing commen cold are transmitted through droplet. These viruses can weaken the immun sytem defence [kikkert](#kikkert) and therefore could induce an increased infection risk.  
 
-- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Studies show that many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#zhang), [Wong](#wong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
+- Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#zhang), [Wong](#wong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily and do some sport
@@ -49,15 +49,17 @@ this new model is added:
 Compared to aerosols, tiny dry particulates can diffuse around smoke-like - smoke is a collection of tiny dry particulates diffusing around -, stay in the air even longer and may have a higher lung deposition fraction and less clearance. 
 
 It is argued 
-* the described properties of dry form transmission explain well the observed transmission patterns for Betacoronaviruses. 
-* the anatomy of the human airway and the entry receptor (ACE2) distribution for Sars-Cov-1/2 suggest that the two most relevant transmission models for Sars-Cov-1/2 are the aerosol and the dry form. 
+* the described properties of dry form transmission explain well the observed transmission patterns for Sars-Cov. 
+* the entry receptor of Sars-Cov (ACE2) distribution and the observed viral loads in different organs indicate that Sars-Cov has the lung as obligate entry point. Particle depositions at exhalation, can explain the viral load in the pharynx and particle deposition at inhalation, show that only aerosols and dry particulates are entering the lung.
 
-Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key is indoor ventilation and wearing in indoor public spaces a mask. 
+The overall argumentation suggests for Sars-Cov the most relevant transmission models are aerosol and the proposed dry form. 
+
+Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key is indoor ventilation and wearing in 'risky' indoor spaces a mask. 
 
 
 ### Model
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [Tellier](#Tellier), which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the obligate lung [entry](#entry) for Sars-Cov-2. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the obligate lung [entry](#entry) for Sars-Cov-2. 
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 keeps its infectiousness in dry form so the dry form infection is possible in theory.
 
@@ -67,7 +69,7 @@ The newly proposed infection:
 in addition to the known aerosol pathway:
 * Aersol with Virus in Air -> Respiratory Tract
 
-for the coronavirus the relevant part of the respiratory tract is the [lung](#entry).
+for the coronavirus the relevant part of the respiratory tract is the [lung](#entry-point).
 
 
 Aerosols containing particulates and dry particulates can convert to each other:
@@ -88,7 +90,7 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 * (D) source -> dry particulate --humid-air-> aerosol  -> target
 
 ##### where Target
-* target = lung for a,b,c [see entry_point](#entry_point) for infection
+* target = lung for a,b,c [see entry-point](#entry-point) for infection
 
 ##### and Source
 * source = lung for a,b
@@ -100,8 +102,10 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 ## Evidence for Dry Form Transmission
 
 ### Evidence from Biological Properties
-#### entry
-The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads was the lung [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
+#### entry-point
+The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. 
+
+This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads was the lung [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
 
 From the above argumentation lung entry for Sars-Cov-1/2 is crucial for infection. 
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [KL](#kleinstreuer). 
