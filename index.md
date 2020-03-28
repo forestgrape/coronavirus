@@ -1,7 +1,7 @@
 ## Proposal of a Dry Form Transmission Model for the Betacoronavirus
 
 ### Note
-* If the page is not shown correctly or Markdown is prefered, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
+* If the page is not shown correctly or either GitHub Preview or Markdown is prefered, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
 * This is work in progress, so mistakes of any form are likely. 
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
 
