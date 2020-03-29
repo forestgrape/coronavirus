@@ -6,6 +6,7 @@
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
 
 ### Recent Updates
+- 29.3.20: Fixed some mistakes (renamed lung ->the lungs or lung -> lower respiratory tract since lung doesn't include the  primary bronchi.)
 - 28.3.20: Sections 'Model' and 'Evidence' from Biological Properties partly redone
 - 27.3.20: References redone. Named by correspondence author instead of numbered. 
 - 27/28.3.20: Public Advice extended and clarified. 
