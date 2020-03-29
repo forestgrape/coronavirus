@@ -10,11 +10,12 @@
 - 27.3.20: References redone. Named by correspondence author instead of numbered. 
 - 27/28.3.20: Public Advice extended and clarified. 
 - 25/26/27.3.20:  Corrected and looked up aerosol/particulate inhalation. 
-    In the first version, I had written that aerosols don't enter the lung. Aerosols DO enter the lung. The train of thought yielding this: Entering the lung is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
-    1. The evolutionary roots of the lung are the alimentary system, so substances coming in were just cleared down. Even as the lung and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
-    2. The lung developed before we were upright and in the original case the clearance of aerosols is early and very good; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
+    In the first version, I had written that aerosols don't enter the lungs. Aerosols DO enter the lungs. The train of thought yielding this: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
+    1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
+    2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
 
-### Public Advice
+### Public Recommendations
+#### advices
 Do NOT take Covid-19 lightly: it can be very serious in short-term and if there are possible long-term effects is unknown.  
    
 - The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. 
@@ -50,7 +51,7 @@ Compared to aerosols, tiny dry particulates can diffuse around smoke-like - smok
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Sars-Cov. 
-* the entry receptor of Sars-Cov (ACE2) distribution and the observed viral loads in different organs indicate that Sars-Cov has the lung as obligate entry point. Particle depositions at exhalation, can explain the viral load in the pharynx and particle deposition at inhalation, show that only aerosols and dry particulates are entering the lung.
+* the entry receptor of Sars-Cov (ACE2) distribution and the observed viral loads in different organs indicate that Sars-Cov has the lower respiratory tract as obligate entry point.  Particle deposition at inhalation, which show that mainly aerosols and dry particulates are entering the lower respiratory tract, suggest that these two are the only Sars-Cov transmitters. The viral loads in the pharynx are in agreement with experiments showing that upon exhalation particles are deposited there. 
 
 The overall argumentation suggests for Sars-Cov the most relevant transmission models are aerosol and the proposed dry form. 
 
@@ -59,7 +60,7 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 ### Model
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the obligate lung [entry](#entry) for Sars-Cov-2. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the obligate lower respiratory tract [entry](#entry) for Sars-Cov-2. 
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 keeps its infectiousness in dry form so the dry form infection is possible in theory.
 
@@ -69,7 +70,7 @@ The newly proposed infection:
 in addition to the known aerosol pathway:
 * Aersol with Virus in Air -> Respiratory Tract
 
-for the coronavirus the relevant part of the respiratory tract is the [lung](#entry-point).
+for the coronavirus the relevant part of the respiratory tract is the lower respiratory tract(#entry-point).
 
 
 Aerosols containing particulates and dry particulates can convert to each other:
@@ -108,18 +109,18 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 
 ### Evidence from Biological Properties
 #### entry-point
-The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lung. 
+The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
 
-This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads was the lung [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out ([Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose). A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
+This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads were the lungs [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
 
-From the above argumentation lung entry for Sars-Cov-1/2 is crucial for infection. 
+From the above argumentation lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. 
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [KL](#kleinstreuer). 
-- Droplets mostly don't enter the lung.
-- Small Aerosols can enter the lung. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
+- Droplets mostly don't enter the lower respiratory tract.
+- Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
 - Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
     
 =====
-#### Intermezzo Particle Deposition and Clearance in the Lung
+#### Intermezzo Particle Deposition and Clearance in the lower respiratory tract
 Conversational remarks about how I understand particle deposition models. <br>
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors.
 
@@ -181,7 +182,7 @@ Supposing, as argued above, that the main transmission of Sars-Cov-2 is either a
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 
-This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm (probably above 1000 nm is enough). Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key. 
+This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm (probably above 1000 nm is enough). Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key. See [advices](#advices).
 
 
 
