@@ -13,9 +13,9 @@
 * [Public Advice](#public-advice)
 * [Abstract](#abstract)
 * [Model](#model)
+* [Intermezzo Particle Deposition and Clearance in the Respiratory Tract](#particle-deposition)
 * [Evidence for the Dry Form Transmission Model](#evidence)
     - [Evidence from Biological Properties](#biological-properties)
-    - [Intermezzo Particle Deposition and Clearance in the Respiratory Tract](#particle-deposition)
     - [Evidence from the observed Spread Patterns](#spread-patterns)
 * [Suggested Protections Measures](#measures)
 * [References](#references)
@@ -44,12 +44,18 @@ Do NOT take Covid-19 lightly: it can be very serious in short-term and wether th
    
 - The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients.
 
-    Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your frequently washed cloths inside keeps the air humid.  
+-    Wear a mask in all indoor places where infectious people can be or best avoid crowded indoor spaces entirely. Distancing also reduced the infection risk. 
+    
+    Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
+    
+- Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your frequently washed cloths inside keeps the air humid.  
 
 - Keep proper hygiene. Especially wash your hands well after toilet. 
 Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So currently just avoid them all. 
-   * it is known that viruses causing commen cold are transmitted through droplets. These viruses can weaken the immun sytem defence [kikkert](#kikkert) and therefore could induce an increased infection risk.  
+   * it is known that viruses causing commen cold are transmitted through droplets. These viruses can weaken the immun sytem defence [[kikkert](#kikkert)] and therefore could induce an increased infection risk.  
+   
+  But do <strong>not</strong> rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur in indoor air](#spread-patterns) and not with droplets. 
 
 - Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#zhang), [Wong](#wong), [Zhong](#zhong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
 
@@ -136,43 +142,15 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 
 ### Evidence from Biological Properties
 #### entry-point
-The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that other Coronavirinae, namely 229E, infect the cells from the apical surface [McCray](#mccray) suggest that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
+The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that another Coronavirinae, namely 229E, infects the cells from the apical surface [[McCray](#mccray)], indicate that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
 
-This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads were the lungs [Farcas et al](#farcas). The fact that through swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. A real infection in parts of the body would likely yield viral load in the lymph nodes too [to be confirmed, citation needed].   
+This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads were the lungs [Farcas et al](#farcas). That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
 
 From the above argumentation lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. 
-The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [KL](#kleinstreuer). 
+The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
 - Droplets mostly don't enter the lower respiratory tract.
 - Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
 - Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
-    
-<p id=particle-deposition>---</p>
-
-#### Intermezzo Particle Deposition and Clearance in the Respiratory Tract
-Conversational remarks about how I understand particle deposition models. <br>
-	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors.
-
-##### factors  
-- particles properties such as diameter, density, form and material
-- breathing volume and frequency
-- air humidity and how much the air is moistened in the lung  [citation to be added and to explored further, may play an important role in Covid-19]
-- orientation respect to gravity i.e. wether horizontal or vertical
-<br><br>
-
-##### depositions
-There are [various methods](#methods) for the calculation of particulates depositions. For this work the deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
-
-##### methods
-Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further - to my knowledge - most modeling methods ignore the softness and dynamics of the respiratory system.
-
-- Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). These methods yield some differential equations. These equations can be solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
-
-Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fuid dynamics. [Kleinstreuer et al](#kleinstreuer) used this method to compare the deposited particulates on in/exhalation between mice and humans.
-- Experimental in vivo settings:
-    * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
-    * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
-- Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
-
 
 <p id=spread-patterns>---</p>
     
@@ -214,7 +192,7 @@ Supposing that the main transmission of Sars-Cov-2 is either aerosol or dry form
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 
-This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm (probably above 1000 nm is enough). Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key. See [advices](#advices).
+This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm (probably above 1000 nm is enough). Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key. See [public-advice](#public-advice).
 
 
 <p id=references>-----</p>
@@ -430,6 +408,9 @@ TODO UPDATE REFERENCES
 
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
+[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description of approximative models used 20 years ago. [qi](#qi) shows that particle deposition is individual and may/can be different for lung diseases. 
+
+
 * ##### stuart
     B O Stuart<strong>
     Deposition and clearance of inhaled particles.</strong>
@@ -462,4 +443,35 @@ TODO UPDATE REFERENCES
 	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
 	<strong>Chaotic mixing deep in the lung.</strong>
 	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
+    
+* ##### rahimi-gorji
+    Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
+    <strong>Details of regional particle deposition and airflow structures
+    in a realistic model of human tracheobronchial airways: two-phase flow simulation</strong>
+    http://dx.doi.org/10.1016/j.compbiomed.2016.04.017
+    0010-4825/& 2016 Elsevier Ltd. All rights reserved.
+    
+* ##### park
+    Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
+    <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
+    Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
+    
+* ##### heyder
+    Joachim Heyder
+    <strong>Deposition of Inhaled Particles in the Human Respiratory Tract and Consequences for Regional Targeting in Respiratory Drug Delivery</strong>
+    Proc Am Thorac Soc Vol 1. pp 315–320, 2004
+    https://doi.org/10.1513/pats.200409-046TA Internet address: www.atsjournals.org
+    
+    
+* ##### darquenne
+    BY C. DARQUENNE*, L. HARRINGTON AND G. K. PRISK
+    <strong>Alveolar duct expansion greatly enhances aerosol deposition: a three-dimensional computational fluid dynamics study</strong>
+    Phil. Trans. R. Soc. A (2009) 367, 2333–2346 https://doi.org/10.1098/rsta.2008.0295
+    
+* ##### qi
+    Baihua Zhang, Shouliang Qi, Yong Yue, Jing Shen, Chen Li, Wei Qian and Jianlin Wu
+    <strong>Particle Disposition in the Realistic Airway Tree Models of Subjects with Tracheal Bronchus and COPD</strong>
+    Hindawi BioMed Research International Volume 2018, Article ID 7428609, 15 pages https://doi.org/10.1155/2018/7428609
+    
+    
 
