@@ -1,27 +1,50 @@
-## Proposal of a Dry Form Transmission Model for the Betacoronavirus
+# Proposal of a Dry Form Transmission Model for the Betacoronavirus
 
-### Note
+## Note
 * If the page is not shown correctly or either GitHub Preview or Markdown is prefered, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
 * This is work in progress, so mistakes of any form are likely. 
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
 
-### Recent Updates
-- 29.3.20: Fixed some mistakes (renamed lung ->the lungs or lung -> lower respiratory tract since lung doesn't include the  primary bronchi.)
-- 28.3.20: Sections 'Model' and 'Evidence' from Biological Properties partly redone
-- 27.3.20: References redone. Named by correspondence author instead of numbered. 
-- 27/28.3.20: Public Advice extended and clarified. 
+<p id=content>-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason some titles are all lower case since the auto generated ids are used. -->
+
+## Content
+
+* [Updates](#updates)
+* [Public Advice](#public-advice)
+* [Abstract](#abstract)
+* [Model](#model)
+* [Evidence for the Dry Form Transmission Model](#evidence)
+    - [Evidence from Biological Properties](#biological-properties)
+    - [Intermezzo Particle Deposition and Clearance in the Respiratory Tract](#particle-deposition)
+    - [Evidence from the observed Spread Patterns](#spread-patterns)
+* [Suggested Protections Measures](#measures)
+* [References](#references)
+
+<p id=updates>-----</p> 
+
+
+## Updates
 - 25/26/27.3.20:  Corrected and looked up aerosol/particulate inhalation. 
     In the first version, I had written that aerosols don't enter the lungs. Aerosols DO enter the lungs. The train of thought yielding this: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
     1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
+    
+#### Minor Updates
+- 29.3.20: Fixed some mistakes (renamed lung ->the lungs or lung -> lower respiratory tract)
+- 28.3.20: Sections 'Model' and 'Evidence' from Biological Properties partly redone
+- 27.3.20: References redone. Named by correspondence author instead of numbered. 
+- 27/28.3.20: Public Advice extended and clarified. 
 
-### Public Recommendations
-#### advices
-Do NOT take Covid-19 lightly: it can be very serious in short-term and if there are possible long-term effects is unknown.  
+
+<p id=public-advice>-----</p>
+
+## Public Advice
+
+Do NOT take Covid-19 lightly: it can be very serious in short-term and wether there are possible long-term effects is unknown.  
    
-- The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients. 
+- The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients.
 
-- Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your frequently washed cloths inside keeps the air humid.  
+    Wear a mask in all indoor places where infectious people can be. So at least in all public indoor spaces. Reuse; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your frequently washed cloths inside keeps the air humid.  
 
 - Keep proper hygiene. Especially wash your hands well after toilet. 
 Hygiene is important because:
@@ -36,9 +59,9 @@ Hygiene is important because:
     and avoid anything that weakens your immun system:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
 
- 
+<p id=abstract>-----</p>
 
-### Abstract
+## Abstract
 A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature (a recent recommended review is [Herfst](#herfst)  for viruses are:
 * Contact (direct and indirect via fomites)
@@ -58,8 +81,9 @@ The overall argumentation suggests, that the most relevant transmission models a
 
 Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key is indoor ventilation and wearing in 'risky' indoor spaces a mask. 
 
+<p id=model>-----</p>
 
-### Model
+## Model
 
 In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the obligate lower respiratory tract [entry](#entry) for Sars-Cov-2. 
 
@@ -71,9 +95,6 @@ The newly proposed infection:
 in addition to the known aerosol pathway:
 * Aersol with Virus in Air -> Respiratory Tract
 
-for the coronavirus the relevant part of the respiratory tract is the lower respiratory tract(#entry-point).
-
-
 Aerosols containing particulates and dry particulates can convert to each other:
 
 * Dry Particulates in Air  -> Small Aersol with Virus in Air (more likely in humid air, particulates act as condensation nuclei)
@@ -82,7 +103,7 @@ Aerosols containing particulates and dry particulates can convert to each other:
 and smaller aerosol can convert to larger: 
 * Small Aerosol <-> Large Aerosol (in dry air equilibrium tends to the left, in humid to the right)
 
-The larger tend to fall to the ground due since their movement is driven more by gravity.
+The larger tend to fall to the ground, since their movement is driven more by gravity.
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles on the floor or fomites or from faeces. [to check: vacuum cleaner particle filter size].  [to be improved and check if dirt is relevant]
 
@@ -106,7 +127,12 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 
 -->
 
-## Evidence for Dry Form Transmission
+
+<p id=evidence>-----</p>
+
+## Evidence for the Dry Form Transmission Model
+
+<p id=biological-properties>---</p>
 
 ### Evidence from Biological Properties
 #### entry-point
@@ -120,8 +146,9 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 - Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
 - Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
     
-=====
-#### Intermezzo Particle Deposition and Clearance in the lower respiratory tract
+<p id=particle-deposition>---</p>
+
+#### Intermezzo Particle Deposition and Clearance in the Respiratory Tract
 Conversational remarks about how I understand particle deposition models. <br>
 	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors.
 
@@ -146,8 +173,8 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
     * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
 - Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
 
-=====
-    
+
+<p id=spread-patterns>---</p>
     
 #### Evidence from the observed Spread Patterns
 
@@ -178,8 +205,11 @@ Remark: The following pieces of evidence are 'in work'.
 
 * The initial animal to human of  Sars-Cov-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
 
-### Adapted Protections Measures 
-Supposing, as argued above, that the main transmission of Sars-Cov-2 is either aerosol or dry form, which is NOT yet confirmed.
+
+<p id=measures>-----</p>
+
+### Suggested Protections Measures 
+Supposing that the main transmission of Sars-Cov-2 is either aerosol or dry form, which is <strong>not</strong> yet confirmed.
 
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
@@ -187,6 +217,7 @@ Just smelling would be the theoretical possibility of an infection. But for the 
 This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm (probably above 1000 nm is enough). Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key. See [advices](#advices).
 
 
+<p id=references>-----</p>
 
 ## References
 
