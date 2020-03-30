@@ -30,10 +30,10 @@
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
 #### Minor Updates
+- 30.3.20: Reordered section Particle Deposition and added more references. 
 - 29.3.20: Fixed some mistakes (renamed lung ->the lungs or lung -> lower respiratory tract)
 - 28.3.20: Sections 'Model' and 'Evidence' from Biological Properties partly redone
-- 27.3.20: References redone. Named by correspondence author instead of numbered. 
-- 27/28.3.20: Public Advice extended and clarified. 
+- 27/28/30.3.20: Public Advice extended and clarified. 
 
 
 <p id=public-advice>-----</p>
@@ -137,7 +137,7 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 
 #### Intermezzo Particle Deposition and Clearance in the Respiratory Tract
 Conversational remarks about how I understand particle deposition models. <br>
-	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors [park](#park).
+	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
 
 ##### factors
 - particles properties such as diameter, density, form and material
@@ -150,7 +150,7 @@ Conversational remarks about how I understand particle deposition models. <br>
 There are [various methods](#methods) for the calculation of particulates depositions. For this work the deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
 
 ##### methods
-Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further - to my knowledge - most modeling methods ignore the softness and dynamics of the respiratory system - some newer take it into account to some extent [darquenne](#darquenne).
+Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further most modeling methods ignore the softness and dynamics of the respiratory system - some newer take it into account to some extent [darquenne](#darquenne).
 
 - Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). These methods yield some differential equations. These equations can be solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
 
