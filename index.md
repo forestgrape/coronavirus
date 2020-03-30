@@ -156,6 +156,7 @@ Modeling or experimentally determine the deposition rates is not easy and each m
 
     Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fuid dynamics. [Kleinstreuer et al](#kleinstreuer) used this method to compare the deposited particulates on in/exhalation between mice and humans.
 - Experimental in vivo settings:
+    * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
     * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
     * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
 - Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
@@ -501,5 +502,12 @@ TODO UPDATE REFERENCES
     <strong>Particle Disposition in the Realistic Airway Tree Models of Subjects with Tracheal Bronchus and COPD</strong>
     Hindawi BioMed Research International Volume 2018, Article ID 7428609, 15 pages https://doi.org/10.1155/2018/7428609
     
+    
+* ##### rissler
+    Rissler, Gudmundsson, Nicklasson, Swietlicki, Wollmer, Löndahl.
+    <strong>Deposition efficiency of inhaled particles (15-5000 nm) related to breathing pattern and lung function: an experimental study in healthy children and adults.</strong>
+    Jonas K. F. Jakobsson, Johan Hedlund, John Kumlin, Per Wollmer & Jakob Löndahl
+    Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
+    https://doi.org/10.1186/s12989-017-0190-8
     
 
