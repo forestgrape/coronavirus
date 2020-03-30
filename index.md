@@ -46,7 +46,7 @@ Do NOT take Covid-19 lightly: it can be very serious in short-term and wether th
 
 -    Wear a mask in all indoor places where infectious people can be or best avoid crowded indoor spaces entirely. Distancing also reduced the infection risk. 
     
-    Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
+Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
     
 - Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your frequently washed cloths inside keeps the air humid.  
 
@@ -483,11 +483,11 @@ TODO UPDATE REFERENCES
 	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
     
 * ##### rahimi-gorji
-    Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
-    <strong>Details of regional particle deposition and airflow structures
-    in a realistic model of human tracheobronchial airways: two-phase flow simulation</strong>
-    http://dx.doi.org/10.1016/j.compbiomed.2016.04.017
-    0010-4825/& 2016 Elsevier Ltd. All rights reserved.
+	Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
+	<strong>Details of regional particle deposition and airflow structures
+	in a realistic model of human tracheobronchial airways: two-phase flow simulation</strong>
+	http://dx.doi.org/10.1016/j.compbiomed.2016.04.017
+	0010-4825/& 2016 Elsevier Ltd. All rights reserved.
     
 * ##### park
     Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
@@ -513,10 +513,10 @@ TODO UPDATE REFERENCES
     
     
 * ##### rissler
-    Rissler, Gudmundsson, Nicklasson, Swietlicki, Wollmer, Löndahl.
-    <strong>Deposition efficiency of inhaled particles (15-5000 nm) related to breathing pattern and lung function: an experimental study in healthy children and adults.</strong>
-    Jonas K. F. Jakobsson, Johan Hedlund, John Kumlin, Per Wollmer & Jakob Löndahl
-    Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
-    https://doi.org/10.1186/s12989-017-0190-8
+	Rissler, Gudmundsson, Nicklasson, Swietlicki, Wollmer, Löndahl.
+	<strong>Deposition efficiency of inhaled particles (15-5000 nm) related to breathing pattern and lung function: an experimental study in healthy children and adults.</strong>
+	Jonas K. F. Jakobsson, Johan Hedlund, John Kumlin, Per Wollmer & Jakob Löndahl
+	Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
+	https://doi.org/10.1186/s12989-017-0190-8
     
 
