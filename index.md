@@ -45,8 +45,7 @@ Do NOT take Covid-19 lightly: it can be very serious in short-term and wether th
 - The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients.
 
 -    Wear a mask in all indoor places where infectious people can be or best avoid crowded indoor spaces entirely. Distancing also reduced the infection risk. 
-    
-Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
+	Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
     
 - Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your frequently washed cloths inside keeps the air humid.  
 
