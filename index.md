@@ -69,7 +69,7 @@ Hygiene is important because:
 
 ## Abstract
 A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
-The transmission models described in the literature (a recent recommended review is [Herfst](#herfst)  for viruses are:
+The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
 * Aerosols
