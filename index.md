@@ -133,6 +133,34 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 
 -->
 
+<p id=particle-deposition>---</p>
+
+#### Intermezzo Particle Deposition and Clearance in the Respiratory Tract
+Conversational remarks about how I understand particle deposition models. <br>
+	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors [park](#park).
+
+##### factors
+- particles properties such as diameter, density, form and material
+- breathing volume and frequency
+- air humidity and how much the air is moistened in the lung  [citation to be added and to explored further, may play an important role in Covid-19]
+- orientation respect to gravity i.e. wether horizontal or vertical
+<br><br>
+
+##### depositions
+There are [various methods](#methods) for the calculation of particulates depositions. For this work the deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
+
+##### methods
+Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further - to my knowledge - most modeling methods ignore the softness and dynamics of the respiratory system - some newer take it into account to some extent [darquenne](#darquenne).
+
+- Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). These methods yield some differential equations. These equations can be solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
+
+    Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fuid dynamics. [Kleinstreuer et al](#kleinstreuer) used this method to compare the deposited particulates on in/exhalation between mice and humans.
+- Experimental in vivo settings:
+    * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
+    * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
+- Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
+
+
 
 <p id=evidence>-----</p>
 
