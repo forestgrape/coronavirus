@@ -136,8 +136,17 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 <p id=particle-deposition>---</p>
 
 #### Intermezzo Particle Deposition and Clearance in the Respiratory Tract
-Conversational remarks about how I understand particle deposition models. <br>
-	How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
+Conversational remarks about how I understand particle deposition models. 
+
+Particle deposition and clearance are possibly relevant for Covid-19 in view of:
+* infection pathways
+* spread within the lower respiratory tract (pathogenesis)
+* spread to the pharynx (swab test and transmission)
+* spread out of the body (transmission)
+* depositions of medicaments for treatment
+
+
+How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
 
 ##### factors
 - particles properties such as diameter, density, form and material
