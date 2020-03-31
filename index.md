@@ -4,8 +4,9 @@
 * If the page is not shown correctly or either GitHub Preview or Markdown is prefered, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
 * This is work in progress, so mistakes of any form are likely. 
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
+<!-- * The page is soon going to be split up into different topics. -->
 
-<p id=content>-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason some titles are all lower case since the auto generated ids are used. -->
+<p id=content>-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason some titles are all lower case, since the auto generated ids are used. -->
 
 ## Content
 
@@ -30,10 +31,12 @@
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
 #### Minor Updates
+- 31.3.20: References how ventilation clears indoor air and is a part for containg airborne diseases. 
+- 30.3.20: Added references for size transformation of aerosols both in the [lung](#zhong2018) and in the [air](#marr)
 - 30.3.20: Reordered section Particle Deposition and added more references. 
 - 29.3.20: Fixed some mistakes (renamed lung ->the lungs or lung -> lower respiratory tract)
 - 28.3.20: Sections 'Model' and 'Evidence' from Biological Properties partly redone
-- 27/28/30.3.20: Public Advice extended and clarified. 
+- 27-31.3.20: Public Advice extended and clarified. 
 
 
 <p id=public-advice>-----</p>
@@ -47,14 +50,15 @@ Do NOT take Covid-19 lightly: it can be very serious in short-term and wether th
 -    Wear a mask in all indoor places where infectious people can be or best avoid crowded indoor spaces entirely. Distancing also reduced the infection risk. 
 	Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
     
-- Ventilate your rooms regularly by opening all windows for 10 minutes. Don't have very dry air inside. Drying your frequently washed cloths inside keeps the air humid.  
+- Ventilate your rooms regularly by opening all windows for 5 minutes. [Escombe and  colleagues](#escombe) have shown this is effective. Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid.
 
 - Keep proper hygiene. Especially wash your hands well after toilet. 
 Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So currently just avoid them all. 
-   * it is known that viruses causing commen cold are transmitted through droplets. These viruses can weaken the immun sytem defence [[kikkert](#kikkert)] and therefore could induce an increased infection risk.  
+   * it is known that viruses causing commen cold are transmitted through droplets. These viruses can weaken the immun sytem defence [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
+   * avoiding a common cold or flue is important, because these have often similar early symptoms as Covid-19. Which means quarantine for you and your close contacts and figuring out all people you could have infected and informing them.   
    
-  But do <strong>not</strong> rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur in indoor air](#spread-patterns) and not with droplets. 
+  But do <strong>not</strong> rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets. 
 
 - Measure and observe your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#zhang), [Wong](#wong), [Zhong](#zhong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
 
@@ -97,18 +101,21 @@ In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 k
 The newly proposed infection:
 * Dry Particulates in Air -> Lung
 
-in addition to the known aerosol pathway:
+where Dry Particulate is a small particulate with one or more viruses attached or possibly viruses attached to each other. 
+
+The above infection pathway is in addition to the known aerosol pathway:
 * Aersol with Virus in Air -> Respiratory Tract
 
-Aerosols containing particulates and dry particulates can convert to each other:
+Aerosols containing particulates and dry particulates can convert to each other in the air:
 
-* Dry Particulates in Air  -> Small Aersol with Virus in Air (more likely in humid air, particulates act as condensation nuclei)
-* Dry Particulates in Air  <- Small Aersol with Virus in Air (more likely in dry air)
+* Dry Particulates -> Small Aersol containing a Particulate (more likely in humid air, particulates act as condensation nuclei)
+* Dry Particulates <- Small Aersol containing a Particulate (more likely in dry air)
 
-and smaller aerosol can convert to larger: 
+and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [marr](#marr)): 
 * Small Aerosol <-> Large Aerosol (in dry air equilibrium tends to the left, in humid to the right)
 
-The larger tend to fall to the ground, since their movement is driven more by gravity.
+
+The larger tend to fall to the ground, since their movement is driven more by gravity. 
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles on the floor or fomites or from faeces. [to check: vacuum cleaner particle filter size].  [to be improved and check if dirt is relevant]
 
@@ -138,19 +145,19 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 Conversational remarks about how I understand particle deposition models. 
 
 Particle deposition and clearance are possibly relevant for Covid-19 in view of:
-* infection pathways
+* infection pathway
 * spread within the lower respiratory tract (pathogenesis)
 * spread to the pharynx (swab test and transmission)
 * spread out of the body (transmission)
 * depositions of medicaments for treatment
 
 
-How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
+How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors ([park et al](#park) have recently written a review). 
 
 ##### factors
 - particles properties such as diameter, density, form and material
 - breathing volume and frequency
-- air humidity and how much the air is moistened in the lung  [citation to be added and to explored further, may play an important role in Covid-19]
+- air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
 - orientation respect to gravity i.e. wether horizontal or vertical
 <br><br>
 
@@ -158,11 +165,11 @@ How many particles are deposited/absorbed in which region of the respiratory tra
 There are [various methods](#methods) for the calculation of particulates depositions. For this work the deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
 
 ##### methods
-Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further most modeling methods ignore the softness and dynamics of the respiratory system - some newer take it into account to some extent [darquenne](#darquenne).
+Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). A well explaind plained overview is the thesis by [lindstrom](#lindstrom). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further most modeling methods ignore the softness and dynamics of the respiratory system - some newer take it into account to some extent [darquenne](#darquenne).
 
 - Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). These methods yield some differential equations. These equations can be solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
 
-    Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fuid dynamics. [Kleinstreuer et al](#kleinstreuer) used this method to compare the deposited particulates on in/exhalation between mice and humans.
+    Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fuid dynamics e.g. [kleinstreuer](#kleinstreuer), [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
 - Experimental in vivo settings:
     * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
     * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
@@ -230,6 +237,9 @@ When avoiding the influenza aerosol spread is avoiding somebody’s reek of alco
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 
 This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm (probably above 1000 nm is enough). Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key. See [public-advice](#public-advice).
+
+* [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
+* [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that a good ventilation can be as effective as vaccinating around half of the population. 
 
 
 <p id=references>-----</p>
@@ -441,11 +451,28 @@ TODO UPDATE REFERENCES
 	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
 	<strong>Transmission routes of respiratory viruses among humans.</strong>
 	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
+    
+* ##### marr
+    Yang, W., & Marr, L. C. (2011). <strong>Dynamics of airborne influenza A viruses indoors and dependence on humidity. </strong> PloS one, 6(6), e21481. https://doi.org/10.1371/journal.pone.0021481
+    
+    
+### Control and Containing Measures
+
+* ##### noakes
+    Gilkeson, CA, Camargo-Valero, MA, Pickin, LE and Noakes, CJ (2013)
+    Measurement of ventilation and airborne infection risk in large naturally ventilated
+    hospital wards. Building and Environment, 65. 35 – 48. https://dx.doi.org/10.1016/j.buildenv.2013.03.006
+    
+* ##### escombe
+    Escombe, A. R., Oeser, C. C., Gilman, R. H., Navincopa, M., Ticona, E., Pan, W., Martínez, C., Chacaltana, J., Rodríguez, R., Moore, D. A., Friedland, J. S., & Evans, C. A. (2007). Natural ventilation for the prevention of airborne contagion. PLoS medicine, 4(2), e68. https://doi.org/10.1371/journal.pmed.0040068
+    
+* ##### salathe
+    Smieszek, T., Lazzari, G., & Salathé, M. (2019). Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System. Scientific reports, 9(1), 2185. https://doi.org/10.1038/s41598-019-38825-y
 
 
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
-[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description of approximative models used 20 years ago. [qi](#qi) shows that particle deposition is individual and may/can be different for lung diseases. 
+[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description and [lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of a lung diseases. 
 
 
 * ##### stuart
@@ -462,14 +489,6 @@ TODO UPDATE REFERENCES
 * ##### kleinstreuer
 	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
 	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
-    
-* ##### baron
-	Paul Baron<strong>
-	Generation and Behavior
-	of Airborne Particles (Aerosols) </strong>
-	Division of Applied Technology
-	National Institute for Occupational Safety and Health
-	Centers for Disease Control and Prevention      https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
        
 * ##### sznitman
 	Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
@@ -481,13 +500,6 @@ TODO UPDATE REFERENCES
 	<strong>Chaotic mixing deep in the lung.</strong>
 	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
     
-* ##### rahimi-gorji
-	Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
-	<strong>Details of regional particle deposition and airflow structures
-	in a realistic model of human tracheobronchial airways: two-phase flow simulation</strong>
-	http://dx.doi.org/10.1016/j.compbiomed.2016.04.017
-	0010-4825/& 2016 Elsevier Ltd. All rights reserved.
-    
 * ##### park
     Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
     <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
@@ -498,8 +510,7 @@ TODO UPDATE REFERENCES
     <strong>Deposition of Inhaled Particles in the Human Respiratory Tract and Consequences for Regional Targeting in Respiratory Drug Delivery</strong>
     Proc Am Thorac Soc Vol 1. pp 315–320, 2004
     https://doi.org/10.1513/pats.200409-046TA Internet address: www.atsjournals.org
-    
-    
+        
 * ##### darquenne
     BY C. DARQUENNE*, L. HARRINGTON AND G. K. PRISK
     <strong>Alveolar duct expansion greatly enhances aerosol deposition: a three-dimensional computational fluid dynamics study</strong>
@@ -518,4 +529,29 @@ TODO UPDATE REFERENCES
 	Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
 	https://doi.org/10.1186/s12989-017-0190-8
     
+* ##### zhong18
+    Xiaole Chen, Clement Kleinstreuer, Wenqi Zhong, Yu Feng & Xianguang Zhou (2018) <strong>Effects of thermal airflow and mucus-layer interaction on hygroscopic droplet deposition in a simple mouth–throat model</strong>, Aerosol Science and Technology, 52:8, 900-912, DOI: 10.1080/02786826.2018.1476751
+    
+* ##### lindstrom
+    Lindström Bagge, Maria. (2004).<strong>Particles in small airways: 
+    mechanisms for deposition and clearance & Pharmacokinetic assessment of delivered 
+    dose to the lung.    </strong>    https://openarchive.ki.se/xmlui/handle/10616/37702
+   
+* ##### rahimi-gorji
+	Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
+	<strong>Details of regional particle deposition and airflow structures
+	in a realistic model of human tracheobronchial airways: two-phase flow simulation</strong>
+	http://dx.doi.org/10.1016/j.compbiomed.2016.04.017
+	0010-4825/& 2016 Elsevier Ltd. All rights reserved.
+
+* ##### baron
+	Paul Baron<strong>
+	Generation and Behavior
+	of Airborne Particles (Aerosols) </strong>
+	Division of Applied Technology
+	National Institute for Occupational Safety and Health
+	Centers for Disease Control and Prevention      https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
+
+
+
 
