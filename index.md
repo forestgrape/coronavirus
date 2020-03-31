@@ -31,7 +31,7 @@
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
 #### Minor Updates
-- 31.3.20: References how ventilation clears indoor air and is a part for containg airborne diseases. 
+- 31.3.20: Section and references how ventilation clears indoor air and effective for containg airborne infection pathways. 
 - 30.3.20: Added references for size transformation of aerosols both in the [lung](#zhong2018) and in the [air](#marr)
 - 30.3.20: Reordered section Particle Deposition and added more references. 
 - 29.3.20: Fixed some mistakes (renamed lung ->the lungs or lung -> lower respiratory tract)
@@ -50,7 +50,7 @@ Do NOT take Covid-19 lightly: it can be very serious in short-term and wether th
 -    Wear a mask in all indoor places where infectious people can be or best avoid crowded indoor spaces entirely. Distancing also reduced the infection risk. 
 	Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
     
-- Ventilate your rooms regularly by opening all windows for 5 minutes. [Escombe and  colleagues](#escombe) have shown this is effective. Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid.
+- Ventilate your rooms regularly by opening all windows for 5 minutes. [Ventilation](#ventilation) has been shown to be effective. Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid.
 
 - Keep proper hygiene. Especially wash your hands well after toilet. 
 Hygiene is important because:
@@ -237,6 +237,8 @@ When avoiding the influenza aerosol spread is avoiding somebody’s reek of alco
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 
 This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm (probably above 1000 nm is enough). Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key. See [public-advice](#public-advice).
+
+#### ventilation (work in progress)
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
 * [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that a good ventilation can be as effective as vaccinating around half of the population. 
