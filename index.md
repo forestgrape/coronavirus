@@ -6,7 +6,7 @@
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
 <!-- * The page is soon going to be split up into different topics. -->
 
-<p id=content>-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason some titles are all lower case, since the auto generated ids are used. -->
+<p id=content>-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
 
 ## Content
 
@@ -31,7 +31,7 @@
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
 #### Minor Updates
-- 31.3.20: Section and references how ventilation clears indoor air and effective for containg airborne infection pathways. 
+- 31.3.20: Section and references how ventilation clears indoor air and effective for containing airborne infection pathways. 
 - 30.3.20: Added references for size transformation of aerosols both in the [lung](#zhong2018) and in the [air](#marr)
 - 30.3.20: Reordered section Particle Deposition and added more references. 
 - 29.3.20: Fixed some mistakes (renamed lung ->the lungs or lung -> lower respiratory tract)
@@ -43,11 +43,11 @@
 
 ## Public Advice
 
-Do NOT take Covid-19 lightly: it can be very serious in short-term and wether there are possible long-term effects is unknown.  
+Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown.  
    
 - The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients.
 
--    Wear a mask in all indoor places where infectious people can be or best avoid crowded indoor spaces entirely. Distancing also reduced the infection risk. 
+-    Wear a mask in all indoor places where infectious people can be or best avoid crowded indoor spaces entirely. Distancing also reduces infection risk. 
 	Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
     
 - Ventilate your rooms regularly by opening all windows for 5 minutes. [Ventilation](#ventilation) has been shown to be effective. Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid.
@@ -55,8 +55,8 @@ Do NOT take Covid-19 lightly: it can be very serious in short-term and wether th
 - Keep proper hygiene. Especially wash your hands well after toilet. 
 Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So currently just avoid them all. 
-   * it is known that viruses causing commen cold are transmitted through droplets. These viruses can weaken the immun sytem defence [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
-   * avoiding a common cold or flue is important, because these have often similar early symptoms as Covid-19. Which means quarantine for you and your close contacts and figuring out all people you could have infected and informing them.   
+   * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
+   * avoiding a common cold or flu is important, because these have often similar early symptoms as Covid-19. This means quarantine for you and your close contacts and figuring out all people you could have infected and informing them.   
    
   But do <strong>not</strong> rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets. 
 
@@ -65,7 +65,7 @@ Hygiene is important because:
 - Live a healthy lifestyle 
     * sleep enough, eat healthily and do some sport
     
-    and avoid anything that weakens your immun system:
+    and avoid anything that weakens your immune system:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
 
 <p id=abstract>-----</p>
@@ -84,7 +84,7 @@ Compared to aerosols, tiny dry particulates can diffuse around smoke-like - smok
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Sars-Cov. 
-* the entry receptor of Sars-Cov (ACE2) distribution and the observed viral loads in different organs indicate that Sars-Cov has the lower respiratory tract as obligate entry point.  Particle deposition at inhalation, which show that mainly aerosols and dry particulates are entering the lower respiratory tract, suggest that these two are the only Sars-Cov transmitters. The viral loads in the pharynx are in agreement with experiments showing that upon exhalation particles are deposited there. 
+* the entry receptor of Sars-Cov (ACE2) distribution and the observed viral loads in different organs indicate that Sars-Cov has the lower respiratory tract as the obligate entry point.  Particle deposition at inhalation, which shows that mainly aerosols and dry particulates are entering the lower respiratory tract, suggests that these two are the only Sars-Cov transmitters. The viral loads in the pharynx are in agreement with experiments showing that upon exhalation particles are deposited there. 
 
 The overall argumentation suggests, that the most relevant transmission models are aerosol and the proposed dry form. 
 
@@ -115,11 +115,11 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [mar
 * Small Aerosol <-> Large Aerosol (in dry air equilibrium tends to the left, in humid to the right)
 
 
-The larger tend to fall to the ground, since their movement is driven more by gravity. 
+The larger tend to fall to the ground since their movement is driven more by gravity. 
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles on the floor or fomites or from faeces. [to check: vacuum cleaner particle filter size].  [to be improved and check if dirt is relevant]
 
-Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking [citation to be added]. In the the upper respiratory tract there are viruses too, since particles exhaled from the lung are often [deposited](#depositions) in the upper respiratory tract. This is exploited for Covid-19 swab tests in the pharynx. 
+Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking [citation to be added]. In the upper respiratory tract there are viruses since particles exhaled from the lung are often [deposited](#depositions) in the upper respiratory tract. This is exploited for Covid-19 swab tests in the pharynx. 
 
 
 <!--
@@ -134,7 +134,7 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 
 ##### and Source
 * source = lung for a,b
-* source = faeces [evidence from ] and possibly the lung (calculations are on the way wether the relative humidity in the lung can be low enough)
+* source = faeces [evidence from ] and possibly the lung (calculations are on the way whether the relative humidity in the lung can be low enough)
 * source can also be indirect. However one has to keep in mind that for the probability to be in two digit percentages there need to be many infectious particulates in the air. 
 
 -->
@@ -149,7 +149,7 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 * spread within the lower respiratory tract (pathogenesis)
 * spread to the pharynx (swab test and transmission)
 * spread out of the body (transmission)
-* depositions of medicaments for treatment
+* depositions of medicaments for the treatment
 
 
 How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors ([park et al](#park) have recently written a review). 
@@ -165,14 +165,16 @@ How many particles are deposited/absorbed in which region of the respiratory tra
 There are [various methods](#methods) for the calculation of particulates depositions. For this work the deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
 
 ##### methods
-Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). A well explaind plained overview is the thesis by [lindstrom](#lindstrom). Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Further most modeling methods ignore the softness and dynamics of the respiratory system - some newer take it into account to some extent [darquenne](#darquenne).
+Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). In her thesis [Lindstrom](#lindstrom) explaines well the principles. 
+
+Often good agreement for modeling methods compared to 'in vivo' measurements are shown, however quite many estimates for parameters have to be taken and thus overfitting could occur. Additionally, most modeling methods ignore the softness and dynamics of the respiratory system - some newer take it into account to some extent [darquenne](#darquenne).
 
 - Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). These methods yield some differential equations. These equations can be solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
 
-    Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fuid dynamics e.g. [kleinstreuer](#kleinstreuer), [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
+    Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics e.g. [kleinstreuer](#kleinstreuer), [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
 - Experimental in vivo settings:
     * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
-    * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes the air goes not fare into to lung and so for this part the absorbtion is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
+    * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
     * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
 - Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
 
@@ -188,7 +190,7 @@ Modeling or experimentally determine the deposition rates is not easy and each m
 #### entry-point
 The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that another Coronavirinae, namely 229E, infects the cells from the apical surface [[McCray](#mccray)], indicate that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
 
-This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads were the lungs [Farcas et al](#farcas). That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
+This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads is the lungs [Farcas et al](#farcas). That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
 
 From the above argumentation lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. 
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
@@ -223,7 +225,7 @@ The primary spreading in very dry (indoor) areas would also explain why the desc
 	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals \[citation to be added]).
 #### Further evidences
 Remark: The following pieces of evidence are 'in work'. 
-* In humid and warm temperature environments (above 33 degrees) there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselfs within aerosols. In this case an aerosol like spreading pattern with no super-spreading events would be expected. 
+* In humid and warm temperature environments (above 33 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols. In this case, an aerosol like spreading pattern with no super-spreading events would be expected. 
 
 * The initial animal to human of  Sars-Cov-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
 
@@ -241,7 +243,7 @@ This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering ou
 #### ventilation (work in progress)
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that a good ventilation can be as effective as vaccinating around half of the population. 
+* [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
 
 <p id=references>-----</p>
@@ -250,7 +252,7 @@ This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering ou
 
 #### Note 
 * Sometimes reviews or remarks in introductions are cited which reference further to the original work. 
-* References are grouped by topic. In the case where several topics apply, one has been choosen. 
+* References are grouped by topic. In the case where several topics apply, one has been chosen. 
 * Instead of numbered the references are named by the correspondence author or a descriptive tag.   
 
 <!--
@@ -474,7 +476,7 @@ TODO UPDATE REFERENCES
 
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
-[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description and [lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of a lung diseases. 
+[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description and [lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
 
 
 * ##### stuart
