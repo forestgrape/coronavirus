@@ -31,7 +31,7 @@
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
 #### Minor Updates
-- 31.3.20: Section and references how ventilation clears indoor air and effective for containing airborne infection pathways. 
+- 31.3.20: Section and references how ventilation clears indoor air and is effective for containing airborne infection pathways. 
 - 30.3.20: Added references for size transformation of aerosols both in the [lung](#zhong2018) and in the [air](#marr)
 - 30.3.20: Reordered section Particle Deposition and added more references. 
 - 29.3.20: Fixed some mistakes (renamed lung ->the lungs or lung -> lower respiratory tract)
