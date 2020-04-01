@@ -12,8 +12,6 @@
 
 * [Updates](#updates)
 * [Public Advice](#public-advice)
-* [Research Ideas](#research-ideas)
-* [Covid-19](#covid-19)
 * [Abstract Dry Form Transmission](#abstract)
 * [Model](#model)
 * [Intermezzo Particle Deposition and Clearance in the Respiratory Tract](#particle-deposition)
