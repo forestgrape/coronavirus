@@ -1,21 +1,20 @@
-# Proposal of a Dry Form Transmission Model for the Betacoronavirus
+# Thoughts and Ideas about the Betacoronavirus
 
 ## Note
 * If the page is not shown correctly or either GitHub Preview or Markdown is prefered, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
 * This is work in progress, so mistakes of any form are likely. 
-* These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts.
+* These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts. They are put here as ideas to be checked and evaluated. Pointing out mistakes and feedback are welcome. 
 <!-- * The page is soon going to be split up into different topics. -->
 
 <p id=content>-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
-
-
-
 
 ## Content
 
 * [Updates](#updates)
 * [Public Advice](#public-advice)
-* [Abstract](#abstract)
+* [Research Ideas](#research-ideas)
+* [Covid-19](#covid-19)
+* [Abstract Dry Form Transmission](#abstract)
 * [Model](#model)
 * [Intermezzo Particle Deposition and Clearance in the Respiratory Tract](#particle-deposition)
 * [Evidence for the Dry Form Transmission Model](#evidence)
@@ -25,7 +24,6 @@
 * [References](#references)
 
 <p id=updates>-----</p> 
-
 
 ## Updates
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation. 
@@ -54,13 +52,15 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 
 - Distancing reduces infection risk. 
     
-- Ventilate your rooms regularly by opening all windows for 5 minutes. [Ventilation](#ventilation) has been shown to be effective. Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid.
+- Ventilate your rooms regularly by opening all windows for 5 minutes. [Ventilation](#ventilation) has been shown to be effective. Outside, if keeping distance, is save anyway. 
+
+- Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air both dust and viruses stay longer in the air. 
 
 - Keep proper hygiene. Especially wash your hands well after toilet. 
 Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So currently just avoid them all. 
    * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
-   * avoiding a common cold or flu is important, because these have often similar early symptoms as Covid-19. This means quarantine for you and your close contacts and figuring out all people you could have infected and informing them.   
+   * avoiding a common cold or flu is important, because these have often similar early symptoms as Covid-19. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informing them.   
    
   But do <strong>not</strong> rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets. 
 
@@ -71,10 +71,9 @@ Hygiene is important because:
     
     and avoid anything that weakens your immune system:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
+   
 
-<p id=abstract>-----</p>
-
-## Abstract
+## Abstract Dry Form Transmission
 A new dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
@@ -145,7 +144,7 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 
 <p id=particle-deposition>---</p>
 
-#### Intermezzo Particle Dynamics in the Respiratory Tract
+## Intermezzo Particle Dynamics in the Respiratory Tract
 Conversational remarks about how I understand particle deposition models. 
 
 Particle deposition and clearance are possibly relevant for Covid-19 in view of:
@@ -158,20 +157,22 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 
 How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review). 
 
-##### factors
+#### factors
 - particles properties such as diameter, density, form and material
 - breathing volume and frequency [hofemeier](#hofemeier)
 - air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
 - orientation respect to gravity i.e. wether horizontal or vertical
-<br><br>
-
-#### Spreading Particles out of the Respiratory Tract
-
-* Larger particles i.e. droplet are mostly spread at coughing
-* Small aersols (<1 micro meter) 
 
 
-#### Deposition Patterns of Particles 
+
+
+#### spreading particles
+
+* Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
+* Small aersols from the lower respiratory tract (<1 micro meter) are spread with breathing. So Covid-19 can be spread with breathing alone. 
+
+
+#### Deposition Patterns of Particles in the Respiratory Tract
 
 * Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworty is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
 
@@ -189,11 +190,13 @@ Often good agreement for modeling methods compared to 'in vivo' measurements are
 - Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). An often used such model has been done by the International Commission on Radiological Protection (ICRP) [Bailey 94](#bailey). These methods yield some differential equations. These equations can be solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
 
     Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics e.g. [kleinstreuer](#kleinstreuer), [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
+    
+- Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
+
 - Experimental in vivo settings:
     * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
     * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
     * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
-- Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
 
 
 
@@ -209,7 +212,8 @@ The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[H
 
 This is consistent with the viral loads observed in different parts of the body: 
 * The only location where all patients had viral Sars-Cov-1 loads is the lungs [Farcas et al](#farcas). 
-* For MERS-Cov both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (bronchoalveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum) [memish](#memish). The three bronchoalveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to "hijack" a cell depends not only on the cell entry receptor alone (extended explanation in work). So this is just an evidence piece in the overall picture. 
+* For MERS-Cov both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (bronchoalveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum) [memish](#memish). The three bronchoalveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
+Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
 
 That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
 
@@ -243,12 +247,14 @@ The primary spreading in very dry (indoor) areas would also explain why the desc
 	* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
 	* 2019/2020 in Europe - Italy especially [LE](#le)<br>
 	
-	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals \[citation to be added]).
+	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citation to be added]).
     
     
     
 #### Further evidences
+
 Remark: The following pieces of evidence are 'in work'. 
+
 * In humid and warm temperature environments (above 33 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols. In this case, an aerosol like spreading pattern with no super-spreading events would be expected. 
 
 * The initial animal to human of  Sars-Cov-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
@@ -322,8 +328,7 @@ TODO UPDATE REFERENCES
     Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,
     Jeannette Guarner MDa, Cynthia S. Goldsmith MSa, Kathleen Tatti PhDa,
     Michelle Packard MPHa, Laurie Mueller BA, BSa, Mu-Zong Wub, Pierre Rollin MDc,
-    Ih-Jen Su MD, PhDd, Sherif R. Zaki MD, PhDa,
-    <strong>Immunohistochemical, in situ hybridization,
+    Ih-Jen Su MD, PhDd, Sherif R. Zaki MD, PhDa, <strong>Immunohistochemical, in situ hybridization,
     and ultrastructural localization of SARS-associated
     coronavirus in lung of a fatal case of severe acute
     respiratory syndrome in Taiwan</strong>Human Pathology (2005) 36, 303 – 309
