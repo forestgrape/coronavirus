@@ -25,7 +25,7 @@
 
 ## Updates
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation. 
-    In the first version, I had written that aerosols don't enter the lungs. Aerosols DO enter the lungs. The train of thought yielding the first: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
+    In the first version, I had written that aerosols don't enter the lungs. That was false; aerosols DO enter the lungs. The train of thought yielding the first: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
     1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
