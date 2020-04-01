@@ -8,6 +8,9 @@
 
 <p id=content>-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
 
+
+
+
 ## Content
 
 * [Updates](#updates)
@@ -41,14 +44,15 @@
 
 <p id=public-advice>-----</p>
 
-## Public Advice
+## Public Advices and Suggestions
 
 Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown.  
    
-- The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue (many people dry coughing), wearing a mask is important. This can be the case in a train with people coughing or in a hospital treating Covid-19 patients.
+- The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, will be smelled in the next floor. For Covid-19 this means in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in <strong>all</strong> rooms is important.
 
--    Wear a mask in all indoor places where infectious people can be or best avoid crowded indoor spaces entirely. Distancing also reduces infection risk. 
-	Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
+- Wear a mask in indoor places where infectious people can be or best avoid crowded indoor spaces entirely; especially when staying longer, the infection risk increases with the amount of air breathed. Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1). 
+
+- Distancing reduces infection risk. 
     
 - Ventilate your rooms regularly by opening all windows for 5 minutes. [Ventilation](#ventilation) has been shown to be effective. Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid.
 
@@ -115,11 +119,11 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [mar
 * Small Aerosol <-> Large Aerosol (in dry air equilibrium tends to the left, in humid to the right)
 
 
-The larger tend to fall to the ground since their movement is driven more by gravity. 
+The larger tend to fall to the ground since their movement is driven more by gravity (e.g. described in [tellier](#tellier)). 
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles on the floor or fomites or from faeces. [to check: vacuum cleaner particle filter size].  [to be improved and check if dirt is relevant]
 
-Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking [citation to be added]. In the upper respiratory tract there are viruses since particles exhaled from the lung are often [deposited](#depositions) in the upper respiratory tract. This is exploited for Covid-19 swab tests in the pharynx. 
+Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking [morawska](#morawska). In the upper respiratory tract there are viruses since particles exhaled from the lung are often [deposited](#depositions) in the upper respiratory tract. This is exploited for Covid-19 swab tests in the pharynx. 
 
 
 <!--
@@ -141,7 +145,7 @@ Infectious aerosols can get into the air from the lower or upper respiratory tra
 
 <p id=particle-deposition>---</p>
 
-#### Intermezzo Particle Deposition and Clearance in the Respiratory Tract
+#### Intermezzo Particle Dynamics in the Respiratory Tract
 Conversational remarks about how I understand particle deposition models. 
 
 Particle deposition and clearance are possibly relevant for Covid-19 in view of:
@@ -152,17 +156,30 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 * depositions of medicaments for the treatment
 
 
-How many particles are deposited/absorbed in which region of the respiratory tract depends on various factors ([park et al](#park) have recently written a review). 
+How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review). 
 
 ##### factors
 - particles properties such as diameter, density, form and material
-- breathing volume and frequency
+- breathing volume and frequency [hofemeier](#hofemeier)
 - air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
 - orientation respect to gravity i.e. wether horizontal or vertical
 <br><br>
 
-##### depositions
-There are [various methods](#methods) for the calculation of particulates depositions. For this work the deposition rates both for inhale and exhale shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". [diagram to be added]
+#### Spreading Particles out of the Respiratory Tract
+
+* Larger particles i.e. droplet are mostly spread at coughing
+* Small aersols (<1 micro meter) 
+
+
+#### Deposition Patterns of Particles 
+
+* Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworty is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
+
+* [Zhong](#zhong) et al describe that the particles can be moistend upon inhale and this has an effect on depositions locations. 
+
+* The particles depositions aren't equal for the left and right lung and bronchus [Rahimi-Gorji](#rahimi-gorji), [kleinstreuer2017](#kleinstreuer2017)
+
+* Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
 
 ##### methods
 Modeling or experimentally determine the deposition rates is not easy and each method has drawbacks. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). In her thesis [Lindstrom](#lindstrom) explaines well the principles. 
@@ -190,7 +207,11 @@ Often good agreement for modeling methods compared to 'in vivo' measurements are
 #### entry-point
 The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that another Coronavirinae, namely 229E, infects the cells from the apical surface [[McCray](#mccray)], indicate that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
 
-This is consistent with the viral loads observed in different parts of the body: The only location where all patients had viral loads is the lungs [Farcas et al](#farcas). That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
+This is consistent with the viral loads observed in different parts of the body: 
+* The only location where all patients had viral Sars-Cov-1 loads is the lungs [Farcas et al](#farcas). 
+* For MERS-Cov both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (bronchoalveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum) [memish](#memish). The three bronchoalveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to "hijack" a cell depends not only on the cell entry receptor alone (extended explanation in work). So this is just an evidence piece in the overall picture. 
+
+That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
 
 From the above argumentation lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. 
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
@@ -223,6 +244,9 @@ The primary spreading in very dry (indoor) areas would also explain why the desc
 	* 2019/2020 in Europe - Italy especially [LE](#le)<br>
 	
 	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals \[citation to be added]).
+    
+    
+    
 #### Further evidences
 Remark: The following pieces of evidence are 'in work'. 
 * In humid and warm temperature environments (above 33 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols. In this case, an aerosol like spreading pattern with no super-spreading events would be expected. 
@@ -353,7 +377,8 @@ TODO UPDATE REFERENCES
     March 27, 2020 https://doi.org/10.1016/ S1473-3099(20)30200-0<br>
     See Online/Comment https://doi.org/10.1016/ S1473-3099(20)30237-1
     
-     
+* ##### memish
+    Ziad A. Memish, Jaffar A. Al-Tawfiq, Hatem Q. Makhdoom, Abdullah Assiri, Raafat F. Alhakeem, Ali Albarrak, Sarah Alsubaie, Abdullah A. Al-Rabeeah, Waleed H. Hajomar, Raheela Hussain, Ali M. Kheyami, Abdullah Almutairi, Esam I. Azhar, Christian Drosten, Simon J. Watson, Paul Kellam, Matthew Cotten, Alimuddin Zumla, Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome, The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
     
 ### Biology of Coronaviruses 
 
@@ -425,6 +450,10 @@ TODO UPDATE REFERENCES
 	https://doi.org/10.1002/path.1570    
     
     
+    ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia
+Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray Jr
+Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
+    
 ### Epidemiological Patterns
     
 *  ##### le
@@ -458,20 +487,25 @@ TODO UPDATE REFERENCES
     
 * ##### marr
     Yang, W., & Marr, L. C. (2011). <strong>Dynamics of airborne influenza A viruses indoors and dependence on humidity. </strong> PloS one, 6(6), e21481. https://doi.org/10.1371/journal.pone.0021481
-    
-    
-### Control and Containing Measures
 
-* ##### noakes
-    Gilkeson, CA, Camargo-Valero, MA, Pickin, LE and Noakes, CJ (2013)
-    Measurement of ventilation and airborne infection risk in large naturally ventilated
-    hospital wards. Building and Environment, 65. 35 – 48. https://dx.doi.org/10.1016/j.buildenv.2013.03.006
+### Droplet and Aerosol Transformations
+
+* ##### marawska06
+    Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
     
-* ##### escombe
-    Escombe, A. R., Oeser, C. C., Gilman, R. H., Navincopa, M., Ticona, E., Pan, W., Martínez, C., Chacaltana, J., Rodríguez, R., Moore, D. A., Friedland, J. S., & Evans, C. A. (2007). Natural ventilation for the prevention of airborne contagion. PLoS medicine, 4(2), e68. https://doi.org/10.1371/journal.pmed.0040068
+### Exhaled Breath Condensate and Virus Shedding
+
+* ##### milton2018
+    Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
+    <strong> Aerosol shedding of infectious influenza virus</strong>
+    Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
     
-* ##### salathe
-    Smieszek, T., Lazzari, G., & Salathé, M. (2019). Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System. Scientific reports, 9(1), 2185. https://doi.org/10.1038/s41598-019-38825-y
+* ##### milton2013
+Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks. PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
+    
+* ##### morawska
+    Johnson, Graham & Morawska, Lidia & Ristovski, Zoran & Hargreaves, M. & Mengersen, K. & Chao, Christopher & Wan, Man-Pun & Li, Yuguo & Xie, Xiaojian & Katoshevski, David & Corbett, Shay. (2011). Modality of human expired aerosol size distributions. Journal of Aerosol Science - J AEROSOL SCI. 42. 839-851. https://doi.org/10.1016/j.jaerosci.2011.07.009. 
+
 
 
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
@@ -493,7 +527,12 @@ TODO UPDATE REFERENCES
 * ##### kleinstreuer
 	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
 	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
-       
+    
+* ##### kleinstreuer2017
+    Arun V. Kolanjiyila, Clement Kleinstreuer
+    <strong>Computational Analysis of Aerosol-Dynamics in a Human Whole-Lung Airway Model</strong>
+    https://dx.doi.org/10.1016/j.jaerosci.2017.10.001
+    
 * ##### sznitman
 	Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
 	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
@@ -548,13 +587,30 @@ TODO UPDATE REFERENCES
 	http://dx.doi.org/10.1016/j.compbiomed.2016.04.017
 	0010-4825/& 2016 Elsevier Ltd. All rights reserved.
 
-* ##### baron
-	Paul Baron<strong>
-	Generation and Behavior
-	of Airborne Particles (Aerosols) </strong>
-	Division of Applied Technology
-	National Institute for Occupational Safety and Health
-	Centers for Disease Control and Prevention      https://www.cdc.gov/niosh/topics/aerosols/pdfs/Aerosol_101.pdf
+* ##### hofemeier
+    Philipp Hofemeier, Kenishiro Koshiyama, Shigeo Wada, and Josué Sznitman
+	<strong>One (sub-)acinus for all: Fate of inhaled aerosols in heterogeneous pulmonary acinar structures</strong> Eur J Pharm Sci. 2018 February 15; 113: 53–63. https://doi.org/10.1016/j.ejps.2017.09.033
+
+    
+    
+    
+    
+    
+### Control and Containing Measures
+
+* ##### noakes
+    Gilkeson, CA, Camargo-Valero, MA, Pickin, LE and Noakes, CJ (2013)
+    Measurement of ventilation and airborne infection risk in large naturally ventilated
+    hospital wards. Building and Environment, 65. 35 – 48. https://dx.doi.org/10.1016/j.buildenv.2013.03.006
+    
+* ##### escombe
+    Escombe, A. R., Oeser, C. C., Gilman, R. H., Navincopa, M., Ticona, E., Pan, W., Martínez, C., Chacaltana, J., Rodríguez, R., Moore, D. A., Friedland, J. S., & Evans, C. A. (2007). Natural ventilation for the prevention of airborne contagion. PLoS medicine, 4(2), e68. https://doi.org/10.1371/journal.pmed.0040068
+    
+* ##### salathe
+    Smieszek, T., Lazzari, G., & Salathé, M. (2019). Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System. Scientific reports, 9(1), 2185. https://doi.org/10.1038/s41598-019-38825-
+    
+    
+
 
 
 
