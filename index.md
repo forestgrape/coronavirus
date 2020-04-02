@@ -26,7 +26,6 @@
 <p id=updates>-----</p> 
 
 ## Updates
-- Added Section research ideas
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation. 
     In the first version, I had written that aerosols don't enter the lungs. That was false. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
     1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
@@ -46,11 +45,11 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
    
 - The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travel to the next floor. For Covid-19 this means in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in <strong>all</strong> rooms is important.
 
-- Wear a mask in indoor places where infectious people can be or best avoid crowded indoor spaces entirely; especially when staying longer, the infection risk increases with the amount of air breathed. Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it with soap - there's more than Sars-Cov-2. 
+- Wear a mask in indoor places where infectious people can be and best avoid crowded indoor spaces entirely. To longer one stays the more important is a mask, the infection risk increases with the amount of air breathed. Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it with soap - there's more than Sars-Cov-2!
 
 - Distancing reduces infection risk. 
 
-- Outside, if keeping distance, is safe. 
+- Outside, <strong>if keeping distance</strong>, is safe. 
     
 - Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected always ventilate your room before opening the door of your and your flat. [Ventilation](#ventilation) has been shown to be effective. 
 
@@ -75,7 +74,7 @@ Hygiene is important because:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
     * try reducing stress for yourself and others. Trying too hard won't help though. 
     
-  Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we all have been and are facing through our entire evolutions. 
+  Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we all have been and are facing through our entire evolution. 
 
 
 
