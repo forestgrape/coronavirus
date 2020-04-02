@@ -42,7 +42,7 @@
 <p id=public-advice>-----</p>
 
 ## Public Suggestions, Advices and Thoughts
-Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither unlike viruses we've got a mind. It's just time to act mindfully and keep that.  
+Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither unlike viruses we've got a mind and better communication. Time to act mindfully and work together.  
    
 - The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travel to the next floor. For Covid-19 this means in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in <strong>all</strong> rooms is important.
 
@@ -75,12 +75,15 @@ Hygiene is important because:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
     * try reducing stress for yourself and others. Trying too hard won't help though. 
     
-  Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances, we all have been and are facing through our entire evolutions. 
+  Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we all have been and are facing through our entire evolutions. 
+
+
 
 
 <p id=proposal>-------</p>
 
 # Proposal of a Dry Form Transmission Model
+
 
 <p id=abstract>-----</p>
 
@@ -103,6 +106,8 @@ It is argued
 The overall argumentation suggests, that the most relevant transmission models are aerosol and the proposed dry form. 
 
 Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key is indoor ventilation and wearing a mask in 'risky' indoor spaces. 
+
+
 
 <p id=model>-----</p>
 
@@ -154,6 +159,8 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 -->
 
+
+
 <p id=particle-deposition>---</p>
 
 ## Intermezzo Particle Dynamics in the Respiratory Tract
@@ -177,7 +184,6 @@ How many particles are deposited/breath out in which region in/from the respirat
 
 
 
-
 ### exhaling particles
 
 #### particle origns
@@ -191,6 +197,7 @@ How many particles are deposited/breath out in which region in/from the respirat
 * [fabian et al](#fabian) found that the number of particles exhaled is very induvidual. Differences greater than a factor of 500 were observed. A tendency for a positive correlation with age was observed. 
 
 * [milton et al](#milton2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However without coughs there were small infectious aerosols exhaled observed too. 
+
 
 ### deposition patterns and locations of particles
 
@@ -220,7 +227,6 @@ Modeling or experimentally determine the deposition rates is not easy and each m
     
 
 
-
 <p id=evidence>-----</p>
 
 ## Evidence for the Dry Form Transmission Model
@@ -228,7 +234,7 @@ Modeling or experimentally determine the deposition rates is not easy and each m
 <p id=biological-properties>---</p>
 
 ### Evidence from Biological Properties
-#### entry-point
+#### entry point
 The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that another Coronavirinae, namely 229E, infects the cells from the apical surface [[McCray](#mccray)], indicate that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
 
 This is consistent with the viral loads observed in different parts of the body: 
@@ -243,6 +249,7 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 - Droplets mostly don't enter the lower respiratory tract.
 - Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
 - Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
+
 
 <p id=spread-patterns>---</p>
     
