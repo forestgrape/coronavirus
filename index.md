@@ -49,9 +49,9 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 
 - Distancing reduces infection risk. 
 
-- Outside, <strong>if keeping distance</strong>, is safe. 
+- Outside is safe,  <strong>if keeping distance</strong>. However beware the corridor and stairwell, so going often in and out is not the best idea. Public transport and a crowded cars are best avoided too. 
     
-- Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected always ventilate your room before opening the door of your and your flat. [Ventilation](#ventilation) has been shown to be effective. 
+- Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room and your flat. [Ventilation](#ventilation) has been shown to be effective. 
 
 - Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air both dust and viruses stay longer in the air. 
 
