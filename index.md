@@ -27,7 +27,7 @@
 
 ## Updates
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation. 
-    In the first version, I had written that aerosols don't enter the lungs. That was false. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
+    In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
     1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
@@ -45,13 +45,16 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
    
 - The coronavirus transmission can be smoke-like. A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travel to the next floor. For Covid-19 this means in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in <strong>all</strong> rooms is important.
 
-- Wear a mask in indoor places where infectious people can be and best avoid crowded indoor spaces entirely. To longer one stays the more important is a mask, the infection risk increases with the amount of air breathed. Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it with soap - there's more than Sars-Cov-2!
+- Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important, since the infection risk increases with the amount of indoor air breathed. Or best avoid crowded indoor spaces entirely. 
+
+    Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it very well - there's more than Sars-Cov-2, don't forget that!
 
 - Distancing reduces infection risk. 
 
-- Outside is safe,  <strong>if keeping distance</strong>. However beware the corridor and stairwell, so going often in and out is not the best idea. Public transport and a crowded cars are best avoided too. 
+- Outside is safe,  <strong>if distance is kept</strong>. However beware the corridor and stairwell, so going often in and out is not the best idea. Public transport and a crowded cars are best avoided too. Ideally walk or cycle directly from home. Taking into consideration, that most people especially children will and should go outside right where they live, it is polite to make limited usage of cars for leisure in cities - it is nicer and safer with light traffic. 
     
 - Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room and your flat. [Ventilation](#ventilation) has been shown to be effective. 
+
 
 - Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air both dust and viruses stay longer in the air. 
 
@@ -62,10 +65,18 @@ Hygiene is important because:
    * avoiding a common cold or flu is important, because Covid-19 can be somewhat similar. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informing them.   
    
   But do <strong>not</strong> rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets.
+  
+- Public Transport: 
+     * Ventilation is crucial in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Don't put ventilation on ciruculation. Put ventilation to max.  Wear a mask.
+     * If there are old toilets, that go to the rails, don't use them, never use to shit!
 
-- Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisening, like having eaten something rotten or drunken too much. Feeling tired could be a symptom too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice can very well be a soar throat. Observe your body, write down the observations and if possible measure:
 
-    Measure your temperature several times every day and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. Many people have only slightly increased temperature which doesn't "meet the definition of fever" [Zhang](#zhang), [Wong](#wong), [Zhong](#zhong). The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
+
+- Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisening, like having eaten something rotten or drunken too much. Feeling tired could be a symptom too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. <br>
+    
+    Observe your body, write down the observations and if possible measure:
+    Measure your temperature several times every day and best in the same situations and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. This can be as low as one or only half a degree, going up from 35 to 35.5 or 36. Keep in mind that the temperature varies over the course of a day and with the activities performed. That's why several measurements. <br>
+    It is crucial to measure the temperature accurately since many people have only a slightly increased temperature ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)), which doesn't "meet the definition of fever". Side note: It's time for medicine to move on from digitalization and black-white schemes to the continuous colorspace of baysian statistics. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily, relax and do some sport
@@ -74,7 +85,7 @@ Hygiene is important because:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
     * try reducing stress for yourself and others. Trying too hard won't help though. 
     
-  Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we all have been and are facing through our entire evolution. 
+  Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
 
@@ -96,7 +107,7 @@ The transmission models described in the literature - a recent recommended revie
 this new model is added:
 * Dry form transmission 
 
-Compared to aerosols - an example is the scent of a freshly cooked soup -, tiny dry particulates can diffuse around smoke-like - smoke is a collection of tiny dry particulates diffusing around -, stay in the air even longer and may have a higher lung deposition fraction and less clearance. 
+Compared to aerosols - which tend to spread local both in time and space, an example is the scent of a freshly cooked soup -, tiny dry particulates behave smoke like - smoke is a collection of tiny dry particulates diffusing around - so they can diffuse around and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Sars-Cov-1/2. 
@@ -195,7 +206,7 @@ How many particles are deposited/breath out in which region in/from the respirat
 
 * [fabian et al](#fabian) found that the number of particles exhaled is very induvidual. Differences greater than a factor of 500 were observed. A tendency for a positive correlation with age was observed. 
 
-* [milton et al](#milton2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However without coughs there were small infectious aerosols exhaled observed too. 
+* [milton et al](#milton2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
 
 
 ### deposition patterns and locations of particles
@@ -209,7 +220,7 @@ How many particles are deposited/breath out in which region in/from the respirat
 * Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
 
 #### methods and experiments for depositions
-In her thesis [Lindstrom](#lindstrom) explaines well the principles. [park](#park) is a recent review. An often used model is the [ICRP Model](#bailey).
+In her thesis [Lindstrom](#lindstrom) explaines well the principles. A recent review is from [Park and coll](#park). An often used model is the [ICRP Model](#bailey).
 
 Modeling or experimentally determine the deposition rates is not easy and each method has caveats. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are shown, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally, most modeling methods ignore the softness and dynamics of the respiratory system - except a few see [darquenne](#darquenne). Particle shape, condensation and material is rarely taken into account, i.e. the experiments are done for round constant size aerosol droplets.
 
@@ -256,20 +267,26 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 
 The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
 
-* In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases \[citation to be added]. The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed at relative cold outside temperature and therefore dry indoor air, so dry dust like spreading is possible:
-	Sars-Cov-1:
+In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed in cool outside temperature and heated indoor and therefore dry and confined air. This en so dry dust like spreading is possible:
+* Sars-Cov-1:
 	- Hospitals in China [Mizumoto](#mizumoto)
     - Hospital in Seattle [to added]
 	- Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan)
-	
-	Sars-Cov-2:
-	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto)
+
+
+* Sars-Cov-2:
+	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto). This setting well investigated by Mizumoto andn colleagues provides favours airborne over droplet transmission and even slightly favours Dry Form over aersol transmission.The Covid-19 spread started between passengers and not equally between passengers and personal.
+        * In the droplet model, one would except the personal as a angle and starting point, since they have the most close contacts enabling droplet transmission. 
+        * In the aersol model at most an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
+        * For a smoke like transmission - smoke diffuses whole rooms and tends to stay quite long, so spatial is more relevant than temporal - an initial spread in passangers is expected since they spend the time in the same areas. 
 	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
 	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
 	- Hospitals in Nothern Italy [LE](#le)
 	Mers-Cov:
 	- Main spreading in Winter season and in generally dry areas.
 The primary spreading in very dry (indoor) areas would also explain why the described coronaviruses diseases occurred recently, even though overall hygiene increased.  
+
+
 * In settings without prior SARS experience the infection rate in health care workers is very high:
 	* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
 	* 2019/2020 in Europe - Italy especially [LE](#le)<br>
@@ -536,11 +553,13 @@ Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.7
 * ##### marr
     Yang, W., & Marr, L. C. (2011). <strong>Dynamics of airborne influenza A viruses indoors and dependence on humidity. </strong> PloS one, 6(6), e21481. https://doi.org/10.1371/journal.pone.0021481
 
+
 ### Droplet and Aerosol Transformations
 
 * ##### marawska06
     Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
     
+
 ### Exhaled Breath Condensate and Virus Shedding
 
 * ##### milton2018
@@ -565,6 +584,15 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     Patricia Fabian, Sc.D.,1 Joseph Brain, S.D.,1 E. Andres Houseman, Sc.D.,2 James Gern, M.D.,3 and Donald K. Milton, M.D., Dr.PH.1,4
     <strong>Origin of Exhaled Breath Particles from Healthy and Human Rhinovirus Infected Subjects</strong>
     JOURNAL OF AEROSOL MEDICINE AND PULMONARY DRUG DELIVERY Volume 24, Number 3, 2011 a Mary Ann Liebert, Inc. Pp. 137–147 https://doi.org/10.1089/jamp.2010.0815
+    
+### Clearance of the Respiratory Tract and Decrease in Viral Load
+
+* ##### yuen
+     Kelvin K. W. To, Ivan F. N. Hung, Iris W. S. Li, Kar-Lung Lee, Chi-Kwan Koo, Wing-Wa Yan, Raymond Liu,Ka-Ying Ho, Kwok-Hong Chu, Chi-Leung Watt, Wei-Kwang Luk, Kang-Yiu Lai, Fu-Loi Chow, Thomas Mok, Tom Buckley, Jasper F. W. Chan, Samson S. Y. Wong, Bojian Zheng, Honglin Chen, Candy C. Y. Lau, Herman Tse, Vincent C. C. Cheng, Kwok-Hung Chan, Kwok-Yung Yuen, and the Pandemic H1N1 Study Grou <strong>
+    Delayed Clearance of Viral Load and Marked Cytokine Activation in Severe Cases of Pandemic H1N1 2009 Influenza Virus Infection</strong> Clinical Infectious Diseases 2010;50:850–859
+􏰀 2010 by the Infectious Diseases Society of America https://doi.org/10.1086/650581 
+
+
 
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
