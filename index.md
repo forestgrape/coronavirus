@@ -7,12 +7,13 @@
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts. They are put here as ideas to be checked and evaluated. Pointing out mistakes and feedback are <strong>welcome</strong>.
 <!-- * The page is soon going to be split up into different topics. -->
 
-<p id=content>-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
+<p id="content">-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
 
 ## Content
 
 * [Updates](#updates)
 * [Public Suggestions](#public-advice)
+* [Ideas to Explore](#ideas)
 * [Infection Paths of Sars-Cov-2 and Proposal of a Dry Form Transmission Model](#proposal)
     * [Abstract](#abstract)
     * [Model](#model)
@@ -23,7 +24,7 @@
 * [Suggested Protections Measures](#measures)
 * [References](#references)
 
-<p id=updates>-----</p> 
+<p id="updates">-----</p> 
 
 ## Updates
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation. 
@@ -90,12 +91,12 @@ Hygiene is important because:
 
 
 
-<p id=proposal>-------</p>
+<p id="proposal">-------</p>
 
 # Proposal of a Dry Form Transmission Model
 
 
-<p id=abstract>-----</p>
+<p id="abstract">-----</p>
 
 ## Abstract
 A dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
@@ -119,7 +120,7 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 
 
-<p id=model>-----</p>
+<p id="model">-----</p>
 
 ## Model
 
@@ -171,7 +172,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 
 
-<p id=particle-deposition>---</p>
+<p id="particle-deposition">---</p>
 
 ## Intermezzo Particle Dynamics in the Respiratory Tract
 Conversational remarks about how I understand particle deposition models. 
@@ -237,11 +238,11 @@ Modeling or experimentally determine the deposition rates is not easy and each m
     
 
 
-<p id=evidence>-----</p>
+<p id="evidence">-----</p>
 
 ## Evidence for the Dry Form Transmission Model
 
-<p id=biological-properties>---</p>
+<p id="biological-properties">---</p>
 
 ### Evidence from Biological Properties
 #### entry point
@@ -304,7 +305,7 @@ Remark: The following pieces of evidence are 'in work'.
 * The initial animal to human of  Sars-Cov-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
 
 
-<p id=measures>-----</p>
+<p id="measures">-----</p>
 
 ### Suggested Protections Measures 
 Supposing that the main transmission of Sars-Cov-2 is either aerosol or outlined dry form, which is <strong>not</strong> yet confirmed. This extends  [Public Advices and Suggestions](#public-advice) section. 
@@ -336,7 +337,7 @@ Reasons against masks seem sometimes rather searched:
 * [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
 
-<p id=references>-----</p>
+<p id="references">-----</p>
 
 ## References
 
@@ -434,7 +435,7 @@ TODO UPDATE REFERENCES
     nature medicine, 30 November 2004
     https://doi.org/10.1038/nm1143
     
-* ##### case-series    
+* ##### case-series-france
     Francois-Xavier Lescure*, Lila Bouadma*, Bruno Lina*, Sylvie van-der-Werf*, Yazdan Yazdanpanah* et al.
     <strong>Clinical and virological data of the first cases of COVID-19 in Europe: a case series</strong>
     Lancet Infect Dis 2020
