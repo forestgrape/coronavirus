@@ -1,4 +1,4 @@
-# Thoughts and Ideas about the Betacoronavirus
+# Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
 * If the page is not shown correctly or either GitHub Preview or Markdown is prefered, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
@@ -27,12 +27,15 @@
 <p id="updates">-----</p> 
 
 ## Updates
+- 4.4.20 Added Section Ideas to Explore
+    - first topic is: The better vents
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation. 
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
     1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
 #### Minor Updates
+- 4.4.20 Updated section evidences from spread patterns (Cruise Ship)
 - 2.4.20 Short notice about masks. 
 - 31.3.20: Section and references how ventilation clears indoor air and is effective for containing airborne infection pathways. 
 - 30.3.20: Reordered section Particle Deposition and added more references. 
