@@ -14,6 +14,7 @@
 * [Updates](#updates)
 * [Public Suggestions](#public-advice)
 * [Ideas to Explore](#ideas)
+    * [The Better Ventilators](#better-vents)
 * [Infection Paths of Sars-Cov-2 and Proposal of a Dry Form Transmission Model](#proposal)
     * [Abstract](#abstract)
     * [Model](#model)
@@ -36,10 +37,11 @@
     
 #### Minor Updates
 - 4.4.20 Updated section evidences from spread patterns (Cruise Ship)
+- 27-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
 - 31.3.20: Section and references how ventilation clears indoor air and is effective for containing airborne infection pathways. 
 - 30.3.20: Reordered section Particle Deposition and added more references. 
-- 27-2.4.20: Public Advice extended and clarified. 
+
 
 
 <p id=public-advice>-----</p>
@@ -92,7 +94,63 @@ Hygiene is important because:
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
+<p id="ideas"> ---</p>
 
+# Ideas to explore
+
+<p id="better-vents"> -----</p>
+
+## The Better Ventilators
+
+### Causes for severe Outcome of Covid-19
+A main cause of a severe Covid-19 and death from Covid-19 is an acute respiratory distress syndrome (ARDS). The reason for developing ADRS seems to be a high number of viruses distributed across the entire lungs and delayed clearance of viruses both for Covid-19 and influenza:
+
+- In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show bilateral lung lesions/patches [zhong20](#zhong).
+- [Yuen et al](#yuen) found a high viral load for patients with an ADRS . 
+
+For the widespread viral distributions in lung evident reasons would be:
+
+- increased viral growth of viruses in the cells. 
+- decreased mucus clearance. 
+
+For the increased growth, there are counter arguments:
+
+- diminished immune system is a major risk factor may be a risk factor for severe Covid-19 but there is no strong relation to ADRS
+- patients with ADRS seem not to have especially low antibody levels [citation on the way]. 
+- in young people the cell machinery tends to be more performant. So in theory viruses could spread more quickly. 
+
+There is evidence hower that the cy
+
+However there is evidence for a decreased mucus production and clearance:
+* observed for influenza by [Yuen et al](#yuen)
+* main factors known to decrease the mucus clearance are main risk factor for developing an ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix).
+    * intern factors:
+        - age
+        - obesity
+        - diabetes
+        - hypertension/arteriosclerosis
+        (see factors below, work in progress). 
+    * extern factors:
+         - dry air 
+             * humidified air increase mucus transport [hong14](#hong14) 
+             * generally fare fewer deaths indicating a lower death-rate in humid air countries.There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care systeme. 
+* viruses early on in the alimentary seem not to indicate a severe outcome
+    * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
+    * diarrhea is not risk for ADRS in influenza [Yuen](#yuen). 
+    * increased nausea or vomiting seem to be no indication for a severe disease outcome [zhong20](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen)
+
+### Treatment Goals
+Therefore one of main goals in the treatment should be increasing the mucus flow from early on. 
+
+### Treatment Methods 
+
+#### Humidify
+Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described in [hong 2014](#hong) or just a pot of hot water and a towel. Additionally the patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
+
+This treatment should both increase the well-being of patients (swiftly, especially if used early on) as well as the overall prognosis. 
+
+#### Mechanical Ventilators
+Mechanically ventilated patients could have a decrease mucus clearance in the respiratory tract, at least they exhale less particles: "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt). That has to be taken into account. 
 
 <p id="proposal">-------</p>
 
@@ -589,6 +647,8 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     <strong>Origin of Exhaled Breath Particles from Healthy and Human Rhinovirus Infected Subjects</strong>
     JOURNAL OF AEROSOL MEDICINE AND PULMONARY DRUG DELIVERY Volume 24, Number 3, 2011 a Mary Ann Liebert, Inc. Pp. 137–147 https://doi.org/10.1089/jamp.2010.0815
     
+    
+    
 ### Clearance of the Respiratory Tract and Decrease in Viral Load
 
 * ##### yuen
@@ -596,7 +656,15 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     Delayed Clearance of Viral Load and Marked Cytokine Activation in Severe Cases of Pandemic H1N1 2009 Influenza Virus Infection</strong> Clinical Infectious Diseases 2010;50:850–859
 􏰀 2010 by the Infectious Diseases Society of America https://doi.org/10.1086/650581 
 
-
+* ##### hong
+    Hyungseok Seo, Sung-Hoon Kim, Jae-Hyung Choi, Jeong-Yeon Hong and Jai-Hyun Hwang
+    <strong>Effect of heated humidified ventilation on bronchial mucus transport velocity in general anaesthesia: A randomized trial</strong> Journal of International Medical Research 2014, Vol. 42(6) 1222–1231 ! The Author(s) 2014 Reprints and permissions: sagepub.co.uk/journalsPermissions.nav https://doi.org/10.1177/0300060514548291
+    
+* ##### lindstedt
+Broberg E, Andreasson J, Fakhro M, et al. Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients. ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019].    
+    
+    
+    
 
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
