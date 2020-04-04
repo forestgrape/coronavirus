@@ -129,7 +129,9 @@ Overall there isn't much evidence for increased growth of viruses in ARDS risk g
 <!--There is evidence however that the cytokine -->
 
 [work in progress]
-However there is evidence for a decreased mucus production and clearance in the ARDS risk group:
+However there is evidence for a decreased mucus production and clearance in the ARDS risk group.
+
+#### Evidence for Decreased Mucus Clearance in ARDS Risk Group
 * observed for influenza by [Yuen et al](#yuen)
 * Factors known to decrease the mucus clearance are main risk factor for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents)[in work].
     * intern factors:
@@ -139,8 +141,8 @@ However there is evidence for a decreased mucus production and clearance in the 
         - hypertension/arteriosclerosis
     * extern factors:
          - dry air 
-             * humidified air increase mucus transport [Hong](#hong), [Hasani](#hasani)
-             * generally fare fewer deaths indicating a lower death-rate in humid air countries.There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care systeme. 
+             * humidified air increases mucus transport [Hong](#hong), [Hasani](#hasani)
+             * generally fewer deaths indicating a lower death-rate in humid air countries. There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care systeme. 
 * viruses early on in the alimentary seem not to indicate a severe outcome
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
     * diarrhea is not risk for ADRS in influenza [Yuen](#yuen). 
