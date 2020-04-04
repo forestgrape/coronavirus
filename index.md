@@ -1,7 +1,7 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* If the page is not shown correctly or either GitHub Preview or Markdown is prefered, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
+* If the page is not shown correctly or either GitHub Preview or Markdown is preferred, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
 * This is work in progress, so mistakes of any form are likely.  
 * The page started out with the proposal for the Dry Form Transmission. Because more content have been added since, the page will soon be split up into different topics. 
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts. They are put here as ideas to be checked and evaluated. Pointing out mistakes and feedback are <strong>welcome</strong>.
@@ -73,16 +73,16 @@ Hygiene is important because:
   But do <strong>not</strong> rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets.
   
 - Public Transport: 
-     * Ventilation is crucial in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Don't put ventilation on ciruculation. Put ventilation to max.  Wear a mask.
+     * Ventilation is crucial in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Don't put ventilation on circulation. Put ventilation to max.  Wear a mask.
      * If there are old toilets, that go to the rails, don't use them, never use to shit!
 
 
 
-- Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisening, like having eaten something rotten or drunken too much. Feeling tired could be a symptom too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. <br>
+- Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired could be a symptom too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. <br>
     
     Observe your body, write down the observations and if possible measure:
     Measure your temperature several times every day and best in the same situations and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. This can be as low as one or only half a degree, going up from 35 to 35.5 or 36. Keep in mind that the temperature varies over the course of a day and with the activities performed. That's why several measurements. <br>
-    It is crucial to measure the temperature accurately since many people have only a slightly increased temperature ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)), which doesn't "meet the definition of fever". Side note: It's time for medicine to move on from digitalization and black-white schemes to the continuous colorspace of baysian statistics. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
+    It is crucial to measure the temperature accurately since many people have only a slightly increased temperature ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)), which doesn't "meet the definition of fever". Side note: It's time for medicine to move on from digitalization and black-white schemes to the continuous colourspace of Bayesian statistics. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily, relax and do some sport
@@ -119,7 +119,7 @@ For the increased growth, there are counter arguments:
 - patients with ADRS seem not to have especially low antibody levels [citation on the way]. 
 - in young people the cell machinery tends to be more performant. So in theory viruses could spread more quickly. 
 
-There is evidence hower that the cy
+<!--There is evidence however that the cytokine -->
 
 However there is evidence for a decreased mucus production and clearance:
 * observed for influenza by [Yuen et al](#yuen)
@@ -160,7 +160,7 @@ Mechanically ventilated patients could have a decrease mucus clearance in the re
 <p id="abstract">-----</p>
 
 ## Abstract
-A dry form transmission model for Betaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
+A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
 * Droplets
@@ -266,7 +266,7 @@ How many particles are deposited/breath out in which region in/from the respirat
 
 * [larsson et al](#larsson) determined the origin of particles by measurement of the lipid composition. They found that particles from the deep lungs are mainly exhaled upon breathing alone and not when speaking or coughing.
 
-* [fabian et al](#fabian) found that the number of particles exhaled is very induvidual. Differences greater than a factor of 500 were observed. A tendency for a positive correlation with age was observed. 
+* [fabian et al](#fabian) found that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. A tendency for a positive correlation with age was observed. 
 
 * [milton et al](#milton2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
 
@@ -275,7 +275,7 @@ How many particles are deposited/breath out in which region in/from the respirat
 
 * Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
 
-* [Zhong](#zhong) et al describe that the particles can be moistend upon inhale and this has an effect on depositions locations. 
+* [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. 
 
 * The particles depositions aren't equal for the left and right lung and bronchus [Rahimi-Gorji](#rahimi-gorji), [kleinstreuer2017](#kleinstreuer2017)
 
