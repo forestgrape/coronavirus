@@ -14,7 +14,7 @@
 * [Updates](#updates)
 * [Public Suggestions](#public-advice)
 * [Ideas to Explore](#ideas)
-    * [The Better Ventilators](#better-vents)
+    * [Early On Ventilator](#early-vents) 
 * [Infection Paths of Sars-Cov-2 and Proposal of a Dry Form Transmission Model](#proposal)
     * [Abstract](#abstract)
     * [Model](#model)
@@ -29,7 +29,7 @@
 
 ## Updates and Added Content
 - 4.4.20 Added Section Ideas to Explore
-    - first topic is: The better vents
+    - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk of developing ARDS. 
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation. 
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
     1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
@@ -98,44 +98,48 @@ Hygiene is important because:
 
 # Ideas to Explore
 
-<p id="better-vents"> -----</p>
+<p id="early-vents"> -----</p>
 
-## The Better Ventilators
+## Early On Ventilator
 
 ### Idea
-For the development of a virus induced ARDS, a decreased mucus clearance seems to be a factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. The idea is to use humidified ventilation to decrease the risk of developing ARDS for Covid-19 patients. 
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the entire room. 
+
+
+Increase humidity of inhaled air --> Increases the mucus clearance --> Increase the well-being and the overall prognosis
+ 
 
 ### Causes for severe Outcome of Covid-19
-A main cause of a severe Covid-19 and death from Covid-19 is an acute respiratory distress syndrome (ARDS). The reason for developing ADRS seems to be a high number of viruses distributed across the entire lungs and delayed clearance of viruses both for Covid-19 and influenza:
+A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS). The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed clearance of viruses. This causes a high number of viruses distributed across the entire lungs. 
 
 - In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show bilateral lung lesions/patches [Zhong et al.](#zhong).
 - [Yuen et al](#yuen) found a high viral load for patients with an ADRS . 
 
-For the widespread viral distributions in lung evident reasons would be:
+For the widespread viral distributions in the lower respiratory tract, possible reasons are:
 
-- increased viral growth of viruses in the cells. 
-- decreased mucus clearance. 
+- increased growth of viruses in the cells
+- decreased mucus clearance
 
-For the increased growth, there are counter arguments:
+Overall there isn't much evidence for increased growth of viruses in ARDS risk group:
 
-- diminished immune system is a major risk factor may be a risk factor for severe Covid-19 but there is no strong relation to ADRS
+- diminished immune system may be a small risk factor for severe Covid-19 but there is no strong relation to ADRS. 
 - patients with ADRS seem not to have especially low antibody levels [citation on the way]. 
 - in young people the cell machinery tends to be more performant. So in theory viruses could spread more quickly. 
 
 <!--There is evidence however that the cytokine -->
 
-However there is evidence for a decreased mucus production and clearance:
+[work in progress]
+However there is evidence for a decreased mucus production and clearance in the ARDS risk group:
 * observed for influenza by [Yuen et al](#yuen)
-* main factors known to decrease the mucus clearance are main risk factor for developing an ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix).
+* Factors known to decrease the mucus clearance are main risk factor for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents)[in work].
     * intern factors:
         - age
         - obesity
         - diabetes
         - hypertension/arteriosclerosis
-        (see factors below, work in progress). 
     * extern factors:
          - dry air 
-             * humidified air increase mucus transport [Hong](#hong) 
+             * humidified air increase mucus transport [Hong](#hong), [Hasani](#hasani)
              * generally fare fewer deaths indicating a lower death-rate in humid air countries.There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care systeme. 
 * viruses early on in the alimentary seem not to indicate a severe outcome
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
@@ -148,16 +152,18 @@ Therefore one of main goals in the treatment should be increasing the mucus flow
 ### Treatment Methods 
 
 #### Humidify
-Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described in [hong 2014](#hong) or humidify the overall all air could be a possibility too.  
+Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described in [hong 2014](#hong).  Increase the humidity in the entire room increases the mucus flow to as shown by [Hasani and colleagues](#hasani).  
 
 Steam inhalation in the traditional way with a pot of hot water and a towel could help too. However care should be taken for the steam not being to hot, not to further irritate the mucous membranes. 
 
 Additionally the patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
 
-This treatment should both increase the well-being of patients (swiftly, especially if used early on) as well as the overall prognosis. 
+The increased mucus clearance should both increase the well-being of patients as well as the overall prognosis. 
+
 
 #### Mechanical Ventilators
-Mechanically ventilated patients could have a decrease mucus clearance in the respiratory tract, at least they exhale less particles: "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt). That has to be taken into account. 
+Mechanically ventilated patients exhale less particles: "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt). That has to be taken into account. 
+[work in progress: To be investigated: it could mean that they shed less viruses and less viruses are distributed throughout the lung or it could mean that more viruses stay in the lung since there is less clearance. ]
 
 <p id="appendix-vents">---</p>
 
@@ -699,6 +705,13 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 * ##### lindstedt
     Broberg E, Andreasson J, Fakhro M, et al. <strong>Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.</strong> ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019].    
     
+* ##### forbes
+    A. R. FORBES, M.B., CH.B., F.F.A.R.C.S., HUMIDIFICATION AND MUCUS FLOW IN THE INTUBATED TRACHEA, BJA: British Journal of Anaesthesia, Volume 45, Issue 8, August 1973, Pages 874–878, https://doi.org/10.1093/bja/45.8.874
+    
+* ##### hasani
+    Hasani, A., Chapman, T., McCool, D., Smith, R., Dilworth, J., & Agnew, J. (2008). Domiciliary humidification improves lung mucociliary clearance in patients with bronchiectasis. Chronic Respiratory Disease, 81–86. https://doi.org/10.1177/1479972307087190
+    
+ 
     
     
 
