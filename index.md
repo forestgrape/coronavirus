@@ -152,6 +152,27 @@ This treatment should both increase the well-being of patients (swiftly, especia
 #### Mechanical Ventilators
 Mechanically ventilated patients could have a decrease mucus clearance in the respiratory tract, at least they exhale less particles: "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt). That has to be taken into account. 
 
+<p id="appendix-vents>---</p>
+
+### Appendix for The Better Ventilators [in work]
+
+#### Factors Associated to severe Covid-19:
+Just indications are listened and no special statistical testing has been done. To do the statistics ideally one takes into account correlations between the various factors too. 
+Sources: [zhong](#zhong), [more on the way] 
+- Diabetes
+- Age
+- Chronic heart disease   
+- the antibody response in severe cases is the same or even stronger as in mild cases    
+    
+#### Factors Associated with ADRS in Influenza [yuen](#yuen)   
+* The following characteristics are observed in the  paper from Yuen et al.:
+    - For patient developing a ARDS coughing was more common than for patients, who didn't develop an ARDS. Since coughing is an emergency measure of the body to clear respiratory tract this an indication of bad clearance. 
+    - The Nasopharyngeal Viral load was even a little higher in the group, who didn't develop an ARDS.
+    - The tracheal viral load was much higher in the ARDS groups(less clearance!)
+    -Diabetis, Age, Chronic hear disease positively correlate with ARDS development. 
+
+
+
 <p id="proposal">-------</p>
 
 # Proposal of a Dry Form Transmission Model
