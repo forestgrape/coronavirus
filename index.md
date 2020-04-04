@@ -145,7 +145,7 @@ Therefore one of main goals in the treatment should be increasing the mucus flow
 ### Treatment Methods 
 
 #### Humidify
-Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described in [hong 2014](#hong) or just a pot of hot water and a towel. Additionally the patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
+Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described in [hong 2014](#hong) or steam inhalation in the traditional way with a pot of hot water and a towel could help too. Additionally the patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
 
 This treatment should both increase the well-being of patients (swiftly, especially if used early on) as well as the overall prognosis. 
 
