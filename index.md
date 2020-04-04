@@ -204,7 +204,7 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 <p id="model">-----</p>
 
-## Model
+## Model for Transmission
 
 In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the obligate lower respiratory tract [entry](#entry) for Sars-Cov-2. 
 
@@ -344,7 +344,7 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 - Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
 
 
-<p id=spread-patterns>---</p>
+<p id="spread-patterns">---</p>
     
 #### Evidence from the observed Spread Patterns
 
