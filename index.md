@@ -102,10 +102,13 @@ Hygiene is important because:
 
 ## The Better Ventilators
 
+### Idea
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. The idea is to use humidified ventilation to decrease the risk of developing ARDS for Covid-19 patients. 
+
 ### Causes for severe Outcome of Covid-19
 A main cause of a severe Covid-19 and death from Covid-19 is an acute respiratory distress syndrome (ARDS). The reason for developing ADRS seems to be a high number of viruses distributed across the entire lungs and delayed clearance of viruses both for Covid-19 and influenza:
 
-- In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show bilateral lung lesions/patches [zhong20](#zhong).
+- In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show bilateral lung lesions/patches [Zhong et al.](#zhong).
 - [Yuen et al](#yuen) found a high viral load for patients with an ADRS . 
 
 For the widespread viral distributions in lung evident reasons would be:
@@ -132,7 +135,7 @@ However there is evidence for a decreased mucus production and clearance:
         (see factors below, work in progress). 
     * extern factors:
          - dry air 
-             * humidified air increase mucus transport [hong14](#hong14) 
+             * humidified air increase mucus transport [Hong](#hong) 
              * generally fare fewer deaths indicating a lower death-rate in humid air countries.There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care systeme. 
 * viruses early on in the alimentary seem not to indicate a severe outcome
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
@@ -145,14 +148,18 @@ Therefore one of main goals in the treatment should be increasing the mucus flow
 ### Treatment Methods 
 
 #### Humidify
-Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described in [hong 2014](#hong) or steam inhalation in the traditional way with a pot of hot water and a towel could help too. Additionally the patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
+Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described in [hong 2014](#hong) or humidify the overall all air could be a possibility too.  
+
+Steam inhalation in the traditional way with a pot of hot water and a towel could help too. However care should be taken for the steam not being to hot, not to further irritate the mucous membranes. 
+
+Additionally the patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
 
 This treatment should both increase the well-being of patients (swiftly, especially if used early on) as well as the overall prognosis. 
 
 #### Mechanical Ventilators
 Mechanically ventilated patients could have a decrease mucus clearance in the respiratory tract, at least they exhale less particles: "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt). That has to be taken into account. 
 
-<p id="appendix-vents>---</p>
+<p id="appendix-vents">---</p>
 
 ### Appendix for The Better Ventilators [in work]
 
@@ -635,12 +642,20 @@ Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.7
     
 * ##### marr
     Yang, W., & Marr, L. C. (2011). <strong>Dynamics of airborne influenza A viruses indoors and dependence on humidity. </strong> PloS one, 6(6), e21481. https://doi.org/10.1371/journal.pone.0021481
+    
+* ##### pierret
+    Reiman JM, Das B, Sindberg GM, Urban MD, Hammerlund MEM, et al. (2018) <strong>Humidity as a non-pharmaceutical intervention for influenza A.</strong> PLOS ONE 13(9): e0204337. https://doi.org/10.1371/journal.pone.0204337
+
+* ##### myatt
+    Myatt, T. A., Kaufman, M. H., Allen, J. G., MacIntosh, D. L., Fabian, M. P., & McDevitt, J. J. (2010).<strong> Modeling the airborne survival of influenza virus in a residential setting: the impacts of home humidification.</strong> Environmental health : a global access science source, 9, 55. https://doi.org/10.1186/1476-069X-9-55
 
 
 ### Droplet and Aerosol Transformations
 
 * ##### marawska06
     Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
+    
+    
     
 
 ### Exhaled Breath Condensate and Virus Shedding
@@ -682,7 +697,7 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     <strong>Effect of heated humidified ventilation on bronchial mucus transport velocity in general anaesthesia: A randomized trial</strong> Journal of International Medical Research 2014, Vol. 42(6) 1222–1231 ! The Author(s) 2014 Reprints and permissions: sagepub.co.uk/journalsPermissions.nav https://doi.org/10.1177/0300060514548291
     
 * ##### lindstedt
-Broberg E, Andreasson J, Fakhro M, et al. Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients. ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019].    
+    Broberg E, Andreasson J, Fakhro M, et al. <strong>Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.</strong> ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019].    
     
     
     
@@ -699,8 +714,7 @@ Broberg E, Andreasson J, Fakhro M, et al. Mechanically ventilated patients exhib
     https://doi.org/10.1289/ehp.8455369
 
 * ##### bailey
-	The New ICRP Model for the Respiratory Tract
-	M.R. Bailey 
+	<strong>The New ICRP Model for the Respiratory Tract </strong> M.R. Bailey 
 	Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
 
 * ##### kleinstreuer
