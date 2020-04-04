@@ -27,7 +27,7 @@
 
 <p id="updates">-----</p> 
 
-## Updates
+## Updates and Added Content
 - 4.4.20 Added Section Ideas to Explore
     - first topic is: The better vents
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation. 
@@ -96,7 +96,7 @@ Hygiene is important because:
 
 <p id="ideas"> ---</p>
 
-# Ideas to explore
+# Ideas to Explore
 
 <p id="better-vents"> -----</p>
 
@@ -159,7 +159,7 @@ Mechanically ventilated patients could have a decrease mucus clearance in the re
 
 <p id="abstract">-----</p>
 
-## Abstract
+## Abstract Proposed Dry Form Transmission
 A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-Cov-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
