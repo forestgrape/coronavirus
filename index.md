@@ -3,7 +3,8 @@
 ## Note
 * If the page is not shown correctly or either GitHub Preview or Markdown is preferred, read on https://github.com/forestgrape/coronavirus/blob/master/index.md
 * This is work in progress, so mistakes of any form are likely.  
-* The page started out with the proposal for the Dry Form Transmission. Because more content have been added since, the page will soon be split up into different topics. 
+* The page started with a proposal for a Dry Form Transmission Model. More content has been added since, see Content. 
+    <!--Because more content have been added since, the page will soon be split up into different topics. -->
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts. They are put here as ideas to be checked and evaluated. Pointing out mistakes and feedback are <strong>welcome</strong>.
 <!-- * The page is soon going to be split up into different topics. -->
 
@@ -15,7 +16,7 @@
 * [Public Suggestions](#public-advice)
 * [Ideas to Explore](#ideas)
     * [Early On Ventilator](#early-vents) 
-* [Infection Paths of Sars-Cov-2 and Proposal of a Dry Form Transmission Model](#proposal)
+* [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal)
     * [Abstract](#abstract)
     * [Model](#model)
     * [Intermezzo Particle Deposition and Clearance in the Respiratory Tract](#particle-deposition)
@@ -57,14 +58,14 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 
 - Distancing reduces infection risk. 
 
-- Outside is safe,  <strong>if distance is kept</strong>. However beware the corridor and stairwell, so going often in and out is not the best idea. Public transport and a crowded cars are best avoided too. Ideally walk or cycle directly from home. Taking into consideration, that most people especially children will and should go outside right where they live, it is polite to make limited usage of cars for leisure in cities - it is nicer and safer with light traffic. 
+- Outside is safe,  <strong>if distance is kept</strong>. However beware the corridor and stairwell. Limit or ideally avoid public transport and crowded cars. Ideally walk or cycle directly from home. Taking into consideration, that most people especially children will and should go outside right where they live, it is polite to make limited usage of cars for leisure in cities - it is nicer and safer with light traffic. 
     
 - Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room and your flat. [Ventilation](#ventilation) has been shown to be effective. 
 
 
 - Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air both dust and viruses stay longer in the air. 
 
-- Keep proper hygiene. Especially wash your hands well after toilet. 
+- Keep proper hygiene. Especially wash your hands well with a lot of soap after toilet. 
 Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
    * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
@@ -94,9 +95,11 @@ Hygiene is important because:
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
+
 <p id="ideas"> ---</p>
 
 # Ideas to Explore
+
 
 <p id="early-vents"> -----</p>
 
@@ -131,6 +134,7 @@ Overall there isn't much evidence for increased growth of viruses in ARDS risk g
 [work in progress]
 However there is evidence for a decreased mucus production and clearance in the ARDS risk group.
 
+
 #### Evidence for Decreased Mucus Clearance in ARDS Risk Group
 * observed for influenza by [Yuen et al](#yuen)
 * Factors known to decrease the mucus clearance are main risk factor for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents)[in work].
@@ -143,36 +147,40 @@ However there is evidence for a decreased mucus production and clearance in the 
          - dry air 
              * humidified air increases mucus transport [Hong](#hong), [Hasani](#hasani)
              * generally fewer deaths indicating a lower death-rate in humid air countries. There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care systeme. 
-* viruses early on in the alimentary seem not to indicate a severe outcome
+* Virus RNA early on in the alimentary seems not to be an indication for ARDS even though this indicates a high overall viral load:
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
     * diarrhea is not risk for ADRS in influenza [Yuen](#yuen). 
-    * increased nausea or vomiting seem to be no indication for a severe disease outcome [zhong20](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen)
+    * increased nausea or vomiting seem to be no indication for a severe disease outcome [Zhong](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen)
+
 
 ### Treatment Goals
-Therefore one of main goals in the treatment should be increasing the mucus flow from early on. 
+One of main goals should be to increase the mucus flow and clearance from early on. 
+
 
 ### Treatment Methods 
 
 #### Humidify
-Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described in [hong 2014](#hong).  Increase the humidity in the entire room increases the mucus flow to as shown by [Hasani and colleagues](#hasani).  
+Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described by [Hong et al. in 2014](#hong).  Increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani).  
 
 Steam inhalation in the traditional way with a pot of hot water and a towel could help too. However care should be taken for the steam not being to hot, not to further irritate the mucous membranes. 
 
-Additionally the patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
+Additionally patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
 
-The increased mucus clearance should both increase the well-being of patients as well as the overall prognosis. 
+The increased mucus clearance should both increase the well-being already short-term as well as the overall prognosis. 
 
 
 #### Mechanical Ventilators
 Mechanically ventilated patients exhale less particles: "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt). That has to be taken into account. 
-[work in progress: To be investigated: it could mean that they shed less viruses and less viruses are distributed throughout the lung or it could mean that more viruses stay in the lung since there is less clearance. ]
+[work in progress: To be investigated: it could mean that they shed less viruses and less viruses are distributed throughout the lungs or it could mean that more viruses stay in the lungs since there is less clearance. ]
+
+
 
 <p id="appendix-vents">---</p>
 
-### Appendix for The Better Ventilators [in work]
+### Appendix for Early On Ventilators [in work]
+Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the paper given as sources. To do the statistics ideally one takes into account correlations between the various factors too e.g. there is a correlation between age and chronic heart disease. [todo math which are observables for same cause]
 
-#### Factors Associated to severe Covid-19:
-Just indications are listened and no special statistical testing has been done. To do the statistics ideally one takes into account correlations between the various factors too. 
+#### Factors Associated to severe Covid-19 with ARDS:
 Sources: [zhong](#zhong), [more on the way] 
 - Diabetes
 - Age
@@ -185,6 +193,15 @@ Sources: [zhong](#zhong), [more on the way]
     - The Nasopharyngeal Viral load was even a little higher in the group, who didn't develop an ARDS.
     - The tracheal viral load was much higher in the ARDS groups(less clearance!)
     -Diabetis, Age, Chronic hear disease positively correlate with ARDS development. 
+    
+    
+#### Factors Influencing the Mucus Flow
+
+* Dry Air especially below 50% relative humidity decreases the mucus flow as found by [Forbes](#forbes)
+
+* [Nakagawa et al.](#nakagawa) found that "Aging, Diabetes, and Hypertension Are Associated With Decreased Nasal Mucociliary Clearance". The underlying mechanism in the nose are likely similar to those in the trachea and therefore similar results are expected [to be confirmed]. 
+
+* In the review from [Houtmeyers et al.](#houtmeyers) " Regulation of mucociliary clearance in health and disease" there are citations for studies which indicate a decreased mucus flow and ciliary activity. 
 
 
 
@@ -285,7 +302,7 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review). 
 
 ### factors
-- particles properties such as diameter, density, form and material
+- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18(#zhong18)])
 - breathing volume and frequency [hofemeier](#hofemeier)
 - air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
 - orientation respect to gravity i.e. wether horizontal or vertical
@@ -317,10 +334,12 @@ How many particles are deposited/breath out in which region in/from the respirat
 
 * Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
 
+* [Sturm](#sturm) simulated the deposition of  nonspherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
+
 #### methods and experiments for depositions
 In her thesis [Lindstrom](#lindstrom) explaines well the principles. A recent review is from [Park and coll](#park). An often used model is the [ICRP Model](#bailey).
 
-Modeling or experimentally determine the deposition rates is not easy and each method has caveats. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are shown, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally, most modeling methods ignore the softness and dynamics of the respiratory system - except a few see [darquenne](#darquenne). Particle shape, condensation and material is rarely taken into account, i.e. the experiments are done for round constant size aerosol droplets.
+Modeling or experimentally determine the deposition rates is not easy and each method has caveats. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are shown, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally, most modeling methods ignore the softness and dynamics of the respiratory system - except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm), condensation and material is rarely taken into account, i.e. the experiments are done for round constant size aerosol droplets.
 
 - Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). These methods yield some differential equations. These equations can be solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
 
@@ -356,7 +375,7 @@ From the above argumentation lower respiratory tract entry for Sars-Cov-1/2 is o
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
 - Droplets mostly don't enter the lower respiratory tract.
 - Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
-- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
+- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition], [in work])and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
 
 
 <p id="spread-patterns">---</p>
@@ -365,7 +384,7 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 
 The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
 
-In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity and therefore remains in the air much longer. The events of very high spreading have all been observed in cool outside temperature and heated indoor and therefore dry and confined air. This en so dry dust like spreading is possible:
+In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in cool outside temperature and heated indoor spaces which means dry and confined air. In theses settings dry dust like spreading is possible:
 * Sars-Cov-1:
 	- Hospitals in China [Mizumoto](#mizumoto)
     - Hospital in Seattle [to added]
@@ -374,9 +393,9 @@ In confined settings without special protection reproduction numbers well above 
 
 * Sars-Cov-2:
 	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto). This setting well investigated by Mizumoto andn colleagues provides favours airborne over droplet transmission and even slightly favours Dry Form over aersol transmission.The Covid-19 spread started between passengers and not equally between passengers and personal.
-        * In the droplet model, one would except the personal as a angle and starting point, since they have the most close contacts enabling droplet transmission. 
-        * In the aersol model at most an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
-        * For a smoke like transmission - smoke diffuses whole rooms and tends to stay quite long, so spatial is more relevant than temporal - an initial spread in passangers is expected since they spend the time in the same areas. 
+        * In the droplet model, one would except the personal as a angle and starting point, since they have the most close contacts, which drive droplet transmission. 
+        * In the aersol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
+        * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passangers is expected since they spend the time in the same areas. 
 	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
 	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
 	- Hospitals in Nothern Italy [LE](#le)
@@ -713,6 +732,12 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 * ##### hasani
     Hasani, A., Chapman, T., McCool, D., Smith, R., Dilworth, J., & Agnew, J. (2008). Domiciliary humidification improves lung mucociliary clearance in patients with bronchiectasis. Chronic Respiratory Disease, 81–86. https://doi.org/10.1177/1479972307087190
     
+* ##### nakagawa
+    Janaína Proença de Oliveira-Maul, Heráclito Barbosa de Carvalho, Danielle Miyuki Goto, Raphaela Mendonça Maia, Claudia Fló, Viviane Barnabé, Denise Reis Franco, Simon Benabou, Monica Rodrigues Perracini, Wilson Jacob-Filho, Paulo Hilário Nascimento Saldiva, Geraldo Lorenzi-Filho, Bruce K. Rubin, Naomi Kondo Nakagawa, <strong>Aging, Diabetes, and Hypertension Are Associated With Decreased Nasal Mucociliary Clearance </strong>, Chest,Volume 143, Issue 4,2013,Pages 1091-1097,ISSN 0012-3692, https://doi.org/10.1378/chest.12-1183. (http://www.sciencedirect.com/science/article/pii/S0012369213602226)
+    
+* ##### houtmeyers
+    E Houtmeyers, R Gosselink, G Gayan-Ramirez, M Decramer <strong>Regulation of mucociliary clearance in health and disease </strong> European Respiratory Journal May 1999, 13 (5) 1177-1188;
+    
  
     
     
@@ -721,7 +746,13 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 
 [park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description and [lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
 
+#### General
 
+* ##### lindstrom
+    Lindström Bagge, Maria. (2004).<strong>Particles in small airways: 
+    mechanisms for deposition and clearance & Pharmacokinetic assessment of delivered 
+    dose to the lung.    </strong>    https://openarchive.ki.se/xmlui/handle/10616/37702
+   
 * ##### stuart
     B O Stuart<strong>
     Deposition and clearance of inhaled particles.</strong>
@@ -731,30 +762,6 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 * ##### bailey
 	<strong>The New ICRP Model for the Respiratory Tract </strong> M.R. Bailey 
 	Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
-
-* ##### kleinstreuer
-	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
-	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
-    
-* ##### kleinstreuer2017
-    Arun V. Kolanjiyila, Clement Kleinstreuer
-    <strong>Computational Analysis of Aerosol-Dynamics in a Human Whole-Lung Airway Model</strong>
-    https://dx.doi.org/10.1016/j.jaerosci.2017.10.001
-    
-* ##### sznitman
-	Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
-	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
-	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
-
-* ##### tsuda
-	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
-	<strong>Chaotic mixing deep in the lung.</strong>
-	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
-    
-* ##### park
-    Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
-    <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
-    Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
     
 * ##### heyder
     Joachim Heyder
@@ -767,27 +774,41 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     <strong>Alveolar duct expansion greatly enhances aerosol deposition: a three-dimensional computational fluid dynamics study</strong>
     Phil. Trans. R. Soc. A (2009) 367, 2333–2346 https://doi.org/10.1098/rsta.2008.0295
     
+* ##### sznitman
+	Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
+	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
+	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
+    
+* ##### tsuda
+	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
+	<strong>Chaotic mixing deep in the lung.</strong>
+	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
+    
+    
+#### Computational Models
+
+* ##### park
+    Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
+    <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
+    Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
+
+* ##### kleinstreuer
+	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
+	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
+    
+* ##### kleinstreuer2017
+    Arun V. Kolanjiyila, Clement Kleinstreuer
+    <strong>Computational Analysis of Aerosol-Dynamics in a Human Whole-Lung Airway Model</strong>
+    https://dx.doi.org/10.1016/j.jaerosci.2017.10.001
+
 * ##### qi
     Baihua Zhang, Shouliang Qi, Yong Yue, Jing Shen, Chen Li, Wei Qian and Jianlin Wu
     <strong>Particle Disposition in the Realistic Airway Tree Models of Subjects with Tracheal Bronchus and COPD</strong>
     Hindawi BioMed Research International Volume 2018, Article ID 7428609, 15 pages https://doi.org/10.1155/2018/7428609
     
-    
-* ##### rissler
-	Rissler, Gudmundsson, Nicklasson, Swietlicki, Wollmer, Löndahl.
-	<strong>Deposition efficiency of inhaled particles (15-5000 nm) related to breathing pattern and lung function: an experimental study in healthy children and adults.</strong>
-	Jonas K. F. Jakobsson, Johan Hedlund, John Kumlin, Per Wollmer & Jakob Löndahl
-	Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
-	https://doi.org/10.1186/s12989-017-0190-8
-    
 * ##### zhong18
     Xiaole Chen, Clement Kleinstreuer, Wenqi Zhong, Yu Feng & Xianguang Zhou (2018) <strong>Effects of thermal airflow and mucus-layer interaction on hygroscopic droplet deposition in a simple mouth–throat model</strong>, Aerosol Science and Technology, 52:8, 900-912, DOI: 10.1080/02786826.2018.1476751
     
-* ##### lindstrom
-    Lindström Bagge, Maria. (2004).<strong>Particles in small airways: 
-    mechanisms for deposition and clearance & Pharmacokinetic assessment of delivered 
-    dose to the lung.    </strong>    https://openarchive.ki.se/xmlui/handle/10616/37702
-   
 * ##### rahimi-gorji
 	Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
 	<strong>Details of regional particle deposition and airflow structures
@@ -798,6 +819,25 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 * ##### hofemeier
     Philipp Hofemeier, Kenishiro Koshiyama, Shigeo Wada, and Josué Sznitman
 	<strong>One (sub-)acinus for all: Fate of inhaled aerosols in heterogeneous pulmonary acinar structures</strong> Eur J Pharm Sci. 2018 February 15; 113: 53–63. https://doi.org/10.1016/j.ejps.2017.09.033
+    
+* ##### sturm 
+    Robert Sturm <strong> A Computer Model for the Simulation of Nonspherical Particle Dynamics in the Human Respiratory Tract</strong> Hindawi Publishing Corporation Physics Research International Volume 2012, Article ID 142756, 11 pages https://doi.org/10.1155/2012/142756
+
+    
+    
+    
+    
+#### In Vivo Experiments
+
+* ##### rissler
+	Rissler, Gudmundsson, Nicklasson, Swietlicki, Wollmer, Löndahl.
+	<strong>Deposition efficiency of inhaled particles (15-5000 nm) related to breathing pattern and lung function: an experimental study in healthy children and adults.</strong>
+	Jonas K. F. Jakobsson, Johan Hedlund, John Kumlin, Per Wollmer & Jakob Löndahl
+	Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
+	https://doi.org/10.1186/s12989-017-0190-8
+    
+   
+
 
     
     
