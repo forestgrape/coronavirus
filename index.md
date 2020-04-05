@@ -15,7 +15,7 @@
 * [Updates](#updates)
 * [Public Suggestions](#public-advice)
 * [Ideas to Explore](#ideas)
-    * [Early On Ventilator](#early-vents) 
+    * [Early On Ventilator - Humidify](#early-vents) 
 * [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal)
     * [Abstract](#abstract)
     * [Model](#model)
@@ -103,7 +103,7 @@ Hygiene is important because:
 
 <p id="early-vents"> -----</p>
 
-## Early On Ventilator
+## Early On Ventilator - Humidify
 
 ### Idea
 For the development of a virus induced ARDS, a decreased mucus clearance seems to be a factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the entire room. 
