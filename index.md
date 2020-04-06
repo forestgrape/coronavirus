@@ -9,7 +9,8 @@
 
 * These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts. They are put here as ideas to be checked and evaluated. 
 
-* The target audience are people, who like and are used to critically analyze and question concepts and ideas, e.g. researchers.
+<!--
+* The target audience are people, who like and are used to critically analyze concepts and ideas, e.g. researchers.-->
 
 * Pointing out mistakes and feedback are <strong>welcome</strong>.
 <!-- * The page is soon going to be split up into different topics. -->
@@ -19,13 +20,13 @@
 ## Content
 
 * [Updates](#updates)
-* [Public Suggestions](#public-advice)
-    Keep distance and hygiene. Outside is safe. Inside ventilate and/or wear a mask.
+* [Public Suggestions](#public-advice)<br>
+    Keep distance and hygiene. Transmission is smoke-like. Outside is safe. Inside ventilate and/or wear a mask.  
 * [Ideas to Explore](#ideas)
     * [Early On Ventilator](#early-vents)<br> 
         Humidify inhaled air to increase the mucus flow and thereby the overall prognosis
-* [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal) 
-    Sars-Cov-2 is often transmitted airborne and even in Dry Form i.e. smoke-like.  
+* [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal)<br> 
+    Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     * [Abstract](#abstract)
     * [Model](#model)
     * [Intermezzo Particles in the Respiratory Tract](#particles)
@@ -112,7 +113,7 @@ Hygiene is important because:
 
 <p id="early-vents"> -----</p>
 
-## Early On Ventilator
+## Early On Ventilator - Humidify
 
 ### Idea
 For the development of a virus induced ARDS, a decreased mucus clearance seems to be a factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the entire room. 
