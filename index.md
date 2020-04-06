@@ -438,7 +438,7 @@ In confined settings without special protection reproduction numbers well above 
 
 
 * Sars-Cov-2:
-	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto). This setting well investigated by Mizumoto andn colleagues provides favours airborne over droplet transmission and even slightly favours Dry Form over aersol transmission.The Covid-19 spread started between passengers and not equally between passengers and personal.
+	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto). This setting well investigated by Mizumoto and colleagues favours airborne over droplet transmission and even slightly favours Dry Form over aersol transmission since the Covid-19 spread started between passengers and not equally between passengers and personal:
         * In the droplet model, one would except the personal as a angle and starting point, since they have the most close contacts, which drive droplet transmission. 
         * In the aersol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
         * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passangers is expected since they spend the time in the same areas. 
