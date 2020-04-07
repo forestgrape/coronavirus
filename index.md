@@ -24,7 +24,7 @@
     Keep distance and hygiene. <!--Then outside is safe.--> Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden your immune systeme.
 * [Ideas to Explore](#ideas)
     * [Early On Humidify Inhaled Air](#early-vents)<br> 
-        Humidify inhaled air to increase the mucus flow and thereby decrease ARDS risk
+        Humidify inhaled air to increase the mucus flow and thereby decrease the ARDS risk and need for mechanical ventilation
 * [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal)<br> 
     Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     * [Abstract](#abstract)
@@ -191,9 +191,13 @@ One of main goals should be to increase the mucus flow and clearance from early 
 ### Treatment Methods 
 
 #### Humidify
-Luckily the extern factor humid air, can be influenced e.g. with humidifiers as described by [Hong et al. in 2014](#hong).  Increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani).  
+Luckily the extern factor humid air, can be influenced:
 
-Steam inhalation in the traditional way with a pot of hot water and a towel could help too. However care should be taken for the steam not being to hot, not to further irritate the mucous membranes. 
+- with humidifiers as described by [Hong et al. in 2014](#hong). However the idea is to use early a humidifier alone without (complicated) mechanical ventilation. Ideally around 35 degrees with at least 75% humidity. If used early on such that the mucus flow stay intact, this ideally would be sufficient and make mechanical ventilation not needed. 
+
+- Increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). In temperate climatic zones 25 degree and 70% humidity is about what is realistic to achieve. Not perfect but better than a room with a relative humidity below 40% (or even below 20% if outside is freezing). 
+
+- Steam inhalation in the traditional way with a pot of hot water and a towel could help too. However care should be taken for the steam not being to hot, not to further irritate the mucous membranes. 
 
 Additionally patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
 
