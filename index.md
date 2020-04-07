@@ -40,14 +40,14 @@
 
 ## Updates and Added Content
 - 4.4.20 Added Section Ideas to Explore
-    - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
+    - starting with [Early On Humidify](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
 - 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation which yield to the new section [Particles in the Respiratory Tract](#particles).<br>
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
     1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
     
 #### Minor Updates 
-- 5.4.20 Clarified Early On Ventilators section and added more ref
+- 5.4.20 Clarified Early On Humidify section and added more ref
 - 4.4.20 Updated section evidences from spread patterns (Cruise Ship)
 - 27-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
@@ -116,12 +116,12 @@ Hygiene is important because:
 <p id="ideas"> ---</p>
 
 # Ideas to Explore
-* [Early On Ventilator - Humidify](#early-vents)
+* [Early On Humidify](#early-vents)
 
 
 <p id="early-vents"> -----</p>
 
-## Early On Ventilator - Humidify
+## Early On Humidify Only Ventilator 
 
 ### Idea
 For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. Since ARDS is a major risk for Covid-19 patients, early on humidified air could improve the prognosis. 
@@ -208,7 +208,7 @@ Mechanically ventilated patients exhale less particles: "Mechanically ventilated
 
 <p id="appendix-vents">---</p>
 
-### Appendix for Early On Ventilators [in work]
+### Appendix for Early On Humidify [in work]
 Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. To do the statistics ideally one takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
 
 #### Factors Associated to severe Covid-19:
