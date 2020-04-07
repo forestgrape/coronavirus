@@ -124,12 +124,11 @@ Hygiene is important because:
 ## Early On Ventilator - Humidify
 
 ### Idea
-For the development of a virus induced ARDS, a decreased mucus clearance seems to be a factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the entire room. 
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. Since ARDS is a major risk for Covid-19 patients, early on humidified air could improve the prognosis. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
  
-
 ### Causes for severe Outcome of Covid-19
 A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
 
@@ -182,7 +181,7 @@ However there is evidence for a decreased mucus production and clearance in the 
 * Virus RNA early on in the alimentary seems not to be an indication for ARDS even though this indicates a high overall viral load:
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
     * diarrhea is not risk for ADRS in influenza [Yuen](#yuen). 
-    * increased nausea or vomiting seem to be no indication for a severe disease outcome [Zhong](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen)
+    * increased nausea or vomiting seem to be no indication for a severe disease outcome [Zhong](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen).
 
 
 ### Treatment Goals
@@ -259,7 +258,7 @@ some relation:
 The following characteristics are observed in the  [paper from Yuen et al.](#yuen):
 - For patient developing a ARDS coughing was more common than for patients, who didn't develop an ARDS. Since coughing is an emergency measure of the body to clear respiratory tract this an indication of bad clearance. 
 - The Nasopharyngeal Viral load was even a little higher in the group, who didn't develop an ARDS.
-- The tracheal viral load was much higher in the ARDS groups(less clearance!)
+- The tracheal viral load was much higher in the ARDS groups (less clearance!)
 - Diabetis, Age, Chronic hear disease positively correlate with ARDS development. 
     
     
@@ -400,7 +399,7 @@ How many particles are deposited/breath out in which region in/from the respirat
 * [milton et al](#milton2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
 
 
-### deposition patterns and locations of particles
+### deposition locations
 
 * Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
 
@@ -451,7 +450,7 @@ From the above argumentation lower respiratory tract entry for Sars-Cov-1/2 is o
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
 - Droplets mostly don't enter the lower respiratory tract.
 - Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
-- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition], [in work])and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
+- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition](#deposition-locations) and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
 
 
 <p id="spread-patterns">---</p>
