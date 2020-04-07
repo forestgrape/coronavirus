@@ -124,7 +124,7 @@ Hygiene is important because:
 ## Early On Humidify
 
 ### Idea
-For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation, but the idea here is to use the humidify part only, without a real ventilator. [Hasani et al.](#hasani) found the mucus flow is increased by humidifying the air in the entire room. 
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation, but the idea here is to use the humidify part only, just warm and humide air. [Hasani et al.](#hasani) found the mucus flow is increased by humidifying the air in the entire room. 
 
 
 #### cascade of influences
@@ -193,7 +193,7 @@ One of main goals should be to increase the mucus flow and clearance from early 
 #### Humidify
 Luckily the extern factor humid air, can be influenced:
 
-- with humidifiers as described by [Hong et al. in 2014](#hong). However the idea is to use early a humidifier alone without (complicated) mechanical ventilation. Ideally around 35 degrees with at least 75% humidity. If used early on such that the mucus flow stay intact, this ideally would be sufficient and make mechanical ventilation not needed. 
+- with humidifiers as described by [Hong et al. in 2014](#hong). However the idea is to use early a humidifier alone without (complicated) mechanical ventilation. Ideally around 35 degrees with at least 75% humidity but neither an increased pressure nor an increased flow. If used early on such that the mucus flow stay intact, this ideally would be sufficient and make mechanical ventilation not needed. 
 
 - Increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). In temperate climatic zones 25 degree and 70% humidity is about what is realistic to achieve. Not perfect but better than a room with a relative humidity below 40% (or even below 20% if outside is freezing). 
 
