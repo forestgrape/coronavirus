@@ -121,10 +121,11 @@ Hygiene is important because:
 
 <p id="early-vents"> -----</p>
 
-## Early On Humidify Only Ventilator 
+## Early On Humidify
 
 ### Idea
-For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. Since ARDS is a major risk for Covid-19 patients, early on humidified air could improve the prognosis. 
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation, but the idea here is to use the humidify part only, without a real ventilator. [Hasani et al.](#hasani) found the mucus flow is increased by humidifying the air in the entire room. 
+
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
