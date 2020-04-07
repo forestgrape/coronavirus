@@ -24,7 +24,7 @@
     Keep distance and hygiene. <!--Then outside is safe.--> Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune systeme.
 * [Ideas to Explore](#ideas)
     * [Early On Ventilator](#early-vents)<br> 
-        Carefully humidify inhaled air to increase the mucus flow and thereby the overall prognosis
+        Humidify inhaled air to increase the mucus flow and thereby the overall prognosis
 * [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal)<br> 
     Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     * [Abstract](#abstract)
@@ -61,7 +61,7 @@
 ## Public Suggestions, Advices and Thoughts
 Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither, unlike viruses we've got a mind, better communication and a superb body police called immune systeme. Time to act mindfully and work together.  
    
-- The coronavirus transmission is best metaphored smoke-like. How smoke behaves we know, since we can smell it unlike viruses. Just smelling smoke is the theoretical possibility of infection and be that exposed to smoke that your cloth start smelling , the probability to be infected would be in two digits percentages. Keeping the smoke model in mind, makes it easier to detect risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no big risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in <strong>all</strong> rooms is important.
+- The coronavirus transmission is best metaphored smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind, makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in <strong>all</strong> rooms is important.
 
 - Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important, since the infection risk increases with the amount of indoor air breathed. Or best avoid crowded indoor spaces entirely. 
 
@@ -105,6 +105,13 @@ Hygiene is important because:
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
+<p id="covid"> ---</p>
+
+# Covid-19
+
+[in work]
+
+
 
 <p id="ideas"> ---</p>
 
@@ -124,14 +131,14 @@ Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease 
  
 
 ### Causes for severe Outcome of Covid-19
-A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS) [Song and colleagues](#song). 
+A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
 
 ##### Hypothesis 
-The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed clearance of viruses. This causes a high number of viruses distributed across the entire lungs.
+The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucociliary clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 In the following evidence is shown for the reverse [cascade](#cascade-of-influences): 
 * ARDS is caused by widespread virus distribution [how: work in progress]
-* widespread virus distribution is caused by decreased mucus clearance
+* widespread virus distribution is caused by  a decreased mucociliary clearance 
 * decreased mucus clearance is caused by Dry Air, Hypertension,Diabetes
 
 ##### Reverse Cascade
@@ -165,6 +172,8 @@ However there is evidence for a decreased mucus production and clearance in the 
         - obesity
         - diabetes
         - hypertension
+        - smoking history
+        - air pollution history (likely a risk factor for ARDS since most death are in larger cities. A decreased clearance has been shown for a variety of pollutants.)
     * extern factors
          - dry air 
              * humidified air increases mucus transport [Hong](#hong), [Hasani](#hasani)
@@ -258,9 +267,14 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 * Dry Air especially below 50% relative humidity decreases the mucus flow as found by [Forbes](#forbes)
 
+* [Leopold et al.](#leopold-mahony-lian) observed smoking-associated shorter airway epithelial cilia which, according to their argumentation, yields a decreased mucus flow (described in the section "Implications of Reduction of Cilia Length on Mucociliary Clearance"). 
+
+* In his review on "Effects of Airborne Pollutants on Mucociliary Clearance"  Ronald K. Wolff summarizes "A variety of pollutants have been shown to impair mucociliary clearance following acute or subehronic exposures." 
+
 * [Nakagawa et al.](#nakagawa) found that "Aging, Diabetes, and Hypertension Are Associated With Decreased Nasal Mucociliary Clearance". The mechanisms of mucus production in the nose are likely similar to those in the trachea and therefore similar correlations are expected [to be confirmed]. 
 
 * In the review from [Houtmeyers et al.](#houtmeyers) "Regulation of mucociliary clearance in health and disease" has references to findings which indicate a decreased mucus flow and ciliary activity with age. 
+
 
 #### Factors Influecing Death Rates
 
@@ -810,12 +824,15 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     
 * ##### houtmeyers
     E Houtmeyers, R Gosselink, G Gayan-Ramirez, M Decramer <strong>Regulation of mucociliary clearance in health and disease </strong> European Respiratory Journal May 1999, 13 (5) 1177-1188;
+    
+* ##### leopold-mahony-lian
+    Leopold, P. L., O'Mahony, M. J., Lian, X. J., Tilley, A. E., Harvey, B. G., & Crystal, R. G. (2009). Smoking is associated with shortened airway cilia. PloS one, 4(12), e8157. https://doi.org/10.1371/journal.pone.0008157
   
 * ##### luo
     Yueling Ma, Yadong Zhao, Jiangtao Liu, Xiaotao He, Bo Wang, Shihua Fu, Jun Yan, Jingping Niu, Ji Zhou, Bin Luo, <strong>Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China</strong>, Science of The Total Environment, 2020,138226,ISSN 0048-9697, https://doi.org/10.1016/j.scitotenv.2020.138226.
 (http://www.sciencedirect.com/science/article/pii/S0048969720317393)
     
-    
+
 
 ### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
 
