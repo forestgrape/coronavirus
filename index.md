@@ -21,10 +21,10 @@
 
 * [Updates](#updates)
 * [Public Suggestions](#public-advice)<br>
-    Keep distance and hygiene. Transmission is smoke-like. Outside is safe. Inside ventilate and/or wear a mask.  
+    Keep distance and hygiene. <!--Then outside is safe.--> Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune systeme.
 * [Ideas to Explore](#ideas)
     * [Early On Ventilator](#early-vents)<br> 
-        Humidify inhaled air to increase the mucus flow and thereby the overall prognosis
+        Carefully humidify inhaled air to increase the mucus flow and thereby the overall prognosis
 * [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal)<br> 
     Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     * [Abstract](#abstract)
@@ -128,8 +128,6 @@ A main complication of a severe Covid-19 and possible death cause is an acute re
 ##### Hypothesis 
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed clearance of viruses. This causes a high number of viruses distributed across the entire lungs.
 
-Note: In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find some evidence that increased humidity lowers the death rate (which likely corresponds to lowering the ARDS risk). So the argumentation given here agrees with their analysis and even explains their findings. 
-
 In the following evidence is shown for the following reverse cascade: 
 * ARDS is caused by widespread virus distribution [how: work in progress]
 * widespread virus distribution is caused by decreased mucus clearance
@@ -202,7 +200,7 @@ Mechanically ventilated patients exhale less particles: "Mechanically ventilated
 <p id="appendix-vents">---</p>
 
 ### Appendix for Early On Ventilators [in work]
-Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the paper given as sources. To do the statistics ideally one takes into account correlations between the various factors too e.g. there is likely a correlation between age and chronic heart disease. [todo: math which are observables for same cause]
+Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. To do the statistics ideally one takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease. [todo: math, check dependence between observables]
 
 #### Factors Associated to severe Covid-19 with ARDS:
 [Zhong et al.](#zhong) noted characteristics of mild, severe and fatal cases of hospitalized Covid-19 patients. 
@@ -249,6 +247,9 @@ The following characteristics are observed in the  paper from Yuen et al.:
 
 * In the review from [Houtmeyers et al.](#houtmeyers) "Regulation of mucociliary clearance in health and disease" has references to findings which indicate a decreased mucus flow and ciliary activity with age. 
 
+#### Factors Influecing Death Rates
+
+In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find some correlation between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here agrees with their findings and would even provide explanations. Their analysis depends however on how accurate the analyzed data are. In nearly all heavy hit regions the priority was and is to save lives and not to count accurately. <!--But for analysis it would be helpful to have accurate/corrected data. -->
 
 
 <p id="proposal">-------</p>
