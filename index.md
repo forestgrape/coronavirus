@@ -109,6 +109,7 @@ Hygiene is important because:
 <p id="ideas"> ---</p>
 
 # Ideas to Explore
+* [Early On Ventilator - Humidify](#early-vents)
 
 
 <p id="early-vents"> -----</p>
@@ -118,17 +119,17 @@ Hygiene is important because:
 ### Idea
 For the development of a virus induced ARDS, a decreased mucus clearance seems to be a factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the entire room. 
 
-
-Increase humidity of inhaled air --> Increases the mucus clearance --> Increase the well-being and the overall prognosis
+#### cascade of influences
+Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
  
 
 ### Causes for severe Outcome of Covid-19
-A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS). 
+A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS) [Song and colleagues](#song). 
 
 ##### Hypothesis 
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed clearance of viruses. This causes a high number of viruses distributed across the entire lungs.
 
-In the following evidence is shown for the following reverse cascade: 
+In the following evidence is shown for the reverse [cascade](#cascade-of-influences): 
 * ARDS is caused by widespread virus distribution [how: work in progress]
 * widespread virus distribution is caused by decreased mucus clearance
 * decreased mucus clearance is caused by Dry Air, Hypertension,Diabetes
@@ -136,7 +137,7 @@ In the following evidence is shown for the following reverse cascade:
 ##### Reverse Cascade
 
 - In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show bilateral lung lesions/patches [Zhong et al.](#zhong).
-- [Yuen et al](#yuen) found a high viral load for patients with an ADRS . 
+- [Yuen et al](#yuen) found high late viral loads for patients with an ADRS . 
 
 For the widespread viral load distribution in the lower respiratory tract, possible reasons are:
 
@@ -147,7 +148,7 @@ Overall there isn't strong evidence for increased growth of viruses in ARDS risk
 
 - data suggest no strong correlation between a diminished immune system and severe Covid-19 (see e.g. [zhong](#zhong))
 - patients with ADRS seem not to have especially low antibody levels as results obtained by [To, Tsang et al.](#to-tsang) indicate. 
-- data by [To, Tsang et al.](#to-tsang) suggest that early high viral loads are no clear indication for a fatal outcome 
+- data by [To, Tsang et al.](#to-tsang),[Yuen et al.](#yuen) suggest that early high viral loads are no clear indication for developing an ARDS.
 - in young people the cell machinery tends to be more performant. So in theory viruses could spread more quickly. 
 
 <!--todo: immune reaction -->
@@ -200,11 +201,11 @@ Mechanically ventilated patients exhale less particles: "Mechanically ventilated
 <p id="appendix-vents">---</p>
 
 ### Appendix for Early On Ventilators [in work]
-Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. To do the statistics ideally one takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease. [todo: math, check dependence between observables]
+Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. To do the statistics ideally one takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
 
-#### Factors Associated to severe Covid-19 with ARDS:
+#### Factors Associated to severe Covid-19:
 [Zhong et al.](#zhong) noted characteristics of mild, severe and fatal cases of hospitalized Covid-19 patients. 
-The numbers in paranthesis are observation rates for (% death cases, % severe cases(including fatal), % mild cases) [todo: add average for entire population as comparison]
+The numbers in paranthesis are observation rates for (% death cases, % severe cases(including fatal), % mild cases)
 
 strong relation:
 - Chronic obstructive pulmonary disease (10.4 vs 3.5 vs 0.6)
@@ -222,17 +223,31 @@ very weak/no relation:
 
 
 [Bhatraju et al.](#bhatraju) noted characteristics of Covid-19 patients from the Seattle-area with ARDS.
+
 strong relation:
 - Diabetis 58%
 - high body mass index (33.2±7.2)
 - Age (64±18 (23–97))
-[todo: add average for entire population]
+
 weak relation:
 - formaer/current smoker 22%
 - asthma 14%
+
+In Italy [Onder et al.](#onder) analyzed a subsample of 355 patients with COVID-19 who died in Italy: 
+
+strong relation:
+* mean age was 79.5 years (SD, 8.1) 
+* 117 patients (30%) had ischemic heart disease
+* 126 (35.5%) had diabetes
+* 72 (20.3%) had active cancer
+* 87 (24.5%) had atrial fibrillation
+
+some relation:
+* 24 (6.8%) had dementia
+* 34 (9.6%) had a history of stroke
     
-#### Factors Associated with ADRS in Influenza [yuen](#yuen)   
-The following characteristics are observed in the  paper from Yuen et al.:
+#### Factors Associated with ADRS in Influenza    
+The following characteristics are observed in the  [paper from Yuen et al.](#yuen):
 - For patient developing a ARDS coughing was more common than for patients, who didn't develop an ARDS. Since coughing is an emergency measure of the body to clear respiratory tract this an indication of bad clearance. 
 - The Nasopharyngeal Viral load was even a little higher in the group, who didn't develop an ARDS.
 - The tracheal viral load was much higher in the ARDS groups(less clearance!)
@@ -249,7 +264,7 @@ The following characteristics are observed in the  paper from Yuen et al.:
 
 #### Factors Influecing Death Rates
 
-In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find some correlation between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here agrees with their findings and would even provide explanations. Their analysis depends however on how accurate the analyzed data are. In nearly all heavy hit regions the priority was and is to save lives and not to count accurately. <!--But for analysis it would be helpful to have accurate/corrected data. -->
+In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find some correlation between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here agrees with their findings and would even provide explanations. Their analysis depends however on how accurate the analyzed data are. In Wuhan, as in nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. <!--But for analysis it would be helpful to have accurate/corrected data. -->
 
 
 <p id="proposal">-------</p>
@@ -570,6 +585,11 @@ TODO UPDATE REFERENCES
 * ##### bhatraju
     Pavan K. Bhatraju, M.D., Bijan J. Ghassemieh, M.D., Michelle Nichols, M.D., Richard Kim, M.D., Keith R. Jerome, M.D., Arun K. Nalla, Ph.D., Alexander L. Greninger, M.D., Sudhakar Pipavath, M.D., Mark M. Wurfel, M.D., Ph.D., Laura Evans, M.D., Patricia M. Kritek, M.D., T. Eoin West, M.D., M.P.H., Andrew Luks, M.D., Anthony Gerbino, M.D., Chris R. Dale, M.D.,Jason D. Goldman, M.D., Shane O’Mahony, M.D., and Carmen Mikacenic, M.D.     <strong> Covid-19 in Critically Ill Patients in the Seattle Region — Case Series</strong> This article was published on March 30, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2004500
     
+* ##### song
+    Ruan, Q., Yang, K., Wang, W. et al. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med (2020). https://doi.org/10.1007/s00134-020-05991-x
+    
+* ##### onder
+    Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy. JAMA. Published online March 23, 2020. https://doi.org/10.1001/jama.2020.4683
     
 #### SARS
 
