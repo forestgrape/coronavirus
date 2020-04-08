@@ -124,7 +124,7 @@ Hygiene is important because:
 ## Early On Humidify
 
 ### Idea
-For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation, but the idea here is to use the humidify part only, just warm and humide air. [Hasani et al.](#hasani) found the mucus flow is increased by humidifying the air in the entire room. 
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation, but the idea here is to use the humidify part stand-alone, only warm and humide air (neither high-flow nor increased pressure). [Hasani et al.](#hasani) found the mucus flow is increased by humidifying the air in the entire room. Important is to start early on, since if there are already heaps of mucus (loaded with viruses) a temporary worsenening could occur, due to irritations when the mucus is flowing up the respiratory tract. 
 
 
 #### cascade of influences
