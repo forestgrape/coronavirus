@@ -11,7 +11,7 @@
 
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. 
 
-* Two sections marked as __public__, which contain advices and easy to grasp descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
+* Two sections are marked as __public__, which contain advices and easy to grasp descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 
 * Pointing out mistakes and feedback are __welcome__.
 <!-- * The page is soon going to be split up into different topics. -->
