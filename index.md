@@ -7,12 +7,13 @@
 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 
-* These are <strong>hypothesis</strong> and <strong>research ideas</strong> but <strong>not</strong> double checked facts. They are put here as ideas to be checked and evaluated. 
+* These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas yet to be checked and evaluated. 
 
-<!--
-* The target audience are people, who like and are used to critically analyze concepts and ideas, e.g. researchers.-->
+* This page is written for people, who like and are used to __critically analyze__ concepts and ideas. 
 
-* Pointing out mistakes and feedback are <strong>welcome</strong>.
+* Two sections marked as __public__, which contain advices and easy to grasp descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
+
+* Pointing out mistakes and feedback are __welcome__.
 <!-- * The page is soon going to be split up into different topics. -->
 
 <p id="t-content">-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
@@ -21,38 +22,43 @@
 
 * [Updates](#updates)
 * [Public Suggestions](#public-advice)<br>
-    Keep distance and hygiene. <!--Then outside is safe.--> Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden your immune systeme.
+    Keep distance and hygiene. <!--Then outside is safe.--> Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune systeme.
 * [Ideas to Explore](#ideas)
-    * [Early On Humidify Inhaled Air](#early-vents)<br> 
-        Humidify inhaled air to increase the mucus flow and thereby decrease the ARDS risk and need for mechanical ventilation
+    * [Prevent Early On Mucus Accumulations](#early-vents) - Early On Ventilators:<br> 
+        Humidify inhaled air to increase the mucus flow and thereby the overall prognosis
 * [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal)<br> 
     Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
-    * [Abstract](#abstract)
-    * [Model](#model)
-    * [Intermezzo Particles in the Respiratory Tract](#particles)
-    * [Evidence for the Dry Form Transmission Model](#evidence)
-        - [Evidence from Biological Properties](#biological-properties)
-        - [Evidence from the observed Spread Patterns](#spread-patterns)
-* [Suggested Protections Measures](#measures)
+    - [Abstract](#abstract)
+    - [Model](#model)
+    - [Intermezzo Particles in the Respiratory Tract](#particles)
+    - [Evidence for the Dry Form Transmission Model](#evidence)
+        * [Evidence from Biological Properties](#biological-properties)
+        * [Evidence from the observed Spread Patterns](#spread-patterns)
+* [Suggested Protections Measures](#measures)<br>
+    Smoke protection measures work well and masks. 
+    - [Masks](#masks)
+    - [Ventilation](#ventilation)
 * [References](#references)
 
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
+- 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
-    - starting with [Early On Humidify](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
-- 25/26/27/30.3.20:  Corrected and looked up aerosol/particulate inhalation which yield to the new section [Particles in the Respiratory Tract](#particles).<br>
-    In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is double wrong:
-    1. The evolutionary roots of the lungs are the alimentary system, so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
-    2. The lungs developed before we were upright and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A workaround evolved: in humans, smallest particulates are cleared by macrophages [citation to be added].  
+    - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
+- 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yield to the new section [Particles in the Respiratory Tract](#particles).<br>
+    In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
+    1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
+    2. The lungs developed before we were upright (just a couple of hundred thausend generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption occured first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
+    3. Upright clearance evolved when we all were in warm and humid Africa and clearance works better in this setting. In evolutionary dimensions there are very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no evolutionary adaption to permanent indoor heating.    
     
 #### Minor Updates 
-- 5.4.20 Clarified Early On Humidify section and added more ref
+- 9.4.20 Started section Covid-19
+- 8.4.20
+- 5.4.20 Clarified Early On Ventilators section and added more ref
 - 4.4.20 Updated section evidences from spread patterns (Cruise Ship)
 - 27-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
-- 31.3.20: Section and references how ventilation clears indoor air and is effective for containing airborne infection pathways. 
-- 30.3.20: Reordered section Particle Deposition and added more references. 
 
 
 
@@ -61,7 +67,7 @@
 ## Public Suggestions, Advices and Thoughts
 Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither, unlike viruses we've got a mind, better communication and a superb body police called immune systeme. Time to act mindfully and work together.  
    
-- The coronavirus transmission is best metaphored smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind, makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in <strong>all</strong> rooms is important.
+- The coronavirus transmission is best metaphored smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind, makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
 - Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important, since the infection risk increases with the amount of indoor air breathed. Or best avoid crowded indoor spaces entirely. 
 
@@ -69,7 +75,7 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 
 - Distancing reduces infection risk. 
 
-- Outside is safe,  <strong>if distance is kept</strong>. However beware the corridor and stairwell. Limit or ideally avoid public transport and crowded cars. Ideally walk or cycle directly from home. Taking into consideration, that most people especially children will and should go outside right where they live, it is polite to make limited usage of cars for leisure in cities - it is nicer and safer with light traffic. 
+- Outside is safe,  if distance is kept. However beware the corridor and stairwell. Limit or ideally avoid public transport and crowded cars. Ideally walk or cycle directly from home. Taking into consideration, that most people especially children will and should go outside right where they live, it is polite to make limited usage of cars for leisure in cities - it is nicer and safer with light traffic. 
     
 - Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room and your flat. [Ventilation](#ventilation) has been shown to be effective. 
 
@@ -77,23 +83,20 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 - Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air both dust and viruses stay longer in the air. 
 
 - Keep proper hygiene. Especially wash your hands well with a lot of soap after toilet. 
-Hygiene is important because:
+  Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
    * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
    * avoiding a common cold or flu is important, because Covid-19 can be somewhat similar. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informing them.   
    
-  But do <strong>not</strong> rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets.
+  But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets.
   
 - Public Transport: 
-     * Ventilation is crucial in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Don't put ventilation on circulation. Put ventilation to max.  Wear a mask.
-     * If there are old toilets, that go to the rails, don't use them, never use to shit!
+     * Ventilation is key in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Always to max, turn off in tunnels and never put on circulation.  Consider a wearing a mask, especially if crowded and not well/unclear ventilated. 
+     * If there are old toilets, that go to the rails, don't use them, _never_ use to shit!
 
 
-- Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired and energyless can be a symptom too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Among later symptoms are shortness of breath (the lungs are inflamed) and diarrhoea (if early likely not a bad sign because it means viruses are cleared down the alimentary, if late not so good because viruses went into the blood and infected the intestine; take special care to your immun systeme. If you observed most of the symptoms in the described order is likely you went through Covid-19.<br>
-    
-    Observe your body, write down the observations and if possible measure:
-    Measure your temperature several times every day and best in the same situations and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. This can be as low as one or only half a degree, going up from 35 to 35.5 or 36. Keep in mind that the temperature varies over the course of a day and with the activities performed. That's why several measurements. <br>
-    It is crucial to measure the temperature accurately since many people have only a slightly increased temperature ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)), which doesn't "meet the definition of fever". Side note: It's time to move on from digitalization and black-white schemes to the continuous colourspace of Bayesian statistics. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
+-  Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. This can be as low as one or only half a degree, going up from 35 to 35.5 or 36. Keep in mind that the temperature varies over the course of a day and with the activities performed. That's why several measurements. <br>
+    It is crucial to measure the temperature accurately since many people have only a slightly increased temperature, which doesn't "meet the definition of fever", see [Covid-19](#covid). Your temperature if measured on the forehead may go from a typical 35.5 to 36.5 degree. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colourspace of Bayesian statistics. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily, relax and do some sport
@@ -109,6 +112,14 @@ Hygiene is important because:
 
 # Covid-19
 
+### public description
+##### Note
+* based on a couple first-hand descriptions of rather mild cases. The descriptions agree well with the expected pathogenesis of mild cases. However to put this on a solid basis more cases would need to be considered. 
+* Only a slightly increased temperature, which may be below 38 degree has been observed in many patients (([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)))
+
+Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired and energyless can be a symptom too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Among later symptoms are shortness of breath (the lungs are inflamed) and diarrhoea (if early likely not a bad sign because it means viruses are cleared down the alimentary, if late not so good because viruses went into the blood and infected the intestine; take special care to your immun systeme. If you observed most of the symptoms in the described order is likely you went through Covid-19.
+
+### pathogenesis
 [in work]
 
 
@@ -116,40 +127,43 @@ Hygiene is important because:
 <p id="ideas"> ---</p>
 
 # Ideas to Explore
-* [Early On Humidify](#early-vents)
+* [Early On Ventilator - Humidify](#early-vents)
 
 
 <p id="early-vents"> -----</p>
 
-## Early On Humidify
+## Early On Prevent Mucus Accumulations - Early On Ventilator 
 
 ### Idea
-For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation, but the idea here is to use the humidify part stand-alone, only warm and humide air (neither high-flow nor increased pressure). [Hasani et al.](#hasani) found the mucus flow is increased by humidifying the air in the entire room. Important is to start early on, since if there are already heaps of mucus (loaded with viruses) a temporary worsenening could occur, due to irritations when the mucus is flowing up the respiratory tract. 
-
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humide air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover breath-support-devices may not only be used to humidify, there are indications they may reduce the spread of viruses in the lungs. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
  
-### Causes for severe Outcome of Covid-19
+#### Causes for severe Outcome of Covid-19
 A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
 
-##### Hypothesis 
+#### Hypothesis 
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucociliary clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 In the following evidence is shown for the reverse [cascade](#cascade-of-influences): 
 * ARDS is caused by widespread virus distribution [how: work in progress]
-* widespread virus distribution is caused by  a decreased mucociliary clearance 
-* decreased mucus clearance is caused by Dry Air, Hypertension,Diabetes
+* widespread virus distribution is caused by  a decreased mucociliary clearance and increased distribution from locations of infected cells-
+* decreased mucus clearance is caused by dry air, hypertension, diabetes
 
-##### Reverse Cascade
+### Reverse Cascade
 
 - In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show bilateral lung lesions/patches [Zhong et al.](#zhong).
 - [Yuen et al](#yuen) found high late viral loads for patients with an ADRS . 
 
 For the widespread viral load distribution in the lower respiratory tract, possible reasons are:
 
-- increased growth of viruses in the cells
-- decreased mucus clearance
+- [increased growth of viruses in the cells](#increased-growth)
+- [increased distribution across the lungs](#increased-distribution) 
+- [decreased mucus clearance](#decreased-mucus-clearance)
+
+
+##### increased growth
 
 Overall there isn't strong evidence for increased growth of viruses in ARDS risk group:
 
@@ -160,9 +174,9 @@ Overall there isn't strong evidence for increased growth of viruses in ARDS risk
 
 <!--todo: immune reaction -->
 
-However there is evidence for a decreased mucus production and clearance in the ARDS risk group.
+##### increased distribution
 
-##### Evidence for Decreased Mucus Clearance in ARDS Risk Group
+##### decreased mucus clearance 
 
 * observed for influenza by [Yuen et al](#yuen)
 
@@ -185,35 +199,50 @@ However there is evidence for a decreased mucus production and clearance in the 
     * increased nausea or vomiting seem to be no indication for a severe disease outcome [Zhong](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen).
 
 
-### Treatment Goals
-One of main goals should be to increase the mucus flow and clearance from early on. 
+### Treatment Goals to Decrease Viral Load [in work]
 
-### Treatment Methods 
+Prevent the accumulation of viral loaded and dry mucus early on. By:
+* increase the mucus flow and clearance -> increase humidity 
+    - see [treatment methods](#treatment-methods) below
+    
+    
+* reduce spread -> reduce opening and closing of aveoli i.e. deep breathing [to be confirmed]
+    - patients should breath as calm as possible
+    - slightly increased pressure may reduce opening and closing of alveolis [to be confirmed]
+    - ventilators reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
+    
+#### Note
+* The earlier the better. So if a treatment is likely to be needed, early on usage is the best option [to be confirmed].  
+* Additionally patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
+* The increased mucus clearance should both increase the well-being as well as the overall prognosis. If there already a lot of (dry) mucus accumulations, liquefying the mucus could yield a likely temporary but possibly dangreous additional irritation. 
 
-#### Humidify
-Luckily the extern factor humid air, can be influenced:
+### treatment methods 
 
-- with humidifiers as described by [Hong et al. in 2014](#hong). However the idea is to use early a humidifier alone without (complicated) mechanical ventilation. Ideally around 35 degrees with at least 75% humidity but neither an increased pressure nor an increased flow. If used early on such that the mucus flow stay intact, this ideally would be sufficient and make mechanical ventilation not needed. 
+* heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneunomia patients around the world receive succesful treatment. 
+    __Benefit__: This increases both the humidty and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt).
 
-- Increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). In temperate climatic zones 25 degree and 70% humidity is about what is realistic to achieve. Not perfect but better than a room with a relative humidity below 40% (or even below 20% if outside is freezing). 
+* a heated humidifier stand-alone (i.e.) with no ventilator. __Benefit__:   
+Increase humidity and thus mucus flow and easy to use with an oxygen mask.
+ 
+* increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). __Benefit__: Simple use and a slight increase in mucus flow.  
 
-- Steam inhalation in the traditional way with a pot of hot water and a towel could help too. However care should be taken for the steam not being to hot, not to further irritate the mucous membranes. 
+* Steam inhalation in the traditional way with a pot of hot water and a towel could help too. L. Use in early phase only since the steam may further irritate the mucous membranes. __Benefit__: Simple use and a temporary increase in mucus flow. 
 
-Additionally patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
-
-The increased mucus clearance should both increase the well-being already short-term as well as the overall prognosis. 
+* more: [in work]
 
 
 
+
+<!--
 #### Mechanical Ventilators
 Mechanically ventilated patients exhale less particles: "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt). That has to be taken into account. 
 [work in progress: To be investigated: it could mean that they shed less viruses and less viruses are distributed throughout the lungs or it could mean that more viruses stay in the lungs since there is less clearance. ]
-
+-->
 
 
 <p id="appendix-vents">---</p>
 
-### Appendix for Early On Humidify [in work]
+### Appendix for Early On Ventilators [in work]
 Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. To do the statistics ideally one takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
 
 #### Factors Associated to severe Covid-19:
@@ -442,7 +471,8 @@ Modeling or experimentally determine the deposition rates is not easy and each m
 
 ### Evidence from Biological Properties
 #### entry point
-The cell entry receptor used by SARS-Cov-1 and SARS-Cov-2 is ACE2 [LiF](#lif),[Hoffmann](#hoffmann),[Jiang](#jiang). ACE2 is apically expressed on lung alveolar epithelial cells [Timens](#timens). In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). Both the barrier function of the apical cell layer and the fact that another Coronavirinae, namely 229E, infects the cells from the apical surface [[McCray](#mccray)], indicate that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
+The cell entry receptor used by SARS-Cov-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif),[Hoffmann](#hoffmann)] is ACE2 . ACE2 is apically expressed on lower respiratory tract epithelial cells, especially in alveolar epithelial type 2 cells [[Timens](#timens),[mcray05](#mccray05)]. In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). 
+The barrier function of the apical cell layer, the observation that another Coronavirinae, namely 229E, infects the cells from the apical surface [[McCray](#mccray)] and observations that in , indicate that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
 
 This is consistent with the viral loads observed in different parts of the body: 
 * The only location where all patients had viral Sars-Cov-1 loads is the lungs [Farcas et al](#farcas). 
@@ -504,14 +534,14 @@ Remark: The following pieces of evidence are 'in work'.
 <p id="measures">-----</p>
 
 ### Suggested Protections Measures 
-Supposing that the main transmission of Sars-Cov-2 is either aerosol or outlined dry form, which is <strong>not</strong> yet confirmed. This extends  [Public Advices and Suggestions](#public-advice) section. 
+Supposing that the main transmission of Sars-Cov-2 is either aerosol or outlined dry form, which is __not__ yet confirmed. This extends  [Public Advices and Suggestions](#public-advice) section. 
 
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 
 This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm. Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key.
 
-#### masks (work in progress)
+#### masks
 
 Officially recommed mask, since they mitigate the infection risk. Without official recommendation, people can be put off or look afraid from masks, at least in Europe, which is not desirable. 
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
@@ -583,76 +613,84 @@ TODO UPDATE REFERENCES
 
 * ##### shi
     Heshui Shi*, Xiaoyu Han*, Nanchuan Jiang*, Yukun Cao, Osamah Alwalid, Jin Gu, Yanqing Fan†, Chuansheng Zheng†
-    <strong> Radiological findings from 81 patients with COVID-19
-    pneumonia in Wuhan, China: a descriptive study</strong>
+    **Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study**
     Lancet Infect Dis 2020
     Published Online
     February 24, 2020
     https://doi.org/10.1016/S1473-3099(20)30086-4
 
 * ##### wong
-     SARS-CoV-2 Infection in Children</strong>
+     **SARS-CoV-2 Infection in Children**
      This letter was published on March 18, 2020, at NEJM.org.
      https://doi.org/10.1056/NEJMc2005073
      
 * ##### zhong
-    W. Guan, Z. Ni, Yu Hu, W. Liang, C. Ou, J. He, L. Liu, H. Shan, C. Lei, D.S.C. Hui, B. Du, L. Li, G. Zeng, K.-Y. Yuen, R. Chen, C. Tang, T. Wang, P. Chen, J. Xiang, S. Li, Jin-lin Wang, Z. Liang, Y. Peng, L. Wei, Y. Liu, Ya-hua Hu, P. Peng, Jian-ming Wang, J. Liu, Z. Chen, G. Li, Z. Zheng, S. Qiu, J. Luo, C. Ye, S. Zhu, and N. Zhong <strong>Clinical Characteristics of Coronavirus Disease 2019 in China</strong>
+    W. Guan, Z. Ni, Yu Hu, W. Liang, C. Ou, J. He, L. Liu, H. Shan, C. Lei, D.S.C. Hui, B. Du, L. Li, G. Zeng, K.-Y. Yuen, R. Chen, C. Tang, T. Wang, P. Chen, J. Xiang, S. Li, Jin-lin Wang, Z. Liang, Y. Peng, L. Wei, Y. Liu, Ya-hua Hu, P. Peng, Jian-ming Wang, J. Liu, Z. Chen, G. Li, Z. Zheng, S. Qiu, J. Luo, C. Ye, S. Zhu, and N. Zhong 
+    **Clinical Characteristics of Coronavirus Disease 2019 in China**
     February 28, 2020,last updated on March 6, 2020, at NEJM.org.
     https://doi.org/10.1056/NEJMoa2002032
     
 * ##### bhatraju
-    Pavan K. Bhatraju, M.D., Bijan J. Ghassemieh, M.D., Michelle Nichols, M.D., Richard Kim, M.D., Keith R. Jerome, M.D., Arun K. Nalla, Ph.D., Alexander L. Greninger, M.D., Sudhakar Pipavath, M.D., Mark M. Wurfel, M.D., Ph.D., Laura Evans, M.D., Patricia M. Kritek, M.D., T. Eoin West, M.D., M.P.H., Andrew Luks, M.D., Anthony Gerbino, M.D., Chris R. Dale, M.D.,Jason D. Goldman, M.D., Shane O’Mahony, M.D., and Carmen Mikacenic, M.D.     <strong> Covid-19 in Critically Ill Patients in the Seattle Region — Case Series</strong> This article was published on March 30, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2004500
+    Pavan K. Bhatraju, M.D., Bijan J. Ghassemieh, M.D., Michelle Nichols, M.D., Richard Kim, M.D., Keith R. Jerome, M.D., Arun K. Nalla, Ph.D., Alexander L. Greninger, M.D., Sudhakar Pipavath, M.D., Mark M. Wurfel, M.D., Ph.D., Laura Evans, M.D., Patricia M. Kritek, M.D., T. Eoin West, M.D., M.P.H., Andrew Luks, M.D., Anthony Gerbino, M.D., Chris R. Dale, M.D.,Jason D. Goldman, M.D., Shane O’Mahony, M.D., and Carmen Mikacenic, M.D.     
+    **Covid-19 in Critically Ill Patients in the Seattle Region — Case Series** 
+    This article was published on March 30, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2004500
     
 * ##### song
-    Ruan, Q., Yang, K., Wang, W. et al. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med (2020). https://doi.org/10.1007/s00134-020-05991-x
+    Ruan, Q., Yang, K., Wang, W. et al. 
+    **Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China.** Intensive Care Med (2020). https://doi.org/10.1007/s00134-020-05991-x
     
 * ##### onder
-    Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy. JAMA. Published online March 23, 2020. https://doi.org/10.1001/jama.2020.4683
+    Onder G, Rezza G, Brusaferro S. 
+    **Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy.**
+    JAMA. Published online March 23, 2020. https://doi.org/10.1001/jama.2020.4683
     
 #### SARS
 
 * ##### farcas
     Farcas GA, Poutanen SM, Mazzulli T, Willey BM, Butany J,
-    Asa SL, Faure P, Akhavan P, Low DE, Kain KC: <strong>Fatal severe
-    acute respiratory syndrome is associated with multiorgan
-    involvement by coronavirus.</strong> J Infect Dis 2005, 191:193-197
+    Asa SL, Faure P, Akhavan P, Low DE, Kain KC: 
+    **Fatal severe acute respiratory syndrome is associated with multiorgan involvement by coronavirus.**
+    J Infect Dis 2005, 191:193-197
     https://doi.org/10.1086/426870
     
 * ##### zaki
-    Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,Jeannette Guarner MDa, Cynthia S. Goldsmith MSa, Kathleen Tatti PhDa, Michelle Packard MPHa, Laurie Mueller BA, BSa, Mu-Zong Wub, Pierre Rollin MDc, Ih-Jen Su MD, PhDd, Sherif R. Zaki MD, PhDa <strong> Immunohistochemical, in situ hybridization,
-    and ultrastructural localization of SARS-associated
-    coronavirus in lung of a fatal case of severe acute
-    respiratory syndrome in Taiwan</strong>Human Pathology (2005) 36, 303 – 309
+    Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,Jeannette Guarner MDa, Cynthia S. Goldsmith MSa, Kathleen Tatti PhDa, Michelle Packard MPHa, Laurie Mueller BA, BSa, Mu-Zong Wub, Pierre Rollin MDc, Ih-Jen Su MD, PhDd, Sherif R. Zaki MD, PhDa 
+    **Immunohistochemical, in situ hybridization, and ultrastructural localization of SARS-associated coronavirus in lung of a fatal case of severe acute respiratory syndrome in Taiwan**
+    Human Pathology (2005) 36, 303 – 309
     https://doi.org/10.1016/j.humpath.2004.11.006  
      
      
 ### Phatogenesis and Viral Loads
 
 * ##### lau
-	Yu Lung Lau and JS Malik Peiris <strong>Pathogenesis of severe acute respiratory syndrome</strong>
+	Yu Lung Lau and JS Malik Peiris 
+    **Pathogenesis of severe acute respiratory syndrome**
 	Current Opinion in Immunology 2005, 17:404–410
 	https://doi.org/10.1016/j.coi.2005.05.009
     
 * ##### peiris
     J S M Peiris, Y Guan, K Y Yuen
-    <strong>Severe acute respiratory syndrom</strong>
+    **Severe acute respiratory syndrom**
     nature medicine, 30 November 2004
     https://doi.org/10.1038/nm1143
     
 * ##### case-series-france
-    Francois-Xavier Lescure*, Lila Bouadma*, Bruno Lina*, Sylvie van-der-Werf*, Yazdan Yazdanpanah* et al.
-    <strong>Clinical and virological data of the first cases of COVID-19 in Europe: a case series</strong>
+    Francois-Xavier Lescure, Lila Bouadma*, Bruno Lina*, Sylvie van-der-Werf, Yazdan Yazdanpanah et al.
+    **Clinical and virological data of the first cases of COVID-19 in Europe: a case series**
     Lancet Infect Dis 2020
     PublishedOnline
     March 27, 2020 https://doi.org/10.1016/ S1473-3099(20)30200-0<br>
     See Online/Comment https://doi.org/10.1016/ S1473-3099(20)30237-1
     
 * ##### memish
-    Ziad A. Memish, Jaffar A. Al-Tawfiq, Hatem Q. Makhdoom, Abdullah Assiri, Raafat F. Alhakeem, Ali Albarrak, Sarah Alsubaie, Abdullah A. Al-Rabeeah, Waleed H. Hajomar, Raheela Hussain, Ali M. Kheyami, Abdullah Almutairi, Esam I. Azhar, Christian Drosten, Simon J. Watson, Paul Kellam, Matthew Cotten, Alimuddin Zumla, Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome, The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
+    Ziad A. Memish, Jaffar A. Al-Tawfiq, Hatem Q. Makhdoom, Abdullah Assiri, Raafat F. Alhakeem, Ali Albarrak, Sarah Alsubaie, Abdullah A. Al-Rabeeah, Waleed H. Hajomar, Raheela Hussain, Ali M. Kheyami, Abdullah Almutairi, Esam I. Azhar, Christian Drosten, Simon J. Watson, Paul Kellam, Matthew Cotten, Alimuddin Zumla, 
+    **Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome**
+    The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
      
 * ##### to-tsang
-    Kelvin Kai-Wang To*, Owen Tak-Yin Tsang*, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng,
-Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen <strong>Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study</strong>Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
+    Kelvin Kai-Wang To*, Owen Tak-Yin Tsang*, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng, Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen 
+    **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
+    Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
 
     
 ### Biology of Coronaviruses 
@@ -662,16 +700,13 @@ Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yu
 	Yanli Zhang, Wei Deng, Linlin Bao, Binlin Zhang, Guang Liu, Zhong Wang, Mark Chappell,
 	Yanxin Liu, Dexian Zheng, Andreas Leibbrandt, Teiji Wada, Arthur S Slutsky, Depei Liu, Chuan Qin,
 	Chengyu Jiang & Josef M Penninger1<br>
-	<strong>A crucial role of angiotensin converting enzyme 2 (ACE2)
-	in SARS coronavirus–induced lung injury </strong>
+	**A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus–induced lung injury**
 	NATURE MEDICINE VOLUME 11 | NUMBER 8 | AUGUST 2005
 	https://doi.org/10.1038/nm1267
     
 * ##### lif
 	Wan Y, Shang J, Graham R, Baric RS, Li F.
-	<strong>Receptor recognition by novel coronavirus from
-	Wuhan: An analysis based on decade-long
-	structural studies of SARS. </strong>
+	**Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS.**
 	J Virology 2020;
 	published online Jan 29. .
 	https://doi.org/10.1128/JVI.00127-20 
@@ -680,8 +715,7 @@ Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yu
 	GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
 	DIANNA M. BLAU,3 KATHRYN V. HOLMES,3 BEVERLY L. DAVIDSON,4 STANLEY PERLMAN,1,5
 	AND PAUL B. MCCRAY, JR.1
-	<strong>Human Coronavirus 229E Infects Polarized Airway Epithelia
-	from the Apical Surface</strong>
+	**Human Coronavirus 229E Infects Polarized Airway Epithelia from the Apical Surface**
 	JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
 	https://doi.org/10.1128/jvi.74.19.9234-9239.2000
  
@@ -689,9 +723,7 @@ Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yu
 	Markus Hoffmann, Hannah Kleine-Weber,
 	Simon Schroeder, ..., Marcel A. Müller,
 	Christian Drosten, Stefan Pöhlmann
-	<strong>SARS-CoV-2 Cell Entry Depends on ACE2 and
-	TMPRSS2 and Is Blocked by a Clinically Proven
-	Protease Inhibitor</strong>
+	**SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor**
 	Hoffmann et al., 2020, Cell 181, 1–10
 	April 16, 2020 a 2020 Elsevier Inc.
 	https://doi.org/10.1016/j.cell.2020.02.052
@@ -701,16 +733,16 @@ Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yu
 
 * ##### timens
 	I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
-	<strong> Tissue distribution of ACE2 protein, the functional
-	receptor for SARS coronavirus. A first step in
-	understanding SARS pathogenesis</strong>
+	**Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis**
 	Journal of Pathology
 	J Pathol 2004; 203: 631–637
 	Published online in Wiley InterScience
 	https://doi.org/10.1002/path.1570    
         
-* ##### mccray05    
-    ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
+* ##### mccray05
+    Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray
+    **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
+    Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
         
 
 ### Enviromental Factors on Betacoronaviruses
