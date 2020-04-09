@@ -175,6 +175,7 @@ Overall there isn't strong evidence for increased growth of viruses in ARDS risk
 <!--todo: immune reaction -->
 
 ##### increased distribution
+The Sars-Cov-2 entry ACE2 in large quantities in alveloar type 2 cells. From these locations many particles are exhaled upon deep breathing [to be confirmed][[Larsson](#larsson)], which could yield increased spreading both inside and outside. 
 
 ##### decreased mucus clearance 
 
@@ -206,7 +207,7 @@ Prevent the accumulation of viral loaded and dry mucus early on. By:
     - see [treatment methods](#treatment-methods) below
     
     
-* reduce spread -> reduce opening and closing of aveoli i.e. deep breathing [to be confirmed]
+* reduce spread -> reduce opening and closing of aveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis]
     - patients should breath as calm as possible
     - slightly increased pressure may reduce opening and closing of alveolis [to be confirmed]
     - ventilators reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
