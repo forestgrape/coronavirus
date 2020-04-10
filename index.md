@@ -5,7 +5,7 @@
 
 * This is work in progress, so mistakes of any form are likely. 
 
-* The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
+* The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 
 * These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas yet to be checked and evaluated. 
 
@@ -46,17 +46,17 @@
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
-- 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yield to the new section [Particles in the Respiratory Tract](#particles).<br>
+- 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](#particles).<br>
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
-    1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
+    1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and humid Africa and clearance works better in this setting. In evolutionary dimensions there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
+    3. Upright clearance evolved when we all were in warm and humid Africa and clearance works better in this setting. In evolutionary dimensions, there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
     
 #### Minor Updates 
 - 9.4.20 Started section Covid-19
 - 8.4.20
 - 5.4.20 Clarified Early On Ventilators section and added more ref
-- 4.4.20 Updated section evidences from spread patterns (Cruise Ship)
+- 4.4.20 Updated section evidence from spread patterns (Cruise Ship)
 - 27-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
 
@@ -64,39 +64,39 @@
 
 <p id="public-advice">-----</p>
 
-## Public Suggestions, Advices and Thoughts
+## Public Advice, Suggestions and Thoughts
 Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
    
-- The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind, makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+- The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
-- Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important, since the infection risk increases with the amount of indoor air breathed. Or best avoid crowded indoor spaces entirely. 
+- Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important since the infection risk increases with the amount of indoor air breathed. Or best avoid crowded indoor spaces entirely. 
 
-    Reuse the mask; but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it very well - there's more than Sars-Cov-2, don't forget that!
+    Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it very well - there's more than Sars-Cov-2, don't forget that!
 
 - Distancing reduces infection risk. 
 
-- Outside is safe,  if distance is kept. However beware the corridor and stairwell. Limit or ideally avoid public transport and crowded cars. Ideally walk or cycle directly from home. Taking into consideration, that most people especially children will and should go outside right where they live, it is polite to make limited usage of cars for leisure in cities - it is nicer and safer with light traffic. 
+- Outside is safe,  if distance is kept. However, beware of the corridor and stairwell. Limit or ideally avoid public transport and crowded cars. Ideally, walk or cycle directly from home. Taking into consideration, that most people especially children will and should go outside right where they live, it is polite to make limited usage of cars for leisure in cities - it is nicer and safer with light traffic. 
     
-- Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room and your flat. [Ventilation](#ventilation) has been shown to be effective. 
+- Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room or flat. [Ventilation](#ventilation) has been shown to be effective. 
 
 
-- Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air both dust and viruses stay longer in the air. 
+- Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. 
 
 - Keep proper hygiene. Especially wash your hands well with a lot of soap after toilet. 
   Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
    * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
-   * avoiding a common cold or flu is important, because Covid-19 can be somewhat similar. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informing them.   
+   * avoiding a common cold or flu is important, because Covid-19 can be somewhat similar. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informe them.   
    
   But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets.
   
 - Public Transport: 
-     * Ventilation is key in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Always to max, turn off in tunnels and never put on circulation.  Consider a wearing a mask, especially if crowded and not well/unclear ventilated. 
+     * Ventilation is key in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Always to max, turn off in tunnels and never put on circulation.  Consider wearing a mask, especially if crowded and not well/unclear ventilated. 
      * If there are old toilets, that go to the rails, don't use them, _never_ use to shit!
 
 
--  Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. This can be as low as one or only half a degree, going up from 35 to 35.5 or 36. Keep in mind that the temperature varies over the course of a day and with the activities performed. That's why several measurements. <br>
-    It is crucial to measure the temperature accurately since many people have only a slightly increased temperature, which doesn't "meet the definition of fever", see [Covid-19](#covid). Your temperature if measured on the forehead may go from a typical 35.5 to 36.5 degree. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colourspace of Bayesian statistics. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
+-  Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. This can be as low as one or only half a degree, going up from 35 to 35.5 or 36. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
+    It is crucial to measure the temperature accurately since many people have only a slightly increased temperature, which doesn't "meet the definition of fever", see [Covid-19](#covid). Your temperature if measured on the forehead may go from a typical 35.5 to 36.5 degree. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily, relax and do some sport
@@ -136,26 +136,26 @@ __Symptoms__:
 ## Early On Prevent Mucus Accumulations - Early On Ventilator 
 
 ### Idea
-For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover breath-support-devices may not only be used to humidify, there are indications they may reduce the spread of viruses in the lungs. 
+For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally there are indications they may reduce the spread of viruses in the lungs. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
  
 #### Causes for severe Outcome of Covid-19
-A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
+A main complication of a severe Covid-19 and possible death cause is acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
 
 #### Hypothesis 
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucus clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 In the following evidence is shown for the reverse [cascade](#cascade-of-influences): 
 * ARDS is caused by widespread virus distribution [how: work in progress]
-* widespread virus distribution is caused by  a decreased muco-ciliary clearance and increased distribution from locations of infected cells-
+* widespread virus distribution is caused by a decreased mucociliary clearance and increased distribution from locations of infected cells-
 * decreased mucus clearance is caused by dry air, hypertension, diabetes
 
 ### Reverse Cascade
 
 - In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show bilateral lung lesions/patches [Zhong et al.](#zhong).
-- [Yuen et al](#yuen) found high late viral loads for patients with an ADRS . 
+- [Yuen et al](#yuen) found high late viral loads for patients with an ARDS . 
 
 For the widespread viral load distribution in the lower respiratory tract, possible reasons are:
 
@@ -176,25 +176,25 @@ Overall there isn't strong evidence for increased growth of viruses in ARDS risk
 <!--todo: immune reaction -->
 
 ##### increased distribution
-The Sars-Cov-2 entry ACE2, is expressed in large quantities in alveolar type 2 cells. From these locations many particles are exhaled upon deep breathing [to be confirmed][[Larsson](#larsson)], which could yield increased spreading both inside and outside. 
+The Sars-Cov-2 entry ACE2 is expressed in large quantities in alveolar type 2 cells. From these locations, many particles are exhaled upon deep breathing [[Larsson](#larsson)], which could yield increased spreading both inside and outside. 
 
 ##### decreased mucus clearance 
 
 * observed for influenza by [Yuen et al](#yuen)
 
-* Factors known to decrease the mucus clearance are main risk factor for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents):
+* Factors known to decrease the mucus clearance are major risk factors for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents):
     * intern factors
         - age
         - obesity
         - diabetes
         - hypertension
         - smoking history
-        - air pollution history (likely a risk factor for ARDS since most death are in larger cities. A decreased clearance has been shown for a variety of pollutants.)
+        - air pollution history (likely a risk factor for ARDS since most deaths are in larger cities. A decreased clearance has been shown for a variety of pollutants.)
     * extern factors
          - dry air 
              * humidified air increases mucus transport [Hong](#hong), [Hasani](#hasani)
              * generally fewer deaths indicating a lower death-rate in humid air countries, for relative humidity values below 50%. There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care system. 
-             * For greyhounds under anaesthesia, breathing air at 37 °C, a decrease in the tracheal mucus flow was observed if the relative humidity was decreased below 50% [[Forbes](#forbes)].
+             * For greyhounds under anesthesia, breathing air at 37 °C, a decrease in the tracheal mucus flow was observed if the relative humidity was decreased below 50% [[Forbes](#forbes)].
 * Virus RNA early on in the alimentary seems not to be an indication for ARDS even though this indicates a high overall viral load:
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
     *  diarrhea is not risk for ADRS in influenza [Yuen](#yuen). 
