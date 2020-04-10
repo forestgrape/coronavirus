@@ -22,7 +22,7 @@
 
 * [Updates](#updates)
 * [Public Suggestions](#public-advice)<br>
-    Keep distance and hygiene. <!--Then outside is safe.--> Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune systeme.
+    Keep distance and hygiene. <!--Then outside is safe.--> Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Ideas to Explore](#ideas)
     * [Prevent Early On Mucus Accumulations](#early-vents) - Early On Ventilators:<br> 
         Humidify inhaled air to increase the mucus flow and thereby the overall prognosis
@@ -49,7 +49,7 @@
 - 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yield to the new section [Particles in the Respiratory Tract](#particles).<br>
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
-    2. The lungs developed before we were upright (just a couple of hundred thausend generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption occured first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
+    2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
     3. Upright clearance evolved when we all were in warm and humid Africa and clearance works better in this setting. In evolutionary dimensions there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
     
 #### Minor Updates 
@@ -65,9 +65,9 @@
 <p id="public-advice">-----</p>
 
 ## Public Suggestions, Advices and Thoughts
-Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither, unlike viruses we've got a mind, better communication and a superb body police called immune systeme. Time to act mindfully and work together.  
+Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
    
-- The coronavirus transmission is best metaphored smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind, makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+- The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind, makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
 - Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important, since the infection risk increases with the amount of indoor air breathed. Or best avoid crowded indoor spaces entirely. 
 
@@ -115,7 +115,7 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 ### public description
 __Remark__: Based on a couple first-hand descriptions of rather mild cases. The descriptions agree well with the expected pathogenesis of mild cases. However to put this on a solid basis more cases would need to be considered. 
 
-Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired and energyless can be a symptom too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Among later symptoms are shortness of breath (the lungs are inflamed) and diarrhoea (if early likely not a bad sign because it means viruses are cleared down the alimentary, if late not so good because viruses went into the blood and infected the intestine; take special care to your immun systeme. If you observed most of the symptoms in the described order is likely you went through Covid-19.
+Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports can be an indication too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Among later symptoms are strange feeling in the chest like something being inside or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (likely not a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; take special care to your immun system). If you observed most of the symptoms in the described order is likely you went through Covid-19.
 
 __Symptoms__:
 * Only a slightly increased temperature, which may be below 38 degree has been observed in many patients (([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)))
@@ -136,7 +136,7 @@ __Symptoms__:
 ## Early On Prevent Mucus Accumulations - Early On Ventilator 
 
 ### Idea
-For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humide air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover breath-support-devices may not only be used to humidify, there are indications they may reduce the spread of viruses in the lungs. 
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover breath-support-devices may not only be used to humidify, there are indications they may reduce the spread of viruses in the lungs. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
@@ -145,11 +145,11 @@ Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease 
 A main complication of a severe Covid-19 and possible death cause is an acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
 
 #### Hypothesis 
-The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucociliary clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
+The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucus clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 In the following evidence is shown for the reverse [cascade](#cascade-of-influences): 
 * ARDS is caused by widespread virus distribution [how: work in progress]
-* widespread virus distribution is caused by  a decreased mucociliary clearance and increased distribution from locations of infected cells-
+* widespread virus distribution is caused by  a decreased muco-ciliary clearance and increased distribution from locations of infected cells-
 * decreased mucus clearance is caused by dry air, hypertension, diabetes
 
 ### Reverse Cascade
@@ -176,7 +176,7 @@ Overall there isn't strong evidence for increased growth of viruses in ARDS risk
 <!--todo: immune reaction -->
 
 ##### increased distribution
-The Sars-Cov-2 entry ACE2, is expressed in large quantities in alveloar type 2 cells. From these locations many particles are exhaled upon deep breathing [to be confirmed][[Larsson](#larsson)], which could yield increased spreading both inside and outside. 
+The Sars-Cov-2 entry ACE2, is expressed in large quantities in alveolar type 2 cells. From these locations many particles are exhaled upon deep breathing [to be confirmed][[Larsson](#larsson)], which could yield increased spreading both inside and outside. 
 
 ##### decreased mucus clearance 
 
@@ -193,25 +193,25 @@ The Sars-Cov-2 entry ACE2, is expressed in large quantities in alveloar type 2 c
     * extern factors
          - dry air 
              * humidified air increases mucus transport [Hong](#hong), [Hasani](#hasani)
-             * generally fewer deaths indicating a lower death-rate in humid air countries, for relative humidity values below 50%. There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care systeme. 
+             * generally fewer deaths indicating a lower death-rate in humid air countries, for relative humidity values below 50%. There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care system. 
              * For greyhounds under anaesthesia, breathing air at 37 °C, a decrease in the tracheal mucus flow was observed if the relative humidity was decreased below 50% [[Forbes](#forbes)].
 * Virus RNA early on in the alimentary seems not to be an indication for ARDS even though this indicates a high overall viral load:
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
-    * diarrhea is not risk for ADRS in influenza [Yuen](#yuen). 
+    *  diarrhea is not risk for ADRS in influenza [Yuen](#yuen). 
     * increased nausea or vomiting seem to be no indication for a severe disease outcome [Zhong](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen).
 
 
 ### Treatment Methods to Decrease Viral Load [in work]
 
-Prevent the accumulation of viral loaded and dry mucus early on. The increased mucus clearance should both increase the well-being as well as the overall prognosis. Though if there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangreous__ increased distribution and therefore an additional irritation. 
+Prevent the accumulation of viral loaded and dry mucus early on. The increased mucus clearance should both increase the well-being as well as the overall prognosis. Though if there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution and therefore an additional irritation. 
 
 * increase the mucus flow and clearance -> increase humidity 
     - see [treatment methods](#treatment-methods) below
     
     
-* reduce spread -> reduce opening and closing of aveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis]
+* reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis]
     - patients should breath as calm as possible
-    - slightly increased pressure may reduce opening and closing of alveolis [to be confirmed]
+    - slightly increased pressure may reduce opening and closing of alveoli [to be confirmed]
     - ventilators reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
     
 #### Note
@@ -220,8 +220,8 @@ Prevent the accumulation of viral loaded and dry mucus early on. The increased m
 
 #### treatment methods 
 
-* heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneunomia patients around the world receive succesful treatment. 
-    __Benefit__: This increases both the humidty and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt).
+* heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
+    __Benefit__: This increases both the humidity and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt).
 
 * a heated humidifier stand-alone (i.e.) with no ventilator. __Benefit__:   
 Increase humidity and thus mucus flow and easy to use with an oxygen mask.
@@ -245,11 +245,11 @@ Mechanically ventilated patients exhale less particles: "Mechanically ventilated
 <p id="appendix-vents">---</p>
 
 ### Appendix for Early On Ventilators [in work]
-Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. To do the statistics ideally one takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
+Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. Ideally the statistics takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease]. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
 
 #### Factors Associated to severe Covid-19:
-[Zhong et al.](#zhong) noted characteristics of mild, severe and fatal cases of hospitalized Covid-19 patients. 
-The numbers in paranthesis are observation rates for (% death cases, % severe cases(including fatal), % mild cases)
+[Zhong et al.](#zhong) noted characteristics of mild, severe and fatal cases of  diarrhea Covid-19 patients. 
+The numbers in parenthesis are observation rates for (% death cases, % severe cases(including fatal), % mild cases)
 
 strong relation:
 - Chronic obstructive pulmonary disease (10.4 vs 3.5 vs 0.6)
@@ -269,19 +269,19 @@ very weak/no relation:
 [Bhatraju et al.](#bhatraju) noted characteristics of Covid-19 patients from the Seattle-area with ARDS.
 
 strong relation:
-- Diabetis 58%
+- Diabetes 58%
 - high body mass index (33.2±7.2)
 - Age (64±18 (23–97))
 
 weak relation:
-- formaer/current smoker 22%
+- former/current smoker 22%
 - asthma 14%
 
-In Italy [Onder et al.](#onder) analyzed a subsample of 355 patients with COVID-19 who died in Italy: 
+In Italy [Onder et al.](#onder) analysed a subsample of 355 patients with COVID-19 who died in Italy: 
 
 strong relation:
 * mean age was 79.5 years (SD, 8.1) 
-* 117 patients (30%) had ischemic heart disease
+* 117 patients (30%) had ischaemic heart disease
 * 126 (35.5%) had diabetes
 * 72 (20.3%) had active cancer
 * 87 (24.5%) had atrial fibrillation
@@ -304,16 +304,16 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 * [Leopold et al.](#leopold-mahony-lian) observed smoking-associated shorter airway epithelial cilia which, according to their argumentation, yields a decreased mucus flow (described in the section "Implications of Reduction of Cilia Length on Mucociliary Clearance"). 
 
-* In his review on "Effects of Airborne Pollutants on Mucociliary Clearance"  Ronald K. Wolff summarizes "A variety of pollutants have been shown to impair mucociliary clearance following acute or subehronic exposures." 
+* In his review on "Effects of Airborne Pollutants on Mucociliary Clearance"  Ronald K. Wolff summarizes "A variety of pollutants have been shown to impair mucociliary clearance following acute or subchronic exposures." 
 
-* [Nakagawa et al.](#nakagawa) found that "Aging, Diabetes, and Hypertension Are Associated With Decreased Nasal Mucociliary Clearance". The mechanisms of mucus production in the nose are likely similar to those in the trachea and therefore similar correlations are expected [to be confirmed]. 
+* [Nakagawa et al.](#nakagawa) found that "Ageing, Diabetes, and Hypertension Are Associated With Decreased Nasal Mucociliary Clearance". The mechanisms of mucus production in the nose are likely similar to those in the trachea and therefore similar correlations are expected [to be confirmed]. 
 
 * In the review from [Houtmeyers et al.](#houtmeyers) "Regulation of mucociliary clearance in health and disease" has references to findings which indicate a decreased mucus flow and ciliary activity with age. 
 
 
-#### Factors Influecing Death Rates
+#### Factors Influencing Death Rates
 
-In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find some correlation between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here agrees with their findings and would even provide explanations. Their analysis depends however on how accurate the analyzed data are. In Wuhan, as in nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. <!--But for analysis it would be helpful to have accurate/corrected data. -->
+In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find some correlation between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here agrees with their findings and would even provide explanations. Their analysis depends however on how accurate the analysed data are. In Wuhan, as in nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. <!--But for analysis it would be helpful to have accurate/corrected data. -->
 
 
 <p id="proposal">-------</p>
@@ -359,12 +359,12 @@ The newly proposed infection:
 where Dry Particulate is a small particulate with one or more viruses attached or possibly viruses attached to each other. 
 
 The above infection pathway is in addition to the known aerosol pathway:
-* Aersol with Virus in Air -> Respiratory Tract
+* Aerosol with Virus in Air -> Respiratory Tract
 
 Aerosols containing particulates and dry particulates can convert to each other in the air:
 
-* Dry Particulates -> Small Aersol containing a Particulate (more likely in humid air, particulates act as condensation nuclei)
-* Dry Particulates <- Small Aersol containing a Particulate (more likely in dry air)
+* Dry Particulates -> Small Aerosol containing a Particulate (more likely in humid air, particulates act as condensation nuclei)
+* Dry Particulates <- Small Aerosol containing a Particulate (more likely in dry air)
 
 and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [marr](#marr)): 
 * Small Aerosol <-> Large Aerosol (in dry air equilibrium tends to the left, in humid to the right)
@@ -419,10 +419,10 @@ How many particles are deposited/breath out in which region in/from the respirat
 
 ### particles clearance
 [in work]
-##### Methods of clearance
+##### Methods of Clearance
 * clearance by mucus flow
 * clearance macrophages in the mucus[to check]
-* adsorbtion in the alveolis and clearance by [to check]
+* adsorption in the alveoli and clearance by [to check]
 
 
 ##### factors influencing clearance
@@ -430,11 +430,11 @@ How many particles are deposited/breath out in which region in/from the respirat
 * the earlier deposited the better is the mucus clearance
 
 
-### particle origns and spreading 
+### particle origins and spreading 
 This section describes when particles are exhaled and how they spread out with the respiratory tract. 
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
 
-* Small aersols from the lower respiratory tract (<1 micro meter) are spread with breathing. So Covid-19 can be spread with breathing alone [larsson](#larsson), [morawska](#morawska). 
+* Small aerosols from the lower respiratory tract (<1 micro meter) are spread with breathing. So Covid-19 can be spread with breathing alone [larsson](#larsson), [morawska](#morawska). 
 
 * [larsson et al](#larsson) determined the origin of particles by measurement of the lipid composition. They found that particles from the deep lungs are mainly exhaled upon breathing alone and not when speaking or coughing.
 
@@ -444,7 +444,7 @@ This section describes when particles are exhaled and how they spread out with t
 
 
 ### deposition locations
-This section describes how particles are deposited in the respiratory tract. These particles can orininate from other locations in the respiratory tract or being inhaled from extern air.
+This section describes how particles are deposited in the respiratory tract. These particles can originate from other locations in the respiratory tract or being inhaled from extern air.
 
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
 - Droplets mostly don't enter the lower respiratory tract.
@@ -460,9 +460,9 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 
 * Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
 
-* [Sturm](#sturm) simulated the deposition of  nonspherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
+* [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
 
-### methods and experiments on particle dynamics in the respiratory tract
+### methods for simulations and experiments
 In her thesis [Lindstrom](#lindstrom) explaines well the principles. A recent review is from [Park and colleagues](#park). An often used model is the [ICRP Model](#bailey).
 
 Modeling or experimentally determine the deposition rates is not easy and each method has caveats.  
@@ -478,8 +478,8 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
 
 - Experimental in vivo settings:
     * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
-    * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
-    * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
+    * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volume is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [reference to be added].
+    * Experimental data on the regional deposition of radio-labelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
 
 
 <p id="biology">-----</p>
@@ -488,23 +488,23 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
 
 ### entry point
 The cell entry receptor used by SARS-Cov-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
-The barrier function of the apical cell layer and in vitro cell experiments from [McCray et al](#mccray05) show both increased aptical ACE2 expression and an corresponding increased cell entry from the aptical side. McCray & Co also observed that Sars-Cov-1 exits the cell on the aptical side following an aptical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point aminopeptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits aptically with a preference of 10:1 for aptical entry and 5:1 for basal entry).    
+The barrier function of the apical cell layer and in vitro cell experiments from [McCray et al](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. McCray & Co also observed that Sars-Cov-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point amino-peptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits apically with a preference of 10:1 for apical entry and 5:1 for basal entry).    
 
 ### tissue distribution of ACE2
 There are two common methods to measure tissue distribution of proteins:
-* antibody staining, here anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. For the virus entry cell surface [ACE2 is obligat](#entry-point). Used in the work of [Timens](#timens), [McCray](#mccray05) 
-* detect mRNA, here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on aptical cell surface.
+* _antibody staining_; here anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. . Used in the work of [Timens](#timens), [McCray](#mccray05) 
+* _detect mRNA_: here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on apical cell surface.
 
-For succesful cell entry ACE2 should be built into the cell wall and being detectable from outside. So if _both_ of methods above yield positive, this is very likley. 
+For being an exploitable entry point, ACE2 should be built into the cell membrane and being useable from outside, see [entry point](#entry-point). So if _both_ of methods above yield positive, this is very likley. 
 
 ACE2 is apically expressed on lower respiratory tract epithelial cells, 
-Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
+Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
 
 ### distribution of infected cells and viral load
 
 This is consistent with the viral loads observed in different parts of the body: 
 * The only location where all patients had viral Sars-Cov-1 loads is the lungs [Farcas et al](#farcas). 
-* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (bronchoalveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three bronchoalveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
+* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
 Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
 
 That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
@@ -517,7 +517,7 @@ That in swab tests there are viruses in the nose and the mouth can be attributed
 
 ### Evidence from Biological Properties
 
-From the [Biology Related to Betacoronaviruses](#biology) lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. As described in [deposition locations](#deposition-locations) only aerosls and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aersol and dry form. Since aersols usually are cleared quite well with the mucus suggests that the dry form is most infectious. 
+From the [Biology Related to Betacoronaviruses](#biology) lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. As described in [deposition locations](#deposition-locations) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus suggests that the dry form is most infectious. 
 
 
 <p id="spread-patterns">---</p>
@@ -537,7 +537,7 @@ In confined settings without special protection reproduction numbers well above 
 	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto). This setting well investigated by Mizumoto and colleagues favours airborne over droplet transmission and even slightly favours Dry Form over aersol transmission since the Covid-19 spread started between passengers and not equally between passengers and personal:
         * In the droplet model, one would except the personal as a angle and starting point, since they have the most close contacts, which drive droplet transmission. 
         * In the aersol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
-        * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passangers is expected since they spend the time in the same areas. 
+        * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected since they spend the time in the same areas. 
 	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
 	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
 	- Hospitals in Nothern Italy [LE](#le)
@@ -558,7 +558,7 @@ The primary spreading in very dry (indoor) areas would also explain why the desc
 
 Remark: The following pieces of evidence are 'in work'. 
 
-* In humid and warm temperature environments (above 30 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid enviroments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols. In this case, an aerosol like spreading pattern with no super-spreading events would be expected. 
+* In humid and warm temperature environments (above 30 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols. In this case, an aerosol like spreading pattern with no super-spreading events would be expected. 
 
 * The initial animal to human of  Sars-Cov-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
 
