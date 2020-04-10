@@ -11,7 +11,7 @@
 
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. 
 
-* Two sections are marked as __public__, which contain advices and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
+* Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 
 * Pointing out mistakes and feedback are __welcome__.
 <!-- * The page is soon going to be split up into different topics. -->
@@ -31,6 +31,7 @@
     - [Abstract](#abstract)
     - [Model](#model)
     - [Intermezzo Particles in the Respiratory Tract](#particles)
+    - [Habitat of Betacoronaviruses](#habitat)       
     - [Evidence for the Dry Form Transmission Model](#evidence)
         * [Evidence from Biological Properties](#biological-properties)
         * [Evidence from the observed Spread Patterns](#spread-patterns)
@@ -50,7 +51,7 @@
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and humid Africa and clearance works better in this setting. In evolutionary dimensions, there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
+    3. Upright clearance evolved when we all were in warm and humid parts of Africa (well it likely got a little drier and savanna replaced rainforest in East Africa, so we had motivation to stand up) and clearance works better in this setting. In evolutionary dimensions, there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
     
 #### Minor Updates 
 - 9.4.20 Started section Covid-19
@@ -117,11 +118,12 @@ __Remark__: Based on a couple first-hand descriptions of rather mild cases. The 
 
 Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports can be an indication too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Among later symptoms are strange feeling in the chest like something being inside or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (likely not a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; take special care to your immun system). If you observed most of the symptoms in the described order is likely you went through Covid-19.
 
-__Symptoms__:
-* Only a slightly increased temperature, which may be below 38 degree has been observed in many patients (([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)))
+__Symptoms__: [in work]
+* Only a slightly increased temperature, which may be below 38 degree has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong))
 
+<!--
 ### pathogenesis
-[in work]
+[in work]-->
 
 
 
@@ -133,9 +135,15 @@ __Symptoms__:
 
 <p id="early-vents"> -----</p>
 
-## Early On Prevent Mucus Accumulations - Early On Ventilator 
+## Early On Prevent Mucus Accumulations 
 
-### Idea
+### Subsections
+* Overview
+* Reverse Cascade - From ARDS to Decreased Mucus Flow
+* Ideas to Decrease Virus Distribution
+* Appendix for Early On Ventilators
+
+### Overview
 For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally there are indications they may reduce the spread of viruses in the lungs. 
 
 #### cascade of influences
@@ -201,7 +209,7 @@ The Sars-Cov-2 entry ACE2 is expressed in large quantities in alveolar type 2 ce
     * increased nausea or vomiting seem to be no indication for a severe disease outcome [Zhong](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen).
 
 
-### Treatment Methods to Decrease Viral Load [in work]
+### Ideas to Decrease Virus Distribution [in work]
 
 Prevent the accumulation of viral loaded and dry mucus early on. The increased mucus clearance should both increase the well-being as well as the overall prognosis. Though if there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution and therefore an additional irritation. 
 
@@ -209,16 +217,24 @@ Prevent the accumulation of viral loaded and dry mucus early on. The increased m
     - see [treatment methods](#treatment-methods) below
     
     
-* reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis]
+* reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][simulate first what happens]
     - patients should breath as calm as possible
     - slightly increased pressure may reduce opening and closing of alveoli [to be confirmed]
     - ventilators reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
-    
+  
+  
 #### Note
+* Best would be to have the methods first simulated with methods as
 * The earlier the better. So if a treatment is likely to be needed, early on usage is the best option [to be confirmed].  
-* Additionally patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
+* Additionally patients should be as horizontal as possible or even slightly hea
+ds down to have gravity in the right direction.  
 
-#### treatment methods 
+#### __warning__
+
+These are __completely unchecked__ proposals and ideas. Anything that can increase the distribution of viruses could be dangerous as this could have an unforeseeable outcome due to infections of cells in new locations. Such methods __should first be simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). 
+
+
+#### possible treatment methods  
 
 * heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
     __Benefit__: This increases both the humidity and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt).
@@ -244,7 +260,7 @@ Mechanically ventilated patients exhale less particles: "Mechanically ventilated
 
 <p id="appendix-vents">---</p>
 
-### Appendix for Early On Ventilators [in work]
+### Appendix for Early On Ventilators
 Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. Ideally the statistics takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease]. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
 
 #### Factors Associated to severe Covid-19:
@@ -349,7 +365,7 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 ## Model for Transmission
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the [obligate lower respiratory tract entry](#entry-point) for Sars-Cov-2. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the [obligate lower respiratory tract entry](#habitat) for Sars-Cov-2. 
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 keeps its infectiousness in dry form so the dry form infection is possible in theory.
 
@@ -482,9 +498,9 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
     * Experimental data on the regional deposition of radio-labelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
 
 
-<p id="biology">-----</p>
+<p id="habitat">-----</p>
     
-## Biology Related to Betacoronaviruses
+## Habitat of the Betacoronavirus
 
 ### entry point
 The cell entry receptor used by SARS-Cov-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
@@ -517,7 +533,7 @@ That in swab tests there are viruses in the nose and the mouth can be attributed
 
 ### Evidence from Biological Properties
 
-From the [Biology Related to Betacoronaviruses](#biology) lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. As described in [deposition locations](#deposition-locations) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus suggests that the dry form is most infectious. 
+From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. As described in [deposition locations](#deposition-locations) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus suggests that the dry form is most infectious. 
 
 
 <p id="spread-patterns">---</p>
