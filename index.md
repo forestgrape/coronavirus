@@ -11,12 +11,12 @@
 
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. 
 
-* Two sections are marked as __public__, which contain advices and easy to grasp descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
+* Two sections are marked as __public__, which contain advices and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 
 * Pointing out mistakes and feedback are __welcome__.
 <!-- * The page is soon going to be split up into different topics. -->
 
-<p id="t-content">-----</p> <!-- workaround to set ids, since github preview keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
+<p id="t-content">-----</p> <!-- workaround to set ids, since github preview/jupyter keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
 
 ## Content
 
@@ -50,7 +50,7 @@
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thausend generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption occured first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and humid Africa and clearance works better in this setting. In evolutionary dimensions there are very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no evolutionary adaption at all to permanent indoor heating.    
+    3. Upright clearance evolved when we all were in warm and humid Africa and clearance works better in this setting. In evolutionary dimensions there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
     
 #### Minor Updates 
 - 9.4.20 Started section Covid-19
@@ -113,11 +113,12 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 # Covid-19
 
 ### public description
-##### Note
-* based on a couple first-hand descriptions of rather mild cases. The descriptions agree well with the expected pathogenesis of mild cases. However to put this on a solid basis more cases would need to be considered. 
-* Only a slightly increased temperature, which may be below 38 degree has been observed in many patients (([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)))
+__Remark__: Based on a couple first-hand descriptions of rather mild cases. The descriptions agree well with the expected pathogenesis of mild cases. However to put this on a solid basis more cases would need to be considered. 
 
 Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired and energyless can be a symptom too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Among later symptoms are shortness of breath (the lungs are inflamed) and diarrhoea (if early likely not a bad sign because it means viruses are cleared down the alimentary, if late not so good because viruses went into the blood and infected the intestine; take special care to your immun systeme. If you observed most of the symptoms in the described order is likely you went through Covid-19.
+
+__Symptoms__:
+* Only a slightly increased temperature, which may be below 38 degree has been observed in many patients (([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)))
 
 ### pathogenesis
 [in work]
@@ -175,7 +176,7 @@ Overall there isn't strong evidence for increased growth of viruses in ARDS risk
 <!--todo: immune reaction -->
 
 ##### increased distribution
-The Sars-Cov-2 entry ACE2 in large quantities in alveloar type 2 cells. From these locations many particles are exhaled upon deep breathing [to be confirmed][[Larsson](#larsson)], which could yield increased spreading both inside and outside. 
+The Sars-Cov-2 entry ACE2, is expressed in large quantities in alveloar type 2 cells. From these locations many particles are exhaled upon deep breathing [to be confirmed][[Larsson](#larsson)], which could yield increased spreading both inside and outside. 
 
 ##### decreased mucus clearance 
 
@@ -200,9 +201,10 @@ The Sars-Cov-2 entry ACE2 in large quantities in alveloar type 2 cells. From the
     * increased nausea or vomiting seem to be no indication for a severe disease outcome [Zhong](#zhong)(despite these indicating higher viral loads in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen).
 
 
-### Treatment Goals to Decrease Viral Load [in work]
+### Treatment Methods to Decrease Viral Load [in work]
 
-Prevent the accumulation of viral loaded and dry mucus early on. By:
+Prevent the accumulation of viral loaded and dry mucus early on. The increased mucus clearance should both increase the well-being as well as the overall prognosis. Though if there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangreous__ increased distribution and therefore an additional irritation. 
+
 * increase the mucus flow and clearance -> increase humidity 
     - see [treatment methods](#treatment-methods) below
     
@@ -215,9 +217,8 @@ Prevent the accumulation of viral loaded and dry mucus early on. By:
 #### Note
 * The earlier the better. So if a treatment is likely to be needed, early on usage is the best option [to be confirmed].  
 * Additionally patients should be as horizontal as possible or even slightly heads down to have gravity in the right direction.  
-* The increased mucus clearance should both increase the well-being as well as the overall prognosis. If there already a lot of (dry) mucus accumulations, liquefying the mucus could yield a likely temporary but possibly dangreous additional irritation. 
 
-### treatment methods 
+#### treatment methods 
 
 * heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneunomia patients around the world receive succesful treatment. 
     __Benefit__: This increases both the humidty and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt).
@@ -336,11 +337,11 @@ Compared to aerosols - which tend to spread local both in time and space, an exa
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Sars-Cov-1/2. 
-* the entry receptor of Sars-Cov-1/2 (ACE2) distribution in body tissues and the observed viral loads in different organs indicate that Sars-Cov-1/2 has the lower respiratory tract as the obligate entry point.  Particle deposition at inhalation, which shows that mainly aerosols and dry particulates are entering the lower respiratory tract, suggests that these two are the only Sars-Cov transmitters. The viral loads in the pharynx are in agreement with experiments showing that upon exhalation particles are deposited there. 
+* the entry receptor of Sars-Cov-1/2 (ACE2) distribution in body tissues and the observed viral loads in different organs indicate that Sars-Cov-1/2 has the lower respiratory tract as the obligate entry point.  Particle deposition at inhalation, which shows that mainly aerosols and dry particulates are entering the lower respiratory tract, suggests that these two are the only Sars-Cov transmitters. The viral loads in the pharynx can be attributed to deposition of particles upon exhalation. 
 
-The overall argumentation suggests, that the most relevant transmission models are aerosol and the proposed dry form. 
+Overall the argumentation provides evidence, that the most relevant transmission models are aerosol and the proposed dry form. 
 
-Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key is indoor ventilation and wearing a mask in 'risky' indoor spaces. 
+Based on these findings, recommendations for containing the 2020 spread of Sars-Cov-2 are given. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
 
 
 
@@ -348,7 +349,7 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 ## Model for Transmission
 
-In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the obligate lower respiratory tract [entry](#entry) for Sars-Cov-2. 
+In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the [obligate lower respiratory tract entry](#entry-point) for Sars-Cov-2. 
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-Cov-1 keeps its infectiousness in dry form so the dry form infection is possible in theory.
 
@@ -371,10 +372,9 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [mar
 
 The larger tend to fall to the ground since their movement is driven more by gravity (e.g. described in [tellier](#tellier)). 
 
-Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#exhaling-particles). In the upper respiratory tract there are viruses since particles exhaled from the lung are often [deposited](#depositions) in the upper respiratory tract. This is exploited for Covid-19 swab tests in the pharynx. 
+Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#exhaling-particles). Remark: Viral load in the upper respiratory tract can be attributed to [depositions](#depositions) of viruses upon exhalation. This is exploited for Covid-19 swab tests in the pharynx. 
 
-
-Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles on the floor or fomites or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
+Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
 
 
 <!--
@@ -398,7 +398,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 <p id="particles">---</p>
 
-## Intermezzo Particles in the Respiratory Tract
+## Intermezzo: Particle Dynamics in the Respiratory Tract
 Conversational remarks about how I understand particle deposition models. 
 
 Particle deposition and clearance are possibly relevant for Covid-19 in view of:
@@ -412,20 +412,29 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review). 
 
 ### factors
-- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18(#zhong18)])
+- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18](#zhong18)])
 - breathing volume and frequency [hofemeier](#hofemeier)
 - air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
 - orientation respect to gravity i.e. wether horizontal or vertical
 
+### particles clearance
+[in work]
+##### Methods of clearance
+* clearance by mucus flow
+* clearance macrophages in the mucus[to check]
+* adsorbtion in the alveolis and clearance by [to check]
 
 
-### exhaling particles
+##### factors influencing clearance
+* well flowing mucus. 
+* the earlier deposited the better is the mucus clearance
 
-#### particle origns
+
+### particle origns and spreading 
+This section describes when particles are exhaled and how they spread out with the respiratory tract. 
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
-* Small aersols from the lower respiratory tract (<1 micro meter) are spread with breathing. So Covid-19 can be spread with breathing alone [larsson](#larsson), [morawska](#morawska) . 
 
-#### experiments for spread 
+* Small aersols from the lower respiratory tract (<1 micro meter) are spread with breathing. So Covid-19 can be spread with breathing alone [larsson](#larsson), [morawska](#morawska). 
 
 * [larsson et al](#larsson) determined the origin of particles by measurement of the lipid composition. They found that particles from the deep lungs are mainly exhaled upon breathing alone and not when speaking or coughing.
 
@@ -435,6 +444,13 @@ How many particles are deposited/breath out in which region in/from the respirat
 
 
 ### deposition locations
+This section describes how particles are deposited in the respiratory tract. These particles can orininate from other locations in the respiratory tract or being inhaled from extern air.
+
+The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
+- Droplets mostly don't enter the lower respiratory tract.
+- Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
+- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition](#deposition-locations) and less clearance [to be confirmed and citation to be added, work in progress].
+
 
 * Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
 
@@ -446,34 +462,45 @@ How many particles are deposited/breath out in which region in/from the respirat
 
 * [Sturm](#sturm) simulated the deposition of  nonspherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
 
-#### methods and experiments for depositions
-In her thesis [Lindstrom](#lindstrom) explaines well the principles. A recent review is from [Park and coll](#park). An often used model is the [ICRP Model](#bailey).
+### methods and experiments on particle dynamics in the respiratory tract
+In her thesis [Lindstrom](#lindstrom) explaines well the principles. A recent review is from [Park and colleagues](#park). An often used model is the [ICRP Model](#bailey).
 
-Modeling or experimentally determine the deposition rates is not easy and each method has caveats. The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are shown, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally, most modeling methods ignore the softness and dynamics of the respiratory system - except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm), condensation and material is rarely taken into account, i.e. the experiments are done for round constant size aerosol droplets.
+Modeling or experimentally determine the deposition rates is not easy and each method has caveats.  
+##### Simulations
+The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are shown, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally many simplifications of relevant [factors](#factors) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size aerosol droplets.
 
-- Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [Bailey](#bailey). These methods yield some differential equations. These equations can be solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
+Traditional methods go: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). These methods yield some differential equations. These equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
 
-    Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. Examples are [kleinstreuer](#kleinstreuer), [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
-    
+Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. Examples are [kleinstreuer](#kleinstreuer), [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
+
+##### Experiments
 - Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
 
 - Experimental in vivo settings:
     * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
     * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volumina is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [refernce to be added].
     * Experimental data on the regional deposition of radiolabelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
+
+
+<p id="biology">-----</p>
     
+## Biology Related to Betacoronaviruses
 
+### entry point
+The cell entry receptor used by SARS-Cov-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
+The barrier function of the apical cell layer and in vitro cell experiments from [McCray et al](#mccray05) show both increased aptical ACE2 expression and an corresponding increased cell entry from the aptical side. McCray & Co also observed that Sars-Cov-1 exits the cell on the aptical side following an aptical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point aminopeptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits aptically with a preference of 10:1 for aptical entry and 5:1 for basal entry).    
 
-<p id="evidence">-----</p>
+### tissue distribution of ACE2
+There are two common methods to measure tissue distribution of proteins:
+* antibody staining, here anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. For the virus entry cell surface [ACE2 is obligat](#entry-point). Used in the work of [Timens](#timens), [McCray](#mccray05) 
+* detect mRNA, here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on aptical cell surface.
 
-## Evidence for the Dry Form Transmission Model
+For succesful cell entry ACE2 should be built into the cell wall and being detectable from outside. So if _both_ of methods above yield positive, this is very likley. 
 
-<p id="biological-properties">---</p>
+ACE2 is apically expressed on lower respiratory tract epithelial cells, 
+Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
 
-### Evidence from Biological Properties
-#### entry point
-The cell entry receptor used by SARS-Cov-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif),[Hoffmann](#hoffmann)] is ACE2 . ACE2 is apically expressed on lower respiratory tract epithelial cells, especially in alveolar epithelial type 2 cells [[Timens](#timens),[mcray05](#mccray05)]. In the upper respiratory tract, only the basal layer of the non-keratinized squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens),[Lau](#lau). 
-The barrier function of the apical cell layer, the observation that another Coronavirinae, namely 229E, infects the cells from the apical surface [[McCray](#mccray)] and observations that in , indicate that this is the case too for Betacoronaviruses. Therefore - to achieve infection - SARS-Cov-1 and SARS-Cov-2 need to enter the lower respiratory tract. 
+### distribution of infected cells and viral load
 
 This is consistent with the viral loads observed in different parts of the body: 
 * The only location where all patients had viral Sars-Cov-1 loads is the lungs [Farcas et al](#farcas). 
@@ -482,11 +509,15 @@ Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability
 
 That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
 
-From the above argumentation lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. 
-The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
-- Droplets mostly don't enter the lower respiratory tract.
-- Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
-- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition](#deposition-locations) and less clearance [to be confirmed and citation to be added, work in progress]. <br><br>
+<p id="evidence">-----</p>
+
+## Evidence for the Dry Form Transmission Model
+
+<p id="biological-properties">---</p>
+
+### Evidence from Biological Properties
+
+From the [Biology Related to Betacoronaviruses](#biology) lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. As described in [deposition locations](#deposition-locations) only aerosls and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aersol and dry form. Since aersols usually are cleared quite well with the mucus suggests that the dry form is most infectious. 
 
 
 <p id="spread-patterns">---</p>
