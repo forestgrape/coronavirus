@@ -55,7 +55,7 @@
     3. Upright clearance evolved when we all were in warm and humid parts of Africa (well it likely got a little drier and savanna replaced rainforest in East Africa, so we had motivation to stand up) and clearance works better in this setting. In evolutionary dimensions, there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
     
 #### Minor Updates 
-- 10.4.20 Added section Habitat of Betacoronaviruses and reordered section in Evidence from Biological Properties
+- 10.4.20 Added section Habitat of Betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
 - 9.4.20 Started section Covid-19
 - 5.4.20 Clarified Early On Ventilators section and added more ref
 - 4.4.20 Updated section evidence from spread patterns (Cruise Ship)
