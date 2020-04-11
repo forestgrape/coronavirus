@@ -9,7 +9,8 @@
 
 * These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas yet to be checked and evaluated. 
 
-* This page is written for people, who like and are used to __critically analyze__ concepts and ideas. 
+<!--
+* This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences is helpful. -->
 
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 
@@ -54,8 +55,8 @@
     3. Upright clearance evolved when we all were in warm and humid parts of Africa (well it likely got a little drier and savanna replaced rainforest in East Africa, so we had motivation to stand up) and clearance works better in this setting. In evolutionary dimensions, there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
     
 #### Minor Updates 
+- 10.4.20 Added section Habitat of Betacoronaviruses and reordered section in Evidence from Biological Properties
 - 9.4.20 Started section Covid-19
-- 8.4.20
 - 5.4.20 Clarified Early On Ventilators section and added more ref
 - 4.4.20 Updated section evidence from spread patterns (Cruise Ship)
 - 27-4.4.20: Public Advice extended and clarified. 
@@ -70,16 +71,21 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
    
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
-- Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important since the infection risk increases with the amount of indoor air breathed. Or best avoid crowded indoor spaces entirely. 
+- Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important since the infection risk increases with the amount of indoor air breathed.
+   Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it very well - there's more than Sars-Cov-2, don't forget that!
 
-    Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it very well - there's more than Sars-Cov-2, don't forget that!
-
-- Distancing reduces infection risk. 
-
-- Outside is safe,  if distance is kept. However, beware of the corridor and stairwell. Limit or ideally avoid public transport and crowded cars. Ideally, walk or cycle directly from home. Taking into consideration, that most people especially children will and should go outside right where they live, it is polite to make limited usage of cars for leisure in cities - it is nicer and safer with light traffic. 
+- Distancing reduces infection risk.  If possible avoid crowded indoor spaces. 
     
 - Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room or flat. [Ventilation](#ventilation) has been shown to be effective. 
 
+- Outside is safe,  if distance is kept. However, beware of the corridor and stairwell. Ideally, walk or cycle directly from home. 
+
+- Transport: 
+    * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars is polite - it's nicer and safer with light traffic. 
+    * Public transport:
+         * Limit usage to reduce infection risk and/or wear a mask. 
+         * Ventilation is key in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Always to max, turn off in tunnels and never put on circulation. 
+         * If there are old toilets, that go to the rails, don't use to shit!
 
 - Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. 
 
@@ -89,15 +95,12 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
    * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
    * avoiding a common cold or flu is important, because Covid-19 can be somewhat similar. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informe them.   
    
-  But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets.
+  But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets or fomites.
   
-- Public Transport: 
-     * Ventilation is key in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Always to max, turn off in tunnels and never put on circulation.  Consider wearing a mask, especially if crowded and not well/unclear ventilated. 
-     * If there are old toilets, that go to the rails, don't use them, _never_ use to shit!
 
 
--  Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. As a slightly increased temperature can be an early sign of a possible Sars-Cov-2 infection. This can be as low as one or only half a degree, going up from 35 to 35.5 or 36. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
-    It is crucial to measure the temperature accurately since many people have only a slightly increased temperature, which doesn't "meet the definition of fever", see [Covid-19](#covid). Your temperature if measured on the forehead may go from a typical 35.5 to 36.5 degree. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. The more common Covid-19 in your region is, the more likely it is that an observed infection is Covid-19. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is currently the most prevalent disease. 
+-  Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-Cov-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). Your temperature if measured on the forehead may go from a typical 35 to 36 degrees. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
+    The more common Covid-19 in your region is, the more likely it is an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is/was the most prevalent disease. 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily, relax and do some sport
@@ -118,8 +121,10 @@ __Remark__: Based on a couple first-hand descriptions of rather mild cases. The 
 
 Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports can be an indication too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Among later symptoms are strange feeling in the chest like something being inside or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (likely not a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; take special care to your immun system). If you observed most of the symptoms in the described order is likely you went through Covid-19.
 
-__Symptoms__: [in work]
-* Only a slightly increased temperature, which may be below 38 degree has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong))
+### symptoms
+[in work]
+* Only a slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). The increase can be as low as one degree: going up from 35 to 36 if measured on the forehead. 
+
 
 <!--
 ### pathogenesis
@@ -211,33 +216,23 @@ The Sars-Cov-2 entry ACE2 is expressed in large quantities in alveolar type 2 ce
 
 ### Ideas to Decrease Virus Distribution [in work]
 
-Prevent the accumulation of viral loaded and dry mucus early on. The increased mucus clearance should both increase the well-being as well as the overall prognosis. Though if there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution and therefore an additional irritation. 
+__Warning__: These are __completely unchecked__ proposals and ideas. Anything that can increase the distribution of viruses could be dangerous as this could have an unforeseeable outcome due to irritations and infections in new locations. Such methods __should first be simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles).
 
-* increase the mucus flow and clearance -> increase humidity 
-    - see [treatment methods](#treatment-methods) below
-    
-    
-* reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][simulate first what happens]
-    - patients should breath as calm as possible
-    - slightly increased pressure may reduce opening and closing of alveoli [to be confirmed]
-    - ventilators reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
-  
-  
-#### Note
-* Best would be to have the methods first simulated with methods as
-* The earlier the better. So if a treatment is likely to be needed, early on usage is the best option [to be confirmed].  
-* Additionally patients should be as horizontal as possible or even slightly hea
-ds down to have gravity in the right direction.  
+##### In general methods ideally are  
+- though through by a variety specialists from different fields
+- simulated
+- tightly supervised, observed and recorded
+- published including raw data
+ 
 
-#### __warning__
+#### increase the mucus flow
+Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
+This prevents the accumulation of viral loaded and dry mucus early on. This in turn should both increase the well-being as well as the overall prognosis. 
 
-These are __completely unchecked__ proposals and ideas. Anything that can increase the distribution of viruses could be dangerous as this could have an unforeseeable outcome due to infections of cells in new locations. Such methods __should first be simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). 
-
-
-#### possible treatment methods  
+__Warning__: Though if there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution and therefore an additional irritation. 
 
 * heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
-    __Benefit__: This increases both the humidity and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt).
+    __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt).
 
 * a heated humidifier stand-alone (i.e.) with no ventilator. __Benefit__:   
 Increase humidity and thus mucus flow and easy to use with an oxygen mask.
@@ -245,8 +240,14 @@ Increase humidity and thus mucus flow and easy to use with an oxygen mask.
 * increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). __Benefit__: Simple use and a slight increase in mucus flow.  
 
 * Steam inhalation in the traditional way with a pot of hot water and a towel could help too. L. Use in early phase only since the steam may further irritate the mucous membranes. __Benefit__: Simple use and a temporary increase in mucus flow. 
-
-* more: [in work]
+    
+#### reduce the spread of viruses    
+reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][simulate first what happens]
+- patients should breath as calm as possible
+- slightly increased pressure may reduce opening and closing of alveoli [to be confirmed]
+- ventilators possibly reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
+  
+ 
 
 
 
@@ -388,7 +389,7 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [mar
 
 The larger tend to fall to the ground since their movement is driven more by gravity (e.g. described in [tellier](#tellier)). 
 
-Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#exhaling-particles). Remark: Viral load in the upper respiratory tract can be attributed to [depositions](#depositions) of viruses upon exhalation. This is exploited for Covid-19 swab tests in the pharynx. 
+Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-spreading). Remark: Viral load in the upper respiratory tract can be attributed to [depositions](#particles-deposition) of viruses upon exhalation. This is exploited for Covid-19 swab tests in the pharynx. 
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
 
@@ -425,44 +426,46 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 * depositions of medicaments for the treatment
 
 
-How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review). 
-
-### factors
-- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18](#zhong18)])
-- breathing volume and frequency [hofemeier](#hofemeier)
-- air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
-- orientation respect to gravity i.e. wether horizontal or vertical
-
 ### particles clearance
 [in work]
 ##### Methods of Clearance
 * clearance by mucus flow
 * clearance macrophages in the mucus[to check]
-* adsorption in the alveoli and clearance by [to check]
-
+* adsorption in the alveoli [to check]
+* coughing
 
 ##### factors influencing clearance
 * well flowing mucus. 
 * the earlier deposited the better is the mucus clearance
 
 
-### particle origins and spreading 
-This section describes when particles are exhaled and how they spread out with the respiratory tract. 
+### particles spreading 
+This section describes when particles are exhaled and how they spread out within the respiratory tract. 
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
 
-* Small aerosols from the lower respiratory tract (<1 micro meter) are spread with breathing. So Covid-19 can be spread with breathing alone [larsson](#larsson), [morawska](#morawska). 
-
-* [larsson et al](#larsson) determined the origin of particles by measurement of the lipid composition. They found that particles from the deep lungs are mainly exhaled upon breathing alone and not when speaking or coughing.
+* Small particles from the lower respiratory tract (<1 micro meter) are spread with breathing alone and not when speaking or coughing. [Larsson et al](#larsson) found this by identifying the origins of particles from the lipid composition. 
 
 * [fabian et al](#fabian) found that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. A tendency for a positive correlation with age was observed. 
 
 * [milton et al](#milton2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
 
+So Covid-19 can be spread with breathing alone especially since in the deep lungs there are many receptors for Sars-CoV-2.  
 
-### deposition locations
+
+### particles deposition
 This section describes how particles are deposited in the respiratory tract. These particles can originate from other locations in the respiratory tract or being inhaled from extern air.
 
+How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review): 
+
+##### factors 
+- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18](#zhong18)])
+- breathing volume and frequency [hofemeier](#hofemeier)
+- air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
+- orientation respect to gravity i.e. wether horizontal or vertical
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
+
+##### deposition locations
+
 - Droplets mostly don't enter the lower respiratory tract.
 - Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-Cov-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
 - Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition](#deposition-locations) and less clearance [to be confirmed and citation to be added, work in progress].
@@ -504,12 +507,12 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
 
 ### entry point
 The cell entry receptor used by SARS-Cov-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
-The barrier function of the apical cell layer and in vitro cell experiments from [McCray et al](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. McCray & Co also observed that Sars-Cov-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point amino-peptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits apically with a preference of 10:1 for apical entry and 5:1 for basal entry).    
+The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. McCray & Co also observed that Sars-Cov-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point amino-peptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits apically with a preference of 10:1 for apical entry and 5:1 for basal entry).    
 
 ### tissue distribution of ACE2
 There are two common methods to measure tissue distribution of proteins:
 * _antibody staining_; here anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. . Used in the work of [Timens](#timens), [McCray](#mccray05) 
-* _detect mRNA_: here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on apical cell surface.
+* _detect mRNA_: here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on apical cell surface.[refs coming]
 
 For being an exploitable entry point, ACE2 should be built into the cell membrane and being useable from outside, see [entry point](#entry-point). So if _both_ of methods above yield positive, this is very likley. 
 
@@ -518,7 +521,7 @@ Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray0
 
 ### distribution of infected cells and viral load
 
-This is consistent with the viral loads observed in different parts of the body: 
+The viral loads observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
 * The only location where all patients had viral Sars-Cov-1 loads is the lungs [Farcas et al](#farcas). 
 * For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
 Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
