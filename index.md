@@ -149,7 +149,7 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 * Appendix for Early On Ventilators
 
 ### Overview
-For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor ([Yuen et al.](#yuen) showed this for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally there are indications they may reduce the spread of viruses in the lungs. 
+For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor, shown by ([Yuen et al.](#yuen) for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally there are indications they may reduce the spread of viruses in the lungs. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
