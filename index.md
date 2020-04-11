@@ -585,16 +585,16 @@ Remark: The following pieces of evidence are 'in work'.
 <p id="measures">-----</p>
 
 ### Suggested Protections Measures 
-Supposing that the main transmission of Sars-Cov-2 is either aerosol or outlined dry form, which is __not__ yet confirmed. This extends  [Public Advices and Suggestions](#public-advice) section. 
+Supposing that the main transmission of Sars-Cov-2 is either aerosol or the proposed dry form, which is __not__ yet confirmed. This extends  [Public Advices and Suggestions](#public-advice) section. 
 
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 
-This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm. Keeping the metaphor in mind that the right indoor ventilation and indoor wearing a mask is key.
+This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm. Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key.
 
 #### masks
 
-Officially recommed mask, since they mitigate the infection risk. Without official recommendation, people can be put off or look afraid from masks, at least in Europe, which is not desirable. 
+Officially recommed masks, since they mitigate the infection risk. Without official recommendation, people can be put off or look afraid from masks, at least in Europe, which is not desirable. 
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
     - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micro meter) with a 25 fold reduction in the number of viral copies 
     -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micro meter)
