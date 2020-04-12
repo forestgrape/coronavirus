@@ -7,7 +7,7 @@
 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 
-* These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas yet to be checked and evaluated. 
+* These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas to be checked and evaluated. 
 
 <!--
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences is helpful. -->
@@ -22,17 +22,16 @@
 ## Content
 
 * [Updates](#updates)
-* [Public Suggestions](#public-advice)<br>
-    Keep distance and hygiene. <!--Then outside is safe.--> Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
+* [Public Suggestions](#public-advice) - 
+    Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Ideas to Explore](#ideas)
-    * [Prevent Early On Mucus Accumulations](#early-vents) - Early On Ventilators:<br> 
-        Humidify inhaled air to increase the mucus flow and thereby the overall prognosis
-* [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal)<br> 
-    Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
+    * [Prevent Early On Mucus Accumulations](#early-vents) - 
+        Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
+* [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal) - Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
     - [Model](#model)
-    - [Intermezzo Particles in the Respiratory Tract](#particles)
-    - [Habitat of Betacoronaviruses](#habitat)       
+    - [Intermezzo Particle Dynamics in the Respiratory Tract](#particles)
+    - [Habitat of the Betacoronaviruses](#habitat)       
     - [Evidence for the Dry Form Transmission Model](#evidence)
         * [Evidence from Biological Properties](#biological-properties)
         * [Evidence from the observed Spread Patterns](#spread-patterns)
@@ -52,7 +51,7 @@
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and humid parts of Africa (well it likely got a little drier and savanna replaced rainforest in East Africa, so we had motivation to stand up) and clearance works better in this setting. In evolutionary dimensions, there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
+    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up). In such humid environments  clearance works better. In evolutionary dimensions, there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
     
 #### Minor Updates 
 - 10.4.20 Added section Habitat of Betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
@@ -81,7 +80,7 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 - Outside is safe,  if distance is kept. However, beware of the corridor and stairwell. Ideally, walk or cycle directly from home. 
 
 - Transport: 
-    * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars is polite - it's nicer and safer with light traffic. 
+    * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. 
     * Public transport:
          * Limit usage to reduce infection risk and/or wear a mask. 
          * Ventilation is key in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Always to max, turn off in tunnels and never put on circulation. 
@@ -97,7 +96,6 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
    
   But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets or fomites.
   
-
 
 -  Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-Cov-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). Your temperature if measured on the forehead may go from a typical 35 to 36 degrees. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
     The more common Covid-19 in your region is, the more likely it is an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is/was the most prevalent disease. 
@@ -119,7 +117,7 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 ### public description
 __Remark__: Based on a couple first-hand descriptions of rather mild cases. The descriptions agree well with the expected pathogenesis of mild cases. However to put this on a solid basis more cases would need to be considered. 
 
-Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort like a small poisoning, like having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports can be an indication too. These symptoms are not specific to Covid-19 though, they can have other causes: Cold air, having eaten something rotten or not enough sleep. Early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Among later symptoms are strange feeling in the chest like something being inside or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (likely not a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; take special care to your immun system). If you observed most of the symptoms in the described order is likely you went through Covid-19.
+Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort similar to a small poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (not necessarily a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; so take special care to the immune system). If most of the symptoms are observed in the described order it is likely Covid-19.
 
 ### symptoms
 [in work]
@@ -135,7 +133,7 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 <p id="ideas"> ---</p>
 
 # Ideas to Explore
-* [Early On Ventilator - Humidify](#early-vents)
+* [Early On Prevent Mucus Accumulations](#early-vents)
 
 
 <p id="early-vents"> -----</p>
@@ -165,9 +163,9 @@ In the following evidence is shown for the reverse [cascade](#cascade-of-influen
 * widespread virus distribution is caused by a decreased mucociliary clearance and increased distribution from locations of infected cells-
 * decreased mucus clearance is caused by dry air, hypertension, diabetes
 
-### Reverse Cascade
+### Reverse Cascade of Evidence
 
-- In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show bilateral lung lesions/patches [Zhong et al.](#zhong).
+- In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show _bilateral_ lung lesions/patches [Bhatraju et al.](#bhatraju),[Zhong et al.](#zhong).
 - [Yuen et al](#yuen) found high late viral loads for patients with an ARDS . 
 
 For the widespread viral load distribution in the lower respiratory tract, possible reasons are:
@@ -218,8 +216,8 @@ The Sars-Cov-2 entry ACE2 is expressed in large quantities in alveolar type 2 ce
 
 __Warning__: These are __completely unchecked__ proposals and ideas. Anything that can increase the distribution of viruses could be dangerous as this could have an unforeseeable outcome due to irritations and infections in new locations. Such methods __should first be simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles).
 
-##### In general methods ideally are  
-- though through by a variety specialists from different fields
+#### methods ideally are  
+- thought through by a variety specialists from different fields
 - simulated
 - tightly supervised, observed and recorded
 - published including raw data
@@ -229,13 +227,13 @@ __Warning__: These are __completely unchecked__ proposals and ideas. Anything th
 Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
 This prevents the accumulation of viral loaded and dry mucus early on. This in turn should both increase the well-being as well as the overall prognosis. 
 
-__Warning__: Though if there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution and therefore an additional irritation. 
+__Warning__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional irritation. 
 
 * heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
-    __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt).
+    __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt). __Risk__: general risks of invasive ventilation, temporary irritation due to liquefying of mucus
 
 * a heated humidifier stand-alone (i.e.) with no ventilator. __Benefit__:   
-Increase humidity and thus mucus flow and easy to use with an oxygen mask.
+Increase humidity and thus mucus flow and easy to use with an oxygen mask. __Risk__: temporary irritation due to liquefying of mucus
  
 * increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). __Benefit__: Simple use and a slight increase in mucus flow.  
 
@@ -315,7 +313,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 - Diabetis, Age, Chronic hear disease positively correlate with ARDS development. 
     
     
-#### Factors Influencing the Mucus Flow
+#### factors influencing the mucus flow
 
 * Dry Air especially below 50% relative humidity decreases the mucus flow as found by [Forbes](#forbes)
 
@@ -425,20 +423,6 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 * spread out of the body (transmission)
 * depositions of medicaments for the treatment
 
-
-### particles clearance
-[in work]
-##### Methods of Clearance
-* clearance by mucus flow
-* clearance macrophages in the mucus[to check]
-* adsorption in the alveoli [to check]
-* coughing
-
-##### factors influencing clearance
-* well flowing mucus. 
-* the earlier deposited the better is the mucus clearance
-
-
 ### particles spreading 
 This section describes when particles are exhaled and how they spread out within the respiratory tract. 
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
@@ -481,7 +465,20 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 
 * [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
 
-### methods for simulations and experiments
+### particles clearance
+[in work]
+##### Methods of Clearance
+* clearance by mucus flow towards the alimentary system
+* clearance macrophages in the mucus[to check]
+* adsorption in the alveoli [to check]
+* coughing
+
+##### factors influencing clearance
+* well flowing mucus (see [factors increasing the mucus flow](#factors-influencing-the-mucus-flow))
+* the earlier deposited the better is the mucus clearance
+* particle properties such as material (bad clearance for insoluble), form, size
+
+### simulation methods and experiments
 In her thesis [Lindstrom](#lindstrom) explaines well the principles. A recent review is from [Park and colleagues](#park). An often used model is the [ICRP Model](#bailey).
 
 Modeling or experimentally determine the deposition rates is not easy and each method has caveats.  
@@ -499,6 +496,8 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
     * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
     * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volume is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [reference to be added].
     * Experimental data on the regional deposition of radio-labelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
+    
+   
 
 
 <p id="habitat">-----</p>
@@ -512,7 +511,7 @@ The barrier function of the apical cell layer and in vitro cell experiments from
 ### tissue distribution of ACE2
 There are two common methods to measure tissue distribution of proteins:
 * _antibody staining_; here anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. . Used in the work of [Timens](#timens), [McCray](#mccray05) 
-* _detect mRNA_: here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on apical cell surface.[refs coming]
+* _detect mRNA_: here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on apical cell surface, see e.g. [Li et al](#li)
 
 For being an exploitable entry point, ACE2 should be built into the cell membrane and being useable from outside, see [entry point](#entry-point). So if _both_ of methods above yield positive, this is very likley. 
 
@@ -536,7 +535,7 @@ That in swab tests there are viruses in the nose and the mouth can be attributed
 
 ### Evidence from Biological Properties
 
-From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. As described in [deposition locations](#deposition-locations) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus suggests that the dry form is most infectious. 
+From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entry for Sars-Cov-1/2 is obligate for infection. As described in [deposition locations](#deposition-locations) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus flow, the dry form is likely more infectious. 
 
 
 <p id="spread-patterns">---</p>
@@ -548,7 +547,7 @@ The aerosol transmission explains well the observed spread patterns of influenza
 In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in cool outside temperature and heated indoor spaces which means dry and confined air. In theses settings dry dust like spreading is possible:
 * Sars-Cov-1:
 	- Hospitals in China [Mizumoto](#mizumoto)
-    - Hospital in Seattle [to added]
+    -  Long-Term Care Facility in Seattle [Honein et al](#honein)
 	- Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan)
 
 
@@ -682,7 +681,7 @@ TODO UPDATE REFERENCES
     https://doi.org/10.1056/NEJMoa2002032
     
 * ##### bhatraju
-    Pavan K. Bhatraju, M.D., Bijan J. Ghassemieh, M.D., Michelle Nichols, M.D., Richard Kim, M.D., Keith R. Jerome, M.D., Arun K. Nalla, Ph.D., Alexander L. Greninger, M.D., Sudhakar Pipavath, M.D., Mark M. Wurfel, M.D., Ph.D., Laura Evans, M.D., Patricia M. Kritek, M.D., T. Eoin West, M.D., M.P.H., Andrew Luks, M.D., Anthony Gerbino, M.D., Chris R. Dale, M.D.,Jason D. Goldman, M.D., Shane O’Mahony, M.D., and Carmen Mikacenic, M.D.     
+    Pavan K. Bhatraju, M.D., Bijan J. Ghassemieh, M.D., Michelle Nichols, M.D., Richard Kim, M.D., Keith R. Jerome, M.D., Arun K. Nalla, Ph.D., Alexander L. Greninger, M.D., Sudhakar Pipavath, M.D., Mark M. Wurfel, M.D., Ph.D., Laura Evans, M.D., Patricia M. Kritek, M.D., T. Eoin West, M.D., M.P.H., Andrew Luks, M.D., Anthony Gerbino, M.D., Chris R. Dale, M.D.,Jason D. Goldman, M.D., Shane O’Mahony, M.D., and Carmen Mikacenic, M.D.   
     **Covid-19 in Critically Ill Patients in the Seattle Region — Case Series** 
     This article was published on March 30, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2004500
     
@@ -709,6 +708,28 @@ TODO UPDATE REFERENCES
     **Immunohistochemical, in situ hybridization, and ultrastructural localization of SARS-associated coronavirus in lung of a fatal case of severe acute respiratory syndrome in Taiwan**
     Human Pathology (2005) 36, 303 – 309
     https://doi.org/10.1016/j.humpath.2004.11.006  
+    
+    
+### Epidemiological Patterns
+    
+*  ##### le
+	The Lancet Editoral<strong>
+	COVID-19: protecting health-care workers</strong>
+	www.thelancet.com Vol 395 March 21, 2020
+	https://doi.org/10.1016/S0140-6736(20)30644-9 
+
+*  ##### mizumoto 
+	Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on    board the diamond Princess Cruises Ship, 2020</strong>
+	https://doi.org/10.1016/j.idm.2020.02.003
+    
+* ##### honein
+    Temet M. McMichael et al.
+    **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
+    This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+    
+    
+
+  
      
      
 ### Phatogenesis and Viral Loads
@@ -794,6 +815,9 @@ TODO UPDATE REFERENCES
     Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray
     **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
     Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
+    
+* ##### li
+    Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., & Chen, Q. (2020). High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa. International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
         
 
 ### Enviromental Factors on Betacoronaviruses
@@ -811,18 +835,6 @@ TODO UPDATE REFERENCES
     LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection. Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054   
        
     
-### Epidemiological Patterns
-    
-*  ##### le
-	The Lancet Editoral<strong>
-	COVID-19: protecting health-care workers</strong>
-	www.thelancet.com Vol 395 March 21, 2020
-	https://doi.org/10.1016/S0140-6736(20)30644-9 
-
-*  ##### mizumoto 
-	Kenji Mizumoto, Gerardo Chowell<strong> Transmission potential of the novel coronavirus(COVID-19) on    board the diamond Princess Cruises Ship, 2020</strong>
-	https://doi.org/10.1016/j.idm.2020.02.003
-  
     
 ### Transmission and Infection of  Respiratory Viruses</strong>
 
