@@ -51,7 +51,7 @@
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up). In such humid environments  clearance works better. In evolutionary dimensions, there are only very few generations for the adaption to cold climate zones (which means dry air in the lungs) and no genetic adaption at all to permanent indoor heating.    
+    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on where your ancestors lived and how much pressure for adaption there was, which isn't straight forward to say since migration routes have twists and turns and desert nights can be cold around the world). To permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
 - 10.4.20 Added section Habitat of Betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
@@ -77,27 +77,26 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
     
 - Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room or flat. [Ventilation](#ventilation) has been shown to be effective. 
 
-- Outside is safe,  if distance is kept. However, beware of the corridor and stairwell. Ideally, walk or cycle directly from home. 
+- Outside is safe, if some distance is kept. Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors, so beware the corridor and stairwell.
 
 - Transport: 
     * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. 
     * Public transport:
-         * Limit usage to reduce infection risk and/or wear a mask. 
-         * Ventilation is key in public transport. If possible open the windows at least from time to time, this works well thanks to the outside airflow. Always to max, turn off in tunnels and never put on circulation. 
+         * Limit usage and/or wear a mask to reduce infection paths. 
+         * Ventilation is key in public transport. If possible open the windows from time to time, this works well thanks to the outside airflow. Put ventilation on max, turn off in tunnels and never put on circulation. 
          * If there are old toilets, that go to the rails, don't use to shit!
 
 - Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. 
 
-- Keep proper hygiene. Especially wash your hands well with a lot of soap after toilet. 
+- Keep proper hygiene. Especially wash your hands well with a lot of soap after toilet. Before eating wash them too. 
   Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
    * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
-   * avoiding a common cold or flu is important, because Covid-19 can be somewhat similar. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informe them.   
-   
-  But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets or fomites.
+   * avoiding a common cold or flu is important, because Covid-19 symptoms can be somewhat similar. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informing them.   
+  But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets or fomites. 
   
 
--  Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-Cov-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). Your temperature if measured on the forehead may go from a typical 35 to 36 degrees. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
+- Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-Cov-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). Your temperature if measured on the forehead may go from a typical 35 to 36 degrees. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
     The more common Covid-19 in your region is, the more likely it is an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is/was the most prevalent disease. 
 
 - Live a healthy lifestyle 
@@ -214,15 +213,15 @@ The Sars-Cov-2 entry ACE2 is expressed in large quantities in alveolar type 2 ce
 
 ### Ideas to Decrease Virus Distribution [in work]
 
-__Warning__: These are __completely unchecked__ proposals and ideas. Anything that can increase the distribution of viruses could be dangerous as this could have an unforeseeable outcome due to irritations and infections in new locations. Such methods __should first be simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles).
-
-#### methods ideally are  
+#### new methods ideally are  
 - thought through by a variety specialists from different fields
 - simulated
 - tightly supervised, observed and recorded
-- published including raw data
- 
+- published, including raw data
 
+__Warning__:
+These are unchecked proposals and should be carefully supervised. Anything that could alter/increase the natural airflow and thus possibly the distribution of viruses could cause irritations and infections in new locations. Ideally such methods are __first simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). Such methods (e.g. High Flow Therapy) will not be further discussed here.
+ 
 #### increase the mucus flow
 Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
 This prevents the accumulation of viral loaded and dry mucus early on. This in turn should both increase the well-being as well as the overall prognosis. 
@@ -230,14 +229,13 @@ This prevents the accumulation of viral loaded and dry mucus early on. This in t
 __Warning__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional irritation. 
 
 * heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
-    __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt). __Risk__: general risks of invasive ventilation, temporary irritation due to liquefying of mucus
+    __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt). __Risk__: general risks of invasive ventilation, temporary irritation due to liquefying of mucus. 
 
-* a heated humidifier stand-alone (i.e.) with no ventilator. __Benefit__:   
-Increase humidity and thus mucus flow and easy to use with an oxygen mask. __Risk__: temporary irritation due to liquefying of mucus
+* a heated humidifier stand-alone (i.e.) with no ventilator. __Benefit__: Increase humidity and thus mucus flow and easy to use with an oxygen mask. __Risk__: temporary irritation due to liquefying of mucus.
  
-* increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). __Benefit__: Simple use and a slight increase in mucus flow.  
+* increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). __Benefit__: Simple use and a slight increase in mucus flow.  __Risk__: Some irritation due to liquefying can be possible. "Well tested" in tropical clima zones around the world.  
 
-* Steam inhalation in the traditional way with a pot of hot water and a towel could help too. L. Use in early phase only since the steam may further irritate the mucous membranes. __Benefit__: Simple use and a temporary increase in mucus flow. 
+* Steam inhalation in the traditional way with a pot of hot water and a towel could help too. L. Use in early phase only since the steam may further irritate the mucous membranes. __Benefit__: Simple use and a temporary increase in mucus flow. __Risk__: Start with short times and see how the body reacts, then the risks should be little. 
     
 #### reduce the spread of viruses    
 reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][simulate first what happens]
