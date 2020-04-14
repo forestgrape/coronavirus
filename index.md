@@ -51,7 +51,7 @@
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens of millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on where your ancestors lived and how much pressure for adaption there was, which isn't straight forward to say since migration routes have twists and turns and desert nights can be cold around the world). To permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
+    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends the overall drive for adaption, which isn't straight forward to say since migration routes have twists and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
 - 10.4.20 Added section Habitat of Betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
@@ -68,14 +68,14 @@
 ## Public Advice, Suggestions and Thoughts
 Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
    
-- The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that your cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but if you are at a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+- The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
-- Wear a mask in indoor places where infectious people can be. The longer you stay, the more people there are and the less ventilation there is, the more important since the infection risk increases with the amount of indoor air breathed.
-   Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time you should change it or wash it very well - there's more than Sars-Cov-2, don't forget that!
+- Wear a mask in indoor places where infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important since the infection risk increases with the amount of indoor air breathed.
+   Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time it should changed or washed thoroughly - there's more than Sars-Cov-2, don't forget that!
 
 - Distancing reduces infection risk.  If possible avoid crowded indoor spaces. 
     
-- Ventilate your rooms regularly by opening all windows for 5 minutes.  If possibly  infected, always ventilate your room before opening the door of your room or flat. [Ventilation](#ventilation) has been shown to be effective. 
+- Ventilate the rooms regularly by opening all windows for 5 minutes.  If possibly infected, always ventilate before opening the door of your room or flat. [Ventilation](#ventilation) has been shown to be effective. 
 
 - Outside is safe, if some distance is kept. Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors, so beware the corridor and stairwell.
 
@@ -86,23 +86,23 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
          * Ventilation is key in public transport. If possible open the windows from time to time, this works well thanks to the outside airflow. Put ventilation on max, turn off in tunnels and never put on circulation. 
          * If there are old toilets, that go to the rails, don't use to shit!
 
-- Don't have very dry air inside; drying your frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. 
+- Don't have very dry air inside; drying frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. 
 
-- Keep proper hygiene. Especially wash your hands well with a lot of soap after toilet. Before eating wash them too. 
+- Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. 
   Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
    * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
-   * avoiding a common cold or flu is important, because Covid-19 symptoms can be somewhat similar. This means quarantine for you and your close contacts and figuring out all the people you could have infected and informing them.   
+   * avoiding a common cold or flu is important, because Covid-19 symptoms can be somewhat similar. This could mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms and wearing a mask in high prelevance regions (or possibly even a few days of quarantine in low prelevance regions where contact tracing may be an option).   
   But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets or fomites. 
   
 
-- Observe your body, write down the observations and if possible measure: Measure your temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-Cov-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). Your temperature if measured on the forehead may go from a typical 35 to 36 degrees. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
-    The more common Covid-19 in your region is, the more likely it is an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is/was the most prevalent disease. 
+- Observe your body, write down the observations and if possible measure: Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-Cov-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). The temperature if measured on the forehead may go from a typical 35 to 36 degrees. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
+    The more common Covid-19 in a region is, the more likely it is an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is/was the most prevalent disease. 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily, relax and do some sport
     
-    and avoid anything that weakens your immune system:
+    and avoid anything that weakens the immune system:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
     * try reducing stress for yourself and others. Trying too hard won't help though. 
     
@@ -114,9 +114,11 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 # Covid-19
 
 ### public description
-__Remark__: Based on a couple first-hand descriptions of rather mild cases. The descriptions agree well with the expected pathogenesis of mild cases. However to put this on a solid basis more cases would need to be considered. 
+__Remark__: The description given below agrees with the expected pathogenesis of mild cases. However to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
+> Even though I wasn't assymptomatic, not obvious back then. This partly due to lack of respiratory symptoms, not even a single cough, and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing official or obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. It just felt strange for one to two days. A temperature increase was there too - up to 35.5/36.5 from my normal 34.5/35. But since I didn't record the temperature systematically before, the temperature measurements were more calming than ringing the bells. Later on, a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Looking backward I wouldn't do intense sports and it likely was Covid-19.  
 
-Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because your body is increasing the temperature to fight the viruses) or some strange feeling sort similar to a small poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (not necessarily a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; so take special care to the immune system). If most of the symptoms are observed in the described order it is likely Covid-19.
+
+Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (not necessarily a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; so take special care to the immune system). If most of the symptoms are observed in the described order it is likely Covid-19.
 
 ### symptoms
 [in work]
@@ -146,7 +148,7 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 * Appendix for Early On Ventilators
 
 ### Overview
-For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor, shown by ([Yuen et al.](#yuen) for Influenza). [Hong and colleagues](#hong) found that the mucus flow can be increased by humidified ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally there are indications they may reduce the spread of viruses in the lungs. 
+For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor, shown by ([Yuen et al.](#yuen) for Influenza). [Hong and colleagues](#hong) found that the mucus flow increases when using humidified air for ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally there are indications they may reduce the spread of viruses in the lungs. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
@@ -261,8 +263,8 @@ Mechanically ventilated patients exhale less particles: "Mechanically ventilated
 Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. Ideally the statistics takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease]. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
 
 #### Factors Associated to severe Covid-19:
-[Zhong et al.](#zhong) noted characteristics of mild, severe and fatal cases of  diarrhea Covid-19 patients. 
-The numbers in parenthesis are observation rates for (% death cases, % severe cases(including fatal), % mild cases)
+[Zhong et al.](#zhong) noted characteristics of hospital admitted Covid-19 patients which are grouped into mild, severe and fatal cases. 
+The numbers in parenthesis are observation rates in % of (fatal cases, severe cases(including fatal), mild hospitalized)
 
 strong relation:
 - Chronic obstructive pulmonary disease (10.4 vs 3.5 vs 0.6)
