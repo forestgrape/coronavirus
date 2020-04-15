@@ -66,7 +66,7 @@
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Do NOT take Covid-19 lightly: it can be very serious in the short-term and whether there are possible long-term effects is unknown. But no reason to panic neither, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
+Do NOT take Covid-19 lightly: it can be serious in the short-term. Whether long-term effects can be caused is currently unknown, however not more likely than for other (corona)viruses causing common cold. But no reason to panic, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
    
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
@@ -86,7 +86,7 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
          * Ventilation is key in public transport. If possible open the windows from time to time, this works well thanks to the outside airflow. Put ventilation on max, turn off in tunnels and never put on circulation. 
          * If there are old toilets, that go to the rails, don't use to shit!
 
-- Don't have very dry air inside; drying frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. 
+- Don't have very dry air inside; drying frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defence of the respiratory tract against pathogens. 
 
 - Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. 
   Hygiene is important because:
@@ -115,7 +115,7 @@ Do NOT take Covid-19 lightly: it can be very serious in the short-term and wheth
 
 ### public description
 __Remark__: The description given below agrees with the expected pathogenesis of mild cases. However to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
-> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I remember correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing official or obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5/36.5 from my normal 34.5/35. But since I didn't record the temperature systematically before, the temperature measurements were more calming instead of ringing the bells. Later on, a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19.  
+> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5/36.5 from my normal 34.5/35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Later on, a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19.
 
 
 Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (not necessarily a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; so take special care to the immune system). If most of the symptoms are observed in the described order it is likely Covid-19.
@@ -205,7 +205,7 @@ The Sars-Cov-2 entry ACE2 is expressed in large quantities in alveolar type 2 ce
     * extern factors
          - dry air 
              * humidified air increases mucus transport [Hong](#hong), [Hasani](#hasani)
-             * generally fewer deaths indicating a lower death-rate in humid air countries, for relative humidity values below 50%. There is a lower death-rate in Israel than in Norway, two countries that both have good testing rates and a good health care system. 
+             * generally fare fewer deaths and a lower death-rate in humid air countries, see [death rates](#death-rates). Rough estimate 0.2 % in humide air countries. Dry air countries are more difficult to estimate since treatment likely is much more relevant, see [methods](#increase-the-mucus-flow). 
              * For greyhounds under anesthesia, breathing air at 37 °C, a decrease in the tracheal mucus flow was observed if the relative humidity was decreased below 50% [[Forbes](#forbes)].
 * Virus RNA early on in the alimentary seems not to be an indication for ARDS even though this indicates a high overall viral load:
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
@@ -221,7 +221,7 @@ The Sars-Cov-2 entry ACE2 is expressed in large quantities in alveolar type 2 ce
 - tightly supervised, observed and recorded
 - published, including raw data
 
-__Warning__:
+__Note__:
 These are unchecked proposals and should be carefully supervised. Anything that could alter/increase the natural airflow and thus possibly the distribution of viruses could cause irritations and infections in new locations. Ideally such methods are __first simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). Such methods (e.g. High Flow Therapy) will not be further discussed here.
  
 #### increase the mucus flow
@@ -263,47 +263,50 @@ Mechanically ventilated patients exhale less particles: "Mechanically ventilated
 Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. Ideally the statistics takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease]. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
 
 #### Factors Associated to severe Covid-19:
-[Zhong et al.](#zhong) noted characteristics of hospital admitted Covid-19 patients which are grouped into mild, severe and fatal cases. 
+
+* [Zhong et al.](#zhong) noted characteristics of hospital admitted Covid-19 patients which are grouped into mild, severe and fatal cases. 
 The numbers in parenthesis are observation rates in % of (fatal cases, severe cases(including fatal), mild hospitalized)
 
-strong relation:
-- Chronic obstructive pulmonary disease (10.4 vs 3.5 vs 0.6)
-- Diabetes (27 v 16 vs 5.7)
-- Hypertension (36 vs 23.7 vs 13.4)
-- Coronary heart disease (9 vs 6 vs 2)
-- (Cerebrovascular disease)
+    strong relation:
+    - Chronic obstructive pulmonary disease (10.4 vs 3.5 vs 0.6)
+    - Diabetes (27 v 16 vs 5.7)
+    - Hypertension (36 vs 23.7 vs 13.4)
+    - Coronary heart disease (9 vs 6 vs 2)
+    - (Cerebrovascular disease)
 
-weak relation:
-- cancer (1.5 vs 1.7 vs 0.8)
-- chronic renal disease (3 vs 2 vs 0.5)
+    weak relation:
+    - cancer (1.5 vs 1.7 vs 0.8)
+    - chronic renal disease (3 vs 2 vs 0.5)
 
-very weak/no relation:
-- immunodeficiency (0 vs 0 vs 0.2)
+    very weak/no relation:
+    - immunodeficiency (0 vs 0 vs 0.2)
 
 
-[Bhatraju et al.](#bhatraju) noted characteristics of Covid-19 patients from the Seattle-area with ARDS.
+* [Bhatraju et al.](#bhatraju) noted characteristics of Covid-19 patients from the Seattle-area with ARDS.
 
-strong relation:
-- Diabetes 58%
-- high body mass index (33.2±7.2)
-- Age (64±18 (23–97))
+    strong relation:
+    - Diabetes 58%
+    - high body mass index (33.2±7.2)
+    - Age (64±18 (23–97))
 
-weak relation:
-- former/current smoker 22%
-- asthma 14%
+    weak relation:
+    - former/current smoker 22%
+    - asthma 14%
 
-In Italy [Onder et al.](#onder) analysed a subsample of 355 patients with COVID-19 who died in Italy: 
+* In Italy [Onder et al.](#onder) analysed a subsample of 355 patients with COVID-19 who died in Italy: 
 
-strong relation:
-* mean age was 79.5 years (SD, 8.1) 
-* 117 patients (30%) had ischaemic heart disease
-* 126 (35.5%) had diabetes
-* 72 (20.3%) had active cancer
-* 87 (24.5%) had atrial fibrillation
+    strong relation:
+    * mean age was 79.5 years (SD, 8.1) 
+    * 117 patients (30%) had ischaemic heart disease
+    * 126 (35.5%) had diabetes
+    * 72 (20.3%) had active cancer
+    * 87 (24.5%) had atrial fibrillation
 
-some relation:
-* 24 (6.8%) had dementia
-* 34 (9.6%) had a history of stroke
+    some relation:
+    * 24 (6.8%) had dementia
+    * 34 (9.6%) had a history of stroke
+
+* The Covid-19 fatality rates are higher in cities and especially in cities which are not known for very clean air. Many Covid-19 related deaths are recorded in: Madrid, Milano, Teheran, New York and Wuhan [citation to be added]. According to findings from [Wolff](#wolff) dirty air can reduce the mucus clearance in various ways. 
     
 #### Factors Associated with ADRS in Influenza    
 The following characteristics are observed in the  [paper from Yuen et al.](#yuen):
@@ -315,20 +318,27 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
     
 #### factors influencing the mucus flow
 
-* Dry Air especially below 50% relative humidity decreases the mucus flow as found by [Forbes](#forbes)
-
-* [Leopold et al.](#leopold-mahony-lian) observed smoking-associated shorter airway epithelial cilia which, according to their argumentation, yields a decreased mucus flow (described in the section "Implications of Reduction of Cilia Length on Mucociliary Clearance"). 
-
-* In his review on "Effects of Airborne Pollutants on Mucociliary Clearance"  Ronald K. Wolff summarizes "A variety of pollutants have been shown to impair mucociliary clearance following acute or subchronic exposures." 
-
 * [Nakagawa et al.](#nakagawa) found that "Ageing, Diabetes, and Hypertension Are Associated With Decreased Nasal Mucociliary Clearance". The mechanisms of mucus production in the nose are likely similar to those in the trachea and therefore similar correlations are expected [to be confirmed]. 
 
 * In the review from [Houtmeyers et al.](#houtmeyers) "Regulation of mucociliary clearance in health and disease" has references to findings which indicate a decreased mucus flow and ciliary activity with age. 
 
+* Dry Air especially below 50% relative humidity decreases the mucus flow in the trachea. Observed by [Forbes](#forbes)  for greyhounds under barbiturate anaesthesia breathing air at 37 °C.
 
-#### Factors Influencing Death Rates
+* [Leopold et al.](#leopold-mahony-lian) observed smoking-associated shorter airway epithelial cilia which, according to their argumentation, yields a decreased mucus flow (described in the section "Implications of Reduction of Cilia Length on Mucociliary Clearance"). 
 
-In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find some correlation between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here agrees with their findings and would even provide explanations. Their analysis depends however on how accurate the analysed data are. In Wuhan, as in nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. <!--But for analysis it would be helpful to have accurate/corrected data. -->
+* In his review on ["Effects of Airborne Pollutants on Mucociliary Clearance"](#wolff)  Ronald K. Wolff summarizes "A variety of pollutants have been shown to impair mucociliary clearance following acute or subchronic exposures." 
+
+
+
+#### death rates
+
+* Generally fewer deaths indicating a lower death-rate in humid air countries. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, all countries which have a good health care system and relative good testing rates. 
+    - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
+    - __Remark__: Mucus clearance may not be the only reason for lower death rates in humide air, but also that [Dry Form Infection](#abstract) is less likely and therefore Covid-19 starts more in the trachea than in the alveolis. 
+
+* In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here agrees with their findings and would even provide explanations. Their analysis depends however on how accurate the analysed data are. In Wuhan, as in nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. 
+
+__Note__: For scientific analysis it is important to have accurate data or at least clear notifications that the data may not be accurate. 
 
 
 <p id="proposal">-------</p>
@@ -708,7 +718,8 @@ TODO UPDATE REFERENCES
     **Immunohistochemical, in situ hybridization, and ultrastructural localization of SARS-associated coronavirus in lung of a fatal case of severe acute respiratory syndrome in Taiwan**
     Human Pathology (2005) 36, 303 – 309
     https://doi.org/10.1016/j.humpath.2004.11.006  
-    
+  
+  
     
 ### Epidemiological Patterns
     
@@ -727,10 +738,7 @@ TODO UPDATE REFERENCES
     **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
     This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
     
-    
-
-  
-     
+   
      
 ### Phatogenesis and Viral Loads
 
@@ -764,6 +772,7 @@ TODO UPDATE REFERENCES
     **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
     Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
 
+    
     
 ### Biology of Coronaviruses 
 
@@ -801,6 +810,7 @@ TODO UPDATE REFERENCES
 	https://doi.org/10.1016/j.cell.2020.02.052
 
 
+
 ### Expression Locations of ACE2
 
 * ##### timens
@@ -818,7 +828,8 @@ TODO UPDATE REFERENCES
     
 * ##### li
     Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., & Chen, Q. (2020). High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa. International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
-        
+     
+     
 
 ### Enviromental Factors on Betacoronaviruses
 
@@ -834,8 +845,8 @@ TODO UPDATE REFERENCES
 * ##### lin
     LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection. Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054   
        
-    
-    
+  
+  
 ### Transmission and Infection of  Respiratory Viruses</strong>
 
 * ##### kikkert
@@ -868,8 +879,8 @@ TODO UPDATE REFERENCES
 
 * ##### marawska06
     Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
-    
-    
+ 
+ 
 
 ### Exhaled Breath Condensate and Virus Shedding
 
@@ -898,8 +909,7 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     
 * ##### lindstedt
     Broberg E, Andreasson J, Fakhro M, et al. <strong>Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.</strong> ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019]. 
-    
-    
+        
     
 ### Clearance of the Respiratory Tract
 
@@ -930,6 +940,11 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 * ##### luo
     Yueling Ma, Yadong Zhao, Jiangtao Liu, Xiaotao He, Bo Wang, Shihua Fu, Jun Yan, Jingping Niu, Ji Zhou, Bin Luo, <strong>Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China</strong>, Science of The Total Environment, 2020,138226,ISSN 0048-9697, https://doi.org/10.1016/j.scitotenv.2020.138226.
 (http://www.sciencedirect.com/science/article/pii/S0048969720317393)
+
+* ##### wolff
+    Wolff, R. (1986). 
+    **Effects of Airborne Pollutants on Mucociliary Clearance.** 
+    Environmental Health Perspectives, 66, 223-237. doi:10.2307/3430237
     
 
 
