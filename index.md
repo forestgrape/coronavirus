@@ -54,6 +54,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends the overall drive for adaption, which isn't straight forward to say since migration routes have twists and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
+- 10-15.4.20: Many formulations especially in Public Advice and in Prevent Early on Mucus Accumulations
 - 10.4.20 Added section Habitat of Betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
 - 9.4.20 Started section Covid-19
 - 5.4.20 Clarified Early On Ventilators section and added more ref
@@ -332,7 +333,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 #### death rates
 
-* Generally fewer deaths indicating a lower death-rate in humid air countries. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, all countries which have a good health care system and relative good testing rates. 
+* Generally fewer deaths indicating a lower death-rate in humid air countries. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and relative good testing rates. 
     - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
     - __Remark__: Mucus clearance may not be the only reason for lower death rates in humide air, but also that [Dry Form Infection](#abstract) is less likely and therefore Covid-19 starts more in the trachea than in the alveolis. 
 
