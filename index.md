@@ -138,6 +138,69 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
 
+
+<p id="litvac2"> -----</p>
+
+## Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCVs
+[Note: this is work in progress]
+
+### Introduction
+Many epidemiological observations for the Covid-19 spread - especially latitude preferences - are well explained by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air increases both the [airborne transmission](#model) and decreases the [mucus clearance](#clearance). Air pollution (-> [decreased mucus clearance](#clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
+* in Switzerland not only the highest prevalence but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread, seem to be largely immune and having only a couple of deaths and few cases: LU, AI, AR, OW, UW, AG, TG
+* Similar observations for in Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
+
+A possible explanation is that in cattle farming areas BCV are often transmitted to humans/interact with endemic HCoVs such that the immune system is trained to fight betacoronaviruses. Increased infections with Betacoronaviruses could occur regularly or just once as a infant and possibly induce lifelong protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
+
+That infections from coronaviruses can elicit immune protection (more precisely serum conversion) to other coronaviruses has been observed by [Dijkman, van der Hoek et al.](#vanderhoek12) as follows:
+* OC43 -protects-> HKU1 
+* NL63 -protects-> 229E
+The protection was observed only unidirectional.  
+
+If such a protection exists and if yes how it works remains to be determined. Depending on the mechanism of action it could be [used in many ways](#relevance). 
+
+
+### relevance 
+The relevance and usage depends to a large extend on the [mechanisms of action](#mechanisms) and how much protection is provided. 
+Possible use cases are polyvalent:
+- knowing that people experience only mild symptoms and have reduced spreading of Sars-CoV-2 can be used to manage the current Covid-19 pandemic. Serum conversion occurence is relevant to in this respect. 
+- increase the immune response against Sars-Cov-2 or even provide paths for full immunisation, even a literal vaccine is thinkable (the long-term pathogenesis of BCVc should be reevaluated first)
+- Sars-CoV-2 infection could protect against OC43 or other BCV infections, which could be more harmful in the long run than Sars-CoV-2
+
+
+### next steps
+* Analyse spread patterns in other countries: USA, France, ...
+* Widespread serology for HCoVs and do statistics if there's a relation to pathogenesis of Covid-19 . 
+* Analyse birth and grow up locations of elderly Covid-19 patients.
+
+
+### Evidence from Distribution of Covid-19 
+In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform, testing results are used too beside death counts. 
+
+#### Covid-19 in Switzerland
+Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  In areas where cattle farming is prevalent (ZH, AG, LU, AI, SG, FR, NE, VS, BE, FR, JU etc.) the number of deaths per 100K is about 6 in median and 8 in average. Contrary to areas where cattle are less common (TI, GE, BS) or the cities (VD, Lausanne is surrounded by vineyards) are fare away from cattle farming places, the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
+The same patterns are observed when considering only cantons with large cities or when considering only uniform language regions: Areas with a lot of cattle farming have lower death rates (both per positive tested cases and per capita):
+* JU, FR, NE and VS have  lower death rates both per cases and per population than GE and VD in the French part.
+* SG, LU, ZH, AG have lower rates than BS for the German part.
+
+#### Covid-19 in Spain
+As in Switzerland the same pattern is observed in Spain:
+The cattle rich regions in the North and North East: Galicia, La Rioja, Basque Country have a lower death rate and higher recover rate than Madrid, Valencia, Castile, Catalonia and Leon. As expected from the humid climate in the communities Canary Islands, Melila and Balearic Islands the recover rates are high and the death rates are low compared to central Spain. 
+
+#### Remark
+Similar patterns seem to be in the USA and France. 
+
+### mechanisms
+In the following mechanism of actions are guessed. 
+
+* Epigenetic adaption [ref on the way]
+* Antibodies against some well preserved proteins parts. 
+    - non extern proteins presented via MHC. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
+    - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. [in work]
+    
+    
+    
+    
+
 <p id="early-vents"> -----</p>
 
 ## Early On Prevent Mucus Accumulations 
