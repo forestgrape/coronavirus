@@ -37,7 +37,7 @@
         * [Evidence from Biological Properties](#biological-properties)
         * [Evidence from the observed Spread Patterns](#spread-patterns)
 * [Suggested Protections Measures](#measures)<br>
-    Smoke protection measures work well and masks. 
+    Smoke protection measures and masks work well. 
     - [Masks](#masks)
     - [Ventilation](#ventilation)
 * [References](#references)
@@ -45,7 +45,7 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-- 17.4.20 00:00 GMT Added section "Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs"
+- 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
@@ -69,7 +69,7 @@
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Do NOT take Covid-19 lightly: it can be serious in the short-term and whether and if yes what long-term effects can be caused is unknown - however such effects are not more likely than for other (corona)viruses causing common colds. No reason to panic from viruses, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
+Do NOT take Covid-19 lightly: it can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. However no reason to panic from viruses, unlike viruses we've got a mind, better communication and a superb body police called immune system and viruses may even support us to evolve. Time to act mindfully and work together.  
    
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
@@ -193,6 +193,7 @@ The cattle rich regions in the North and North East: Galicia, La Rioja, Basque C
 #### Remark
 Similar patterns seem to be in the USA and France. 
 
+
 ### mechanisms
 In the following mechanism of actions are guessed. 
 
@@ -200,7 +201,7 @@ In the following mechanism of actions are guessed.
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * HE
-    - non extern proteins presented via MHC. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
+    - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
      [in work]
     
     
@@ -698,9 +699,11 @@ Reasons against masks seem sometimes rather searched:
 ## References
 
 #### Note 
-* Sometimes reviews or remarks in introductions are cited which reference further to the original work. 
-* References are grouped by topic. In the case where several topics apply, one has been chosen. 
-* Instead of numbered the references are named by the correspondence author, the primary authors or a descriptive tag.   
+* The references are named by the correspondence author, the primary authors or a descriptive tag. 
+* References are grouped by topic. If several topics apply, one has been chosen. 
+* Sometimes reviews or remarks in introductions are referred which point further to the original work/articles. 
+
+  
 
 <!--
 
@@ -1096,7 +1099,7 @@ TODO UPDATE REFERENCES
 
 ### Exhaled Breath Condensate and Virus Shedding
 
-* ##### marawska06
+* ##### morawska2006
     Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
 
 * ##### milton2018
