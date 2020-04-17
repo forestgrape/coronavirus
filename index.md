@@ -25,8 +25,8 @@
 * [Public Suggestions](#public-advice) - 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Ideas to Explore](#ideas)
-	- [Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs](#litvac2)
-    	- [Prevent Early On Mucus Accumulations](#early-vents) - 
+	- [Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs](#litvac2)
+    - [Prevent Early On Mucus Accumulations](#early-vents) - 
         Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
 * [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal) - Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
@@ -45,7 +45,7 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-- 17.4.20 00:00 GMT Added section "Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs"
+- 17.4.20 00:00 GMT Added section "Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs"
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
@@ -137,14 +137,14 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 <p id="ideas"> ---</p>
 
 # Ideas to Explore
-* [Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs](#litvac2)
+* [Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
 
 
 <p id="litvac2"> -----</p>
 
-## Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs
+## Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs
 [Note: this is work in progress]
 
 ### Introduction
@@ -152,7 +152,7 @@ Many epidemiological observations for the Covid-19 spread - especially latitude 
 * in Switzerland not only the highest prevalence but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread, seem to be largely immune and having only a couple of deaths and few cases: LU, AI, AR, OW, UW, AG, TG
 * Similar observations for in Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 
-A possible explanation is that in cattle farming areas BCV are often transmitted to humans/interact with endemic HCoVs such that the immune system is trained to fight betacoronaviruses. Increased infections with Betacoronaviruses could occur regularly or just once as a infant and possibly induce lifelong protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
+A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are often transmitted to humans and/or interact in some way with endemic HCoVs such that the immune system is trained to fight betacoronaviruses. Increased infections with Betacoronaviruses could occur regularly or just once as a infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
 
 That infections from coronaviruses can elicit immune protection (more precisely serum conversion) to other coronaviruses has been observed by [Dijkman, van der Hoek et al.](#vanderhoek12) as follows:
 * OC43 -protects-> HKU1 
@@ -166,8 +166,8 @@ If such a protection exists and if yes how it works remains to be determined. De
 The relevance and usage depends to a large extend on the [mechanisms of action](#mechanisms) and how much protection is provided. 
 Possible use cases are polyvalent:
 - knowing that people experience only mild symptoms and have reduced spreading of Sars-CoV-2 can be used to manage the current Covid-19 pandemic. Serum conversion occurence is relevant to in this respect. 
-- increase the immune response against Sars-Cov-2 or even provide paths for full immunisation, even a literal vaccine is thinkable (the long-term pathogenesis of BCVc should be reevaluated first)
-- Sars-CoV-2 infection could protect against OC43 or other BCV infections, which could be more harmful in the long run than Sars-CoV-2
+- increase the immune response against Sars-Cov-2 or even provide paths for full immunisation, even a literal vaccine is possible (the long-term pathogenesis of BCoVs should be reevaluated first)
+- Sars-CoV-2 infection could protect against OC43 or other BCoV infections, which could be more harmful in the long run than Sars-CoV-2
 
 
 ### next steps
