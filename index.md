@@ -25,7 +25,8 @@
 * [Public Suggestions](#public-advice) - 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Ideas to Explore](#ideas)
-    * [Prevent Early On Mucus Accumulations](#early-vents) - 
+	- [Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs](#litvac2)
+    	- [Prevent Early On Mucus Accumulations](#early-vents) - 
         Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
 * [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal) - Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
