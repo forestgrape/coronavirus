@@ -44,6 +44,7 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
+- 17.4.20 00:00 GMT Added section Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
@@ -67,7 +68,7 @@
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Do NOT take Covid-19 lightly: it can be serious in the short-term. Whether long-term effects can be caused is currently unknown, however not more likely than for other (corona)viruses causing common cold. But no reason to panic, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
+Do NOT take Covid-19 lightly: it can be serious in the short-term and whether long-term effects can be caused is currently unknown - however not more likely than for other (corona)viruses causing common cold. But no reason to panic, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
    
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
@@ -135,17 +136,18 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 <p id="ideas"> ---</p>
 
 # Ideas to Explore
+* [Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
 
 
 <p id="litvac2"> -----</p>
 
-## Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCVs
+## Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs
 [Note: this is work in progress]
 
 ### Introduction
-Many epidemiological observations for the Covid-19 spread - especially latitude preferences - are well explained by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air increases both the [airborne transmission](#model) and decreases the [mucus clearance](#clearance). Air pollution (-> [decreased mucus clearance](#clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
+Many epidemiological observations for the Covid-19 spread - especially latitude preferences - are well explained by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
 * in Switzerland not only the highest prevalence but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread, seem to be largely immune and having only a couple of deaths and few cases: LU, AI, AR, OW, UW, AG, TG
 * Similar observations for in Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 
@@ -194,8 +196,10 @@ In the following mechanism of actions are guessed.
 
 * Epigenetic adaption [ref on the way]
 * Antibodies against some well preserved proteins parts. 
+    - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
+        * HE
     - non extern proteins presented via MHC. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
-    - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. [in work]
+     [in work]
     
     
     
@@ -220,7 +224,7 @@ Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease 
 #### Causes for severe Outcome of Covid-19
 A main complication of a severe Covid-19 and possible death cause is acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
 
-#### Hypothesis 
+#### mucus hypothesis 
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucus clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 In the following evidence is shown for the reverse [cascade](#cascade-of-influences): 
