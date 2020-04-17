@@ -44,7 +44,7 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-- 17.4.20 00:00 GMT Added section Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs
+- 17.4.20 00:00 GMT Added section "Evidence for Increased Immune Protection against Sars-Cov-2 from exposure to BCoVs"
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
