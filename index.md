@@ -149,14 +149,15 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 
 ### Introduction
 Many epidemiological observations for the Covid-19 spread - especially latitude preferences - are well explained by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
-* in Switzerland not only the highest prevalence but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread, seem to be largely immune and having only a couple of deaths and few cases: LU, AI, AR, OW, UW, AG, TG
-* Similar observations for in Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
+* in Switzerland not only the highest prevalence but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG.
+* Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
+* Across the world no Covid-19 hotspot has been observed in regions with a lot of cattle farming. Teheran, Madrid, Mailand and New York are all well away from cattle farming regions. 
 
-A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are often transmitted to humans and/or interact in some way with endemic HCoVs such that the immune system is trained to fight betacoronaviruses. Increased infections with Betacoronaviruses could occur regularly or just once as a infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
+A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are often transmitted to humans and/or interact in some way with endemic HCoVs such that the immune system is trained to fight betacoronaviruses. Increased infections and the following build up of some form of resistance could occur regularly or just once as a infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
 
-That infections from coronaviruses can elicit immune protection (more precisely a serum conversion and it was observed unidirectional) to other coronaviruses has been observed by [Van der Hoek et al.](#vanderhoek2012) as follows:
-* OC43 -protects-> HKU1 
-* NL63 -protects-> 229E 
+That infections from coronaviruses can elicit immune protection (more precisely a serum conversion) to other coronaviruses has been observed by [Van der Hoek et al.](#vanderhoek2012) as follows:
+* OC43 -protects-> HKU1 (only unidirectional)
+* NL63 -protects-> 229E (only unidirectional)
 
 If a similar protection exists from BCoVs to Sars-CoV-2 and if yes how it works remains to be determined. Depending on the mechanism of action it could be [used in many ways](#relevance). 
 
@@ -165,7 +166,8 @@ If a similar protection exists from BCoVs to Sars-CoV-2 and if yes how it works 
 The relevance and usage depends to a large extend on the [mechanisms of action](#mechanisms) and how much protection is provided. 
 Possible use cases are polyvalent:
 - knowing that people experience only mild symptoms and have reduced spreading of Sars-CoV-2 can be used to manage the current Covid-19 pandemic. Serum conversion occurence is relevant to in this respect. 
-- increase the immune response against Sars-Cov-2 or even provide paths for full immunisation, even a literal vaccine is possible (the long-term pathogenesis of BCoVs should be reevaluated first)
+- increase the immune response against Sars-Cov-2 or even provide paths for full immunisation
+- even a literal vaccine is thinkable (the long-term pathogenesis of BCoVs should be reevaluated first)
 - Sars-CoV-2 infection could protect against OC43 or other BCoV infections, which could be more harmful in the long run than Sars-CoV-2
 
 
@@ -194,7 +196,7 @@ Similar patterns seem to be in the USA and France.
 ### mechanisms
 In the following mechanism of actions are guessed. 
 
-* Epigenetic adaption of alveloar macrophages [netea](#netea),[xing](#xing)
+* Epigenetic adaption of alveolar macrophages [netea](#netea),[xing](#xing)
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * HE
