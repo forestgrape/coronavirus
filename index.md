@@ -69,7 +69,7 @@
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Do NOT take Covid-19 lightly: it can be serious in the short-term and whether long-term effects can be caused is currently unknown - however not more likely than for other (corona)viruses causing common cold. But no reason to panic, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
+Do NOT take Covid-19 lightly: it can be serious in the short-term and whether and if yes what long-term effects can be caused is unknown - however such effects are not more likely than for other (corona)viruses causing common colds. No reason to panic from viruses, unlike viruses we've got a mind, better communication and a superb body police called immune system. Time to act mindfully and work together.  
    
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
@@ -154,12 +154,11 @@ Many epidemiological observations for the Covid-19 spread - especially latitude 
 
 A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are often transmitted to humans and/or interact in some way with endemic HCoVs such that the immune system is trained to fight betacoronaviruses. Increased infections with Betacoronaviruses could occur regularly or just once as a infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
 
-That infections from coronaviruses can elicit immune protection (more precisely serum conversion) to other coronaviruses has been observed by [Dijkman, van der Hoek et al.](#vanderhoek12) as follows:
+That infections from coronaviruses can elicit immune protection (more precisely a serum conversion and it was observed unidirectional) to other coronaviruses has been observed by [Van der Hoek et al.](#vanderhoek2012) as follows:
 * OC43 -protects-> HKU1 
-* NL63 -protects-> 229E
-The protection was observed only unidirectional.  
+* NL63 -protects-> 229E 
 
-If such a protection exists and if yes how it works remains to be determined. Depending on the mechanism of action it could be [used in many ways](#relevance). 
+If a similar protection exists from BCoVs to Sars-CoV-2 and if yes how it works remains to be determined. Depending on the mechanism of action it could be [used in many ways](#relevance). 
 
 
 ### relevance 
@@ -195,7 +194,7 @@ Similar patterns seem to be in the USA and France.
 ### mechanisms
 In the following mechanism of actions are guessed. 
 
-* Epigenetic adaption [ref on the way]
+* Epigenetic adaption of alveloar macrophages [netea](#netea),[xing](#xing)
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * HE
@@ -878,7 +877,10 @@ TODO UPDATE REFERENCES
 	April 16, 2020 a 2020 Elsevier Inc.
 	https://doi.org/10.1016/j.cell.2020.02.052
 
-
+* ##### vanderhoek2012
+    Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012). 
+    **The dominance of human coronavirus OC43 and NL63 infections in infants.** 
+    Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. https://doi.org/10.1016/j.jcv.2011.11.011
 
 ### Expression Locations of ACE2
 
@@ -942,42 +944,19 @@ TODO UPDATE REFERENCES
 
 * ##### myatt
     Myatt, T. A., Kaufman, M. H., Allen, J. G., MacIntosh, D. L., Fabian, M. P., & McDevitt, J. J. (2010).<strong> Modeling the airborne survival of influenza virus in a residential setting: the impacts of home humidification.</strong> Environmental health : a global access science source, 9, 55. https://doi.org/10.1186/1476-069X-9-55
+    
+    
+### Immune System (in the Respiratory Tract)
 
-
-### Droplet and Aerosol Transformations
-
-* ##### marawska06
-    Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
+* ##### xing
+    Yushi Yao, Mangalakumari Jeyanathan, Siamak Haddadi, Nicole G. Barra, Maryam Vaseghi-Shanjani, Daniela Damjanovic, Rocky Lai, Sam Afkhami, Yonghong Chen, Anna Dvorkin-Gheva, Clinton S. Robbins, Jonathan D. Schertzer, Zhou Xing,
+    **Induction of Autonomous Memory Alveolar Macrophages Requires T Cell Help and Is Critical to Trained Immunity,**
+    Cell, Volume 175, Issue 6,2018,Pages 1634-1650.e17,ISSN 0092-8674, https://doi.org/10.1016/j.cell.2018.09.042. (http://www.sciencedirect.com/science/article/pii/S0092867418312546)
+    
+    
+* ##### netea
+    Netea MG, Joosten LAB. **Trained Immunity and Local Innate Immune Memory in the Lung.** Cell. 2018;175(6):1463–1465. https://doi.org/10.1016/j.cell.2018.11.007
  
- 
-
-### Exhaled Breath Condensate and Virus Shedding
-
-* ##### milton2018
-    Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
-    <strong> Aerosol shedding of infectious influenza virus</strong>
-    Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
-    
-* ##### milton2013
-Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). <strong>Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.</strong> PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
-    
-* ##### morawska
-    Johnson, Graham & Morawska, Lidia & Ristovski, Zoran & Hargreaves, M. & Mengersen, K. & Chao, Christopher & Wan, Man-Pun & Li, Yuguo & Xie, Xiaojian & Katoshevski, David & Corbett, Shay. (2011). Modality of human expired aerosol size distributions. Journal of Aerosol Science - J AEROSOL SCI. 42. 839-851. https://doi.org/10.1016/j.jaerosci.2011.07.009. 
-    
-* ##### olin 
-    Bake, B., Larsson, P., Ljungkvist, G. et al. Exhaled particles and small airways. Respir Res 20, 8 (2019). https://doi.org/10.1186/s12931-019-0970-9
-    
-* ##### larsson
-    Per Larsson, Björn Bake, Anita Wallin, Oscar Hammar, Ann-Charlotte Almstrand, Mona Lärstad, Evert Ljungström, Ekaterina Mirgorodskaya, Anna-Carin Olin,
-    <strong>The effect of exhalation flow on endogenous particle emission and phospholipid composition</strong>, Respiratory Physiology & Neurobiology,Volume 243,2017,Pages 39-46,ISSN 1569-9048,     https://doi.org/10.1016/j.resp.2017.05.003
-
-* ##### fabian
-    Patricia Fabian, Sc.D.,1 Joseph Brain, S.D.,1 E. Andres Houseman, Sc.D.,2 James Gern, M.D.,3 and Donald K. Milton, M.D., Dr.PH.1,4
-    <strong>Origin of Exhaled Breath Particles from Healthy and Human Rhinovirus Infected Subjects</strong>
-    JOURNAL OF AEROSOL MEDICINE AND PULMONARY DRUG DELIVERY Volume 24, Number 3, 2011 a Mary Ann Liebert, Inc. Pp. 137–147 https://doi.org/10.1089/jamp.2010.0815
-    
-* ##### lindstedt
-    Broberg E, Andreasson J, Fakhro M, et al. <strong>Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.</strong> ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019]. 
         
     
 ### Clearance of the Respiratory Tract
@@ -1014,6 +993,7 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     Wolff, R. (1986). 
     **Effects of Airborne Pollutants on Mucociliary Clearance.** 
     Environmental Health Perspectives, 66, 223-237. doi:10.2307/3430237
+    
     
 
 
@@ -1108,6 +1088,40 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 	Jonas K. F. Jakobsson, Johan Hedlund, John Kumlin, Per Wollmer & Jakob Löndahl
 	Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
 	https://doi.org/10.1186/s12989-017-0190-8
+    
+
+ 
+
+### Exhaled Breath Condensate and Virus Shedding
+
+* ##### marawska06
+    Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
+
+* ##### milton2018
+    Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
+    <strong> Aerosol shedding of infectious influenza virus</strong>
+    Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
+    
+* ##### milton2013
+Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). <strong>Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.</strong> PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
+    
+* ##### morawska
+    Johnson, Graham & Morawska, Lidia & Ristovski, Zoran & Hargreaves, M. & Mengersen, K. & Chao, Christopher & Wan, Man-Pun & Li, Yuguo & Xie, Xiaojian & Katoshevski, David & Corbett, Shay. (2011). Modality of human expired aerosol size distributions. Journal of Aerosol Science - J AEROSOL SCI. 42. 839-851. https://doi.org/10.1016/j.jaerosci.2011.07.009. 
+    
+* ##### olin 
+    Bake, B., Larsson, P., Ljungkvist, G. et al. Exhaled particles and small airways. Respir Res 20, 8 (2019). https://doi.org/10.1186/s12931-019-0970-9
+    
+* ##### larsson
+    Per Larsson, Björn Bake, Anita Wallin, Oscar Hammar, Ann-Charlotte Almstrand, Mona Lärstad, Evert Ljungström, Ekaterina Mirgorodskaya, Anna-Carin Olin,
+    <strong>The effect of exhalation flow on endogenous particle emission and phospholipid composition</strong>, Respiratory Physiology & Neurobiology,Volume 243,2017,Pages 39-46,ISSN 1569-9048,     https://doi.org/10.1016/j.resp.2017.05.003
+
+* ##### fabian
+    Patricia Fabian, Sc.D.,1 Joseph Brain, S.D.,1 E. Andres Houseman, Sc.D.,2 James Gern, M.D.,3 and Donald K. Milton, M.D., Dr.PH.1,4
+    <strong>Origin of Exhaled Breath Particles from Healthy and Human Rhinovirus Infected Subjects</strong>
+    JOURNAL OF AEROSOL MEDICINE AND PULMONARY DRUG DELIVERY Volume 24, Number 3, 2011 a Mary Ann Liebert, Inc. Pp. 137–147 https://doi.org/10.1089/jamp.2010.0815
+    
+* ##### lindstedt
+    Broberg E, Andreasson J, Fakhro M, et al. <strong>Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.</strong> ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019].
     
        
     
