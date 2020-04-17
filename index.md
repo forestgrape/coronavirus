@@ -403,7 +403,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 #### death rates
 
-* Generally fewer deaths indicating a lower death-rate in humid air countries. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and they try to test all that could be infected. 
+* Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and do widespread testing. 
     - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
     - __Remark__: Mucus clearance may not be the only reason for lower death rates in humide air, but also that [Dry Form Infection](#abstract) is less likely and therefore Covid-19 starts more in the trachea than in the alveolis. 
 
@@ -412,9 +412,9 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 #### data specifications
 
 For scientific analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
-The different data measurement methods related to Covid-19 combined with no or few specifications, have a lot of space for improvement all around the world. 
+The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
 
-E.g. In Switzerland the testing policy is to test only people who are sick _and_ belong to a risk group. However this is hard to find on the official page bag.admin.ch (hidden in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are still analysable and important but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
+E.g. In Switzerland the testing policy is to test only people who are sick _and_ belong to a risk group. However this is hard to find on the official page (bag.admin.ch, hidden in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are still analysable and important but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
 
 
 <p id="proposal">-------</p>
