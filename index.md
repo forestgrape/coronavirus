@@ -14,7 +14,7 @@
 
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 
-* Pointing out mistakes and feedback are __welcome__.
+* Pointing out mistakes of any form, __improvement suggestions__ and __feedback__ are __welcome__.
 <!-- * The page is soon going to be split up into different topics. -->
 
 <p id="t-content">-----</p> <!-- workaround to set ids, since github preview/jupyter keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
@@ -26,12 +26,12 @@
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Covid-19](#covid)
 * [Ideas to Explore](#ideas)
-	- [Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs](#litvac2)
+	- [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
     - [Data Availability](#data) Public availability of well specified and finegrained data.
-* [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal) <br> 
-    Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
+* [Transmission Models for Sars-CoV-2 and a new Dry Form Transmission Model](#proposal) <br> 
+    Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
     - [Model](#model)
     - [Intermezzo Particle Dynamics in the Respiratory Tract](#particles)
@@ -48,7 +48,7 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-- 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs
+- 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
@@ -61,7 +61,7 @@
 #### Minor Updates 
 - 18.4. Added section data availability
 - 10-15.4.20: Many formulations especially in Public Advice and in Prevent Early on Mucus Accumulations
-- 10.4.20 Added section Habitat of Betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
+- 10.4.20 Added section Habitat of betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
 - 9.4.20 Started section Covid-19
 - 5.4.20 Clarified Early On Ventilators section and added more ref
 - 4.4.20 Updated section evidence from spread patterns (Cruise Ship)
@@ -78,7 +78,7 @@ Do NOT take Covid-19 lightly: it can be serious in the short-term and whether lo
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling , would correspond to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
 - Wear a mask in indoor places where infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important since the infection risk increases with the amount of indoor air breathed.
-   Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-Cov-1).  From time to time it should changed or washed thoroughly - there's more than Sars-Cov-2, don't forget that!
+   Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-CoV-1).  From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, don't forget that!
 
 - Distancing reduces infection risk.  If possible avoid crowded indoor spaces. 
     
@@ -89,28 +89,28 @@ Do NOT take Covid-19 lightly: it can be serious in the short-term and whether lo
 - Transport: 
     * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. 
     * Public transport:
-         * Limit usage and/or wear a mask to reduce infection paths. 
+         * Wear a mask and/or limit usage to reduce infection paths. 
          * Ventilation is key in public transport. If possible open the windows from time to time, this works well thanks to the outside airflow. Put ventilation on max, turn off in tunnels and never put on circulation. 
-         * If there are old toilets, that go to the rails, don't use to shit!
+         * If there are old toilets, that go to the rails, do _not_ use to shit!
 
 - Don't have very dry air inside; drying frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defence of the respiratory tract against pathogens. 
 
 - Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. 
   Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
-   * it is known that viruses causing common cold are transmitted through droplets. These viruses can weaken the immune system [[kikkert](#kikkert)] and therefore could induce an increased infection risk. 
-   * avoiding a common cold or flu is important, because Covid-19 symptoms can be somewhat similar. This could mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms and wearing a mask in high prelevance regions (or possibly even a few days of quarantine in low prelevance regions where contact tracing may be an option).   
+   * it is known that viruses causing common cold can be transmitted through droplets. Viruses often try to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk. 
+   * avoiding a common cold or flu is important, because Covid-19 symptoms can be somewhat similar. This could mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.   
   But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets or fomites. 
   
-
-- Observe your body, write down the observations and if possible measure: Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-Cov-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). The temperature if measured on the forehead may go from a typical 35 to 36 degrees. Side note: It's time [for medicine] to move on from digitalization and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
-    The more common Covid-19 in a region is, the more likely it is an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern Italy - Covid-19 is/was the most prevalent disease. 
+  
+- Observe your body, write down the observations and if possible measure: Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-Cov-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). The temperature if measured on the forehead may go from a typical 35 to 36 degrees. Side note: It's time [for medicine] to move on from digitalisation and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
+    The more common Covid-19 in a region is, the more likely it is an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern-Italy - Covid-19 is/was the most prevalent disease. 
 
 - Live a healthy lifestyle 
-    * sleep enough, eat healthily, relax and do some sport
-    
+    * sleep enough, eat healthily, relax and do some sport 
     and avoid anything that weakens the immune system:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
+    * avoid having cold or freezing for a longer period. For this reason, in cold climates don't open the windows permanentely. 
     * try reducing stress for yourself and others. Trying too hard won't help though. 
     
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
@@ -122,7 +122,7 @@ Do NOT take Covid-19 lightly: it can be serious in the short-term and whether lo
 
 ### public description
 __Remark__: The description given below agrees with the expected pathogenesis of mild cases. However to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
-> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5/36.5 from my normal 34.5/35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Later on, a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19.
+> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5/36.5 from my normal 34.5/35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Some days later, a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses opportunity to spread within the lungs. 
 
 
 Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (not necessarily a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; so take special care to the immune system). If most of the symptoms are observed in the described order it is likely Covid-19.
@@ -141,14 +141,14 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 <p id="ideas"> ---</p>
 
 # Ideas to Explore
-* [Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs](#litvac2)
+* [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
 
 
 <p id="litvac2"> -----</p>
 
-## Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs
+## Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 [Note: this is work in progress]
 
 ### Introduction
@@ -157,7 +157,7 @@ Many epidemiological observations for the Covid-19 spread - especially latitude 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 * Across the world no Covid-19 hotspot has been observed in regions with a lot of cattle farming. Teheran, Madrid, Mailand and New York are all well away from cattle farming regions. 
 
-A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are often transmitted to humans and/or interact in some way with endemic HCoVs such that the immune system is trained to fight betacoronaviruses. Increased infections and the following build up of some form of resistance could occur regularly or just once as a infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
+A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are often transmitted to humans and/or interact in some way with endemic HCoVs such that the immune system is trained to fight Betacoronaviruses. Increased infections and the following build up of some form of resistance could occur regularly or just once as an infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
 
 That infections from coronaviruses can elicit immune protection (more precisely a serum conversion) to other coronaviruses has been observed by [Van der Hoek et al.](#vanderhoek2012) as follows:
 * OC43 -protects-> HKU1 (only unidirectional)
@@ -169,8 +169,8 @@ If a similar protection exists from BCoVs to Sars-CoV-2 and if yes how it works 
 ### relevance 
 The relevance and usage depends to a large extend on the [mechanisms of action](#mechanisms) and how much protection is provided. 
 Possible use cases are polyvalent:
-- knowing that people experience only mild symptoms and have reduced spreading of Sars-CoV-2 can be used to manage the current Covid-19 pandemic. Serum conversion occurence is relevant to in this respect. 
-- increase the immune response against Sars-Cov-2 or even provide paths for full immunisation
+- knowing that people experience only mild symptoms and have reduced spreading of Sars-CoV-2 can be used to manage the current Covid-19 pandemic. Serum conversion occurrence is relevant in this respect. 
+- increase the immune response against Sars-CoV-2 or even provide paths for full immunisation
 - even a literal vaccine is thinkable (the long-term pathogenesis of BCoVs should be reevaluated first)
 - Sars-CoV-2 infection could protect against OC43 or other BCoV infections, which could be more harmful in the long run than Sars-CoV-2
 
@@ -185,7 +185,9 @@ Possible use cases are polyvalent:
 In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform, testing results are used too beside death counts. 
 
 #### Covid-19 in Switzerland
-Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  In areas where cattle farming is prevalent (ZH, AG, LU, AI, SG, FR, NE, VS, BE, FR, JU etc.) the number of deaths per 100K is about 6 in median and 8 in average. Contrary to areas where cattle are less common (TI, GE, BS) or the cities (VD, Lausanne is surrounded by vineyards) are fare away from cattle farming places, the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
+Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
+* In areas where cattle farming is prevalent (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.) the number of deaths per 100K is about 6 in median and 8 in average. Contrary to areas where cattle are less common (TI, GE, BS) or the cities (VD, Lausanne is surrounded by vineyards) are fare away from cattle farming places, the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
+
 The same patterns are observed when considering only cantons with large cities or when considering only uniform language regions: Areas with a lot of cattle farming have lower death rates (both per positive tested cases and per capita):
 * JU, FR, NE and VS have  lower death rates both per cases and per population than GE and VD in the French part.
 * SG, LU, ZH, AG have lower rates than BS for the German part.
@@ -205,6 +207,8 @@ In the following mechanism of actions are guessed.
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * HE
+	* N
+	* S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
      [in work]
      
