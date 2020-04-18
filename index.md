@@ -22,13 +22,16 @@
 ## Content
 
 * [Updates](#updates)
-* [Public Suggestions](#public-advice) - 
+* [Public Suggestions](#public-advice) <br> 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
+* [Covid-19](#covid)
 * [Ideas to Explore](#ideas)
 	- [Evidence for Increased Immune Protection against Sars-Cov-2 from Exposure to BCoVs](#litvac2)
-    - [Prevent Early On Mucus Accumulations](#early-vents) - 
-        Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
-* [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal) - Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
+    - [Prevent Early On Mucus Accumulations](#early-vents) <br>
+    Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
+    - [Data Availability](#data) Public availability of well specified and finegrained data.
+* [Transmission Models for Sars-Cov-2 and a new Dry Form Transmission Model](#proposal) <br> 
+    Sars-Cov-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
     - [Model](#model)
     - [Intermezzo Particle Dynamics in the Respiratory Tract](#particles)
@@ -56,6 +59,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends the overall drive for adaption, which isn't straight forward to say since migration routes have twists and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
+- 18.4. Added section data availability
 - 10-15.4.20: Many formulations especially in Public Advice and in Prevent Early on Mucus Accumulations
 - 10.4.20 Added section Habitat of Betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
 - 9.4.20 Started section Covid-19
@@ -203,8 +207,7 @@ In the following mechanism of actions are guessed.
         * HE
     - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
      [in work]
-    
-    
+     
     
     
 
@@ -401,20 +404,35 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 
 
-#### death rates
+#### humidity related death rates
 
-* Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and do widespread testing. 
+* Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and do widespread testing ([data specifications](#data specifications)). 
     - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
     - __Remark__: Mucus clearance may not be the only reason for lower death rates in humide air, but also that [Dry Form Infection](#abstract) is less likely and therefore Covid-19 starts more in the trachea than in the alveolis. 
 
-* In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news the deaths published in Wuhan were the confirmed ones in hospitals, this data is consistent.
+* In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals. This data is consistent and even preferred to analyse to impact of humidity ([data specifications](#data specifications)). 
+
+
+<p id="data"> ---</p>
+    
+## Data Availability
+
+* data can be transferred extremly well today
+* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. the ones which distract most. They may welcome the distraction to analyze Covid data. 
 
 #### data specifications
 
 For scientific analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
 
-E.g. In Switzerland the testing policy is to test only people who are sick _and_ belong to a risk group. However this is hard to find on the official page (bag.admin.ch, hidden in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are still analysable and important but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. However this is hard to find on the official page (bag.admin.ch, hidden in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are still analysable and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
+
+#### data features
+* For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
+* Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
+
+#### machine readable
+Data are ideally machine readable (e.g. csv) on a public api (e.g. github repository), annotated and contain a readme with the specifications what and how is measured. 
 
 
 <p id="proposal">-------</p>
