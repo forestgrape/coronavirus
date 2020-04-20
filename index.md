@@ -59,6 +59,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
+- 20.4.20 Section cross protections: Human infection by BCoVs has been observed.
 - 18.4. Added section data availability
 - 10-15.4.20: Many formulations especially in Public Advice and in Prevent Early on Mucus Accumulations
 - 10.4.20 Added section Habitat of betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
