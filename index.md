@@ -73,7 +73,10 @@
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Do NOT take Covid-19 lightly: it can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. But no reason to panic, unlike viruses we've got a mind, better communication and a superb body police called immune system and viruses may even support us to evolve. Time to act mindfully and work together.  
+Do NOT take Covid-19 lightly: it can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. But no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
+
+Time to act mindfully and work together in an open and honest way. 
+
    
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling , likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
@@ -122,10 +125,10 @@ Do NOT take Covid-19 lightly: it can be serious in the short-term and whether lo
 
 ### public description
 __Remark__: The description given below agrees with the expected pathogenesis of mild cases. However to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
-> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5/36.5 from my normal 34.5/35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Some days later, a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses space and time to spread within the lungs. Noteworthy too: before the first symptoms,  I had a long day and a bad sleep in the night so the immune system likely not had enough opportunity to control the viruses. 
+> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5/36.5 from my normal 34.5/35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses opportunity to spread within the lungs. Noteworthy too: before the first symptoms,  I had a long day and a bad sleep, so the immune system likely not had enough time and resources to control the viruses. 
 
 
-Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both early (not necessarily a bad sign because it means viruses are cleared down the alimentary) and later (not so good because viruses went into the blood and infected the intestine; so take special care to the immune system). If most of the symptoms are observed in the described order it is likely Covid-19.
+Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both start early and later on and usually outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is likely Covid-19.
 
 ### symptoms
 [in work]
@@ -157,13 +160,16 @@ Many epidemiological observations for the Covid-19 spread - especially latitude 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 * Across the world no Covid-19 hotspot has been observed in regions with a lot of cattle farming. Teheran, Madrid, Mailand and New York are all well away from cattle farming regions. 
 
-A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are often transmitted to humans and/or interact in some way with endemic HCoVs such that the immune system is trained to fight Betacoronaviruses. Increased infections and the following build up of some form of resistance could occur regularly or just once as an infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people experience no (asymptomatic) or only few symptoms.
+A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are transmitted to humans such that the immune system is trained to fight Betacoronaviruses. Increased infections and the following build up of some form of resistance could occur regularly or just once as an infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people notice no or only few symptoms.
 
-That infections from coronaviruses can elicit immune protection (more precisely a serum conversion) to other coronaviruses has been observed by [Van der Hoek et al.](#vanderhoek2012) as follows:
-* OC43 -protects-> HKU1 (only unidirectional)
-* NL63 -protects-> 229E (only unidirectional)
+The hypothesis above is possible in theory by the following observations (described in more detail in [biological basis](#biological-basis)):
+* coronavirus infections in humans can elicit immune protection (more precisely a serum conversion) to other coronaviruses, has been observed by Van der Hoek et al. as follows:   
+    - OC43 -protects-> HKU1 (only unidirectional)
+    - NL63 -protects-> 229E (only unidirectional)
+    
+* A bovine coronavirus strain, namely HECV-4408,  was isolated from a child suffering pneunomia as described in [Zhang et al](#zhang94)
 
-If a similar protection exists from BCoVs to Sars-CoV-2 and if yes how it works remains to be determined. Depending on the mechanism of action it could be [used in many ways](#relevance). 
+If a cross protection between BCoVs and Sars-CoV-2 exists and if yes how it works remains to be determined. Depending on the mechanism of action it could be used in many ways.
 
 
 ### relevance 
@@ -179,6 +185,7 @@ Possible use cases are polyvalent:
 * Analyse spread patterns in other countries: USA, France, ...
 * Widespread serology for HCoVs and do statistics if there's a relation to pathogenesis of Covid-19 . 
 * Analyse birth and grow up locations of elderly Covid-19 patients.
+* figuring out wheter BCoVs can interact with HCoVs. This could yield new strains with possibly more severe pathogenesis. 
 
 
 ### Evidence from Distribution of Covid-19 
@@ -199,11 +206,29 @@ The cattle rich regions in the North and North East: Galicia, La Rioja, Basque C
 #### Remark
 Similar patterns seem to be in the USA and France. 
 
+### biological basis
+First observations of cross immune protections are described. Then species jumps of betacoronaviruses are described and even jumps from BCoV to humans have been observed. 
+[in work]
+
+#### observed cross immune protections between different coronaviruses
+* As already noted in the introduction  [Van der Hoek et al.](#vanderhoek2012) observed by analysing serum conversions:
+    - OC43 -protects-> HKU1 (only unidirectional)
+    - NL63 -protects-> 229E (only unidirectional)
+    
+* [Han et al](#han) showed that calves innoculated with HECV-4408get cross-protective immunity against BCoV DB2. HECV-4408 is a strain that can cause acute diarrhea in humans, see [human bcov infections](#human-bcov-infections)
+
+#### species jumps
+[in. work]
+
+
+##### human bcov infections
+* The HECV-4408 coronavirus was isolated from a child suffering pneunomia in 94 as described in [Zhang et al]
+
 
 ### mechanisms
 In the following mechanism of actions are guessed. 
 
-* Epigenetic adaption of alveolar macrophages [netea](#netea),[xing](#xing)
+* Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * HE
@@ -259,8 +284,8 @@ For the widespread viral load distribution in the lower respiratory tract, possi
 Overall there isn't strong evidence for increased growth of viruses in ARDS risk group:
 
 - data suggest no strong correlation between a diminished immune system and severe Covid-19 (see e.g. [zhong](#zhong))
-- patients with ADRS seem not to have especially low antibody levels as results obtained by [To, Tsang et al.](#to-tsang) indicate. 
-- data by [To, Tsang et al.](#to-tsang),[Yuen et al.](#yuen) suggest that early high viral loads are no clear indication for developing an ARDS.
+- patients with ADRS seem not to have especially low antibody levels as results obtained by [To, Tsang et al.](#to_tsang) indicate. 
+- data by [To, Tsang et al.](#to_tsang),[Yuen et al.](#yuen) suggest that early high viral loads are no clear indication for developing an ARDS.
 - in young people the cell machinery tends to be more performant. So in theory viruses could spread more quickly. 
 
 <!--todo: immune reaction -->
@@ -429,14 +454,14 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 For scientific analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
 
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. However this is hard to find on the official page (bag.admin.ch, hidden in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are still analysable and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page (bag.admin.ch, hidden in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, is missing the note about this testing scheme. The data are analysable (since mostly consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
 
 #### data features
 * For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
 * Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
 
 #### machine readable
-Data are ideally machine readable (e.g. csv) on a public api (e.g. github repository), annotated and contain a readme with the specifications what and how is measured. 
+Data are ideally have a common used format (e.g. csv) on a public api (e.g. github repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
 
 
 <p id="proposal">-------</p>
@@ -867,14 +892,31 @@ TODO UPDATE REFERENCES
     **Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome**
     The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
      
-* ##### to-tsang
+* ##### to_tsang
     Kelvin Kai-Wang To*, Owen Tak-Yin Tsang*, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng, Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen 
     **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
     Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
 
+
+### Coronavirus General
+
+* ##### vanderhoek2012
+    Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012). 
+    **The dominance of human coronavirus OC43 and NL63 infections in infants.** 
+    Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. https://doi.org/10.1016/j.jcv.2011.11.011
     
+* ##### han2006
+
+
+* ##### saif2010
+
+* ##### zhang1994
+    Zhang, X.M., Herbst, W., Kousoulas, K.G. and Storz, J. (1994), 
+    **Biological and genetic characterization of a hemagglutinating coronavirus isolated from a diarrhoeic child.**
+    J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
+
     
-### Biology of Coronaviruses 
+### Cell Entry
 
 * ##### jiang
 	Keiji Kuba , Yumiko Imai, Shuan Rao, Hong Gao, Feng Guo, Bin Guan, Yi Huan, Peng Yang,
@@ -908,11 +950,8 @@ TODO UPDATE REFERENCES
 	Hoffmann et al., 2020, Cell 181, 1–10
 	April 16, 2020 a 2020 Elsevier Inc.
 	https://doi.org/10.1016/j.cell.2020.02.052
-
-* ##### vanderhoek2012
-    Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012). 
-    **The dominance of human coronavirus OC43 and NL63 infections in infants.** 
-    Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. https://doi.org/10.1016/j.jcv.2011.11.011
+    
+    
 
 ### Expression Locations of ACE2
 
@@ -947,6 +986,12 @@ TODO UPDATE REFERENCES
     
 * ##### lin
     LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection. Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054   
+    
+    
+* ##### zhang94
+    Zhang, X.M., Herbst, W., Kousoulas, K.G. and Storz, J. (1994), 
+    **Biological and genetic characterization of a hemagglutinating coronavirus isolated from a diarrhoeic child.**
+    J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
        
   
   
