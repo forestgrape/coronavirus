@@ -25,7 +25,7 @@
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
     - [Data Availability](#data) Public availability of well specified and finegrained data.
-* [Transmission of Sars-CoV-2 and a new Dry Form Transmission](#transmission-models) <br> 
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](#transmission-models) <br> 
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
     - [Model](#model)
@@ -193,8 +193,10 @@ Incidence rates both of cases and deaths varies a lot between the different regi
 * In areas where cattle farming is prevalent, which is most of Switzerland due to a protected market and high subventions (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), the number of deaths per 100K is about 6 in median and 8 in average. Contrary to areas where cattle are less common (GE, BS, TI, TI has a few cattle farming but mostly close to the mountains and away from the cities, the largest city Lugano is surrounded by the Lago di Lugano and forests) or in VD the cities are fare away from cattle farming places (Lausanne is surrounded mainly by vineyards and forests in the North and Lac Lemon in the South), the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
 
 The same patterns are observed when considering only cantons with large cities or when considering only uniform language regions: Areas with a lot of cattle farming have lower death rates (both per positive tested cases and per capita):
-* JU, FR, NE and VS have  lower death rates both per cases and per population than GE and VD in the French part.
-* SG, LU, ZH, AG have lower rates than BS for the German part.
+* Urbanized Areas: ZH, ZG have a lower rates GE, BS
+* French Speaking Region: JU, FR, NE and VS have  lower rates both per cases and per population than GE and VD.
+* German Speaking Region: TG, AI, SG, LU, AG have lower rates than BS.
+
 
 #### Covid-19 in Spain
 As in Switzerland the same pattern is observed in Spain:
@@ -448,10 +450,10 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 #### data specifications
 
-For scientific analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
+For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
 
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page (bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect, overall the BAG does a good and solid job. Perfection is more often than not a matter of viewpoint anyways. 
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect,  the Swiss BAG does overall a good job. Perfection is, more often than not, a matter of viewpoint anyways. 
 
 #### data features
 * For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
@@ -463,7 +465,7 @@ Data are ideally have a common used format (e.g. csv) on a public api (e.g. gith
 
 <p id="transmission-models">-------</p>
 
-# Transmission of Sars-CoV-2 and a new Dry Form Transmission 
+# Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission 
 
 <p id="abstract">-----</p>
 
