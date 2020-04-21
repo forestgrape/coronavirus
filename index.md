@@ -2,18 +2,13 @@
 
 ## Note
 * This page is hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)<br> and is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview
-
 * This is work in progress, so mistakes of any form are likely. 
-
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
-
 * These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas to be checked and evaluated. 
 
 <!--
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences is helpful. -->
-
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
-
 * Pointing out mistakes of any form, __improvement suggestions__ and __feedback__ are __welcome__.
 <!-- * The page is soon going to be split up into different topics. -->
 
@@ -30,7 +25,7 @@
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
     - [Data Availability](#data) Public availability of well specified and finegrained data.
-* [Transmission Models for Sars-CoV-2 and a new Dry Form Transmission Model](#proposal) <br> 
+* [Transmission of Sars-CoV-2 and a new Dry Form Transmission](#transmission-models) <br> 
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
     - [Model](#model)
@@ -126,7 +121,7 @@ Time to act mindfully and work together in an open and honest way.
 
 ### public description
 __Remark__: The description given below agrees with the expected pathogenesis of mild cases. However to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
-> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5/36.5 from my normal 34.5/35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses opportunity to spread within the lungs. Noteworthy too: before the first symptoms,  I had a long day and a bad sleep, so the immune system likely not had enough time and resources to control the viruses. 
+> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
 
 
 Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both start early and later on and usually outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is likely Covid-19.
@@ -157,18 +152,18 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 
 ### Introduction
 Many epidemiological observations for the Covid-19 spread - especially latitude preferences - are well explained by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
-* in Switzerland not only the highest prevalence but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG.
+* in Switzerland not only the highest prevalence but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
-* Across the world no Covid-19 hotspot has been observed in regions with a lot of cattle farming. Teheran, Madrid, Mailand and New York are all well away from cattle farming regions. 
+* Across the world no Covid-19 hotspot has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
 
-A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are transmitted to humans such that the immune system is trained to fight Betacoronaviruses. Increased infections and the following build up of some form of resistance could occur regularly or just once as an infant and possibly induce lifelong increased protection. Such an immune protection could explain why some people notice no or only few symptoms.
+A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are transmitted to humans such that the immune system is trained to fight Betacoronaviruses. Transmissions and the induced build up of some form of resistance could occur regularly or just once as an infant and possibly yield lifelong increased protection. Such an immune protection could explain why some people notice no or only few symptoms. Notworthy seniors sometimes remain mostly asymptomatic or experience severe symptoms. 
 
 The hypothesis above is possible in theory by the following observations (described in more detail in [biological basis](#biological-basis)):
 * coronavirus infections in humans can elicit immune protection (more precisely a serum conversion) to other coronaviruses, has been observed by Van der Hoek et al. as follows:   
     - OC43 -protects-> HKU1 (only unidirectional)
     - NL63 -protects-> 229E (only unidirectional)
     
-* A bovine coronavirus strain, namely HECV-4408,  was isolated from a child suffering pneunomia as described in [Zhang et al](#zhang94)
+* A bovine coronavirus strain, namely HECV-4408,  was isolated from a child suffering pneunomia by [Zhang et al](#zhang94).
 
 If a cross protection between BCoVs and Sars-CoV-2 exists and if yes how it works remains to be determined. Depending on the mechanism of action it could be used in many ways.
 
@@ -191,6 +186,7 @@ Possible use cases are polyvalent:
 
 ### Evidence from Distribution of Covid-19 
 In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform, testing results are used too beside death counts. 
+[data wikipedia][in work]
 
 #### Covid-19 in Switzerland
 Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
@@ -233,9 +229,9 @@ In the following mechanism of actions are guessed.
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * HE
-	* N
-	* S1
+        * S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
+        * N
      [in work]
      
     
@@ -455,7 +451,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 For scientific analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
 
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page (bag.admin.ch, hidden in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, is missing the note about this testing scheme. The data are analysable (since mostly consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page (bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect, overall the BAG does a good and solid job. Perfection is more often than not a matter of viewpoint anyways. 
 
 #### data features
 * For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
@@ -465,10 +461,9 @@ E.g. In Switzerland the testing policy, which is mostly followed, is to test onl
 Data are ideally have a common used format (e.g. csv) on a public api (e.g. github repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
 
 
-<p id="proposal">-------</p>
+<p id="transmission-models">-------</p>
 
-# Proposal of a Dry Form Transmission Model
-
+# Transmission of Sars-CoV-2 and a new Dry Form Transmission 
 
 <p id="abstract">-----</p>
 
@@ -496,7 +491,7 @@ Based on these findings, recommendations for containing the 2020 spread of Sars-
 
 <p id="model">-----</p>
 
-## Model for Transmission
+## Models for Transmission
 
 In the following, a model of dry form transmission of Sars-Cov-1 and Sars-Cov-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the [obligate lower respiratory tract entry](#habitat) for Sars-Cov-2. 
 
