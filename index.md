@@ -446,14 +446,14 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 ## Data Availability
 
 * data can be transferred extremly well today
-* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. the ones which distract most. They may welcome the distraction to analyze Covid data. 
+* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. 
 
 #### data specifications
 
 For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
 
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect,  the Swiss BAG does overall a good job. Perfection is, more often than not, a matter of viewpoint anyways. 
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect, the BAG does overall a good job. Perfection is often a matter of viewpoint and angle anyways. 
 
 #### data features
 * For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
