@@ -230,7 +230,6 @@ In the following mechanism of actions are guessed.
 * Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
-        * HE
         * S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
         * N
@@ -445,21 +444,24 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
     
 ## Data Availability
 
-* data can be transferred extremly well today
-* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. 
+Data producers, data describors and data analysers can be separate today. Remark: People having separate roles in different locations has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. Today this can be done faster and in cooperation, thanks to modern communication technologies. 
+The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
+
+<!--
+* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
 
 #### data specifications
 
 For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
 
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect, the BAG does overall a good job. Perfection is often a matter of viewpoint and angle anyways. 
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect, the government and the bag do overall a good job (however masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated). Perfection is often a matter of viewpoint and angle anyways. 
 
 #### data features
 * For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
 * Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
 
-#### machine readable
+#### easy readable
 Data are ideally have a common used format (e.g. csv) on a public api (e.g. github repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
 
 
