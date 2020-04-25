@@ -446,7 +446,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
     
 ## Data Availability
 
-Data producers, data describors and data analysers can be separate today. Remark: People having separate roles in different locations has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. Today this can be done faster and in cooperation, thanks to modern communication technologies. 
+Data production, data description and data analysis can be done separate today. Remark: People having separate roles in different locations has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. Today this can be done faster and in cooperation, thanks to modern communication technologies. 
 The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
 
 <!--
