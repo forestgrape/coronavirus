@@ -5,9 +5,10 @@
 * This is work in progress, so mistakes of any form are likely. 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas to be checked and evaluated. 
+* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus a thankful remark may be more suitable than citing (if to put as a license: at most Creative Commons and thanks is enough as attribution). In short: if the page is helpful, a thanks is enough and highly welcome. 
 
 <!--
-* This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences is helpful. -->
+* This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences and a lot of time to read resources is helpful. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 * Pointing out mistakes of any form, __improvement suggestions__ and __feedback__ are __welcome__.
 <!-- * The page is soon going to be split up into different topics. -->
@@ -20,6 +21,17 @@
 * [Public Suggestions](#public-advice) <br> 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Covid-19](#covid)
+    - [Public Description](#public-description)
+* [Coronaviruses with a Focus on Sars-CoV-2](#bcv)
+    - [Way of Life](#way-of-life)
+    - [How coronaviruses evolve and adapt](#evolution-and-adaption)
+    - [Habitat](#habitat)
+        - [Habitat of Sars-CoV-2]
+    - [interspecies transmissions](#interspecies-transmissions-of-bcov)
+        * jumps
+        * jumps to humans
+        * evidence for regular infections of humans
+    - [cross immune protection](#cross-immune-protection)
 * [Ideas to Explore](#ideas)
 	- [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
@@ -115,16 +127,16 @@ Time to act mindfully and work together in an open and honest way.
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
-<p id="covid"> ---</p>
+<p id="covid"> -------</p>
 
 # Covid-19
 
 ### public description
 __Remark__: The description given below agrees with the expected pathogenesis of mild cases. However to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
-> Even though I wasn't asymptomatic, diagnosis was not obvious back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
+> Even though I wasn't asymptomatic, diagnosis was not obvious at first. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
 
 
-Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both start early and later on and usually outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is likely Covid-19.
+Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Coughing is typical too, the body wants to get rid of the virues in lower respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
 ### symptoms
 [in work]
@@ -135,9 +147,121 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 ### pathogenesis
 [in work]-->
 
+<p id="bcv">-------</p>
+
+# Coronaviruses with a Focus on Sars-CoV-2
+[in work]
+
+The starting point is the virus way of life, then a  short summary how coronaviruses evolve and adapt is given. Based on the evolution patterns cross immune reactions between different strains of viruses explored. Then habitats of coronaviruses are discussed, by describing necessary conditions for cell entry and replication.
+- [Way of Life](#way-of-life)
+- [adaption and evolution](#evolution-and-adaption)
+- [cross immune protection](#cross-immune-protection)
+* [Habitats ](#habitat)
+    - [requirements](#requirements)
+    - [habitat of sars-cov-2](#habitat-of-sars-cov-2)
+    - [change of habitats](#change-of-habitats)   
+* [interspecies transmissions](#interspecies-transmissions)
+   * jumps
+   * jumps to humans
+   * evidence for regular infections of humans
+
+## way of life
+Viruses are obligate parasites, namely they don't have their own metabolism. A virus hijacks a cell and can change the cells metabolism to produce rough copies of itself. Viruses are completely dependent on the host cells, longterm surviving viruses nearly always live in symbiosis with their host life form as a whole, if viewed from a timeless birds perspective. This since survival of the fittest is ubiquitous in nature. 
+
+## evolution and adaption
+The evolution rate of coronaviruses is fast due a short generation time in average and frequent mutations in the RNA. The latter is due to the infidelity of RNA-dependent RNA polymerase yield random point mutations and a homologous recombination mechanism [Woo et al.](#woo) [more refs coming]. Further they have a large genomes (in comparison to other viruses) which both backs the mentioned recombinations and encodes complex proteins. They can well evolve and thereby adapt to changed or new environments. 
+[in work]
 
 
-<p id="ideas"> ---</p>
+
+<p id="habitat">-----</p>
+    
+## replication 
+As noted in the virus [way of life](#way-of-life), viruses infect cells and rely on the cells metabolism. First the requirementsare outlined for viruses to infects cells. Next we look at the habitat 
+
+### requirements for cell infection
+
+#### reach the target 
+ The virus needs to reach the host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a receptor on the membrane. All this without being able to move on its own, just relying on extern forces and brownian motion. Bacteria can at least move the last two steps.  The outer layer of a body - i.e. anything that can be reached while the body is not injured [to check] - is called epithelial layer and the cells epithelial cells. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). 
+
+#### matching receptor
+Cells are sourounded by a membrane. To enter a cell a virus needs his "key" to bind on a receptor on the cell membrane to pass the membrane. In the case of coronaviruses the keys are spikeproteins, which look like a crown (in latin corona) on the electron microscope. 
+
+#### right environment around the target cell
+Coronaviruses have Spikeproteins which act as grappling hooks and keys for cell entry. These spike proteins often need to be cleaved before they can be used. The cleaving requires the right physiological conditions [Holmes](#holmes). Also the cell enviroments should'nt deactivate the virus, e.g. antibodies do so. 
+
+### new targets
+Once a virus replicates in a cell the new viruses need to reach a new target cell. This new target can be:
+* a cell of the  kind 
+    - close or fare within the same host 
+    - another host
+* a different cell type
+    - close or fare in the same 
+    - in a different host
+    
+### conquering new habitats
+Sometime the new target is cell type or host the given strain of virus hasn't been endemic. Most likely the tree of viruses doensn't manage to adapt to the new target. However if a line of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occured. Since in new habitats there often is different evolutionary drive, the line of viruses can give raise to a new virus strain.  
+
+### interspecies transmissions
+[in work]
+
+In the following jump denotes a transmission to a new species and becomes endemic. An infection denotes a single transmission without spread in the new species. 
+* jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, pwild ruminants, porcine [Bidokhti et al](#bidokhti).
+* jumps to humans: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all well known jumps to humans. 
+* infections of humans:<br>
+    There are quite a few reports on that BCoV regulary cause infections in the human intestines. Most of them are based on EM images and serological evidences. However since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
+    - The HECV-4408 coronavirus was isolated from a child having diarrhoea [Zhang et al](#zhang94)
+
+
+
+### habitat of sars-cov-2
+#### entry point
+The cell entry receptor used by SARS-Cov-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
+The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. McCray & Co also observed that Sars-Cov-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point amino-peptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits apically with a preference of 10:1 for apical entry and 5:1 for basal entry).    
+
+#### tissue distribution of ACE2
+There are two common methods to measure tissue distribution of proteins:
+* _antibody staining_; here anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. . Used in the work of [Timens](#timens), [McCray](#mccray05) 
+* _detect mRNA_: here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on apical cell surface, see e.g. [Li et al](#li)
+
+For being an exploitable entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likley. 
+
+ACE2 is apically expressed on lower respiratory tract epithelial cells, 
+Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
+
+#### distribution of infected cells and viral load
+The viral loads observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
+* The only location where _all_ patients had viral Sars-Cov-1 loads is the lungs [Farcas et al](#farcas). 
+* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
+Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
+
+That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].  
+
+
+## cross immune protection
+Despite the overall high mutation rate, the replication mechanism within a cell and proteins needed for this replication and some structural proteins are well conserved. Therefore there are similar patterns upon infection with different coronaviruses, which the immune system can recognize or can be targeted by medications. 
+[in work]
+<!--
+### protections based on general patterns
+[in work]
+
+### protections based on conserved proteins
+ [in work]   
+ -->
+ 
+ 
+ 
+### cross protections observed
+*  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
+    - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
+    - NL63 -protects-> 229E (only unidirectional)
+* [Han et al](#han) showed that calves innoculated with HECV-4408get cross-protective immunity against BCoV DB2. HECV-4408 is a strain that can cause acute diarrhea in humans, see [human bcov infections](#human-bcov-infections)
+
+
+
+
+
+<p id="ideas"> -------</p>
 
 # Ideas to Explore
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
@@ -150,20 +274,35 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 ## Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 [Note: this is work in progress]
 
-### Introduction
-Many epidemiological observations for the Covid-19 spread - especially latitude preferences - are well explained by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
+### Content
+* [overview](#overview)
+* [relevance](#relevance)
+    - epidemiologic(#epidemiologic)
+    - medications(#medications)
+* [biological basis](#biological-basis)
+
+* [epidemiological evidence](#epidemiological-evidence)
+    - [covid-19 in switzerland](#covid-19-in-switzerland)
+    - [covid-19 in spain](#covid-19-in-spain)
+    - remarks
+* [mechanisms](#mechanisms)
+* [next steps](#next-steps)
+
+### overview
+While there are possible explanation for many epidemiological observations for the Covid-19 spread - especially latitude preferences - by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air likely increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
 * in Switzerland not only the highest prevalence but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 * Across the world no Covid-19 hotspot has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
 
 A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are transmitted to humans such that the immune system is trained to fight Betacoronaviruses. Transmissions and the induced build up of some form of resistance could occur regularly or just once as an infant and possibly yield lifelong increased protection. Such an immune protection could explain why some people notice no or only few symptoms. Notworthy seniors sometimes remain mostly asymptomatic or experience severe symptoms. 
 
-The hypothesis above is possible in theory by the following observations (described in more detail in [biological basis](#biological-basis)):
-* coronavirus infections in humans can elicit immune protection (more precisely a serum conversion) to other coronaviruses, has been observed by Van der Hoek et al. as follows:   
-    - OC43 -protects-> HKU1 (only unidirectional)
-    - NL63 -protects-> 229E (only unidirectional)
+The hypothesis above is possible in theory by the following exemplary observations (described in more detail in [biological basis](#biological-basis)).
+
+Coronavirus infections in humans can elicit immune protection (more precisely no serum conversion is observed) to other coronaviruses  [Van der Hoek et al.](#vanderhoek2012):   
+   - OC43 -protects-> HKU1 (only unidirectional)
+   - NL63 -protects-> 229E (only unidirectional)
     
-* A bovine coronavirus strain, namely HECV-4408,  was isolated from a child suffering pneunomia by [Zhang et al](#zhang94).
+A bovine coronavirus strain, namely HECV-4408,  was isolated from a child from a rural area in Texas suffering diarrhoea [Zhang et al](#zhang94).
 
 If a cross protection between BCoVs and Sars-CoV-2 exists and if yes how it works remains to be determined. Depending on the mechanism of action it could be used in many ways.
 
@@ -171,57 +310,46 @@ If a cross protection between BCoVs and Sars-CoV-2 exists and if yes how it work
 ### relevance 
 The relevance and usage depends to a large extend on the [mechanisms of action](#mechanisms) and how much protection is provided. 
 Possible use cases are polyvalent:
-- knowing that people experience only mild symptoms and have reduced spreading of Sars-CoV-2 can be used to manage the current Covid-19 pandemic. Serum conversion occurrence is relevant in this respect. 
+
+#### epidemiologic
+- knowing that people have an increased immune protections and therefore experience only mild symptoms and have reduced spreading of Sars-CoV-2 can be used to manage the current Covid-19 pandemic. 
+- Serum conversion occurrence: It could be that a different or no serconversion occurs to people exposed to different strains of betacoronaviruses.  
+
+#### medications
+Knowledge of cross immune reactions can help to develop medications and even literal vaccacines are thinkable vice versa. 
 - increase the immune response against Sars-CoV-2 or even provide paths for full immunisation
 - even a literal vaccine is thinkable (the long-term pathogenesis of BCoVs should be reevaluated first)
 - Sars-CoV-2 infection could protect against OC43 or other BCoV infections, which could be more harmful in the long run than Sars-CoV-2
 
 
-### next steps
-* Analyse spread patterns in other countries: USA, France, ...
-* Widespread serology for HCoVs and do statistics if there's a relation to pathogenesis of Covid-19 . 
-* Analyse birth and grow up locations of elderly Covid-19 patients.
-* figuring out wheter BCoVs can interact with HCoVs. This could yield new strains with possibly more severe pathogenesis. 
 
 
 ### Evidence from Distribution of Covid-19 
 In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform, testing results are used too beside death counts. 
 [data wikipedia][in work]
 
-#### Covid-19 in Switzerland
+#### covid-19 in switzerland
 Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
-* In areas where cattle farming is prevalent, which is most of Switzerland due to a protected market and high subventions (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), the number of deaths per 100K is about 6 in median and 8 in average. Contrary to areas where cattle are less common (GE, BS, TI, TI has a few cattle farming but mostly close to the mountains and away from the cities, the largest city Lugano is surrounded by the Lago di Lugano and forests) or in VD the cities are fare away from cattle farming places (Lausanne is surrounded mainly by vineyards and forests in the North and Lac Lemon in the South), the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
-
+* In areas where cattle farming is prevalent  (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), which is the case in many areas of Switzerland due to a protected market and high subventions, the number of deaths per 100K is about 6 in median and 8 in average. 
+* Contrary to areas where cattle are less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
+    Cantons with few catlle farming:
+    - GE, mostly city and sourrounded by Lac Lemon and France so no high subventions there, 
+    - BS, long urban and trade tradition in the south there some forested hills and in the west france and north east is Germany
+    - TI, has a few cattle farming but mostly close to the mountains and away from the cities. The largest city Lugano is surrounded by the Lago di Lugano and forests 
+    - VD the cities are fare away from cattle farming places (Lausanne is surrounded mainly by vineyards and forests in the North and Lac Lemon in the South), 
+    
 The same patterns are observed when considering only cantons with large cities or when considering only uniform language regions: Areas with a lot of cattle farming have lower death rates (both per positive tested cases and per capita):
 * Urbanized Areas: ZH, ZG have a lower rates GE, BS
 * French Speaking Region: JU, FR, NE and VS have  lower rates both per cases and per population than GE and VD.
 * German Speaking Region: TG, AI, SG, LU, AG have lower rates than BS.
 
 
-#### Covid-19 in Spain
+#### covid-19 in spain
 As in Switzerland the same pattern is observed in Spain:
 The cattle rich regions in the North and North East: Galicia, La Rioja, Basque Country have a lower death rate and higher recover rate than Madrid, Valencia, Castile, Catalonia and Leon. As expected from the humid climate in the communities Canary Islands, Melila and Balearic Islands the recover rates are high and the death rates are low compared to central Spain. 
 
 #### Remark
 Similar patterns seem to be in the USA and France. 
-
-### biological basis
-First observations of cross immune protections are described. Then species jumps of betacoronaviruses are described and even jumps from BCoV to humans have been observed. 
-[in work]
-
-#### observed cross immune protections between different coronaviruses
-* As already noted in the introduction  [Van der Hoek et al.](#vanderhoek2012) observed by analysing serum conversions:
-    - OC43 -protects-> HKU1 (only unidirectional)
-    - NL63 -protects-> 229E (only unidirectional)
-    
-* [Han et al](#han) showed that calves innoculated with HECV-4408get cross-protective immunity against BCoV DB2. HECV-4408 is a strain that can cause acute diarrhea in humans, see [human bcov infections](#human-bcov-infections)
-
-#### species jumps
-[in. work]
-
-
-##### human bcov infections
-* The HECV-4408 coronavirus was isolated from a child suffering pneunomia in 94 as described in [Zhang et al]
 
 
 ### mechanisms
@@ -230,12 +358,22 @@ In the following mechanism of actions are guessed.
 * Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
-        * HE
         * S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
         * N
      [in work]
      
+     
+### next steps
+* Analyse spread patterns in other countries: USA, France, ...
+* Widespread serology for HCoVs and do statistics if there's a relation to pathogenesis of Covid-19. 
+* Analyse birth and grow up locations of elderly Covid-19 patients.
+* figuring out wheter BCoVs can genetically cross with HCoVs. This could yield new strains with possibly more severe pathogenesis. 
+     
+    
+    
+    
+    
     
     
 
@@ -330,7 +468,7 @@ These are unchecked proposals and should be carefully supervised. Anything that 
 Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
 This prevents the accumulation of viral loaded and dry mucus early on. This in turn should both increase the well-being as well as the overall prognosis. 
 
-__Warning__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional irritation. 
+__Caution__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional irritation. While immune suppresive are generally strongly discouraged, in this situation they can be appropriate. 
 
 * heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
     __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt). __Risk__: general risks of invasive ventilation, temporary irritation due to liquefying of mucus. 
@@ -441,19 +579,24 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 * In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals. This data is consistent and even preferred to analyse to impact of humidity ([data specifications](#data specifications)). 
 
 
-<p id="data"> ---</p>
+
+
+
+
+
+
+<p id="data"> -----</p>
     
 ## Data Availability
 
-* data can be transferred extremly well today
-* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. 
+
 
 #### data specifications
 
 For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
 
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect, the BAG does overall a good job. Perfection is often a matter of viewpoint and angle anyways. 
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. Remark: While not perfect, the BAG together with the government do overall a good job in Switzerland (mask recommendation indoors and that outdoors infection risk is fare smaller should be clearer communicated however). Perfection is often a matter of viewpoint and angle anyways. 
 
 #### data features
 * For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
@@ -463,7 +606,7 @@ E.g. In Switzerland the testing policy, which is mostly followed, is to test onl
 Data are ideally have a common used format (e.g. csv) on a public api (e.g. github repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
 
 
-<p id="transmission-models">-------</p>
+<p id="transmission-models">--------</p>
 
 # Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission 
 
@@ -542,7 +685,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 
 
-<p id="particles">---</p>
+<p id="particles">-----</p>
 
 ## Intermezzo: Particle Dynamics in the Respiratory Tract
 Conversational remarks about how I understand particle deposition models. 
@@ -631,32 +774,7 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
    
 
 
-<p id="habitat">-----</p>
-    
-## Habitat of the Betacoronavirus
-
-### entry point
-The cell entry receptor used by SARS-Cov-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
-The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. McCray & Co also observed that Sars-Cov-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point amino-peptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits apically with a preference of 10:1 for apical entry and 5:1 for basal entry).    
-
-### tissue distribution of ACE2
-There are two common methods to measure tissue distribution of proteins:
-* _antibody staining_; here anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. . Used in the work of [Timens](#timens), [McCray](#mccray05) 
-* _detect mRNA_: here ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on apical cell surface, see e.g. [Li et al](#li)
-
-For being an exploitable entry point, ACE2 should be built into the cell membrane and being useable from outside, see [entry point](#entry-point). So if _both_ of methods above yield positive, this is very likley. 
-
-ACE2 is apically expressed on lower respiratory tract epithelial cells, 
-Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
-
-### distribution of infected cells and viral load
-
-The viral loads observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
-* The only location where all patients had viral Sars-Cov-1 loads is the lungs [Farcas et al](#farcas). 
-* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
-Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
-
-That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].   
+ 
 
 <p id="evidence">-----</p>
 
@@ -671,7 +789,7 @@ From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entr
 
 <p id="spread-patterns">---</p>
     
-#### Evidence from the observed Spread Patterns
+### Evidence from the observed Spread Patterns
 
 The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
 
@@ -712,7 +830,7 @@ Remark: The following pieces of evidence are 'in work'.
 * The initial animal to human of  Sars-Cov-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
 
 
-<p id="measures">-----</p>
+<p id="measures">---</p>
 
 ### Suggested Protections Measures 
 Supposing that the main transmission of Sars-Cov-2 is either aerosol or the proposed dry form, which is __not__ yet confirmed. This extends  [Public Advices and Suggestions](#public-advice) section. 
@@ -744,9 +862,9 @@ Reasons against masks seem sometimes rather searched:
 * [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
 
-<p id="references">-----</p>
+<p id="references">-------</p>
 
-## References
+# References
 
 #### Note 
 * The references are named by the correspondence author, the primary authors or a descriptive tag. 
@@ -896,19 +1014,23 @@ TODO UPDATE REFERENCES
     Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
 
 
-### Coronavirus General
+### Coronavirus Evolution and Interspecies Transmission
 
 * ##### vanderhoek2012
     Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012). 
     **The dominance of human coronavirus OC43 and NL63 infections in infants.** 
     Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. https://doi.org/10.1016/j.jcv.2011.11.011
     
-* ##### han2006
+<!--* ##### han2006-->
 
+* ##### borucki
+    Borucki, M. K., Allen, J. E., Chen-Harris, H., Zemla, A., Vanier, G., Mabery, S., Torres, C., Hullinger, P., & Slezak, T. (2013). **The role of viral population diversity in adaptation of bovine coronavirus to new host environments.** PloS one, 8(1), e52752. https://doi.org/10.1371/journal.pone.0052752
 
-* ##### saif2010
+* ##### woo
+    Woo, P. C., Lau, S. K., Huang, Y., & Yuen, K. Y. (2009). **Coronavirus diversity, phylogeny and interspecies jumping.** Experimental biology and medicine (Maywood, N.J.), 234(10), 1117–1127. https://doi.org/10.3181/0903-MR-94
 
-* ##### zhang1994
+    
+* ##### zhang94
     Zhang, X.M., Herbst, W., Kousoulas, K.G. and Storz, J. (1994), 
     **Biological and genetic characterization of a hemagglutinating coronavirus isolated from a diarrhoeic child.**
     J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
@@ -984,13 +1106,7 @@ TODO UPDATE REFERENCES
     
 * ##### lin
     LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection. Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054   
-    
-    
-* ##### zhang94
-    Zhang, X.M., Herbst, W., Kousoulas, K.G. and Storz, J. (1994), 
-    **Biological and genetic characterization of a hemagglutinating coronavirus isolated from a diarrhoeic child.**
-    J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
-       
+         
   
   
 ### Transmission and Infection of  Respiratory Viruses</strong>
