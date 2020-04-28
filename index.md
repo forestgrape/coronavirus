@@ -54,6 +54,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
+- 28.4. Short note to support public health in the data section
 - 25.4. Data availability section
 - 24/25.4. Update of section Increased Immune Protection coming soon. 
 - 20.4.20 Section cross protections: Human infection by BCoVs has been observed.
@@ -461,7 +462,7 @@ E.g. In Switzerland the testing policy, which is mostly followed, is to test onl
 
 > Subjective Remark: While not perfect, the government and the bag do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time. Personally I liked (and helped me doing this page) that there was no stay at home order. That childern were and are allowed to go outside is important too - the longer Covid-19 spread patterns could be analyzed the more evidence was (and is) there that the virus spreads mainly indoors.  A gradual reopening makes sense. 
 Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated. 
-Too rate afterthought is much easier than to be there in charge with few proven and sure knowlegde. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. 
+Too rate afterthought is much easier than to be there in charge with few proven and sure knowlegde. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. However around the world is remains important to support public health and keeping some slow down can be part of that. 
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
 
 #### data features
