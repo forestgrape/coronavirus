@@ -1,0 +1,19 @@
+Dear Researchers
+
+Publications you are involved (mostly as correspondence authors) are key to work I do on Sars-Cov-2 and Covid-19. 
+
+A recent idea worth exploring is the following:
+For the development of a virus induced ARDS, a decreased mucus clearance seems to be a key factor (Yuen et al. showed this for Influenza). Hong and colleagues found that the mucus flow can be increased by humidified ventilation. Hasani and colleagues found the same by humidifying the air in the entire room. Since ARDS is a major problem in Covid-19 patients, early on humidified air could improve the prognosis.  
+
+This and more ideas (including references on which they rely) you find on:
+GitHub Pages: https://forestgrape.github.io/coronavirus
+and on the corresponding GitHub Repository:
+https://github.com/forestgrape/coronavirus/blob/master/index.md
+
+If you think the ideas/findings are worth evaluation, I welcome if the page is forwarded to your fellow researchers. 
+
+Thanks for your work and research, I brings the world forward!
+
+Sincerely 
+Wito Traub
+
