@@ -160,17 +160,14 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 [in work]
 This short overview reviews various aspects of coronaviruses. The overview is fare from complete and mostly covers topics relevant for other part part of [this site](#home)
 
-- [Way of Life](#way-of-life)
-- [adaption and evolution](#evolution-and-adaption)
-- [cross immune protection](#cross-immune-protection)
-* [Habitats ](#habitat)
-    - [requirements](#requirements)
-    - [habitat of sars-cov-2](#habitat-of-sars-cov-2)
-    - [change of habitats](#change-of-habitats)   
-* [interspecies transmissions](#interspecies-transmissions)
-   * jumps
-   * jumps to humans
-   * evidence for regular infections of humans
+- features of viruses
+- features of coronaviruses
+- life cycle
+- life cycle requirements
+- evolution and adaption
+- habitat 
+- [habitat of sars-cov-2](#habitat-of-sars-cov-2)
+   
 
 ## features of viruses 
 A virus is a form of life which can't produce all of its needed  enzyme. While outside of a cell and ready to infect a cell a virus is called virion.
