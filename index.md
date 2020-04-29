@@ -1,5 +1,5 @@
 <p id='home'><p>
-    
+
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
