@@ -56,6 +56,7 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
+- 29.4.20 Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses'
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
@@ -148,7 +149,7 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 ### pathogenesis
 [in work]-->
 
-<p id="bcv">-------</p>
+<p id="bcv">-------</p>git 
 
 # Coronaviruses with a Focus on Sars-CoV-2
 [in work]
@@ -292,7 +293,7 @@ Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability
 
 That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield viral loads in the lymph nodes too [to be confirmed, citation needed].  
 
-## Vertebrate Immune Protection with a Focus on Coronaviruses
+## Immune Protection with a Focus on Coronaviruses
 Some topics and findings of the vertebrate immune protection relevant for other parts of [this site](#home) are described. 
 
 ## cross immune protection
