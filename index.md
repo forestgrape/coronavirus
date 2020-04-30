@@ -174,7 +174,7 @@ Reasons against masks seem sometimes rather searched:
 * [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
 ### distancing
-Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke like) can be reduce with distancing. Outside or with good ventilation this is much easier and depends on the wind direction. So if inside 2 meters is good, outside likely half a meter is enough. 
+Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke like) can be reduce with distancing. Outside or with good ventilation this is much easier. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction can be important - how to avoid barbecue smoke. Ventilation can have a direction too: kitchen hood and toilet venting draw air. 
 
 ## Monitor 
 ### Step by Step Lessening of Measures
