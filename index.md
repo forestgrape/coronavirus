@@ -135,7 +135,7 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 [in work]
 * Only a slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). The increase can be as low as one degree: going up from 35 to 36 if measured on the forehead. 
 
-<p id="monitor-and-control>-----</p>
+<p id="monitor-and-control">-----</p>
 
 # Thoughts on Monitor and Controlling Sars-CoV-2
 This section extends and   [Public Advices and Suggestions](#public-advice) section. 
@@ -161,7 +161,7 @@ Officially recommed masks, since they mitigate the infection risk. Without offic
     - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
 
-Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]
+Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This could yield a significant for people who's main exposure to Sars-CoV-2 are public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
   
 <!--  
 Reasons against masks seem sometimes rather searched:
@@ -178,7 +178,7 @@ Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke l
 
 ## Monitor 
 ### Step by Step Lessening of Measures
-* Monitoring the personal of newly opened businesses can be an indication if a Sars-CoV-2 spread is occuring. Representative samples twice per week should do the job. 
+* Monitoring the personal of newly opened businesses can be an indication if a new Sars-CoV-2 spread is occuring. Representative samples twice per week should do the job. 
 * Workers and patients of old-age homes should monitor their health closely. Measuring temperature and have easy access to Covid-19 PCR tests. Since early action is important in these settings. 
 * All risk persons for severe Covid-19 should be eligible to obtain free masks from pharmacies or doctors. The health care professionals sould evaluate the model for good fit and instruct the usage. For self protection good fit is crucial and surgical masks have often bad fits, since they are constructed for comfort and inside to out protection and not outside-in protection. The health care professionals can also determine if self cleaning is an option e.g. with hot water, steam or in the oven at 70 - all measures which have been scientificly proven to destroy the Sars-CoV-2 virions [citation in work]. 
 
