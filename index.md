@@ -150,9 +150,45 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 * Only a slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). The increase can be as low as one degree: going up from 35 to 36 if measured on the forehead. 
 
 
-<!--
-### pathogenesis
-[in work]-->
+# Thoughts on Monitor and Controlling Sars-CoV-2
+This section extends and   [Public Advices and Suggestions](#public-advice) section. 
+
+## Protection Measures
+The following relies on the assumption that the main transmission of Sars-Cov-2 is airborne (either aerosol or dry form transmission) for which there is strong evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like. So for protection measures non-smokers protections are a guideline. 
+
+### support immune protection
+Completely avoiding smoke is hard. Even in laboratory settings it is hard to completely avoid viruses Sars-CoV-2. There were cases of infection in labs and some countries even discouraged autopsys. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important defence mechanism available is a good immune system. So the measures should take this into account and support the overall immune protection of the humanity worldwide. 
+
+* reduce stress and provide settings to focus on health:
+    - affordable life including basic health care
+    - less pressure on work
+    - allow people out to the fresh air
+* provide information and tips to focus on health
+
+
+### masks
+Officially recommed masks, since they mitigate the infection risk. Without official recommendation, people can be put off or look afraid from masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
+* [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
+    - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micro meter) with a 25 fold reduction in the number of viral copies 
+    -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micro meter)
+    - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
+    
+
+Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]
+  
+<!--  
+Reasons against masks seem sometimes rather searched:
+* touching more often the face. Remark: Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this masks are protective. 
+* Reserve for healthcare workers is needed for the big wave. Remark: If mask are shown to help prevent the big wave in its roots, then that's the better option.-->
+    
+
+### ventilation
+
+* [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
+* [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
+
+
+
 
 <p id="bcv">-------</p>git 
 
@@ -899,44 +935,18 @@ Remark: The following pieces of evidence are 'in work'.
 * The initial animal to human of  Sars-Cov-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-Cov-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
 
 
-<p id="measures">---</p>
+<p id="metaphor-and-measures">---</p>
 
-### Suggested Protections Measures 
-Supposing that the main transmission of Sars-Cov-2 is either aerosol or the proposed dry form, which is __not__ yet confirmed. This extends  [Public Advices and Suggestions](#public-advice) section. 
-
+## Metaphor and Measures 
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
+Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. Outside no worry for Sars-CoV-2 however, it is diluted and sun light destroys virions. 
 
-This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out  particulates a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but likely it is attached so some organic material[to check and cite]). Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. 
-
-However, even in laboratory settings it is hard to completely avoid viruses. Outsides once the virus is prelevant this is nearly impossible. Therefore the most important defence mechanism available is a good immune system. So the measures should take this into account and support the overall immune protection of the humanity. 
-
-#### support immune protection
-* reduce stress and provide settings to focus on health. E.g. 
-  affordable life including basic health care, less pressure on work, ...
-* provide information and tips to focus on health
+This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out  particulates above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but likely it is attached so some organic material[to check and cite]). Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Measures in more detail are found in [Protection Measures](#measures). 
 
 
-#### masks
 
-Officially recommed masks, since they mitigate the infection risk. Without official recommendation, people can be put off or look afraid from masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
-* [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
-    - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micro meter) with a 25 fold reduction in the number of viral copies 
-    -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micro meter)
-    - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
-    <!--
-  Assuming for  reduction of small exhaled aerosols an average of 2.5 and an average reduction of 2 for inhaling: everybody wearing a mask would yield - in theory - a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (the estimates are taken from [Ferguson, Bhatt et al](#ferguson-bhatt).-->
-  
-<!--  
-Reasons against masks seem sometimes rather searched:
-* touching more often the face. Remark: Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this masks are protective. 
-* Reserve for healthcare workers is needed for the big wave. Remark: If mask are shown to help prevent the big wave in its roots, then that's the better option.-->
-    
 
-#### ventilation
-
-* [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
 
 <p id="references">-------</p>
