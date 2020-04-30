@@ -20,6 +20,7 @@
 * [Public Suggestions](#public-advice) <br> 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Covid-19](#covid)
+* [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
 * [Ideas to Explore](#ideas)
     - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
@@ -54,6 +55,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
+- 30.4. Rerouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
 - 28.4. Short note to support public health in the data section
 - 25.4. Data availability section
 - 24/25.4. Update of section Increased Immune Protection coming soon. 
@@ -133,11 +135,82 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 [in work]
 * Only a slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). The increase can be as low as one degree: going up from 35 to 36 if measured on the forehead. 
 
+<p id="monitor-and-control>-----</p>
+
+# Thoughts on Monitor and Controlling Sars-CoV-2
+This section extends and   [Public Advices and Suggestions](#public-advice) section. 
+
+## Protection Measures
+The following relies on the assumption that the main transmission of Sars-Cov-2 is airborne (either aerosol or dry form transmission) for which there is strong evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
+
+### support immune protection
+Completely avoiding smoke is hard. Even in laboratory settings it is difficult to completely avoid Sars-CoV-2. There were cases of infection in labs and some countries even discouraged autopsys[citations in work]. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important defence mechanism available is a good immune system. So the measures should focus to support the overall immune protection of humanity. 
+
+* reduce stress and provide settings to focus on health:
+    - affordable life including basic health care
+    - less pressure on work
+    - allow people out to the fresh air
+* provide information and tips to focus on health
+
+
+### masks
+Officially recommed masks, since they mitigate the infection risk. Without official recommendation, people can be put off or look afraid from masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
+* [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
+    - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micro meter) with a 25 fold reduction in the number of viral copies 
+    -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micro meter)
+    - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
+    
+
+Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]
+  
+<!--  
+Reasons against masks seem sometimes rather searched:
+* touching more often the face. Remark: Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this masks are protective. 
+* Reserve for healthcare workers is needed for the big wave. Remark: If mask are shown to help prevent the big wave in its roots, then that's the better option.-->
+
+### ventilation
+
+* [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
+* [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
+
+### distancing
+Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke like) can be reduce with distancing. Outside or with good ventilation this is much easier and depends on the wind direction. So if inside 2 meters is good, outside likely half a meter is enough. 
+
+## Monitor 
+### Step by Step Lessening of Measures
+* Monitoring the personal of newly opened businesses can be an indication if a Sars-CoV-2 spread is occuring. Representative samples twice per week should do the job. 
+* Workers and patients of old-age homes should monitor their health closely. Measuring temperature and have easy access to Covid-19 PCR tests. Since early action is important in these settings. 
+* All risk persons for severe Covid-19 should be eligible to obtain free masks from pharmacies or doctors. The health care professionals sould evaluate the model for good fit and instruct the usage. For self protection good fit is crucial and surgical masks have often bad fits, since they are constructed for comfort and inside to out protection and not outside-in protection. The health care professionals can also determine if self cleaning is an option e.g. with hot water, steam or in the oven at 70 - all measures which have been scientificly proven to destroy the Sars-CoV-2 virions [citation in work]. 
+
+
+<p id="data"> ---</p>
+    
+## Data 
+
+Data production, data description and data analysis can be done separate today. Remark: People having separate roles in different locations has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. Today this can be done faster and in cooperation, thanks to modern communication technologies. 
+The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
 
 <!--
-### pathogenesis
-[in work]-->
+* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
 
+#### data specifications
+
+For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
+The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
+
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
+
+> Subjective Remark: While not perfect, the government and the bag do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time. Personally I liked (and helped me doing this page) that there was no stay at home order. That childern were and are allowed to go outside is important too - the longer Covid-19 spread patterns could be analyzed the more evidence was (and is) there that the virus spreads mainly indoors.  A gradual reopening makes sense. 
+Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated. 
+Too rate afterthought is much easier than to be there in charge with few proven and sure knowlegde. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. However around the world it remains important to support public health and keeping some slow down can be part of that. 
+Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
+
+#### data features
+* For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
+* Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
+
+#### easy readable
+Data are ideally have a common used format (e.g. csv) on a public api (e.g. github repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
 
 
 <p id="ideas"> ---</p>
@@ -145,7 +218,6 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 # Ideas to Explore
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
-
 
 
 <p id="litvac2"> -----</p>
@@ -443,35 +515,6 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 * In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals. This data is consistent and even preferred to analyse to impact of humidity ([data specifications](#data specifications)). 
 
 
-<p id="data"> ---</p>
-    
-## Data Availability
-
-Data production, data description and data analysis can be done separate today. Remark: People having separate roles in different locations has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. Today this can be done faster and in cooperation, thanks to modern communication technologies. 
-The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
-
-<!--
-* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
-
-#### data specifications
-
-For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
-The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
-
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
-
-> Subjective Remark: While not perfect, the government and the bag do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time. Personally I liked (and helped me doing this page) that there was no stay at home order. That childern were and are allowed to go outside is important too - the longer Covid-19 spread patterns could be analyzed the more evidence was (and is) there that the virus spreads mainly indoors.  A gradual reopening makes sense. 
-Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated. 
-Too rate afterthought is much easier than to be there in charge with few proven and sure knowlegde. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. However around the world it remains important to support public health and keeping some slow down can be part of that. 
-Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
-
-#### data features
-* For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
-* Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
-
-#### easy readable
-Data are ideally have a common used format (e.g. csv) on a public api (e.g. github repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
-
 
 <p id="transmission-models">-------</p>
 
@@ -730,28 +773,8 @@ Supposing that the main transmission of Sars-Cov-2 is either aerosol or the prop
 When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 
-This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm. Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key.
+This yields either avoiding Sars-Cov-2 containing smoke entirely or filtering out most particulates above 200 nm. Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. More on protection measures in [Monitor and Control](#monitor-and-control).
 
-#### masks
-
-Officially recommed masks, since they mitigate the infection risk. Without official recommendation, people can be put off or look afraid from masks, at least in Europe, which is not desirable. 
-* [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
-    - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micro meter) with a 25 fold reduction in the number of viral copies 
-    -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micro meter)
-    - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
-    <!--
-  Assuming for  reduction of small exhaled aerosols an average of 2.5 and an average reduction of 2 for inhaling: everybody wearing a mask would yield - in theory - a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (the estimates are taken from [Ferguson, Bhatt et al](#ferguson-bhatt).-->
-  
-<!--  
-Reasons against masks seem sometimes rather searched:
-* touching more often the face. Remark: Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this masks are protective. 
-* Reserve for healthcare workers is needed for the big wave. Remark: If mask are shown to help prevent the big wave in its roots, then that's the better option.-->
-    
-
-#### ventilation
-
-* [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
 
 <p id="references">-----</p>
