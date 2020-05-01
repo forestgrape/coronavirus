@@ -24,6 +24,7 @@
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Covid-19](#covid)
     - [Public Description](#public-description)
+* [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
 * [Coronaviruses with a Focus on Sars-CoV-2](#bcv)
     - [Way of Life](#way-of-life)
     - [How coronaviruses evolve and adapt](#evolution-and-adaption)
@@ -70,6 +71,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
+- 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
 - 28.4. Short note to support public health in the data section
 - 25.4. Data availability section
 - 24/25.4. Update of section Increased Immune Protection coming soon. 
@@ -88,7 +90,7 @@
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Do NOT take Covid-19 lightly: it can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. But no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
+Do not take Covid-19 lightly: it can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. But no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
 
 Time to act mindfully and work together in an open and honest way. 
 
@@ -116,8 +118,8 @@ Time to act mindfully and work together in an open and honest way.
 - Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses.
   Hygiene is important because:
    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
-   * it is known that viruses causing common cold can be transmitted through droplets. Viruses and other pathogens often try to weaken the immune system [[kikkert](#kikkert)] and therefore can increase the infection risk. 
-   * avoiding a common cold or flu is important, because Covid-19 symptoms can be similar. This could mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.   
+   * it is known that viruses causing common cold can be transmitted through droplets. Viruses often try to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk. 
+   * avoiding a common cold or flu is important, because Covid-19 symptoms can be somewhat similar. This could mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.   
   But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) and not with droplets or fomites. 
   
   
@@ -143,21 +145,22 @@ __Remark__: The description given below agrees with the expected pathogenesis of
 > Even though I wasn't asymptomatic, diagnosis was not obvious at first. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
 
 
-Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Coughing is typical too, the body wants to get rid of the virues in lower respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can be both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
+Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Coughing is typical too, the body wants to get rid of the virues in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
 ### symptoms
 [in work]
 * Only a slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). The increase can be as low as one degree: going up from 35 to 36 if measured on the forehead. 
 
+<p id="monitor-and-control">-----</p>
 
 # Thoughts on Monitor and Controlling Sars-CoV-2
 This section extends and   [Public Advices and Suggestions](#public-advice) section. 
 
 ## Protection Measures
-The following relies on the assumption that the main transmission of Sars-Cov-2 is airborne (either aerosol or dry form transmission) for which there is strong evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like. So for protection measures non-smokers protections are a guideline. 
+The following relies on the assumption that the main transmission of Sars-Cov-2 is airborne (either aerosol or dry form transmission), which is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
 
 ### support immune protection
-Completely avoiding smoke is hard. Even in laboratory settings it is hard to completely avoid viruses Sars-CoV-2. There were cases of infection in labs and some countries even discouraged autopsys. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important defence mechanism available is a good immune system. So the measures should take this into account and support the overall immune protection of the humanity worldwide. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings it is difficult to completely avoid Sars-CoV-2. There were cases of infection in labs and some countries even discouraged autopsys[citations in work]. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important protection available is a good immune system. Even vaccines - once available - just can prepare the immune system and not replace it. So the measures should focus to support the overall immune protection of humanity. That's good anyway, there's much more than Covid-19. 
 
 * reduce stress and provide settings to focus on health:
     - affordable life including basic health care
@@ -174,19 +177,61 @@ Officially recommed masks, since they mitigate the infection risk. Without offic
     - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
 
-Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]
-  
+    Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+
+
+
 <!--  
 Reasons against masks seem sometimes rather searched:
 * touching more often the face. Remark: Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this masks are protective. 
 * Reserve for healthcare workers is needed for the big wave. Remark: If mask are shown to help prevent the big wave in its roots, then that's the better option.-->
-    
+
 
 ### ventilation
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
 * [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
+### distancing
+Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke like) can be reduced with distancing. Outside or with good ventilation less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered as with avoiding a fire's smoke. Airflow due to ventilation can have a direction too: kitchen hood and toilet venting draw air. 
+
+## Monitor 
+### Step by Step Lessening of Measures
+* Monitoring the personal of newly opened businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
+* Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Test can also be used to do sampling and monitoring. Early action is important in these settings. 
+* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals sould evaluate the model for good fit and instruct the usage. For self protection good fit is important. Surgical masks are not always optimal, since they are constructed for comfort and inside-to-out protection and not outside-in protection. The health care workers can also determine if self cleaning is an option: wash with a lot of soap or use heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientificly proven to destroy the Sars-CoV-2 virions and leave the mask intact [citation coming]. 
+
+
+<p id="data"> ---</p>
+    
+## Data 
+
+Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
+
+Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
+
+<!--
+* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
+
+#### data specifications
+
+For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
+The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world and a worldwide agreement on annotations and publishing of country/region specific specifications would make the data at least partially comparable. 
+
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group as of 17.4.20. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested.
+Remark: As of 1.5.20 more people are allowed to test. 
+
+> Subjective Remark: While not perfect, the government and the BAG do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially childern to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor enviroments. A gradual reopening starting in April makes sense. 
+Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated. 
+Too rate afterthought is much easier than to be there in charge with few proven and sure knowlegde. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. However around the world it remains important to support public health and keeping some slow down can be part of that. 
+Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
+
+#### data features
+* For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
+* Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
+
+#### easy readable
+Data are ideally have a common used format (e.g. csv) on a public api (e.g. github repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
 
 
 
@@ -392,7 +437,7 @@ A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)
 
 The hypothesis above is possible in theory by the following exemplary observations (described in more detail in [biological basis](#biological-basis)).
 
-Coronavirus infections in humans can elicit immune protection (more precisely no serum conversion is observed) to other coronaviruses  [Van der Hoek et al.](#vanderhoek2012):   
+Coronavirus infections in humans can elicit immune protection (more precisely no additional serum conversion is observed) to other coronaviruses  [Van der Hoek et al.](#vanderhoek2012):   
    - OC43 -protects-> HKU1 (only unidirectional)
    - NL63 -protects-> 229E (only unidirectional)
     
@@ -444,6 +489,24 @@ The cattle rich regions in the North and North East: Galicia, La Rioja, Basque C
 
 #### Remark
 Similar patterns seem to be in the USA and France. 
+
+### biological basis
+First observations of cross immune protections are described. Then species jumps of betacoronaviruses are described and even jumps from BCoV to humans have been observed. 
+[in work]
+
+#### observed cross immune protections between different coronaviruses
+* As already noted in the introduction  [Van der Hoek et al.](#vanderhoek2012) observed by analysing serum conversions:
+    - OC43 -protects-> HKU1 (only unidirectional)
+    - NL63 -protects-> 229E (only unidirectional)
+    
+* [Han et al](#han) showed that calves innoculated with HECV-4408get cross-protective immunity against BCoV DB2. HECV-4408 is a strain that can cause acute diarrhea in humans, see [human bcov infections](#human-bcov-infections)
+
+#### species jumps
+[in. work]
+
+
+##### human bcov infections
+* The HECV-4408 coronavirus was isolated from a child suffering pneunomia in 94 as described in [Zhang et al]
 
 
 ### mechanisms
@@ -562,7 +625,7 @@ These are unchecked proposals and should be carefully supervised. Anything that 
 Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
 This prevents the accumulation of viral loaded and dry mucus early on. This in turn should both increase the well-being as well as the overall prognosis. 
 
-__Caution__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional irritation. While immune suppresive are generally strongly discouraged, in this situation they can be appropriate. 
+__Caution__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional irritation. While immune suppresive are generally discouraged, because they could yield a diminished immune reaction and possibly yield prolonged virus spread, in this situation they can be appropriate. 
 
 * heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
     __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt). __Risk__: general risks of invasive ventilation, temporary irritation due to liquefying of mucus. 
@@ -672,43 +735,6 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 * In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals. This data is consistent and even preferred to analyse to impact of humidity ([data specifications](#data specifications)). 
 
-
-
-
-
-
-
-
-<p id="data"> -----</p>
-    
-## Data Availability
-
-Data production, data description and data analysis can be done separate today. Remark: People having separate roles in different locations has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. Today this can be done faster and in cooperation, thanks to modern communication technologies. 
-The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
-
-<!--
-* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
-
-
-#### data specifications
-
-For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
-The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
-
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
-
-> Subjective Remark: While not perfect, the government and the bag do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time. Personally I liked (and helped me doing this page) that there was no stay at home order. That childern were and are allowed to go outside is important too - the longer Covid-19 spread patterns could be analyzed the more evidence was (and is) there that the virus spreads mainly indoors.  A gradual reopening makes sense. 
-Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated. 
-Too rate afterthought is much easier than to be there in charge with few proven and sure knowlegde. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. However around the world it remains important to support public health and keeping some slow down can be part of that. 
-Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
-
-
-#### data features
-* For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
-* Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
-
-#### easy readable
-Data are ideally have a common used format (e.g. csv) on a public api (e.g. github repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
 
 
 <p id="transmission-models">--------</p>
@@ -879,7 +905,7 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
    
 
 
- 
+
 
 <p id="evidence">-----</p>
 
