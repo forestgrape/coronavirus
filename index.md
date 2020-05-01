@@ -158,10 +158,12 @@ Officially recommed masks, since they mitigate the infection risk. Without offic
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
     - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micro meter) with a 25 fold reduction in the number of viral copies 
     -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micro meter)
-    - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
+    - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.    
     
 
-Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This could yield a significant for people who's main exposure to Sars-CoV-2 are public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+    Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+
+
   
 <!--  
 Reasons against masks seem sometimes rather searched:
@@ -174,21 +176,22 @@ Reasons against masks seem sometimes rather searched:
 * [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
 ### distancing
-Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke like) can be reduced with distancing. Outside or with good ventilation this is much easier. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction can be important - how to avoid barbecue smoke. Ventilation can have a direction too: kitchen hood and toilet venting draw air. 
+Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke like) can be reduced with distancing. Outside or with good ventilation less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered as with avoiding a fire's smoke. Airflow due to ventilation can have a direction too: kitchen hood and toilet venting draw air. 
 
 ## Monitor 
 ### Step by Step Lessening of Measures
-* Monitoring the personal of newly opened businesses can be an indication if a new Sars-CoV-2 spread is occuring. Representative samples twice per week should do the job. 
-* Workers and patients of old-age homes should monitor their health closely. Measuring temperature and have easy access to Covid-19 PCR tests. Since early action is important in these settings. 
-* All risk persons for severe Covid-19 should be eligible to obtain free masks from pharmacies or doctors. The health care professionals sould evaluate the model for good fit and instruct the usage. For self protection good fit is crucial and surgical masks have often bad fits, since they are constructed for comfort and inside to out protection and not outside-in protection. The health care professionals can also determine if self cleaning is an option e.g. with hot water, steam or in the oven at 70 - all measures which have been scientificly proven to destroy the Sars-CoV-2 virions [citation in work]. 
+* Monitoring the personal of newly opened businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
+* Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Test can also be used to do sampling and monitoring. Early action is important in these settings. 
+* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals sould evaluate the model for good fit and instruct the usage. For self protection good fit is important. Surgical masks are not always optimal, since they are constructed for comfort and inside-to-out protection and not outside-in protection. The health care workers can also determine if self cleaning is an option: wash with a lot of soap or use heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientificly proven to destroy the Sars-CoV-2 virions and leave the mask intact [citation coming]. 
 
 
 <p id="data"> ---</p>
     
 ## Data 
 
-Data production, data description and data analysis can be done separate today. Remark: People having separate roles in different locations has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. Today this can be done faster and in cooperation, thanks to modern communication technologies. 
-The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
+Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
+
+Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
 
 <!--
 * there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
@@ -196,11 +199,12 @@ The basis is, that data is observed/produced, recorded (often free today), annot
 #### data specifications
 
 For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
-The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world. 
+The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world and a worldwide agreement on annotations and publishing of country/region specific specifications would make the data at least partially comparable. 
 
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested. 
+E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group as of 17.4.20. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested.
+Remark: As of 1.5.20 more people are allowed to test. 
 
-> Subjective Remark: While not perfect, the government and the bag do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time. Personally I liked (and helped me doing this page) that there was no stay at home order. That childern were and are allowed to go outside is important too - the longer Covid-19 spread patterns could be analyzed the more evidence was (and is) there that the virus spreads mainly indoors.  A gradual reopening makes sense. 
+> Subjective Remark: While not perfect, the government and the BAG do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially childern to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor enviroments. A gradual reopening starting in April makes sense. 
 Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated. 
 Too rate afterthought is much easier than to be there in charge with few proven and sure knowlegde. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. However around the world it remains important to support public health and keeping some slow down can be part of that. 
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
