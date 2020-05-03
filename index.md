@@ -546,11 +546,13 @@ In the following the in country distribution of Covid-19 is described. Since ins
 
 #### covid-19 in switzerland
 Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
-* In areas where cattle farming is prevalent  (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), which is the case in many areas of Switzerland due to a protected market and high subventions, the number of deaths per 100K is about 6 in median and 8 in average. 
+* In areas where cattle farming is prevalent  (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), which is the case in many areas of Switzerland due to a protected market and subventions, the number of deaths per 100K is about 6 in median and 8 in average.  
+> Remark: I consider distributed agriculture as important and worth preserving. Both subventions and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop. In Switzerland agriculture support is somewhat single focused on bovine farming and thus its high prelevance.
+
 * Contrary to areas where cattle are less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
     Cantons with few catlle farming:
-    - GE, mostly city and sourrounded by Lac Lemon and France so no high subventions there, 
-    - BS, long urban and trade tradition in the south there some forested hills and in the west france and north east is Germany
+    - GE is a city canton and sourrounded by Lac Lemon and France so less subventions there, 
+    - BS is a city canton which has a long urban and trade tradition. In the south there mainly forested hills and in the west France and north east is Germany
     - TI, has a few cattle farming but mostly close to the mountains and away from the cities. The largest city Lugano is surrounded by the Lago di Lugano and forests 
     - VD the cities are fare away from cattle farming places (Lausanne is surrounded mainly by vineyards and forests in the North and Lac Lemon in the South), 
     
