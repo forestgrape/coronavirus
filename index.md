@@ -548,7 +548,7 @@ In the following the in country distribution of Covid-19 is described. Since ins
 Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
 * In areas where cattle farming is prevalent  (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), which is the case in many areas of Switzerland due to a protected market and subventions, the number of deaths per 100K is about 6 in median and 8 in average.  
 > Remark: I consider distributed agriculture as important and worth preserving. Both subventions and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop. In Switzerland agriculture support is somewhat single focused on bovine farming and thus its high prelevance. <br>
-Economy solely on global effiancy trimmed, yields that but only that. Question is, in which situations this is wanted. 
+Economy solely on global effectiveness trimmed, yields that but only that. Question is, in which situations this is wanted. 
 
 * Contrary to areas where cattle are less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
     Cantons with few catlle farming:
