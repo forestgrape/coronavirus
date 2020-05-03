@@ -7,7 +7,7 @@
 * This is work in progress, so mistakes of any form are likely. 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas to be checked and evaluated. 
-* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For republishing content copy paste like attribution is appropriate. In short: copy paste like needs attribution. For inspiration, a thanks is enough and welcome. 
+* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For republishing content copy paste like attribution is appropriate. In short: copy paste like needs attribution. For inspiration,  thanks are enough and welcome. 
 
 <!--
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences and a lot of time to read resources is helpful. -->
@@ -56,9 +56,9 @@
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
 - 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](#particles).<br>
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
-    1. The evolutionary roots of the lungs are the alimentary system (some dozens millions generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
-    2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments  clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
+    1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
+    2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). The ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
+    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -83,7 +83,7 @@ Do not take Covid-19 lightly: it can be serious in the short-term and whether lo
 Time to act mindfully and work together in an open and honest way. 
 
    
-- The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling , likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbours candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbour being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+- The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
 - Wear a mask in indoor places where infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
    Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-CoV-1).  From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, don't forget that!
@@ -116,9 +116,11 @@ Time to act mindfully and work together in an open and honest way.
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily, relax and do some sport 
+    
     and avoid anything that weakens the immune system:
+
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
-    * avoid having cold or freezing for a longer period. For this reason, in cold climates don't open the windows permanently. 
+    * avoid being cold or even freezing for a longer period. For this reason, in cold climates don't open the windows permanently. 
     * try reducing stress for yourself and others. Trying too hard won't help though. 
     
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
@@ -129,11 +131,11 @@ Time to act mindfully and work together in an open and honest way.
 # Covid-19
 
 ### public description
-__Remark__: The description given below agrees with the expected pathogenesis of mild cases. However to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
-> Even though I wasn't asymptomatic, diagnosis was not obvious at first. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prelevance and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sport session likely gave the viruses opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
+__Remark__: The description given below agrees with the expected pathogenesis of mild cases. However, to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
+> Even though I wasn't asymptomatic, the diagnosis was not obvious at first. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterward, so the immune system likely not had enough time and resources to control the viruses. 
 
 
-Covid-19 is different from a common respiratory disease. It doesn't start with a soar throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a soar throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhoea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
+Covid-19 is different from a common respiratory disease. It doesn't start with a sore throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a sore throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
 ### symptoms
 [in work]
@@ -154,7 +156,7 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission), which is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
 
 ### support immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings it is difficult to completely avoid Sars-CoV-2. There were cases of infection in labs and some countries even discouraged autopsies[citations in work]. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important protection available is a good immune system. Even vaccines - once available - just can prepare the immune system and not replace it. So the measures should focus to support the overall immune protection of humanity. That's good anyway, there's much more than Covid-19. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings, it is difficult to completely avoid Sars-CoV-2. There were cases of infection in labs and some countries even discouraged autopsies[citations in work]. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important protection available is a good immune system. Even vaccines - once available - just can prepare the immune system and not replace it. So the measures should focus to support the overall immune protection of humanity. That's good anyway, there's much more than Covid-19. 
 
 * reduce stress and provide settings to focus on health:
     - affordable life including basic health care
@@ -164,21 +166,21 @@ Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This i
 
 
 ### masks
-Officially recommend masks, since they mitigate the infection risk. Without official recommendation, people can be put off or look afraid from masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
+Officially recommend masks, since they mitigate the infection risk. Without an official recommendation, people can be put off or look afraid of masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
-    - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micro meter) with a 25 fold reduction in the number of viral copies 
-    -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micro meter)
+    - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micrometer) with a 25 fold reduction in the number of viral copies 
+    -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micrometer)
     - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
 
-    Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of a factor 5 = (2 times less particles inhaled) * (2.5 times less particles in air since less exhaled). This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+    Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of factor 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled). This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 
 
 <!--  
 Reasons against masks seem sometimes rather searched:
 * touching more often the face. Remark: Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this masks are protective. 
-* Reserve for healthcare workers is needed for the big wave. Remark: If mask are shown to help prevent the big wave in its roots, then that's the better option.-->
+* Reserve for healthcare workers is needed for the big wave. Remark: If masks are shown to help prevent the big wave in its roots, then that's the better option.-->
 
 
 ### ventilation
@@ -187,7 +189,7 @@ Reasons against masks seem sometimes rather searched:
 * [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
 
 ### distancing
-Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke like) can be reduced with distancing. Outside or with good ventilation less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered as with avoiding a fire's smoke. Airflow due to ventilation can have a direction too: kitchen hood and toilet venting draw air. 
+Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-like) can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, airflow can have a direction too: e.g. kitchen hood and toilet venting draw air. 
 
 <p id='monitor'></p>
 
@@ -195,7 +197,7 @@ Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke l
 ### Step by Step Lessening of Measures
 * Monitoring the personal of newly opened businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
 * Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Test can also be used to do sampling and monitoring. Early action is important in these settings. 
-* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for good fit and instruct the usage. For self protection good fit is important. Surgical masks are not always optimal, since they are constructed for comfort and inside-to-out protection and not outside-in protection. The health care workers can also determine if self cleaning is an option: wash with a lot of soap or use heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]. 
+* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage. For self protection good fit is important. Surgical masks are not always optimal since they are constructed for comfort and inside-to-out protection and not outside-in protection. The health care workers can also determine if self cleaning is an option: wash with a lot of soap or use heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]. 
 
 
 <p id="data"> ---</p>
@@ -207,18 +209,18 @@ Data production/collection, data description and data analysis can be done separ
 Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
 
 <!--
-* there are a lot of skilled data scientist around the world. Many spending their time presenting us the most relevant adds. Relevant usually means highest click rate i.e. most distracting. Whether distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
+* there are many skilled data scientists around the world. Many spending their time presenting us the most relevant ads. Relevant usually means highest click rate i.e. most distracting. Whether the distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
 
 #### data specifications
 
 For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world and a worldwide agreement on annotations and publishing of country/region specific specifications would make the data at least partially comparable. 
 
-E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group as of 17.4.20. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everybody who is sick or even everybody who could be infected is tested.
+E.g. In Switzerland, the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group as of 17.4.20. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressive but just not comparable to countries, where everybody who is sick or even everybody who could be infected is tested.
 Remark: As of 1.5.20 more people are allowed to test. 
 
-> Subjective Remark: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor environments. A gradual reopening starting in April makes sense. 
-Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated. 
+> Subjective Remark: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor environments. A gradual reopening starting in April makes sense. 
+Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearly stated. 
 To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. However around the world it remains important to support public health and keeping some slow down can be part of that. 
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
 
@@ -227,7 +229,7 @@ Right or Wrong and Perfection anyways are often a matter of viewpoint and angle.
 * Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
 
 #### easy readable
-Data are ideally have a common used format (e.g. csv) on a public api (e.g. GitHub repository/rest api), are annotated and contain a readme with the specifications what and how is measured. 
+Data ideally are in a common format (e.g. CSV) on a public API (e.g. GitHub repository/REST API), are annotated and contain a readme with the specifications what and how is measured. 
 
 
 
@@ -235,7 +237,7 @@ Data are ideally have a common used format (e.g. csv) on a public api (e.g. GitH
 
 # Coronaviruses with a Focus on Sars-CoV-2
 [in work]
-This short overview reviews various aspects of coronaviruses. The overview is fare from complete and mostly covers topics relevant for other part part of [this site](#home)
+This short overview reviews various aspects of coronaviruses. The overview mostly covers topics relevant for other part part of [this site](#home).
 
 - [Introduction to Viruses](#intro-to-viruses)
 - [Introduction to Coronaviruses](#intro-to-coronaviruses)
@@ -251,11 +253,11 @@ This short overview reviews various aspects of coronaviruses. The overview is fa
 
 ## Introduction to Viruses
 
-> <span id='virus'> A _virus_ is a form of life which can't produce all of its needed  enzymes. While outside of a cell and ready to infect a cell a virus is called _virion_.</span>
+> <span id='virus'> A _virus_ is a form of life that can't produce all of its needed  enzymes. While outside of a cell and ready to infect a cell a virus is called _virion_.</span>
 
-Once a virus hijacks/infects cells, it usually changes the cells metabolism to produce rough copies of itself. So viruses are dependent on the host cells. Therefore longterm surviving virus strains often have a symbiotic relation with their natural host life form as a whole but they can be fatal for individuals. Survival of fit ecosystem is ubiquitous in nature. 
+Once a virus hijacks/infects cells, it usually changes the cell's metabolism to produce rough copies of itself. So viruses are dependent on the host cells. Therefore longterm surviving virus strains often have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystem is ubiquitous in nature. 
 
-> <span id='infected-cell'> A cell is called _infected_ by a virus if it contains genetic material of a virus which influences the cells metabolism. These can mean that the virus replicates in the cell. A cell is also called infected, if only some viral genes are translated. </span>
+> <span id='infected-cell'> A cell is called _infected_ by a virus if it contains some genetic material of a virus which influences the cell's metabolism. These can mean that the virus replicates in the cell. A cell is also called infected if only some viral genes are translated. </span>
 
 > <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected, where an entity can be a tissue, an organ or an organism.</span> 
 
@@ -286,7 +288,7 @@ These can involve the following steps (steps in [<step>] are facultative):
 - an exploitable cell
 
 ### cell entry
-- virus gets attached to the matching receptor on the target cell mostly via the spike protein
+- the virus gets attached to the matching receptor on the target cell mostly via the spike protein
 - fusion of the viral envelope with host cell membranes
 - release of genetic material and proteins into the cell
 - start metabolism 
@@ -297,7 +299,7 @@ These can involve the following steps (steps in [<step>] are facultative):
 - start transcription yield new mRNAs, which in turn are translated to proteins
 
 ### replication
-The metabolism can produce new virions which are released from the cell.
+The metabolism can produce new virions that are released from the cell.
 
 ### next targets
 * the same cell type| another cell type
@@ -308,19 +310,19 @@ The metabolism can produce new virions which are released from the cell.
 <p id='movement-of-virions'></p>
 
 ## Intermezzo Movement of Virions 
-Once virions are released from a cell the virions are moved by whatever movements there are and/or be moved due to brownian motion:
+Once virions are released from a cell the virions are moved by whatever movements there are and/or be moved due to Brownian motion:
 
 * __Carrier Organism__: This is mostly the host where the virus was built but it can be an animal just carrying the virion i.e. a vector. 
-    - movements of a body fluid. Examples are
+    - movements of body fluids. Examples are
         * the blood flow if the virion is in the bloodstream
         * the mucus flow 
         * the air breathed in and out and the [particle dynamics in the respiratory tract](#particles) associated.
     - solid movements within the host i.e. the virion is on a moveable body part. This can be
         * the movement of a hand 
         * the movement of the lungs to breath 
-    - movement of the host itself and thereby transport the virions. The farther, faster and the more possible host at new location the better for the virus to distribute. Traditionally the optimal transportation were fare flying animals: birds, bats. The inventions of the airplane and the following jetting around the world from city to city, made us humans new optimal hosts.
+    - movement of the host itself and thereby transport the virions. The farther, faster and the more possible host at new location the better for the virus to distribute. The optimal transportation used to be fare flying animals: birds, bats. The inventions of the airplane and the following jetting around the world from city to city made us humans new optimal hosts.
 * __Carrier Material__:
-    These can be any material e.g. a piece of tissue a virion is attached to. These materials are in turn subject to another form movement. 
+    These can be any material e.g. a piece of tissue a virion is attached to. These materials are in turn subject to another form of movement. 
 * __Extern Movement but Not Carrier Organism__:
     - Wind
     - Water
@@ -333,12 +335,12 @@ Each step  in the life cycle has constraints.
 
 
 ### reach a target constraints
- A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a receptor on the membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percent, so the combined probability of reaching a target is very low.
+ A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a receptor on the membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low.
 
 #### reach an exploitable host constraints
 Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
-* get attached to a wrong surface. The probability for this is extremely high due to the random movement. 
-* sun light destroys virions. 
+* get attached to a wrong thing. The probability of this is extremely high due to the random movement. 
+* sunlight destroys virions. 
 * heat
 * chemical environment
     
@@ -357,7 +359,7 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
 * Also the cell environments shouldn't deactivate the virus, e.g. antibodies do so.
 
 #### matching receptor
-To enter a cell a virus needs his 'grappling hook' (usually the spike protein) to bind on a receptor on the cell membrane to get attached.  Next the virus needs to pass the cell membrane, this step is usually achieved by cleavage of the spike protein which then becomes a 'key' for fusion with the cell membrane. In the case of coronaviruses the keys are often the spike-proteins. 
+To enter a cell a virus needs his 'grappling hook' (usually the spike protein) to bind on a receptor on the cell membrane to get attached.  Next the virus needs to pass the cell membrane, this step is usually achieved by cleavage of the spike protein which then becomes a 'key' for fusion with the cell membrane. In the case of coronaviruses, the keys are often the spike-proteins. 
 
 #### right environment inside the cell
 [in work]
@@ -365,30 +367,30 @@ To enter a cell a virus needs his 'grappling hook' (usually the spike protein) t
 <p id='evolution-and-adaption'>-----</p>
 
 ## Evolution and Adaption
-The evolution rate of coronaviruses is fast because of a short average generation time and the mechanism they copy their RNA. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
-* RNA-dependent RNA polymerase, which yields high rate of random point mutations.  
+The evolution rate of coronaviruses is fast because of a short average generation-time and the mechanism they copy their RNA. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
+* RNA-dependent RNA polymerase, which yields a high rate of random point mutations.  
 * a homologous recombination mechanism. 
-Coronaviruses have large genomes (in comparison to other viruses and messenger RNAs) which both backs the mentioned recombinations and encodes complex proteins. Overall they can fast adapt to changed or new environments if given time and opportunity and they can change the metabolism of the target cells in various ways. 
+Coronaviruses have large genomes (in comparison to other viruses and messenger RNAs) which both back the mentioned recombinations and encodes complex proteins. Overall they can fast adapt to changed or new environments if given time and opportunity and they can change the metabolism of the target cells in various ways. 
 [in work]
 
 <p id='section-habitat'>-----</p>
 
 ## Habitat
-><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infected-entity) such as tissues, organs, oragnisms which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
+><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infected-entity) such as tissues, organs, organisms which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
 ><span id='host'> A *Host* of a virus is an animal which has virus [habitats](#habitat) i.e. the animal has cells which are subject to frequent virus infections. </span>
 
 ><span id='natural-host'>A *Natural Host* of a virus is an animal which plays a relevant role in the spread of a virus.</span>
 
-Possible habitats are subject to constraints by life cycle. For viruses in a natural equilibrium, this are mostly the places which are involved in the survival of the virus strain i.e. places relevant for spread. 
+Possible habitats are subject to constraints by life cycle. For viruses in natural equilibrium, the locations are involved in the survival of the virus strain i.e. relevant for spread. 
 Places relevant for spread can be:
 * cells in which efficient virus replications takes place. 
 * cells which upon infection diminish the host immune response. 
 
-So in a natural equilibrium hosts are usually natural hosts too. Hosts which are non Natural Hosts occur primarly if the environmental conditions improved for a virus. 
+So in natural equilibrium hosts are usually natural hosts too. Hosts which are non Natural Hosts occur primarily if the environmental conditions improved for a virus. 
 
 ### conquering new habitats
-The virus can get attached to a cell type or host the given strain hasn't been endemic. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a line of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occurred. Since in new habitats there often is different evolutionary drive, the line of viruses can give raise to a new virus strain.  
+The virus can get attached to a cell type or host the given strain hasn't been endemic. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a line of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occurred. Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
 
 ### interspecies transmissions
 As the [movement of virions](#movement-of-virions) is random, virions reach animals at random. Two cases [for programmers: switch(animal) aka animal match]:
@@ -396,19 +398,19 @@ As the [movement of virions](#movement-of-virions) is random, virions reach anim
 * the animal reached is not a host. Two cases:
     - it is NOT infectable -> break
     - it is infectable called [*interspecies infection*](#interspecies-infection). Again two cases:
-        * the virus can leave and infect another host called [*interspecies jump*](#interspecies-jump) -> gives raise to a new life cycle
+        * the virus can leave and infect another host called [*interspecies jump*](#interspecies-jump) -> gives rise to a new life cycle
         * the virus can not leave the host i.e. it is a cul-de-sac -> break
     
 ### interspecies infections
 > <span id='interspecies-infection'> An _interspecies infection_ is when a _non_ [natural host](#natural-host) animal becomes infected by a virus strain. </span>
 
-So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a host but not a natural host. Frequent infections give the virus strain opportunity to adapt to the new host. The host therefore may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
+So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
 
 #### observed interspecies infections
-* all occurrences where [interspecies jumps](#interspecies-jumps) occurred at least one interspecies infection must have occured. But it is likely that many interspecies infections occurred before the jump happened. 
+* all occurrences where [interspecies jumps](#interspecies-jumps) occurred at least one interspecies infection must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
 * Infections of Humans:
-    There are quite a few reports on that BCoV regularly cause infections in the human intestines. Most of them are based on EM images and serological evidences. However since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
-    - The HECV-4408 coronavirus was isolated from a child having diarrhoea [Zhang et al](#zhang94)
+    There are quite a few reports on that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
+    - The HECV-4408 coronavirus was isolated from a child having diarrhea [Zhang et al](#zhang94)
 
 
 ### interspecies jumps
