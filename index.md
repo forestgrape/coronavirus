@@ -145,6 +145,12 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 
 # Thoughts on Monitor and Controlling Sars-CoV-2
 This section extends and   [Public Advices and Suggestions](#public-advice) section. 
+## Content
+* [Protection Measures](#protection-measures)
+* [Monitor](#monitor)
+* [Data Availability](#data)
+
+<p id='protection-measures'></p>
 
 ## Protection Measures
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission), which is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
@@ -185,6 +191,8 @@ Reasons against masks seem sometimes rather searched:
 ### distancing
 Both aersol/droplets (reek of alcohol like spread) and dry particulates (smoke like) can be reduced with distancing. Outside or with good ventilation less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered as with avoiding a fire's smoke. Airflow due to ventilation can have a direction too: kitchen hood and toilet venting draw air. 
 
+<p id='monitor'></p>
+
 ## Monitor 
 ### Step by Step Lessening of Measures
 * Monitoring the personal of newly opened businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
@@ -211,7 +219,7 @@ The different data measurement methods related to Covid-19, combined with no or 
 E.g. In Switzerland the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group as of 17.4.20. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressiv but just not comparable to countries, where everbody who is sick or even everybody who could be infected is tested.
 Remark: As of 1.5.20 more people are allowed to test. 
 
-> Subjective Remark: While not perfect, the government and the BAG do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially childern to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor enviroments. A gradual reopening starting in April makes sense. 
+> Subjective Remark: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially childern to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor enviroments. A gradual reopening starting in April makes sense. 
 Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearer stated. 
 Too rate afterthought is much easier than to be there in charge with few proven and sure knowlegde. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. However around the world it remains important to support public health and keeping some slow down can be part of that. 
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
@@ -231,27 +239,34 @@ Data are ideally have a common used format (e.g. csv) on a public api (e.g. gith
 [in work]
 This short overview reviews various aspects of coronaviruses. The overview is fare from complete and mostly covers topics relevant for other part part of [this site](#home)
 
-- features of viruses
-- features of coronaviruses
-- life cycle
-- life cycle constraints
-- evolution and adaption
-- habitat 
+- [introduction](#introduction)
+- [introduction to coronaviruses](#introduction-to-coronaviruses)
+- [life cycle](#life-cycle)
+- [intermezzo movement of virions](#movement-of-virions)
+- [life cycle constraints](#life-cycle-constraints)
+- [evolution and adaption](#evolution-and-adaption)
+- [habitat](#habitat)
 - [habitat of sars-cov-2](#habitat-of-sars-cov-2)
 
-## Introduction 
+
+<p id="intro-to-viruses">-----<p>
+
+## Introduction to Viruses
 
 > <span id='virus'> A _virus_ is a form of life which can't produce all of its needed  enzymes. While outside of a cell and ready to infect a cell a virus is called _virion_.</span>
 
 Once a virus hijacks/infects cells, it usually changes the cells metabolism to produce rough copies of itself. So viruses are dependent on the host cells. Therefore longterm surviving virus strains often have a symbiontic relation with their natural host life form as a whole but they can be fatal for individuals. Survival of fit ecosystem is ubiquitous in nature. 
 
-> <span id='infected-cell'> An cell is called _infected_ by a virus if it contains genetic material of a virus which influences the cells metabolism. These can mean that the virus replicates in the cell. A cell is also called infected by this definition is only some viral genes are translated. </span>
+> <span id='infected-cell'> An cell is called _infected_ by a virus if it contains genetic material of a virus which influences the cells metabolism. These can mean that the virus replicates in the cell. A cell is also called infected, if only some viral genes are translated. </span>
 
 > <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected, where an entity can be a tissue, an organ or an organism.</span> 
 
 
 
-## features of coronaviruses
+<p id="intro-to-coronavirus">-----</p>
+
+## Introduction to Coronaviruses
+
 Coronaviruses belong to Nidoviruses which share a pattern of replication within a cell. 
 Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messanger RNA pieces of the cell. Enveloped means they have a membrane. The membrane consits of a lipid bilayer and proteins and forms a sphere. Among the membrane proteins are large spike proteins. Theses spike protein point out of the sphere, which gives coronaviruses a crown (in latin corona) like appearance under the electron microscope.
 
@@ -260,8 +275,9 @@ Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruse
 - structural proteins: used to give newly built viruses structure. These are the membrane proteins and the internal protein N stabilizes the RNA
 - diminish host defence
 
+<p id='life-cycle'>-----</p>
 
-## life cycle 
+## Life Cycle 
 [in work]
 
 ### reach the target cell
@@ -290,7 +306,10 @@ The metabolism can produce new virions which are released from the cell.
 * the same tissue| another tissue 
 * the same host| another host 
 
-## movement of virions 
+
+<p id='movement-of-virions'></p>
+
+## Intermezzo Movement of Virions 
 Once virions are released from a cell the virions are moved by whatever movements there are and/or be moved due to brownian motion:
 
 * __Carrier Organism__: This is mostly the host where the virus was built but it can be an animal just carrying the virion i.e. a vector. 
@@ -309,24 +328,23 @@ Once virions are released from a cell the virions are moved by whatever movement
     - Water
 * __Brownian Motion__: Brownian motion denotes the random movements of objects in a fluid. [to be extended] The Brownian of viruses is very small and by Brownian motion alone a virion can only reach close by cells.
     
-<p id="constraints"></p>
+<p id="life-cycle-constraints">-----</p>
 
 ## Life Cycle Constraints
 Each step  in the life cycle has constraints. 
 
-<p id="travel-constraints"></p>
 
-### Constraints to Reach a Target
+### reach a target constraints
  A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a receptor on the membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percent, so the combined probability of reaching a target is very low.
 
-#### reach an exploitable host
+#### reach an exploitable host constraints
 Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
 * get attached to a wrong surface. The probability for this is extremely high due to the random movement. 
 * sun light destroys virions. 
 * heat
 * chemical environment
     
-#### reach an exploitable tissue  
+#### reach an exploitable tissue constraints 
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
 * mucus clearance
@@ -334,7 +352,7 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
  
 <p id="target-constraints"></p>
 
-### Constraints on a Target 
+### constraints on a target to be infectable  
 
 #### right environment around the target cell
 * The spike proteins of coronaviruses needs to be cleaved for cell entry. This cleaving can require the right physiological conditions [Holmes](#holmes). 
@@ -346,19 +364,23 @@ To enter a cell a virus needs his 'grappling hook' (usually the spike protein) t
 #### right environment inside the cell
 [in work]
 
-## evolution and adaption
+<p id='evolution-and-adaption'>-----</p>
+
+## Evolution and Adaption
 The evolution rate of coronaviruses is fast because of a short average generation time and the mechanism they copy their RNA. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
 * RNA-dependent RNA polymerase, which yields high rate of random point mutations.  
 * a homologous recombination mechanism. 
 Coronaviruses have large genomes (in comparison to other viruses and messanger RNAs) which both backs the mentioned recombinations and encodes complex proteins. Overall they can fast adapt to changed or new environments if given time and opportunity and they can change the metabolism of the target cells in various ways. 
 [in work]
 
-## habitat
-><span id='habitat'> A *Habitat*</span> of a virus are collections of [cells](#infected-cell) or [entities](#infected-entity) such as tissues,organs, oragnisms which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
+<p id='section-habitat'>-----</p>
 
-><span id='host'>A *Host*</span> of a virus is an animal which has virus [habitats](#habitat) i.e. the animal has cells which are subject to frequent virus infections. </span>
+## Habitat
+><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infected-entity) such as tissues,organs, oragnisms which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
-><span id='natural-host'>A *Natural Host*</span> of a virus is an animal which plays a relevant role in the spread of a virus.</span>
+><span id='host'> A *Host* of a virus is an animal which has virus [habitats](#habitat) i.e. the animal has cells which are subject to frequent virus infections. </span>
+
+><span id='natural-host'>A *Natural Host* of a virus is an animal which plays a relevant role in the spread of a virus.</span>
 
 Possible habitats are subject to constraints by life cycle. For viruses in a natural equilibrium, this are mostly the places which are involved in the survival of the virus strain i.e. places relevant for spread. 
 Places relevant for spread can be:
@@ -368,37 +390,39 @@ Places relevant for spread can be:
 So in a natural equilibrium hosts are usually natural hosts too. Hosts which are non Natural Hosts occur primarly if the environmental conditions improved for a virus. 
 
 ### conquering new habitats
-Sometime the new target is cell type or host the given strain of virus hasn't been endemic. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a line of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occured. Since in new habitats there often is different evolutionary drive, the line of viruses can give raise to a new virus strain.  
+The virus can get attached to a cell type or host the given strainhasn't been endemic. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a line of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occured. Since in new habitats there often is different evolutionary drive, the line of viruses can give raise to a new virus strain.  
 
-### interspecies transmission
+### interspecies transmissions
 As the [movement of virions](#movement-of-virions) is random, virions reach animals at random. Two cases [for programmers: switch(animal) aka animal match]:
 * the animal reached is a host -> continue life cycle 
 * the animal reached is not a host. Two cases:
     - it is NOT infectable -> break
-    - it is infectable called [_interspecies infection_](#interspecies-infection). Again two cases:
-        * the virus can leave and infect another host called [_interspecies jump_](#interspecies-jump) -> gives raise to a new life cycle
+    - it is infectable called [*interspecies infection*](#interspecies-infection). Again two cases:
+        * the virus can leave and infect another host called [*interspecies jump*](#interspecies-jump) -> gives raise to a new life cycle
         * the virus can not leave the host i.e. it is a cul-de-sac -> break
     
-
-### interspecies infection
-[in work]
+### interspecies infections
 > <span id='interspecies-infection'> An _interspecies infection_ is when a _non_ [natural host](#natural-host) animal becomes infected by a virus strain. </span>
 
-So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a host but not a natural host. Frequent infections give the virus strain opportunity to adapt to the new host. The host therefore may become part of a life cycle of a possibly new virus strain, 
+So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a host but not a natural host. Frequent infections give the virus strain opportunity to adapt to the new host. The host therefore may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
 
-
-### interspecies jump
-> <span id='interspecies-jump'> An *interspecies jump* denotes a transmission to a new species and becomes host of the same virus strain or an adapted virus strain i.e. the virus becomes endemic to the new species.</span>
-* jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, pwild ruminants, porcine [Bidokhti et al](#bidokhti).
-* jumps to humans: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all well known jumps to humans. 
-* infections of humans:<br>
+#### observed interspecies infections
+* all occurences where [interspecies jumps](#interspecies-jumps) occured at least one interspecies infection must have occured. But it is likely that many interspecies infections occured before the jump happened. 
+* Infections of Humans:
     There are quite a few reports on that BCoV regulary cause infections in the human intestines. Most of them are based on EM images and serological evidences. However since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
     - The HECV-4408 coronavirus was isolated from a child having diarrhoea [Zhang et al](#zhang94)
 
 
+### interspecies jumps
+> <span id='interspecies-jump'> An *interspecies jump* denotes a transmission to a new species and becomes host of the same virus strain or an adapted virus strain i.e. the virus becomes endemic to the new species.</span>
+* jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, pwild ruminants, porcine [Bidokhti et al](#bidokhti).
+* jumps to humans: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all well known jumps to humans. 
 
-## habitat of sars-cov-2
-The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by [empirical observations](#empirical-obserations) i.e. analyzing the pathogenesis of Covid-19.
+
+<p id='habitat-of-sars-cov-2'>-----</p>
+
+## Habitat of Sars-CoV-2
+The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
 In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [constraints](#life-cycle-constraints) of Sars-CoV-2. 
@@ -426,8 +450,14 @@ Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability
 
 That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].  
 
-## Immune Protection with a Focus on Coronaviruses
+<p id='immune-protection'>-------</p>
+
+# Immune Protection with a Focus on Coronaviruses
+
+
+[in work]
 Some topics and findings of the vertebrate immune protection relevant for other parts of [this site](#home) are described. 
+
 
 ## cross immune protection
 Despite the overall high mutation rate of coronaviruses, the replication mechanism within a cell and proteins needed for this replication and some structural proteins are well conserved. Therefore there are similar patterns upon infection with different coronaviruses, which the immune system can recognize or can be targeted by medications. 
@@ -455,7 +485,6 @@ Despite the overall high mutation rate of coronaviruses, the replication mechani
 # Ideas to Explore
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
-* [Data Availability](#data)
 
 
 <p id="litvac2"> -----</p>
@@ -469,7 +498,6 @@ Despite the overall high mutation rate of coronaviruses, the replication mechani
     - epidemiologic(#epidemiologic)
     - medications(#medications)
 * [biological basis](#biological-basis)
-
 * [epidemiological evidence](#epidemiological-evidence)
     - [covid-19 in switzerland](#covid-19-in-switzerland)
     - [covid-19 in spain](#covid-19-in-spain)
@@ -512,7 +540,6 @@ Knowledge of cross immune reactions can help to develop medications and even lit
 
 
 
-
 ### Evidence from Distribution of Covid-19 
 In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform, testing results are used too beside death counts. 
 [data wikipedia][in work]
@@ -540,23 +567,24 @@ The cattle rich regions in the North and North East: Galicia, La Rioja, Basque C
 #### Remark
 Similar patterns seem to be in the USA and France. 
 
-### biological basis
+### Biological Basis
 First observations of cross immune protections are described. Then species jumps of betacoronaviruses are described and even jumps from BCoV to humans have been observed. 
 [in work]
 
 #### observed cross immune protections between different coronaviruses
+[Cross immune protections](#cross-immune-protection) against coronaviruses have been observed for different strains, therefore cross protections can exists for coronaviruses. 
+Examples of observered cross immune protections are:
 * As already noted in the introduction  [Van der Hoek et al.](#vanderhoek2012) observed by analysing serum conversions:
     - OC43 -protects-> HKU1 (only unidirectional)
     - NL63 -protects-> 229E (only unidirectional)
     
 * [Han et al](#han) showed that calves innoculated with HECV-4408get cross-protective immunity against BCoV DB2. HECV-4408 is a strain that can cause acute diarrhea in humans, see [human bcov infections](#human-bcov-infections)
 
-#### species jumps
-[in. work]
-
-
-##### human bcov infections
-* The HECV-4408 coronavirus was isolated from a child suffering pneunomia in 94 as described in [Zhang et al]
+#### Interspecies Transmission
+ There are even many examples where BCoVs crossed species borders, for which a [interspecies infection](#interspecies-infection) is necessary. Frequent BCoV infections to humans occur likely but they are not easy to prove. 
+Examples where they have proven or there is strong evidence are:
+* The HECV-4408 coronavirus was isolated from a child suffering pneunomia in 94 as described in [Zhang et al](#zhang94)
+* OC43 likely was a BCoV jump to humans so frequent infections before are likely. 
 
 
 ### mechanisms
@@ -819,7 +847,7 @@ Based on the aerosol and dry form transmission models, expected spread patterns 
 
 ## Models for Transmission
 
-In the following, a new model of dry form transmission of Sars-CoV-1 and Sars-CoV-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, due to the [obligate lower respiratory tract entry](#habitat) for Sars-CoV-2. 
+In the following, a new model of dry form transmission of Sars-CoV-1 and Sars-CoV-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#habitat-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form so the dry form infection is possible in theory.
 
@@ -1131,7 +1159,7 @@ TODO UPDATE REFERENCES
 ### Epidemiological Patterns
     
 *  ##### le
-	The Lancet Editoral<strong>
+	The Lancet Editoral
 	**COVID-19: protecting health-care workers**
 	www.thelancet.com Vol 395 March 21, 2020
 	https://doi.org/10.1016/S0140-6736(20)30644-9 
@@ -1334,7 +1362,7 @@ TODO UPDATE REFERENCES
 ### Clearance of the Respiratory Tract
 
 * ##### yuen
-     Kelvin K. W. To, Ivan F. N. Hung, Iris W. S. Li, Kar-Lung Lee, Chi-Kwan Koo, Wing-Wa Yan, Raymond Liu,Ka-Ying Ho, Kwok-Hong Chu, Chi-Leung Watt, Wei-Kwang Luk, Kang-Yiu Lai, Fu-Loi Chow, Thomas Mok, Tom Buckley, Jasper F. W. Chan, Samson S. Y. Wong, Bojian Zheng, Honglin Chen, Candy C. Y. Lau, Herman Tse, Vincent C. C. Cheng, Kwok-Hung Chan, Kwok-Yung Yuen, and the Pandemic H1N1 Study Grou <strong>
+     Kelvin K. W. To, Ivan F. N. Hung, Iris W. S. Li, Kar-Lung Lee, Chi-Kwan Koo, Wing-Wa Yan, Raymond Liu,Ka-Ying Ho, Kwok-Hong Chu, Chi-Leung Watt, Wei-Kwang Luk, Kang-Yiu Lai, Fu-Loi Chow, Thomas Mok, Tom Buckley, Jasper F. W. Chan, Samson S. Y. Wong, Bojian Zheng, Honglin Chen, Candy C. Y. Lau, Herman Tse, Vincent C. C. Cheng, Kwok-Hung Chan, Kwok-Yung Yuen, and the Pandemic H1N1 Study Group
     **Delayed Clearance of Viral Load and Marked Cytokine Activation in Severe Cases of Pandemic H1N1 2009 Influenza Virus Infection** 
     Clinical Infectious Diseases 2010;50:850–859 2010 by the Infectious Diseases Society of America https://doi.org/10.1086/650581 
 
