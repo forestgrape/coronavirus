@@ -239,14 +239,14 @@ Data are ideally have a common used format (e.g. csv) on a public api (e.g. gith
 [in work]
 This short overview reviews various aspects of coronaviruses. The overview is fare from complete and mostly covers topics relevant for other part part of [this site](#home)
 
-- [introduction](#introduction)
-- [introduction to coronaviruses](#introduction-to-coronaviruses)
-- [life cycle](#life-cycle)
-- [intermezzo movement of virions](#movement-of-virions)
-- [life cycle constraints](#life-cycle-constraints)
-- [evolution and adaption](#evolution-and-adaption)
-- [habitat](#habitat)
-- [habitat of sars-cov-2](#habitat-of-sars-cov-2)
+- [Introduction to Viruses](#intro-to-viruses)
+- [Introduction to Coronaviruses](#intro-to-coronaviruses)
+- [Life Cycle](#life-cycle)
+- [Intermezzo Movement of Virions](#movement-of-virions)
+- [Life Cycle Constraints](#life-cycle-constraints)
+- [Evolution and Adaption](#evolution-and-adaption)
+- [Habitat](#habitat)
+- [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
 
 
 <p id="intro-to-viruses">-----<p>
