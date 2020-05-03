@@ -7,12 +7,12 @@
 * This is work in progress, so mistakes of any form are likely. 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas to be checked and evaluated. 
-* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus a thankful remark may be more suitable than citing (if to put as a license: at most Creative Commons and thanks is enough as attribution). In short: if the page is helpful, a thanks is enough and highly welcome. 
+* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus a thankful remark may be more suitable than citing (if to put as a license: at most Creative Commons and thanks is enough as attribution). However if large parts of the content are republished attribution is required. In short: copy paste like republishing needs attribution. If the page is inspiring, a thanks is enough and welcome. 
 
 <!--
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences and a lot of time to read resources is helpful. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
-* Pointing out mistakes of any form, __improvement suggestions__ and __feedback__ are __welcome__.
+* __Pointing out mistakes__ especially relating to content, __improvement suggestions__ and __feedback__ are __welcome__.
 <!-- * The page is soon going to be split up into different topics. -->
 
 <p id="t-content">-----</p> <!-- workaround to set ids, since github preview/jupyter keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
