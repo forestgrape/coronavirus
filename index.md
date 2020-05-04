@@ -156,7 +156,7 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission), which is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
 
 ### support immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings, it is difficult to completely avoid Sars-CoV-2. There were cases of infection in labs and some countries even discouraged autopsies[citations in work]. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important protection available is a good immune system. Even vaccines - once available - just can prepare the immune system and not replace it. So the measures should focus to support the overall immune protection of humanity. That's good anyway, there's much more than Covid-19. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), it is difficult to completely avoiding virus infections and the  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and some countries even discouraged autopsies for Covid-19 [citations in work]. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important protection available is a good immune system. Even vaccines - once available - just can prepare the immune system and not replace it. So the measures should focus to support the overall immune protection of humanity. That's good anyway, there's much more than Covid-19. 
 
 * reduce stress and provide settings to focus on health:
     - affordable life including basic health care
@@ -1155,6 +1155,25 @@ TODO UPDATE REFERENCES
     **Immunohistochemical, in situ hybridization, and ultrastructural localization of SARS-associated coronavirus in lung of a fatal case of severe acute respiratory syndrome in Taiwan**
     Human Pathology (2005) 36, 303 – 309
     https://doi.org/10.1016/j.humpath.2004.11.006  
+
+
+#### Laboratory Safety
+
+* ##### orellana
+    Orellana C. (2004). 
+    **Laboratory-acquired SARS raises worries on biosafety.** 
+    The Lancet. Infectious diseases, 4(2), 64. https://doi.org/10.1016/s1473-3099(04)00911-9
+
+* ##### raoult
+    Wurtz, N., Papa, A., Hukic, M., Di Caro, A., Leparc-Goffart, I., Leroy, E., Landini, M. P., Sekeyova, Z., Dumler, J. S., Bădescu, D., Busquets, N., Calistri, A., Parolin, C., Palù, G., Christova, I., Maurin, M., La Scola, B., & Raoult, D. (2016). 
+    **Survey of laboratory-acquired infections around the world in biosafety level 3 and 4 laboratories.** European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology, 35(8), 1247–1258. https://doi.org/10.1007/s10096-016-2657-1
+
+* ##### lim 
+    Poh Lian Lim, M.D., M.P.H., Asok Kurup, M.B., B.S., Gowri Gopalakrishna, M.Sc., Kwai Peng Chan, M.B., B.S., Christopher W. Wong, Ph.D., Lee Ching Ng, Ph.D., Su Yun Se-Thoe, Ph.D., Lynette Oon, M.B., B.S., Xinlai Bai, M.Sc., Lawrence W. Stanton, Ph.D., Yijun Ruan, Ph.D., Lance D. Miller, Ph.D., et al.
+    **Laboratory-Acquired Severe Acute Respiratory Syndrome**
+    April 22, 2004 N Engl J Med 2004; 350:1740-1745 https://doi.org/10.1056/NEJMoa032565
+
+
   
   
     
