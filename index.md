@@ -156,16 +156,17 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission), which is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
 
 ### support immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Outsides, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - once available - just can prepare the immune system and not replace it. So main focus should be to support the overall immune protection of humanity. This focus on the immune system should be around the world but especially in tropical regions where Sars-CoV-2 spreads less. A good immune system is good anyway, there's much more than Covid-19. 
-
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Outsides, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - once available - just can prepare the immune system and not replace it. So main focus should be to support the overall immune protection of humanity. This is especially true in tropical regions where Sars-CoV-2 spreads less. A good immune system is important for many more reasons.  
+[in work]
 Proposals to increase the immune system:
-* provide settings that support good health:
-    - affordable life including basic health care
-    - less pressure in workplaces
+* providing settings that support good health
     - allow people out to the fresh air
     - enviromental protection and clean air
+* lessen stress
+    - affordable life including basic health care
+    - less pressure in workplaces
 * healthy nutrition 
-* provide information and tips to focus on health
+* providing information and tips to focus on the immune system and health
 
 
 ### masks
@@ -365,7 +366,7 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
 To enter a cell a virus needs his 'grappling hook' (usually the spike protein) to bind on a receptor on the cell membrane to get attached.  Next the virus needs to pass the cell membrane, this step is usually achieved by cleavage of the spike protein which then becomes a 'key' for fusion with the cell membrane. In the case of coronaviruses, the keys are often the spike-proteins. 
 
 #### right environment inside the cell
-[in work]
+[in work]~
 
 <p id='evolution-and-adaption'>-----</p>
 
