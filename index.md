@@ -156,7 +156,7 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission), which is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
 
 ### support immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), it is difficult to completely avoiding virus infections and the  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and some countries even discouraged autopsies for Covid-19 [citations in work]. Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important protection available is a good immune system. Even vaccines - once available - just can prepare the immune system and not replace it. So the measures should focus to support the overall immune protection of humanity. That's good anyway, there's much more than Covid-19. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important protection available is a good immune system. Even vaccines - once available - just can prepare the immune system and not replace it. So the measures should focus to support the overall immune protection of humanity. That's good anyway, there's much more than Covid-19. 
 
 * reduce stress and provide settings to focus on health:
     - affordable life including basic health care
@@ -1157,7 +1157,7 @@ TODO UPDATE REFERENCES
     https://doi.org/10.1016/j.humpath.2004.11.006  
 
 
-#### Laboratory Safety
+#### Laboratory Biosafety
 
 * ##### orellana
     Orellana C. (2004). 
@@ -1173,9 +1173,17 @@ TODO UPDATE REFERENCES
     **Laboratory-Acquired Severe Acute Respiratory Syndrome**
     April 22, 2004 N Engl J Med 2004; 350:1740-1745 https://doi.org/10.1056/NEJMoa032565
 
+* ##### finegan
+    Oran Finegan, Stephen Fonseca, Pierre Guyomarc’h, Maria Dolores Morcillo Mendez, Jacqueline Rodriguez Gonzalez, Morris Tidball-Binz, Kristy A. Winter,
+    **International Committee of the Red Cross (ICRC): General guidance for the management of the dead related to COVID-19,**
+    Forensic Science International: Synergy, Volume 2, 2020, Pages 129-137, ISSN 2589-871X, https://doi.org/10.1016/j.fsisyn.2020.03.007.
 
-  
-  
+* ##### artika
+    Artika, I. M., & Ma'roef, C. N. (2017). 
+    **Laboratory biosafety for handling emerging viruses.** 
+    Asian Pacific journal of tropical biomedicine, 7(5), 483–491. https://doi.org/10.1016/j.apjtb.2017.01.020
+
+
     
 ### Epidemiological Patterns
     
