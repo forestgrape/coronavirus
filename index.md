@@ -156,17 +156,20 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission), which is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
 
 ### support immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Outsides, once the virus is widespread, this is nearly impossible. Therefore the most important protection available is a good immune system. Even vaccines - once available - just can prepare the immune system and not replace it. So the measures should focus to support the overall immune protection of humanity. That's good anyway, there's much more than Covid-19. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Outsides, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - once available - just can prepare the immune system and not replace it. So main focus should be to support the overall immune protection of humanity. This focus on the immune system should be around the world but especially in tropical regions where Sars-CoV-2 spreads less. A good immune system is good anyway, there's much more than Covid-19. 
 
-* reduce stress and provide settings to focus on health:
+Proposals to increase the immune system:
+* provide settings that support good health:
     - affordable life including basic health care
-    - less pressure on work
+    - less pressure in workplaces
     - allow people out to the fresh air
+    - enviromental protection and clean air
+* healthy nutrition 
 * provide information and tips to focus on health
 
 
 ### masks
-Officially recommend masks, since they mitigate the infection risk. Without an official recommendation, people can be put off or look afraid of masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
+In risk regions officially recommend masks, since they mitigate the infection risk. Without an official recommendation, people can be put off or look afraid of masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
     - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micrometer) with a 25 fold reduction in the number of viral copies 
     -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micrometer)
@@ -186,7 +189,7 @@ Reasons against masks seem sometimes rather searched:
 ### ventilation
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate both the airborne and droplet spread of influenza, using observed contact patters of students. They find that good ventilation can be as effective as vaccinating around half of the population. 
+* [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is in their setting as effective as vaccinating around half of the population. 
 
 ### distancing
 Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-like) can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, airflow can have a direction too: e.g. kitchen hood and toilet venting draw air. 
