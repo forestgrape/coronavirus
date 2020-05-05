@@ -7,7 +7,8 @@
 * This is work in progress, so mistakes of any form are likely. 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas to be checked and evaluated. 
-* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For republishing content copy paste like attribution is appropriate. In short: copy paste like needs attribution. For inspiration,  thanks are enough and welcome. 
+* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For republishing content copy paste like attribution is appropriate.<br>
+In short: copy paste like needs attribution. For inspiration,  thanks are enough and welcome. 
 
 <!--
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences and a lot of time to read resources is helpful. -->
