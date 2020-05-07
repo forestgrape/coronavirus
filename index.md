@@ -261,9 +261,16 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 Once a virus hijacks/infects cells, it usually changes the cell's metabolism to produce rough copies of itself. So viruses are dependent on the host cells. Therefore longterm surviving virus strains often have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystem is ubiquitous in nature. 
 
-> <span id='infected-cell'> A cell is called _infected_ by a virus if it contains some genetic material of a virus which influences the cell's metabolism. These can mean that the virus replicates in the cell. A cell is also called infected if only some viral genes are translated. </span>
 
-> <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected, where an entity can be a tissue, an organ or an organism.</span> 
+> <span id='infected-cell'> A cell is called _infected_ by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated. </span>
+
+> <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-constraints) to be infectable </span>
+
+> <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected. Entity can be a tissue, an organ or an organism.</span> 
+
+> <span id='infectable-entity'> A _infectable entity_ is an entity which can become [infected](#infected-entity). Entity can be a tissue, an organ or an organism.  There are constraints on a [entity to be infectable](#target-constraints).</span>
+
+><span id='infectable-organism'> An *Infectable organism* is just a a special case of an [infectable entity](#infectable-entity) where the entity is an organism. This means cells in the animal are [infected](#infected-cell) by the virus. </span>
 
 
 
@@ -284,7 +291,7 @@ Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruse
 ## Life Cycle 
 [in work]
 
-### reach the target cell
+### reach an infectable cell
 A virion needs to be matched with a target cell up to some dozens of nanometers. The match can be the active or passive i.e. the virion reaches the host or the host reaches the virion. 
 These can involve the following steps (steps in [<step>] are facultative):
 - [an exploitable host]  
@@ -337,36 +344,36 @@ Once virions are released from a cell the virions are moved by whatever movement
 ## Life Cycle Constraints
 Each step  in the life cycle has constraints. 
 
+A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a matching receptor on the cell membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
 
-### reach a target constraints
- A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a receptor on the membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low.
-
-#### reach an exploitable host constraints
+### reach a host constraints
 Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
 * get attached to a wrong thing. The probability of this is extremely high due to the random movement. 
 * sunlight destroys virions. 
 * heat
 * chemical environment
+
+### host constraints
+Reaching a host with infectable cells is not enough. The host immune system should be diminished or not know the virus. 
     
-#### reach an exploitable tissue constraints 
+### reach a tissue constraints 
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
- 
-<p id="target-constraints"></p>
 
-### constraints on a target to be exploitable  
-
-#### right environment around the target cell
+### tissue constraints
+The tissue needs to provide the right environment around the target cells.
 * The spike proteins of coronaviruses needs to be cleaved for cell entry. This cleaving can require the right physiological conditions [Holmes](#holmes). 
 * Also the cell environments shouldn't deactivate the virus, e.g. antibodies do so.
+ 
+### cell constraints 
 
 #### matching receptor
 To enter a cell a virus needs his 'grappling hook' (usually the spike protein) to bind on a receptor on the cell membrane to get attached.  Next the virus needs to pass the cell membrane, this step is usually achieved by cleavage of the spike protein which then becomes a 'key' for fusion with the cell membrane. In the case of coronaviruses, the keys are often the spike-proteins. 
 
 #### right environment inside the cell
-[in work]~
+[in work]
 
 <p id='evolution-and-adaption'>-----</p>
 
@@ -380,11 +387,18 @@ Coronaviruses have large genomes (in comparison to other viruses and messenger R
 <p id='section-habitat'>-----</p>
 
 ## Habitat
-><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infected-entity) such as tissues, organs, organisms which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
+As discussed in [life cycle constraints](#life-cycle-constraints) there are many conditions for a virus to replicate. Since evolution and adaption are the same for viruses, a virus strain is best adapted to a certain environments. These environments are habitats:
+><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infectable-entity) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
-><span id='host'> A *Host* of a virus is an animal which has virus [habitats](#habitat) i.e. the animal has cells which are subject to frequent virus infections. </span>
+><span id='endemic'> A virus strain is *endemic* in a collection of organism if that collection is a habitat of the virus.</span>
 
-><span id='natural-host'>A *Natural Host* of a virus is an animal which plays a relevant role in the spread of a virus.</span>
+><span id='host'>A *Host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently i.e. are part of the life cycle.</span>
+
+Sometimes it is helpful to differentiate hosts upon their role they play in the virus spread:
+><span id='natural-host'>A *Natural Host* of a virus is a [host](#host) and the infections are relevant for the spread of the virus.</span>
+
+><span id='side-host'>A *Side Host* of a virus is a [host](#host) and the infections are _not_ relevant for the spread of the virus. E.g. the virus cannot replicate effienctly or the virions cannot leave the host. These infections can be viewed as side-effects of the random virus spread. </span>
+
 
 Possible habitats are subject to constraints by life cycle. For viruses in natural equilibrium, the locations are involved in the survival of the virus strain i.e. relevant for spread. 
 Places relevant for spread can be:
@@ -393,32 +407,34 @@ Places relevant for spread can be:
 
 So in natural equilibrium hosts are usually natural hosts too. Hosts which are non Natural Hosts occur primarily if the environmental conditions improved for a virus. 
 
+### interspecies transmissions
+As the [movement of virions](#movement-of-virions) is random, virions reach things they get attached to at random. If a virus strain frequently reaches animals of some species, there are several cases [for programmers: switch(animal) aka animal match]:
+* the animal reached is a host -> continue life cycle 
+* the animal reached is not a host:
+    - it is NEVER infectable -> break
+    - it is infectable. This yields an [*interspecies infection*](#interspecies-infection). Again two cases:
+        * the virus can not regularly leave the host i.e. it is a cul-de-sac -> break
+        * virions frequently can leave to infect other hosts -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happend. Since likely the evolutionary drive changes this gives raise to a new virus strain. 
+        
+    
+
+> <span id='interspecies-infection'> An _interspecies infection_ is when an animal which is not a [natural host](#natural-host) animal becomes infected by a virus strain. </span>
+
+> <span id='interspecies-jump'> An *interspecies jump* denotes a transmission to a new species and the species becomes a new [natural host](#natural-host) i.e. the new species becomes a habitat of the virus. The virus strain will likely evolve to an adapted new strain.</span>
+
+So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
+
 ### conquering new habitats
 The virus can get attached to a cell type or host the given strain hasn't been endemic. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a line of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occurred. Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
 
-### interspecies transmissions
-As the [movement of virions](#movement-of-virions) is random, virions reach animals at random. Two cases [for programmers: switch(animal) aka animal match]:
-* the animal reached is a host -> continue life cycle 
-* the animal reached is not a host. Two cases:
-    - it is NOT infectable -> break
-    - it is infectable called [*interspecies infection*](#interspecies-infection). Again two cases:
-        * the virus can leave and infect another host called [*interspecies jump*](#interspecies-jump) -> gives rise to a new life cycle
-        * the virus can not leave the host i.e. it is a cul-de-sac -> break
-    
-### interspecies infections
-> <span id='interspecies-infection'> An _interspecies infection_ is when a _non_ [natural host](#natural-host) animal becomes infected by a virus strain. </span>
-
-So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
-
 #### observed interspecies infections
-* all occurrences where [interspecies jumps](#interspecies-jumps) occurred at least one interspecies infection must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
+* all occurrences where [interspecies jumps](#interspecies-jumps) occurred at least one [interspecies infection](#interspecies-infection) must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
 * Infections of Humans:
     There are quite a few reports on that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
     - The HECV-4408 coronavirus was isolated from a child having diarrhea [Zhang et al](#zhang94)
 
 
-### interspecies jumps
-> <span id='interspecies-jump'> An *interspecies jump* denotes a transmission to a new species and becomes host of the same virus strain or an adapted virus strain i.e. the virus becomes endemic to the new species.</span>
+### observed interspecies jumps
 * jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, pwild ruminants, porcine [Bidokhti et al](#bidokhti).
 * jumps to humans: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all well known jumps to humans. 
 
@@ -550,7 +566,8 @@ In the following the in country distribution of Covid-19 is described. Since ins
 #### covid-19 in switzerland
 Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
 * In areas where cattle farming is prevalent  (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), which is the case in many areas of Switzerland due to a protected market and subventions, the number of deaths per 100K is about 6 in median and 8 in average.  
-> Remark: I consider distributed agriculture as important and worth preserving. Both subventions and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop. In Switzerland agriculture support is somewhat single focused on bovine farming and thus its high prevalence. <br>
+
+> Remark: I consider distributed agriculture as important and worth preserving. Both subventions and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop. In Switzerland agriculture support is especially strong for bovine farming and thus its high prevalence. <br>
 Economy solely on global effectiveness trimmed, yields that but only that. Question is, in which situations this is wanted. 
 
 * Contrary to areas where cattle are less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
