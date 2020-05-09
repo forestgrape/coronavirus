@@ -631,14 +631,8 @@ In the following mechanism of actions are guessed.
 * figuring out whether BCoVs can genetically cross with HCoVs. This could yield new strains with possibly more severe pathogenesis. 
      
     
-    
-    
-    
-    
-    
-
 <p id="early-vents"> -----</p>
-
+    
 ## Early On Prevent Mucus Accumulations 
 
 ### Subsections
@@ -678,12 +672,12 @@ For the widespread viral load distribution in the lower respiratory tract, possi
 
 ##### increased growth
 
-Overall there isn't strong evidence for increased growth of viruses in ARDS risk group:
+Overall there isn't strong evidence for increased growth of viruses in ARDS risk group compared to hospitalized cases which don't develop ARDS. For people with only mild symptjoms (especially children) an early and quick immune systeme reaction can be a factor [in work]. There is limited data available comparing the viral load kinetics of people with mild symptoms. In the following the focus is on hospitalized cases. 
 
 - data suggest no strong correlation between a diminished immune system and severe Covid-19 (see e.g. [zhong](#zhong))
 - patients with ADRS seem not to have especially low antibody levels as results obtained by [To, Tsang et al.](#to_tsang) indicate. 
 - data by [To, Tsang et al.](#to_tsang),[Yuen et al.](#yuen) suggest that an early high viral load is no clear indication for developing an ARDS.
-- in young people the cell machinery tends to be more performant. So in theory viruses could spread more quickly. 
+- in young people the cell machinery tends to be more performant. So in theory viruses could spread more quickly. However their immune systeme is also more quick to react.
 
 <!--todo: immune reaction -->
 
@@ -837,7 +831,6 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
     - __Remark__: Mucus clearance may not be the only reason for lower death rates in humid air, but also that [Dry Form Infection](#abstract) is less likely and therefore Covid-19 starts more in the trachea than in the alveolis. 
 
 * In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals. This data is consistent and even preferred to analyse to impact of humidity ([data specifications](#data specifications)). 
-
 
 
 <p id="transmission-models">--------</p>
