@@ -36,8 +36,7 @@ In short: copy paste like needs attribution. For inspiration,  thanks are enough
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
     - [Model](#model)
-    - [Intermezzo Particle Dynamics in the Respiratory Tract](#particles)
-    - [Habitat of the Betacoronaviruses](#habitat)       
+    - [Intermezzo Particle Dynamics in the Respiratory Tract](#particles)       
     - [Evidence for the Dry Form Transmission Model](#evidence)
         * [Evidence from Biological Properties](#biological-properties)
         * [Evidence from the observed Spread Patterns](#spread-patterns)
@@ -62,7 +61,7 @@ In short: copy paste like needs attribution. For inspiration,  thanks are enough
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
-- 1.5.- 9.5. Formulations in Monitor and Coronavirus sections
+- 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
 - 28.4. Short note to support public health in the data section
 - 25.4. Data availability section
@@ -158,7 +157,7 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission), which is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). As described in the final section of the proposal [Metaphor and Measures](#metaphor-and-measures), dry form transmission can be thought smoke like and aerosol/droplet is similar to avoiding somebody's reek of alcohol.  For the first non-smokers protections are a guideline. For the latter distancing works well. 
 
 ### support the immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Outsides, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - once available - just can prepare the immune system and not replace it. So main focus should be to support the overall immune protection of humanity. This is especially true in tropical regions where Sars-CoV-2 spreads less. A good immune system is important for many more reasons.  
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There were cases of infection in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - if once available - just can prepare the immune system and not replace it. So main focus should be to support the overall immune protection of humanity. In tropical regions where Sars-CoV-2 spreads less but there are many other infectious diseases these should be the main focus by a large margin. 
 [in work]
 Proposals to increase the immune system:
 * providing settings that support good health
@@ -170,6 +169,8 @@ Proposals to increase the immune system:
 * healthy nutrition 
 * providing information and tips to focus on the immune system and health
 
+Good health including an intact immune system is important for many reasons. 
+
 
 ### masks
 In risk regions officially recommend masks, since they mitigate the infection risk. Without an official recommendation, people can be put off or look afraid of masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
@@ -179,7 +180,7 @@ In risk regions officially recommend masks, since they mitigate the infection ri
     - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
 
-    Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of factor 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled). This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+>Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of factor 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled). This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 
 
@@ -190,9 +191,21 @@ Reasons against masks seem sometimes rather searched:
 
 
 ### ventilation
-
+That ventilation reduces the indoor airborne spread is due to, that the virion density in outside air is magnitudes lower than in indoor air. 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
 * [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is in their setting as effective as vaccinating around half of the population. 
+
+### outside is safe
+This because:
+- dilution 
+> Remark
+    > * Assuming perfect mixing of air in the lower 1500 density meters around the world and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of own air. 
+    > * In the most populated cities the density is upto 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields that each person has (1'000'000 * 150)/100'000 = 1500 cubic meters of air. Compared to an indoor room with a high of 3 meters this corresponds to each person having a distance of 22 meters to the next. 
+#### limiting short range spread  
+- sunlight, especially UV, destroys virions. Even our stable DNA, well protected by layers of dead cells - the outer layer of the skin - a cell membrane and inside a the cell nucleus takes damage from exposure to UV, at least if the melanin is limited. 
+- condensation 
+#### limiting long range spread
+- rainfall
 
 ### distancing
 Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-like) can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air. 
