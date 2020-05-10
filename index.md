@@ -196,16 +196,25 @@ That ventilation reduces the indoor airborne spread is due to, that the virion d
 * [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is in their setting as effective as vaccinating around half of the population. 
 
 ### outside is safe
-This because:
-- dilution 
-> Remark
-    > * Assuming perfect mixing of air in the lower 1500 density meters around the world and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of own air. 
-    > * In the most populated cities the density is upto 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields that each person has (1'000'000 * 150)/100'000 = 1500 cubic meters of air. Compared to an indoor room with a high of 3 meters this corresponds to each person having a distance of 22 meters to the next. 
-#### limiting short range spread  
+Outside the exhaled breath condensate is quickly diluted. 
+- dilution: the virion density is quickly diluted compared to indoor air
+
+There is no accumulation over time because virions are destructed and virions are cleared from the are air:
+- virion destruction: sunlight, heat and humidity increase the natural decay of  virions
+- virion clearance: humidity, rainfall and abundant attachment surfaces 
+#### dilution
+* Assuming perfect mixing of air in the lower 1500 density meters around the world and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of own air. 
+* In the most populated cities the density is upto 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields that each person has (1'000'000 * 150)/100'000 = 1500 cubic meters of air. Compared to an indoor room with a high of 3 meters this corresponds to each person having a distance of 22 meters to the next. 
+#### virion inactivation
 - sunlight, especially UV, destroys virions. Even our stable DNA, well protected by layers of dead cells - the outer layer of the skin - a cell membrane and inside a the cell nucleus takes damage from exposure to UV, at least if the melanin is limited. 
+- heat
+#### virion clearance
 - condensation 
-#### limiting long range spread
 - rainfall
+- virion attachment to non host materials
+    * earth
+    * water
+    * rocks
 
 ### distancing
 Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-like) can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air. 
