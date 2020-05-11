@@ -197,17 +197,19 @@ That ventilation reduces the indoor airborne spread is due to, that the virion d
 
 ### outside is safe
 Outside the exhaled breath condensate is quickly diluted. 
-- dilution: the virion density is quickly diluted compared to indoor air
+- [dilution](#dilution): the virion density is quickly diluted compared to indoor air
 
 There is no accumulation over time because virions are destructed and virions are cleared from the are air:
-- virion destruction: sunlight, heat and humidity increase the natural decay of  virions
-- virion clearance: humidity, rainfall and abundant attachment surfaces 
+- [virion destruction](#virion-destruction): sunlight, heat and humidity increase the natural decay of  virions
+- [virion clearance](#virion-clearance): humidity, rainfall and abundant attachment surfaces 
 #### dilution
 * Assuming perfect mixing of air in the lower 1500 density meters around the world and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of own air. 
 * In the most populated cities the density is upto 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields that each person has (1'000'000 * 150)/100'000 = 1500 cubic meters of air. Compared to an indoor room with a high of 3 meters this corresponds to each person having a distance of 22 meters to the next. 
-#### virion inactivation
+
+#### virion destruction
 - sunlight, especially UV, destroys virions. Even our stable DNA, well protected by layers of dead cells - the outer layer of the skin - a cell membrane and inside a the cell nucleus takes damage from exposure to UV, at least if the melanin is limited. 
 - heat
+
 #### virion clearance
 - condensation 
 - rainfall
@@ -271,7 +273,7 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 - [Introduction to Coronaviruses](#intro-to-coronaviruses)
 - [Life Cycle](#life-cycle)
 - [Intermezzo Movement of Virions](#movement-of-virions)
-- [Life Cycle Constraints](#life-cycle-constraints)
+- [Life Cycle Tropism](#life-cycle-tropism)
 - [Evolution and Adaption](#evolution-and-adaption)
 - [Habitat](#habitat)
 - [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
@@ -288,11 +290,11 @@ Once a virus hijacks/infects cells, it usually changes the cell's metabolism to 
 
 > <span id='infected-cell'> A cell is called _infected_ by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated. </span>
 
-> <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-constraints) to be infectable </span>
+> <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
 
 > <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected. Entity can be a tissue, an organ or an organism.</span> 
 
-> <span id='infectable-entity'> A _infectable entity_ is an entity which can become [infected](#infected-entity). Entity can be a tissue, an organ or an organism.  There are constraints on a [entity to be infectable](#target-constraints).</span>
+> <span id='infectable-entity'> A _infectable entity_ is an entity which can become [infected](#infected-entity). Entity can be a tissue, an organ or an organism.  There are constraints on a [entity to be infectable](#life-cycle-tropism).</span>
 
 ><span id='infectable-organism'> An *Infectable organism* is just a a special case of an [infectable entity](#infectable-entity) where the entity is an organism. This means cells in the animal are [infected](#infected-cell) by the virus. </span>
 
@@ -302,7 +304,7 @@ Once a virus hijacks/infects cells, it usually changes the cell's metabolism to 
 
 ## Introduction to Coronaviruses
 
-Coronaviruses belong to Nidoviruses which share a pattern of replication within a cell. 
+Coronaviruses belong to Nidoviruses which have a common replication pattern within a cell. 
 Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. The membrane consists of a lipid bilayer and proteins and forms a sphere. Among the membrane proteins are large spike proteins. Theses spike protein point out of the sphere, which gives coronaviruses a crown (in latin corona) like appearance under the electron microscope.
 
 ### proteins 
@@ -363,10 +365,10 @@ Once virions are released from a cell the virions are moved by whatever movement
     - Water
 * __Brownian Motion__: Brownian motion denotes the random movements of objects in a fluid. [to be extended] The Brownian of viruses is very small and by Brownian motion alone a virion can only reach close by cells.
     
-<p id="life-cycle-constraints">-----</p>
+<p id="life-cycle-tropism">-----</p>
 
-## Life Cycle Constraints
-Each step  in the life cycle has constraints. 
+## Life Cycle Tropism
+Each step  in the life cycle has both enhancing factors and constraints. 
 
 A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a matching receptor on the cell membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
 
@@ -377,7 +379,7 @@ Often a virion needs to be outside of a host to reach a next exploitable host. I
 * heat
 * chemical environment
 
-### host constraints
+### host tropism
 Reaching a host with infectable cells is not enough. The host immune system should be diminished or not know the virus. 
     
 ### reach a tissue constraints 
@@ -386,12 +388,12 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
 
-### tissue constraints
+### tissue tropism
 The tissue needs to provide the right environment around the target cells.
 * The spike proteins of coronaviruses needs to be cleaved for cell entry. This cleaving can require the right physiological conditions [Holmes](#holmes). 
 * Also the cell environments shouldn't deactivate the virus, e.g. antibodies do so.
  
-### cell constraints 
+### cell tropism 
 
 #### matching receptor
 To enter a cell a virus needs his 'grappling hook' (usually the spike protein) to bind on a receptor on the cell membrane to get attached.  Next the virus needs to pass the cell membrane, this step is usually achieved by cleavage of the spike protein which then becomes a 'key' for fusion with the cell membrane. In the case of coronaviruses, the keys are often the spike-proteins. 
@@ -411,7 +413,7 @@ Coronaviruses have large genomes (in comparison to other viruses and messenger R
 <p id='section-habitat'>-----</p>
 
 ## Habitat
-As discussed in [life cycle constraints](#life-cycle-constraints) there are many conditions for a virus to replicate. Since evolution and adaption are the same for viruses, a virus strain is best adapted to a certain environments. These environments are habitats:
+As discussed in [life cycle constraints](#life-cycle-tropism) there are many conditions for a virus to replicate. Since evolution and adaption are the same for viruses, a virus strain is best adapted to a certain environments. These environments are habitats:
 ><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infectable-entity) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
 ><span id='endemic'> A virus strain is *endemic* in a collection of organism if that collection is a habitat of the virus.</span>
@@ -469,7 +471,7 @@ The virus can get attached to a cell type or host the given strain hasn't been e
 The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
-In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [constraints](#life-cycle-constraints) of Sars-CoV-2. 
+In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [tropism](#life-cycle-tropism) of Sars-CoV-2. 
 #### cell receptor
 The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
 The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. McCray & Co also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point amino-peptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits apically with a preference of 10:1 for apical entry and 5:1 for basal entry).    
