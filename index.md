@@ -61,6 +61,7 @@ In short: copy paste like needs attribution. For inspiration,  thanks are enough
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
+- 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
 - 28.4. Short note to support public health in the data section
@@ -196,7 +197,7 @@ Reasons against masks seem sometimes rather searched:
 
 That ventilation reduces the indoor airborne spread is due to, that the virion density in outside air is magnitudes lower than in indoor air. 
 
-### outside is safe
+### outside is safer
 Outside both the viruses get inactivated faster and the viruses are more diluted. Due to the inactivation there's no accumulation.  
 - [dilution](#dilution): The virion density decreases rapidly due to dilution. 
 - [virion destruction](#virion-destruction): sunlight and heat  destroy virions or increases the natural decay of  virions.<!-- check humidity effect on virus survival-->
