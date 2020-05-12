@@ -198,7 +198,7 @@ Reasons against masks seem sometimes rather searched:
 That ventilation reduces the indoor airborne spread is due to, that the virion density in outside air is magnitudes lower than in indoor air. 
 
 ### outside is safer
-Outside both the viruses get inactivated faster and the viruses are more diluted. Due to the inactivation there's no accumulation.  
+Outside both the viruses get inactivated faster and are more diluted. Due to the inactivation there's no accumulation.  
 - [dilution](#dilution): The virion density decreases rapidly due to dilution. 
 - [virion destruction](#virion-destruction): sunlight and heat  destroy virions or increases the natural decay of  virions.<!-- check humidity effect on virus survival-->
 - [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. 
