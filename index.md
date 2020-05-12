@@ -79,7 +79,7 @@ In short: copy paste like needs attribution. For inspiration,  thanks are enough
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Do not take Covid-19 lightly: it can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. But no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 lightly can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. But no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
 
 Time to act mindfully and work together in an open and honest way. 
 
