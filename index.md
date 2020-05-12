@@ -191,9 +191,10 @@ Reasons against masks seem sometimes rather searched:
 
 
 ### ventilation
-That ventilation reduces the indoor airborne spread is due to, that the virion density in outside air is magnitudes lower than in indoor air. 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
 * [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is in their setting as effective as vaccinating around half of the population. 
+
+That ventilation reduces the indoor airborne spread is due to, that the virion density in outside air is magnitudes lower than in indoor air. 
 
 ### outside is safe
 Outside both the viruses get inactivated faster and the viruses are more diluted. Due to the inactivation there's no accumulation.  
@@ -201,7 +202,8 @@ Outside both the viruses get inactivated faster and the viruses are more diluted
 - [virion destruction](#virion-destruction): sunlight and heat  destroy virions or increases the natural decay of  virions.<!-- check humidity effect on virus survival-->
 - [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. 
 #### dilution
-[in work]
+[in work]<br>
+Outside there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
 * In the most densely populated cities the density reach 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields an average of (1'000'000 * 150)/100'000 = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission but droplet transmission is taken into account). -->
 * Assuming perfect mixing of air in the lower 1500 density meters around the world and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of own air. 
