@@ -205,7 +205,7 @@ Outside both the viruses get inactivated faster and the viruses are more diluted
 [in work]<br>
 Outside there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
-* In the most densely populated cities the density reach 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields an average of (1'000'000 * 150)/100'000 = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission but droplet transmission is taken into account). -->
+* In the most densely populated cities the density reach 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields an average of (1'000'000 * 150)/100'000 = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
 * Assuming perfect mixing of air in the lower 1500 density meters around the world and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of own air. 
 
 #### virion destruction
