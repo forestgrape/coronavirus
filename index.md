@@ -196,21 +196,23 @@ That ventilation reduces the indoor airborne spread is due to, that the virion d
 * [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is in their setting as effective as vaccinating around half of the population. 
 
 ### outside is safe
-Outside the exhaled breath condensate is quickly diluted. 
-- [dilution](#dilution): the virion density is quickly diluted compared to indoor air
-
-There is no accumulation over time because virions are destructed and virions are cleared from the are air:
-- [virion destruction](#virion-destruction): sunlight, heat and humidity increase the natural decay of  virions
-- [virion clearance](#virion-clearance): humidity, rainfall and abundant attachment surfaces 
+Outside both the viruses get inactivated faster and the viruses are more diluted. Due to the inactivation there's no accumulation.  
+- [dilution](#dilution): The virion density decreases rapidly due to dilution. 
+- [virion destruction](#virion-destruction): sunlight and heat  destroy virions or increases the natural decay of  virions.<!-- check humidity effect on virus survival-->
+- [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. 
 #### dilution
+[in work]
+* In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
+* In the most densely populated cities the density reach 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields an average of (1'000'000 * 150)/100'000 = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission but droplet transmission is taken into account). -->
 * Assuming perfect mixing of air in the lower 1500 density meters around the world and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of own air. 
-* In the most populated cities the density is upto 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields that each person has (1'000'000 * 150)/100'000 = 1500 cubic meters of air. Compared to an indoor room with a high of 3 meters this corresponds to each person having a distance of 22 meters to the next. 
 
 #### virion destruction
-- sunlight, especially UV, destroys virions. Even our stable DNA, well protected by layers of dead cells - the outer layer of the skin - a cell membrane and inside a the cell nucleus takes damage from exposure to UV, at least if the melanin is limited. 
+[in work]
+- sunlight, especially UV, destroys virions. Even our stable DNA in the inner layer of the skin,  protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin). 
 - heat
 
 #### virion clearance
+[in work]
 - condensation 
 - rainfall
 - virion attachment to non host materials
