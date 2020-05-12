@@ -309,7 +309,7 @@ Once a virus hijacks/infects cells, it usually changes the cell's metabolism to 
 
 ## Introduction to Coronaviruses
 
-Coronaviruses belong to Nidoviruses which have a common replication pattern within a cell. 
+Coronaviruses belong to Nidoviruses which share a replication pattern within a cell. 
 Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. The membrane consists of a lipid bilayer and proteins and forms a sphere. Among the membrane proteins are large spike proteins. Theses spike protein point out of the sphere, which gives coronaviruses a crown (in latin corona) like appearance under the electron microscope.
 
 ### proteins 
