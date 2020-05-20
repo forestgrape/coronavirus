@@ -213,12 +213,13 @@ Outside both the viruses get inactivated faster and are more diluted. Due to the
 [in work]<br>
 Outside there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
-* In the most densely populated cities the density reach 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are well mixed this yields an average of (1'000'000 * 150)/100'000 = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
-* Assuming perfect mixing of air in the lower 1500 density meters around the world and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of own air. 
+* In the most densely populated cities the density can reach 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are mixed this yields an average of (1'000'000 * 150)/100'000 = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
+* Large areas/entire world: Assuming mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of air per person. 
 
 #### virion destruction
 [in work]
-- sunlight, especially UV, destroys the RNA of virions. Even stable DNA in the inner layer of the skin,  protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin). 
+- sunlight inactivates virions 
+    * the UV part destroys the RNA. Even stable DNA in the inner layer of the skin,  protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin). 
 - heat
 
 #### virion clearance
@@ -319,19 +320,19 @@ Once a virus hijacks/infects cells, it usually changes the cell's metabolism to 
 Coronaviruses belong to Nidoviruses which share a replication pattern within a cell. 
 Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. The membrane consists of a lipid bilayer and proteins and forms a sphere. Among the membrane proteins are large spike proteins. Theses spike protein point out of the sphere, which gives coronaviruses a crown (in latin corona) like appearance under the electron microscope.
 
-### proteins 
-- cleavage other proteins and RNA [to check] 
+### proteins  
 - structural proteins: used to give newly built viruses structure. These are the membrane proteins and the internal protein N stabilizes the RNA
 - diminish host defence
+- cleavage other proteins and RNA [to check]
 
 <p id='life-cycle'>-----</p>
 
 ## Life Cycle 
 [in work]
 
-### reach an infectable cell
-A virion needs to be matched with a target cell up to some dozens of nanometers. The match can be the active or passive i.e. the virion reaches the host or the host reaches the virion. 
-These can involve the following steps (steps in [<step>] are facultative):
+### match to an infectable cell
+A virion needs to get matched with a target cell up to some dozens of nanometers. The virion match can happen because the virion is moved to the host, the cell is moved to the virion or a combination of movements. 
+Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
 - [an exploitable host]  
 - [an exploitable tissue]
 - an exploitable cell
@@ -345,15 +346,16 @@ These can involve the following steps (steps in [<step>] are facultative):
 ### metabolism
 [in work]
 - RNA-translate the genome with frame-shifting-> single protein -cleave-> pieces of proteins -assemble-> polymerase protein (protein capable of transcription of RNA to RNA)
-- start transcription yield new mRNAs, which in turn are translated to proteins
+- start transcription -> new mRNAs, which in turn are translated to proteins
 
 ### replication
-The metabolism can produce new virions that are released from the cell.
+The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. 
 
-### next targets
-* the same cell type| another cell type
-* the same tissue| another tissue 
-* the same host| another host 
+The new virions [are moved by extern forces](#movements-of-virions) and may get matched to an new infectable cell. The infectable cell can be:
+* of the same cell type| another cell type
+* in the same tissue| another tissue 
+* in the same host| another host 
+
 
 
 <p id='movement-of-virions'></p>
@@ -379,8 +381,8 @@ Once virions are released from a cell the virions are moved by whatever movement
     
 <p id="life-cycle-tropism">-----</p>
 
-## Life Cycle Tropism
-Each step  in the life cycle has both enhancing factors and constraints. 
+## Tropism in Life Cycle 
+Each step  in the life cycle has both attracting and limiting factors. 
 
 A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a matching receptor on the cell membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
 
