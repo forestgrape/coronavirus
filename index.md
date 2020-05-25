@@ -286,7 +286,7 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 - [Introduction to Coronaviruses](#intro-to-coronaviruses)
 - [Life Cycle](#life-cycle)
 - [Intermezzo Movement of Virions](#movement-of-virions)
-- [Life Cycle Tropism](#life-cycle-tropism)
+- [Tropism](#tropism)
 - [Evolution and Adaption](#evolution-and-adaption)
 - [Habitat](#habitat)
 - [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
@@ -307,7 +307,7 @@ Once a virus hijacks/infects cells, it usually changes the cell's metabolism to 
 
 > <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected. Entity can be a tissue, an organ or an organism.</span> 
 
-> <span id='infectable-entity'> A _infectable entity_ is an entity which can become [infected](#infected-entity). Entity can be a tissue, an organ or an organism.  There are constraints on a [entity to be infectable](#life-cycle-tropism).</span>
+> <span id='infectable-entity'> A _infectable entity_ is an entity which can become [infected](#infected-entity). Entity can be a tissue, an organ or an organism.  There are constraints on a [entity to be infectable](#tropism).</span>
 
 ><span id='infectable-organism'> An *Infectable organism* is just a a special case of an [infectable entity](#infectable-entity) where the entity is an organism. This means cells in the animal are [infected](#infected-cell) by the virus. </span>
 
@@ -385,9 +385,9 @@ Once virions are released from a cell the virions are moved by whatever movement
     - Water
 * __Brownian Motion__: Brownian motion denotes the random movements of objects in a fluid. [to be extended] The Brownian of viruses is very small and by Brownian motion alone a virion can only reach close by cells.
     
-<p id="life-cycle-tropism">-----</p>
+<p id="tropism">-----</p>
 
-## Tropism in Life Cycle 
+## Tropism 
 Each step  in the life cycle has both attracting and limiting factors. 
 
 A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a matching receptor on the cell membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
@@ -433,7 +433,7 @@ Coronaviruses have large genomes (in comparison to other viruses and messenger R
 <p id='section-habitat'>-----</p>
 
 ## Habitat
-As discussed in [life cycle constraints](#life-cycle-tropism) there are many conditions for a virus to replicate. Since evolution and adaption are the same for viruses, a virus strain is best adapted to a certain environments. These environments are habitats:
+As discussed in [life cycle constraints](#tropism) there are many conditions for a virus to replicate. Since evolution and adaption are the same for viruses, a virus strain is best adapted to a certain environments. These environments are habitats:
 ><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infectable-entity) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
 ><span id='endemic'> A virus strain is *endemic* in a collection of organism if that collection is a habitat of the virus.</span>
@@ -491,7 +491,7 @@ The virus can get attached to a cell type or host the given strain hasn't been e
 The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
-In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [tropism](#life-cycle-tropism) of Sars-CoV-2. 
+In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [tropism](#tropism) of Sars-CoV-2. 
 #### cell receptor
 The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
 The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. McCray & Co also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point amino-peptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits apically with a preference of 10:1 for apical entry and 5:1 for basal entry).    
