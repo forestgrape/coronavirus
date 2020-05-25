@@ -549,8 +549,19 @@ Despite the overall high mutation rate of coronaviruses, the replication mechani
 <p id="ideas"> -------</p>
 
 # Ideas to Explore
+* [Exploit Tropism](#exploit-tropism)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
+
+<p id="exploit-tropism"> -----</p>
+
+## Exploit Tropism
+Both evolutionary drive and biological constraints yielded a tight tropism of coronaviruses. Key factors are:
+* cell types and the corresponding biochemistry inside the cells
+* environmental factors around the cell determines entry and exit:
+    - chemical environment
+    - biological environment 
+    - physical environment
 
 
 <p id="litvac2"> -----</p>
