@@ -317,12 +317,16 @@ Once a virus hijacks/infects cells, it usually changes the cell's metabolism to 
 
 ## Introduction to Coronaviruses
 
-Coronaviruses belong to Nidoviruses which share a replication pattern within a cell. 
-Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. The membrane consists of a lipid bilayer and proteins and forms a sphere. Among the membrane proteins are large spike proteins. Theses spike protein point out of the sphere, which gives coronaviruses a crown (in latin corona) like appearance under the electron microscope.
+### Nidovirales
+Coronaviruses belong to the order of Nidovirales which share a nest-like replication pattern within a cell. Their name derives from this pattern: nidus means nest in latin. Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. 
+### Coronaviruses
+The membrane is spherical and consists of structural proteins coated with a lipid bilayer. Among the membrane proteins are large spike proteins. Theses spike protein point out of the sphere, which gives coronaviruses a crown (corona in latin) like appearance under the electron microscope.
 
 ### proteins  
+
 - structural proteins: used to give newly built viruses structure. These are the membrane proteins and the internal protein N stabilizes the RNA
 - diminish host defence
+- RNA dependent RNA polymerase
 - cleavage other proteins and RNA [to check]
 
 <p id='life-cycle'>-----</p>
@@ -331,7 +335,7 @@ Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruse
 [in work]
 
 ### match to an infectable cell
-A virion needs to get matched with a target cell up to some dozens of nanometers. The virion match can happen because the virion is moved to the host, the cell is moved to the virion or a combination of movements. 
+A virion needs to get matched with a target cell up to some dozens of nanometers. The virion match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
 Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
 - [an exploitable host]  
 - [an exploitable tissue]
@@ -345,8 +349,10 @@ Getting matched to an infectable cell involves the following steps (steps in [..
 
 ### metabolism
 [in work]
-- RNA-translate the genome with frame-shifting-> single protein -cleave-> pieces of proteins -assemble-> polymerase protein (protein capable of transcription of RNA to RNA)
-- start transcription -> new mRNAs, which in turn are translated to proteins
+- Let the host ribosomes translate two ORFs of the viral genome with frame-shifting-> two large proteins --cleave--> pieces of proteins --assemble--> polymerase protein (protein capable of transcription of RNA to RNA)
+-- transcription--> new mRNAs
+    * which in a first phase are in turn translated to proteins
+    * in a possible second phase the copied RNA together with the produced proteins is assembled to new virions and thus yielding [replication](#replication).
 
 ### replication
 The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. 
