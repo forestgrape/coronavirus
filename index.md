@@ -363,36 +363,75 @@ The new virions [are moved by extern forces](#movements-of-virions) and may get 
 * in the same host| another host 
 
 
-
 <p id='movement-of-virions'></p>
 
-## Intermezzo Movement of Virions 
-Once virions are released from a cell the virions are moved by whatever movements there are and/or be moved due to Brownian motion:
+## Intermezzo Movement of Virions
 
-* __Carrier Organism__: This is mostly the host where the virus was built but it can be an animal just carrying the virion i.e. a vector. 
-    - movements of body fluids. Examples are
-        * the blood flow if the virion is in the bloodstream
-        * the mucus flow 
-        * the air breathed in and out and the [particle dynamics in the respiratory tract](#particles) associated.
-    - solid movements within the host i.e. the virion is on a moveable body part. This can be
-        * the movement of a hand 
-        * the movement of the lungs to breath 
-    - movement of the host itself and thereby transport the virions. The farther, faster and the more possible host at new location the better for the virus to distribute. The optimal transportation used to be fare flying animals: birds, bats. The inventions of the airplane and the following jetting around the world from city to city made us humans new optimal hosts.
-* __Carrier Material__:
-    These can be any material e.g. a piece of tissue a virion is attached to. These materials are in turn subject to another form of movement. 
-* __Extern Movement but Not Carrier Organism__:
-    - Wind
-    - Water
-* __Brownian Motion__: Brownian motion denotes the random movements of objects in a fluid. [to be extended] The Brownian of viruses is very small and by Brownian motion alone a virion can only reach close by cells.
+Once virions are released from a cell the virions are moved by whatever movements are in their surroundings.   
+
+### Surroundings
+All form of known forms of life are DNA or RNA based and which in turn are water based. So all virions are produced and therefore start out their journey in watery fluids. For most viruses their virions will always be dissolved in watery fluids and will not survive being dissolved in other fluids such as alcohol or air. 
+* __Fluid dissolved in__:
+    - Salty water in oceans: Water in the oceans is also likely where life and RNA viruses as an early form of life developed and still contains a huge number of virions. 
+    - Water in lakes and rivers: These waters serve as an intermediate place for many virions. 
+    - Fluid in an organism: Virions of viruses infecting multicellular life first start out in the fluids of the hosts and in many cases never leave the host fluids. 
+    - Water droplets can be dissolved in air. 
+    - Air. Air contains reative oxygen and most virions will be destroyed, since they expose activator proteins on the outside. Coronavirus virions are a rare exception staying infectious in dry form. 
+* __Material attached to__: These can be any solid material e.g. a part of living organism or any kind of non living matter. The movement of virions follows the movement of the materials attached to. These particles are in turn dissolved in fluids, mostly water, or attached to other particles. 
+
+
+### Movement within a host
+Often for viruses it is sufficient to infect other cells within the same host and so movement within a host can be enough. Some even evolved not to leave the host organism at all.
+Within a host the movement of virions depends on the location they are released and the kind of material they are attached to: 
+- movements with fluid flows:
+    * the blood flow if the virion is in the bloodstream
+    * the mucus flow 
+    * respiratory tract lining fluid
+    * the air breathed in and out and the [particle dynamics in the respiratory tract](#particles) associated.
+- solid movements within the host i.e. the virion is attached to a moveable part:
+    * in a cells cytoplasm with the ####### 
+    * the movement of body parts e.g. an extremity (hands and feets) or the lungs.  
+- Brownian Motion: The Brownian motion of viruses is slow and by Brownian motion alone a virion usually just moves a few micro meters to reach close by cells. However if given engough time virions can diffuse to many locations both within tissues or within cells. 
+
+
+### Movement to next host
+[in work]
+Many forms of life cannot move well on their own: Plants, bacteria and fungi. In the oceans this is less a problem thanks to the currents. On land however, all forms of life with no ability to move have the challange to spread and genetically interact. The main options are the same for them all: Being carried by wind, water or moving organsims. Virions have to rely on this options to spread through a host populations:
+
+* __Moveable Organism__: This is mostly the host where the virus was built but it can be an animal  primarily carrying the virion called a carrier. 
+
+    > <span id='carrier'> A _carrier for a virus_ is an organism which is important for its carrier function in the life cycle of a virus.</span>
+
+    When the carrier moves the virions move with it. The farther, faster and the more possible hosts at new location the better for the virus to distribute. The optimal transportation used to be fare flying animals: birds and bats. The inventions of the airplane and the following jetting around the world from city to city made us humans new optimal hosts.
+    - Movement induced by the organism:
+
+* __Wind__: Wind movement has challanges:
+    - The movements induced by wind are random in the sense that evolutionary adaption to directional movement is hardly possible. <br>
+    => Organisms relying on wind usually compensate this randomness often with huge numbers. We all can see this seasonally by the flow of pollen.  
+    - The air contains reactive oxygen and sunlight exposure is frequent. Therefore genetic material needs to be well protected.
+    - Only tiny particles or small particles with large surfaces resist gravity and are moved by the winds. 
+
+    Different form of lives solved these challanges: 
+    * Many plants rely on wind both for genetic recombination and spread. 
+    * Viruses rarely can spread with the winds. Coronaviruses are one of the few exceptions.   
+
+* __Water__: 
+    Water movement is directional to the oceans and particles need to be "fished out" not to end up there. One of the few escape options is drinking animals. 
+    * Plants rarely used water since ending up in the oceans is not the goal of land plants.
+    * Viruses infecting animals often rely on water. Animals drinking brings them directly to possible hosts. 
+
+
+
+
     
 <p id="tropism">-----</p>
 
 ## Tropism 
 Each step  in the life cycle has both attracting and limiting factors. 
 
-A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to reach a matching receptor on the cell membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
+A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
 
-### reach a host constraints
+### between host tropism
 Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
 * get attached to a wrong thing. The probability of this is extremely high due to the random movement. 
 * sunlight destroys virions. 
@@ -416,7 +455,7 @@ The tissue needs to provide the right environment around the target cells.
 ### cell tropism 
 
 #### matching receptor
-To enter a cell a virus needs his 'grappling hook' (usually the spike protein) to bind on a receptor on the cell membrane to get attached.  Next the virus needs to pass the cell membrane, this step is usually achieved by cleavage of the spike protein which then becomes a 'key' for fusion with the cell membrane. In the case of coronaviruses, the keys are often the spike-proteins. 
+To enter a cell a virus needs the spike protein, its grappling hook, to bind to a receptor on the cell membrane to get attached.  Next the virus needs to pass the cell membrane, this step is usually achieved by cleavage of the spike protein which then becomes a 'key' for fusion with the cell membrane. In the case of coronaviruses, the keys are often the spike-proteins. 
 
 #### right environment inside the cell
 [in work]
@@ -481,8 +520,8 @@ The virus can get attached to a cell type or host the given strain hasn't been e
 
 
 ### observed interspecies jumps
-* jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, pwild ruminants, porcine [Bidokhti et al](#bidokhti).
-* jumps to humans: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all well known jumps to humans. 
+* jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, wild ruminants, porcine [Bidokhti et al](#bidokhti).
+* jumps to humans, also called zoonotic events: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all jumped from animals to humans [refs in work].  
 
 
 <p id='habitat-of-sars-cov-2'>-----</p>
@@ -526,8 +565,14 @@ Some topics and findings of the vertebrate immune protection relevant for other 
 
 
 ## cross immune protection
-Despite the overall high mutation rate of coronaviruses, the replication mechanism within a cell and proteins needed for this replication and some structural proteins are well conserved. Therefore there are similar patterns upon infection with different coronaviruses, which the immune system can recognize or can be targeted by medications. 
-[in work]
+All form of life share common molecular patterns. The more genetically related the forms the more protein patterns they share. These common patterns are possible targets to develop cross immune protections either by the immune system or artificial 
+medications. 
+Well conserved are:
+* Functional units of proteins. The more fundamental there function is, the more conserved they are. E.g. RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved across viruses [to check, citation coming]. 
+* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt.
+
+For coronaviruses, the replication mechanism within a cell is well conserved and thus the proteins involved. 
+
 <!--
 ### protections based on general patterns
 [in work]
@@ -540,10 +585,7 @@ Despite the overall high mutation rate of coronaviruses, the replication mechani
 *  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
     - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
     - NL63 -protects-> 229E (only unidirectional)
-* [Han et al](#han) showed that calves innoculated with HECV-4408get cross-protective immunity against BCoV DB2. HECV-4408 is a strain that can cause acute diarrhea in humans, see [human bcov infections](#human-bcov-infections)
-
-
-
+* [Han et al](#han) showed that calves innoculated with HECV-4408get cross-protective immunity against BCoV DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](#human-bcov-infections)
 
 
 <p id="ideas"> -------</p>
@@ -556,11 +598,13 @@ Despite the overall high mutation rate of coronaviruses, the replication mechani
 <p id="exploit-tropism"> -----</p>
 
 ## Exploit Tropism
+
+#### Tropism of Sars-CoV-2
 Both evolutionary drive and biological constraints yielded a tight tropism of coronaviruses. Key factors are:
 * cell types and the corresponding biochemistry inside the cells
 * environmental factors around the cell determines entry and exit:
     - chemical environment
-    - biological environment 
+    - biological environment: Virions are activated for cell entry by specific proteins
     - physical environment
 
 
