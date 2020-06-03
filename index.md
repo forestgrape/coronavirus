@@ -22,7 +22,7 @@ In short: copy paste like needs attribution. For inspiration,  thanks are enough
 
 * [Updates](#updates)
 * [Public Suggestions](#public-advice) <br> 
-    Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
+    Keep distance and hygiene. Outside is safe. Inside ventilate well and/or wear a mask in risk regions. Transmission can be smoke-like. Take care to the immune system.
 * [Covid-19](#covid)
     - [Public Description](#public-description)
 * [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -61,6 +61,7 @@ In short: copy paste like needs attribution. For inspiration,  thanks are enough
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
     
 #### Minor Updates 
+- 3.6. Formulations and major updates in work
 - 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -80,11 +81,12 @@ In short: copy paste like needs attribution. For inspiration,  thanks are enough
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. But no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. No reason to be afraid from Sars-Cov-2, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
 
 Time to act mindfully and work together in an open and honest way. 
 
-   
+> Remark: The following advices were written mostly in mid march at the peak of Covid-19 infections in Europe. 
+
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
 - Wear a mask in indoor places where infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
