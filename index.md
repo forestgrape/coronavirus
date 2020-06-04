@@ -59,8 +59,9 @@ In short: copy paste like needs attribution. For inspiration,  thanks are enough
     1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). The ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
-    
-#### Minor Updates 
+
+#### Minor Updates
+- 3.6.20 started online 
 - 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -334,6 +335,8 @@ The membrane is spherical and consists of structural proteins coated with a lipi
 ## Life Cycle 
 [in work]
 
+
+
 ### match to an infectable cell
 A virion needs to get matched with a target cell up to some dozens of nanometers. The virion match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
 Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
@@ -370,7 +373,7 @@ The new virions [are moved by extern forces](#movements-of-virions) and may get 
 Once virions are released from a cell the virions are moved by whatever movements are in their surroundings.   
 
 ### Surroundings
-All form of known forms of life are DNA or RNA based and which in turn are water based. So all virions are produced and therefore start out their journey in watery fluids. For most viruses their virions will always be dissolved in watery fluids and will not survive being dissolved in other fluids such as alcohol or air. 
+All forms of life on earth are water based. Both protein and RNA/DNA synthesis occur in water. So virions are pro therefore start out their journey in watery fluids, often the cytoplasm of a cell. Upon release they are exposed to whatever substances there are around. For most viruses their virions will always be dissolved in watery fluids and will not survive being dissolved in other fluids such as alcohol or air. 
 * __Fluid dissolved in__:
     - Salty water in oceans: Water in the oceans is also likely where life and RNA viruses as an early form of life developed and still contains a huge number of virions. 
     - Water in lakes and rivers: These waters serve as an intermediate place for many virions. 
@@ -421,15 +424,13 @@ Many forms of life cannot move well on their own: Plants, bacteria and fungi. In
     * Viruses infecting animals often rely on water. Animals drinking brings them directly to possible hosts. 
 
 
-
-
     
 <p id="tropism">-----</p>
 
 ## Tropism 
 Each step  in the life cycle has both attracting and limiting factors. 
 
-A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own, as described in [movement of virions](#movement-of-virions). Some bacteria can at least move the last two steps. Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
+A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
 
 ### between host tropism
 Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
@@ -597,10 +598,11 @@ For coronaviruses, the replication mechanism within a cell is well conserved and
 
 <p id="exploit-tropism"> -----</p>
 
-## Exploit Tropism
+## Investigate, Analyze and possibly Exploit Tropism
+
 
 #### Tropism of Sars-CoV-2
-Both evolutionary drive and biological constraints yielded a tight tropism of coronaviruses. Key factors are:
+Both evolutionary drive and biological constraints yield narrow tropism of coronaviruses. Key factors are:
 * cell types and the corresponding biochemistry inside the cells
 * environmental factors around the cell determines entry and exit:
     - chemical environment
