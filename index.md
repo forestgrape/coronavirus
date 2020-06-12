@@ -61,7 +61,7 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 #### Minor Updates
-- 12.6.20 sections in *online work* about the tropism of Covid-19 and Sars-Cov-2
+- 12.6.20 sections in *online work* on the tropism of Covid-19 and Sars-Cov-2
 - 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
