@@ -61,7 +61,7 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 #### Minor Updates
-- 3.6.20 started online 
+- 12.6.20 sections in *online work* about the tropism of Covid-19 and Sars-Cov-2
 - 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -149,6 +149,15 @@ Covid-19 is different from a common respiratory disease. It doesn't start with a
 ### symptoms
 [in work]
 * Only a slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). An increase as low as one degree indicates an infection.
+
+### tropism 
+How a virus infection behaves is dependent on the interplay of the virus tropism, host factors and environmental factors.
+* Host factors
+    - cells suscecpible to infection
+    - immune reactions both on body (e.g. fever or circulating antibodies), tissue (e.g. local inflammation) and cell level (intra cellular processes). 
+* Virus tropism
+
+
 
 <p id="monitor-and-control">-----</p>
 
@@ -335,20 +344,22 @@ The membrane is spherical and consists of structural proteins coated with a lipi
 ## Life Cycle 
 [in work]
 
+The virus life cycle has two phases: 
+* __Passive Virion: Travel and Wait__ 
+    Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
+* __Active Virus: Induce the Metabolism__ With The metabolism starts once the genetic material of a virion is processed by a cell.  
 
-
-### match to an infectable cell
+#### match to an infectable cell
 A virion needs to get matched with a target cell up to some dozens of nanometers. The virion match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
 Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
 - [an exploitable host]  
 - [an exploitable tissue]
 - an exploitable cell
 
-### cell entry
+#### cell entry
 - the virus gets attached to the matching receptor on the target cell mostly via the spike protein
 - fusion of the viral envelope with host cell membranes
 - release of genetic material and proteins into the cell
-- start metabolism 
 
 ### metabolism
 [in work]
@@ -467,7 +478,7 @@ To enter a cell a virus needs the spike protein, its grappling hook, to bind to 
 The evolution rate of coronaviruses is fast because of a short average generation-time and the mechanism they copy their RNA. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
 * RNA-dependent RNA polymerase, which yields a high rate of random point mutations.  
 * a homologous recombination mechanism. 
-Coronaviruses have large genomes (in comparison to other viruses and messenger RNAs) which both back the mentioned recombinations and encodes complex proteins. Overall they can fast adapt to changed or new environments if given time and opportunity and they can change the metabolism of the target cells in various ways. 
+Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Overall they can fast adapt to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
 [in work]
 
 <p id='section-habitat'>-----</p>
@@ -546,8 +557,10 @@ For being an exploitable entry point, ACE2 should be built into the cell membran
 ACE2 is apically expressed on lower respiratory tract epithelial cells, 
 Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
 
+
 ### empirical reasoning
-Viral load in combination with the [movements of virions](#movement-of-virions) inside the body give indications for tissue preferences of Sars-CoV-2. 
+Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
+
 #### sars-cov-2 viral load
 The viral load observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
 * The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
@@ -592,14 +605,14 @@ For coronaviruses, the replication mechanism within a cell is well conserved and
 <p id="ideas"> -------</p>
 
 # Ideas to Explore
-* [Exploit Tropism](#exploit-tropism)
+* [Consider Tropism](#consider-tropism)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
-<p id="exploit-tropism"> -----</p>
+<p id="explicate-tropism"> -----</p>
 
-## Investigate, Analyze and possibly Exploit Tropism
-
+## Consider Tropism of Sars-Cov-2 infections
+Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
 
 #### Tropism of Sars-CoV-2
 Both evolutionary drive and biological constraints yield narrow tropism of coronaviruses. Key factors are:
