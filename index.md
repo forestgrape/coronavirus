@@ -578,14 +578,19 @@ That in swab tests there are viruses in the nose and the mouth can be attributed
 Some topics and findings of the vertebrate immune protection relevant for other parts of [this site](#home) are described. 
 
 
-## cross immune protection
+## basis of cross immune protections
 All form of life share common molecular patterns. The more genetically related the forms the more protein patterns they share. These common patterns are possible targets to develop cross immune protections either by the immune system or artificial 
 medications. 
-Well conserved are:
-* Functional units of proteins. The more fundamental there function is, the more conserved they are. E.g. RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved across viruses [to check, citation coming]. 
-* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt.
 
-For coronaviruses, the replication mechanism within a cell is well conserved and thus the proteins involved. 
+* Functional units of proteins. The more fundamental there function is, the more conserved they are.
+* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt
+* For coronaviruses, the replication mechanism within a cell is well conserved and thus the proteins involved.
+
+Examples of well conserved proteins for coronaviruses are:
+* RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved [to check, citation coming]. 
+* The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
+
+
 
 <!--
 ### protections based on general patterns
@@ -609,7 +614,7 @@ For coronaviruses, the replication mechanism within a cell is well conserved and
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
-<p id="explicate-tropism"> -----</p>
+<p id="consider-tropism"> -----</p>
 
 ## Consider Tropism of Sars-Cov-2 infections
 Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
@@ -660,13 +665,13 @@ A bovine coronavirus strain, namely HECV-4408,  was isolated from a child from a
 If a cross protection between BCoVs and Sars-CoV-2 exists and if yes how it works remains to be determined. Depending on the mechanism of action it could be used in many ways.
 
 
-### relevance 
+### Relevance 
 The relevance and usage depends to a large extend on the [mechanisms of action](#mechanisms) and how much protection is provided. 
 Possible use cases are polyvalent:
 
 #### epidemiological
-- knowing that people have an increased immune protections and therefore experience only mild symptoms and have reduced spreading of Sars-CoV-2 can be used to manage the current Covid-19 pandemic. 
-- Serum conversion occurrence: It could be that a different or no seroconversion occurs to people exposed to different strains of betacoronaviruses.  
+- knowing that people have an increased immune protections and therefore experience only mild symptoms and have reduced spreading of Sars-CoV-2 is relevant to manage the current Covid-19 pandemic. 
+- Serum conversion occurrences: It could be that a different or no seroconversion occurs to people exposed to different strains of betacoronaviruses.  
 
 #### medications
 Knowledge of cross immune reactions can help to develop medications and even literal vaccines are thinkable vice versa. 
@@ -731,20 +736,20 @@ Examples where they have proven or there is strong evidence are:
 ### mechanisms
 In the following mechanism of actions are guessed. 
 
-* Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
         * N
      [in work]
+* Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
      
      
 ### next steps
 * Analyse spread patterns in other countries: USA, France, ...
-* Widespread serology for HCoVs and do statistics if there's a relation to pathogenesis of Covid-19. 
+* Widespread serology for HCoVs and statistics if there's a relation to pathogenesis of Covid-19. 
 * Analyse birth and grow up locations of elderly Covid-19 patients.
-* figuring out whether BCoVs can genetically cross with HCoVs. This could yield new strains with possibly more severe pathogenesis. 
+* figuring out whether BCoVs genetically cross with other HCoVs. This could yield new strains with altered and possibly more severe pathogenesis. 
      
     
 <p id="early-vents"> -----</p>
