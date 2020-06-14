@@ -215,9 +215,9 @@ Ventilation reduces the indoor airborne spread, since the virion density in outs
 
 
 ### outside is safer
-Outside both the viruses get inactivated faster and are more diluted. Due to the inactivation there's no accumulation.  
-- [dilution](#dilution): The virion density decreases rapidly due to dilution. 
-- [virion destruction](#virion-destruction): sunlight and heat  destroy virions or increases the natural decay.<!-- check humidity effect on virus survival-->
+Outside the viruses get dilluted and then are inactivated faster than inside. Due to the inactivation there's no accumulation.  
+- [dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
+- [virion destruction](#virion-destruction): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
 - [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. 
 #### dilution
 [in work]<br>
@@ -244,13 +244,17 @@ Outside there is much more air per person than inside:
 ### distancing
 Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-like) can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air. 
 
+
+
 <p id='monitor'></p>
 
 ## Monitor 
+
 ### Step by Step Lessening of Measures
 * Monitoring the personal of newly opened businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
 * Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Test can also be used to do sampling and monitoring. Early action is important in these settings. 
 * All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage. For self protection good fit is important. Surgical masks are not always optimal since they are constructed for comfort and inside-to-out protection and not outside-in protection. The health care workers can also determine if self cleaning is an option: wash with a lot of soap or use heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]. 
+
 
 
 <p id="data"> ---</p>
@@ -282,7 +286,7 @@ Right or Wrong and Perfection anyways are often a matter of viewpoint and angle.
 * Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
 
 #### easy readable
-Data ideally are in a common format (e.g. CSV) on a public API (e.g. GitHub repository/REST API), are annotated and contain a readme with the specifications what and how is measured. 
+Data ideally are in a common format (e.g. CSV) on a public API (e.g. GitHub repository/REST API) are annotated e.g. contain a readme with the specifications what and how is measured. 
 
 
 
