@@ -96,7 +96,7 @@ Time to act mindfully and work together in an open and honest way.
     
 - Ventilate the rooms regularly by opening all windows for 5 minutes.  If possibly infected, always ventilate before opening the door of your room or flat. [Ventilation](#ventilation) has been shown to be effective. 
 
-- Outside is safe, if some distance is kept. Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. So beware the corridor and stairwell, don't stay too long or wear a mask. 
+- [Outside is safe](#outside-is-safer), if some distance is kept. Using the smoke metaphor: being close the cloths may still end up smelling and so there is some infection probability. Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. Therefore beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 - Transport: 
     * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. 
@@ -215,7 +215,8 @@ Ventilation reduces the indoor airborne spread, since the virion density in outs
 
 
 ### outside is safer
-Outside the viruses get dilluted and then are inactivated faster than inside. Due to the inactivation there's no accumulation.  
+Outside the viruses get dilluted and then are inactivated faster than inside. Due to the inactivation there's no accumulation. However infection probability isn't zero outside at close distance. 
+
 - [dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [virion destruction](#virion-destruction): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
 - [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. 
@@ -573,10 +574,11 @@ Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability
 
 That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].  
 
+
+
 <p id='immune-protection'>-------</p>
 
 # Immune Protection with a Focus on Coronaviruses
-
 
 [in work]
 Some topics and findings of the vertebrate immune protection relevant for other parts of [this site](#home) are described. 
