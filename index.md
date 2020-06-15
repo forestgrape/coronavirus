@@ -171,7 +171,7 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 <p id='protection-measures'></p>
 
 ## Protection Measures
-The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission). This is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). The transmissions can be thought [smoke like](#metaphor-and-measures) or like the reek of alcohol like. For the first non-smokers protections work, for the latter distancing.
+The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission). This is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). Airborne transmissions can be thought [smoke like](#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
 ### support the immune protection
 Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 spreads less but there are many more infectious diseases, this should be the main focus by a large margin. 
@@ -197,7 +197,7 @@ To reduce spread officially recommend masks, since they mitigate both the infect
     - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
 
-    >Assuming for  reduction of small exhaled aerosols an average of 2.5 and a reduction 50%, so a factor 2, for inhaling: everybody wearing a mask would yield a reduction of factor 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled). This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+    >Assuming a reduction of exhaled aerosols by a factor of 2.5 and a reduction by a factor 2 - i.e. a 50% reduction - for inhaling: everybody wearing a mask yields a reduction of factor 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 
 
@@ -215,23 +215,23 @@ Ventilation reduces the indoor airborne spread, since the virion density in outs
 
 
 ### outside is safer
-Outside the viruses get dilluted and then are inactivated faster than inside. Due to the inactivation there's no accumulation. However infection probability isn't zero outside at close distance. 
+Outside the viruses get dilluted and then are inactivated faster than inside. Due to inactivation and clearance there's no accumulation. However, outside infection probability is not zero just much smaller than inside, especially at close distance there's chance for transmission. 
 
 - [dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [virion destruction](#virion-destruction): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
-- [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. 
+- [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
+
 #### dilution
-[in work]<br>
 Outside there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
-* In the most densely populated cities the density can reach 100'000 person per square kilometer. Additionally assuming that only the lower 150 meters of air are mixed this yields an average of (1'000'000 * 150)/100'000 = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
+* In the most densely populated cities the population density reaches 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
 * Large areas/entire world: Assuming mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of air per person. 
 
 #### virion destruction
-[in work]
 - sunlight inactivates virions 
-    * the UV part destroys the RNA. Even stable DNA in the inner layer of the skin,  protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin). 
+    the UV part destroys RNA. Even stable DNA in the inner layer of the skin,  protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin). 
 - heat
+    particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan 2011](#chan).
 
 #### virion clearance
 [in work]
@@ -253,8 +253,8 @@ Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-
 
 ### Step by Step Lessening of Measures
 * Monitoring the personal of newly opened businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
-* Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Test can also be used to do sampling and monitoring. Early action is important in these settings. 
-* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage. For self protection good fit is important. Surgical masks are not always optimal since they are constructed for comfort and inside-to-out protection and not outside-in protection. The health care workers can also determine if self cleaning is an option: wash with a lot of soap or use heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]. 
+* Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Test can also be used to do sampling and monitoring. Early action is important in these settings. Overall good life quality should be the goal. E.g. longterm prohibit visits is likely no solution. 
+* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage. For self protection good fit is important. Surgical masks are constructed for comfort and inside-out protection and not outside-in protection. The health care workers can also determine if self cleaning is an option: wash with a lot of soap or use heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]. 
 
 
 
@@ -299,7 +299,9 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 - [Introduction to Viruses](#intro-to-viruses)
 - [Introduction to Coronaviruses](#intro-to-coronaviruses)
-- [Life Cycle](#life-cycle)
+- [Life Cycle](#life-cycle) 
+    * [Metabolic Phase](#metabolic-phase)
+    * [Virion Phase](#virion-phase)
 - [Intermezzo Movement of Virions](#movement-of-virions)
 - [Tropism](#tropism)
 - [Evolution and Adaption](#evolution-and-adaption)
@@ -311,14 +313,21 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 ## Introduction to Viruses
 
-> <span id='virus'> A _virus_ is a form of life that can't produce all of its needed  enzymes. While outside of a cell and ready to infect a cell a virus is called _virion_.</span>
+> <span id='virus'> A _virus_ is a form of life that can't produce all of its needed  materials e.g. proteins and lipids.</span> 
 
-Once a virus hijacks/infects cells, it usually changes the cell's metabolism to produce rough copies of itself. So viruses are dependent on the host cells. Therefore longterm surviving virus strains often have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystem is ubiquitous in nature. 
-
+So viruses need to use other forms of life to have a metabolism. Nearly all forms of life on today's earth are cell based.
 
 > <span id='infected-cell'> A cell is called _infected_ by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated. </span>
 
+Most cells don't live forever. <!--In the prevalent mulitcellular organisms on average only two halves cell survive.--> Viruses infected cells often die even faster. So viruses need to jump to other cells. To achieve this, many viruses, including coronaviruses, have a 2 phase [life cycle](#life-cycle). 
+* Virus phase: Using a cells metabolism to produce proteins and ultimately progeny.
+* Virion phase: Travel, wait and upon match with an [infectable cell](#infectable-cell) induce infection. 
+
+> <span id='virion'> A _virion_ is a virus outside a cell and ready to infect a cell.</span>
+
 > <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
+
+Once a virus hijacks/infects cells, it usually changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
 > <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected. Entity can be a tissue, an organ or an organism.</span> 
 
@@ -344,18 +353,45 @@ The membrane is spherical and consists of structural proteins coated with a lipi
 - RNA dependent RNA polymerase
 - cleavage other proteins and RNA [to check]
 
+
+
 <p id='life-cycle'>-----</p>
 
 ## Life Cycle 
-[in work]
 
-The virus life cycle has two phases: 
-* __Passive Virion: Travel and Wait__ 
-    Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
-* __Active Virus: Induce the Metabolism__ With The metabolism starts once the genetic material of a virion is processed by a cell.  
+As mentioned in the [introduction](#intro-to-viruses) the coronavirus life cycle has two phases:
+* [Metabolic Phase](#metabolic-phase)
+* [Virion Phase](#virion-phase)
+
+
+### metabolic phase
+The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism.
+
+#### start of metabolism
+[in work]
+- Let the host ribosomes translate two ORFs of the viral genome with frame-shifting-> two large proteins --cleave--> pieces of proteins --assemble--> polymerase protein (protein capable of transcription of RNA to RNA)
+-- transcription--> new mRNAs
+    * which in a first phase are in turn translated to proteins
+    * in a possible second phase the copied RNA together with the produced proteins is assembled to new virions and thus yielding [replication](#replication).
+
+#### replication
+The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. 
+
+The new virions [are moved by extern forces](#movements-of-virions) and may get matched to an new infectable cell. The infectable cell can be:
+* of the same cell type| another cell type
+* in the same tissue| another tissue 
+* in the same host| another host 
+
+
+### virion phase
+Travel and Wait for Activation<br>
+Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
+
+#### travel phase
+Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are activated to start the cell infection process. 
 
 #### match to an infectable cell
-A virion needs to get matched with a target cell up to some dozens of nanometers. The virion match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
+A virion needs to get matched with a target cell up to some dozens of nanometers. The virion-target match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
 Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
 - [an exploitable host]  
 - [an exploitable tissue]
@@ -365,21 +401,6 @@ Getting matched to an infectable cell involves the following steps (steps in [..
 - the virus gets attached to the matching receptor on the target cell mostly via the spike protein
 - fusion of the viral envelope with host cell membranes
 - release of genetic material and proteins into the cell
-
-### metabolism
-[in work]
-- Let the host ribosomes translate two ORFs of the viral genome with frame-shifting-> two large proteins --cleave--> pieces of proteins --assemble--> polymerase protein (protein capable of transcription of RNA to RNA)
--- transcription--> new mRNAs
-    * which in a first phase are in turn translated to proteins
-    * in a possible second phase the copied RNA together with the produced proteins is assembled to new virions and thus yielding [replication](#replication).
-
-### replication
-The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. 
-
-The new virions [are moved by extern forces](#movements-of-virions) and may get matched to an new infectable cell. The infectable cell can be:
-* of the same cell type| another cell type
-* in the same tissue| another tissue 
-* in the same host| another host 
 
 
 <p id='movement-of-virions'></p>
@@ -408,12 +429,15 @@ Within a host the movement of virions depends on the location they are released 
     * respiratory tract lining fluid
     * the air breathed in and out and the [particle dynamics in the respiratory tract](#particles) associated.
 - solid movements within the host i.e. the virion is attached to a moveable part:
-    * in a cells cytoplasm with the ####### 
+    * inside cells with the centrosome. Especially important for viruses which need to enter the cell nucleus e.g. influenza viruses.
+    * attached to particles get moved around within a host. 
     * the movement of body parts e.g. an extremity (hands and feets) or the lungs.  
 - Brownian Motion: The Brownian motion of viruses is slow and by Brownian motion alone a virion usually just moves a few micro meters to reach close by cells. However if given engough time virions can diffuse to many locations both within tissues or within cells. 
 
+<!--td in out-->
 
-### Movement to next host
+
+### Movement between hosts
 [in work]
 Many forms of life cannot move well on their own: Plants, bacteria and fungi. In the oceans this is less a problem thanks to the currents. On land however, all forms of life with no ability to move have the challange to spread and genetically interact. The main options are the same for them all: Being carried by wind, water or moving organsims. Virions have to rely on this options to spread through a host populations:
 
@@ -486,6 +510,8 @@ The evolution rate of coronaviruses is fast because of a short average generatio
 Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Overall they can fast adapt to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
 [in work]
 
+
+
 <p id='section-habitat'>-----</p>
 
 ## Habitat
@@ -547,17 +573,18 @@ The virus can get attached to a cell type or host the given strain hasn't been e
 The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
-In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [tropism](#tropism) of Sars-CoV-2. 
+In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and the [tropism](#tropism) of Sars-CoV-2. 
+
 #### cell receptor
 The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
-The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. McCray & Co also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. (similar observations for another Coronavirinae, namely 229E,  which infects the cells, corresponding to the entry point amino-peptidase N expression, preferably from the apical surface [[McCray](#mccray)] and exits apically with a preference of 10:1 for apical entry and 5:1 for basal entry).    
+The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
 #### tissue distribution of ACE2
 There are two common methods to measure tissue distribution of proteins:
 * _antibody staining_: to detect ACE2 an anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. . Used in the work of [Timens](#timens), [McCray](#mccray05) 
-* _detect mRNA_: e.g. ACE2 mRNA. Necessary condition for local protein expression, however not sufficient for ACE2 on apical cell surface, see e.g. [Li et al](#li)
+* _detect mRNA_: e.g. ACE2 mRNA. Necessary condition for local protein expression. However not sufficient for ACE2 on apical cell surface [to check]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
-For being an exploitable entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. 
+For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. 
 
 ACE2 is apically expressed on lower respiratory tract epithelial cells, 
 Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
@@ -610,7 +637,7 @@ Examples of well conserved proteins for coronaviruses are:
 *  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
     - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
     - NL63 -protects-> 229E (only unidirectional)
-* [Han et al](#han) showed that calves innoculated with HECV-4408get cross-protective immunity against BCoV DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](#human-bcov-infections)
+* [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](#human-bcov-infections).
 
 
 <p id="ideas"> -------</p>
@@ -658,7 +685,7 @@ While there are possible explanations for many epidemiological observations of t
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 * Across the world no Covid-19 hotspot has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
 
-A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are transmitted to humans such that the immune system is trained to fight Betacoronaviruses. Transmissions and the induced build up of some form of resistance could occur regularly or just once as an infant and possibly yield lifelong increased protection. Such an immune protection could explain why some people notice no or only few symptoms. Notworthy seniors sometimes remain mostly asymptomatic or experience severe symptoms. 
+A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are transmitted to humans such that the immune system is trained to fight Betacoronaviruses. Transmissions and the induced build up of some form of resistance could occur regularly or just once as an infant and possibly yield lifelong increased protection. Such an immune protection could explain why some people notice no or only few symptoms. Noteworthy some seniors remain mostly asymptomatic and other seniors experience severe or even fatal Covid-19.
 
 The hypothesis above is possible in theory by the following exemplary observations (described in more detail in [biological basis](#biological-basis)).
 
