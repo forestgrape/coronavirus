@@ -85,7 +85,7 @@ Covid-19 can be serious in the short-term and whether long-term effects can be c
 
 Time to act mindfully and work together in an open and honest way. 
 
-### Thoughts how to reduce Covid-19 infection risk and paths
+### How to reduce Covid-19 infection risk and paths
 
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
@@ -140,22 +140,33 @@ Time to act mindfully and work together in an open and honest way.
 # Covid-19
 
 ### public description
-__Remark__: The description given below agrees with the expected pathogenesis of mild cases. However, to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including a posteriori diagnosis of myself: 
+__Remark__: The description given below agrees with the expected pathogenesis of mild cases. However, to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including - looking back a likely - a posteriori diagnosis of myself: 
+
+Covid-19 is different in many ways from a common respiratory disease. It often doesn't start with a sore throat nor with a runny nose, it often starts from within, from the lungs. The word 'often' is important since Sars-Cov-2 infections, currently all called Covid-19, behave different in different situations. Early symptoms often include some chill (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a sore throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
+
 > Even though I wasn't asymptomatic, the diagnosis was not obvious at first. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterward, so the immune system likely not had enough time and resources to control the viruses. 
-
-
-Covid-19 is different from a common respiratory disease. It doesn't start with a sore throat nor with a runny nose, it starts from within, from the lungs. Early symptoms can be some chill (because the body is increasing the temperature to fight the viruses) or some strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a sore throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
 ### symptoms
 [in work]
-* Only a slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). An increase as low as one degree indicates an infection.
+#### early
+* A slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). An increase as low as one degree can indication an infection.
 
 ### tropism 
-How a virus infection behaves is dependent on the interplay of the virus tropism, host factors and environmental factors.
-* Host factors
+
+How a virus infection behaves is a complex interplay of host factors, the tropism of the virus and environmental factors.
+
+* Host factors<br>
+    Several risk facctor for the tropism of Covid-19 in
     - cells suscecpible to infection
-    - immune reactions both on body (e.g. fever or circulating antibodies), tissue (e.g. local inflammation) and cell level (intra cellular processes). 
-* Virus tropism
+* Host immune system
+    - immune reactions on different levels
+        * entire body (e.g. fever or circulating antibodies)
+        * tissue specific (e.g. local inflammation)
+        * cell level (intra cellular processes)
+    - history of exposion of the immune system to antigens and especially antigens similar the Sars-Cov-2. 
+* Tropism of the virus in this case Sars-Cov-2
+* Enviromental Factors
+
 
 
 
@@ -174,7 +185,7 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission). This is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). Airborne transmissions can be thought [smoke like](#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
 ### support the immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 spreads less but there are many more infectious diseases, this should be the main focus by a large margin. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 especially. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. Therefore the most important protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 spreads less but there are many more infectious diseases, this should be the main focus by a large margin. 
 [in work]
 Proposals to increase the immune system:
 * providing settings that support good health
@@ -215,7 +226,7 @@ Ventilation reduces the indoor airborne spread, since the virion density in outs
 
 
 ### outside is safer
-Outside the viruses get dilluted and then are inactivated faster than inside. Due to inactivation and clearance there's no accumulation. However, outside infection probability is not zero just much smaller than inside, especially at close distance there's chance for transmission. 
+Outside the viruses get dilluted and then are inactivated faster than inside. Due to inactivation and clearance there's no accumulation. However, outside infection probability is not zero just much smaller than inside. At close distance there is still chance for transmission. 
 
 - [dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [virion destruction](#virion-destruction): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
@@ -343,11 +354,13 @@ Once a virus hijacks/infects cells, it usually changes the cell's metabolism. To
 
 ### Nidovirales
 Coronaviruses belong to the order of Nidovirales which share a nest-like replication pattern within a cell. Their name derives from this pattern: nidus means nest in latin. Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. 
+
+
 ### Coronaviruses
-The membrane is spherical and consists of structural proteins coated with a lipid bilayer. Among the membrane proteins are large spike proteins. Theses spike protein point out of the sphere, which gives coronaviruses a crown (corona in latin) like appearance under the electron microscope.
+The membrane is spherical and consists of structural proteins coated in a lipid bilayer aquired from the host cell and called envelope. Among the membrane proteins are large spike proteins. Theses spike protein point out of the spherical , which gives coronaviruses a crown (corona in latin) like appearance under the electron microscope.
+
 
 ### proteins  
-
 - structural proteins: used to give newly built viruses structure. These are the membrane proteins and the internal protein N stabilizes the RNA
 - diminish host defence
 - RNA dependent RNA polymerase
@@ -358,11 +371,9 @@ The membrane is spherical and consists of structural proteins coated with a lipi
 <p id='life-cycle'>-----</p>
 
 ## Life Cycle 
-
 As mentioned in the [introduction](#intro-to-viruses) the coronavirus life cycle has two phases:
 * [Metabolic Phase](#metabolic-phase)
 * [Virion Phase](#virion-phase)
-
 
 ### metabolic phase
 The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism.
@@ -406,7 +417,6 @@ Getting matched to an infectable cell involves the following steps (steps in [..
 <p id='movement-of-virions'></p>
 
 ## Intermezzo Movement of Virions
-
 Once virions are released from a cell the virions are moved by whatever movements are in their surroundings.   
 
 ### Surroundings
@@ -418,7 +428,6 @@ All forms of life on earth are water based. Both protein and RNA/DNA synthesis o
     - Water droplets can be dissolved in air. 
     - Air. Air contains reative oxygen and most virions will be destroyed, since they expose activator proteins on the outside. Coronavirus virions are a rare exception staying infectious in dry form. 
 * __Material attached to__: These can be any solid material e.g. a part of living organism or any kind of non living matter. The movement of virions follows the movement of the materials attached to. These particles are in turn dissolved in fluids, mostly water, or attached to other particles. 
-
 
 ### Movement within a host
 Often for viruses it is sufficient to infect other cells within the same host and so movement within a host can be enough. Some even evolved not to leave the host organism at all.
@@ -433,6 +442,7 @@ Within a host the movement of virions depends on the location they are released 
     * attached to particles get moved around within a host. 
     * the movement of body parts e.g. an extremity (hands and feets) or the lungs.  
 - Brownian Motion: The Brownian motion of viruses is slow and by Brownian motion alone a virion usually just moves a few micro meters to reach close by cells. However if given engough time virions can diffuse to many locations both within tissues or within cells. 
+
 
 <!--td in out-->
 
@@ -496,7 +506,7 @@ The tissue needs to provide the right environment around the target cells.
 ### cell tropism 
 
 #### matching receptor
-To enter a cell a virus needs the spike protein, its grappling hook, to bind to a receptor on the cell membrane to get attached.  Next the virus needs to pass the cell membrane, this step is usually achieved by cleavage of the spike protein which then becomes a 'key' for fusion with the cell membrane. In the case of coronaviruses, the keys are often the spike-proteins. 
+To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
 
 #### right environment inside the cell
 [in work]
@@ -504,10 +514,11 @@ To enter a cell a virus needs the spike protein, its grappling hook, to bind to 
 <p id='evolution-and-adaption'>-----</p>
 
 ## Evolution and Adaption
-The evolution rate of coronaviruses is fast because of a short average generation-time and the mechanism they copy their RNA. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
+The evolution rate of coronaviruses is fast because of a short average generation-time (only a few hours [to be confirmed])and properties of their RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
 * RNA-dependent RNA polymerase, which yields a high rate of random point mutations.  
 * a homologous recombination mechanism. 
-Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Overall they can fast adapt to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
+
+Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Coronaviruses can adapt fast to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
 [in work]
 
 
@@ -704,7 +715,7 @@ Possible use cases are polyvalent:
 
 #### epidemiological
 - knowing that people have an increased immune protections and therefore experience only mild symptoms and have reduced spreading of Sars-CoV-2 is relevant to manage the current Covid-19 pandemic. 
-- Serum conversion occurrences: It could be that a different or no seroconversion occurs to people exposed to different strains of betacoronaviruses.  
+- Serum conversion occurrences: It could be that a different or no seroconversion occurs to people previously exposed to different strains of betacoronaviruses.  
 
 #### medications
 Knowledge of cross immune reactions can help to develop medications and even literal vaccines are thinkable vice versa. 
