@@ -478,9 +478,17 @@ Many forms of life cannot move well on their own: Plants, bacteria and fungi. In
 <p id="tropism">-----</p>
 
 ## Tropism 
+Both evolutionary drive and biological constraints yield the tropism of coronaviruses. Key factors are:
+* cell types and the corresponding receptors expressed and the biochemistry inside the cells
+* environmental factors around the cells determines entry:
+    - chemical environment
+    - biological environment: Virions are activated for cell entry by specific proteins
+    - physical environment
+
 Each step  in the life cycle has both attracting and limiting factors. 
 
 A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
+
 
 ### between host tropism
 Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
@@ -526,7 +534,7 @@ Coronaviruses have large genomes (in comparison to other RNA viruses and messeng
 <p id='section-habitat'>-----</p>
 
 ## Habitat
-As discussed in [life cycle constraints](#tropism) there are many conditions for a virus to replicate. Since evolution and adaption are the same for viruses, a virus strain is best adapted to a certain environments. These environments are habitats:
+As discussed in [life cycle constraints](#tropism) there are many conditions for a virus to replicate. Since evolution and adaption are nearly the same for viruses, a genetic lineage of a virus is best adapted to certain environments. These environments are habitats:
 ><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infectable-entity) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
 ><span id='endemic'> A virus strain is *endemic* in a collection of organism if that collection is a habitat of the virus.</span>
@@ -660,16 +668,11 @@ Examples of well conserved proteins for coronaviruses are:
 
 <p id="consider-tropism"> -----</p>
 
-## Consider Tropism of Sars-Cov-2 infections
+## Consider Tropism of Sars-Cov-2 infections in humans
+As of June 2020 all Sars-Cov-2 infections in humans are called Covid-19. However it is possible that Sars-Cov-2 infections can yield different types of diseases there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
 Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
 
-#### Tropism of Sars-CoV-2
-Both evolutionary drive and biological constraints yield narrow tropism of coronaviruses. Key factors are:
-* cell types and the corresponding biochemistry inside the cells
-* environmental factors around the cell determines entry and exit:
-    - chemical environment
-    - biological environment: Virions are activated for cell entry by specific proteins
-    - physical environment
+
 
 
 <p id="litvac2"> -----</p>
