@@ -26,7 +26,7 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
 * [Covid-19](#covid)
     - [Public Description](#public-description)
 * [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
-* [Coronaviruses with a Focus on Sars-CoV-2](#bcv)
+* [Coronaviruses with a Focus on Sars-CoV-2](#coronaviruses)
 * [Ideas to Explore](#ideas)
     - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
@@ -142,9 +142,9 @@ Time to act mindfully and work together in an open and honest way.
 ### public description
 __Remark__: The description given below agrees with the expected pathogenesis of mild cases. However, to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including - looking back a likely - a posteriori diagnosis of myself: 
 
-Covid-19 is different in many ways from a common respiratory disease. It often doesn't start with a sore throat nor with a runny nose, it often starts from within, from the lungs. The word 'often' is important since Sars-Cov-2 infections, currently all called Covid-19, behave different in different situations. Early symptoms often include some chill (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. These early symptoms can be easily overlooked, so the first thing to notice may very well be a sore throat or loss of smell/taste - these symptoms come when high numbers of viruses are breathed up and reach the mouth and the nose, at this time, one is already shedding many viruses. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
+Covid-19 is different in from a common upper respiratory disease. It often doesn't start with a sore throat nor with a runny nose, it can start from within, from the lungs. Early symptoms cam include some chill (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. Early symptoms can be too a sore throat or loss of smell/taste - these symptoms can be due to high numbers of viruses are breathed up and reach the mouth and the nose from the lower respiratory tract or the infection is in the upper respiratory tract. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
-> Even though I wasn't asymptomatic, the diagnosis was not obvious at first. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterward, so the immune system likely not had enough time and resources to control the viruses. 
+> Even though I wasn't asymptomatic, the diagnosis was not obvious, at least back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterward, so the immune system likely not had enough time and resources to control the viruses. 
 
 ### symptoms
 [in work]
@@ -153,19 +153,20 @@ Covid-19 is different in many ways from a common respiratory disease. It often d
 
 ### tropism 
 
-How a virus infection behaves is a complex interplay of host factors, the tropism of the virus and environmental factors.
+How a virus infection behaves is an interplay of host factors including the host immune system, the tropism of the virus and environmental factors.
 
-* Host factors<br>
-    Several risk facctor for the tropism of Covid-19 in
-    - cells suscecpible to infection
-* Host immune system
-    - immune reactions on different levels
-        * entire body (e.g. fever or circulating antibodies)
-        * tissue specific (e.g. local inflammation)
-        * cell level (intra cellular processes)
-    - history of exposion of the immune system to antigens and especially antigens similar the Sars-Cov-2. 
-* Tropism of the virus in this case Sars-Cov-2
-* Enviromental Factors
+* __Host factors__ relevant for the tropism of Covid-19 are
+    - Cells suscecpible to infection and capable of producing viruses (e.g. red blood cells are not). 
+    - Host immune system responses. The immune reactions depend both on the personal history and possible exposure of anchestors (genetic adaption).
+* __Tropism of Sars-Cov-2__ 
+    * Virions enter just cells containing a matching receptor and having been activated by proteases, more in [Sars-Cov-2 tropism](#coronavirus-tropism)
+* __Environmental Factors__ effect
+    - the travel of virions between hosts and thus the mode of the initial infection. 
+    - Environmental factors influence host factors and thus indirectly the course of the disease.   
+
+  
+
+
 
 
 
@@ -201,21 +202,24 @@ Good health including an intact immune system is important for many reasons.
 
 
 ### masks
-To reduce spread officially recommend masks, since they mitigate both the infection and spread risk. Without an official recommendation, people can be put off or look afraid of masks, at least in Europe, which is not desirable. The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
+Mask reduce spread since they mitigate both the infection and spread risk.  
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
-    - Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction (greater than 5 micrometer) with a 25 fold reduction in the number of viral copies 
-    -  statistically significant 2.8 fold reduction in copies detected in the fine aerosol fraction (smaller than 5 micrometer)
-    - Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
+    - Particles greater than 5 micro meter: Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction: resulting in a 25 fold reduction in the number of viral copies 
+    - Particles smaller than 5 micro meter:  statistically significant 2.8 fold reduction in viral copies detected in the fine aerosol fraction.
+    - Overall: Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
+    >Assuming a reduction of exhaled aerosols by a factor of 2.5 (60% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
-    >Assuming a reduction of exhaled aerosols by a factor of 2.5 and a reduction by a factor 2 - i.e. a 50% reduction - for inhaling: everybody wearing a mask yields a reduction of factor 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
-
-
+#### mask recommendation
+Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least in Europe, which is not desirable.
+The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
 
 <!--  
 Reasons against masks seem sometimes rather searched:
-* touching more often the face. Remark: Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this masks are protective. 
-* Reserve for healthcare workers is needed for the big wave. Remark: If masks are shown to help prevent the big wave in its roots, then that's the better option.-->
+* touching more often the face. 
+> Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this, masks are protective. 
+* Reserve for healthcare workers is needed for the big wave. 
+> If masks help to prevent the big wave in its roots, then that's the better option.-->
 
 
 ### ventilation
@@ -236,7 +240,7 @@ Outside the viruses get dilluted and then are inactivated faster than inside. Du
 Outside there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
 * In the most densely populated cities the population density reaches 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
-* Large areas/entire world: Assuming mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer: This means 15 persons/(1'000'000 * 1500 cubic meters) which yields that each person has an average of 100 million cubic meters of air per person. 
+* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer: A density of 15 persons/(1'000'000 * 1500 cubic meters) follows which yields that each person has an average of 100 million cubic meters of air per person. 
 
 #### virion destruction
 - sunlight inactivates virions 
@@ -302,7 +306,7 @@ Data ideally are in a common format (e.g. CSV) on a public API (e.g. GitHub repo
 
 
 
-<p id="bcv">-------</p>
+<p id="coronaviruses">-------</p>
 
 # Coronaviruses with a Focus on Sars-CoV-2
 [in work]
@@ -324,9 +328,11 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 ## Introduction to Viruses
 
-> <span id='virus'> A _virus_ is a form of life that can't produce all of its needed  materials e.g. proteins and lipids.</span> 
+< <span id='form-of-life'> A form of life in a given environment is a thing that can itself in this enviroment, is able to memorize patterns pass this memories to its progeny. 
 
-So viruses need to use other forms of life to have a metabolism. Nearly all forms of life on today's earth are cell based.
+> <span id='virus'> A _virus_ is a form of life, that can't produce the complete machinery for its replication process i.e. natural viruses can't produce all proteins needed for the replication process. [in work]</span> 
+
+So viruses need to use other forms of life to have a complete metabolism. Nearly all forms of life on today's earth are cell based.
 
 > <span id='infected-cell'> A cell is called _infected_ by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated. </span>
 
@@ -366,6 +372,13 @@ The membrane is spherical and consists of structural proteins coated in a lipid 
 - RNA dependent RNA polymerase
 - cleavage other proteins and RNA [to check]
 
+## Coronaviruses strains
+[in work]
+### SARS
+### Sars-CoV-2
+### MERS
+### bovine coronaviruses
+Abbreviated BCoV
 
 
 <p id='life-cycle'>-----</p>
@@ -475,7 +488,7 @@ Many forms of life cannot move well on their own: Plants, bacteria and fungi. In
 
 
     
-<p id="tropism">-----</p>
+<p id="coronavirus-tropism">-----</p>
 
 ## Tropism 
 Both evolutionary drive and biological constraints yield the tropism of coronaviruses. Key factors are:
@@ -497,20 +510,24 @@ Often a virion needs to be outside of a host to reach a next exploitable host. I
 * heat
 * chemical environment
 
+
 ### host tropism
-Reaching a host with infectable cells is not enough. The host immune system should be diminished or not know the virus. 
+Reaching a host with infectable cells is not enough. The host immune system at the point of arrival should be diminished or not know the virus. 
     
+
 ### reach a tissue constraints 
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
 
+
 ### tissue tropism
 The tissue needs to provide the right environment around the target cells.
 * The spike proteins of coronaviruses needs to be cleaved for cell entry. This cleaving can require the right physiological conditions [Holmes](#holmes). 
 * Also the cell environments shouldn't deactivate the virus, e.g. antibodies do so.
  
+
 ### cell tropism 
 
 #### matching receptor
@@ -534,7 +551,7 @@ Coronaviruses have large genomes (in comparison to other RNA viruses and messeng
 <p id='section-habitat'>-----</p>
 
 ## Habitat
-As discussed in [life cycle constraints](#tropism) there are many conditions for a virus to replicate. Since evolution and adaption are nearly the same for viruses, a genetic lineage of a virus is best adapted to certain environments. These environments are habitats:
+As outlined in [tropism](#tropism) there are many conditions for a virus to replicate. Since evolution and adaption are nearly the same for viruses, a genetic lineage of a virus is best adapted to certain environments to replicate. These environments are habitats:
 ><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infectable-entity) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
 ><span id='endemic'> A virus strain is *endemic* in a collection of organism if that collection is a habitat of the virus.</span>
@@ -544,7 +561,7 @@ As discussed in [life cycle constraints](#tropism) there are many conditions for
 Sometimes it is helpful to differentiate hosts upon their role they play in the virus spread:
 ><span id='natural-host'>A *Natural Host* of a virus is a [host](#host) and the infections are relevant for the spread of the virus.</span>
 
-><span id='side-host'>A *Side Host* of a virus is a [host](#host) and the infections are _not_ relevant for the spread of the virus. E.g. the virus cannot replicate effienctly or the virions cannot leave the host. These infections can be viewed as side-effects of the random virus spread. </span>
+><span id='side-host'>A *Side Host* of a virus is a [host](#host) and the infections are _not_ relevant for the spread of the virus. E.g. the virus cannot replicate effienctly or the virions cannot leave the host. These infections can be viewed as side-effects of the random virus spread. Virus can evolve to a new strain that a Side Host becomes a Natural Host</span>
 
 
 Possible habitats are subject to constraints by life cycle. For viruses in natural equilibrium, the locations are involved in the survival of the virus strain i.e. relevant for spread. 
@@ -592,7 +609,7 @@ The virus can get attached to a cell type or host the given strain hasn't been e
 The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
-In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and the [tropism](#tropism) of Sars-CoV-2. 
+In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [tropism](#tropism). 
 
 #### cell receptor
 The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
@@ -626,8 +643,31 @@ That in swab tests there are viruses in the nose and the mouth can be attributed
 
 # Immune Protection with a Focus on Coronaviruses
 
-[in work]
-Some topics and findings of the vertebrate immune protection relevant for other parts of [this site](#home) are described. 
+[in work and incomplete]
+The immune system describes organs and processes that keep the body clean by getting rid of unwanted things. Only some topics and findings of the immune protection relevant for other parts of [this site](#home) are described. 
+
+Immune responses can be globally (affecting the entire body), local for some tissue or even inside single cells:
+* entire body (e.g. fever or circulating antibodies)
+* tissue specific (e.g. local inflammation)
+* cell level (intra cellular processes)
+
+The immune system is classified into two parts an unspecific and a specific part. 
+### Unspecific part 
+The unspecific part is the larger part. It consists of variety of mechanism:
+* the skin protecting large parts of the body 
+* mucus in various parts of the body. 
+
+### Specific part
+A set of cells which substances which have been learned to be harmful. 
+- foreign substances
+- cells that are considered out of order
+- things recognized as being harmful. These are often proteins which can be learned by the specific immune system part. 
+
+Host immune system 
+
+    The above immune reactions depend both on the personal history of exposure to pathogens and the one, ones the anchestors have been exposed to (genetic adaption)
+    * personal history of exposure to antigens and especially antigens similar the Sars-Cov-2 yields memory cells capable of producing targeted antibodies
+    * personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
 
 
 ## basis of cross immune protections
@@ -669,7 +709,7 @@ Examples of well conserved proteins for coronaviruses are:
 <p id="consider-tropism"> -----</p>
 
 ## Consider Tropism of Sars-Cov-2 infections in humans
-As of June 2020 all Sars-Cov-2 infections in humans are called Covid-19. However it is possible that Sars-Cov-2 infections can yield different types of diseases there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
+Sars-Cov-2 infections in humans are called Covid-19. However it is possible that Sars-Cov-2 infections can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
 Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
 
 
