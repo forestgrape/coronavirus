@@ -710,7 +710,7 @@ Examples of well conserved proteins for coronaviruses are:
 
 <p id="consider-tropism"> -----</p>
 
-## Consider Tropism of Sars-Cov-2 infections in humans
+## Consider Tropism of Sars-Cov-2 infections and disease pattering
 Sars-Cov-2 infections in humans are called Covid-19. However it is possible that Sars-Cov-2 infections can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
 Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
 
