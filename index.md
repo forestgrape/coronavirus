@@ -372,13 +372,15 @@ The membrane is spherical and consists of structural proteins coated in a lipid 
 - RNA dependent RNA polymerase
 - cleavage other proteins and RNA [to check]
 
-## Coronaviruses strains
+## Coronaviruses lineages
 [in work]
-### SARS
-### Sars-CoV-2
-### MERS
+#### SARS
+Betacoronavirus causing Sars in 2003/2004.
+#### Sars-CoV-2
+Betacoronavirus causing the current Covid-19 pandemics. 
+### MERS-CoV
 ### bovine coronaviruses
-Abbreviated BCoV
+Abbreviated BCoV. Betacoronavirus causing 
 
 
 <p id='life-cycle'>-----</p>
@@ -426,6 +428,55 @@ Getting matched to an infectable cell involves the following steps (steps in [..
 - fusion of the viral envelope with host cell membranes
 - release of genetic material and proteins into the cell
 
+
+    
+<p id="coronavirus-tropism">-----</p>
+
+## Tropism 
+Both evolutionary drive and biological constraints yield the tropism of coronaviruses. Key factors are:
+* cell typesq the corresponding receptors expressed and the biochemistry inside the cells
+* environmental factors around the cells determines entry:
+    - chemical environment
+    - biological environment: Virions are activated for cell entry by specific proteins
+    - physical environment
+
+Each step  in the life cycle has both attracting and limiting factors. 
+
+A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
+
+
+### between host tropism
+Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
+* get attached to a wrong thing. The probability of this is extremely high due to the random movement. 
+* sunlight destroys virions. 
+* heat
+* chemical environment
+
+
+### host tropism
+Reaching a host with infectable cells is not enough. The host immune system at the point of arrival should be diminished or not know the virus. 
+    
+
+### reach a tissue constraints 
+The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
+* acidic fluids (e.g. stomach acid)
+* mucus clearance
+* protecting layers: dead cells on the epithelium (e.g. skin)
+
+
+### tissue tropism
+The tissue needs to provide the right environment around the target cells.
+* The spike proteins of coronaviruses needs to be cleaved for cell entry. This cleaving can require the right physiological conditions [Holmes](#holmes). 
+ 
+
+### cell tropism 
+
+#### matching receptor
+To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
+
+#### right environment inside the cell
+* The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
+* The cell should be able to produce huge numbers of virions and thus needs ideally has many ribosoms. 
 
 <p id='movement-of-virions'></p>
 
@@ -482,59 +533,10 @@ Many forms of life cannot move well on their own: Plants, bacteria and fungi. In
     * Viruses rarely can spread with the winds. Coronaviruses are one of the few exceptions.   
 
 * __Water__: 
-    Water movement is directional to the oceans and particles need to be "fished out" not to end up there. One of the few escape options is drinking animals. 
+    Water movement is directional to the oceans and particles need to be "fished out" not to end up there. One of the few escape options are drinking animals. 
     * Plants rarely used water since ending up in the oceans is not the goal of land plants.
     * Viruses infecting animals often rely on water. Animals drinking brings them directly to possible hosts. 
 
-
-    
-<p id="coronavirus-tropism">-----</p>
-
-## Tropism 
-Both evolutionary drive and biological constraints yield the tropism of coronaviruses. Key factors are:
-* cell types and the corresponding receptors expressed and the biochemistry inside the cells
-* environmental factors around the cells determines entry:
-    - chemical environment
-    - biological environment: Virions are activated for cell entry by specific proteins
-    - physical environment
-
-Each step  in the life cycle has both attracting and limiting factors. 
-
-A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
-
-
-### between host tropism
-Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
-* get attached to a wrong thing. The probability of this is extremely high due to the random movement. 
-* sunlight destroys virions. 
-* heat
-* chemical environment
-
-
-### host tropism
-Reaching a host with infectable cells is not enough. The host immune system at the point of arrival should be diminished or not know the virus. 
-    
-
-### reach a tissue constraints 
-The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
-* acidic fluids (e.g. stomach acid)
-* mucus clearance
-* protecting layers: dead cells on the epithelium (e.g. skin)
-
-
-### tissue tropism
-The tissue needs to provide the right environment around the target cells.
-* The spike proteins of coronaviruses needs to be cleaved for cell entry. This cleaving can require the right physiological conditions [Holmes](#holmes). 
-* Also the cell environments shouldn't deactivate the virus, e.g. antibodies do so.
- 
-
-### cell tropism 
-
-#### matching receptor
-To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
-
-#### right environment inside the cell
-[in work]
 
 <p id='evolution-and-adaption'>-----</p>
 
