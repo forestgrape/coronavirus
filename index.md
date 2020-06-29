@@ -344,7 +344,7 @@ Most cells don't live forever. <!--In the prevalent mulitcellular organisms on a
 
 > <span id='virion'> A _virion_ is a virus outside a cell and ready to infect a cell.</span>
 
-> <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#virion-activation) to be infectable </span>
+> <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
 
 Once a virus hijacks/infects cells, it usually changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
@@ -386,19 +386,45 @@ Betacoronavirus identified as causal agent of MERS mainly in 2012/2013 and some 
 Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
 
 
+
 <p id='life-cycle'>-----</p>
 
 ## Life Cycle 
 As mentioned in the [introduction](#intro-to-viruses) the coronavirus life cycle has two phases:
-* [Metabolic Phase](#metabolic-phase)
 * [Virion Phase](#virion-phase)
+* [Metabolic Phase](#metabolic-phase)
 
-A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
+## virion phase
+Travel and Wait for Activation<br>
+Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
+
+### travel phase
+Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are [activated](#virion-activation) to start the cell infection process.
 
 The infectable cell can be:
 * in the same host| another host 
 * in the same tissue| another tissue
 * of the same cell type| another cell type
+
+Therefore getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
+- [an exploitable host]  
+- [an exploitable tissue]
+- an exploitable cell
+
+A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
+
+
+#### match to an infectable cell
+A virion needs to get matched with a target cell up to some dozens of nanometers. The virion-target match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
+
+
+### cell entry
+- the virus gets attached to the matching receptor on the target cell mostly via the spike protein
+- fusion of the viral envelope with host cell membranes
+- release of genetic material and proteins into the cell
+- once the viral RNA is in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
+
+
 
 ## metabolic phase
 The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism.
@@ -417,14 +443,21 @@ Let the host ribosomes translate two ORFs of the viral genome with frame-shiftin
 The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. 
 
 
-## virion phase
-Travel and Wait for Activation<br>
-Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
 
-### virion travelling
-Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are activated to start the cell infection process. 
+## Tropism of Coronaviruses
+The word comes from Greek 'tropos' which means turning. So for a moving organism the tropism can describe the change of direction upon a stimulus. In general tropism describes how organisms behave under different circumstances or stimuli. 
 
-### virion activation
+### tropism in the metabolic phase
+[in work]<br>
+According to my literature readings few is known about how coronaviruses behave in different cells. 
+#### efficient replication
+- alveolar type 2 cells
+- alveolar macrophages
+#### no replication and just infection
+* dentritic cells
+
+### virion tropism
+
 Both evolutionary drive and biological constraints yield the tropism of virions. Key factors are:
 * cell types the corresponding receptors expressed and the biochemistry inside the cells
 * environmental factors around the cells determines entry:
@@ -432,35 +465,13 @@ Both evolutionary drive and biological constraints yield the tropism of virions.
     - biological environment: Virions are activated for cell entry by specific proteins
     - physical environment
 
-#### match to an infectable cell
-A virion needs to get matched with a target cell up to some dozens of nanometers. The virion-target match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
-Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
-- [an exploitable host]  
-- [an exploitable tissue]
-- an exploitable cell
 
-
-#### cell entry
-To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
-- 
-- fusion of the viral envelope with host cell membranes
-- release of genetic material and proteins into the cell
-#### matching receptor
-the virus gets attached to the matching receptor on the target cell mostly via the spike protein
-
-#### enviromenment around the cell
-* The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
-
-
-
-
-### virion constraints
+### between host tropism
 Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
 * get attached to a wrong thing. The probability of this is extremely high due to the random movement. 
 * sunlight destroys virions. 
 * heat
 * chemical environment
-
 
 ### host tropism
 * the host immune system should not know how to fight the virus
@@ -468,12 +479,16 @@ Often a virion needs to be outside of a host to reach a next exploitable host. I
 
 
 ### tissue tropism
-#### reachable tissue
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
 
+### cell tropism 
+#### matching receptor
+To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
+#### enviromenment around the cell
+* The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
 
 #### right environment inside the cell
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
