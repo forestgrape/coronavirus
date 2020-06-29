@@ -6,7 +6,7 @@
 * This page is hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)<br> and is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview
 * This is work in progress, so mistakes of any form are likely. 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
-* These are __hypothesis__ and __research ideas__ but __not__ double checked facts. They are put here as ideas to be checked and evaluated. 
+* These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For 'republishing' copy & paste like attribution is appropriate.<br>
 In short: copy paste like needs attribution. For inspiration, thanks are enough and welcome. 
 
@@ -14,7 +14,7 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences and a lot of time to read resources is helpful. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 * __Pointing out mistakes__ especially relating to content, __improvement suggestions__ and __feedback__ are __welcome__.
-<!-- * The page is soon going to be split up into different topics. -->
+<!-- * The page is going to be split up into different topics. -->
 
 <p id="t-content">-----</p> <!-- workaround to set ids, since github preview/jupyter keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
 
@@ -67,15 +67,16 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
 - 28.4. Short note to support public health in the data section
 - 25.4. Data availability section
+<!--
 - 20.4.20 Section cross protections: Human infection by BCoVs has been observed.
 - 18.4. Added section data availability
 - 10.4.20 Added section Habitat of betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
 - 9.4.20 Started section Covid-19
 - 5.4.20 Clarified Early On Ventilators section and added more ref
 - 4.4.20 Updated section evidence from spread patterns (Cruise Ship)
-- 27-4.4.20: Public Advice extended and clarified. 
+- 27.3.-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
-
+-->
 
 
 <p id="public-advice">-----</p>
@@ -148,18 +149,18 @@ Covid-19 is different in from a common upper respiratory disease. It often doesn
 
 ### symptoms
 [in work]
+
 #### early
 * A slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). An increase as low as one degree can indication an infection.
 
 ### tropism 
-
 How a virus infection behaves is an interplay of host factors including the host immune system, the tropism of the virus and environmental factors.
 
 * __Host factors__ relevant for the tropism of Covid-19 are
     - Cells suscecpible to infection and capable of producing viruses (e.g. red blood cells are not). 
     - Host immune system responses. The immune reactions depend both on the personal history and possible exposure of anchestors (genetic adaption).
 * __Tropism of Sars-Cov-2__ 
-    * Virions enter just cells containing a matching receptor and having been activated by proteases, more in [Sars-Cov-2 tropism](#coronavirus-tropism)
+    * Virions enter just cells containing a matching receptor and having been activated by proteases, more in the section [Coronavirus Life Cycle](#life-cycle)
 * __Environmental Factors__ effect
     - the travel of virions between hosts and thus the mode of the initial infection. 
     - Environmental factors influence host factors and thus indirectly the course of the disease.   
@@ -240,7 +241,8 @@ Outside the viruses get dilluted and then are inactivated faster than inside. Du
 Outside there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
 * In the most densely populated cities the population density reaches 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
-* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer: A density of 15 persons/(1'000'000 * 1500 cubic meters) follows which yields that each person has an average of 100 million cubic meters of air per person. 
+* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:<br> 
+(1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person. 
 
 #### virion destruction
 - sunlight inactivates virions 
@@ -342,7 +344,7 @@ Most cells don't live forever. <!--In the prevalent mulitcellular organisms on a
 
 > <span id='virion'> A _virion_ is a virus outside a cell and ready to infect a cell.</span>
 
-> <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
+> <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#virion-activation) to be infectable </span>
 
 Once a virus hijacks/infects cells, it usually changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
@@ -359,7 +361,7 @@ Once a virus hijacks/infects cells, it usually changes the cell's metabolism. To
 ## Introduction to Coronaviruses
 
 ### Nidovirales
-Coronaviruses belong to the order of Nidovirales which share a nest-like replication pattern within a cell. Their name derives from this pattern: nidus means nest in latin. Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. 
+Coronaviruses belong to the order of Nidovirales which share a nest-like gene expression pattern. Their name derives from this pattern: nidus means nest in latin. Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. 
 
 
 ### Coronaviruses
@@ -372,15 +374,16 @@ The membrane is spherical and consists of structural proteins coated in a lipid 
 - RNA dependent RNA polymerase
 - cleavage other proteins and RNA [to check]
 
-## Coronaviruses lineages
+## Coronaviruses species
 [in work]
-#### SARS
-Betacoronavirus causing Sars in 2003/2004.
-#### Sars-CoV-2
-Betacoronavirus causing the current Covid-19 pandemics. 
-### MERS-CoV
+#### sars
+Betacoronavirus identified as causal agent of Sars in 2003/2004.
+#### sars-cov-2
+Betacoronavirus identified as causal agent of the current Covid-19 pandemics. 
+### mers-cov
+Betacoronavirus identified as causal agent of MERS mainly in 2012/2013 and some local cases since then. 
 ### bovine coronaviruses
-Abbreviated BCoV. Betacoronavirus causing 
+Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
 
 
 <p id='life-cycle'>-----</p>
@@ -390,31 +393,44 @@ As mentioned in the [introduction](#intro-to-viruses) the coronavirus life cycle
 * [Metabolic Phase](#metabolic-phase)
 * [Virion Phase](#virion-phase)
 
-### metabolic phase
+A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
+
+The infectable cell can be:
+* in the same host| another host 
+* in the same tissue| another tissue
+* of the same cell type| another cell type
+
+## metabolic phase
 The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism.
 
-#### start of metabolism
-[in work]
-- Let the host ribosomes translate two ORFs of the viral genome with frame-shifting-> two large proteins --cleave--> pieces of proteins --assemble--> polymerase protein (protein capable of transcription of RNA to RNA)
--- transcription--> new mRNAs
+### initial metabolism
+[in work]<br>
+Let the host ribosomes translate two ORFs of the viral genome with frame-shifting<br>-> two large proteins<br> 
+--cleave--> pieces of proteins<br> 
+--assemble--> polymerase protein (protein capable of transcription of RNA to RNA) + other proteins carrying out tasks like prevent the cells protection mechanisms working<br>
+-- transcription of + RNA--> negative RNA template<br>
+-- transcription of - RNA--> new mRNAs
     * which in a first phase are in turn translated to proteins
     * in a possible second phase the copied RNA together with the produced proteins is assembled to new virions and thus yielding [replication](#replication).
 
-#### replication
+### replication
 The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. 
 
-The new virions [are moved by extern forces](#movements-of-virions) and may get matched to an new infectable cell. The infectable cell can be:
-* of the same cell type| another cell type
-* in the same tissue| another tissue 
-* in the same host| another host 
 
-
-### virion phase
+## virion phase
 Travel and Wait for Activation<br>
 Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
 
-#### travel phase
+### virion travelling
 Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are activated to start the cell infection process. 
+
+### virion activation
+Both evolutionary drive and biological constraints yield the tropism of virions. Key factors are:
+* cell types the corresponding receptors expressed and the biochemistry inside the cells
+* environmental factors around the cells determines entry:
+    - chemical environment
+    - biological environment: Virions are activated for cell entry by specific proteins
+    - physical environment
 
 #### match to an infectable cell
 A virion needs to get matched with a target cell up to some dozens of nanometers. The virion-target match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
@@ -423,29 +439,22 @@ Getting matched to an infectable cell involves the following steps (steps in [..
 - [an exploitable tissue]
 - an exploitable cell
 
+
 #### cell entry
-- the virus gets attached to the matching receptor on the target cell mostly via the spike protein
+To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
+- 
 - fusion of the viral envelope with host cell membranes
 - release of genetic material and proteins into the cell
+#### matching receptor
+the virus gets attached to the matching receptor on the target cell mostly via the spike protein
+
+#### enviromenment around the cell
+* The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
 
 
-    
-<p id="coronavirus-tropism">-----</p>
-
-## Tropism 
-Both evolutionary drive and biological constraints yield the tropism of coronaviruses. Key factors are:
-* cell typesq the corresponding receptors expressed and the biochemistry inside the cells
-* environmental factors around the cells determines entry:
-    - chemical environment
-    - biological environment: Virions are activated for cell entry by specific proteins
-    - physical environment
-
-Each step  in the life cycle has both attracting and limiting factors. 
-
-A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
 
 
-### between host tropism
+### virion constraints
 Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
 * get attached to a wrong thing. The probability of this is extremely high due to the random movement. 
 * sunlight destroys virions. 
@@ -454,29 +463,23 @@ Often a virion needs to be outside of a host to reach a next exploitable host. I
 
 
 ### host tropism
-Reaching a host with infectable cells is not enough. The host immune system at the point of arrival should be diminished or not know the virus. 
-    
+* the host immune system should not know how to fight the virus
+* at the point of arrival the immune system should be diminished or absent
 
-### reach a tissue constraints 
+
+### tissue tropism
+#### reachable tissue
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
 
 
-### tissue tropism
-The tissue needs to provide the right environment around the target cells.
-* The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes). 
- 
-
-### cell tropism 
-
-#### matching receptor
-To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
-
 #### right environment inside the cell
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
-* The cell should be able to produce huge numbers of virions and thus needs ideally has performant ribosoms. 
+* The cell should be able to produce lots of virions and thus should have a performant metabolism. 
+
+
 
 <p id='movement-of-virions'></p>
 
@@ -553,7 +556,7 @@ Coronaviruses have large genomes (in comparison to other RNA viruses and messeng
 <p id='section-habitat'>-----</p>
 
 ## Habitat
-As outlined in [tropism](#tropism) there are many conditions for a virus to replicate. Since evolution and adaption are nearly the same for viruses, a genetic lineage of a virus is best adapted to certain environments to replicate. These environments are habitats:
+As outlined in [tropism](#tropism) there are many conditions for a virus to replicate. Since adaption occurs mainly through evolution for viruses, a genetic lineage of a virus is best adapted to certain environments to replicate. These environments are habitats:
 ><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infectable-entity) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
 ><span id='endemic'> A virus strain is *endemic* in a collection of organism if that collection is a habitat of the virus.</span>
@@ -573,6 +576,7 @@ Places relevant for spread can be:
 
 So in natural equilibrium hosts are usually natural hosts too. Hosts which are non Natural Hosts occur primarily if the environmental conditions improved for a virus. 
 
+
 ### interspecies transmissions
 As the [movement of virions](#movement-of-virions) is random, virions reach things they get attached to at random. If a virus strain frequently reaches animals of some species, there are several cases [for programmers: switch(animal) aka animal match]:
 * the animal reached is a host -> continue life cycle 
@@ -590,20 +594,20 @@ As the [movement of virions](#movement-of-virions) is random, virions reach thin
 
 So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
 
+
 ### conquering new habitats
 The virus can get attached to a cell type or host the given strain hasn't been endemic. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a line of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occurred. Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
-
 #### observed interspecies infections
 * all occurrences where [interspecies jumps](#interspecies-jumps) occurred at least one [interspecies infection](#interspecies-infection) must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
 * Infections of Humans:
     There are quite a few reports on that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
     - The HECV-4408 coronavirus was isolated from a child having diarrhea [Zhang et al](#zhang94)
-
-
-### observed interspecies jumps
+#### observed interspecies jumps
 * jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, wild ruminants, porcine [Bidokhti et al](#bidokhti).
 * jumps to humans, also called zoonotic events: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all jumped from animals to humans [refs in work].  
 
+
+## Habitats of Coronaviruses
 
 <p id='habitat-of-sars-cov-2'>-----</p>
 
@@ -612,6 +616,7 @@ The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [t
 
 ### constraint reasoning
 In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [tropism](#tropism). 
+
 
 #### cell receptor
 The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
