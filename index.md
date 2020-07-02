@@ -211,7 +211,7 @@ For self protection good fit is important.
 * Surgical masks are constructed for comfort and inside-out protection and not outside-in protection. 
 * Protection masks against dust are constructed for outside-in protection and therefore better for self protection.
 
-#### mask cleaning
+#### mask reuse and cleaning
 Cleaning can be an option: 
 * wash with a lot of soap  
 * heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]
@@ -260,7 +260,7 @@ Outside there is much more air per person than inside:
 [in work]
 - condensation 
 - rainfall
-- virion attachment to non host materials
+- virion attachment to non infectable materials (which is nearly everthing except a tiny fraction of cells in the scarce hosts) 
     * earth
     * water
     * rocks
@@ -301,7 +301,7 @@ Remark: As of 1.5.20 more people are allowed to test.
 
 > Subjective Remark: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor environments. A gradual reopening starting in April makes sense. 
 Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearly stated. 
-To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view for all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. 
+To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view for all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important. 
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
 
 #### data features
@@ -334,13 +334,13 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 ## Introduction to Viruses
 
-< <span id='form-of-life'> A form of life in a given environment is a thing that can itself in this enviroment, is able to memorize patterns pass this memories to its progeny. 
+> <span id='form-of-life'> A *form of life* in a given environment is a thing that can reproduce itself in this enviroment, is able to memorize patterns of behaviour and pass this memories to its progeny. 
 
-> <span id='virus'> A _virus_ is a form of life, that can't produce the complete machinery for its replication process i.e. natural viruses can't produce all proteins needed for the replication process. [in work]</span> 
+> <span id='virus'> A *virus* is a form of life, that can't produce the complete machinery for its replication process i.e. natural viruses can't produce all proteins needed for the replication process. [in work]</span> 
 
 So viruses need to use other forms of life to have a complete metabolism. Nearly all forms of life on today's earth are cell based.
 
-> <span id='infected-cell'> A cell is called _infected_ by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated. </span>
+> <span id='infected-cell'> A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated. </span>
 
 Most cells don't live forever. <!--In the prevalent mulitcellular organisms on average only two halves cell survive.--> Viruses infected cells often die even faster. So viruses need to jump to other cells. To achieve this, many viruses, including coronaviruses, have a 2 phase [life cycle](#life-cycle). 
 * Virus phase: Using a cells metabolism to produce proteins and ultimately progeny.
@@ -365,7 +365,7 @@ Once a virus hijacks/infects cells, it changes the cell's metabolism. To survive
 ## Introduction to Coronaviruses
 
 ### Nidovirales
-Coronaviruses belong to the order of Nidovirales which share a nest-like gene expression pattern. Their name derives from this pattern: nidus means nest in latin. Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. 
+Coronaviruses belong to the order of Nidovirales which share gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92]. Their name derives from this pattern: nidus means nest in latin. Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. 
 
 
 ### Coronaviruses
@@ -444,7 +444,7 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 ## Tropism of Coronaviruses
 
-> Tropism: The word comes from Greek 'tropos' which means turning. For the movement of an organism the tropism describes the change of direction upon a stimulus. In general tropism describes how organisms behave under different circumstances or stimuli. Here tropism for viruses is used in that sense: How viruses react to different circumstances. In literature tropism of viruses is sometimes used more narrowly: which cells and tissues they infect. 
+> Tropism: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how organisms behave under different circumstances or stimuli. Here tropism for viruses is used in that sense, how viruses react to different circumstances: Which substances or cells under what condition the virions attach and whether and when they enter cells. What metabolism is started in which cells under what conditions. In literature tropism of viruses is sometimes used more narrowly: which cells and tissues are suspectible to infection. 
 
 Both evolution and biological constraints yield the tropism of viruses. Evolution favours succesful survival both short- and long-term. Key factors for the tropism are:
 * cell types:   
@@ -599,6 +599,9 @@ Examples of well conserved proteins for coronaviruses are:
 * RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved [to check, citation coming]. 
 * The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
 
+### changing patterns
+[in work]
+
 
 
 <p id='section-habitat'>-----</p>
@@ -701,13 +704,13 @@ That in swab tests there are viruses in the nose and the mouth can be attributed
 
 # Immune Protection with a Focus on Coronaviruses
 
-[in work and incomplete]
-The immune system describes organs and processes that keep the body clean by getting rid of unwanted things. Only some topics and findings of the immune protection relevant for other parts of [this site](#home) are described. 
+[in work and incomplete] Only some topics and findings of the immune protection relevant for other parts of [this site](#home) are described. 
+> The immune system describes organs and processes that keep the body clean by getting rid of unwanted things. 
 
-Immune responses can be globally (affecting the entire body), local for some tissue or even inside single cells:
+Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
 * entire body (e.g. fever or circulating antibodies)
 * tissue specific (e.g. local inflammation)
-* cell level (intra cellular processes)
+* cell level (intra cellular processes). The oldest form of protection that develop already in prokaryotes.
 
 The immune system is classified into two parts an unspecific and a specific part. 
 ### innate/general immune system 
@@ -756,8 +759,12 @@ All form of life on earth share common molecular patterns. The more genetically 
 <p id="consider-tropism"> -----</p>
 
 ## Consider Tropism of Sars-Cov-2 infections and disease pattering
-Sars-Cov-2 infections induced disease(s?) in humans are called Covid-19. However it has been observed for coronaviruses that the same strains can cause different infection patterns and induced diseases [Infection Tropism](#infection-tropism). it is possible that Sars-Cov-2 infections can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
+**[in work]**<br>
+As of 2nd July 2020 Sars-Cov-2 infections induced disease(s?) in humans are called Covid-19. However it has been observed for coronaviruses that the same strains can cause different infection patterns and induced diseases [Infection Tropism](#infection-tropism). it is possible that Sars-Cov-2 infections can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
 Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
+
+Infection Tropism
+* 
 
 
 
