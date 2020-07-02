@@ -7,13 +7,13 @@
 * This is work in progress, so mistakes of any form are likely. 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
-* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For 'republishing' copy & paste like attribution is appropriate.<br>
-In short: copy paste like needs attribution. For inspiration, thanks are enough and welcome. 
+* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For copy & paste like rewriting attribution is appropriate.<br>
+<!--In short: copy paste like needs attribution. For inspiration, thanks are enough and welcome. -->
 
 <!--
 * This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences and a lot of time to read resources is helpful. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
-* __Pointing out mistakes__ especially relating to content, __improvement suggestions__ and __feedback__ are __welcome__.
+* Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 <!-- * The page is going to be split up into different topics. -->
 
 <p id="t-content">-----</p> <!-- workaround to set ids, since github preview/jupyter keeps cases and github pages converts to all lower case. For the same reason, some titles are all lower case since the auto-generated ids are used. -->
@@ -61,13 +61,13 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 #### Minor Updates
-- 12.6.20 sections in *online work* on the tropism of Covid-19 and Sars-Cov-2
+- 2.7.20 Mask section redone and grouped into it mask related comments scattered throughout the page
+- 12.6.20 sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 under github 
 - 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
 - 28.4. Short note to support public health in the data section
 - 25.4. Data availability section
-<!--
 - 20.4.20 Section cross protections: Human infection by BCoVs has been observed.
 - 18.4. Added section data availability
 - 10.4.20 Added section Habitat of betacoronaviruses and combined with/reordered sections in Evidence from Biological Properties
@@ -76,7 +76,7 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
 - 4.4.20 Updated section evidence from spread patterns (Cruise Ship)
 - 27.3.-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
--->
+
 
 
 <p id="public-advice">-----</p>
@@ -88,7 +88,7 @@ Time to act mindfully and work together in an open and honest way.
 
 ### How to reduce Covid-19 infection risk and paths
 
-- The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+- The coronavirus transmission is best thought smoke-like, especially in places with dry or cold air. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
 - Wear a mask in indoor places where infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
    Reuse the mask, but put it into 60 to 70-degree hot water for 30 minutes every day  or wash it with soap. [Chan et al.](#chan) have shown that this inactivates the coronavirus (Remark: shown for Sars-CoV-1).  From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, don't forget that!
@@ -106,29 +106,26 @@ Time to act mindfully and work together in an open and honest way.
          * Ventilation is key in public transport. If possible open the windows from time to time, this works well thanks to the outside airflow. Put ventilation on max, turn off in tunnels and never put on circulation. 
          * If there are old toilets, that go to the rails, do _not_ use to shit!
 
-- Don't have dry air inside, e.g. drying the frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defence of the respiratory tract against pathogens. 
+- Don't have dry air inside. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defence of the respiratory tract against pathogens. 
 
 - Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses. Hygiene is important because:
     * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
     * it is known that viruses causing common cold can be transmitted through droplets. Viruses often try to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk. 
-    * avoiding a common cold or flu is important, because Covid-19 symptoms can be somewhat similar. This could mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.   
+    * avoiding a common cold or flu is important, because Covid-19 symptoms can be similar. This could mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.   
 
-    But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through indoor air](#spread-patterns) but not with droplets or fomites. 
+    But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
   
   
 - Observe your body, write down the observations and if possible measure.
     *  Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). 
-
+    Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
+    > It's time [for medicine] to move on from digitalisation and black-white schemes to the continuous colorspace of Bayesian statistics. 
     The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern-Italy - Covid-19 is/was (as of march 2020) the most prevalent disease. 
-
-    > Side note: It's time [for medicine] to move on from digitalisation and black-white schemes to the continuous colorspace of Bayesian statistics. Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. <br>
 
 
 - Live a healthy lifestyle 
     * sleep enough, eat healthily, relax and do some sport 
-    
     and avoid anything that weakens the immune system:
-
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
     * avoid being cold or even freezing for a longer period. For this reason, in cold climates don't open the windows permanently. 
     * try reducing stress for yourself and others. Trying too hard won't help though. 
@@ -143,7 +140,7 @@ Time to act mindfully and work together in an open and honest way.
 ### public description
 __Remark__: The description given below agrees with the expected pathogenesis of mild cases. However, to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including - looking back a likely - a posteriori diagnosis of myself: 
 
-Covid-19 is different in from a common upper respiratory disease. It often doesn't start with a sore throat nor with a runny nose, it can start from within, from the lungs. Early symptoms cam include some chill (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. Early symptoms can be too a sore throat or loss of smell/taste - these symptoms can be due to high numbers of viruses are breathed up and reach the mouth and the nose from the lower respiratory tract or the infection is in the upper respiratory tract. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
+Covid-19 can be different in from a common upper respiratory disease. It often doesn't start with a sore throat nor with a runny nose, it can start from within, from the lungs. Early symptoms cam include some chill (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. Early symptoms can be too a sore throat or loss of smell/taste - these symptoms can be due to high numbers of viruses are breathed up and reach the mouth and the nose from the lower respiratory tract or the infection is in the upper respiratory tract. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
 > Even though I wasn't asymptomatic, the diagnosis was not obvious, at least back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterward, so the immune system likely not had enough time and resources to control the viruses. 
 
@@ -166,10 +163,6 @@ How a virus infection behaves is an interplay of host factors including the host
     - Environmental factors influence host factors and thus indirectly the course of the disease.   
 
   
-
-
-
-
 
 
 <p id="monitor-and-control">-----</p>
@@ -204,6 +197,8 @@ Good health including an intact immune system is important for many reasons.
 
 ### masks
 Mask reduce spread since they mitigate both the infection and spread risk.  
+
+#### mask effectiveness
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
     - Particles greater than 5 micro meter: Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction: resulting in a 25 fold reduction in the number of viral copies 
     - Particles smaller than 5 micro meter:  statistically significant 2.8 fold reduction in viral copies detected in the fine aerosol fraction.
@@ -211,8 +206,19 @@ Mask reduce spread since they mitigate both the infection and spread risk.
     
     >Assuming a reduction of exhaled aerosols by a factor of 2.5 (60% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
+#### mask model and fit
+For self protection good fit is important. 
+* Surgical masks are constructed for comfort and inside-out protection and not outside-in protection. 
+* Protection masks against dust are constructed for outside-in protection and therefore better for self protection.
+
+#### mask cleaning
+Cleaning can be an option: 
+* wash with a lot of soap  
+* heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]
+* if washing or heating is not an option, putting the mask to the bright sunlight is an alternative
+
 #### mask recommendation
-Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least in Europe, which is not desirable.
+Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable.
 The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
 
 <!--  
@@ -271,14 +277,13 @@ Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-
 ### Step by Step Lessening of Measures
 * Monitoring the personal of newly opened businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
 * Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Test can also be used to do sampling and monitoring. Early action is important in these settings. Overall good life quality should be the goal. E.g. longterm prohibit visits is likely no solution. 
-* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage. For self protection good fit is important. Surgical masks are constructed for comfort and inside-out protection and not outside-in protection. The health care workers can also determine if self cleaning is an option: wash with a lot of soap or use heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]. 
+* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage. 
 
 
 
 <p id="data"> ---</p>
     
 ## Data 
-
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
 
 Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
@@ -286,8 +291,8 @@ Today separation of roles can be done faster, easier and in cooperation, thanks 
 <!--
 * there are many skilled data scientists around the world. Many spending their time presenting us the most relevant ads. Relevant usually means highest click rate i.e. most distracting. Whether the distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
 
-#### data specifications
 
+#### data specifications
 For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world and a worldwide agreement on annotations and publishing of country/region specific specifications would make the data at least partially comparable. 
 
@@ -296,7 +301,7 @@ Remark: As of 1.5.20 more people are allowed to test.
 
 > Subjective Remark: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor environments. A gradual reopening starting in April makes sense. 
 Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearly stated. 
-To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view, there was a difficult choice and no right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health and keeping some slow down can be part of that. 
+To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view for all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. 
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
 
 #### data features
@@ -305,7 +310,6 @@ Right or Wrong and Perfection anyways are often a matter of viewpoint and angle.
 
 #### easy readable
 Data ideally are in a common format (e.g. CSV) on a public API (e.g. GitHub repository/REST API) are annotated e.g. contain a readme with the specifications what and how is measured. 
-
 
 
 <p id="coronaviruses">-------</p>
@@ -346,7 +350,7 @@ Most cells don't live forever. <!--In the prevalent mulitcellular organisms on a
 
 > <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
 
-Once a virus hijacks/infects cells, it usually changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
+Once a virus hijacks/infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
 > <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected. Entity can be a tissue, an organ or an organism.</span> 
 
@@ -374,6 +378,7 @@ The membrane is spherical and consists of structural proteins coated in a lipid 
 - RNA dependent RNA polymerase
 - cleavage other proteins and RNA [to check]
 
+
 ## Coronaviruses species
 [in work]
 #### sars
@@ -400,27 +405,20 @@ Virions have behave similar as seeds of plants: Travel and wait for the right co
 
 ### travel phase
 Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are [activated](#virion-activation) to start the cell infection process.
+A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination. 
 
 The infectable cell can be:
 * in the same host| another host 
 * in the same tissue| another tissue
 * of the same cell type| another cell type
 
-Therefore getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
-- [an exploitable host]  
-- [an exploitable tissue]
-- an exploitable cell
-
-A virion needs to reach a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). Each step has a success rate of at most a few percents, so the combined probability of reaching a target is very low. 
-
-
-#### match to an infectable cell
-A virion needs to get matched with a target cell up to some dozens of nanometers. The virion-target match can happen because the virion is moved to the host, the cell is moved to the virion or a combination. 
-
 
 ### cell entry
 - the virus gets attached to the matching receptor on the target cell mostly via the spike protein
-- fusion of the viral envelope with host cell membranes
+- fusion of the viral envelope with host cell membranes: 
+    * initiated by the fusionpeptides of the spike protein 
+    * which in turn is driven by the conformational energy of the spike protein, 
+    * which is released upon cleavage at specific cleavage sites
 - release of genetic material and proteins into the cell
 - once the viral RNA is in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
 
@@ -440,43 +438,36 @@ Let the host ribosomes translate two ORFs of the viral genome with frame-shiftin
     * in a possible second phase the copied RNA together with the produced proteins is assembled to new virions and thus yielding [replication](#replication).
 
 ### replication
-The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. 
+The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced.
 
 
 
 ## Tropism of Coronaviruses
-The word comes from Greek 'tropos' which means turning. So for a moving organism the tropism can describe the change of direction upon a stimulus. In general tropism describes how organisms behave under different circumstances or stimuli. 
 
-### tropism in the metabolic phase
-[in work]<br>
-According to my literature readings few is known about how coronaviruses behave in different cells. 
-#### efficient replication
-- alveolar type 2 cells
-- alveolar macrophages
-#### no replication and just infection
-* dentritic cells
+> Tropism: The word comes from Greek 'tropos' which means turning. For the movement of an organism the tropism describes the change of direction upon a stimulus. In general tropism describes how organisms behave under different circumstances or stimuli. Here tropism for viruses is used in that sense: How viruses react to different circumstances. In literature tropism of viruses is sometimes used more narrowly: which cells and tissues they infect. 
 
-### virion tropism
-
-Both evolutionary drive and biological constraints yield the tropism of virions. Key factors are:
-* cell types the corresponding receptors expressed and the biochemistry inside the cells
+Both evolution and biological constraints yield the tropism of viruses. Evolution favours succesful survival both short- and long-term. Key factors for the tropism are:
+* cell types:   
+    - receptors expressed
+    - biochemistry inside the cells
 * environmental factors around the cells determines entry:
     - chemical environment
-    - biological environment: Virions are activated for cell entry by specific proteins
+    - biological environment: Virions are primed for cell entry by specific proteins
     - physical environment
 
 
-### between host tropism
-Often a virion needs to be outside of a host to reach a next exploitable host. In this case the probability to reach a new host is tiny, due to many obstacles for virions to reach another host:
-* get attached to a wrong thing. The probability of this is extremely high due to the random movement. 
-* sunlight destroys virions. 
-* heat
-* chemical environment
+### virion tropism
+#### virion activation
+Plant seeds evolved to be activated under favourable conditions for growth, at least as much as the seeds are able to check the conditions: seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surounding water to start their metabolism. Similarly virions need to be activated to start the [metabolic phase](#metabolic-phase) of the virus life cycle. Where as plants need mainly the right physical conditions to growth, viruses need the right biological conditions. 
+* matching receptor
+To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
+* enviromenment around the cell
+    - The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
 
-### host tropism
+
+### host preferences
 * the host immune system should not know how to fight the virus
 * at the point of arrival the immune system should be diminished or absent
-
 
 ### tissue tropism
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
@@ -484,15 +475,27 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
 
-### cell tropism 
-#### matching receptor
-To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
-#### enviromenment around the cell
-* The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
 
-#### right environment inside the cell
+### metabolic tropism
+[in work]<br>
+According to my literature readings few is known about how coronaviruses behave in different cell types. [todo: search&read]
+
+#### conditions inside the cell
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
-* The cell should be able to produce lots of virions and thus should have a performant metabolism. 
+* The cell should be able to produce lots of virions and thus should have a performant metabolism.
+
+### cell tropism
+The overall cell tropism is the combination of the [virion tropism](#virion-tropism) which determines cell entry and the [tropism in the metabolic](#metabolic-tropism) phase which determines the changes in the cells metabolism induced upon viral entry.  
+
+#### cell tropism of sars-cov-2
+* efficient replication
+    - alveolar type 2 cells
+    - alveolar macrophages
+* infection but no replication
+    - dentritic cells [check: if ace2 expressed]
+#### entry but no infection
+#### no entry
+* cells no expression ace2
 
 
 
@@ -501,7 +504,7 @@ To enter a cell a virus uses its spike protein, which first serves as a grapplin
 ## Intermezzo Movement of Virions
 Once virions are released from a cell the virions are moved by whatever movements are in their surroundings.   
 
-### Surroundings
+### swim with the tide
 All forms of life on earth are water based. Both protein and RNA/DNA synthesis occur in water. So virions are pro therefore start out their journey in watery fluids, often the cytoplasm of a cell. Upon release they are exposed to whatever substances there are around. For most viruses their virions will always be dissolved in watery fluids and will not survive being dissolved in other fluids such as alcohol or air. 
 * __Fluid dissolved in__:
     - Salty water in oceans: Water in the oceans is also likely where life and RNA viruses as an early form of life developed and still contains a huge number of virions. 
@@ -510,6 +513,7 @@ All forms of life on earth are water based. Both protein and RNA/DNA synthesis o
     - Water droplets can be dissolved in air. 
     - Air. Air contains reative oxygen and most virions will be destroyed, since they expose activator proteins on the outside. Coronavirus virions are a rare exception staying infectious in dry form. 
 * __Material attached to__: These can be any solid material e.g. a part of living organism or any kind of non living matter. The movement of virions follows the movement of the materials attached to. These particles are in turn dissolved in fluids, mostly water, or attached to other particles. 
+
 
 ### Movement within a host
 Often for viruses it is sufficient to infect other cells within the same host and so movement within a host can be enough. Some even evolved not to leave the host organism at all.
@@ -526,7 +530,7 @@ Within a host the movement of virions depends on the location they are released 
 - Brownian Motion: The Brownian motion of viruses is slow and by Brownian motion alone a virion usually just moves a few micro meters to reach close by cells. However if given engough time virions can diffuse to many locations both within tissues or within cells. 
 
 
-<!--td in out-->
+<!--td move in out-->
 
 
 ### Movement between hosts
@@ -556,15 +560,44 @@ Many forms of life cannot move well on their own: Plants, bacteria and fungi. In
     * Viruses infecting animals often rely on water. Animals drinking brings them directly to possible hosts. 
 
 
+### Probabilities
+Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
+- [a host]  
+- [a tissue]
+- an infectable cell
+
+Each step has a success rate of at most a few percents, so the combined probability of reaching a target can be very low. 
+
+The probability to reach a *next* exploitable host, is especially low, due to many traps and reactive environment:
+* get attached to a wrong thing. High probability due to the random movement and usually the surface of non targets is fare greater than the target surface. Except confined indoor settings, in this case the surface of the combined lungs is the greatest surface - greater than the surface of all the walls.  
+* sunlight destroys virions. 
+* heat
+* chemical environment
+<!--transmission bottleneck important for evolution-->
+
+
 <p id='evolution-and-adaption'>-----</p>
 
 ## Evolution and Adaption
-The evolution rate of coronaviruses is fast because of a short average generation-time (only a few hours [to be confirmed])and properties of their RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
-* RNA-dependent RNA polymerase, which yields a high rate of random point mutations.  
-* a homologous recombination mechanism. 
+The genetic evolution of coronaviruses is fast compared to other forms of life because:
+* a short average generation-time (only a few hours [to be confirmed]) 
+* properties of their RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
+    - RNA-dependent RNA polymerase, which yields a high rate of random point mutations compared to DNA polymerases, which generally have better proofreading capabilities. 
+    - a homologous recombination mechanism. 
+* Genome is encoded in RNA and not in DNA
 
 Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Coronaviruses can adapt fast to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
 [in work]
+
+### conserved patterns
+Some parts of the coronavirus genome 
+* Functional units of proteins. The more fundamental there function is, the more conserved they are.
+* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt
+* For coronaviruses, the replication mechanism within a cell is well conserved and thus the proteins involved.
+
+Examples of well conserved proteins for coronaviruses are:
+* RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved [to check, citation coming]. 
+* The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
 
 
 
@@ -581,7 +614,7 @@ As outlined in [tropism](#tropism) there are many conditions for a virus to repl
 Sometimes it is helpful to differentiate hosts upon their role they play in the virus spread:
 ><span id='natural-host'>A *Natural Host* of a virus is a [host](#host) and the infections are relevant for the spread of the virus.</span>
 
-><span id='side-host'>A *Side Host* of a virus is a [host](#host) and the infections are _not_ relevant for the spread of the virus. E.g. the virus cannot replicate effienctly or the virions cannot leave the host. These infections can be viewed as side-effects of the random virus spread. Virus can evolve to a new strain that a Side Host becomes a Natural Host</span>
+><span id='side-host'>A *Side Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot replicate effienctly or the virions cannot leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Natural Host</span>
 
 
 Possible habitats are subject to constraints by life cycle. For viruses in natural equilibrium, the locations are involved in the survival of the virus strain i.e. relevant for spread. 
@@ -596,10 +629,10 @@ So in natural equilibrium hosts are usually natural hosts too. Hosts which are n
 As the [movement of virions](#movement-of-virions) is random, virions reach things they get attached to at random. If a virus strain frequently reaches animals of some species, there are several cases [for programmers: switch(animal) aka animal match]:
 * the animal reached is a host -> continue life cycle 
 * the animal reached is not a host:
-    - it is NEVER infectable -> break
+    - it is not infectable -> break
     - it is infectable. This yields an [*interspecies infection*](#interspecies-infection). Again two cases:
-        * the virus can not regularly leave the host i.e. it is a cul-de-sac -> break
-        * virions frequently can leave to infect other hosts -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happend. Since likely the evolutionary drive changes this gives raise to a new virus strain. 
+        * the virus can *not* leave to infect other hosts -> break i.e. it is a cul-de-sac 
+        * virions can leave to infect other hosts -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happend. Since likely the evolutionary drive changes this gives raise to a new virus strain. 
         
     
 
@@ -622,11 +655,15 @@ The virus can get attached to a cell type or host the given strain hasn't been e
 * jumps to humans, also called zoonotic events: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all jumped from animals to humans [refs in work].  
 
 
+
+
 ## Habitats of Coronaviruses
+[todo]
 
 <p id='habitat-of-sars-cov-2'>-----</p>
 
 ## Habitat of Sars-CoV-2
+[will be redone to remove errata and to clarify]<br>
 The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
@@ -634,8 +671,7 @@ In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#lif
 
 
 #### cell receptor
-The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . 
-The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
+The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
 #### tissue distribution of ACE2
 There are two common methods to measure tissue distribution of proteins:
@@ -674,36 +710,25 @@ Immune responses can be globally (affecting the entire body), local for some tis
 * cell level (intra cellular processes)
 
 The immune system is classified into two parts an unspecific and a specific part. 
-### Unspecific part 
+### innate/general immune system 
 The unspecific part is the larger part. It consists of variety of mechanism:
 * the skin protecting large parts of the body 
 * mucus in various parts of the body. 
 
-### Specific part
-A set of cells which substances which have been learned to be harmful. 
+### specific/trained immune system 
+A collection of immune cells which can target substances which have been learned to be unwanted, where unwanted can mean: 
 - foreign substances
 - cells that are considered out of order
-- things recognized as being harmful. These are often proteins which can be learned by the specific immune system part. 
+- things recognized as being harmful. These are often specific parts of proteins. 
 
-Host immune system 
-
-    The above immune reactions depend both on the personal history of exposure to pathogens and the one, ones the anchestors have been exposed to (genetic adaption)
-    * personal history of exposure to antigens and especially antigens similar the Sars-Cov-2 yields memory cells capable of producing targeted antibodies
-    * personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
+Host immune system
+The above immune reactions depend both on the personal history of exposure to pathogens and the one, ones the anchestors have been exposed to (genetic adaption)
+* personal history of exposure to antigens and especially antigens similar the Sars-Cov-2 yields memory cells capable of producing targeted antibodies
+* personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
 
 
 ## basis of cross immune protections
-All form of life share common molecular patterns. The more genetically related the forms the more protein patterns they share. These common patterns are possible targets to develop cross immune protections either by the immune system or artificial 
-medications. 
-
-* Functional units of proteins. The more fundamental there function is, the more conserved they are.
-* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt
-* For coronaviruses, the replication mechanism within a cell is well conserved and thus the proteins involved.
-
-Examples of well conserved proteins for coronaviruses are:
-* RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved [to check, citation coming]. 
-* The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
-
+All form of life on earth share common molecular patterns. The more genetically related the forms, the more genes and corresponding proteins they share. These [common patterns](#conserved-patterns) are possible targets to develop cross protections either by the immune system or artificial medications. 
 
 
 <!--
@@ -785,22 +810,22 @@ Possible use cases are polyvalent:
 #### medications
 Knowledge of cross immune reactions can help to develop medications and even literal vaccines are thinkable vice versa. 
 - increase the immune response against Sars-CoV-2 or even provide paths for full immunisation
-- even a literal vaccine is thinkable (the long-term pathogenesis of BCoVs should be reevaluated first)
-- Sars-CoV-2 infection could protect against OC43 or other BCoV infections, which could be more harmful in the long run than Sars-CoV-2
+- even a literal vaccine is thinkable (the long-term pathogenesis of BCoVs needs to be reevaluated first)
+- Sars-CoV-2 infections could protect against OC43 or other BCoV infections, which could be more harmful in the long run than Sars-CoV-2
 
 
 
 ### Evidence from Distribution of Covid-19 
-In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform.[data wikipedia][in work]
+In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform. [data wikipedia][in work]
 
 #### covid-19 in switzerland
-Incidence rates both of cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
+Incidence rates of both cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
 * In areas where cattle farming is prevalent  (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), the number of deaths per 100K is about 6 in median and 8 in average. 
 
-> Remark: Cattle farming is very common in many areas in Switzerland due to its long tradition and an accompanying tradition of making a variety of tasty cheeses. Luckily care has been taken to preserve recipes and microbes thoughout the industrialization of agriculture in the 20th century. Addionally the market for milk and meat is protected and subsidized.
+> Remark: Cattle farming is very common in many areas in Switzerland due to a long tradition and an accompanying tradition of making a variety of tasty cheeses. Care has been taken to preserve traditional recipes and the microbes used, throughout the industrialization of agriculture in the 20th century. Addionally the market for milk and meat is protected and significantly subsidized.
 
 > Subjective Remark: I consider distributed agriculture as important and worth preserving. Both subsidies and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop. In Switzerland agriculture support is especially strong for bovine farming and thus its high prevalence. <br>
-Economy solely on global effectiveness trimmed, yields that but only that. Question is, in which situations this is wanted. 
+Economy solely on global effectiveness trimmed, yields that but often only that. Question is, in which situations this is wanted. 
 
 * Contrary to areas where cattle are less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
     Cantons with few cattle farming:
@@ -820,16 +845,16 @@ As in Switzerland the same pattern is observed in Spain:
 The cattle rich regions in the North and North East: Galicia, La Rioja, Basque Country have a lower death rate and higher recover rate than Madrid, Valencia, Castile, Catalonia and Leon. As expected from the humid climate in the communities Canary Islands, Melila and Balearic Islands the recover rates are high and the death rates are low compared to central Spain. 
 
 #### Remark
-Similar patterns seem to be in the USA and France. 
+Similar patterns seem to be in the USA and France. For analysis, ideally the partitioning of population is fine-grained to a level of at most a few 100K people per partition. 
 
 ### Biological Basis
-First observations of cross immune protections are described. Then species jumps of betacoronaviruses are described and even jumps from BCoV to humans have been observed. 
+First observations of cross immune protections are described. Then examples of host species jumps of betacoronaviruses are described including jumps from BCoV to humans.
 [in work]
 
 #### observed cross immune protections between different coronaviruses
-[Cross immune protections](#cross-immune-protection) against coronaviruses have been observed for different strains, therefore cross protections can exists for coronaviruses. 
+[Cross immune protections](#cross-immune-protection) against coronaviruses have been observed for different strains, therefore cross protections can exists for coronaviruses.
 Examples of observed cross immune protections are:
-* As already noted in the introduction  [Van der Hoek et al.](#vanderhoek2012) observed by analysing serum conversions:
+* As already noted in the introduction  [Van der Hoek et al.](#vanderhoek2012) observed by analysing serum conversions (no additional serum conversion occurs):
     - OC43 -protects-> HKU1 (only unidirectional)
     - NL63 -protects-> 229E (only unidirectional)
     
@@ -946,7 +971,7 @@ The Sars-CoV-2 entry ACE2 is expressed in large quantities in alveolar type 2 ce
 - published, including raw data
 
 __Note__:
-These are unchecked proposals and should be carefully supervised. Anything that could alter/increase the natural airflow and thus possibly the distribution of viruses could cause irritations and infections in new locations. Ideally such methods are __first simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). Such methods (e.g. High Flow Therapy) will not be further discussed here.
+These are unchecked proposals and should be carefully supervised. Ideally methods are __first simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). Anything that could alter/increase the natural airflow and thus possibly the distribution of viruses could cause irritations and infections in new locations. Methods likely doing this (e.g. High Flow Therapy) will not be further discussed here. <!-- todo add ref-->
  
 #### increase the mucus flow
 Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
@@ -985,6 +1010,7 @@ Mechanically ventilated patients exhale less particles: "Mechanically ventilated
 
 ### Appendix for Early On Ventilators
 Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. Ideally the statistics takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease]. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
+
 
 #### Factors Associated to severe Covid-19:
 
@@ -1039,6 +1065,8 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 - The tracheal viral load was much higher in the ARDS groups (less clearance!)
 - Diabetis, Age, Chronic hear disease positively correlate with ARDS development. 
     
+
+
     
 #### factors influencing the mucus flow
 
@@ -1056,11 +1084,12 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 #### humidity related death rates
 
-* Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and do widespread testing ([data specifications](#data specifications)). 
+* Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and do widespread testing ([data specifications](#data-specifications)). 
     - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
     - __Remark__: Mucus clearance may not be the only reason for lower death rates in humid air, but also that [Dry Form Infection](#abstract) is less likely and therefore Covid-19 starts more in the trachea than in the alveolis. 
 
 * In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals. This data is consistent and even preferred to analyse to impact of humidity ([data specifications](#data specifications)). 
+
 
 
 <p id="transmission-models">--------</p>
@@ -1088,6 +1117,7 @@ It is argued
 Overall the argumentation provides evidence, that the most relevant transmission models are aerosol and the proposed dry form. 
 
 Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
+
 
 
 
@@ -1154,7 +1184,7 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 * spread out of the body (transmission)
 * depositions of medicaments for the treatment
 
-### particles spreading 
+### particles spreading
 This section describes when particles are exhaled and how they spread out within the respiratory tract. 
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
 
@@ -1170,30 +1200,23 @@ So Covid-19 can be spread with breathing alone especially since in the deep lung
 ### particles deposition
 This section describes how particles are deposited in the respiratory tract. These particles can originate from other locations in the respiratory tract or being inhaled from extern air.
 
-How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review): 
-
-##### factors 
+##### deposition factors
+How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
 - particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18](#zhong18)])
+    * Droplets mostly don't enter the lower respiratory tract.
+    * Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-CoV-2 diameter is between 50 and 200 nm) and larger aerosols are well cleared out [to be confirmed and citation to be added]. 
+    * Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition](#particles-deposition) and less clearance [to be confirmed and citation to be added, work in progress].
 - breathing volume and frequency [hofemeier](#hofemeier)
 - air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
 - orientation respect to gravity i.e. wether horizontal or vertical
-The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer). 
+ 
 
 ##### deposition locations
-
-- Droplets mostly don't enter the lower respiratory tract.
-- Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-CoV-2 diameter is between 50 and 200 nm) and larger aerosols are quite well cleared out [to be confirmed and citation to be added]. 
-- Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition](#deposition-locations) and less clearance [to be confirmed and citation to be added, work in progress].
-
-
+The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer).
 * Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
-
 * [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. 
-
 * The particles depositions aren't equal for the left and right lung and bronchus [Rahimi-Gorji](#rahimi-gorji), [kleinstreuer2017](#kleinstreuer2017)
-
 * Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
-
 * [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
 
 ### particles clearance
@@ -1210,18 +1233,18 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 * particle properties such as material (bad clearance for insoluble), form, size
 
 ### simulation methods and experiments
-In her thesis [Lindstrom](#lindstrom) explains well the principles. A recent review is from [Park and colleagues](#park). An often used model is the [ICRP Model](#bailey).
+In her thesis [Lindstrom](#lindstrom) explains well the principles. A recent review is from [Park and colleagues](#park).<br>
+Modeling or experimentally determine the deposition rates is not easy and both the simulation and experimental methods described below have caveats. 
 
-Modeling or experimentally determine the deposition rates is not easy and each method has caveats.  
-
-##### Simulations
-The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are shown, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally many simplifications of relevant [factors](#factors) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size aerosol droplets.
+#### Simulations
+An often used model is the [ICRP Model](#bailey). Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. In this work mainly [kleinstreuer](#kleinstreuer) is used, other simulation models are [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).<br>
+The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are shown, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally many simplifications of relevant [particles deposition](#particles-deposition) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size aerosol droplets.
 
 Traditional methods go: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). These methods yield some differential equations. These equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
 
-Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. Examples are [kleinstreuer](#kleinstreuer), [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
 
-##### Experiments
+
+#### Experiments
 - Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
 
 - Experimental in vivo settings:
@@ -1231,9 +1254,6 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
     
    
 
-
-
-
 <p id="evidence">-----</p>
 
 ## Evidence for the Dry Form Transmission Model
@@ -1242,7 +1262,7 @@ Recent approaches model the respiratory tract accurately in 3D and make use of a
 
 ### Evidence from Biological Properties
 
-From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entry for Sars-CoV-1/2 is obligate for infection. As described in [deposition locations](#deposition-locations) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus flow, the dry form is likely more infectious. 
+From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entry for Sars-CoV-1/2 is obligate for infection. As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus flow, the dry form is likely more infectious. 
 
 
 <p id="spread-patterns">---</p>
@@ -1291,11 +1311,11 @@ Remark: The following pieces of evidence are 'in work'.
 <p id="metaphor-and-measures">---</p>
 
 ## Metaphor and Measures 
-When avoiding the influenza aerosol spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse to other rooms. 
+When avoiding the influenza droplet spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse around.
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
 Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. Outside no worry for Sars-CoV-2 however, it is diluted and sun light destroys virions. 
 
-This yields either avoiding Sars-CoV-2 containing smoke entirely or filtering out  particulates above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but likely it is attached so some organic material[to check and cite]). Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Measures in more detail are found in [Protection Measures](#measures). 
+This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  particulates above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but likely it is attached so some organic material[to check and cite]). Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Measures in more detail are found in [Protection Measures](#measures). 
 
 
 
