@@ -4,7 +4,7 @@
 
 ## Note
 * This page is hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)<br> and is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview
-* This is work in progress, so mistakes of any form are likely. 
+* This is work in progress, so mistakes of any form are likely. Parts with are currently in work/provisional are usually commented with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For copy & paste like rewriting attribution is appropriate.<br>
@@ -212,7 +212,6 @@ For self protection good fit is important.
 * Protection masks against dust are constructed for outside-in protection and therefore better for self protection.
 
 #### mask reuse and cleaning
-Cleaning can be an option: 
 * wash with a lot of soap  
 * heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming]
 * if washing or heating is not an option, putting the mask to the bright sunlight is an alternative
@@ -238,7 +237,6 @@ Ventilation reduces the indoor airborne spread, since the virion density in outs
 
 ### outside is safer
 Outside the viruses get dilluted and then are inactivated faster than inside. Due to inactivation and clearance there's no accumulation. However, outside infection probability is not zero just much smaller than inside. At close distance there is still chance for transmission. 
-
 - [dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [virion destruction](#virion-destruction): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
 - [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
@@ -267,6 +265,16 @@ Outside there is much more air per person than inside:
 
 ### distancing
 Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-like) can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air. 
+
+### handling Covid-19 cases and quarantine
+#### instructions
+* a mask order in public indoor space (including inside own building). 
+* avoid crowded places
+* instructions how to ventilate the room and flat before opening extern doors
+#### isolation
+To reduce spread isolation can be a radical option. 
+* this option should be used with care since it can discourage people from testing or disclosing socials contacts and travel history. 
+* a complete stay at home order is in my opinion *not* appropriate and likely is even contra-productive: Since people are then forced to life unhealthy and do indoor sports which can produce a lot of aerosols and thus put people in the same building at risk. 
 
 
 
@@ -516,8 +524,7 @@ All forms of life on earth are water based. Both protein and RNA/DNA synthesis o
 
 
 ### Movement within a host
-Often for viruses it is sufficient to infect other cells within the same host and so movement within a host can be enough. Some even evolved not to leave the host organism at all.
-Within a host the movement of virions depends on the location they are released and the kind of material they are attached to: 
+Often virions get moved within a host. Some even evolved not to leave the host organism at all. Within a host the movement of virions depends on the location they are released and the kind of material they are attached to: 
 - movements with fluid flows:
     * the blood flow if the virion is in the bloodstream
     * the mucus flow 
@@ -560,15 +567,15 @@ Many forms of life cannot move well on their own: Plants, bacteria and fungi. In
     * Viruses infecting animals often rely on water. Animals drinking brings them directly to possible hosts. 
 
 
-### Probabilities
+### Travel Probabilities
 Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
-- [a host]  
-- [a tissue]
-- an infectable cell
+- [reach a host]  
+- [reach a tissue]
+- reach an infectable cell
 
 Each step has a success rate of at most a few percents, so the combined probability of reaching a target can be very low. 
 
-The probability to reach a *next* exploitable host, is especially low, due to many traps and reactive environment:
+The probability to reach a *next* exploitable host, is especially low, due to many traps and hostile environment:
 * get attached to a wrong thing. High probability due to the random movement and usually the surface of non targets is fare greater than the target surface. Except confined indoor settings, in this case the surface of the combined lungs is the greatest surface - greater than the surface of all the walls.  
 * sunlight destroys virions. 
 * heat
@@ -590,6 +597,7 @@ Coronaviruses have large genomes (in comparison to other RNA viruses and messeng
 [in work]
 
 ### conserved patterns
+[in work]
 Some parts of the coronavirus genome 
 * Functional units of proteins. The more fundamental there function is, the more conserved they are.
 * Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt
@@ -684,7 +692,7 @@ There are two common methods to measure tissue distribution of proteins:
 For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. 
 
 ACE2 is apically expressed on lower respiratory tract epithelial cells, 
-Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
+Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [other cells (goblet) too in rework] [Timens](#timens), [Lau](#lau). 
 
 
 ### empirical reasoning
@@ -696,7 +704,7 @@ The viral load observed in different parts of the body are consistent with airbo
 * For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
 Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
 
-That in swab tests there are viruses in the nose and the mouth can be attributed to breathing them out. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An active infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].  
+That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An widespread infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].  
 
 
 
@@ -760,7 +768,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 ## Consider Tropism of Sars-Cov-2 infections and disease pattering
 **[in work]**<br>
-As of 2nd July 2020 Sars-Cov-2 infections induced disease(s?) in humans are called Covid-19. However it has been observed for coronaviruses that the same strains can cause different infection patterns and induced diseases [Infection Tropism](#infection-tropism). it is possible that Sars-Cov-2 infections can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
+As of 2nd July 2020 Sars-Cov-2 infections induced disease[s] in humans are called Covid-19. However it has been observed for coronaviruses that the same strains can cause different infection patterns and induced diseases [Infection Tropism](#infection-tropism). it is possible that Sars-Cov-2 infections can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
 Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
 
 Infection Tropism
