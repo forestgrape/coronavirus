@@ -236,7 +236,7 @@ Ventilation reduces the indoor airborne spread, since the virion density in outs
 
 
 ### outside is safer
-Outside the viruses get dilluted and then are inactivated faster than inside. Due to inactivation and clearance there's no accumulation. However, outside infection probability is not zero just much smaller than inside. At close distance there is still chance for transmission. 
+Outside the viruses get dilluted and then are inactivated faster than inside. Due to inactivation and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside. At close distance there is still chance for transmission. 
 - [dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [virion destruction](#virion-destruction): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
 - [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
@@ -267,6 +267,7 @@ Outside there is much more air per person than inside:
 Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-like) can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air. 
 
 ### handling Covid-19 cases and quarantine
+The most important is to monitor cases for disease progression and figure out how and where they got infected. From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce international spread. 
 #### instructions
 * a mask order in public indoor space (including inside own building). 
 * avoid crowded places
@@ -358,7 +359,7 @@ Most cells don't live forever. <!--In the prevalent mulitcellular organisms on a
 
 > <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
 
-Once a virus hijacks/infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
+Once a virus infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
 > <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected. Entity can be a tissue, an organ or an organism.</span> 
 
@@ -373,15 +374,15 @@ Once a virus hijacks/infects cells, it changes the cell's metabolism. To survive
 ## Introduction to Coronaviruses
 
 ### Nidovirales
-Coronaviruses belong to the order of Nidovirales which share gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92]. Their name derives from this pattern: nidus means nest in latin. Nidoviruses are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. 
+Coronaviruses belong to the order of Nidovirales. Nidovirales are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane.  Nidovirales share a gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92], that's where Nido comes from: Nidus means nest in latin.
 
 
 ### Coronaviruses
-The membrane is spherical and consists of structural proteins coated in a lipid bilayer aquired from the host cell and called envelope. Among the membrane proteins are large spike proteins. Theses spike protein point out of the spherical , which gives coronaviruses a crown (corona in latin) like appearance under the electron microscope.
+The membrane is spherical and consists of structural proteins coated in a lipid bilayer aquired from the host cell and called envelope. Among the membrane proteins are large spike proteins. Theses spike protein point out of the spherical, which gives coronaviruses a crown (corona in latin) like appearance under the electron microscope.
 
 
 ### proteins  
-- structural proteins: used to give newly built viruses structure. These are the membrane proteins and the internal protein N stabilizes the RNA
+- structural proteins: used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N stabilizes the RNA
 - diminish host defence
 - RNA dependent RNA polymerase
 - cleavage other proteins and RNA [to check]
@@ -423,7 +424,7 @@ The infectable cell can be:
 
 ### cell entry
 - the virus gets attached to the matching receptor on the target cell mostly via the spike protein
-- fusion of the viral envelope with host cell membranes: 
+- fusion of the viral envelope with host cell membranes if primed: 
     * initiated by the fusionpeptides of the spike protein 
     * which in turn is driven by the conformational energy of the spike protein, 
     * which is released upon cleavage at specific cleavage sites
@@ -761,14 +762,23 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 # Ideas to Explore
 * [Consider Tropism](#consider-tropism)
+    *[Sars-CoV-2 Tropism](#sars2-tropism)
+    *[Tropism of Sars-CoV-2 Infections](#infection-tropism)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
-<p id="consider-tropism"> -----</p>
-
-## Consider Tropism of Sars-Cov-2 infections and disease pattering
+<p id="infection-tropism"> -----</p>
+## Tropism of Sars-Cov-2 Infections and Disease Pattering
 **[in work]**<br>
-As of 2nd July 2020 Sars-Cov-2 infections induced disease[s] in humans are called Covid-19. However it has been observed for coronaviruses that the same strains can cause different infection patterns and induced diseases [Infection Tropism](#infection-tropism). it is possible that Sars-Cov-2 infections can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
+### Introduction
+Coronaviruses can cause different infection patterns and induced diseases
+* For BCoVs the same strains can cause both Winter ... and shipping fever. 
+    - japan same strain
+    - point mutations
+    - follow each otehr
+* Different symptoms at different location for Sars-Cov-2 are observed.  
+
+can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
 Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
 
 Infection Tropism
