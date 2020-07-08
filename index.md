@@ -343,9 +343,36 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 ## Introduction to Viruses
 
-> <span id='form-of-life'> A *form of life* in a given environment is a thing that can reproduce itself in this enviroment, is able to memorize patterns of behaviour and pass this memories to its progeny. 
+> The definition given here 
 
-> <span id='virus'> A *virus* is a form of life, that can't produce the complete machinery for its replication process i.e. natural viruses can't produce all proteins needed for the replication process. [in work]</span> 
+> <span id='form-of-life'> A *form of life* in a given environment is an identifiable  thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called progeny or the next generation. 
+
+In other words, a form of live has memorized environment interactions pass rough copies of those memories to the next generation.
+
+All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins, which catalyze interactions in watery solutions. 
+
+The simplest forms of life are:
+> *Viroids* are pieces of RNA able catalyze self reproduction.  
+
+All other forms of life also encode enzymes made of proteins:
+> *Proteins* are chains of amino acids linked together. 
+
+> *Ribosomes* read positive sense RNA and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
+
+7 forms of how ot store the interaction patterns have evolved:
+* Double strand DNA
+* Single-strand DNA
+* DNA-RNA reverse transcribing
+* Double strand RNA
+* Single strand RNA, - sense
+* Single strand RNA, + sense
+* piecewise DNA
+
+Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life. Many forms of life are dependent on forms of energy produced by other forms. Some forms of life are dependent on enzymes provided by other forms of life:
+> <span id='virus'> A *virus* is a form of life on earth, that can't produce all necessary enzymes for its replication process. However viruses are diverse and span all known forms of life on earth[in work]</span> 
+
+
+
 
 So viruses need to use other forms of life to have a complete metabolism. Nearly all forms of life on today's earth are cell based.
 
@@ -451,6 +478,9 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 
 
+
+<p id='tropism-of-coronaviruses'>-----</p>
+
 ## Tropism of Coronaviruses
 
 > Tropism: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how organisms behave under different circumstances or stimuli. Here tropism for viruses is used in that sense, how viruses react to different circumstances: Which substances or cells under what condition the virions attach and whether and when they enter cells. What metabolism is started in which cells under what conditions. In literature tropism of viruses is sometimes used more narrowly: which cells and tissues are suspectible to infection. 
@@ -465,7 +495,7 @@ Both evolution and biological constraints yield the tropism of viruses. Evolutio
     - physical environment
 
 
-### virion tropism
+### tropism in the virion phase
 #### virion activation
 Plant seeds evolved to be activated under favourable conditions for growth, at least as much as the seeds are able to check the conditions: seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surounding water to start their metabolism. Similarly virions need to be activated to start the [metabolic phase](#metabolic-phase) of the virus life cycle. Where as plants need mainly the right physical conditions to growth, viruses need the right biological conditions. 
 * matching receptor
@@ -474,24 +504,24 @@ To enter a cell a virus uses its spike protein, which first serves as a grapplin
     - The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
 
 
-### host preferences
-* the host immune system should not know how to fight the virus
-* at the point of arrival the immune system should be diminished or absent
 
-### tissue tropism
-The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
-* acidic fluids (e.g. stomach acid)
-* mucus clearance
-* protecting layers: dead cells on the epithelium (e.g. skin)
-
-
-### metabolic tropism
+### tropism in the metabolic phase
 [in work]<br>
 According to my literature readings few is known about how coronaviruses behave in different cell types. [todo: search&read]
 
 #### conditions inside the cell
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
 * The cell should be able to produce lots of virions and thus should have a performant metabolism.
+
+### host factors
+* the host immune system should not know how to fight the virus
+* at the point of arrival the immune system should be diminished or absent
+
+#### tissue tropism
+The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
+* acidic fluids (e.g. stomach acid)
+* mucus clearance
+* protecting layers: dead cells on the epithelium (e.g. skin)
 
 ### cell tropism
 The overall cell tropism is the combination of the [virion tropism](#virion-tropism) which determines cell entry and the [tropism in the metabolic](#metabolic-tropism) phase which determines the changes in the cells metabolism induced upon viral entry.  
@@ -762,27 +792,30 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 # Ideas to Explore
 * [Consider Tropism](#consider-tropism)
-    *[Sars-CoV-2 Tropism](#sars2-tropism)
-    *[Tropism of Sars-CoV-2 Infections](#infection-tropism)
+    <!--*[Sars-CoV-2 Tropism](#sars2-tropism)
+    *[Tropism of Sars-CoV-2 Infections](#infection-tropism)-->
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
+
+## Tropism of Sars-CoV-2
+Both evolutionary drive and biological constraints yield narrow tropism of coronaviruses. Key factors are:
+* cell types and the corresponding biochemistry inside the cells
+* environmental factors around the cell determines entry and exit:
+    - chemical environment
+    - biological environment: Virions are activated for cell entry by specific proteins
+    - physical environment
+
 <p id="infection-tropism"> -----</p>
+
 ## Tropism of Sars-Cov-2 Infections and Disease Pattering
 **[in work]**<br>
-### Introduction
-Coronaviruses can cause different infection patterns and induced diseases
-* For BCoVs the same strains can cause both Winter ... and shipping fever. 
-    - japan same strain
-    - point mutations
-    - follow each otehr
-* Different symptoms at different location for Sars-Cov-2 are observed.  
+Coronaviruses can cause infections at different locations and thus induce different diseases. 
+* Symptoms at different location for Sars-Cov-2 are observed. 
+* Bovine coronaviruses cause both enteric diseases (neonatal calf diarrhea and winter dysentery)[citation comming] and respiratory diseases (shipping fever and genral pneunomia). 
+    <!--jp;point mutations;follow each otehr-->
+ 
 
-can yield quite different types of diseases. This is observed e.g. for BCOV as there are already epidemiological indications that Sars-Cov-2 infections can be quite different. This phenomenon is also know for different strains of Bovine coronaviruses: They cause both Winter desintry and .. jp paper. 
-Investigate, Analyze and possibly use of the tropism of Sars-Cov-2 infections.  
-
-Infection Tropism
-* 
 
 
 
