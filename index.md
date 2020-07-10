@@ -3,6 +3,7 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
+* **Updates** in progress. Much content even more experimental than usual. 
 * This page is hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)<br> and is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview
 * This is work in progress, so mistakes of any form are likely. Parts with are currently in work/provisional are usually commented with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
@@ -343,11 +344,12 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 ## Introduction to Viruses
 
-> The definition given here 
+> Definitions are denoted like this and are valid throughout this page. Sometimes only throughout this page.
 
-> <span id='form-of-life'> A *form of life* in a given environment is an identifiable  thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called progeny or the next generation. 
+### form of life
+> <span id='form-of-life'> A *form of life* in a given environment is an identifiable  thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called progeny or the next generation. </span>
 
-In other words, a form of live has memorized environment interactions pass rough copies of those memories to the next generation.
+In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
 All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins, which catalyze interactions in watery solutions. 
 
@@ -355,38 +357,65 @@ The simplest forms of life are:
 > *Viroids* are pieces of RNA able catalyze self reproduction.  
 
 All other forms of life also encode enzymes made of proteins:
-> *Proteins* are chains of amino acids linked together. 
+> *Proteins* are chains of amino acids linked together. i.e. the interaction patterns
 
-> *Ribosomes* read positive sense RNA and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
-
-7 forms of how ot store the interaction patterns have evolved:
-* Double strand DNA
-* Single-strand DNA
-* DNA-RNA reverse transcribing
-* Double strand RNA
-* Single strand RNA, - sense
-* Single strand RNA, + sense
-* piecewise DNA
-
-Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life. Many forms of life are dependent on forms of energy produced by other forms. Some forms of life are dependent on enzymes provided by other forms of life:
-> <span id='virus'> A *virus* is a form of life on earth, that can't produce all necessary enzymes for its replication process. However viruses are diverse and span all known forms of life on earth[in work]</span> 
+> *Ribosomes* read positive sense RNA, called *messenger RNA*, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
 
 
+### storage and decode options
+7 forms of how to store proteins are known to be in use on todays earth:
+
+* dsDNA := Double stranded DNA
+* ssDNA := Single-strand DNA
+* dsRNA := Double strand RNA
+* ssRNA-RT := DNA-RNA reverse transcribing
+* (+)ssRNA := Single stranded RNA, - sense
+* (-)ssRNA := Single stranded RNA, + sense
+* dsDNA-RT := gapped DNA
+
+However only dsDNA forms are able to encode all proteins for their entire metabolism and do photosynthesis on todays earth. All forms using one of the other storage options are thus dependent on dsDNA form and as introduced below called [viruses](#virus).
+
+> A *gene* denotes a piece of storage which encodes a protein. 
+
+Practically genes are sequences of DNA or RNA which are transcribed to 
+
+### Interactions between different Forms
+Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
+* All forms of life except those who are able to do photosynthesis or use thermal energy are dependent on forms of energy produced by other forms of life. 
+* Besides energy mammals including us humans can't produce vitamins, amino acids, essential fatty acids, ...
+Many forms of life live in symbiontic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanentely coupled forms of life develop: E.g. mitochondria as cell organelles. 
+
+### cell forming life
+[in work]
+All forms of life which encode their entire metabolism are dsDNA based. 
+Further more these forms shield their metabolism by a semipermeable membrane. 
+* Prokaryotes 
+* Eukaryotes
+
+Some forms additionally shield their genome by an inner membrane
+* Eukaryotes
 
 
-So viruses need to use other forms of life to have a complete metabolism. Nearly all forms of life on today's earth are cell based.
+
+### Viruses
+> <span id='virus'> A *virus* is a form of life on earth, that can't produce all necessary enzymes for its replication. </span> 
+
+So viruses need to use other forms of life to have a complete metabolism. 
+Since all molecular independent forms of life on today's earth are cell based, viruses need to interact with cells based forms of life. 
 
 > <span id='infected-cell'> A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated. </span>
 
-Most cells don't live forever. <!--In the prevalent mulitcellular organisms on average only two halves cell survive.--> Viruses infected cells often die even faster. So viruses need to jump to other cells. To achieve this, many viruses, including coronaviruses, have a 2 phase [life cycle](#life-cycle). 
+Most cells don't live forever. <!--In the prevalent mulitcellular organisms on average only two halves cell survive.--> Viruses infected cells often die even faster. So viruses need to jump to other cells. To achieve this, most viruses, including coronaviruses, have a 2 phase [life cycle](#life-cycle). 
 * Virus phase: Using a cells metabolism to produce proteins and ultimately progeny.
 * Virion phase: Travel, wait and upon match with an [infectable cell](#infectable-cell) induce infection. 
 
-> <span id='virion'> A _virion_ is a virus outside a cell and ready to infect a cell.</span>
+> <span id='virion'> A _virion_ is form of a virus outside a cell and ready to infect a cell. </span>
+
+Virions are similar to seeds of plants: They don't have a metabolism running and are dormant except for some grabbing spikes and wait for activation to initiate fusion with a cell. 
 
 > <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
 
-Once a virus infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but they can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
+Once a virus infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
 > <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected. Entity can be a tissue, an organ or an organism.</span> 
 
@@ -405,7 +434,7 @@ Coronaviruses belong to the order of Nidovirales. Nidovirales are positive singl
 
 
 ### Coronaviruses
-The membrane is spherical and consists of structural proteins coated in a lipid bilayer aquired from the host cell and called envelope. Among the membrane proteins are large spike proteins. Theses spike protein point out of the spherical, which gives coronaviruses a crown (corona in latin) like appearance under the electron microscope.
+The membrane is spherical and consists of structural proteins coated in a lipid bilayer aquired from the host cell, called envelope. Among the membrane proteins are large spike proteins. Theses spike protein point out of the spherical, which gives coronaviruses a corona (latin for crown or solar corona) like appearance under the electron microscope.
 
 
 ### proteins  
@@ -418,11 +447,11 @@ The membrane is spherical and consists of structural proteins coated in a lipid 
 ## Coronaviruses species
 [in work]
 #### sars
-Betacoronavirus identified as causal agent of Sars in 2003/2004.
+Betacoronavirus identified causing Sars in 2003/2004.
 #### sars-cov-2
-Betacoronavirus identified as causal agent of the current Covid-19 pandemics. 
+Betacoronavirus identified causing the current Covid-19 pandemics. 
 ### mers-cov
-Betacoronavirus identified as causal agent of MERS mainly in 2012/2013 and some local cases since then. 
+Betacoronavirus identified causing MERS. 
 ### bovine coronaviruses
 Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
 
@@ -439,7 +468,7 @@ As mentioned in the [introduction](#intro-to-viruses) the coronavirus life cycle
 Travel and Wait for Activation<br>
 Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
 
-### travel phase
+### travel 
 Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are [activated](#virion-activation) to start the cell infection process.
 A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination. 
 
@@ -461,20 +490,24 @@ The infectable cell can be:
 
 
 ## metabolic phase
-The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism.
+The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failling. 
 
-### initial metabolism
+### metabolism phase 1
 [in work]<br>
+The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein) and addionally have some proteins produced to dimish the cells immune mechanism that the cell doesn't ring the bells. 
+
 Let the host ribosomes translate two ORFs of the viral genome with frame-shifting<br>-> two large proteins<br> 
 --cleave--> pieces of proteins<br> 
---assemble--> polymerase protein (protein capable of transcription of RNA to RNA) + other proteins carrying out tasks like prevent the cells protection mechanisms working<br>
--- transcription of + RNA--> negative RNA template<br>
--- transcription of - RNA--> new mRNAs
-    * which in a first phase are in turn translated to proteins
-    * in a possible second phase the copied RNA together with the produced proteins is assembled to new virions and thus yielding [replication](#replication).
+--assemble--> 
+* proteins providing the right setting for the phase 2 metabolism e.g. prevent the cells protection mechanisms working<br>
+* polymerase protein (protein capable of transcription of RNA to RNA) <br>
 
-### replication
-The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced.
+### metabolism phase 2
+The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template:
+-- transcription of (+) RNA --> (-) RNA template<br>
+-- transcription of (-) RNA 
+* --> pieces of subgenomic mRNAs which get translated to proteins
+* --> (+) stranded RNA get packed together with the N proteins to form the nucleocapsids of new virions and thus initiating [replication](#replication).
 
 
 
