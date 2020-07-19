@@ -552,7 +552,6 @@ The infectable cell can be:
 - once the viral RNA is in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
 
 
-
 ### metabolic phase
 The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failling. 
 
@@ -812,8 +811,10 @@ There are two common methods to measure tissue distribution of proteins:
 
 For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. 
 
-ACE2 is apically expressed on lower respiratory tract epithelial cells, 
-Especially well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. In the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [other cells (goblet) too in rework] [Timens](#timens), [Lau](#lau). 
+ACE2 is apically expressed 
+* in the lower respiratory tract:<br>
+    well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. 
+* in the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). [other cells (goblet) too in rework]
 
 
 ### empirical reasoning
@@ -903,6 +904,8 @@ Both evolutionary drive and biological constraints yield the tropism of coronavi
     - biological environment: Virions are activated for cell entry by specific proteins
     - physical environment
 
+
+
 <p id="infection-tropism"> -----</p>
 
 ## Tropism of Sars-Cov-2 Infections and Disease Pattering
@@ -912,9 +915,6 @@ Coronaviruses can cause infections at different locations and thus induce differ
 * Bovine coronaviruses cause both enteric diseases (neonatal calf diarrhea and winter dysentery)[citation comming] and respiratory diseases (shipping fever and genral pneunomia). 
     <!--jp;point mutations;follow each otehr-->
  
-
-
-
 
 
 <p id="litvac2"> -----</p>
@@ -939,7 +939,7 @@ Coronaviruses can cause infections at different locations and thus induce differ
 While there are possible explanations for many epidemiological observations of the Covid-19/Sars-2 spread - especially latitude preferences - by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air likely increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
 * in Switzerland not only the highest prevalence in severe cases (mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020) but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
-* Across the world no Covid-19 hotspot has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
+* Across the world no Covid-19 hotspot with many severe cases has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
 
 A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are transmitted to humans such that the immune system is trained to fight Betacoronaviruses. Transmissions and the induced build up of some form of resistance could occur regularly or just once as an infant and possibly yield lifelong increased protection. Such an immune protection could explain why some people notice no or only few symptoms. Noteworthy some seniors remain mostly asymptomatic and other seniors experience severe or even fatal Covid-19.
 
@@ -969,9 +969,8 @@ Knowledge of cross immune reactions can help to develop medications and even lit
 - Sars-CoV-2 infections could protect against OC43 or other BCoV infections, which could be more harmful in the long run than Sars-CoV-2
 
 
-
 ### Evidence from Distribution of Covid-19 
-In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform. [data wikipedia][in work]
+In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform ([data specifications](#data-specifications)). Namely the data Switzerland and Spain are used , two countries in which only severe Covid-19 cases have been recorded. <!-- [todo: data wikipedia][in work] -->
 
 #### covid-19 in switzerland
 > The following analysis is for the months March and April 2020. In this period only severe Covid-19 cases were tested. Mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020.
@@ -1018,23 +1017,27 @@ Examples of observed cross immune protections are:
     
 * [Han et al](#han) showed that calves inoculated with HECV-4408get cross-protective immunity against the strain BCoV DB2. HECV-4408 is a strain that can cause acute diarrhoea in humans, see [human bcov infections](#human-bcov-infections)
 
-#### Interspecies Jump
- There are even many examples where BCoVs crossed species borders, for which at least [interspecies infection](#interspecies-infection) is necessary but likely many occur and usually just yield a permanent species jump. Frequent corovirus infections to humans occur(ed) likely but they are not easy to prove. 
+#### observed interspecies jumps
+ There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](#interspecies-infection) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely but they are not easy to prove [citation coming].
 Examples where they have proven or there is strong evidence are:
-* The HECV-4408 coronavirus was isolated from a child suffering diarrhoea in 94 as described in [Zhang et al](#zhang94)
-* OC43 likely was a BCoV jump to humans. so frequent infections before are likely. 
+* The HECV-4408 coronavirus was isolated from a child having diarrhoea in 1994 as described in [Zhang et al](#zhang94)
+* OC43 likely was a BCoV jump to humans.
 
 
 ### mechanisms of crossprotection
 [in rework]
 In the following mechanism of actions are guessed:
-
+* tissue resident T cells distributed through the respiratory tract recognize preserved parts of the initially translated ORFs and induce aptosis in infected cells [citations and argumentation in work 14.7.]. 
 * Antibodies against some well preserved proteins parts. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
         * N
-     [in work]
+
+* combination of tissue resident T cells and antibodies marking infected cells. 
+     
+
+previous guesses, likely false:
 * Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
      
      
@@ -1044,6 +1047,7 @@ In the following mechanism of actions are guessed:
 * Analyse birth and grow up locations of elderly Covid-19 patients.
 * figuring out whether BCoVs genetically cross with other HCoVs. This could yield new strains with altered and possibly more severe pathogenesis. 
      
+
     
 <p id="early-vents"> -----</p>
     
@@ -1258,6 +1262,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 <p id="abstract">-----</p>
 
 ## Abstract Proposed Dry Form Transmission
+
 A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-CoV-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
@@ -1289,12 +1294,13 @@ In the following, a new model of dry form transmission of Sars-CoV-1 and Sars-Co
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form so the dry form infection is possible in theory.
 
 The newly proposed infection:
-* Dry Particulates in Air -> Lung
+* Dry particulates in air -> Lung
 
 where Dry Particulate is a small particulate with one or more viruses attached or possibly viruses attached to each other. 
 
-The above infection pathway is in addition to the known aerosol pathway:
-* Aerosol with Virus in Air -> Respiratory Tract
+The above infection pathway is in addition to the known aerosol/droplet pathways:
+* Aerosol with virus in air -> Respiratory Tract
+* Droplet with virus in air -> Respiratory Tract
 
 Aerosols containing particulates and dry particulates can convert to each other in the air:
 
@@ -1305,7 +1311,7 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [mar
 * Small Aerosol <-> Large Aerosol (in dry air equilibrium tends to the left, in humid to the right)
 
 
-The larger tend to fall to the ground since their movement is driven more by gravity (e.g. described in [tellier](#tellier)). 
+The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
 
 Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-spreading). Remark: Viral load in the upper respiratory tract can be attributed to [depositions](#particles-deposition) of viruses upon exhalation. This is exploited for Covid-19 swab tests in the pharynx. 
 
@@ -1334,6 +1340,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 <p id="particles">-----</p>
 
 ## Intermezzo: Particle Dynamics in the Respiratory Tract
+
 Conversational remarks about how I understand particle deposition models. 
 
 Particle deposition and clearance are possibly relevant for Covid-19 in view of:
@@ -1344,6 +1351,7 @@ Particle deposition and clearance are possibly relevant for Covid-19 in view of:
 * depositions of medicaments for the treatment
 
 ### particles spreading
+
 This section describes when particles are exhaled and how they spread out within the respiratory tract. 
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
 
@@ -1357,6 +1365,7 @@ So Covid-19 can be spread with breathing alone especially since in the deep lung
 
 
 ### particles deposition
+
 This section describes how particles are deposited in the respiratory tract. These particles can originate from other locations in the respiratory tract or being inhaled from extern air.
 
 ##### deposition factors
@@ -1380,32 +1389,38 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 
 ### particles clearance
 [in work]
-##### Methods of Clearance
+
+#### Methods of Clearance
 * clearance by mucus flow towards the alimentary system
-* clearance by macrophages in the epithelium and in the mucus[to check]
-* absorption in the alveoli and clearance via the blood stream
 * coughing
+* clearance by macrophages in the epithelium and in the mucus[to check]
+* absorption in the alveoli and clearance in the blood stream
+
 
 ##### factors influencing clearance
 * well flowing mucus (see [factors increasing the mucus flow](#factors-influencing-the-mucus-flow))
 * the earlier deposited the better is the mucus clearance
-* particle properties such as material (bad clearance for insoluble), form, size
+* particle properties such as material (bad clearance for insoluble in the lungs), form, size
 
 ### simulation methods and experiments
+
 In her thesis [Lindstrom](#lindstrom) explains well the principles. A recent review is from [Park and colleagues](#park).<br>
-Modeling or experimentally determine the deposition rates is not easy and both the simulation and experimental methods described below have caveats. 
+Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described below . 
 
 #### Simulations
-An often used model is the [ICRP Model](#bailey). Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. In this work mainly [kleinstreuer](#kleinstreuer) is used, other simulation models are [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).<br>
-The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are shown, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally many simplifications of relevant [particles deposition](#particles-deposition) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size aerosol droplets.
+An often used model is the [ICRP Model](#bailey). Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. In this work mainly [kleinstreuer](#kleinstreuer) is used, other simulation models are [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
 
-Traditional methods go: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). These methods yield some differential equations. These equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
+Traditional methods: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). These methods yield some differential equations. These equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
+
+The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are achieved, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally many simplifications of relevant [particles deposition](#particles-deposition) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size aerosol droplets.
+
+
 
 
 
 #### Experiments
-- Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
 
+- Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
 - Experimental in vivo settings:
     * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
     * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volume is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [reference to be added].
@@ -1421,16 +1436,18 @@ Traditional methods go: Model the respiratory tract as a static pipe system and 
 
 ### Evidence from Biological Properties
 
-From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entry for Sars-CoV-1/2 is obligate for infection. As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus flow, the dry form is likely more infectious. 
+From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entry for Sars-CoV-1 and MERS is obligate for infection. For Sars-CoV-2 lower respiratory tract entry is likely for patients developing ARDS. As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus flow, the dry form is likely more infectious. 
 
 
 <p id="spread-patterns">---</p>
     
 ### Evidence from the observed Spread Patterns
 
-The aerosol transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the aerosol model:
+The droplet transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the droplet models:
 
-In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the aerosol transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in cool outside temperature and heated indoor spaces which means dry and confined air. In theses settings dry dust like spreading is possible:
+[in work: correct that aerosol but not the droplet models could partly explain observed spread patterns]
+In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in cool outside temperature and heated indoor spaces which means dry and confined air. In theses settings dry dust like spreading is possible:
+
 * Sars-CoV-1:
 	- Hospitals in China [Mizumoto](#mizumoto)
     -  Long-Term Care Facility in Seattle [Honein et al](#honein)
@@ -1663,7 +1680,11 @@ TODO UPDATE REFERENCES
     Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
 
 
-### Coronavirus Evolution and Interspecies Transmission
+### Mechanism of Coronavirus Evolution 
+[coming] 
+
+
+### Interspecies Transmission, Adaption & Evolution
 
 * ##### vanderhoek2012
     Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012). 
@@ -1685,6 +1706,7 @@ TODO UPDATE REFERENCES
     Zhang, X.M., Herbst, W., Kousoulas, K.G. and Storz, J. (1994), 
     **Biological and genetic characterization of a hemagglutinating coronavirus isolated from a diarrhoeic child.**
     J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
+
 
     
 ### Cell Entry
