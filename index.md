@@ -937,7 +937,7 @@ Coronaviruses can cause infections at different locations and thus induce differ
 
 ### overview
 While there are possible explanations for many epidemiological observations of the Covid-19/Sars-2 spread - especially latitude preferences - by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air likely increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
-* in Switzerland not only the highest prevalence in severe cases (mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020) but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
+* in Switzerland not only the highest prevalence in severe cases (mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020) but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have an increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 * Across the world no Covid-19 hotspot with many severe cases has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
 
@@ -1003,7 +1003,7 @@ The cattle rich regions in the North and North East: Galicia, La Rioja, Basque C
 #### Remark
 Similar patterns seem to be in the USA and France. For analysis, ideally the partitioning of population is fine-grained to a level of at most a few 100K people per partition. 
 
-### Biological Basis
+### biological basis
 [in rework]
 First observations of cross immune protections are described. Then examples of host species jumps of betacoronaviruses are described including jumps from BCoV to humans.
 [in work]
@@ -1015,7 +1015,7 @@ Examples of observed cross immune protections are:
     - OC43 -protects-> HKU1 (only unidirectional)
     - NL63 -protects-> 229E (only unidirectional)
     
-* [Han et al](#han) showed that calves inoculated with HECV-4408get cross-protective immunity against the strain BCoV DB2. HECV-4408 is a strain that can cause acute diarrhoea in humans, see [human bcov infections](#human-bcov-infections)
+* [Han et al](#han) showed that calves inoculated with HECV-4408get cross-protective immunity against the strain BCoV DB2. HECV-4408 is a strain that has been observed to cause acute diarrhoea in humans, see [human bcov infections](#human-bcov-infections)
 
 #### observed interspecies jumps
  There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](#interspecies-infection) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely but they are not easy to prove [citation coming].
@@ -1060,7 +1060,7 @@ previous guesses, likely false:
 * Appendix for Early On Ventilators
 
 ### Overview
-For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor, shown by ([Yuen et al.](#yuen) for Influenza). [Hong and colleagues](#hong) found that the mucus flow increases when using humidified air for ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally there are indications they may reduce the spread of viruses in the lungs. 
+For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor, shown by ([Yuen et al.](#yuen) for Influenza). [Hong and colleagues](#hong) found that the mucus flow increases when using humidified air for ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally it is possible that some reduce the spread of viruses in the lungs because of altered movement of the lungs. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
@@ -1071,26 +1071,29 @@ A main complication of a severe Covid-19 and possible death cause is acute respi
 #### mucus hypothesis 
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucus clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
-In the following evidence is shown for the reverse [cascade](#cascade-of-influences): 
+
+
+### Reverse Cascade of Evidences
+
+In the following evidence is shown in reverse order for the [cascade of influences](#cascade-of-influences). The cascade reversed:
 * ARDS is caused by widespread virus distribution [how: work in progress]
 * widespread virus distribution is caused by a decreased mucociliary clearance and increased distribution from locations of infected cells-
 * decreased mucus clearance is caused by dry air, hypertension, diabetes
 
-### Reverse Cascade of Evidence
 
 - In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show _bilateral_ lung lesions/patches [Bhatraju et al.](#bhatraju),[Zhong et al.](#zhong).
 - [Yuen et al](#yuen) found high late viral load for patients with an ARDS . 
 
 For the widespread viral load distribution in the lower respiratory tract, possible reasons are:
 
-- [increased growth of viruses in the cells](#increased-growth)
+- [increased replication](#increased-replication)
 - [increased distribution across the lungs](#increased-distribution) 
 - [decreased mucus clearance](#decreased-mucus-clearance)
 
 
-##### increased growth
-
-Overall there isn't strong evidence for increased growth of viruses in ARDS risk group compared to hospitalized cases which don't develop ARDS. For people with only mild symptjoms (especially children) an early and quick immune systeme reaction can be a factor [in work]. There is limited data available comparing the viral load kinetics of people with mild symptoms. In the following the focus is on hospitalized cases. 
+##### increased replication
+[in rework]
+There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS risk group compared to hospitalized cases which don't develop ARDS. For people with only mild symptoms (especially children) early immune systeme responses possibly limit the viral replication [in work]. There is limited data available comparing the viral load kinetics of people with mild symptoms [in rework: new studies suggest similar viral loads]. In the following the focus is on hospitalized cases. 
 
 - data suggest no strong correlation between a diminished immune system and severe Covid-19 (see e.g. [zhong](#zhong))
 - patients with ADRS seem not to have especially low antibody levels as results obtained by [To, Tsang et al.](#to_tsang) indicate. 
