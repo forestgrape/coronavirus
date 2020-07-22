@@ -54,6 +54,8 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
+- 22.7. 
+- 22.7. Updates accross the page online
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
@@ -66,7 +68,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 #### Minor Updates
-- 7.7.20 7 storage options to memorize metabolism
+- 7.7.20 7 storage options to memorize metabolism (in offline work)
 - 2.7.20 Mask section redone and grouped into it mask related comments scattered throughout the page
 - 12.6.20 sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 under github 
 - 12.5. added note that [outside is safer](#outside-is-safer)
@@ -133,11 +135,13 @@ Time to act mindfully and work together in an open and honest way.
 
 
 ### Observe
-Observe your body, write down the observations and if possible measure.
-
-*  Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). 
-Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
+Observe your body, write down the observations and if possible measure.<br>
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
+
+* Every morning first smell and then taste your favorite breakfast drink.  
+* Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). 
+Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
+
 
 > It's time [for medicine] to move on from digitalisation and black-white schemes to the continuous colorspace of Bayesian statistics. There's no reason for a hard border for fever at 38 degrees. 
 
@@ -147,6 +151,7 @@ The more common Covid-19 in a region is, the more likely it is, that an observed
     and avoid anything that weakens the immune system:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
     * avoid being cold or even freezing for a longer period. For this reason, in cold climates don't open the windows permanently. 
+    * avoid any kind of immune suppresives unless necessary for medical reasons. 
     * try reducing stress for yourself and others. Trying too hard won't help though. 
     
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
@@ -728,9 +733,9 @@ Coronaviruses have large genomes (in comparison to other RNA viruses and messeng
 ### conserved patterns
 [in work]
 Some parts of the coronavirus genome 
-* Functional units of proteins. The more fundamental there function is, the more conserved they are.
-* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt
-* For coronaviruses, the replication mechanism within a cell is well conserved and thus the proteins involved.
+* Functional units of proteins. The more fundamental there function is, the more conserved they tend to be.
+* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt.
+* For coronaviruses, the replication mechanism is well conserved and thus the proteins involved.
 
 Examples of well conserved proteins for coronaviruses are:
 * RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved [to check, citation coming]. 
@@ -834,28 +839,47 @@ That in swab tests there are viruses in the nose and the mouth can be either cau
 
 # Immune Protection with a Focus on Coronaviruses
 
-[in work and incomplete] Only some topics and findings of the immune protection relevant for other parts of [this site](#home) are described. 
-> The immune system describes organs and processes that keep the body clean by getting rid of unwanted things. 
+[in work and incomplete] Selected topics of the immune protection relevant for other parts of [this site](#home) are described. 
+> The immune system denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them. 
 
+Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host immune system from interferring with their metabolism. 
+
+A lot of completely different immune mechanism have evolved in the different forms of life. Immune mechanism can be classified according to various criteria:
+- protection location: local or global
+- immune mechanism: physical, biological or chemical
+- immune specificity: 
+    * broad:  
+        - intracellular processes from eukaryotes targeting single stranded DNA
+        - skin: keep everything out
+    * specific: 
+        - antibodies: target specific proteins
+        - membranes: only permeable for specific substances
+- mechanism of specificity:
+    * blacklistening: Targeting anything known to be bad. Things known to be bad are the blacklist. 
+    * whitelistening: Targeting anything not known to be good. Things known to be good are the whitelist. 
+
+## Locations
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
 * entire body (e.g. fever, circulating antibodies or the skin)
-* tissue specific (e.g. local inflammation)
-* cell level (intra cellular processes). The oldest form of protection that develop already in prokaryotes.
+* tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
+* cell level (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
 
-## physical protections
+### physical protections
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
 
+## immune specificity
+[in work]
 The responsive part of the immune system is classified into two parts an unspecific and a specific part. 
-## innate/general immune system 
+### innate/general immune system 
 The unspecific part is the larger part. It consists of variety of mechanism:
 * the skin protecting large parts of the body 
 * mucus in various parts of the body. 
 
-## specific/trained immune system 
+### specific/trained immune system 
 A collection of immune cells which can target substances which have been learned to be unwanted, where unwanted can mean: 
 - foreign substances
 - cells that are considered out of order
@@ -910,10 +934,25 @@ Both evolutionary drive and biological constraints yield the tropism of coronavi
 
 ## Tropism of Sars-Cov-2 Infections and Disease Pattering
 **[in work]**<br>
-Coronaviruses can cause infections at different locations and thus induce different diseases. 
-* Symptoms at different location for Sars-Cov-2 are observed. 
-* Bovine coronaviruses cause both enteric diseases (neonatal calf diarrhea and winter dysentery)[citation comming] and respiratory diseases (shipping fever and genral pneunomia). 
-    <!--jp;point mutations;follow each otehr-->
+### Abstract
+Coronaviruses can cause infections at different locations and thus induce different diseases: 
+* The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
+* The coronaviruses directly emerging from zoonoses from wild/outside animals MERS-CoV and Sars-CoV cause lower respiratory tract infections and may spread to the intestine. 
+
+In the case of bovine coronaviruses the same strains can cause different diseases:
+* enteric diseases (neonatal calf diarrhea, winter dysentery) 
+* respiratory diseases (shipping fever and genral pneunomia). 
+
+Until the 90's it hasn't been clear that both are cause by the same coronavirus since they occur often independent. 
+
+For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses.
+
+Hypothesis about the infection tropism of coronaviruses with a focus on Sars-CoV-2 are considered:
+* what drives and causes the different infection location patterns
+* prevention and medications depending on locations
+* complications and risks
+
+
  
 
 
@@ -955,7 +994,7 @@ If a cross protection between BCoVs and Sars-CoV-2 exists and if yes how it work
 
 
 ### Relevance 
-The relevance and usage depends to on the [mechanisms of crossprotection](#mechanisms-of-crossprotection) and how much protection is provided. 
+The relevance depends on the [mechanisms of crossprotection](#mechanisms-of-crossprotection) and how much protection is provided. 
 Possible use cases are polyvalent:
 
 #### epidemiological
