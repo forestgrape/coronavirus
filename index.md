@@ -427,12 +427,13 @@ The simplest forms of life are:
 All other forms of life also encode enzymes made of proteins:
 > *Proteins* are chains of amino acids linked together. i.e. the interaction patterns
 
-> *Ribosomes* read positive sense RNA, called *messenger RNA*, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
+Proteins are made by ribosomes:
+
+> *Ribosomes* read positive sense RNA, called *messenger RNA* or just *mRNA*, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
 
 
 ### storage and decode options
-7 forms of how to store proteins are known to be in use on todays earth:
-
+7 forms to store protein codings are in use today on earth/as fare as we know:
 * dsDNA := Double stranded DNA
 * ssDNA := Single-strand DNA
 * dsRNA := Double strand RNA
@@ -441,11 +442,11 @@ All other forms of life also encode enzymes made of proteins:
 * (-)ssRNA := Single stranded RNA, + sense
 * dsDNA-RT := gapped DNA
 
-However only dsDNA forms are able to encode all proteins for their entire metabolism and do photosynthesis on todays earth. All forms using one of the other storage options are thus dependent on dsDNA form and as introduced below called [viruses](#virus).
+However only dsDNA forms are able to encode all proteins for their entire metabolism and do photosynthesis on todays earth. All forms using one of the other storage options are thus dependent on dsDNA form and as defined below are called [viruses](#virus).
 
-> A *gene* denotes a piece of storage which encodes a protein. 
+> A *gene* denotes a piece of storage which encodes a single protein. 
 
-Practically genes are sequences of DNA or RNA which are transcribed to 
+So genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA which in turn can be translated to proteins. 
 
 ### Interactions between different Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
@@ -560,17 +561,16 @@ The infectable cell can be:
 ### metabolic phase
 The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failling. 
 
-#### metabolism phase 1
+#### metabolism phase 1: preparation
 [in work]<br>
-The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein) and addionally have some proteins produced to dimish the cells immune mechanism that the cell doesn't ring the bells. 
-
-Let the host ribosomes translate two ORFs of the viral genome with frame-shifting<br>-> two large proteins<br> 
+The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Addionally let the ribosoms produce some proteins that dimish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:<br>
+Realease RNA -- let the host ribosomes translate two ORFs of the viral genome with frame-shifting---> two large proteins<br> 
 --cleave--> pieces of proteins<br> 
---assemble--> 
+--like magnets these pieces self arrange to structures--> 
 * proteins providing the right setting for the phase 2 metabolism e.g. prevent the cells protection mechanisms working<br>
 * polymerase protein (protein capable of transcription of RNA to RNA) <br>
 
-#### metabolism phase 2
+#### metabolism phase 2: replication
 The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template:
 -- transcription of (+) RNA --> (-) RNA template<br>
 -- transcription of (-) RNA 
@@ -845,26 +845,19 @@ That in swab tests there are viruses in the nose and the mouth can be either cau
 Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host immune system from interferring with their metabolism. 
 
 A lot of completely different immune mechanism have evolved in the different forms of life. Immune mechanism can be classified according to various criteria:
-- protection location: local or global
-- immune mechanism: physical, biological or chemical
-- immune specificity: 
-    * broad:  
-        - intracellular processes from eukaryotes targeting single stranded DNA
-        - skin: keep everything out
-    * specific: 
-        - antibodies: target specific proteins
-        - membranes: only permeable for specific substances
-- mechanism of specificity:
-    * blacklistening: Targeting anything known to be bad. Things known to be bad are the blacklist. 
-    * whitelistening: Targeting anything not known to be good. Things known to be good are the whitelist. 
+- [protection locations](#protection-locations): local or global
+- [immune mechanism](#immune-mechanism): physical, biological or chemical
+- [immune specificity](immune-specificity): 
+    Which and how substances and forms of life are recognized and targeted. 
 
-## Locations
+
+## protection locations
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
 * entire body (e.g. fever, circulating antibodies or the skin)
 * tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
 * cell level (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
-
+## immune mechanism
 ### physical protections
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
@@ -873,19 +866,38 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
 
 ## immune specificity
 [in work]
-The responsive part of the immune system is classified into two parts an unspecific and a specific part. 
+> There are many possible degrees of specificity, the following categories are just a coarse approximation.
+
+* broad e.g.:  
+    - skin: keep everything out
+    - neutrophil granulocytes: local shutdown of all forms of life
+* semi specific e.g.:
+    - intracellular processes from eukaryotes targeting single stranded DNA
+    - membranes: only permeable for specific substances
+* specific: 
+    - antibodies: bind to specific proteins and thereby inactivate or mark them
+    - Trained T cells
+    - RNA pieces silencing mRNAs / other RNAs
+
+
+### mechanism of specificity:
+* blacklistening: Targeting anything known to be unwanted or marked to be unwanted (e.g. antibodies bound can signal unwanted like we mark mistakes with a red pen)
+* whitelistening: Targeting anything except known to be wanted or marked to be wanted.
+
 ### innate/general immune system 
+[in rework]
 The unspecific part is the larger part. It consists of variety of mechanism:
 * the skin protecting large parts of the body 
 * mucus in various parts of the body. 
 
 ### specific/trained immune system 
+[in rework]
 A collection of immune cells which can target substances which have been learned to be unwanted, where unwanted can mean: 
 - foreign substances
 - cells that are considered out of order
 - things recognized as being harmful. These are often specific parts of proteins. 
 
-Host immune system
+### adaption of the immune system
 The above immune reactions depend both on the personal history of exposure to pathogens and the one, ones the anchestors have been exposed to (genetic adaption)
 * personal history of exposure to antigens and especially antigens similar the Sars-Cov-2 yields memory cells capable of producing targeted antibodies
 * personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
@@ -937,20 +949,31 @@ Both evolutionary drive and biological constraints yield the tropism of coronavi
 ### Abstract
 Coronaviruses can cause infections at different locations and thus induce different diseases: 
 * The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
-* The coronaviruses directly emerging from zoonoses from wild/outside animals MERS-CoV and Sars-CoV cause lower respiratory tract infections and may spread to the intestine. 
+* The coronaviruses directly emerging from zoonoses from wild/outside animals MERS-CoV and Sars-CoV cause lower respiratory tract infections and frequently spread to the intestine. 
 
-In the case of bovine coronaviruses the same strains can cause different diseases:
+For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs.
+
+In the case of bovine coronaviruses the same strains can cause different infections:
 * enteric diseases (neonatal calf diarrhea, winter dysentery) 
 * respiratory diseases (shipping fever and genral pneunomia). 
 
-Until the 90's it hasn't been clear that both are cause by the same coronavirus since they occur often independent. 
+In fact these are recognized as different diseases and until the 90's it hasn't been clear that both are cause by the same coronavirus since they occur often independent. 
 
-For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses.
+Questions about the infection tropism and pattering of coronaviruses with a focus on Sars-CoV-2 are considered:
+* What drives and causes the different infection location patterns?
+* How to prevent and treat depending on locations?
+* Which are complications and risks?
 
-Hypothesis about the infection tropism of coronaviruses with a focus on Sars-CoV-2 are considered:
-* what drives and causes the different infection location patterns
-* prevention and medications depending on locations
-* complications and risks
+Namely it is hypothesized:
+* Coronavirus can induce distinct infection patterns 
+* The infection patterns are the result of different factors:
+    - the coronavirus strain
+    - the history of the initial virion[s] i.e. the cell and location they got produced and the following travel path 
+    - initial infection location
+    - the host immune system and its experience with the virus strain
+* Complications are predictible dependent on the infection location
+* For optimal treatment the infection location is relevant and often more relevant than the strain causing the infection
+
 
 
  
