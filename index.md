@@ -399,11 +399,11 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 - [Life Cycle](#life-cycle) 
     * [Metabolic Phase](#metabolic-phase)
     * [Virion Phase](#virion-phase)
-- [Intermezzo Movement of Virions](#movement-of-virions)
+    * [Intermezzo Movement of Virions](#movement-of-virions)
 - [Tropism](#tropism)
-- [Evolution and Adaption](#evolution-and-adaption)
 - [Habitat](#habitat)
 - [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
+- [Evolution and Adaption](#evolution-and-adaption)
 
 
 
@@ -548,98 +548,6 @@ The infectable cell can be:
 * of the same cell type| another cell type
 
 
-#### cell entry
-- the virus gets attached to the matching receptor on the target cell mostly via the spike protein
-- fusion of the viral envelope with host cell membranes if primed: 
-    * initiated by the fusionpeptides of the spike protein 
-    * which in turn is driven by the conformational energy of the spike protein, 
-    * which is released upon cleavage at specific cleavage sites
-- release of genetic material and proteins into the cell
-- once the viral RNA is in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
-
-
-### metabolic phase
-The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failling. 
-
-#### metabolism phase 1: preparation
-[in work]<br>
-The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Addionally let the ribosoms produce some proteins that dimish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:<br>
-Realease RNA -- let the host ribosomes translate two ORFs of the viral genome with frame-shifting---> two large proteins<br> 
---cleave--> pieces of proteins<br> 
---like magnets these pieces self arrange to structures--> 
-* proteins providing the right setting for the phase 2 metabolism e.g. prevent the cells protection mechanisms working<br>
-* polymerase protein (protein capable of transcription of RNA to RNA) <br>
-
-#### metabolism phase 2: replication
-The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template:
--- transcription of (+) RNA --> (-) RNA template<br>
--- transcription of (-) RNA 
-* --> pieces of subgenomic mRNAs which get translated to proteins
-* --> (+) stranded RNA get packed together with the N proteins to form the nucleocapsids of new virions and thus initiating [replication](#replication).
-
-
-
-
-<p id='tropism-of-coronaviruses'>-----</p>
-
-## Tropism of Coronaviruses
-
-> Tropism: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how organisms behave under different circumstances or stimuli. Here tropism for viruses is used in that sense, how viruses react to different circumstances: Which substances or cells under what condition the virions attach and whether and when they enter cells. What metabolism is started in which cells under what conditions. In literature tropism of viruses is sometimes used more narrowly: which cells and tissues are suspectible to infection. 
-
-Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term. Key factors for the tropism are:
-* cell types:   
-    - receptors expressed
-    - biochemistry inside the cells
-* environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
-    - chemical environment: PH value
-    - biological environment: Virions are primed for cell entry by specific proteins
-    - physical environment: temperature
-
-
-### tropism virion phase
-#### virion activation
-Plant seeds evolved to be activated under favourable conditions for growth, at least as much as the seeds are able to check the conditions: seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surounding water to start their metabolism. Similarly virions need to be activated to initiate cell fusion and thus the [metabolic phase](#metabolic-phase). Where as plants need mainly the right physical conditions to growth, viruses need the right biological conditions. 
-* matching receptor
-To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
-* enviromenment around the cell
-    - The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
-
-
-### metabolic phase tropism
-[in work]<br>
-According to my literature search/reading few is known about how coronaviruses behave in different cell types. [todo: search&read]
-
-
-#### conditions inside the cell
-* The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
-* The cell should be able to produce lots of virions and thus should have a performant metabolism.
-
-### host factors
-* the host immune system should not know how to fight the virus
-* at the point of arrival the immune system should be diminished or absent
-
-### cell tropism
-The overall cell tropism is the combination of the [virion tropism](#virion-tropism) which determines cell entry and the [tropism in the metabolic](#metabolic-tropism) phase which determines the changes in the cells metabolism induced upon viral entry.  
-
-#### cell preferences
-For viruses in natural equilibrium, the locations are involved in the survival of the virus strain i.e. relevant for spread. 
-Places relevant for spread can be:
-* cells in which efficient virus replications takes place. 
-* cells which upon infection diminish the host immune response. 
-
-So in natural equilibrium hosts are usually natural hosts too. Hosts which are non Natural Hosts occur primarily if the environmental conditions improved for a virus.
-
-#### cell tropism of sars-cov-2
-* efficient replication
-    - alveolar type 2 cells
-    - alveolar macrophages
-* infection but no replication
-    - dentritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]
-<!--#### entry but no infection-->
-#### no entry
-Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted. Phagocytose  can occur e.g. for antibody marked virions which may get phagocyted by macrophages. So antibodies against the outer membrane proteins (e.g. the spike) could be a two-sided sword. This can both be relevant upon reinfection and for the design of vaccacines.
-
-
 
 <p id='movement-of-virions'></p>
 
@@ -717,40 +625,124 @@ The probability to reach a *next* exploitable host, is especially low, due to ma
 <!--transmission bottleneck important for evolution-->
 
 
-<p id='evolution-and-adaption'>-----</p>
+#### cell entry
+- the virus gets attached to the matching receptor on the target cell mostly via the spike protein
+- fusion of the viral envelope with host cell membranes if primed: 
+    * initiated by the fusionpeptides of the spike protein 
+    * which in turn is driven by the conformational energy of the spike protein, 
+    * which is released upon cleavage at specific cleavage sites
+- release of genetic material and proteins into the cell
+- once the viral RNA is in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
 
-## Evolution and Adaption
-The genetic evolution of coronaviruses is fast compared to other forms of life because:
-* a short average generation-time (only a few hours [to be confirmed]) 
-* properties of their RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
-    - RNA-dependent RNA polymerase, which yields a high rate of random point mutations compared to DNA polymerases, which generally have better proofreading capabilities. 
-    - a homologous recombination mechanism. 
-* Genome is encoded in RNA and not in DNA
 
-Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Coronaviruses can adapt fast to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
+### metabolic phase
+The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failling. 
+
+#### metabolism phase 1: preparation
+[in work]<br>
+The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Addionally let the ribosoms produce some proteins that dimish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:<br>
+Realease RNA -- let the host ribosomes translate two ORFs of the viral genome with frame-shifting---> two large proteins<br> 
+--cleave--> pieces of proteins<br> 
+--like magnets these pieces self arrange to structures--> 
+* proteins providing the right setting for the phase 2 metabolism e.g. prevent the cells protection mechanisms working<br>
+* polymerase protein (protein capable of transcription of RNA to RNA) <br>
+
+#### metabolism phase 2: replication
+The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template:
+-- transcription of (+) RNA --> (-) RNA template<br>
+-- transcription of (-) RNA 
+* --> pieces of subgenomic mRNAs which get translated to proteins
+* --> (+) stranded RNA get packed together with the N proteins to form the nucleocapsids of new virions and thus initiating [replication](#replication).
+
+
+
+
+
+<p id='tropism-of-coronaviruses'>-----</p>
+
+## Tropism of Coronaviruses
+
+> *Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how organisms behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.
+
+> In literature, the term tropism of viruses is sometimes used more narrowly: which cells and tissues are suspectible to infection. 
+
+Questions relevant for the tropism of coronaviruses:
+* To which receptors under which conditions the virions attach? 
+* Factors initiating cell entry of virions?
+* What metabolism is started in which cells under what conditions? 
+
+Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term. Key factors for the tropism are:
+* cell types:   
+    - receptors expressed
+    - biochemistry inside the cells
+* environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
+    - physical environment: e.g. temperature
+    - chemical environment: e.g. PH value
+    - biological environment: e.g. Virions are primed for cell entry by specific proteins
+    
+
+
+### tropism virion phase
+ 
+<!--#### virion attachment-->
+#### virion attachment and activation
+Plant seeds evolved to be activated under favourable conditions for growth, at least as much as the seeds are able to check the conditions: seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surounding water to start their metabolism. Similarly virions need to be activated to initiate cell fusion and thereby initiate the [metabolic phase](#metabolic-phase). Where as plants need mainly the right physical and chemical conditions to growth, viruses need the right biological conditions.
+* matching receptor
+To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
+* enviromenment around the cell
+    - The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
+
+
+### metabolic phase tropism
+[in work: incomplete and citations/confirmation in work]<br>
+> Generally the virion tropism better investigated than the tropism in the metabolic phase. This since cell entry can be investigated with retroviruses expressing the coronavirus spikes and transfected cells expression the right receptors. To investigate the metabolic phase, ideally one could look into the cells. 
+* ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
+* immune system cells are infected but usually aptosis is induced before replication takes place. 
+[todo: search&read]
+
+
+#### conditions inside the cell
+* The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
+* The cell should be able to produce lots of virions and thus should have a performant metabolism.
+
+### host factors
+* the host immune system should not know how to fight the virus
+* at the point of arrival the immune system should be diminished or absent
+
+### cell tropism
+
+> *Cell tropism* describes how a virus behaves upon match of a virion to a specific cell type. 
+
+The overall cell tropism is the combination of the [virion tropism](#virion-tropism) which determines cell entry and the [tropism in the metabolic](#metabolic-tropism) phase which determines the changes in the cells metabolism induced upon viral entry.  
+
+For viruses in natural equilibrium, the cells infected are involved in the survival of the virus strain:
+* cell used as entry point. For coronaviruses these are often cells on the aptical epithelial layer of respiratory tract. 
+* cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. Often these are secretory or ciliated cells in the respiratory tract.
+* cells relevant to leave a host. Often these are cells in the intestine or the kidney. For indoor living hosts these are 
+* cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dentritic and T cells) and induce aptosis. 
+
+
+#### cell tropism of sars-cov-2
 [in work]
+* efficient replication
+    - alveolar type 2 cells
+    - alveolar macrophages
+* infection but no replication
+    - dentritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]
+* no entry
+    - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted. 
 
-### conserved patterns
-[in work]
-Some parts of the coronavirus genome 
-* Functional units of proteins. The more fundamental there function is, the more conserved they tend to be.
-* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt.
-* For coronaviruses, the replication mechanism is well conserved and thus the proteins involved.
+> Phagocytose  can occur e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccacines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
-Examples of well conserved proteins for coronaviruses are:
-* RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved [to check, citation coming]. 
-* The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
-
-### changing patterns
-[in work]
 
 
 
 <p id='section-habitat'>-----</p>
 
 ## Habitat
-As outlined in [tropism](#tropism) there are many conditions for a virus to replicate. Since adaption occurs mainly through evolution for viruses, a genetic lineage of a virus is best adapted to certain environments to replicate. These environments are habitats:
-><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [entities](#infectable-entity) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
+[in rework]
+As outlined in [tropism](#tropism) there are many conditions for a virus to replicate. Since adaption occurs mainly through evolution for viruses, a genetic lineage of a virus replicate only in certain environments. These environments are habitats:
+><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [organism](#infectable-organism) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
 
 ### organisms habitats
 ><span id='endemic'> A virus strain is *endemic* in a collection of organism if that collection is a habitat of the virus.</span>
@@ -762,7 +754,7 @@ Sometimes it is helpful to name frequently infected organism which play no role 
 
 
 ### interspecies transmissions
-As the [movement of virions](#movement-of-virions) is random, virions reach things they get attached to at random. If a virus strain frequently reaches animals of some species, there are several cases <!--[for programmers: switch(animal) or animal match]-->:
+As the [movement of virions](#movement-of-virions) is random, virions reach things they get attached to at random. If a virus strain frequently reaches animals of some species, there are several cases <!--[in programming languages: switch(animal) or animal match]-->:
 * the animal reached is a host -> continue life cycle 
 * the animal reached is not a host:
     - it is not infectable -> break
@@ -791,11 +783,6 @@ The virus can get attached to a cell type or host the given strain hasn't been e
 * jumps to humans, also called zoonotic events: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all jumped from animals to humans [refs in work].  
 
 
-
-
-## Habitats of Coronaviruses
-[todo]
-
 <p id='habitat-of-sars-cov-2'>-----</p>
 
 ## Habitat of Sars-CoV-2
@@ -807,7 +794,7 @@ In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#lif
 
 
 #### cell receptor
-The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and an corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
+The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
 #### tissue distribution of ACE2
 There are two common methods to measure tissue distribution of proteins:
@@ -832,6 +819,37 @@ The viral load observed in different parts of the body are consistent with airbo
 Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
 
 That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An widespread infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].  
+
+
+
+<p id='evolution-and-adaption'>-----</p>
+
+## Evolution and Adaption
+The genetic evolution of coronaviruses is fast compared to other forms of life because:
+* a short average generation-time (only a few hours [to be confirmed]) 
+* properties of their RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
+    - RNA-dependent RNA polymerase, which yields a high rate of random point mutations compared to DNA polymerases, which generally have better proofreading capabilities. 
+    - a homologous recombination mechanism. 
+* Genome is encoded in RNA and not in DNA
+
+Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Coronaviruses can adapt fast to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
+[in work]
+
+### conserved patterns
+[in work]
+Some parts of the coronavirus genome 
+* Functional units of proteins. The more fundamental there function is, the more conserved they tend to be.
+* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt.
+* For coronaviruses, the replication mechanism is well conserved and thus the proteins involved.
+
+Examples of well conserved proteins for coronaviruses are:
+* RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved [to check, citation coming]. 
+* The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
+
+### changing patterns
+[in work]
+
+
 
 
 
@@ -944,40 +962,46 @@ Both evolutionary drive and biological constraints yield the tropism of coronavi
 
 <p id="infection-tropism"> -----</p>
 
-## Tropism of Sars-Cov-2 Infections and Disease Pattering
+## Tropism of Sars-Cov-2 Infections and Disease Patterns
 **[in work]**<br>
 ### Abstract
 Coronaviruses can cause infections at different locations and thus induce different diseases: 
 * The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
-* The coronaviruses directly emerging from zoonoses from wild/outside animals MERS-CoV and Sars-CoV cause lower respiratory tract infections and frequently spread to the intestine. 
+* The coronaviruses directly emerging from zoonoses from wild/outside animals MERS-CoV and Sars-CoV-1 cause lower respiratory tract infections and frequently spread to the intestine. 
 
-For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs.
-
-In the case of bovine coronaviruses the same strains can cause different infections:
+In the case of bovine coronaviruses the same strains can cause different infections. These are recognized as different diseases and until the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent:
 * enteric diseases (neonatal calf diarrhea, winter dysentery) 
 * respiratory diseases (shipping fever and genral pneunomia). 
 
-In fact these are recognized as different diseases and until the 90's it hasn't been clear that both are cause by the same coronavirus since they occur often independent. 
+For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs.
 
 Questions about the infection tropism and pattering of coronaviruses with a focus on Sars-CoV-2 are considered:
 * What drives and causes the different infection location patterns?
 * How to prevent and treat depending on locations?
 * Which are complications and risks?
 
-Namely it is hypothesized:
+Namely the following hypotheses are considered:
 * Coronavirus can induce distinct infection patterns 
-* The infection patterns are the result of different factors:
-    - the coronavirus strain
-    - the history of the initial virion[s] i.e. the cell and location they got produced and the following travel path 
-    - initial infection location
+* The infection patterns are the result of the factors:
+    - the virus strain
+    - the history of the initial virion[s] i.e. the cell and location they got produced and the physical, chemical and biological factors they have been exposed on their travel
+    - the initial infection location
     - the host immune system and its experience with the virus strain
-* Complications are predictible dependent on the infection location
-* For optimal treatment the infection location is relevant and often more relevant than the strain causing the infection
+* These infection patterns determine the pathogenesis, possible complications and the optimal treatment
+
+### infections caused by human coronaviruses
 
 
+### diseases caused by the bovine coronavirus
+same str
+ada v mp
 
- 
+### infection patterns caused by sars-cov-2
 
+
+#### epidemiological evidence
+
+#### clinical evidence
 
 <p id="litvac2"> -----</p>
 
