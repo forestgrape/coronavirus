@@ -1094,10 +1094,10 @@ In the following the in country distribution of Covid-19 is described. Since ins
 Incidence rates of both cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
 * In areas where cattle farming is prevalent  (AG, LU, AI, SG, FR, NE, ZH, VS, BE, FR, JU etc.), the number of deaths per 100K is about 6 in median and 8 in average (March and April 2020).
 
-> Remark: Cattle farming is very common in many areas in Switzerland due to a long tradition and an accompanying tradition of making a variety of tasty cheeses. Care has been taken to preserve traditional recipes and the microbes used, throughout the industrialization of agriculture in the 20th century. Addionally the market for milk and meat is protected and significantly subsidized and more than other forms of agriculture.
+> Remark: Cattle farming is very common in many areas in Switzerland due to a long tradition and an accompanying tradition of making a variety of tasty cheeses. Care has been taken to preserve traditional recipes and the microbes used, throughout the industrialization of agriculture in the 20th century. Addionally the market for milk and meat is protected and significantly subsidized. The support is higher than for other forms of agriculture.
 
 > Subjective Remark: I consider distributed agriculture as important and worth preserving. Both subsidies and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop.<br>
-Economy solely on global effectiveness trimmed, yields that but often only that. Question is, in which situations this is wanted. 
+Economy solely on global effectiveness trimmed, yields that. But often only that. Question is, in which situations this is wanted. 
 
 * Contrary to areas where cattle are less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
     Cantons with few cattle farming:
@@ -1122,7 +1122,6 @@ Similar patterns seem to be in the USA and France. For analysis, ideally the par
 ### biological basis
 [in rework]
 First observations of cross immune protections are described. Then examples of host species jumps of betacoronaviruses are described including jumps from BCoV to humans.
-[in work]
 
 #### observed cross immune protections between different coronaviruses
 [Cross immune protections](#cross-immune-protection) against coronaviruses have been observed for different strains, therefore cross protections can exists for coronaviruses.
@@ -1144,7 +1143,7 @@ Examples where they have proven or there is strong evidence are:
 [in rework]
 In the following mechanism of actions are guessed:
 * tissue resident T cells distributed through the respiratory tract recognize preserved parts of the initially translated ORFs and induce aptosis in infected cells [citations and argumentation in work 14.7.]. 
-* Antibodies against some well preserved proteins parts. 
+* Antibodies against some well preserved parts of proteins. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
         * S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
@@ -1161,7 +1160,7 @@ previous guesses, likely false:
 * Analyse spread patterns in other countries: USA, France, ...
 * Widespread serology for HCoVs and statistics if there's a relation to pathogenesis of Covid-19. 
 * Analyse birth and grow up locations of elderly Covid-19 patients.
-* figuring out whether BCoVs genetically cross with other HCoVs. This could yield new strains with altered and possibly more severe pathogenesis. 
+* figuring out whether BCoVs genetically cross/combine with other HCoVs. This could yield new strains with altered and possibly more severe pathogenesis. 
      
 
     
@@ -1176,7 +1175,7 @@ previous guesses, likely false:
 * Appendix for Early On Ventilators
 
 ### Overview
-For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor, shown by ([Yuen et al.](#yuen) for Influenza). [Hong and colleagues](#hong) found that the mucus flow increases when using humidified air for ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. This observation that humid air increases the mucus flow can be used as described these two settings or with other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally it is possible that some reduce the spread of viruses in the lungs because of altered movement of the lungs. 
+For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor. For influenza this is shown by ([Yuen et al.](#yuen). [Hong and colleagues](#hong) found that the mucus flow increases when using humidified air for ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. The observation that humid air increases the mucus flow, can be used as described in combination with ventilation or in other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally it is possible that some reduce the spread of viruses in the lungs because of altered movement of the lungs and thus altered movement of air and possibly of virions. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
@@ -1188,18 +1187,17 @@ A main complication of a severe Covid-19 and possible death cause is acute respi
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucus clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 
-
 ### Reverse Cascade of Evidences
-
-In the following evidence is shown in reverse order for the [cascade of influences](#cascade-of-influences). The cascade reversed:
+In the following evidence is shown in reverse order for the [cascade of influences](#cascade-of-influences).  The cascade reversed:
 * ARDS is caused by widespread virus distribution [how: work in progress]
 * widespread virus distribution is caused by a decreased mucociliary clearance and increased distribution from locations of infected cells-
 * decreased mucus clearance is caused by dry air, hypertension, diabetes
 
-
+#### evidence for widespread virus distribution
 - In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show _bilateral_ lung lesions/patches [Bhatraju et al.](#bhatraju),[Zhong et al.](#zhong).
 - [Yuen et al](#yuen) found high late viral load for patients with an ARDS . 
 
+#### causes of widespread virus distribution
 For the widespread viral load distribution in the lower respiratory tract, possible reasons are:
 
 - [increased replication](#increased-replication)
@@ -1207,7 +1205,8 @@ For the widespread viral load distribution in the lower respiratory tract, possi
 - [decreased mucus clearance](#decreased-mucus-clearance)
 
 
-##### increased replication
+##### increased replication?
+likely NO since:<br>
 [in rework]
 There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS risk group compared to hospitalized cases which don't develop ARDS. For people with only mild symptoms (especially children) early immune systeme responses possibly limit the viral replication [in work]. There is limited data available comparing the viral load kinetics of people with mild symptoms [in rework: new studies suggest similar viral loads]. In the following the focus is on hospitalized cases. 
 
@@ -1218,13 +1217,13 @@ There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS r
 
 <!--todo: immune reaction -->
 
-##### increased distribution
-The Sars-CoV-2 entry ACE2 is expressed in large quantities in alveolar type 2 cells. From these locations, many particles are exhaled upon deep breathing [[Larsson](#larsson)], which could yield increased spreading both inside and outside. 
+##### increased distribution?
+likely NO since:<br>
+The Sars-CoV-2 entry ACE2 is expressed in large quantities in alveolar type 2 cells. From these locations, many particles are exhaled upon deep breathing [[Larsson](#larsson)], which could yield increased spreading both inside and outside. Thus to some extent the virus distribution depends on breathing patterns and so active people would be more at risk. Overall evidence is not strong that the widespread virus spread is solely caused by increased distribution.  
 
-##### decreased mucus clearance 
-
+##### decreased mucus clearance?
+likely YES since:<br>
 * observed for influenza by [Yuen et al](#yuen)
-
 * Factors known to decrease the mucus clearance are major risk factors for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents):
     * intern factors
         - age
@@ -1253,22 +1252,29 @@ The Sars-CoV-2 entry ACE2 is expressed in large quantities in alveolar type 2 ce
 - published, including raw data
 
 __Note__:
-These are unchecked proposals and should be carefully supervised. Ideally methods are __first simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). Anything that could alter/increase the natural airflow and thus possibly the distribution of viruses could cause irritations and infections in new locations. Methods likely doing this (e.g. High Flow Therapy) will not be further discussed here. <!-- todo add ref-->
+These are unchecked proposals and should be carefully supervised. Ideally methods are __first simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). Anything that alters the natural airflow and thus possibly the distribution of viruses could cause irritations and infections in new locations. Methods likely doing this (e.g. High Flow Therapy) will not be further discussed here. <!-- todo add ref-->
  
 #### increase the mucus flow
 Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
 This prevents the accumulation of viral loaded and dry mucus early on. This in turn should both increase the well-being as well as the overall prognosis. 
 
-__Caution__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional irritation. While immune suppresive are generally discouraged, because they could yield a diminished immune reaction and possibly yield prolonged virus spread, in this situation they can be appropriate. 
+__Caution__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional inflammation/irritation. While immune suppresive are generally discouraged, because they could yield a diminished immune reaction and possibly yield prolonged virus spread, in this situation they can be appropriate. 
 
 * heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
     __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt). __Risk__: general risks of invasive ventilation, temporary irritation due to liquefying of mucus. 
 
-* a heated humidifier stand-alone (i.e.) with no ventilator. __Benefit__: Increase humidity and thus mucus flow and easy to use with an oxygen mask. __Risk__: temporary irritation due to liquefying of mucus.
+* a heated humidifier stand-alone i.e. as above but with no ventilator. __Benefit__: Increase humidity and thus mucus flow and easy to use with an oxygen mask. __Risk__: temporary irritation due to liquefying of mucus.
  
-* increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). __Benefit__: Simple use and a slight increase in mucus flow.  __Risk__: Some irritation due to liquefying can be possible. "Well tested" in tropical clima zones around the world.  
+* Increasing the humidity in the entire room, increases the mucus flow too, as shown by [Hasani and colleagues](#hasani). __Benefit__: Simple use and a slight increase in mucus flow.  __Risk__: Some irritation due to liquefying can be possible. "Well tested" in tropical clima zones around the world.  
 
-* Steam inhalation in the traditional way with a pot of hot water and a towel could help too. L. Use in early phase only since the steam may further irritate the mucous membranes. __Benefit__: Simple use and a temporary increase in mucus flow. __Risk__: Start with short times and see how the body reacts, then the risks should be little. 
+* Steam inhalation in the traditional way with a pot of hot water and a towel can help too. 
+Careful handling: 
+    - The steam inhaled should not be very hot, so some distance to the hot water is required. 
+    - Start carefully and see how the body reacts
+    - Use in early phase/not severe cases only since the steam may further irritate the mucous membranes.
+    - Careful handling of the hot pot: A solid stand/table is recommended.
+
+    __Benefit__: Simple use and a temporary increase in mucus flow. __Risk__:  If handled carefully the risks should be little. Irritation due to liquefying the mucus or because to hot steam is inhaled is possible.
     
 #### reduce the spread of viruses    
 reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][simulate first what happens]
