@@ -1175,7 +1175,13 @@ previous guesses, likely false:
 * Appendix for Early On Ventilators
 
 ### Overview
-For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor. For influenza this is shown by ([Yuen et al.](#yuen). [Hong and colleagues](#hong) found that the mucus flow increases when using humidified air for ventilation. [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. The observation that humid air increases the mucus flow, can be used as described in combination with ventilation or in other settings e.g. a stand-alone heated humidifier. Moreover, breath-support-devices may not only be used to humidify, additionally it is possible that some reduce the spread of viruses in the lungs because of altered movement of the lungs and thus altered movement of air and possibly of virions. 
+For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor; shown in the case of influenza induced ARDS by [Yuen et al](#yuen). The idea is to increase the clearance by increasing the mucus flow. The following observations suggest that the mucus flow is increased by humidified air:
+- [Hong and colleagues](#hong) found that the mucus flow increases when using humidified air for ventilation. 
+- [Hasani et al.](#hasani) found the same by humidifying the air in the entire room. 
+
+That humid air increases the mucus flow, can be used as described or in other settings e.g. a stand-alone heated humidifier. 
+
+Moreover, breath-support-devices can modify the distribution and spread of viruses in the lungs because of altered movement of the lungs and thus altered movement of air. The altered spread should be considered. 
 
 #### cascade of influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
