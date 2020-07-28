@@ -54,8 +54,8 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-- 27.7.(H-A-Time) Disease pattering
-- 27.7.(H-A-Time) Updates accross the page
+- 27.7.(H-A-ST) Disease pattering
+- 27.7.(H-A-ST) Updates accross the page
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
@@ -70,7 +70,7 @@
 #### Minor Updates
 - 7.7.20 7 storage options to memorize metabolism (in offline work)
 - 2.7.20 Mask section redone and grouped into it mask related comments scattered throughout the page
-- 12.6.20 sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 under github 
+- 12.6.20 sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
 - 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -982,9 +982,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 <p id="ideas"> -------</p>
 
 # Ideas to Explore
-* [Consider Tropism](#consider-tropism)
-    <!--*[Sars-CoV-2 Tropism](#sars2-tropism)
-    *[Tropism of Sars-CoV-2 Infections](#infection-tropism)-->
+* [Infection Tropism and Disease Patterns](#infection-tropism)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
@@ -1001,7 +999,7 @@ Both evolutionary drive and biological constraints yield the tropism of coronavi
 
 <p id="infection-tropism"> -----</p>
 
-## Tropism of Sars-Cov-2 Infections and Disease Patterns
+## Infection Tropism and Disease Patterns
 **[in work]**<br>
 ### Abstract
 Coronaviruses can cause infections at different locations and thus induce different diseases: 
@@ -1012,35 +1010,28 @@ In the case of bovine coronaviruses the same strains can cause different infecti
 * enteric diseases (neonatal calf diarrhea, winter dysentery) 
 * respiratory diseases (shipping fever and genral pneunomia). 
 
-For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs.
-
-Questions about the infection tropism and pattering of coronaviruses with a focus on Sars-CoV-2 are considered:
+For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs:
 * What drives and causes the different infection location patterns?
 * How to prevent and treat depending on locations?
 * Which are complications and risks?
+* What immune protections are raised under which circumstances. 
 
-Namely the following hypotheses are considered:
+Namely the following hypotheses are discussed:
 * Coronavirus can induce distinct infection patterns 
-* The infection patterns are the result of the factors:
+* The infection patterns are the result of and can be predicted by the factors:
     - the virus strain
     - the history of the initial virion[s] i.e. the cell and location they got produced and the physical, chemical and biological factors they have been exposed on their travel
     - the initial infection location
     - the host immune system and its experience with the virus strain
-* These infection patterns determine the pathogenesis, possible complications and the optimal treatment
+* The pathogenesis, possible complications and the optimal treatment depend on the infection patterns. 
 
 ### infections caused by human coronaviruses
-
-
+[coming soon]
 ### diseases caused by the bovine coronavirus
-same str
-ada v mp
-
+[coming soon]
 ### infection patterns caused by sars-cov-2
+[coming soon]
 
-
-#### epidemiological evidence
-
-#### clinical evidence
 
 <p id="litvac2"> -----</p>
 
@@ -1061,7 +1052,7 @@ ada v mp
 * [next steps](#next-steps)
 
 ### overview
-While there are possible explanations for many epidemiological observations of the Covid-19/Sars-2 spread - especially latitude preferences - by the gradient of warm and humid to cold and dry indoor air. Because cold and dry air likely increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
+While there are possible explanations for many epidemiological observations of the Sars-2 strains, causing Covid-19, spread in the first months of 2020: spread mainly in absolutely dry and cold air and less spread in warm and humid air. Thus increased spread with increasing latitudes and away from coastal areas. Because cold and dry air likely increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
 * in Switzerland not only the highest prevalence in severe cases (mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020) but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have an increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 * Across the world no Covid-19 hotspot with many severe cases has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
