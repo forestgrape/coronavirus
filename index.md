@@ -54,8 +54,8 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-- 22.7. 
-- 22.7. Updates accross the page online
+- 27.7.(H-A-Time) Disease pattering
+- 27.7.(H-A-Time) Updates accross the page
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
@@ -187,7 +187,7 @@ How a virus infection behaves is an interplay of host factors including the host
     - the travel of virions between hosts and thus the mode of the initial infection. 
     - Environmental factors influence host factors and thus indirectly the course of the disease.   
 
-#### tissue tropism
+
 
 
   
@@ -705,15 +705,13 @@ To enter a cell a virus uses its spike protein, which first serves as a grapplin
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
 * The cell should be able to produce lots of virions and thus should have a performant metabolism.
 
-### host factors
-* the host immune system should not know how to fight the virus
-* at the point of arrival the immune system should be diminished or absent
+ 
 
 ### cell tropism
 
 > *Cell tropism* describes how a virus behaves upon match of a virion to a specific cell type. 
 
-The overall cell tropism is the combination of the [virion tropism](#virion-tropism) which determines cell entry and the [tropism in the metabolic](#metabolic-tropism) phase which determines the changes in the cells metabolism induced upon viral entry.  
+The cell tropism is the combination of the [virion tropism](#virion-tropism) which determines cell entry and the [tropism in the metabolic](#metabolic-tropism) phase which determines the changes in the cells metabolism induced upon viral entry.  
 
 For viruses in natural equilibrium, the cells infected are involved in the survival of the virus strain:
 * cell used as entry point. For coronaviruses these are often cells on the aptical epithelial layer of respiratory tract. 
@@ -728,59 +726,69 @@ For viruses in natural equilibrium, the cells infected are involved in the survi
     - alveolar type 2 cells
     - alveolar macrophages
 * infection but no replication
-    - dentritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]
+    - dentritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]: aptosis induce
 * no entry
     - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted. 
 
 > Phagocytose  can occur e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccacines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
-
+### tissue tropism
+* coronaviruses are often is tissues with large aptical surface and the [virions are released](#orientation-matters) again on the aptical side to spread via the covering fluids. 
+* coronaviruses are to big to diffuse effiently inside tissues [to verify].
 
 
 <p id='section-habitat'>-----</p>
 
 ## Habitat
 [in rework]
-As outlined in [tropism](#tropism) there are many conditions for a virus to replicate. Since adaption occurs mainly through evolution for viruses, a genetic lineage of a virus replicate only in certain environments. These environments are habitats:
-><span id='habitat'> A *Habitat* of a virus are collections of [cells](#infected-cell) or [organism](#infectable-organism) such as tissues, organs, organisms, or even collection of organism which are frequently infected. E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs. </span>
+As outlined in [tropism](#tropism) there are many conditions for a virus to replicate. Since adaption occurs mainly through evolution for viruses, a genetic lineage of a virus replicate only in certain environments. These environments form the habitat of a virus strain:
+><span id='habitat'> The *Habitat* of a virus consists of the locations of interest a virus entity frequently is found: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs and the host organism: us humans </span>
 
-### organisms habitats
-><span id='endemic'> A virus strain is *endemic* in a collection of organism if that collection is a habitat of the virus.</span>
+### organisms habitat:hosts
+The organisms part of a virus habitat are called hosts:
 
-><span id='host'>A *Host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently and are relevant for the spread of the virus i.e. are part of the life cycle.</span>
+><span id='host'>A *host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently and are relevant for the spread of the virus i.e. are part of the life cycle.</span>
+
+><span id='endemic'> A virus strain is *endemic* in a collection of organisms if that collection is a habitat of the virus.</span>
 
 Sometimes it is helpful to name frequently infected organism which play no role in the virus spread:
 ><span id='side-host'>A *Side Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot replicate effienctly or the virions cannot leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host</span> 
 
 
-### interspecies transmissions
-As the [movement of virions](#movement-of-virions) is random, virions reach things they get attached to at random. If a virus strain frequently reaches animals of some species, there are several cases <!--[in programming languages: switch(animal) or animal match]-->:
+### conquering new habitats
+The virus can get attached to a cell types or hosts the given strain which are not part of its current habitat. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a lineage of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occurred. Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
+The new habitat can be:
+- a new cell type
+- a new tissue type
+- a new host type: [conquering new hosts](#conquering-new-hosts)
+
+### conquering new hosts
+As the [movement of virions](#movement-of-virions) is not directed, virions get attached to things at random. If a virus strain reaches animals of some species, there are several cases <!--[in programming languages: switch(animal) or animal match]-->:
 * the animal reached is a host -> continue life cycle 
 * the animal reached is not a host:
     - it is not infectable -> break
     - it is infectable. This yields an [*interspecies infection*](#interspecies-infection). Again two cases:
         * the virus can *not* leave to infect other hosts -> break i.e. it is a cul-de-sac 
         * virions can leave to infect other hosts -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happend. Since likely the evolutionary drive changes this gives raise to a new virus strain. 
-        
     
+> <span id='interspecies-infection'> An _interspecies infection_ is when an animal which is not an existing [host](#host) animal becomes infected by a virus strain. </span>
 
-> <span id='interspecies-infection'> An _interspecies infection_ is when an animal which is not a [host](#host) animal becomes infected by a virus strain. </span>
+> <span id='interspecies-jump'> An *interspecies jump* denotes a transmission to a new species and the species becomes a new [host](#host) i.e. the new species becomes part of the habitat of the virus. The virus strain may evolve to an adapted new strain.</span>
 
-> <span id='interspecies-jump'> An *interspecies jump* denotes a transmission to a new species and the species becomes a new [host](#host) i.e. the new species becomes a habitat of the virus. The virus strain will likely evolve to an adapted new strain.</span>
+> <span id='zoonosis'> An [interspecies jump](#interspecies-jump) where the target is a human is called *zoonosis*.</span>
 
 So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
 
 
-### conquering new habitats
-The virus can get attached to a cell type or host the given strain hasn't been endemic. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a line of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occurred. Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
 #### observed interspecies infections
 * all occurrences where [interspecies jumps](#interspecies-jumps) occurred at least one [interspecies infection](#interspecies-infection) must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
 * Infections of Humans:
-    There are quite a few reports on that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
+    - In the 70s and 80s there were a couple of reports that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
     - The HECV-4408 coronavirus was isolated from a child having diarrhea [Zhang et al](#zhang94)
 #### observed interspecies jumps
 * jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, wild ruminants, porcine [Bidokhti et al](#bidokhti).
-* jumps to humans, also called zoonotic events: MERS, Sars-CoV-1, Sars-CoV-2, OC43 are all jumped from animals to humans [refs in work].  
+* jumps to humans, also called zoonotic events: MERS, Sars-CoV-1 and OC43 are all jumped from animals to humans [refs in work]. 
+
 
 
 <p id='habitat-of-sars-cov-2'>-----</p>
@@ -790,29 +798,36 @@ The virus can get attached to a cell type or host the given strain hasn't been e
 The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
-In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [tropism](#tropism). 
+In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [cell tropism](#cell-tropism). 
 
+#### cell entry and receptor
+[in rework/reorder]
+The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
 
-#### cell receptor
-The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2 . The barrier function of the apical cell layer and in vitro cell experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
+#### orientation matters 
+* The barrier function of the apical cell layer against coronavirus virions make an initial aptical entry necessary. 
+* In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
-#### tissue distribution of ACE2
+#### ace2 receptor distribution
 There are two common methods to measure tissue distribution of proteins:
 * _antibody staining_: to detect ACE2 an anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. . Used in the work of [Timens](#timens), [McCray](#mccray05) 
 * _detect mRNA_: e.g. ACE2 mRNA. Necessary condition for local protein expression. However not sufficient for ACE2 on apical cell surface [to check]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
-For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. 
+For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. Moreover since coronaviruses have a preference for [aptical tissue sites](#tissue-tropism)
 
 ACE2 is apically expressed 
 * in the lower respiratory tract:<br>
-    well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] and in alveolar epithelial type 2 cells [to check/find citation]. 
-* in the upper respiratory tract, only the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). [other cells (goblet) too in rework]
+    - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
+    - alveolar epithelial type 2 cells [to check/find citation]. 
+* in the upper respiratory tract
+    - the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
+    - goblet cells[todo: other cells (goblet) too in rework]
 
 
 ### empirical reasoning
 Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
 
-#### sars-cov-2 viral load
+#### betacoronavirus type 2 viral load
 The viral load observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
 * The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
 * For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
@@ -875,12 +890,19 @@ Immune responses can be global (affecting the entire body), local for some tissu
 * tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
 * cell level (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
-## immune mechanism
+## immune mechanisms
+[in work and incomplete]
 ### physical protections
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
+
+### chemical part
+* change of ph
+
+### biochemical part
+* antibodies target specifi structures of proteins
 
 ## immune specificity
 [in work]
@@ -898,10 +920,6 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
     - RNA pieces silencing mRNAs / other RNAs
 
 
-### mechanism of specificity:
-* blacklistening: Targeting anything known to be unwanted or marked to be unwanted (e.g. antibodies bound can signal unwanted like we mark mistakes with a red pen)
-* whitelistening: Targeting anything except known to be wanted or marked to be wanted.
-
 ### innate/general immune system 
 [in rework]
 The unspecific part is the larger part. It consists of variety of mechanism:
@@ -917,12 +935,30 @@ A collection of immune cells which can target substances which have been learned
 
 ### adaption of the immune system
 The above immune reactions depend both on the personal history of exposure to pathogens and the one, ones the anchestors have been exposed to (genetic adaption)
-* personal history of exposure to antigens and especially antigens similar the Sars-Cov-2 yields memory cells capable of producing targeted antibodies
+* personal history of exposure to antigens experienced to be harmful: E.g. antigens similar the Sars-Cov-2 yields cells capable of producing targeted antibodies
 * personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
 
 
-## basis of cross immune protections
-All form of life on earth share common molecular patterns. The more genetically related the forms, the more genes and corresponding proteins they share. These [common patterns](#conserved-patterns) are possible targets to develop cross protections either by the immune system or artificial medications. 
+
+## immune protections against coronaviruses
+### prevent target reaching
+- physical: 
+    - skin <- circumvented by coronaviurses by entering via breathing
+    - mucus <- less mucus in the lungs and nasal cavity
+    - cell membranes <- bind to receptor and fuse membranes with spikes
+- biological:
+    - phagocytize 
+    - inactivate with antibodies
+### prevent unwanted metabolisms
+#### self checks
+- self checks of the cells: inside the cells there are various systems to keep to cells metabolism immune
+#### extern checks
+Cells present what they produce on the outside: T cells inspect these substances and can induce aptosis or ring the bells. In fighting coronaviruses T cells play a key role [citations in work].
+##### t cells
+T cells are in the blood and locally in tissues. 
+> *Tissue resident T cells* or just *local T cells* are T cells which survey the tissues cells integrity. They are located especially at commonly observed entry points of metabolism changing pathogens which mostly are viruses. 
+
+
 
 
 <!--
@@ -932,6 +968,9 @@ All form of life on earth share common molecular patterns. The more genetically 
 ### protections based on conserved proteins
  [in work]   
  -->
+
+ ## cross immune protections
+All form of life on earth share common molecular patterns. The more genetically related the forms, the more genes and corresponding proteins they share. These [common patterns](#conserved-patterns) are possible targets to develop cross protections either by the immune system or artificial medications. 
  
 ### cross protections observed
 *  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
@@ -1338,7 +1377,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 * Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and do widespread testing ([data specifications](#data-specifications)). 
     - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
-    - __Remark__: Mucus clearance may not be the only reason for lower death rates in humid air, but also that [Dry Form Infection](#abstract) is less likely and therefore Covid-19 starts more in the trachea than in the alveolis. 
+    - __Remark__: Mucus clearance may not be the only reason for lower death rates in humid air, but also that [Dry Form Infection](#abstract) and aerosol infection is less likely and therefore Covid-19 starts more in the upper respiratory tract than in the bronchi or alveolis. 
 
 * In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals. This data is consistent and even preferred to analyse to impact of humidity ([data specifications](#data specifications)). 
 
@@ -1397,7 +1436,7 @@ Aerosols containing particulates and dry particulates can convert to each other 
 * Dry Particulates <- Small Aerosol containing a Particulate (more likely in dry air)
 
 and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [marr](#marr)): 
-* Small Aerosol <-> Large Aerosol (in dry air equilibrium tends to the left, in humid to the right)
+* Small Aerosol <-> Large Aerosol/Droplets (in dry air equilibrium tends to the left, in humid to the right)
 
 
 The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
@@ -1432,7 +1471,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 Conversational remarks about how I understand particle deposition models. 
 
-Particle deposition and clearance are possibly relevant for Covid-19 in view of:
+Particle deposition and clearance are relevant for Covid-19 in view of:
 * infection pathway
 * spread within the lower respiratory tract (pathogenesis)
 * spread to the pharynx (swab test and transmission)
@@ -1471,7 +1510,7 @@ How many particles are deposited/breath out in which region in/from the respirat
 ##### deposition locations
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer).
 * Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
-* [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. 
+* [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. <!-- todo add varghese-->
 * The particles depositions aren't equal for the left and right lung and bronchus [Rahimi-Gorji](#rahimi-gorji), [kleinstreuer2017](#kleinstreuer2017)
 * Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
 * [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
@@ -1483,7 +1522,7 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 * clearance by mucus flow towards the alimentary system
 * coughing
 * clearance by macrophages in the epithelium and in the mucus[to check]
-* absorption in the alveoli and clearance in the blood stream
+* absorption in the alveoli and clearance in the blood stream by immune system cells (e.g. macrophages)
 
 
 ##### factors influencing clearance
@@ -1494,7 +1533,7 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 ### simulation methods and experiments
 
 In her thesis [Lindstrom](#lindstrom) explains well the principles. A recent review is from [Park and colleagues](#park).<br>
-Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described below . 
+> Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described below . 
 
 #### Simulations
 An often used model is the [ICRP Model](#bailey). Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. In this work mainly [kleinstreuer](#kleinstreuer) is used, other simulation models are [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
@@ -2025,8 +2064,8 @@ TODO UPDATE REFERENCES
     <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
     Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
 
-* ##### kleinstreuer
-	V K, Arun & Kleinstreuer, Clement & Kleinstreuer, Nicole & Pham, Wellington & Sadikot, Ruxana. (2018). 
+* ##### kleinstreuer 
+    Arun V Kolanjiyil, Clement Kleinstreuer, Nicole C Kleinstreuer, Wellington Pham and Ruxana T Sadikot
 	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
     
 * ##### kleinstreuer2017
