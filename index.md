@@ -22,7 +22,7 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
 
 * [Updates](#updates)
 * [Public Suggestions](#public-advice) <br> 
-    Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
+    Keep distance and hygiene. Outside is safe. Inside ventilate well and/or wear a mask in risk regions. Transmission can be smoke-like. Take care to the immune system.
 * [Covid-19](#covid)
     - [Public Description](#public-description)
 * [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -49,6 +49,7 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
+- 12.7. Major updates still in work, raw form will be online in the next days
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
@@ -60,8 +61,8 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). The ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
-#### Minor Updates
-- 3.6.20 started online 
+    
+#### Minor Updates 
 - 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -81,11 +82,12 @@ In short: copy paste like needs attribution. For inspiration, thanks are enough 
 <p id="public-advice">-----</p>
 
 ## Public Advice, Suggestions and Thoughts
-Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. But no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects are not more likely than for other (corona)viruses causing common colds. No reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
 
 Time to act mindfully and work together in an open and honest way. 
 
 ### Thoughts how to reduce Covid-19 infection risk and paths
+> Remark: The following advices were written mostly in mid march when Covid-19 induced ARDS/SARS disease patterns peaked in Europe. Updates in work.  
 
 - The coronavirus transmission is best thought smoke-like. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
@@ -165,7 +167,7 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either aerosol or dry form transmission). This is not yet confirmed, even though there is evidence as described in [Proposal of a Dry Form Transmission Model](#transmission-models). The transmissions can be thought [smoke like](#metaphor-and-measures) or like the reek of alcohol like. For the first non-smokers protections work, for the latter distancing.
 
 ### support the immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 spreads less but there are many more infectious diseases, this should be the main focus by a large margin. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings [Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika), it is difficult to completely avoiding virus infections and  Sars-CoV-1/2 especially. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once the virus is widespread, avoiding coming in touch with Sars-CoV-2 is nearly impossible. Therefore the most important protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 spreads less but there are many more infectious diseases, this should be the main focus.  
 [in work]
 Proposals to increase the immune system:
 * providing settings that support good health
