@@ -1046,11 +1046,11 @@ Namely the following hypotheses are discussed:
 * The pathogenesis, possible complications and the optimal treatment depend on the infection patterns. 
 
 ### infections caused by human coronaviruses
-[coming soon]
+[raw form coming soon]
 ### diseases caused by the bovine coronavirus
-[coming soon]
+[raw form coming soon]
 ### infection patterns caused by sars-cov-2
-[coming soon]
+[raw form coming soon]
 
 
 <p id="litvac2"> -----</p>
