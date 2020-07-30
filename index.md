@@ -414,35 +414,47 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 > Definitions are denoted like this and are valid throughout this page. Sometimes only throughout this page.
 
-### form of life
+### forms of life
 > <span id='form-of-life'> A *form of life* in a given environment is an identifiable  thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called progeny or the next generation. </span>
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
-All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins, which catalyze interactions in watery solutions. 
+All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins (all execept [viroids](#viroid)), which catalyze interactions in watery solutions. 
 
 The simplest forms of life are:
-> *Viroids* are pieces of RNA able catalyze self reproduction.  
+> <span id='viroid'>*Viroids* are pieces of RNA able catalyze self reproduction.</span>  
 
-All other forms of life also encode enzymes made of proteins:
-> *Proteins* are chains of amino acids linked together. i.e. the interaction patterns
+All other known forms of life also encode enzymes made of proteins:
+> <span id='protein'>*Proteins* are chains of amino acids linked together. i.e. the interaction patterns</protein>
 
 Proteins are made by ribosomes:
 
-> *Ribosomes* read positive sense RNA, called *messenger RNA* or just *mRNA*, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
+> <span id='ribosom'> *Ribosomes* read positive sense RNA, called *messenger RNA* or just *mRNA*, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
 
 
-### storage and decode options
-7 forms to store protein codings are in use today on earth/as fare as we know:
-* dsDNA := Double stranded DNA
+### lifetime storage and decode options
+[in work]
+4 forms of lifetime storage are known to be used on todays earth: 
+* ##### ssRNA
+    single stranded RNA: very unstable and difficult and mutation rich duplication both mutations and recombinations occur upon duplication 
+* ##### dsRNA
+    double standed RNA: unstable, duplication somewhat reliable possible
+* ##### ssDNA
+    single stranded DNA: hard to duplicate and mediocre stability
+* ##### dsDNA
+    double stranded DNA: very stable and reliable duplication possible 
+
+7 forms of combinations of lifetime storage and decode mechanisms are known to be in use on earth:
+* (+)ssRNA := Single stranded RNA, + sense
+* (-)ssRNA := Single stranded RNA, - sense
 * ssDNA := Single-strand DNA
+* dsDNA-RT := gapped DNA
 * dsRNA := Double strand RNA
 * ssRNA-RT := DNA-RNA reverse transcribing
-* (+)ssRNA := Single stranded RNA, - sense
-* (-)ssRNA := Single stranded RNA, + sense
-* dsDNA-RT := gapped DNA
+* dsDNA := Double stranded DNA
 
-However only dsDNA forms are able to encode all proteins for their entire metabolism and do photosynthesis on todays earth. All forms using one of the other storage options are thus dependent on dsDNA form and as defined below are called [viruses](#virus).
+#### notes on storage
+* only dsDNA forms are able to encode all proteins for their entire metabolism and do photosynthesis on todays earth. All forms using one of the other storage options are thus dependent on dsDNA form and as defined below are called [viruses](#virus).
 
 > A *gene* denotes a piece of storage which encodes a single protein. 
 
@@ -451,8 +463,8 @@ So genes are sequences of single/double stranded DNA or RNA which are transcribe
 ### Interactions between different Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
 * All forms of life except those who are able to do photosynthesis or use thermal energy are dependent on forms of energy produced by other forms of life. 
-* Besides energy mammals including us humans can't produce vitamins, amino acids, essential fatty acids, ...
-Many forms of life live in symbiontic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanentely coupled forms of life develop: E.g. mitochondria as cell organelles. 
+* Besides energy mammals including us humans need extern sources for vitamins, essential amino acids, essential fatty acids, ...
+* Many forms of life live in symbiontic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanentely coupled forms of life develop: E.g. mitochondria as cell organelles. 
 
 ### cell forming life
 [in work]
@@ -463,7 +475,6 @@ Further more these forms shield their metabolism by a semipermeable membrane.
 
 Some forms additionally shield their genome by an inner membrane
 * Eukaryotes
-
 
 
 ### Viruses
@@ -506,7 +517,7 @@ Coronaviruses belong to the order of Nidovirales. Nidovirales are positive singl
 The membrane is spherical and consists of structural proteins coated in a lipid bilayer aquired from the host cell, called envelope. Among the membrane proteins are large spike proteins. Theses spike protein point out of the spherical, which gives coronaviruses a corona (latin for crown or solar corona) like appearance under the electron microscope.
 
 
-### proteins  
+### coronavirus proteins  
 [in work]
 - structural proteins: used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N stabilizes the RNA
 - diminish host defence
@@ -514,7 +525,7 @@ The membrane is spherical and consists of structural proteins coated in a lipid 
 - cleavage other proteins and RNA [to check]
 
 
-## coronaviruses species
+### coronaviruses species
 [in work]
 #### sars-cov-1
 Betacoronavirus identified causing Sars in 2003/2004.
@@ -931,27 +942,27 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
 * semi specific e.g.:
     - intracellular processes from eukaryotes targeting single stranded DNA
     - membranes: only permeable for specific substances
-* specific: 
-    - antibodies: bind to specific proteins and thereby inactivate or mark them
-    - Trained T cells
-    - RNA pieces silencing mRNAs / other RNAs
+* specific:     
+    Some of the biological immune mechanisms are specific
+    - constant targeting through lifetime
+        * RNA pieces silencing mRNAs / other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
+    - variable targeting through lifetime: [variable immune system](#variable-immune-system)
+        
+    
 
-
-### innate/general immune system 
-[in rework]
-The unspecific part is the larger part. It consists of variety of mechanism:
-* the skin protecting large parts of the body 
-* mucus in various parts of the body. 
-
-### specific/trained immune system 
-[in rework]
+#### variable immune system
 A collection of immune cells which can target substances which have been learned to be unwanted, where unwanted can mean: 
 - foreign substances
 - cells that are considered out of order
 - things recognized as being harmful. These are often specific parts of proteins. 
 
+##### Examples
+* antibodies: bind to specific proteins and thereby inactivate or mark them
+* Trained T cells
+
+
 ### adaption of the immune system
-The above immune reactions depend both on the personal history of exposure to pathogens and the one, ones the anchestors have been exposed to (genetic adaption)
+The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the anchestors have been exposed to (genetic adaption)
 * personal history of exposure to antigens experienced to be harmful: E.g. antigens similar the Sars-Cov-2 yields cells capable of producing targeted antibodies
 * personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
 
@@ -1002,16 +1013,6 @@ All form of life on earth share common molecular patterns. The more genetically 
 * [Infection Tropism and Disease Patterns](#infection-tropism)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
-
-
-## Tropism of Sars-CoV-2
-Both evolutionary drive and biological constraints yield the tropism of coronaviruses. Key factors are:
-* cell types and the corresponding biochemistry inside the cells
-* environmental factors around the cell determines entry and exit:
-    - chemical environment
-    - biological environment: Virions are activated for cell entry by specific proteins
-    - physical environment
-
 
 
 <p id="infection-tropism"> -----</p>
