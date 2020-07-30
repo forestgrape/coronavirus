@@ -514,14 +514,18 @@ The membrane is spherical and consists of structural proteins coated in a lipid 
 - cleavage other proteins and RNA [to check]
 
 
-## Coronaviruses species
+## coronaviruses species
 [in work]
-#### sars
+#### sars-cov-1
 Betacoronavirus identified causing Sars in 2003/2004.
+* yields mainly lower respiratory tract infections
 #### sars-cov-2
-Betacoronavirus identified causing the current Covid-19 pandemics. 
+Betacoronavirus identified causing the current Covid-19 pandemics. A focus of this page and many sections contain special notes about features of Sars-CoV-2.  
 ### mers-cov
 Betacoronavirus identified causing MERS. 
+* It infects mainly cells in the deep lungs (bronchi and alveolis). 
+* The natural hosts are dromedary camels. 
+* the main spreading events all have been observed in extremely dry air. 
 ### bovine coronaviruses
 Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
 
@@ -664,7 +668,7 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 > *Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how organisms behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.
 
-> In literature, the term tropism of viruses is sometimes used more narrowly: which cells and tissues are suspectible to infection. 
+> In literature, the term tropism of viruses is sometimes used more narrowly: which cells and tissues are suspectible to infection or in which an infection is observed. Here, for observed infections the term habitat is used. 
 
 Questions relevant for the tropism of coronaviruses:
 * To which receptors under which conditions the virions attach? 
@@ -741,19 +745,17 @@ For viruses in natural equilibrium, the cells infected are involved in the survi
 
 ## Habitat
 [in rework]
-As outlined in [tropism](#tropism) there are many conditions for a virus to replicate. Since adaption occurs mainly through evolution for viruses, a genetic lineage of a virus replicate only in certain environments. These environments form the habitat of a virus strain:
-><span id='habitat'> The *Habitat* of a virus consists of the locations of interest a virus entity frequently is found: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs and the host organism: us humans </span>
+As outlined in [tropism](#tropism) there is a variety of conditions for a virus to start to metabolism and even more too successfully replicate. These environments form the habitat of a virus strain:
+><span id='habitat'> The *Habitat* of a virus are the locations which are frequently infected: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs and the host organism: us humans </span>
 
-### organisms habitat:hosts
-The organisms part of a virus habitat are called hosts:
-
+### organisms habitat aka hosts
+The organisms forming the habitat are called hosts:
 ><span id='host'>A *host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently and are relevant for the spread of the virus i.e. are part of the life cycle.</span>
 
 ><span id='endemic'> A virus strain is *endemic* in a collection of organisms if that collection is a habitat of the virus.</span>
 
 Sometimes it is helpful to name frequently infected organism which play no role in the virus spread:
 ><span id='side-host'>A *Side Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot replicate effienctly or the virions cannot leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host</span> 
-
 
 ### conquering new habitats
 The virus can get attached to a cell types or hosts the given strain which are not part of its current habitat. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a lineage of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occurred. Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
@@ -810,15 +812,30 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 
 #### ace2 receptor distribution
 There are two common methods to measure tissue distribution of proteins:
-* _antibody staining_: to detect ACE2 an anti-ACE2 antibody. Detects proteins on cell surfaces, however they just can be attached to the cell without being built into the cell membrane. . Used in the work of [Timens](#timens), [McCray](#mccray05) 
-* _detect mRNA_: e.g. ACE2 mRNA. Necessary condition for local protein expression. However not sufficient for ACE2 on apical cell surface [to check]. The mRNA expression across the human body is shown in  [Li et al](#li).
+* ##### antibody staining
+    detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05) 
+* ##### measure mrna
+    Measure ACE2 mRNA expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
-For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. Moreover since coronaviruses have a preference for [aptical tissue sites](#tissue-tropism)
+##### caveats of ace2 detection
+[in work, verification needed]
+For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. Moreover since coronaviruses have a preference for [aptical tissue sites](#tissue-tropism) the ACE2 should be expressed on the apical sites. 
+* [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
+* [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
+    - stay in the cell i.e. in cytoplasm or more into the nucleus
+    - be released from the cell
+    - being built into the cell membrane as a receptor on any site. 
+    
 
-ACE2 is apically expressed 
-* in the lower respiratory tract:<br>
+
+
+
+ACE2 is apically available 
+* in the lower respiratory tract
     - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
-    - alveolar epithelial type 2 cells [to check/find citation]. 
+    - alveolar epithelial type 2 cells [to check/find citation].
+
+ 
 * in the upper respiratory tract
     - the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
     - goblet cells[todo: other cells (goblet) too in rework]
@@ -1378,11 +1395,11 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 #### humidity related death rates
 
-* Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which have a good health care system and do widespread testing ([data specifications](#data-specifications)). 
+* Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which all have a good health care system and do widespread testing ([data specifications](#data-specifications)). 
     - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
     - __Remark__: Mucus clearance may not be the only reason for lower death rates in humid air, but also that [Dry Form Infection](#abstract) and aerosol infection is less likely and therefore Covid-19 starts more in the upper respiratory tract than in the bronchi or alveolis. 
 
-* In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals. This data is consistent and even preferred to analyse to impact of humidity ([data specifications](#data specifications)). 
+* In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals and not the total number of deaths. In this case the data is consistent and the treatment schemes tend to be more uniform for people in hospitals, so to analyse to impact of humidity this data is suited for analysis ([data specifications](#data specifications)). 
 
 
 
@@ -1414,15 +1431,13 @@ Overall the argumentation provides evidence, that the most relevant transmission
 Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
 
 
-
-
 <p id="model">-----</p>
 
 ## Models for Transmission
 
 In the following, a new model of dry form transmission of Sars-CoV-1 and Sars-CoV-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#habitat-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).
 
-In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form so the dry form infection is possible in theory.
+In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form, so dry form infection is possible in theory.
 
 The newly proposed infection:
 * Dry particulates in air -> Lung
@@ -1546,9 +1561,6 @@ Traditional methods: Model the respiratory tract as a static pipe system and do 
 The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are achieved, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally many simplifications of relevant [particles deposition](#particles-deposition) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size aerosol droplets.
 
 
-
-
-
 #### Experiments
 
 - Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
@@ -1586,23 +1598,30 @@ In confined settings without special protection reproduction numbers well above 
 
 
 * Sars-CoV-2:
-	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto). This setting well investigated by Mizumoto and colleagues favours airborne over droplet transmission and even slightly favours Dry Form over aerosol transmission since the Covid-19 spread started between passengers and not equally between passengers and personal:
-        * In the droplet model, one would except the personal as a angle and starting point, since they have the most close contacts, which drive droplet transmission. 
+	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto). This setting well investigated by Mizumoto and colleagues. Observations:
+        * Covid-19 spread started between passengers and not equally between passengers and personal.
+        * very high peak values of the reproduction number are observed (over 10)
+        
+        The observations favour long range but same room transmission (aerosol and dry form transmission) over droplet transmission and slighly indicate dry form transmission:
+        * In the droplet model, one would except the personal as a angle and starting point, since they have the most short range contacts, which enable droplet transmission. 
         * In the aerosol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
         * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected since they spend the time in the same areas. 
 	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
 	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
 	- Hospitals in Nothern Italy [LE](#le)
-	Mers-Cov:
-	- Main spreading in Winter season and in generally dry areas.
-The primary spreading in very dry (indoor) areas would also explain why the described coronaviruses diseases occurred recently, even though overall hygiene increased.  
 
-
-* In settings without prior SARS experience the infection rate in health care workers is very high:
+* SARS 1 & 2: 
+    In settings without prior SARS experience the infection rate in health care workers is very high:
 	* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
 	* 2019/2020 in Europe - Italy especially [LE](#le)<br>
 	
-	Possible Explanation: The medical staff is used to protect against aerosol infections and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citation to be added]).
+	Possible Explanation: The medical staff is used to protect against fomite and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
+
+* Mers-Cov:
+	Main spreading in Winter season and in generally dry areas.
+The primary spreading in very dry (indoor) areas would also explain why the described coronaviruses diseases occurred recently, even though overall hygiene increased.  
+
+
     
     
     
@@ -1623,8 +1642,6 @@ Just smelling would be the theoretical possibility of an infection. But for the 
 Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. Outside no worry for Sars-CoV-2 however, it is diluted and sun light destroys virions. 
 
 This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  particulates above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but likely it is attached so some organic material[to check and cite]). Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Measures in more detail are found in [Protection Measures](#measures). 
-
-
 
 
 
@@ -1896,6 +1913,11 @@ TODO UPDATE REFERENCES
     Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., & Chen, Q. (2020). 
     **High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.** 
     International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
+
+* ##### soilleux & poehlmann
+    Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
+    **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
+    PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
      
      
 
