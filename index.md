@@ -100,7 +100,7 @@ Time to act mindfully and work together in an open and honest way.
 ### Sars-CoV-2 transmission 
 * can happen in situation when bad breath/reek of alcohol is smelled. E.g. there can be droplet exchange when close range face-to-face talking and thus a transmission possibility.
 * can be smoke-like, especially in indoor places with dry air. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
->>>>>>> infection-tropism
+
 
 ### Thoughts how to reduce Covid-19 infection risk and paths
 > Remark: The following advices were written mostly in mid march when Covid-19 induced ARDS/SARS disease patterns peaked in Europe. Updates in work.  
