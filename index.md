@@ -911,8 +911,8 @@ Nearly all forms of life have some immune mechanisms. Even viruses encode protei
 
 A lot of completely different immune mechanism have evolved in the different forms of life. Immune mechanism can be classified according to various criteria:
 - [protection locations](#protection-locations): local or global
-- [immune mechanism](#immune-mechanism): physical, biological or chemical
-- [immune specificity](immune-specificity): 
+- [immune system mechanism](#immune-system-mechanisms): physical, biological or chemical
+- [immune system specificity](#immune-system-specificity): 
     Which and how substances and forms of life are recognized and targeted. 
 
 
@@ -922,7 +922,7 @@ Immune responses can be global (affecting the entire body), local for some tissu
 * tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
 * cell level (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
-## immune mechanisms
+## immune system mechanisms
 [in work and incomplete]
 ### physical protections
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
@@ -936,7 +936,7 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
 ### biochemical part
 * antibodies target specifi structures of proteins
 
-## immune specificity
+## immune system specificity
 [in work]
 > There are many possible degrees of specificity, the following categories are just a coarse approximation.
 
