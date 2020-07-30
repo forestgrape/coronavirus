@@ -54,8 +54,10 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-- 30.7. Updates accross the page 
-- 27.7. Disease pattering 
+- 30.7. Updates and corrections accross the page in work:
+	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease pattering](#infection-tropism)
+	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid clima. This has changed. 
+- 27.7. [Disease pattering](#infection-tropism)
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
