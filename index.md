@@ -3,21 +3,22 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* **Updates** in progress. Much content is even more experimental. 
+* **Updates** in progress. Much content even more experimental!
 * This page is hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)<br> and is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview
 * This is work in progress, so mistakes of any form are likely. Parts with are currently in work/provisional are usually commented with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
-* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. Thus just a thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For copy & paste like rewriting attribution is appropriate.<br>
-<!--In short: copy paste like needs attribution. For inspiration, thanks are enough and welcome. -->
-
-<!--
-* This page is written for people, who like and are used to __critically analyze__ concepts and ideas. Good knowledge in [natural] sciences and a lot of time to read resources is helpful. -->
+* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
+* A thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For copy & paste like rewriting attribution is appropriate. <!--Summarized: copy paste like needs attribution. For inspiration, thanks are enough and welcome. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
-<!-- * The page is going to be split up into different topics. -->
 
-<p id="t-content">-----</p> <!-- workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and so the title is all lower case. -->
+> Definitions are denoted like this and are valid throughout this page. Sometimes only throughout this page.
+
+> Comments, often subjective, are formatted the same. Distinction is done by context/content.
+
+
+<p id="t-content">-----</p> <!-- workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
 
 ## Content
 
@@ -31,7 +32,15 @@
     * [risk assessment](#risk-assessment)   
     * [Monitor](#monitor)
     * [Data Availability](#data)
-* [Coronaviruses with a Focus on Sars-CoV-2](#coronaviruses)
+* [Coronaviruses with a Focus on Sars-CoV-2](#coronaviruses)- 
+    - [Introduction to Life](#intro-to-life)
+    - [Introduction to Viruses](#intro-to-viruses)
+    - [Introduction to Coronaviruses](#intro-to-coronaviruses)
+    - [Life Cycle](#life-cycle) 
+    - [Tropism](#tropism)
+    - [Habitat](#habitat)
+    - [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
+    - [Evolution and Adaption](#evolution-and-adaption)
 * [Immune System](#immune-system)
 * [Ideas to Explore](#ideas)
     - [Infection Tropism and Disease patterns](#disease-pattering)
@@ -56,10 +65,12 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
+#### new online
 - 30.7. Updates and corrections accross the page in work/in the process of writing down:
-	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease pattering](#disease-pattering)
-	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid clima. This has changed. 
+	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
+	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid clima. This has changed: the currently circulating strains spread well in humid clima too.  
 - 27.7. [Disease pattering](#disease-pattering)
+#### existing
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
@@ -168,17 +179,17 @@ Keep in mind that the temperature varies during a day and with the activities pe
 # Covid-19
 
 ### public description
-__Remark__: The description given below agrees with the expected pathogenesis of mild cases. However, to put it on a solid basis more cases would need to be considered since it is only based on a couple of first-hand descriptions of mild cases, including - looking back a likely - a posteriori diagnosis of myself: 
+Covid-19 can have many forms it start in the upper respiratory tract and feel similar to a common cold with a sore throat and a runny nose. Loss of smell or taste occur and these are more specific to coronavirus infections. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. But it can also start from within, from the lungs, and so early symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. Most symptoms are not specific to Covid-19, they can have other causes: having eaten something rotten, not having had enough sleep or an infection with other viruses. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
-Covid-19 can be different in from a common upper respiratory disease. It often doesn't start with a sore throat nor with a runny nose, it can start from within, from the lungs. Early symptoms cam include some chill (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. Early symptoms can be too a sore throat or loss of smell/taste - these symptoms can be due to high numbers of viruses are breathed up and reach the mouth and the nose from the lower respiratory tract or the infection is in the upper respiratory tract. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
-
-> Even though I wasn't asymptomatic, the diagnosis was not obvious, at least back then. Partly due to the lack of respiratory symptoms - not a single cough if I recall correctly - and partly the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting one or two days after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
+> I likely had Covid-19 myself in late winter 2020 but temperatures still reaching below 0 in my area. For me the experience was very different from a respiratory disease and diagnosis was not obvious, at least back then. Partly due to the lack of respiratory symptoms - not a single cough if I recall correctly - and partly the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting one or two days after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
 
 ### symptoms
-see the experimental section [disease-pattering](#disease-pattering)
+see the experimental section [disease-pattering](#disease-pattering) 
 
 #### early symptoms
+[in rework]
 * A slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). An increase as low as one degree can indication an infection.
+* loss of smell or taste; sore throat; 
 
 
 ### infection tropism 
@@ -195,8 +206,6 @@ How a virus infection behaves is an interplay of host factors including the host
 
 
 
-
-  
 
 
 <p id="monitor-and-control">-----</p>
@@ -220,19 +229,19 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](#transmission-models). Airborne transmissions can be thought [smoke like](#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
 ### support immune protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. Therefore the most important protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 causes less virulent but there are many more infectious diseases, this should be the main focus. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 causes less virulent but there are many more infectious diseases, this should be the main focus. 
 [in work]
-Proposals to increase the immune system:
+Proposals for good health:
 * providing settings that support good health
     - allow people outside to move
     - enviromental protection including clean air
-* lessen stress
-    - affordable life including basic health care
+* lessen stress 
+    - secure and affordable life including basic health care
     - less pressure overall
 * healthy nutrition 
-* providing information and tips to focus on the immune system and health
+* providing information and tips to focus on health and the immune system
 
-Good health including an intact immune system is important for many reasons. 
+There are many reasons and not just Covid, good health including an intact immune system are important.
 
 
 ### masks
@@ -255,15 +264,15 @@ Common types of masks are:
 #### mask use cases
 * For self protection good fit and a good outside-to-inside filter are important. 
 * In dry air, water droplets shrink, thus fine grained filters are especially important for self protection. 
-* To avoid person to person droplet transmission e.g. when speaking, permanent wearing in these situations is necessary. 
+* To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
 
 #### mask reuse and cleaning
 * wash with a lot of soap/machine wash the mask
 * heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming] [Chan et al.](#chan) have shown that Sars-CoV-1 is inactivated above 50 degrees.
-* if washing or heating is not available, putting the mask to the bright sunlight is an alternative
+* if washing or heating is not available (e.g. camping), putting the mask to the bright sunlight is an alternative in areas with intense sunlight. 
 
 #### mask recommendation
-Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable.
+Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable, since masks are protective. 
 The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
 
 <!--  
@@ -293,13 +302,16 @@ The focus should be on monitoring cases both for disease progression and to figu
 * avoid crowded places
 * instructions how to ventilate the room and flat before opening extern doors
 
-#### isolation
-To reduce spread isolation can be a radical option. 
+#### isolation/home-lockdown
+To reduce spread isolation/home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more finegrained the measures can be. 
 * this option should be used with care since it can discourage people from testing or disclosing socials contacts and travel history. 
-* a complete stay at home order is in my opinion *not* appropriate according to current scientific knowledge and may even be contra-productive: 
-    - going outside is important for an intact immune system and good health. This is important for infected. 
-    - indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk
-    - avoiding indoor or crowded public space is important however
+* there are good reasons against a complete stay at home order in my opinion as of 31.7.2020:
+    - going outside is important for an intact immune system and good health. This is especially important for infected. 
+    - indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk. 
+    - avoiding indoor and crowded public spaces is important however
+
+Isolation may be working for people with own houses with gardens but for people living in big buildings, permanent home stay introduces transmission opportunities.
+
 
 
 
@@ -309,8 +321,8 @@ To reduce spread isolation can be a radical option.
 ## Risk Assessment
 
 ### balancing of measures
-* Monitoring the personal of open(ed) businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
-* Step by Step Adjusting helps to find a balance without sudden big changes. 
+* Monitoring the personal/frequent customers of open(ed) businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job. 
+* Step by Step adjusting helps to find a balance without sudden abrupt changes. 
 * All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage. 
 * Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal. E.g. longterm prohibit visits is likely no solution. 
 
@@ -376,20 +388,21 @@ Today separation of roles can be done faster, easier and in cooperation, thanks 
 For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
 The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world and a worldwide agreement on annotations and publishing of country/region specific specifications would make the data at least partially comparable. 
 
-E.g. In Switzerland, the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group as of 17.4.20. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). On official statistics on the same domain, there is no note about this testing scheme. The data are analysable (since generally consistent) and expressive but just not comparable to countries, where everybody who is sick or even everybody who could be infected is tested.
+E.g. In Switzerland, the testing policy, which is mostly followed, is to test only people who are sick _and_ belong to a risk group as of 17.4.20. This is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are analysable (since generally consistent) and expressive but just not comparable to countries, where everybody who is sick or even everybody who could be infected is tested.
 Remark: As of 1.5.20 more people are allowed to test. 
 
-> Subjective Remark: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor environments. A gradual reopening starting in April makes sense. 
+> Subjective Remark, May 2020: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more evidence is there is, that the virus spreads mainly in dry indoor environments. A gradual reopening starting in April makes sense. 
 Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearly stated. 
 To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view for all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lockdowns step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important. 
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
 
 #### data features
-* For analysis is useful to have as finegrained data as possible i.e. age, medical conditions and locations as accurate as data protections law permits. 
-* Clinical observations well annotated and as complete as possible. Interpretation and analysis are nice to have but not necessary. 
+* For analysis is useful to have as complete, exact and accurate data as possible and data protection laws permit e.g. age, medical conditions and locations.
+* Clinical observations well annotated and as complete as possible. 
+* Interpretation and analysis are nice to have but not necessary. 
 
 #### easy readable
-Data ideally are in a common format (e.g. CSV) on a public API (e.g. GitHub repository/REST API) are annotated e.g. contain a readme with the specifications what and how is measured. 
+Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub repository/REST API) and are annotated e.g. contain a readme with the specifications what and how is measured. 
 
 
 
@@ -400,6 +413,7 @@ Data ideally are in a common format (e.g. CSV) on a public API (e.g. GitHub repo
 [in work]
 This short overview reviews various aspects of coronaviruses. The overview mostly covers topics relevant for other part part of [this site](#home).
 
+- [Introduction to Life](#intro-to-life)
 - [Introduction to Viruses](#intro-to-viruses)
 - [Introduction to Coronaviruses](#intro-to-coronaviruses)
 - [Life Cycle](#life-cycle) 
@@ -414,18 +428,16 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 
 
-<p id="intro-to-viruses">-----<p>
+<p id="intro-to-life">-----<p>
 
-## Introduction to Viruses
-
-> Definitions are denoted like this and are valid throughout this page. Sometimes only throughout this page.
+## Introduction to Life
 
 ### forms of life
 > <span id='form-of-life'> A *form of life* in a given environment is an identifiable  thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called progeny or the next generation. </span>
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
-All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins (all execept [viroids](#viroid)), which catalyze interactions in watery solutions. 
+All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins (execept [viroids](#viroid)), which catalyze interactions in watery solutions. 
 
 The simplest forms of life are:
 > <span id='viroid'>*Viroids* are pieces of RNA able catalyze self reproduction.</span>  
@@ -438,9 +450,10 @@ Proteins are made by ribosomes:
 > <span id='ribosom'> *Ribosomes* read positive sense RNA, called *messenger RNA* or just *mRNA*, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
 
 
-### lifetime storage and decode options
+### lifetime storage
 [in work]
-4 forms of lifetime storage are known to be used on todays earth: 
+4 forms of lifetime storage are known to be used on todays earth. 
+
 * ##### ssRNA
     single stranded RNA: very unstable and difficult and mutation rich duplication both mutations and recombinations occur upon duplication 
 * ##### dsRNA
@@ -450,6 +463,9 @@ Proteins are made by ribosomes:
 * ##### dsDNA
     double stranded DNA: very stable and reliable duplication possible 
 
+Some forms of life alternate the storage formats through their life cycle e.g. retroviruses. 
+
+### storage and decoding
 7 forms of combinations of lifetime storage and decode mechanisms are known to be in use on earth:
 * (+)ssRNA := Single stranded RNA, + sense
 * (-)ssRNA := Single stranded RNA, - sense
@@ -460,7 +476,7 @@ Proteins are made by ribosomes:
 * dsDNA := Double stranded DNA
 
 #### notes on storage
-* only dsDNA forms are able to encode all proteins for their entire metabolism and do photosynthesis on todays earth. All forms using one of the other storage options are thus dependent on dsDNA form and as defined below are called [viruses](#virus).
+* only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other forms are dependent on some enzymes produced by dsDNA forms and as defined below are called [viruses](#virus).
 
 > A *gene* denotes a piece of storage which encodes a single protein. 
 
@@ -483,7 +499,10 @@ Some forms additionally shield their genome by an inner membrane
 * Eukaryotes
 
 
-### Viruses
+<p id="intro-to-viruses">-----<p>
+
+## Introduction to Viruses
+[in work and to be checked]
 > <span id='virus'> A *virus* is a form of life on earth, that can't produce all necessary enzymes for its replication. </span> 
 
 So viruses need to use other forms of life to have a complete metabolism. 
@@ -669,12 +688,11 @@ Realease RNA -- let the host ribosomes translate two ORFs of the viral genome wi
 * polymerase protein (protein capable of transcription of RNA to RNA) <br>
 
 #### metabolism phase 2: replication
-The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template:
--- transcription of (+) RNA --> (-) RNA template<br>
--- transcription of (-) RNA 
-* --> pieces of subgenomic mRNAs which get translated to proteins
-* --> (+) stranded RNA get packed together with the N proteins to form the nucleocapsids of new virions and thus initiating [replication](#replication).
-
+The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the propreties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template mediated by the polymerase protein:<br>
+(+) RNA --transcription--> (-) RNA template<br>
+-- transcription--><br>
+*  pieces of subgenomic mRNAs which get translated to mostly structural proteins (N, S, M, E, [HE])
+*  (+) RNA genomes to get packed together with the N proteins to form the nucleocapsids of new virions and thus initiating [replication](#replication).
 
 
 
@@ -922,7 +940,7 @@ A lot of completely different immune mechanism have evolved in the different for
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
 * entire body (e.g. fever, circulating antibodies or the skin)
 * tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
-* cell level (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
+* cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
 ## immune system mechanisms
 [in work and incomplete]
@@ -933,10 +951,10 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
 * protecting layers: dead cells on the epithelium (e.g. skin)
 
 ### chemical part
-* change of ph
+* change of pH
 
 ### biochemical part
-* antibodies target specifi structures of proteins
+* antibodies target specific structures of proteins
 
 ## immune system specificity
 [in work]
@@ -950,9 +968,9 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
     - membranes: only permeable for specific substances
 * specific:     
     Some of the biological immune mechanisms are specific
-    - constant targeting through lifetime
+    - constant targeting throughout lifetime (can be stored in lifetime storage)
         * RNA pieces silencing mRNAs / other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
-    - variable targeting through lifetime: [variable immune system](#variable-immune-system)
+    - variable targeting throughout lifetime: [variable immune system](#variable-immune-system)
         
     
 
