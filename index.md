@@ -32,7 +32,9 @@
     * [Monitor](#monitor)
     * [Data Availability](#data)
 * [Coronaviruses with a Focus on Sars-CoV-2](#coronaviruses)
+* [Immune System](#immune-system)
 * [Ideas to Explore](#ideas)
+    - [Infection Tropism and Disease patterns](#disease-pattering)
     - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
@@ -93,17 +95,17 @@
 
 ## Public Advice, Suggestions and Thoughts
 [in rework]
-Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects can occur too for other (corona)viruses causing common colds - viruses should'nt be taken lightly. But no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects can occur too for other (corona)viruses causing common colds - awarness for viruses and knowledge what they do and how they can harm or help is important. However no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
 Time to act mindfully and work together in an open and honest way. 
 
 ### Sars-CoV-2 transmission 
-* can happen in situation when bad breath/reek of alcohol is smelled. E.g. there can be droplet exchange when close range face-to-face talking and thus a transmission possibility.
-* can be smoke-like, especially in indoor places with dry air. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+* can happen in situation when bad breath/reek of alcohol is smelled: E.g. droplet exchange when close range face-to-face talking gives a transmission opportunity.
+* can be soot/dust-like, especially in indoor places with dry air. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
 
 ### Thoughts how to reduce Covid-19 infection risk and paths
-> Remark: The following advices were written mostly in mid march when Covid-19 induced ARDS/SARS disease patterns peaked in Europe. Updates in work.  
+> Remark: The following advices were written mostly in early spring 2020 when Sars-Cov-2 induced ARDS/SARS disease patterns peaked in Europe. Updates in work.  
 
 * Wear a mask<br> 
     - for close range face-to-face contact/talking. 
@@ -147,7 +149,7 @@ The more common Covid-19 in a region is, the more likely it is, that an observed
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
 
 
-> It's time [for medicine] to move on from digitalisation and black-white schemes to the continuous colorspace of Bayesian statistics. There's no reason for a hard border for fever at 38 degrees. 
+> It's time [for medicine] to move on from digitalisation and black-white schemes to the continuous colorspace of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees. 
 
 
 - Live a healthy lifestyle 
@@ -170,10 +172,10 @@ __Remark__: The description given below agrees with the expected pathogenesis of
 
 Covid-19 can be different in from a common upper respiratory disease. It often doesn't start with a sore throat nor with a runny nose, it can start from within, from the lungs. Early symptoms cam include some chill (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. However these symptoms are not specific to Covid-19, they can have other causes: Cold air, having eaten something rotten or not having had enough sleep. Early symptoms can be too a sore throat or loss of smell/taste - these symptoms can be due to high numbers of viruses are breathed up and reach the mouth and the nose from the lower respiratory tract or the infection is in the upper respiratory tract. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. Later symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
-> Even though I wasn't asymptomatic, the diagnosis was not obvious, at least back then. Partly due to lack of respiratory symptoms - not a single cough if I recall correctly - and the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting a day after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterward, so the immune system likely not had enough time and resources to control the viruses. 
+> Even though I wasn't asymptomatic, the diagnosis was not obvious, at least back then. Partly due to the lack of respiratory symptoms - not a single cough if I recall correctly - and partly the supposed low prior probability according to official prevalence and partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for one to two days. A temperature increase was there too - up to 35.5 - 36.5 from my normal range at rest 34.5 - 35. But since I didn't record the temperature systematically before, the temperature measurements around 36 degrees were more calming instead of ringing the bells. Symptoms faded. Later, there was a strange sticky feeling in the chest starting one or two days after an intense sport session - at this point, I started seriously considering Covid. Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
 
 ### symptoms
-[in work]
+see the experimental section [disease-pattering](#disease-pattering)
 
 #### early symptoms
 * A slightly increased temperature, often below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). An increase as low as one degree can indication an infection.
@@ -900,9 +902,9 @@ Examples of well conserved proteins for coronaviruses are:
 
 
 
-<p id='immune-protection'>-------</p>
+<p id='immune-system'>-------</p>
 
-# Immune Protection with a Focus on Coronaviruses
+# Immune System
 
 [in work and incomplete] Selected topics of the immune protection relevant for other parts of [this site](#home) are described. 
 > The immune system denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them. 
@@ -1415,7 +1417,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 <p id="abstract">-----</p>
 
 ## Abstract Proposed Dry Form Transmission
-
+[in rework]
 A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-CoV-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
@@ -1425,7 +1427,7 @@ The transmission models described in the literature - a recent recommended revie
 this new model is added:
 * Dry form transmission 
 
-Compared to aerosols - which tend to spread local both in time and space, an example is the scent of a freshly cooked soup -, tiny dry particulates behave smoke like - smoke is a collection of tiny dry particulates diffusing around - so they can diffuse around and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
+Compared to aerosols - which tend to spread local both in time and space, an example is the scent of a freshly cooked soup -, tiny dry particulates behave dust/smoke like - smoke is a collection of tiny dry particulates diffusing around - so they move with the air and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
 
 It is argued 
 * the described properties of dry form transmission explain well the observed transmission patterns for Sars-CoV-1/2. 
@@ -1440,7 +1442,7 @@ Based on the aerosol and dry form transmission models, expected spread patterns 
 
 ## Models for Transmission
 
-In the following, a new model of dry form transmission of Sars-CoV-1 and Sars-CoV-2 is proposed. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#habitat-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).
+In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#habitat-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form, so dry form infection is possible in theory.
 
@@ -1464,7 +1466,7 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [mar
 
 The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
 
-Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-spreading). Remark: Viral load in the upper respiratory tract can be attributed to [depositions](#particles-deposition) of viruses upon exhalation. This is exploited for Covid-19 swab tests in the pharynx. 
+Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-spreading). Remark: Viral load in the upper respiratory tract can be caused by [depositions](#particles-deposition) of viruses upon exhalation. So Covid-19 swab test in the pharynx just detect that there are viruses replicating somewhere in the respiratory tract. 
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
 
