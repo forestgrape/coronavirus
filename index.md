@@ -340,21 +340,30 @@ Outside there is much more air per person than inside:
 (1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person. 
 
 #### virion decay
-Virion decay happens everywhere in the air, in the body, in water. Depending on the location there are different mechanisms:
+Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the virion decay are:
+* the genome is [stored in unstable ssRNA](#ssRNA)
+* the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membrane has not evolved to be stable outside the organism. 
+* virions have no repair mechansim since they don't have a metabolism
+
+Process and situations virions decay:
 - sunlight inactivates virions<br>
-    mainly the UV part destroys RNA. Even stable DNA in the inner layer of the skin,  protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin). 
+    mainly the UV part destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin). 
 - heat<br>
-    particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan 2011](#chan).
-- disintegration/decay<br>
+    particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan et al 2011](#chan).
+- disintegration<br>
+    * digestive enzymes from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary disintegrate the envelope
+    * soap destroys the lipid membrane
+- decay<br>
     * single stranded RNA is unstable and thus even under optimal conditions virions have a probability to decay
-    * virion have no repair mechansim since they don't have a metabolism
-    * digestion through other organisms e.g. bacteria
+    
+    
+
 
 #### virion clearance
 Virion are cleared from the air by the mechanism below.  and due to [virion decay](#virion-decay) there's no accumulation.
-- [virion decay](#virion-decay) in air which occurs mainly through sun light
+- [virion decay](#virion-decay) in air: occurs mainly through sun light
 - condensation 
-- rainfall
+- washed out by rain
 - virion attachment to non infectable materials (which is nearly everthing except a tiny fraction of cells in the scarce hosts) 
     * earth
     * water
@@ -455,18 +464,26 @@ Proteins are made by ribosomes:
 4 forms of lifetime storage are known to be used on todays earth. 
 
 * ##### ssRNA
-    single stranded RNA: very unstable and difficult and mutation rich duplication both mutations and recombinations occur upon duplication 
+    single stranded RNA:
+    - unstable 
+    - difficult and mutation rich duplication 
+    - recombinations are possible upon duplication  
 * ##### dsRNA
-    double standed RNA: unstable, duplication somewhat reliable possible
+    double standed RNA: 
+    - unstable
+    - somewhat reliable duplication possible
 * ##### ssDNA
-    single stranded DNA: hard to duplicate and mediocre stability
+    single stranded DNA: 
+    - difficult to reliable duplicate
+    - mediocre stability
 * ##### dsDNA
-    double stranded DNA: very stable and reliable duplication possible 
-
-Some forms of life alternate the storage formats through their life cycle e.g. retroviruses. 
+    double stranded DNA: 
+    - very stable
+    - reliable duplication possible 
+ 
 
 ### storage and decoding
-7 forms of combinations of lifetime storage and decode mechanisms are known to be in use on earth:
+7 forms of combinations of lifetime storage and decode mechanisms are known to be in use on earth, known as Baltimore classification:
 * (+)ssRNA := Single stranded RNA, + sense
 * (-)ssRNA := Single stranded RNA, - sense
 * ssDNA := Single-strand DNA
@@ -477,6 +494,7 @@ Some forms of life alternate the storage formats through their life cycle e.g. r
 
 #### notes on storage
 * only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other forms are dependent on some enzymes produced by dsDNA forms and as defined below are called [viruses](#virus).
+* Some forms of life alternate the storage formats through their life cycle: ssRNA-RT (retroviruses).
 
 > A *gene* denotes a piece of storage which encodes a single protein. 
 
@@ -490,8 +508,8 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 
 ### cell forming life
 [in work]
-All forms of life which encode their entire metabolism are dsDNA based. 
-Further more these forms shield their metabolism by a semipermeable membrane. 
+As noted all forms of life which encode their entire metabolism are dsDNA based. 
+Many [to check if all] of these forms shield their metabolism by a semipermeable membrane. 
 * Prokaryotes 
 * Eukaryotes
 
@@ -522,11 +540,35 @@ Virions are similar to seeds of plants: They don't have a metabolism running and
 
 Once a virus infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
-> <span id='infected-entity'> A entity is called _infected_ by a virus if it contains cells that are infected. Entity can be a tissue, an organ or an organism.</span> 
+> <span id='infected-object'> An object is called _infected_ by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an organism. There are constraints on a [object to be infectable](#tropism-of-coronaviruses).</span> 
 
-> <span id='infectable-entity'> A _infectable entity_ is an entity which can become [infected](#infected-entity). Entity can be a tissue, an organ or an organism.  There are constraints on a [entity to be infectable](#tropism).</span>
+So an organism is infected if it has some cells that are [infected](#infected-cell).
 
-><span id='infectable-organism'> An *Infectable organism* is just a a special case of an [infectable entity](#infectable-entity) where the entity is an organism. This means cells in the animal are [infected](#infected-cell) by the virus. </span>
+> <span id='infectable-object'> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.</span>
+
+### Virus Entity
+[in work and experimental]
+For many biological questions regarding multicellular organism it makes sense to consider them as a whole and not the single cells. This since the cells communicate and differentiate to form more capable organism. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.<br>
+Similarly for viruses infecting organisms often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. they still show different behaviours in different cells and upon different situations:
+* DNA viruses can in theory encode the same differentiation mechanism as eukaryotes
+* RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviours](#tropism-of-coronaviruses). 
+<!--
+> A virus entity denotes all viruses contributing to a viral infection in an organism.--> 
+
+> <span id='virus-entity'>A *Virus Entity* denotes all viruses in an organism resulting from a single infection occurence. Upon a new infection the infections can interact and give rise to a *new entity*. </span>
+
+Similar to the different cells in multicellular organism only few viruses in a virus entitiy are likely to infect new hosts and thereby form a new entity. 
+
+> // Virus entities are a concept haven't read about in literature. Similar concepts may exists possibly under different names. 
+
+#### life cycle of virus entities
+In outside living vertebrate hosts, the typical life cycle of a coronavirus entity is [citations and argumentation in work]:
+* enter the respiratory system
+* spread to the lower respiratory tract and replicate to high titers (often in ciliated epithelial cells) 
+* dimish parts of the host immune system
+* reach the intestine (or sometimes the kidney) by spreading through blood or through the alimentary tract via stomach
+* establish a possibly longer lasting infection in the intestine(/kidney) and contineously have progeny released
+* progeny: the virions get transported by wind or water to new susceptible hosts
 
 
 
@@ -667,7 +709,7 @@ The probability to reach a *next* exploitable host, is especially low, due to ma
 
 #### cell entry
 - the virus gets attached to the matching receptor on the target cell mostly via the spike protein
-- fusion of the viral envelope with host cell membranes if primed: 
+- fusion of the viral envelope with host cell membranes once [primed]: 
     * initiated by the fusionpeptides of the spike protein 
     * which in turn is driven by the conformational energy of the spike protein, 
     * which is released upon cleavage at specific cleavage sites
@@ -716,20 +758,21 @@ Both evolution and biological constraints yield the tropism of viruses. Evolutio
     - biochemistry inside the cells
 * environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
     - physical environment: e.g. temperature
-    - chemical environment: e.g. PH value
+    - chemical environment: e.g. pH value
     - biological environment: e.g. Virions are primed for cell entry by specific proteins
     
 
 
 ### tropism virion phase
- 
+
+Plant seeds evolved first to travel and then to be activated under favourable conditions for growth, at least as much as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell fusion and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on the cell membrane and proteases available. 
 <!--#### virion attachment-->
+
 #### virion attachment and activation
-Plant seeds evolved to be activated under favourable conditions for growth, at least as much as the seeds are able to check the conditions: seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surounding water to start their metabolism. Similarly virions need to be activated to initiate cell fusion and thereby initiate the [metabolic phase](#metabolic-phase). Where as plants need mainly the right physical and chemical conditions to growth, viruses need the right biological conditions.
-* matching receptor
-To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane, this step is often initiated by cleavage of the spike protein which then turns into a 'key' for fusion with the cell membrane.
+To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane. This step is often initiated by cleavage of the spike protein which yields fusion with the cell membrane.
 * enviromenment around the cell
     - The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
+* matching receptor
 
 
 ### metabolic phase tropism
@@ -738,7 +781,6 @@ To enter a cell a virus uses its spike protein, which first serves as a grapplin
 * ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
 * immune system cells are infected but usually aptosis is induced before replication takes place. 
 [todo: search&read]
-
 
 #### conditions inside the cell
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
@@ -758,7 +800,6 @@ For viruses in natural equilibrium, the cells infected are involved in the survi
 * cells relevant to leave a host. Often these are cells in the intestine or the kidney. For indoor living hosts these are 
 * cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dentritic and T cells) and induce aptosis. 
 
-
 #### cell tropism of sars-cov-2
 [in work]
 * efficient replication
@@ -774,6 +815,7 @@ For viruses in natural equilibrium, the cells infected are involved in the survi
 ### tissue tropism
 * coronaviruses are often is tissues with large aptical surface and the [virions are released](#orientation-matters) again on the aptical side to spread via the covering fluids. 
 * coronaviruses are to big to diffuse effiently inside tissues [to verify].
+
 
 
 <p id='section-habitat'>-----</p>
@@ -860,17 +902,12 @@ For serving as an entry point, ACE2 should be built into the cell membrane as a 
     - stay in the cell i.e. in cytoplasm or more into the nucleus
     - be released from the cell
     - being built into the cell membrane as a receptor on any site. 
-    
-
-
-
 
 ACE2 is apically available 
 * in the lower respiratory tract
     - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
     - alveolar epithelial type 2 cells [to check/find citation].
 
- 
 * in the upper respiratory tract
     - the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
     - goblet cells[todo: other cells (goblet) too in rework]
@@ -897,7 +934,7 @@ The genetic evolution of coronaviruses is fast compared to other forms of life b
 * properties of their RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
     - RNA-dependent RNA polymerase, which yields a high rate of random point mutations compared to DNA polymerases, which generally have better proofreading capabilities. 
     - a homologous recombination mechanism. 
-* Genome is encoded in RNA and not in DNA
+* Genome is [encoded in RNA and not in DNA](#lifetime-storage) 
 
 Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Coronaviruses can adapt fast to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
 [in work]
@@ -915,8 +952,6 @@ Examples of well conserved proteins for coronaviruses are:
 
 ### changing patterns
 [in work]
-
-
 
 
 
@@ -1002,12 +1037,17 @@ The entire immune system adapts the way and strength of protection provided at e
     - phagocytize 
     - inactivate with antibodies
 ### prevent unwanted metabolisms
+
 #### self checks
-- self checks of the cells: inside the cells there are various systems to keep to cells metabolism immune
+Self checks of the cells: inside the cells there are various systems to keep to cells metabolism immune
+
 #### extern checks
 Cells present what they produce on the outside: T cells inspect these substances and can induce aptosis or ring the bells. In fighting coronaviruses T cells play a key role [citations in work].
+
 ##### t cells
 T cells are in the blood and locally in tissues. 
+T cells play a central role in checking if cells do what they are supposed to do. Virus infected have a changed metabolism and often produce many virions, which can be [detected by T cells](#extern-checks). To control coronaviruses infections T cells are key [citation coming].
+
 > *Tissue resident T cells* or just *local T cells* are T cells which survey the tissues cells integrity. They are located especially at commonly observed entry points of metabolism changing pathogens which mostly are viruses. 
 
 
@@ -1067,12 +1107,70 @@ Namely the following hypotheses are discussed:
     - the host immune system and its experience with the virus strain
 * The pathogenesis, possible complications and the optimal treatment depend on the infection patterns. 
 
-### infections caused by human coronaviruses
-[raw form coming soon]
+### Infections caused by Human Coronaviruses
+Infection Type| Coronavirus  | Symptoms | Immune_response | possible Complications | Infection Path | Notes
+--------------|--------------|----------|---------------|------------------------|---------------|----
+URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Sore throat, upper cough, sneezing | often local response (Tissue resident T cells), sometimes antibodies |  LRI, possibly longer lasting infection, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide. 
+LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available, else anitbody response, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death, EI| aerosol, dry form | mainly in dry air since in humid air less likely to reach LR, the lung surface is big so lots of space to spread
+EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| T cell response | - | through viraemia, through alimentary either by URI or by oral intake| Adequate immune response likely
+
+* The coronaviruses directly emerging from zoonoses from wild/outside animals Sars-CoV-1 and MERS-CoV cause mainly LRI and spread to the intestine. In wild animals this is the [way to spread and survive](#life-cycle-of-virus-entities). 
+* The coronaviruses well adapted to our 'modern' way of life with dense population and in indoor rooms mainly infect to upper respiratory tract and ignore the intestine. 
+
+> The origin of Sars-CoV-1 is unclear: Related viruses are found in bats and even more similar in civet cats. However seroprevalence of antibodies in civet cats suggest that Sars-CoV-1 is not endemic to civet cats and thus there was a jump to civet cats around the same time (2002) when Sars-CoV-1 jumped to humans. [citations in work]
+
+> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming orign with frequent and even persistent infections of farmers seems possible. Goats or sheeps could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market would goes in line with a farming orign: Rare severe cases in rural areas may not rung the bells, however a severe lung disease in a live-animal-market triggered more thourough investigations resulting in the discovery of Sars-CoV-2. [in consideration/thinking]
+
+
+
+
 ### diseases caused by the bovine coronavirus
 [raw form coming soon]
-### infection patterns caused by sars-cov-2
-[raw form coming soon]
+
+
+
+### Infections caused by Sars-CoV-2
+[in work]
+
+<br>
+Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the locations.
+
+#### infection locations and immune responses
+[in work and partly **estimated/guessed**, citations coming/in search]
+
+Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ possible complications | Infection Path |
+----|----|----|----|----|----
+URI| Nose (nasal cavity / nasopharynx)| sneezing, loss of smell, headache, red eyes (especially if mask open towards the eyes)  |runny nose (mucus), local T cells |  LRI, local spread| aerosol
+URI| Mouth (oropharynx) | loss of taste | local T cells|  (LRI), (spread through olfactory route could occur)| droplet, direct contact, (indirect contact)
+URI| Throat (laryngopharynx) |sore throat, upper cough | inflammation, local T cells|  LRI| droplet, aerosol
+LRI | bronchi | strange feeling in the lungs, shortness of breath, fever, dry cough | anitbodies, fever, inflammation of lung areas | ARDS which can cause death, distribution throughout the lungs, (viraemia)| fine aerosol, dry form 
+LRI | alveoli | strange feeling in the lungs, shortness of breath, fever, feeling sick | anitbodies, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death and spread to many organs| fine aerosol, dry form 
+
+
+
+#### not infectable locations
+Not infecteble since no ACE2 and thus the symptoms from the corresponding location indicate an agent other than Sars-2
+Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ possible complications | Notes
+--------------|--------------|----------|---------------|------------------------|---------------
+MRI| Vocal folds | hoarse | - | no ACE2 cells thus no virus replication |
+LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#ace2-receptor-distribution) thus no replication| viral load in sputum due to deposition 
+
+
+#### Ressources/  Readings
+[in work]
+> Many concepts in this section are raw ideas and often not 1-1 in literature. A lot of excellent papers provided observations, inspiration and sometimes similar ideas founding the ideas here.
+
+* ##### Review Epdemiology, Genetic Recombination, and Pathogenesis of Coronaviruses; S Su, Y Bi, G Gao et al
+    - Table 1: comparison of the infection caused by the HCoVs 229E, OC43, Sars-CoV, NL63, HKU1, MERS-CoV 
+    
+
+* ##### Virological assessment of hospitalized patients with COVID-2019; R Woelfel, C Drosten, C Wendtner et al
+    - Figure 2: Viral load kinetics in Swab, Sputum and Stool and seroconversions
+
+* more coming
+
+
+
 
 
 <p id="litvac2"> -----</p>
@@ -1676,11 +1774,12 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 # References
 
 #### Note 
-* The references are named by the correspondence author, the primary authors or a descriptive tag. 
 * References are grouped by topic. If several topics apply, one has been chosen. 
 * Sometimes reviews or remarks in introductions are referred which point further to the original work/articles. 
+* The references are named by the correspondence author, the primary authors or a descriptive tag. [todo more consistent naming]
 
-  
+> The correspondence author often are the head of the group/professors and tend to do research for a long time in the same area and topic. Further they often are responsible for the design and setup of the research. For these reasons the naming is done by the correspondence authors. Studies carried out in 2020 are often named: first author followed by the correspondence authors.
+
 
 <!--
 
