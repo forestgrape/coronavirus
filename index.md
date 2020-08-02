@@ -3,7 +3,7 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* **Updates** in progress. Much content even more experimental!
+* [**Updates**](#updates) in progress. Much content even more experimental!
 * This page is hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)<br> and is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview
 * This is work in progress, so mistakes of any form are likely. Parts with are currently in work/provisional are usually commented with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
@@ -66,6 +66,7 @@
 
 ## Updates and Added Content
 #### new online
+- 2.8. Sections added to section Disease Patterns
 - 30.7. Updates and corrections accross the page in work/in the process of writing down:
 	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid clima. This has changed: the currently circulating strains spread well in humid clima too.  
