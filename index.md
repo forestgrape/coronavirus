@@ -13,9 +13,9 @@
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
-> Definitions are denoted like this and are valid throughout this page. Sometimes only throughout this page.
+> *Definitions* are written like this and are valid throughout this page. Sometimes only throughout this page.
 
-> Comments, often subjective, are formatted the same. Distinction is done by context/content.
+> *Comments*, often subjective, are formatted the same, but may start with programming style // to mark them. Otherwise distinction is done by context/content. 
 
 
 <p id="t-content">-----</p> <!-- workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
@@ -51,7 +51,8 @@
 * [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](#transmission-models) <br> 
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
-    - [Model](#model)
+    - [Transmission Models](#models)
+    - [Dry Form Model](#dry-form-model)
     - [Intermezzo Particle Dynamics in the Respiratory Tract](#particles)       
     - [Evidence for the Dry Form Transmission Model](#evidence)
         * [Evidence from Biological Properties](#biological-properties)
@@ -889,6 +890,7 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 * In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
 #### ace2 receptor distribution
+[**in rework**]
 There are two common methods to measure tissue distribution of proteins:
 * ##### antibody staining
     detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05) 
@@ -932,12 +934,13 @@ That in swab tests there are viruses in the nose and the mouth can be either cau
 ## Evolution and Adaption
 The genetic evolution of coronaviruses is fast compared to other forms of life because:
 * a short average generation-time (only a few hours [to be confirmed]) 
-* properties of their RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
+* properties of RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
     - RNA-dependent RNA polymerase, which yields a high rate of random point mutations compared to DNA polymerases, which generally have better proofreading capabilities. 
     - a homologous recombination mechanism. 
 * Genome is [encoded in RNA and not in DNA](#lifetime-storage) 
+* large population size both within hosts and the number of infected hosts (for Sars-CoV-2)
 
-Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Coronaviruses can adapt fast to changed or new environments if given time and opportunity.  They can change the metabolism of the target cells in various ways. 
+Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Coronaviruses can adapt fast to changed or new environments if given time and opportunity.   
 [in work]
 
 ### conserved patterns
@@ -1030,11 +1033,13 @@ The entire immune system adapts the way and strength of protection provided at e
 
 ## immune protections against coronaviruses
 ### prevent target reaching
-- physical: 
+* physical: 
     - skin <- circumvented by coronaviurses by entering via breathing
     - mucus <- less mucus in the lungs and nasal cavity
     - cell membranes <- bind to receptor and fuse membranes with spikes
-- biological:
+* chemical:
+    - stomach acid <- cirumvented by coronaviruses by going via blood or replicate to high numbers and hope some virion sneek through when drinking (when drinking fluids usually don't rest in the stomach)
+* biological:
     - phagocytize 
     - inactivate with antibodies
 ### prevent unwanted metabolisms
@@ -1084,7 +1089,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 ## Infection Tropism and Disease Patterns
 **[in work]**<br>
-### Abstract
+### Abstract Diseas Patterns
 Coronaviruses can cause infections at different locations and thus induce different diseases: 
 * The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
 * The coronaviruses directly emerging from zoonoses from wild/outside animals MERS-CoV and Sars-CoV-1 cause lower respiratory tract infections and frequently spread to the intestine. 
@@ -1109,6 +1114,12 @@ Namely the following hypotheses are discussed:
 * The pathogenesis, possible complications and the optimal treatment depend on the infection patterns. 
 
 ### Infections caused by Human Coronaviruses
+
+##### Abbreviations
+- LRI = lower respiratory infection
+- URI = upper respiratory infection
+- EI = enteric infection
+
 Infection Type| Coronavirus  | Symptoms | Immune_response | possible Complications | Infection Path | Notes
 --------------|--------------|----------|---------------|------------------------|---------------|----
 URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Sore throat, upper cough, sneezing | often local response (Tissue resident T cells), sometimes antibodies |  LRI, possibly longer lasting infection, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide. 
@@ -1120,7 +1131,7 @@ EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| T cell response | - | throu
 
 > The origin of Sars-CoV-1 is unclear: Related viruses are found in bats and even more similar in civet cats. However seroprevalence of antibodies in civet cats suggest that Sars-CoV-1 is not endemic to civet cats and thus there was a jump to civet cats around the same time (2002) when Sars-CoV-1 jumped to humans. [citations in work]
 
-> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming orign with frequent and even persistent infections of farmers seems possible. Goats or sheeps could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market would goes in line with a farming orign: Rare severe cases in rural areas may not rung the bells, however a severe lung disease in a live-animal-market triggered more thourough investigations resulting in the discovery of Sars-CoV-2. [in consideration/thinking]
+> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers seems possible. Goats or sheeps could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market goes in line or a least is no contradiction with a farming orign: Rare severe cases in rural areas may not have rung the bells, however a severe lung disease in a live-animal-market triggered more thourough investigations resulting in the discovery of Sars-CoV-2. Virus discovery is not easy and requires the right settings, the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite being endemic for over 1000 years in case of NL63. MERS got discovered in 2012 but likely human infections have occured before. [citations in work] [in consideration/thinking]
 
 
 
@@ -1131,9 +1142,8 @@ EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| T cell response | - | throu
 
 
 ### Infections caused by Sars-CoV-2
-[in work]
-
-<br>
+[in work]<br>
+Sars-CoV-2 has been observed to cause
 Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the locations.
 
 #### infection locations and immune responses
@@ -1150,16 +1160,17 @@ LRI | alveoli | strange feeling in the lungs, shortness of breath, fever, feelin
 
 
 #### not infectable locations
-Not infecteble since no ACE2 and thus the symptoms from the corresponding location indicate an agent other than Sars-2
+Not infecteble since no ACE2 and thus the symptoms from the corresponding location indicate an **agent other** than Sars-2
+
 Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ possible complications | Notes
 --------------|--------------|----------|---------------|------------------------|---------------
 MRI| Vocal folds | hoarse | - | no ACE2 cells thus no virus replication |
 LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#ace2-receptor-distribution) thus no replication| viral load in sputum due to deposition 
 
 
-#### Ressources/  Readings
+#### Ressources/ Readings
 [in work]
-> Many concepts in this section are raw ideas and often not 1-1 in literature. A lot of excellent papers provided observations, inspiration and sometimes similar ideas founding the ideas here.
+> Many concepts in this section are raw ideas and often not 1-1 in literature. A lot of illustrative papers provided observations, inspiration and sometimes similar ideas founding the ideas here.
 
 * ##### Review Epdemiology, Genetic Recombination, and Pathogenesis of Coronaviruses; S Su, Y Bi, G Gao et al
     - Table 1: comparison of the infection caused by the HCoVs 229E, OC43, Sars-CoV, NL63, HKU1, MERS-CoV 
@@ -1531,7 +1542,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 # Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission 
 
-<p id="abstract">-----</p>
+<p id="abstract-transmissions">-----</p>
 
 ## Abstract Proposed Dry Form Transmission
 [in rework]
@@ -1555,11 +1566,11 @@ Overall the argumentation provides evidence, that the most relevant transmission
 Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
 
 
-<p id="model">-----</p>
+<p id="dry-form-model">-----</p>
 
-## Models for Transmission
-
-In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#habitat-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).
+## Models for Dry Form Transmission
+[in rework]
+In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form, so dry form infection is possible in theory.
 
@@ -1604,6 +1615,11 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 * source can also be indirect. However one has to keep in mind that for the probability to be in two digit percentages there need to be many infectious particulates in the air. 
 
 -->
+
+<!--
+[in work 2.8.]
+## Transmission of Betacoronaviruses
+This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#habitat-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).-->
 
 
 
