@@ -354,12 +354,10 @@ Process and situations virions decay:
     particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan et al 2011](#chan).
 - disintegration<br>
     * digestive enzymes from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary disintegrate the envelope
-    * soap destroys the lipid membrane
+    * soap destroys the lipid envelope and renders virions uninfectable
 - decay<br>
     * single stranded RNA is unstable and thus even under optimal conditions virions have a probability to decay
     
-    
-
 
 #### virion clearance
 Virion are cleared from the air by the mechanism below.  and due to [virion decay](#virion-decay) there's no accumulation.
@@ -444,21 +442,20 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 ## Introduction to Life
 
 ### forms of life
-> <span id='form-of-life'> A *form of life* in a given environment is an identifiable  thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called progeny or the next generation. </span>
+> <span id='form-of-life'> A *form of life* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called *progeny* or *next generation*. </span>
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
-All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins (execept [viroids](#viroid)), which catalyze interactions in watery solutions. 
+All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins (only RNA in the case of [viroids](#viroid)), which catalyze interactions in watery solutions. 
 
 The simplest forms of life are:
 > <span id='viroid'>*Viroids* are pieces of RNA able catalyze self reproduction.</span>  
 
 All other known forms of life also encode enzymes made of proteins:
-> <span id='protein'>*Proteins* are chains of amino acids linked together. i.e. the interaction patterns</protein>
+> <span id='protein'>*Proteins* are chains of amino acids linked together.</protein>
 
 Proteins are made by ribosomes:
-
-> <span id='ribosom'> *Ribosomes* read positive sense RNA, called *messenger RNA* or just *mRNA*, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called *translation*.
+> <span id='ribosome'> *Ribosomes* read positive sense RNA</span>, called <spand id='mRNA'> *messenger RNA* or just *mRNA* </span>, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called <span id='translation'>*translation*</span>.
 
 
 ### lifetime storage
@@ -525,12 +522,12 @@ Some forms additionally shield their genome by an inner membrane
 [in work and to be checked]
 > <span id='virus'> A *virus* is a form of life on earth, that can't produce all necessary enzymes for its replication. </span> 
 
-So viruses need to use other forms of life to have a complete metabolism. 
-Since all molecular independent forms of life on today's earth are cell based, viruses need to interact with cells based forms of life. 
+So viruses need to integrate enzymes provided by other forms of life into their metabolism. 
+Since all known molecular independent forms of life on today's earth are cell based and the metabolisms is inside the cells, viruses need to be within cells for carry out their metabolism. 
 
-> <span id='infected-cell'> A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated. </span>
+> <span id='infected-cell'> A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated and the resulting enzymes are active. </span>
 
-Most cells don't live forever. <!--In the prevalent mulitcellular organisms on average only two halves cell survive.--> Viruses infected cells often die even faster. So viruses need to jump to other cells. To achieve this, most viruses, including coronaviruses, have a 2 phase [life cycle](#life-cycle). 
+Most cells don't live forever (in the prevalent mulitcellular organisms most cells don't survive and only few cells have the change of being part of the single cell giving raise to a descendant [in work]). Viruses infected cells often die even faster. So viruses need to jump to other cells. To achieve this, most viruses, including coronaviruses, have a 2 phase [life cycle](#life-cycle). 
 * Virus phase: Using a cells metabolism to produce proteins and ultimately progeny.
 * Virion phase: Travel, wait and upon match with an [infectable cell](#infectable-cell) induce infection. 
 
@@ -1540,7 +1537,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 <p id="transmission-models">--------</p>
 
-# Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission 
+# Transmission of Betacoronaviruses with Focus on Sars-CoV-2 and a Proposed Dry Form Transmission 
 
 <p id="abstract-transmissions">-----</p>
 
@@ -1549,8 +1546,8 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-CoV-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
-* Droplets
-* Aerosols
+* [Droplets](#droplet)
+* [Aerosols](#aerosol)
 
 this new model is added:
 * Dry form transmission 
@@ -1565,10 +1562,62 @@ Overall the argumentation provides evidence, that the most relevant transmission
 
 Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
 
+<p id="airborne-transmission">-----</p>
+
+## Airborne Transmission 
+    
+### Objects in the Air
+The movement of an object in the air depends on the ratio of its surface divided by its volume.
+<!--
+
+    a = g * E_d + v^2 * k/r * (S_p/V) * E_-v 
+    
+where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of object; r=density of the objet; S_p = surface perpindicular to v; v=movement relative to sourounding air; V=volume; E_d = unit vector pointing downwards; E_-v = unitvector pointing in -v direction
+
+-->
+* ##### small ratio => gravity and initial movement 
+    heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant: Examples are heavy balls in sports, rain droplets or snowballs. 
+* ##### large ratio => go with the air
+    light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the winds. Feathers, dust particles and dry snowflakes are examples.
+
+Of course any movement form inbetween exists too: Footballs and tennis balls have quite a large surfaces compared to their weight, so strong winds influences their movement. Even a larger ratio have table tennis balls. Golf balls on the other hand are less subject to the wind compared to table tennis balls.
+
+##### smaller size => larger ratio
+Since the volume increases in cubic and the surface only in square:
+* Large objects tend to have small ratios
+* Small objects tend to have large ratios
+
+Tiny objects have very large ratios and thus go with the wind. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. This is the case too for very small water droplets that can't seen as single particles: They move with airflow. Since they can't be seen as single particles, they look like dissolved in the air and thus are called aerosols.
+
+##### droplet or aerosol
+> <span id='aerosol'> An *aerosol* is a collection of tiny droplets with a diameter smaller than 5 micro meter. Aerosol comes from Greek aero=air and sol=solvent, since tiny droplet can't be seen and thus look like dissolved in the air. However an aerosol is a bunch of heaps of water molecules possibly including some other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding visibility for our eyes and movement.</span>
+
+The larger droplets keep their name and are just called droplets:
+> <span id='droplet'>*Droplets* in the context of transmission models denote watery particles with a diameter greater equal 5 micro meter. </span>
+
+> // The change both of movement and visibility is contineous and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of milimeters is a coincidence. At least there is no obvious causal connection.  
+
+##### drier & smaller => larger ratio 
+The spherical form yields the smallest surface for a fixed volume. Thus round objects have smaller ratios surface/volume than non round objects. Watery particles tend to have a minimal surface and are roundish, thus the ratio of surface/volume tend to smaller than of the dry particles. E.g. dry leafs, feathers, flour and dust ... all go with the wind. 
+
+
+### overview airborne transmission
+Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls but aerosols mostly move with the air. Tiny and dry particles always go with the air. 
+
+
+Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#particles) and on masks in [Protection Measures](#protection-measures).
+
+Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent              
+---------|------------|-----------------|------------|------|---
+[droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any | Any mask in face-to-face situations, distance 
+[aerosol](#aerosol)  | reek of alcohol, scent of parfum, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humdity but not very dry| (dense-)mask in face-to-face situations and crowded or heated rooms, distance, ventilate
+[dry form](#dry-form-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveolis)  | dry (low relative humidity) e.g. indoor heated| (dense-)mask in heated and (crowded) indoor rooms, ventilate
+
+
 
 <p id="dry-form-model">-----</p>
 
-## Models for Dry Form Transmission
+## Dry Form Transmission Model
 [in rework]
 In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
 
