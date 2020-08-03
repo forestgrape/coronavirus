@@ -473,20 +473,20 @@ Proteins are made by ribosomes:
 [in work]
 4 forms of lifetime storage are known to be used on todays earth. 
 
-* ##### ssRNA
+* ##### ssrna
     single stranded RNA:
     - unstable 
     - difficult and mutation rich duplication 
     - recombinations are possible upon duplication  
-* ##### dsRNA
+* ##### dsrna
     double standed RNA: 
     - unstable
     - somewhat reliable duplication possible
-* ##### ssDNA
+* ##### ssdna
     single stranded DNA: 
     - difficult to reliable duplicate
     - mediocre stability
-* ##### dsDNA
+* ##### dsdna
     double stranded DNA: 
     - very stable
     - reliable duplication possible 
@@ -748,7 +748,7 @@ The metabolism can produce new virions that are released from the cell. The prop
 (+) RNA --transcription--> (-) RNA template<br>
 -- transcription--><br>
 *  pieces of subgenomic mRNAs which get translated to mostly structural proteins (N, S, M, E, [HE])
-*  (+) RNA genomes to get packed together with the N proteins to form the nucleocapsids of new virions and thus initiating [replication](#replication).
+*  (+) RNA genomes to get packed together with the N proteins to form the nucleocapsids of new virions and thus building up new virions.
 
 
 
