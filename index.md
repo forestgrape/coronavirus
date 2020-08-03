@@ -446,7 +446,7 @@ This short overview reviews various aspects of coronaviruses. The overview mostl
 
 
 
-<p id='intro-to-life'>-----<p>
+<p id='intro-to-life'>-----</p>
 
 
 ## Introduction to Life
