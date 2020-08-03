@@ -223,7 +223,7 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
 * [risk assessment](#risk-assessment)
     - [outside is safer](#outside-is-safer)   
 * [Monitor](#monitor)
-* [Data Availability](#data)
+* [Data Handling](#data)
 
 <p id='protection-measures'></p>
 
@@ -306,11 +306,13 @@ The focus should be on monitoring cases both for disease progression and to figu
 
 #### isolation/home-lockdown
 To reduce spread isolation/home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more finegrained the measures can be. 
-* this option should be used with care since it can discourage people from testing or disclosing socials contacts and travel history. 
-* there are good reasons against a complete stay at home order in my opinion as of 31.7.2020:
+* isolation should be used with care since it can discourage people from testing or disclosing socials contacts and travel history. 
+* there are reasons against a complete stay at home order in my opinion as of 31.7.2020:
     - going outside is important for an intact immune system and good health. This is especially important for infected. 
-    - indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk. 
-    - avoiding indoor and crowded public spaces is important however
+    - indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at 
+    risk.
+
+    Avoiding indoor and crowded public spaces is important however.
 
 Isolation may be working for people with own houses with gardens but for people living in big buildings, permanent home stay introduces transmission opportunities.
 
@@ -387,7 +389,15 @@ From time to time full genome samples should be analyzed to monitor evolution of
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
 
-Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free today), annotated and searchable published.
+Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free of costs nowadays), annotated and searchable published.
+
+
+### efficient handling
+In computer/data science it is well known that distributed data handling work best even on computers with only a couple of cores.
+* Map reduce and similar
+* Paradigms enabling parallel data handling
+
+We humans have billions of brains, so with good communication we've got a lot of brain power to tackle any task. 
 
 <!--
 * there are many skilled data scientists around the world. Many spending their time presenting us the most relevant ads. Relevant usually means highest click rate i.e. most distracting. Whether the distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
@@ -452,10 +462,10 @@ The simplest forms of life are:
 > <span id='viroid'>*Viroids* are pieces of RNA able catalyze self reproduction.</span>  
 
 All other known forms of life also encode enzymes made of proteins:
-> <span id='protein'>*Proteins* are chains of amino acids linked together.</protein>
+> <span id='protein'>*Proteins* are amino acids chained together.</protein>
 
 Proteins are made by ribosomes:
-> <span id='ribosome'> *Ribosomes* read positive sense RNA</span>, called <spand id='mRNA'> *messenger RNA* or just *mRNA* </span>, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called <span id='translation'>*translation*</span>.
+> <span id='ribosome'> *Ribosomes* read positive sense RNA</span>, called <spand id='mrna'> *messenger RNA* or just *mRNA* </span>, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called <span id='translation'>*translation*</span> since the mRNA is translated to a protein.
 
 
 ### lifetime storage
@@ -505,6 +515,8 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 * Besides energy mammals including us humans need extern sources for vitamins, essential amino acids, essential fatty acids, ...
 * Many forms of life live in symbiontic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanentely coupled forms of life develop: E.g. mitochondria as cell organelles. 
 
+> Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes/machines. Where as viruses can't produce all needed enzymes/machines
+
 ### cell forming life
 [in work]
 As noted all forms of life which encode their entire metabolism are dsDNA based. 
@@ -522,7 +534,7 @@ Some forms additionally shield their genome by an inner membrane
 [in work and to be checked]
 > <span id='virus'> A *virus* is a form of life on earth, that can't produce all necessary enzymes for its replication. </span> 
 
-So viruses need to integrate enzymes provided by other forms of life into their metabolism. 
+So viruses have to integrate enzymes provided by other forms of life into their metabolism. 
 Since all known molecular independent forms of life on today's earth are cell based and the metabolisms is inside the cells, viruses need to be within cells for carry out their metabolism. 
 
 > <span id='infected-cell'> A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism. These can mean that the virus is replicating inside the cell. But a cell is also called infected if only some viral genes are translated and the resulting enzymes are active. </span>
@@ -892,7 +904,7 @@ There are two common methods to measure tissue distribution of proteins:
 * ##### antibody staining
     detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05) 
 * ##### measure mrna
-    Measure ACE2 mRNA expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
+    Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
 ##### caveats of ace2 detection
 [in work, verification needed]
@@ -1121,15 +1133,16 @@ Infection Type| Coronavirus  | Symptoms | Immune_response | possible Complicatio
 --------------|--------------|----------|---------------|------------------------|---------------|----
 URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Sore throat, upper cough, sneezing | often local response (Tissue resident T cells), sometimes antibodies |  LRI, possibly longer lasting infection, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide. 
 LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available, else anitbody response, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death, EI| aerosol, dry form | mainly in dry air since in humid air less likely to reach LR, the lung surface is big so lots of space to spread
-EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| T cell response | - | through viraemia, through alimentary either by URI or by oral intake| Adequate immune response likely
+EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| local T cell or antibodies | - | through viraemia, through alimentary either by URI or by oral intake| Adequate immune response likely
 
 * The coronaviruses directly emerging from zoonoses from wild/outside animals Sars-CoV-1 and MERS-CoV cause mainly LRI and spread to the intestine. In wild animals this is the [way to spread and survive](#life-cycle-of-virus-entities). 
 * The coronaviruses well adapted to our 'modern' way of life with dense population and in indoor rooms mainly infect to upper respiratory tract and ignore the intestine. 
 
 > The origin of Sars-CoV-1 is unclear: Related viruses are found in bats and even more similar in civet cats. However seroprevalence of antibodies in civet cats suggest that Sars-CoV-1 is not endemic to civet cats and thus there was a jump to civet cats around the same time (2002) when Sars-CoV-1 jumped to humans. [citations in work]
 
-> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers seems possible. Goats or sheeps could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market goes in line or a least is no contradiction with a farming orign: Rare severe cases in rural areas may not have rung the bells, however a severe lung disease in a live-animal-market triggered more thourough investigations resulting in the discovery of Sars-CoV-2. Virus discovery is not easy and requires the right settings, the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite being endemic for over 1000 years in case of NL63. MERS got discovered in 2012 but likely human infections have occured before. [citations in work] [in consideration/thinking]
+> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers seems possible. Goats or sheeps could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market goes in line or a least is no contradiction with a farming orign: Rare severe cases in rural areas may not have rung the bells. However severe lung disease cases connected to a live-animal-market, triggered thourough investigations resulting in the discovery of Sars-CoV-2. 
 
+>Virus discovery is not easy and requires the right settings, the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite being endemic for over 1000 years in case of NL63. MERS got discovered in 2012 but likely human infections have occured long before. [citations in work] [in consideration/thinking]
 
 
 
@@ -1148,7 +1161,7 @@ Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the
 
 Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ possible complications | Infection Path |
 ----|----|----|----|----|----
-URI| Nose (nasal cavity / nasopharynx)| sneezing, loss of smell, headache, red eyes (especially if mask open towards the eyes)  |runny nose (mucus), local T cells |  LRI, local spread| aerosol
+URI| Nose (nasal cavity / nasopharynx)| sneezing, loss of smell, headache, red eyes (especially if mask open towards the eyes)  |runny nose (mucus), local T cells or antibodies |  LRI, local spread| aerosol
 URI| Mouth (oropharynx) | loss of taste | local T cells|  (LRI), (spread through olfactory route could occur)| droplet, direct contact, (indirect contact)
 URI| Throat (laryngopharynx) |sore throat, upper cough | inflammation, local T cells|  LRI| droplet, aerosol
 LRI | bronchi | strange feeling in the lungs, shortness of breath, fever, dry cough | anitbodies, fever, inflammation of lung areas | ARDS which can cause death, distribution throughout the lungs, (viraemia)| fine aerosol, dry form 
@@ -1500,6 +1513,8 @@ The numbers in parenthesis are observation rates in % of (fatal cases, severe ca
     * 34 (9.6%) had a history of stroke
 
 * The Covid-19 fatality rates are higher in cities and especially in cities which are not known for very clean air. Many Covid-19 related deaths are recorded in: Madrid, Milano, Teheran, New York and Wuhan [citation to be added]. According to findings from [Wolff](#wolff) dirty air can reduce the mucus clearance in various ways. 
+
+<p id='influenza'></p>
     
 #### Factors Associated with ADRS in Influenza    
 The following characteristics are observed in the  [paper from Yuen et al.](#yuen):
@@ -1643,9 +1658,12 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [mar
 
 The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
 
+### Sources
 Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-spreading). Remark: Viral load in the upper respiratory tract can be caused by [depositions](#particles-deposition) of viruses upon exhalation. So Covid-19 swab test in the pharynx just detect that there are viruses replicating somewhere in the respiratory tract. 
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
+
+<!--todo deposition of particles with dry form, short summary-->
 
 
 <!--
@@ -1705,19 +1723,19 @@ This section describes how particles are deposited in the respiratory tract. The
 
 ##### deposition factors
 How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
-- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18](#zhong18)])
+- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18](#zhong18)], [varghese](#varghese))
     * Droplets mostly don't enter the lower respiratory tract.
-    * Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-CoV-2 diameter is between 50 and 200 nm) and larger aerosols are well cleared out [to be confirmed and citation to be added]. 
-    * Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells (see section [deposition](#particles-deposition) and less clearance [to be confirmed and citation to be added, work in progress].
+    * Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-CoV-2 diameter is between 50 and 200 nm) and larger aerosols don't enter deep or are well cleared out [to be confirmed and citation to be added]. 
+    * Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress].
 - breathing volume and frequency [hofemeier](#hofemeier)
-- air humidity and how much the air is moistened in the lung. E.g. described in an article by [zhong18](#zhong18)]
+- air humidity and how much the air is moistened in the lung. E.g. described in [zhong18](#zhong18), [varghese](#varghese)]
 - orientation respect to gravity i.e. wether horizontal or vertical
  
 
 ##### deposition locations
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer).
 * Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
-* [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. <!-- todo add varghese-->
+* [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. Similarly observed by [Varghese and Gangamma, Figure 4](#varghese): The alveolar deposition of soluble matter (shown for salt NaCl) between 250 nm and 1000 nm is increased by the particle growth due to moistening in the lungs. In Figure 7 the simulated effect of particle growth on total deposition is compared to measurements in experiments. 
 * The particles depositions aren't equal for the left and right lung and bronchus [Rahimi-Gorji](#rahimi-gorji), [kleinstreuer2017](#kleinstreuer2017)
 * Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
 * [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
@@ -1985,7 +2003,7 @@ TODO UPDATE REFERENCES
     
    
      
-### Phatogenesis and Viral Loads
+### Phatogenesis and Viral Loads Sars-Cov-1
 
 * ##### lau
 	Yu Lung Lau and JS Malik Peiris 
@@ -1998,6 +2016,9 @@ TODO UPDATE REFERENCES
     **Severe acute respiratory syndrom**
     nature medicine, 30 November 2004
     https://doi.org/10.1038/nm1143
+
+
+### Phatogenesis and Viral Loads Sars-Cov-2
     
 * ##### case-series-france
     Francois-Xavier Lescure, Lila Bouadma*, Bruno Lina*, Sylvie van-der-Werf, Yazdan Yazdanpanah et al.
@@ -2006,16 +2027,21 @@ TODO UPDATE REFERENCES
     PublishedOnline
     March 27, 2020 https://doi.org/10.1016/ S1473-3099(20)30200-0<br>
     See Online/Comment https://doi.org/10.1016/ S1473-3099(20)30237-1
+
+* ##### to_tsang
+    Kelvin Kai-Wang To*, Owen Tak-Yin Tsang*, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng, Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen 
+    **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
+    Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
+
+
+
+### Phatogenesis and Viral Loads MERS
     
 * ##### memish
     Ziad A. Memish, Jaffar A. Al-Tawfiq, Hatem Q. Makhdoom, Abdullah Assiri, Raafat F. Alhakeem, Ali Albarrak, Sarah Alsubaie, Abdullah A. Al-Rabeeah, Waleed H. Hajomar, Raheela Hussain, Ali M. Kheyami, Abdullah Almutairi, Esam I. Azhar, Christian Drosten, Simon J. Watson, Paul Kellam, Matthew Cotten, Alimuddin Zumla, 
     **Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome**
     The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
      
-* ##### to_tsang
-    Kelvin Kai-Wang To*, Owen Tak-Yin Tsang*, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng, Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen 
-    **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
-    Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
 
 
 ### Mechanism of Coronavirus Evolution 
@@ -2045,7 +2071,7 @@ TODO UPDATE REFERENCES
     **Biological and genetic characterization of a hemagglutinating coronavirus isolated from a diarrhoeic child.**
     J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
 
-
+### Mechanisms of Evolution
     
 ### Cell Entry
 
@@ -2178,7 +2204,7 @@ TODO UPDATE REFERENCES
  
         
     
-### Clearance of the Respiratory Tract
+### Clearance in the Respiratory Tract
 
 * ##### yuen
      Kelvin K. W. To, Ivan F. N. Hung, Iris W. S. Li, Kar-Lung Lee, Chi-Kwan Koo, Wing-Wa Yan, Raymond Liu,Ka-Ying Ho, Kwok-Hong Chu, Chi-Leung Watt, Wei-Kwang Luk, Kang-Yiu Lai, Fu-Loi Chow, Thomas Mok, Tom Buckley, Jasper F. W. Chan, Samson S. Y. Wong, Bojian Zheng, Honglin Chen, Candy C. Y. Lau, Herman Tse, Vincent C. C. Cheng, Kwok-Hung Chan, Kwok-Yung Yuen, and the Pandemic H1N1 Study Group
@@ -2279,6 +2305,10 @@ TODO UPDATE REFERENCES
     <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
     Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
 
+* ##### varghese
+    Suresh K. Varghese, S. Gangamma
+    **Particle Deposition in Human Respiratory Tract: Effect of Water-Soluble Fraction**
+
 * ##### kleinstreuer 
     Arun V Kolanjiyil, Clement Kleinstreuer, Nicole C Kleinstreuer, Wellington Pham and Ruxana T Sadikot
 	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
@@ -2294,13 +2324,13 @@ TODO UPDATE REFERENCES
     Hindawi BioMed Research International Volume 2018, Article ID 7428609, 15 pages https://doi.org/10.1155/2018/7428609
     
 * ##### zhong18
-    Xiaole Chen, Clement Kleinstreuer, Wenqi Zhong, Yu Feng & Xianguang Zhou (2018) <strong>Effects of thermal airflow and mucus-layer interaction on hygroscopic droplet deposition in a simple mouth–throat model</strong>, Aerosol Science and Technology, 52:8, 900-912, DOI: 10.1080/02786826.2018.1476751
+    Xiaole Chen, Clement Kleinstreuer, Wenqi Zhong, Yu Feng & Xianguang Zhou (2018) <strong>Effects of thermal airflow and mucus-layer interaction on hygroscopic droplet deposition in a simple mouth–throat model</strong>, Aerosol Science and Technology, 52:8, 900-912, https://dx.doi.org/10.1080/02786826.2018.1476751
     
 * ##### rahimi-gorji
 	Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
 	<strong>Details of regional particle deposition and airflow structures
 	in a realistic model of human tracheobronchial airways: two-phase flow simulation</strong>
-	http://dx.doi.org/10.1016/j.compbiomed.2016.04.017
+	https://dx.doi.org/10.1016/j.compbiomed.2016.04.017
 	0010-4825/& 2016 Elsevier Ltd. All rights reserved.
 
 * ##### hofemeier
@@ -2309,6 +2339,8 @@ TODO UPDATE REFERENCES
     
 * ##### sturm 
     Robert Sturm <strong> A Computer Model for the Simulation of Nonspherical Particle Dynamics in the Human Respiratory Tract</strong> Hindawi Publishing Corporation Physics Research International Volume 2012, Article ID 142756, 11 pages https://doi.org/10.1155/2012/142756
+
+
 
      
     
