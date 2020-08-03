@@ -531,7 +531,9 @@ Some forms additionally shield their genome by an inner membrane
 <p id='intro-to-viruses'>-----<p>
 
 ## Introduction to Viruses
-[in work and to be checked]
+
+(in work and to be checked)
+
 > <span id='virus'> A *virus* is a form of life on earth, that can't produce all necessary enzymes for its replication. </span> 
 
 So viruses have to integrate enzymes provided by other forms of life into their metabolism. 
