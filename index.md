@@ -1,10 +1,8 @@
-<p id='home'><p>
-
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
+* [Updates](#updates) in progress. Much content even more experimental! 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and additionally hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
-* [Updates](#updates) in progress. Much content even more experimental!
 * This is work in progress, so mistakes of any form are likely. Parts with are currently in work/provisional are usually commented with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
@@ -431,7 +429,7 @@ Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub rep
 
 # Coronaviruses with a Focus on Sars-CoV-2
 [in work]
-This short overview reviews various aspects of coronaviruses. The overview mostly covers topics relevant for other part part of [this site](#home).
+This short overview reviews various aspects of coronaviruses. The overview mostly covers topics relevant for other part part of [this site](#t-content).
 
 - [Introduction to Life](#intro-to-life)
 - [Introduction to Viruses](#intro-to-viruses)
@@ -973,7 +971,7 @@ Examples of well conserved proteins for coronaviruses are:
 
 # Immune System
 
-[in work and incomplete] Selected topics of the immune protection relevant for other parts of [this site](#home) are described. 
+[in work and incomplete] Selected topics of the immune protection relevant for other parts of [this site](#t-content) are described. 
 > The immune system denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them. 
 
 Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host immune system from interferring with their metabolism. 
