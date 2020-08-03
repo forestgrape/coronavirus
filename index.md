@@ -3,8 +3,8 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* [**Updates**](#updates) in progress. Much content even more experimental!
-* This page is hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)<br> and is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview
+* This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and additionally hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
+* [Updates](#updates) in progress. Much content even more experimental!
 * This is work in progress, so mistakes of any form are likely. Parts with are currently in work/provisional are usually commented with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
