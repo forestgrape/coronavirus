@@ -583,7 +583,7 @@ In outside living vertebrate hosts, the typical life cycle of a coronavirus enti
 
 
 
-<p id="intro-to-coronaviruses">-----</p>
+<p id='intro-to-coronaviruses'>-----</p>
 
 ## Introduction to Coronaviruses
 
@@ -1086,7 +1086,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 * [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](#human-bcov-infections).
 
 
-<p id="ideas"> -------</p>
+<p id='ideas'> -------</p>
 
 # Ideas to Explore
 * [Infection Tropism and Disease Patterns](#disease-pattering)
@@ -1094,7 +1094,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
 
-<p id="disease-pattering"> -----</p>
+<p id='disease-pattering'> -----</p>
 
 ## Infection Tropism and Disease Patterns
 **[in work]**<br>
