@@ -1,7 +1,6 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* Currently **correct presentation only on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md)**
 * [Updates](#updates) in progress. Much content even more experimental! 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and additionally hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * This is work in progress, so mistakes of any form are likely. Parts with are currently in work/provisional are usually commented with '[in work]'.
