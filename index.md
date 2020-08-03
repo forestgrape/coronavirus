@@ -2309,8 +2309,8 @@ TODO UPDATE REFERENCES
     Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
 
 * ##### varghese
-    Suresh K. Varghese, S. Gangamma
-    **Particle Deposition in Human Respiratory Tract: Effect of Water-Soluble Fraction**
+    Varghese, S.K. and Gangamma, S. (2006). 
+    **Particle Deposition in Human Respiratory Tract: Effect of Water-Soluble Fraction.** Aerosol Air Qual. Res. 6: 360-379. https://doi.org/10.4209/aaqr.2006.07.0004
 
 * ##### kleinstreuer 
     Arun V Kolanjiyil, Clement Kleinstreuer, Nicole C Kleinstreuer, Wellington Pham and Ruxana T Sadikot
