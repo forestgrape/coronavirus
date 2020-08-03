@@ -1198,7 +1198,7 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#a
 
 
 
-<p id="litvac2"> -----</p>
+<p id='litvac2'> -----</p>
 
 ## Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 [Note: this is work in progress]
@@ -1329,7 +1329,7 @@ previous guesses, likely false:
      
 
     
-<p id="early-vents"> -----</p>
+<p id='early-vents'> -----</p>
     
 ## Early On Prevent Mucus Accumulations 
 
