@@ -51,7 +51,7 @@
 * [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](#transmission-models) <br> 
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible.  
     - [Abstract](#abstract)
-    - [Transmission Models](#models)
+    - [Airborne Transmission](#airborne-transmission)
     - [Dry Form Model](#dry-form-model)
     - [Intermezzo Particle Dynamics in the Respiratory Tract](#particles)       
     - [Evidence for the Dry Form Transmission Model](#evidence)
@@ -85,9 +85,10 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 #### Minor Updates
-- 7.7.20 7 storage options to memorize metabolism (in offline work)
-- 2.7.20 Mask section redone and grouped into it mask related comments scattered throughout the page
-- 12.6.20 sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
+- 3.8. [Airborne Transmission](#airborne-transmission) section added 
+- 7.7. 7 storage options to memorize metabolism (in offline work)
+- 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
+- 12.6. sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
 - 12.5. added note that [outside is safer](#outside-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
@@ -1214,7 +1215,7 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#a
 * [next steps](#next-steps)
 
 ### overview
-While there are possible explanations for many epidemiological observations of the Sars-2 strains, causing Covid-19, spread in the first months of 2020: spread mainly in absolutely dry and cold air and less spread in warm and humid air. Thus increased spread with increasing latitudes and away from coastal areas. Because cold and dry air likely increases both the [airborne transmission](#model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
+While there are possible explanations for many epidemiological observations of the Sars-2 strains, causing Covid-19, spread in the first months of 2020: spread mainly in absolutely dry and cold air and less spread in warm and humid air. Thus increased spread with increasing latitudes and away from coastal areas. Because cold and dry air likely increases both the [airborne transmission](#dry-form-model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
 * in Switzerland not only the highest prevalence in severe cases (mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020) but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have an increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
 * Across the world no Covid-19 hotspot with many severe cases has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
@@ -1580,6 +1581,7 @@ Based on the aerosol and dry form transmission models, expected spread patterns 
 <p id="airborne-transmission">-----</p>
 
 ## Airborne Transmission 
+[in work]
     
 ### Objects in the Air
 The movement of an object in the air depends on the ratio of its surface divided by its volume.
@@ -1633,7 +1635,7 @@ Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent
 <p id="dry-form-model">-----</p>
 
 ## Dry Form Transmission Model
-[in rework]
+[in rework]<br>
 In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form, so dry form infection is possible in theory.
