@@ -3,7 +3,7 @@
 ## Note
 * [Updates](#updates) in progress. Much content even more experimental! 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and additionally hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
-* This is work in progress, so mistakes of any form are likely. Parts with are currently in work/provisional are usually commented with '[in work]'.
+* This is work in progress, so mistakes of any form are likely. Parts under heavy work are often marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
@@ -13,7 +13,7 @@
 
 > *Definitions* are written like this and are valid throughout this page. Sometimes only throughout this page.
 
-> *Comments*, often subjective, are formatted the same, but may start with programming style // to mark them. Otherwise distinction is done by context/content. 
+> *Comments*, often subjective, are formatted the same and sometimes start with programming style // to mark them. Otherwise distinction is done by context/content. 
 
 
 <p id="t-content">-----</p> <!-- workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
@@ -125,7 +125,7 @@ Time to act mindfully and work together in an open and honest way.
 
     Masks can be reused if [cleaned](#mask-reuse-and-cleaning) regularly.   From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
-*  Distancing reduces infection risk.
+* Distancing reduces infection risk.
 
 * Ventilate well<br>
     [Ventilation](#ventilation) has been shown to be effective to reduce airborne virus spread. 
@@ -977,7 +977,7 @@ Examples of well conserved proteins for coronaviruses are:
 [in work and incomplete] Selected topics of the immune protection relevant for other parts of [this site](#t-content) are described. 
 > The immune system denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them. 
 
-Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host immune system from interferring with their metabolism. 
+Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host from interferring with their metabolism: E.g. the host immune system tries to stop the virus metabolism and so the the virus immune system in turn tries the stop the host immune system. 
 
 A lot of completely different immune mechanism have evolved in the different forms of life. Immune mechanism can be classified according to various criteria:
 - [protection locations](#protection-locations): local or global
@@ -1096,6 +1096,16 @@ All form of life on earth share common molecular patterns. The more genetically 
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
 
+<p id='origin'>-----</p>
+
+## Backtracking Sars-like
+
+Both the natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 12.8.20 unclear. The goal of this section is to backtrack the natural habitats of Sars-like viruses. 
+
+### Relevance
+* knowing the habitat can help to prevent additional jumps to humans.
+* observing the natural habitat provide knowledge to develop medications and treatments. 
+
 <p id='disease-pattering'> -----</p>
 
 ## Infection Tropism and Disease Patterns
@@ -1137,14 +1147,14 @@ URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Sore throat, upper cough, sneezing |
 LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available, else anitbody response, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death, EI| aerosol, dry form | mainly in dry air since in humid air less likely to reach LR, the lung surface is big so lots of space to spread
 EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| local T cell or antibodies | - | through viraemia, through alimentary either by URI or by oral intake| Adequate immune response likely
 
-* The coronaviruses directly emerging from zoonoses from wild/outside animals Sars-CoV-1 and MERS-CoV cause mainly LRI and spread to the intestine. In wild animals this is the [way to spread and survive](#life-cycle-of-virus-entities). 
+* The coronaviruses directly emerging from zoonoses from outdoor living animals MERS-CoV and likely  Sars-CoV-1 cause mainly LRI and spread to the intestine. In wild animals this is the [way to spread and survive](#life-cycle-of-virus-entities). 
 * The coronaviruses well adapted to our 'modern' way of life with dense population and in indoor rooms mainly infect to upper respiratory tract and ignore the intestine. 
 
 > The origin of Sars-CoV-1 is unclear: Related viruses are found in bats and even more similar in civet cats. However seroprevalence of antibodies in civet cats suggest that Sars-CoV-1 is not endemic to civet cats and thus there was a jump to civet cats around the same time (2002) when Sars-CoV-1 jumped to humans. [citations in work]
 
-> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers seems possible. Goats or sheeps could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market goes in line or a least is no contradiction with a farming orign: Rare severe cases in rural areas may not have rung the bells. However severe lung disease cases connected to a live-animal-market, triggered thourough investigations resulting in the discovery of Sars-CoV-2. 
+> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers seems possible. Goats or sheeps could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market goes in line or a least is no contradiction with a farming orign: Rare severe cases in rural areas may not have rung the bells. However severe lung disease cases connected to a live-animal-market, triggered thourough investigations resulting in the discovery of Sars-CoV-2. That there is a capable virology research facility in Wuhan may
 
->Virus discovery is not easy and requires the right settings, the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite being endemic for over 1000 years in case of NL63. MERS got discovered in 2012 but likely human infections have occured long before. [citations in work] [in consideration/thinking]
+> Virus discovery is not easy and requires the right settings. Some of the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite both being endemic for over 50 years and virologists had the (theoretical) possibilities to discover coronaviruses since the 70's. MERS got discovered in 2012 but likely human infections have occured long before. [citations in work] [in consideration/thinking]
 
 
 
@@ -1623,7 +1633,7 @@ The spherical form yields the smallest surface for a fixed volume. Thus round ob
 Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls but aerosols mostly move with the air. Tiny and dry particles always go with the air. 
 
 
-Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#particles) and on masks in [Protection Measures](#protection-measures).
+Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#particles) and on masks in [Protection Measures](#protection-measures). [citations in work  ]
 
 Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent              
 ---------|------------|-----------------|------------|------|---
