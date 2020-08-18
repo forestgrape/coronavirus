@@ -260,17 +260,17 @@ Mask reduce spread since they mitigate both the infection and spread risk.
 Common types of masks are:
 * _Surgical masks_ are constructed for comfort and inside-out protection and not outside-in protection. 
 * _Protection masks against dust_ are constructed for outside-in protection and therefore good for self protection.
-* _Textile masks_ are available in a lot of sizes and styles. They may not offer the best protection in theory but they may offer the best fit and be worn most often due to fitting comfort and style. 
+* _Textile masks_ are available in a lot of sizes and styles. They may not offer the best protection in theory but they may offer the best fit and be worn most often due to comfort and style. 
 
 #### mask use cases
 * For self protection good fit and a good outside-to-inside filter are important. 
-* In dry air, water droplets shrink, thus fine grained filters are especially important for self protection. 
+* In dry air, water [droplets shrink](#dry-form-model), thus fine grained filters are especially important for self protection. 
 * To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
 
 #### mask reuse and cleaning
-* wash with a lot of soap/machine wash the mask
+* wash with a lot of soap/machine-wash
 * heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming] [Chan et al.](#chan) have shown that Sars-CoV-1 is inactivated above 50 degrees.
-* if washing or heating is not available (e.g. camping), putting the mask to the bright sunlight is an alternative in areas with intense sunlight. 
+* if washing or heating is not available (e.g. water saving in dry areas or camping), putting the mask to the bright sunlight is an alternative in areas with intense sunlight. 
 
 #### mask recommendation
 Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable, since masks are protective. 
@@ -292,7 +292,7 @@ Ventilation reduces the indoor airborne spread, since the virion density in [out
 
 
 ### distancing
-Both aerosol/droplets (reek of alcohol like spread) and dry particulates (smoke-like) can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air.
+[Airborne transmission](#airborne-transmission) - both droplets (reek of alcohol like spread) and aerosol/dry particulates (smoke-like) - can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air.
 
 
 ### Handling Covid-19 Cases and Quarantine
@@ -845,29 +845,31 @@ The organisms forming the habitat are called hosts:
 ><span id='endemic'> A virus strain is *endemic* in a collection of organisms if that collection is a habitat of the virus.</span>
 
 Sometimes it is helpful to name frequently infected organism which play no role in the virus spread:
-><span id='side-host'>A *Side Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot replicate effienctly or the virions cannot leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host</span> 
+><span id='side-host'>A *Side Host* or *Terminal Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot effienctly replicate or leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host</span> 
 
 ### conquering new habitats
-The virus can get attached to a cell types or hosts the given strain which are not part of its current habitat. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a lineage of viruses manages to adapt to this new target, this becomes a new habitat. If the new target is a new species an interspecies transmission has occurred. Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
+The virus can get attached to a cell types or hosts the given strain which are not part of its current habitat. Most likely the entity of viruses doensn't manage to adapt to the new target. However if a lineage of viruses manages to adapt to the new target, this becomes a new habitat. 
 The new habitat can be:
 - a new cell type
 - a new tissue type
-- a new host type: [conquering new hosts](#conquering-new-hosts)
+- a new organism type: [infecting new species](#infecting-new-species)
 
-### conquering new hosts
-As the [movement of virions](#movement-of-virions) is not directed, virions get attached to things at random. If a virus strain reaches animals of some species, there are several cases <!--[in programming languages: switch(animal) or animal match]-->:
-* the animal reached is a host -> continue life cycle 
-* the animal reached is not a host:
+Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
+
+### infecting new species
+With no metabolism running virions can not move on their own and thus their [movement](#movement-of-virions) is not directed and thus often non hosts are reached. If a virus strain reaches organism of some species, there are several cases <!--[in programming languages: switch(animal) or animal match]-->:
+* the organism reached is a host -> continue life cycle 
+* the organism reached is not a host:
     - it is not infectable -> break
     - it is infectable. This yields an [*interspecies infection*](#interspecies-infection). Again two cases:
-        * the virus can *not* leave to infect other hosts -> break i.e. it is a cul-de-sac 
-        * virions can leave to infect other hosts -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happend. Since likely the evolutionary drive changes this gives raise to a new virus strain. 
+        * the virus entity can *not* efficiently leave to keep up the chain of infections: on average less than one virion (i.e. reproduction factor is < 1)-> break i.e. the infection chain is a cul-de-sac and the organisms are [side hosts or terminal hosts](#side-host) 
+        * on average more than one virion of a virus entity can leave and infect another organism (i.e. the reproduction factor is > 1) -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happened. Since the evolutionary drive changes, this can give raise to a new virus strain. 
     
 > <span id='interspecies-infection'> An _interspecies infection_ is when an animal which is not an existing [host](#host) animal becomes infected by a virus strain. </span>
 
 > <span id='interspecies-jump'> An *interspecies jump* denotes a transmission to a new species and the species becomes a new [host](#host) i.e. the new species becomes part of the habitat of the virus. The virus strain may evolve to an adapted new strain.</span>
 
-> <span id='zoonosis'> An [interspecies jump](#interspecies-jump) where the target is a human is called *zoonosis*.</span>
+> <span id='zoonosis'> A *zoonosis* is an [interspecies jump](#interspecies-jump) where the new host species is human (homo sapiens).</span>
 
 So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
 
@@ -877,16 +879,17 @@ So an interspecies infection denotes a transmission without spread in the new sp
 * Infections of Humans:
     - In the 70s and 80s there were a couple of reports that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
     - The HECV-4408 coronavirus was isolated from a child having diarrhea [Zhang et al](#zhang94)
+    - Using RNA sequence data and evolution-models [Dudas et al](#dudas2017) conclude that there are likely hundred of infections per year from camel to humans. 
 #### observed interspecies jumps
-* jumps: The bovine coronaviruses have likely jumped to a whole range of hosts: canine, human, wild ruminants, porcine [Bidokhti et al](#bidokhti).
-* jumps to humans, also called zoonotic events: MERS, Sars-CoV-1 and OC43 are all jumped from animals to humans [refs in work]. 
+* jumps: Bovine coronaviruses have jumped to a whole range of hosts: canine, human, wild ruminants, porcine [Bidokhti et al](#bidokhti).
+* jumps to humans, also called [zoonosis](#zoonosis): MERS, Sars-CoV-1 and OC43 are all jumped from animals to humans [refs in work]. 
 
 
 
 <p id='habitat-of-sars-cov-2'>-----</p>
 
 ## Habitat of Sars-CoV-2
-[will be redone to remove errata and to clarify]<br>
+[in rework to remove errata and to clarify]<br>
 The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
@@ -900,8 +903,7 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 * The barrier function of the apical cell layer against coronavirus virions make an initial aptical entry necessary. 
 * In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
-#### ace2 receptor distribution
-[**in rework**]
+#### ace2 receptor detection
 There are two common methods to measure tissue distribution of proteins:
 * ##### antibody staining
     detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05) 
@@ -917,6 +919,8 @@ For serving as an entry point, ACE2 should be built into the cell membrane as a 
     - be released from the cell
     - being built into the cell membrane as a receptor on any site. 
 
+#### ace2 receptor distribution
+[**in rework**]
 ACE2 is apically available 
 * in the lower respiratory tract
     - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
@@ -928,6 +932,7 @@ ACE2 is apically available
 
 
 ### empirical reasoning
+[in rework: update and a section for each strain]<br>
 Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
 
 #### betacoronavirus type 2 viral load
@@ -994,16 +999,16 @@ Immune responses can be global (affecting the entire body), local for some tissu
 
 ## immune system mechanisms
 [in work and incomplete]
-### physical protections
+### physical mechanisms
 The outer layer of a body i.e. the surface of a body - anything that can be reached while the body is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) or mucus (which is the case in the respiratory tract). So even if a virion reaches a target host there still many obstacles to reach an exploitable tissue:
 * acidic fluids (e.g. stomach acid)
 * mucus clearance
 * protecting layers: dead cells on the epithelium (e.g. skin)
 
-### chemical part
+### chemical mechanisms
 * change of pH
 
-### biochemical part
+### biochemical mechanisms
 * antibodies target specific structures of proteins
 
 ## immune system specificity
@@ -1018,7 +1023,7 @@ The outer layer of a body i.e. the surface of a body - anything that can be reac
     - membranes: only permeable for specific substances
 * specific:     
     Some of the biological immune mechanisms are specific
-    - constant targeting throughout lifetime (can be stored in lifetime storage)
+    - constant targeting throughout lifetime (can be stored in [lifetime storage])
         * RNA pieces silencing mRNAs / other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
     - variable targeting throughout lifetime: [variable immune system](#variable-immune-system)
         
@@ -1100,7 +1105,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 ## Backtracking Sars-like
 
-Both the natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 12.8.20 unclear. The goal of this section is to backtrack the natural habitats of Sars-like viruses. 
+The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 12.8.20 unclear. The goal of this section is to backtrack the natural habitats of Sars-like viruses. 
 
 ### Relevance
 * knowing the habitat can help to prevent additional jumps to humans.
@@ -1386,7 +1391,7 @@ For the widespread viral load distribution in the lower respiratory tract, possi
 
 
 ##### increased replication?
-likely NO since:<br>
+likely NO, since:<br>
 [in rework]
 There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS risk group compared to hospitalized cases which don't develop ARDS. For people with only mild symptoms (especially children) early immune systeme responses possibly limit the viral replication [in work]. There is limited data available comparing the viral load kinetics of people with mild symptoms [in rework: new studies suggest similar viral loads]. In the following the focus is on hospitalized cases. 
 
@@ -1398,11 +1403,11 @@ There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS r
 <!--todo: immune reaction -->
 
 ##### increased distribution?
-likely NO since:<br>
+likely NO, since:<br>
 The Sars-CoV-2 entry ACE2 is expressed in large quantities in alveolar type 2 cells. From these locations, many particles are exhaled upon deep breathing [[Larsson](#larsson)], which could yield increased spreading both inside and outside. Thus to some extent the virus distribution depends on breathing patterns and so active people would be more at risk. Overall evidence is not strong that the widespread virus spread is solely caused by increased distribution.  
 
 ##### decreased mucus clearance?
-likely YES since:<br>
+likely YES, since:<br>
 * observed for influenza by [Yuen et al](#yuen)
 * Factors known to decrease the mucus clearance are major risk factors for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents):
     * intern factors
@@ -1415,7 +1420,7 @@ likely YES since:<br>
     * extern factors
          - dry air 
              * humidified air increases mucus transport [Hong](#hong), [Hasani](#hasani)
-             * generally fare fewer deaths and a lower death-rate in humid air countries, see [death rates](#death-rates). Rough estimate 0.2 % in humide air countries. Dry air countries are more difficult to estimate since treatment likely is much more relevant, see [methods](#increase-the-mucus-flow). 
+             * generally fare fewer deaths and a lower death-rate in humid air countries, see [death rates](#humidity-related-death-rates). Rough estimate 0.2 % in humide air countries. Dry air countries are more difficult to estimate since treatment likely is much more relevant, see [methods](#increase-the-mucus-flow). 
              * For greyhounds under anesthesia, breathing air at 37 °C, a decrease in the tracheal mucus flow was observed if the relative humidity was decreased below 50% [[Forbes](#forbes)].
 * Virus RNA early on in the alimentary seems not to be an indication for ARDS even though this indicates a high overall viral load:
     * there's indication that patients with early detection of viruses in stool, do not have worse outcome [case-series-france](#case-series-france)
@@ -1536,8 +1541,6 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 - Diabetis, Age, Chronic hear disease positively correlate with ARDS development. 
     
 
-
-    
 #### factors influencing the mucus flow
 
 * [Nakagawa et al.](#nakagawa) found that "Ageing, Diabetes, and Hypertension Are Associated With Decreased Nasal Mucociliary Clearance". The mechanisms of mucus production in the nose are likely similar to those in the trachea and therefore similar associations are expected [to be confirmed]. 
@@ -1569,7 +1572,7 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 <p id="abstract-transmissions">-----</p>
 
 ## Abstract Proposed Dry Form Transmission
-[in rework]
+**[in rework]**
 A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-CoV-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
@@ -1603,21 +1606,21 @@ The movement of an object in the air depends on the ratio of its surface divided
 where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of object; r=density of the objet; S_p = surface perpindicular to v; v=movement relative to sourounding air; V=volume; E_d = unit vector pointing downwards; E_-v = unitvector pointing in -v direction
 
 -->
-* ##### small ratio => gravity and initial movement 
+* #### small ratio => gravity and initial movement 
     heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant: Examples are heavy balls in sports, rain droplets or snowballs. 
-* ##### large ratio => go with the air
+* #### large ratio => go with the air
     light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the winds. Feathers, dust particles and dry snowflakes are examples.
 
 Of course any movement form inbetween exists too: Footballs and tennis balls have quite a large surfaces compared to their weight, so strong winds influences their movement. Even a larger ratio have table tennis balls. Golf balls on the other hand are less subject to the wind compared to table tennis balls.
 
-##### smaller size => larger ratio
+#### smaller size => larger ratio
 Since the volume increases in cubic and the surface only in square:
 * Large objects tend to have small ratios
 * Small objects tend to have large ratios
 
 Tiny objects have very large ratios and thus go with the wind. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. This is the case too for very small water droplets that can't seen as single particles: They move with airflow. Since they can't be seen as single particles, they look like dissolved in the air and thus are called aerosols.
 
-##### droplet or aerosol
+#### droplet or aerosol
 > <span id='aerosol'> An *aerosol* is a collection of tiny droplets with a diameter smaller than 5 micro meter. Aerosol comes from Greek aero=air and sol=solvent, since tiny droplet can't be seen and thus look like dissolved in the air. However an aerosol is a bunch of heaps of water molecules possibly including some other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding visibility for our eyes and movement.</span>
 
 The larger droplets keep their name and are just called droplets:
@@ -1625,7 +1628,7 @@ The larger droplets keep their name and are just called droplets:
 
 > // The change both of movement and visibility is contineous and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of milimeters is a coincidence. At least there is no obvious causal connection.  
 
-##### drier & smaller => larger ratio 
+#### drier and smaller => larger ratio 
 The spherical form yields the smallest surface for a fixed volume. Thus round objects have smaller ratios surface/volume than non round objects. Watery particles tend to have a minimal surface and are roundish, thus the ratio of surface/volume tend to smaller than of the dry particles. E.g. dry leafs, feathers, flour and dust ... all go with the wind. 
 
 
