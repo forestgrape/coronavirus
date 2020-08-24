@@ -906,7 +906,7 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 #### ace2 receptor detection
 There are two common methods to measure tissue distribution of proteins:
 * ##### antibody staining
-    detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05) 
+    detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,-poehlmann)
 * ##### measure mrna
     Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
@@ -920,7 +920,7 @@ For serving as an entry point, ACE2 should be built into the cell membrane as a 
     - being built into the cell membrane as a receptor on any site. 
 
 #### ace2 receptor distribution
-[**in rework**]
+[**incomplete and in rework**][**ACE2 receptor distribution obtained from tissue staining is described in [soilleux, poehlmann, 12](#soilleux,-poehlmann)]
 ACE2 is apically available 
 * in the lower respiratory tract
     - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
@@ -1061,7 +1061,8 @@ The entire immune system adapts the way and strength of protection provided at e
 ### prevent unwanted metabolisms
 
 #### self checks
-Self checks of the cells: inside the cells there are various systems to keep to cells metabolism immune
+[in work]
+Self checks of the cells: inside the cells there are various systems to keep to cells metabolism immune.
 
 #### extern checks
 Cells present what they produce on the outside: T cells inspect these substances and can induce aptosis or ring the bells. In fighting coronaviruses T cells play a key role [citations in work].
@@ -1070,7 +1071,7 @@ Cells present what they produce on the outside: T cells inspect these substances
 T cells are in the blood and locally in tissues. 
 T cells play a central role in checking if cells do what they are supposed to do. Virus infected have a changed metabolism and often produce many virions, which can be [detected by T cells](#extern-checks). To control coronaviruses infections T cells are key [citation coming].
 
-> *Tissue resident T cells* or just *local T cells* are T cells which survey the tissues cells integrity. They are located especially at commonly observed entry points of metabolism changing pathogens which mostly are viruses. 
+> *Tissue resident T cells* or just *local T cells* are T cells which survey the tissues cells integrity. They are located especially at entry points of metabolism changing pathogens which mostly are viruses. 
 
 
 
@@ -2146,7 +2147,8 @@ TODO UPDATE REFERENCES
     **High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.** 
     International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
 
-* ##### soilleux & poehlmann
+
+* ##### soilleux, poehlmann
     Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
     **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
     PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
