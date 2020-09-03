@@ -64,13 +64,10 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-#### new online
-- 2.8. Sections added to section Disease Patterns
 - 30.7. Updates and corrections accross the page in work/in the process of writing down:
 	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid clima. This has changed: the currently circulating strains spread well in humid clima too.  
 - 27.7. [Disease pattering](#disease-pattering)
-#### existing
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
@@ -458,28 +455,26 @@ In other words, a form of live has memorized environment interactions and passes
 
 All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins (only RNA in the case of [viroids](#viroid)), which catalyze interactions in watery solutions. 
 
-The simplest forms of life are:
+The simplest forms of life are viriods. 
 > <span id='viroid'>*Viroids* are pieces of RNA able catalyze self reproduction.</span>  
 
-All other known forms of life also encode enzymes made of proteins:
+All other known forms of life also encode enzymes made of proteins.
 > <span id='protein'>*Proteins* are amino acids chained together.</protein>
 
-Proteins are made by ribosomes:
+Proteins are assembled by ribosomes:
 > <span id='ribosome'> *Ribosomes* read positive sense RNA</span>, called <spand id='mrna'> *messenger RNA* or just *mRNA* </span>, and select a amino acid for each tripple of RNA acids and chain these amino acids together to form proteins. This process is called <span id='translation'>*translation*</span> since the mRNA is translated to a protein.
 
 
 ### lifetime storage
-[in work]
-4 forms of lifetime storage are known to be used on todays earth. 
+[in work] As noted above form of life have to ability to memorize environment interactions. 4 forms of lifetime storage are known to be used on todays earth. 
 
 * ##### ssrna
     single stranded RNA:
     - unstable 
-    - difficult and mutation rich duplication 
-    - recombinations are possible upon duplication  
+    - difficult to reliably duplicate, recombinations are possible upon duplication  
 * ##### dsrna
     double standed RNA: 
-    - unstable
+    - somewhat unstable
     - somewhat reliable duplication possible
 * ##### ssdna
     single stranded DNA: 
@@ -491,8 +486,9 @@ Proteins are made by ribosomes:
     - reliable duplication possible 
  
 
-### storage and decoding
-7 forms of combinations of lifetime storage and decode mechanisms are known to be in use on earth, known as Baltimore classification:
+### storage and duplication
+[in work]
+7 forms of combinations of lifetime storage and duplication/decode mechanisms are known to be in use on earth, known as Baltimore classification:
 * (+)ssRNA := Single stranded RNA, + sense
 * (-)ssRNA := Single stranded RNA, - sense
 * ssDNA := Single-strand DNA
@@ -519,12 +515,14 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 
 ### cell forming life
 [in work]
-As noted all forms of life which encode their entire metabolism are dsDNA based. 
-Many [to check if all] of these forms shield their metabolism by a semipermeable membrane. 
-* Prokaryotes 
-* Eukaryotes
+As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms shield their metabolism by a semipermeable membrane. 
 
-Some forms additionally shield their genome by an inner membrane
+Some forms of life have just this outer membrane but no inner membrane shielding the genome away from the main metabolism. These forms are called prokaryotes (pro=before, karyo=kernel). Forms, that additionally shield their genome by an inner membrane. This inner structure is called nucleus. Forms of life having a nucleus are called eukaryotes (naming done in the 60's from eu and karyo=nucleus).
+* Prokaryotes
+    - Eubacteria
+        * Cyanobacteria 
+        * Bacteria
+    - Archaea
 * Eukaryotes
 
 
@@ -589,20 +587,32 @@ In outside living vertebrate hosts, the typical life cycle of a coronavirus enti
 
 ## Introduction to Coronaviruses
 
+### Virus Classification
+As noted above all [forms of life](#form-of-life) which don't encode their entire metabolism are called [viruses](#virus). Since forms that rely on other forms metabolism exists across the tree of life, viruses are as diverse as the tree of life. The goal of classification is usually to group things together which are similar to some features of interest. Features of interest for viruses are: 
+* behaviour and habitats occupied
+* genetic and structural similarity
+
+
+
 ### Nidovirales
-Coronaviruses belong to the order of Nidovirales. Nidovirales are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane.  Nidovirales share a gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92], that's where Nido comes from: Nidus means nest in latin.
+Coronaviruses belong to the order of Nidovirales. Nidovirales are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane.  Nidovirales share a gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92]. Moreover they form nest like structures inside the host cell where the new virions are assembled. So there are two possible causes for the name nido,  which means nest in latin.
 
 
 ### Coronaviruses
-The membrane is spherical and consists of structural proteins coated in a lipid bilayer aquired from the host cell, called envelope. Among the membrane proteins are large spike proteins. Theses spike protein point out of the spherical, which gives coronaviruses a corona (latin for crown or solar corona) like appearance under the electron microscope.
+The membrane is spherical and consists of structural proteins which are coated in a lipid bilayer aquired from the host cell. The membrane is called envelope. 
 
 
-### coronavirus proteins  
-[in work]
+#### coronavirus proteins  
+[**in work and incomplete**]
 - structural proteins: used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N stabilizes the RNA
 - diminish host defence
 - RNA dependent RNA polymerase 
 - cleavage other proteins and RNA [to check]
+
+##### s protein
+Spike protein. These proteins point spike-like out of the spherical. This gives coronaviruses a corona (latin for crown or solar corona) like appearance under the electron microscope and therefore their name.
+##### rbd
+The RBD is located in the S1 part of the spike protein and bind to the ACE2 receptor. 
 
 
 ### coronaviruses species
@@ -906,7 +916,7 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 #### ace2 receptor detection
 There are two common methods to measure tissue distribution of proteins:
 * ##### antibody staining
-    detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,-poehlmann)
+    detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
 * ##### measure mrna
     Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
@@ -920,7 +930,7 @@ For serving as an entry point, ACE2 should be built into the cell membrane as a 
     - being built into the cell membrane as a receptor on any site. 
 
 #### ace2 receptor distribution
-[**incomplete and in rework**][**ACE2 receptor distribution obtained from tissue staining is described in [soilleux, poehlmann, 12](#soilleux,-poehlmann)]
+[**incomplete and in rework**][Until updated, recommended is direct lookup in: [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]<br>
 ACE2 is apically available 
 * in the lower respiratory tract
     - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
@@ -948,15 +958,17 @@ That in swab tests there are viruses in the nose and the mouth can be either cau
 <p id='evolution-and-adaption'>-----</p>
 
 ## Evolution and Adaption
-The genetic evolution of coronaviruses is fast compared to other forms of life because:
+[in work]<br>
+Coronaviruses can adapt fast to changed or new environments if given time and opportunity. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome. 
+The genetic evolution of coronaviruses is fast compared to other [forms of life](#form-of-life) because:
 * a short average generation-time (only a few hours [to be confirmed]) 
-* properties of RNA replication. The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
-    - RNA-dependent RNA polymerase, which yields a high rate of random point mutations compared to DNA polymerases, which generally have better proofreading capabilities. 
-    - a homologous recombination mechanism. 
+* properties of [RNA replication](#ssRNA). The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
+    - RNA-dependent RNA polymerase, which yields a high rate of random point mutations compared to DNA polymerases
+    - a homologous recombination mechanism
 * Genome is [encoded in RNA and not in DNA](#lifetime-storage) 
 * large population size both within hosts and the number of infected hosts (for Sars-CoV-2)
 
-Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. Coronaviruses can adapt fast to changed or new environments if given time and opportunity.   
+Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occuring on todays earth, possibly even the largest[to check].  
 [in work]
 
 ### conserved patterns
@@ -1104,9 +1116,9 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 <p id='origin'>-----</p>
 
-## Backtracking Sars-like
+## Backtracing Sars-CoV-1/2
 
-The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 12.8.20 unclear. The goal of this section is to backtrack the natural habitats of Sars-like viruses. 
+The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 3.9.20 unclear. The goal of this section is to backtrack the natural habitats of Sars-like viruses. 
 
 ### Relevance
 * knowing the habitat can help to prevent additional jumps to humans.
@@ -1123,7 +1135,7 @@ Coronaviruses can cause infections at different locations and thus induce differ
 
 In the case of bovine coronaviruses the same strains can cause different infections. These are recognized as different diseases and until the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent:
 * enteric diseases (neonatal calf diarrhea, winter dysentery) 
-* respiratory diseases (shipping fever and genral pneunomia). 
+* respiratory diseases (shipping fever and general pneunomia). 
 
 For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs:
 * What drives and causes the different infection location patterns?
@@ -1131,7 +1143,7 @@ For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower r
 * Which are complications and risks?
 * What immune protections are raised under which circumstances. 
 
-Namely the following hypotheses are discussed:
+Regarding these questions the following hypotheses are state and argued:
 * Coronavirus can induce distinct infection patterns 
 * The infection patterns are the result of and can be predicted by the factors:
     - the virus strain
@@ -1198,7 +1210,7 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#a
 
 #### Ressources/ Readings
 [in work]
-> Many concepts in this section are raw ideas and often not 1-1 in literature. A lot of illustrative papers provided observations, inspiration and sometimes similar ideas founding the ideas here.
+> Many concepts in this section are raw ideas and often not 1-1 in literature making. A lot of illustrative papers provided observations, inspiration and similar ideas founding the ideas here.
 
 * ##### Review Epdemiology, Genetic Recombination, and Pathogenesis of Coronaviruses; S Su, Y Bi, G Gao et al
     - Table 1: comparison of the infection caused by the HCoVs 229E, OC43, Sars-CoV, NL63, HKU1, MERS-CoV 
@@ -1349,10 +1361,12 @@ previous guesses, likely false:
 ## Early On Prevent Mucus Accumulations 
 
 ### Subsections
-* Overview
-* Reverse Cascade - From ARDS to Decreased Mucus Flow
-* Ideas to Decrease Virus Distribution
-* Appendix for Early On Ventilators
+* [Overview](#early-vents-overview)
+* [Reverse Cascade - Backtracking ARDS to a Decreased Mucus Flow](#reverse-cascade)
+* [Ideas to Decrease Virus Distribution](#decrease-distribution)
+* [Appendix for Early On Ventilators](#appendix-vents)
+
+<p id='early-vents-overview'>---</p>
 
 ### Overview
 For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor; shown in the case of influenza induced ARDS by [Yuen et al](#yuen). The idea is to increase the clearance by increasing the mucus flow. The following observations suggest that the mucus flow is increased by humidified air:
@@ -1373,7 +1387,9 @@ A main complication of a severe Covid-19 and possible death cause is acute respi
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucus clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 
-### Reverse Cascade of Evidences
+<p id='reverse-cascade'>---</p>
+
+### Reverse Cascade - Backtracking ARDS to a Decreased Mucus Flow
 In the following evidence is shown in reverse order for the [cascade of influences](#cascade-of-influences).  The cascade reversed:
 * ARDS is caused by widespread virus distribution [how: work in progress]
 * widespread virus distribution is caused by a decreased mucociliary clearance and increased distribution from locations of infected cells-
@@ -1389,7 +1405,6 @@ For the widespread viral load distribution in the lower respiratory tract, possi
 - [increased replication](#increased-replication)
 - [increased distribution across the lungs](#increased-distribution) 
 - [decreased mucus clearance](#decreased-mucus-clearance)
-
 
 ##### increased replication?
 likely NO, since:<br>
@@ -1428,6 +1443,8 @@ likely YES, since:<br>
     *  diarrhea is not risk for ADRS in influenza [Yuen](#yuen). 
     * increased nausea or vomiting seem to be no indication for a severe disease outcome [Zhong](#zhong)(despite these indicating higher a viral load in the stomach, so viruses are just better cleared to the alimentary). However vomiting a slight indication for ADRS in influenza [Yuen](#yuen).
 
+
+<p id='decrease-distribution'>---</p>
 
 ### Ideas to Decrease Virus Distribution [in work]
 
@@ -1468,9 +1485,6 @@ reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Lar
 - slightly increased pressure may reduce opening and closing of alveoli [to be confirmed]
 - ventilators possibly reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
   
- 
-
-
 
 
 <!--
@@ -1553,7 +1567,6 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 * [Leopold et al.](#leopold-mahony-lian) observed smoking-associated shorter airway epithelial cilia which, according to their argumentation, yields a decreased mucus flow (described in the section "Implications of Reduction of Cilia Length on Mucociliary Clearance"). 
 
 * In his review on ["Effects of Airborne Pollutants on Mucociliary Clearance"](#wolff)  Ronald K. Wolff summarizes "A variety of pollutants have been shown to impair mucociliary clearance following acute or subchronic exposures." 
-
 
 
 #### humidity related death rates
@@ -1817,17 +1830,16 @@ In confined settings without special protection reproduction numbers well above 
 
 * Sars-CoV-1:
 	- Hospitals in China [Mizumoto](#mizumoto)
-    -  Long-Term Care Facility in Seattle [Honein et al](#honein)
+    - Long-Term Care Facility in Seattle [Honein et al](#honein)
 	- Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan)
 
-
 * Sars-CoV-2:
-	- Diamond Princess Cruise Ship in Japan [Mizumoto](#mizumoto). This setting well investigated by Mizumoto and colleagues. Observations:
+	- Diamond Princess Cruise Ship anchored in Japan, well analysed by [Mizumoto and colleagues](#mizumoto). Observations:
         * Covid-19 spread started between passengers and not equally between passengers and personal.
         * very high peak values of the reproduction number are observed (over 10)
         
         The observations favour long range but same room transmission (aerosol and dry form transmission) over droplet transmission and slighly indicate dry form transmission:
-        * In the droplet model, one would except the personal as a angle and starting point, since they have the most short range contacts, which enable droplet transmission. 
+        * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission. 
         * In the aerosol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
         * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected since they spend the time in the same areas. 
 	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
@@ -1842,8 +1854,7 @@ In confined settings without special protection reproduction numbers well above 
 	Possible Explanation: The medical staff is used to protect against fomite and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
 
 * Mers-Cov:
-	Main spreading in Winter season and in generally dry areas.
-The primary spreading in very dry (indoor) areas would also explain why the described coronaviruses diseases occurred recently, even though overall hygiene increased.  
+Most superspreading events occured in Winter season and in hospitals [dudas2017](#dudas2017). The primary superspreading in very dry (heated indoor) can be a reason  diseases occurred recently, even though overall hygiene increased.  
 
 
     
@@ -1853,9 +1864,9 @@ The primary spreading in very dry (indoor) areas would also explain why the desc
 
 Remark: The following pieces of evidence are 'in work'. 
 
-* In humid and warm temperature environments (above 30 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation [11]. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols. In this case, an aerosol like spreading pattern with no super-spreading events would be expected. 
+* In humid and warm temperature environments (above 30 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols which in turn often growth to droplets. In this case, a droplet like spreading pattern with no super-spreading events would be expected. 
 
-* The initial animal to human of  Sars-CoV-2 occurred in a setting of cold outside temperature and therefore dry indoor air, namely likely in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. Similar transmission settings from animal to human have been likely the case for Sars-CoV-1 [citation to be added] and MERS (probably indoor camel riding arena) animal to human jumps. 
+* The initial cases that led to the discovery of Sars-CoV-2 occurred during cold outside temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 1q
 
 
 <p id="metaphor-and-measures">---</p>
@@ -1877,9 +1888,9 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 #### Note 
 * References are grouped by topic. If several topics apply, one has been chosen. 
 * Sometimes reviews or remarks in introductions are referred which point further to the original work/articles. 
-* The references are named by the correspondence author, the primary authors or a descriptive tag. [todo more consistent naming]
+* The references are named by the correspondence author, the primary authors or a descriptive tag. Studies carried out in 2020 are often named: first author followed by the correspondence authors. [todo more consistent naming]
 
-> The correspondence author often are the head of the group/professors and tend to do research for a long time in the same area and topic. Further they often are responsible for the design and setup of the research. For these reasons the naming is done by the correspondence authors. Studies carried out in 2020 are often named: first author followed by the correspondence authors.
+> The correspondence author often are the head of the group/professors and tend to do research for a long time in the same area and topic. They often are responsible for the design and setup of the research. For these reasons the naming is done by the correspondence authors. 
 
 
 <!--
@@ -2148,12 +2159,22 @@ TODO UPDATE REFERENCES
     International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
 
 
-* ##### soilleux, poehlmann
+* ##### soilleux,poehlmann
     Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
     **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
     PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
      
-     
+
+### Viruses
+
+
+### RNA Viruses
+* ##### barr,fearns 2010
+    John N. Barr and Rachel Fearns
+    **How RNA viruses maintain their genome integrity**
+    Journal of General Virology (2010), 91, 1373–1387 
+    https://doi.org/10.1099/vir.0.020818-0
+
 
 ### Enviromental Factors on Betacoronaviruses
 
