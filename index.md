@@ -30,9 +30,10 @@
     * [risk assessment](#risk-assessment)   
     * [Monitor](#monitor)
     * [Data Availability](#data)
-* [Coronaviruses with a Focus on Sars-CoV-2](#coronaviruses)- 
+* [Forms of Life](#forms-of-life)
     - [Introduction to Life](#intro-to-life)
     - [Introduction to Viruses](#intro-to-viruses)
+* [Coronaviruses with a Focus on Sars-CoV-2](#coronaviruses)- 
     - [Introduction to Coronaviruses](#intro-to-coronaviruses)
     - [Life Cycle](#life-cycle) 
     - [Tropism](#tropism)
@@ -342,7 +343,7 @@ Outside there is much more air per person than inside:
 #### virion decay
 Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the virion decay are:
 * the genome is [stored in unstable ssRNA](#ssRNA)
-* the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membrane has not evolved to be stable outside the organism. 
+* the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membrane has not evolved to be stable outside the organism and especially not the cell membrane of the respiratory tract. 
 * virions have no repair mechansim since they don't have a metabolism
 
 Process and situations virions decay:
@@ -370,14 +371,13 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
 
 
 
-
 <p id='monitor'></p>
 
 ## Monitor 
 
 ### monitor evolution
 [in work]
-From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce international spread. 
+From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
 
 
 <p id="data"> ---</p>
@@ -420,31 +420,24 @@ Right or Wrong and Perfection anyways are often a matter of viewpoint and angle.
 Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub repository/REST API) and are annotated e.g. contain a readme with the specifications what and how is measured. 
 
 
+<p id="forms-of-life">-------</p>
 
-
-<p id="coronaviruses">-------</p>
-
-# Coronaviruses with a Focus on Sars-CoV-2
-[in work]
-This short overview reviews various aspects of coronaviruses. The overview mostly covers topics relevant for other part part of [this site](#t-content).
+# Life on Earth with a Focus on Viruses
+Principles of the different forms of life on earth. The focus is on principles key to understand coronaviruses. 
 
 - [Introduction to Life](#intro-to-life)
+    * [forms of life](#forms-oflife)
+    * [lifetime storage](#lifetime-storage)
+    * [storage and duplication](#storage-and-duplication)
+    * [interactions between life](#interactions-between-life)
+    * [cell forming life](#cell-forming-life)
 - [Introduction to Viruses](#intro-to-viruses)
-- [Introduction to Coronaviruses](#intro-to-coronaviruses)
-- [Life Cycle](#life-cycle) 
-    * [Metabolic Phase](#metabolic-phase)
-    * [Virion Phase](#virion-phase)
-    * [Intermezzo Movement of Virions](#movement-of-virions)
-- [Tropism](#tropism)
-- [Habitat](#habitat)
-- [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
-- [Evolution and Adaption](#evolution-and-adaption)
-
-
+    * [Virus Classification](#virus-classification)
+    * [Virus Entities](#virus-entities)
+- [Movement of Virions](#movement-of-virions)
 
 
 <p id='intro-to-life'>-----</p>
-
 
 ## Introduction to Life
 
@@ -505,7 +498,7 @@ Proteins are assembled by ribosomes:
 
 So genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA which in turn can be translated to proteins. 
 
-### Interactions between different Forms
+### interactions between life
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
 * All forms of life except those who are able to do photosynthesis or use thermal energy are dependent on forms of energy produced by other forms of life. 
 * Besides energy mammals including us humans need extern sources for vitamins, essential amino acids, essential fatty acids, ...
@@ -545,24 +538,34 @@ Most cells don't live forever (in the prevalent mulitcellular organisms most cel
 
 > <span id='virion'> A _virion_ is form of a virus outside a cell and ready to infect a cell. </span>
 
-Virions are similar to seeds of plants: They don't have a metabolism running and are dormant except for some grabbing spikes and wait for activation to initiate fusion with a cell. 
+Virions are similar to seeds of plants: They don't have a metabolism running and are inactive (however they have sticky proteins which can get attached to cells) and wait for activation to initiate fusion with a cell by using spring loaded energy. 
 
 > <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
 
 Once a virus infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
-> <span id='infected-object'> An object is called _infected_ by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an organism. There are constraints on a [object to be infectable](#tropism-of-coronaviruses).</span> 
+> <span id='infected-object'> An object is called _infected_ by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an organism. There are constraints on a [object to be infectable](#tropism-of-viruses).</span> 
 
 So an organism is infected if it has some cells that are [infected](#infected-cell).
 
 > <span id='infectable-object'> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.</span>
 
-### Virus Entity
+
+### virus classification
+As defined all [forms of life](#form-of-life) which don't encode their entire metabolism are called [viruses](#virus). Since such forms exists across the tree of life, viruses are as diverse as the tree of life. The goal of classification is usually to group things together which are similar to some features of interest. Features of interest for viruses are: 
+* behaviour and habitats occupied
+* genetic and structural similarity
+
+
+### virus entities
 [in work and experimental]
-For many biological questions regarding multicellular organism it makes sense to consider them as a whole and not the single cells. This since the cells communicate and differentiate to form more capable organism. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.<br>
-Similarly for viruses infecting organisms often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. they still show different behaviours in different cells and upon different situations:
-* DNA viruses can in theory encode the same differentiation mechanism as eukaryotes
-* RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviours](#tropism-of-coronaviruses). 
+Similar as single cells organize by communication and share of resources to form an an organism, viruses infecting an organism can organize to form a virus-entity or virus-organism. 
+
+Often forms of life organize and specialize to increase fitness and form a more capable entity called organism. For many questions regarding organism are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
+
+Similarly for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviours in different cells and upon different situations:
+* DNA viruses can in theory encode the same differentiation mechanisms as eukaryotic cells 
+* RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviours](#tropism-of-viruses) in different situations. 
 <!--
 > A virus entity denotes all viruses contributing to a viral infection in an organism.--> 
 
@@ -570,9 +573,9 @@ Similarly for viruses infecting organisms often to grasp the full picture it is 
 
 Similar to the different cells in multicellular organism only few viruses in a virus entitiy are likely to infect new hosts and thereby form a new entity. 
 
-> // Virus entities are a concept haven't read about in literature. Similar concepts may exists possibly under different names. 
+> Virus entities/organisms are a concept I haven't seen about in literature. Similar concepts may exists possibly under different names. 
 
-#### life cycle of virus entities
+#### life cycle of a coronavirus entity
 In outside living vertebrate hosts, the typical life cycle of a coronavirus entity is [citations and argumentation in work]:
 * enter the respiratory system
 * spread to the lower respiratory tract and replicate to high titers (often in ciliated epithelial cells) 
@@ -582,81 +585,9 @@ In outside living vertebrate hosts, the typical life cycle of a coronavirus enti
 * progeny: the virions get transported by wind or water to new susceptible hosts
 
 
-
-<p id='intro-to-coronaviruses'>-----</p>
-
-## Introduction to Coronaviruses
-
-### Virus Classification
-As noted above all [forms of life](#form-of-life) which don't encode their entire metabolism are called [viruses](#virus). Since forms that rely on other forms metabolism exists across the tree of life, viruses are as diverse as the tree of life. The goal of classification is usually to group things together which are similar to some features of interest. Features of interest for viruses are: 
-* behaviour and habitats occupied
-* genetic and structural similarity
-
-
-
-### Nidovirales
-Coronaviruses belong to the order of Nidovirales. Nidovirales are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane.  Nidovirales share a gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92]. Moreover they form nest like structures inside the host cell where the new virions are assembled. So there are two possible causes for the name nido,  which means nest in latin.
-
-
-### Coronaviruses
-The membrane is spherical and consists of structural proteins which are coated in a lipid bilayer aquired from the host cell. The membrane is called envelope. 
-
-
-#### coronavirus proteins  
-[**in work and incomplete**]
-- structural proteins: used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N stabilizes the RNA
-- diminish host defence
-- RNA dependent RNA polymerase 
-- cleavage other proteins and RNA [to check]
-
-##### s protein
-Spike protein. These proteins point spike-like out of the spherical. This gives coronaviruses a corona (latin for crown or solar corona) like appearance under the electron microscope and therefore their name.
-##### rbd
-The RBD is located in the S1 part of the spike protein and bind to the ACE2 receptor. 
-
-
-### coronaviruses species
-[in work]
-#### sars-cov-1
-Betacoronavirus identified causing Sars in 2003/2004.
-* yields mainly lower respiratory tract infections
-#### sars-cov-2
-Betacoronavirus identified causing the current Covid-19 pandemics. A focus of this page and many sections contain special notes about features of Sars-CoV-2.  
-### mers-cov
-Betacoronavirus identified causing MERS. 
-* It infects mainly cells in the deep lungs (bronchi and alveolis). 
-* The natural hosts are dromedary camels. 
-* the main spreading events all have been observed in extremely dry air. 
-### bovine coronaviruses
-Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
-
-
-
-<p id='life-cycle'>-----</p>
-
-## Life Cycle 
-As mentioned in the [introduction](#intro-to-viruses) the coronavirus life cycle has two phases:
-* [Virion Phase](#virion-phase)
-* [Metabolic Phase](#metabolic-phase)
-
-### virion phase
-Travel and Wait for Activation<br>
-Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
-
-#### virion travel 
-Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are [activated](#virion-activation) to start the cell infection process.
-A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination. 
-
-The infectable cell can be:
-* in the same host| another host 
-* in the same tissue| another tissue
-* of the same cell type| another cell type
-
-
-
 <p id='movement-of-virions'></p>
 
-## Intermezzo Movement of Virions
+## Movement of Virions
 Once virions are released from a cell the virions are moved by whatever movements are in their surroundings.   
 
 ### swim with the tide
@@ -730,6 +661,87 @@ The probability to reach a *next* exploitable host, is especially low, due to ma
 <!--transmission bottleneck important for evolution-->
 
 
+
+<p id="coronaviruses">-------</p>
+
+# Coronaviruses with a Focus on Sars-CoV-2
+[in work]
+This short overview reviews various aspects of coronaviruses. The overview mostly covers topics relevant for other part part of [this site](#t-content).
+
+
+- [Introduction to Coronaviruses](#intro-to-coronaviruses)
+- [Life Cycle](#life-cycle) 
+    * [Metabolic Phase](#metabolic-phase)
+    * [Virion Phase](#virion-phase)
+- [Tropism](#tropism)
+- [Habitat](#habitat)
+- [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
+- [Evolution and Adaption](#evolution-and-adaption)
+
+
+<p id='intro-to-coronaviruses'>-----</p>
+
+## Introduction to Coronaviruses
+
+### Nidovirales
+Coronaviruses belong to the order of Nidovirales. Nidovirales are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane.  Nidovirales share a gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92]. Moreover they form nest like structures inside the host cell where the new virions are assembled. So there are two possible causes for the name nido,  which means nest in latin.
+
+
+### Coronaviruses
+The membrane is spherical and consists of structural proteins which are coated in a lipid bilayer aquired from the host cell. The membrane is called envelope. 
+
+
+#### coronavirus proteins  
+[**in work and incomplete**]
+- structural proteins: used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N stabilizes the RNA
+- diminish host defence
+- RNA dependent RNA polymerase 
+- cleavage other proteins and RNA [to check]
+
+##### s protein
+Spike protein. These proteins point spike-like out of the spherical. This gives coronaviruses a corona (latin for crown or solar corona) like appearance under the electron microscope and therefore their name.
+##### rbd
+The RBD is located in the S1 part of the spike protein and bind to the ACE2 receptor. 
+
+
+### coronaviruses species
+[in work]
+#### sars-cov-1
+Betacoronavirus identified causing Sars in 2003/2004.
+* yields mainly lower respiratory tract infections
+#### sars-cov-2
+Betacoronavirus identified causing the current Covid-19 pandemics. A focus of this page and many sections contain special notes about features of Sars-CoV-2.  
+### mers-cov
+Betacoronavirus identified causing MERS. 
+* infects cells in the deep lungs (bronchi and alveolis) 
+* the natural hosts are dromedary camels
+* main spreading events observed in extremely dry air
+### bovine coronaviruses
+Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
+
+
+
+<p id='life-cycle'>-----</p>
+
+## Life Cycle 
+As mentioned in [Introduction to Viruses](#intro-to-viruses) the viruses have a multiphase life cycle. Coronaviruses have a two phase life cycle:
+* [Virion Phase](#virion-phase)
+* [Metabolic Phase](#metabolic-phase)
+
+### virion phase
+Travel and Wait for Activation<br>
+Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
+
+#### virion travel 
+Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are [activated](#virion-activation) to start the cell infection process.
+A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination. 
+
+The infectable cell can be:
+* in the same host| another host 
+* in the same tissue| another tissue
+* of the same cell type| another cell type
+
+
 #### cell entry
 - the virus gets attached to the matching receptor on the target cell mostly via the spike protein
 - fusion of the viral envelope with host cell membranes once [primed]: 
@@ -762,20 +774,21 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 
 
-<p id='tropism-of-coronaviruses'>-----</p>
+<p id='tropism-of-viruses'>-----</p>
 
-## Tropism of Coronaviruses
+## Tropism of Viruses
 
-> *Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how organisms behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.
+> <span id='tropism'>*Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how organisms behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.</span>
 
 > In literature, the term tropism of viruses is sometimes used more narrowly: which cells and tissues are suspectible to infection or in which an infection is observed. Here, for observed infections the term habitat is used. 
 
-Questions relevant for the tropism of coronaviruses:
+Questions relevant for the tropism of viruses:
 * To which receptors under which conditions the virions attach? 
-* Factors initiating cell entry of virions?
-* What metabolism is started in which cells under what conditions? 
+* Factors inducing cell entry of virions?
+* Which changes in the metabolism in different cells? 
 
-Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term. Key factors for the tropism are:
+<!--
+Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term. Determinants for the tropism are:
 * cell types:   
     - receptors expressed
     - biochemistry inside the cells
@@ -783,45 +796,64 @@ Both evolution and biological constraints yield the tropism of viruses. Evolutio
     - physical environment: e.g. temperature
     - chemical environment: e.g. pH value
     - biological environment: e.g. Virions are primed for cell entry by specific proteins
-    
+    -->
 
 
 ### tropism virion phase
 
-Plant seeds evolved first to travel and then to be activated under favourable conditions for growth, at least as much as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell fusion and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on the cell membrane and proteases available. 
-<!--#### virion attachment-->
+Plant seeds evolved first to travel and then to be activated under favourable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on the cell membrane and proteases available. 
 
 #### virion attachment and activation
-To enter a cell a virus uses its spike protein, which first serves as a grappling hook by binding to a receptor on the cell membrane.  Next the virus needs to pass the cell membrane. This step is often initiated by cleavage of the spike protein which yields fusion with the cell membrane.
 * enviromenment around the cell
-    - The spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions[Holmes](#holmes).
+    - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
 * matching receptor
+
+#### cell entry
+To enter a cell, virions need to pass the cell membrane. There are several pathways to get cell entry: 
+* virion induced membrane fusion: The virion grabs the cell by attachment to the cell receptors.  Then by a conformation change of virion proteins with spring loaded energy (since they don't have a metabolism running) the membrane fusion is induced.
+* the virion binds to a receptor on the cell membrane, which signals the cell to induce endocythosis.  
+
 
 
 ### metabolic phase tropism
 [in work: incomplete and citations/confirmation in work]<br>
-> Generally the virion tropism better investigated than the tropism in the metabolic phase. This since cell entry can be investigated with retroviruses expressing the coronavirus spikes and transfected cells expression the right receptors. To investigate the metabolic phase, ideally one could look into the cells. 
-* ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
-* immune system cells are infected but usually aptosis is induced before replication takes place. 
-[todo: search&read]
+> The tropism in the virion phase is better known than the tropism in the metabolic phase, since the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells expression the right receptors. To investigate the metabolic phase, ideally one could look into the cells. 
 
-#### conditions inside the cell
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
 * The cell should be able to produce lots of virions and thus should have a performant metabolism.
-
- 
 
 ### cell tropism
 
 > *Cell tropism* describes how a virus behaves upon match of a virion to a specific cell type. 
 
-The cell tropism is the combination of the [virion tropism](#virion-tropism) which determines cell entry and the [tropism in the metabolic](#metabolic-tropism) phase which determines the changes in the cells metabolism induced upon viral entry.  
+The cell tropism is the combination of the [virion tropism](#tropism-virion-phase) which determines cell entry and the [tropism in the metabolic phase](#tropism-metabolic-phase) which determines the changes in the cells metabolism induced upon viral entry. Outside of laboratories reachability is an important factor too.   
 
-For viruses in natural equilibrium, the cells infected are involved in the survival of the virus strain:
+For viruses optimized to its environment, only cells involved in the survival of the virus strain are infected:
 * cell used as entry point. For coronaviruses these are often cells on the aptical epithelial layer of respiratory tract. 
 * cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. Often these are secretory or ciliated cells in the respiratory tract.
-* cells relevant to leave a host. Often these are cells in the intestine or the kidney. For indoor living hosts these are 
+* cells relevant to leave a host. 
+    - Often these are cells in the intestine or the kidney. 
+    - For indoor living hosts these are often in the upper respiratory tract. 
 * cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dentritic and T cells) and induce aptosis. 
+
+
+
+<p id='tropism-of-coronaviruses'>-----</p>
+
+## Tropism of Coronaviruses
+The general concepts are outlined in the section [tropism of viruses](#tropism-of-viruses) in this section is about the [tropism](#tropism) of coronaviruses with a focus on Sars-CoV-2. As discussed there's a tropism in the virion phase and in the metabolic phase. These two yield the overall cell tropism. 
+
+### tropism virion phase
+* the spike protein of coronaviruses need to be primed/activate usually by proteases
+    - 
+* the spike protein needs to attach to a matching receptor
+
+#### metabolic phase tropism of coronaviruses
+* ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
+* immune system cells are infected but usually aptosis is induced in the early phase of the viral metabolism and before replication takes place. 
+[todo: search&read]
+
+
 
 #### cell tropism of sars-cov-2
 [in work]
@@ -833,7 +865,7 @@ For viruses in natural equilibrium, the cells infected are involved in the survi
 * no entry
     - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted. 
 
-> Phagocytose  can occur e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccacines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
+> Even if the virions can't attach to a cell and/or induce cell entry, phagocytosis can be induced by the cell alone:  e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccacines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
 ### tissue tropism
 * coronaviruses are often is tissues with large aptical surface and the [virions are released](#orientation-matters) again on the aptical side to spread via the covering fluids. 
@@ -903,7 +935,7 @@ So an interspecies infection denotes a transmission without spread in the new sp
 The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
 
 ### constraint reasoning
-In the following the habitat of Sars-CoV-2 is deduced from the [life cycle](#life-cycle) and its [cell tropism](#cell-tropism). 
+In the following the habitat of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism) and the reachability of [infectable cells](#infectable-cell). 
 
 #### cell entry and receptor
 [in rework/reorder]
@@ -1054,8 +1086,8 @@ A collection of immune cells which can target substances which have been learned
 
 ### adaption of the immune system
 The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the anchestors have been exposed to (genetic adaption)
-* personal history of exposure to antigens experienced to be harmful: E.g. antigens similar the Sars-Cov-2 yields cells capable of producing targeted antibodies
-* personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
+* lifetime adaption: personal history of exposure to antigens experienced to be harmful: E.g. antigens similar the Sars-Cov-2 yields cells capable of producing targeted antibodies
+* generation adaption: personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
 
 
 
@@ -1109,6 +1141,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 <p id='ideas'> -------</p>
 
 # Ideas to Explore
+* [Backtracing Sars-CoV-1/2](#origin)
 * [Infection Tropism and Disease Patterns](#disease-pattering)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
@@ -1118,7 +1151,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 ## Backtracing Sars-CoV-1/2
 
-The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 3.9.20 unclear. The goal of this section is to backtrack the natural habitats of Sars-like viruses. 
+The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 3.9.20 unclear. The goal of this section is to trace and track the natural habitats of Sars-like viruses. 
 
 ### Relevance
 * knowing the habitat can help to prevent additional jumps to humans.
@@ -1165,7 +1198,7 @@ URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Sore throat, upper cough, sneezing |
 LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available, else anitbody response, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death, EI| aerosol, dry form | mainly in dry air since in humid air less likely to reach LR, the lung surface is big so lots of space to spread
 EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| local T cell or antibodies | - | through viraemia, through alimentary either by URI or by oral intake| Adequate immune response likely
 
-* The coronaviruses directly emerging from zoonoses from outdoor living animals MERS-CoV and likely  Sars-CoV-1 cause mainly LRI and spread to the intestine. In wild animals this is the [way to spread and survive](#life-cycle-of-virus-entities). 
+* The coronaviruses directly emerging from zoonoses from outdoor living animals MERS-CoV and likely  Sars-CoV-1 cause mainly LRI and spread to the intestine. In wild animals this is the [way to spread and survive](#life-cycle-of-a-coronavirus-entity). 
 * The coronaviruses well adapted to our 'modern' way of life with dense population and in indoor rooms mainly infect to upper respiratory tract and ignore the intestine. 
 
 > The origin of Sars-CoV-1 is unclear: Related viruses are found in bats and even more similar in civet cats. However seroprevalence of antibodies in civet cats suggest that Sars-CoV-1 is not endemic to civet cats and thus there was a jump to civet cats around the same time (2002) when Sars-CoV-1 jumped to humans. [citations in work]
