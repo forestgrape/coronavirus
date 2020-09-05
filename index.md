@@ -30,10 +30,9 @@
     * [risk assessment](#risk-assessment)   
     * [Monitor](#monitor)
     * [Data Availability](#data)
-* [Forms of Life](#forms-of-life)
+* [Coronaviruses with a Focus on Sars-CoV-2](#coronaviruses)
     - [Introduction to Life](#intro-to-life)
     - [Introduction to Viruses](#intro-to-viruses)
-* [Coronaviruses with a Focus on Sars-CoV-2](#coronaviruses)- 
     - [Introduction to Coronaviruses](#intro-to-coronaviruses)
     - [Life Cycle](#life-cycle) 
     - [Tropism](#tropism)
@@ -343,7 +342,7 @@ Outside there is much more air per person than inside:
 #### virion decay
 Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the virion decay are:
 * the genome is [stored in unstable ssRNA](#ssRNA)
-* the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membrane has not evolved to be stable outside the organism and especially not the cell membrane of the respiratory tract. 
+* the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membrane has not evolved to be stable outside the organism.
 * virions have no repair mechansim since they don't have a metabolism
 
 Process and situations virions decay:
@@ -367,7 +366,6 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
     * earth
     * water
     * rocks
-
 
 
 
@@ -420,10 +418,13 @@ Right or Wrong and Perfection anyways are often a matter of viewpoint and angle.
 Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub repository/REST API) and are annotated e.g. contain a readme with the specifications what and how is measured. 
 
 
-<p id="forms-of-life">-------</p>
 
-# Life on Earth with a Focus on Viruses
-Principles of the different forms of life on earth. The focus is on principles key to understand coronaviruses. 
+
+<p id="coronaviruses">-------</p>
+
+# Coronaviruses with a Focus on Sars-CoV-2
+[in work]
+Various aspects of coronaviruses are described. The starting point are the principles of life on earth. The focus is on understanding coronaviruses.  
 
 - [Introduction to Life](#intro-to-life)
     * [forms of life](#forms-oflife)
@@ -432,9 +433,20 @@ Principles of the different forms of life on earth. The focus is on principles k
     * [interactions between life](#interactions-between-life)
     * [cell forming life](#cell-forming-life)
 - [Introduction to Viruses](#intro-to-viruses)
+    * [Way of Life](#way-of-life)
     * [Virus Classification](#virus-classification)
     * [Virus Entities](#virus-entities)
-- [Movement of Virions](#movement-of-virions)
+    * [Movement of Virions](#movement-of-virions)
+- [Introduction to Coronaviruses](#intro-to-coronaviruses)
+- [Life Cycle](#life-cycle) 
+    * [Metabolic Phase](#metabolic-phase)
+    * [Virion Phase](#virion-phase)
+- [Tropism](#tropism)
+- [Habitat](#habitat)
+- [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
+- [Evolution and Adaption](#evolution-and-adaption)
+
+
 
 
 <p id='intro-to-life'>-----</p>
@@ -477,22 +489,34 @@ Proteins are assembled by ribosomes:
     double stranded DNA: 
     - very stable
     - reliable duplication possible 
+
+#### notes on storage
+* only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other forms are dependent on some enzymes produced by dsDNA forms and as defined below are called [viruses](#virus).
+* Some forms of life alternate the storage formats through their life cycle: ssRNA-RT (retroviruses).
  
 
-### storage and duplication
+### forms of storage and duplication
 [in work]
+
+#### 1 form using RNA only
+* viroids
+    - single RNA strand which catalyzes its duplication
+
+#### 7 forms using proteins
 7 forms of combinations of lifetime storage and duplication/decode mechanisms are known to be in use on earth, known as Baltimore classification:
 * (+)ssRNA := Single stranded RNA, + sense
+    - genome can be directly read by ribosoms
+    - replication is done via a (-) RNA strand which is duplicated to many (+) strands
 * (-)ssRNA := Single stranded RNA, - sense
+    - genome needs to be transcribed to (+) stranded RNA before translation in the ribosoms
+    - replication is done via  (+) stranded RNA
 * ssDNA := Single-strand DNA
 * dsDNA-RT := gapped DNA
 * dsRNA := Double strand RNA
 * ssRNA-RT := DNA-RNA reverse transcribing
 * dsDNA := Double stranded DNA
 
-#### notes on storage
-* only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other forms are dependent on some enzymes produced by dsDNA forms and as defined below are called [viruses](#virus).
-* Some forms of life alternate the storage formats through their life cycle: ssRNA-RT (retroviruses).
+
 
 > A *gene* denotes a piece of storage which encodes a single protein. 
 
@@ -523,7 +547,7 @@ Some forms of life have just this outer membrane but no inner membrane shielding
 
 ## Introduction to Viruses
 
-(in work and to be checked)
+### way of life
 
 > <span id='virus'> A *virus* is a form of life on earth, that can't produce all necessary enzymes for its replication. </span> 
 
@@ -661,24 +685,6 @@ The probability to reach a *next* exploitable host, is especially low, due to ma
 <!--transmission bottleneck important for evolution-->
 
 
-
-<p id="coronaviruses">-------</p>
-
-# Coronaviruses with a Focus on Sars-CoV-2
-[in work]
-This short overview reviews various aspects of coronaviruses. The overview mostly covers topics relevant for other part part of [this site](#t-content).
-
-
-- [Introduction to Coronaviruses](#intro-to-coronaviruses)
-- [Life Cycle](#life-cycle) 
-    * [Metabolic Phase](#metabolic-phase)
-    * [Virion Phase](#virion-phase)
-- [Tropism](#tropism)
-- [Habitat](#habitat)
-- [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
-- [Evolution and Adaption](#evolution-and-adaption)
-
-
 <p id='intro-to-coronaviruses'>-----</p>
 
 ## Introduction to Coronaviruses
@@ -744,16 +750,17 @@ The infectable cell can be:
 
 #### cell entry
 - the virus gets attached to the matching receptor on the target cell mostly via the spike protein
-- fusion of the viral envelope with host cell membranes once [primed]: 
-    * initiated by the fusionpeptides of the spike protein 
-    * which in turn is driven by the conformational energy of the spike protein, 
-    * which is released upon cleavage at specific cleavage sites
-- release of genetic material and proteins into the cell
-- once the viral RNA is in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
+- fusion of the viral envelope with host cell membranes once [primed](#priming): 
+    * binding to a receptor on the cell membrane -> cleavage sites are exposed 
+    * cleavage through proteases at specific cleavage sites enable a conformation change 
+    * the conformation change presses the fusionpeptides of the spike protein into the cell membrane 
+    * with the fusion peptides anchored in the cell membrane a further conformation change of the spike protein presses the viral and cell membrane together which can result in membrane fusion. 
+- release and unpacking of genome and the structural proteins into the cytoplasm 
+- once the viral RNA and the viral proteins are in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
 
 
 ### metabolic phase
-The metabolism starts once the genetic material of a virion is processed by a cell and thus the virus influences part the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failling. 
+The viral metabolism starts once the genetic material of a virion is processed by a cell and thus the virus changes the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failling. 
 
 #### metabolism phase 1: preparation
 [in work]<br>
@@ -774,11 +781,11 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 
 
-<p id='tropism-of-viruses'>-----</p>
+<p id='tropism-of-coronaviruses'>-----</p>
 
-## Tropism of Viruses
+## Tropism 
 
-> <span id='tropism'>*Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how organisms behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.</span>
+> <span id='tropism'>*Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.</span>
 
 > In literature, the term tropism of viruses is sometimes used more narrowly: which cells and tissues are suspectible to infection or in which an infection is observed. Here, for observed infections the term habitat is used. 
 
@@ -798,6 +805,12 @@ Both evolution and biological constraints yield the tropism of viruses. Evolutio
     - biological environment: e.g. Virions are primed for cell entry by specific proteins
     -->
 
+<!--
+<p id='tropism-of-coronaviruses'>-----</p>
+
+## Tropism of Coronaviruses
+The general concepts are outlined in the section [tropism of viruses](#tropism-of-viruses) in this section is about the [tropism](#tropism) of coronaviruses with a focus on Sars-CoV-2. As discussed there's a tropism in the virion phase and in the metabolic phase. These two yield the overall cell tropism. -->
+
 
 ### tropism virion phase
 
@@ -805,15 +818,10 @@ Plant seeds evolved first to travel and then to be activated under favourable co
 
 #### virion attachment and activation
 * enviromenment around the cell
-    - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
+    - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
 * matching receptor
 
-#### cell entry
-To enter a cell, virions need to pass the cell membrane. There are several pathways to get cell entry: 
-* virion induced membrane fusion: The virion grabs the cell by attachment to the cell receptors.  Then by a conformation change of virion proteins with spring loaded energy (since they don't have a metabolism running) the membrane fusion is induced.
-* the virion binds to a receptor on the cell membrane, which signals the cell to induce endocythosis.  
-
-
+  
 
 ### metabolic phase tropism
 [in work: incomplete and citations/confirmation in work]<br>
@@ -821,6 +829,11 @@ To enter a cell, virions need to pass the cell membrane. There are several pathw
 
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
 * The cell should be able to produce lots of virions and thus should have a performant metabolism.
+
+#### metabolic phase tropism of coronaviruses
+* ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
+* immune system cells are infected but usually aptosis is induced in the early phase of the viral metabolism and before replication takes place. 
+[todo: search&read]
 
 ### cell tropism
 
@@ -835,23 +848,6 @@ For viruses optimized to its environment, only cells involved in the survival of
     - Often these are cells in the intestine or the kidney. 
     - For indoor living hosts these are often in the upper respiratory tract. 
 * cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dentritic and T cells) and induce aptosis. 
-
-
-
-<p id='tropism-of-coronaviruses'>-----</p>
-
-## Tropism of Coronaviruses
-The general concepts are outlined in the section [tropism of viruses](#tropism-of-viruses) in this section is about the [tropism](#tropism) of coronaviruses with a focus on Sars-CoV-2. As discussed there's a tropism in the virion phase and in the metabolic phase. These two yield the overall cell tropism. 
-
-### tropism virion phase
-* the spike protein of coronaviruses need to be primed/activate usually by proteases
-    - 
-* the spike protein needs to attach to a matching receptor
-
-#### metabolic phase tropism of coronaviruses
-* ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
-* immune system cells are infected but usually aptosis is induced in the early phase of the viral metabolism and before replication takes place. 
-[todo: search&read]
 
 
 
