@@ -36,8 +36,8 @@
     - [Introduction to Coronaviruses](#intro-to-coronaviruses)
     - [Life Cycle](#life-cycle) 
     - [Tropism](#tropism)
+    - [Tissue Tropism of Sars-CoV-2](#tissue-tropism-of-sars-cov-2)
     - [Habitat](#habitat)
-    - [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
     - [Evolution and Adaption](#evolution-and-adaption)
 * [Immune System](#immune-system)
 * [Ideas to Explore](#ideas)
@@ -424,7 +424,7 @@ Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub rep
 
 # Coronaviruses with a Focus on Sars-CoV-2
 [in work]
-Various aspects of coronaviruses are described. The starting point are the principles of life on earth. The focus is on understanding coronaviruses.  
+Various aspects of coronaviruses are described. We start with first principles: life forms on earth. The focus is on understanding coronaviruses.  
 
 - [Introduction to Life](#intro-to-life)
     * [forms of life](#forms-oflife)
@@ -442,8 +442,8 @@ Various aspects of coronaviruses are described. The starting point are the princ
     * [Metabolic Phase](#metabolic-phase)
     * [Virion Phase](#virion-phase)
 - [Tropism](#tropism)
+- [Tissue Tropism of Sars-CoV-2](#tissue-tropism-of-sars-cov-2)
 - [Habitat](#habitat)
-- [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
 - [Evolution and Adaption](#evolution-and-adaption)
 
 
@@ -867,6 +867,67 @@ For viruses optimized to its environment, only cells involved in the survival of
 * coronaviruses are often is tissues with large aptical surface and the [virions are released](#orientation-matters) again on the aptical side to spread via the covering fluids. 
 * coronaviruses are to big to diffuse effiently inside tissues [to verify].
 
+The tissue tropism of SARS-CoV-2 is in the section [Tissue Tropism of SARS-CoV-2](#tissue-tropism-of-sars-cov-2)
+
+
+
+<p id='tissue-tropism-of-sars-cov-2'>-----</p>
+
+## Tissue Tropism of Sars-CoV-2
+[in rework to remove errata and to clarify]<br>
+The task determine to habitat of Sars-CoV-2 can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical deduction](#empirical-reasoning) based on observations of Covid-19.
+
+### constraint reasoning
+In the following the habitat of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism) and the reachability of the tissue in question. 
+
+#### cell entry and receptor
+[in rework/reorder]
+The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
+
+#### orientation matters 
+*  The transmission pathways (mostly airborne and vectorless) yields an initial deposition of the virions on the aptical side together with the barrier function of the apical cell layer the virions have  
+* In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
+
+#### ace2 receptor detection
+There are two common methods to measure tissue distribution of proteins:
+* ##### antibody staining
+    detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
+* ##### measure mrna
+    Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
+
+##### caveats of ace2 detection
+[in work, verification needed]
+For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. Moreover since coronaviruses have a preference for [aptical tissue sites](#tissue-tropism) the ACE2 should be expressed on the apical sites. 
+* [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
+* [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
+    - stay in the cell i.e. in cytoplasm or more into the nucleus
+    - be released from the cell
+    - being built into the cell membrane as a receptor on any site. 
+
+#### ace2 receptor distribution
+[**incomplete and in rework**][Until updated, recommended is direct lookup in: [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]<br>
+ACE2 is apically available 
+* in the lower respiratory tract
+    - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
+    - alveolar epithelial type 2 cells [to check/find citation].
+
+* in the upper respiratory tract
+    - the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
+    - goblet cells[todo: other cells (goblet) too in rework]
+
+
+### empirical deduction
+[in rework: update and a section for each strain]<br>
+Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
+
+#### betacoronavirus type 2 viral load
+The viral load observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
+* The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
+* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
+Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
+
+That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An widespread infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].  
+
 
 
 <p id='section-habitat'>-----</p>
@@ -921,66 +982,6 @@ So an interspecies infection denotes a transmission without spread in the new sp
 #### observed interspecies jumps
 * jumps: Bovine coronaviruses have jumped to a whole range of hosts: canine, human, wild ruminants, porcine [Bidokhti et al](#bidokhti).
 * jumps to humans, also called [zoonosis](#zoonosis): MERS, Sars-CoV-1 and OC43 are all jumped from animals to humans [refs in work]. 
-
-
-
-<p id='habitat-of-sars-cov-2'>-----</p>
-
-## Habitat of Sars-CoV-2
-[in rework to remove errata and to clarify]<br>
-The task determine to habitat of Sars-CoV-2 in humans can be tackled either a [theoretical constraint based reasoning](#constraint-reasoning) or by an [empirical reasoning](#empirical-reasoning) based on observations of Covid-19.
-
-### constraint reasoning
-In the following the habitat of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism) and the reachability of [infectable cells](#infectable-cell). 
-
-#### cell entry and receptor
-[in rework/reorder]
-The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
-
-#### orientation matters 
-* The barrier function of the apical cell layer against coronavirus virions make an initial aptical entry necessary. 
-* In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
-
-#### ace2 receptor detection
-There are two common methods to measure tissue distribution of proteins:
-* ##### antibody staining
-    detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
-* ##### measure mrna
-    Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
-
-##### caveats of ace2 detection
-[in work, verification needed]
-For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. Moreover since coronaviruses have a preference for [aptical tissue sites](#tissue-tropism) the ACE2 should be expressed on the apical sites. 
-* [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
-* [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
-    - stay in the cell i.e. in cytoplasm or more into the nucleus
-    - be released from the cell
-    - being built into the cell membrane as a receptor on any site. 
-
-#### ace2 receptor distribution
-[**incomplete and in rework**][Until updated, recommended is direct lookup in: [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]<br>
-ACE2 is apically available 
-* in the lower respiratory tract
-    - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
-    - alveolar epithelial type 2 cells [to check/find citation].
-
-* in the upper respiratory tract
-    - the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
-    - goblet cells[todo: other cells (goblet) too in rework]
-
-
-### empirical reasoning
-[in rework: update and a section for each strain]<br>
-Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
-
-#### betacoronavirus type 2 viral load
-The viral load observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
-* The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
-* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
-Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
-
-That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An widespread infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].  
-
 
 
 <p id='evolution-and-adaption'>-----</p>
@@ -1745,7 +1746,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 <!--
 [in work 2.8.]
 ## Transmission of Betacoronaviruses
-This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#habitat-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).-->
+This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#tissue-tropism-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).-->
 
 
 
