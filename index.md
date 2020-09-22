@@ -41,6 +41,8 @@
     - [Evolution and Adaption](#evolution-and-adaption)
 * [Immune System](#immune-system)
 * [Ideas to Explore](#ideas)
+    - [Backtracing Sars-CoV-1/2](#backtrace-habitat)
+        The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles.
     - [Infection Tropism and Disease patterns](#disease-pattering)
     - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
@@ -64,6 +66,7 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
+- 21.9. new section [Backtracing Sars-CoV-1/2](#backtrace-habitat)
 - 30.7. Updates and corrections accross the page in work/in the process of writing down:
 	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid clima. This has changed: the currently circulating strains spread well in humid clima too.  
@@ -1138,50 +1141,52 @@ All form of life on earth share common molecular patterns. The more genetically 
 <p id='ideas'> -------</p>
 
 # Ideas to Explore
-* [Backtracing Sars-CoV-1/2](#origin)
+* [Backtracing Sars-CoV-1/2](#backtrace-habitat)
 * [Infection Tropism and Disease Patterns](#disease-pattering)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
 
-<p id='origin'>-----</p>
+<p id='backtrace-habitat'>-----</p>
 
 ## Backtracing Sars-CoV-1/2
 
-The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 21.9.20 is unclear. The goal of this section is to trace and track the natural habitats of Sars-like viruses. 
+The goal of this section is to trace the natural habitats of Sars-like viruses. 
+* The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 21.9.20 is often though as bats. 
+* the jump and adaption to humans is unclear and speculations are flourishing 
 
 ### Relevance
-* knowing the habitat can help to prevent additional jumps to humans.
-* observing the natural habitat provide knowledge to develop medications and treatments.
+* knowing the habitat can help to adequately prevent additional jumps.
+* observing the natural habitat can provide knowledge and ideas to develop medications and treatments.
 
-## Backtracing SARS-like
-
+### Hypotheses
 Sketching hypotheses about the habitat of SARS-like including pieces of evidence. [refs coming tomorrow and a more in depth exploration and explanation is in work: section [Habitat and Life Cycle of Coronavirus Organisms]]
 1. The virus strains closely related to SARS-CoV-2 and including those using the ACE 2 receptor are endemic to the region around northern Yunnan. Evidence:
     * Bats containing SARS-like viruses using the ACE 2 receptor are found in northern Yunnan and only in this region. 
     * The tropism of the early SARS-2 strains in November through January was such that that SARS-CoV-2 spread only in cool and dry but not in warm and humid conditions. A similar climate is expected for the evolutionary habitat of SARS-CoV-2 and such a climate is found in the mountainous part of northern Yunnan. 
 2. Domestic animals are part of the natural habitat of SARS-CoV-1/2 and regular limited infections of humans occur. Evidence:
- - The tropism of SARS-CoV-2, especially in comparison to SARS-CoV-1, suggests adaption to indoor transmission. 
- - Serology of farmers in northern Yunnan shows regular infections. 
- - All human coronaviruses other than SARS-like are known to have close relatives in farm animals, thus jumps in either direction occurred. All relations to wild animal CoVs can be attributed to jumping between domestic and wild animals. 
- - MERS is known that it usually jumps from camels to humans. SARS-like are similar to MERS-like both genetically and in epidemiological observations.
- - SARS-like have a large and dense genetic diversity and an evolution with frequent recombinations which requires co-infections of different strains in the same cell and so in the same animal. This makes indicates a host species with a large biomass and a relaxed 'Darwinism'. For the last centuries the only animals providing this, are farm animals. Candidates are goats, sheep, pigs or even BM. 
+    - The tropism of SARS-CoV-2 and to a lesser extent of SARS-CoV-1, suggests adaption humans and indoor transmission. 
+    - Serology of farmers in northern Yunnan shows regular infections. 
+    - All human coronaviruses other than SARS-like are known to have close relatives in farm animals, thus jumps in either direction occurred. All relations to wild animal CoVs likely are due to jumps between domestic and wild animals and not to jumps between humans and wild animals. 
+    - MERS is known that it usually jumps from camels to humans. SARS-like are similar to MERS-like both genetically and in epidemiological observations.
+    - SARS-like have a large and dense genetic diversity and an evolution with frequent recombinations which requires co-infections of different strains in the same cell and so in the same animal. This makes indicates a host species with a large biomass and a relaxed 'Darwinism'. For the last centuries the only animals providing this, are farm animals. Candidates are goats, sheep, pigs or even Bombyx mori. 
 3. The livestock animals are likely goats or sheep. Evidence:
- - Due to cross immune reactions against coronaviruses, a group of vertebrates likely can be an evolutionary habitat to only one coronavirus species. Cattle have BCoVs, pigs have TEGV and camels MERS. Sheep and goats are still available to provide a habitat. 
- - MERS is genetically quite close to SARS-CoVs, indicating the natural hosts of SARS-like are quite close natural hosts of MERS both genetically and in lifestyle. 
+    - Due to cross immune reactions against coronaviruses, a group of vertebrates likely can be an evolutionary habitat to only one coronavirus species. Cattle have BCoVs, pigs have TEGV and camels MERS. Sheep and goats are still available to provide a habitat. 
+    - MERS is genetically quite close to SARS-CoVs, indicating the natural hosts of SARS-like are quite close natural hosts of MERS both genetically and in lifestyle. 
 4. Insects play a role in the natural habitat and life cycle namely they close the cycle from feces to oral uptake by the mammalian hosts. Two possibilities:
     * the natural life cycle of SARS-like virus entities is alternating between mammals and insects. In this scenario it is even possible that insects are the hosts where the main virus evolution takes place (more likely)
     * insect act as mechanical vectors and transport the viruses but no replication takes place (less likely)
 
-Evidence:
-- animals tested positive in markets for SARS-like are insectivores:
-    - civets, racon dogs very similar virus to SARS-1 and in 2004 civets likely acted as intermediate host
-    - pangolins for SARS-2
-- animals tested positive in the wild for SARS-like are insectivores:
-    - bats around China test positive for SARS-like
-    - bats in Yunnan were infected with the closets relatives found 
-    - In the case of MERS-like the wild animals positive are bats and hedgehogs. 
-- insects often nourish from feces and thus the life cycle of SARS-like could be closed. 
+    Evidence:
+    - animals tested positive in markets for SARS-like are insectivores:
+        - civets, racon dogs very similar virus to SARS-1 and in 2004 civets likely acted as intermediate host
+        - pangolins for SARS-2
+    - animals tested positive in the wild for SARS-like are insectivores:
+        - bats around China test positive for SARS-like
+        - bats in Yunnan were infected with the closets relatives found 
+        - In the case of MERS-like the wild animals positive are bats and hedgehogs. 
+    - insects often nourish from feces and thus the life cycle of SARS-like could be closed.
+    - SARS-like have some well preserved genetic sequence, which is only found in insects and insect viruses 
 5. Insectivores mammals could be intermediate hosts for the transmissions to humans. SARS-like infected mammals often have a respiratory disease and transmission can occur airborne from then on. 
 
 <p id='disease-pattering'> -----</p>
