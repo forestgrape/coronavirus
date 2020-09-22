@@ -2518,7 +2518,7 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 <p id="summaries-backtracing-habitat">---</p>
 
 ## Summaries and References for Section Backtracing SARS-like Habitat
-[in work]
+[in work; **only summaries and not proper references yet**]
 The focus of the summaries is in the following order:
 1. capture the findings used in the above argumentation
 2. capture the essence of the studies
