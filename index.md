@@ -66,7 +66,7 @@
 <p id="updates">-----</p> 
 
 ## Updates and Added Content
-- 21.9. new section [Backtracing Sars-CoV-1/2](#backtrace-habitat)
+- 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
 - 30.7. Updates and corrections accross the page in work/in the process of writing down:
 	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid clima. This has changed: the currently circulating strains spread well in humid clima too.  
