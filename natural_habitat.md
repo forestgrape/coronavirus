@@ -1,3 +1,6 @@
+
+# Life Cycle and Habitat of Nidovirales Organism
+
 <!--
 ### relevance
 To know the evolutionary hosts is important since they are likely key to steer the sarbecoviruses.
@@ -18,8 +21,14 @@ The focus of the summaries is in the following order:
 1. capture the findings used in the above argumentation
 2. capture the essence of the studies
 
+Notes:
 * references like 'Figure 2' refer to 'Figure 2' in the corresponding paper. 
-* word by word extracts are denotes as "copy & paste content in here"
+* word by word extracts are between "..." and denoted as extracts
+
+### content
+* summary guan 2003: **Isolation and Characterization of Viruses Related to the SARS Coronavirus from Animals in Southern China**
+* summary dudas 2017
+**MERS-CoV spillover at the camel-human interface** Gytis
 
 ### summary guan 2003
 **Isolation and Characterization of Viruses Related to the SARS Coronavirus from Animals in Southern China**
@@ -173,7 +182,7 @@ Frequent recombination events makes genome analysis challenging. Regions likely 
     - SARS-CoV-2 and Pangolin-2019 are about 10% divergent throughout the entire S protein. 
     - RaTG13 and Sars-CoV-2 are similar in the S gene except for the variable loop region. RaTG13 is divergent in the variable loop region from Sars-CoV-2 and is the likely product of recombination, acquiring a divergent variable loop from an as yet unsampled bat sarbecovirus.
 
-## mammal tropism
+## mammalian tropism
 
 ### summary x zhai
 **Comparison of Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein Binding to ACE2 Receptors from Human, Pets, Farm Animals, and Putative Intermediate Hosts**

@@ -47,29 +47,25 @@
     - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
-    - [Data Availability](#data) Public availability of well specified and finegrained data.
-* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](#transmission-models) <br> 
+    - [Data Availability](#data) Public availability of well specified and raw/fine-grained data.
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models) <br> 
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible.  
-    - [Abstract](#abstract)
+    - [Abstract](#abstract-transmissions)
     - [Airborne Transmission](#airborne-transmission)
     - [Dry Form Model](#dry-form-model)
     - [Intermezzo Particle Dynamics in the Respiratory Tract](#particles)       
     - [Evidence for the Dry Form Transmission Model](#evidence)
         * [Evidence from Biological Properties](#biological-properties)
         * [Evidence from the observed Spread Patterns](#spread-patterns)
-* [Suggested Protections Measures](#measures)<br>
-    Smoke protection measures and masks work well. 
-    - [Masks](#masks)
-    - [Ventilation](#ventilation)
 * [References](#references)
 
 <p id="updates">-----</p>
 
 ## Updates and Added Content
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
-- 30.7. Updates and corrections accross the page in work/in the process of writing down:
+- 30.7. Updates and corrections across the page in work/in the process of writing down:
 	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
-	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid clima. This has changed: the currently circulating strains spread well in humid clima too.  
+	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
 - 27.7. [Disease pattering](#disease-pattering)
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
@@ -77,7 +73,7 @@
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
 - 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](#particles).<br>
-    In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ tripple wrong:
+    In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ triple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). The ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
@@ -107,7 +103,7 @@
 
 ## Public Advice, Suggestions and Thoughts
 [in rework]
-Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects can occur too for other (corona)viruses causing common colds - awarness for viruses and knowledge what they do and how they can harm or help is important. However no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects can occur too for other (corona)viruses causing common colds - awareness for viruses and knowledge what they do and how they can harm or help is important. However no reason to be afraid, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
 Time to act mindfully and work together in an open and honest way. 
 
@@ -161,7 +157,7 @@ The more common Covid-19 in a region is, the more likely it is, that an observed
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
 
 
-> It's time [for medicine] to move on from digitalisation and black-white schemes to the continuous colorspace of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees. 
+> It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees. 
 
 
 - Live a healthy lifestyle 
@@ -569,7 +565,7 @@ Virions are similar to seeds of plants: They don't have a metabolism running and
 
 > <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
 
-Once a virus infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Longterm surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
+Once a virus infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Long-term surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
 > <span id='infected-object'> An object is called _infected_ by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an organism. There are constraints on a [object to be infectable](#tropism-of-viruses).</span> 
 
@@ -580,7 +576,7 @@ So an organism is infected if it has some cells that are [infected](#infected-ce
 
 ### virus classification
 As defined all [forms of life](#form-of-life) which don't encode their entire metabolism are called [viruses](#virus). Since such forms exists across the tree of life, viruses are as diverse as the tree of life. The goal of classification is usually to group things together which are similar to some features of interest. Features of interest for viruses are: 
-* behaviour and habitats occupied
+* behavior and habitats occupied
 * genetic and structural similarity
 
 
@@ -590,15 +586,15 @@ Similar as single cells organize by communication and share of resources to form
 
 Often forms of life organize and specialize to increase fitness and form a more capable entity called organism. For many questions regarding organism are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
 
-Similarly for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviours in different cells and upon different situations:
+Similarly for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviors in different cells and upon different situations:
 * DNA viruses can in theory encode the same differentiation mechanisms as eukaryotic cells 
-* RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviours](#tropism-of-viruses) in different situations. 
+* RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#tropism-of-viruses) in different situations. 
 <!--
 > A virus entity denotes all viruses contributing to a viral infection in an organism.--> 
 
-> <span id='virus-entity'>A *Virus Entity* denotes all viruses in an organism resulting from a single infection occurence. Upon a new infection the infections can interact and give rise to a *new entity*. </span>
+> <span id='virus-entity'>A *Virus Entity* denotes all viruses in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*. </span>
 
-Similar to the different cells in multicellular organism only few viruses in a virus entitiy are likely to infect new hosts and thereby form a new entity. 
+Similar to the different cells in multicellular organism only few viruses in a virus entity are likely to infect new hosts and thereby form a new entity. 
 
 > Virus entities/organisms are a concept I haven't seen about in literature. Similar concepts may exists possibly under different names. 
 
@@ -606,9 +602,9 @@ Similar to the different cells in multicellular organism only few viruses in a v
 In outside living vertebrate hosts, the typical life cycle of a coronavirus entity is [citations and argumentation in work]:
 * enter the respiratory system
 * spread to the lower respiratory tract and replicate to high titers (often in ciliated epithelial cells) 
-* dimish parts of the host immune system
+* diminish parts of the host immune system
 * reach the intestine (or sometimes the kidney) by spreading through blood or through the alimentary tract via stomach
-* establish a possibly longer lasting infection in the intestine(/kidney) and contineously have progeny released
+* establish a possibly longer lasting infection in the intestine(/kidney) and continuously have progeny released
 * progeny: the virions get transported by wind or water to new susceptible hosts
 
 
@@ -624,7 +620,7 @@ All forms of life on earth are water based. Both protein and RNA/DNA synthesis o
     - Water in lakes and rivers: These waters serve as an intermediate place for many virions. 
     - Fluid in an organism: Virions of viruses infecting multicellular life first start out in the fluids of the hosts and in many cases never leave the host fluids. 
     - Water droplets can be dissolved in air. 
-    - Air. Air contains reative oxygen and most virions will be destroyed, since they expose activator proteins on the outside. Coronavirus virions are a rare exception staying infectious in dry form. 
+    - Air. Air contains reactive oxygen and most virions will be destroyed, since they expose activator proteins on the outside. Coronavirus virions are a rare exception staying infectious in dry form. 
 * __Material attached to__: These can be any solid material e.g. a part of living organism or any kind of non living matter. The movement of virions follows the movement of the materials attached to. These particles are in turn dissolved in fluids, mostly water, or attached to other particles. 
 
 
@@ -638,7 +634,7 @@ Often virions get moved within a host. Some even evolved not to leave the host o
 - solid movements within the host i.e. the virion is attached to a moveable part:
     * inside cells with the centrosome. Especially important for viruses which need to enter the cell nucleus e.g. influenza viruses.
     * attached to particles get moved around within a host. 
-    * the movement of body parts e.g. an extremity (hands and feets) or the lungs.  
+    * the movement of body parts e.g. an extremity (hands and feet) or the lungs.  
 - Brownian Motion: The Brownian motion of viruses is slow and by Brownian motion alone a virion usually just moves a few micro meters to reach close by cells. However if given engough time virions can diffuse to many locations both within tissues or within cells. 
 
 
@@ -816,7 +812,6 @@ The general concepts are outlined in the section [tropism of viruses](#tropism-o
 
 
 ### tropism virion phase
-
 Plant seeds evolved first to travel and then to be activated under favourable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on the cell membrane and proteases available. 
 
 #### virion attachment and activation
@@ -824,7 +819,6 @@ Plant seeds evolved first to travel and then to be activated under favourable co
     - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
 * matching receptor
 
-  
 
 ### metabolic phase tropism
 [in work: incomplete and citations/confirmation in work]<br>
@@ -838,8 +832,8 @@ Plant seeds evolved first to travel and then to be activated under favourable co
 * immune system cells are infected but usually aptosis is induced in the early phase of the viral metabolism and before replication takes place. 
 [todo: search&read]
 
-### cell tropism
 
+### cell tropism
 > *Cell tropism* describes how a virus behaves upon match of a virion to a specific cell type. 
 
 The cell tropism is the combination of the [virion tropism](#tropism-virion-phase) which determines cell entry and the [tropism in the metabolic phase](#tropism-metabolic-phase) which determines the changes in the cells metabolism induced upon viral entry. Outside of laboratories reachability is an important factor too.   
@@ -851,8 +845,6 @@ For viruses optimized to its environment, only cells involved in the survival of
     - Often these are cells in the intestine or the kidney. 
     - For indoor living hosts these are often in the upper respiratory tract. 
 * cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dentritic and T cells) and induce aptosis. 
-
-
 
 #### cell tropism of sars-cov-2
 [in work]
@@ -1647,306 +1639,6 @@ The following characteristics are observed in the  [paper from Yuen et al.](#yue
 
 
 
-<p id="transmission-models">--------</p>
-
-# Transmission of Betacoronaviruses with Focus on Sars-CoV-2 and a Proposed Dry Form Transmission 
-
-<p id="abstract-transmissions">-----</p>
-
-## Abstract Proposed Dry Form Transmission
-**[in rework]**
-A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-CoV-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
-The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
-* Contact (direct and indirect via fomites)
-* [Droplets](#droplet)
-* [Aerosols](#aerosol)
-
-this new model is added:
-* Dry form transmission 
-
-Compared to aerosols - which tend to spread local both in time and space, an example is the scent of a freshly cooked soup -, tiny dry particulates behave dust/smoke like - smoke is a collection of tiny dry particulates diffusing around - so they move with the air and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
-
-It is argued 
-* the described properties of dry form transmission explain well the observed transmission patterns for Sars-CoV-1/2. 
-* the entry receptor of Sars-CoV-1/2 (ACE2) distribution in body tissues and the observed viral load in different organs indicate that Sars-CoV-1/2 has the lower respiratory tract as the main entry point.  Particle deposition at inhalation, which shows that mainly aerosols and dry particulates are entering the lower respiratory tract, suggests that these two are the main transmitters of  Sars-CoV-1/2. Viral load in the pharynx can be attributed to deposition of particles upon exhalation. 
-
-Overall the argumentation provides evidence, that the most relevant transmission models are aerosol and the proposed dry form. 
-
-Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
-
-<p id="airborne-transmission">-----</p>
-
-## Airborne Transmission 
-[in work]
-    
-### Objects in the Air
-The movement of an object in the air depends on the ratio of its surface divided by its volume.
-<!--
-
-    a = g * E_d + v^2 * k/r * (S_p/V) * E_-v 
-    
-where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of object; r=density of the objet; S_p = surface perpindicular to v; v=movement relative to sourounding air; V=volume; E_d = unit vector pointing downwards; E_-v = unitvector pointing in -v direction
-
--->
-* #### small ratio => gravity and initial movement 
-    heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant: Examples are heavy balls in sports, rain droplets or snowballs. 
-* #### large ratio => go with the air
-    light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the winds. Feathers, dust particles and dry snowflakes are examples.
-
-Of course any movement form inbetween exists too: Footballs and tennis balls have quite a large surfaces compared to their weight, so strong winds influences their movement. Even a larger ratio have table tennis balls. Golf balls on the other hand are less subject to the wind compared to table tennis balls.
-
-#### smaller size => larger ratio
-Since the volume increases in cubic and the surface only in square:
-* Large objects tend to have small ratios
-* Small objects tend to have large ratios
-
-Tiny objects have very large ratios and thus go with the wind. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. This is the case too for very small water droplets that can't seen as single particles: They move with airflow. Since they can't be seen as single particles, they look like dissolved in the air and thus are called aerosols.
-
-#### droplet or aerosol
-> <span id='aerosol'> An *aerosol* is a collection of tiny droplets with a diameter smaller than 5 micro meter. Aerosol comes from Greek aero=air and sol=solvent, since tiny droplet can't be seen and thus look like dissolved in the air. However an aerosol is a bunch of heaps of water molecules possibly including some other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding visibility for our eyes and movement.</span>
-
-The larger droplets keep their name and are just called droplets:
-> <span id='droplet'>*Droplets* in the context of transmission models denote watery particles with a diameter greater equal 5 micro meter. </span>
-
-> // The change both of movement and visibility is contineous and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of milimeters is a coincidence. At least there is no obvious causal connection.  
-
-#### drier and smaller => larger ratio 
-The spherical form yields the smallest surface for a fixed volume. Thus round objects have smaller ratios surface/volume than non round objects. Watery particles tend to have a minimal surface and are roundish, thus the ratio of surface/volume tend to smaller than of the dry particles. E.g. dry leafs, feathers, flour and dust ... all go with the wind. 
-
-
-### overview airborne transmission
-Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls but aerosols mostly move with the air. Tiny and dry particles always go with the air. 
-
-
-Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#particles) and on masks in [Protection Measures](#protection-measures). [citations in work  ]
-
-Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent              
----------|------------|-----------------|------------|------|---
-[droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any | Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, scent of parfum, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humdity but not very dry| (dense-)mask in face-to-face situations and crowded or heated rooms, distance, ventilate
-[dry form](#dry-form-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveolis)  | dry (low relative humidity) e.g. indoor heated| (dense-)mask in heated and (crowded) indoor rooms, ventilate
-
-
-
-<p id="dry-form-model">-----</p>
-
-## Dry Form Transmission Model
-[in rework]<br>
-In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
-
-In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form, so dry form infection is possible in theory.
-
-The newly proposed infection:
-* Dry particulates in air -> Lung
-
-where Dry Particulate is a small particulate with one or more viruses attached or possibly viruses attached to each other. 
-
-The above infection pathway is in addition to the known aerosol/droplet pathways:
-* Aerosol with virus in air -> Respiratory Tract
-* Droplet with virus in air -> Respiratory Tract
-
-Aerosols containing particulates and dry particulates can convert to each other in the air:
-
-* Dry Particulates -> Small Aerosol containing a Particulate (more likely in humid air, particulates act as condensation nuclei)
-* Dry Particulates <- Small Aerosol containing a Particulate (more likely in dry air)
-
-and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [marr](#marr)): 
-* Small Aerosol <-> Large Aerosol/Droplets (in dry air equilibrium tends to the left, in humid to the right)
-
-
-The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
-
-### Sources
-Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-spreading). Remark: Viral load in the upper respiratory tract can be caused by [depositions](#particles-deposition) of viruses upon exhalation. So Covid-19 swab test in the pharynx just detect that there are viruses replicating somewhere in the respiratory tract. 
-
-Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
-
-<!--todo deposition of particles with dry form, short summary-->
-
-
-<!--
-
-* (A) source -> aerosol  -> target<br>
-* (B) source -> aerosol  --dry-air-> dry particulate -> target
-* (C) source -> dry particulate -> target
-* (D) source -> dry particulate --humid-air-> aerosol  -> target
-
-##### where Target
-* target = lung for a,b,c  for infection
-
-##### and Source
-* source = lung for a,b
-* source = faeces [evidence from ] and possibly the lung (calculations are on the way whether the relative humidity in the lung can be low enough)
-* source can also be indirect. However one has to keep in mind that for the probability to be in two digit percentages there need to be many infectious particulates in the air. 
-
--->
-
-<!--
-[in work 2.8.]
-## Transmission of Betacoronaviruses
-This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#tissue-tropism-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).-->
-
-
-
-<p id="particles">-----</p>
-
-## Intermezzo: Particle Dynamics in the Respiratory Tract
-
-Conversational remarks about how I understand particle deposition models. 
-
-Particle deposition and clearance are relevant for Covid-19 in view of:
-* infection pathway
-* spread within the lower respiratory tract (pathogenesis)
-* spread to the pharynx (swab test and transmission)
-* spread out of the body (transmission)
-* depositions of medicaments for the treatment
-
-### particles spreading
-
-This section describes when particles are exhaled and how they spread out within the respiratory tract. 
-* Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
-
-* Small particles from the lower respiratory tract (<1 micro meter) are spread with breathing alone and not when speaking or coughing. [Larsson et al](#larsson) found this by identifying the origins of particles from the lipid composition. 
-
-* [fabian et al](#fabian) found that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. A tendency for a positive correlation with age was observed. 
-
-* [milton et al](#milton2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
-
-So Covid-19 can be spread with breathing alone especially since in the deep lungs there are many receptors for Sars-CoV-2.  
-
-
-### particles deposition
-
-This section describes how particles are deposited in the respiratory tract. These particles can originate from other locations in the respiratory tract or being inhaled from extern air.
-
-##### deposition factors
-How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
-- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18](#zhong18)], [varghese](#varghese))
-    * Droplets mostly don't enter the lower respiratory tract.
-    * Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-CoV-2 diameter is between 50 and 200 nm) and larger aerosols don't enter deep or are well cleared out [to be confirmed and citation to be added]. 
-    * Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress].
-- breathing volume and frequency [hofemeier](#hofemeier)
-- air humidity and how much the air is moistened in the lung. E.g. described in [zhong18](#zhong18), [varghese](#varghese)]
-- orientation respect to gravity i.e. wether horizontal or vertical
- 
-
-##### deposition locations
-The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer).
-* Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
-* [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. Similarly observed by [Varghese and Gangamma, Figure 4](#varghese): The alveolar deposition of soluble matter (shown for salt NaCl) between 250 nm and 1000 nm is increased by the particle growth due to moistening in the lungs. In Figure 7 the simulated effect of particle growth on total deposition is compared to measurements in experiments. 
-* The particles depositions aren't equal for the left and right lung and bronchus [Rahimi-Gorji](#rahimi-gorji), [kleinstreuer2017](#kleinstreuer2017)
-* Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
-* [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
-
-### particles clearance
-[in work]
-
-#### Methods of Clearance
-* clearance by mucus flow towards the alimentary system
-* coughing
-* clearance by macrophages in the epithelium and in the mucus[to check]
-* absorption in the alveoli and clearance in the blood stream by immune system cells (e.g. macrophages)
-
-
-##### factors influencing clearance
-* well flowing mucus (see [factors increasing the mucus flow](#factors-influencing-the-mucus-flow))
-* the earlier deposited the better is the mucus clearance
-* particle properties such as material (bad clearance for insoluble in the lungs), form, size
-
-### simulation methods and experiments
-
-In her thesis [Lindstrom](#lindstrom) explains well the principles. A recent review is from [Park and colleagues](#park).<br>
-> Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described below . 
-
-#### Simulations
-An often used model is the [ICRP Model](#bailey). Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. In this work mainly [kleinstreuer](#kleinstreuer) is used, other simulation models are [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
-
-Traditional methods: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). These methods yield some differential equations. These equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
-
-The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are achieved, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally many simplifications of relevant [particles deposition](#particles-deposition) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size aerosol droplets.
-
-
-#### Experiments
-
-- Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
-- Experimental in vivo settings:
-    * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
-    * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volume is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [reference to be added].
-    * Experimental data on the regional deposition of radio-labelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
-    
-   
-
-<p id="evidence">-----</p>
-
-## Evidence for the Dry Form Transmission Model
-
-<p id="biological-properties">---</p>
-
-### Evidence from Biological Properties
-
-From the [Habitat of the Betacoronavirus](#habitat) lower respiratory tract entry for Sars-CoV-1 and MERS is obligate for infection. For Sars-CoV-2 lower respiratory tract entry is likely for patients developing ARDS. As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus flow, the dry form is likely more infectious. 
-
-
-<p id="spread-patterns">---</p>
-    
-### Evidence from the observed Spread Patterns
-
-The droplet transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the droplet models:
-
-[in work: correct that aerosol but not the droplet models could partly explain observed spread patterns]
-In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in cool outside temperature and heated indoor spaces which means dry and confined air. In theses settings dry dust like spreading is possible:
-
-* Sars-CoV-1:
-	- Hospitals in China [Mizumoto](#mizumoto)
-    - Long-Term Care Facility in Seattle [Honein et al](#honein)
-	- Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan)
-
-* Sars-CoV-2:
-	- Diamond Princess Cruise Ship anchored in Japan, well analysed by [Mizumoto and colleagues](#mizumoto). Observations:
-        * Covid-19 spread started between passengers and not equally between passengers and personal.
-        * very high peak values of the reproduction number are observed (over 10)
-        
-        The observations favour long range but same room transmission (aerosol and dry form transmission) over droplet transmission and slighly indicate dry form transmission:
-        * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission. 
-        * In the aerosol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
-        * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected since they spend the time in the same areas. 
-	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
-	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
-	- Hospitals in Nothern Italy [LE](#le)
-
-* SARS 1 & 2: 
-    In settings without prior SARS experience the infection rate in health care workers is very high:
-	* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
-	* 2019/2020 in Europe - Italy especially [LE](#le)<br>
-	
-	Possible Explanation: The medical staff is used to protect against fomite and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
-
-* Mers-Cov:
-Most superspreading events occured in Winter season and in hospitals [dudas2017](#dudas2017). The primary superspreading in very dry (heated indoor) can be a reason  diseases occurred recently, even though overall hygiene increased.  
-
-
-    
-    
-    
-#### Further evidences
-
-Remark: The following pieces of evidence are 'in work'. 
-
-* In humid and warm temperature environments (above 30 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols which in turn often growth to droplets. In this case, a droplet like spreading pattern with no super-spreading events would be expected. 
-
-* The initial cases that led to the discovery of Sars-CoV-2 occurred during cold outside temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 1q
-
-
-<p id="metaphor-and-measures">---</p>
-
-## Metaphor and Measures 
-When avoiding the influenza droplet spread is avoiding somebody’s reek of alcohol, then in the dry form model, this corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse around.
-Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close to a person that the cloths would be smelling. 
-Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. Outside no worry for Sars-CoV-2 however, it is diluted and sun light destroys virions. 
-
-This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  particulates above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but likely it is attached so some organic material[to check and cite]). Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Measures in more detail are found in [Protection Measures](#measures). 
-
-
 
 
 <p id="references">-------</p>
@@ -2108,7 +1800,7 @@ TODO UPDATE REFERENCES
 	https://doi.org/10.1016/j.coi.2005.05.009
     
 * ##### peiris
-    J S M Peiris, Y Guan, K Y Yuen
+    J S M Peiris, Y Guan, K-Y Yuen
     **Severe acute respiratory syndrom**
     nature medicine, 30 November 2004
     https://doi.org/10.1038/nm1143
@@ -2117,7 +1809,7 @@ TODO UPDATE REFERENCES
 ### Phatogenesis and Viral Loads Sars-Cov-2
     
 * ##### case-series-france
-    Francois-Xavier Lescure, Lila Bouadma*, Bruno Lina*, Sylvie van-der-Werf, Yazdan Yazdanpanah et al.
+    Francois-Xavier Lescure, Lila Bouadma, Bruno Lina, Sylvie van-der-Werf, Yazdan Yazdanpanah et al.
     **Clinical and virological data of the first cases of COVID-19 in Europe: a case series**
     Lancet Infect Dis 2020
     PublishedOnline
@@ -2125,7 +1817,7 @@ TODO UPDATE REFERENCES
     See Online/Comment https://doi.org/10.1016/ S1473-3099(20)30237-1
 
 * ##### to_tsang
-    Kelvin Kai-Wang To*, Owen Tak-Yin Tsang*, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng, Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen 
+    Kelvin Kai-Wang To, Owen Tak-Yin Tsang, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng, Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen 
     **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
     Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
 
@@ -2157,7 +1849,7 @@ TODO UPDATE REFERENCES
     Borucki, M. K., Allen, J. E., Chen-Harris, H., Zemla, A., Vanier, G., Mabery, S., Torres, C., Hullinger, P., & Slezak, T. (2013). **The role of viral population diversity in adaptation of bovine coronavirus to new host environments.** PloS one, 8(1), e52752. https://doi.org/10.1371/journal.pone.0052752
 
 * ##### woo
-    Woo, P. C., Lau, S. K., Huang, Y., & Yuen, K. Y. (2009). 
+    Woo, P. C., Lau, S. K., Huang, Y., Yuen, K. Y. (2009). 
     **Coronavirus diversity, phylogeny and interspecies jumping.** 
     Experimental biology and medicine (Maywood, N.J.), 234(10), 1117–1127. https://doi.org/10.3181/0903-MR-94
 
@@ -2244,6 +1936,12 @@ TODO UPDATE REFERENCES
     https://doi.org/10.1099/vir.0.020818-0
 
 
+* ##### kikkert
+	Marjolein Kikkert
+	**Innate Immune Evasion by Human Respiratory RNA Viruses**
+	J Innate Immun 2020;12:4–20
+	https://doi.org/10.1159/000503030
+
 ### Enviromental Factors on Betacoronaviruses
 
 * ##### chan
@@ -2260,41 +1958,6 @@ TODO UPDATE REFERENCES
          
   
   
-### Transmission and Infection of  Respiratory Viruses</strong>
-
-* ##### kikkert
-	Marjolein Kikkert
-	**Innate Immune Evasion by Human Respiratory RNA Viruses**
-	J Innate Immun 2020;12:4–20
-	https://doi.org/10.1159/000503030
-
-* ##### tellier
-    Tellier R. (2006). 
-    **Review of aerosol transmission of influenza A virus.** 
-    Emerging infectious diseases, 12(11), 1657–1662. 
-    https://doi.org/10.3201/eid1211.060426 (seems broken)<br>
-    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372341/
-  
-* ##### herfst
-	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
-	**Transmission routes of respiratory viruses among humans.**
-	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
-    
-* ##### marr
-    Yang, W., & Marr, L. C. (2011). 
-    **Dynamics of airborne influenza A viruses indoors and dependence on humidity.**
-    PloS one, 6(6), e21481. https://doi.org/10.1371/journal.pone.0021481
-    
-* ##### pierret
-    Reiman JM, Das B, Sindberg GM, Urban MD, Hammerlund MEM, et al. (2018) 
-    **Humidity as a non-pharmaceutical intervention for influenza A.** 
-    PLOS ONE 13(9): e0204337. https://doi.org/10.1371/journal.pone.0204337
-
-* ##### myatt
-    Myatt, T. A., Kaufman, M. H., Allen, J. G., MacIntosh, D. L., Fabian, M. P., & McDevitt, J. J. (2010).
-    **Modeling the airborne survival of influenza virus in a residential setting: the impacts of home humidification.**
-    Environmental health : a global access science source, 9, 55. https://doi.org/10.1186/1476-069X-9-55
-    
     
 ### Immune System (in the Respiratory Tract)
 
@@ -2360,124 +2023,7 @@ TODO UPDATE REFERENCES
     Environmental Health Perspectives, 66, 223-237. doi:10.2307/3430237
     
     
-
-
-### Respiratory Tract and Aerosol/Particle Deposition at In/Exhalation</strong>
-
-[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description and [lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
-
-#### General
-
-* ##### lindstrom
-    Lindström Bagge, Maria. (2004).<strong>Particles in small airways: 
-    mechanisms for deposition and clearance & Pharmacokinetic assessment of delivered 
-    dose to the lung.    </strong>    https://openarchive.ki.se/xmlui/handle/10616/37702
-   
-* ##### stuart
-    B O Stuart<strong>
-    Deposition and clearance of inhaled particles.</strong>
-    Environ Health Perspect. 1984 Apr; 55: 369–390.
-    https://doi.org/10.1289/ehp.8455369
-
-* ##### bailey
-	<strong>The New ICRP Model for the Respiratory Tract </strong> M.R. Bailey 
-	Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
-    
-* ##### heyder
-    Joachim Heyder
-    <strong>Deposition of Inhaled Particles in the Human Respiratory Tract and Consequences for Regional Targeting in Respiratory Drug Delivery</strong>
-    Proc Am Thorac Soc Vol 1. pp 315–320, 2004
-    https://doi.org/10.1513/pats.200409-046TA Internet address: www.atsjournals.org
-        
-* ##### darquenne
-    BY C. DARQUENNE*, L. HARRINGTON AND G. K. PRISK
-    <strong>Alveolar duct expansion greatly enhances aerosol deposition: a three-dimensional computational fluid dynamics study</strong>
-    Phil. Trans. R. Soc. A (2009) 367, 2333–2346 https://doi.org/10.1098/rsta.2008.0295
-    
-* ##### sznitman
-	Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
-	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
-	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
-    
-* ##### tsuda
-	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
-	<strong>Chaotic mixing deep in the lung.</strong>
-	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
-    
-    
-#### Computational Models
-
-* ##### park
-    Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
-    <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
-    Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
-
-* ##### varghese
-    Varghese, S.K. and Gangamma, S. (2006). 
-    **Particle Deposition in Human Respiratory Tract: Effect of Water-Soluble Fraction.** Aerosol Air Qual. Res. 6: 360-379. https://doi.org/10.4209/aaqr.2006.07.0004
-
-* ##### kleinstreuer 
-    Arun V Kolanjiyil, Clement Kleinstreuer, Nicole C Kleinstreuer, Wellington Pham and Ruxana T Sadikot
-	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
-    
-* ##### kleinstreuer2017
-    Arun V. Kolanjiyila, Clement Kleinstreuer
-    <strong>Computational Analysis of Aerosol-Dynamics in a Human Whole-Lung Airway Model</strong>
-    https://dx.doi.org/10.1016/j.jaerosci.2017.10.001
-
-* ##### qi
-    Baihua Zhang, Shouliang Qi, Yong Yue, Jing Shen, Chen Li, Wei Qian and Jianlin Wu
-    <strong>Particle Disposition in the Realistic Airway Tree Models of Subjects with Tracheal Bronchus and COPD</strong>
-    Hindawi BioMed Research International Volume 2018, Article ID 7428609, 15 pages https://doi.org/10.1155/2018/7428609
-    
-* ##### zhong18
-    Xiaole Chen, Clement Kleinstreuer, Wenqi Zhong, Yu Feng & Xianguang Zhou (2018) <strong>Effects of thermal airflow and mucus-layer interaction on hygroscopic droplet deposition in a simple mouth–throat model</strong>, Aerosol Science and Technology, 52:8, 900-912, https://dx.doi.org/10.1080/02786826.2018.1476751
-    
-* ##### rahimi-gorji
-	Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
-	<strong>Details of regional particle deposition and airflow structures
-	in a realistic model of human tracheobronchial airways: two-phase flow simulation</strong>
-	https://dx.doi.org/10.1016/j.compbiomed.2016.04.017
-	0010-4825/& 2016 Elsevier Ltd. All rights reserved.
-
-* ##### hofemeier
-    Philipp Hofemeier, Kenishiro Koshiyama, Shigeo Wada, and Josué Sznitman
-	<strong>One (sub-)acinus for all: Fate of inhaled aerosols in heterogeneous pulmonary acinar structures</strong> Eur J Pharm Sci. 2018 February 15; 113: 53–63. https://doi.org/10.1016/j.ejps.2017.09.033
-    
-* ##### sturm 
-    Robert Sturm <strong> A Computer Model for the Simulation of Nonspherical Particle Dynamics in the Human Respiratory Tract</strong> Hindawi Publishing Corporation Physics Research International Volume 2012, Article ID 142756, 11 pages https://doi.org/10.1155/2012/142756
-
-
-
-     
-    
-#### In Vivo Experiments
-
-* ##### rissler
-	Rissler, Gudmundsson, Nicklasson, Swietlicki, Wollmer, Löndahl.
-	<strong>Deposition efficiency of inhaled particles (15-5000 nm) related to breathing pattern and lung function: an experimental study in healthy children and adults.</strong>
-	Jonas K. F. Jakobsson, Johan Hedlund, John Kumlin, Per Wollmer & Jakob Löndahl
-	Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
-	https://doi.org/10.1186/s12989-017-0190-8
-    
-
- 
-
-### Exhaled Breath Condensate and Virus Shedding
-
-* ##### morawska2006
-    Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
-
-* ##### milton2018
-    Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
-    <strong> Aerosol shedding of infectious influenza virus</strong>
-    Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
-    
-* ##### milton2013
-Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). <strong>Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.</strong> PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
-    
-* ##### morawska
-    Johnson, Graham & Morawska, Lidia & Ristovski, Zoran & Hargreaves, M. & Mengersen, K. & Chao, Christopher & Wan, Man-Pun & Li, Yuguo & Xie, Xiaojian & Katoshevski, David & Corbett, Shay. (2011). Modality of human expired aerosol size distributions. Journal of Aerosol Science - J AEROSOL SCI. 42. 839-851. https://doi.org/10.1016/j.jaerosci.2011.07.009. 
+### Particles Exhaled
     
 * ##### olin 
     Bake, B., Larsson, P., Ljungkvist, G. et al. Exhaled particles and small airways. Respir Res 20, 8 (2019). https://doi.org/10.1186/s12931-019-0970-9
@@ -2510,170 +2056,3 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
     Smieszek, T., Lazzari, G., & Salathé, M. (2019). Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System. Scientific reports, 9(1), 2185. https://doi.org/10.1038/s41598-019-38825-
     
     
-
-
-
-
-
-<p id="summaries-backtracing-habitat">---</p>
-
-## Summaries and References for Section Backtracing SARS-like Habitat
-[in work]
-The focus of the summaries is in the following order:
-1. capture the findings used in the above argumentation
-2. capture the essence of the studies
-
-* references like 'Figure 2' refer to 'Figure 2' in the corresponding paper. 
-* word by word extracts are denotes as "copy & paste content in here"
-
-### summary guan 2003
-**Isolation and Characterization of Viruses Related to the SARS Coronavirus from Animals in Southern China**
-#### Methods
-Investigation of several animals in a live-animal retail market in Shenzhen. 
-* the animals originated from different regions of southern China and had been kept in separate storehouses before arrival to the market.  
-* animals tested: 3 beaver (Castor fiber); 2 Chinese ferret-badger (Melogale moschata); 4 Chinese hare (Lepus sinensis); 1 Chinese muntjac (Muntiacus reevesi); 4 domestic cat (Felis catus); 3 hogbadger (Arctonyx collaris); 6 Himalayan palm civet (P. larvata); 1 raccoon dog (N. procyonoides)
-#### Results
-All of the racoon dogs and the palm civets showed signs of recent SARS infections. One of the ferrets badgers had antibodies. None of the other animals showed clear signs of a recent SARS infection.
-
-
-### summary dudas 2017
-**MERS-CoV spillover at the camel-human interface** Gytis Dudas, Luiz Max Carvalho, Andrew Rambaut, Trevor Bedford; elifesciences.org
-#### Methods
-The phylodynamics of 274 MERS genomes, 174 from human infections and 100 from camel infections is constructed by simulation using structured coalescent models which treat camels and humans populations as different virus habitats. 
-#### Results
-* camels are the reservoir hosts of MERS-CoV: 
-    * the evolution of MERS takes place in camels and not in humans. 
-    * human are terminal hosts and the reproduction/spread value is about 0.7 
-    * the sequence data alone indicate at least 50 zoonotic introduction of MERS to humans. Extrapolation to all labraratory confirmed MERS cases yields hundreds of introductions to humans.
-* frequent recombination events occur in the camels. 
-* most transmissions to humans occur in the summer months, however large clusters of secondary cases from human to human transmission tend to occur in winter or spring. 
-
-
-### summary anderson 
-**The proximal origin of SARS-CoV-2**, Kristian G. Andersen, Andrew Rambaut, W. Ian Lipkin, Edward C. Holmes and Robert F. Garry; Nature Medicine
-
-Review of distinguishing features of Sars-Cov-2 and theories about the origin:
-* Notable features of the SARS-CoV-2 genome
-    1. Mutations in the receptor-binding domain of SARS-CoV-2
-    2. Polybasic furin cleavage site flanked by O-linked glycans: The polybasic cleavage site with the three adjacent O-linked glycans are a distinguishing feature of SARS-CoV-2 in the lineage B betacoronaviruses, however lineage A viruses have it too.
-* Theories of SARS-CoV-2 origins
-    1. Natural selection in an animal host. 
-        * Similar RBD found in related viruses in pangolin indicate animals played a role in the adaption to human ACE2. 
-        * Coronaviruses in bats and other species are  undersampled.
-        * High population density and ACE2 similar to human are likely necessary in the hosts where adaption to humans has taken place. 
-    2. Natural selection in humans following zoonotic transfer: A sufficiently large cluster of cases is needed to trigger the surveillance system
-    3. Selection during passage: This option is considered unlikely mainly for evolutionary reasons.
-
-
-### summary fan 2019
-**Bat Coronaviruses in China** Y Fan, Z-L Shi, P Zhou et al, WIV 2019
-Review bat coronaviruses in China with a focus on: viral diversity, reservoir hosts, geographical distributions and cross-species transmission potential.
-* SARSr-CoVs are present in different bat species of the two families Rhinolophidae (horseshoe) and Hipposideridae.
-* SARSr-CoVs that are capable of using human ACE2 were found were found in R sinicus in the Yunnan Province. Other SARSr-CoVs that cannot use human ACE2 are more widespread and distributed across multiple provinces:  Jilin, Shaanxi, Hubei, Zhejiang, Yunnan, Guizhou and Guangdong
-* SARSr-CoV bat viruses are very divers in the sense that some have only sequence similarities of about 70% (Figure 2)
-* "Rhinolophus bats interact constantly  with both livestock and humans in China, also harbor SARSr-CoVs"
-
-
-### summary zhou
-**A Novel Bat Coronavirus Closely Related to SARS-CoV-2 Contains Natural Insertions at the S1/S2 Cleavage Site of the Spike Protein**; Hong Zhou, Xing Chen, Tao Hu, Juan Li, Hao Song, Yanran Liu, Peihan Wang, Di Liu, Jing Yang, Edward C. Holmes, Alice C. Hughes, Yuhai Bi, and Weifeng Shi
-#### Methods
-* Collection of 302 samples from 227 different bats in two caves in Mengla County, Yunnan, between May and October 2019 (Cave a: Xishuangbanna (101.27E, 21.91N), Cave b:[coming]) 
-* Next-generation metagenomic sequencing and TaqMan-based qPCR on the results
-* analysis of the sequences obtained to SARS-CoV-2 and SARS-2-like using Simplot, RAxML and other tools. 
-#### Results
-* discovery of two novel bat coronaviruses named: RmYN01 and RmYN02
-* Table 1 and Figure 1 compare the sequence of SARS-CoV-2 to SARS-2-close viruses:
-    - RmYN02 is the virus most close to SARS-CoV-2 in most parts of the genome (Figure 1 A) but not in the spike gene (Figure 1 B). 
-    - RaTG13 has nearly as many closest parts as RmYN02. Since RaTG13 is closer in the spike protein it is overall the genetically closest discovered virus (as of 31.8.20) to SARS-CoV-2 with an overall sequence identity of 96.1%.
-    - in the RBD of the spike the closest relative is a pangolin/GD/2019
-* Phylogenetic tree of SARS-2-close constructed with the whole genome, the spike, the RBD, RdRp. Since the distance vary through genome regions, the trees vary in structure. The varying distances/tree structures indicate recombinations.
-
-
-### summary wang 2017
-**Serological Evidence of Bat SARS-Related Coronavirus Infection in Humans, China** - N Wang, Zheng-Li Shi et al, WIV 2017
-#### Methods 
-Serum samples of 218 residents from rural villages in the Yunnan province were were analyzed. The villages are close to the Yanzi and Shitou caves which are inhabited by bats infected with Sars-Cov-like viruses infected bats have been found. The nucleocapsid protein of the bat coronavirus Sars-CoV-Rp3 was used to develop a SARSr-CoV specific ELISA for serosurveillance. 
-#### Results: 
-The sera of 6 person between 45 and 57 years old were seropositiv - corresponding to a positiv rate of 2.7%.
-
-### summary corman 14
-**Characterization of a Novel Betacoronavirus Related to Middle East Respiratory Syndrome Coronavirus in European Hedgehogs**
-#### Methods
-* analyzing of 248 fecal samples from wild European hedgehogs for CoVs
-* investigate tissue probes of 27 hedgehogs that died in animals shelters
-#### Results
-* 146 of the 248 fecal samples (59%) were positive for a MERS-like coronavirus, named EriCoV
-* 12 of the 27 dead hedgehogs had viral loaded tissue probes: 
-    - all 12 had a high viral load in the gut
-    - RNA in other tissues was 10 fold lower but still at about 10^5/ml if observed, but not all animals had viruses in all tissues
-* 6 of the 12 MERS RNA positive and 7 of the 14 MERS RNA negative hedgehogs had MERS anitbodies (active against MERS-CoV infected Vero cells) 
-
-### summary ye,jin 
-**Zoonotic origins of human coronaviruses** - Zi-Wei Ye, Dong-Yan Jin et al, Hong Kong 2020
-The seven human coronaviruses are reviewed and compared with a focus on:
-* their discovery, the zoonotic origins and interspecies transmissions.
-* clinical features of infections and transmission routes
-* evolution including recombination events
-
-Statements referred in the section Backtracing Sars-Cov-2:
-- "many patients with MERS develop acute renal failure"
-- "civets from the wild or farms without exposure to the live animal markets were largely negative for SARS-CoV"
-- "Live MERS-CoV identical to the virus found in humans was isolated from the nasal swabs of dromedary camels, further indicating that camels serve as the bona fide reservoir host of MERS-CoV [56]. It is also noteworthy that generally mild symptoms but massive virus shedding were observed in camels experimentally infected with MERS-CoV [57]. Notably, infected camels shed viruses not only through respiratory route but also through fecal-oral"
-
-
-
-### summary ge 2013
-**Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor.** Ge, Shi et al - WIV - Nature 2013
-#### Methods
-Bats in the two caves Yanzi and Shitou in northern Yunnan were analyzed for coronaviruses infections.
-#### Results
-* Diverse bat SARSr-CoVs and evidence for coinfection with two or more SARSr-CoVs in the same bat are found. 
-* SARSr-CoV strains using angiotensin converting enzyme 2 (ACE2) as receptor are found. 
-
-### summary zhang
-[in work]
-**Pangolin homology associated with 2019-nCoV**, Tao Zhang, Zhigang Zhang et al - Yunnan, 2020
-#### Extracts
-- "The S1 protein of Pangolin-CoV is much more closely related to 2019-nCoV than RaTG13. Five key amino-acid residues involved in the interaction with human ACE2 are completely consistent between Pangolin-CoV and 2019-nCoV but four amino-acid mutations occur in RaTG13"
-- "We found genomic and evolutionary evidences of the occurrence of 2019-nCoV-like coronavirus (named Pangolin-CoV) from dead Malayan Pangolins. Pangolin-CoV is 91.02% and 90.55% identical at the whole genome level to 2019-nCoV and BatCoV RaTG13, respectively."
-
-
-### summary k xiao
-**Isolation of SARS-CoV-2-related coronavirus from Malayan pangolins**; Group: Wu Chen, Lihua Xiao, Yongyi Shen; Guangzhou
-#### Methods & Results
-Pangolins confiscated from two transports were investigated:
-- The first transport in March 2019 contained 21 Malayan pangolins. During the following stay in a wildlife rescue center many gradually developed signs of a respiratory disease: shortness of breath, emaciation, lack of appetite, inactivity and crying. 17 of the 21 pangolins, were PCR positiv for a Sars-like coronavirus named Pangolin-CoV. 14 of the 17 infected pangolins died. Serology with an assay designed for S1 and RBD antigens of Sars-CoV-2 was done for 4 infected pangolins: Only one of the 4 sera was positive. 
-- The second transport consisted of 4 Chinese and 4 Malayan pangolins. None of them was PCR positive for Sars-like coronaviruses.
-#### Discussion
-* Description of the genetic relations of Pangolin-CoV: Table 1 and Fig. 2. The genetic distances depend on the location on the genome and wheter nucleic or amino acids are considered:
-    - Over the entire genome Pangolin-CoV has a sequence identity of 90.1% to Human-Sars-CoV-2, 88.9% to Bat-CoV RaTG13 and 88.0% to Bat-SARSr-CoV ZC45. 
-    - The RBD of the spike gene is closest to Human-Sars-CoV-2 while at the 5' end of the S1 part of the spike the similarity is highest to at-SARSr-CoV ZC45.
-* The varying similarities across the regions of the Pangolin-CoV genome indicate recombination events.   
-
-### summary t lam 
-#### Methods
-* Investigation of frozen tissue samples (lungs, intestine and blood) from 18 Malayan pangolins (Manis javanica) obtained from anti-smuggling operations in Guangxi from August 2017 to January 2018. High-throughput RNA sequencing revealed the presence of coronaviruses in 6 out of 43 samples (2 lung samples, 2 intestinal samples, 1 lung–intes- tine mixed sample and 1 blood sample from 5 individual pangolins). Using amplicon sequencing six genome sequences are obtained. 
-#### Results
-* Six genome sequencess are obtained and named GX/P1E, GX/P2V, GX/P3B, GX/P4L, GX/P5E and GX/P5L.
-#### Discussion
-Comparison of the genomes obtained to SARS-like (Fig 1) 
-and recombination analysis (Fig 2)             
-    - a sliding window approach to identify breakpoints
-    - Phylogenetic trees of the breakpoint free genomic regions
-#### Extracts
-* "two related lineages of coronaviruses are found in pangolins that were independently sampled in different Chinese provinces and that both are also related to SARS-CoV-2. This suggests that these animals may be important hosts for these viruses, which is surprising as pangolins are solitary animals that have relatively small population sizes, reflecting their endangered status"
-
-
-### summary boni,lemey
-**Evolutionary origins of the SARS‐CoV‐2 sarbecovirus lineage responsible for the COVID-19 pandemic**
-Maciej F Boni , Philippe Lemey, Xiaowei Jiang , Tommy Tsan-Yuk Lam , Blair Perry , Todd Castoe , Andrew Rambaut and David L Robertson
-#### Methods
-Frequent recombination events makes genome analysis challenging. Regions likely without recombinations are identified using 3 different methods. The identified non-recombining regions are analysed using traditional phylogenetic methods including tree construction and dating. 
-#### Results
-* Aligning different sarbecovirus genomes, mainly sampled from bats, indicates frequent recombination events. 
-* Phylogentic analysis on non-recombinant regions
-    - This approach is used to estimate the dates of separation of different strains including Sars-CoV-1, Sars-CoV-2 and several strains found in bats.
-    - Removing recombinant genomic segments point to a single ancestral lineage for SARS-CoV-2 and RaTG13 including Sars-like from pangolin (confiscated in March 2019 in Guangdong) and a clade of pangolin sequences from Guangxi province confiscated in 2017.
-*  Evidence Sars-CoV-2 emerge directly from yet unknown reservoir (authors suggest bats):
-    - SARS-CoV-2 and Pangolin-2019 are about 10% divergent throughout the entire S protein. 
-    - RaTG13 and Sars-CoV-2 are similar in the S gene except for the variable loop region. RaTG13 is divergent in the variable loop region from Sars-CoV-2 and is the likely product of recombination, acquiring a divergent variable loop from an as yet unsampled bat sarbecovirus.
