@@ -1,21 +1,29 @@
 
 # Life Cycle and Habitat of Nidovirales Organism
 
-<!--
-### relevance
-To know the evolutionary hosts is important since they are likely key to steer the sarbecoviruses.
-* Adaquately prevent future zoonotic events. Such events could even enable recombinations with the circulating Sars-CoV-2 strains.
-* Knowing the prehuman hosts is useful for research to better understand SARS-like coronaviruses: 
+## Hypotheses in Short
+[in work]
+
+## Relevance
+To know the evolutionary hosts is key to understand Nidovirales. A thorough understanding in turn can enable us to steer coronaviruses infections including SARS-CoV-2.
+* #### Analyse & Understand
+    Knowing and be able to observe the prehuman hosts is useful for research to better understand SARS-like coronaviruses: 
     - Better understand transmission and evolution of SARS-like viruses.
     - Analyse the interactions of SARS-like in their evolutionary hosts to better understand pathogenesis and possible benefits/risks
-    - Analyse the immune responses of the evolutionary hosts may help to develop medications.
-* The prehuman host of SARS-like in their natural habtitat could provide pathways to medications.   
-    - antiviral agents (e.g. antibodies) produced by the hosts
-    - model system to develop medications-->
+    - Analyse the immune responses of the evolutionary hosts to develop medications. E.g. which are the most capable antibodies. 
+* #### Model System
+    If they are domestic or cultivatable animals e.g. goats or insects, they provide an ideal investigation system. Especially insects would have some advantages:
+    - The higher the brain is developed the more care should be take to animal well-being. Insects have only a rudimentary brain, which makes it easier to justify and do research than with mammals.
+    - If coronaviruses can be cultured in insects some genes required for the mammalian tropism can be removed and so decrease the risk for lab accidents. 
+* #### Direct Medications 
+    The prehuman host of SARS-like in their natural habitat could even provide direct access to medications. Antiviral agents (e.g. antibodies) produced by the hosts. If there antibodies or other viral agents neutralizing virions such agents could be directly used as medications. 
+
+
+
 
 <p id="sums-and-refs">---</p>
 
-# Summaries and References for Section Backtracing SARS-like Habitat
+# Summaries and References
 [in work]
 The focus of the summaries is in the following order:
 1. capture the findings used in the above argumentation
@@ -25,10 +33,26 @@ Notes:
 * references like 'Figure 2' refer to 'Figure 2' in the corresponding paper. 
 * word by word extracts are between "..." and denoted as extracts
 
-### content
-* summary guan 2003: **Isolation and Characterization of Viruses Related to the SARS Coronavirus from Animals in Southern China**
-* summary dudas 2017
-**MERS-CoV spillover at the camel-human interface** Gytis
+
+* [Hypotheses in Short](#hypotheses-in-short)
+* [Relevance](#relevance)
+  * [summary guan 2003](#summary-guan-2003)
+  * [summary tongs](#summary-tongs)
+  * [summary dudas 2017](#summary-dudas-2017)
+  * [summary anderson](#summary-anderson)
+  * [summary fan 2019](#summary-fan-2019)
+  * [summary zhou](#summary-zhou)
+  * [summary wang 2017](#summary-wang-2017)
+  * [summary corman 14](#summary-corman-14)
+  * [summary ye,jin](#summary-yejin)
+  * [summary ge 2013](#summary-ge-2013)
+  * [summary zhang](#summary-zhang)
+  * [summary k xiao](#summary-k-xiao)
+  * [summary t lam](#summary-t-lam)
+  * [summary boni,lemey](#summary-bonilemey)
+* [mammalian tropism](#mammalian-tropism)
+  * [summary x zhai](#summary-x-zhai)
+  * [summary wu](#summary-wu)
 
 ### summary guan 2003
 **Isolation and Characterization of Viruses Related to the SARS Coronavirus from Animals in Southern China**
@@ -38,6 +62,9 @@ Investigation of several animals in a live-animal retail market in Shenzhen.
 * animals tested: 3 beaver (Castor fiber); 2 Chinese ferret-badger (Melogale moschata); 4 Chinese hare (Lepus sinensis); 1 Chinese muntjac (Muntiacus reevesi); 4 domestic cat (Felis catus); 3 hogbadger (Arctonyx collaris); 6 Himalayan palm civet (P. larvata); 1 raccoon dog (N. procyonoides)
 #### Results
 All of the racoon dogs and the palm civets showed signs of recent SARS infections. One of the ferrets badgers had antibodies. None of the other animals showed clear signs of a recent SARS infection.
+
+### summary tongs 
+
 
 
 ### summary dudas 2017
@@ -106,20 +133,24 @@ The sera of 6 person between 45 and 57 years old were seropositiv - correspondin
 * analyzing of 248 fecal samples from wild European hedgehogs for CoVs
 * investigate tissue probes of 27 hedgehogs that died in animals shelters
 #### Results
-* 146 of the 248 fecal samples (59%) were positive for a MERS-like coronavirus, named EriCoV
-* 12 of the 27 dead hedgehogs had viral loaded tissue probes: 
+
+* ##### Fecal samples: 
+    146 of the 248 fecal samples (59%) were positive for a MERS-like coronavirus, named EriCoV
+* ##### Tissue samples:
+    12 of the 27 dead hedgehogs had viral loaded tissue probes: 
     - all 12 had a high viral load in the gut
     - RNA in other tissues was 10 fold lower but still at about 10^5/ml if observed, but not all animals had viruses in all tissues
-* 6 of the 12 MERS RNA positive and 7 of the 14 MERS RNA negative hedgehogs had MERS anitbodies (active against MERS-CoV infected Vero cells) 
+    - 6 of the 12 MERS RNA positive and 7 of the 14 MERS RNA negative hedgehogs had MERS antibodies (by staining of MERS-CoV infected Vero cells) 
+        > Somewhat intriguing that about 50% of RNA positive animals had no detectable antibodies and moreover antibody positivity seems to be independent of RNA positivity. 
 
 ### summary ye,jin 
 **Zoonotic origins of human coronaviruses** - Zi-Wei Ye, Dong-Yan Jin et al, Hong Kong 2020
+#### Review
 The seven human coronaviruses are reviewed and compared with a focus on:
 * their discovery, the zoonotic origins and interspecies transmissions.
 * clinical features of infections and transmission routes
 * evolution including recombination events
-
-Statements referred in the section Backtracing Sars-Cov-2:
+#### Extracts
 - "many patients with MERS develop acute renal failure"
 - "civets from the wild or farms without exposure to the live animal markets were largely negative for SARS-CoV"
 - "Live MERS-CoV identical to the virus found in humans was isolated from the nasal swabs of dromedary camels, further indicating that camels serve as the bona fide reservoir host of MERS-CoV [56]. It is also noteworthy that generally mild symptoms but massive virus shedding were observed in camels experimentally infected with MERS-CoV [57]. Notably, infected camels shed viruses not only through respiratory route but also through fecal-oral"
@@ -200,8 +231,3 @@ Selection of 82 representative ACE2 sequences from the 1000 sequences with the c
 #### Results
 The ACE 2 receptors of primates and cat-like ACE are predicted to bind well to the SARS-2-ACE2-RBD.
 
-
-
-### Genetic Related Viruses of Sars-CoV-2
-* 96% identity between Sars-Cov-2 and Bat-CoV-RaTG13 [e.g. Boni, Lemey et al](#summary-boni,lemey)
-* 91% identity between Sars-Cov-2 and Pangolin-CoV extracted from Malayan Pangolins obtained from anti smuggle operations. Despite Sars-CoV-2 has an overall lower identity than to RaTG13 the [RBD](#RBD) of Pangolin-CoV is closest to Sars-Cov-2.
