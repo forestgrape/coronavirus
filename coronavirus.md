@@ -40,7 +40,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 * [Habitat](#habitat)
   * [organisms habitat aka hosts](#organisms-habitat-aka-hosts)
   * [conquering new habitats](#conquering-new-habitats)
-  * [infecting new species](#infecting-new-species)
+  * [Infecting New Species](#infecting-new-species)
 * [Evolution and Adaption](#evolution-and-adaption)
   * [conserved patterns](#conserved-patterns)
   * [changing patterns](#changing-patterns)
@@ -572,7 +572,7 @@ The new habitat can be:
 
 Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
 
-### infecting new species
+### Infecting New Species
 With no metabolism running virions can not move on their own and thus their [movement](#movement-of-virions) is not directed and thus often non hosts are reached. If a virus strain reaches organism of some species, there are several cases <!--[in programming languages: switch(animal) or animal match]-->:
 * the organism reached is a host -> continue life cycle 
 * the organism reached is not a host:
