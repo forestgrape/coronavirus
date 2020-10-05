@@ -25,20 +25,22 @@
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Covid-19](#covid)
     - [Public Description](#public-description)
-* [Thoughts on Monitor and Controlling Sars-CoV-2](#monitor-and-control)
-    * [Protection Measures](#protection-measures)
-    * [risk assessment](#risk-assessment)   
-    * [Monitor](#monitor)
-    * [Data Availability](#data)
-* Page [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses)
+* [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top) (Page)
+    * [Protection Measures](./monitor_and_control.md#protection-measures)
+    * [Risk Assessment](./monitor_and_control.md#risk-assessment)   
+    * [Monitor](./monitor_and_control.md#monitor)
+    * [Data Availability](./monitor_and_control.md#data)
+  
+* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses) (Page)
   
     Various aspects of coronaviruses are described with a focus on understanding. 
     - The starting point are first principles: life forms on earth. 
     - Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. 
     - We then look at coronaviruses with a focus on SARS-CoV-2.
-* Page [Immune System](./immune_system.md#immune-system)
+* [Immune System](./immune_system.md#immune-system) (Page)
   
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
+
 * [Ideas to Explore](#ideas)
     - [Backtracing Sars-CoV-1/2](#backtrace-habitat)
         The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles.
@@ -47,7 +49,7 @@
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
     - [Data Availability](#data) Public availability of well specified and raw/fine-grained data.
-* Page [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models) 
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models) (Page)
   
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible. 
     - We start with a recap of airborne transmission, 
@@ -55,6 +57,7 @@
     - describe how particles behave in the respiratory tract,
     - analyse spread pattern of Covid-19
     - and based on the discussions protection measures are suggested: smoke protection and masks. 
+  
 * [References](#references)
 
 
