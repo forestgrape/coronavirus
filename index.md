@@ -1,10 +1,10 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* [Updates](#updates) in progress. 
+* [Updates](#updates) in progress. Moved from single page to multipage: some local links may require hand-lookup. 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
-* The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#t-content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
+* The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
 * A thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For copy & paste like rewriting attribution is appropriate. <!--Summarized: copy paste like needs attribution. For inspiration, thanks are enough and welcome. -->
@@ -12,7 +12,7 @@
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
 
-> *Definitions* are written like this and are valid throughout this page. Sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted, please point out!
+> *Definitions* are written like this and are valid throughout this page. Sometimes only throughout this page. However redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
 > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style //. Otherwise distinction is done by context/content. 
 
@@ -57,9 +57,9 @@
     - and based on the discussions protection measures are suggested: smoke protection and masks. 
 * [References](#references)
 
-<p id="updates">-----</p>
 
-## Updates and Added Content
+
+## Updates 
 - 5.10. moved from literal single page (previously all content in index.md) to multi-page. Pages including short description are in the in the [content](#content). 
     > Even though I liked the single page version since nearly everything is connect anyways, multi-page is easier to manage and I try to make the pages self-contained.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
@@ -174,6 +174,7 @@ Keep in mind that the temperature varies during a day and with the activities pe
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
+
 <p id="covid"> -------</p>
 
 # Covid-19
@@ -271,11 +272,13 @@ Summaries and references this findings are based on are added at the very bottom
     * SARS-like have some well preserved genetic sequence, which is only found in insects and insect viruses 
 5. Insectivores mammals could be intermediate hosts for the transmissions to humans. SARS-like infected mammals often have a respiratory disease and transmission can occur airborne from then on. 
 
+
+
 <p id='disease-pattering'> -----</p>
 
 ## Infection Tropism and Disease Patterns
 **[in work]**<br>
-### Abstract Diseas Patterns
+### Abstract Disease Patterns
 Coronaviruses can cause infections at different locations and thus induce different diseases: 
 * The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
 * The coronaviruses directly emerging from zoonoses from wild/outside animals MERS-CoV and Sars-CoV-1 cause lower respiratory tract infections and frequently spread to the intestine. 
@@ -341,8 +344,8 @@ Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ po
 URI| Nose (nasal cavity / nasopharynx)| sneezing, loss of smell, headache, red eyes (especially if mask open towards the eyes)  |runny nose (mucus), local T cells or antibodies |  LRI, local spread| aerosol
 URI| Mouth (oropharynx) | loss of taste | local T cells|  (LRI), (spread through olfactory route could occur)| droplet, direct contact, (indirect contact)
 URI| Throat (laryngopharynx) |sore throat, upper cough | inflammation, local T cells|  LRI| droplet, aerosol
-LRI | bronchi | strange feeling in the lungs, shortness of breath, fever, dry cough | anitbodies, fever, inflammation of lung areas | ARDS which can cause death, distribution throughout the lungs, (viraemia)| fine aerosol, dry form 
-LRI | alveoli | strange feeling in the lungs, shortness of breath, fever, feeling sick | anitbodies, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death and spread to many organs| fine aerosol, dry form 
+LRI | bronchi | strange feeling in the lungs, shortness of breath, fever, dry cough | antibodies, fever, inflammation of lung areas | ARDS which can cause death, distribution throughout the lungs, (viraemia)| fine aerosol, dry form 
+LRI | alveoli | strange feeling in the lungs, shortness of breath, fever, feeling sick | antibodies, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death and spread to many organs| fine aerosol, dry form 
 
 
 
@@ -355,7 +358,7 @@ MRI| Vocal folds | hoarse | - | no ACE2 cells thus no virus replication |
 LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#ace2-receptor-distribution) thus no replication| viral load in sputum due to deposition 
 
 
-#### Ressources/ Readings
+#### Resources and Readings
 [in work]
 > Many concepts in this section are raw ideas and often not 1-1 in literature making. A lot of illustrative papers provided observations, inspiration and similar ideas founding the ideas here.
 
@@ -380,7 +383,7 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#a
 ### Content
 * [overview](#overview)
 * [relevance](#relevance)
-    - epidemiologic(#epidemiologic)
+    - epidemiological(#epidemiologic)
     - medications(#medications)
 * [biological basis](#biological-basis)
 * [epidemiological evidence](#epidemiological-evidence)
@@ -413,11 +416,11 @@ If a cross protection between BCoVs and Sars-CoV-2 exists and if yes how it work
 The relevance depends on the [mechanisms of crossprotection](#mechanisms-of-crossprotection) and how much protection is provided. 
 Possible use cases are polyvalent:
 
-#### epidemiological
+#### Epidemiological
 - knowing that people have an increased immune protections and therefore experience only mild symptoms and possibly have reduced spreading of Sars-CoV-2 is relevant to manage the current Covid-19 pandemic. 
-- Serum conversion occurrences: It could be that a different or no seroconversion occurs to people previously exposed to different strains of betacoronaviruses.  
+- Serum conversion occurrences: It could be that a different or no seroconversion occurs to people previously exposed to different strains of Betacoronaviruses.  
 
-#### medications
+#### Medications
 Knowledge of cross immune reactions can help to develop medications and even literal vaccines are thinkable vice versa. 
 - increase the immune response against Sars-CoV-2 or even provide paths for full immunization
 - even a literal vaccine is thinkable (the long-term pathogenesis of BCoVs needs to be reevaluated first)
@@ -427,7 +430,7 @@ Knowledge of cross immune reactions can help to develop medications and even lit
 ### Evidence from Distribution of Covid-19 
 In the following the in country distribution of Covid-19 is described. Since inside countries the testing schemes tend to be more or less uniform ([data specifications](#data-specifications)). Namely the data Switzerland and Spain are used , two countries in which only severe Covid-19 cases have been recorded. <!-- [todo: data wikipedia][in work] -->
 
-#### covid-19 in switzerland
+#### Covid-19 in Switzerland
 > The following analysis is for the months March and April 2020. In this period only severe Covid-19 cases were tested. Mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020.
 
 Incidence rates of both cases and deaths varies a lot between the different regions (Cantons which correspond to states).  
@@ -451,18 +454,18 @@ The same patterns are observed when considering only cantons with large cities o
 * German Speaking Region: TG, AI, SG, LU, AG have lower rates than BS.
 
 
-#### covid-19 in spain
+#### Covid-19 in Spain
 As in Switzerland the same pattern is observed in Spain:
 The cattle rich regions in the North and North East: Galicia, La Rioja, Basque Country have a lower death rate and higher recover rate than Madrid, Valencia, Castile, Catalonia and Leon. As expected from the humid climate in the communities Canary Islands, Melila and Balearic Islands the recover rates are high and the death rates are low compared to central Spain. 
 
 #### Remark
 Similar patterns seem to be in the USA and France. For analysis, ideally the partitioning of population is fine-grained to a level of at most a few 100K people per partition. 
 
-### biological basis
+### Biological Basis
 [in rework]
 First observations of cross immune protections are described. Then examples of host species jumps of betacoronaviruses are described including jumps from BCoV to humans.
 
-#### observed cross immune protections between different coronaviruses
+#### Cross Immune Protections between different Coronaviruses
 [Cross immune protections](#cross-immune-protection) against coronaviruses have been observed for different strains, therefore cross protections can exists for coronaviruses.
 Examples of observed cross immune protections are:
 * As already noted in the introduction  [Van der Hoek et al.](#vanderhoek2012) observed by analysing serum conversions (no additional serum conversion occurs):
@@ -471,10 +474,11 @@ Examples of observed cross immune protections are:
     
 * [Han et al](#han) showed that calves inoculated with HECV-4408get cross-protective immunity against the strain BCoV DB2. HECV-4408 is a strain that has been observed to cause acute diarrhoea in humans, see [human bcov infections](#human-bcov-infections)
 
-#### observed interspecies jumps
- There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](#interspecies-infection) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely but they are not easy to prove [citation coming].
-Examples where they have proven or there is strong evidence are:
-* The HECV-4408 coronavirus was isolated from a child having diarrhoea in 1994 as described in [Zhang et al](#zhang94)
+#### Observed Interspecies Jumps
+ There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](./coronavirus.md#infecting-new-species) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely, but they are not easy to prove [citation coming].
+Examples where they have PCR confirmed:
+* The HECV-4408 coronavirus was isolated from a child having diarrhea in 1994 as described in [Zhang et al](#zhang94)
+Examples of a successful jump from BCoV between humans and bovine:
 * OC43 likely was a BCoV jump to humans.
 
 
@@ -483,9 +487,9 @@ Examples where they have proven or there is strong evidence are:
 In the following mechanism of actions are guessed:
 * tissue resident T cells distributed through the respiratory tract recognize preserved parts of the initially translated ORFs and induce aptosis in infected cells [citations and argumentation in work 14.7.]. 
 * Antibodies against some well preserved parts of proteins. 
-    - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonins. Candidates:
+    - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonin. Candidates:
         * S1
-    - non extern proteins presented via MHC 1. The antibodies act as opsonins or are directly receptors of cytotoxic cells.
+    - non extern proteins presented via MHC 1. The antibodies act as opsonin or are directly receptors of cytotoxic cells.
         * N
 
 * combination of tissue resident T cells and antibodies marking infected cells. 
@@ -553,7 +557,7 @@ For the widespread viral load distribution in the lower respiratory tract, possi
 - [increased distribution across the lungs](#increased-distribution) 
 - [decreased mucus clearance](#decreased-mucus-clearance)
 
-##### increased replication?
+##### Increased Replication?
 likely NO, since:<br>
 [in rework]
 There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS risk group compared to hospitalized cases which don't develop ARDS. For people with only mild symptoms (especially children) early immune systeme responses possibly limit the viral replication [in work]. There is limited data available comparing the viral load kinetics of people with mild symptoms [in rework: new studies suggest similar viral loads]. In the following the focus is on hospitalized cases. 
@@ -565,11 +569,11 @@ There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS r
 
 <!--todo: immune reaction -->
 
-##### increased distribution?
+##### Increased Distribution?
 likely NO, since:<br>
 The Sars-CoV-2 entry ACE2 is expressed in large quantities in alveolar type 2 cells. From these locations, many particles are exhaled upon deep breathing [[Larsson](#larsson)], which could yield increased spreading both inside and outside. Thus to some extent the virus distribution depends on breathing patterns and so active people would be more at risk. Overall evidence is not strong that the widespread virus spread is solely caused by increased distribution.  
 
-##### decreased mucus clearance?
+##### Decreased Mucus Clearance?
 likely YES, since:<br>
 * observed for influenza by [Yuen et al](#yuen)
 * Factors known to decrease the mucus clearance are major risk factors for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents):
@@ -696,7 +700,7 @@ The numbers in parenthesis are observation rates in % of (fatal cases, severe ca
 <p id='influenza'></p>
     
 #### Factors Associated with ADRS in Influenza    
-The following characteristics are observed in the  [paper from Yuen et al.](#yuen):
+The following characteristics are observed by [Yuen et al.](#yuen):
 - For patient developing a ARDS coughing was more common than for patients, who didn't develop an ARDS. Since coughing is an emergency measure of the body to clear respiratory tract this an indication of bad clearance. 
 - The Nasopharyngeal Viral load was even a little higher in the group, who didn't develop an ARDS.
 - The tracheal viral load was much higher in the ARDS groups (less clearance!)
