@@ -21,8 +21,9 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Control and Containing Measures](#control-and-containing-measures)
 
 
+
 ## Protection Measures
-The following relies on the assumption that the main transmission of Sars-CoV-2 is airborne (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
 ### Support Immune Protection
 Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases, this should be the main focus. 
@@ -121,7 +122,7 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 #### Suggestions for Infected
 as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
-* permanent mask wearing in all indoor spaces/rooms where other people can be (including the own building and flat).
+* permanent mask wearing in all indoor spaces/rooms where susceptible people can be. Including the own building (stairwell) and the flat e.g. when living in flat sharing.  
 * no crowded places (outdoors and indoors)
 * distance: 2 meters outdoors and 4 meters indoors.
 * no close range face-to-face talking
