@@ -31,13 +31,19 @@
 ### Objects in the Air
 [in work]
 The movement of an object in the air depends on the ratio of its surface divided by its volume.
+
+
 <!--
+----
+#### Math Formulas
 
     a = g * E_d + v^2 * k/r * (S_p/V) * E_-v 
     
-where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of object; r=density of the objet; S_p = surface perpindicular to v; v=movement relative to sourounding air; V=volume; E_d = unit vector pointing downwards; E_-v = unitvector pointing in -v direction
-
+where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of object; r=density of the objet; S_p = surface perpendicular to v; v=movement relative to surrounding air; V=volume; E_d = unit vector pointing downwards; E_-v = unit-vector pointing in -v direction
+----
 -->
+
+
 * #### small ratio => gravity and initial movement 
     heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant: Examples are heavy balls in sports, rain droplets or snowballs. 
 * #### large ratio => go with the air
