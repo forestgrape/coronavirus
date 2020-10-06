@@ -47,25 +47,33 @@ where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of obj
 * #### large S/m ratio => go with the air
     light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the winds. Feathers, dust particles and dry snowflakes are examples.
 
-Of course any movement form in between exists too: 
+Examples and  movements in between: 
+* Feathers and balloon: Have large surface and low densities, so the S/m ratio is large and they go with the wind.
 * Table tennis balls are both small and have a relatively low density, so they often go with the air. 
 * Footballs and tennis balls mostly fly with parabolas. But strong winds can influence their movements.
 * Golf balls on the other hand are less subject to the wind compared to table tennis balls. The size is similar but golf balls have a higher density. 
-* Shut pots have a high density and quite large too. They won't be blown by the winds. 
+* Shut pots have a high density and quite large too. They won't be blown by the winds.
+
+#### Material Factor
+The mass calculates as density times volume so
+* #### large density => small S/m ratio
+   E.g. shot puts, stones, snowballs
+* #### small density => large S/m ratio
+   E.g. table tennis ball, balloon 
  
 #### Form Factor
 A spherical form yields the smallest surface for a fixed volume. Thus round objects have smaller ratios surface/volume than non round objects.
 * #### roundish => small S/m ratio 
-     Watery particles tend to have a minimal surface and are roundish. Thus wet particles tend to fall more than dry particles. 
+    Watery particles tend to have a minimal surface and are roundish. Thus wet particles tend to fall more than dry particles. 
 * #### large surface/low density => large S/m ratio
     Feathers or leaves have a large surface compared to their mass, so the S/m ratio is large. Therefore this objects tend to go with the wind.
 
 #### Size Factor
-Since the volume increases in cubic and the surface only in square of the length/diameter:
+Since the volume increases in cubic and the surface only in square of the length/diameter. Tiny objects have very large ratios and thus go with the wind. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. 
 * #### larger size => smaller S/m ratio
 * #### smaller size => larger S/m ratio
 
-Tiny objects have very large ratios and thus go with the wind. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. This is the case too for very small water droplets that can't seen as single particles: They move with airflow. Since they can't be seen as single particles, they look like dissolved in the air and thus are called aerosols.
+The [size factor](#size-factor) is the distinguishing point for aerosols versus droplets since both have a spherical form and consist of water. Very small water droplets, that can't seen as single particles, move with airflow. 
 
 #### Droplet versus Aerosol
 > <span id='aerosol'> An *aerosol* is a collection of tiny droplets with a diameter smaller than 5 micro meter. Aerosol comes from Greek aero=air and sol=solvent, since tiny droplet can't be seen and thus look like dissolved in the air. However an aerosol is a bunch of heaps of water molecules possibly including some other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding movement and visibility for our eyes.</span>
