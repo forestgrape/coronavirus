@@ -1,3 +1,4 @@
+
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
@@ -63,7 +64,7 @@
 
 
 ## Updates 
-- 5.10. moved from literal single page (all content in index.md) to multi-page. Pages including short description are in the in the [content](#content). 
+- 5.10./6.10. moved from literal single page (all content in index.md) to multi-page. Pages including short description are in the in the [content](#content). 
     > Even though I liked the single page version since nearly everything is connect anyways, multi-page is easier to manage and I try to make the pages self-contained.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
@@ -187,7 +188,7 @@ Keep in mind that the temperature varies during a day and with the activities pe
 
 <p id="covid"> -------</p>
 
-# Covid-19
+## Covid-19
 
 ### public description
 Covid-19 can have many forms and accompanying [symptoms](#symptoms):
@@ -196,7 +197,8 @@ Covid-19 can have many forms and accompanying [symptoms](#symptoms):
 
 Most symptoms are not specific to Covid-19, they can have other causes: having eaten something rotten, not having had enough sleep or an infection with other viruses. If the lungs get involved, symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
-> I likely had Covid-19 myself in late winter 2020 when temperatures were still well below 0 in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) due to the lack of respiratory symptoms - not a single cough if I recall correctly -  2) partly the supposed low prior probability according to official prevalence and 3) partly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session which by itself went well, but it turned out to have been a bad idea: since in the following days some chills started and accordingly a small temperature increase, up to 36.x from my normal range 34.5 - 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later on temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started seriously considering Covid. <br>
+> I likely had Covid-19 myself in late winter 2020 when temperatures were still well below 0 in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to official prevalence and 3) lastly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session which by itself went well, but it turned out to have been a bad idea: since in the following days some chills started and accompanied by a temperature increase, up to 36.x from my normal range 34.5 - 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later on temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started seriously considering Covid.
+> 
 > Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
 
 ### Symptoms
@@ -745,11 +747,7 @@ The following characteristics are observed by [Yuen et al.](#yuen):
 
 
 
-
-
-<p id="references">-------</p>
-
-# References
+## References
 
 #### Note 
 * References are grouped by topic. If several topics apply, one has been chosen. 
