@@ -112,7 +112,7 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 
 #### Suggestions for possibly Infected
-* mask wearing in all public indoor spaces and best in all indoor rooms.
+* mask wearing in all public indoor spaces and best in all indoor rooms where susceptible people can be.
 * no crowed indoor spaces
 * distance: 1 meters outdoors and 2 meters indoors.
 * no face-to-face talking without a mask
