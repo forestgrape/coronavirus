@@ -65,10 +65,10 @@
 
 ## Updates 
 - 5.10./6.10. moved from literal single page (all content in index.md) to multi-page. Pages including short description are in the in the [content](#content). 
-    > Even though I liked the single page version since nearly everything is connect anyways, multi-page is easier to manage and I try to make the pages self-contained.
+  > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
-	* I wrongly ignored upper respiratory infections for a long time (because most severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
+	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
 - 27.7. [Disease pattering](#disease-pattering)
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
@@ -83,7 +83,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 #### Minor Update
-- 5.10. Revised argumentation for handling covid cases and quarantine
+- 5.10. Revised argumentation for [handling covid cases and quarantine](./monitor_and_control.md#)
 - 3.8. [Airborne Transmission](./transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 storage options to memorize metabolism (in offline work)
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
@@ -110,13 +110,12 @@
 [in rework]
 Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term effects are possible in theory too for other viruses causing subtle infections e.g. common colds. Knowledge of many pathogens is limited. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
-Time to act mindfully and work together in an open, transparent and honest way. 
+Time to act mindfully, carefully and circumspectly. Let's work together in an open, fair and honest way. And live together with this mindset!
 
 ### Sars-CoV-2 transmission 
 SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
 * __droplet transmission__: Droplets behavior we known, droplet trajectories are that of balls thrown. Transmission happen in situation when bad breath/reek of alcohol is smelled: E.g. droplet exchange when close range face-to-face talking gives a transmission opportunity.
 * __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
-
 
 
 ### How to Reduce Covid-19 Infection Paths
