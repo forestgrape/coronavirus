@@ -2,7 +2,7 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* [Updates](#updates) in progress. Moved from single page to multipage. In work and therefore some local links may require hand-lookup. 
+* [Updates](#updates) in progress. Moved from single page to multipage. In work therefore some local links may require hand-lookup. 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
@@ -330,7 +330,7 @@ Regarding these questions the following hypotheses are state and argued:
 
 Infection Type| Coronavirus  | Symptoms | Immune_response | possible Complications | Infection Path | Notes
 --------------|--------------|----------|---------------|------------------------|---------------|----
-URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Sore throat, upper cough, sneezing | often local response (Tissue resident T cells), sometimes antibodies |  LRI, possibly longer lasting infection, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide. 
+URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Sore throat, upper cough, sneezing | often local T cells (Tissue resident T cells), sometimes antibodies |  LRI, possibly longer lasting infection, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide. 
 LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available, else anitbody response, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death, EI| aerosol, dry form | mainly in dry air since in humid air less likely to reach LR, the lung surface is big so lots of space to spread
 EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| local T cell or antibodies | - | through viraemia, through alimentary either by URI or by oral intake| Adequate immune response likely
 
