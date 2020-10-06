@@ -110,7 +110,7 @@
 [in rework]
 Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term effects are possible in theory too for other viruses causing subtle infections e.g. common colds. Knowledge of many pathogens is limited. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
-Time to act mindfully and carefully. Let's work together in an open, transparent and honest way. 
+Time to act mindfully and work together in an open, transparent and honest way. 
 
 ### Sars-CoV-2 transmission 
 SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
@@ -161,7 +161,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 
 ### Observe
 Observe your body, write down the observations and if possible measure.<br>
-The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Nothern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
+The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
 
 * Every morning first smell and then taste your favorite breakfast drink.  
 * Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). 
@@ -177,7 +177,7 @@ Keep in mind that the temperature varies during a day and with the activities pe
     and avoid anything that weakens the immune system:
     * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
     * avoid being cold or even freezing for a longer period. For this reason, in cold climates don't open the windows permanently. 
-    * avoid any kind of immune suppresives unless necessary for medical reasons. 
+    * avoid any kind of immunosuppressants unless necessary for medical reasons. 
     * try reducing stress for yourself and others. Trying too hard won't help though. 
     
   Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
@@ -269,8 +269,8 @@ Summaries and references this findings are based on are added at the very bottom
       - epidemiological
           - antibody responses observed in rural areas (pre SARS-CoV-2)
           - both MERS-like and SARS-like are sampled from bats
-      - evolution: frequent recombinations
-    - SARS-like have a large and dense genetic diversity and an evolution with frequent recombinations which requires co-infections of different strains in the same cell and so in the same animal. This makes indicates a host species with a large biomass and a relaxed 'Darwinism'. For the last centuries the only animals providing this, are farm animals. Candidates are goats, sheep, pigs or even silk-moths (Bombyx mori). 
+      - evolution: frequent recombination
+    - SARS-like have a large and dense genetic diversity and an evolution with frequent recombination which requires co-infections of different strains in the same cell and so in the same animal. This makes indicates a host species with a large biomass and a relaxed 'Darwinism'. For the last centuries the only animals providing this, are farm animals. Candidates are goats, sheep, pigs or even silk-moths (Bombyx mori). 
 3. The livestock animals are likely goats or sheep. Evidence:
     - Due to cross immune reactions against coronaviruses, a group of vertebrates likely can be an evolutionary habitat to only one coronavirus species. Cattle have BCoVs, pigs have TEGV and camels MERS. Sheep and goats are still available to provide a habitat. 
     - MERS is genetically quite close to SARS-CoVs, indicating the natural hosts of SARS-like are quite close natural hosts of MERS both genetically and in lifestyle. 

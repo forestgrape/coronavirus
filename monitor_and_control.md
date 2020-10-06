@@ -1,9 +1,7 @@
 
 # Thoughts on Monitor and Controlling Sars-CoV-2
-This section extends and   [Public Advices and Suggestions](#public-advice) section. 
+This section extends and   [Public Advices and Suggestions](./index.md#public-advice) section. 
 
-## Content
-* [Content](#content)
 * [Protection Measures](#protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
@@ -21,7 +19,6 @@ This section extends and   [Public Advices and Suggestions](#public-advice) sect
   * [Exhaled Particles](#exhaled-particles)
   * [Laboratory Biosafety](#laboratory-biosafety)
   * [Control and Containing Measures](#control-and-containing-measures)
-
 
 
 ## Protection Measures
@@ -62,7 +59,7 @@ Common types of masks are:
 
 #### Mask use Cases
 * For self protection good fit and a good outside-to-inside filter are important. 
-* In dry air, water [droplets shrink](#dry-form-model), thus fine grained filters are especially important for self protection. 
+* In dry air, water [droplets shrink](./transmission.md#dry-form-transmission-model), thus fine grained filters are especially important for self protection. 
 * To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
 
 #### Mask Reuse and Cleaning
