@@ -108,9 +108,9 @@
 
 ## Public Advice, Suggestions and Thoughts
 [in rework]
-Covid-19 can be serious in the short-term and such serious infections can in rare cases damage organs. For less virulent Covid-19 no serious long-term effects are known yet, however experiences and research is limited so whether such effects can occur is unknown. Such effects are possible too for other (corona)viruses causing common colds or other subtle infections. Even though many of these pathogens are known for decades, knowledge tends to be limited. Awareness for viruses and knowledge what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term effects are possible in theory too for other viruses causing subtle infections e.g. common colds. Knowledge of many pathogens is limited. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
-Time to act mindfully and work together in an open, transparent and honest way. 
+Time to act mindfully and carefully. Let's work together in an open, transparent and honest way. 
 
 ### Sars-CoV-2 transmission 
 SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
@@ -135,20 +135,17 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
     * Open the windows. In cold climate: ventilate the rooms regularly by opening all windows for 5 minutes.  
     * If possibly infected, always ventilate before opening the door of your room or flat. 
 
+* Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. 
+    * Wash hands with a lot soap
+    * In trains with old toilets, that go to the rails, do _not_ shit.
+    * Ideally ventilate toilet with the window or built in ventilation
 
-* Large numbers of coronaviruses can be in the shit (and many other pathogens too). This even when the respiratory infection is over. 
-  * Ventilate toilet with the window or built in ventilation
-  * Wash hands
-  * If there are old toilets, that go to the rails, do _not_  shit
-
-
-- Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses. Hygiene is important because:
+* Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses. Hygiene is important because:
     * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
     * it is known that other pathogens can be transmitted through droplets or fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk. 
     * avoiding respiratory diseases is important, because Covid-19 symptoms can be similar. This means avoiding situations where infecting others is likely and even can mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.   
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
-
 
 - [Outside is safe, if some distance is kept](#outside-is-safer). Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
@@ -156,7 +153,6 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 * Public transport:
     * Wear a mask to reduce infection paths. 
     * Ventilation is important in public transport.
-
 
 - Don't have dry air inside. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defences of the respiratory tract against pathogens. 
 
@@ -192,8 +188,11 @@ Keep in mind that the temperature varies during a day and with the activities pe
 
 ### public description
 Covid-19 can have many forms and accompanying [symptoms](#symptoms):
-* it start in the upper respiratory tract and feel similar to a common cold with a sore throat and a runny nose. Loss of smell or taste occur and these are more specific to coronavirus infections. Coughing is typical too, the body wants to get rid of the viruses in the respiratory tract. 
+* it start in the upper respiratory tract and in this case it feels similar to a common cold with a sore throat and a runny nose. Loss of smell or taste occur and these are more specific to coronavirus infections. 
+* it can start in the throat. Coughing is typical, the body wants to get rid of the viruses in the respiratory tract. 
 * But it can also start from within, from the deep lungs, and so early symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. 
+
+Where and how Covid-19 starts determines the early phase of the disease and the corresponding symptoms. However if the body fails to clear the coronaviruses, they can well spread to other locations. So it possibly Covid-19 starting with a sore throat and one ends up in intense care with pneumonia, an inflammation of the lungs. 
 
 Most symptoms are not specific to Covid-19, they can have other causes: having eaten something rotten, not having had enough sleep or an infection with other viruses. If the lungs get involved, symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
