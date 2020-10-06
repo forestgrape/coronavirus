@@ -107,14 +107,15 @@
 
 ## Public Advice, Suggestions and Thoughts
 [in rework]
-Covid-19 can be serious in the short-term and whether long-term effects can be caused is unknown - tough such effects can occur too for other (corona)viruses causing common colds - awareness for viruses and knowledge what they do and how they can harm or help is important. However no reason to be afraid or panic, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 can be serious in the short-term and such serious infections can in rare cases damage organs. For less virulent Covid-19 no serious long-term effects are known yet, however experiences and research is limited so whether such effects can occur is unknown. Such effects are possible too for other (corona)viruses causing common colds or other subtle infections. Even though many of these pathogens are known for decades, knowledge tends to be limited. Awareness for viruses and knowledge what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
 Time to act mindfully and work together in an open, transparent and honest way. 
 
 ### Sars-CoV-2 transmission 
 SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
-* __droplet transmission__: can happen in situation when bad breath/reek of alcohol is smelled: E.g. droplet exchange when close range face-to-face talking gives a transmission opportunity.
-* __aerosols transmission__: aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+* __droplet transmission__: Droplets behavior we known, droplet trajectories are that of balls thrown. Transmission happen in situation when bad breath/reek of alcohol is smelled: E.g. droplet exchange when close range face-to-face talking gives a transmission opportunity.
+* __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+
 
 
 ### How to Reduce Covid-19 Infection Paths
@@ -134,21 +135,27 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
     * If possibly infected, always ventilate before opening the door of your room or flat. 
 
 
+* Large numbers of coronaviruses can be in the shit (and many other pathogens too). This even when the respiratory infection is over. 
+  * Ventilate toilet with the window or built in ventilation
+  * Wash hands
+  * If there are old toilets, that go to the rails, do _not_  shit
+
+
 - Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses. Hygiene is important because:
     * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
-    * it is known that other pathogens can be transmitted through droplets or fomites. Pathogens often can cause tissue damage and/or weaken the immune system. E.g. common cold viruses try to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk. 
+    * it is known that other pathogens can be transmitted through droplets or fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk. 
     * avoiding respiratory diseases is important, because Covid-19 symptoms can be similar. This means avoiding situations where infecting others is likely and even can mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.   
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
 
 
-- [Outside is safe, if some distance is kept](#outside-is-safer).  Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
+- [Outside is safe, if some distance is kept](#outside-is-safer). Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. 
 * Public transport:
     * Wear a mask to reduce infection paths. 
     * Ventilation is important in public transport.
-    * If there are old toilets, that go to the rails, do _not_  shit!
+
 
 - Don't have dry air inside. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defences of the respiratory tract against pathogens. 
 
@@ -244,17 +251,22 @@ The goal of this section is to trace the natural habitats of Sars-like viruses.
 * observing the natural habitat can provide knowledge and ideas to develop medications and treatments.
 
 ### Hypotheses
-Sketching hypotheses about the habitat of SARS-like including pieces of evidence. [a more in depth exploration and explanation is in work: section [Habitat and Life Cycle of Coronavirus Organisms]]
+Sketching hypotheses about the habitat of SARS-like including pieces of evidence. [a more in depth exploration and explanation is in work: [Habitat and Life Cycle of Coronavirus Organisms]]
 Summaries and references this findings are based on are added at the very bottom of the page [soon to be moved on its own page]. 
 
 1. The virus strains closely related to SARS-CoV-2 and including those using the ACE 2 receptor are endemic to the region around northern Yunnan. Evidence:
     * Bats containing SARS-like viruses using the ACE 2 receptor are found in northern Yunnan and only in this region. 
     * The tropism of the early SARS-2 strains in November through January was such that that SARS-CoV-2 spread only in cool and dry but not in warm and humid conditions. A similar climate is expected for the evolutionary habitat of SARS-CoV-2 and such a climate is found in the mountainous part of northern Yunnan. 
 2. Domestic animals are part of the natural habitat of SARS-CoV-1/2 and regular limited infections of humans occur. Evidence:
-    - The tropism of SARS-CoV-2 and to a lesser extent of SARS-CoV-1, suggests adaption humans and indoor transmission. 
+    - The tropism of SARS-CoV-2 suggests adaption humans and indoor transmission. Noteworthy a much better adaption than SARS-CoV-1. 
     - Serology of farmers in northern Yunnan shows regular infections. 
-    - All human coronaviruses other than SARS-like are known to have close relatives in farm animals, thus jumps in either direction occurred. All relations to wild animal CoVs likely are due to jumps between domestic and wild animals and not to jumps between humans and wild animals. 
-    - MERS is known that it usually jumps from camels to humans. SARS-like are similar to MERS-like both genetical and antibody responses observed in rural areas (without SARS-CoV-2).
+    - All human coronaviruses other than SARS-like are known to have close relatives in farm animals, thus jumps in either direction occurred. All relations to wild animal CoVs likely are due to jumps between domestic and wild animals and not to jumps between humans and wild animals. Moreover for most jumps of viruses between humans and other mammals, the mammals were domestic. 
+    - MERS is known that it usually jumps from camels to humans. SARS-like are similar to MERS-like:         
+      - sequence identity
+      - epidemiological
+          - antibody responses observed in rural areas (pre SARS-CoV-2)
+          - both MERS-like and SARS-like are sampled from bats
+      - evolution: frequent recombinations
     - SARS-like have a large and dense genetic diversity and an evolution with frequent recombinations which requires co-infections of different strains in the same cell and so in the same animal. This makes indicates a host species with a large biomass and a relaxed 'Darwinism'. For the last centuries the only animals providing this, are farm animals. Candidates are goats, sheep, pigs or even silk-moths (Bombyx mori). 
 3. The livestock animals are likely goats or sheep. Evidence:
     - Due to cross immune reactions against coronaviruses, a group of vertebrates likely can be an evolutionary habitat to only one coronavirus species. Cattle have BCoVs, pigs have TEGV and camels MERS. Sheep and goats are still available to provide a habitat. 
