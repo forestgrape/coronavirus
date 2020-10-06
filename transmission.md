@@ -1,6 +1,4 @@
 
-  
-<p id="transmission-models">--------</p>
 
 # Transmission of Betacoronaviruses with Focus on Sars-CoV-2 and a Proposed Dry Form Transmission 
 
@@ -30,9 +28,9 @@
 
 ### Objects in the Air
 [in work]
-The movement of an object in the air depends on the ratio of its surface divided by its volume.
+The movement of an object in the air depends on the ratio of its surface divided by its mass. The mass is turn is the volume times the density of the material. 
 
-
+> S/m ratio = surface of a particle divided by its mass
 <!--
 ----
 #### Math Formulas
@@ -44,31 +42,38 @@ where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of obj
 -->
 
 
-* #### small ratio => gravity and initial movement 
-    heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant: Examples are heavy balls in sports, rain droplets or snowballs. 
-* #### large ratio => go with the air
+* #### small S/m ratio => gravity and initial movement 
+    heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant. This results in projectile motions which are, as already Galileo knew, upside down parabolas. Examples are heavy balls in sports, rain droplets or snowballs. 
+* #### large S/m ratio => go with the air
     light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the winds. Feathers, dust particles and dry snowflakes are examples.
 
-Of course any movement form in between exists too: Footballs and tennis balls have quite a large surfaces compared to their weight, so strong winds influences their movement. Even a larger ratio have table tennis balls. Golf balls on the other hand are less subject to the wind compared to table tennis balls.
+Of course any movement form in between exists too: 
+* Table tennis balls are both small and have a relatively low density, so they often go with the air. 
+* Footballs and tennis balls mostly fly with parabolas. But strong winds can influence their movements.
+* Golf balls on the other hand are less subject to the wind compared to table tennis balls. The size is similar but golf balls have a higher density. 
+* Shut pots have a high density and quite large too. They won't be blown by the winds. 
+ 
+#### Form Factor
+A spherical form yields the smallest surface for a fixed volume. Thus round objects have smaller ratios surface/volume than non round objects.
+* #### roundish => small S/m ratio 
+     Watery particles tend to have a minimal surface and are roundish. Thus wet particles tend to fall more than dry particles. 
+* #### large surface/low density => large S/m ratio
+    Feathers or leaves have a large surface compared to their mass, so the S/m ratio is large. Therefore this objects tend to go with the wind.
 
-#### smaller size => larger ratio
-Since the volume increases in cubic and the surface only in square:
-* Large objects tend to have small ratios
-* Small objects tend to have large ratios
+#### Size Factor
+Since the volume increases in cubic and the surface only in square of the length/diameter:
+* #### larger size => smaller S/m ratio
+* #### smaller size => larger S/m ratio
 
 Tiny objects have very large ratios and thus go with the wind. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. This is the case too for very small water droplets that can't seen as single particles: They move with airflow. Since they can't be seen as single particles, they look like dissolved in the air and thus are called aerosols.
 
-#### droplet or aerosol
+#### Droplet versus Aerosol
 > <span id='aerosol'> An *aerosol* is a collection of tiny droplets with a diameter smaller than 5 micro meter. Aerosol comes from Greek aero=air and sol=solvent, since tiny droplet can't be seen and thus look like dissolved in the air. However an aerosol is a bunch of heaps of water molecules possibly including some other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding movement and visibility for our eyes.</span>
 
 The larger droplets keep their name and are just called droplets:
 > <span id='droplet'>*Droplets* in the context of transmission models denote watery particles with a diameter greater equal 5 micro meter. </span>
 
-> // The change both of movement and visibility is contineous and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of milimeters is a coincidence. At least there is no obvious causal connection.  
-
-#### drier and smaller => larger ratio 
-The spherical form yields the smallest surface for a fixed volume. Thus round objects have smaller ratios surface/volume than non round objects. Watery particles tend to have a minimal surface and are roundish, thus the ratio of surface/volume tend to smaller than of the dry particles. E.g. dry leafs, feathers, flour and dust ... all go with the wind. 
-
+> // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of millimeters is a coincidence. At least there is no obvious causal connection.  
 
 ### Overview Airborne Transmission
 Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls but aerosols mostly move with the air. Tiny and dry particles always go with the air. 
@@ -107,7 +112,8 @@ Based on the aerosol and dry form transmission models, expected spread patterns 
 <p id="dry-form-model">-----</p>
 
 ## Dry Form Transmission Model
-[in rework]<br>
+[in rework]
+  
 In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
 
 In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form, so dry form infection is possible in theory.
