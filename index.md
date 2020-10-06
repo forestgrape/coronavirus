@@ -7,7 +7,7 @@
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
-* A thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For copy & paste like rewriting attribution is appropriate. <!--Summarized: copy paste like needs attribution. For inspiration, thanks are enough and welcome. -->
+* A thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For rewriting attribution is appropriate. <!--Summarized: Rewriting needs attribution. For inspiration, thanks are enough and welcome. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
@@ -63,7 +63,7 @@
 
 
 ## Updates 
-- 5.10. moved from literal single page (previously all content in index.md) to multi-page. Pages including short description are in the in the [content](#content). 
+- 5.10. moved from literal single page (all content in index.md) to multi-page. Pages including short description are in the in the [content](#content). 
     > Even though I liked the single page version since nearly everything is connect anyways, multi-page is easier to manage and I try to make the pages self-contained.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
@@ -79,11 +79,11 @@
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ triple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). The ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). Finally to a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
+    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 #### Minor Update
 - 5.10. Revised argumentation for handling covid cases and quarantine
-- 3.8. [Airborne Transmission](#airborne-transmission) section added 
+- 3.8. [Airborne Transmission](./transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 storage options to memorize metabolism (in offline work)
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
 - 12.6. sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
@@ -317,6 +317,7 @@ Regarding these questions the following hypotheses are state and argued:
     - the host immune system and its experience with the virus strain
 * The pathogenesis, possible complications and the optimal treatment depend on the infection patterns. 
 
+
 ### Infections caused by Human Coronaviruses
 
 ##### Abbreviations
@@ -497,7 +498,7 @@ Examples of a successful jump from BCoV between humans and bovine:
 * OC43 likely was a BCoV jump to humans.
 
 
-### mechanisms of crossprotection
+### Mechanisms of Crossprotection
 [in rework]
 In the following mechanism of actions are guessed:
 * tissue resident T cells distributed through the respiratory tract recognize preserved parts of the initially translated ORFs and induce aptosis in infected cells [citations and argumentation in work 14.7.]. 
@@ -507,8 +508,7 @@ In the following mechanism of actions are guessed:
     - non extern proteins presented via MHC 1. The antibodies act as opsonin or are directly receptors of cytotoxic cells.
         * N
 
-* combination of tissue resident T cells and antibodies marking infected cells. 
-     
+* combination of tissue resident T cells and antibodies marking infected cells.   
 
 previous guesses, likely false:
 * Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
@@ -612,9 +612,9 @@ likely YES, since:<br>
 
 <p id='decrease-distribution'>---</p>
 
-### Ideas to Decrease Virus Distribution [in work]
+### Ideas to Decrease Virus Distribution
 
-#### new methods ideally are  
+#### New Methods ideally are  
 - thought through by a variety specialists from different fields
 - simulated
 - tightly supervised, observed and recorded
@@ -623,7 +623,7 @@ likely YES, since:<br>
 __Note__:
 These are unchecked proposals and should be carefully supervised. Ideally methods are __first simulated__, e.g. by methods described in the section [Particle Dynamics in Respiratory Tract](#particles). Anything that alters the natural airflow and thus possibly the distribution of viruses could cause irritations and infections in new locations. Methods likely doing this (e.g. High Flow Therapy) will not be further discussed here. <!-- todo add ref-->
  
-#### increase the mucus flow
+#### Increase the Mucus Flow
 Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
 This prevents the accumulation of viral loaded and dry mucus early on. This in turn should both increase the well-being as well as the overall prognosis. 
 
@@ -640,12 +640,12 @@ __Caution__: If there are already a lot of (dry) mucus accumulations, liquefying
 Careful handling: 
     - The steam inhaled should not be very hot, so some distance to the hot water is required. 
     - Start carefully and see how the body reacts
-    - Use in early phase/not severe cases only since the steam may further irritate the mucous membranes.
+    - Start early on. Good for mild Covid. If in severe condition the steam may further irritate the mucous membranes and doctors should give treatment schemes.
     - Careful handling of the hot pot: A solid stand/table is recommended.
 
     __Benefit__: Simple use and a temporary increase in mucus flow. __Risk__:  If handled carefully the risks should be little. Irritation due to liquefying the mucus or because to hot steam is inhaled is possible.
     
-#### reduce the spread of viruses    
+#### Reduce the Spread of Viruses    
 reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][simulate first what happens]
 - patients should breath as calm as possible
 - slightly increased pressure may reduce opening and closing of alveoli [to be confirmed]
