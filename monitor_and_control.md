@@ -203,7 +203,6 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
 [in work]
 From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
 
-----
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
