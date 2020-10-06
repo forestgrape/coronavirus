@@ -34,13 +34,9 @@ The movement of an object in the air depends on the ratio of its surface divided
 
 
 <!--
-
 #### Math Formulas
-
-    a = g * E_d + v^2 * k/r * (S_p/V) * E_-v 
-    
+    a = g * E_d + v^2 * k/r * (S_p/V) * E_-v  
 where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of object; r=density of the objet; S_p = surface perpendicular to v; v=movement relative to surrounding air; V=volume; E_d = unit vector pointing downwards; E_-v = unit-vector pointing in -v direction
-
 -->
 
 
