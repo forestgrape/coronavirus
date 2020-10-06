@@ -8,4 +8,12 @@ relative_links:
   collections: true
 include:
   - coronavirus.md
+  - covid19.md
+  - immune_system.md
+  - index.md
+  - monitor_and_control.md
+  - transmission.md
+
+
+  - 
 
