@@ -122,16 +122,18 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 ### How to Reduce Covid-19 Infection Paths
 > Remark: The following advices were written mostly in early spring 2020 when Sars-Cov-2 induced ARDS/SARS disease patterns peaked in Europe. Updates in work.  
 
-* Wear a mask<br> 
-    - for close range face-to-face contact/talking. 
-    - in indoor places where infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
+* Wear a [mask](./monitor_and_control.md#masks) 
+    - Outdoor and indoor: for close range face-to-face contact/talking. 
+    - In indoor places where susceptible or infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    Masks can be reused if [cleaned](#mask-reuse-and-cleaning) regularly.   From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+    Get some comfortable and stylish masks for casual use. In some situations e.g. hospitals a dense mask is necessary, in leisure time often any mask will do it. Any mask is better than no mask!
+
+    Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
 * Distancing reduces infection risk.
 
 * Ventilate well<br>
-    [Ventilation](#ventilation) has been shown to be effective to reduce airborne virus spread. 
+    [Ventilation](./monitor_and_control.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
     * Open the windows. In cold climate: ventilate the rooms regularly by opening all windows for 5 minutes.  
     * If possibly infected, always ventilate before opening the door of your room or flat. 
 
