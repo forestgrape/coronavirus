@@ -108,9 +108,13 @@
 
 ## Public Advice, Suggestions and Thoughts
 [in rework]
-Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term effects are possible in theory too for other viruses causing subtle infections e.g. common colds. Knowledge of many pathogens is limited. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term adverse effects are possible too for other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
-Time to act mindfully, carefully and circumspectly. Let's work together in an open, fair and honest way. And live together with this mindset!
+> Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
+
+> Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page. 
+
+Time to act mindfully, carefully and circumspectly. Let's work together in an open, fair and honest way. And live with this mindset!
 
 ### Sars-CoV-2 transmission 
 SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
@@ -135,16 +139,12 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
     [Ventilation](./monitor_and_control.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
     * Open the windows. In cold climate: ventilate the rooms regularly by opening all windows for 5 minutes.  
     * If possibly infected, always ventilate before opening the door of your room or flat. 
-
-* Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. 
-    * Wash hands with a lot soap
-    * In trains with old toilets, that go to the rails, do _not_ shit.
-    * Ideally ventilate toilet with the window or built in ventilation
+    * Ventilate the toilet after shit
 
 * Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses. Hygiene is important because:
-    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
-    * it is known that other pathogens can be transmitted through droplets or fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk. 
-    * avoiding respiratory diseases is important, because Covid-19 symptoms can be similar. This means avoiding situations where infecting others is likely and even can mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.   
+    * transmission pathways of Covid-19 are still somewhat unclear. So just avoid them all. 
+    * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
+    * it is known that other pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
 
@@ -158,28 +158,43 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 - Don't have dry air inside. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defences of the respiratory tract against pathogens. 
 
 
-### Observe
+### Observe and Take Care
 Observe your body, write down the observations and if possible measure.<br>
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
 
+* Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice and upper cough can indicate a SARS-CoV-2 infection. 
+* Moreover the widespread protection measures in place against Covid-19, protect against all respiratory diseases, so most respiratory diseases are not very common currently. This makes Covid-19 in many regions the most prevalent respiratory disease. So respiratory symptoms means being careful.
+* avoiding respiratory diseases is important, because Covid-19 symptoms can be similar. This means avoiding situations where infecting others is likely and even can mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.
 * Every morning first smell and then taste your favorite breakfast drink.  
 * Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). 
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
 
+    > It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees.
 
-> It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees. 
+### Plan and Estimate
+Many situation where there is an increased infection risk are known:
+* a long night out with a lot of alcohol 
+* being in a densely populated pub and very close range face to face talking
+* airplanes
+* excessive sport
+
+So its important to keep risks in mind and plan
+* whether and when to take the risks
+* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19. This likely because they avoided most risks except for sport.
 
 
-- Live a healthy lifestyle and thereby support the immune system:
-    * sleep enough, eat healthily, relax and do some sport 
 
-    and avoid anything that weakens the immune system:
-    * avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
-    * avoid being cold or even freezing for a longer period. For this reason, in cold climates don't open the windows permanently. 
-    * avoid any kind of immunosuppressants unless necessary for medical reasons. 
-    * try reducing stress for yourself and others. Trying too hard won't help though. 
+
+### Live a Healthy Lifestyle 
+* Sleep enough, eat healthily, relax and do some sport. 
+
+and avoid anything that weakens the immune system:
+* avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
+* avoid being cold or even freezing for a longer period. For this reason, in cold climates, windows shouldn't be open permanently. 
+* avoid immunosuppressants unless necessary for medical reasons. 
+* try reducing stress for yourself and others. Trying too hard won't help though. 
     
-  Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
+Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
 

@@ -20,8 +20,6 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Laboratory Biosafety](#laboratory-biosafety)
   * [Control and Containing Measures](#control-and-containing-measures)
 
-
-
 ## Protection Measures
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
@@ -93,7 +91,6 @@ Ventilation reduces the indoor airborne spread, since the virion density in [out
 
 ### Handling Covid-19 Cases and Quarantine
 The focus should be on monitoring cases both for disease progression and to figure out and avoid infection paths. 
-
 The thinking behind using a tactics of relaxed instructions is as follows:
 
 * ##### Strict Instructions

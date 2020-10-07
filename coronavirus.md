@@ -521,7 +521,7 @@ For serving as an entry point, ACE2 should be built into the cell membrane as a 
     - be released from the cell
     - being built into the cell membrane as a receptor on any site. 
 
-#### ace2 receptor distribution
+#### ACE2 Receptor Distribution
 [**incomplete and in rework**][Until updated, recommended is direct lookup in: [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]<br>
 ACE2 is apically available 
 * in the lower respiratory tract
