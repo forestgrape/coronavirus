@@ -2,7 +2,7 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* [Updates](#updates) in progress. Moved from single page to multipage. In work, therefore some local links may temporary require hand-lookup (read markdown at github). 
+* [Updates](#updates) in progress. Moved from single page to multipage. In work, therefore some local links may temporary require hand-lookup (via markdown at github). 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
@@ -118,8 +118,8 @@ Time to act mindfully, carefully and circumspectly. Let's work together in an op
 
 ### Sars-CoV-2 transmission 
 SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
-* __droplet transmission__: Droplets behavior we known, droplet trajectories are that of balls thrown. Transmission happen in situation when bad breath/reek of alcohol is smelled: E.g. droplet exchange when close range face-to-face talking gives a transmission opportunity.
-* __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection.  Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+* __droplet transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity.
+* __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell and see it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
 
 
 ### How to Reduce Covid-19 Infection Paths

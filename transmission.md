@@ -22,6 +22,7 @@
   * [Airflow Theory](#airflow-theory)
   * [Particle Deposition at In/Exhalation](#particle-deposition-at-inexhalation)
   * [Sources of Exhaled Particles](#sources-of-exhaled-particles)
+  * [Epidemiological Patterns](#epidemiological-patterns)
 
 
 ## Recap Airborne Transmission
@@ -465,3 +466,23 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
     
 * ##### morawska
     Johnson, Graham & Morawska, Lidia & Ristovski, Zoran & Hargreaves, M. & Mengersen, K. & Chao, Christopher & Wan, Man-Pun & Li, Yuguo & Xie, Xiaojian & Katoshevski, David & Corbett, Shay. (2011). Modality of human expired aerosol size distributions. Journal of Aerosol Science - J AEROSOL SCI. 42. 839-851. https://doi.org/10.1016/j.jaerosci.2011.07.009. 
+
+
+### Epidemiological Patterns
+    
+*  ##### le
+	The Lancet Editoral
+	**COVID-19: protecting health-care workers**
+	www.thelancet.com Vol 395 March 21, 2020
+	https://doi.org/10.1016/S0140-6736(20)30644-9 
+
+*  ##### mizumoto 
+	Kenji Mizumoto, Gerardo Chowell
+    **Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
+	https://doi.org/10.1016/j.idm.2020.02.003
+    
+* ##### honein
+    Temet M. McMichael et al.
+    **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
+    This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+    
