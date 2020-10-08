@@ -17,7 +17,6 @@
   * [Evidence from the observed Spread Patterns](#evidence-from-the-observed-spread-patterns)
 * [Metaphor and Measures](#metaphor-and-measures)
 * [References](#references)
-  * [Overviews and Reviews](#overviews-and-reviews)
   * [Particles in the Air](#particles-in-the-air)
   * [Airflow Theory](#airflow-theory)
   * [Particle Deposition at In/Exhalation](#particle-deposition-at-inexhalation)
@@ -339,7 +338,7 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 
 [park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description and [lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
 
-### Overviews and Reviews
+### Particles in the Air
 
 * ##### lindstrom
     Lindström Bagge, Maria. (2004).<strong>Particles in small airways: 
@@ -360,8 +359,6 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
     Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
     <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
     Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
-
-### Particles in the Air
 
 * ##### morawska2006
     Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
@@ -485,4 +482,6 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
     Temet M. McMichael et al.
     **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
     This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+
+
     
