@@ -8,7 +8,9 @@
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
-* A thanks may be more suitable than citing (if to put as a license: at most Creative Commons). For rewriting attribution is appropriate. <!--Summarized: Rewriting needs attribution. For inspiration, thanks are enough and welcome. -->
+* A thanks may be more suitable than citing, nevertheless referencing is always highly welcome (to put as a license: at most Creative Commons). 
+  <!--* the more content is useful the more referencing is IMHO appropriate.  
+  * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
@@ -82,7 +84,8 @@
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). The ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first: increase the frequency of the cilia, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
-#### Minor Update
+### Minor Updates
+- 8.10 [Public Advice](#public-advice-suggestions-and-thoughts) 
 - 5./6.10. Revised argumentation for [handling covid cases and quarantine](./monitor_and_control.md#handling-covid-19-cases-and-quarantine)
 - 3.8. [Airborne Transmission](./transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 storage options to memorize metabolism (in offline work)
@@ -112,9 +115,11 @@ Covid-19 can be serious in the short-term and such serious infections can someti
 
 > Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
 
-> Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page. 
+> Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page.
 
-Time to act mindfully, carefully and circumspectly. Let's work together in an open, fair and honest way. And live with this mindset!
+> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched,negotiated, found and enabled. Regarding Covid this yields a intermediate approach: some base protections enabling people to avoid it but not narrowing others to much.
+ 
+Time to act mindfully, carefully and circumspectly. Let's work together in an open, fair and honest way. 
 
 ### Sars-CoV-2 transmission 
 SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
@@ -135,11 +140,13 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 ### How to Reduce Covid-19 Infection Paths
 > Remark: The following advices were written mostly in early spring 2020 when Sars-Cov-2 induced ARDS/SARS disease patterns peaked in Europe. Updates in work.  
 
+In brief: Think ahead. To reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
+
 * Wear a [mask](./monitor_and_control.md#masks) 
     - Outdoor and indoor: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    Get some comfortable and stylish masks for casual use. In some situations e.g. hospitals a dense mask is necessary, in leisure time often any mask will do it. Any mask is better than no mask!
+    Get some comfortable and stylish masks for casual use, so comfortable one doesn't notice wearing it. In some situations e.g. hospitals a dense mask is necessary, in leisure time often any mask will do it. Any clean mask protects more than no mask!
 
     Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
@@ -173,24 +180,23 @@ Observe your body, write down the observations and if possible measure.<br>
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
 
 * Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice and upper cough can indicate a SARS-CoV-2 infection. 
-* Moreover the widespread protection measures in place against Covid-19, protect against all respiratory diseases, so most respiratory diseases are not very common currently. This makes Covid-19 in many regions the most prevalent respiratory disease. So respiratory symptoms means being careful.
-* avoiding respiratory diseases is important, because Covid-19 symptoms can be similar. This means avoiding situations where infecting others is likely and even can mean quarantine and figuring out all the people one could have infected and informing them to watch for symptoms.
+* Moreover the widespread protection measures in place against Covid-19, protect against all respiratory diseases, so respiratory diseases other than Covid are not common right now in many regions. So respiratory symptoms means being careful and even can mean figuring out all the people one could have infected and informing them to watch for symptoms.
 * Every morning first smell and then taste your favorite breakfast drink.  
 * Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). 
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
 
     > It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees.
 
-### Estimate and adaptive Plan
-For virus spread and infection always some unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. So its adaptive planning since plans may need to be changed or adapted. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Nevertheless to some extend risky situations can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs may not be the best idea.
+### Estimate and Adaptive Planning
+While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not be the best idea.
 
-Possibly increased infection risk:<!--todo separate immune system/locations--> 
-* **Increased Exposure to Viruses**:being in a densely populated indoor spaces and very close range face to face talking, airplanes
+Possibly increased infection risk:<!--todo separate immune system/locations--> [in work]
+* **Increased Exposure to Viruses**:being in a densely populated indoor spaces and very close range face to face talking
 * **Increased Susceptibility to Viruses**: diminished immune system
 
-So its important to keep benefits and risks in mind and decide (of course that's depending on the personal situation)
-* whether and when to take the risks 
-* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports.
+So its important to keep benefits and risks in mind and think ahead (of course that's depending on the personal situation)
+* whether and when to take the risks
+* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports. 
 
 
 ### Live Healthily
