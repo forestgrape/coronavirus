@@ -22,6 +22,7 @@
   * [Particle Deposition at In/Exhalation](#particle-deposition-at-inexhalation)
   * [Sources of Exhaled Particles](#sources-of-exhaled-particles)
   * [Epidemiological Patterns](#epidemiological-patterns)
+  * [Transmission and Infection of  Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
 
 
 ## Recap Airborne Transmission
@@ -484,4 +485,39 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
     This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
 
 
+  
+### Transmission and Infection of  Respiratory Viruses
+
+* ##### kikkert
+	Marjolein Kikkert
+	**Innate Immune Evasion by Human Respiratory RNA Viruses**
+	J Innate Immun 2020;12:4–20
+	https://doi.org/10.1159/000503030
+
+* ##### tellier
+    Tellier R. (2006). 
+    **Review of aerosol transmission of influenza A virus.** 
+    Emerging infectious diseases, 12(11), 1657–1662. 
+    https://doi.org/10.3201/eid1211.060426 (seems broken)<br>
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372341/
+  
+* ##### herfst
+	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
+	**Transmission routes of respiratory viruses among humans.**
+	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
+    
+* ##### marr
+    Yang, W., & Marr, L. C. (2011). 
+    **Dynamics of airborne influenza A viruses indoors and dependence on humidity.**
+    PloS one, 6(6), e21481. https://doi.org/10.1371/journal.pone.0021481
+    
+* ##### pierret
+    Reiman JM, Das B, Sindberg GM, Urban MD, Hammerlund MEM, et al. (2018) 
+    **Humidity as a non-pharmaceutical intervention for influenza A.** 
+    PLOS ONE 13(9): e0204337. https://doi.org/10.1371/journal.pone.0204337
+
+* ##### myatt
+    Myatt, T. A., Kaufman, M. H., Allen, J. G., MacIntosh, D. L., Fabian, M. P., & McDevitt, J. J. (2010).
+    **Modeling the airborne survival of influenza virus in a residential setting: the impacts of home humidification.**
+    Environmental health : a global access science source, 9, 55. https://doi.org/10.1186/1476-069X-9-55
     
