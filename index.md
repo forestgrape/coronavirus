@@ -117,7 +117,7 @@ Covid-19 can be serious in the short-term and such serious infections can someti
 
 > Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page.
 
-> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched,negotiated, found and enabled. Regarding Covid this yields a intermediate approach: some base protections enabling people to avoid it but not narrowing others to much.
+> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched,negotiated, found and enabled - thanks to everybody! Regarding Covid this yields a intermediate approach: some base protections enabling people to avoid it but not narrowing others to much.
  
 Time to act mindfully, carefully and circumspectly. Let's work together in an open, fair and honest way. 
 
