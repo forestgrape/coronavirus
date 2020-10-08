@@ -118,8 +118,18 @@ Time to act mindfully, carefully and circumspectly. Let's work together in an op
 
 ### Sars-CoV-2 transmission 
 SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
-* __droplet transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity.
-* __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell and see it, unlike the viruses. Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. Keeping the smoke model in mind makes it easier to detect and avoid risky situations: A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important.
+* __droplet transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
+  * masks
+  * distance
+  * side-a-side instead of face-to-face
+  * plexiglas
+* __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell and see it, unlike the viruses. Prevent:
+  * masks
+  * ventilation or being outside
+  
+  Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
+  * Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
+  * A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. 
 
 
 ### How to Reduce Covid-19 Infection Paths
@@ -171,25 +181,24 @@ Keep in mind that the temperature varies during a day and with the activities pe
 
     > It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees.
 
-### Plan and Estimate
-Many situation where there is an increased infection risk are known:
-* a long night out with a lot of alcohol 
-* being in a densely populated pub and very close range face to face talking
-* airplanes
-* excessive sport
+### Estimate and adaptive Plan
+For virus spread and infection always some unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. So its adaptive planning since plans may need to be changed or adapted. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Nevertheless to some extend risky situations can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs may not be the best idea.
 
-So its important to keep risks in mind and plan
-* whether and when to take the risks
-* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19. This likely because they avoided most risks except for sport.
+Possibly increased infection risk:<!--todo separate immune system/locations--> 
+* **Increased Exposure to Viruses**:being in a densely populated indoor spaces and very close range face to face talking, airplanes
+* **Increased Susceptibility to Viruses**: diminished immune system
 
-
+So its important to keep benefits and risks in mind and decide (of course that's depending on the personal situation)
+* whether and when to take the risks 
+* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports.
 
 
-### Live a Healthy Lifestyle 
+### Live Healthily
+A good immune system goes hand in hand with a healthy lifestyle:
 * Sleep enough, eat healthily, relax and do some sport. 
 
 and avoid anything that weakens the immune system:
-* avoid excessive caffeine, excessive sport (if in a risk region), excessive alcohol ...
+* avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
 * avoid being cold or even freezing for a longer period. For this reason, in cold climates, windows shouldn't be open permanently. 
 * avoid immunosuppressants unless necessary for medical reasons. 
 * try reducing stress for yourself and others. Trying too hard won't help though. 
