@@ -158,9 +158,9 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     * Ventilate the toilet after shit
 
 * Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses. Hygiene is important because:
-    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
+    * Transmission pathways of Covid-19 are still unclear. So just avoid them all. 
     * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
-    * it is known that other pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
+    * Many other pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
 

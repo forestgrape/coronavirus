@@ -23,6 +23,7 @@
   * [Sources of Exhaled Particles](#sources-of-exhaled-particles)
   * [Transmission and Infection of  Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
   * [Epidemiological Patterns](#epidemiological-patterns)
+  * [Enviromental Factors on Betacoronaviruses](#enviromental-factors-on-betacoronaviruses)
 
 
 ## Recap Airborne Transmission
@@ -339,6 +340,7 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 
 [park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description and [lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
 
+
 ### Particles in the Air
 
 * ##### lindstrom
@@ -364,6 +366,7 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 * ##### morawska2006
     Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
 
+
 ### Airflow Theory
     
 * ##### sznitman
@@ -381,7 +384,8 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
 	<strong>Chaotic mixing deep in the lung.</strong>
 	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
-    
+
+
 ### Particle Deposition at In/Exhalation
 
 #### Computational Simulations
@@ -435,7 +439,6 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 	Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
 	https://doi.org/10.1186/s12989-017-0190-8
     
-
 
 ### Sources of Exhaled Particles
     
@@ -519,3 +522,18 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
     Temet M. McMichael et al.
     **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
     This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+
+
+### Enviromental Factors on Betacoronaviruses
+
+* ##### chan
+	K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
+	**The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus**
+	Hindawi Publishing Corporation
+	Advances in Virology
+	Volume 2011, Article ID 734690, 7 pages
+	https://doi.org/10.1155/2011/734690   
+    
+* ##### lin
+    LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
+    **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054   
