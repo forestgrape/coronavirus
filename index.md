@@ -202,7 +202,7 @@ Keeping benefits and risks in mind:
 
 Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it but not narrowing others much. Smoke protections can serve as a template, not only technical but also how to handle protections.  
 * Precautions/Protection measures in place in general public spaces which everybody needs to use. Choosing settings/environments supporting a healthy lifestyles.  
-* Staying out of crowds and taking care even with mild disease symptoms and giving infections time to cure. Various virus infections can become persistent.
+* Staying out of crowds and taking care even with mild disease symptoms.Giving infections time to cure. It is known for various virus infections that they can become persistent.
 * In areas and times with many cases, respecting everybody who wants to protect to do so. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
 * In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred. Protections measures can be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying. 
