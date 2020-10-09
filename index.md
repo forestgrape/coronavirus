@@ -65,8 +65,8 @@
 
 
 
-## Updates 
-- 5.10./6.10. moved from literal single page (all content in index.md) to multi-page. Pages including short description are in the in the [content](#content). 
+## Updates
+- 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
@@ -193,17 +193,20 @@ Increased infection likelihood:
 * **Increased Exposure to Viruses**:being in a densely populated indoor spaces and very close range face to face talking
 * **Increased Susceptibility to Viruses**: diminished immune system
 
-Keep the benefits and risks in mind:
+Keeping benefits and risks in mind:
 * whether, when and what to care about
 * whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports. 
 
-### Respect 
+### Respect and Take Care 
 > *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! 
 
 Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it but not narrowing others much. Smoke protections can serve as a template, not only technical but also how to handle protections.  
-* Precautions in place in general public spaces which everybody needs to use. Staying out of crowds/public even with mild disease symptoms 
-* In areas and times with many cases, respecting everybody who wants to protect to do so. E.g. home office/schooling
-* In NON general public settings respecting everybody to take/resume the lifestyle preferred. Protections measures are community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying. 
+* Precautions/Protection measures in place in general public spaces which everybody needs to use. Choosing settings/environments supporting a healthy lifestyles.  
+* Staying out of crowds and taking care even with mild disease symptoms and giving infections time to cure. Various virus infections can become persistent.
+* In areas and times with many cases, respecting everybody who wants to protect to do so. E.g. home office/school
+  > most of the knowledge for this page is acquired by reading 
+* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred. Protections measures can be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying. 
+* Some slowdown of life: E.g. no party weeks, going home at time, just a [healthy lifestyle](#live-healthily). For all including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them. 
 
 
 ### Live Healthily
@@ -903,9 +906,9 @@ TODO UPDATE REFERENCES
     Temet M. McMichael et al.
     **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
     This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
-    
+
+
    
-     
 ### Phatogenesis and Viral Loads Sars-Cov-1
 
 * ##### lau
@@ -913,7 +916,7 @@ TODO UPDATE REFERENCES
     **Pathogenesis of severe acute respiratory syndrome**
 	Current Opinion in Immunology 2005, 17:404–410
 	https://doi.org/10.1016/j.coi.2005.05.009
-    
+
 * ##### peiris
     J S M Peiris, Y Guan, K-Y Yuen
     **Severe acute respiratory syndrom**
@@ -941,7 +944,7 @@ TODO UPDATE REFERENCES
     Ziad A. Memish, Jaffar A. Al-Tawfiq, Hatem Q. Makhdoom, Abdullah Assiri, Raafat F. Alhakeem, Ali Albarrak, Sarah Alsubaie, Abdullah A. Al-Rabeeah, Waleed H. Hajomar, Raheela Hussain, Ali M. Kheyami, Abdullah Almutairi, Esam I. Azhar, Christian Drosten, Simon J. Watson, Paul Kellam, Matthew Cotten, Alimuddin Zumla, 
     **Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome**
     The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
-     
+
 
 
 ### Mechanism of Coronavirus Evolution 
@@ -954,7 +957,7 @@ TODO UPDATE REFERENCES
     Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012). 
     **The dominance of human coronavirus OC43 and NL63 infections in infants.** 
     Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. https://doi.org/10.1016/j.jcv.2011.11.011
-    
+
 <!--* ##### han2006-->
 
 * ##### borucki
@@ -964,13 +967,13 @@ TODO UPDATE REFERENCES
     Woo, P. C., Lau, S. K., Huang, Y., Yuen, K. Y. (2009). 
     **Coronavirus diversity, phylogeny and interspecies jumping.** 
     Experimental biology and medicine (Maywood, N.J.), 234(10), 1117–1127. https://doi.org/10.3181/0903-MR-94
-    
+
 * ##### zhang94
     Zhang, X.M., Herbst, W., Kousoulas, K.G. and Storz, J. (1994), 
     **Biological and genetic characterization of a hemagglutinating coronavirus isolated from a diarrhoeic child.**
     J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
-
     
+
 ### Cell Entry
 * ##### jiang
 	Keiji Kuba , Yumiko Imai, Shuan Rao, Hong Gao, Feng Guo, Bin Guan, Yi Huan, Peng Yang,
@@ -1044,6 +1047,7 @@ TODO UPDATE REFERENCES
 	J Innate Immun 2020;12:4–20
 	https://doi.org/10.1159/000503030
 
+
 ### Enviromental Factors on Betacoronaviruses
 
 * ##### chan
@@ -1070,8 +1074,7 @@ TODO UPDATE REFERENCES
     Netea MG, Joosten LAB. 
     **Trained Immunity and Local Innate Immune Memory in the Lung.** 
     Cell. 2018;175(6):1463–1465. https://doi.org/10.1016/j.cell.2018.11.007
- 
-        
+      
     
 ### Clearance in the Respiratory Tract
 
