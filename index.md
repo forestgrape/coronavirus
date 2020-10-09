@@ -11,7 +11,7 @@
 * A thanks may be more suitable than citing, nevertheless referencing is always highly welcome (to put as a license: at most Creative Commons). 
   <!--* the more content is useful the more referencing is IMHO appropriate.  
   * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
-* Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-advice) and [Covid-19](#public-description).
+* Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
 
@@ -24,17 +24,17 @@
 
 ## Content
 * [Updates](#updates)
-* [Public Suggestions](#public-advice) <br> 
+* [Public Suggestions and Thoughts](#public-suggestions-and-thoughts) <br> 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Covid-19](#covid)
     - [Public Description](#public-description)
-* [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top) (Page)
+* [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top) (moved to own Page)
     * [Protection Measures](./monitor_and_control.md#protection-measures)
     * [Risk Assessment](./monitor_and_control.md#risk-assessment)   
     * [Monitor](./monitor_and_control.md#monitor)
     * [Data Availability](./monitor_and_control.md#data)
   
-* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses) (Page)
+* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses) (moved to own Page)
   
     Various aspects of coronaviruses are described with a focus on understanding. 
     - The starting point are first principles: life forms on earth. 
@@ -52,7 +52,7 @@
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
     - [Data Availability](#data) Public availability of well specified and raw/fine-grained data.
-* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models) (Page)
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models) (moved to own Page)
   
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible. 
     - We start with a recap of airborne transmission, 
@@ -85,7 +85,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 ### Minor Updates
-- 8.10 [Public Advice](#public-advice-suggestions-and-thoughts) 
+- 8./9.10. [Public/General Suggestions and Thoughts](#general-suggestions-and-thoughts) adapted
 - 5./6.10. Revised argumentation for [handling covid cases and quarantine](./monitor_and_control.md#handling-covid-19-cases-and-quarantine)
 - 3.8. [Airborne Transmission](./transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 storage options to memorize metabolism (in offline work)
@@ -109,32 +109,31 @@
 
 <p id="public-advice">-----</p>
 
-## Public Advice, Suggestions and Thoughts
+## Public Suggestions and Thoughts
 [in rework]
 Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term adverse effects are possible too for other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
 > Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
 
 > Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page.
-
-> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched,negotiated, found and enabled - thanks to everybody! Regarding Covid this yields a intermediate approach: some base protections enabling people to avoid it but not narrowing others to much.
  
 Time to act mindfully, carefully and circumspectly. Let's work together in an open, fair and honest way. 
 
+
 ### Sars-CoV-2 transmission 
-SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols as described in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
+SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols. A more in depth description than here is in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
 * __droplet transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
-  * masks
-  * distance
-  * side-a-side instead of face-to-face
-  * plexiglas
+    - masks
+    - distance
+    - side-a-side instead of face-to-face
+    - plexiglas
 * __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell and see it, unlike the viruses. Prevent:
-  * masks
-  * ventilation or being outside
-  
-  Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
-  * Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
-  * A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. 
+    - masks
+    - ventilation or being outside
+    
+    Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
+    - Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
+    - A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. 
 
 
 ### How to Reduce Covid-19 Infection Paths
@@ -159,13 +158,13 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     * Ventilate the toilet after shit
 
 * Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses. Hygiene is important because:
-    * transmission pathways of Covid-19 are still somewhat unclear. So just avoid them all. 
+    * transmission pathways of Covid-19 are still unclear. So just avoid them all. 
     * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
     * it is known that other pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
 
-- [Outside is safe, if some distance is kept](#outside-is-safer). Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
+- [Outside is safe, if some distance is kept](./monitor_and_control.md#outside-is-safer). Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. 
 * Public transport:
@@ -175,7 +174,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
 - Don't have dry air inside. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defences of the respiratory tract against pathogens. 
 
 
-### Observe and Take Care
+### Observe 
 Observe your body, write down the observations and if possible measure.<br>
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
 
@@ -188,15 +187,23 @@ Keep in mind that the temperature varies during a day and with the activities pe
     > It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees.
 
 ### Estimate and Adaptive Planning
-While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not be the best idea.
+While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea.
 
-Possibly increased infection risk:<!--todo separate immune system/locations--> [in work]
+Increased infection likelihood:
 * **Increased Exposure to Viruses**:being in a densely populated indoor spaces and very close range face to face talking
 * **Increased Susceptibility to Viruses**: diminished immune system
 
-So its important to keep benefits and risks in mind and think ahead (of course that's depending on the personal situation)
-* whether and when to take the risks
+Keep the benefits and risks in mind:
+* whether, when and what to care about
 * whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports. 
+
+### Respect 
+> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! 
+
+Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it but not narrowing others much. Smoke protections can serve as a template, not only technical but also how to handle protections.  
+* Precautions in place in general public spaces which everybody needs to use. Staying out of crowds/public even with mild disease symptoms 
+* In areas and times with many cases, respecting everybody who wants to protect to do so. E.g. home office/schooling
+* In NON general public settings respecting everybody to take/resume the lifestyle preferred. Protections measures are community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying. 
 
 
 ### Live Healthily
@@ -217,7 +224,7 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 ## Covid-19
 
-### public description
+### Public Description
 Covid-19 can have many forms and accompanying [symptoms](#symptoms):
 * it start in the upper respiratory tract and in this case it feels similar to a common cold with a sore throat and a runny nose. Loss of smell or taste occur and these are more specific to coronavirus infections. 
 * it can start in the throat. Coughing is typical, the body wants to get rid of the viruses in the respiratory tract. 
@@ -227,9 +234,6 @@ Where and how Covid-19 starts determines the early phase of the disease and the 
 
 Most symptoms are not specific to Covid-19, they can have other causes: having eaten something rotten, not having had enough sleep or an infection with other viruses. If the lungs get involved, symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
 
-> I likely had Covid-19 myself in late winter 2020 when temperatures were still well below 0 in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to official prevalence and 3) lastly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session which by itself went well, but it turned out to have been a bad idea: since in the following days some chills started and accompanied by a temperature increase, up to 36.x from my normal range 34.5 - 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later on temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started seriously considering Covid.
-> 
-> Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
 
 ### Symptoms
 The symptoms can vary a lot especially in the beginning and for mild cases. In severe cases the lower respiratory tract is involved and thus fever and dry cough are common. 
@@ -245,6 +249,10 @@ As noted symptoms can vary a lot and depend on the initial infection location. S
 - **Upper Respiratory Tract** 
   * loss of smell or taste
   * symptoms of a common cold: Runny nose, headache, sore throat, upper cough
+
+> I likely had Covid-19 myself in late winter 2020 when temperatures were still well below 0 in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to official prevalence and 3) lastly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session which by itself went well, but it turned out to have been a bad idea: since in the following days some chills started and accompanied by a temperature increase, up to 36.x from my normal range 34.5 - 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later on temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started seriously considering Covid.
+> 
+> Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
 
 
 ### Infection Tropism 
@@ -332,9 +340,9 @@ Coronaviruses can cause infections at different locations and thus induce differ
 
 In the case of bovine coronaviruses the same strains can cause different infections. These are recognized as different diseases and until the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent:
 * enteric diseases (neonatal calf diarrhea, winter dysentery) 
-* respiratory diseases (shipping fever and general pneunomia). 
+* respiratory diseases (shipping fever and general pneumonia). 
 
-For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and Mers-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs:
+For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and MERS-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs:
 * What drives and causes the different infection location patterns?
 * How to prevent and treat depending on locations?
 * Which are complications and risks?
