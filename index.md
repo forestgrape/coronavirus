@@ -26,7 +26,7 @@
 * [Updates](#updates)
 * [Public Suggestions and Thoughts](#public-suggestions-and-thoughts) <br> 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
-* [Covid-19](#covid)
+* [Covid-19](#covid-19)
     - [Public Description](#public-description)
 * [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top) (moved to own Page)
     * [Protection Measures](./monitor_and_control.md#protection-measures)
@@ -141,45 +141,48 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 
 In brief: Think ahead. To reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
 
-* Wear a [mask](./monitor_and_control.md#masks) 
+* #### Masks
+    Wear a [mask](./monitor_and_control.md#masks) 
     - Outdoor and indoor: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    Get some comfortable and stylish masks for casual use, so comfortable one doesn't notice wearing it. In some situations e.g. hospitals a dense mask is necessary, in leisure time often any mask will do it. Any clean mask protects more than no mask!
+    Ideally masks are as comfortable one doesn't notice wearing them. In some situations e.g. hospitals a dense mask is necessary, in leisure time often any mask will do it. Any clean mask protects more than no mask!
 
     Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
-* Distancing reduces infection risk.
+* #### Distancing
+    Distancing reduces infection risk.
 
-* Ventilate well<br>
+* #### Ventilate
     [Ventilation](./monitor_and_control.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
     * Open the windows. In cold climate: ventilate the rooms regularly by opening all windows for 5 minutes.  
-    * If possibly infected, always ventilate before opening the door of your room or flat. 
-    * Ventilate the toilet after shit
+    * If possibly infected, ventilate before opening the door of your room or flat. 
 
-* Keep proper hygiene. Especially wash the hands well with a lot of soap after toilet. Before eating wash them too. Soap destroys coronaviruses. Hygiene is important because:
+* #### No Dry Air
+     In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defences of the respiratory tract against pathogens. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. 
+
+* #### Hygiene
+    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap destroys coronaviruses. Hygiene is important because:
     * Transmission pathways of Covid-19 are still unclear. So just avoid them all. 
     * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
     * Many other pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
 
-- [Outside is safe, if some distance is kept](./monitor_and_control.md#outside-is-safer). Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
+- #### Outside
+    [Outside is safe, if some distance is kept](./monitor_and_control.md#outside-is-safer). Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
-* Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. 
-* Public transport:
-    * Wear a mask to reduce infection paths. 
-    * Ventilation is important in public transport.
-
-- Don't have dry air inside. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defences of the respiratory tract against pathogens. 
+- #### Transport
+  * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
+  * Public transport: Masks, distance if possible and ventilation
 
 
 ### Observe 
 Observe your body, write down the observations and if possible measure.<br>
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
 
-* Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice and upper cough can indicate a SARS-CoV-2 infection. 
-* Moreover the widespread protection measures in place against Covid-19, protect against all respiratory diseases, so respiratory diseases other than Covid are not common right now in many regions. So respiratory symptoms means being careful and even can mean figuring out all the people one could have infected and informing them to watch for symptoms.
+* Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
+* The precaution measures against Covid-19 protect against all respiratory diseases, so all respiratory diseases are reduced. Common colds are not common right now. So respiratory symptoms means being careful and even can mean figuring out all the people one could have infected and informing them to watch for symptoms.
 * Every morning first smell and then taste your favorite breakfast drink.  
 * Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). 
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
@@ -198,15 +201,16 @@ Keeping benefits and risks in mind:
 * whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports. 
 
 ### Respect and Take Care 
-> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! 
+> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex social interactions today, so we can stand for friends, families, groups, communities, societies, countries and even all of us. 
 
-Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it but not narrowing others much. Smoke protections can serve as a template, not only technical but also how to handle protections.  
+Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. Smoke protections can serve as a template, not only technical but also how to handle protections.  
 * Precautions/Protection measures in place in general public spaces which everybody needs to use. Choosing settings/environments supporting a healthy lifestyles.  
-* Staying out of crowds and taking care even with mild disease symptoms.Giving infections time to cure. It is known for various virus infections that they can become persistent.
+* Staying out of crowds and taking care even with mild respiratory disease symptoms. 
+* Giving infections time to cure. It is known for various virus infections that they can become persistent.
 * In areas and times with many cases, respecting everybody who wants to protect to do so. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
-* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred. Protections measures can be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying. 
-* Some slowdown of life: E.g. no party weeks, going home at time, just a [healthy lifestyle](#live-healthily). For all including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them. 
+* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred. The lifestyle should be considerate. Protections measures can be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying. 
+* Some slowdown of life: E.g. no party weeks, going home at time, just a [healthy lifestyle](#live-healthily). For all including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them.
 
 
 ### Live Healthily
@@ -223,7 +227,6 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 
 
-<p id="covid"> -------</p>
 
 ## Covid-19
 
