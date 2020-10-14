@@ -90,7 +90,7 @@ Watery droplets in the air that cannot be seen, are called aerosol since it look
 Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and on masks in [Protection Measures](./monitor_and_control.md). [citations in work  ]
 
 Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent              
----------|------------|-----------------|------------|------|---
+---------|------------|------------------|-----------------|------|---
 [droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any | Any mask in face-to-face situations, distance 
 [aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity but not very dry| (dense-)mask in face-to-face situations and crowded or heated rooms, distance, ventilate
 [dry form](#dry-form-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | dry (low relative humidity) e.g. indoor heated| (dense-)mask in heated and (crowded) indoor rooms, ventilate
@@ -110,10 +110,17 @@ this new model is added:
 Compared to aerosols - which tend to spread local both in time and space, an example is the scent of a freshly cooked soup -, tiny dry particulates behave dust/smoke like - smoke is a collection of tiny dry particulates diffusing around - so they move with the air and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
 
 It is argued 
-* the described properties of dry form transmission explain well the observed transmission patterns for Sars-CoV-1/2. 
-* the entry receptor of Sars-CoV-1/2 (ACE2) distribution in body tissues and the observed viral load in different organs indicate that Sars-CoV-1/2 has the lower respiratory tract as the main entry point.  Particle deposition at inhalation, which shows that mainly aerosols and dry particulates are entering the lower respiratory tract, suggests that these two are the main transmitters of  Sars-CoV-1/2. Viral load in the pharynx can be attributed to deposition of particles upon exhalation. 
+* the described properties of dry form transmission explain well the observed transmission patterns for Sars-CoV-1, MERS and partly for SARS-CoV-2.
+* physiological properties make the lower respiratory tract particularly susceptible to  dry form infections:
+  * small and dry particles have the highest deposition in the lower respiratory tract
+  * the immune system protection against viruses is lowest in the deep lungs, since the immune system there is not trained to deal with viruses. 
+  * the absolute number of susceptible cells of the lower lungs is larger than in the upper respiratory tract: 
+      * __SARS-CoV-1/2__: susceptible cells for SARS-CoV-1/2 replication are found throughout the respiratory tract but the largest surface is in the lower respiratory tract.  
+      * __MERS__: the cells susceptible to MERS infections are in the lower respiratory tract lower respiratory tract as obligate entry point.
+  * the observed viral load in different organs indicate that MERS and SARS-1/2 infections are especially dangerous if they reach the lower respiratory tract
+  
 
-Overall the argumentation provides evidence, that the most relevant transmission models are aerosol and the proposed dry form. 
+Overall the argumentation provides evidence, that aerosol and the proposed dry form are relevant transmission pathways.  
 
 Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
 
@@ -271,8 +278,8 @@ The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bail
 <p id="biological-properties">---</p>
 
 ### Evidence from Biological Properties
-
-From the [Habitat of the Betacoronavirus](./index.md#habitat) lower respiratory tract entry for Sars-CoV-1 and MERS is obligate for infection. For Sars-CoV-2 lower respiratory tract entry is likely for patients developing ARDS. As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract. So the two primary transmission forms are aerosol and dry form. Since aerosols usually are cleared quite well with the mucus flow, the dry form is likely more infectious. 
+[in rework since *not* correct]
+From the [Habitat of the Betacoronavirus](./index.md#habitat) lower respiratory tract entry for MERS and SARS-1 is obligate for infection. For Sars-CoV-2 lower respiratory tract entry is likely for patients developing ARDS. As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract. 
 
 
 <p id="spread-patterns">---</p>
@@ -318,14 +325,13 @@ Most superspreading events occured in Winter season and in hospitals [dudas2017]
     
 #### Further evidences
 
-Remark: The following pieces of evidence are 'in work'. 
+[in work, March 2020]
 
 * In humid and warm temperature environments (above 30 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols which in turn often growth to droplets. In this case, a droplet like spreading pattern with no super-spreading events would be expected. 
 
-* The initial cases that led to the discovery of Sars-CoV-2 occurred during cold outside temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 1q
+* The initial cases that led to the discovery of Sars-CoV-2 occurred during cold outside temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 
 
 
-<p id="metaphor-and-measures">---</p>
 
 ## Metaphor and Measures 
 Avoiding the droplet spread is like avoiding somebody’s reek of alcohol, avoiding aerosols/dry particulates on the other hand corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse around.
