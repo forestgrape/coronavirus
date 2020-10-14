@@ -85,7 +85,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 ### Minor Updates
-- 8./9.10. [Public/General Suggestions and Thoughts](#public-suggestions-and-thoughts) adapted
+- 8.-13. 10. [Public/General Suggestions and Thoughts](#public-suggestions-and-thoughts) adapted
 - 5./6.10. Revised argumentation for [handling covid cases and quarantine](./monitor_and_control.md#handling-covid-19-cases-and-quarantine)
 - 3.8. [Airborne Transmission](./transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 storage options to memorize metabolism (in offline work)
@@ -201,15 +201,23 @@ Keeping benefits and risks in mind:
 * whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports. 
 
 ### Respect and Take Care 
-> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex social interactions today, so we can stand for friends, families, groups, communities, societies, countries and even all of us. 
+> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
 
-Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. Smoke protections can serve as a template, not only technical but also how to handle protections.  
-* Precautions/Protection measures in place in general public spaces which everybody needs to use. Choosing settings/environments supporting a healthy lifestyles.  
+Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
+
+* Precautions/Protection measures in place in public spaces which everybody needs to use. 
+* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Protections measures can often be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying.
+
+> Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the settings can be more liberal and the rules less and relaxed. 
+
+
+Controlling SARS-CoV-2 is an individual, a local and global task. The better everybody helps to control it, the lesser the negative effects and the fewer rules and restrictions need to be put into place. 
+
+* Choosing settings/environments supporting a healthy lifestyles.  
 * Staying out of crowds and taking care even with mild respiratory disease symptoms. 
 * Giving infections time to cure. It is known for various virus infections that they can become persistent.
-* In areas and times with many cases, respecting everybody who wants to protect to do so. E.g. home office/school (e.g. reading)
+* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to risk person) to protect to do so. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
-* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred. The lifestyle should be considerate. Protections measures can be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying. 
 * Some slowdown of life: E.g. no party weeks, going home at time, just a [healthy lifestyle](#live-healthily). For all including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them.
 
 
