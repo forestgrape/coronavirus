@@ -52,13 +52,13 @@ Mask reduce spread since they mitigate both the infection and spread risk.
 
 #### Mask Types
 Common types of masks are:
-* _Surgical masks_ are constructed for comfort and inside-out protection and not outside-in protection. 
-* _Protection masks against dust_ are constructed for outside-in protection and therefore good for self protection.
+* _Surgical masks_ are constructed for comfort and a focus is on inside to outside protection (without the protection of the skin, infection risk is high)
+* _Protection masks against dust_ are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let the air out unfiltered. That means that there is not inside to outside protection and thus masks with valves offer protection for the wearer only and *not* for others.
 * _Textile masks_ are available in a lot of sizes and styles. They may not offer the best protection in theory but they may offer the best fit and be worn most often due to comfort and style. 
 
 #### Mask use Cases
 * For self protection good fit and a good outside-to-inside filter are important. 
-* In dry air, water [droplets shrink](./transmission.md#dry-form-transmission-model), thus fine grained filters are especially important for self protection. 
+* In dry air, water [droplets shrink](./transmission.md#dry-form-transmission-model). In these settings, fine grained filters are important for self protection. 
 * To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
 
 #### Mask Reuse and Cleaning
@@ -99,10 +99,12 @@ The thinking behind using a tactics of relaxed instructions is as follows:
   * the 5 untested may infect 10 others (having a R value of 2.0)
   
   Overall the 10 infected people infect 12 others and so an overall R value of 1.2.
+  
 * ##### Relaxed Instructions
   With relaxed instructions the known infected may on average infect more people but the number of unknown infected is smaller yielding an overall smaller spread. Example out of 10 infected 8 are known and 2 unknown:
   * the 8 known infect 4 others (R value of 0.5 for known infected)
   * the 2 unknown infect 4 others (R value of 2.0)
+  
   Overall the 10 infected infect 8 others corresponding to an overall R value of 0.8
 
 Overall in the above scenario the relaxed instruction yield an overall lower spread since more people do testing/are transparent about symptoms.
@@ -119,7 +121,7 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 #### Suggestions for Infected
 as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
-* permanent mask wearing in all indoor spaces/rooms where susceptible people can be. Including the own building (stairwell) and the flat e.g. when living in flat sharing.  
+* permanent mask wearing in all indoor spaces/rooms where susceptible people can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing.  
 * no crowded places (outdoors and indoors)
 * distance: 2 meters outdoors and 4 meters indoors.
 * no close range face-to-face talking
@@ -137,7 +139,6 @@ To reduce spread isolation/home-lockdown is a radical measure. The more is known
 
 Isolation/stay-at-home may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
 
-----
 
 
 ## Risk Assessment
@@ -190,7 +191,7 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
     * water
     * rocks
 
-----
+
 
 ## Monitor 
 
