@@ -20,7 +20,7 @@
 > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style //. Otherwise distinction is done by context/content. 
 
 
-<p id="t-content">-----</p> <!-- workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
+<p id="t-content">-----</p> <!--before 1.10.2020: workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
 
 ## Content
 * [Updates](#updates)
@@ -66,6 +66,7 @@
 
 
 ## Updates
+- 15.10. Early Online Update about Protection Measures and Transmission in work. Due to steep increase in cases in Europe and new evidence on transmission.
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
@@ -191,7 +192,7 @@ Keep in mind that the temperature varies during a day and with the activities pe
     > It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees.
 
 ### Estimate and Adaptive Planning
-While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea.
+While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to be circumspect and withdraw from social gatherings.
 
 Increased infection likelihood:
 * **Increased Exposure to Viruses**:being in a densely populated indoor spaces and very close range face to face talking
@@ -234,53 +235,6 @@ and avoid anything that weakens the immune system:
     
 Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
-
-
-
-## Covid-19
-
-### Public Description
-Covid-19 can have many forms and accompanying [symptoms](#symptoms):
-* it start in the upper respiratory tract and in this case it feels similar to a common cold with a sore throat and a runny nose. Loss of smell or taste occur and these are more specific to coronavirus infections. 
-* it can start in the throat. Coughing is typical, the body wants to get rid of the viruses in the respiratory tract. 
-* But it can also start from within, from the deep lungs, and so early symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too. 
-
-Where and how Covid-19 starts determines the early phase of the disease and the corresponding symptoms. However if the body fails to clear the coronaviruses, they can well spread to other locations. So it possibly Covid-19 starting with a sore throat and one ends up in intense care with pneumonia, an inflammation of the lungs. 
-
-Most symptoms are not specific to Covid-19, they can have other causes: having eaten something rotten, not having had enough sleep or an infection with other viruses. If the lungs get involved, symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks. If most of the symptoms are observed in the described order it is/was likely Covid-19.
-
-
-### Symptoms
-The symptoms can vary a lot especially in the beginning and for mild cases. In severe cases the lower respiratory tract is involved and thus fever and dry cough are common. 
-see section [disease-pattering](#disease-pattering) 
-
-#### Early Symptoms
-[in rework]
-As noted symptoms can vary a lot and depend on the initial infection location. Since most infections occur airborne and start in the respiratory tract there are two main patterns:
-- **Lower Respiratory Tract**
-  * A slightly increased temperature, can be below 38 degrees, has been observed in many patients ([Zhang](#zhang), [Wong](#wong), [Zhong](#zhong)). An increase as low as one degree can indication an infection.
-  * dry cough (from deep)
-  * feel of being unwell, muscle pain
-- **Upper Respiratory Tract** 
-  * loss of smell or taste
-  * symptoms of a common cold: Runny nose, headache, sore throat, upper cough
-
-> I likely had Covid-19 myself in late winter 2020 when temperatures were still well below 0 in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to official prevalence and 3) lastly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session which by itself went well, but it turned out to have been a bad idea: since in the following days some chills started and accompanied by a temperature increase, up to 36.x from my normal range 34.5 - 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later on temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started seriously considering Covid.
-> 
-> Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
-
-
-### Infection Tropism 
-How a virus infection behaves is an interplay of host factors including the host immune system, the tropism of the virus and environmental factors.
-
-* __Host factors__ relevant for the tropism of Covid-19 are
-    - Cells susceptible to infection and capable of producing viruses (e.g. red blood cells are not). 
-    - Host immune system responses. The immune reactions depend both on the personal history and possible exposure of ancestors (genetic adaption).
-* __Tropism of Sars-Cov-2__ 
-    * Virions enter just cells containing a matching receptor and having been activated by proteases, more in the section [Coronavirus Life Cycle](#life-cycle)
-* __Environmental Factors__ 
-    - the travel of virions between hosts and thus the mode of the initial infection. E.g. in dry air exhaled droplets dry out and these are more likely to be absorbed deep in the lungs. 
-    - Environmental factors influence host factors and thus indirectly the course of the disease.   
 
 
 <p id='ideas'> -------</p>
