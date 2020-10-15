@@ -165,7 +165,7 @@ A slow down of nightlife can reach from an early closure of clubs to a stay at h
     * in Greece  (11.8.20, closing between 24 pm and 7 am)
     * in Denmark (15.9.20, closing at 22 pm in risk regions )
     * Spain (14.8.20, closing of clubs and )
-    Data indicate that from 2 weeks after this measures to incidence of Covid cases and deaths mostly stopped increasing
+    Data indicate that from 2 weeks after this measures the incidence of Covid cases and deaths mostly stopped increasing
 * Comment: In pandemic times a closure e.g. at 12 pm like implemented in Greece is reasonable; more strict depending on the situation e.g. risk of hospital overflow.  
 
 > I recently read in the news that people clubbing at 6 am in the morning had to go to quarantine because of a positive case and the guest list was faulty. Partying until 6 am and likely drinking a lot is not good, since protection measures are hardly followed and the body is busy the next day repairing party-damage and will not fight viruses. Which is not good for disease progression and also hardly anybody feels well and so nobody recognizes symptoms.
@@ -188,6 +188,9 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * preferably outdoor sports
   * relaxed presence required. E.g. students can do some projects. Projects can be rescheduled. 
 
+<!--
+### Guest Lists and Tracing
+-->
 
 
 
