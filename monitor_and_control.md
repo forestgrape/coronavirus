@@ -8,6 +8,10 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Ventilation](#ventilation)
   * [Distancing](#distancing)
   * [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine)
+* [Thoughts about Social Measures](#thoughts-about-social-measures)
+  * [Slow Down of Nightlife](#slow-down-of-nightlife)
+  * [Reduce Alcohol Consumption](#reduce-alcohol-consumption)
+  * [Corona Conform Schooling](#corona-conform-schooling)
 * [Risk Assessment](#risk-assessment)
   * [Balancing of Measures](#balancing-of-measures)
   * [Outside is Safer](#outside-is-safer)
@@ -138,6 +142,52 @@ To reduce spread isolation/home-lockdown is a radical measure. The more is known
     Avoiding spread opportunities e.g. both indoor and crowded public spaces is important however.
 
 Isolation/stay-at-home may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
+
+
+## Thoughts about Social Measures
+* **(in work and currently more brainstorming)**
+
+This sections discusses measures that can be put in place if Covid-19 increase rapidly. For each measure 
+* EE := epidemiological evidence: Have transmission events been observed in the setting?
+* TT := thinking through evidence/common sense evidence: Are there transmission opportunities? Are protection concepts? Are the concepts realistic in practice?
+* EXPM := experiences with measures in place. Are there experiences and if so what are they?
+* NL := Narrowing of Life. How individuals experience the measures? Are there costs associated e.g. school children missing education. Financial costs (state founded support assumed)
+* Comment := The points above are summarized to a subjective rating/comment and a recommendation. The rating is subjective since it relies on the subjective weighting.
+
+
+
+### Slow Down of Nightlife
+A slow down of nightlife can reach from an early closure of clubs to a stay at home order at night. 
+* EE: Many anecdote-like Covid-19 spreading including super spreading events have linked to nightlife [citations coming]. 
+* TT: Nightlife is about socializing. With loud music distancing is hardly doable. In nightlife drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
+* EXPM: 
+  * An early closure of nightlife was implemented (combined with consequent mask wearing)
+    * in Greece  (11.8.20, closing between 24 pm and 7 am)
+    * in Denmark (15.9.20, closing at 22 pm in risk regions )
+    * Spain (14.8.20, closing of clubs and )
+    Data indicate that from 2 weeks after this measures to incidence of Covid cases and deaths mostly stopped increasing
+* Comment: In pandemic times a closure e.g. at 12 pm like implemented in Greece is reasonable; more strict depending on the situation e.g. risk of hospital overflow.  
+
+> I recently read in the news that people clubbing at 6 am in the morning had to go to quarantine because of a positive case and the guest list was faulty. Partying until 6 am and likely drinking a lot is not good, since protection measures are hardly followed and the body is busy the next day repairing party-damage and will not fight viruses. Which is not good for disease progression and also hardly anybody feels well and so nobody recognizes symptoms.
+
+### Reduce Alcohol Consumption
+Back since we have written records of history there has been alcohol and history of prohibition dates back nearly as long. However full prohibition never really worked. Today many countries have increased taxes, often not very high, so that smuggling doesn't pay off. 
+* TT: A lot of alcohol diminishes the immune system, especially in the pharynx; this is not wanted when there's a Covid infection risk. 
+* Comment: In restaurants non alcoholic drinks e.g. fruit juices should be cheaper than beer. No happy hours for alcoholic beverages. 
+
+### Corona Conform Schooling
+Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in stairwell.
+* EE: In Israel to opening of schools seems to have contributed to increased spread [citation in work] 
+* TT:
+  * Children easily forget about protection and masks. Especially if concentrating on other things e.g. exams. 
+* Comment: In times with high Covid incidence instead of complete closure, transmission can be reduced:
+  * masks permanent or at least in breaks
+  * exam free
+  * no talking exercises and more focus on written tasks. Even reading in a favorite book or playing chess could be an option. Showing educational movies.
+  * more solidary than group work. If group work, then the groups should not change daily (weekly should be ok)
+  * preferably outdoor sports
+  * relaxed presence required. E.g. students can do some projects. Projects can be rescheduled. 
+
 
 
 

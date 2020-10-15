@@ -66,7 +66,7 @@
 
 
 ## Updates
-- 15.10. Early Online Update about Protection Measures and Transmission in work. Due to steep increase in cases in Europe and new evidence on transmission.
+- 15.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in work. Due to steep increase in cases in Europe and new evidence on transmission.
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)

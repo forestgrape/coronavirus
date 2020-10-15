@@ -92,7 +92,7 @@ Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent
 ---------|------------|------------------|-----------------|------|---
 [droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any | Any mask in face-to-face situations, distance 
 [aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity but not very dry| (dense-)mask in face-to-face situations and crowded or heated rooms, distance, ventilate
-[dry form](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | dry (low relative humidity) e.g. indoor heated| (dense-)mask in heated and (crowded) indoor rooms, ventilate
+[proposed dry form](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | dry (low relative humidity) e.g. indoor heated| (dense-)mask, ventilate, no deep inhalation e.g. no indoor sport
 
 
 
