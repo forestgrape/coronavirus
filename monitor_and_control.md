@@ -17,6 +17,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Outside is Safer](#outside-is-safer)
 * [Monitor](#monitor)
   * [Monitor Evolution](#monitor-evolution)
+  * [Monitor Prevalence](#monitor-prevalence)
 * [Data](#data)
   * [Distributed Handling](#distributed-handling)
 * [References](#references)
@@ -148,19 +149,26 @@ Isolation/stay-at-home may be working for people with own houses with gardens bu
 * **(in work and currently more brainstorming)**
 
 This sections discusses measures that can be put in place if Covid-19 increase rapidly. For each measure 
-* EE := epidemiological evidence: Have transmission events been observed in the setting?
-* TT := thinking through evidence/common sense evidence: Are there transmission opportunities? Are protection concepts? Are the concepts realistic in practice?
-* EXPM := experiences with measures in place. Are there experiences and if so what are they?
-* NL := Narrowing of Life. How individuals experience the measures? Are there costs associated e.g. school children missing education. Financial costs (state founded support assumed)
-* Comment := The points above are summarized to a subjective rating/comment and a recommendation. The rating is subjective since it relies on the subjective weighting.
+* ###### Evidence
+  epidemiological evidence: Have transmission events been observed in the setting? If there are transmission events can they be reliable detected?
+* ###### ThinkThrough
+  Thinking through/Common sense argumentation/Causal reasoning: Are there transmission opportunities? Are protection concepts? Are the concepts realistic in practice?
+* ###### Experiences
+  Experiences with measures in place. Are there experiences and if so what are they?
+* ###### Narrowing
+  Narrowing of Life. How individuals experience the measures? Are there costs associated e.g. school children missing education. Financial costs (state founded support assumed)
+* ###### Comment
+  The points above are summarized to a subjective rating/comment and a recommendation. The rating is subjective since it relies on the subjective weighting.
 
 
 
 ### Slow Down of Nightlife
 A slow down of nightlife can reach from an early closure of clubs to a stay at home order at night. 
-* EE: Many anecdote-like Covid-19 spreading including super spreading events have linked to nightlife [citations coming]. 
-* TT: Nightlife is about socializing. With loud music distancing is hardly doable. In nightlife drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
-* EXPM: 
+* Evidence: 
+  * Many anecdote-like Covid-19 spreading including super spreading events have linked to nightlife [citations coming]. 
+  * In many countries only few infections can be traced back to nightlife but more to families. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infections 1 week later every attendee should be tested, but this is hardly done. 
+* ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. In nightlife drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
+* Experiences: 
   * An early closure of nightlife was implemented (combined with consequent mask wearing)
     * in Greece  (11.8.20, closing between 24 pm and 7 am)
     * in Denmark (15.9.20, closing at 22 pm in risk regions )
@@ -168,25 +176,37 @@ A slow down of nightlife can reach from an early closure of clubs to a stay at h
     Data indicate that from 2 weeks after this measures the incidence of Covid cases and deaths mostly stopped increasing
 * Comment: In pandemic times a closure e.g. at 12 pm like implemented in Greece is reasonable; more strict depending on the situation e.g. risk of hospital overflow.  
 
-> I recently read in the news that people clubbing at 6 am in the morning had to go to quarantine because of a positive case and the guest list was faulty. Partying until 6 am and likely drinking a lot is not good, since protection measures are hardly followed and the body is busy the next day repairing party-damage and will not fight viruses. Which is not good for disease progression and also hardly anybody feels well and so nobody recognizes symptoms.
+> I recently read in the news that people clubbing at 6 am in the morning had to go to quarantine because of a positive case and the guest list was faulty. Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the body is busy the next day repairing party-damage and will not fight viruses. The latter is double bad:  
+>   1. disease progression: longer asymptomatic phase and higher viral loads
+>   2. hardly anybody feels well and so nobody recognizes symptoms.
 
 ### Reduce Alcohol Consumption
-Back since we have written records of history there has been alcohol and history of prohibition dates back nearly as long. However full prohibition never really worked. Today many countries have increased taxes, often not very high, so that smuggling doesn't pay off. 
-* TT: A lot of alcohol diminishes the immune system, especially in the pharynx; this is not wanted when there's a Covid infection risk. 
-* Comment: In restaurants non alcoholic drinks e.g. fruit juices should be cheaper than beer. No happy hours for alcoholic beverages. 
+The history of prohibition dates back nearly as long as history itself. However full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, so smuggling doesn't pay off. 
+* ThinkThrough: A lot of alcohol diminishes the immune system, especially in the pharynx and can prevent recognizing symptoms. 
+* Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. No happy hours for alcoholic beverages. 
 
 ### Corona Conform Schooling
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in stairwell.
-* EE: In Israel to opening of schools seems to have contributed to increased spread [citation in work] 
-* TT:
-  * Children easily forget about protection and masks. Especially if concentrating on other things e.g. exams. 
+* Evidence: In Israel the reopening of schools seems to have contributed to increased spread [citation in work] 
+* ThinkThrough:
+  * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams. 
+  * Many people in the same room
+  * Many face-to-face talking situations with many different people
+  * Children all come from different families and inside families protection is hardly doable. So person who want/need to protect cannot do so. 
+* Experiences: 
+  * closing the schools part of a lock-down worked to reduce local infection paths
+  * in many schools mask wearing is common, negative comments are few
+  * Project based and individual learning are a common teaching approaches known to work. On the other hand school closures can have a negative impact on the learning experience. 
 * Comment: In times with high Covid incidence instead of complete closure, transmission can be reduced:
-  * masks permanent or at least in breaks
-  * exam free
-  * no talking exercises and more focus on written tasks. Even reading in a favorite book or playing chess could be an option. Showing educational movies.
-  * more solidary than group work. If group work, then the groups should not change daily (weekly should be ok)
-  * preferably outdoor sports
-  * relaxed presence required. E.g. students can do some projects. Projects can be rescheduled. 
+  * Masks when face-to-face talking e.g. in breaks
+  * Exam free:
+    * Exams can cause stress and make it easy to forget about coronaviruses.  
+    * With common cold like symptoms, one  usually doesn't skip an exam but in Covid times it is important to stay home. On the other hand wanting to skip an exam is also easy, pupils just stay home.
+  * No talking exercises and more focus on written tasks. Even reading in a favorite book. Showing educational movies. A good time to learn respectively teach programming and other computer skills. About computer skills there are many good self learning resources. 
+  * More  individual than group work. If group work, then the groups should not change daily (weekly should be ok)
+  * Outdoor sports
+  * Relaxed presence requirements. E.g. students/pupils can be given tasks and the tasks can be done remotely. Projects can be rescheduled e.g. the  
+  * Library like settings/managed self-learning can be an alternative to closures: students just come to learn/work/read and somebody is there to help when needed (teacher - student protection measures may work better than student-student)
 
 <!--
 ### Guest Lists and Tracing
@@ -252,6 +272,13 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
 [in work]
 From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
 
+### Monitor Prevalence
+To adjust the measures and to communicate these it is important to monitor different incidence rates. Ideally these are taken daily else at least weekly. Often, as of 16.10.20 only the positive tests are communicated. However these numbers are hard to interpret: e.g. many of the tested can be health care professionals (who know how to protect and incidence is thus underestimated).
+1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
+2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
+3. Other respiratory diseases: influenza and common colds should be monitored too:
+   * on one hand only having Covid-19 around makes it much easier to diagnose Covid-19 and isolate infected
+   * long term adverse effects of common colds are likely underestimated. Now is a good opportunity to diminish there prevalence and so reduce the strains circulating.   
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
