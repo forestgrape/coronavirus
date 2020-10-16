@@ -44,7 +44,7 @@
   
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 
-* [Ideas to Explore](#ideas)
+* [Ideas to Explore](#ideas-to-explore)
     - [Backtracing Sars-CoV-1/2](#backtrace-habitat)
         The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles.
     - [Infection Tropism and Disease patterns](#disease-pattering)
@@ -66,7 +66,8 @@
 
 
 ## Updates
-- 15.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase in cases in Europe and new evidence on transmission.
+- 15./16.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
+    > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
@@ -86,8 +87,8 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 ### Minor Updates
-- 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence)
-- 15.10. move [Covid section](./covid19.md) to its own page
+- 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) and testing priorities
+- 15.10. moved [Covid section](./covid19.md) to its own page
 - 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md)
 - 8.-13. 10. [Public/General Suggestions and Thoughts](#public-suggestions-and-thoughts) adapted
 - 5./6.10. Revised argumentation for [handling covid cases and quarantine](./monitor_and_control.md#handling-covid-19-cases-and-quarantine)
@@ -133,7 +134,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
     - plexiglas
 * __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell and see it, unlike the viruses. Prevent:
     - masks
-    - ventilation or being outside
+    - ventilation, distance and less people inside or being outside
     
     Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
     - Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
@@ -194,14 +195,14 @@ Keep in mind that the temperature varies during a day and with the activities pe
     > It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees.
 
 ### Estimate and Adaptive Planning
-While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to be circumspect and withdraw from social gatherings.
+While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to withdraw from social gatherings.
 
 Increased infection likelihood:
-* **Increased Exposure to Viruses**:being in a densely populated indoor spaces and very close range face to face talking
-* **Increased Susceptibility to Viruses**: diminished immune system
+* **Increased Exposure to Viruses**:being in a densely populated indoor spaces and close range face to face talking
+* **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air
 
 Keeping benefits and risks in mind:
-* whether, when and what to care about
+* whether, when and what to do and care about
 * whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports. 
 
 ### Respect and Take Care 
@@ -217,12 +218,13 @@ Respecting others having a different view of Covid  yields an intermediate appro
 
 Controlling SARS-CoV-2 is an individual, a local and global task. The better everybody helps to control it, the lesser the negative effects and the fewer rules and restrictions need to be put into place. 
 
-* Choosing settings/environments supporting a healthy lifestyles.  
-* Staying out of crowds and taking care even with mild respiratory disease symptoms. 
-* Giving infections time to cure. It is known for various virus infections that they can become persistent.
-* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to risk person) to protect to do so. E.g. home office/school (e.g. reading)
+
+* Staying out of crowds and taking care even with mild respiratory disease symptoms, a runny nose is enough reason to stay home. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
-* Some slowdown of life: E.g. no party weeks, going home at time, just a [healthy lifestyle](#live-healthily). For all including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them.
+* Giving infections time to cure. It is known for various virus infections that they can become persistent.
+* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects are hardly known and the more people there are infected the larger is the damage SARS-2 is causing.
+* Choosing settings/environments supporting a healthy lifestyles.  
+* Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is crucial, which detects infections early, induces symptoms and clears them. 
 
 
 ### Live Healthily
@@ -239,7 +241,6 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 
 
-<p id='ideas'> -------</p>
 
 # Ideas to Explore
 * [Backtracing Sars-CoV-1/2](#backtrace-habitat)

@@ -98,6 +98,7 @@ Ventilation reduces the indoor airborne spread, since the virion density in [out
 The focus should be on monitoring cases both for disease progression and to figure out and avoid infection paths. 
 The thinking behind using a tactics of relaxed instructions is as follows:
 
+#### Example Calculation of Spread
 * ##### Strict Instructions
   With strict quarantine measures, infection risk from known infected  is more reduced but fewer people may do tests. Example: Out of 10 infected, 5 are known and 5 unknown/untested
   * the 5 known may infect on average 2 others (thus having a R value of 0.4)
@@ -180,13 +181,15 @@ A slow down of nightlife can reach from an early closure of clubs to a stay at h
 >   1. disease progression: longer asymptomatic phase and higher viral loads
 >   2. hardly anybody feels well and so nobody recognizes symptoms.
 
+
 ### Reduce Alcohol Consumption
-The history of prohibition dates back nearly as long as history itself. However full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, so smuggling doesn't pay off. 
-* ThinkThrough: A lot of alcohol diminishes the immune system, especially in the pharynx and can prevent recognizing symptoms. 
+The history of prohibition dates back nearly as long as history itself. However full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
+* ThinkThrough: Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms. 
 * Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. No happy hours for alcoholic beverages. 
 
+
 ### Corona Conform Schooling
-Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in stairwell.
+Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
 * Evidence: In Israel the reopening of schools seems to have contributed to increased spread [citation in work] 
 * ThinkThrough:
   * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams. 
@@ -194,19 +197,21 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * Many face-to-face talking situations with many different people
   * Children all come from different families and inside families protection is hardly doable. So person who want/need to protect cannot do so. 
 * Experiences: 
-  * closing the schools part of a lock-down worked to reduce local infection paths
-  * in many schools mask wearing is common, negative comments are few
-  * Project based and individual learning are a common teaching approaches known to work. On the other hand school closures can have a negative impact on the learning experience. 
+  * Closing schools as part of lock-downs worked to reduce local infection paths in spring 2020 in many countries. However school closures can have a negative impact on the learning experience, on the pupils and the parents/families. 
+  * In many schools mask wearing is common, negative comments are few
+  * Project based and individual learning are a common teaching approaches and known to work. 
 * Comment: In times with high Covid incidence instead of complete closure, transmission can be reduced:
   * Masks when face-to-face talking e.g. in breaks
-  * Exam free:
-    * Exams can cause stress and make it easy to forget about coronaviruses.  
-    * With common cold like symptoms, one  usually doesn't skip an exam but in Covid times it is important to stay home. On the other hand wanting to skip an exam is also easy, pupils just stay home.
-  * No talking exercises and more focus on written tasks. Even reading in a favorite book. Showing educational movies. A good time to learn respectively teach programming and other computer skills. About computer skills there are many good self learning resources. 
+  * No Exams:
+    * Exams can cause stress. With stress coronaviruses get forgotten both by the immune system and oneself.  
+    * With common cold like symptoms, one  usually doesn't skip an exam. In Covid times it is important to stay home. On the other hand, skip an exam on purpose is also easy, some respiratory symptom will pop up. 
+  * No talking exercises and more focus on written tasks. 
+    * Showing educational movies. 
+    * A good time to learn respectively teach programming and other computer skills. On computer skills there are many good self learning resources. 
   * More  individual than group work. If group work, then the groups should not change daily (weekly should be ok)
   * Outdoor sports
   * Relaxed presence requirements. E.g. students/pupils can be given tasks and the tasks can be done remotely. Projects can be rescheduled e.g. the  
-  * Library like settings/managed self-learning can be an alternative to closures: students just come to learn/work/read and somebody is there to help when needed (teacher - student protection measures may work better than student-student)
+  * Library like settings/managed self-learning can be an alternative to closures: students just come to learn/work/read and somebody is there to help when needed (teacher - student protection measures may work better than student-student). Pupils/students can come to read, even if it's reading the favorite book.
 
 <!--
 ### Guest Lists and Tracing
@@ -218,7 +223,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
 
 ### Balancing of Measures
 * Monitoring the personal/frequent customers of open(ed) businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
-* Step by Step adjusting helps to find a balance without sudden abrupt changes.
+* Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
 * All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
 * Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal. E.g. long-term prohibit visits is likely no solution.
 
@@ -273,12 +278,32 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
 From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
 
 ### Monitor Prevalence
-To adjust the measures and to communicate these it is important to monitor different incidence rates. Ideally these are taken daily else at least weekly. Often, as of 16.10.20 only the positive tests are communicated. However these numbers are hard to interpret: e.g. many of the tested can be health care professionals (who know how to protect and incidence is thus underestimated).
+To adjust the measures and to communicate these it is important to monitor different incidence rates. Ideally these are taken near daily, else at least weekly. Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring.  
+
+#### Helpful Information
 1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
+    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19 and so one should stay home with any kind of respiratory symptoms. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the transmissions. ([Example Calculation of Spread](#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine))
 2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
 3. Other respiratory diseases: influenza and common colds should be monitored too:
-   * on one hand only having Covid-19 around makes it much easier to diagnose Covid-19 and isolate infected
-   * long term adverse effects of common colds are likely underestimated. Now is a good opportunity to diminish there prevalence and so reduce the strains circulating.   
+  * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
+  * long term adverse effects of common colds are likely underestimated. This is a good opportunity to diminish there prevalence and reduce the number of strains circulating. 
+
+
+#### Testing Priorities at High Incidence 
+1. Testing of risk patients. Reason: Appropriate treatment.  
+2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
+3. How many of the people, which have respiratory diseases have Covid-19.
+4. Tests to do contact tracing. Reason: Break infection chains
+5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. 
+6. Other respiratory diseases: influenza and common colds should be monitored too. Reason:
+7. Tests to give travel permissions, quarantine cancel and so on
+    
+#### Testing Priorities at Low Incidence 
+1. Testing of risk patients. Reason: An appropriate treatment from early on.
+2. Health care workers and other groups with contact to risk groups
+3. Tests to do contact tracing and quarantine cancel
+4. Tests to estimate the overall incidence (travel test below can give an indication). Reason: When the incidence is high, a different tactics is appropriate.
+5. Tests to give travel permissions and so on. 
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
