@@ -47,13 +47,14 @@ Covid is just one of many reasons good health - including an intact immune syste
 ### Masks
 Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed or washed frequently. 
 
-#### Mask Use-Cases
+#### Mask Usage
 * For self protection good fit and a good outside-to-inside filter are important. 
 * To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
 * In heated indoor rooms aerosol transmission can occur:
-  * it is crucial to change/disinfect the masks frequently to prevent the spread of aerosols, especially [low and mid filtration masks](#filter-performance)
-  * [high filtration masks](#high-filtration) are important. 
-
+  * changing/disinfecting the masks frequently is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
+  * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
+* After coughing or sneezing into mask changing is necessary. After speaking a lot into a mask changing is appropriate. Especially [low and mid filter models](#filter-performance).
+* Some mask are too dense i.e. the air resistance is too big, in that case the air can sideline the mask. There's still protection against droplets in that case, essentially they are like wearable plexiglas. 
 
 
 #### Mask Effectiveness
@@ -62,27 +63,30 @@ Mask reduce spread since they mitigate both the infection and spread risk. Masks
     - Particles smaller than 5 micro meter:  statistically significant 2.8 fold reduction in viral copies detected in the fine aerosol fraction.
     - Overall: Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
-    > Assuming a reduction of exhaled particles by a factor of 2.5 (60% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+    > [in rework] Assuming a reduction of exhaled particles by a factor of 2.5 (60% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 #### Mask Types
-Mask can be classified either by the intended usage or the how much particle they filter out of the air.
+Mask can be classified either by
+* [Filter Performance](#filter-performance)
+* [Usage Classes](#usage-classes)
 
 
-##### Filter performance
-There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms are common, in the US N95/P95 (see e.g. Wikipedia FFP standards)
+##### Filter Performance
+The filtration performance specifies how much and which particles are filtered out of the air at some fixed airflows and pressures. 
+There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms are common, in the US N95/P95 (e.g. Wikipedia page on FFP standards). The face-to-face talking droplets spread which is the most prevalent transmission of SARS-CoV-2 is prevented by all filtration levels. High filtration is needed in situations where [aerosol transmission](./transmission.md#summary-airborne-transmission) are relevant. 
 * ###### High Filtration
-  FFP2 (Europe), N95(US)
+  FFP2 (Europe), N95(US). Generally high filtration mask also have a good fit, since if the air sidelines the mask, no aerosols are hold back regardless of the filter (droplets are still hold back). 
 * ###### Intermediate Filtration
   Surgical Masks
 * ###### Low Filtration 
-  Textile mask often don't offer a good filter performance. They prevent the droplet spread when face-to-face talking and offer some self protection regarding aerosols but they prevent the spread of aerosols, which is important in heated indoor rooms if possibly infected. 
+  Textile mask often have low filter performance. They prevent the [droplet exchange](./transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not reliably prevent the spread of aerosols, which is important in heated indoor rooms if possibly infected. 
 
 ##### Usage Classes
 * _Protection masks against dust_ are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let the air out unfiltered. That means that there is not inside to outside protection and thus masks with valves offer protection for the wearer only and *not* for others.
 * _Medical masks_ : There are two types of medical mask. 
-  * _Surgical masks_: are constructed for comfort and a focus is on inside to outside protection (during surgery, there is no skin protection). Mainly of larger particles such as bacteria 
-  * _Medical protections masks_: To protect medical staff against pathogens from infected patients. These masks are usually in the highest filtration category.  
-* _Textile masks_ are available in a lot of sizes and styles. These masks often offer the best fit and tend worn most often due to comfort and style. However the [filtration performance](#filter-performance) is often [low](#low-filtration). 
+  * _Surgical masks_: are constructed for comfort and a focus is on inside to outside protection (during surgery, the body is open and so there is no skin protection). Mainly larger particles such as bacteria are filtered and additionally they cover the entire mouth area where often some nutrition rests can be.
+  * _Medical protections masks_: To protect medical staff against pathogens from infected patients. These masks are usually in the highest filtration category and offer good protection for all pathogens including viruses.
+* _Textile masks_ are available in a lot of sizes and styles. These masks often offer the best fit and tend worn most often due to comfort and style. However the [filtration performance](#filter-performance) is often [low](#low-filtration).
 
 #### Mask Reuse and Cleaning
 * wash with soap/hot water/machine-wash
