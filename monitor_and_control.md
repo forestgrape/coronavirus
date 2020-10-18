@@ -207,7 +207,9 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
 
 ### Reduce Alcohol Consumption
 The history of prohibition dates back nearly as long as history itself has been handed down. However full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
-* ThinkThrough: Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms. 
+* ThinkThrough: 
+  * Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms. 
+  * Alcohol reduces the ability to concentrate and rashly action are more common, that's why no driving.  Permanent following of corona prevention measures needs concentration. 
 * Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. No happy hours for alcoholic beverages. 
 
 

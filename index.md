@@ -149,9 +149,9 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
 * #### Masks
     Wear a [mask](./monitor_and_control.md#masks) 
     - Outdoor and indoor: for close range face-to-face contact/talking. 
-    - In indoor places where susceptible or infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
+    - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    Ideally masks are as comfortable so one doesn't mind wearing them. In some situations e.g. hospitals a dense mask is necessary.  Clean mask protects more than no mask. 
+    Ideally masks are as comfortable so one doesn't mind wearing them. In some situations a dense mask with a good fit is necessary: e.g. hospitals and outside temperatures are around the freezing level. Generally any clean mask protects better than no mask. 
 
     Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
@@ -210,7 +210,7 @@ Keeping benefits and risks in mind:
 
 Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
 
-* Precautions/Protection measures in place in public spaces which everybody needs to use. 
+* Precautions/Protection measures in place in public spaces which everybody needs to use: e.g. wearing a mask and respecting distance. 
 * In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Protections measures can often be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying.
 
 > Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the settings can be more liberal and the rules less and relaxed. 

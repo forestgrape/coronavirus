@@ -485,8 +485,7 @@ For viruses optimized to its environment, only cells involved in the survival of
 The tissue tropism of SARS-CoV-2 is in the section [Tissue Tropism of SARS-CoV-2](#tissue-tropism-of-sars-cov-2)
 
 
-
-<p id='tissue-tropism-of-sars-cov-2'>-----</p>
+---
 
 ## Tissue Tropism of Sars-CoV-2
 [in rework to remove errata and to clarify]<br>
@@ -547,8 +546,6 @@ That in swab tests there are viruses in the nose and the mouth can be either cau
 
 
 
-<p id='section-habitat'>-----</p>
-
 ## Habitat
 [in rework]
 As outlined in [tropism](#tropism) there is a variety of conditions for a virus to start to metabolism and even more too successfully replicate. These environments form the habitat of a virus strain:
@@ -601,7 +598,6 @@ So an interspecies infection denotes a transmission without spread in the new sp
 * jumps to humans, also called [zoonosis](#zoonosis): MERS, Sars-CoV-1 and OC43 are all jumped from animals to humans [refs in work]. 
 
 
-<p id='evolution-and-adaption'>-----</p>
 
 ## Evolution and Adaption
 [in work]<br>
