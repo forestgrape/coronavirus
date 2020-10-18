@@ -83,20 +83,17 @@ The larger droplets keep their name and are just called droplets:
 > // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence, at least there is no obvious causal connection.  
 
 ### Summary Airborne Transmission
-Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls but aerosols mostly move with the air. Tiny and dry particles always go with the air. 
-
+Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls while aerosols mostly move with the air. Tiny and dry particles always go with the air. 
 
 Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and on masks in [Protection Measures](./monitor_and_control.md). [citations in work  ]
 
 Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent              
 ---------|------------|------------------|-----------------|------|---
-[droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any | Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity but not very dry| (high-filtration-)mask, distance, ventilate
-[proposed dry form](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | dry (low relative humidity) e.g. indoor heated| high-filtration-mask, ventilate, no deep inhalation e.g. no indoor sport
-
-
-
-
+[droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (overall the most common transmission of SARS-CoV-2)| Any mask in face-to-face situations, distance 
+[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity | (high-filtration-)mask, distance, ventilate
+[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | very dry (low relative humidity) e.g. indoor heated| high-filtration-mask, ventilate, no deep inhalation e.g. no indoor sport
+ 
+In temperate and humid climates the droplets spread is most important. Aerosol spread is increasingly possible the lower the absolute humidity is, which proportional to the outside temperature in heated indoor rooms. 
 
 
 ## Particle Dynamics in the Respiratory Tract
@@ -199,16 +196,15 @@ this new model is added:
 Compared to aerosols - which tend to spread local both in time and space, an example is the scent of a freshly cooked soup -, tiny dry particulates behave dust/smoke like - smoke is a collection of tiny dry particulates diffusing around - so they move with the air and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
 
 It is argued 
-* the described properties of dry form transmission explain well the observed transmission patterns for Sars-CoV-1, MERS and partly for SARS-CoV-2.
+* the described properties of dry form transmission explain well the observed transmission patterns for Sars-CoV-1, MERS and some transmission events for SARS-CoV-2.
 * physiological properties make the lower respiratory tract particularly susceptible to  dry form infections:
-  * small and dry particles have the highest deposition in the lower respiratory tract
+  * small and dry particles likely have the highest deposition in the lower respiratory tract
   * the immune system protection against viruses is lowest in the deep lungs, since the immune system there is not trained to deal with viruses. 
   * the absolute number of susceptible cells of the lower lungs is larger than in the upper respiratory tract: 
       * __SARS-CoV-1/2__: susceptible cells for SARS-CoV-1/2 replication are found throughout the respiratory tract but the largest surface is in the lower respiratory tract.  
       * __MERS__: the cells susceptible to MERS infections are in the lower respiratory tract lower respiratory tract as obligate entry point.
   * the observed viral load in different organs indicate that MERS and SARS-1/2 infections are especially dangerous if they reach the lower respiratory tract
   
-
 Overall the argumentation provides evidence, that aerosol and the proposed dry form are relevant transmission pathways.  
 
 Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
