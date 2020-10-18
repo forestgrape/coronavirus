@@ -133,7 +133,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
     - plexiglas
 * __aerosols transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outside the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
     - ventilation, distance and less people inside or being outside
-    - masks, preferably with a good fit and [filter](./monitor_and_control.md#mask-types)
+    - masks, preferably with a good fit and [filter](./monitor_and_control.md#mask-types) and changed/cleaned frequently
     - if possibly infected (e.g. having respiratory symptoms) staying home and *out* of heated indoor rooms 
 
     Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
