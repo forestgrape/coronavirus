@@ -2,7 +2,7 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* [Updates](#updates) in progress. Moved from single page to multipage. In work, therefore some local links may temporary require hand-lookup (via markdown at github). 
+* [Updates](#updates) in progress. Moved from single-page to multi-page. In work, therefore some local links may temporary require hand-lookup (via markdown at github). 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
@@ -34,14 +34,13 @@
     * [Monitor](./monitor_and_control.md#monitor)
     * [Data Availability](./monitor_and_control.md#data)
   
-* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses) (moved to own Page)
-  
+* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses) (moved to own Page)<br>
     Various aspects of coronaviruses are described with a focus on understanding. 
     - The starting point are first principles: life forms on earth. 
     - Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. 
     - We then look at coronaviruses with a focus on SARS-CoV-2.
-* [Immune System](./immune_system.md#immune-system) (Page)
-  
+    - 
+* [Immune System](./immune_system.md#immune-system) (Page)<br>
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 
 * [Ideas to Explore](#ideas-to-explore)
@@ -52,8 +51,7 @@
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
     - [Data Availability](#data) Public availability of well specified and raw/fine-grained data.
-* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models) (moved to own Page)
-  
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models) (moved to own Page)<br>
     Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible. 
     - We start with a recap of airborne transmission, 
     - look at a proposal of a new dry from transmission model,
@@ -87,6 +85,7 @@
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 ### Minor Updates
+- 18.10. Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: If possibly infected only high filtration mask may prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./transmission.md#summary-airborne-transmission))
 - 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) and testing priorities
 - 15.10. moved [Covid section](./covid19.md) to its own page
 - 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md)
@@ -132,10 +131,10 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
     - distance
     - side-a-side instead of face-to-face
     - plexiglas
-* __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell and see it, unlike the viruses. Prevent:
-    - masks
+* __aerosols transmission__: Aerosols behave soot/dust-like and aerosol transmission occurs mainly in indoor places with dry air. How smoke behaves we know, since we can smell and see it, unlike the viruses. Aerosol transmission is hard to completely prevent, it just can be reduced. Measures to reduce:
     - ventilation, distance and less people inside or being outside
-    
+    -[*high filtration* masks](./monitor_and_control.md#mask-types) with a good fit
+
     Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
     - Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
     - A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. 
@@ -151,7 +150,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     - Outdoor and indoor: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    Ideally masks are as comfortable one doesn't notice wearing them. In some situations e.g. hospitals a dense mask is necessary, in leisure time often any mask will do it. Any clean mask protects more than no mask!
+    Ideally masks are as comfortable so one doesn't mind wearing them. In some situations e.g. hospitals a dense mask is necessary.  Clean mask protects more than no mask. 
 
     Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
