@@ -80,7 +80,7 @@ The [size factor](#size-factor) is the distinguishing point for aerosols versus 
 The larger droplets keep their name and are just called droplets:
 > <span id='droplet'>*Droplets* in the context of transmission models denote watery particles with a diameter greater equal 5 micro meter. </span>
 
-> // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of millimeters is a coincidence. At least there is no obvious causal connection.  
+> // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence, at least there is no obvious causal connection.  
 
 ### Summary Airborne Transmission
 Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls but aerosols mostly move with the air. Tiny and dry particles always go with the air. 
@@ -91,8 +91,8 @@ Key aspects of the airborne transmission in table form; for details on Actions a
 Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent              
 ---------|------------|------------------|-----------------|------|---
 [droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any | Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity but not very dry| (dense-)mask in face-to-face situations and crowded or heated rooms, distance, ventilate
-[proposed dry form](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | dry (low relative humidity) e.g. indoor heated| (dense-)mask, ventilate, no deep inhalation e.g. no indoor sport
+[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity but not very dry| (high-filtration-)mask, distance, ventilate
+[proposed dry form](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | dry (low relative humidity) e.g. indoor heated| high-filtration-mask, ventilate, no deep inhalation e.g. no indoor sport
 
 
 
