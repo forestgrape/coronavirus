@@ -13,6 +13,9 @@
   * [Prevent unwanted Metabolisms](#prevent-unwanted-metabolisms)
 * [Cross Immune Protections](#cross-immune-protections)
   * [Cross Protections Observed](#cross-protections-observed)
+* [Appendix](#appendix)
+* [References](#references)
+  * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
 
 [in work and incomplete] Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 > The *immune system* denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them. 
@@ -139,7 +142,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 *  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
     - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
     - NL63 -protects-> 229E (only unidirectional)
-* [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](#human-bcov-infections).
+* [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](./coronavirus.md#observed-interspecies-infections).
 
 
 ## Appendix
@@ -156,4 +159,17 @@ All form of life on earth share common molecular patterns. The more genetically 
 > - physical: particles and their movements
 > - chemical: reactions of substances not requiring life forms and enzymes to occur. 
 > - biological: reactions and substances occurring *only* in the context of life forms. These are complex organic molecules and their reactions. 
+
+
+## References
+[in work]
+
+### Interspecies Transmission, Adaption & Evolution
+
+* ##### vanderhoek2012
+    Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012). 
+    **The dominance of human coronavirus OC43 and NL63 infections in infants.** 
+    Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. https://doi.org/10.1016/j.jcv.2011.11.011
+
+<!--* ##### han2006-->
 
