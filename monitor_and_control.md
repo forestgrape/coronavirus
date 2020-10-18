@@ -192,7 +192,7 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
   * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In countries with low case numbers and extensive contact tracing, e.g. South Korea [and Japan, to check] many infections have been traced to clubs [citations in work].  
 * ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. Drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
 * Experiences: 
-  * An early closure of nightlife was implemented in (combined with recommendation for mask wearing)
+  * An early closure of nightlife was implemented in (combined with recommendations such as distancing and mask wearing)
     * Greece  (11.8.20, closing between 24 pm and 7 am)
     * Denmark (15.9.20, closing at 22 pm in risk regions, recommendation to reduce social contact and ending private parties at 10 pm)
     * Spain (14.8.20, closing of nightclubs; bars and restaurants close at 1 am; no drinking on the streets)
