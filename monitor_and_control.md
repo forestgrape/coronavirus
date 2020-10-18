@@ -86,7 +86,7 @@ There are various standards to classify mask by their filtration quality: E.g. i
 * _Medical masks_ : There are two types of medical mask. 
   * _Surgical masks_: are constructed for comfort and a focus is on inside to outside protection (during surgery, the body is open and so there is no skin protection). Mainly larger particles such as bacteria are filtered and additionally they cover the entire mouth area where often some nutrition rests can be.
   * _Medical protections masks_: To protect medical staff against pathogens from infected patients. These masks are usually in the highest filtration category and offer good protection for all pathogens including viruses.
-* _Textile masks_ are available in a lot of sizes and styles. These masks often offer the best fit and tend worn most often due to comfort and style. However the [filtration performance](#filter-performance) is often [low](#low-filtration).
+* _Textile masks_ are available in a lot of sizes and styles. These masks often offer the best fit and tend worn most often due to comfort and style. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](./transmission.md#summary-airborne-transmission), overall the most relevant spread of Covid, is prevented.
 
 #### Mask Reuse and Cleaning
 * wash with soap/hot water/machine-wash
@@ -206,7 +206,7 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
 
 
 ### Reduce Alcohol Consumption
-The history of prohibition dates back nearly as long as history itself. However full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
+The history of prohibition dates back nearly as long as history itself has been handed down. However full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
 * ThinkThrough: Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms. 
 * Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. No happy hours for alcoholic beverages. 
 
@@ -225,7 +225,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * Project based and individual learning are a common teaching approaches and known to work. 
 * Comment: In times with high Covid incidence instead of complete closure, transmission can be reduced:
   * Masks when face-to-face talking e.g. in breaks
-  * No Exams:
+  * No Exams, Projects can be graded
     * Exams can cause stress. With stress coronaviruses get forgotten both by the immune system and oneself.  
     * With common cold like symptoms, one  usually doesn't skip an exam. In Covid times it is important to stay home. On the other hand, skip an exam on purpose is also easy, some respiratory symptom will pop up. 
   * No talking exercises and more focus on written tasks. 
@@ -239,7 +239,6 @@ Measure regarding schools can reach from complete closure to mild measures such 
 <!--
 ### Guest Lists and Tracing
 -->
-
 
 
 ## Risk Assessment
