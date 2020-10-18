@@ -45,7 +45,16 @@ Covid is just one of many reasons good health - including an intact immune syste
 
 
 ### Masks
-Mask reduce spread since they mitigate both the infection and spread risk. 
+Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed or washed frequently. 
+
+#### Mask Use-Cases
+* For self protection good fit and a good outside-to-inside filter are important. 
+* To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
+* In heated indoor rooms aerosol transmission can occur:
+  * it is crucial to change/disinfect the masks frequently to prevent the spread of aerosols, especially [low and mid filtration masks](#filter-performance)
+  * [high filtration masks](#high-filtration) are important. 
+
+
 
 #### Mask Effectiveness
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
@@ -53,24 +62,33 @@ Mask reduce spread since they mitigate both the infection and spread risk.
     - Particles smaller than 5 micro meter:  statistically significant 2.8 fold reduction in viral copies detected in the fine aerosol fraction.
     - Overall: Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
-    > Assuming a reduction of exhaled aerosols by a factor of 2.5 (60% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+    > Assuming a reduction of exhaled particles by a factor of 2.5 (60% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 #### Mask Types
-Common types of masks are:
-* _Surgical masks_ are constructed for comfort and a focus is on inside to outside protection (without the protection of the skin, infection risk is high)
-* _Protection masks against dust_ are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let the air out unfiltered. That means that there is not inside to outside protection and thus masks with valves offer protection for the wearer only and *not* for others.
-* _Textile masks_ are available in a lot of sizes and styles. They may not offer the best protection in theory but they may offer the best fit and be worn most often due to comfort and style. 
+Mask can be classified either by the intended usage or the how much particle they filter out of the air.
 
-#### Mask use Cases
-* For self protection good fit and a good outside-to-inside filter are important. 
-* In dry air, water [droplets shrink](./transmission.md#dry-form-transmission-model). In these settings, fine grained filters are important for self protection. 
-* To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
+
+##### Filter performance
+There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms are common, in the US N95/P95 (see e.g. Wikipedia FFP standards)
+* ###### High Filtration
+  FFP2 (Europe), N95(US)
+* ###### Intermediate Filtration
+  Surgical Masks
+* ###### Low Filtration 
+  Textile mask often don't offer a good filter performance. They prevent the droplet spread when face-to-face talking and offer some self protection regarding aerosols but they prevent the spread of aerosols, which is important in heated indoor rooms if possibly infected. 
+
+##### Usage Classes
+* _Protection masks against dust_ are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let the air out unfiltered. That means that there is not inside to outside protection and thus masks with valves offer protection for the wearer only and *not* for others.
+* _Medical masks_ : There are two types of medical mask. 
+  * _Surgical masks_: are constructed for comfort and a focus is on inside to outside protection (during surgery, there is no skin protection). Mainly of larger particles such as bacteria 
+  * _Medical protections masks_: To protect medical staff against pathogens from infected patients. These masks are usually in the highest filtration category.  
+* _Textile masks_ are available in a lot of sizes and styles. These masks often offer the best fit and tend worn most often due to comfort and style. However the [filtration performance](#filter-performance) is often [low](#low-filtration). 
 
 #### Mask Reuse and Cleaning
-* wash with a lot of soap/machine-wash
+* wash with soap/hot water/machine-wash
 * heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming] [Chan et al.](#chan) have shown that Sars-CoV-1 is inactivated above 50 degrees.
 * if washing or heating is not available (e.g. water saving in dry areas or camping), putting the mask to the bright sunlight is an alternative in areas with intense sunlight. 
-
+* spray with pure alcohol (*no* alcohol intended for cleaning)
 #### Mask Recommendation
 Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable, since masks are protective. 
 The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
@@ -127,7 +145,7 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 #### Suggestions for Infected
 as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
-* permanent mask wearing in all indoor spaces/rooms where susceptible people can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing.  
+* [High-filtration mask](#high-filtration) in all indoor spaces/rooms where susceptible people can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
 * no crowded places (outdoors and indoors)
 * distance: 2 meters outdoors and 4 meters indoors.
 * no close range face-to-face talking
@@ -147,7 +165,7 @@ Isolation/stay-at-home may be working for people with own houses with gardens bu
 
 
 ## Thoughts about Social Measures
-* **(in work and currently more brainstorming)**
+**(in work and currently more brainstorming)**
 
 This sections discusses measures that can be put in place if Covid-19 increase rapidly. For each measure 
 * ###### Evidence
@@ -164,22 +182,23 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 
 ### Slow Down of Nightlife
-A slow down of nightlife can reach from an early closure of clubs to a stay at home order at night. 
+A slow down of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
 * Evidence: 
-  * Many anecdote-like Covid-19 spreading including super spreading events have linked to nightlife [citations coming]. 
-  * In many countries only few infections can be traced back to nightlife but more to families. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infections 1 week later every attendee should be tested, but this is hardly done. 
-* ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. In nightlife drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
+  * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife [citations coming]. 
+  * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In countries with low case numbers and extensive contact tracing, e.g. South Korea [and Japan, to check] many infections have been traced to clubs [citations in work].  
+* ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. Drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
 * Experiences: 
-  * An early closure of nightlife was implemented (combined with consequent mask wearing)
-    * in Greece  (11.8.20, closing between 24 pm and 7 am)
-    * in Denmark (15.9.20, closing at 22 pm in risk regions )
-    * Spain (14.8.20, closing of clubs and )
-    Data indicate that from 2 weeks after this measures the incidence of Covid cases and deaths mostly stopped increasing
+  * An early closure of nightlife was implemented in (combined with recommendation for mask wearing)
+    * Greece  (11.8.20, closing between 24 pm and 7 am)
+    * Denmark (15.9.20, closing at 22 pm in risk regions, recommendation to reduce social contact and ending private parties at 10 pm)
+    * Spain (14.8.20, closing of nightclubs; bars and restaurants close at 1 am; no drinking on the streets)
+  
+    Two weeks after this measures the incidence of Covid cases flattened in all the above countries. Denmark and Greece implemented this measures at low Covid incidences. 
 * Comment: In pandemic times a closure e.g. at 12 pm like implemented in Greece is reasonable; more strict depending on the situation e.g. risk of hospital overflow.  
 
-> I recently read in the news that people clubbing at 6 am in the morning had to go to quarantine because of a positive case and the guest list was faulty. Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the body is busy the next day repairing party-damage and will not fight viruses. The latter is double bad:  
+> I recently read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive case and the guest list was faulty. Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the body is busy the next day repairing party-damage and will not fight viruses. The latter is double bad:
 >   1. disease progression: longer asymptomatic phase and higher viral loads
->   2. hardly anybody feels well and so nobody recognizes symptoms.
+>   2. feeling unwell the next day(s) is not uncommon and so possible Covid symptoms may be attributed to the party night.
 
 
 ### Reduce Alcohol Consumption
