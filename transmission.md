@@ -3,7 +3,8 @@
 # Transmission of Betacoronaviruses with Focus on Sars-CoV-2 and a Proposed Dry Form Transmission 
 
 * [Airborne Transmission](#airborne-transmission)
-  * [Objects in the Air](#objects-in-the-air)
+  * [Content](#content)
+  * [Objects Moving in the Air](#objects-moving-in-the-air)
   * [Summary Airborne Transmission](#summary-airborne-transmission)
 * [Particle Dynamics in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract)
   * [Particles Sources](#particles-sources)
@@ -18,43 +19,53 @@
 * [References](#references)
   * [Particles in the Air](#particles-in-the-air)
   * [Airflow Theory](#airflow-theory)
-  * [Particle Deposition at In/Exhalation](#particle-deposition-at-inexhalation)
   * [Sources of Exhaled Particles](#sources-of-exhaled-particles)
+  * [Particle Deposition at In/Exhalation](#particle-deposition-at-inexhalation)
   * [Transmission and Infection of  Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
   * [Epidemiological Patterns](#epidemiological-patterns)
-  * [Enviromental Factors on Betacoronaviruses](#enviromental-factors-on-betacoronaviruses)
+  * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
 
 
 ## Airborne Transmission
 
-### Objects in the Air
+### Content
+* [Objects Moving in the Air](#objects-moving-in-the-air)
+    Low density or very small objects follow the airflow, while heavy object fly in trajectories. The underlying physics is sketched and and examples are given. Finally an aerosol is defined as a collection of very small particles that go with the air, droplet transmission on the other hand denotes transmission with droplets large enough they fly in trajectories. 
+* [Summary Airborne Transmission](#summary-airborne-transmission)
+
+
+### Objects Moving in the Air
 [in work]
+
+
 The movement of an object in the air depends on the ratio of its surface divided by its mass. The mass is turn is the volume times the density of the material. 
 
 > S/m ratio = surface of a particle divided by its 
 
 
 <!--
-#### Math Formulas
-    a = g * E_d + v^2 * k/r * (S_p/V) * E_-v  
-where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of object; r=density of the objet; S_p = surface perpendicular to v; v=movement relative to surrounding air; V=volume; E_d = unit vector pointing downwards; E_-v = unit-vector pointing in -v direction
+#### Math Formulas:  
+    a = gravity_induced_accel + air_induce_accel = g * E_d * m_diff + v^2 * k/r * (S_p/V) * E_-v  
+where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of object; r=density of the objet; S_p = surface perpendicular to v; v=movement relative to surrounding air; V=volume; E_d = unit vector pointing downwards; m_diff = object mass minus the mass of the air displaced by the object (archimedes principle); E_-v = unit-vector pointing in -v direction
+
+//the air resistance formula is an approximation. 
 -->
 
 
 * #### small S/m ratio => gravity and initial movement 
     heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant. This results in projectile motions which are, as already Galileo knew, upside down parabolas. Examples are heavy balls in sports, rain droplets or snowballs. 
 * #### large S/m ratio => go with the air
-    light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the winds. Feathers, dust particles and dry snowflakes are examples.
+    light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the air. Feathers, dust particles and dry snowflakes are examples.
 
 Examples and  movements in between: 
-* Feathers and balloon: Have large surface and low densities, so the S/m ratio is large and they go with the wind.
+* Feathers and balloon: Have large surface and low densities, so the S/m ratio is large and they go with the air.
 * Table tennis balls are both small and have a relatively low density, so they often go with the air. 
-* Footballs and tennis balls mostly fly with parabolas. But strong winds can influence their movements.
+* Footballs and tennis balls mostly fly with parabolas. But strong wind can influence their movements.
 * Golf balls on the other hand are less subject to the wind compared to table tennis balls. The size is similar but golf balls have a higher density. 
-* Shut pots have a high density and quite large too. They won't be blown by the winds.
+* Shut pots have a high density and quite large too. They won't be blown by the wind.
 
 #### Material Factor
-The mass calculates as density times volume so
+The mass calculates as density multiplied volume so
 * #### large density => small S/m ratio
    E.g. shot puts, stones, snowballs
 * #### small density => large S/m ratio
@@ -65,22 +76,37 @@ A spherical form yields the smallest surface for a fixed volume. Thus round obje
 * #### roundish => small S/m ratio 
     Watery particles tend to have a minimal surface and are roundish. Thus wet particles tend to fall more than dry particles. 
 * #### large surface/low density => large S/m ratio
-    Feathers or leaves have a large surface compared to their mass, so the S/m ratio is large. Therefore this objects tend to go with the wind.
+    Feathers or leaves have a large surface compared to their mass, so the S/m ratio is large. Therefore this objects tend to go with the air.
 
 #### Size Factor
-Since the volume increases in cubic and the surface only in square of the length/diameter. Tiny objects have very large ratios and thus go with the wind. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. 
+Since the volume increases in cubic and the surface only in square of the length/diameter. Tiny objects have very large ratios and thus go with the air. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. 
 * #### larger size => smaller S/m ratio
 * #### smaller size => larger S/m ratio
 
 The [size factor](#size-factor) is the distinguishing point for aerosols versus droplets since both have a spherical form and consist of water. Very small water droplets, that can't seen as single particles, move with airflow. 
 
 #### Droplet versus Aerosol
-> <span id='aerosol'> An *aerosol* is a collection of tiny droplets with a diameter smaller than 5 micro meter. Aerosol comes from Greek aero=air and sol=solvent, since tiny droplet can't be seen and thus look like dissolved in the air. However an aerosol is a bunch of heaps of water molecules possibly including some other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding movement and visibility for our eyes.</span>
 
-The larger droplets keep their name and are just called droplets:
-> <span id='droplet'>*Droplets* in the context of transmission models denote watery particles with a diameter greater equal 5 micro meter. </span>
+> ###### Aerosol
+> An *aerosol* is a collection of tiny droplets with a diameter smaller than 5 micro meter. Aerosol comes from Greek aero=air and sol=solvent, since tiny droplet can't be seen and thus look like dissolved in the air. However an aerosol is a bunch of heaps of water molecules possibly including some other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding movement and visibility for our eyes.
 
-> // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. That water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence, at least there is no obvious causal connection.  
+The larger droplets keep their name and are called droplets:
+
+> ###### Droplets
+> *Droplets* in the context of transmission models denote watery particles with a diameter greater equal 5 micro meter.
+
+> // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. The behavior depends also on the situation: the respiratory tract has sharp turns and the humidity is very high so particles growth, so already particles a little entering with a size smaller 5 micrometer don't follow the airThat water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence, at least there is no obvious causal connection.  
+
+
+<!--
+### Sources
+[in work]
+### Targets
+[in work]
+### Path Source to Target
+[in work]
+-->
+
 
 ### Summary Airborne Transmission
 Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls while aerosols mostly move with the air. Tiny and dry particles always go with the air. 
@@ -91,10 +117,13 @@ Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent
 ---------|------------|------------------|-----------------|------|---
 [droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (overall the most common transmission of SARS-CoV-2)| Any mask in face-to-face situations, distance 
 [aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity | (high-filtration-)mask, distance, ventilate
-[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | very dry (low relative humidity) e.g. indoor heated| high-filtration-mask, ventilate, no deep inhalation e.g. no indoor sport
- 
-In temperate and humid climates the droplets spread is most important. Aerosol spread is increasingly possible the lower the absolute humidity is, which proportional to the outside temperature in heated indoor rooms. 
+[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | very dry (low relative humidity) e.g. indoor heated| high-filtration-mask with good fit, ventilate, no deep inhalation e.g. no indoor sport
 
+
+#### Comments
+* In temperate and humid climates the droplets spread is most important. Aerosol and dry form spread are increasingly possible the lower the absolute humidity is. 
+* The absolute humidity in heated indoor rooms is inversely proportional to the outside temperature. 
+* The dry form model is proposed here. This transmission form is just a proposal and whether it occurs or even plays a relevant role is not yet investigated (to my knowledge). 
 
 ## Particle Dynamics in the Respiratory Tract
 
@@ -109,39 +138,43 @@ Particle deposition and clearance are relevant for Covid-19 in view of:
 
 ### Particles Sources
 [in rework]
-This section describes when particles are exhaled and how they spread out within the respiratory tract. 
+This section describes when particles are generated and how they spread within the respiratory tract and out of it. 
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
 
-* Small particles from the lower respiratory tract (<1 micro meter) are generated with breathing alone and not when speaking or coughing. [Larsson et al](#larsson) found this by identifying the origins of particles from the lipid composition. 
+* ##### =Larsson=
+  Small particles from the lower respiratory tract (<1 micro meter) are generated from breathing alone and their generation does not require speaking or coughing. [Larsson et al](#larsson) identified the origins by analyzing the lipid composition of the particles. 
 
-* [fabian et al](#fabian) found that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. A tendency for a positive correlation with age was observed. 
+* ##### =Fabian=
+  [Fabian et al](#fabian) describes that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. Data indicate a  positive correlation with age. 
 
-* [milton et al](#milton2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
+* ##### =Milton 2018=
+  [Milton et al](#milton-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
 
 So Covid-19 can be spread with breathing alone especially since in the deep lungs there are many receptors for Sars-CoV-2.  
 
 
 ### Particles Deposition
-
 This section describes how particles are deposited in the respiratory tract. These particles can originate from other locations in the respiratory tract or being inhaled from extern air.
 
 #### Deposition Factors
 How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
-- particles properties such as diameter, density, form (see [sturm](#sturm)) and material([zhong18](#zhong18)], [varghese](#varghese))
-    * Droplets mostly don't enter the lower respiratory tract.
-    * Small Aerosols can enter the lower respiratory tract. But at a size of at least 0.1 μm they are not well deposited (the Sars-CoV-2 diameter is between 50 and 200 nm) and larger aerosols don't enter deep or are well cleared out [to be confirmed and citation to be added]. 
-    * Tiny, dry and sticky (Spike-Glycoprotein) particulates may have a higher deposition rate on the lung alveolar epithelial cells and less clearance [to be confirmed and citation to be added, work in progress].
+- particles properties such as 
+  - diameter: the diameter determines the size of particles and thus how particles [move in the air](#objects-moving-in-the-air). 
+  - Form: constant for water droplets but dry particles can vary in form. The influence of the form is simulated in ([Sturm](#sturm)).  
+  - material:([zhong18](#zhong18)],droplets containing salt tend to growth more: [varghese](#varghese))
 - breathing volume and frequency [hofemeier](#hofemeier)
 - air humidity and how much the air is moistened in the lung. E.g. described in [zhong18](#zhong18), [varghese](#varghese)]
 - orientation respect to gravity i.e. wether horizontal or vertical
  
 #### Deposition Locations
-The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer).
-* Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests). 
+The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer-2018).
+* Particles smaller than 10 micro meter enter the deep lungs [Kleinstreuer 2018 Fig 12](#kleinstreuer-2018), [Heyder](#heyder-2004). Between 2 and 10 micro meters the particles are deposited due to sedimentation i.e. they fall down since the airstream is mostly to weak to change their direction from downwards to upwards. Starting from around 200 nano meters and below, particles are deposited due to diffusion. Particles between 200 nano meters and 2 micro meters have the lowest deposition fraction, they can be deposited due to diffusion and sedimentation but both not very well. 
+* Locations of particles depositions for different sizes both a inhale and exhale are shown in [Kleinstreuer et al](#kleinstreuer-2018) on page 23 are used: "Fig. 6. Particle deposition in human nasopharyngeal model: (a) nasopharyngeal; (b) tracheal; (c) generation 1; (d) generation 2; and (e) generation 3". Especially noteworthy is that upon exhale many particles are deposited in the pharynx (which is relevant for swab tests)
 * [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. Similarly observed by [Varghese and Gangamma, Figure 4](#varghese): The alveolar deposition of soluble matter (shown for salt NaCl) between 250 nm and 1000 nm is increased by the particle growth due to moistening in the lungs. In Figure 7 the simulated effect of particle growth on total deposition is compared to measurements in experiments. 
-* The particles depositions aren't equal for the left and right lung and bronchus [Rahimi-Gorji](#rahimi-gorji), [kleinstreuer2017](#kleinstreuer2017)
+* The particles depositions aren't equal for the left and right lung and bronchus [Rahimi-Gorji](#rahimi-gorji), [kleinstreuer2017](#kleinstreuer-2017)
 * Particle deposition in the alveolar regions can be greatly increased upon deep inhaling [hofemeier](#hofemeier).
 * [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25. 
+
 
 ### Particles Clearance
 
@@ -149,29 +182,35 @@ The physiology of the airways is such that particles are absorbed and cleared ou
 * clearance by mucus flow towards the alimentary system
 * coughing
 * clearance by macrophages in the epithelium and in the mucus[to check]
-* absorption in the alveoli and clearance in the blood stream by immune system cells (e.g. macrophages)
+* absorption in the alveoli and clearance:
+  * locally by immune cells mostly local macrophages
+  * in the blood stream e
+    * immune system cells 
+    * clearance organs
+  
 
-
-##### factors influencing clearance
-* well flowing mucus (see [factors increasing the mucus flow](#factors-influencing-the-mucus-flow))
+#### Factors Influencing Clearance
+* well flowing mucus (see [factors increasing the mucus flow](./index.md#factors-influencing-the-mucus-flow))
 * the earlier deposited the better is the mucus clearance
 * particle properties such as material (bad clearance for insoluble in the lungs), form, size
 
-### Simulations and Experiments
 
+### Simulations and Experiments
+Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described below. 
 In her thesis [Lindstrom](#lindstrom) explains well the principles. A recent review is from [Park and colleagues](#park).<br>
-> Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described below . 
 
 #### Simulations
-An often used model is the [ICRP Model](#bailey). Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics. In this work mainly [kleinstreuer](#kleinstreuer) is used, other simulation models are [qi](#qi), [rahimi-gorji](#rahimi-gorji), [zhong18](#zhong18).
+An often used model is the [ICRP Model](#bailey). 
 
-Traditional methods: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). These methods yield some differential equations. These equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
+Traditional methods: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). These methods yield some differential equations. These equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods.
 
-The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are achieved, however many estimates for parameters have to be taken and thus overfitting could occur. Additionally many simplifications of relevant [particles deposition](#particles-deposition) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few see [darquenne](#darquenne). Particle shape(taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size aerosol droplets.
+Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics: [Kleinstreuer 18](#kleinstreuer-2018) (frequently referenced here), [Qi](#qi), [Rahimi-Gorji](#rahimi-gorji), [Zhong18](#zhong18).
+
+##### Limitations of Simulations
+The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are achieved, however many parameters have to be estimated and thus overfitting could occur. Additionally many simplifications of [relevant factors](#particles-deposition) both for respiratory tract and particles are taken: Most modeling methods ignore the softness and dynamics of the respiratory system, except a few  [darquenne](#darquenne). Particle shape (taken into account in [sturm](#sturm)), condensation and material (both discussed in [Zhong18](#zhong18)) are mostly ignored, i.e. the simulations are done for round constant size droplets.
 
 
 #### Experiments
-
 - Experimental in vitro setting: Build an artificial lung and measure: [sznitman](#sznitman). 
 - Experimental in vivo settings:
     * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
@@ -196,9 +235,9 @@ this new model is added:
 Compared to aerosols - which tend to spread local both in time and space, an example is the scent of a freshly cooked soup -, tiny dry particulates behave dust/smoke like - smoke is a collection of tiny dry particulates diffusing around - so they move with the air and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
 
 It is argued 
-* the described properties of dry form transmission explain well the observed transmission patterns for Sars-CoV-1, MERS and some transmission events for SARS-CoV-2.
+* the described properties of dry form transmission explain well the observed transmission patterns for Sars-CoV-1, MERS. Regarding Sars-Cov-2 some of the observed spreading is not expected by droplet-transmission. Aerosol transmission or
 * physiological properties make the lower respiratory tract particularly susceptible to  dry form infections:
-  * small and dry particles likely have the highest deposition in the lower respiratory tract
+  * small and dry particles have the highest deposition in the lower respiratory tract
   * the immune system protection against viruses is lowest in the deep lungs, since the immune system there is not trained to deal with viruses. 
   * the absolute number of susceptible cells of the lower lungs is larger than in the upper respiratory tract: 
       * __SARS-CoV-1/2__: susceptible cells for SARS-CoV-1/2 replication are found throughout the respiratory tract but the largest surface is in the lower respiratory tract.  
@@ -210,11 +249,8 @@ Overall the argumentation provides evidence, that aerosol and the proposed dry f
 Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
 
 
-
-
-
 ### Dry Form Transmission Model
-[in rework]
+**[in rework]**
   
 In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
 
@@ -229,9 +265,7 @@ The above infection pathway is in addition to the known aerosol/droplet pathways
 * Aerosol with virus in air -> Respiratory Tract
 * Droplet with virus in air -> Respiratory Tract
 
-
 Aerosols containing particulates and dry particulates can convert to each other in the air:
-
 * Dry Particulates -> Small Aerosol containing a Particulate (more likely in humid air, particulates act as condensation nuclei)
 * Dry Particulates <- Small Aerosol containing a Particulate (more likely in dry air)
 
@@ -248,7 +282,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 
 <!--
-
+------------unfinished------------------
 * (A) source -> aerosol  -> target<br>
 * (B) source -> aerosol  --dry-air-> dry particulate -> target
 * (C) source -> dry particulate -> target
@@ -261,19 +295,14 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 * source = lung for a,b
 * source = faeces [evidence from ] and possibly the lung (calculations are on the way whether the relative humidity in the lung can be low enough)
 * source can also be indirect. However one has to keep in mind that for the probability to be in two digit percentages there need to be many infectious particulates in the air. 
-
+---------------------------------------
 -->
-
-<!--
-[in work 2.8.]
-## Transmission of Betacoronaviruses
-This yields a different transmission pattern than the aerosol [[Tellier](#tellier)], which is however still a relevant transmission pathway. The droplet model is likely to be less relevant, since the Sars-CoV-2 [infects primarily cells in the lower respiratory tract entry](#tissue-tropism-of-sars-cov-2) and [only small particulates reach the deep lungs](#particles).-->
 
 ### Evidence for the Dry Form Transmission Model
 
 #### Evidence from Biological Properties
 [in rework since *not* correct]
-From the [Habitat of the Betacoronavirus](./index.md#habitat) lower respiratory tract entry for MERS and SARS-1 is obligate for infection. For Sars-CoV-2 lower respiratory tract entry is likely for patients developing ARDS. As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract. 
+As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](./coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection. 
 
     
 #### Evidence from the observed Spread Patterns
@@ -281,19 +310,16 @@ From the [Habitat of the Betacoronavirus](./index.md#habitat) lower respiratory 
 The droplet transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the droplet models:
 
 [in work: correct that aerosol but not the droplet models could partly explain observed spread patterns]
-In confined settings without special protection reproduction numbers well above the number of close contacts a person has, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of aerosols is affected by gravitation and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in cool outside temperature and heated indoor spaces which means dry and confined air. In theses settings dry dust like spreading is possible:
+In confined settings without special protection reproduction numbers, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of aerosols is affected by  and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in cool outside temperature and heated indoor spaces which means dry and confined air. In theses settings dry dust like spreading is possible.
 
-* Sars-CoV-1:
-	- Hospitals in China [Mizumoto](#mizumoto)
-    - Long-Term Care Facility in Seattle [Honein et al](#honein)
-	- Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan)
 
 * Sars-CoV-2:
+    - Long-Term Care Facility in Seattle [Honein et al](#honein)
 	- Diamond Princess Cruise Ship anchored in Japan, well analysed by [Mizumoto and colleagues](#mizumoto). Observations:
         * Covid-19 spread started between passengers and not equally between passengers and personal.
-        * very high peak values of the reproduction number are observed (over 10)
+        * very high peak values of the reproduction number are observed (over 10):  This is well above the number of close contacts a person usually has and so droplet transmission is unlikely. 
         
-        The observations favour long range but same room transmission (aerosol and dry form transmission) over droplet transmission and slighly indicate dry form transmission:
+        The observations favour long range but same room transmission (aerosol and dry form transmission) over droplet transmission and slightly indicate dry form transmission:
         * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission. 
         * In the aerosol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
         * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected since they spend the time in the same areas. 
@@ -301,19 +327,22 @@ In confined settings without special protection reproduction numbers well above 
 	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
 	- Hospitals in Nothern Italy [LE](#le)
 
+* SARS-CoV-1:
+    - Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in close by rooms and not to the personal. 
+
+
 * SARS 1 & 2: 
     In settings without prior SARS experience the infection rate in health care workers is very high:
 	* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
 	* 2019/2020 in Europe - Italy especially [LE](#le)<br>
 	
-	Possible Explanation: The medical staff is used to protect against fomite and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
+	Possible Explanation: The medical staff is used to protect against fomites and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
 
 * Mers-Cov:
 Most superspreading events occured in Winter season and in hospitals [dudas2017](#dudas2017). The primary superspreading in very dry (heated indoor) can be a reason  diseases occurred recently, even though overall hygiene increased.  
 
 
-    
-    
+
     
 #### Further evidences
 
@@ -336,52 +365,89 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 
 ## References
 
-[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly [kleinstreuer](#kleinstreuer) is used. [heyder](#heyder) is a readable description and [lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
+[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly references results from [kleinstreuer](#kleinstreuer-2018). [Heyder](#heyder-2004) is a readable description and [Lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
 
 
 ### Particles in the Air
 
 * ##### lindstrom
-    Lindström Bagge, Maria. (2004).<strong>Particles in small airways: 
-    mechanisms for deposition and clearance & Pharmacokinetic assessment of delivered 
-    dose to the lung.    </strong>    https://openarchive.ki.se/xmlui/handle/10616/37702
+    Lindström Bagge, Maria. (2004). 
+    **Particles in small airways: mechanisms for deposition and clearance & Pharmacokinetic assessment of delivered dose to the lung.** 
+    https://openarchive.ki.se/xmlui/handle/10616/37702
 
 * ##### bailey
-	<strong>The New ICRP Model for the Respiratory Tract </strong> M.R. Bailey 
-	Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, https://doi.org/10.1093/rpd/53.1-4.107
+	**The New ICRP Model for the Respiratory Tract** M.R. Bailey 
+	Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, 
+    https://doi.org/10.1093/rpd/53.1-4.107
     
-* ##### heyder
+* ##### heyder 2004
     Joachim Heyder
-    <strong>Deposition of Inhaled Particles in the Human Respiratory Tract and Consequences for Regional Targeting in Respiratory Drug Delivery</strong>
-    Proc Am Thorac Soc Vol 1. pp 315–320, 2004
-    https://doi.org/10.1513/pats.200409-046TA Internet address: www.atsjournals.org
+    **Deposition of Inhaled Particles in the Human Respiratory Tract and Consequences for Regional Targeting in Respiratory Drug Delivery**
+    Proc Am Thorac Soc Vol 1. pp 315–320, 2004 www.atsjournals.org
+    https://doi.org/10.1513/pats.200409-046TA 
 
 * ##### park
     Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
-    <strong>Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates </strong>
-    Atmosphere 2020, 11, 137; https://doi.org/10.3390/atmos11020137
+    **Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates**
+    Atmosphere 2020, 11, 137; 
+    https://doi.org/10.3390/atmos11020137
 
 * ##### morawska2006
-    Morawska, L. (2006), Droplet fate in indoor environments, or can we prevent the spread of infection?. Indoor Air, 16: 335-347. https://doi.org/10.1111/j.1600-0668.2006.00432.x
+    Morawska, L. (2006),
+    **Droplet fate in indoor environments, or can we prevent the spread of infection?.** Indoor Air, 16: 335-347. 
+    https://doi.org/10.1111/j.1600-0668.2006.00432.x
 
 
 ### Airflow Theory
     
 * ##### sznitman
 	Rami Fishler, Philipp Hofemeier, Yael Etzion, Yael Dubowski & Josué Sznitman 
-	<strong>Particle dynamics and deposition in true-scale pulmonary acinar models. </strong>
+	**Particle dynamics and deposition in true-scale pulmonary acinar models.**
 	Sci Rep 5, 14071 (2015). https://doi.org/10.1038/srep14071
     
 * ##### stuart
-    B O Stuart<strong>
-    Deposition and clearance of inhaled particles.</strong>
+    B O Stuart 
+    **Deposition and clearance of inhaled particles.**
     Environ Health Perspect. 1984 Apr; 55: 369–390.
     https://doi.org/10.1289/ehp.8455369
 
 * ##### tsuda
 	Tsuda A1, Rogers RA, Hydon PE, Butler JP.
-	<strong>Chaotic mixing deep in the lung.</strong>
+	**Chaotic mixing deep in the lung.**
 	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
+
+
+### Sources of Exhaled Particles
+    
+* ##### olin 
+    Bake, B., Larsson, P., Ljungkvist, G. et al. 
+    **Exhaled particles and small airways.** 
+    Respir Res 20, 8 (2019). https://doi.org/10.1186/s12931-019-0970-9
+    
+* ##### larsson
+    Per Larsson, Björn Bake, Anita Wallin, Oscar Hammar, Ann-Charlotte Almstrand, Mona Lärstad, Evert Ljungström, Ekaterina Mirgorodskaya, Anna-Carin Olin,
+    **The effect of exhalation flow on endogenous particle emission and phospholipid composition**, 
+    Respiratory Physiology & Neurobiology,Volume 243,2017,Pages 39-46,ISSN 1569-9048,     https://doi.org/10.1016/j.resp.2017.05.003
+
+* ##### fabian
+    Patricia Fabian, Sc.D.,1 Joseph Brain, S.D.,1 E. Andres Houseman, Sc.D.,2 James Gern, M.D.,3 and Donald K. Milton, M.D., Dr.PH.1,4
+    **Origin of Exhaled Breath Particles from Healthy and Human Rhinovirus Infected Subjects**
+    JOURNAL OF AEROSOL MEDICINE AND PULMONARY DRUG DELIVERY Volume 24, Number 3, 2011 a Mary Ann Liebert, Inc. Pp. 137–147 https://doi.org/10.1089/jamp.2010.0815
+    
+* ##### lindstedt
+    Broberg E, Andreasson J, Fakhro M, et al. **Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.** ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019]().
+    
+* ##### milton 2013
+    Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). **Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.** PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
+
+* ##### milton 2018
+    Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
+    **Aerosol shedding of infectious influenza virus**
+    Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
+    
+* ##### morawska
+    Johnson, Graham & Morawska, Lidia & Ristovski, Zoran & Hargreaves, M. & Mengersen, K. & Chao, Christopher & Wan, Man-Pun & Li, Yuguo & Xie, Xiaojian & Katoshevski, David & Corbett, Shay. (2011). **Modality of human expired aerosol size distributions.** Journal of Aerosol Science - J AEROSOL SCI. 42. 839-851. https://doi.org/10.1016/j.jaerosci.2011.07.009. 
+
 
 
 ### Particle Deposition at In/Exhalation
@@ -392,79 +458,51 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
     Varghese, S.K. and Gangamma, S. (2006). 
     **Particle Deposition in Human Respiratory Tract: Effect of Water-Soluble Fraction.** Aerosol Air Qual. Res. 6: 360-379. https://doi.org/10.4209/aaqr.2006.07.0004
 
-* ##### kleinstreuer 
+* ##### kleinstreuer 2018
     Arun V Kolanjiyil, Clement Kleinstreuer, Nicole C Kleinstreuer, Wellington Pham and Ruxana T Sadikot
-	<strong>Mice-to-men comparison of inhaled drug-aerosol deposition and clearance. Respiratory Physiology & Neurobiology. </strong> https://doi.org/10.1016/j.resp.2018.11.003
+	**Mice-to-men comparison of inhaled drug-aerosol deposition and clearance.** Respiratory Physiology & Neurobiology. https://doi.org/10.1016/j.resp.2018.11.003
     
-* ##### kleinstreuer2017
+* ##### kleinstreuer 2017
     Arun V. Kolanjiyila, Clement Kleinstreuer
-    <strong>Computational Analysis of Aerosol-Dynamics in a Human Whole-Lung Airway Model</strong>
+    **Computational Analysis of Aerosol-Dynamics in a Human Whole-Lung Airway Model**
     https://dx.doi.org/10.1016/j.jaerosci.2017.10.001
 
 * ##### qi
     Baihua Zhang, Shouliang Qi, Yong Yue, Jing Shen, Chen Li, Wei Qian and Jianlin Wu
-    <strong>Particle Disposition in the Realistic Airway Tree Models of Subjects with Tracheal Bronchus and COPD</strong>
+    **Particle Disposition in the Realistic Airway Tree Models of Subjects with Tracheal Bronchus and COPD**
     Hindawi BioMed Research International Volume 2018, Article ID 7428609, 15 pages https://doi.org/10.1155/2018/7428609
     
 * ##### zhong18
-    Xiaole Chen, Clement Kleinstreuer, Wenqi Zhong, Yu Feng & Xianguang Zhou (2018) <strong>Effects of thermal airflow and mucus-layer interaction on hygroscopic droplet deposition in a simple mouth–throat model</strong>, Aerosol Science and Technology, 52:8, 900-912, https://dx.doi.org/10.1080/02786826.2018.1476751
+    Xiaole Chen, Clement Kleinstreuer, Wenqi Zhong, Yu Feng & Xianguang Zhou (2018) **Effects of thermal airflow and mucus-layer interaction on hygroscopic droplet deposition in a simple mouth–throat model**, Aerosol Science and Technology, 52:8, 900-912, https://dx.doi.org/10.1080/02786826.2018.1476751
     
 * ##### rahimi-gorji
 	Mohammad Rahimi-Gorji, Tahereh B. Gorji n, Mofid Gorji-Bandpy
-	<strong>Details of regional particle deposition and airflow structures
-	in a realistic model of human tracheobronchial airways: two-phase flow simulation</strong>
+	**Details of regional particle deposition and airflow structures in a realistic model of human tracheobronchial airways: two-phase flow simulation**
 	https://dx.doi.org/10.1016/j.compbiomed.2016.04.017
 	0010-4825/& 2016 Elsevier Ltd. All rights reserved.
 
 * ##### hofemeier
     Philipp Hofemeier, Kenishiro Koshiyama, Shigeo Wada, and Josué Sznitman
-	<strong>One (sub-)acinus for all: Fate of inhaled aerosols in heterogeneous pulmonary acinar structures</strong> Eur J Pharm Sci. 2018 February 15; 113: 53–63. https://doi.org/10.1016/j.ejps.2017.09.033
+	**One (sub-)acinus for all: Fate of inhaled aerosols in heterogeneous pulmonary acinar structures** Eur J Pharm Sci. 2018 February 15; 113: 53–63. https://doi.org/10.1016/j.ejps.2017.09.033
     
 * ##### sturm 
-    Robert Sturm <strong> A Computer Model for the Simulation of Nonspherical Particle Dynamics in the Human Respiratory Tract</strong> Hindawi Publishing Corporation Physics Research International Volume 2012, Article ID 142756, 11 pages https://doi.org/10.1155/2012/142756
+    Robert Sturm **A Computer Model for the Simulation of Nonspherical Particle Dynamics in the Human Respiratory Tract** Hindawi Publishing Corporation Physics Research International Volume 2012, Article ID 142756, 11 pages https://doi.org/10.1155/2012/142756
 
 * ##### darquenne
     BY C. DARQUENNE*, L. HARRINGTON AND G. K. PRISK
-    <strong>Alveolar duct expansion greatly enhances aerosol deposition: a three-dimensional computational fluid dynamics study</strong>
+    **Alveolar duct expansion greatly enhances aerosol deposition: a three-dimensional computational fluid dynamics study**
     Phil. Trans. R. Soc. A (2009) 367, 2333–2346 https://doi.org/10.1098/rsta.2008.0295
 
 #### Experiments
 
 * ##### rissler
 	Rissler, Gudmundsson, Nicklasson, Swietlicki, Wollmer, Löndahl.
-	<strong>Deposition efficiency of inhaled particles (15-5000 nm) related to breathing pattern and lung function: an experimental study in healthy children and adults.</strong>
+	**Deposition efficiency of inhaled particles (15-5000 nm) related to breathing pattern and lung function: an experimental study in healthy children and adults.**
 	Jonas K. F. Jakobsson, Johan Hedlund, John Kumlin, Per Wollmer & Jakob Löndahl
 	Part Fibre Toxicol. 2017 Apr 8;14(1):10. doi: 10.1186/s12989-017-0190-8.
 	https://doi.org/10.1186/s12989-017-0190-8
     
 
-### Sources of Exhaled Particles
-    
-* ##### olin 
-    Bake, B., Larsson, P., Ljungkvist, G. et al. Exhaled particles and small airways. Respir Res 20, 8 (2019). https://doi.org/10.1186/s12931-019-0970-9
-    
-* ##### larsson
-    Per Larsson, Björn Bake, Anita Wallin, Oscar Hammar, Ann-Charlotte Almstrand, Mona Lärstad, Evert Ljungström, Ekaterina Mirgorodskaya, Anna-Carin Olin,
-    <strong>The effect of exhalation flow on endogenous particle emission and phospholipid composition</strong>, Respiratory Physiology & Neurobiology,Volume 243,2017,Pages 39-46,ISSN 1569-9048,     https://doi.org/10.1016/j.resp.2017.05.003
-
-* ##### fabian
-    Patricia Fabian, Sc.D.,1 Joseph Brain, S.D.,1 E. Andres Houseman, Sc.D.,2 James Gern, M.D.,3 and Donald K. Milton, M.D., Dr.PH.1,4
-    <strong>Origin of Exhaled Breath Particles from Healthy and Human Rhinovirus Infected Subjects</strong>
-    JOURNAL OF AEROSOL MEDICINE AND PULMONARY DRUG DELIVERY Volume 24, Number 3, 2011 a Mary Ann Liebert, Inc. Pp. 137–147 https://doi.org/10.1089/jamp.2010.0815
-    
-* ##### lindstedt
-    Broberg E, Andreasson J, Fakhro M, et al. <strong>Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.</strong> ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019].
-    
-* ##### milton2013
-    Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). <strong>Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.</strong> PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
-
-* ##### milton2018
-    Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
-    <strong> Aerosol shedding of infectious influenza virus</strong>
-    Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
-    
-* ##### morawska
-    Johnson, Graham & Morawska, Lidia & Ristovski, Zoran & Hargreaves, M. & Mengersen, K. & Chao, Christopher & Wan, Man-Pun & Li, Yuguo & Xie, Xiaojian & Katoshevski, David & Corbett, Shay. (2011). Modality of human expired aerosol size distributions. Journal of Aerosol Science - J AEROSOL SCI. 42. 839-851. https://doi.org/10.1016/j.jaerosci.2011.07.009. 
 
   
 ### Transmission and Infection of  Respiratory Viruses
@@ -522,7 +560,7 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
     This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
 
 
-### Enviromental Factors on Betacoronaviruses
+### Environmental Factors on Betacoronaviruses
 
 * ##### chan
 	K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
