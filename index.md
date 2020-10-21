@@ -8,7 +8,7 @@
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
-* A thanks may be more suitable than citing, nevertheless referencing is always highly welcome (to put as a license: at most Creative Commons). 
+* A thanks may be more suitable than citing. Referencing is always welcome tough. To put as a license: at most Creative Commons. 
   <!--* the more content is useful the more referencing is IMHO appropriate.  
   * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](#public-description).
@@ -45,8 +45,8 @@
 
 * [Ideas to Explore](#ideas-to-explore)
     - [Backtracing Sars-CoV-1/2](#backtrace-habitat)
-        The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles.
-    - [Infection Tropism and Disease patterns](#disease-pattering)
+        The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
+    - [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
     - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
@@ -301,7 +301,6 @@ Summaries and references this findings are based on are added at the very bottom
 
 
 
-<p id='disease-pattering'> -----</p>
 
 ## Infection Tropism and Disease Patterns
 **[in work]**<br>
