@@ -45,7 +45,7 @@ Covid is just one of many reasons good health - including an intact immune syste
 
 
 ### Masks
-Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed or washed frequently. 
+Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed frequently, but they can be [reused](#mask-reuse-and-cleaning) later on. 
 
 #### Mask Usage
 * For self protection good fit and a good outside-to-inside filter are important. 
@@ -54,7 +54,7 @@ Mask reduce spread since they mitigate both the infection and spread risk. Masks
   * changing/disinfecting the masks frequently is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
   * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
 * After coughing or sneezing into mask changing is necessary. After speaking a lot into a mask changing is appropriate. Especially [low and mid filter models](#filter-performance).
-* Some mask are too dense i.e. the air resistance is too big, in that case the air can sideline the mask. There's still protection against droplets in that case, essentially they are like wearable plexiglas. 
+* Some mask have a to big air resistance, in that case the air can bypasses the mask. There's still protection against droplets, essentially they are like wearable plexiglas. But bypassed air still contains [aerosols](./transmission.md#aerosol)
 
 
 #### Mask Effectiveness
@@ -75,7 +75,15 @@ Mask can be classified either by
 The filtration performance specifies how much and which particles are filtered out of the air at some fixed airflows and pressures. 
 There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms are common, in the US N95/P95 (e.g. Wikipedia page on FFP standards). The face-to-face talking droplets spread which is the most prevalent transmission of SARS-CoV-2 is prevented by all filtration levels. High filtration is needed in situations where [aerosol transmission](./transmission.md#summary-airborne-transmission) are relevant. 
 * ###### High Filtration
-  FFP2 (Europe), N95(US). Generally high filtration mask also have a good fit, since if the air sidelines the mask, no aerosols are hold back regardless of the filter (droplets are still hold back). 
+  FFP2 (Europe), N95(US), KN95(China). Generally high filtration mask also have a good fit, since if the air sidelines the mask, no aerosols are hold back regardless of the filter (droplets are still hold back). 
+  
+  * N95 (United States NIOSH-42CFR84)
+  * FFP2 (Europe EN 149-2001)
+  * KN95 (China GB2626-2006)
+  * P2 (Australia/New Zealand AS/NZA 1716:2012)
+  * Korea 1st class (Korea KMOEL - 2017-64)
+  * DS2 (Japan JMHLW-Notification 214, 2018)
+  
 * ###### Intermediate Filtration
   Surgical Masks
 * ###### Low Filtration 
@@ -316,18 +324,18 @@ To adjust the measures and to communicate these it is important to monitor diffe
 #### Testing Priorities at High Incidence 
 1. Testing of risk patients. Reason: Appropriate treatment.  
 2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
-3. How many of the people, which have respiratory diseases have Covid-19.
+3. How many people with respiratory disease symptoms have Covid-19.
 4. Tests to do contact tracing. Reason: Break infection chains
 5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. 
-6. Other respiratory diseases: influenza and common colds should be monitored too. Reason:
-7. Tests to give travel permissions, quarantine cancel and so on
+6. Monitoring respiratory diseases: influenza and common colds. Reason: Knowing what's around for diagnosis
+7. Tests for travel permissions, quarantine cancel and so on
     
 #### Testing Priorities at Low Incidence 
 1. Testing of risk patients. Reason: An appropriate treatment from early on.
 2. Health care workers and other groups with contact to risk groups
 3. Tests to do contact tracing and quarantine cancel
 4. Tests to estimate the overall incidence (travel test below can give an indication). Reason: When the incidence is high, a different tactics is appropriate.
-5. Tests to give travel permissions and so on. 
+5. Tests for travel permissions and so on. 
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
