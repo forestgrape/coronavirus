@@ -2,11 +2,11 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* [Updates](#updates) in progress. Moved from single-page to multi-page. In work, therefore some local links may temporary require hand-lookup (via markdown at github). 
+* [Updates](#updates) in progress. Moved from single-page to multi-page. In work, therefore some local links may temporary not work or require hand-lookup (via markdown at github). 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
+* These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
-* These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
 * A thanks may be more suitable than citing. Referencing is always welcome tough. To put as a license: at most Creative Commons. 
   <!--* the more content is useful the more referencing is IMHO appropriate.  
@@ -70,9 +70,9 @@
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
-	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](#disease-pattering)
+	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](#infection-tropism-and-diseas-patterns)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
-- 27.7. [Disease pattering](#disease-pattering)
+- 27.7. [Disease pattering](#infection-tropism-and-disease-patterns)
 - 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
@@ -90,9 +90,9 @@
 - 15.10. moved [Covid section](./covid19.md) to its own page
 - 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md)
 - 8.-13. 10. Public Advice and Suggestions renamed to [Public/General Suggestions and Thoughts](#public-suggestions-and-thoughts) and adapted
-- 5./6.10. Revised argumentation for [handling covid cases and quarantine](./monitor_and_control.md#handling-covid-19-cases-and-quarantine)
+- 5./6.10. Revised argumentation for [Covid Cases and Quarantine](./monitor_and_control.md#handling-covid-19-cases-and-quarantine)
 - 3.8. [Airborne Transmission](./transmission.md#recap-airborne-transmission) section added 
-- 7.7. 7 storage options to memorize metabolism (in offline work)
+- 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](./coronavirus.md) page
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
 - 12.6. sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
 - 12.5. added note that [outside is safer](./monitor_and_control.md#outside-is-safer)
@@ -134,7 +134,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 * __aerosols transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outside the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
     - ventilation, distance and less people inside or being outside
     - masks, preferably with a good fit and [filter](./monitor_and_control.md#mask-types) and changed/cleaned frequently
-    - if possibly infected (e.g. having respiratory symptoms) staying home and *out* of heated indoor rooms 
+    - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of other heated indoor rooms 
 
     Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
     - Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
@@ -151,7 +151,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     - Outdoor and indoor: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    Ideally masks are as comfortable so one doesn't mind wearing them. In some situations a dense mask with a good fit is necessary: e.g. hospitals and outside temperatures are around the freezing level. Generally any clean mask protects better than no mask. 
+    Ideally masks are as comfortable so one doesn't mind wearing them. In some situations a dense mask with a good fit is necessary: e.g. hospitals and indoor with very dry air. Generally any clean mask protects better than no mask. 
 
     Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
@@ -170,12 +170,12 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     Keep proper hygiene. Especially wash hands before eating and after toilet. Soap destroys coronaviruses. Hygiene is important because:
     * Transmission pathways of Covid-19 are still unclear. So just avoid them all. 
     * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
-    * Many other pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
+    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
 
 - #### Outside
-    [Outside is safe, if some distance is kept](./monitor_and_control.md#outside-is-safer). Ideally, walk or cycle directly from home. Primarily Covid-19 is transmitted indoors. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
+    [Outside is safe, if some distance is kept](./monitor_and_control.md#outside-is-safer). Ideally, walk or cycle directly from home. Outside most infection occur when close range face-to-face talking. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 - #### Transport
   * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
@@ -183,7 +183,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
 
 
 ### Observe 
-Observe your body, write down the observations and if possible measure.<br>
+Observe the body, write down the observations and if possible measure.<br>
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
 
 * Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
@@ -195,11 +195,11 @@ Keep in mind that the temperature varies during a day and with the activities pe
     > It's time [for medicine] to move on from digitalization and black-white schemes to the continuous color-space of Bayesian statistics. There's no hard border for fever at 37.5 or at 38 degrees.
 
 ### Estimate and Adaptive Planning
-While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions cannot move directed and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to withdraw from social gatherings.
+While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions don't move on their own and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to withdraw from social gatherings.
 
 Increased infection likelihood:
 * **Increased Exposure to Viruses**:being in a densely populated indoor spaces and close range face to face talking
-* **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air
+* **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air (e.g. sports)
 
 Keeping benefits and risks in mind:
 * whether, when and what to do and care about
@@ -208,12 +208,12 @@ Keeping benefits and risks in mind:
 ### Respect and Take Care 
 > *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
 
-Respecting others having a different view of Covid  yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
+Respecting others having a different view of Covid yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
 
 * Precautions/Protection measures in place in public spaces which everybody needs to use: e.g. wearing a mask and respecting distance. 
 * In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Protections measures can often be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying.
 
-> Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the settings can be more liberal and the rules less and relaxed. 
+> Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
 
 
 Controlling SARS-CoV-2 is an individual, a local and global task. The better everybody helps to control it, the lesser the negative effects and the fewer rules and restrictions need to be put into place. 
@@ -244,7 +244,7 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 # Ideas to Explore
 * [Backtracing Sars-CoV-1/2](#backtrace-habitat)
-* [Infection Tropism and Disease Patterns](#disease-pattering)
+* [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
@@ -302,7 +302,7 @@ Summaries and references this findings are based on are added at the very bottom
 
 
 
-## Infection Tropism and Disease Patterns
+## Infection Tropism and Disease Patterns 
 **[in work]**<br>
 ### Abstract Disease Patterns
 Coronaviruses can cause infections at different locations and thus induce different diseases: 
@@ -354,7 +354,7 @@ EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| local T cell or antibodies 
 
 
 ### diseases caused by the bovine coronavirus
-[raw form coming soon]
+[raw form is on todo-list]
 
 
 
@@ -420,7 +420,7 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#a
 * [mechanisms of crossprotection](#mechanisms-of-crossprotection)
 * [next steps](#next-steps)
 
-### overview
+### Overview
 While there are possible explanations for many epidemiological observations of the Sars-2 strains, causing Covid-19, spread in the first months of 2020: spread mainly in absolutely dry and cold air and less spread in warm and humid air. Thus increased spread with increasing latitudes and away from coastal areas. Because cold and dry air likely increases both the [airborne transmission](#dry-form-model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
 * in Switzerland not only the highest prevalence in severe cases (mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020) but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have an increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
@@ -468,25 +468,24 @@ Incidence rates of both cases and deaths varies a lot between the different regi
 > Subjective Remark: I consider distributed agriculture as important and worth preserving. Both subsidies and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop.<br>
 Economy solely on global effectiveness trimmed, yields that. But often only that. Question is, in which situations this is wanted. 
 
-* Contrary to areas where cattle are less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics in work].
+* In areas where cattle farming is less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics on todo].
     Cantons with few cattle farming:
-    - GE is a city canton and surrounded by Lac Lemon and France so less subventions there, 
-    - BS is a city canton which has a long urban and trade tradition. In the south there are some forested hills, and in the west France and north east is Germany
+    - GE is a city canton and surrounded by Lac Lemon and France (less subventions there), 
+    - BS is a city canton which has a long urban and trade tradition. In the south there are some forested hills, and in the west France and North-East is Germany
     - TI, has a few cattle farming but mostly close to the mountains and away from the cities. The largest city Lugano is surrounded by the Lago di Lugano and forests 
-    - VD has cattle farming but most of the population lives around the Lac Lemon, where also the largest city Lausanne is. Lausanne is surrounded mainly by vineyards and forests in the North and Lac Lemon in the South.  
+    - VD has cattle farming but most of the population lives around the Lac Lemon, where the largest city Lausanne is located. Lausanne  has mainly vineyards and forests to the North and Lac Lemon in the South.  
     
 The same patterns are observed when considering only cantons with large cities or when considering only uniform language regions: Areas with a lot of cattle farming have lower death rates (both per positive tested cases and per capita):
 * Urbanized Areas: ZH, ZG have a lower rates GE, BS
-* French Speaking Region: JU, FR, NE and VS have  lower rates both per cases and per population than GE and VD.
+* French Speaking Region: JU, FR, NE and VS have  lower rates both per severe cases and per population than GE and VD. 
 * German Speaking Region: TG, AI, SG, LU, AG have lower rates than BS.
 
 
 #### Covid-19 in Spain
-As in Switzerland the same pattern is observed in Spain:
 The cattle rich regions in the North and North East: Galicia, La Rioja, Basque Country have a lower death rate and higher recover rate than Madrid, Valencia, Castile, Catalonia and Leon. As expected from the humid climate in the communities Canary Islands, Melila and Balearic Islands the recover rates are high and the death rates are low compared to central Spain. 
 
 #### Remark
-Similar patterns seem to be in the USA and France. For analysis, ideally the partitioning of population is fine-grained to a level of at most a few 100K people per partition. 
+Similar patterns seem to be in the USA and France. For analysis, ideally the partitioning of population is fine-grained, at most a few 100K people per partition. 
 
 ### Biological Basis
 [in rework]
@@ -511,8 +510,12 @@ Examples of a successful jump from BCoV between humans and bovine:
 
 ### Mechanisms of Crossprotection
 [in rework]
-In the following mechanism of actions are guessed:
-* tissue resident T cells distributed through the respiratory tract recognize preserved parts of the initially translated ORFs and induce aptosis in infected cells [citations and argumentation in work 14.7.]. 
+[local T cells](./immune_system.md#local-t-cell) distributed through the respiratory tract recognize viral infections and induce cell death to prevent viral replication [argumentation 22.10. on todo-list]. 
+* possibly by recognizing preserved parts of the initially translated ORFs
+* but more likely local T cells recognizing more general anomalies of virus infected cells [in work]
+
+
+#### previous guesses likely false
 * Antibodies against some well preserved parts of proteins. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonin. Candidates:
         * S1
@@ -521,7 +524,6 @@ In the following mechanism of actions are guessed:
 
 * combination of tissue resident T cells and antibodies marking infected cells.   
 
-previous guesses, likely false:
 * Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
      
      
@@ -558,6 +560,7 @@ Moreover, breath-support-devices can modify the distribution and spread of virus
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
  
 #### Causes for severe Outcome of Covid-19
+[in rework, 22.10.]
 A main complication of a severe Covid-19 and possible death cause is acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
 
 #### mucus hypothesis 
@@ -750,9 +753,9 @@ The following characteristics are observed by [Yuen et al.](#yuen):
 
 * Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which all have a good health care system and do widespread testing ([data specifications](#data-specifications)). 
     - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
-    - __Remark__: Mucus clearance may not be the only reason for lower death rates in humid air, but also that [Dry Form Infection](#abstract) and aerosol infection is less likely and therefore Covid-19 starts more in the upper respiratory tract than in the bronchi or alveolis. 
+    - __Remark__: Mucus clearance may not be the only reason for lower death rates in humid air, but also that [Dry Form Infection](#abstract) and aerosol infection is less likely and therefore Covid-19 starts more in the upper respiratory tract than in the bronchi or alveolis [disease pattern](#infection-tropism-and-disease-patterns). 
 
-* In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals and not the total number of deaths. In this case the data is consistent and the treatment schemes tend to be more uniform for people in hospitals, so to analyse to impact of humidity this data is suited for analysis ([data specifications](#data specifications)). 
+* In a analysis ["Effects of temperature variation and humidity on the death of COVID-19 in Wuhan, China"](#luo) Luo et al. find a correlation in a time series analysis between a decreased humidity and and increased death rates (which likely corresponds to lowering the ARDS risk). The argumentation given here provides a possible explanation for their findings. The analysis depends however, on how accurate and consistent the analysed data are. In nearly all heavy hit regions around the world, the priority was and is and should be to save lives and not to count accurately. Remark: To recent news, the deaths published in Wuhan were those  in hospitals and not the total number of deaths. In this case the data is consistent and the treatment schemes tend to be more uniform for people in hospitals, so to analyse to impact of humidity this data is suited for analysis [data specifications](./monitor_and_control.md#data-specifications). 
 
 
 
@@ -912,11 +915,6 @@ TODO UPDATE REFERENCES
     Ziad A. Memish, Jaffar A. Al-Tawfiq, Hatem Q. Makhdoom, Abdullah Assiri, Raafat F. Alhakeem, Ali Albarrak, Sarah Alsubaie, Abdullah A. Al-Rabeeah, Waleed H. Hajomar, Raheela Hussain, Ali M. Kheyami, Abdullah Almutairi, Esam I. Azhar, Christian Drosten, Simon J. Watson, Paul Kellam, Matthew Cotten, Alimuddin Zumla, 
     **Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome**
     The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
-
-
-
-### Mechanism of Coronavirus Evolution 
-[coming] 
 
 
 ### Interspecies Transmission, Adaption & Evolution
