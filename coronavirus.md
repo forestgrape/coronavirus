@@ -7,16 +7,16 @@
 Various aspects of coronaviruses are described with a focus on understanding. We start with first principles: life forms on earth. Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. Finally we have a look at coronaviruses with a focus on SARS-CoV-2.
 
 * [Introduction to Life](#introduction-to-life)
-  * [Life Form](#life-form)
+  * [Life Forms](#life-forms)
   * [Lifetime Storage](#lifetime-storage)
   * [Storage and Duplication Options](#storage-and-duplication-options)
   * [Interactions between Life Forms](#interactions-between-life-forms)
   * [Membrane Forming Life Forms](#membrane-forming-life-forms)
 * [Introduction to Viruses](#introduction-to-viruses)
-  * [virus classification](#virus-classification)
-  * [virus entities](#virus-entities)
+  * [Virus Classification](#virus-classification)
+  * [Virus Entities](#virus-entities)
 * [Movement of Virions](#movement-of-virions)
-  * [swim with the tide](#swim-with-the-tide)
+  * [Swim with the Tide](#swim-with-the-tide)
   * [Movement within a host](#movement-within-a-host)
   * [Movement between hosts](#movement-between-hosts)
   * [Travel Probabilities](#travel-probabilities)
@@ -28,22 +28,22 @@ Various aspects of coronaviruses are described with a focus on understanding. We
   * [bovine coronaviruses](#bovine-coronaviruses)
 * [Life Cycle](#life-cycle)
   * [Virion Phase](#virion-phase)
-  * [metabolic phase](#metabolic-phase)
+  * [Metabolic Phase](#metabolic-phase)
 * [Tropism](#tropism)
-  * [tropism virion phase](#tropism-virion-phase)
-  * [metabolic phase tropism](#metabolic-phase-tropism)
-  * [cell tropism](#cell-tropism)
-  * [tissue tropism](#tissue-tropism)
+  * [Tropism Virion Phase](#tropism-virion-phase)
+  * [Metabolic Phase Tropism](#metabolic-phase-tropism)
+  * [Cell Tropism](#cell-tropism)
+  * [Tissue Tropism](#tissue-tropism)
 * [Tissue Tropism of Sars-CoV-2](#tissue-tropism-of-sars-cov-2)
-  * [constraint reasoning](#constraint-reasoning)
+  * [Theoretical Deduction](#theoretical-deduction)
   * [empirical deduction](#empirical-deduction)
 * [Habitat](#habitat)
-  * [organisms habitat aka hosts](#organisms-habitat-aka-hosts)
-  * [conquering new habitats](#conquering-new-habitats)
+  * [Organisms Habitat aka Hosts](#organisms-habitat-aka-hosts)
+  * [Conquering new Habitats](#conquering-new-habitats)
   * [Infecting New Species](#infecting-new-species)
 * [Evolution and Adaption](#evolution-and-adaption)
-  * [conserved patterns](#conserved-patterns)
-  * [changing patterns](#changing-patterns)
+  * [Conserved Patterns](#conserved-patterns)
+  * [Changing Patterns](#changing-patterns)
 * [References](#references)
   * [RNA Viruses](#rna-viruses)
   * [Enviromental Factors on Betacoronaviruses](#enviromental-factors-on-betacoronaviruses)
@@ -51,13 +51,12 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 
 
 
-
-<p id='intro-to-life'>-----</p>
-
 ## Introduction to Life
 
-### Life Form
-> <span id='form-of-life'> A *form of life* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called *progeny* or *next generation*. </span>
+### Life Forms
+
+> ###### Life Form
+> <span id='form-of-life'> A *form of life* or *life form* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called *progeny* or *next generation*. </span>
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
@@ -185,13 +184,13 @@ So an organism is infected if it has some cells that are [infected](#infected-ce
 > <span id='infectable-object'> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.</span>
 
 
-### virus classification
+### Virus Classification
 As defined all [forms of life](#form-of-life) which don't encode their entire metabolism are called [viruses](#virus). Since such forms exists across the tree of life, viruses are as diverse as the tree of life. The goal of classification is usually to group things together which are similar to some features of interest. Features of interest for viruses are: 
 * behavior and habitats occupied
 * genetic and structural similarity
 
 
-### virus entities
+### Virus Entities
 [in work and experimental]
 Similar as single cells organize by communication and share of resources to form an an organism, viruses infecting an organism can organize to form a virus-entity or virus-organism. 
 
@@ -228,7 +227,7 @@ In outside living vertebrate hosts, the typical life cycle of a coronavirus enti
 ## Movement of Virions
 Once virions are released from a cell the virions are moved by whatever movements are in their surroundings.   
 
-### swim with the tide
+### Swim with the Tide
 All forms of life on earth are water based. Both protein and RNA/DNA synthesis occur in water. So virions are pro therefore start out their journey in watery fluids, often the cytoplasm of a cell. Upon release they are exposed to whatever substances there are around. For most viruses their virions will always be dissolved in watery fluids and will not survive being dissolved in other fluids such as alcohol or air. 
 * __Fluid dissolved in__:
     - Salty water in oceans: Water in the oceans is also likely where life and RNA viruses as an early form of life developed and still contains a huge number of virions. 
@@ -312,7 +311,7 @@ Coronaviruses belong to the order of Nidovirales. Nidovirales are positive singl
 The membrane is spherical and consists of structural proteins which are coated in a lipid bilayer membrane acquired from the host cell. This membrane is called envelope. 
 
 
-#### coronavirus proteins  
+#### Coronavirus Proteins  
 [**in work and incomplete**]
 - structural proteins: used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N stabilizes the RNA
 - diminish host defence
@@ -374,10 +373,10 @@ The infectable cell can be:
 - once the viral RNA and the viral proteins are in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
 
 
-### metabolic phase
+### Metabolic Phase
 The viral metabolism starts once the genetic material of a virion is processed by a cell and thus the virus changes the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failing. 
 
-#### metabolism phase 1: preparation
+#### Metabolism Phase 1: Preparation
 [in work]<br>
 The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Additionally let the ribosomes produce some proteins that diminish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:<br>
 Release RNA -- let the host ribosomes translate two ORFs of the viral genome with frame-shifting---> two large proteins<br> 
@@ -386,7 +385,7 @@ Release RNA -- let the host ribosomes translate two ORFs of the viral genome wit
 * proteins providing the right setting for the phase 2 metabolism e.g. prevent the cells protection mechanisms working<br>
 * polymerase protein (protein capable of transcription of RNA to RNA) <br>
 
-#### metabolism phase 2: replication
+#### Metabolism Phase 2: Replication
 The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the properties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template mediated by the polymerase protein:<br>
 (+) RNA --transcription--> (-) RNA template<br>
 -- transcription--><br>
@@ -399,7 +398,6 @@ The metabolism can produce new virions that are released from the cell. The prop
 <p id='tropism-of-coronaviruses'>-----</p>
 
 ## Tropism 
-
 > <span id='tropism'>*Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.</span>
 
 > In literature, the term tropism of viruses is sometimes used more narrowly: which cells and tissues are susceptible to infection or in which an infection is observed. Here, for observed infections the term habitat is used. 
@@ -427,34 +425,32 @@ Both evolution and biological constraints yield the tropism of viruses. Evolutio
 The general concepts are outlined in the section [tropism of viruses](#tropism-of-viruses) in this section is about the [tropism](#tropism) of coronaviruses with a focus on Sars-CoV-2. As discussed there's a tropism in the virion phase and in the metabolic phase. These two yield the overall cell tropism. -->
 
 
-### tropism virion phase
-
+### Tropism Virion Phase
 Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on the cell membrane and proteases available. 
 
-#### virion attachment and activation
-* enviromenment around the cell
+#### Virion Attachment and Activation
+* Environment around the cell
     - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
 * matching receptor
 
   
 
-### metabolic phase tropism
+### Metabolic Phase Tropism
 [in work: incomplete and citations/confirmation in work]<br>
 > The tropism in the virion phase is better known than the tropism in the metabolic phase, since the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells expression the right receptors. To investigate the metabolic phase, ideally one could look into the cells. 
 
 * The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
-* The cell should be able to produce lots of virions and thus should have a performant metabolism.
+* The cell should be able to produce lots of virions and thus should have a capable protein producing metabolism.
 
-#### metabolic phase tropism of coronaviruses
+#### Metabolic Phase Tropism of Coronaviruses
 * ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
 * immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place. 
 [todo: search&read]
 
-### cell tropism
-
+### Cell Tropism
 > *Cell tropism* describes how a virus behaves upon match of a virion to a specific cell type. 
 
-The cell tropism is the combination of the [virion tropism](#tropism-virion-phase) which determines cell entry and the [tropism in the metabolic phase](#tropism-metabolic-phase) which determines the changes in the cells metabolism induced upon viral entry. Outside of laboratories reachability is an important factor too.   
+The cell tropism is the combination of the [virion tropism](#tropism-virion-phase) which determines cell entry and the [tropism in the metabolic phase](#tropism-metabolic-phase) which determines the changes in the cells metabolism induced upon viral entry. 
 
 For viruses optimized to its environment, only cells involved in the survival of the virus strain are infected:
 * cell used as entry point. For coronaviruses these are often cells on the apical epithelial layer of respiratory tract. 
@@ -466,19 +462,13 @@ For viruses optimized to its environment, only cells involved in the survival of
 
 
 
-#### cell tropism of sars-cov-2
-[in work]
-* efficient replication
-    - alveolar type 2 cells
-    - alveolar macrophages
-* infection but no replication
-    - dendritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]: aptosis induce
-* no entry
-    - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted. 
+### Tissue Tropism
+The tissue tropism depends on:
+* Susceptible Cells in the tissue 
+* Reachability of the Cells
+* Local Immune system
 
-> Even if the virions can't attach to a cell and/or induce cell entry, phagocytosis can be induced by the cell alone:  e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
-### tissue tropism
 * coronaviruses are often is tissues with large apical surface and the [virions are released](#orientation-matters) again on the apical side to spread via the covering fluids. 
 * coronaviruses are to big to diffuse efficiently inside tissues [to verify].
 
@@ -490,15 +480,27 @@ The tissue tropism of SARS-CoV-2 is in the section [Tissue Tropism of SARS-CoV-2
 ## Tissue Tropism of Sars-CoV-2
 [in rework to remove errata and to clarify]<br>
 The task determine to habitat of Sars-CoV-2 can be tackled either 
-* a [theoretical constraint based reasoning](#constraint-reasoning) based on the cell tropism of SARS-CoV-2
+* a [theoretical constraint based deduction](#constraint-deduction) based on the cell tropism of SARS-CoV-2
 * or by an [empirical deduction](#empirical-reasoning) based on observations of Covid-19 cases.
 
-### constraint reasoning
-In the following the habitat of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism) and the reachability of the tissue in question. 
+### Theoretical Deduction
+In the following the [tissue tropism](#tissue-tropism) of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question. 
 
-#### cell entry and receptor
+#### Cell Entry
 [in rework/reorder]
 The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
+
+#### Cell Tropism of Sars-Cov-2
+[in work]
+* efficient replication
+    - alveolar type 2 cells
+    - alveolar macrophages
+* infection but no replication
+    - dendritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]: aptosis induce
+* no entry
+    - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted. 
+
+> Even if the virions can't attach to a cell and/or induce cell entry, phagocytosis can be induced by the cell alone:  e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
 #### orientation matters 
 *  The transmission pathways (mostly airborne and vectorless) yield an initial deposition of the virions on the apical side together with the barrier function of the apical cell layer the virions have  
@@ -551,7 +553,7 @@ That in swab tests there are viruses in the nose and the mouth can be either cau
 As outlined in [tropism](#tropism) there is a variety of conditions for a virus to start to metabolism and even more too successfully replicate. These environments form the habitat of a virus strain:
 ><span id='habitat'> The *Habitat* of a virus are the locations which are frequently infected: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs and the host organism: us humans </span>
 
-### organisms habitat aka hosts
+### Organisms Habitat aka Hosts
 The organisms forming the habitat are called hosts:
 ><span id='host'>A *host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently and are relevant for the spread of the virus i.e. are part of the life cycle.</span>
 
@@ -560,7 +562,7 @@ The organisms forming the habitat are called hosts:
 Sometimes it is helpful to name frequently infected organism which play no role in the virus spread:
 ><span id='side-host'>A *Side Host* or *Terminal Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot efficiently replicate or leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host</span> 
 
-### conquering new habitats
+### Conquering new Habitats
 The virus can get attached to a cell types or hosts the given strain which are not part of its current habitat. Most likely the entity of viruses doesn't manage to adapt to the new target. However if a lineage of viruses manages to adapt to the new target, this becomes a new habitat. 
 The new habitat can be:
 - a new cell type
@@ -613,7 +615,7 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occuring on todays earth, possibly even the largest[to check].  
 [in work]
 
-### conserved patterns
+### Conserved Patterns
 [in work]
 Some parts of the coronavirus genome 
 * Functional units of proteins. The more fundamental there function is, the more conserved they tend to be.
@@ -624,7 +626,7 @@ Examples of well conserved proteins for coronaviruses are:
 * RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. This protein is well conserved [to check, citation coming]. 
 * The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
 
-### changing patterns
+### Changing Patterns
 [in work]
 
 
