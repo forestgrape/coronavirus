@@ -41,6 +41,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 * [References](#references)
   * [RNA Viruses](#rna-viruses)
   * [Enviromental Factors on Betacoronaviruses](#enviromental-factors-on-betacoronaviruses)
+  * [Cell Entry](#cell-entry)
   * [Expression Locations of ACE2](#expression-locations-of-ace2)
 
 
@@ -472,8 +473,8 @@ The tissue tropism of SARS-CoV-2 is in the section [Tissue Tropism of SARS-CoV-2
 ## Tissue Tropism of Sars-CoV-2
 [in rework to remove errata and to clarify]<br>
 The task determine to habitat of Sars-CoV-2 can be tackled either 
-* a [theoretical deduction](#constraint-deduction) based on the cell tropism of SARS-CoV-2. The cell tropism in turn is based on in vivo and in vitro experiments and observations.
-* an [empirical deduction](#empirical-reasoning) based on observations of Covid-19 cases.
+* a [theoretical deduction](#theoretical-deduction) based on the cell tropism of SARS-CoV-2. The cell tropism in turn is based on in vivo and in vitro experiments and observations.
+* an [empirical deduction](#empirical-deduction) based on observations of Covid-19 cases.
 
 ### Theoretical Deduction
 In the following the [tissue tropism](#tissue-tropism) of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question. 
@@ -651,6 +652,42 @@ Examples of well conserved proteins for coronaviruses are:
     LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
     **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054 
 
+### Cell Entry
+
+* ##### jiang
+	Keiji Kuba , Yumiko Imai, Shuan Rao, Hong Gao, Feng Guo, Bin Guan, Yi Huan, Peng Yang,
+	Yanli Zhang, Wei Deng, Linlin Bao, Binlin Zhang, Guang Liu, Zhong Wang, Mark Chappell,
+	Yanxin Liu, Dexian Zheng, Andreas Leibbrandt, Teiji Wada, Arthur S Slutsky, Depei Liu, Chuan Qin,
+	Chengyu Jiang & Josef M Penninger1<br>
+	**A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus–induced lung injury**
+	NATURE MEDICINE VOLUME 11 | NUMBER 8 | AUGUST 2005
+	https://doi.org/10.1038/nm1267
+    
+* ##### lif
+	Wan Y, Shang J, Graham R, Baric RS, Li F.
+	**Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS.**
+	J Virology 2020;
+	published online Jan 29. .
+	https://doi.org/10.1128/JVI.00127-20 
+
+* ##### mccray
+	GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
+	DIANNA M. BLAU,3 KATHRYN V. HOLMES,3 BEVERLY L. DAVIDSON,4 STANLEY PERLMAN,1,5
+	AND PAUL B. MCCRAY, JR.1
+	**Human Coronavirus 229E Infects Polarized Airway Epithelia from the Apical Surface**
+	JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
+	https://doi.org/10.1128/jvi.74.19.9234-9239.2000
+ 
+* ##### hoffmann
+	Markus Hoffmann, Hannah Kleine-Weber,
+	Simon Schroeder, ..., Marcel A. Müller,
+	Christian Drosten, Stefan Pöhlmann
+	**SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor**
+	Hoffmann et al., 2020, Cell 181, 1–10
+	April 16, 2020 a 2020 Elsevier Inc.
+	https://doi.org/10.1016/j.cell.2020.02.052
+      
+
 
 ### Expression Locations of ACE2
 
@@ -677,3 +714,8 @@ Examples of well conserved proteins for coronaviruses are:
     Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
     **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
     PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
+
+
+
+
+     

@@ -942,66 +942,6 @@ TODO UPDATE REFERENCES
     J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
     
 
-### Cell Entry
-* ##### jiang
-	Keiji Kuba , Yumiko Imai, Shuan Rao, Hong Gao, Feng Guo, Bin Guan, Yi Huan, Peng Yang,
-	Yanli Zhang, Wei Deng, Linlin Bao, Binlin Zhang, Guang Liu, Zhong Wang, Mark Chappell,
-	Yanxin Liu, Dexian Zheng, Andreas Leibbrandt, Teiji Wada, Arthur S Slutsky, Depei Liu, Chuan Qin,
-	Chengyu Jiang & Josef M Penninger1<br>
-	**A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus–induced lung injury**
-	NATURE MEDICINE VOLUME 11 | NUMBER 8 | AUGUST 2005
-	https://doi.org/10.1038/nm1267
-    
-* ##### lif
-	Wan Y, Shang J, Graham R, Baric RS, Li F.
-	**Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS.**
-	J Virology 2020;
-	published online Jan 29. .
-	https://doi.org/10.1128/JVI.00127-20 
-
-* ##### mccray
-	GUOSHUN WANG,1 CAMILLE DEERING,1 MICHAEL MACKE,1 JIANQIANG SHAO,2 ROYCE BURNS,1
-	DIANNA M. BLAU,3 KATHRYN V. HOLMES,3 BEVERLY L. DAVIDSON,4 STANLEY PERLMAN,1,5
-	AND PAUL B. MCCRAY, JR.1
-	**Human Coronavirus 229E Infects Polarized Airway Epithelia from the Apical Surface**
-	JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
-	https://doi.org/10.1128/jvi.74.19.9234-9239.2000
- 
-* ##### hoffmann
-	Markus Hoffmann, Hannah Kleine-Weber,
-	Simon Schroeder, ..., Marcel A. Müller,
-	Christian Drosten, Stefan Pöhlmann
-	**SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor**
-	Hoffmann et al., 2020, Cell 181, 1–10
-	April 16, 2020 a 2020 Elsevier Inc.
-	https://doi.org/10.1016/j.cell.2020.02.052
-      
-
-### Expression Locations of ACE2
-* ##### timens
-	I Hamming,1 W Timens,1 * MLC Bulthuis,1 AT Lely,2 GJ Navis2 and H van Goor1
-	**Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis**
-	Journal of Pathology
-	J Pathol 2004; 203: 631–637
-	Published online in Wiley InterScience
-	https://doi.org/10.1002/path.1570    
-        
-* ##### mccray05
-    Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray
-    **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
-    Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
-    
-* ##### li
-    Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., & Chen, Q. (2020). 
-    **High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.** 
-    International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
-
-* ##### soilleux,poehlmann
-    Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
-    **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
-    PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
-     
-
 ### RNA Viruses
 * ##### barr,fearns 2010
     John N. Barr and Rachel Fearns
