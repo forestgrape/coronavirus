@@ -25,6 +25,8 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Laboratory Biosafety](#laboratory-biosafety)
   * [Control and Containing Measures](#control-and-containing-measures)
 
+
+
 ## Protection Measures
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
@@ -176,6 +178,7 @@ To reduce spread isolation/home-lockdown is a radical measure. The more is known
 Isolation/stay-at-home may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
 
 
+
 ## Thoughts about Social Measures
 **(in work and currently more brainstorming)**
 
@@ -190,7 +193,6 @@ This sections discusses measures that can be put in place if Covid-19 increase r
   Narrowing of Life. How individuals experience the measures? Are there costs associated e.g. school children missing education. Financial costs (state founded support assumed)
 * ###### Comment
   The points above are summarized to a subjective rating/comment and a recommendation. The rating is subjective since it relies on the subjective weighting.
-
 
 
 ### Slow Down of Nightlife
@@ -275,7 +277,7 @@ Outside there is much more air per person than inside:
 
 #### Virion Decay
 Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the virion decay are:
-* the genome is [stored in unstable ssRNA](./coronavirus.md#ssRNA)
+* the genome is [stored in unstable ssRNA](./coronavirus.md#ssrna)
 * the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membrane has not evolved to be stable outside the organism.
 * virions have no repair mechanism since they don't have a metabolism
 
@@ -320,7 +322,6 @@ To adjust the measures and to communicate these it is important to monitor diffe
   * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
   * long term adverse effects of common colds are likely underestimated. This is a good opportunity to diminish there prevalence and reduce the number of strains circulating. 
 
-
 #### Testing Priorities at High Incidence 
 1. Testing of risk patients. Reason: Appropriate treatment.  
 2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
@@ -336,6 +337,8 @@ To adjust the measures and to communicate these it is important to monitor diffe
 3. Tests to do contact tracing and quarantine cancel
 4. Tests to estimate the overall incidence (travel test below can give an indication). Reason: When the incidence is high, a different tactics is appropriate.
 5. Tests for travel permissions and so on. 
+
+
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
