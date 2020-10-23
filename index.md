@@ -632,8 +632,8 @@ likely YES, since:<br>
 
 #### New Methods ideally are  
 - thought through by a variety specialists from different fields
-- simulated
-- tightly supervised, observed and recorded
+- simulated if possible
+- tightly supervised, observed and recorded test
 - published, including raw data
 
 __Note__:
@@ -662,18 +662,17 @@ Careful handling:
     __Benefit__: Simple use and a temporary increase in mucus flow. __Risk__:  If handled carefully the risks should be little. Irritation due to liquefying the mucus or because to hot steam is inhaled is possible.
     
 #### Reduce the Spread of Viruses    
-reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][simulate first what happens]
+reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][particle based simulation may be possible]
 - patients should breath as calm as possible
 - slightly increased pressure may reduce opening and closing of alveoli [to be confirmed]
 - ventilators possibly reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
-  
 
+#### Mechanical Ventilators and Particles Spread
+"Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt).  
+To be investigated: 
+* it could mean that they shed less viruses and less viruses are distributed throughout the lungs
+* it could mean that more viruses stay in the lungs since there is less clearance. However this is unlikely since the major clearance occurs through mucus. 
 
-<!--
-#### Mechanical Ventilators
-Mechanically ventilated patients exhale less particles: "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt). That has to be taken into account. 
-[work in progress: To be investigated: it could mean that they shed less viruses and less viruses are distributed throughout the lungs or it could mean that more viruses stay in the lungs since there is less clearance. ]
--->
 
 
 <p id="appendix-vents">---</p>
