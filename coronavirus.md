@@ -1,7 +1,4 @@
 
-
-<p id="coronaviruses">-------</p>
-
 # Coronaviruses with a Focus on Sars-CoV-2
 [in work]
 Various aspects of coronaviruses are described with a focus on understanding. We start with first principles: life forms on earth. Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. Finally we have a look at coronaviruses with a focus on SARS-CoV-2.
@@ -23,9 +20,6 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 * [Introduction to Coronaviruses](#introduction-to-coronaviruses)
   * [Nidovirales](#nidovirales)
   * [Coronaviruses](#coronaviruses)
-  * [Coronaviruses Species](#coronaviruses-species)
-  * [mers-cov](#mers-cov)
-  * [bovine coronaviruses](#bovine-coronaviruses)
 * [Life Cycle](#life-cycle)
   * [Virion Phase](#virion-phase)
   * [Metabolic Phase](#metabolic-phase)
@@ -36,7 +30,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
   * [Tissue Tropism](#tissue-tropism)
 * [Tissue Tropism of Sars-CoV-2](#tissue-tropism-of-sars-cov-2)
   * [Theoretical Deduction](#theoretical-deduction)
-  * [empirical deduction](#empirical-deduction)
+  * [Empirical Deduction](#empirical-deduction)
 * [Habitat](#habitat)
   * [Organisms Habitat aka Hosts](#organisms-habitat-aka-hosts)
   * [Conquering new Habitats](#conquering-new-habitats)
@@ -92,7 +86,7 @@ Proteins are assembled by ribosomes:
     - very stable
     - reliable duplication possible 
 
-#### notes on storage
+#### Notes on Storage
 * only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other forms are dependent on some enzymes produced by dsDNA forms and as defined below are called [viruses](#virus).
 * Some forms of life alternate the storage formats through their life cycle: ssRNA-RT (retroviruses).
  
@@ -100,7 +94,7 @@ Proteins are assembled by ribosomes:
 ### Storage and Duplication Options
 [in work]
 
-#### 1 form using RNA only
+#### 1 Form using RNA only
 * viroids
     - single RNA strand which catalyzes its duplication
 
@@ -119,16 +113,15 @@ Proteins are assembled by ribosomes:
 * dsDNA := Double stranded DNA
 
 
-
-> A *gene* denotes a piece of storage which encodes a single protein. 
+> A *gene* denotes a piece of storage encoding a single protein. 
 
 So genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA which in turn can be translated to proteins. 
 
 ### Interactions between Life Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
-* All forms of life except those who are able to do photosynthesis or use thermal energy are dependent on forms of energy produced by other forms of life. 
-* Besides energy mammals including us humans need extern sources for vitamins, essential amino acids, essential fatty acids, ...
-* Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanently coupled forms of life develop: E.g. mitochondria as cell organelles. 
+* All forms of life except those who are able to do photosynthesis or use other inorganic energy sources (thermal, chemical) are dependent on organic energy sources i.e. forms of energy produced by other forms of life. 
+* Besides energy mammals including us humans need extern organic sources for vitamins, essential amino acids, essential fatty acids, ...
+* Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanently coupled life forms develop: E.g. mitochondria as cell organelles. 
 
 > Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes/machines. Where as viruses can't produce all needed enzymes/machines
 
@@ -140,14 +133,15 @@ As noted all forms of life which encode their entire metabolism are dsDNA based.
 > Forms, that additionally shield their genome by an inner membrane. This inner structure is called nucleus. Forms of life having a nucleus (Latin for kernel) are called *eukaryotes* (naming done in the 60's from eu and karyo=kernel).
 
 * Prokaryotes
-    - Eubacteria
-        * Cyanobacteria 
-        * Bacteria
-    - Archaea
+  - Eubacteria
+    * Cyanobacteria 
+    * Bacteria
+  - Archaea
 * Eukaryotes
+  * Plants, Animals and Fungi all belong to the eurkaryotes. These eukaryotes form multicellular organisms. 
+  * There are many more eukaryotes many of them not forming multicellular organisms and thus living as single cells, these are often referred as *protozoa*. 
 
 
-<p id='intro-to-viruses'>-----</p>
 
 ## Introduction to Viruses
 
@@ -324,27 +318,25 @@ The membrane is spherical and consists of structural proteins which are coated i
         The RBDs are located in the S1 part of the spike protein and bind to the ACE2 receptor. 
 
 
-### Coronaviruses Species
+#### Coronaviruses Species
 [in work]
-#### sars-cov-1
+##### SARS-CoV-1
 Betacoronavirus identified causing Sars in 2003/2004.
 * yields mainly lower respiratory tract infections
-#### sars-cov-2
+##### SARS-CoV-2
 Betacoronavirus identified causing the current Covid-19 pandemics. A focus of this page and many sections contain special notes about features of Sars-CoV-2.  
-### mers-cov
+##### MERS-CoV
 Betacoronavirus identified causing MERS. 
 * infects cells in the deep lungs (bronchi and alveolis) 
 * the natural hosts are dromedary camels
 * main spreading events observed in extremely dry air
-### bovine coronaviruses
+##### Bovine Coronaviruses
 Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
 
 
 
-<p id='life-cycle'>-----</p>
-
 ## Life Cycle 
-As mentioned in [Introduction to Viruses](#intro-to-viruses) the viruses have a multiphase life cycle. Coronaviruses have a two phase life cycle:
+As mentioned in [Introduction to Viruses](#introduction-to-viruses) the viruses have a multiphase life cycle. Coronaviruses have a two phase life cycle:
 * [Virion Phase](#virion-phase)
 * [Metabolic Phase](#metabolic-phase)
 
@@ -378,19 +370,19 @@ The viral metabolism starts once the genetic material of a virion is processed b
 
 #### Metabolism Phase 1: Preparation
 [in work]<br>
-The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Additionally let the ribosomes produce some proteins that diminish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:<br>
-Release RNA -- let the host ribosomes translate two ORFs of the viral genome with frame-shifting---> two large proteins<br> 
---cleave--> pieces of proteins<br> 
---like magnets these pieces self arrange to structures--> 
-* proteins providing the right setting for the phase 2 metabolism e.g. prevent the cells protection mechanisms working<br>
-* polymerase protein (protein capable of transcription of RNA to RNA) <br>
+The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Additionally let the ribosomes produce some proteins that diminish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:
+1. Release RNA -- let the host ribosomes translate two ORFs of the viral genome with frame-shifting---> two large proteins
+2. --cleave--> pieces of proteins
+3. --like magnets these pieces self arrange to structures--> 
+   * proteins providing the right setting for the phase 2 metabolism e.g. prevent the cells protection mechanisms working
+   * polymerase protein (protein capable of transcription of RNA to RNA) 
 
 #### Metabolism Phase 2: Replication
 The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the properties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template mediated by the polymerase protein:<br>
-(+) RNA --transcription--> (-) RNA template<br>
--- transcription--><br>
-*  pieces of subgenomic mRNAs which get translated to mostly structural proteins (N, S, M, E, [HE])
-*  (+) RNA genomes to get packed together with the N proteins to form the nucleocapsids of new virions and thus building up new virions.
+1. (+) RNA --transcription--> (-) RNA template
+2. (-) RNA template -- transcription-->
+   *  pieces of subgenomic mRNAs which get translated to mostly structural proteins (N, S, M, E, [HE])
+   *  (+) RNA genomes to get packed together with the N proteins to form the nucleocapsids of new virions and thus building up new virions.
 
 
 
@@ -480,8 +472,8 @@ The tissue tropism of SARS-CoV-2 is in the section [Tissue Tropism of SARS-CoV-2
 ## Tissue Tropism of Sars-CoV-2
 [in rework to remove errata and to clarify]<br>
 The task determine to habitat of Sars-CoV-2 can be tackled either 
-* a [theoretical constraint based deduction](#constraint-deduction) based on the cell tropism of SARS-CoV-2
-* or by an [empirical deduction](#empirical-reasoning) based on observations of Covid-19 cases.
+* a [theoretical deduction](#constraint-deduction) based on the cell tropism of SARS-CoV-2. The cell tropism in turn is based on in vivo and in vitro experiments and observations.
+* an [empirical deduction](#empirical-reasoning) based on observations of Covid-19 cases.
 
 ### Theoretical Deduction
 In the following the [tissue tropism](#tissue-tropism) of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question. 
@@ -502,18 +494,18 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 
 > Even if the virions can't attach to a cell and/or induce cell entry, phagocytosis can be induced by the cell alone:  e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
-#### orientation matters 
+#### Orientation Matters 
 *  The transmission pathways (mostly airborne and vectorless) yield an initial deposition of the virions on the apical side together with the barrier function of the apical cell layer the virions have  
 * In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
-#### ace2 receptor detection
+#### ACE2 Receptor Detection
 There are two common methods to measure tissue distribution of proteins:
-* ##### antibody staining
+* ##### Antibody Staining
     detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
-* ##### measure mrna
+* ##### Measure mRNA
     Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
-##### caveats of ace2 detection
+##### Caveats of ACE2 Detection
 [in work, verification needed]
 For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. Moreover since coronaviruses have a preference for [aptical tissue sites](#tissue-tropism) the ACE2 should be expressed on the apical sites. 
 * [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
@@ -534,11 +526,11 @@ ACE2 is apically available
     - goblet cells[todo: other cells (goblet) too in rework]
 
 
-### empirical deduction
+### Empirical Deduction
 [in rework: update and a section for each strain]<br>
 Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
 
-#### betacoronavirus type 2 viral load
+#### Betacoronavirus Type 2 Viral Load
 The viral load observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
 * The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
 * For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
@@ -589,13 +581,13 @@ With no metabolism running virions can not move on their own and thus their [mov
 So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
 
 
-#### observed interspecies infections
+#### Observed Interspecies Infections
 * all occurrences where [interspecies jumps](#interspecies-jumps) occurred at least one [interspecies infection](#interspecies-infection) must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
 * Infections of Humans:
     - In the 70s and 80s there were a couple of reports that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
     - The HECV-4408 coronavirus was isolated from a child having diarrhea [Zhang et al](#zhang94)
     - Using RNA sequence data and evolution-models [Dudas et al](#dudas2017) conclude that there are likely hundred of infections per year from camel to humans. 
-#### observed interspecies jumps
+#### Observed Interspecies Jumps
 * jumps: Bovine coronaviruses have jumped to a whole range of hosts: canine, human, wild ruminants, porcine [Bidokhti et al](#bidokhti).
 * jumps to humans, also called [zoonosis](#zoonosis): MERS, Sars-CoV-1 and OC43 are all jumped from animals to humans [refs in work]. 
 
