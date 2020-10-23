@@ -24,7 +24,6 @@
 
 ## Content
 * [Updates](#updates)
-  * [Minor Updates](#minor-updates)
 * [Public Suggestions and Thoughts](#public-suggestions-and-thoughts) <br> 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Covid-19](#covid-19)
@@ -65,7 +64,7 @@
 
 
 ## Updates
-Larger updates here, smaller updates are noted in the section below [Minor Updates](#minor-updates).
+Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 - 15./16.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
