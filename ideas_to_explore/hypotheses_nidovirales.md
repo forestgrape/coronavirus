@@ -1,5 +1,5 @@
 
-# Life Cycle and Habitat of Nidovirales Organism
+# Hypotheses about Nidovirales
 Hypotheses about Nidovirales are discussed. They extend the [page on coronaviruses](./coronavirus.md) from a subject point. In the flavour they belong to the section [Ideas to Explore](./index.md#ideas-to-explore)
 ## Hypotheses in Short
 [in work]
@@ -33,7 +33,6 @@ Notes:
 
 
 # Summarized References
-
 * [Hypotheses in Short](#hypotheses-in-short)
 * [Relevance](#relevance)
 * [Coronaviruses Jumps](#coronaviruses-jumps)
@@ -53,8 +52,11 @@ Notes:
   * [summary t lam](#summary-t-lam)
   * [summary boni,lemey](#summary-bonilemey)
 * [Species Tropism](#species-tropism)
-  * [summary x zhai](#summary-x-zhai)
+  * [summary zhai](#summary-zhai)
   * [summary wu](#summary-wu)
+* [Coronaviruses and Insects](#coronaviruses-and-insects)
+  * [Summary Tengs,Jonassen](#summary-tengsjonassen)
+  * [Summary Watson 2002](#summary-watson-2002)
 
 
 
@@ -135,7 +137,7 @@ Review of distinguishing features of Sars-Cov-2 and theories about the origin:
 #### Methods 
 Serum samples of 218 residents from rural villages in the Yunnan province were were analyzed. The villages are close to the Yanzi and Shitou caves which are inhabited by bats infected with Sars-Cov-like viruses infected bats have been found. The nucleocapsid protein of the bat coronavirus Sars-CoV-Rp3 was used to develop a SARSr-CoV specific ELISA for serosurveillance. 
 #### Results: 
-The sera of 6 person between 45 and 57 years old were seropositiv - corresponding to a positiv rate of 2.7%.
+The sera of 6 person between 45 and 57 years old were seropositive - corresponding to a positive rate of 2.7%.
 
 ### summary corman 14
 **Characterization of a Novel Betacoronavirus Related to Middle East Respiratory Syndrome Coronavirus in European Hedgehogs**
@@ -227,7 +229,7 @@ Frequent recombination events makes genome analysis challenging. Regions likely 
 
 ## Species Tropism
 
-### summary x zhai
+### summary zhai
 **Comparison of Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein Binding to ACE2 Receptors from Human, Pets, Farm Animals, and Putative Intermediate Hosts**
 #### Methods
 * The binding of SARS-CoV-2 spikes to ACE 2 receptors of different animals is predicted based on X-ray structures of human ACE2 bound to the receptor-binding domain (RBD) of the spike protein (S)
@@ -243,3 +245,57 @@ Selection of 82 representative ACE2 sequences from the 1000 sequences with the c
 #### Results
 The ACE 2 receptors of primates and cat-like ACE are predicted to bind well to the SARS-2-ACE2-RBD.
 
+
+## Coronaviruses and Insects
+
+### Summary Tengs,Jonassen
+**A mobile genetic element in the SARS-CoV-2 genome is shared wit multiple insect species**
+#### Review of s2m knowledge
+* s2m is a 41-43 nucleotide element always occuring at the 3’ of genomes
+* the s2m hairpin-forming element
+* s2m occurrence in viruses in patchy but if occurring the element is highly conserved.
+* s2m is the only known example of a genetic element to move between distantly related viruses
+* s2m is known to occur in Sarbecoviruses 
+* s2m is a well conserved both in sequence and secondary structure
+* unknown function
+#### Methods
+* all known s2m genotypes are searched using BLASTN in:
+  * the entire virus section of GenBank to find out the presence in viruses
+  * TSA and whole genome shotgun contigs databases to find out the presence in insects
+* phylogenetic analysis using
+  * ClustalW for aligning
+  * MEGA X for maxiumum likelihood
+  * James-Taylor-Thornton (JTT) substitution model
+#### Results 
+* 5553 s2m accessions
+  * 3984 in SARS-Cov-2 strains
+  * two similar sequences in virome of the spider species Tetragnatha maxillosa
+  * winder moth and bagworm moth
+* G>U mutation in position 31 which is only observed in the pandemic SARS-CoV-2 strains and in no other accessions s2m sequences
+#### Discussion
+* 10 base deletion inside s2m observed during passaging in Vero cell (experiments carried out by a different research group)
+
+
+
+### Summary Watson 2002
+**Mechanical Transmission of Turkey Coronavirus by Domestic Houseflies (Musca domestica Linnaeaus)**
+Dawn Calibeo-Hayes, ..., D Wes Watson
+
+#### Methods
+* Turkey Coronaviruses (TCV) propagated in embryonated turkey eggs was used to prepare TCV inoculum.
+* The groups flies were pooled. TCV in determined by inoculation of embroyonated turkey eggs and detection of TCV antigens 3 days later using immunofluorescent antibody technique
+* Houseflies from a colony kept at North Carolina State University, 5 days flies used for the experiments. Flies were fed either with TCV innoculum (TCV exposed) or DMEM (sham exposed). 
+* White Turkeys. Reared to an age of 7 days
+
+#### Experiment 1
+* Goal: Survival of TCV in fly crops
+* Method: At 0.5, 1, 3, 6, 9 and 12 hours after the flies had consumed the innoculum the fly crops were investigated.
+* Result: all fly crops contained infectious TCV after 6 hours after feeding. Some after 9 hours.
+#### Experiment 2
+* Goal: Survival of TCV in fly intestines 
+* Method: as Experiment 1 but intestines were investigaed
+* Result: no infectious TCV were present at any time in the intestines. Suggesting TCV were destroyed. 
+#### Experiment 3
+* Goal: Check if turkeys can get infected from eating TCV exposed houseflies
+* Method: 0 (control),1,10 respectively 100 houseflies were fed to turkeys 3 hours after the flies consumed TCV inoculum. Infection of turkeys was determined directly by the presence of TCV antigens and indirectly by determine seroconversion. 
+* Result: Some of the turkeys fed with only 1 fly were positive in antigen and seroconversion. Most of the turkeys fed with 10 or 100 flies were positive for both tests.
