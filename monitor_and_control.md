@@ -228,20 +228,25 @@ The history of prohibition dates back nearly as long as history itself has been 
 
 
 ### Corona Conform Schooling
+> **Corrected** 
+ 
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
-* Evidence: In Israel the reopening of schools seems to have contributed to increased spread [citation in work] 
+* Evidence: **Correction** ~~In Israel the reopening of schools seems to have contributed to increased spread~~ There have been infection clusters in high schools (which have been probably caused by infected teachers) but I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools.
+  > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. More in work. 
 * ThinkThrough:
-  * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams. 
-  * Many people in the same room
-  * Many face-to-face talking situations with many different people
-  * Children all come from different families and inside families protection is hardly doable. So person who want/need to protect cannot do so. 
+  * Children are not main spreaders and if then only with droplet transmission which can be prevented. 
+  * However:
+    * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams. 
+    * Many people in the same room
+    * Many face-to-face talking situations with many different people
+    * Children all come from different families and inside families protection is hardly doable. So person who want/need to protect cannot do so. 
 * Experiences: 
-  * Closing schools as part of lock-downs worked to reduce local infection paths in spring 2020 in many countries. However school closures can have a negative impact on the learning experience, on the pupils and the parents/families. 
-  * In many schools mask wearing is common, negative comments are few
+  * Closing schools were part of lock-downs in spring 2020 in many countries, but what effect if at all they had is unclear. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families. 
+  * In some schools mask wearing is common, negative comments are few
   * Project based and individual learning are a common teaching approaches and known to work. 
-* Comment: In times with high Covid incidence instead of complete closure, transmission can be reduced:
+* Comment: Children seem not to transmit Covid-19 well and if then only droplet and not aerosol transmission. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even be prevented:
   * Masks when face-to-face talking e.g. in breaks
-  * No Exams, Projects can be graded
+  * Fewer Exams, Projects can be graded
     * Exams can cause stress. With stress, coronaviruses get forgotten both by the immune system and oneself.  
     * With common cold like symptoms, one  usually doesn't skip an exam. In Covid times it is important to stay home. On the other hand, skipping an exam on purpose is also easy, some respiratory symptom will pop up. 
   * No talking exercises and more focus on written tasks. 
