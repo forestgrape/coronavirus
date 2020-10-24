@@ -66,7 +66,10 @@
 ## Updates
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 - 15./16.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
+    > **24.10.** Part of the early-updates above is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a role in the (current) Covid spread, at least not while protection measures are in place. Argumentation in work. 
+
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
+    
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
@@ -86,6 +89,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 ### Minor Updates
+- 24.10. Completed&added&linked summaries regarding insects for the section [Backtracing SARS-1/2](#backtracing-sars-cov-12)
 - 20-23.10. Clarifications and corrections across the page with a focus on the sections Transmission, Immune System and Coronaviruses.
 - 18.10. 12 am Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./transmission.md#summary-airborne-transmission)). More on the topic in work. 
 - 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) and testing priorities
@@ -286,8 +290,8 @@ Summaries and references this findings are based on are added at the very bottom
     - Due to cross immune reactions against coronaviruses, a group of vertebrates likely can be an evolutionary habitat to only one coronavirus species. Cattle have BCoVs, pigs have TEGV and camels MERS. Sheep and goats are still available to provide a habitat. 
     - MERS is genetically quite close to SARS-CoVs, indicating the natural hosts of SARS-like are quite close natural hosts of MERS both genetically and in lifestyle. 
 4. Insects play a role in the natural habitat and life cycle namely they close the cycle from feces to oral uptake by the mammalian hosts. Two possibilities:
-    * the natural life cycle of SARS-like virus entities is alternating between mammals and insects. In this scenario it is even possible that insects are the hosts where the main virus evolution takes place (more likely)
-    * insect act as mechanical vectors and transport the viruses but no replication takes place (less likely)
+    * the natural life cycle of SARS-like virus entities is alternating between mammals and insects. In this scenario it is even possible that insects are the hosts where the main virus evolution takes place (more likely) [Summary Tengs,Jonassen](./ideas_to_explore/hypotheses_nidovirales.md#summary-tengs,jonassen)
+    * insect act as mechanical vectors and transport the viruses but no replication takes place (less likely) [Summary Watson 2002](ideas_to_explore/hypotheses_nidovirales.md#summary-watson-2002)
 
     Evidence:
     * animals tested positive in markets for SARS-like are insectivores:
