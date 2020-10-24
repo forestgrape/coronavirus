@@ -108,7 +108,7 @@ There are many degrees of specificity, the following categories are just a coars
         
     
 
-#### Variable Immune System
+#### Trained Immune System
 A collection of immune cells which can target substances which have been learned to be unwanted, where unwanted can mean: 
 - foreign substances
 - cells that are considered out of order
@@ -120,14 +120,17 @@ A collection of immune cells which can target substances which have been learned
 * Antibodies: bind to specific proteins and thereby inactivate or mark them
 * Trained T cells
 
-##### How it works
+##### How training works
 [in work, to be completed and to be checked]
-1. Pathogens at some point yield decay products (e.g. SARS-Cov-2 infected cells usually die). 
-2. The decay products then analyzed by the immune system for filtering out decay products already known.
-3. Most of the decay products then are recognized as known (either known foreign or self). The unknown substances, are presented to a special class of immune cells, if a cell turns to be capable to bind this new substance, the cell is selected. 
-4. It is now checked if the selected cell does *not* bind to self substances. If the cell does not bind self, the cell is capable to specifically produce binding elements to the new substance. 
-    > The binding elements are called *antibodies* and the foreign that they bind is called *antigen*.
-5. monoclonal replication is induced once more if the new foreign substance are seen. 
+1. Pathogens at some point yield decay particles (e.g. SARS-Cov-2 infected cells usually die). 
+2. The decay particles then analyzed by the immune system for filtering out decay particles already known.
+  * The decay particles recognized as known (self or known foreign) are not interesting and disposed
+  * The unknown particles, are presented to a special class of immune cells, if a cell turns to be capable to bind this new substance, the cell is selected. 
+3. It is now checked if the selected cell does *not* bind to self substances. If the cell does *not* bind self, the cell is capable to specifically produce binding elements to the new substance. 
+4. monoclonal replication is induced once more if the new foreign particles are seen. 
+
+> The binding elements are called *antibodies* and the particles they bind are called *antigens*.
+
 
 
 
