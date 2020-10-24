@@ -173,7 +173,7 @@ To reduce spread isolation/home-lockdown is a radical measure. The more is known
     - indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at 
     risk.
 
-    Avoiding spread opportunities e.g. both indoor and crowded public spaces is important however.
+    Preventing spread opportunities e.g. both indoor and crowded public spaces is crucial however.
 
 Isolation/stay-at-home may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
 
@@ -190,9 +190,9 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 * ###### Experiences
   Experiences with measures in place. Are there experiences and if so what are they?
 * ###### Narrowing
-  Narrowing of Life. How individuals experience the measures? Are there costs associated e.g. school children missing education. Financial costs (state founded support assumed)
+  Narrowing of Life. How individuals experience the measures? Are there costs associated e.g. school children missing education. Financial costs (state support assumed).
 * ###### Comment
-  The points above are summarized to a subjective rating/comment and a recommendation. The rating is subjective since it relies on the subjective weighting.
+  The points above are summarized to a subjective rating/comment and a recommendation. The overall rating is subjective since it relies on  subjective weighting and subjective rating of the single points. 
 
 
 ### Slow Down of Nightlife
@@ -207,12 +207,16 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
     * Denmark (15.9.20, closing at 22 pm in risk regions, recommendation to reduce social contact and ending private parties at 10 pm)
     * Spain (14.8.20, closing of nightclubs; bars and restaurants close at 1 am; no drinking on the streets)
   
-    Two weeks after this measures the incidence of Covid cases flattened in all the above countries. Denmark and Greece implemented this measures at low Covid incidences. 
+    Two weeks after this measures the incidence of Covid cases flattened in all the above countries. 
+    ##### Remark
+    Denmark and Greece implemented this measures at low Covid incidences. Spain introduced additional measures later on. 
 * Comment: In pandemic times a closure e.g. at 12 pm like implemented in Greece is reasonable; more strict depending on the situation e.g. risk of hospital overflow.  
 
-> I recently read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive case and the guest list was faulty. Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the body is busy the next day repairing party-damage and will not fight viruses. The latter is double bad:
+> I recently read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive guest combined with a faulty guest list. 
+> 
+> Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the immune system is burdened the next day repairing party-damage and may not fight viruses. This is double bad:
 >   1. disease progression: longer asymptomatic phase and higher viral loads
->   2. feeling unwell the next day(s) is not uncommon and so possible Covid symptoms may be attributed to the party night.
+>   2. feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore not recognized.
 
 
 ### Reduce Alcohol Consumption
@@ -238,14 +242,14 @@ Measure regarding schools can reach from complete closure to mild measures such 
 * Comment: In times with high Covid incidence instead of complete closure, transmission can be reduced:
   * Masks when face-to-face talking e.g. in breaks
   * No Exams, Projects can be graded
-    * Exams can cause stress. With stress coronaviruses get forgotten both by the immune system and oneself.  
-    * With common cold like symptoms, one  usually doesn't skip an exam. In Covid times it is important to stay home. On the other hand, skip an exam on purpose is also easy, some respiratory symptom will pop up. 
+    * Exams can cause stress. With stress, coronaviruses get forgotten both by the immune system and oneself.  
+    * With common cold like symptoms, one  usually doesn't skip an exam. In Covid times it is important to stay home. On the other hand, skipping an exam on purpose is also easy, some respiratory symptom will pop up. 
   * No talking exercises and more focus on written tasks. 
     * Showing educational movies. 
-    * A good time to learn respectively teach programming and other computer skills. On computer skills there are many good self learning resources. 
+    * A good time to learn respectively teach programming and other computer skills. For computer skills there are many good self learning resources. 
   * More  individual than group work. If group work, then the groups should not change daily (weekly should be ok)
   * Outdoor sports
-  * Relaxed presence requirements. E.g. students/pupils can be given tasks and the tasks can be done remotely. Projects can be rescheduled e.g. the  
+  * Relaxed presence requirements. E.g. students/pupils can be given tasks and the tasks can be done remotely. Projects can be rescheduled and started earlier. 
   * Library like settings/managed self-learning can be an alternative to closures: students just come to learn/work/read and somebody is there to help when needed (teacher - student protection measures may work better than student-student). Pupils/students can come to read, even if it's reading the favorite book.
 
 <!--
@@ -282,14 +286,14 @@ Virion decay happens everywhere in the air, in the body, in water. Depending on 
 * virions have no repair mechanism since they don't have a metabolism
 
 Process and situations virions decay occurs:
-- sunlight inactivates virions<br>
+- ##### decay by sunlight
     mainly the UV part destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin).
-- heat<br>
+- ##### decay by heat 
     particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan et al 2011](#chan).
-- disintegration<br>
+- ##### disintegration
     * digestive enzymes from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary disintegrate the envelope
     * soap destroys the lipid envelope and renders virions uninfectable
-- decay<br>
+- ##### decay by time passing
     * single stranded RNA is unstable and thus even under optimal conditions virions have a probability to decay
     
 
@@ -312,11 +316,11 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
 From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
 
 ### Monitor Prevalence
-To adjust the measures and to communicate these it is important to monitor different incidence rates. Ideally these are taken near daily, else at least weekly. Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring.  
+To adjust the measures and to communicate these it is important to monitor different incidence rates. Ideally these are taken near daily, else at least weekly. Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring.  
 
 #### Helpful Information
 1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
-    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19 and so one should stay home with any kind of respiratory symptoms. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the transmissions. ([Example Calculation of Spread](#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine))
+    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the transmissions. ([Example Calculation of Spread](#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine))
 2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
 3. Other respiratory diseases: influenza and common colds should be monitored too:
   * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
@@ -325,17 +329,17 @@ To adjust the measures and to communicate these it is important to monitor diffe
 #### Testing Priorities at High Incidence 
 1. Testing of risk patients. Reason: Appropriate treatment.  
 2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
-3. How many people with respiratory disease symptoms have Covid-19.
+3. How many people with respiratory disease symptoms have Covid-19. Reason: [Helpful Information](#helpful-information)
 4. Tests to do contact tracing. Reason: Break infection chains
-5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. 
-6. Monitoring respiratory diseases: influenza and common colds. Reason: Knowing what's around for diagnosis
-7. Tests for travel permissions, quarantine cancel and so on
+5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. Reason: [Helpful Information](#helpful-information)
+6. Monitoring respiratory diseases: influenza and common colds. Reason: [Helpful Information](#helpful-information)
+7. Tests for travel permissions, quarantine cancel and so on.
     
 #### Testing Priorities at Low Incidence 
 1. Testing of risk patients. Reason: An appropriate treatment from early on.
 2. Health care workers and other groups with contact to risk groups
 3. Tests to do contact tracing and quarantine cancel
-4. Tests to estimate the overall incidence (travel test below can give an indication). Reason: When the incidence is high, a different tactics is appropriate.
+4. Tests to estimate the overall incidence (travel test below can give an indication). Reason: When the incidence is high, a different tactics for controlling can be appropriate.
 5. Tests for travel permissions and so on. 
 
 
