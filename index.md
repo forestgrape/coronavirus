@@ -665,13 +665,13 @@ Careful handling:
 reduce spread -> reduce opening and closing of alveoli i.e. deep breathing [[Larsson](#larsson)][to be confirmed and checked how relevant this is for pathogenesis][particle based simulation may be possible]
 - patients should breath as calm as possible
 - slightly increased pressure may reduce opening and closing of alveoli [to be confirmed]
-- ventilators possibly reduce the spread of particles [[Lindstedt and colleagues](#lindstedt)]
+- ventilators possibly reduce the spread of particles ([Vents and Particle Spread](#mechanical-ventilators-and-particles-spread))
 
 #### Mechanical Ventilators and Particles Spread
 "Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients" by [Lindstedt and colleagues](#lindstedt).  
 To be investigated: 
-* it could mean that they shed less viruses and less viruses are distributed throughout the lungs
-* it could mean that more viruses stay in the lungs since there is less clearance. However this is unlikely since the major clearance occurs through mucus. 
+* it could mean that they shed less viruses and less viruses are distributed throughout the lungs. *Likely*: since only part of the air is exhaled and most stays in the lungs and there are many brochni and alveolis the air can go back
+* it could mean that more viruses stay in the lungs since there is less clearance. *Unlikely*:  since the major clearance occurs through mucus. 
 
 
 
@@ -684,7 +684,8 @@ Just indications are listened and no statistical testing has been done. Some tim
 #### Factors Associated to severe Covid-19:
 
 * [Zhong et al.](#zhong) noted characteristics of hospital admitted Covid-19 patients which are grouped into mild, severe and fatal cases. 
-The numbers in parenthesis are observation rates in % of (fatal cases, severe cases(including fatal), mild hospitalized)
+The numbers in parenthesis are 
+    * observation rates in % of (fatal cases, severe cases(including fatal), mild hospitalized)
 
     strong relation:
     - Chronic obstructive pulmonary disease (10.4 vs 3.5 vs 0.6)
