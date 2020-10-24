@@ -10,17 +10,14 @@ Various aspects of coronaviruses are described with a focus on understanding. We
   * [Interactions between Life Forms](#interactions-between-life-forms)
   * [Membrane Forming Life Forms](#membrane-forming-life-forms)
 * [Introduction to Viruses](#introduction-to-viruses)
+  * [Life Cycle](#life-cycle)
   * [Virus Classification](#virus-classification)
   * [Virus Entities](#virus-entities)
-* [Movement of Virions](#movement-of-virions)
-  * [Swim with the Tide](#swim-with-the-tide)
-  * [Movement within a host](#movement-within-a-host)
-  * [Movement between hosts](#movement-between-hosts)
-  * [Travel Probabilities](#travel-probabilities)
+  * [Movement of Virions](#movement-of-virions)
 * [Introduction to Coronaviruses](#introduction-to-coronaviruses)
   * [Nidovirales](#nidovirales)
   * [Coronaviruses](#coronaviruses)
-* [Life Cycle](#life-cycle)
+* [Coronavirus Life Cycle](#coronavirus-life-cycle)
   * [Virion Phase](#virion-phase)
   * [Metabolic Phase](#metabolic-phase)
 * [Tropism](#tropism)
@@ -51,7 +48,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 ### Life Forms
 
 > ###### Life Form
-> <span id='form-of-life'> A *form of life* or *life form* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called *progeny* or *next generation*. </span>
+> <span id='form-of-life'> A *life form* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called *progeny* or *next generation*. </span>
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
@@ -139,8 +136,8 @@ As noted all forms of life which encode their entire metabolism are dsDNA based.
     * Bacteria
   - Archaea
 * Eukaryotes
-  * Plants, Animals and Fungi all belong to the eurkaryotes. These eukaryotes form multicellular organisms. 
-  * There are many more eukaryotes many of them not forming multicellular organisms and thus living as single cells, these are often referred as *protozoa*. 
+  * Plants, Animals and Fungi all belong to the eukaryotes. These eukaryotes form multicellular organisms. 
+  * There are many more eukaryotes, many of them not forming multicellular organisms and thus living as single cells. These are called *protozoa*. 
 
 
 
@@ -148,7 +145,7 @@ As noted all forms of life which encode their entire metabolism are dsDNA based.
 
 > <span id='virus'> A *virus* is a form of life, that can't produce all necessary enzymes for its replication. </span> 
 
-So viruses have to integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](#cell-forming-life) and the metabolisms is inside the cell, viruses need to be within cells.
+Viruses integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](#cell-forming-life) and the metabolisms is inside the cell, viruses need to be within cells to have a metabolism running.
 
 > ###### Infected Cell
 > <span id='infected-cell'> A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism. </span>
@@ -160,23 +157,27 @@ These can mean that the virus is replicating inside the cell. A cell is also cal
 
 So a host cell is always an infected cell. 
 
-Most cells don't live forever. In multicellular organisms most cells live fare shorter than the organism itself and even most cell lines don't survive. Only few cells have the chance of being part of the cells giving raise to descendants [in work]. If virus infected, cells often die even faster. Thus viruses need to jump to next cells. To achieve this, most viruses, including coronaviruses, have a 2 phase [life cycle](#life-cycle):
-* Virus phase: Produce proteins and ultimately progeny by the using structures, resources and enzymes from the cell infected.
+Most cells don't live forever. In multicellular organisms most cells live fare shorter than the organism itself and even most cell lines don't survive and only few cells have the chance of being part of the cells giving raise to descendants [Organisms](#). If virus infected, cells often die even faster. Thus viruses need to jump to next cells. To achieve this, most viruses, including coronaviruses, have a 2 phase life cycle.
+
+### Life Cycle
 * Virion phase: Travel, wait and upon match with an [infectable cell](#infectable-cell) induce infection. 
+* Metabolic phase: Produce proteins and ultimately progeny by the using structures, resources and enzymes from the cell infected.
 
 > <span id='virion'> A _virion_ is form of a virus outside a cell and ready to infect a cell. </span>
 
-Virions are similar to seeds of plants: They are dormant and wait for activation. Virions don't have a metabolism running. However they have sticky proteins which can get attached to cells. Once activated/primed cell fusion is initiated by using spring loaded energy. 
+Virions are similar to seeds of plants: They are dormant and wait for activation. Virions don't have a metabolism running. However they evolved to induce infection on the right circumstances. to be capable have sticky proteins which can get attached to cells. Once activated/primed cell fusion is initiated by using spring loaded energy. 
 
 > <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
 
-Once a virus infects cells, it changes the cell's metabolism. To survive to produce rough copies of itself. Therefore viruses are dependent on the host cells. Long-term surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
+Once a virus infects cells, it changes metabolism of the cell. For surviving a virus hijacks the cell's metabolism to produce new virions. 
 
 > <span id='infected-object'> An object is called _infected_ by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an organism. There are constraints on a [object to be infectable](#tropism-of-viruses).</span> 
 
 So an organism is infected if it has some cells that are [infected](#infected-cell).
 
 > <span id='infectable-object'> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.</span>
+
+Therefore viruses are dependent on the host cells. Long-term surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
 
 ### Virus Classification
@@ -187,18 +188,19 @@ As defined all [forms of life](#form-of-life) which don't encode their entire me
 
 ### Virus Entities
 [in work and experimental]
-Similar as single cells organize by communication and share of resources to form an an organism, viruses infecting an organism can organize to form a virus-entity or virus-organism. 
+Often life forms specialize, organize and work together to form a more capable entity and thus the overall fitness is increased. Inside an organism the units communicate and share resources. Sometime the units keep some independence and can go separate paths again. However many forms of life on todays earth e.g. plants, fungi and animals, are organisms:
 
-Often forms of life organize and specialize to increase fitness and form a more capable entity called organism. For many questions regarding organism are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
+> ###### Organism
+> Start out as a single cell with replicates and at some point the replicates start to differentiate into specialized cells having different appearances and tasks. 
+
+For many questions, organisms are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
 
 Similarly for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviors in different cells and upon different situations:
 * DNA viruses can in theory encode the same differentiation mechanisms as eukaryotic cells 
 * RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#tropism-of-viruses) in different situations. 
-<!--
-> A virus entity denotes all viruses contributing to a viral infection in an organism.--> 
 
-> ##### Virus Entity
-> <span id='virus-entity'>A *Virus Entity/Organism* denotes all viruses in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*. </span>
+> ###### Virus Entity
+> A *Virus Entity or Organism* denotes all viruses in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*. 
 
 Similar to the different cells in multicellular organism only few viruses in a virus entity are likely to infect new hosts and thereby form a new entity. 
 
@@ -217,12 +219,12 @@ In outside living vertebrate hosts, the typical life cycle of a coronavirus enti
 -->
 
 
-<p id='movement-of-virions'></p>
 
-## Movement of Virions
+
+### Movement of Virions
 Once virions are released from a cell the virions are moved by whatever movements are in their surroundings.   
 
-### Swim with the Tide
+#### Swim with the Tide
 All forms of life on earth are water based. Both protein and RNA/DNA synthesis occur in water. So virions are pro therefore start out their journey in watery fluids, often the cytoplasm of a cell. Upon release they are exposed to whatever substances there are around. For most viruses their virions will always be dissolved in watery fluids and will not survive being dissolved in other fluids such as alcohol or air. 
 * __Fluid dissolved in__:
     - Salty water in oceans: Water in the oceans is also likely where life and RNA viruses as an early form of life developed and still contains a huge number of virions. 
@@ -233,7 +235,7 @@ All forms of life on earth are water based. Both protein and RNA/DNA synthesis o
 * __Material attached to__: These can be any solid material e.g. a part of living organism or any kind of non living matter. The movement of virions follows the movement of the materials attached to. These particles are in turn dissolved in fluids, mostly water, or attached to other particles. 
 
 
-### Movement within a host
+#### Movement within a Host
 Often virions get moved within a host. Some even evolved not to leave the host organism at all. Within a host the movement of virions depends on the location they are released and the kind of material they are attached to: 
 - movements with fluid flows:
     * the blood flow if the virion is in the bloodstream
@@ -250,26 +252,34 @@ Often virions get moved within a host. Some even evolved not to leave the host o
 <!--td move in out-->
 
 
-### Movement between hosts
+#### Movement between hosts
 [in work]
 Many forms of life cannot move well on their own: Plants, bacteria and fungi. In the oceans this is less a problem thanks to the currents. On land however, all forms of life with no ability to move have the challenge to spread and genetically interact. The main options are the same for them all: Being carried by wind, water or moving organisms. Virions have to rely on this options to spread through a host populations:
 
-* __Moveable Organism__: This is mostly the host where the virus was built but it can be an animal  primarily carrying the virion called a carrier. 
+* __Moveable Organism__: This is often the host where the virus was built but it can be an animal primarily transporting the virion called a transporter. 
 
-    > <span id='carrier'> A _carrier for a virus_ is an organism which is important for its carrier function in the life cycle of a virus.</span>
+    > ###### Transporter
+    > A *transporter* for a virus is an organism which is important for its transport function in the life cycle of a virus.
 
-    When the carrier moves the virions move with it. The farther, faster and the more possible hosts at new location the better for the virus to distribute. Optimal transportation are migrating and/or fare flying animals: birds and bats. The usage of horses and the inventions of trains, cars and airplanes made us humans new optimal hosts. Jetting around the world from city to city is optimal for viruses since: fast travel to a new set of hosts. 
-    - Movement induced by the organism:
+    When the transporter moves the virions move with it. The farther, faster and the more possible hosts at new location the better for the virus to distribute. Optimal transportation are migrating and/or fare flying animals: flying insects, birds and bats. The usage of horses and the inventions of trains, cars and airplanes made us humans new optimal hosts. Jetting around the world from city to city is optimal for viruses since: fast travel to a new set of hosts. 
 
-* __Wind__: Wind movement has challenges:
-    - The movements induced by wind are random in the sense that evolutionary adaption to directional movement is hardly possible. <br>
-    => Organisms relying on wind usually compensate this randomness often with huge numbers. As can be seen each season by the pollen powdering the landscape.  
+<!--
+- Movement induced by the organism:-->
+
+* __Wind__: Many plants rely on wind for spread. Some viruses too, but not many since wind driven movement has challenges:
+    - The movements induced by wind are random in the sense that evolutionary adaption to directional movement is hardly possible.
+      => Organisms relying on wind usually compensate this randomness often with huge numbers. As can be seen each season by the pollen powdering the landscape.  
     - The air contains reactive oxygen and sunlight exposure is frequent. Therefore genetic material needs to be well protected.
-    - Only tiny particles or small particles with large surfaces resist gravity and are moved by the winds. 
+    - Particles need to have large surface in comparison to their mass, else gravity will ground them (explained in [Objects Moving in the Air](#objects-moving-in-the-air)). Except for very small particles only dry particles have a surface large enough to fly. 
 
-    Different form of lives solved these challenges: 
+    Different life forms solved these challenges: 
     * Many plants rely on wind both for genetic recombination and spread. 
-    * Viruses rarely can spread with the winds since virions usually don't stay intact when dried. Exception: smallpox. Coronaviruses may do so in theory.   
+    * Viruses rarely spread with the winds, since 
+      * virions usually don't stay intact when dried. 
+      * virions rely on host and so usually they cannot produce large enough numbers
+      * viruses since they don't encode their entire metabolism have fewer options to optimize for stability and survive the harsh life condition in the air. 
+  
+      Exception: smallpox. Coronaviruses may do so in theory.    
 
 * __Water__: 
     Water movement is directional to the oceans and particles need to be "fished out" not to end up there. One of the few escape options are drinking animals. 
@@ -277,7 +287,7 @@ Many forms of life cannot move well on their own: Plants, bacteria and fungi. In
     * Viruses infecting animals rely on water. Animals drinking brings them directly to possible hosts. 
 
 
-### Travel Probabilities
+#### Travel Probabilities
 Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
 - [reach a host]  
 - [reach a tissue]
@@ -336,13 +346,13 @@ Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in
 
 
 
-## Life Cycle 
+## Coronavirus Life Cycle 
 As mentioned in [Introduction to Viruses](#introduction-to-viruses) the viruses have a multiphase life cycle. Coronaviruses have a two phase life cycle:
 * [Virion Phase](#virion-phase)
 * [Metabolic Phase](#metabolic-phase)
 
 ### Virion Phase
-Travel and Wait for Activation<br>
+Travel and Wait for Activation.
 Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
 
 #### Virion Travel 
@@ -393,7 +403,8 @@ The metabolism can produce new virions that are released from the cell. The prop
 ## Tropism 
 > <span id='tropism'>*Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.</span>
 
-> In literature, the term tropism of viruses is sometimes used more narrowly: which cells and tissues are susceptible to infection or in which an infection is observed. Here, for observed infections the term habitat is used. 
+<!--
+> In literature, the term tropism of viruses often used only in the context of tissues: in which tissues infections are observed. Here, for observed infections the term habitat is used. -->
 
 Questions relevant for the tropism of viruses:
 * To which receptors under which conditions the virions attach? 
@@ -419,7 +430,7 @@ The general concepts are outlined in the section [tropism of viruses](#tropism-o
 
 
 ### Tropism Virion Phase
-Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on the cell membrane and proteases available. 
+Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on cell membranes and proteases available in the environment around the cell. 
 
 #### Virion Attachment and Activation
 * Environment around the cell
@@ -429,11 +440,13 @@ Plant seeds evolved first to travel and then to be activated under favorable con
   
 
 ### Metabolic Phase Tropism
-[in work: incomplete and citations/confirmation in work]<br>
-> The tropism in the virion phase is better known than the tropism in the metabolic phase, since the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells expression the right receptors. To investigate the metabolic phase, ideally one could look into the cells. 
+[in work: incomplete and citations/confirmation in work]
 
-* The cell environment shouldn't deactivate the virus or alarming the immune system to do so.
-* The cell should be able to produce lots of virions and thus should have a capable protein producing metabolism.
+> The tropism in the virion phase is better known than the tropism in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells of laboratory cell-lines, expression the right receptors. To investigate the metabolic phase, ideally one could look into the cells. 
+
+
+* The cell environment shouldn't deactivate the virus or alarming the immune system.
+* The cell should be able to produce many virions and thus should have a capable metabolism.
 
 #### Metabolic Phase Tropism of Coronaviruses
 * ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
@@ -445,13 +458,13 @@ Plant seeds evolved first to travel and then to be activated under favorable con
 
 The cell tropism is the combination of the [virion tropism](#tropism-virion-phase) which determines cell entry and the [tropism in the metabolic phase](#tropism-metabolic-phase) which determines the changes in the cells metabolism induced upon viral entry. 
 
-For viruses optimized to its environment, only cells involved in the survival of the virus strain are infected:
+Viruses optimized to their environment often infect only cells involved in the survival of the virus strain:
 * cell used as entry point. For coronaviruses these are often cells on the apical epithelial layer of respiratory tract. 
 * cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. Often these are secretory or ciliated cells in the respiratory tract.
 * cells relevant to leave a host. 
     - Often these are cells in the intestine or the kidney. 
     - For indoor living hosts these are often in the upper respiratory tract. 
-* cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dentritic and T cells) and induce aptosis. 
+* cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis. 
 
 
 
@@ -462,13 +475,10 @@ The tissue tropism depends on:
 * Local Immune system
 
 
-* coronaviruses are often is tissues with large apical surface and the [virions are released](#orientation-matters) again on the apical side to spread via the covering fluids. 
-* coronaviruses are to big to diffuse efficiently inside tissues [to verify].
-
-The tissue tropism of SARS-CoV-2 is in the section [Tissue Tropism of SARS-CoV-2](#tissue-tropism-of-sars-cov-2)
+* Coronaviruses are often is tissues with large apical surface and the [virions are released](#orientation-matters) again on the apical side to spread via the covering fluids. 
+* Coronaviruses are to big to diffuse efficiently inside tissues [to verify].
 
 
----
 
 ## Tissue Tropism of Sars-CoV-2
 [in rework to remove errata and to clarify]<br>
@@ -543,7 +553,7 @@ That in swab tests there are viruses in the nose and the mouth can be either cau
 
 ## Habitat
 [in rework]
-As outlined in [tropism](#tropism) there is a variety of conditions for a virus to start to metabolism and even more too successfully replicate. These environments form the habitat of a virus strain:
+As outlined in the section [tropism](#tropism) there is a variety of conditions for a virus to start to metabolism and even more too successfully replicate. These environments form the habitat of a virus strain:
 ><span id='habitat'> The *Habitat* of a virus are the locations which are frequently infected: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs and the host organism: us humans </span>
 
 ### Organisms Habitat aka Hosts
@@ -565,7 +575,7 @@ The new habitat can be:
 Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
 
 ### Infecting New Species
-With no metabolism running virions can not move on their own and thus their [movement](#movement-of-virions) is not directed and thus often non hosts are reached. If a virus strain reaches organism of some species, there are several cases <!--[in programming languages: switch(animal) or animal match]-->:
+With no metabolism running virions can not move on their own and so they can't steer their [movement](#movement-of-virions) to only reach their hosts. If a virus strain reaches organism of some species, there are several cases <!--[in programming languages: switch(animal)/animal match]-->:
 * the organism reached is a host -> continue life cycle 
 * the organism reached is not a host:
     - it is not infectable -> break
@@ -595,7 +605,8 @@ So an interspecies infection denotes a transmission without spread in the new sp
 
 
 ## Evolution and Adaption
-[in work]<br>
+[in work]
+
 Coronaviruses can adapt fast to changed or new environments if given time and opportunity. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome. 
 The genetic evolution of coronaviruses is fast compared to other [forms of life](#form-of-life) because:
 * a short average generation-time (only a few hours [to be confirmed]) 
@@ -605,7 +616,7 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 * Genome is [encoded in RNA and not in DNA](#lifetime-storage) 
 * large population size both within hosts and the number of infected hosts (for Sars-CoV-2)
 
-Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the mentioned recombinations and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occuring on todays earth, possibly even the largest[to check].  
+Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the recombination and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occurring on todays earth, possibly even the largest[to check].  
 [in work]
 
 ### Conserved Patterns
