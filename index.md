@@ -66,7 +66,7 @@
 ## Updates
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
--  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a relevant role in the past and current Covid spread, at least not while protection measures are in place. Argumentation in work.
+-  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a major role in the past (and current) Covid spread while protection measures are in place. Caveat: most investigations were done in summer climate. New section in work.
   
 -  15./16.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
@@ -230,7 +230,6 @@ Controlling SARS-CoV-2 is an individual, a local and global task. The better eve
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
 * Giving infections time to cure. It is known for various virus infections that they can become persistent.
 * Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects are hardly known and the more people there are infected the larger is the damage SARS-2 is causing.
-* Choosing settings/environments supporting a healthy lifestyles.  
 * Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is crucial, which detects infections early, induces symptoms and clears them. 
 
 
@@ -247,15 +246,11 @@ and avoid anything that weakens the immune system:
 Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
-
-
 # Ideas to Explore
 * [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
 * [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
-
-
 
 ## Backtracing Sars-CoV-1/2
 [in work]
@@ -270,7 +265,7 @@ The goal of this section is to trace the natural habitats of Sars-like viruses.
 
 ### Hypotheses
 Sketching hypotheses about the habitat of SARS-like including pieces of evidence. [a more in depth exploration and explanation is in work: [Habitat and Life Cycle of Coronavirus Organisms]]
-Summaries of references this findings are based on, are on the page [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md#summarized-references)
+Summaries of references, that base and inspire this findings, are on the page [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md#summarized-references)
 
 1. The virus strains closely related to SARS-CoV-2 and including those using the ACE 2 receptor are endemic to the region around northern Yunnan. Evidence:
     * Bats containing SARS-like viruses using the ACE 2 receptor are found in northern Yunnan and only in this region. 
@@ -282,7 +277,7 @@ Summaries of references this findings are based on, are on the page [Hypotheses 
     - MERS is known that it usually jumps from camels to humans. SARS-like are similar to MERS-like:         
       - sequence identity
       - epidemiological
-          - antibody responses observed in rural areas (pre SARS-CoV-2)
+          - antibody observations in rural areas: for both a few percentages (pre SARS-CoV-2)
           - both MERS-like and SARS-like are sampled from bats
       - evolution: frequent recombination
     - SARS-like have a large and dense genetic diversity and an evolution with frequent recombination which requires co-infections of different strains in the same cell and so in the same animal. This makes indicates a host species with a large biomass and a relaxed 'Darwinism'. For the last centuries the only animals providing this, are farm animals. Candidates are goats, sheep, pigs or even silk-moths (Bombyx mori). 
@@ -303,13 +298,14 @@ Summaries of references this findings are based on, are on the page [Hypotheses 
         - In the case of MERS-like the wild animals positive are bats and hedgehogs. 
     * insects often nourish from feces and thus the life cycle of SARS-like could be closed. Horseshoe bats in turn have feces-nourishing beetles on their menu, which would explain their infections. 
     * SARS-like have some well preserved genetic sequence, which is only found in insects and insect viruses 
-5. Insectivores mammals could be intermediate hosts for the transmissions to humans. SARS-like infected mammals often have a respiratory disease and transmission can occur airborne from then on. 
+5. Insectivores mammals could be intermediate hosts for the transmissions to humans. SARS-like infected mammals often have a respiratory disease and transmission can occur airborne from then on. Civets likely have been intermediate hosts responsible for some jumps to humans. 
 
 
 
 
 ## Infection Tropism and Disease Patterns 
-**[in work]**<br>
+**[in work]**
+
 ### Abstract Disease Patterns
 Coronaviruses can cause infections at different locations and thus induce different diseases: 
 * The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
@@ -358,10 +354,8 @@ EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| local T cell or antibodies 
 > Virus discovery is not easy and requires the right settings. Some of the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite both being endemic for over 50 years and virologists had the (theoretical) possibilities to discover coronaviruses since the 70's. MERS got discovered in 2012 but likely human infections have occurred long before. [citations in work] [in consideration/thinking]
 
 
-
 ### diseases caused by the bovine coronavirus
 [raw form is on todo-list]
-
 
 
 ### Infections caused by Sars-CoV-2
