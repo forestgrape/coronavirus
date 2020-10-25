@@ -1,4 +1,4 @@
-
+ 
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
@@ -44,7 +44,7 @@
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 
 * [Ideas to Explore](#ideas-to-explore)
-    - [Backtracing Sars-CoV-1/2](#backtrace-habitat)
+    - [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
         The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
     - [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
     - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
@@ -73,7 +73,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
-- 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtrace-habitat)
+- 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtracing-sars-cov-12)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
 	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](#infection-tropism-and-diseas-patterns)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
@@ -92,7 +92,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 ### Minor Updates
 - 24.10. Completed&added&linked summaries regarding insects for the section [Backtracing SARS-1/2](#backtracing-sars-cov-12)
 - 20-23.10. Clarifications and corrections across the page with a focus on the sections Transmission, Immune System and Coronaviruses.
-- 18.10. 12 am Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./transmission.md#summary-airborne-transmission)). More on the topic in work. 
+- 18.10. Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./transmission.md#summary-airborne-transmission)). More on the topic in work. 
 - 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) and testing priorities
 - 15.10. moved [Covid section](./covid19.md) to its own page
 - 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md)
@@ -250,13 +250,12 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 
 # Ideas to Explore
-* [Backtracing Sars-CoV-1/2](#backtrace-habitat)
+* [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
 * [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
 * [Early On Prevent Mucus Accumulations](#early-vents)
 
 
-<p id='backtrace-habitat'>-----</p>
 
 ## Backtracing Sars-CoV-1/2
 [in work]
