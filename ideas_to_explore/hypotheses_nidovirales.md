@@ -1,11 +1,12 @@
 
 # Hypotheses about Nidovirales
-Hypotheses about Nidovirales are discussed. They extend the [page on coronaviruses](./coronavirus.md) from a subject point. In the flavour they belong to the section [Ideas to Explore](./index.md#ideas-to-explore)
+Hypotheses about Nidovirales are discussed. They extend the [page on coronaviruses](./coronavirus.md) and the section [Backtracing SARS-1/2](./../index.md#backtracing-sars-cov-12) from a subject point. In the flavour they belong to the section [Ideas to Explore](./index.md#ideas-to-explore)
+
 ## Hypotheses in Short
 [in work]
 
 ## Relevance
-To know the evolutionary hosts is key to understand Nidovirales. A thorough understanding in turn can enable us to steer coronaviruses infections including SARS-CoV-2.
+To know the evolutionary hosts is helps to understand Nidovirales. An understanding in turn can enable us to steer coronaviruses infections including SARS-CoV-2.
 * #### Analyse & Understand
     Knowing and be able to observe the prehuman hosts is useful for research to better understand SARS-like coronaviruses: 
     - Better understand transmission and evolution of SARS-like viruses.
@@ -35,22 +36,24 @@ Notes:
 # Summarized References
 * [Hypotheses in Short](#hypotheses-in-short)
 * [Relevance](#relevance)
-* [Coronaviruses Jumps](#coronaviruses-jumps)
-  * [summary dudas 2017](#summary-dudas-2017)
-  * [summary guan 2003](#summary-guan-2003)
-* [Observations in Wild Animals](#observations-in-wild-animals)
-  * [summary fan 2019](#summary-fan-2019)
-  * [summary zhou](#summary-zhou)
-* [Features and Evolution of SARS-like](#features-and-evolution-of-sars-like)
+* [Origin and Evolution of SARS-like](#origin-and-evolution-of-sars-like)
+  * [Summary Ye,Jin](#summary-yejin)
+  * [summary boni,lemey](#summary-bonilemey)
   * [summary anderson](#summary-anderson)
+* [Coronaviruses Interspecies Infections](#coronaviruses-interspecies-infections)
+  * [summary dudas 2017](#summary-dudas-2017)
   * [summary wang 2017](#summary-wang-2017)
-  * [summary corman 14](#summary-corman-14)
-  * [summary ye,jin](#summary-yejin)
-  * [summary ge 2013](#summary-ge-2013)
+* [Observations in Domestic/Captured Animals](#observations-in-domesticcaptured-animals)
+  * [summary guan 2003](#summary-guan-2003)
   * [summary zhang](#summary-zhang)
   * [summary k xiao](#summary-k-xiao)
   * [summary t lam](#summary-t-lam)
-  * [summary boni,lemey](#summary-bonilemey)
+* [Observations in Wild Animals other than Bats](#observations-in-wild-animals-other-than-bats)
+  * [summary corman 14](#summary-corman-14)
+* [Observations in Bats](#observations-in-bats)
+  * [Summary Fan 2019](#summary-fan-2019)
+  * [Summary Zhou](#summary-zhou)
+  * [summary ge 2013](#summary-ge-2013)
 * [Species Tropism](#species-tropism)
   * [summary zhai](#summary-zhai)
   * [summary wu](#summary-wu)
@@ -59,59 +62,35 @@ Notes:
   * [Summary Watson 2002](#summary-watson-2002)
 
 
+## Origin and Evolution of SARS-like
 
-## Coronaviruses Jumps
+### Summary Ye,Jin 
+**Zoonotic origins of human coronaviruses** - Zi-Wei Ye, Dong-Yan Jin et al, Hong Kong 2020
+#### Review
+The seven human coronaviruses are reviewed and compared with a focus on:
+* their discovery, the zoonotic origins and interspecies transmissions.
+* clinical features of infections and transmission routes
+* evolution including recombination events
+#### Extracts
+- "many patients with MERS develop acute renal failure"
+- "civets from the wild or farms without exposure to the live animal markets were largely negative for SARS-CoV"
+- "Live MERS-CoV identical to the virus found in humans was isolated from the nasal swabs of dromedary camels, further indicating that camels serve as the bona fide reservoir host of MERS-CoV [56]. It is also noteworthy that generally mild symptoms but massive virus shedding were observed in camels experimentally infected with MERS-CoV [57]. Notably, infected camels shed viruses not only through respiratory route but also through fecal-oral"
 
-### summary dudas 2017
-**MERS-CoV spillover at the camel-human interface** Gytis Dudas, Luiz Max Carvalho, Andrew Rambaut, Trevor Bedford; elifesciences.org
+
+### summary boni,lemey
+**Evolutionary origins of the SARS‐CoV‐2 sarbecovirus lineage responsible for the COVID-19 pandemic**
+Maciej F Boni , Philippe Lemey, Xiaowei Jiang , Tommy Tsan-Yuk Lam , Blair Perry , Todd Castoe , Andrew Rambaut and David L Robertson
 #### Methods
-The phylodynamics of 274 MERS genomes, 174 from human infections and 100 from camel infections is constructed by simulation using structured coalescent models which treat camels and humans populations as different virus habitats. 
+Frequent recombination events makes genome analysis challenging. Regions likely without recombinations are identified using 3 different methods. The identified non-recombining regions are analysed using traditional phylogenetic methods including tree construction and dating. 
 #### Results
-* camels are the reservoir hosts of MERS-CoV: 
-    * the evolution of MERS takes place in camels and not in humans. 
-    * human are terminal hosts and the reproduction/spread value is about 0.7 
-    * the sequence data alone indicate at least 50 zoonotic introduction of MERS to humans. Extrapolation to all labraratory confirmed MERS cases yields hundreds of introductions to humans.
-* frequent recombination events occur in the camels. 
-* most transmissions to humans occur in the summer months, however large clusters of secondary cases from human to human transmission tend to occur in winter or spring. 
+* Aligning different sarbecovirus genomes, mainly sampled from bats, indicates frequent recombination events. 
+* Phylogentic analysis on non-recombinant regions
+    - This approach is used to estimate the dates of separation of different strains including Sars-CoV-1, Sars-CoV-2 and several strains found in bats.
+    - Removing recombinant genomic segments point to a single ancestral lineage for SARS-CoV-2 and RaTG13 including Sars-like from pangolin (confiscated in March 2019 in Guangdong) and a clade of pangolin sequences from Guangxi province confiscated in 2017.
+*  Evidence Sars-CoV-2 emerge directly from yet unknown reservoir (authors suggest bats):
+    - SARS-CoV-2 and Pangolin-2019 are about 10% divergent throughout the entire S protein. 
+    - RaTG13 and Sars-CoV-2 are similar in the S gene except for the variable loop region. RaTG13 is divergent in the variable loop region from Sars-CoV-2 and is the likely product of recombination, acquiring a divergent variable loop from an as yet unsampled bat sarbecovirus.
 
-### summary guan 2003
-**Isolation and Characterization of Viruses Related to the SARS Coronavirus from Animals in Southern China**
-#### Methods
-Investigation of several animals in a live-animal retail market in Shenzhen. 
-* the animals originated from different regions of southern China and had been kept in separate storehouses before arrival to the market.  
-* animals tested: 3 beaver (Castor fiber); 2 Chinese ferret-badger (Melogale moschata); 4 Chinese hare (Lepus sinensis); 1 Chinese muntjac (Muntiacus reevesi); 4 domestic cat (Felis catus); 3 hogbadger (Arctonyx collaris); 6 Himalayan palm civet (P. larvata); 1 raccoon dog (N. procyonoides)
-#### Results
-All of the racoon dogs and the palm civets showed signs of recent SARS infections. One of the ferrets badgers had antibodies. None of the other animals showed clear signs of a recent SARS infection.
-
-
-
-## Observations in Wild Animals
-
-### summary fan 2019
-**Bat Coronaviruses in China** Y Fan, Z-L Shi, P Zhou et al, WIV 2019
-Review bat coronaviruses in China with a focus on: viral diversity, reservoir hosts, geographical distributions and cross-species transmission potential.
-* SARSr-CoVs are present in different bat species of the two families Rhinolophidae (horseshoe) and Hipposideridae.
-* SARSr-CoVs that are capable of using human ACE2 were found were found in R sinicus in the Yunnan Province. Other SARSr-CoVs that cannot use human ACE2 are more widespread and distributed across multiple provinces:  Jilin, Shaanxi, Hubei, Zhejiang, Yunnan, Guizhou and Guangdong
-* SARSr-CoV bat viruses are very divers in the sense that some have only sequence similarities of about 70% (Figure 2)
-* "Rhinolophus bats interact constantly  with both livestock and humans in China, also harbor SARSr-CoVs"
-
-### summary zhou
-**A Novel Bat Coronavirus Closely Related to SARS-CoV-2 Contains Natural Insertions at the S1/S2 Cleavage Site of the Spike Protein**; Hong Zhou, Xing Chen, Tao Hu, Juan Li, Hao Song, Yanran Liu, Peihan Wang, Di Liu, Jing Yang, Edward C. Holmes, Alice C. Hughes, Yuhai Bi, and Weifeng Shi
-#### Methods
-* Collection of 302 samples from 227 different bats in two caves in Mengla County, Yunnan, between May and October 2019 (Cave a: Xishuangbanna (101.27E, 21.91N), Cave b:[coming]) 
-* Next-generation metagenomic sequencing and TaqMan-based qPCR on the results
-* analysis of the sequences obtained to SARS-CoV-2 and SARS-2-like using Simplot, RAxML and other tools. 
-#### Results
-* discovery of two novel bat coronaviruses named: RmYN01 and RmYN02
-* Table 1 and Figure 1 compare the sequence of SARS-CoV-2 to SARS-2-close viruses:
-    - RmYN02 is the virus most close to SARS-CoV-2 in most parts of the genome (Figure 1 A) but not in the spike gene (Figure 1 B). 
-    - RaTG13 has nearly as many closest parts as RmYN02. Since RaTG13 is closer in the spike protein it is overall the genetically closest discovered virus (as of 31.8.20) to SARS-CoV-2 with an overall sequence identity of 96.1%.
-    - in the RBD of the spike the closest relative is a pangolin/GD/2019
-* Phylogenetic tree of SARS-2-close constructed with the whole genome, the spike, the RBD, RdRp. Since the distance vary through genome regions, the trees vary in structure. The varying distances/tree structures indicate recombinations.
-
-
-
-## Features and Evolution of SARS-like
 
 ### summary anderson 
 **The proximal origin of SARS-CoV-2**, Kristian G. Andersen, Andrew Rambaut, W. Ian Lipkin, Edward C. Holmes and Robert F. Garry; Nature Medicine
@@ -130,7 +109,19 @@ Review of distinguishing features of Sars-Cov-2 and theories about the origin:
 
 
 
+## Coronaviruses Interspecies Infections
 
+### summary dudas 2017
+**MERS-CoV spillover at the camel-human interface** Gytis Dudas, Luiz Max Carvalho, Andrew Rambaut, Trevor Bedford; elifesciences.org
+#### Methods
+The phylodynamics of 274 MERS genomes, 174 from human infections and 100 from camel infections is constructed by simulation using structured coalescent models, which treat camels and humans populations as different virus habitats. 
+#### Results
+* camels are the reservoir hosts of MERS-CoV: 
+    * the evolution of MERS takes place in camels and not in humans. 
+    * human are terminal hosts and the reproduction/spread value is about 0.7 
+    * the sequence data alone indicate at least 50 zoonotic introduction of MERS to humans. Extrapolation to all labraratory confirmed MERS cases yields hundreds of introductions to humans.
+* frequent recombination events occur in the camels. 
+* most transmissions to humans occur in the summer months, however large clusters of secondary cases from human to human transmission tend to occur in winter or spring. 
 
 ### summary wang 2017
 **Serological Evidence of Bat SARS-Related Coronavirus Infection in Humans, China** - N Wang, Zheng-Li Shi et al, WIV 2017
@@ -139,43 +130,17 @@ Serum samples of 218 residents from rural villages in the Yunnan province were w
 #### Results: 
 The sera of 6 person between 45 and 57 years old were seropositive - corresponding to a positive rate of 2.7%.
 
-### summary corman 14
-**Characterization of a Novel Betacoronavirus Related to Middle East Respiratory Syndrome Coronavirus in European Hedgehogs**
+
+## Observations in Domestic/Captured Animals
+
+### summary guan 2003
+**Isolation and Characterization of Viruses Related to the SARS Coronavirus from Animals in Southern China**
 #### Methods
-* analyzing of 248 fecal samples from wild European hedgehogs for CoVs
-* investigate tissue probes of 27 hedgehogs that died in animals shelters
+Investigation of several animals in a live-animal retail market in Shenzhen. 
+* the animals originated from different regions of southern China and had been kept in separate storehouses before arrival to the market.  
+* animals tested: 3 beaver (Castor fiber); 2 Chinese ferret-badger (Melogale moschata); 4 Chinese hare (Lepus sinensis); 1 Chinese muntjac (Muntiacus reevesi); 4 domestic cat (Felis catus); 3 hogbadger (Arctonyx collaris); 6 Himalayan palm civet (P. larvata); 1 raccoon dog (N. procyonoides)
 #### Results
-
-* ##### Fecal samples: 
-    146 of the 248 fecal samples (59%) were positive for a MERS-like coronavirus, named EriCoV
-* ##### Tissue samples:
-    12 of the 27 dead hedgehogs had viral loaded tissue probes: 
-    - all 12 had a high viral load in the gut
-    - RNA in other tissues was 10 fold lower but still at about 10^5/ml if observed, but not all animals had viruses in all tissues
-    - 6 of the 12 MERS RNA positive and 7 of the 14 MERS RNA negative hedgehogs had MERS antibodies (by staining of MERS-CoV infected Vero cells) 
-        > Somewhat intriguing that about 50% of RNA positive animals had no detectable antibodies and moreover antibody positivity seems to be independent of RNA positivity. 
-
-### summary ye,jin 
-**Zoonotic origins of human coronaviruses** - Zi-Wei Ye, Dong-Yan Jin et al, Hong Kong 2020
-#### Review
-The seven human coronaviruses are reviewed and compared with a focus on:
-* their discovery, the zoonotic origins and interspecies transmissions.
-* clinical features of infections and transmission routes
-* evolution including recombination events
-#### Extracts
-- "many patients with MERS develop acute renal failure"
-- "civets from the wild or farms without exposure to the live animal markets were largely negative for SARS-CoV"
-- "Live MERS-CoV identical to the virus found in humans was isolated from the nasal swabs of dromedary camels, further indicating that camels serve as the bona fide reservoir host of MERS-CoV [56]. It is also noteworthy that generally mild symptoms but massive virus shedding were observed in camels experimentally infected with MERS-CoV [57]. Notably, infected camels shed viruses not only through respiratory route but also through fecal-oral"
-
-
-
-### summary ge 2013
-**Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor.** Ge, Shi et al - WIV - Nature 2013
-#### Methods
-Bats in the two caves Yanzi and Shitou in northern Yunnan were analyzed for coronaviruses infections.
-#### Results
-* Diverse bat SARSr-CoVs and evidence for coinfection with two or more SARSr-CoVs in the same bat are found. 
-* SARSr-CoV strains using angiotensin converting enzyme 2 (ACE2) as receptor are found. 
+All of the racoon dogs and the palm civets showed signs of recent SARS infections. One of the ferrets badgers had antibodies. None of the other animals showed clear signs of a recent SARS infection.
 
 ### summary zhang
 [in work]
@@ -211,19 +176,58 @@ and recombination analysis (Fig 2)
 * "two related lineages of coronaviruses are found in pangolins that were independently sampled in different Chinese provinces and that both are also related to SARS-CoV-2. This suggests that these animals may be important hosts for these viruses, which is surprising as pangolins are solitary animals that have relatively small population sizes, reflecting their endangered status"
 
 
-### summary boni,lemey
-**Evolutionary origins of the SARS‐CoV‐2 sarbecovirus lineage responsible for the COVID-19 pandemic**
-Maciej F Boni , Philippe Lemey, Xiaowei Jiang , Tommy Tsan-Yuk Lam , Blair Perry , Todd Castoe , Andrew Rambaut and David L Robertson
+
+## Observations in Wild Animals other than Bats
+
+### summary corman 14
+**Characterization of a Novel Betacoronavirus Related to Middle East Respiratory Syndrome Coronavirus in European Hedgehogs**
 #### Methods
-Frequent recombination events makes genome analysis challenging. Regions likely without recombinations are identified using 3 different methods. The identified non-recombining regions are analysed using traditional phylogenetic methods including tree construction and dating. 
+* analyzing of 248 fecal samples from wild European hedgehogs for CoVs
+* investigate tissue probes of 27 hedgehogs that died in animals shelters
 #### Results
-* Aligning different sarbecovirus genomes, mainly sampled from bats, indicates frequent recombination events. 
-* Phylogentic analysis on non-recombinant regions
-    - This approach is used to estimate the dates of separation of different strains including Sars-CoV-1, Sars-CoV-2 and several strains found in bats.
-    - Removing recombinant genomic segments point to a single ancestral lineage for SARS-CoV-2 and RaTG13 including Sars-like from pangolin (confiscated in March 2019 in Guangdong) and a clade of pangolin sequences from Guangxi province confiscated in 2017.
-*  Evidence Sars-CoV-2 emerge directly from yet unknown reservoir (authors suggest bats):
-    - SARS-CoV-2 and Pangolin-2019 are about 10% divergent throughout the entire S protein. 
-    - RaTG13 and Sars-CoV-2 are similar in the S gene except for the variable loop region. RaTG13 is divergent in the variable loop region from Sars-CoV-2 and is the likely product of recombination, acquiring a divergent variable loop from an as yet unsampled bat sarbecovirus.
+
+* ##### Fecal samples: 
+    146 of the 248 fecal samples (59%) were positive for a MERS-like coronavirus, named EriCoV
+* ##### Tissue samples:
+    12 of the 27 dead hedgehogs had viral loaded tissue probes: 
+    - all 12 had a high viral load in the gut
+    - RNA in other tissues was 10 fold lower but still at about 10^5/ml if observed, but not all animals had viruses in all tissues
+    - 6 of the 12 MERS RNA positive and 7 of the 14 MERS RNA negative hedgehogs had MERS antibodies (by staining of MERS-CoV infected Vero cells) 
+        > Somewhat intriguing that about 50% of RNA positive animals had no detectable antibodies and moreover antibody positivity seems to be independent of RNA positivity. 
+
+      
+## Observations in Bats
+
+### Summary Fan 2019
+**Bat Coronaviruses in China** Y Fan, Z-L Shi, P Zhou et al, WIV 2019
+Review bat coronaviruses in China with a focus on: viral diversity, reservoir hosts, geographical distributions and cross-species transmission potential.
+* SARSr-CoVs are present in different bat species of the two families Rhinolophidae (horseshoe) and Hipposideridae.
+* SARSr-CoVs that are capable of using human ACE2 were found were found in R sinicus in the Yunnan Province. Other SARSr-CoVs that cannot use human ACE2 are more widespread and distributed across multiple provinces:  Jilin, Shaanxi, Hubei, Zhejiang, Yunnan, Guizhou and Guangdong
+* SARSr-CoV bat viruses are very divers in the sense that some have only sequence similarities of about 70% (Figure 2)
+* "Rhinolophus bats interact constantly  with both livestock and humans in China, also harbor SARSr-CoVs"
+
+### Summary Zhou
+**A Novel Bat Coronavirus Closely Related to SARS-CoV-2 Contains Natural Insertions at the S1/S2 Cleavage Site of the Spike Protein**; Hong Zhou, Xing Chen, Tao Hu, Juan Li, Hao Song, Yanran Liu, Peihan Wang, Di Liu, Jing Yang, Edward C. Holmes, Alice C. Hughes, Yuhai Bi, and Weifeng Shi
+#### Methods
+* Collection of 302 samples from 227 different bats in two caves in Mengla County, Yunnan, between May and October 2019 (Cave a: Xishuangbanna (101.27E, 21.91N), Cave b:[coming]) 
+* Next-generation metagenomic sequencing and TaqMan-based qPCR on the results
+* analysis of the sequences obtained to SARS-CoV-2 and SARS-2-like using Simplot, RAxML and other tools. 
+#### Results
+* discovery of two novel bat coronaviruses named: RmYN01 and RmYN02
+* Table 1 and Figure 1 compare the sequence of SARS-CoV-2 to SARS-2-close viruses:
+    - **RmYN02** is the virus most close to SARS-CoV-2 in most parts of the genome (Figure 1 A) but not in the spike gene (Figure 1 B). 
+    - RaTG13 has nearly as many closest parts as RmYN02. Since RaTG13 is closer in the spike protein it is overall the genetically closest discovered virus (as of 31.8.20) to SARS-CoV-2 with an overall sequence identity of 96.1%.
+    - in the RBD of the spike the closest relative is a pangolin/GD/2019
+* Phylogenetic tree of SARS-2-close constructed with the whole genome, the spike, the RBD, RdRp. Since the distance vary through genome regions, the trees vary in structure. The varying distances/tree structures indicate recombination.
+
+
+### summary ge 2013
+**Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor.** Ge, Shi et al - WIV - Nature 2013
+#### Methods
+Bats in the two caves Yanzi and Shitou in northern Yunnan were analyzed for coronaviruses infections.
+#### Results
+* Diverse bat SARSr-CoVs and evidence for coinfection with two or more SARSr-CoVs in the same bat are found. 
+* SARSr-CoV strains using angiotensin converting enzyme 2 (ACE2) as receptor are found. 
 
 
 
