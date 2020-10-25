@@ -66,6 +66,8 @@
 ## Updates
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
+- 25.10. New page Spread Patterns: Observations and analysis how Covid-19 spreads in different settings. 
+
 -  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a major role in the past (and current) Covid spread while protection measures are in place. Caveat: most investigations were done in summer climate. New section in work.
   
 -  15./16.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
