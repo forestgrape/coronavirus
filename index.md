@@ -65,7 +65,8 @@
 
 ## Updates
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
--  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a role in the past (and current) Covid spread, at least not while protection measures are in place. Argumentation in work. 
+
+-  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a relevant role in the past and current Covid spread, at least not while protection measures are in place. Argumentation in work.
   
 -  15./16.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
@@ -270,7 +271,7 @@ The goal of this section is to trace the natural habitats of Sars-like viruses.
 
 ### Hypotheses
 Sketching hypotheses about the habitat of SARS-like including pieces of evidence. [a more in depth exploration and explanation is in work: [Habitat and Life Cycle of Coronavirus Organisms]]
-Summaries and references this findings are based on are added at the very bottom of the page [soon to be moved on its own page]. 
+Summaries of references this findings are based on, are on the page [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md#summarized-references)
 
 1. The virus strains closely related to SARS-CoV-2 and including those using the ACE 2 receptor are endemic to the region around northern Yunnan. Evidence:
     * Bats containing SARS-like viruses using the ACE 2 receptor are found in northern Yunnan and only in this region. 
