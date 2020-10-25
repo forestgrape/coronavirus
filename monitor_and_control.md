@@ -231,7 +231,7 @@ The history of prohibition dates back nearly as long as history itself has been 
 > **Corrected** 
  
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
-* Evidence: **Correction** ~~In Israel the reopening of schools seems to have contributed to increased spread~~ There have been infection clusters in high schools (which have been probably caused by infected teachers) but I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools.
+* Evidence: **Correction** ~~In Israel the reopening of schools seems to have contributed to increased spread~~ There have been infection clusters in high schools (which have been probably caused by infected teachers). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools.
   > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. More in work. 
 * ThinkThrough:
   * Children are not main spreaders and if then only with droplet transmission which can be prevented. 
