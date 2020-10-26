@@ -228,20 +228,20 @@ The history of prohibition dates back nearly as long as history itself has been 
 
 
 ### Corona Conform Schooling
-> **Corrected** 
  
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
 * Evidence: **Correction** ~~In Israel the reopening of schools seems to have contributed to increased spread~~ There have been infection clusters in high schools (which have been probably caused by infected teachers). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools.
   > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. More in work. 
 * ThinkThrough:
-  * Children are not main spreaders and if then only with droplet transmission which can be prevented. 
+  * Children are not main spreaders in the sense that there R value is low. If they spread then mainly with droplet transmission which can be prevented. 
   * However:
+    * Even with a low R value children can contribute to the overall spread. 
     * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams. 
-    * Many people in the same room
+    * Many people in the same room and school rooms may not be ventilated well
     * Many face-to-face talking situations with many different people
     * Children all come from different families and inside families protection is hardly doable. So person who want/need to protect cannot do so. 
 * Experiences: 
-  * Closing schools were part of lock-downs in spring 2020 in many countries, but what effect if at all they had is unclear. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families. 
+  * Closing schools were part of lock-downs in spring 2020 in many countries, but the effect of school closures is unclear. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families. 
   * In some schools mask wearing is common, negative comments are few
   * Project based and individual learning are a common teaching approaches and known to work. 
 * Comment: Children seem not to transmit Covid-19 well and if then only droplet and not aerosol transmission. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even be prevented:
