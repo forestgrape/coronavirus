@@ -24,6 +24,7 @@ The goal is to better understand the spread of Covid-19 to be able to determine 
 [in work]
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities. 
   * Observed by [Rader,Scarpino et al](#summary-raderscarpino).
+* Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by use air-conditioning [Summary Stein-Zamir](#summary-stein-zamir).
 
 
 ---
