@@ -1,7 +1,6 @@
 # Spread Analyses
 [in work]
 * [Introduction](#introduction)
-  * [Goal](#goal)
   * [Methods](#methods)
 * [Observed Spread Patterns](#observed-spread-patterns)
 * [Summarized References](#summarized-references)
@@ -11,8 +10,7 @@
 
 
 ## Introduction
-### Goal
-The goal is to better understand the spread of Covid-19 to be able to determine the optimal measures.
+A better understanding of the spread of Covid-19 helps to determine the optimal measures.
 
 ### Methods
 * Analysis is based on literature and directly analyzing published Covid-19 cases data. 
