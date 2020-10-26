@@ -20,6 +20,7 @@ The goal is to better understand the spread of Covid-19 to be able to determine 
 
 
 ## Observed Spread Patterns
+[in work]
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities. 
   * Observed by [Rader,Scarpino et al](#summary-raderscarpino).
 
@@ -27,6 +28,7 @@ The goal is to better understand the spread of Covid-19 to be able to determine 
 ---
 
 ## Summarized References
+[in work]
 References without a summary are in the section [References](#references)
 ### Summary Rader,Scarpino
 **Crowding and the shape of COVID-19 epidemics**
@@ -37,7 +39,6 @@ Nat Med (2020). https://doi.org/10.1038/s41591-020-1104-0
 Figure out the effect of population densities (crowding), mobility, humidity on the overall and the temporal distribution of Covid-19 incidences. 
 
 #### Methods
-[in work]
 The incidence rates of Covid was analysed in China and Italy.
 There work consists of two parts: 
 1. A spread analysis, using various statistical methods.
