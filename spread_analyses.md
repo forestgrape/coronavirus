@@ -5,6 +5,7 @@
   * [Methods](#methods)
 * [Observed Spread Patterns](#observed-spread-patterns)
 * [Summarized References](#summarized-references)
+  * [Summary Stein-Zamir](#summary-stein-zamir)
   * [Summary Rader,Scarpino](#summary-raderscarpino)
 * [References](#references)
 
@@ -29,7 +30,27 @@ The goal is to better understand the spread of Covid-19 to be able to determine 
 
 ## Summarized References
 [in work]
-References without a summary are in the section [References](#references)
+References without a summary are in the section [References](#references). Copy & Paste citation are in "copy here". 
+
+### Summary Stein-Zamir
+**A large COVID-19 outbreak in a high school 10 days after schools’ reopening, Israel, May 2020.**
+Stein-Zamir Chen , Abramson Nitza , Shoob Hanna , Libal Erez , Bitan Menachem , Cardash Tanya , Cayam Refael , Miskin Ian .  Euro Surveill. 2020;25(29):pii=2001352. https://doi.org/10.2807/1560-7917.ES.2020.25.29.2001352
+#### Methods
+Analyzing a large high school out break in Israel shortly after schools have been reopened. 
+#### School Setting
+* From 13 March to 17 May Schools in Israel were closed (limited opening for small children on 3 May)
+* From 19–21 May a heat wave occurred: 
+  * air-conditioning functioned continuously in all classes.
+  * no face-masks
+* "crowded classes: 35–38 students per class, class area 39–49 m2, allowing 1.1–1.3 m2 per student"
+
+#### Results
+* "Testing of the complete school community revealed 153 students (attack rate: 13.2%) and 25 staff members (attack rate: 16.6%) who were COVID-19 positive."
+* "COVID-19 rates were higher in junior grades (7–9) than in high grades (10–12) (Figure 1). The peak rates were observed in the 9th grade (20 cases in one class and 13 cases in two other classes) and the 7th grade (14 cases in one class). Of the cases in teachers, four taught all these four classes, two taught three of the four classes and one taught two of these four classes."
+* "Most student cases presented with mild symptoms or were asymptomatic."
+
+
+
 ### Summary Rader,Scarpino
 **Crowding and the shape of COVID-19 epidemics**
 Rader, B., Scarpino, S.V., Nande, A. et al.
