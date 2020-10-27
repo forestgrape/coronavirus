@@ -8,7 +8,7 @@
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
-* A thanks may be more suitable than citing. Referencing is always welcome tough. To put as a license: at most Creative Commons. 
+* A thanks may be more suitable than citing. Referencing/Feedback is welcome tough. To put as a license: at most Creative Commons. 
   <!--* the more content is useful the more referencing is IMHO appropriate.  
   * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](#public-description).
@@ -67,12 +67,9 @@
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
 - 25.10. New page [Spread Analyses](./spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings. 
-
 -  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a major role in the past (and current) Covid spread while protection measures are in place. Caveat: most investigations were done in summer climate. New section in work.
-  
--  15./16.10. Early Online Update about [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
+-  15./16.10. Early Online Update for the sections [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
-    
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtracing-sars-cov-12)
@@ -120,8 +117,6 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 
 
 
-<p id="public-advice">-----</p>
-
 ## Public Suggestions and Thoughts
 [in rework]
 Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term adverse effects are possible too for other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
@@ -143,7 +138,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 * __aerosols transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outside the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
     - ventilation, distance and less people inside or being outside
     - masks, preferably with a good fit and [filter](./monitor_and_control.md#mask-types) and changed/cleaned frequently
-    - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of other heated indoor rooms 
+    - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of other indoor rooms 
 
     Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
     - Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
