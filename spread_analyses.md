@@ -6,6 +6,7 @@
   * [Cities versus Rural](#cities-versus-rural)
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
+  * [Summary Ehrhardt,Brockmann](#summary-ehrhardtbrockmann)
   * [Summary Vlachos,Svaleryd](#summary-vlachossvaleryd)
   * [Summary Stein-Zamir](#summary-stein-zamir)
   * [Summary Dattner](#summary-dattner)
@@ -32,11 +33,17 @@ A better understanding of the spread of Covid-19 helps to determine the optimal 
 
 
 ### Schools and Children
+A recommended review is [COVID-19 Transmission and Children: The Child Is Not to Blame](#leeraszka) by B. Lee and W. Raszka.
+
 * [Dattner et al](#summary-dattner) observed that children are relative to adults
   * less susceptible 45% [40%, 55%]) 
   * somewhat less infectious 85% [65%, 110%])
 * [Vlachos, Hertegard and Svaleryd](#summary-vlachossvaleryd) found that parents children in the 9th school year (open schools)had about the same incidence rate for Covid-19 as parents children in the 10th school year (closed school). If adjusted for factors such as age and occupation the risk was about 15% higher for being diagnosed with Covid-19 when the child went to open schools. // Comment: this indicate that other factors are more important than whether the children go to school. 
-* Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by use air-conditioning [Summary Stein-Zamir](#summary-stein-zamir). 
+* Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by densely populated rooms and the permanent use of air-conditioning [Summary Stein-Zamir](#summary-stein-zamir). 
+* [Ehrhardt et al](#summary-ehrhardtbrockmann) observed in Baden-Wuertenberg between 19 May to 28 July:
+  * 6 of 137 likely infectious pupils actually infected other a total of 11 other pupils (an R value contribution of below .1)
+  * 3% of infections of children (0-19 year) could be traced back to schools. Where as 41% to families and 8% to festivals/events.
+  
 
 
 
@@ -46,11 +53,26 @@ A better understanding of the spread of Covid-19 helps to determine the optimal 
 [in work]
 References without a summary are in the section [References](#references). Copy & Paste citation are in "citation". 
 
+### Summary Ehrhardt,Brockmann
+**Transmission of SARS-CoV-2 in children aged 0 to 19 years in childcare facilities and schools after their reopening in May 2020**
+Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wagner-Wiening C , Eichner M , Brockmann SO . , Baden-Württemberg, Germany. Euro Surveill. 2020;25(36):pii=2001587. [https://doi.org/10.2807/1560-7917.ES.2020.25.36.2001587]()
+#### Methods
+"We investigated data from severe acute respira- tory syndrome coronavirus 2 (SARS-CoV-2) infected 0–19year olds, who attended schools/childcare facili- ties, to assess their role in SARS-CoV-2 transmission after these establishments’ reopening in May 2020 in Baden-Württemberg, Germany."
+#### School Setting
+50% Group Size: Yes, Cleaning of Surface: Yes, Regular Ventilation: Yes, Hygiene: Yes, Face Mask in Break: Some, Face Mask in Classroom: No, Physical Distancing: Some, No Singing: Most, Physical Education: No
+#### Results
+* Infection by pupils
+  1. Total of 557 Covid-19 cases in the age group 0-19 year out of a total of 3104 cases in Badenwuertenberg in the study period (19.5-25.7)
+  2. For 453 School attendance information was available
+  3. 137 (30% of 453) were at least 1 day at school while infectious 
+  4. 11 other pupils were infected by 6 of those 137
+  5. no secondary infection from those 11 were detected despite extensive contact tracing
+* only 15 (3%) of 453 infected children (with school attendance known) were infected in schools (the 11 above from other pupils and 4 by teachers). Most infections occurred in families or festivals/events (Table 2).
+
 
 ### Summary Vlachos,Svaleryd
 **School closures and SARS-CoV-2. Evidence from Sweden’s partial school closure**
 Jonas Vlachos, Edvin Hertegard, Helena Svaleryd
-
 #### Methods
 Remark: Working Paper
 * "Swedish upper secondary schools moved to online instruction while lower secondary school remained open. This allows for a comparison of parents and teachers differently exposed to open and closed schools, but otherwise facing similar conditions."
@@ -73,7 +95,6 @@ Analyzing a large high school out break in Israel shortly after schools have bee
   * "air-conditioning functioned continuously in all classes."
   * no face-masks
 * "crowded classes: 35–38 students per class, class area 39–49 m2, allowing 1.1–1.3 m2 per student"
-
 #### Results
 * "Testing of the complete school community revealed 153 students (attack rate: 13.2%) and 25 staff members (attack rate: 16.6%) who were COVID-19 positive."
 * "COVID-19 rates were higher in junior grades (7–9) than in high grades (10–12) (Figure 1). The peak rates were observed in the 9th grade (20 cases in one class and 13 cases in two other classes) and the 7th grade (14 cases in one class). Of the cases in teachers, four taught all these four classes, two taught three of the four classes and one taught two of these four classes."
@@ -127,3 +148,8 @@ There work consists of two parts:
 
 ## References
 References with a summary are in the section [Summarized References](#summarized-references)
+
+#### lee,raszka
+Lee B and Raszka WV. 
+**COVID-19 Transmission and Children: The Child Is Not to Blame.**
+Pediatrics. 2020;146(2):e2020004879 [https://doi.org/10.1542/peds.2020-004879]()
