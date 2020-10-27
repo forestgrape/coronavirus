@@ -33,7 +33,7 @@ A better understanding of the spread of Covid-19 helps to determine the optimal 
 
 
 ### Schools and Children
-A recommended review is [COVID-19 Transmission and Children: The Child Is Not to Blame](#leeraszka) by B. Lee and W. Raszka.
+A recommended review is [COVID-19 Transmission and Children: The Child Is Not to Blame](#leeraszka) by B. Lee and W. Raszka. Notable findings from the studies are below and summaries of most studies are in [Summarized References](#summarized-references).
 
 * [Dattner et al](#summary-dattner) observed that children are relative to adults
   * less susceptible 45% [40%, 55%]) 
