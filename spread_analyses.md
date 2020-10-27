@@ -10,6 +10,7 @@
   * [Summary Vlachos,Svaleryd](#summary-vlachossvaleryd)
   * [Summary Stein-Zamir](#summary-stein-zamir)
   * [Summary Dattner](#summary-dattner)
+  * [Summary Perez-Lopez](#summary-perez-lopez)
   * [Summary Rader,Scarpino](#summary-raderscarpino)
 * [References](#references)
 
@@ -20,9 +21,8 @@ A better understanding of the spread of Covid-19 helps to determine the optimal 
 ### Methods
 * Analyses are based on 
   1. literature and 
-  2. directly analyzing published Covid-19 cases data. 
-* The spread observed for Covid-19 is analysed.
-* The spread is compared to the observed spread for other diseases. 
+  2. directly analyzing published Covid-19 data. 
+* The spread observed for Covid-19 is analysed and sometimes compared to the observed spread for other diseases. 
 
 
 ## Observed Spread Patterns
@@ -43,6 +43,7 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 * [Ehrhardt et al](#summary-ehrhardtbrockmann) observed in Baden-Wuertenberg between 19 May to 28 July:
   * 6 of 137 likely infectious pupils actually infected other a total of 11 other pupils (an R value contribution of below .1)
   * 3% of infections of children (0-19 year) could be traced back to schools. Where as 41% to families and 8% to festivals/events.
+* [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly outside of schools. This in turn indicates that for most viruses adults play the major role in the transmission. 
   
 
 
@@ -113,33 +114,53 @@ Remark: **not** peer-reviewed
 * For children the susceptibility was 45% [40%, 55%] and the infectivity 85% [65%, 110%] in comparison to adults. 
 
 
+### Summary Perez-Lopez
+**Dramatic decrease of laboratory‐ confirmed influenza A after school closure in response to COVID‐19**
+Perez‐Lopez A, Hasan M, Iqbal M, Janahi M, Roscoe D, Tang P.; Pediatric Pulmonology. 2020;1–2. [https://doi.org/10.1002/ppul.24933]()
+#### Methods
+* "A proactive school closure was the first social distancing measure implemented by the State of Qatar on 10 March."
+* "Table 1 shows a comparison of the molecular detection of respiratory viruses other than SARS‐CoV‐2 on nasopharyngeal swabs from our PED per 1000 emergency visits before school closure, between 13 February and 14 March, assuming a maximum incubation period for influenza of 4 days, and after school closure, between 15 March and 11 April."
+#### Results
+Virus tested| open schools|closed schools| RR (95% CI)
+------------|-------------|-------------|-------------------
+Total tests | 75.1 (69.1‐81.6) | 64.1 (60.3‐77.6) | 0.9 (0.7‐1)
+Influenza A | 8.7 (6.7‐11.1) | 0.3 (0.07‐1.5) | 0.03 (0.004‐0.2)
+Influenza B | 3.3 (2.2‐4.9) | 2.3 (1.1‐4.7) | 0.7 (0.3‐1.5)
+RSV |0.9 (0.4‐1.9) | 1 (0.3‐2.8)| 1.1 (0.3‐3.7
+Rhino/entero | 12.1 (9.7‐14.8) | 12.3 (9.7‐17.4)| 1 (0.7‐1.4)
+hMPV | 3.6 (2.4‐5.2) | 3.3 (1.9‐6.1)| 0.9 (0.5‐1.8)
+Common HCoVs | 3.1 (2‐4.6) |  2.3 (1.1‐4.7) | 0.7 (0.3‐1.6) 
+Adenovirus | 2.3 (1.3‐3.7) | 7.2 (5.1‐11.1) |3.2 (1.7‐5.8)
+Parainfluenza | 3.1 (2‐4.6)| 3.6 (2.1‐6.4) | 1.2 (0.6‐2.3)
+
+---
+   
+
 ### Summary Rader,Scarpino
 **Crowding and the shape of COVID-19 epidemics**
 Rader, B., Scarpino, S.V., Nande, A. et al.
-Nat Med (2020). https://doi.org/10.1038/s41591-020-1104-0
+Nat Med (2020). [https://doi.org/10.1038/s41591-020-1104-0]()
 
 #### Goal
 Figure out the effect of population densities (crowding), mobility, humidity on the overall and the temporal distribution of Covid-19 incidences. 
 
 #### Methods
 The incidence rates of Covid was analysed in China and Italy.
-There work consists of two parts: 
+Their work consists of two parts: 
 1. A spread analysis, using various statistical methods.
      * Regions which published independent Covid cases were considered as units. In China these were provinces [to confirm]. 
      * For each unit the population density is determined.
-     * To measure how peaky the incidence curves are, their Shannon entropy is calculated. 
-2. The spread was simulated. The simulation was done for different population models and with 
+     * To measure how peaky the incidence curves are, Shannon entropy is calculated. 
+2. The spread is simulated. The simulation is done for different population models [to check].
 
-
-#### Analysis Results
+#### 1. Analysis Results
 * lower density = sparse (rural areas): 
   * more peaked incidence rates, most of the infections are within 20 days (Figure 1a)
   * lower cumulative incidence (final attack rate)
 * high density = crowded (large cities): 
   * less peaked incidence rates, most of the cases are within 40 days (Figure 1a)
   * higher cumulative incidence rates
-
-#### Simulation Results
+#### 2. Simulation Results
 * lower density = sparse: 
   * intervention measures cause the incidence curve to flatten out and moderately reduce total case count (Figure 3 c and d)
 * high density = crowded: 
