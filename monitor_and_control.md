@@ -233,7 +233,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
 * Evidence: **Correction** ~~In Israel the reopening of schools seems to have contributed to increased spread~~ There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in other countries. 
   > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. More in work. 
 * ThinkThrough:
-  * Children are not main spreaders in the sense that there R value is low. If they spread then mainly with droplet transmission which can be prevented. 
+  * Children are not main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children). If they spread then mainly with droplet transmission which can be prevented. 
   * However:
     * Even with a low R value children can contribute to the overall spread. 
     * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams. 
