@@ -1,8 +1,11 @@
 # Spread Analyses
-[in work]
-* [Introduction](#introduction)
+**[in work]**
+* [Summary](#summary)
+* [Relevance](#relevance)
+* [Spread Patterns across the World](#spread-patterns-across-the-world)
   * [Methods](#methods)
-* [Observed Spread Patterns](#observed-spread-patterns)
+  * [Analyses of Regions](#analyses-of-regions)
+* [Spread Situations](#spread-situations)
   * [Cities versus Rural](#cities-versus-rural)
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
@@ -14,19 +17,41 @@
   * [Summary Rader,Scarpino](#summary-raderscarpino)
 * [References](#references)
 
+## Summary
+Covid-19 transmission correlates to the amount of air people breadth from each other. The amount of exchanged air is high 
+* indoors air with bad ventilation (either heated or air-conditioned) 
+* increased inhaling
+  * being at low air pressure (either high altitude or airplane) 
+  * activities such as singing, shouting or strains e.g. sports but also 
+The correlation to the amount of air exchanged is only explained by transmission through generalized aerosol. Generalized aerosol denotes either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission). 
 
-## Introduction
-A better understanding of the spread of Covid-19 helps to determine the optimal measures.
+The observations are founded by (1.) an analysis of Covid-19 data by regions and (2.) analyses of (super-)spreading in different situations. 
+1. [Spread Patterns across the World](#spread-patterns-across-the-world): Looking at the Covid-19 waves across the world. The waves are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Columbia and (winter sport) centers in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
+2. [Situations with Covid-19 spreading](#spread-situations) occurred or did not occur are described and analysed. 
+
+## Relevance 
+Analyses of Covid-19 helps to determine the optimal measures.
+
+
+## Spread Patterns across the World
+**[in work]**
+
 
 ### Methods
-* Analyses are based on 
-  1. literature and 
-  2. directly analyzing published Covid-19 data. 
-* The spread observed for Covid-19 is analysed and sometimes compared to the observed spread for other diseases. 
+For regions across the world the following is analysed:
+* Covid-19 cases and deaths to find Covid-waves i.e. time spans with increased spread
+* geographical, climate and social situations 
+  * while cases increase i.e. during the Covid-19 waves 
+  * while Covid-19 decrease or stay low despite having a relevant population of possible Covid spreaders (the spread in regions with very low case count where contact tracing can work, behave differently and will be analysed in future)
+
+### Analyses of Regions
 
 
-## Observed Spread Patterns
-[in work]
+## Spread Situations
+**[in work]**
+* Spreading events of Covid-19 are described
+* Spread patterns of Covid-19 and other diseases described in literature are summarized. 
+
 ### Cities versus Rural
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities. 
   * Observed by [Rader,Scarpino et al](#summary-raderscarpino).
@@ -165,6 +190,7 @@ Their work consists of two parts:
   * intervention measures cause the incidence curve to flatten out and moderately reduce total case count (Figure 3 c and d)
 * high density = crowded: 
   * intervention measures are crucial since without interventions prolonged spread with high numbers of infected is predicted (Figure 3 c and d)
+
 
 
 ## References
