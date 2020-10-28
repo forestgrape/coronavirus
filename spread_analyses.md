@@ -22,12 +22,12 @@ Covid-19 transmission correlates to the amount of air people breadth from each o
 * indoors air with bad ventilation (either heated or air-conditioned) 
 * increased inhaling
   * being at low air pressure (either high altitude or airplane) 
-  * activities such as singing, shouting or strains e.g. sports but also 
-The correlation to the amount of air exchanged is only explained by transmission through generalized aerosol. Generalized aerosol denotes either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission). 
+  * activities such as singing, shouting or strains e.g. sports
+The correlation to the amount of air exchanged is only explained by transmission through generalized aerosol (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). 
 
 The observations are founded by (1.) an analysis of Covid-19 data by regions and (2.) analyses of (super-)spreading in different situations. 
-1. [Spread Patterns across the World](#spread-patterns-across-the-world): Looking at the Covid-19 waves across the world. The waves are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Columbia and (winter sport) centers in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
-2. [Situations with Covid-19 spreading](#spread-situations) occurred or did not occur are described and analysed. 
+1. [Spread Patterns across the World](#spread-patterns-across-the-world): Looking at the Covid-19 waves across the world. The waves are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Texas in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Columbia and (winter sport) centers in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
+2. [Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described and analysed. 
 
 ## Relevance 
 Analyses of Covid-19 helps to determine the optimal measures.
@@ -81,9 +81,9 @@ References without a summary are in the section [References](#references). Copy 
 
 ### Summary Ehrhardt,Brockmann
 **Transmission of SARS-CoV-2 in children aged 0 to 19 years in childcare facilities and schools after their reopening in May 2020**
-Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wagner-Wiening C , Eichner M , Brockmann SO . , Baden-Württemberg, Germany. Euro Surveill. 2020;25(36):pii=2001587. [https://doi.org/10.2807/1560-7917.ES.2020.25.36.2001587]()
+Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wagner-Wiening C , Eichner M , Brockmann SO . , Baden-Württemberg, Germany. Euro Surveill. 2020;25(36):pii=2001587. [https://doi.org/10.2807/1560-7917.ES.2020.25.36.2001587]()
 #### Methods
-"We investigated data from severe acute respira- tory syndrome coronavirus 2 (SARS-CoV-2) infected 0–19year olds, who attended schools/childcare facili- ties, to assess their role in SARS-CoV-2 transmission after these establishments’ reopening in May 2020 in Baden-Württemberg, Germany."
+"We investigated data from severe acute respira- tory syndrome coronavirus 2 (SARS-CoV-2) infected 0–19year olds, who attended schools/childcare facili- ties, to assess their role in SARS-CoV-2 transmission after these establishments’ reopening in May 2020 in Baden-Württemberg, Germany."
 #### School Setting
 50% Group Size: Yes, Cleaning of Surface: Yes, Regular Ventilation: Yes, Hygiene: Yes, Face Mask in Break: Some, Face Mask in Classroom: No, Physical Distancing: Some, No Singing: Most, Physical Education: No
 #### Results
