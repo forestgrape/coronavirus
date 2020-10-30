@@ -66,7 +66,7 @@
 ## Updates
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
-- 28.10. (as of 10 am GMT only summaries available) Early results from [Spread Analyses](./spread_analyses.md) [currently in 'heavy' work] show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that Covid-19 is primarily transmitted through a form of [aerosol](./transmission.md#summary-airborne-transmission) and *not* through droplets or indirect contact. Thus being outside is safe with some distance. Good ventilation, less populated and high-filtration mask help indoors.
+- 28.10. (as of 10 am GMT only summaries available) Early results from [Spread Analyses](./spread_analyses.md) [currently in 'heavy' work] show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
     > This page started out with the proposal of a dry form aerosol transmission model to describe the early observed spread patterns. During the summer I started to acknowledge droplet transmission, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in october 2020 combined with extensive droplet preventions in place made me reanalyze: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning (Brazil, Middle East and Southern US, in California noteworthy is the difference between hot Los Angeles and temperate San Francisco), at very high altitudes with cold nights and increased breathing (La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia) or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
 - 25.10. New page [Spread Analyses](./spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings. 
 -  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a major role in the past (and current) Covid spread while protection measures are in place. Caveat: most investigations were done in summer climate. New section in work.
@@ -123,11 +123,11 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 [in rework]
 Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term adverse effects are possible too for other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
-> Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
+> Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
 
 > Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page.
  
-Time to act mindfully, carefully and circumspectly. Let's work together in an open, fair and honest way. 
+Time to act mindfully, carefully and circumspectly & work together in an open, fair and honest way. 
 
 
 ### Sars-CoV-2 transmission 
@@ -157,7 +157,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     - Outdoor and indoor: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    Ideally masks are as comfortable so one doesn't mind wearing them. In some situations a dense mask with a good fit is necessary: e.g. hospitals and indoor with very dry air. Generally any clean mask protects better than no mask. 
+    Ideally masks are as comfortable so one doesn't mind wearing them. In some situations a dense mask with a good fit is necessary: e.g. hospitals and indoor with very dry air. Generally any clean mask protects better than no mask. Nevertheless if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
 
     Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
@@ -263,7 +263,7 @@ The goal of this section is to trace the natural habitats of Sars-like viruses.
 * observing the natural habitat can provide knowledge and ideas to develop medications and treatments.
 
 ### Hypotheses
-Sketching hypotheses about the habitat of SARS-like including pieces of evidence. [a more in depth exploration and explanation is in work: [Habitat and Life Cycle of Coronavirus Organisms]]
+Sketching hypotheses about the habitat of SARS-like including pieces of evidence. [a more in depth exploration and explanation is in work: [Hypotheses about Nidovirales]]
 Summaries of references, that base and inspire this findings, are on the page [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md#summarized-references)
 
 1. The virus strains closely related to SARS-CoV-2 and including those using the ACE 2 receptor are endemic to the region around northern Yunnan. Evidence:
