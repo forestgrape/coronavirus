@@ -321,9 +321,38 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
 From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
 
 ### Monitor Prevalence
-To adjust the measures and to communicate these it is important to monitor different incidence rates. Ideally these are taken near daily, else at least weekly. Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring.  
+To adjust the measures and to communicate these it is important to monitor different incidence rates:
+* Since what control tactics is optimal and/or needed depends largely on incidence rates. If the incidence rate is out of some bounds the strategy may fail to work or be unnecessary strict: 
+  * Controlling methods relying on a working contact tracing need low incidence rates and detecting most cases with monitoring. To rely on contact tracing detection rate should be at least 75%. Still useful if lower but one shouldn't rely on it.   
+  * Many controlling methods rely on methods reducing the infection probability but not preventing it (e.g. distancing, low-filter face masks), that only works if there are not to many infected 
+  * Shutting down targeted businesses (badly ventilated offices and fabrics are the fare bigger risk than schools or outdoor gastronomy) may no be adequate at an incidence rate of 0.1% of currently infected but be suitable if 10% are currently infected.
+* Planning of in hospitals: Knowing the current incidence rates gives an estimate for the capacity needed in a few weeks
+* Communication: Knowing the cases helps on decision for everybody such if to avoid crowded spaces or staying home when having respiratory symptoms 
 
-#### Helpful Information
+#### Detect Monitor Failure
+* if monitoring is not already done with incidence sampling, sampling can be used (works only if cases are higher)
+* The equation 
+`current_death_count = infections_20-30_days_ago * fatality_rate` 
+can be used to detect if the monitoring methods worked in the past. Assuming a fatality rate of 0.25% yields one in 400 dies from Covid-19. So the 
+`estimated_past_case_count = 400 * current_death_count` 
+The case count often will be lower, since not all positive are detected:
+`correction_factor = estimated_past_case_count/past_case_count`
+If the testing strategies didn't change the current actual infected can be estimated with the correction_factor: 
+`actual_current_case_count = current_case_count * correction_factor`.
+  > // A correction factor greater than 2 needs redesign of the case count. A correction factor larger than 4 combined with a death count greater than 1 per million per day I consider worrying. Tactics likely need to uniform across movement areas.
+  
+  <!--
+  =>
+  > * Pausing infections especially all super-spreading opportunities (indoor settings)
+  > * sample and estimate the numbers
+  > * see what tactics suits the strategy
+-->
+ 
+#### How
+* Ideally these are taken near daily, else at least weekly. 
+* Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring. 
+
+##### Helpful Information
 1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
     > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the transmissions. ([Example Calculation of Spread](#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine))
 2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
@@ -331,7 +360,7 @@ To adjust the measures and to communicate these it is important to monitor diffe
   * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
   * long term adverse effects of common colds are likely underestimated. This is a good opportunity to diminish there prevalence and reduce the number of strains circulating. 
 
-#### Testing Priorities at High Incidence 
+##### Testing Priorities at High Incidence 
 1. Testing of risk patients. Reason: Appropriate treatment.  
 2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
 3. How many people with respiratory disease symptoms have Covid-19. Reason: [Helpful Information](#helpful-information)
@@ -340,7 +369,7 @@ To adjust the measures and to communicate these it is important to monitor diffe
 6. Monitoring respiratory diseases: influenza and common colds. Reason: [Helpful Information](#helpful-information)
 7. Tests for travel permissions, quarantine cancel and so on.
     
-#### Testing Priorities at Low Incidence 
+##### Testing Priorities at Low Incidence 
 1. Testing of risk patients. Reason: An appropriate treatment from early on.
 2. Health care workers and other groups with contact to risk groups
 3. Tests to do contact tracing and quarantine cancel
