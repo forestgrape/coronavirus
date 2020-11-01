@@ -18,7 +18,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 * [Monitor](#monitor)
   * [Monitor Evolution](#monitor-evolution)
   * [Monitor Prevalence](#monitor-prevalence)
-  * [Testing](#testing)
+  * [Testing Schemes](#testing-schemes)
 * [Data](#data)
   * [Distributed Handling](#distributed-handling)
 * [References](#references)
@@ -352,7 +352,7 @@ A correction factor greater than 2 needs redesign of the case count. A correctio
   * pause of non essential visits to hospitals and so on
 * sample and estimate the numbers
   * should be doable within a few days
-  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (doing the math is not straight forward. A rough estimate can be obtained by assuming a uniform distribution of Covid cases. However the distribution is likely not uniform but peaky due to super-spreading events and it may vary a lot across regions. What can be done: From a first round of sampling a distribution can be estimated which in turn can be used to determine how much sampling is necessary.) 
+  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (Doing the math is not straight forward. A rough estimate can be obtained by assuming a uniform distribution of Covid cases. However the true distribution is likely not uniform but peaky due to super-spreading events and it may vary a lot across regions. What can be done: From a first round of sampling distribution(s) can be estimated which in turn can be used to determine error rates respectively how much sampling is necessary.) 
 * choosing tactics suiting the strategy given the situation
  
 
@@ -368,15 +368,20 @@ A correction factor greater than 2 needs redesign of the case count. A correctio
 * **Frequency:** Ideally these are taken near daily, else at least weekly. 
 * **Communicate:** Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring. 
 * **Methods:** 
+  see also [testing schemes](#testing-schemes)
+  * **very low to low incidence:** case counts 
+  * **low to mid incidence:** case counts people turn up for testing can be used. The contact tracing yields then additional cases which can be used to scale counts from those who asked for tests. 
+  * **mid to high incidence:** sampling
 
-### Testing
+### Testing Schemes
+Testing some for low and high incidence. Reasons are noted or already mentioned in the section [What to Monitor](#what-to-monitor).
 #### Testing Priorities at High Incidence 
 1. Testing of risk patients. Reason: Appropriate treatment.  
 2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
-3. How many people with respiratory disease symptoms have Covid-19. Reason: [Helpful Information](#helpful-information)
+3. How many people with respiratory disease symptoms have Covid-19. 
 4. Tests to do contact tracing. Reason: Break infection chains
-5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. Reason: [Helpful Information](#helpful-information)
-6. Monitoring respiratory diseases: influenza and common colds. Reason: [Helpful Information](#helpful-information)
+5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. 
+6. Monitoring respiratory diseases: influenza and common colds. 
 7. Tests for travel permissions, quarantine cancel and so on.
     
 #### Testing Priorities at Low Incidence 
