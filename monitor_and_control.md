@@ -353,7 +353,7 @@ If the testing strategies didn't change the current actual infected can be estim
 
 
 #### On Monitor and Control Failure
-A correction factor greater than 2 needs redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 1 per million per day I consider worrying (Sections [Strategy](#strategy) and [On Numbers](#on-numbers)). How much worrying depends if, how effective and when measures have been adapted. 
+A correction factor greater than 2 needs redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](#strategy) and [On Numbers](#on-numbers)). How much worrying depends if, how effective and when measures have been adapted. 
 Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/controls/reduction can be necessary.
 
 * Pausing infections especially everything super-spreading opportunities i.e. indoor rooms. 
@@ -423,16 +423,15 @@ Implications:
 * tcip = tcim / 1000
 
 ### Numbers and Comments
-The **numbers can vary greatly** across regions and hospitals capacities and population structure. The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). The numbers for the infections (tcip, tcim and cpm) are a few weeks ahead of the death count (dpm).  
+The **numbers can vary greatly** across regions and hospitals capacities, population structure and how the infection are distributed across the population. The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). The numbers for the infections (tcip, tcim and cpm) are a few weeks ahead of the death count (dpm). The case count are the **actual** infected and not only the positive tested. 
 [in work]
 tcip  | tcim | cpm | dpm | comment if the dpm is greater than the value over a week and *no* adequate measures in place
 ------|--------|-----|-----|---
-<0.1%  |1 K    | 100 |  ~.25| if less: loose rules, mainly own responsibility
->0.1%  |1 K    | 100 |  ~.25| take care
->0.4%  |4 K    | 400  |    ~1 | **exact monitoring** to plan needed else worrisome, prefer outdoor to indoor
->1%    |10 K   | 1000 |  ~2.5 | worrisome, tighten the rules, infection risk increases due to many infected. 
->4%    |40 K   | 4000 |  ~10  | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
-> 5%   |50 K   | 5000 | ~12.5  | **try to prevent**, infection risk very high, temporary hospitals may be needed 
+<0.4 %  |4 K    | 400  |    ~1 | if less/not growing/mainly young infected: loose rules, own responsibility
+>0.4 %  |4 K    | 400  |    ~1 | if greater/or growing **monitoring** needed. Prefer outdoor to indoor
+>1 %    |10 K   | 1000 |  ~2.5 | worrisome if case growth and no good monitoring=> tighten the rules, infection risk increases due to many infected. 
+>4 %    |40 K   | 4000 |  ~10  | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
+> 5%   |50 K   | 5000 | ~12.5  | **to prevent**, infection risk high, temporary hospitals may be needed 
 > 10%  |100 K  |10'000| ~25+  | hospitals get overwhelmed, prevent even at very high costs, reached in regions caught on the wrong foot
 >  15%   |150_K  |15'000| ~50++ | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
 
