@@ -3,7 +3,12 @@
 * [Public Description](#public-description)
 * [Symptoms](#symptoms)
   * [Early Symptoms](#early-symptoms)
+* [Fatality Rate](#fatality-rate)
+  * [Measure Method](#measure-method)
+  * [Estimates](#estimates)
 * [Infection Tropism](#infection-tropism)
+* [References](#references)
+  * [ioannidis](#ioannidis)
 * [Appendix](#appendix)
 
 
@@ -35,6 +40,21 @@ The early symptoms depend on the initial infection location. Since most infectio
   * symptoms of a common cold: Runny nose, headache, sore throat, upper cough
 
 
+## Fatality Rate
+[in work]
+The death rate depends on many factors and varies considerably. 
+### Measure Method
+The death rate depends on how a Covid-19 infection is defined and measured: E.g. not to all infection in the upper respiratory tract the body responds with antibodies or only antibodies of a specific type. On the other hand a lower respiratory tract infection may yield antibodies but be negative at a single PCR for the upper respiratory tract. 
+### Estimates
+[in work]
+* John Ioannidis inferred the death rate from seroprevalence data across the world. Results:
+  * 0.27% is the median COVID-19 infection fatality rate   (0.23% if corrected for the number of antibody types tested (immunoglobin, IgG, IgM, IgA))
+  * 0.09% in locations with COVID-19 population mortality rates less than the global average (< 118 deaths/million)
+  * 0.20% in locations with 118–500 COVID-19 deaths/million people
+  * 0.57% in locations with > 500 COVID-19 deaths/million people
+  * 0.05% corrected median for people younger than 70 years
+
+
 ## Infection Tropism 
 How a virus infection behaves is an interplay of host factors including the host immune system, the behavior of the virus and environmental factors.
 
@@ -47,6 +67,14 @@ How a virus infection behaves is an interplay of host factors including the host
     - the travel of virions between hosts and thus the mode of the initial infection. E.g. in dry air exhaled droplets dry out and these are more likely to be absorbed deep in the lungs. 
     - Environmental factors influence host factors and thus indirectly the course of the disease.
     
+
+
+## References
+
+### ioannidis
+Ioannidis J. The infection fatality rate of COVID-19 inferred from seroprevalence data. 
+accessed version published on 14.10.2020: https://www.who.int/bulletin/online_first/BLT.20.265892.pdf
+
 
 ## Appendix
 > I likely had Covid-19 myself in early to mid March 2020 when temperatures were still about -10 degree Celsius in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to official prevalence and 3) lastly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session which by itself went well, but it turned out to have been a bad idea: since in the following days some chills started and accompanied by a temperature increase, up to 36.x from my normal range 34.5 - 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later on temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started seriously considering Covid.
