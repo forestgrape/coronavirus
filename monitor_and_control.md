@@ -425,7 +425,7 @@ Implications:
 ### Numbers and Comments
 The **numbers can vary greatly** across regions and hospitals capacities and population structure. The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). The numbers for the infections (tcip, tcim and cpm) are a few weeks ahead of the death count (dpm).  
 [in work]
-tcip  | _tcim  | cpm | dpm | comment if the dpm is greater than the value over a week and *no* adequate measures in place
+tcip  | tcim | cpm | dpm | comment if the dpm is greater than the value over a week and *no* adequate measures in place
 ------|--------|-----|-----|---
 <0.1%  |1 K    | 100 |  ~.25| if less: loose rules, mainly own responsibility
 >0.1%  |1 K    | 100 |  ~.25| take care
@@ -434,7 +434,7 @@ tcip  | _tcim  | cpm | dpm | comment if the dpm is greater than the value over a
 >4%    |40 K   | 4000 |  ~10  | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
 > 5%   |50 K   | 5000 | ~15  | **try to prevent**, infection risk very high, temporary hospitals may be needed 
 > 10%  |100 K  |10'000| ~25+  | hospitals get overwhelmed, prevent even at very high costs, reached in regions caught on the wrong foot
->  15%   |150 K  |15'000| ~50++ | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
+>  15%   |150_K  |15'000| ~50++ | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
