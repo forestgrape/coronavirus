@@ -432,7 +432,7 @@ tcip  | tcim | cpm | dpm | comment if the dpm is greater than the value over a w
 >0.4%  |4 K    | 400  |    ~1 | **exact monitoring** to plan needed else worrisome, prefer outdoor to indoor
 >1%    |10 K   | 1000 |  ~2.5 | worrisome, tighten the rules, infection risk increases due to many infected. 
 >4%    |40 K   | 4000 |  ~10  | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
-> 5%   |50 K   | 5000 | ~15  | **try to prevent**, infection risk very high, temporary hospitals may be needed 
+> 5%   |50 K   | 5000 | ~12.5  | **try to prevent**, infection risk very high, temporary hospitals may be needed 
 > 10%  |100 K  |10'000| ~25+  | hospitals get overwhelmed, prevent even at very high costs, reached in regions caught on the wrong foot
 >  15%   |150_K  |15'000| ~50++ | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
 
