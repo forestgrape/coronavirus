@@ -19,6 +19,8 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Monitor Evolution](#monitor-evolution)
   * [Monitor Prevalence](#monitor-prevalence)
   * [Testing Schemes](#testing-schemes)
+* [On Numbers](#on-numbers)
+  * [Numbers and Comments](#numbers-and-comments)
 * [Data](#data)
   * [Distributed Handling](#distributed-handling)
 * [References](#references)
@@ -27,6 +29,15 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Control and Containing Measures](#control-and-containing-measures)
 
 
+> ## Strategy 
+> Mind set I follow to tackle SARS-CoV-2:
+> * communication and explanation 
+> * knowledge & research
+> * taking own responsibility and independent decisions
+> * moderate measures preserving overall life quality: settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
+> * avoid uncontrollable spread and hospital overwhelming
+> 
+> In numbers, this means loose until a current total infected incidence (assuming 10 days infection duration) of .1%, tighten the belt towards 1%, prevent reaching 5% and prevent even at high cost reaching 10% or above ([more on numbers](#on-numbers)).
 
 ## Protection Measures
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
@@ -197,7 +208,7 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 
 ### Slow Down of Nightlife
-A slow down of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
+A reduction of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
 * Evidence: 
   * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife [citations coming]. 
   * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In countries with low case numbers and extensive contact tracing, e.g. South Korea [and Japan, to check] many infections have been traced to clubs [citations in work].  
@@ -313,8 +324,6 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
     * water
     * rocks
 
-
-
 ## Monitor 
 
 ### Monitor Evolution
@@ -342,12 +351,14 @@ The case count often will be lower, since not all positive are detected:
 If the testing strategies didn't change the current actual infected can be estimated with the correction_factor: 
 `actual_current_case_count = current_case_count * correction_factor`.
 
-#### On Monitor Failure
-A correction factor greater than 2 needs redesign of the case count. A correction factor larger than 5 combined with a death count greater than 1 per million per day I consider worrying. How much worrying depends how much and when the measures have been corrected/adapted. Transmissions should be reduce and mostly prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement restrictions can be necessary.
+
+#### On Monitor and Control Failure
+A correction factor greater than 2 needs redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 1 per million per day I consider worrying (Sections [Strategy](#strategy) and [On Numbers](#on-numbers)). How much worrying depends if, how effective and when measures have been adapted. 
+Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/controls/reduction can be necessary.
 
 * Pausing infections especially everything super-spreading opportunities i.e. indoor rooms. 
   * closure of non essential businesses
-  * for somewhat essential businesses e.g. longer distance public transport names could be taken and people need to hand in some argumentation in the next weeks why it was essential to enter. This causes few immediate work/tumults but likely discourages most from unnecessarily entering. 
+  * for somewhat essential businesses e.g. longer distance public transport: names can be recorded and people need to hand in some argumentation in the next weeks why it was essential to enter. This causes few immediate work/tumults but likely discourages most from unnecessarily entering. 
   * whitelist approach if doable e.g. negative test/no fever required
   * pause of non essential visits to hospitals and so on
 * sample and estimate the numbers
@@ -392,6 +403,38 @@ Testing some for low and high incidence. Reasons are noted or already mentioned 
 5. Tests for travel permissions and so on. 
 
 
+## On Numbers
+[in work]
+Assumptions: 
+* fatality rate of .25% i.e. 1 in 400 (The [death rate](./covid19.md#fatality-rate) depends on many factors and varies considerably); 
+* average disease duration 10 days; 
+ 
+Notations and Definitions:
+* all counts are day counts unless noted otherwise
+* dpm = death count per million inhabitants per day
+* cpm = case count per million inhabitants per day (**real infected** not only those who turn up for tests or get contact traced)
+* tcim = total current infected per million
+* tcip = total current infected in percent 
+* K = 1000 i.e. 10 K = 10'000
+> 
+Implications:
+* 1 dpm corresponds 400 cpm
+* total current infected = 10 * cpm
+* tcip = tcim / 1000
+
+### Numbers and Comments
+The **numbers can vary greatly** across regions and hospitals capacities and population structure. The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). The numbers for the infections (tcip, tcim and cpm) are a few weeks ahead of the death count (dpm).  
+[in work]
+tcip  | _tcim  | cpm | dpm | comment if the dpm is greater than the value over a week and *no* adequate measures in place
+------|--------|-----|-----|---
+<0.1%  |1 K    | 100 |  ~.25| if less: loose rules, mainly own responsibility
+>0.1%  |1 K    | 100 |  ~.25| take care
+>0.4%  |4 K    | 400  |    ~1 | **exact monitoring** to plan needed else worrisome, prefer outdoor to indoor
+>1%    |10 K   | 1000 |  ~2.5 | worrisome, tighten the rules, infection risk increases due to many infected. 
+>4%    |40 K   | 4000 |  ~10  | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in regions of Switzerland (VS, SZ)
+> 5%   |50 K   | 5000 | ~15  | **try to prevent**, infection risk very high, temporary hospitals may be needed 
+> 10%  |100 K  |10'000| ~25+  | hospitals get overwhelmed, prevent even at very high costs, reached in regions caught on the wrong foot
+>  15%   |150 K  |15'000| ~50++ | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
