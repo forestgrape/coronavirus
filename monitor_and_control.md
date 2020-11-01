@@ -343,7 +343,7 @@ If the testing strategies didn't change the current actual infected can be estim
 `actual_current_case_count = current_case_count * correction_factor`.
 
 #### On Monitor Failure
-A correction factor greater than 2 needs redesign of the case count. A correction factor larger than 5 combined with a death count greater than 1 per million per day I consider worrying. Tactics likely need to be uniform across movement areas and between them movement restrictions. Transmissions should be reduce and mostly prevented until a clear view is available:
+A correction factor greater than 2 needs redesign of the case count. A correction factor larger than 5 combined with a death count greater than 1 per million per day I consider worrying. How much worrying depends how much and when the measures have been corrected/adapted. Transmissions should be reduce and mostly prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement restrictions can be necessary.
 
 * Pausing infections especially everything super-spreading opportunities i.e. indoor rooms. 
   * closure of non essential businesses
@@ -352,8 +352,8 @@ A correction factor greater than 2 needs redesign of the case count. A correctio
   * pause of non essential visits to hospitals and so on
 * sample and estimate the numbers
   * should be doable within a few days
-  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% 
-* see what tactics suits the strategy given the situation
+  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (doing the math is not straight forward. A rough estimate can be obtained by assuming a uniform distribution of Covid cases. However the distribution is likely not uniform but peaky due to super-spreading events and it may vary a lot across regions. What can be done: From a first round of sampling a distribution can be estimated which in turn can be used to determine how much sampling is necessary.) 
+* choosing tactics suiting the strategy given the situation
  
 
 #### What to Monitor
@@ -367,6 +367,7 @@ A correction factor greater than 2 needs redesign of the case count. A correctio
 #### How to Monitor
 * **Frequency:** Ideally these are taken near daily, else at least weekly. 
 * **Communicate:** Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring. 
+* **Methods:** 
 
 ### Testing
 #### Testing Priorities at High Incidence 
