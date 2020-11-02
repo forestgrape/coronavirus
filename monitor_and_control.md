@@ -2,6 +2,7 @@
 # Thoughts on Monitor and Controlling Sars-CoV-2
 This section extends and   [Public Advices and Suggestions](./index.md#public-advice) section. 
 
+* [Strategy](#strategy)
 * [Protection Measures](#protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
@@ -29,19 +30,25 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Control and Containing Measures](#control-and-containing-measures)
 
 
-> ## Strategy 
+## Strategy 
 > Mind set I follow to tackle SARS-CoV-2:
 > * communication and explanation 
 > * knowledge & research
+> * trying new paths even at the risk of stumbling
 > * taking own responsibility and independent decisions
 > * Moderate measures preserving life quality. To goal of this page is to focus on overall life quality. This includes keeping all death causes in mind, the numbers, the damage caused, life quality cost (which can include economic costs) of preventing them. // at least advertisements should be banned for things known to be harmful. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving add costs. 
 > * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
 > * but strictly avoiding uncontrollable spread and hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. 
 > 
-> As long as the infections are mainly among young and the hospitals not filling with Covid patients, the rules can be few and mainly based on own responsibility. But if the hospitals are filling and the deaths increase, it's time to tighten the rules ([more on numbers](#on-numbers)). In cold areas/times the rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas window should be open and air-conditioning should not be used. In unknown territory obstacles can go unnoticed at first and so an emergency stop can be needed: Outdoor days - which means stopping all non essential entries to foreign or public indoor settings. Everything extraordinary should be analyzed, even antibiotics where discovered like this. 
+> If hospitals are filling and the deaths increase, it is time tighten the rules ([more on numbers](#on-numbers)).  
+>
+> ### Reconsidering
+> In cold areas/times the strategy above is to loose and rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas window should be open and air-conditioning should not be used.
+> 
+> In unknown territory obstacles can go unnoticed at first and so an emergency stop can be needed: Outdoor days - which means stopping all non essential entries to foreign or public indoor settings. Everything extraordinary should be analyzed, even antibiotics where discovered like this. 
 
 ## Protection Measures
-The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
 ### Support Immune Protection
 Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases, this should be the main focus. 
@@ -426,21 +433,21 @@ Notations and Equivalences:
 [in work and to be checked]
 * The **numbers can vary greatly** across regions and hospitals capacities, population structure and how the infection are distributed across the population. 
 * The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). 
-* The numbers for the infections are a few weeks ahead of the death count (dpm). The counts getting from testing symptomatic people are between.
 * The case counts are the **actual** infected and not only the positive tested. 
 * The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
 [in work]
 * the numbers should be **lower during cold seasons**, since aerosol transmission is very hard to control. Some immune protection can be built up in warm seasons but not in cold season. 
+* The current numbers need to be estimated. The death count detects infections happened about 20 days in the past. The counts from contact tracing or testing symptomatic are a few days in the past. 
   
 total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment if the estimated values are for several days greater and *no* adequate measures in place
 --------|--------|------|--------|---
 <0.2%   |2 K     | 200  |    ~.5 | if less/not increasing/mainly young infected: loose rules, own responsibility
 >0.4%   |4 K     | 400  |    ~1  | if greater/or increasing: **monitoring** needed. Prefer outdoor to indoor
->1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases and no good monitoring=> tighten the rules, infection risk is increased due to many infected. 
+>1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
 >4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
-> 5%    |50 K    | 5000 | ~12.5  | **to prevent**, infection risk high, temporary hospitals may be needed 
-> 10%   |100 K   |10'000| ~25+   | **prevent even at very high costs** (at all economic costs), hospitals get overwhelmed, reached in regions caught on the wrong foot
->  15%  |150_K   |15'000| ~50++  | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
+> 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection very risk high for everybody, temporary hospitals may be needed 
+> 10%   |100 K   |10'000| ~25+   | **prevent even at very high costs and all economic costs**, hospitals get overwhelmed, reached in regions caught on the wrong foot
+>  15%  |150_K   |15'000| ~50++  | hospitals completely overwhelmed and chaotic therefore death rate doubles or more, reached in heaviest hit regions. 
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
