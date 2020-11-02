@@ -423,6 +423,7 @@ Implications:
 * tcip = tcim / 1000
 
 ### Numbers and Comments
+[in work and to be checked]
 The **numbers can vary greatly** across regions and hospitals capacities, population structure and how the infection are distributed across the population. The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). The numbers for the infections (tcip, tcim and cpm) are a few weeks ahead of the death count (dpm). The case count are the **actual** infected and not only the positive tested. The case counts/incidence can be higher for young people without problems. The case counts/incidences below are averages for population groups with risk for severe Covid. 
 [in work]
 tcip  | tcim | cpm | dpm | comment if the dpm is greater than the value over a week and *no* adequate measures in place
