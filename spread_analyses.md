@@ -1,10 +1,10 @@
 # Spread Analyses
 **[in work]**
 * [Summary](#summary)
-* [Relevance](#relevance)
-* [Spread Patterns across the World](#spread-patterns-across-the-world)
   * [Methods](#methods)
-  * [Analyses of Regions](#analyses-of-regions)
+  * [Spread Analyses in South Americas](#spread-analyses-in-south-americas)
+  * [Argentina](#argentina)
+  * [Brazil](#brazil)
 * [Spread Situations](#spread-situations)
   * [Cities versus Rural](#cities-versus-rural)
   * [Schools and Children](#schools-and-children)
@@ -23,34 +23,42 @@ Covid-19 transmission correlates to the amount of air people breadth from each o
 * increased inhaling
   * being at low air pressure (either high altitude or airplane) 
   * activities such as singing, shouting or strains e.g. sports
-The correlation to the amount of air exchanged is only explained by transmission through generalized aerosol (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). 
+The correlation to the amount of air exchanged is explained by a generalized aerosol transmission (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For droplet transmission one excepts the distance and speaking method would be expected to matter most, instead of the inhaled air to play a role rather.
 
-The observations are founded by (1.) an analysis of Covid-19 data by regions and (2.) analyses of (super-)spreading in different situations. 
-1. [Spread Patterns across the World](#spread-patterns-across-the-world): Looking at the Covid-19 waves across the world. The waves are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Texas in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Columbia and (winter sport) centers in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
+Regarding prevention measures the takeaway is, that transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away. 
+
+The observations are founded by (1.) an analysis of Covid-19 data by regions and (2.) analyses of spread observations in different situations. 
+1. [Spread Patterns across the World](#spread-patterns-across-the-world): Looking at the Covid-19 waves across the world. The waves are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Arizona in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
 2. [Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described and analysed. 
 
-## Relevance 
-Analyses of Covid-19 helps to determine the optimal measures.
 
 
-## Spread Patterns across the World
 **[in work]**
-
 
 ### Methods
 For regions across the world the following is analysed:
 * Covid-19 cases and deaths to find Covid-waves i.e. time spans with increased spread
-* geographical, climate and social situations 
+* geographical, climate and social situations including measures to flatten/prevent Covid 
   * while cases increase i.e. during the Covid-19 waves 
   * while Covid-19 decrease or stay low despite having a relevant population of possible Covid spreaders (the spread in regions with very low case count where contact tracing can work, behave differently and will be analysed in future)
 
-### Analyses of Regions
+### Spread Analyses in South Americas
+Most countries in South Americas recorded many cases, a notable exception is Uruguay with very few cases and only a couple of deaths. The geographic and social situation are hugely different across the Continent. 
+All countries provided programs for financial support and additionally:
+- Nationwide Quarantines: Argentina, Bolivia, Columbia, Ecuador, Peru, Chile[to Check]
+- Stay at home recommendation: Uruguay
+- No/few nationwide rules: Brazil 
+
+### Argentina
+
+### Brazil
+* The Death Rate is highest in the gov district in capital Brasilia
+* the 
 
 
 ## Spread Situations
 **[in work]**
-* Spreading events of Covid-19 are described
-* Spread patterns of Covid-19 and other diseases described in literature are summarized. 
+Spread situations and patterns of Covid-19 and other diseases described in literature. 
 
 ### Cities versus Rural
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities. 
