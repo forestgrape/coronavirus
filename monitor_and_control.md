@@ -34,11 +34,11 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * communication and explanation 
 > * knowledge & research
 > * taking own responsibility and independent decisions
-> * moderate measures preserving/focusing on overall life quality
+> * moderate measures preserving and focusing on overall life quality. This includes keeping all death causes in mind. // at least advertisements should be banned for things known to be harmful. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer about saving add costs. 
 > * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
 > * but strictly avoiding uncontrollable spread and hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients.
 > 
-> As long as the infections are mainly among young and the hospitals not filling with Covid patients, the rules can be few and mainly based on own responsibility. But if the hospitals are filling and the deaths increase, it's time to tighten the rules ([more on numbers](#on-numbers)).
+> As long as the infections are mainly among young and the hospitals not filling with Covid patients, the rules can be few and mainly based on own responsibility. But if the hospitals are filling and the deaths increase, it's time to tighten the rules ([more on numbers](#on-numbers)). In cold areas/times the rules need to be tighter. In warm areas air-conditioning never should be used. Even an emergency stop can be needed: Outdoor days and it means stopping all non essential entries to foreign or public indoor settings. 
 
 ## Protection Measures
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
@@ -430,15 +430,16 @@ Notations and Equivalences:
 * The case counts are the **actual** infected and not only the positive tested. 
 * The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
 [in work]
-
-total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment for the case the death count is greater than the value over several days and *no* adequate measures in place
+* the numbers should be **lower during cold seasons**, since aerosol transmission is very hard to control. Some immune protection can be built up in warm seasons but not in cold season. 
+  
+total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment if the estimated values are for several days greater and *no* adequate measures in place
 --------|--------|------|--------|---
 <0.2%   |2 K     | 200  |    ~.5 | if less/not increasing/mainly young infected: loose rules, own responsibility
 >0.4%   |4 K     | 400  |    ~1  | if greater/or increasing: **monitoring** needed. Prefer outdoor to indoor
 >1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases and no good monitoring=> tighten the rules, infection risk is increased due to many infected. 
 >4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
 > 5%    |50 K    | 5000 | ~12.5  | **to prevent**, infection risk high, temporary hospitals may be needed 
-> 10%   |100 K   |10'000| ~25+   | hospitals get overwhelmed, prevent even at very high costs, reached in regions caught on the wrong foot
+> 10%   |100 K   |10'000| ~25+   | **prevent even at very high costs** (at all economic costs), hospitals get overwhelmed, reached in regions caught on the wrong foot
 >  15%  |150_K   |15'000| ~50++  | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
 
 ## Data 
