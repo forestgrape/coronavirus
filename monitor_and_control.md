@@ -37,7 +37,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * moderate measures preserving overall life quality: settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
 > * avoid uncontrollable spread and hospital overwhelming
 > 
-> In numbers, as long as the infections are mainly among young and there are only few deaths the rules can be relaxed. But if the deaths increase and the hospitals fill, it's time to tighten the belt ([more on numbers](#on-numbers)).
+> As long as the infections are mainly among young and the hospitals not filled with Covid patients, the rules can be few and mainly based on own responsibility. But if the hospitals fill and the deaths increase, it's time to tighten the rules ([more on numbers](#on-numbers)).
 
 ## Protection Measures
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
@@ -428,7 +428,7 @@ The **numbers can vary greatly** across regions and hospitals capacities, popula
 [in work]
 tcip  | tcim | cpm | dpm | comment if the dpm is greater than the value over a week and *no* adequate measures in place
 ------|--------|-----|-----|---
-<0.4 %  |4 K    | 400  |    ~1 | if less/not growing/mainly young infected: loose rules, own responsibility
+<0.2 %  |2 K    | 200  |    ~.5 | if less/not growing/mainly young infected: loose rules, own responsibility
 >0.4 %  |4 K    | 400  |    ~1 | if greater/or growing **monitoring** needed. Prefer outdoor to indoor
 >1 %    |10 K   | 1000 |  ~2.5 | worrisome if case growth and no good monitoring=> tighten the rules, infection risk increases due to many infected. 
 >4 %    |40 K   | 4000 |  ~10  | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
