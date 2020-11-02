@@ -9,7 +9,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Distancing](#distancing)
   * [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine)
 * [Thoughts about Social Measures](#thoughts-about-social-measures)
-  * [Slow Down of Nightlife](#slow-down-of-nightlife)
+  * [Reduction of Nightlife](#reduction-of-nightlife)
   * [Reduce Alcohol Consumption](#reduce-alcohol-consumption)
   * [Corona Conform Schooling](#corona-conform-schooling)
 * [Risk Assessment](#risk-assessment)
@@ -34,10 +34,11 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * communication and explanation 
 > * knowledge & research
 > * taking own responsibility and independent decisions
-> * moderate measures preserving overall life quality: settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
-> * avoid uncontrollable spread and hospital overwhelming
+> * moderate measures preserving/focusing on overall life quality
+> * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
+> * but strictly avoiding uncontrollable spread and hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients.
 > 
-> As long as the infections are mainly among young and the hospitals not filled with Covid patients, the rules can be few and mainly based on own responsibility. But if the hospitals fill and the deaths increase, it's time to tighten the rules ([more on numbers](#on-numbers)).
+> As long as the infections are mainly among young and the hospitals not filling with Covid patients, the rules can be few and mainly based on own responsibility. But if the hospitals are filling and the deaths increase, it's time to tighten the rules ([more on numbers](#on-numbers)).
 
 ## Protection Measures
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of close range droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
@@ -185,7 +186,7 @@ To reduce spread isolation/home-lockdown is a radical measure. The more is known
     - indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at 
     risk.
 
-    Preventing spread opportunities e.g. both indoor and crowded public spaces is crucial however.
+    Preventing spread opportunities e.g. both indoor and crowded public spaces is important however.
 
 Isolation/stay-at-home may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
 
@@ -207,14 +208,14 @@ This sections discusses measures that can be put in place if Covid-19 increase r
   The points above are summarized to a subjective rating/comment and a recommendation. The overall rating is subjective since it relies on  subjective weighting and subjective rating of the single points. 
 
 
-### Slow Down of Nightlife
+### Reduction of Nightlife
 A reduction of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
 * Evidence: 
   * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife [citations coming]. 
   * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In countries with low case numbers and extensive contact tracing, e.g. South Korea [and Japan, to check] many infections have been traced to clubs [citations in work].  
 * ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. Drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
 * Experiences: 
-  * An early closure of nightlife was implemented in (combined with recommendations such as distancing and mask wearing)
+  * An early closure of nightlife was implemented in (excat measures to be checked, combined with other measures/recommendations)
     * Greece  (11.8.20, closing between 24 pm and 7 am)
     * Denmark (15.9.20, closing at 22 pm in risk regions, recommendation to reduce social contact and ending private parties at 10 pm)
     * Spain (14.8.20, closing of nightclubs; bars and restaurants close at 1 am; no drinking on the streets)
@@ -236,14 +237,13 @@ The history of prohibition dates back nearly as long as history itself has been 
 * ThinkThrough: 
   * Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms. 
   * Alcohol reduces the ability to concentrate and rashly action are more common, that's why no driving.  Permanent following of corona prevention measures needs concentration. 
-* Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. No happy hours for alcoholic beverages. 
+* Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. 
 
 
 ### Corona Conform Schooling
- 
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
-* Evidence: **Correction** ~~In Israel the reopening of schools seems to have contributed to increased spread~~ There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in other countries. 
-  > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. More in work. 
+* Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in other countries. 
+  > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. 
 * ThinkThrough:
   * Children are not main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children). If they spread then mainly with droplet transmission which can be prevented. 
   * However:
@@ -331,8 +331,15 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
 From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
 
 ### Monitor Prevalence
-To adjust the measures and to communicate these it is important to monitor different incidence rates
+To adjust the measures and to communicate these it is important to estimate and monitor different incidence rates.
 
+#### Different Counts
+There are several counts to distinguish [not very clear on this page yet, in work]:
+* Number of people getting currently infected. This number predicts how many people may need hospital treatment in 2 - 5 weeks. This number can only be estimated. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing)
+* Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get tested through sampling or contact tracing. They may or may not develop symptoms, about 80% develop symptoms. 
+* Number of people with symptoms. Likely these are most often detected in case counts. Symptoms usually come 1 - 10 days after the infection occurred.
+* Number of people admitted to hospitals. 
+* End of disease. Often about 10 days after initial symptoms for mild disease. The disease end can be later or be fatal in about 1 in 400 cases. 
 #### Motivation
 * Since what control tactics is optimal and/or needed depends largely on incidence rates. If the incidence rate is out of some bounds the strategy may fail to work or be unnecessary strict: 
   * Controlling methods relying on a working contact tracing need low incidence rates and detecting most cases with monitoring. To rely on contact tracing detection rate should be at least 75%. Still useful if lower but one shouldn't rely on it.   
@@ -343,11 +350,11 @@ To adjust the measures and to communicate these it is important to monitor diffe
 
 #### Detect Monitor Failure
 The equation 
-`current_death_count = infections_20-30_days_ago * fatality_rate` 
-can be used to detect if the monitoring methods worked in the past. Assuming a fatality rate of 0.25% yields one in 400 dies from Covid-19. So the 
+`current_death_count = infections_20_days_ago * fatality_rate` 
+can be used to detect if the estimation methods worked in the past. Assuming a fatality rate of 0.25% yields one in 400 dies from Covid-19. So the 
 `estimated_past_case_count = 400 * current_death_count` 
-The case count often will be lower, since not all positive are detected:
-`correction_factor = estimated_past_case_count/past_case_count`
+The case can be different yielding a correction factor:
+`correction_factor = estimated_past_case_count/past_case_count_from_death_count`
 If the testing strategies didn't change the current actual infected can be estimated with the correction_factor: 
 `actual_current_case_count = current_case_count * correction_factor`.
 
@@ -409,32 +416,30 @@ Assumptions:
 * fatality rate of .25% i.e. 1 in 400 (The [death rate](./covid19.md#fatality-rate) depends on many factors and varies considerably); 
 * average disease duration 10 days; 
  
-Notations and Definitions:
+Notations and Equivalences:
 * all counts are day counts unless noted otherwise
-* dpm = death count per million inhabitants per day
-* cpm = case count per million inhabitants per day (**real infected** not only those who turn up for tests or get contact traced)
-* tcim = total current infected per million
-* tcip = total current infected in percent 
-* K = 1000 i.e. 10 K = 10'000
-> 
-Implications:
-* 1 dpm corresponds 400 cpm
-* total current infected = 10 * cpm
-* tcip = tcim / 1000
+* case count per million inhabitants per day = 400 * death count per million inhabitants per day (assuming 1 death in 400)
+* total current infected per million = 10 * case count per million per day (assuming 10 day infection duration)
+* K = 1000 e.g. 10 K = 10'000
 
 ### Numbers and Comments
 [in work and to be checked]
-The **numbers can vary greatly** across regions and hospitals capacities, population structure and how the infection are distributed across the population. The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). The numbers for the infections (tcip, tcim and cpm) are a few weeks ahead of the death count (dpm). The case count are the **actual** infected and not only the positive tested. The case counts/incidence can be higher for young people without directly affecting the death counts/hospitals, so the case counts/incidences below are averages for population groups with the possibility for severe Covid. 
+* The **numbers can vary greatly** across regions and hospitals capacities, population structure and how the infection are distributed across the population. 
+* The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). 
+* The numbers for the infections are a few weeks ahead of the death count (dpm). The counts getting from testing symptomatic people are between.
+* The case counts are the **actual** infected and not only the positive tested. 
+* The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
 [in work]
-tcip  | tcim | cpm | dpm | comment if the dpm is greater than the value over a week and *no* adequate measures in place
-------|--------|-----|-----|---
-<0.2 %  |2 K    | 200  |    ~.5 | if less/not growing/mainly young infected: loose rules, own responsibility
->0.4 %  |4 K    | 400  |    ~1 | if greater/or growing **monitoring** needed. Prefer outdoor to indoor
->1 %    |10 K   | 1000 |  ~2.5 | worrisome if case growth and no good monitoring=> tighten the rules, infection risk increases due to many infected. 
->4 %    |40 K   | 4000 |  ~10  | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
-> 5%   |50 K   | 5000 | ~12.5  | **to prevent**, infection risk high, temporary hospitals may be needed 
-> 10%  |100 K  |10'000| ~25+  | hospitals get overwhelmed, prevent even at very high costs, reached in regions caught on the wrong foot
->  15%   |150_K  |15'000| ~50++ | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
+
+total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment for the case the death count is greater than the value over several days and *no* adequate measures in place
+--------|--------|------|--------|---
+<0.2%   |2 K     | 200  |    ~.5 | if less/not increasing/mainly young infected: loose rules, own responsibility
+>0.4%   |4 K     | 400  |    ~1  | if greater/or increasing: **monitoring** needed. Prefer outdoor to indoor
+>1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases and no good monitoring=> tighten the rules, infection risk is increased due to many infected. 
+>4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
+> 5%    |50 K    | 5000 | ~12.5  | **to prevent**, infection risk high, temporary hospitals may be needed 
+> 10%   |100 K   |10'000| ~25+   | hospitals get overwhelmed, prevent even at very high costs, reached in regions caught on the wrong foot
+>  15%  |150_K   |15'000| ~50++  | hospitals can't handle cases therefore death rate doubles or more, reached in heaviest hit regions
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
