@@ -36,7 +36,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * knowledge & research
 > * taking own responsibility and independent decisions
 > * Moderate measures preserving life quality. 
-> * Focus on overall life quality. This includes keeping all death causes in mind, the numbers, the damage caused, life quality cost (which can include economic costs) of preventing them. // at least advertisements should be banned for things known to be harmful. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. 
+> * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). // for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. 
 > * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
 > * but strictly avoiding uncontrollable spread and hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. 
 > 
@@ -249,7 +249,7 @@ A reduction of nightlife can reach from an early closure of clubs to a complete 
     Denmark and Greece implemented this measures at low Covid incidences. Spain introduced additional measures later on. 
 * Comment: In pandemic times a closure e.g. at 12 pm like implemented in Greece is reasonable; more strict depending on the situation e.g. risk of hospital overflow.  
 
-> I recently read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive guest combined with a faulty guest list. 
+> I recently (mid october 2020) read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive guest combined with a faulty guest list. 
 > 
 > Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the immune system is burdened the next day repairing party-damage and may not fight viruses. This is double bad:
 >   1. disease progression: longer asymptomatic phase and higher viral loads
