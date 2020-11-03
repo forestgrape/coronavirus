@@ -34,18 +34,21 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > Mind set I follow to tackle SARS-CoV-2:
 > * communication and explanation 
 > * knowledge & research
-> * trying new paths even at the risk of stumbling
 > * taking own responsibility and independent decisions
-> * Moderate measures preserving life quality. To goal of this page is to focus on overall life quality. This includes keeping all death causes in mind, the numbers, the damage caused, life quality cost (which can include economic costs) of preventing them. // at least advertisements should be banned for things known to be harmful. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving add costs. 
+> * Moderate measures preserving life quality. 
+> * Focus on overall life quality. This includes keeping all death causes in mind, the numbers, the damage caused, life quality cost (which can include economic costs) of preventing them. // at least advertisements should be banned for things known to be harmful. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. 
 > * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
 > * but strictly avoiding uncontrollable spread and hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. 
 > 
-> If hospitals are filling and the deaths increase, it is time tighten the rules ([more on numbers](#on-numbers)).  
+> If hospitals are filling and the deaths increase, it is time tighten the rules ([more on numbers](#on-numbers)).
 >
 > ### Reconsidering
-> In cold areas/times the strategy above is to loose and rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas window should be open and air-conditioning should not be used.
+> In cold areas/times rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas window should be open and air-conditioning should not be used.
 > 
-> In unknown territory obstacles can go unnoticed at first and so an emergency stop can be needed: Outdoor days - which means stopping all non essential entries to foreign or public indoor settings. Everything extraordinary should be analyzed, even antibiotics where discovered like this. 
+> Two more points
+> * trying new paths even at the risk of falling. In unknown territory obstacles can go unnoticed and so some form of emergency fall-back can be needed: Up to outdoor days - which means stopping all non essential entries to foreign or public indoor settings. 
+> * Obstacles should be analyzed, the next antibiotics may be discovered.  
+
 
 ## Protection Measures
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
@@ -197,6 +200,20 @@ To reduce spread isolation/home-lockdown is a radical measure. The more is known
 
 Isolation/stay-at-home may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
 
+<!--
+## Control Measures
+[in work]
+
+### Contact Tracing
+
+### Mass Testing
+
+### Outdoor Days
+Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission. To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoor. 
+
+### Home Lock Down
+A general curfew is not needed since outdoor days are enough to prevent transmission. Moreover a lot of aerosol is produced when doing indoor sports and put fellow occupants and neighbors at risk. 
+-->
 
 
 ## Thoughts about Social Measures
@@ -446,7 +463,7 @@ total current infected in percent  | total current infected per million | case c
 >1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
 >4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
 > 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection very risk high for everybody, temporary hospitals may be needed 
-> 10%   |100 K   |10'000| ~25+   | **prevent even at very high costs and all economic costs**, hospitals get overwhelmed, reached in regions caught on the wrong foot
+> 10%   |100 K   |10'000| ~25+   | prevent even at very high costs, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
 >  15%  |150_K   |15'000| ~50++  | hospitals completely overwhelmed and chaotic therefore death rate doubles or more, reached in heaviest hit regions. 
 
 ## Data 
