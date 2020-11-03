@@ -36,18 +36,18 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * knowledge & research
 > * taking own responsibility and independent decisions
 > * Moderate measures preserving life quality. 
-> * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). // for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. 
-> * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on circumspectly
+> * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
+> * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on, go on circumspectly
 > * but strictly avoiding uncontrollable spread and hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. 
 > 
 > If hospitals are filling and the deaths increase, it is time tighten the rules ([more on numbers](#on-numbers)).
 >
-> ### Reconsidering
+> ### Reconsidering Strategy
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas window should be open and air-conditioning should not be used.
 > 
 > Two more points
-> * trying new paths even at the risk of falling. In unknown territory obstacles can go unnoticed and so some form of emergency fall-back can be needed: Up to outdoor days - which means stopping all non essential entries to foreign or public indoor settings. 
-> * Obstacles should be analyzed, the next antibiotics may be discovered.  
+> * trying new paths even at the risk of falling but with a parachute ready and using it early. Better walking back awkwardly with the parachute (and being ready for the next journey) than falling cool without. For Covid-19 the emergency parachutes are outdoor days: which means stopping all non essential entries to foreign or public indoor settings. 
+> * Missteps should be analyzed, the next antibiotics can be discovered.  
 
 
 ## Protection Measures
@@ -394,7 +394,7 @@ Transmissions should be reduced or even prevented until a clear view is availabl
   * pause of non essential visits to hospitals and so on
 * sample and estimate the numbers
   * should be doable within a few days
-  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (Uniform -random- sampling works always ~~Doing the math is not straight forward. A rough estimate can be obtained by assuming a uniform distribution of Covid cases. However the true distribution is likely not uniform but peaky due to super-spreading events and it may vary a lot across regions. What can be done: From a first round of sampling distribution(s) can be estimated which in turn can be used to determine error rates respectively how much sampling is necessary.~~ ) 
+  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (Uniform -random- sampling) 
 * choosing tactics suiting the strategy given the situation
  
 

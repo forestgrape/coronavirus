@@ -26,21 +26,21 @@
 * [Updates](#updates)
 * [Public Suggestions and Thoughts](#public-suggestions-and-thoughts) <br> 
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
-* [Covid-19](#covid-19)
-    - [Public Description](#public-description)
-* [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top) (moved to own Page)
+* [Covid-19](./covid19.md#covid-19)
+    The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
+* [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top)
     * [Protection Measures](./monitor_and_control.md#protection-measures)
     * [Risk Assessment](./monitor_and_control.md#risk-assessment)   
     * [Monitor](./monitor_and_control.md#monitor)
     * [Data Availability](./monitor_and_control.md#data)
   
-* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses) (moved to own Page)<br>
+* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses)
     Various aspects of coronaviruses are described with a focus on understanding. 
     - The starting point are first principles: life forms on earth. 
     - Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. 
     - We then look at coronaviruses with a focus on SARS-CoV-2.
-    - 
-* [Immune System](./immune_system.md#immune-system) (Page)<br>
+
+* [Immune System](./immune_system.md#immune-system)
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 
 * [Ideas to Explore](#ideas-to-explore)
@@ -51,12 +51,12 @@
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
     - [Data Availability](#data) Public availability of well specified and raw/fine-grained data.
-* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models) (moved to own Page)<br>
-    Sars-CoV-2 is mostly transmitted airborne and even Dry Form infection is possible. 
-    - We start with a recap of airborne transmission, 
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models)
+    Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible. 
+    - A recap of airborne transmission, 
     - look at a proposal of a new dry from transmission model,
     - describe how particles behave in the respiratory tract,
-    - analyse spread pattern of Covid-19
+    - analyse spread pattern of Covid-19 which indicate aerosol transmission
     - and based on the discussions protection measures are suggested: smoke protection and masks. 
   
 * [References](#references)
@@ -65,6 +65,7 @@
 
 ## Updates
 Temporarily all updates here. (Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.)
+- 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." alias "Outdoor Days" to stop Covid added in [Strategy](./monitor_and_control.md#strategy)
 - 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Failure](./monitor_and_control.md#detect-monitor-failure) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated 4 weeks ago. 
 - 28.10. (only summaries available) Early results from [Spread Analyses](./spread_analyses.md) [currently in 'heavy' work] show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
@@ -77,7 +78,7 @@ Temporarily all updates here. (Larger updates here, smaller updates are noted in
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
-- 21.9. new section [Backtracing the Natural Habitat of Sars-CoV-1/2](#backtracing-sars-cov-12)
+- 21.9. new section [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
 	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](#infection-tropism-and-diseas-patterns)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
