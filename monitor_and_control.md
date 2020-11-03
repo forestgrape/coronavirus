@@ -394,7 +394,7 @@ Transmissions should be reduced or even prevented until a clear view is availabl
   * pause of non essential visits to hospitals and so on
 * sample and estimate the numbers
   * should be doable within a few days
-  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (Doing the math is not straight forward. A rough estimate can be obtained by assuming a uniform distribution of Covid cases. However the true distribution is likely not uniform but peaky due to super-spreading events and it may vary a lot across regions. What can be done: From a first round of sampling distribution(s) can be estimated which in turn can be used to determine error rates respectively how much sampling is necessary.) 
+  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (Uniform -random- sampling works always ~~Doing the math is not straight forward. A rough estimate can be obtained by assuming a uniform distribution of Covid cases. However the true distribution is likely not uniform but peaky due to super-spreading events and it may vary a lot across regions. What can be done: From a first round of sampling distribution(s) can be estimated which in turn can be used to determine error rates respectively how much sampling is necessary.~~ ) 
 * choosing tactics suiting the strategy given the situation
  
 
