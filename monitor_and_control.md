@@ -38,9 +38,9 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * Moderate measures preserving life quality. 
 > * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
 > * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on, go on circumspectly
-> * but strictly avoiding uncontrollable spread and hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. 
+> * but strictly avoiding uncontrollable spread hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking to not admit elderly to hospitals in a few weeks time I think is **not** nice. **Everybody has to right for good treatment.** Restaurant and bars can and should be left often for those living/working alone or not working (e.g. due to Covid) or needing them for other reasons, but for most gastronomy is luxury dispensable for a few weeks. 
 > 
-> If hospitals are filling and the deaths increase, it is time tighten the rules ([more on numbers](#on-numbers)).
+> If hospitals are filling and the deaths increase, it is time to tighten the rules ([more on numbers](#on-numbers)).
 >
 > ### Reconsidering Strategy
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas window should be open and air-conditioning should not be used.

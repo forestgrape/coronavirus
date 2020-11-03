@@ -8,7 +8,7 @@
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
-* A thanks may be more suitable than citing. Referencing/Feedback is welcome tough. To put as a license: at most Creative Commons. 
+* The license is Creative Commons Attribution 4.0. A thanks may be more suitable than citing though, contact me in this case.
   <!--* the more content is useful the more referencing is IMHO appropriate.  
   * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](#public-description).
@@ -65,7 +65,7 @@
 
 ## Updates
 Temporarily all updates here. (Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.)
-- 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." alias "Outdoor Days" to stop Covid added in [Strategy](./monitor_and_control.md#strategy)
+- 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." alias "Outdoor Days to stop Covid Hospital Overflow" added in [Strategy](./monitor_and_control.md#strategy)
 - 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Failure](./monitor_and_control.md#detect-monitor-failure) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated 4 weeks ago. 
 - 28.10. (only summaries available) Early results from [Spread Analyses](./spread_analyses.md) [currently in 'heavy' work] show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
@@ -95,6 +95,7 @@ Temporarily all updates here. (Larger updates here, smaller updates are noted in
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 ### Minor Updates
+- 3.11. License clarified: Creative Commons Attribution 4.0. 
 - 24.10. Completed&added&linked summaries regarding insects for the section [Backtracing SARS-1/2](#backtracing-sars-cov-12)
 - 20-23.10. Clarifications and corrections across the page with a focus on the sections Transmission, Immune System and Coronaviruses.
 - 18.10. Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./transmission.md#summary-airborne-transmission)). More on the topic in work. 
