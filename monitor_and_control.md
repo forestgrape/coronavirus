@@ -12,6 +12,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 * [Thoughts about Social Measures](#thoughts-about-social-measures)
   * [Reduction of Nightlife](#reduction-of-nightlife)
   * [Reduce Alcohol Consumption](#reduce-alcohol-consumption)
+  * [Gastronomy](#gastronomy)
   * [Corona Conform Schooling](#corona-conform-schooling)
 * [Risk Assessment](#risk-assessment)
   * [Balancing of Measures](#balancing-of-measures)
@@ -34,16 +35,14 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > Mind set I follow to tackle SARS-CoV-2:
 > * communication and explanation 
 > * knowledge & research
-> * taking own responsibility and independent decisions
-> * Moderate measures preserving life quality. 
+> * own responsibility and independent decisions
+> * Moderate measures preserving life quality. But disallowing super-spreader situation since they can yield sudden and hard to control explosion in cases 
 > * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
-> * settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on, go on circumspectly
-> * but strictly avoiding uncontrollable spread hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking to not admit elderly to hospitals in a few weeks time I think is **not** nice. **Everybody has to right for good treatment.** Some restaurant and bars can and should be left often for those living/working alone or not working (e.g. due to Covid) or needing them for other reasons, but for most gastronomy is luxury dispensable for a few weeks. 
-> 
-> If hospitals are filling and the deaths increase, it is time to tighten the rules ([more on numbers](#on-numbers)).
+> * Settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on, go on circumspectly
+> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking to not admit elderly to hospitals in a few weeks time I think is **not** nice. **Everybody has to right for good treatment.**  
 >
 > ### Reconsidering Strategy
-> In cold areas/times rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas window should be open and air-conditioning should not be used.
+> In cold areas/times rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
 > 
 > Two more points
 > * trying new paths even at the risk of falling but with a parachute ready and using it early. Better walking back awkwardly with the parachute (and being ready for the next journey) than falling cool without. For Covid-19 the emergency parachutes are outdoor days: which means stopping all non essential entries to foreign or public indoor settings. 
@@ -233,7 +232,7 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 
 ### Reduction of Nightlife
-A reduction of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
+A slow down of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
 * Evidence: 
   * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife [citations coming]. 
   * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In countries with low case numbers and extensive contact tracing, e.g. South Korea [and Japan, to check] many infections have been traced to clubs [citations in work].  
@@ -249,11 +248,11 @@ A reduction of nightlife can reach from an early closure of clubs to a complete 
     Denmark and Greece implemented this measures at low Covid incidences. Spain introduced additional measures later on. 
 * Comment: In pandemic times a closure e.g. at 12 pm like implemented in Greece is reasonable; more strict depending on the situation e.g. risk of hospital overflow.  
 
-> I recently (mid october 2020) read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive guest combined with a faulty guest list. 
+> I recently (Mid October 2020) read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive guest combined with a faulty guest list. 
 > 
 > Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the immune system is burdened the next day repairing party-damage and may not fight viruses. This is double bad:
->   1. disease progression: longer asymptomatic phase and higher viral loads
->   2. feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore not recognized.
+>   1. Disease progression: Longer asymptomatic phase and higher viral loads
+>   2. Feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore not recognized.
 
 
 ### Reduce Alcohol Consumption
@@ -264,20 +263,30 @@ The history of prohibition dates back nearly as long as history itself has been 
 * Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. 
 
 
+### Gastronomy
+* Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea) it has been shown that gastronomy and especially in the evening and in bars play a key role in the transmission of Covid. 
+* ThinkThrough: 
+  * Many people from different backgrounds and regions sit often quite densely in the same room, this is ideal for SARS-Cov-2 to spread.
+* Comment:
+  * In regions where the death rate is above 2.5 per million and cases are increasing, most gastronomy should be closed at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)). If left open during the day, the ventilation needs to be good.   
+  * If the situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy is luxury, dispensable for a few weeks.
+  * People working in larger groups (e.g. open-plan office) or living in larger groups (e.g. Families) should avoid gastronomy at high Covid rates, since they already are angle point for transmission. 
+
+
 ### Corona Conform Schooling
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
 * Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in other countries. 
   > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. 
 * ThinkThrough:
-  * Children are not main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children). If they spread then mainly with droplet transmission which can be prevented. 
+  * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children). If they spread then mainly with droplet transmission which can be prevented. 
   * However:
     * Even with a low R value children can contribute to the overall spread. 
     * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams. 
     * Many people in the same room and school rooms may not be ventilated well
-    * Many face-to-face talking situations with many different people
-    * Children all come from different families and inside families protection is hardly doable. So person who want/need to protect cannot do so. 
+    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets. 
+    * Children all come from different families and inside families protection is not easy but doable if the infection known ~~hardly doable~~. 
 * Experiences: 
-  * Closing schools were part of lock-downs in spring 2020 in many countries, but the effect of school closures is unclear. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families. 
+  * Closing schools were part of lock-downs in spring 2020 in many countries due to experiences with influenza, but influenza transmission is very different. For SARS-CoV-2 evidence is that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families. 
   * In some schools mask wearing is common, negative comments are few
   * Project based and individual learning are a common teaching approaches and known to work. 
 * Comment: Children [spread Covid-19](./spread_analyses.md) less and produce less aerosol. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even be prevented:
@@ -292,6 +301,8 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * Outdoor sports
   * Relaxed presence requirements. E.g. students/pupils can be given tasks and the tasks can be done remotely. Projects can be rescheduled and started earlier. 
   * Library like settings/managed self-learning can be an alternative to closures: students just come to learn/work/read and somebody is there to help when needed (teacher - student protection measures may work better than student-student). Pupils/students can come to read, even if it's reading the favorite book.
+
+
 
 <!--
 ### Guest Lists and Tracing
