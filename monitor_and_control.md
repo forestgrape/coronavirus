@@ -275,7 +275,7 @@ The history of prohibition dates back nearly as long as history itself has been 
 
 ### Corona Conform Schooling
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
-* Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in other countries. 
+* Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other countries. 
   > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. 
 * ThinkThrough:
   * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children). If they spread then mainly with droplet transmission which can be prevented. 
@@ -359,6 +359,7 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
     * water
     * rocks
 
+
 ## Monitor 
 
 ### Monitor Evolution
@@ -370,11 +371,12 @@ To adjust the measures and to communicate these it is important to estimate and 
 
 #### Different Counts
 There are several counts to distinguish [not very clear on this page yet, in work]:
-* Number of people getting currently infected. This number predicts how many people may need hospital treatment in 2 - 5 weeks. This number can only be estimated. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing)
+* Number of people getting currently infected. This number predicts how many people may need hospital treatment starting in roughly 1 to 3 weeks and being there in 1 to 4 weeks so they may need a place in the next 1 to 7 weeks. This number can only be estimated. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing)
 * Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get tested through sampling or contact tracing. They may or may not develop symptoms, about 80% develop symptoms. 
 * Number of people with symptoms. Likely these are most often detected in case counts. Symptoms usually come 1 - 10 days after the infection occurred.
-* Number of people admitted to hospitals. 
-* End of disease. Often about 10 days after initial symptoms for mild disease. The disease end can be later or be fatal in about 1 in 400 cases. 
+* Number of people admitted to hospitals. This number can be lowered in absolute emergencies with triage. 
+* End of disease. Often about 10 days after initial symptoms for mild disease. The disease end is usually much longer in severe cases and is fatal in about 1 of 400 cases. 
+
 #### Motivation
 * Since what control tactics is optimal and/or needed depends largely on incidence rates. If the incidence rate is out of some bounds the strategy may fail to work or be unnecessary strict: 
   * Controlling methods relying on a working contact tracing need low incidence rates and detecting most cases with monitoring. To rely on contact tracing detection rate should be at least 75%. Still useful if lower but one shouldn't rely on it.   
@@ -385,8 +387,8 @@ There are several counts to distinguish [not very clear on this page yet, in wor
 
 #### Detect Monitor Failure
 The equation 
-`current_death_count = infections_20_days_ago * fatality_rate` 
-can be used to detect if the estimation methods worked in the past. Assuming a fatality rate of 0.25% yields one in 400 dies from Covid-19. So the 
+`current_death_count = estimated_past_case_count * fatality_rate` 
+can be used to detect if the estimation methods worked in the past. How fare in the past depends how long on average the patients survive and whether takes the date of infection or the date of going for a test ([Different Counts](#different-counts)). Assuming a fatality rate of 0.25% yields one in 400 dies from Covid-19. So the 
 `estimated_past_case_count = 400 * current_death_count` 
 The case can be different yielding a correction factor:
 `correction_factor = estimated_past_case_count/past_case_count_from_death_count`
@@ -419,8 +421,8 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 
 #### How to Monitor
 * **Frequency:** Ideally these are taken near daily, else at least weekly. 
-* **Communicate:** Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring. 
-* **Methods:** 
+* **Communicate:** Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring.
+* **Methods:**
   see also [testing schemes](#testing-schemes)
   * **very low to low incidence:** case counts 
   * **low to mid incidence:** case counts people turn up for testing can be used. The contact tracing yields then additional cases which can be used to scale counts from those who asked for tests. 
