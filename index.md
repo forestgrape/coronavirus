@@ -25,8 +25,8 @@
 
 
 ## Updates
-Temporarily all updates here. (Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.)
-- 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." alias "Outdoor Days to stop Covid Hospital Overflow" added in [Strategy](./monitor_and_control.md#strategy)
+All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
+- 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." for Covid "Outdoor Days to prevent risking a Hospital Overflow" added in [Strategy](./monitor_and_control.md#strategy)
 - 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Failure](./monitor_and_control.md#detect-monitor-failure) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated 4 weeks ago. 
 - 28.10. (only summaries available) Early results from [Spread Analyses](./spread_analyses.md) [currently in 'heavy' work] show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
