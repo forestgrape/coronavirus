@@ -22,45 +22,6 @@
 
 <p id="t-content">-----</p> <!--before 1.10.2020: workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
 
-## Content
-* [Updates](#updates)
-* [Public Suggestions and Thoughts](#public-suggestions-and-thoughts) <br> 
-    Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
-* [Covid-19](./covid19.md#covid-19)
-    The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
-* [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top)
-    * [Protection Measures](./monitor_and_control.md#protection-measures)
-    * [Risk Assessment](./monitor_and_control.md#risk-assessment)   
-    * [Monitor](./monitor_and_control.md#monitor)
-    * [Data Availability](./monitor_and_control.md#data)
-  
-* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses)
-    Various aspects of coronaviruses are described with a focus on understanding. 
-    - The starting point are first principles: life forms on earth. 
-    - Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. 
-    - We then look at coronaviruses with a focus on SARS-CoV-2.
-
-* [Immune System](./immune_system.md#immune-system)
-  Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
-
-* [Ideas to Explore](#ideas-to-explore)
-    - [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
-        The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
-    - [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
-    - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
-    - [Prevent Early On Mucus Accumulations](#early-vents) <br>
-    Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
-    - [Data Availability](#data) Public availability of well specified and raw/fine-grained data.
-* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models)
-    Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible. 
-    - A recap of airborne transmission, 
-    - look at a proposal of a new dry from transmission model,
-    - describe how particles behave in the respiratory tract,
-    - analyse spread pattern of Covid-19 which indicate aerosol transmission
-    - and based on the discussions protection measures are suggested: smoke protection and masks. 
-  
-* [References](#references)
-
 
 
 ## Updates
@@ -121,6 +82,46 @@ Temporarily all updates here. (Larger updates here, smaller updates are noted in
 - 4.4.20 Updated section evidence from spread patterns (Cruise Ship)
 - 27.3.-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
+
+
+## Content
+* [Updates](#updates)
+* [Public Suggestions and Thoughts](#public-suggestions-and-thoughts) <br> 
+    Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
+* [Covid-19](./covid19.md#covid-19)
+    The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
+* [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top)
+    * [Protection Measures](./monitor_and_control.md#protection-measures)
+    * [Risk Assessment](./monitor_and_control.md#risk-assessment)   
+    * [Monitor](./monitor_and_control.md#monitor)
+    * [Data Availability](./monitor_and_control.md#data)
+  
+* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses)
+    Various aspects of coronaviruses are described with a focus on understanding. 
+    - The starting point are first principles: life forms on earth. 
+    - Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. 
+    - We then look at coronaviruses with a focus on SARS-CoV-2.
+
+* [Immune System](./immune_system.md#immune-system)
+  Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
+
+* [Ideas to Explore](#ideas-to-explore)
+    - [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
+        The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
+    - [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
+    - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
+    - [Prevent Early On Mucus Accumulations](#early-vents) <br>
+    Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
+    - [Data Availability](#data) Public availability of well specified and raw/fine-grained data.
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models)
+    Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible. 
+    - A recap of airborne transmission, 
+    - look at a proposal of a new dry from transmission model,
+    - describe how particles behave in the respiratory tract,
+    - analyse spread pattern of Covid-19 which indicate aerosol transmission
+    - and based on the discussions protection measures are suggested: smoke protection and masks. 
+  
+* [References](#references)
 
 
 
