@@ -77,7 +77,7 @@ Cells present what they produce on the outside: T cells inspect these substances
 * To control coronaviruses infections T cells are key [citation coming].
 
 > ###### Local T cell
-> *Tissue resident T cells* or just *local T cells* are T cells which survey the tissues cells integrity. They don't travel with the blood they stay locally in the tissue. 
+> *Tissue resident T cells* in literature and here called *local T cells* are T cells which survey the tissues cells integrity. They don't travel with the blood.They remain locally in tissues they may move there however. 
 
 Local T cells are located often at entry points of viruses. E.g. the mouth is a common entry point for viruses, so in the mouth are many local T cells [to check and cite]. 
 

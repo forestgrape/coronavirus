@@ -11,18 +11,15 @@
 * The license is Creative Commons Attribution 4.0. A thanks may be more suitable than citing though, contact me in this case.
   <!--* the more content is useful the more referencing is IMHO appropriate.  
   * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
-* Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](#public-description).
+* Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](./covid19.md#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
-
+> ###### Definitions
 > *Definitions* are written like this and are valid throughout this page. Sometimes only throughout this page. However redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
 > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style //. Otherwise distinction is done by context/content. 
 
-
-<p id="t-content">-----</p> <!--before 1.10.2020: workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
-
-
+---
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
@@ -83,6 +80,7 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 - 27.3.-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
 
+<p id="t-content">-----</p> <!--before 1.10.2020: workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
 
 ## Content
 * [Updates](#updates)
@@ -492,21 +490,8 @@ The cattle rich regions in the North and North East: Galicia, La Rioja, Basque C
 #### Remark
 Similar patterns seem to be in the USA and France. For analysis, ideally the partitioning of population is fine-grained, at most a few 100K people per partition. 
 
-### Biological Basis
-[in rework]
-First observations of cross immune protections are described. Then examples of host species jumps of betacoronaviruses are described including jumps from BCoV to humans.
-
-#### Cross Immune Protections between different Coronaviruses
-[Cross immune protections](#cross-immune-protection) against coronaviruses have been observed for different strains, therefore cross protections can exists for coronaviruses.
-Examples of observed cross immune protections are:
-* As already noted in the introduction  [Van der Hoek et al.](#vanderhoek2012) observed by analysing serum conversions (no additional serum conversion occurs):
-    - OC43 -protects-> HKU1 (only unidirectional)
-    - NL63 -protects-> 229E (only unidirectional)
-    
-* [Han et al](#han) showed that calves inoculated with HECV-4408get cross-protective immunity against the strain BCoV DB2. HECV-4408 is a strain that has been observed to cause acute diarrhoea in humans, see [human bcov infections](#human-bcov-infections)
-
 #### Observed Interspecies Jumps
- There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](./coronavirus.md#infecting-new-species) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely, but they are not easy to prove [citation coming].
+There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](./coronavirus.md#infecting-new-species) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely, but they are not easy to prove [citation coming].
 Examples where they have PCR confirmed:
 * The HECV-4408 coronavirus was isolated from a child having diarrhea in 1994 as described in [Zhang et al](#zhang94)
 Examples of a successful jump from BCoV between humans and bovine:
@@ -520,19 +505,30 @@ Examples of a successful jump from BCoV between humans and bovine:
 * but more likely local T cells recognizing more general anomalies of virus infected cells [in work]
 
 
-#### previous guesses likely false
-* Antibodies against some well preserved parts of proteins. 
+#### Previous Guesses of Mechanisms likely False
+* ##### Antibodies
+    Antibodies against some well preserved parts of proteins. 
     - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonin. Candidates:
         * S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonin or are directly receptors of cytotoxic cells.
         * N
+    First observations of cross immune protections are described. Then examples of host species jumps of betacoronaviruses are described including jumps from BCoV to humans.
 
-* combination of tissue resident T cells and antibodies marking infected cells.   
-
-* Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
+    ###### Cross Immune Protections between different Coronaviruses
+    [Cross immune protections](#cross-immune-protection) against coronaviruses have been observed for different strains, therefore cross protections can exists for coronaviruses.
+    Examples of observed cross immune protections are:
+    * [Van der Hoek et al.](#vanderhoek2012) observed by analyzing serum conversions (no additional serum conversion occurs):
+        - OC43 -protects-> HKU1 (only unidirectional)
+        - NL63 -protects-> 229E (only unidirectional)
+        
+    * [Han et al](#han) showed that calves inoculated with HECV-4408get cross-protective immunity against the strain BCoV DB2. HECV-4408 is a strain that has been observed to cause acute diarrhoea in humans, see [human bcov infections](#human-bcov-infections)
+* ###### Local T cells and Antibodies
+  Combination of tissue resident T cells and antibodies marking infected cells.   
+* ###### Adaption of Macrophages
+  Epigenetic adaption of alveolar macrophages [netea](#netea), [xing](#xing)
      
      
-### next steps
+### Next Steps
 * Analyse spread patterns in other countries: USA, France, ...
 * Widespread serology for HCoVs and statistics if there's a relation to pathogenesis of Covid-19. 
 * Analyse birth and grow up locations of elderly Covid-19 patients.
@@ -561,14 +557,14 @@ That humid air increases the mucus flow, can be used as described or in other se
 
 Moreover, breath-support-devices can modify the distribution and spread of viruses in the lungs because of altered movement of the lungs and thus altered movement of air. The altered spread should be considered. 
 
-#### cascade of influences
+#### Cascade of Influences
 Increase humidity of inhaled air --> Increases the mucus clearance --> Decrease the viral load in the lower respiratory tract --> Increase the well-being and the overall prognosis
  
 #### Causes for severe Outcome of Covid-19
 [in rework, 22.10.]
 A main complication of a severe Covid-19 and possible death cause is acute respiratory distress syndrome (ARDS) see e.g. findings from [Song and colleagues](#song). 
 
-#### mucus hypothesis 
+#### Mucus Hypothesis 
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucus clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 
@@ -592,9 +588,9 @@ For the widespread viral load distribution in the lower respiratory tract, possi
 - [decreased mucus clearance](#decreased-mucus-clearance)
 
 ##### Increased Replication?
-likely NO, since:<br>
+likely NO, since:
 [in rework]
-There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS risk group compared to hospitalized cases which don't develop ARDS. For people with only mild symptoms (especially children) early immune systeme responses possibly limit the viral replication [in work]. There is limited data available comparing the viral load kinetics of people with mild symptoms [in rework: new studies suggest similar viral loads]. In the following the focus is on hospitalized cases. 
+There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS risk group compared to hospitalized cases which don't develop ARDS. For people with only mild symptoms (especially children) early immune responses possibly limit the viral replication [in work]. There is limited data available comparing the viral load kinetics of people with mild symptoms [in rework: new studies suggest similar viral loads (May 2020)]. In the following the focus is on hospitalized cases. 
 
 - data suggest no strong correlation between a diminished immune system and severe Covid-19 (see e.g. [zhong](#zhong))
 - patients with ADRS seem not to have especially low antibody levels as results obtained by [To, Tsang et al.](#to_tsang) indicate. 
@@ -608,7 +604,7 @@ likely NO, since:<br>
 The Sars-CoV-2 entry ACE2 is expressed in large quantities in alveolar type 2 cells. From these locations, many particles are exhaled upon deep breathing [[Larsson](#larsson)], which could yield increased spreading both inside and outside. Thus to some extent the virus distribution depends on breathing patterns and so active people would be more at risk. Overall evidence is not strong that the widespread virus spread is solely caused by increased distribution.  
 
 ##### Decreased Mucus Clearance?
-likely YES, since:<br>
+likely YES, since:
 * observed for influenza by [Yuen et al](#yuen)
 * Factors known to decrease the mucus clearance are major risk factors for developing ARDS, both for influenza and Covid-19. For more detail on factors see [appendix](#appendix-vents):
     * intern factors
