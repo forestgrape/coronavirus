@@ -124,7 +124,7 @@ Without good protection measures (masks, ventilation) there have been reported m
 ### Large Scale Production Factories
 Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work]. 
 
-> Noteworthy that mainly food production factories are concerned. [To check whether they reuse filtered air]
+> Noteworthy that mainly food production factories are concerned. [To check whether they reuse filtered air and what temperature/humidity settings]
 
 ### Large Scale Sporting Events
 Large scale sporting events provided likely ground for ultra-spreading events. The evidence for this is currently based on:
