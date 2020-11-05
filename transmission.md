@@ -113,7 +113,7 @@ Watery droplets in the air that cannot be seen, are called aerosol since it look
 
 Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and on masks in [Protection Measures](./monitor_and_control.md). [citations in work  ]
 
-Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent              
+Model    | Metaphor   | Actions | Source/Deposition | Situations/Clima|   Prevent              
 ---------|------------|------------------|-----------------|------|---
 [droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (overall the most common transmission of SARS-CoV-2)| Any mask in face-to-face situations, distance 
 [aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity | (high-filtration-)mask, distance, **ventilate**
@@ -122,8 +122,7 @@ Model    | Metaphor   | Actions | Source | Situations/Clima|   Prevent
 
 #### Comments
 * In warm climates rooms can be ventilated well, so the aerosol spread is likely less important but can be favoured by careless use of air-conditioning.  
-* Aerosol and dry form spread are increasingly possible the lower the absolute humidity is. 
-* The absolute humidity in heated indoor rooms is lower, the lower the outside temperature is. 
+* Aerosol and dry form spread are increasingly possible the lower the absolute humidity is. The absolute humidity in heated indoor rooms is lower, the lower the outside temperature is. 
 * The dry form model is proposed here. This transmission form is just a proposal and whether it occurs and what role it play is not verified.
 
 ## Particle Dynamics in the Respiratory Tract
@@ -156,6 +155,14 @@ So Covid-19 can be spread with breathing alone especially since in the deep lung
 
 ### Particles Deposition
 This section describes how particles are deposited in the respiratory tract. These particles can originate from other locations in the respiratory tract or being inhaled from extern air.
+
+#### Literature
+* [Park](#park) is a recent review. 
+* An often used model is the [ICRP Model](#bailey). 
+* In this work mostly references results from [Kleinstreuer](#kleinstreuer-2018). 
+* [Heyder](#heyder-2004) is a readable description  
+* [Lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. 
+* [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
 
 #### Deposition Factors
 How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
@@ -302,7 +309,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 ### Evidence for the Dry Form Transmission Model
 
 #### Evidence from Biological Properties
-[in rework since *not* correct]
+[in rework since **partly wrong**]
 As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](./coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection. 
 
     
@@ -365,9 +372,6 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 
 
 ## References
-
-[park](#park) is a recent review. An often used model is the [ICRP Model](#bailey). In this work mostly references results from [kleinstreuer](#kleinstreuer-2018). [Heyder](#heyder-2004) is a readable description and [Lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
-
 
 ### Particles in the Air
 
