@@ -25,7 +25,9 @@
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 - 5.11. Updates for [Spread Analyses](./spread_analyses.md) in online work:
     * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas. 
-      > Not proven yet but evidence strong enough that risk regions should stop allowing large scale events. As of 4./5.11. there still seem to be football matches with several thousand spectators.  
+      > Not proven yet but evidence strong enough that risk regions should stop allowing large scale events even with protection measures. As of 4./5.11. there still seem to be football matches with several thousand spectators. 
+      
+      > That the spreading event occurred despite the use of community=cloths masks indicates, these mask don't efficiently prevent aerosol transmission. Cloth masks still help for droplets and likely give some self protection against aerosol too. 
     * Spreading events in food production factories and airplanes are sketched. 
 - 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." for Covid "Outdoor Days to prevent risking a Hospital Overflow" added in [Strategy](./monitor_and_control.md#strategy)
 - 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
