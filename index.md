@@ -23,10 +23,10 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- 5.11. Updates for [Spread Analyses](./spread_analyses.md) section in online work:
+- 5.11. Updates in [Spread Analyses](./spread_analyses.md) in online work:
     * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas. 
       > Not proven yet but evidence strong enough that risk regions should **stop allowing large scale events** even with protection measures. As of 4./5.11. there still seem to be football matches with many thousand spectators. 
-    * Spreading events in food production factories and airplanes are sketched. 
+    * Sections about observed spreading events in food production factories and airplanes.
 - 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." for Covid "Outdoor Days to prevent risking a Hospital Overflow" added in [Strategy](./monitor_and_control.md#strategy)
 - 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Failure](./monitor_and_control.md#detect-monitor-failure) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago. 
