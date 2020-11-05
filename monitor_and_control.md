@@ -39,14 +39,14 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * Moderate measures preserving life quality. But disallowing super-spreader situation since they can yield sudden and hard to control explosion in cases 
 > * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
 > * Settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on, go on circumspectly
-> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking to not admit elderly to hospitals in a few weeks time I think is **not** nice. **Everybody has to right for good treatment.**  
+> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking not to admit elderly to hospitals in a few weeks time I think is **not** nice. **Everybody has to right for good treatment.**  
 >
 > ### Reconsidering Strategy
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
 > 
 > Two more points
-> * trying new paths even at the risk of falling but with a parachute ready and using it early. Better walking back awkwardly with the parachute (and being ready for the next journey) than falling cool without. For Covid-19 the emergency parachutes are outdoor days: which means stopping all non essential entries to foreign or public indoor settings. 
-> * Missteps should be analyzed, the next antibiotics can be discovered.  
+> * trying new paths even at the risk of falling but with a parachute ready and using it early. Better walking back awkwardly with the parachute (and being ready for the next journey) than falling cool without. For Covid-19 the emergency parachutes are outdoor days: which means stopping all non essential entries to foreign or public indoor settings.
+> * Missteps should be analyzed, the next antibiotics can be discovered. 
 
 
 ## Protection Measures
@@ -54,7 +54,7 @@ The following relies on the assumption that the main transmission of Sars-CoV-2 
 
 ### Support Immune Protection
 Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases, this should be the main focus. 
-[in work]
+
 Proposals for good health:
 * providing settings that support good health
     - allow people outside to move
@@ -65,7 +65,7 @@ Proposals for good health:
 * healthy nutrition 
 * providing information and tips to focus on health and the immune system
 
-Covid is just one of many reasons good health - including an intact immune system - is important.
+There are many more reasons good health - including an intact immune system - is important.
 
 
 ### Masks
@@ -74,10 +74,10 @@ Mask reduce spread since they mitigate both the infection and spread risk. Masks
 #### Mask Usage
 * For self protection good fit and a good outside-to-inside filter are important. 
 * To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
-* In heated indoor rooms aerosol transmission can occur:
+* In indoor rooms aerosol transmission occurs:
   * changing/disinfecting the masks frequently is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
   * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
-* After coughing or sneezing into mask changing is necessary. After speaking a lot into a mask changing is appropriate. Especially [low and mid filter models](#filter-performance).
+* After coughing or sneezing into mask changing is a must (one should not cough into mask but cough into the hand and downwards, then the hand should be washed or disinfected; moreover when coughing one should stay home). After speaking a lot into a mask changing is appropriate. Especially for [low and mid filter models](#filter-performance).
 * Some mask have a to big air resistance, in that case the air can bypasses the mask. There's still protection against droplets, essentially they are like wearable plexiglas. But bypassed air still contains [aerosols](./transmission.md#aerosol)
 
 
@@ -87,7 +87,7 @@ Mask reduce spread since they mitigate both the infection and spread risk. Masks
     - Particles smaller than 5 micro meter:  statistically significant 2.8 fold reduction in viral copies detected in the fine aerosol fraction.
     - Overall: Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
-    > [in rework] Assuming a reduction of exhaled particles by a factor of 2.5 (60% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 5 = (2 times fewer particles inhaled) * (2.5 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+    > [in rework, reduction upon exhalation likely is lower especially if the mask is use long without changing what many do] Assuming a reduction of exhaled particles by a factor of 2 (50% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 4 = (2 times fewer particles inhaled) * (2 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 #### Mask Types
 Mask can be classified either by
