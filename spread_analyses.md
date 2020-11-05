@@ -151,10 +151,9 @@ It will be interesting to investigate the prevalence of Covid-19 in the fans eit
 Sources: https://www.sofascore.com,
 https://www.bbc.com/sport/football/scores-fixtures
 * Switzerland
-  * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams due to multiple infected players. Compared to 16 of 16 in the UK. 
-  * for some teams more than half of the staff was Covid positive (e.g. FC Sion)
+  * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams (multiple infected players and staff members).
   * the regions with ice hockey stadiums most showed a steeper increase in Covid-19 cases than the regions without large ice hockey stadiums. This indicates regular super-spreading events (as fare as I can judge by the data public available) 
-  * in late October most hockey matches needed to be cancelled since many teams had multiple infected players.
+  * in late October the majority of hockey matches needed to be cancelled since many teams had multiple infected players.
 * Ukraine
   * Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members 
 * Belgium 
