@@ -150,6 +150,8 @@ It will be interesting to investigate the prevalence of Covid-19 in the fans eit
 #### Results from Leagues with Spectators
 Sources: https://www.sofascore.com,
 https://www.bbc.com/sport/football/scores-fixtures
+* Netherlands
+  * A very steep rise in Covid-19 cases in early October
 * Switzerland
   * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams (multiple infected players and staff members).
   * the regions with ice hockey stadiums most showed a steeper increase in Covid-19 cases than the regions without large ice hockey stadiums. This indicates regular super-spreading events (as fare as I can judge by the data public available) 
