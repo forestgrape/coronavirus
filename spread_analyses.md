@@ -133,7 +133,9 @@ Large scale sporting events provided likely ground for ultra-spreading events. T
 
 It will be interesting to investigate the prevalence of Covid-19 in the fans either through antigen/PCR ( PCR optimally including sequencing to backtrace the exact transmission pathways) or by studying seroprevalence rates. 
 
-> There's **no proof yet** as fare as I know. **But evidence strong** enough to **not allow spectators** in any Covid risk region. 
+> There's **no proof yet** as fare as I know. **But evidence strong** enough to **not allow spectators** anymore in Covid risk regions. 
+
+> While risky I don't think it was wrong to allow large scale events. Different control measures around the world, some risking and trying combined with supervising and analyzing help to understand SARS-CoV-2 including its transmission. 
 
 #### Settings in Sport Stadiums
 [**in work**]
