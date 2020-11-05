@@ -131,7 +131,7 @@ It will be interesting to investigate the prevalence of Covid-19 in the fans eit
 
 > There's no proof yet as fare as I know. But evidence strong enough to **not allow spectators** anymore in Covid risk regions. 
 
-> In epidemiology too: **Courageously exploring and trying combined with supervision and analyses help** to understand SARS-CoV-2 including its transmission. 
+> In epidemiology too: **Courageously exploring and trying combined with measurements, consideration and analyses help** to understand SARS-CoV-2 including its transmission. 
 
 #### Settings in Sport Stadiums
 [**in work**]
