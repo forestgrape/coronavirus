@@ -135,7 +135,7 @@ It will be interesting to investigate the prevalence of Covid-19 in the fans eit
 
 > There's no proof yet as fare as I know. But evidence strong enough to **not allow spectators** anymore in Covid risk regions. 
 
-> While risky it was not wrong to have allowed large scale events. Different control measures around the world, some **risking and trying combined with supervising and analyzing help** to understand SARS-CoV-2 including its transmission. 
+> While risky I think it was not wrong to have allowed large scale events. Different control measures around the world, some **risking and trying combined with supervising and analyzing help** to understand SARS-CoV-2 including its transmission. 
 
 #### Settings in Sport Stadiums
 [**in work**]
