@@ -1,12 +1,16 @@
 # Spread Analyses
 **[in work]**
 * [Summary](#summary)
+* [Geographical Analysis](#geographical-analysis)
   * [Methods](#methods)
-  * [Spread Analyses in South Americas](#spread-analyses-in-south-americas)
-  * [Argentina](#argentina)
-  * [Brazil](#brazil)
-* [Spread Situations](#spread-situations)
   * [Cities versus Rural](#cities-versus-rural)
+* [Population](#population)
+  * [Spreader Distribution](#spreader-distribution)
+  * [Children](#children)
+* [Spread Situations](#spread-situations)
+  * [Airplanes](#airplanes)
+  * [Large Scale Production Factories](#large-scale-production-factories)
+  * [Large Scale Sporting Events](#large-scale-sporting-events)
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
   * [Summary Ehrhardt,Brockmann](#summary-ehrhardtbrockmann)
@@ -18,22 +22,42 @@
 * [References](#references)
 
 ## Summary
-Covid-19 transmission correlates to the amount of air people breadth from each other. The amount of exchanged air is high 
-* indoors air with bad ventilation (either heated or air-conditioned) 
-* increased inhaling
-  * being at low air pressure (either high altitude or airplane) 
-  * activities such as singing, shouting or strains e.g. sports
-The correlation to the amount of air exchanged is explained by a generalized aerosol transmission (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For droplet transmission one excepts the distance and speaking method would be expected to matter most, instead of the inhaled air to play a role rather.
+First the conclusion are given and then the observations founding them are sketched. 
+#### Conclusions 
+1. ##### Covid Transmission happens when much Air is Exchanged between People
+    Covid-19 transmission correlates to the amount of air people breadth from each other. The amount of exchanged air is high 
+    * indoors air with bad ventilation (either heated or air-conditioned) 
+    * increased inhaling
+      * being at low air pressure (either high altitude or airplane) 
+      * activities such as singing, shouting or strains e.g. sports
+      
+    The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
 
-Regarding prevention measures the takeaway is, that transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away. 
+    Regarding prevention measures the takeaway is, that transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away. 
 
-The observations are founded by (1.) an analysis of Covid-19 data by regions and (2.) analyses of spread observations in different situations. 
-1. [Spread Patterns across the World](#spread-patterns-across-the-world): Looking at the Covid-19 waves across the world. The waves are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Arizona in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
-2. [Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described and analysed. 
+#### Observations
+Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air:
+1. [Geographical Analysis](#geographical-analysis): Looking at the Covid-19 waves across the world. The waves are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Arizona in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
+2. [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections [**in work**]. Children do not spread Covid well. 
+3. [Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described and analysed. 
+    * [Schools and Children](#schools-and-children)
+     Children less susceptible to infection and they spread Covid less than adults. 
+    * [Large Scale Sporting Events](#large-scale-sporting-events) In sports clubs where spectators are/were allowed to the stadiums, the players have a much higher risks to get infected with Covid-19 than in regions without spectators. Moreover Covid-19 incidence rates seem to be higher in areas with large scale sport events (especially indoor). 
+    * [Airplanes](#airplanes): High spread rates observed without adequate prevention measures (mask, ventilation). 
+    * [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world. 
+    
+
+
+
+
 
 
 
 **[in work]**
+
+## Geographical Analysis
+[in work]
+
 
 ### Methods
 For regions across the world the following is analysed:
@@ -42,6 +66,8 @@ For regions across the world the following is analysed:
   * while cases increase i.e. during the Covid-19 waves 
   * while Covid-19 decrease or stay low despite having a relevant population of possible Covid spreaders (the spread in regions with very low case count where contact tracing can work, behave differently and will be analysed in future)
 
+
+<!--
 ### Spread Analyses in South Americas
 Most countries in South Americas recorded many cases, a notable exception is Uruguay with very few cases and only a couple of deaths. The geographic and social situation are hugely different across the Continent. 
 All countries provided programs for financial support and additionally:
@@ -54,16 +80,92 @@ All countries provided programs for financial support and additionally:
 ### Brazil
 * The Death Rate is highest in the gov district in capital Brasilia
 * the 
+-->
+
+### Cities versus Rural
+A main distinguishing feature between rural and cities is that in rural areas people are segregated by geographical distance (corresponding a lower population density over entire regions) and thus the time to travel while in cities people tend to be segregated by social factors such as interest/jobs/hobbies/age/world views. The distance separation induces well defined clusters (villages). Social factors yield clusters to but the borders are softer and the clusters are different for each social factor. 
+Infectious disease wave through the clusters until there's no more ground to nourish. 
+
+##### rural
+  * Segregated by mobility
+  * Life is often outdoors or distributed indoor rooms during the day but in the evening the society is tightly connected. 
+
+##### urban
+  * not segregated by mobility (but by social factors)
+  * life is often indoors but distributed. 
+  * People belong to different clusters trough a day 
+
+#### Observations
+* In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities. 
+  * Observed by [Rader,Scarpino et al](#summary-raderscarpino). 
+
+> I also except that in rural settings: 
+> * the peak incidence will be much higher (double or more) and the wave passes through the entire society. 
+> * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
+
+## Population
+This section is about how spreaders are distributed in the population and how much risk there's from the various population groups. 
+
+### Spreader Distribution
+[in work]
+
+### Children
+see section [Schools and Children](#schools-and-children)
 
 
 ## Spread Situations
 **[in work]**
-Spread situations and patterns of Covid-19 and other diseases described in literature. 
+Spread situations and patterns of Covid-19 both observed and described in literature.
 
-### Cities versus Rural
-* In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities. 
-  * Observed by [Rader,Scarpino et al](#summary-raderscarpino).
+### Airplanes
+[**in work**]
+Without good protection measures (masks, ventilation) there have been reported multiple mass transmission events in airplanes [Freedman and Smith](#freedman). Only a couple of cases have been reported seen strong protection measures are in place. 
 
+### Large Scale Production Factories
+Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work]. 
+
+> Noteworthy that mainly food production factories are concerned. [To check whether they reuse filtered air]
+
+### Large Scale Sporting Events
+Large scale sporting events provided likely ground for ultra-spreading events. The evidence for this is currently based on:
+* Players and staff were very frequently infected yielding to many cancellations of matches. Infections are very rare in countries with fan bans. 
+* the increase of Covid-19 cases seems to be steeper in regions with fans visiting large scale sporting events [to check and verify]
+
+It will be interesting to investigate the prevalence of Covid-19 in the fans either through antigen/PCR ( PCR optimally including sequencing to backtrace the exact transmission pathways) or by studying seroprevalence rates. 
+
+> There's **no proof yet** as fare as I know. **But evidence strong** enough to **not allow spectators** in any Covid risk region. 
+
+#### Settings in Sport Stadiums
+[**in work**]
+* Netherlands: up to 15 - 35% until 1.10. 
+* Switzerland:up to 2/3 of capacity [to check] allowed between 1.10.20 and 28.10.20 both for ice hockey (indoor) and football. All fans needed to wear a mask (of any type) but were allowed to drink (including alcoholic beverages).
+* Ukraine: allowed in mid October (exact dates to be checked)
+* Belgium: up to 400 outdoor and 200 indoor allowed from 23.9. to 23.10.
+* Russia: still several thousand fans seem to be allowed in football [as indicated by stadium counts on 4.11.]
+* Turkey: several hundred fans seem to be allowed in football [as indicated by stadium counts on 4.11.] [to check]
+
+
+#### Results from Leagues with Spectators
+Sources: https://www.sofascore.com,
+https://www.bbc.com/sport/football/scores-fixtures
+* Switzerland
+  * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams due to multiple infected players. Compared to 16 of 16 in the UK. 
+  * for some teams more than half of the staff was Covid positive (e.g. FC Sion)
+  * the regions with ice hockey stadiums most showed a steeper increase in Covid-19 cases than the regions without large ice hockey stadiums. This indicates regular super-spreading events (as fare as I can judge by the data public available) 
+  * in late October most hockey matches needed to be cancelled since many teams had multiple infected players.
+* Ukraine
+  * Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members 
+* Belgium 
+  * 4 of 17 matches cancelled between 21.10. and 4.11., despite an increasing Covid prevalence throughout October most matches need to be cancelled in mid October when spectators still were allowed. Nevertheless the cancels can also be due to the overall very high Covid-19 prevalence in Belgium. 
+* Turkey 
+  * regular cancellation of matches due to insufficient players
+* Russia
+  * [to check]
+
+#### Results from Leagues without Fans
+* UK: between 21.10 and 4.11. all matches (16) have been played
+* Netherlands (allowed only until 1.10.): between 21.10. and 4.11. all matches (18) have been played
+* Germany: no matches cancelled [to confirm]
 
 ### Schools and Children
 A recommended review is [COVID-19 Transmission and Children: The Child Is Not to Blame](#leeraszka) by B. Lee and W. Raszka. Notable findings from the studies are below and summaries of most studies are in [Summarized References](#summarized-references).
@@ -116,6 +218,8 @@ Remark: Working Paper
   * unadjusted the Covid incidence were near the same 5.67 versus 5.66 (Table 2)
   * adjusted the risk for parents with children in school was about 15% [OR 1.15; CI95 1.03–1.27] higher if adjusted with logistic regression(Table 1)
 * "Among lower secondary teachers the infection rate doubled relative to upper secondary teachers [OR 2.01; CI95 1.52–2.67]. This spilled over to the partners of lower secondary teachers who had a higher infection rate than their upper secondary counterparts [OR 1.30; CI95 1.00–1.68]."
+> #### Comment
+> It is not clear that the observed slightly increased Covid incidence of parents/teachers of lower secondary school children results from transmission from the children, it could also be attributed to parents visiting the school and a following transmission between adults. 
 
 
 ### Summary Stein-Zamir
@@ -208,3 +312,9 @@ References with a summary are in the section [Summarized References](#summarized
 Lee B and Raszka WV. 
 **COVID-19 Transmission and Children: The Child Is Not to Blame.**
 Pediatrics. 2020;146(2):e2020004879 [https://doi.org/10.1542/peds.2020-004879]()
+
+#### choi
+Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases, 26(11), 2713-2716. https://dx.doi.org/10.3201/eid2611.203254.
+
+#### freedman
+Freedman, D. O., & Wilder-Smith, A. (2020). In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication. https://doi.org/10.1093/jtm/taaa178

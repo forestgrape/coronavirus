@@ -23,6 +23,10 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
+- 5.11. Updates for [Spread Analyses](./spread_analyses.md) in online work:
+    * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas. 
+      > Not proven yet but evidence strong enough that risk regions should stop allowing large scale events. As of 4./5.11. there still seem to be football matches with several thousand spectators.  
+    * Spreading events in food production factories and airplanes are sketched. 
 - 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." for Covid "Outdoor Days to prevent risking a Hospital Overflow" added in [Strategy](./monitor_and_control.md#strategy)
 - 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Failure](./monitor_and_control.md#detect-monitor-failure) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago. 
@@ -41,7 +45,7 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](#infection-tropism-and-diseas-patterns)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
 - 27.7. [Disease pattering](#infection-tropism-and-disease-patterns)
-- 3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' added to github pages/master branch (since 29.4. published as github branch coronasection)
+- 29.4/3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' 
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
@@ -135,7 +139,7 @@ Time to act mindfully, carefully and circumspectly & work together in an open, f
 
 
 ### Sars-CoV-2 transmission 
-SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols. A more in depth description than here is in the section [Recap Airborne Transmission](./transmission.md#recap-airborne-transmission).
+SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols. There is strong evidence indicating that the aerosol transmission  is the most important transmission and so this should be prevented. A short overview below and a more in depth description is in the section [Airborne Transmission](./transmission.md#recap-airborne-transmission).
 * __droplet transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
     - masks
     - distance
@@ -156,22 +160,25 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 
 In brief: Think ahead. To reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
 
-* #### Masks
-    Wear a [mask](./monitor_and_control.md#masks) 
-    - Outdoor and indoor: for close range face-to-face contact/talking. 
-    - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
-
-    Ideally masks are as comfortable so one doesn't mind wearing them. In some situations a dense mask with a good fit is necessary: e.g. hospitals and indoor with very dry air. Generally any clean mask protects better than no mask. Nevertheless if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
-
-    Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
-
-* #### Distancing
-    Distancing reduces infection risk.
+* #### Outside
+    [Outside is safe, if some distance is kept](./monitor_and_control.md#outside-is-safer). Ideally, walk or cycle directly from home. Outside most infection occur when close range face-to-face talking. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 * #### Ventilate
     [Ventilation](./monitor_and_control.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
     * Open the windows. In cold climate: ventilate the rooms regularly by opening all windows for 5 minutes.  
     * If possibly infected, ventilate before opening the door of your room or flat. 
+
+* #### Masks
+    Wear a [mask](./monitor_and_control.md#masks) 
+    - Outdoor and indoor: for close range face-to-face contact/talking. 
+    - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
+
+    The mask should be clean, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
+
+    Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+
+* #### Distancing
+    Distancing reduces infection risk.
 
 * #### No Dry Air
      In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defences of the respiratory tract against pathogens. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. 
@@ -183,9 +190,6 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
-
-- #### Outside
-    [Outside is safe, if some distance is kept](./monitor_and_control.md#outside-is-safer). Ideally, walk or cycle directly from home. Outside most infection occur when close range face-to-face talking. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 - #### Transport
   * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
