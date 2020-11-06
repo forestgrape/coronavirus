@@ -8,7 +8,7 @@
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
-* The license is Creative Commons Attribution 4.0. A thanks may be more suitable than citing though, contact me in this case.
+* The license is Creative Commons Attribution 4.0. (since 3.11. before it was at most CCA 4.0). However a thanks may be more suitable than citing, please ask in this case. 
   <!--* the more content is useful the more referencing is IMHO appropriate.  
   * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](./covid19.md#public-description).
@@ -23,13 +23,13 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- 5.11. Updates in [Spread Analyses](./spread_analyses.md) in online work:
+- 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](./monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers not estimates. Mainly I was shocked by very steep increase of deaths and I still am [analyses in work] ... I spent/d a lot of time analyzing numbers in my life and often get them.
+- 5./6.11. Updates in [Spread Analyses](./spread_analyses.md) in online work:
     * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas. 
       > Not proven yet but evidence strong enough that risk regions should **stop allowing large scale events** even with protection measures. As of 4./5.11. there still seem to be football matches with many thousand spectators. 
     * Sections about observed spreading events in food production factories and airplanes.
-- 3.11. "On falling: Better walking back awkwardly dragging the parachute than falling cool without." for Covid "Outdoor Days to prevent risking a Hospital Overflow" added in [Strategy](./monitor_and_control.md#strategy)
 - 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
-- 31.10. [Detect Monitor Failure](./monitor_and_control.md#detect-monitor-failure) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago. 
+- 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago. 
 - 28.10. (10 am, only summaries available) Early results from [Spread Analyses](./spread_analyses.md) [currently in 'heavy' work] show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
     > This page started out with the proposal of a dry form aerosol transmission model to describe the early observed spread patterns. During the summer I started to acknowledge droplet transmission, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in october 2020 combined with extensive droplet preventions in place made me reanalyze: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude: 
     * air-conditioning: Brazil, Middle East and Southern US (in California noteworthy is the difference between hot Los Angeles and temperate San Francisco)
@@ -57,7 +57,7 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 ### Minor Updates
-- 3.11. License clarified: Creative Commons Attribution 4.0. 
+- 3.11. License set to Creative Commons Attribution 4.0. (before it was at most Creative Commons Att. 4.0)
 - 24.10. Completed&added&linked summaries regarding insects for the section [Backtracing SARS-1/2](#backtracing-sars-cov-12)
 - 20-23.10. Clarifications and corrections across the page with a focus on the sections Transmission, Immune System and Coronaviruses.
 - 18.10. Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./transmission.md#summary-airborne-transmission)). More on the topic in work. 
