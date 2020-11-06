@@ -45,8 +45,8 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
 > 
 > Two more points
-> * trying new paths even at the risk of falling but with a parachute ready and using it early. Better walking back awkwardly with the parachute (and being ready for the next journey) than falling cool without. For Covid-19 the emergency parachutes are outdoor days: which means stopping all non essential entries to foreign or public indoor settings.
-> * Missteps should be analyzed, the next antibiotics can be discovered. 
+> * trying new paths even at the risk of falling but with a parachute ready and using it early. Better walk with the parachute (and being ready for the next journey) than fall cool without. For Covid-19 the emergency parachutes are outdoor days: which means stopping all non essential entries to foreign or public indoor settings.
+> * Missteps should be analyzed, the next antibiotics are to be discovered. 
 
 
 ## Protection Measures
@@ -228,7 +228,7 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 * ###### Narrowing
   Narrowing of Life. How individuals experience the measures? Are there costs associated e.g. school children missing education. Financial costs (state support assumed).
 * ###### Comment
-  The points above are summarized to a subjective rating/comment and a recommendation. The overall rating is subjective since it relies on  subjective weighting and subjective rating of the single points. 
+  The points above are summarized to a subjective rating/comment and a recommendation. The overall rating is subjective since it relies on subjective weighting and subjective rating of the single points. 
 
 
 ### Reduction of Nightlife
@@ -252,30 +252,30 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
 > 
 > Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the immune system is burdened the next day repairing party-damage and may not fight viruses. This is double bad:
 >   1. Disease progression: Longer asymptomatic phase and higher viral loads
->   2. Feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore not recognized.
+>   2. Feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore are not recognized.
 
 
 ### Reduce Alcohol Consumption
-The history of prohibition dates back nearly as long as history itself has been handed down. However full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
+The history of prohibition dates back nearly as long, as history itself has been handed down. Full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
 * ThinkThrough: 
   * Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms. 
-  * Alcohol reduces the ability to concentrate and rashly action are more common, that's why no driving.  Permanent following of corona prevention measures needs concentration. 
+  * Alcohol reduces the ability to concentrate and rashly action are more common, that's why no driving. Permanent following of corona prevention measures needs concentration. 
 * Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. 
 
 
 ### Gastronomy
-* Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea) it has been shown that gastronomy and especially in the evening and in bars play a key role in the transmission of Covid. 
+* Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that gastronomy and especially in the evening plays a key role in the transmission of Covid. 
 * ThinkThrough: 
-  * Many people from different backgrounds and regions sit often quite densely in the same room, this is ideal for SARS-Cov-2 to spread.
+  * Many people from different backgrounds and regions sit often densely in the same room, this is ideal for SARS-Cov-2 to spread.
 * Comment:
-  * In regions where the death rate is above 2.5 per million and cases are increasing, most gastronomy should be closed at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)). If left open during the day, the ventilation needs to be good.   
-  * If the situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy is luxury, dispensable for a few weeks.
-  * People working in larger groups (e.g. open-plan office) or living in larger groups (e.g. Families) should avoid gastronomy at high Covid rates, since they already are angle point for transmission. 
+  * In regions where the death rate is above 2.5 per million and cases are increasing, most gastronomy can be reduced at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)). If open during the day, the ventilation needs to be good.   
+  * If the epidemiological situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy is luxury, dispensable for a few weeks.
+  * People working in large groups (e.g. open-plan office) or living in large groups (e.g. Families) should take special care in general including gastronomy at high Covid rates, since they already are possible angle points for transmission. 
 
 
 ### Corona Conform Schooling
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
-* Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other countries. 
+* Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
   > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. 
 * ThinkThrough:
   * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children). If they spread then mainly with droplet transmission which can be prevented. 
@@ -351,7 +351,7 @@ Process and situations virions decay occurs:
 
 #### Virion Clearance
 Virion are cleared from the air by the mechanism below.  and due to [virion decay](#virion-decay) there's no accumulation.
-- [virion decay](#virion-decay) in air: occurs mainly through sun light
+- [Virion Decay](#virion-decay) in air: occurs mainly through sun light
 - condensation 
 - washed out by rain
 - virion attachment to non infectable materials (which is nearly everything except a tiny fraction of cells in the scarce hosts) 
@@ -371,11 +371,11 @@ To adjust the measures and to communicate these it is important to estimate and 
 
 #### Different Counts
 There are several counts to distinguish [not very clear on this page yet, in work]:
-* Number of people getting currently infected. This number predicts how many people may need hospital treatment starting in roughly 1 to 3 weeks and being there in 1 to 4 weeks so they may need a place in the next 1 to 7 weeks. This number can only be estimated. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing)
-* Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get tested through sampling or contact tracing. They may or may not develop symptoms, about 80% develop symptoms. 
-* Number of people with symptoms. Likely these are most often detected in case counts. Symptoms usually come 1 - 10 days after the infection occurred.
-* Number of people admitted to hospitals. This number can be lowered in absolute emergencies with triage. 
-* End of disease. Often about 10 days after initial symptoms for mild disease. The disease end is usually much longer in severe cases and is fatal in about 1 of 400 cases. 
+* Number of people getting currently infected. This number predicts how many people may need hospital treatment starting in roughly 1 to 3 weeks and being there in 1 to 4 weeks so they may need a place in the next 1 to 7 weeks. This number can only be **estimated**. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing)
+* Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get **tested** through sampling or contact tracing. They may or may not develop symptoms, about 80% develop symptoms. 
+* Number of people with **symptoms**. Likely these are most often detected in case counts. Symptoms usually come 1 - 10 days after the infection occurred.
+* Number of people admitted to **hospitals**. This number can be lowered in absolute emergencies with triage. 
+* End of disease. Often about 10 days after initial symptoms for mild disease. The disease lasts usually much longer in severe cases and is fatal in about 1 of 400 cases which yields the **death count**.
 
 #### Motivation
 * Since what control tactics is optimal and/or needed depends largely on incidence rates. If the incidence rate is out of some bounds the strategy may fail to work or be unnecessary strict: 
@@ -385,18 +385,18 @@ There are several counts to distinguish [not very clear on this page yet, in wor
 * Planning of in hospitals: Knowing the current incidence rates gives an estimate for the capacity needed in a few weeks
 * Communication: Knowing the cases helps on decision for everybody such if to avoid crowded spaces or staying home when having respiratory symptoms 
 
-#### Detect Monitor Failure
+#### Detect Estimates Out of Bounds
 The equation 
 `current_death_count = estimated_past_case_count * fatality_rate` 
 can be used to detect if the estimation methods worked in the past. How fare in the past depends how long on average the patients survive and whether takes the date of infection or the date of going for a test ([Different Counts](#different-counts)). Assuming a fatality rate of 0.25% yields one in 400 dies from Covid-19. So the 
 `estimated_past_case_count = 400 * current_death_count` 
 The case can be different yielding a correction factor:
 `correction_factor = estimated_past_case_count/past_case_count_from_death_count`
-If the testing strategies didn't change the current actual infected can be estimated with the correction_factor: 
-`actual_current_case_count = current_case_count * correction_factor`.
+If the estimation method didn't change the current actual infected can be estimated with the correction_factor: 
+`new_estimated_case_count = correction_factor * estimated_case_count`.
 
 
-#### On Monitor and Control Failure
+#### On Estimates Out of Bounds
 A correction factor greater than 2 needs redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](#strategy) and [On Numbers](#on-numbers)). How much worrying depends if, how effective and when measures have been adapted. 
 Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/controls/reduction can be necessary.
 
