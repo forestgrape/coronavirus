@@ -82,12 +82,12 @@ All countries provided programs for financial support and additionally:
 A main distinguishing feature between rural and cities is that in rural areas people are segregated by geographical distance (corresponding a lower population density over entire regions) and thus the time to travel while in cities people tend to be segregated by social factors such as interest/jobs/hobbies/age/world views. The distance separation induces well defined clusters (villages). Social factors yield clusters to but the borders are softer and the clusters are different for each social factor. 
 Infectious disease wave through the clusters until there's no more ground to nourish. 
 
-##### rural
+##### Rural
   * Segregated by mobility
   * Life is often outdoors or distributed indoor rooms during the day but in the evening the society is tightly connected. 
 
-##### urban
-  * not segregated by mobility (but by social factors)
+##### Urban
+  * not segregated by mobility (but by social factors) which yields a different segmentation for each factor
   * life is often indoors but distributed. 
   * People belong to different clusters trough a day 
 
@@ -115,7 +115,19 @@ Spread situations and patterns of Covid-19 both observed and described in litera
 
 ### Airplanes
 [**in work**]
-Without good protection measures (masks, ventilation) there have been reported multiple mass transmission events in airplanes [Freedman and Smith](#freedman). Only a couple of cases have been reported seen strong protection measures are in place. 
+[Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes all studies the studies they reviewed. 
+Key points:
+* "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
+* For SARS-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no strong protection measures were in place. Both index cases were symptomatic. 
+* Since strong protection measures are in place only few transmissions have been observed. 
+* Protection measures in airplanes:
+  * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
+  * masks (mostly permanent but often meals are served)
+  * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
+
+#### Ventilation in Airplanes
+Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air exchange goes from top to bottom (and not anymore from front to back) [citation coming].
+
 
 ### Large Scale Production Factories
 Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work]. 
