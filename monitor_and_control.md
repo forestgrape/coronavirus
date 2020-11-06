@@ -471,19 +471,19 @@ Notations and Equivalences:
   
 total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment if the estimated values are for several days greater and *no* adequate measures in place
 --------|--------|------|--------|---
-<0.2%   |2 K     | 200  |    ~.5 | if less/not increasing/mainly young infected: loose rules, own responsibility
->0.4%   |4 K     | 400  |    ~1  | if greater/or increasing: **monitoring** needed. Prefer outdoor to indoor
+<0.2%   |2 K     | 200  |    ~.5 | if less or not increasing or mainly young infected: loose rules, own responsibility
+>0.4%   |4 K     | 400  |    ~1  | if greater or increasing: **monitoring** needed. Prefer outdoor to indoor
 >1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
->4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ)
-> 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection very risk high for everybody, temporary hospitals may be needed 
+>4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
+> 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed 
 > 10%   |100 K   |10'000| ~25+   | prevent even at very high costs, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
->  15%  |150_K   |15'000| ~50++  | hospitals completely overwhelmed and chaotic therefore death rate doubles or more, reached in heaviest hit regions. 
+>  15%  |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic therefore death rate doubles or more, reached in heaviest hit regions. 
+
 
 ## Data 
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
 
 Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free of costs nowadays), annotated and searchable published.
-
 
 ### Distributed Handling
 In computer science it is well known that distributed and parallel data handling works best. This even on computers with only a couple of cores.
@@ -517,7 +517,7 @@ Right or Wrong and Perfection anyways are often a matter of viewpoint and angle.
 Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub repository or REST API) and are annotated e.g. contain a readme with the specifications what and how is measured. 
 
 
---------
+---
 
 ## References
 
