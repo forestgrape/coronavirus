@@ -50,13 +50,10 @@ Observations indicating that the Covid-19 transmission correlates to inhaled and
     * [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world. 
     
 
-
-
 **[in work]**
 
 ## Geographical Analysis
 [in work]
-
 
 ### Methods
 For regions across the world the following is analysed:
@@ -113,7 +110,7 @@ Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
 
 ### Pre-symptomatic Infectors
 [**in work**]
-> Caveat: Most of the investigation were done early in 2020 when only few lines of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections.
+> Caveat: Most of the investigation were done early in 2020 when only few lines of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections. At that time over 80% of the cases developed symptoms. 
 * [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people. Caveat: 
 * The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
 
@@ -213,7 +210,7 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 
 ## Summarized References
 [in work]
-References without a summary are in the section [References](#references). Copy & Paste citation are in "citation". 
+References without a summary are in the section [References](#references). Copy & Paste citations are in "___". 
 
 ### Summary Adam,Wu
 **Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**

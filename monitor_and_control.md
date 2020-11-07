@@ -39,10 +39,10 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * Moderate measures preserving life quality. But disallowing super-spreader situation since they can yield sudden and hard to control explosion in cases 
 > * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
 > * Settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on, go on circumspectly
-> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking not to admit elderly to hospitals in a few weeks time I think is **not** nice. **Everybody has to right for good treatment.**  
+> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking not to admit elderly to hospitals in a few weeks time I think is not nice. **Everybody has to right for good treatment.**
 >
 > ### Reconsidering Strategy
-> In cold areas/times rules need to be tighter, since aerosol transmission is hard to prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
+> In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
 > 
 > Two more points
 > * trying new paths even at the risk of falling but with a parachute ready and using it early. Better walk with the parachute (and being ready for the next journey) than fall cool without. For Covid-19 the emergency parachutes are outdoor days: which means stopping all non essential entries to foreign or public indoor settings.
@@ -87,7 +87,10 @@ Mask reduce spread since they mitigate both the infection and spread risk. Masks
     - Particles smaller than 5 micro meter:  statistically significant 2.8 fold reduction in viral copies detected in the fine aerosol fraction.
     - Overall: Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
-    > [in rework, reduction upon exhalation likely is lower especially if the mask is use long without changing what many do] Assuming a reduction of exhaled particles by a factor of 2 (50% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 4 = (2 times fewer particles inhaled) * (2 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+    > in rework, **reduction upon exhalation likely is lower** especially if the mask is used long without changing what 
+    many do. Most lab experiments are done with fresh mask without using them for several hours. 
+    
+    Assuming a reduction of exhaled particles by a factor of 2 (50% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 4 = (2 times fewer particles inhaled) * (2 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 #### Mask Types
 Mask can be classified either by
@@ -111,14 +114,14 @@ There are various standards to classify mask by their filtration quality: E.g. i
 * ###### Intermediate Filtration
   Surgical Masks
 * ###### Low Filtration 
-  Textile mask often have low filter performance. They prevent the [droplet exchange](./transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not reliably prevent the spread of aerosols, which is important in heated indoor rooms if possibly infected. 
+  Textile mask often have low filter performance. They prevent the [droplet exchange](./transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not reliably prevent the spread of aerosols, which is important in indoor rooms if possibly infected. 
 
 ##### Usage Classes
 * _Protection masks against dust_ are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let the air out unfiltered. That means that there is not inside to outside protection and thus masks with valves offer protection for the wearer only and *not* for others.
 * _Medical masks_ : There are two types of medical mask. 
   * _Surgical masks_: are constructed for comfort and a focus is on inside to outside protection (during surgery, the body is open and so there is no skin protection). Mainly larger particles such as bacteria are filtered and additionally they cover the entire mouth area where often some nutrition rests can be.
   * _Medical protections masks_: To protect medical staff against pathogens from infected patients. These masks are usually in the highest filtration category and offer good protection for all pathogens including viruses.
-* _Textile masks_ are available in a lot of sizes and styles. These masks often offer the best fit and tend worn most often due to comfort and style. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](./transmission.md#summary-airborne-transmission), overall the most relevant spread of Covid, is prevented.
+* _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. These masks often offer could comfort and style. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](./transmission.md#summary-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
 
 #### Mask Reuse and Cleaning
 * wash with soap/hot water/machine-wash
