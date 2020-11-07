@@ -274,7 +274,7 @@ The ACE 2 receptors of primates and cat-like ACE are predicted to bind well to t
 * 5553 s2m accessions
   * 3984 in SARS-Cov-2 strains
   * two similar sequences in virome of the spider species Tetragnatha maxillosa
-  * winder moth and bagworm moth
+  * winter moth and bagworm moth
 * G>U mutation in position 31 which is only observed in the pandemic SARS-CoV-2 strains and in no other accessions s2m sequences
 #### Discussion
 * 10 base deletion inside s2m observed during passaging in Vero cell (experiments carried out by a different research group)
