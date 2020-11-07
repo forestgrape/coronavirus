@@ -23,8 +23,9 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- 7.11. Updates in Spread Patterns in work:
-  - Spreader Distribution: 20% of infected were responsible for 80% of the infected cases detected by the contact tracing in Hong Kong. 
+- 7.11. Updates in [Spread Analyses](./spread_analyses.md) in work:
+  - [Infector Distribution](./spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the infected cases detected by the contact tracing in Hong Kong. 
+  - Section on [Pre-symptomatic Infectors](./spread_analyses.md#pre-symptomatic-infectors) in work
 - 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](./monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers and not estimates. 
     >Mainly I was shocked by very steep increase of deaths and still am [analyses in work]. I spent/d a lot of time doing analyses and often get the estimates (regardless whether liked).
 - 5./6.11. Updates in [Spread Analyses](./spread_analyses.md) in online work:

@@ -112,10 +112,13 @@ Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
 * 70% of the cases induced no observed infections (despite most of them being not in 
 
 ### Pre-symptomatic Infectors
-* [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people. Caveat: The study was carried out from January to April 2020, at that time only few lines of SARS-CoV-2 may have been able to diminish to immune system enough to cause asymptomatic infections.
+[**in work**]
+> Caveat: Most of the investigation were done early in 2020 when only few lines of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections.
+* [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people. Caveat: 
+* The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
 
 ### Children
-see section [Schools and Children](#schools-and-children)
+Children are less likely to be infectees and less likely to be infectors [see section [Schools and Children](#schools-and-children)].
 
 
 ## Spread Situations
