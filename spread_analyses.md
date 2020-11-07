@@ -4,15 +4,18 @@
 * [Geographical Analysis](#geographical-analysis)
   * [Methods](#methods)
   * [Cities versus Rural](#cities-versus-rural)
-* [Population](#population)
-  * [Spreader Distribution](#spreader-distribution)
+* [Infectors](#infectors)
+  * [Infector Distribution](#infector-distribution)
+  * [Pre-symptomatic Infectors](#pre-symptomatic-infectors)
   * [Children](#children)
 * [Spread Situations](#spread-situations)
+  * [Indoor Social Settings](#indoor-social-settings)
   * [Airplanes](#airplanes)
   * [Large Scale Production Factories](#large-scale-production-factories)
   * [Large Scale Sporting Events](#large-scale-sporting-events)
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
+  * [Summary Adam,Wu](#summary-adamwu)
   * [Summary Ehrhardt,Brockmann](#summary-ehrhardtbrockmann)
   * [Summary Vlachos,Svaleryd](#summary-vlachossvaleryd)
   * [Summary Stein-Zamir](#summary-stein-zamir)
@@ -99,11 +102,17 @@ Infectious disease wave through the clusters until there's no more ground to nou
 > * the peak incidence will be much higher (double or more) and the wave passes through the entire society. 
 > * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
 
-## Population
-This section is about how spreaders are distributed in the population and how much risk there's from the various population groups. 
+## Infectors
+Analyzing how infectors are distributed, can deducing fine-grained control measures. 
 
-### Spreader Distribution
-[in work]
+### Infector Distribution
+Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
+* 20% of the cases induced 80% of infections
+* 10% of the cases induced 20% of infections
+* 70% of the cases induced no observed infections (despite most of them being not in 
+
+### Pre-symptomatic Infectors
+* [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people. Caveat: The study was carried out from January to April 2020, at that time only few lines of SARS-CoV-2 may have been able to diminish to immune system enough to cause asymptomatic infections.
 
 ### Children
 see section [Schools and Children](#schools-and-children)
@@ -112,6 +121,11 @@ see section [Schools and Children](#schools-and-children)
 ## Spread Situations
 **[in work]**
 Spread situations and patterns of Covid-19 both observed and described in literature.
+
+### Indoor Social Settings
+* [Contact Tracing in Hong Kong](#summary-adamwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
+
+#### Bars and Restaurants
 
 ### Airplanes
 [**in work**]
@@ -192,13 +206,32 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 * [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly outside of schools. This in turn indicates that for most viruses adults play the major role in the transmission. 
   
 
-
-
 ---
 
 ## Summarized References
 [in work]
 References without a summary are in the section [References](#references). Copy & Paste citation are in "citation". 
+
+### Summary Adam,Wu
+**Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
+Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs.3.rs-29548/v1]()
+#### Methods
+"Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection."
+#### Results
+* Distribution of Infectivity:
+  * 20% of the cases induced 80% of infections
+  * 10% of the cases induced 20% of infections
+  * 70% of the cases induced no observed infections (despite most of them being not in quarantine, Fig.2)
+* "Gatherings in social settings such as bars, restaurants, weddings and religious sites appear to be at increased risk of superspreading events."
+* "Transmission in social settings was significantly associated with an increased number of secondary cases compared to transmission observed in family households."
+* Quarantine
+  * Home quarantine yielded sporadic infections (2 observed) in family settings (Fig.2 d) and none outside families
+  * Government quarantine yielded no further infections (Fig.2)
+* "Of all cases confirmed in Hong Kong, 195 (18.8%, 195/1,038) were asymptomatic at confirmation (Supplementary Table 2) and, of these, most (83.1%, 162/195) were PCR-confirmed from 27 March onward" (Extended Data Fig.2)
+* Infections caused by pre-symptomatic infectors were rarely observed: "Seven instances of likely pre-symptomatic transmission were observed where onset of the infectee preceded that of the infector or occurred on the same day."
+#### Limitations
+"These findings take advantage of the quality of case ascertainment and contact tracing data in Hong Kong, although some incompleteness in links between cases could potentially bias our estimates of transmission heterogeneity."
+
 
 ### Summary Ehrhardt,Brockmann
 **Transmission of SARS-CoV-2 in children aged 0 to 19 years in childcare facilities and schools after their reopening in May 2020**
