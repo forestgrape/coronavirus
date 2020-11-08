@@ -17,6 +17,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 * [Risk Assessment](#risk-assessment)
   * [Balancing of Measures](#balancing-of-measures)
   * [Outside is Safer](#outside-is-safer)
+  * [Hospital Overwhelming](#hospital-overwhelming)
 * [Monitor](#monitor)
   * [Monitor Evolution](#monitor-evolution)
   * [Monitor Prevalence](#monitor-prevalence)
@@ -39,7 +40,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * Moderate measures preserving life quality. But disallowing super-spreader situation since they can yield sudden and hard to control explosion in cases 
 > * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
 > * Settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on, go on circumspectly
-> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking not to admit elderly to hospitals in a few weeks time I think is not nice. **Everybody has to right for good treatment.**
+> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking not to admit elderly to hospitals in a few weeks time I think is not nice. **Everybody has to right for a good treatment.** 
 >
 > ### Reconsidering Strategy
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
@@ -361,6 +362,14 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
     * earth
     * water
     * rocks
+
+
+### Hospital Overwhelming
+[**in work**]
+Reasons to avoid hospital overwhelming (with good planning some of the reasons can be overcome):
+* Everyone has has the right for a fair and good treatment. Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure not overwhelmed hospitals are necessary too. 
+* The overall process can get less efficient since e.g. patients need out of hospital treatment which has additional challenges
+* Can greatly increase the risk for additional spread since protection measures may not be in place e.g. the provisional building may not have an appropriate ventilation
 
 
 ## Monitor 
