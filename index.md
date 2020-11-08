@@ -226,11 +226,11 @@ Keeping benefits and risks in mind:
 ### Respect and Take Care 
 > *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
 
-[**in rework: self protection is hardly doable cold seasons due to aerosol transmission**]
+[**in rework: overall cases should be lower in cold season, since self protection is more difficult due to aerosol transmission (high filtration mask are likely needed but these are (still) only limited available).**]
 Respecting others having a different view of Covid yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
 
 * Precautions/Protection measures in place in public spaces which everybody needs to use. 
-* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Protections measures can often be community/local decisions. E.g. restaurants could have some freedom to put measures in place. Universities provide both on campus and off campus studying.
+* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Depending on the epidemiological situation protections measures can be community/local decisions. E.g. Universities provide both on campus and off campus studying.
 
 > Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
 
@@ -239,7 +239,7 @@ Controlling SARS-CoV-2 is an individual, a local and global task. The better eve
 * Staying out of crowds and taking care even with mild respiratory disease symptoms, a runny nose is enough reason to stay home. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
 * Giving infections time to cure. It is known for various virus infections that they can become persistent.
-* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects are hardly known. The more people there are infected the larger is the damage SARS-2 is causing.
+* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects are hardly known. Keeping cases low is good for all: The fewer people are infected the fewer tend the overall costs of SARS-2 to be.
 * Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is crucial, which detects infections early, induces symptoms and clears them. 
 
 
