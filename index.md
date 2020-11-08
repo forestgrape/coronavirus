@@ -239,7 +239,7 @@ Controlling SARS-CoV-2 is an individual, a local and global task. The better eve
 * Staying out of crowds and taking care even with mild respiratory disease symptoms, a runny nose is enough reason to stay home. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
 * Giving infections time to cure. It is known for various virus infections that they can become persistent.
-* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects are hardly known. Keeping cases low is good for all: The fewer people are infected the fewer tend the overall costs of SARS-2 to be.
+* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects are hardly known. Keeping cases low is good for everybody and the more people help doing so the better.
 * Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is crucial, which detects infections early, induces symptoms and clears them. 
 
 
