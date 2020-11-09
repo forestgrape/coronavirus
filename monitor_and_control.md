@@ -38,9 +38,9 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * knowledge & research
 > * own responsibility and independent decisions
 > * Moderate measures preserving life quality. But disallowing super-spreader situation since they can yield sudden and hard to control explosion in cases 
-> * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements should be banned. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
-> * Settings that those who want/need can protect to some extent, while most (those not needing/choosing) can go on, go on circumspectly
-> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering and even risking not to admit elderly to hospitals in a few weeks time I think is not nice. **Everybody has to right for a good treatment.** 
+> * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements no advertising is an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
+> * Settings that those who want/need can mostly protect, while those not needing/choosing can go on, go on circumspectly.
+> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering or risking not to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.** 
 >
 > ### Reconsidering Strategy
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
