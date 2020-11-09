@@ -8,7 +8,7 @@
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
-* The license is Creative Commons Attribution 4.0. (since 3.11. before it was at most CCA 4.0). However a thanks may be more suitable than citing, please ask in this case. 
+* The license is Creative Commons Attribution 4.0. (since 3.11. before it was at most CCA 4.0, changed, since I hope for more feedback). However a thanks may be more suitable than citing, please ask in this case. 
   <!--* the more content is useful the more referencing is IMHO appropriate.  
   * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](./covid19.md#public-description).
@@ -23,6 +23,8 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
+- 9.11. Formulations corrected and improved. 
+  > I spend more time on reading and analyzing than on formulations and proof reading. Sometimes it takes a couple of days to discover & improve unworldly and validate formulations.
 - 7.11. Updates in [Spread Analyses](./spread_analyses.md) in work:
   - [Infector Distribution](./spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the infected cases detected by the contact tracing in Hong Kong. 
   - Section on [Pre-symptomatic Infectors](./spread_analyses.md#pre-symptomatic-infectors) in work
@@ -226,7 +228,7 @@ Keeping benefits and risks in mind:
 ### Respect and Take Care 
 > *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
 
-[**in rework: overall cases should be lower in cold season, since self protection is more difficult due to aerosol transmission (high filtration mask are likely needed but these are (still) only limited available).**]
+[*in rework: overall cases should be lower in cold season, since self protection is more difficult due to aerosol transmission (high filtration mask are possibly needed but these are (still) only limited available).*]
 Respecting others having a different view of Covid yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
 
 * Precautions/Protection measures in place in public spaces which everybody needs to use. 
