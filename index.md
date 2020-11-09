@@ -24,7 +24,7 @@
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 - 9.11. Formulations corrected and improved. 
-  > I spend more time on reading and analyzing than on formulations and proof reading. Sometimes it takes a couple of days to discover & improve unworldly and validate formulations.
+  > I spend more time on reading and analyzing than on formulations and proof reading. While I try, sometimes words are not weighted carefully and it takes a couple of days to discover & improve unworldly and validate formulations.
 - 7.11. Updates in [Spread Analyses](./spread_analyses.md) in work:
   - [Infector Distribution](./spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the infected cases detected by the contact tracing in Hong Kong. 
   - Section on [Pre-symptomatic Infectors](./spread_analyses.md#pre-symptomatic-infectors) in work
