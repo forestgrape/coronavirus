@@ -46,15 +46,15 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
 > 
 > Two more points
-> * trying new paths even at the risk of falling but with a parachute ready and using it early. Better walk with the parachute (and being ready for the next journey) than fall cool without. For Covid-19 the emergency parachutes are outdoor days: which means stopping all non essential entries to foreign or public indoor settings.
-> * Missteps should be analyzed, the next antibiotics are to be discovered. 
+> * Trying new paths even at the risk of falling but having a parachute ready and using it early. Better walk with the parachute (and being ready for the next journey) than fall cool without. For Covid-19 the parachutes are outdoor days: being outdoors and avoiding all non essential entries to foreign or public indoor settings.
+> * Analyzing missteps can be rewarding, the next antibiotics are to be discovered. 
 
 
 ## Protection Measures
-The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for dry form transmission is described in [Proposal of a Dry Form Transmission Model](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
 ### Support Immune Protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases, this should be the main focus. 
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases, this should be the main focus (along with open windows and no air-conditioners if there are Covid-19 cases). 
 
 Proposals for good health:
 * providing settings that support good health
@@ -158,14 +158,14 @@ The thinking behind using a tactics of relaxed instructions is as follows:
 
 #### Example Calculation of Spread
 * ##### Strict Instructions
-  With strict quarantine measures, infection risk from known infected  is more reduced but fewer people may do tests. Example: Out of 10 infected, 5 are known and 5 unknown/untested
+  With strict quarantine measures, infection risk from known infected is more reduced but fewer people may do tests. Example: Out of 10 infected, 5 are known and 5 unknown/untested
   * the 5 known may infect on average 2 others (thus having a R value of 0.4)
   * the 5 untested may infect 10 others (having a R value of 2.0)
   
   Overall the 10 infected people infect 12 others and so an overall R value of 1.2.
   
 * ##### Relaxed Instructions
-  With relaxed instructions the known infected may on average infect more people but the number of unknown infected is smaller yielding an overall smaller spread. Example out of 10 infected 8 are known and 2 unknown:
+  With relaxed instructions the known infected may on average infect more people but the number of unknown infected is smaller.  Overall this yields a smaller R value. Example out of 10 infected 8 are known and 2 unknown:
   * the 8 known infect 4 others (R value of 0.5 for known infected)
   * the 2 unknown infect 4 others (R value of 2.0)
   
@@ -193,10 +193,10 @@ as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
 
 #### Isolation/Home-Lockdown
 To reduce spread isolation/home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more fine-grained the measures can be.
-* isolation should be used with care since it can discourage people from testing and being transparent e.g. disclosing socials contacts and travel history.
-* there are reasons against a complete stay at home order in my opinion as of 31.7.2020:
-    - going outside is important for an intact immune system and good health. This is important for infected too.
-    - indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at 
+* Isolation should be used with care since it can discourage people from testing and being transparent e.g. disclosing socials contacts and travel history.
+* There are reasons against a complete stay at home order in my opinion as of 31.7.2020:
+    - Going outside is important for an intact immune system and good health. This is important for infected too.
+    - Indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at 
     risk.
 
     Preventing spread opportunities e.g. both indoor and crowded public spaces is important however.
@@ -224,26 +224,26 @@ A general curfew is not needed since outdoor days are enough to prevent transmis
 
 This sections discusses measures that can be put in place if Covid-19 increase rapidly. For each measure 
 * ###### Evidence
-  epidemiological evidence: Have transmission events been observed in the setting? If there are transmission events can they be reliable detected?
+  Epidemiological evidence: Have transmission events been observed in the setting? Can possible transmission events be reliable detected or will most go unnoticed?
 * ###### ThinkThrough
-  Thinking through/Common sense argumentation/Causal reasoning: Are there transmission opportunities? Are protection concepts? Are the concepts realistic in practice?
+  Thinking through/Common sense argumentation/Causal reasoning: Are there transmission opportunities? Are there protection concepts? Are the concepts realistic in practice?
 * ###### Experiences
   Experiences with measures in place. Are there experiences and if so what are they?
-* ###### Narrowing
-  Narrowing of Life. How individuals experience the measures? Are there costs associated e.g. school children missing education. Financial costs (state support assumed).
+* ###### Costs/Narrowing
+  Narrowing of Life. How individuals experience the measures? Are indirect and/or future costs associated e.g. school children missing education. Financial costs (government support is assumed).
 * ###### Comment
-  The points above are summarized to a subjective rating/comment and a recommendation. The overall rating is subjective since it relies on subjective weighting and subjective rating of the single points. 
+  The points above are summarized to subjective rating/comments/recommendations. Subjective since they rely on subjective weighting and subjective rating of the single points. 
 
 
 ### Reduction of Nightlife
 A slow down of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
-* Evidence: 
+* Evidence:
   * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife [citations coming]. 
-  * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In countries with low case numbers and extensive contact tracing, e.g. South Korea [and Japan, to check] many infections have been traced to clubs [citations in work].  
+  * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In countries with low case numbers and extensive contact tracing, e.g. South Korea and Hong Kong many infections have been traced to nightlife [citations in work].  
 * ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. Drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
-* Experiences: 
-  * An early closure of nightlife was implemented in (excat measures to be checked, combined with other measures/recommendations)
-    * Greece  (11.8.20, closing between 24 pm and 7 am)
+* Experiences:
+  * An early closure of nightlife was implemented in (exact measures to be checked, combined with other measures/recommendations)
+    * Greece  (11.8.20, closing between 24 pm and 7 am, in risk regions: Athens [to check])
     * Denmark (15.9.20, closing at 22 pm in risk regions, recommendation to reduce social contact and ending private parties at 10 pm)
     * Spain (14.8.20, closing of nightclubs; bars and restaurants close at 1 am; no drinking on the streets)
   
@@ -252,7 +252,7 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
     Denmark and Greece implemented this measures at low Covid incidences. Spain introduced additional measures later on. 
 * Comment: In pandemic times a closure e.g. at 12 pm like implemented in Greece is reasonable; more strict depending on the situation e.g. risk of hospital overflow.  
 
-> I recently (Mid October 2020) read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive guest combined with a faulty guest list. 
+> I recently (Mid October 2020) read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive guest combined with a faulty guest list.
 > 
 > Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the immune system is burdened the next day repairing party-damage and may not fight viruses. This is double bad:
 >   1. Disease progression: Longer asymptomatic phase and higher viral loads
@@ -261,20 +261,21 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
 
 ### Reduce Alcohol Consumption
 The history of prohibition dates back nearly as long, as history itself has been handed down. Full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
-* ThinkThrough: 
-  * Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms. 
-  * Alcohol reduces the ability to concentrate and rashly action are more common, that's why no driving. Permanent following of corona prevention measures needs concentration. 
-* Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones. 
+* ThinkThrough:
+  * Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms.
+  * Alcohol reduces the ability to concentrate and rashly action are more common, that's why no driving. Permanent following of corona prevention measures needs concentration.
+* Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones.
 
 
 ### Gastronomy
-* Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that gastronomy and especially in the evening plays a key role in the transmission of Covid. 
-* ThinkThrough: 
+* Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that gastronomy and especially in the evening plays a key role in the transmission of Covid.
+* ThinkThrough:
   * Many people from different backgrounds and regions sit often densely in the same room, this is ideal for SARS-Cov-2 to spread.
 * Comment:
-  * In regions where the death rate is above 2.5 per million and cases are increasing, most gastronomy can be reduced at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)). If open during the day, the ventilation needs to be good.   
+  * Good ventilation is important.
+  * In regions where the death rate is above 2.5 per million and cases are increasing, gastronomy can be reduced at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)).
   * If the epidemiological situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy is luxury, dispensable for a few weeks.
-  * People working in large groups (e.g. open-plan office) or living in large groups (e.g. Families) should take special care in general including gastronomy at high Covid rates, since they already are possible angle points for transmission. 
+  * People working in large groups (e.g. open-plan office) or living in large groups (e.g. families) should take special care regarding Covid-19 transmission including in gastronomy, since they already are possible angle points for transmission.
 
 
 ### Corona Conform Schooling
