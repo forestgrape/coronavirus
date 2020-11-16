@@ -8,7 +8,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
   * [Lifetime Storage](#lifetime-storage)
   * [Storage and Duplication Options](#storage-and-duplication-options)
   * [Interactions between Life Forms](#interactions-between-life-forms)
-  * [Membrane Forming Life Forms](#membrane-forming-life-forms)
+  * [Keeping the Metabolism Immune](#keeping-the-metabolism-immune)
 * [Introduction to Viruses](#introduction-to-viruses)
   * [Life Cycle](#life-cycle)
   * [Virus Classification](#virus-classification)
@@ -37,7 +37,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
   * [Changing Patterns](#changing-patterns)
 * [References](#references)
   * [RNA Viruses](#rna-viruses)
-  * [Enviromental Factors on Betacoronaviruses](#enviromental-factors-on-betacoronaviruses)
+  * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
   * [Cell Entry](#cell-entry)
   * [Expression Locations of ACE2](#expression-locations-of-ace2)
 
@@ -121,14 +121,24 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 * Besides energy mammals including us humans need extern organic sources for vitamins, essential amino acids, essential fatty acids, ...
 * Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanently coupled life forms develop: E.g. mitochondria as cell organelles. 
 
-> Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes/machines. Where as viruses can't produce all needed enzymes/machines
+> Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes/machines. Where as viruses by definition don't produce all needed enzymes/machines.
 
-### Membrane Forming Life Forms
-[in work]
-As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms shield their metabolism by semipermeable membranes. The membranes evolved vary how permeable, thick and rigid they are. 
+Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings.
+
+### Keeping the Metabolism Immune
+Most life forms have have some mechanisms to keep their metabolism immune. These mechanisms are called [immune system](./immune_system.md). 
+A simple and effective way of doing so, is shielding the metabolism by semipermeable membranes. The membranes evolved vary in permeability, thickness and rigidity.
+
+#### Cell Forming Life Forms
+**[in work]**
+As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms have their entire metabolism inside semipermeable membranes [to check: all double layer lipid?]. Such a structure is called a cell. The cell can be subdivided again by membranes into different compartments and thereby giving rise to cell organelles. 
+
+> ##### Eukaryotes
+> Forms, that additionally shield their genome by an inner membrane. This inner structure is called nucleus. Forms of life having a nucleus (Latin for kernel) are called *eukaryotes* (naming done in the 60's from eu and karyo=kernel).
+
+> ##### Prokaryotes
 > Some forms of life have just this outer membrane but no inner membrane shielding the genome away from the main metabolism. These forms are called *prokaryotes* (from Greek: pro=before, karyo=kernel). 
 
-> Forms, that additionally shield their genome by an inner membrane. This inner structure is called nucleus. Forms of life having a nucleus (Latin for kernel) are called *eukaryotes* (naming done in the 60's from eu and karyo=kernel).
 
 * Prokaryotes
   - Eubacteria
@@ -650,7 +660,7 @@ Examples of well conserved proteins for coronaviruses are:
 	J Innate Immun 2020;12:4–20
 	https://doi.org/10.1159/000503030
 
-### Enviromental Factors on Betacoronaviruses
+### Environmental Factors on Betacoronaviruses
 * ##### chan
 	K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
 	**The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus**
