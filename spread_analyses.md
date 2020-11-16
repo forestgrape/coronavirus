@@ -15,6 +15,8 @@
   * [Large Scale Sporting Events](#large-scale-sporting-events)
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
+  * [Comments on Spread Analysis](#comments-on-spread-analysis)
+  * [Summary Madewell](#summary-madewell)
   * [Summary Adam,Wu](#summary-adamwu)
   * [Summary Ehrhardt,Brockmann](#summary-ehrhardtbrockmann)
   * [Summary Vlachos,Svaleryd](#summary-vlachossvaleryd)
@@ -96,11 +98,11 @@ Infectious disease wave through the clusters until there's no more ground to nou
   * Observed by [Rader,Scarpino et al](#summary-raderscarpino). 
 
 > I also except that in rural settings: 
-> * the peak incidence will be much higher (double or more) and the wave passes through the entire society. 
+> * the peak incidence will be much higher (double or more) and the wave passes through the entire society in one go. 
 > * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
 
 ## Infectors
-Analyzing how infectors are distributed, can deducing fine-grained control measures. 
+Knowing how infectors are distributed, can help to fine-tune control measures. 
 
 ### Infector Distribution
 Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
@@ -110,7 +112,7 @@ Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
 
 ### Pre-symptomatic Infectors
 [**in work**]
-> Caveat: Most of the investigation were done early in 2020 when only few lines of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections. At that time over 80% of the cases developed symptoms. 
+> // Caveat: Most of the investigation were done early in 2020 when only few strains of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections. At that time over 80% of the cases developed symptoms. 
 * [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people. Caveat: 
 * The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
 
@@ -140,20 +142,20 @@ Key points:
   * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
 
 #### Ventilation in Airplanes
-Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air exchange goes from top to bottom (and not anymore from front to back) [citation coming].
+Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air flow is from top to bottom (and not anymore from front to back) [citations in work].
 
 
 ### Large Scale Production Factories
-Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work]. 
+Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work].
 
-> Noteworthy that mainly food production factories are concerned. [To check whether they reuse filtered air and what temperature/humidity settings]
+> Noteworthy that often food production factories are concerned. [To check whether they reuse filtered air and what temperature/humidity settings]
 
 ### Large Scale Sporting Events
 Large scale sporting events provided likely ground for ultra-spreading events. The evidence for this is currently based on:
 * Players and staff were very frequently infected yielding to many cancellations of matches. Infections are very rare in countries with fan bans. 
-* the increase of Covid-19 cases seems to be steeper in regions with fans visiting large scale sporting events [to check and verify]
+* the increase of Covid-19 cases seems to be steeper in regions with spectators visiting large scale sporting events [to check and verify]
 
-It will be interesting to investigate the prevalence of Covid-19 in the fans either through antigen/PCR ( PCR optimally including sequencing to backtrace the exact transmission pathways) or by studying seroprevalence rates. 
+It will be interesting to investigate the prevalence of Covid-19 in the spectators either through antigen/PCR (PCR: ideally whole genome sequencing to backtrace the transmission pathways) or by studying seroprevalence rates. 
 
 > There's no proof yet as fare as I know. But evidence strong enough to **not allow spectators** anymore in Covid risk regions. 
 
@@ -170,25 +172,25 @@ It will be interesting to investigate the prevalence of Covid-19 in the fans eit
 
 
 #### Results from Leagues with Spectators
-Sources: https://www.sofascore.com,
-https://www.bbc.com/sport/football/scores-fixtures
+Sources: [https://www.sofascore.com](),
+[https://www.bbc.com/sport/football/scores-fixtures](), 
 * Netherlands
-  * A very steep rise in Covid-19 cases in early October
+  * A very steep increase of Covid-19 cases in early October
 * Switzerland
-  * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams (multiple infected players and staff members).
-  * the regions with ice hockey stadiums most showed a steeper increase in Covid-19 cases than the regions without large ice hockey stadiums. This indicates regular super-spreading events (as fare as I can judge by the data public available) 
+  * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams (multiple infected players and staff members). Some teams had most of their players and staff infected. 
+  * the regions with ice hockey stadiums most showed a steeper increase in Covid-19 cases than the regions without ice hockey stadiums. This indicates regular super-spreading events (as fare as I can judge by the data public available). 
   * in late October the majority of hockey matches needed to be cancelled since many teams had multiple infected players.
 * Ukraine
-  * Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members 
+  * Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members. [other teams to be checked]
 * Belgium 
   * 4 of 17 matches cancelled between 21.10. and 4.11., despite an increasing Covid prevalence throughout October most matches need to be cancelled in mid October when spectators still were allowed. Nevertheless the cancels can also be due to the overall very high Covid-19 prevalence in Belgium. 
 * Turkey 
-  * regular cancellation of matches due to insufficient players
+  * regular cancellation of matches due to insufficient players 
 * Russia
   * [to check]
 
 #### Results from Leagues without Fans
-* UK: between 21.10 and 4.11. all matches (16) have been played
+* UK: between 21.10. and 4.11. all matches (16) have been played
 * Netherlands (allowed only until 1.10.): between 21.10. and 4.11. all matches (18) have been played
 * Germany: no matches cancelled [to confirm]
 
@@ -211,6 +213,41 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 ## Summarized References
 [in work]
 References without a summary are in the section [References](#references). Copy & Paste citations are in "___". 
+
+### Comments on Spread Analysis
+* only when Covid prevalence is very low, infected household members directly indicate secondary attack rate [Comments at [Summary Madewell](#summary-madewell)]
+
+
+### Summary Madewell
+**Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate**
+Zachary J. Madewell, Yang Yang, Ira M. Longini Jr, M. Elizabeth Halloran, Natalie E. Dean
+medRxiv preprint doi: [https://doi.org/10.1101/2020.07.29.20164590](), posted August 1, 2020.
+#### Methods
+Meta-Analysis of studies regarding the transmission dynamics of Covid-19 in household settings. Many different kind of studies are included: * Covid diagnosis based on RT-PCR, whole-genome sequencing, nucleic acid tests, antibody tests and some studies included symptoms. 
+* The influence of the different factors (contact type, symptom status, adult/child contacts, contact sex, relationship to index case, index case sex, number of contacts in household, coronavirus) is analyzed.
+
+#### Findings
+Secondary Attach Rates with different groups as **infectors**. The error rate is in brackets. 
+* household: 0.19 (0.4); family including non household contacts: 0.18 (0.5)
+* symptomatic: 0.2 (0.6); pre- or asymptomatic: 0.07 (0.04)
+
+Secondary Attach Rates with different groups as **infectees**. The error rate is in brackets. 
+* children: 0.16 (0.6); adults: 0.31 (1.2) 
+* spouse: 0.43 (1.6); other: 1.8 (0.8)
+
+Proportion of households where a secondary transmission was observed:
+* 0.32 (.025)
+
+Comparison with SARS-1 or MERS:
+* SARS-1: 0.06 (0.04)
+* MERS: 0.035 (0.035)
+
+
+> #### Comments
+> * Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for several household members are likely and thus the prevalence is likely higher than the secondary attack rate. 
+
+
+
 
 ### Summary Adam,Wu
 **Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
