@@ -317,7 +317,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
 ## Risk Assessment
 
 ### Balancing of Measures
-* Monitoring the personal/frequent customers of open(ed) businesses can be an indication for a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
+* Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
 * Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
 * All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
 * Workers and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal. E.g. long-term prohibit visits is likely no solution.
@@ -488,13 +488,13 @@ total current infected in percent  | total current infected per million | case c
 >0.4%   |4 K     | 400  |    ~1  | if greater or increasing: **monitoring** needed. Prefer outdoor to indoor
 >1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
 >4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
-> 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed 
+> 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed
 > 10%   |100 K   |10'000| ~25+   | prevent even at very high costs, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
->  15%  |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic therefore death rate doubles or more, reached in heaviest hit regions. 
+>  15%  |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic situations can occur therefore death rate doubles or more, reached in heaviest hit regions.
 
 
 ## Data 
-Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them. 
+Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them.
 
 Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free of costs nowadays), annotated and searchable published.
 
@@ -503,22 +503,22 @@ In computer science it is well known that distributed and parallel data handling
 * Map reduce and similar
 * Programming paradigms enabling parallel execution data handling
 
-We humans have billions of brains, so with good communication we've got a lot of brain power to tackle any task. 
+We humans have billions of brains, so with good communication we've got a lot of brain power to tackle any task.
 
 <!--
 * there are many skilled data scientists around the world. Many spending their time presenting us the most relevant ads. Relevant usually means highest click rate i.e. most distracting. Whether the distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
 
 #### Data Specifications
-For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.  
-The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world and a worldwide agreement on annotations and publishing of country/region specific specifications would make the data at least partially comparable. 
+For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.
+The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world and a worldwide agreement on annotations and publishing of country/region specific specifications would make the data at least partially comparable.
 
 <!--todo:update -->
 E.g. In Switzerland as of 17.4.20, the testing policy is to test only people who are sick _and_ belong to a risk group. The policy is mostly followed, however is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are analyzable (since largely consistent) and expressive but just not comparable to countries, where everybody who is sick or even everybody who could be infected is tested.
-Remark: As of 1.5.20 more people are allowed to test. 
+Remark: As of 1.5.20 more people are allowed to test.
 
-> Subjective Remark, May 2020: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more fine-grained measures can be. A gradual reopening starting in April makes sense. 
+> Subjective Remark, May 2020: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more fine-grained measures can be. A gradual reopening starting in April makes sense.
 Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearly stated.<br>
-> To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view for all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lock-downs step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important. 
+> To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view for all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lock-downs step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important.
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
 
 #### Data Features
