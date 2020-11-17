@@ -9,6 +9,11 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Ventilation](#ventilation)
   * [Distancing](#distancing)
   * [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine)
+* [Control Measures](#control-measures)
+  * [Contact Tracing](#contact-tracing)
+  * [Whitelist Testing](#whitelist-testing)
+  * [Outdoor Days](#outdoor-days)
+  * [Home Lock Down](#home-lock-down)
 * [Thoughts about Social Measures](#thoughts-about-social-measures)
   * [Reduction of Nightlife](#reduction-of-nightlife)
   * [Reduce Alcohol Consumption](#reduce-alcohol-consumption)
@@ -205,20 +210,32 @@ To reduce spread isolation/home-lockdown is a radical measure. The more is known
 
 Isolation/stay-at-home may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
 
-<!--
+
 ## Control Measures
 [in work]
 
 ### Contact Tracing
 
-### Mass Testing
+### Whitelist Testing
+Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home isolation phase applies and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
+* Experiences: 
+  * In many countries such testing is done for travelling: only those with negative tests are allowed to enter. 
+  * In Slovakia in early November 2020 a nationwide testing campaign and only those with negative tests were excluded from a general curfew. 
+    > A new tactics will be interesting to analyze its success. A general curfew I consider to strict however, only allowing people with negative tests to enter foreign indoor settings should be enough.
+
 
 ### Outdoor Days
-Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission. To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoor. 
+Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission. To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoor. Outdoors with masks for face-to-face-talking transmission is very unlikely.  
+
 
 ### Home Lock Down
-A general curfew is not needed since outdoor days are enough to prevent transmission. Moreover a lot of aerosol is produced when doing indoor sports and put fellow occupants and neighbors at risk. 
--->
+A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was more limited and transmission less clear and not widely known. However it has very severe drawbacks compared to [outdoor days](#outdoor-days):
+* few or no movement for a longer time is not good for health. 
+* a lot of aerosol is exhaled when doing indoor sports and this puts fellow occupants and neighbors in the same building at risk.
+* being lock indoors can have negative psychological effects 
+
+A curfew at night has some use cases e.g. in preventing private parties but in most situations an early closure of gastronomy will be enough and more appropriate [Reduction of Nightlife](#reduction-of-nightlife).
+
 
 
 ## Thoughts about Social Measures
@@ -237,11 +254,14 @@ This sections discusses measures that can be put in place if Covid-19 increase r
   The points above are summarized to subjective rating/comments/recommendations. Subjective since they rely on subjective weighting and subjective rating of the single points. 
 
 
+> #### Government Support 
+> Temporary support for individuals I consider necessary to not disrupt the life of people and give time to reorganize. Some business will only be close during wave peaks (e.g. gastronomy) while other businesses may be closed for the foreseeable future (long distance traveling large scale events). 
+
 ### Reduction of Nightlife
 A slow down of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
 * Evidence:
   * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife [citations coming]. 
-  * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In countries with low case numbers and extensive contact tracing, e.g. South Korea and Hong Kong many infections have been traced to nightlife [citations in work].  
+  * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In regions with low case counts and extensive contact tracing (e.g. South Korea and Hong Kong) many infections have been traced to nightlife [citations in work].  
 * ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. Drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
 * Experiences:
   * An early closure of nightlife was implemented in (exact measures to be checked, combined with other measures/recommendations)
@@ -270,11 +290,11 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 
 ### Gastronomy
-* Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that gastronomy and especially in the evening plays a key role in the transmission of Covid.
+* Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that in gastronomy, especially in the evening, many transmissions of Covid occur.
 * ThinkThrough:
   * Many people from different backgrounds and regions sit often densely in the same room, this is ideal for SARS-Cov-2 to spread.
 * Comment:
-  * Good ventilation is important.
+  * Good ventilation 
   * In regions where the death rate is above 2.5 per million and cases are increasing, gastronomy can be reduced at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)).
   * If the epidemiological situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy is luxury, dispensable for a few weeks.
   * People working in large groups (e.g. open-plan office) or living in large groups (e.g. families) should take special care regarding Covid-19 transmission including in gastronomy, since they already are possible angle points for transmission.
@@ -371,9 +391,10 @@ Virion are cleared from the air by the mechanism below.  and due to [virion deca
 ### Hospital Overwhelming
 [**in work**]
 Reasons to avoid hospital overwhelming (with good planning some of the reasons can be overcome):
-* Everyone has has the right for a fair and good treatment. Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure not overwhelmed hospitals are necessary too. 
-* The overall process can get less efficient since e.g. patients need out of hospital treatment which has additional challenges
-* Can greatly increase the risk for additional spread since protection measures may not be in place e.g. the provisional building may not have an appropriate ventilation
+* Everyone has has the right for a fair and good treatment. 
+* Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure not overwhelmed hospitals are necessary too. 
+* The overall process can get less efficient. E.g. patients need out of hospital treatment, which has additional challenges.
+* Can greatly increase the risk for additional spread since protection measures may not be in place. E.g. the provisional building may not have an appropriate ventilation and temporary personal can be more likely to forget about proper protection measures.
 
 
 ## Monitor 
