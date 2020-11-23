@@ -102,13 +102,11 @@ Recognizing biological substances as unwanted and eliminate them. Unlike chemica
 * Local T cells are located often at entry points of viruses. E.g. the mouth is a common entry point for viruses, so in the mouth there are many local T cells [to check and cite]. 
 
 
-
 ## Protection Locations
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
 * entire body (e.g. fever, circulating antibodies or the skin)
 * tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
 * cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
-
 
 
 ## How SARS-2 Overcomes Immune Obstacles
@@ -123,7 +121,7 @@ Immune responses can be global (affecting the entire body), local for some tissu
 * biological:
     - phagocyte <- exploit phagocytosis by infecting the cell
       - SARS-2 can replicate in macrophages
-      - mostly not in T cells where cell death is induced
+      - usually not in T cells where cell death is induced
     - inactivation by antibodies: [in work]
 
 
