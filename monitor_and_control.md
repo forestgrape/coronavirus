@@ -47,7 +47,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases 
 > * Monitor and estimate overall cases to plan
 > * Settings that those who want/need can mostly protect, while those not needing/choosing can go on, go on circumspectly.
-> * Strictly **avoiding uncontrollable spread and hospital overwhelming**. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering or risking not to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
+> * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering or risking with a high probability *not* to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
 >
 > ### Reconsidering Strategy
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
