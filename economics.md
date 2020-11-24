@@ -5,7 +5,7 @@
 ### Remark
 * **in work** and 
 * often more **brainstorming** and sometimes **not** thoroughly thought through and **not** well researched/checked
-* provides the economic background for ideas how to take the current covid situation as an opportunity to **improve the economical systems** currently in place
+* provides ideas how to take the current covid situation as an opportunity to **improve the economical systems** 
 
 ---
 
