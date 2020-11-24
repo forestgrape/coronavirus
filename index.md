@@ -8,9 +8,10 @@
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
-* The license is Creative Commons Attribution 4.0. (since 3.11. before it was at most CCA 4.0, changed, since I hope for more feedback). However a thanks may be more suitable than citing, please ask in this case. 
-  <!--* the more content is useful the more referencing is IMHO appropriate.  
-  * For inspiration/cherry picking ideas, thanks are enough and welcome. -->
+* The license is Creative Commons Attribution 4.0. with the following notes/relaxations:
+  * For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste like). Feedback is still appreciated though!
+  * In scientific contexts, I consider citing a good and helpful practice. In the sense of inspiration rather than a rigorous fundament. 
+  * For inspiration/cherry picking ideas, thanks are enough and welcome. 
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](./covid19.md#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
@@ -23,6 +24,8 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
+- 24.11. New Page on [Economics](./economics.md): The goal is instead of providing target support in different situation (e.g. the current Covid situation), provide a universal credit system, so all in need can redesign and reorganize their (economic) life.
+- 24.11. License relaxed back again. No citation is needed for uses regarding public information or health. 
 - 17.11. Clarifications mainly on the Immune System page 
 - 9.11. Formulations corrected and improved. 
   > I spend more time on reading and analyzing than on formulations and proof reading. Although I try, sometimes words are not weighted carefully and it can take a couple of days to discover & improve unworldly formulations.
