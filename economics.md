@@ -194,7 +194,8 @@ Providing capital services is associated with work:
 * risk and credibility checking
 * check & advise & improve business plan
 * accompanying the capital e.g. check if interest rates are paid regularly
-The work is per credit and not per amount of credit. Therefor handing out large credits is much more lucrative if the interest rate is constant. 
+
+The work is per credit and not per amount of credit. Therefor handing out small credits is often not lucrative for financial institutions. 
 
 ### Goal
 Make capital services available to everybody by designing a framework which makes it attractive to hand out small and medium size funds.
