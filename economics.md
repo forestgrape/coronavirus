@@ -23,7 +23,7 @@
   * [Reasons for Universal Capital Services](#reasons-for-universal-capital-services)
   * [Current Problem](#current-problem)
   * [Goal](#goal)
-  * [Experiences with Tools increasing the Availability of Capital Services](#experiences-with-tools-increasing-the-availability-of-capital-services)
+  * [Experiences with increased Availability of Capital Services](#experiences-with-increased-availability-of-capital-services)
   * [Proposals for Implementation](#proposals-for-implementation)
 * [Modern Infrastructure](#modern-infrastructure)
 * [Economic System for Liberalism](#economic-system-for-liberalism)
@@ -43,17 +43,25 @@
 > 3. Fairness is achieved by increasing fairness for everybody and not by trying to fix unfairness for certain subgroups. Singling out subgroups yields new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
 
 ## Summary
-From time to time part of the economy are shaken, local or worldwide, in specific branches or more uniform. Covid-19 does so in specific branches. Usually governments need to support both companies and individuals to prevent them falling. 
-An ideal economical system according to liberal values would adapt itself. First classical support measures are listed. Next a universal credit framework is proposed:
-* empower everybody to design the economic life
-* and thereby create a fairer economy
-* improves the resilience of the economical system since everybody has the capability to reorganize and reorientate
-* all existing social support systems (e.g. unemployment) can be replaced by the credit system
+[**in work**]
+From time to time part of the economy are shaken, local or worldwide, in specific branches or more uniform. Covid-19 does so in specific branches. Usually governments need to support both companies and individuals to prevent them falling. An ideal economical system according to liberal values would adapt itself. The goal here is to improve the financial system to make the economy more adaptable. 
 
-The credit system is accompanied by a modern infrastructure supporting and/or providing
-* education
-* transportation
-* health care
+1. First classical support measures are listed and pro and contras discussed. 
+2. A universal credit framework is proposed with the goals:
+   * Enable everybody to design the economic life
+   * and thereby create a fairer economy
+   * Improves the resilience of the economical system since everybody has the capability to reorganize and reorientate
+   * All existing social support systems (e.g. unemployment) can be replaced by the credit system
+
+3. Ideas to implement such a system are sketched:
+   * Lower interest rates on money handed to financial institutions that is spend on small credits
+   * Flexible payback scheme similar or based on tax systems. The idea is that those who are fortune pay back much more than those who are less fortune. The credits should expire after some decades.
+   * Financial services as basic infrastructure such as education or streets
+
+4. The credit system is accompanied by a modern infrastructure framework providing
+   * Education
+   * Transportation
+   * Health care
 
 
 ## Thoughts about Economical Systems
@@ -74,7 +82,7 @@ For the time being only capitalism is discussed in the following.
 > In capitalism, those with capital control most of the production and thus the economy and thus have a lot power. So word capitalism is a fitting description.
  
 In theory capitalism allows everyone to have an own realm and so design the economic part of life according to one's own wishes. For that (co)owning production and transfer goods is necessary. However owning these goods requires sufficient capital. Sufficient depends on the situation, but it often means at least 10 times the annual living-costs. 
-> // Everybody and every community smaller or larger having its own realm I think is a good thing. It is how we evolved and how we think and like to think. Capitalism can be a suitable system providing that. However most current implementations of capitalism fall short in the sense that access to capital services is not universal. Exploring I ideas how to adapt to achieve this are considered here. 
+> // Everybody and every community smaller or larger having its own realm I think is a good thing. It is how we evolved and how we think and like to think. Capitalism can be a suitable system providing that. However most current implementations of capitalism fall short in the sense that access to capital (services) is not universal. Exploring I ideas how to adapt to achieve this are considered here. 
 
 
 #### Liquidity in Capitalism
@@ -85,7 +93,7 @@ Most implementations of capitalism work as follows:
 
 
 ## Government Support
-Government support options for the economy are discussed. 
+Government support options for the economy. 
 
 ### Acyclic Spending
 Depends on what the state owns and whether a short term increase in spending is beneficial:
@@ -191,7 +199,7 @@ The work is per credit and not per amount of credit. Therefor handing out large 
 ### Goal
 Make capital services available to everybody by designing a framework which makes it attractive to hand out small and medium size funds.
 
-### Experiences with Tools increasing the Availability of Capital Services 
+### Experiences with increased Availability of Capital Services 
 * Community Reinvestment Act (CRA) in the US: federal regulator rate banks how well they invest into different neighborhoods especially if they invest into low- or mid-income communities. The rating is considered for approval of bank mergers, acquisitions and such. (W Kenton, updated 18.8.2020, investopedia.com)
   * "Using recent empirical evidence, I demonstrate that over the last decade CRA has enhanced access to credit for low-income, moderate-income, and minority borrowers at relatively low cost, consistent with the theory that CRA is helping to overcome market failures." [Barr](#barr)
   * "CRA loans have a statistically significant positive effect on small business growth" [Rupasingha](#Rupasingha)
