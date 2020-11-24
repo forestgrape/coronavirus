@@ -36,41 +36,41 @@
 > ##### Economical System
 > A framework specifying ownership and transfer of goods and services. 
 
-> ### Baseline principles
->
+> ### Baseline Principles
+> Principles assumed here.
 > 1. All should be able to live the life we want while respecting the rest of the world doing so too. 
-> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. Fairness in the following is used in the sense of equal opportunities. (Inspired by John Rawls' theory of justice)
-> 3. Fairness is achieved by increasing fairness for everybody and not by trying to fix unfairness for certain subgroups. Singling out subgroups yields new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
+> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in the sense of equal opportunities.
+> 3. Fairness is achieved by increasing fairness for everybody and not by trying to fix unfairness for certain subgroups. Singling out and supporting subgroups yields new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
 
+[in work]
+<!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
 ## Summary
 [**in work**]
 From time to time part of the economy are shaken, local or worldwide, in specific branches or more uniform. Covid-19 does so in specific branches. Usually governments need to support both companies and individuals to prevent them falling. An ideal economical system according to liberal values would adapt itself. The goal here is to improve the financial system to make the economy more adaptable. 
 
 1. First classical support measures are listed and pro and contras discussed. 
    * targeted support is complicated and sometimes unfair since some fall through the nets
-   * current methods to increase liquidity (e.g. lowering interest rates) poor money on big companies and the money doesn't flow well to individuals in need. The problem is handing out credits is work and so often handing out small credits is not lucrative. 
+   * current methods to increase liquidity (e.g. lowering interest rates) poor money on banks and big companies (so much many don't know what to do with it) but the money doesn't flow well to individuals. One reason is, that handing out credits is work and so handing out small credits is not lucrative. 
 2. A universal credit framework is proposed with the goals:
    * Enable everybody to design the economic life
    * and thereby create a fairer economy
-   * Improves the resilience of the economical system since everybody has the capability to reorganize and reorientate
-   * All existing social support systems (e.g. unemployment) can be replaced by the credit system
+   * Improves the resilience and adaptability of the economical system since everybody has the capability to reorganize and reorientate
+   * Most existing social support systems (e.g. unemployment support, student loans) can be replaced by universal capital services
 
 3. Ideas to implement such a system are sketched:
    * Lower interest rates on money handed to financial institutions that is spend on small credits
-   * Flexible payback scheme similar or based on tax systems. The idea is that those who are fortune pay back much more than those who are less fortune. The credits should expire after some decades.
+   * Flexible payback scheme similar or based on tax systems. The idea is that those who are fortune payback much more than those who are less fortunate. The credits expire after some decades.
    * Financial services as basic infrastructure such as education or streets
 
-4. The credit system is accompanied by a modern infrastructure framework providing
-   * Education
-   * Transportation
+4. The credit system is accompanied by a modern infrastructure framework. Till the 19th century, a save workplace and good transportation was often enough when combined with skill and work. Now in the 21th century more infrastructure is needed to provide everybody with fundamentals to succeed:
+   * Education options (from child care to IT courses for seniors)
+   * Transportation and Telecommunication
    * Health care
-
+   * Accessible Production Infrastructure (not everything can be homemade competitively)
 
 ## Thoughts about Economical Systems
-
-So an economic system should provide all with the ability to design their life according to personal preferences and thereby not narrowing others living their life. 
-
-Most current economic systems are not optimal in regarding the above:
+[in work]
+Most current economic systems are not optimal regarding the [baseline principles](#baseline-principles):
 *  *only few can/have to chance to freely choose*: top down management and adaption 
 *  *sometimes unfair*: unequal opportunities in the sense not everybody has equal chances to choose how to participate and design.
 
@@ -211,7 +211,7 @@ Make capital services available to everybody by designing a framework which make
 
 ### Proposals for Implementation 
 * lower interest rates by the national bank on money handed out as micro & small credits (the rates likely need to be a couple percentages lower) => more attractive for banks to hand out small credits
-* payback scheme based on taxes => those with a large fortune are able to pay more
+* payback scheme based on or similar to tax system => those with a large fortune are able to payback more
 * possibly payback with taxes => easier to manage and structures already in place
 * the credits/funds should have an expiration date (e.g. 15 years) and so allowing a restart. 
 
