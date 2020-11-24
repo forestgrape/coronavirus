@@ -47,6 +47,8 @@
 From time to time part of the economy are shaken, local or worldwide, in specific branches or more uniform. Covid-19 does so in specific branches. Usually governments need to support both companies and individuals to prevent them falling. An ideal economical system according to liberal values would adapt itself. The goal here is to improve the financial system to make the economy more adaptable. 
 
 1. First classical support measures are listed and pro and contras discussed. 
+   * targeted support is complicated and sometimes unfair since some fall through the nets
+   * current methods to increase liquidity (e.g. lowering interest rates) poor money on big companies and the money doesn't flow well to individuals in need. The problem is handing out credits is work and so often handing out small credits is not lucrative. 
 2. A universal credit framework is proposed with the goals:
    * Enable everybody to design the economic life
    * and thereby create a fairer economy
