@@ -9,6 +9,7 @@
 
 ---
 
+* [Summary](#summary)
 * [Thoughts about Economical Systems](#thoughts-about-economical-systems)
   * [Capitalism](#capitalism)
 * [Government Support](#government-support)
@@ -19,7 +20,15 @@
   * [Financial Support versus Capital Services](#financial-support-versus-capital-services)
   * [Capital Services](#capital-services)
 * [Capital Services for Everybody](#capital-services-for-everybody)
+  * [Reasons for Universal Capital Services](#reasons-for-universal-capital-services)
+  * [Current Problem](#current-problem)
+  * [Goal](#goal)
+  * [Experiences with Tools increasing the Availability of Capital Services](#experiences-with-tools-increasing-the-availability-of-capital-services)
+  * [Proposals for Implementation](#proposals-for-implementation)
+* [Modern Infrastructure](#modern-infrastructure)
 * [Economic System for Liberalism](#economic-system-for-liberalism)
+* [Summarized References](#summarized-references)
+* [References](#references)
 
 > ##### Economics
 > Science about the production, consumption, and transfer of goods and services.
@@ -30,8 +39,22 @@
 > ### Baseline principles
 >
 > 1. All should be able to live the life we want while respecting the rest of the world doing so too. 
-> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. Fairness in the following is used in the sense of equal opportunities.
+> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. Fairness in the following is used in the sense of equal opportunities. (Inspired by John Rawls' theory of justice)
 > 3. Fairness is achieved by increasing fairness for everybody and not by trying to fix unfairness for certain subgroups. Singling out subgroups yields new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
+
+## Summary
+From time to time part of the economy are shaken, local or worldwide, in specific branches or more uniform. Covid-19 does so in specific branches. Usually governments need to support both companies and individuals to prevent them falling. 
+An ideal economical system according to liberal values would adapt itself. First classical support measures are listed. Next a universal credit framework is proposed:
+* empower everybody to design the economic life
+* and thereby create a fairer economy
+* improves the resilience of the economical system since everybody has the capability to reorganize and reorientate
+* all existing social support systems (e.g. unemployment) can be replaced by the credit system
+
+The credit system is accompanied by a modern infrastructure supporting and/or providing
+* education
+* transportation
+* health care
+
 
 ## Thoughts about Economical Systems
 
@@ -48,19 +71,21 @@ For the time being only capitalism is discussed in the following.
 > ##### Capitalism
 > An economic system where most goods are owned privately including the goods which are used for production and transfer. 
 
-> In capitalism, those with capital can design their life and the economy and overall have a lot power. 
+> In capitalism, those with capital control most of the production and thus the economy and thus have a lot power. So word capitalism is a fitting description.
  
 In theory capitalism allows everyone to have an own realm and so design the economic part of life according to one's own wishes. For that (co)owning production and transfer goods is necessary. However owning these goods requires sufficient capital. Sufficient depends on the situation, but it often means at least 10 times the annual living-costs. 
-> // Everybody and every community from small to larger having its own realm I think is a good thing. It is how we evolved and how we think and like to think. Capitalism can be a suitable system providing that. However most current implementations of capitalism fall short in the sense that access to capital services is not universal. Exploring I ideas how to adapt to achieve this are considered here. 
+> // Everybody and every community smaller or larger having its own realm I think is a good thing. It is how we evolved and how we think and like to think. Capitalism can be a suitable system providing that. However most current implementations of capitalism fall short in the sense that access to capital services is not universal. Exploring I ideas how to adapt to achieve this are considered here. 
 
+
+#### Liquidity in Capitalism
 Most implementations of capitalism work as follows:
 * a National Bank controls the amount of money and lends it to financial service providers (usually banks) with some interest rates
-* the banks lend that money accompanied with financial services to the public. The fees for the services and together with the risk are earned back through interest rates. 
+* the banks lend that money accompanied with financial services to the public. The fees for the services and together with the risk are earned back through interest rates.
 
 
 
 ## Government Support
-Government support options in times of crisis are discussed. Support in the current Covid situation is discussed in the section below [Covid Specific Support](#covid-specific-support).
+Government support options for the economy are discussed. 
 
 ### Acyclic Spending
 Depends on what the state owns and whether a short term increase in spending is beneficial:
@@ -91,8 +116,9 @@ Lowering the interest rates gets the banks access to cheaper money which in turn
 Low interest rates yield more liquidity. Liquidity in turn can yield more investments and thus can catalyze the transformation of the economy.
 
 #### Pro/Contra
-* slow effect since mostly top down: the banks lower their credits rates but mostly likely for large businesses only (small business credits require time to scale since risk checking and so on requires time and personal). Large cooperates discuss whether to take and what to do with additional money, then decisions need to flow through the hierarchy and possible multiple times. So until new jobs are created a lot time passes 
-* the jobs are created top down and may not those jobs people reorganizing are looking for or qualified. 
+* A main drawback is that the money flow is top down. From the bank to large companies and usually not much and only retarded the liquidity reaches small businesses.
+  * slow effect since mostly top down: the banks lower their credits rates but mostly likely for large businesses only (small business credits require time to scale since risk checking and so on requires time and personal). Large cooperates discuss whether to take and what to do with additional money, then decisions need to flow through the hierarchy and possible multiple times. So until new jobs are created a lot time passes 
+  * the jobs are created top down and may not those jobs people reorganizing are looking for or qualified. 
 
 ### Targeted Financial Support 
 [**in work and incomplete**]
@@ -104,12 +130,15 @@ Governments can support targeted businesses or individuals.
 * Support can be via businesses e.g. subsidize salaries
 
 #### Businesses
-> Short-term support in case of sudden changes can be adequate to prevent disruption. Mid-term and long-term, credit markets mostly work for businesses. The support for individuals can go through businesses e.g. supporting salaries. Businesses providing important social services; however for important social services for a long-term solution it is worth considering subsidizing these services universal (i.e. support all providing important social services) but coupled to requirements on the services. 
-
 * Compensate Income Loss
   * effect: businesses can keep running as before
 * Support Salaries (the businesses are supported to pay the salaries. The businesses profit since they can keep the employees and thus are ready to restart)
 * Liquidity measures: Credit scheme or guarantees
+
+> // Short-term support in case of sudden changes can be adequate to prevent disruption. Mid-term and long-term, credit markets mostly work for businesses.  Businesses providing important social services can be considered worth supporting. However subsidizing important social services is an alternative  (i.e. support all providing important social services but coupled to requirements on the services).
+
+#### Pro/Contra
+[in work]
 
 
 ### Universal Financial Support
@@ -125,7 +154,7 @@ Also called Helicopter Money. Hand out many to everybody. The idea is that the i
 ### Financial Support versus Capital Services
 Financial services denotes capital support without any refund mechanism: 
 > ###### Financial Support
-> On this page, *Financial Support* denotes credits without repayment/refund or any other financial obligation.
+> On this page: *Financial Support* denotes credits without repayment/refund or any other financial obligation.
 
 Capital services on the other hand, denote capital provided subject to some refund mechanism:
 > ###### Capital Services
@@ -145,12 +174,45 @@ Capital services usually are not available for private persons. However I consid
 
 
 ## Capital Services for Everybody
+
+### Reasons for Universal Capital Services
 To fully take advantage a capitalism capital is needed. 
 Today in most countries capital access depends on the capital status: 
 * Those with capital have access to a whole range of financial services either directly or through founding a new legal persons (e.g. joint-stock company). Companies can have limited liability and so are disposable in the sense that upon bankruptcy there's no liability for the owners. 
 * Private credits for those without much capital are often limited to credits for goods which can be resold e.g. houses and consumption credits for electronics or cars. Often such credits have stringent liabilities. 
 
+### Current Problem
+Providing capital services is associated with work:
+* risk and credibility checking
+* check & advise & improve business plan
+* accompanying the capital e.g. check if interest rates are paid regularly
+The work is per credit and not per amount of credit. Therefor handing out large credits is much more lucrative if the interest rate is constant. 
 
+### Goal
+Make capital services available to everybody by designing a framework which makes it attractive to hand out small and medium size funds.
+
+### Experiences with Tools increasing the Availability of Capital Services 
+* Community Reinvestment Act (CRA) in the US: federal regulator rate banks how well they invest into different neighborhoods especially if they invest into low- or mid-income communities. The rating is considered for approval of bank mergers, acquisitions and such. (W Kenton, updated 18.8.2020, investopedia.com)
+  * "Using recent empirical evidence, I demonstrate that over the last decade CRA has enhanced access to credit for low-income, moderate-income, and minority borrowers at relatively low cost, consistent with the theory that CRA is helping to overcome market failures." [Barr](#barr)
+  * "CRA loans have a statistically significant positive effect on small business growth" [Rupasingha](#Rupasingha)
+* Micro-credits
+  In Bangladesh and countries in South East Asia positive experiences have been gathered with micro-credits [in work]. 
+
+### Proposals for Implementation 
+* lower interest rates by the national bank on money handed out as micro & small credits (the rates likely need to be a couple percentages lower) => more attractive for banks to hand out small credits
+* payback scheme based on taxes => those with a large fortune are able to pay more
+* possibly payback with taxes => easier to manage and structures already in place
+* the credits/funds should have an expiration date (e.g. 15 years) and so allowing a restart. 
+
+
+## Modern Infrastructure
+[in work]
 
 ## Economic System for Liberalism
+[in work]
+
+## Summarized References
+[in work]
+
+## References
 [in work]
