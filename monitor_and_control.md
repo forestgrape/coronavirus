@@ -13,7 +13,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Contact Tracing](#contact-tracing)
   * [Whitelist Testing](#whitelist-testing)
   * [Outdoor Days](#outdoor-days)
-  * [Home Lock Down](#home-lock-down)
+  * [Home-Lock Down](#home-lock-down)
 * [Thoughts about Social Measures](#thoughts-about-social-measures)
   * [Reduction of Nightlife](#reduction-of-nightlife)
   * [Reduce Alcohol Consumption](#reduce-alcohol-consumption)
@@ -198,43 +198,42 @@ as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
 * no close range face-to-face talking
 * ventilate the room and flat before opening extern doors: Ideally ventilate before opening the personal room and open slightly only
 
-#### Isolation/Home-Lockdown
+#### Isolation by Home-Lockdown
 To reduce spread isolation/home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more fine-grained the measures can be.
 * Isolation should be used with care since it can discourage people from testing and being transparent e.g. disclosing socials contacts and travel history.
 * There are reasons against a complete stay at home order in my opinion as of 31.7.2020:
     - Going outside is important for an intact immune system and good health. This is important for infected too.
-    - Indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at 
-    risk.
+    - Indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk.
 
     Preventing spread opportunities e.g. both indoor and crowded public spaces is important however.
 
-Isolation/stay-at-home may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
+Isolation by a stay-at-home order may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
 
 
 ## Control Measures
 [in work]
 
 ### Contact Tracing
+[in work]
 
 ### Whitelist Testing
 Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home isolation phase applies and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
 * Experiences: 
   * In many countries such testing is done for travelling: only those with negative tests are allowed to enter. 
   * In Slovakia in early November 2020 a nationwide testing campaign and only those with negative tests were excluded from a general curfew. 
-    > A new tactics will be interesting to analyze its success. A general curfew I consider to strict however, only allowing people with negative tests to enter foreign indoor settings should be enough.
+    > A new tactics and it will be interesting to analyze it. A general curfew I consider to strict however, only allowing people with negative tests to enter foreign indoor settings should be enough.
 
 
 ### Outdoor Days
-Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission. To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoor. Outdoors with masks for face-to-face-talking transmission is very unlikely.  
+Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission. To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.  
 
-
-### Home Lock Down
-A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was more limited and transmission less clear and not widely known. However it has very severe drawbacks compared to [outdoor days](#outdoor-days):
+### Home-Lock Down
+A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was more limited and transmission less known. It has very severe drawbacks compared to [outdoor days](#outdoor-days):
 * few or no movement for a longer time is not good for health. 
 * a lot of aerosol is exhaled when doing indoor sports and this puts fellow occupants and neighbors in the same building at risk.
 * being lock indoors can have negative psychological effects 
 
-A curfew at night has some use cases e.g. in preventing private parties but in most situations an early closure of gastronomy will be enough and more appropriate [Reduction of Nightlife](#reduction-of-nightlife).
+A curfew at night has some use cases e.g. preventing private parties but in most situations softer measures can be applied: [Reduction of Nightlife](#reduction-of-nightlife).
 
 
 
@@ -450,7 +449,7 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 
 #### What to Monitor
 1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
-    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the transmissions. ([Example Calculation of Spread](#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine))
+    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine))
 2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
 3. Other respiratory diseases: influenza and common colds should be monitored too:
   * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
@@ -458,7 +457,11 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 
 #### How to Monitor
 * **Frequency:** Ideally these are taken near daily, else at least weekly. 
-* **Communicate:** Often, as of 16.10.20 only the positive tests and the positive test rate are communicated. However these numbers are hard to interpret: e.g. many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), how many of the tested are healthy and just need some clean sheet to travel, how many who are tested have symptoms, how many are tested because of company monitoring.
+* **Communicate:** Often (as of 16.10.20) only the positive tests and the positive test rate are communicated. However more complete data would allow more accurate interpretations: 
+  * many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), 
+  * how many of the tested are healthy and just need some clean sheet to travel, 
+  * how many who are tested have symptoms, 
+  * how many are tested because of company monitoring.
 * **Methods:**
   see also [testing schemes](#testing-schemes)
   * **very low to low incidence:** case counts 
@@ -518,11 +521,12 @@ total current infected in percent  | total current infected per million | case c
 
 
 ## Data 
+
+### Distributed Handling
 Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them.
 
 Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free of costs nowadays), annotated and searchable published.
 
-### Distributed Handling
 In computer science it is well known that distributed and parallel data handling works best. This even on computers with only a couple of cores.
 * Map reduce and similar
 * Programming paradigms enabling parallel execution data handling
@@ -533,8 +537,9 @@ We humans have billions of brains, so with good communication we've got a lot of
 * there are many skilled data scientists around the world. Many spending their time presenting us the most relevant ads. Relevant usually means highest click rate i.e. most distracting. Whether the distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
 
 #### Data Specifications
-For data analysis it is important to have accurate, consistent and clearly specified data and notifications if the data may not be accurate or the specifications changed. Notified corrections are helpful too.
-The different data measurement methods related to Covid-19, combined with no or few specifications, have a lot of space for improvement all around the world and a worldwide agreement on annotations and publishing of country/region specific specifications would make the data at least partially comparable.
+For data analysis it is important to have accurate, consistent and clearly specified data and notifications about possible inaccuracies or changed specifications. Notified corrections are helpful too.
+
+The different measurement methods regarding Covid-19 with no or few specifications have a lot of space for improvement all around the world. A uniform agreement on annotations would make the data better comparable.
 
 <!--todo:update -->
 E.g. In Switzerland as of 17.4.20, the testing policy is to test only people who are sick _and_ belong to a risk group. The policy is mostly followed, however is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are analyzable (since largely consistent) and expressive but just not comparable to countries, where everybody who is sick or even everybody who could be infected is tested.
@@ -542,13 +547,13 @@ Remark: As of 1.5.20 more people are allowed to test.
 
 > Subjective Remark, May 2020: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more fine-grained measures can be. A gradual reopening starting in April makes sense.
 Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearly stated.<br>
-> To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view for all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lock-downs step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important.
+> To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view in all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lock-downs step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important.
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
 
 #### Data Features
-* For analysis is useful to have as complete, exact and accurate data as possible and data protection laws permit e.g. age, medical conditions and locations.
-* Clinical observations well annotated and as complete as possible. 
-* Interpretation and analysis are nice to have but not necessary. 
+* For analysis is useful to have as complete, accurate and fine-grained data as possible and data protection laws permit (e.g. age, medical conditions and locations).
+* Clinical observations annotated and published with as much data as possible
+* Interpretations and analyses are nice but data analysis can be done dis
 
 #### Easy Readable
 Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub repository or REST API) and are annotated e.g. contain a readme with the specifications what and how is measured. 
