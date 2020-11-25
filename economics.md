@@ -48,7 +48,7 @@ Temporarily partitioning the society into groups can help to discover unfairness
 * The partitioning is only temporarily for analyses, we live together not separated. 
 
 In many parts of todays world:
-* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where education is not free => Affordable education helps.
+* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where good education is difficult to access => universal access to good education helps.
 * The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Free markets in agile economies should help. 
   > Activities such as educating children can be as instructive as working in a large company, one learns to manage, to teach ...
 
