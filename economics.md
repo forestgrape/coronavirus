@@ -3,8 +3,8 @@
 ---
 
 ### Remark
-* **in work** and 
-* often more **brainstorming** and sometimes **not** thoroughly thought through and **not** well researched/checked
+* **in work** 
+* often **brainstorming** and sometimes **not** thoroughly thought through and **not** well researched/checked
 * provides ideas how to take the current covid situation as an opportunity to **improve the economical systems** 
 
 ---
@@ -38,19 +38,21 @@
 
 > ### Baseline Principles
 > Principles assumed here.
-> 1. All should be able to live the life we want while respecting the rest of the world doing so too. 
-> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in the sense of equal opportunities.
-> 3. Fairness is achieved by increasing fairness for everybody and not by trying to fix unfairness for certain subgroups. Singling out and supporting subgroups yields new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
+> 1. We all should be able to live the life we want while respecting the rest of the world doing so too. 
+> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in this sense of equal opportunities.
+> 3. Fairness is achieved by increasing fairness for everybody and mostly not by fixing unfairness for certain subgroups. Singling out, prioritizing and supporting subgroups yields new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
 
 [in work]
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
 ## Summary
 [**in work**]
-From time to time part of the economy are shaken, local or worldwide, in specific branches or more uniform. Covid-19 does so in specific branches. Usually governments need to support both companies and individuals to prevent them falling. An ideal economical system according to liberal values would adapt itself. The goal here is to improve the financial system to make the economy more adaptable. 
+From time to time parts of the economy are shaken, local or worldwide, in specific branches or uniform. Covid-19 does so in specific branches. Usually governments need to support both companies and individuals. An ideal economical system would adapt itself to a changed environment. The goal here is to improve the financial system to make the economy more resilient, adaptable and fair. 
 
 1. First classical support measures are listed and pro and contras discussed. 
-   * targeted support is complicated and sometimes unfair since some fall through the nets
-   * current methods to increase liquidity (e.g. lowering interest rates) poor money on banks and big companies (so much many don't know what to do with it) but the money doesn't flow well to individuals. One reason is, that handing out credits is work and so handing out small credits is not lucrative. 
+   * targeted support is complicated and can be unfair since some fall through the nets
+   * current methods to increase liquidity (e.g. lowering interest rates) poor money on banks and big companies (so much many don't know what to do with it) but the money doesn't flow well to individuals. Reasons are:
+     * that handing out credits is work and so handing out small credits is not lucrative. 
+     * credits are often secured and those who need them most can often not provide any security. 
 2. A universal credit framework is proposed with the goals:
    * Enable everybody to design the economic life
    * and thereby create a fairer economy
@@ -74,7 +76,7 @@ Most current economic systems are not optimal regarding the [baseline principles
 *  *only few can/have to chance to freely choose*: top down management and adaption 
 *  *sometimes unfair*: unequal opportunities in the sense not everybody has equal chances to choose how to participate and design.
 
-For the time being only capitalism is discussed in the following.  
+For the time being only capitalism is discussed.
 
 ### Capitalism
 
@@ -98,24 +100,21 @@ Most implementations of capitalism work as follows:
 Government support options for the economy. 
 
 ### Acyclic Spending
-Depends on what the state owns and whether a short term increase in spending is beneficial:
-* infrastructure e.g. transport and public buildings
-* well suited for acyclic investment since the infrastructure usually last several decades and often there is some freedom in the timing of renewal. 
-* for the investment to be acyclic the crisis needs to involve construction branches
-* education systems 
-* mostly the need for education is steady and so short term push makes only sense in certain situations
-* administration
-* the need for administration tends to be steady and so short term increase makes only sense in rare situations and tends to be limited. 
+Depends on what the state owns and whether a short term increase in spending is beneficial.
+Most states own/control:
+* **infrastructure**: e.g. transport and public buildings: well suited for acyclic investment since the infrastructure usually last several decades and often there is some freedom in the timing of renewal. 
+* **education systems**: mostly the need for education is steady and so short term push makes only sense in certain situations
+* **administration**: the need for administration tends to be steady and so short term increase makes only sense in rare situations and tends to be limited. 
+
+
 
 #### Adequate Situations
+Acyclic government funding works especially well if the crisis involve construction branches.
+
 * Bank Crisis 2009
   In the bank crisis acyclic investment in infrastructure was suitable because the real estate sector was hard hit and so acyclic investment in construction was possible. 
 * Covid Crisis 2020
-  Only targeted economies are hit and in these the government is often not involved. 
-
-#### Pro/Contra
-* as described in situations adequateness depends on the nature of the crises. 
-
+  Only targeted economies (international travel, gastronomy, culture) are hit and in these the government is often not involved. 
 
 ### Lowering the Interest Rates 
 The interest rates are set by the national banks. Most are (formally and/or to some extent) independent of the government and their goal is defined in the constitution [to confirm]. Often the goal is to supply sufficient money for the economics to be running well and keep the inflation in an interval conforming the economic goals. Nevertheless the national banks and thus setting the interest rates are part of the wider government.
