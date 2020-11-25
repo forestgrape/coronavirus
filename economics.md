@@ -39,8 +39,16 @@
 > ### Baseline Principles
 > Principles assumed here.
 > 1. We all should be able to live the life we want while respecting the rest of the world doing so too. 
-> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in this sense of equal opportunities.
-> 3. Fairness is achieved by increasing fairness for everybody and mostly not by fixing unfairness for certain subgroups. Singling out, prioritizing and supporting subgroups yields new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
+> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in this sense of equal opportunities.  
+> 3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain subgroups. Singling out and supporting subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
+
+#### Discover Unfairness
+Temporarily partitioning the society into groups can help to discover unfairness in the system i.e. structural (The partitioning is only temporarily for analysis, we live together not separated). In many parts of todays world:
+* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where education is not free.
+* The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (companies, universities) and available capital. Especially in countries where the economy is dominated by large conservative companies.
+  > Activities such as educating children can be as instructive as working in a large company, one learns to manage, to teach. 
+
+  > Teaching [children] I consider as very instructive and literally shaped/s my thinking.
 
 [in work]
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
