@@ -39,16 +39,20 @@
 > ### Baseline Principles
 > Principles assumed here.
 > 1. We all should be able to live the life we want while respecting the rest of the world doing so too. 
-> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in this sense of equal opportunities.  
+> 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in this sense of different appealing opportunities to pursue the economic life. In this sense fair opportunities do not have to be necessarily equal nor the way of life.
 > 3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain subgroups. Singling out and supporting subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
 
 #### Discover Unfairness
-Temporarily partitioning the society into groups can help to discover unfairness in the system i.e. structural (The partitioning is only temporarily for analysis, we live together not separated). In many parts of todays world:
-* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where education is not free.
-* The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (companies, universities) and available capital. Especially in countries where the economy is dominated by large conservative companies.
-  > Activities such as educating children can be as instructive as working in a large company, one learns to manage, to teach. 
+Temporarily partitioning the society into groups can help to discover unfairness in the system i.e. structural. 
+* The partitioning can be done for all possible 'coordinates' e.g. genetic, extern appearance, location of residence or birth, wealth, date of birth (e.g. statistical analyses show that the month of birth plays a role in the success for a professional team sports career: the ones being the oldest in the sport-year seem to have slightly better chances. Well there are more important things to tackle.)
+* The partitioning is only temporarily for analyses, we live together not separated. 
 
-  > Teaching [children] I consider as very instructive and literally shaped/s my thinking.
+In many parts of todays world:
+* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where education is not free => Affordable education helps.
+* The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Free markets in agile economies should help. 
+  > Activities such as educating children can be as instructive as working in a large company, one learns to manage, to teach ...
+
+  > Teaching (across all age groups and all levels from elementary to academics) I consider as very instructive and literally shaped/s my thinking.
 
 [in work]
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
@@ -62,10 +66,10 @@ From time to time parts of the economy are shaken, local or worldwide, in specif
      * that handing out credits is work and so handing out small credits is not lucrative. 
      * credits are often secured and those who need them most can often not provide any security. 
 2. A universal credit framework is proposed with the goals:
-   * Enable everybody to design the economic life
-   * and thereby create a fairer economy
-   * Improves the resilience and adaptability of the economical system since everybody has the capability to reorganize and reorientate
-   * Most existing social support systems (e.g. unemployment support, student loans) can be replaced by universal capital services
+     * Enable everybody to design the economic life
+     * and thereby create a fairer economy
+     * Improves the resilience and adaptability of the economical system since everybody has the capability to reorganize and reorientate
+     * Many existing social support systems (e.g. unemployment support, student loans) can be integrated to/replace by a universal capital/credit system. 
 
 3. Ideas to implement such a system are sketched:
    * Lower interest rates on money handed to financial institutions that is spend on small credits
