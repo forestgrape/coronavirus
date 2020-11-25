@@ -21,6 +21,7 @@
   * [Cross Protections Observed](#cross-protections-observed)
 * [How SARS-2 Overcomes Immune Obstacles](#how-sars-2-overcomes-immune-obstacles)
 * [Appendix](#appendix)
+  * [Biology, Chemistry and Physics](#biology-chemistry-and-physics)
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
 
@@ -36,7 +37,6 @@ A lot of completely different immune mechanism have evolved in the different [li
 - [Immune System Mechanism](#immune-system-mechanisms): physical, biological or chemical
 - [Immune System Specificity](#immune-system-specificity): Which substances are recognized and targeted. 
 - [Protection Locations](#protection-locations): local or global, at frequent entry points many local protection mechanism are in place. 
-
 
 
 ## Immune System Goals
@@ -69,26 +69,26 @@ Cells present what they produce on the outside: T cells inspect these substances
 
 
 ## Immune System Mechanisms
+The mechanisms can be classified by the mode of action either physical, chemical or biological. The relations between Physics, Chemistry and Biology are sketched in [Biology, Chemistry and Physics](#biology-chemistry-and-physics).
 
-### [Physical Mechanisms](#physics)
+### Physical Mechanisms
 * protecting layers: dead cells on the epithelium (e.g. skin)(The outer layer of the body = the surface of the body = anything that can be reached while the body) is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) 
 * mucus clearance:
   * middle and upper respiratory tract
   * many parts of the alimentary tract
 * [Immune System Goals](#immune-system-goals): mainly used to prevent entry, sometime to eliminate substances.
 
-### [Chemical Mechanisms](#chemical)
+### Chemical Mechanisms
  * change of pH e.g. acidic fluids (e.g. stomach acid) or alkaline environment (e.g. small intestine)
  * degradation of substances by hydrogen peroxide
  * [Immune System Goals](#immune-system-goals): often used to prevent entry (stomach) or eliminate substances.
 
-### [Biological Mechanisms](#biological)
+### Biological Mechanisms
 Recognizing biological substances as unwanted and eliminate them. Unlike chemical and physical mechanisms biological mechanism can specifically recognize substances and thereby distinguish different life forms and even self and non self. 
 [Immune System Goals](#immune-system-goals): Often the recognizing part is carried out by biological mechanism which allow specific targeting and the elimination part is then chemical or physical. 
 
 
 ## Immune System Members
-
 ### T Cells
 * T cells are in the blood and locally in tissues. 
 * T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism e.g. produce virions, which can be [detected by T cells](#extern-checks). 
@@ -98,7 +98,6 @@ Recognizing biological substances as unwanted and eliminate them. Unlike chemica
 > *Tissue resident T cells* in literature and here called *local T cells* are T cells which survey the tissues cells integrity. They don't travel with the blood.They remain locally in tissues they may move there however. 
 
 ### Distribution
-
 * Local T cells are located often at entry points of viruses. E.g. the mouth is a common entry point for viruses, so in the mouth there are many local T cells [to check and cite]. 
 
 
@@ -109,12 +108,10 @@ Immune responses can be global (affecting the entire body), local for some tissu
 * cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
 
-
 ## Adaption of the Immune System
 The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
 * lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#variable-immune-system))
 * generation adaption: personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
-
 
 
 ## Immune System Specificity
@@ -133,8 +130,6 @@ There are many degrees of specificity, the following categories are just a coars
         * RNA pieces silencing mRNAs / other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
     - variable targeting throughout lifetime: [Trained Immune System](#trained-immune-system)
         
-    
-
 ### Trained Immune System
 Some parts of the immune system is able to vary is targets throughout lifetime. What to target is determined by a training process in which substance are learned to be wanted or unwanted. 
 
@@ -187,14 +182,15 @@ All form of life on earth share common molecular patterns. The more genetically 
       - replicate to high numbers in the lungs and pass through the very thin alveolar epithel layer to the blood and reach the intestine
       - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
 * biological:
-    - phagocyte <- exploit phagocytosis by infecting the cell
+    - Phagocyte <- exploit phagocytosis by infecting the cell
       - SARS-2 can replicate in macrophages
-      - usually not in T cells where cell death is induced
+      - In most immune cells no replication takes place (e.g. T cells) since cell death is induced. By cell death the immune cells are still knocked out. 
     - inactivation by antibodies: [in work]
+
 
 ## Appendix
 
-> ### Biology, Chemistry and Physics
+### Biology, Chemistry and Physics
 > [in work]
 > Historically biology, chemistry and physics evolved as separate scientific disciplines with the tasks:
 > - Biology: Observing and describing living organisms.
