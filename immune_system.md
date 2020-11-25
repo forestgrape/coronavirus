@@ -14,12 +14,12 @@
   * [T Cells](#t-cells)
   * [Distribution](#distribution)
 * [Protection Locations](#protection-locations)
-* [How SARS-2 Overcomes Immune Obstacles](#how-sars-2-overcomes-immune-obstacles)
 * [Adaption of the Immune System](#adaption-of-the-immune-system)
 * [Immune System Specificity](#immune-system-specificity)
   * [Trained Immune System](#trained-immune-system)
 * [Cross Immune Protections](#cross-immune-protections)
   * [Cross Protections Observed](#cross-protections-observed)
+* [How SARS-2 Overcomes Immune Obstacles](#how-sars-2-overcomes-immune-obstacles)
 * [Appendix](#appendix)
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
@@ -109,21 +109,6 @@ Immune responses can be global (affecting the entire body), local for some tissu
 * cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
 
-## How SARS-2 Overcomes Immune Obstacles
-* physical: 
-    - skin <- circumvented by coronaviruses by entering via breathing
-    - mucus <- less mucus in the lungs and nasal cavity
-    - cell membranes <- bind to receptor and fuse membranes with spikes
-* chemical:
-    - stomach acid <- circumvented by coronaviruses 
-      - replicate to high numbers in the lungs and pass through the very thin alveolar epithel layer to the blood and reach the intestine
-      - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
-* biological:
-    - phagocyte <- exploit phagocytosis by infecting the cell
-      - SARS-2 can replicate in macrophages
-      - usually not in T cells where cell death is induced
-    - inactivation by antibodies: [in work]
-
 
 ## Adaption of the Immune System
 The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
@@ -191,6 +176,21 @@ All form of life on earth share common molecular patterns. The more genetically 
     - NL63 -protects-> 229E (only unidirectional)
 * [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](./coronavirus.md#observed-interspecies-infections).
 
+
+## How SARS-2 Overcomes Immune Obstacles
+* physical: 
+    - skin <- circumvented by coronaviruses by entering via breathing
+    - mucus <- less mucus in the lungs and nasal cavity
+    - cell membranes <- bind to receptor and fuse membranes with spikes
+* chemical:
+    - stomach acid <- circumvented by coronaviruses 
+      - replicate to high numbers in the lungs and pass through the very thin alveolar epithel layer to the blood and reach the intestine
+      - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
+* biological:
+    - phagocyte <- exploit phagocytosis by infecting the cell
+      - SARS-2 can replicate in macrophages
+      - usually not in T cells where cell death is induced
+    - inactivation by antibodies: [in work]
 
 ## Appendix
 
