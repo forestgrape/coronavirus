@@ -222,12 +222,12 @@ Keep in mind that the temperature varies during a day and with the activities pe
 While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions don't move on their own and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to withdraw from social gatherings.
 
 Increased infection likelihood:
-* **Increased Exposure to Viruses**:being in a densely populated indoor spaces and close range face to face talking
+* **Increased Exposure to Viruses**:being in a densely populated and poorly ventilated indoor spaces and close range face to face talking
 * **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air (e.g. sports)
 
 Keeping benefits and risks in mind:
 * whether, when and what to do and care about
-* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked]. This likely because they avoided most risks except for excessive sports. 
+* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked] despite excessive sports diminishes the immune system. This likely because they were able to reduce exposure to viruses by being careful and overall a good organization.
 
 ### Respect and Take Care 
 > *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
@@ -301,19 +301,20 @@ Summaries of references, that base and inspire this findings, are on the page [H
     - Due to cross immune reactions against coronaviruses, a group of vertebrates likely can be an evolutionary habitat to only one coronavirus species. Cattle have BCoVs, pigs have TEGV and camels MERS. Sheep and goats are still available to provide a habitat. 
     - MERS is genetically quite close to SARS-CoVs, indicating the natural hosts of SARS-like are quite close natural hosts of MERS both genetically and in lifestyle. 
 4. Insects play a role in the natural habitat and life cycle namely they close the cycle from feces to oral uptake by the mammalian hosts. Two possibilities:
-    * the natural life cycle of SARS-like virus entities is alternating between mammals and insects. In this scenario it is even possible that insects are the hosts where the main virus evolution takes place (more likely) [Summary Tengs,Jonassen](./ideas_to_explore/hypotheses_nidovirales.md#summary-tengs,jonassen)
-    * insect act as mechanical vectors and transport the viruses but no replication takes place (less likely) [Summary Watson 2002](ideas_to_explore/hypotheses_nidovirales.md#summary-watson-2002)
+    * The natural life cycle of SARS-like virus entities is alternating between mammals and insects i.e. a dual host life cycle. In this scenario it is even possible that insects are the hosts where the main virus evolution takes place (more likely) 
+      * SARS-like have some well preserved genetic sequence, which is only found in insects and insect viruses [Summary Tengs,Jonassen](./ideas_to_explore/hypotheses_nidovirales.md#summary-tengs,jonassen)
+    * Insect act as mechanical vectors and transport the viruses but no replication takes place (less likely) [Summary Watson 2002](ideas_to_explore/hypotheses_nidovirales.md#summary-watson-2002)
 
     Evidence:
     * animals tested positive in markets for SARS-like are insectivores:
-        - civets, racoon dogs and ferrets badgers in live animals markets in 2003/2004. Some SARS-1 strains in civets were near the same as the human strains, indicating civets were intermediate hosts
-        - pangolins for SARS-2
+        - Civets, racoon dogs and ferrets badgers in live animals markets in 2003/2004. Some SARS-1 strains in civets were near the same as the human strains, indicating civets were intermediate hosts
+        - Pangolins for SARS-2
     * animals tested positive in the wild for SARS-like are insectivores:
-        - bats around China test positive for SARS-like
-        - bats in Yunnan were infected with the closets relatives found [Zhou et al](#summary-zhou)
+        - Bats around China test positive for SARS-like
+        - Bats in Yunnan were infected with the closets relatives found [Zhou et al](#summary-zhou)
         - In the case of MERS-like the wild animals positive are bats and hedgehogs. 
-    * insects often nourish from feces and thus the life cycle of SARS-like could be closed. Horseshoe bats in turn have feces-nourishing beetles on their menu, which would explain their infections. 
-    * SARS-like have some well preserved genetic sequence, which is only found in insects and insect viruses 
+    * insects often nourish from feces and thus the life cycle of SARS-like could be closed. Horseshoe bats in turn have feces-nourishing beetles on their menu, which would explain their infections but they would be only side-hosts and not primary hosts.  
+    
 5. Insectivores mammals could be intermediate hosts for the transmissions to humans. SARS-like infected mammals often have a respiratory disease and transmission can occur airborne from then on. Civets likely have been intermediate hosts responsible for some jumps to humans. 
 
 
@@ -357,15 +358,15 @@ Regarding these questions the following hypotheses are state and argued:
 Infection Type| Coronavirus  | Symptoms | Immune_response | possible Complications | Infection Path | Notes
 --------------|--------------|----------|---------------|------------------------|---------------|----
 URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Sore throat, upper cough, sneezing | often local T cells (Tissue resident T cells), sometimes antibodies |  LRI, possibly longer lasting infection, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide. 
-LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available, else anitbody response, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death, EI| aerosol, dry form | mainly in dry air since in humid air less likely to reach LR, the lung surface is big so lots of space to spread
-EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhoea| local T cell or antibodies | - | through viraemia, through alimentary either by URI or by oral intake| Adequate immune response likely
+LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available, else antibody response, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death, EI| aerosol, dry form | mainly in dry air since in humid air less likely to reach LR, the lung surface is big so lots of space to spread
+EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhea| local T cell or antibodies | - | through viraemia, through alimentary either by URI or by oral intake| Adequate immune response likely
 
 * The coronaviruses directly emerging from zoonoses from outdoor living animals MERS-CoV and likely  Sars-CoV-1 cause mainly LRI and spread to the intestine. In wild animals this is the [way to spread and survive](#life-cycle-of-a-coronavirus-entity). 
 * The coronaviruses well adapted to our 'modern' way of life with dense population and in indoor rooms mainly infect to upper respiratory tract and ignore the intestine. 
 
 > The origin of Sars-CoV-1 is unclear: Related viruses are found in bats and even more similar in civet cats. However seroprevalence of antibodies in civet cats suggest that Sars-CoV-1 is not endemic to civet cats and thus there was a jump to civet cats around the same time (2002) when Sars-CoV-1 jumped to humans. [citations in work]
 
-> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers seems possible. Goats or sheep could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market goes in line or a least is no contradiction with a farming orign: Rare severe cases in rural areas may not have rung the bells. However severe lung disease cases connected to a live-animal-market, triggered thorough investigations resulting in the discovery of Sars-CoV-2. That there is a capable virology research facility in Wuhan may
+> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers seems possible. Goats or sheep could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered  in a live-animal-market goes in line or a least is no contradiction with a farming origin: Rare severe cases in rural areas may not have rung the bells. However severe lung disease cases connected to a live-animal-market, triggered thorough investigations resulting in the discovery of Sars-CoV-2. That there is a capable virology research facility in Wuhan may
 
 > Virus discovery is not easy and requires the right settings. Some of the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite both being endemic for over 50 years and virologists had the (theoretical) possibilities to discover coronaviruses since the 70's. MERS got discovered in 2012 but likely human infections have occurred long before. [citations in work] [in consideration/thinking]
 
@@ -405,7 +406,7 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#a
 [in work]
 > Many concepts in this section are raw ideas and often not 1-1 in literature making. A lot of illustrative papers provided observations, inspiration and similar ideas founding the ideas here.
 
-* ##### Review Epdemiology, Genetic Recombination, and Pathogenesis of Coronaviruses; S Su, Y Bi, G Gao et al
+* ##### Review Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses; S Su, Y Bi, G Gao et al
     - Table 1: comparison of the infection caused by the HCoVs 229E, OC43, Sars-CoV, NL63, HKU1, MERS-CoV 
     
 
@@ -440,7 +441,7 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](#a
 While there are possible explanations for many epidemiological observations of the Sars-2 strains, causing Covid-19, spread in the first months of 2020: spread mainly in absolutely dry and cold air and less spread in warm and humid air. Thus increased spread with increasing latitudes and away from coastal areas. Because cold and dry air likely increases both the [airborne transmission](#dry-form-model) and decreases the [mucus clearance](#decreased-mucus-clearance). Air pollution (-> [decreased mucus clearance](#decreased-mucus-clearance)) and increased public transport (-> increased spread) could contribute to the preference for cities of Sars-CoV-2. However some regional patterns fall through these reasons:
 * in Switzerland not only the highest prevalence in severe cases (mild and moderate cases were not admitted to testing and thus not recorded in February/March/April 2020) but also the highest death rates are observed in Geneva (GE) and Ticino (TI), areas which have few cattle farming. On the other hand areas, where cattle farming is widespread across the entire area, seem to have an increased resistance: only a couple of deaths and few cases are recorded in the cantons LU, AI, AR, OW, UW, AG, TG. 
 * Spain: In communities where cattle farming is common (Galicia, Basque Country and La Rioja)[to be confirmed], the death rate is lower and the recovery rate higher than in Central Spain. 
-* Across the world no Covid-19 hotspot with many severe cases has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Mailand and New York are not known as cattle farming regions. 
+* Across the world no Covid-19 hotspot with many severe cases has been observed in regions with a lot of cattle farming. Teheran, Wuhan, Madrid, Milano and New York are not known as cattle farming regions. 
 
 A possible explanation is that in cattle farming areas bovine coronavirus (BCoV)  are transmitted to humans such that the immune system is trained to fight Betacoronaviruses. Transmissions and the induced build up of some form of resistance could occur regularly or just once as an infant and possibly yield lifelong increased protection. Such an immune protection could explain why some people notice no or only few symptoms. Noteworthy some seniors remain mostly asymptomatic and other seniors experience severe or even fatal Covid-19.
 
