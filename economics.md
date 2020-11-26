@@ -245,6 +245,8 @@ Temporarily partitioning the society into groups can help to discover unfairness
 In many parts of todays world:
 * The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where high quality education is difficult to access => universal access to good education
 * The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Flexible work-schemes, agile economies & highlighting the benefits of different backgrounds and experiences. E.g. when providing services for a society it is beneficial to have people with experiences reflecting the society.  
-  > Activities such as educating children can be as instructive as working in a large company, one learns to manage, to teach, setting priorities,f ...
+    > Traditionally women prioritize education and men prioritize work. I think for both, education should have priority. The economy be designed so that the prioritized education goes well along work. In the long run everybody benefits.
+  
+  > Activities such as educating children can be as instructive as working in a large company, one learns to manage, to teach, setting priorities, ...
 
   > Teaching (across all age groups and from elementary to academics) I consider as very instructive and it shaped/s my thinking.
