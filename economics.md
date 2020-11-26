@@ -255,7 +255,7 @@ In many parts of todays world:
 * The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where high quality education is difficult to access => providing universal access to high quality education at different stages of the life
 * The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Flexible work-schemes, agile economies & highlighting the benefits of different backgrounds and experiences. When providing services or goods for the society (groups) it is beneficial to have people with experiences reflecting the society (groups).
   
-  > When having children, traditionally women prioritize education and men prioritize work. I think for both, the children should be the priority. The economy should be designed so that work goes well along the prioritized education. Education is team work and smooth switches likely work to my guessing - I'll have to ask around, since I don't know. 
+  > When having children, traditionally women prioritize education and men prioritize work. I think for both, the children should be the priority. The economy should be designed so that work goes well along the prioritized education. Education is team work and alternating or smooth switching likely work to my guessing - I'll have to ask around, since I don't know. 
   
   > Educating can be as instructive as working in a large company, one learns to manage, to teach, setting priorities etc. .  In the long run all benefit.
 
