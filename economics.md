@@ -42,7 +42,11 @@
 Principles assumed here.
 1. We all should be able to live the life we want while respecting the rest of the world doing so too. 
 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in this sense of different appealing opportunities to pursue the economic life. Fair in this sense does not necessarily mean equal in wealth or in the way of life.
-3. Ideally fairness is achieved by increasing fairness and not by fixing unfairness. Relevant but subjective and slightly off-topic notes on fairness in the section [Pathways to Fairness](#thoughts-about-pathways-to-fairness).
+3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain branches/subgroups. Singling out and supporting branches/subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everyone. 
+
+    > In the case for Covid-19, determine branches and businesses needing temporary support is not easy. Some are effected directly, some indirectly. Even inside branches there can be differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction or even IT businesses specialized on large scale events can need to reorientate and thus rely on support.
+
+    > Relevant but subjective and slightly off-topic notes on fairness in the section [Pathways to Fairness](#thoughts-about-pathways-to-fairness).
 
 [in work]
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
@@ -232,8 +236,6 @@ Make capital services available to everybody by designing a framework which make
 ## Appendix
 ### Thoughts about Pathways to Fairness
 Important but subjective and slightly off topic i.e. not directly correlated to the proposed uniform capital access scheme.
-#### Extended Principle 3. 
-> 3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain subgroups. Singling out and supporting subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everybody. 
 
 #### Analyzing Fairness
 Temporarily partitioning the society into groups can help to discover unfairness in the system i.e. structural. 
@@ -241,8 +243,8 @@ Temporarily partitioning the society into groups can help to discover unfairness
 * The partitioning is only temporarily for analyses, we live together not separated. 
 
 In many parts of todays world:
-* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where high quality education is difficult to access => universal access to good education helps.
+* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where high quality education is difficult to access => universal access to good education
 * The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Flexible work-schemes, agile economies & highlighting the benefits of different backgrounds and experiences. E.g. when providing services for a society it is beneficial to have people with experiences reflecting the society.  
-  > Activities such as educating children can be as instructive as working in a large company, one learns to manage, to teach, setting priorities ...
+  > Activities such as educating children can be as instructive as working in a large company, one learns to manage, to teach, setting priorities,f ...
 
   > Teaching (across all age groups and from elementary to academics) I consider as very instructive and it shaped/s my thinking.
