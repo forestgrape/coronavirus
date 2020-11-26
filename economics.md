@@ -232,6 +232,7 @@ Make capital services available to everybody by designing a framework which make
 
 ## References
 [in work]
+
 * ##### Rupasingha
   Rupasingha, A., Wang, K. 
   **Access to capital and small business growth: evidence from CRA loans data.** 
@@ -240,6 +241,7 @@ Make capital services available to everybody by designing a framework which make
 * ##### Barr
   Barr, Michael S. 
   **Credit Where It Counts: The Community Reinvestment Act and Its Critics.** N. Y. U. L. Rev. 80, no. 2 (2005): 513-652.
+  https://repository.law.umich.edu/articles/60
 
 
 ## Appendix
