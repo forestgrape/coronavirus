@@ -13,5 +13,7 @@ include:
   - index.md
   - monitor_and_control.md
   - transmission.md
+  - economics.md
+  - spread_analyses.md
 
 
