@@ -313,8 +313,6 @@ The probability to reach a *next* exploitable host, is especially low, due to ma
 <!--transmission bottleneck important for evolution-->
 
 
-<p id='intro-to-coronaviruses'>-----</p>
-
 ## Introduction to Coronaviruses
 
 ### Nidovirales
