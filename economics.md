@@ -22,9 +22,11 @@
 * [Capital Services for Everybody](#capital-services-for-everybody)
   * [Reasons for Universal Capital Services](#reasons-for-universal-capital-services)
   * [Current Problem](#current-problem)
-  * [Goal](#goal)
+  * [Goals](#goals)
   * [Experiences with increased Availability of Capital Services](#experiences-with-increased-availability-of-capital-services)
   * [Proposals for Implementation](#proposals-for-implementation)
+  * [Comparison to Universal Basic Income](#comparison-to-universal-basic-income)
+  * [Fairness of Universal Capital Services](#fairness-of-universal-capital-services)
 * [Modern Infrastructure](#modern-infrastructure)
 * [Economic System for Liberalism](#economic-system-for-liberalism)
 * [Summarized References](#summarized-references)
@@ -204,8 +206,17 @@ Providing capital services is associated with work:
 
 The work is per credit and not per amount of credit. Therefor handing out small credits is often not lucrative for financial institutions. 
 
-### Goal
-Make capital services available to everybody by designing a framework which makes it attractive to hand out small and medium size funds.
+### Goals
+#### Design Goals
+* Give everybody opportunities to choose the preferred (economic) life-style:
+  * going for further educations for 
+    * an academic pathway
+    * acquiring skills for a new career/jobs/changing branches
+  * going straight to work and getting shares of business either by owning/co-owning or buying shares of a friends business, the favorite local business or any other business. 
+* The goal of Universal Capital Services is not equality in every aspect e.g. not equal wealth and thus not redistribution of wealth.
+#### Implementation Goals
+* Make capital services available to everybody by designing a framework which makes it attractive to hand out small and medium size funds.
+
 
 ### Experiences with increased Availability of Capital Services 
 * Community Reinvestment Act (CRA) in the US: federal regulator rate banks how well they invest into different neighborhoods especially if they invest into low- or mid-income communities. The rating is considered for approval of bank mergers, acquisitions and such. (W Kenton, updated 18.8.2020, investopedia.com)
@@ -216,10 +227,23 @@ Make capital services available to everybody by designing a framework which make
 
 ### Proposals for Implementation 
 * lower interest rates by the national bank on money handed out as micro & small credits (the rates likely need to be a couple percentages lower) => more attractive for banks to hand out small credits
-* payback scheme based on or similar to tax system => those with a large fortune are able to payback more
-* possibly payback with taxes => easier to manage and structures already in place
-* the credits/funds should have an expiration date (e.g. 15 years) and so allowing a restart. 
+* payback scheme 'based on' or 'similar to' a tax system => those with a large future fortune will payback more
+* possibly payback with tax bill => easier to manage and structures already in place
+* the credits/funds have an expiration date (a few decades) and so allowing a restart. 
+* the obtaining can be continuous (e.g. living cost of students) or all in go for the last 10 year or so (e.g. someone who work for that time and now wants to start his own business)
 
+### Comparison to Universal Basic Income
+The proposed Universal Capital Services are in some situations very similar to a Universal Basic Income, however they are much more flexible and participation is voluntary including paying the costs i.e. only those participating will pay the additional cost respect to existing social support measures. The exact difference depend on the concrete implementation.
+#### similar 
+* if continuously accessing the credits **and** not high future capital
+#### different
+* access can be all in one go e.g. for investments in a (new) business
+* those already having enough capital don't need to participate neither in taking nor in paying additional tax
+* those taking capital and making a fortune with it will be subject to an increased payback (depending on implementation this can mean higher tax bills)
+
+### Fairness of Universal Capital Services
+[in work]
+More fairness for choosing job/work options. 
 
 ## Modern Infrastructure
 [in work]
@@ -246,18 +270,18 @@ Make capital services available to everybody by designing a framework which make
 
 ## Appendix
 ### Thoughts about Fairness
-Important but subjective and slightly off topic i.e. not directly correlated to the proposed uniform capital access scheme.
+Related but subjective and slightly off topic thought on fairness and how to achieve and analyze it. 
 
-#### Analyzing Fairness
-Temporarily partitioning the society into groups can help to discover unfairness in the system i.e. structural. The partitioning can be done for all possible features e.g. genetic, appearance, location of residence or birth, wealth, date of birth (even the month can have some relevance: statistical analyses show that the month of birth plays a role in the success for a professional team sports career: the ones being the oldest in the sport-year seem to have slightly better chances. Well there are more important things to tackle.) The partitioning is only temporarily for analyses, we live together not separated. 
+#### Analyzing System Fairness
+Temporarily partitioning the society into groups can help to discover unfairness in the system i.e. structural. The partitioning can be done for all possible features such as genetic, appearance, location of residence or birth, wealth, date of birth (even the month can have some relevance: statistical analyses show that the month of birth plays a role in the success for a professional team sports career: the ones being the oldest in the sport-year seem to have slightly better chances. Well there are more important things to tackle.) The partitioning is only temporarily for analyses, we live together not separated and we work best as one team.
 
 #### Situations to Improve
 In many parts of todays world:
-* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where high quality education is difficult to access => providing universal access to high quality education at different stages of the life
-* The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Flexible work-schemes, agile economies & highlighting the benefits of different backgrounds and experiences. When providing services or goods for the society (groups) it is beneficial to have people with experiences reflecting the society (groups).
+* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where high quality education is difficult to access => universal access to high quality education at different stages of the life. Often the switches are set early in life, there should chances throughout the life.
+* The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Flexible work-schemes, agile economies & highlighting the benefits of different backgrounds and experiences; e.g. when providing services or goods for the society (groups) it is beneficial to have people with experiences reflecting the society (groups).
   
-  > When having children, traditionally women prioritize education and men prioritize work. I think both should be able to focus on education. The economy should be designed so that work goes well along the prioritized education. Education is team work and alternating or smooth switching likely work to my guessing - I'll have to ask around, since I don't know. Inline with the principle everyone choosing the way of life, the economical system should also allow the other options: one parent focus on education or both focus on work. The latter is enabled by good extern child support.
+  > When having children, traditionally women prioritize education and men prioritize work. I think both should be able to set a high priority on education (priority is often not the same as time spent). The economy should be designed such that work goes well along the prioritized education. Education is team work and alternating or smooth switching likely work to my guessing - but I don't know really. Of course other options should work well too: one parent focus on education or both focus on work. For all options flexible work schemes and good extern child care are advantageous - there are always times children call and times work calls. 
   
-  > Educating can be as instructive as working in a large company, one learns to manage, to teach, setting priorities etc. .  In the long run all can benefit.
+  > Educating can be as instructive as working in a large company, one learns to manage, to teach, setting priorities etc. .  So all benefit from time spent on education.
 
   > Teaching (across all age groups and from elementary to academics) I consider as very instructive and it shaped/s my thinking.
