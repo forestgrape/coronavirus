@@ -15,6 +15,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Outdoor Days](#outdoor-days)
   * [Home-Lock Down](#home-lock-down)
 * [Thoughts about Social Measures](#thoughts-about-social-measures)
+  * [Corona Conform Skiing](#corona-conform-skiing)
   * [Reduction of Nightlife](#reduction-of-nightlife)
   * [Reduce Alcohol Consumption](#reduce-alcohol-consumption)
   * [Gastronomy](#gastronomy)
@@ -221,7 +222,9 @@ Often turning up for test is not associated with any benefits, on the contrary i
 * Experiences: 
   * In many countries such testing is done for travelling: only those with negative tests are allowed to enter. 
   * In Slovakia in early November 2020 a nationwide testing campaign and only those with negative tests were excluded from a general curfew. 
-    > A new tactics and it will be interesting to analyze it. A general curfew I consider to strict however, only allowing people with negative tests to enter foreign indoor settings should be enough.
+    > A new tactics and it will be interesting to analyze it. A general curfew I consider to strict in any situation including this, only allowing people with negative tests to enter foreign indoor settings should be enough.
+
+    > A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms. 
 
 
 ### Outdoor Days
@@ -254,7 +257,46 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 
 > #### Government Support 
-> Temporary support for individuals I consider necessary to not disrupt the life of people and give time to reorganize. Some business will only be close during wave peaks (e.g. gastronomy) while other businesses may be closed for the foreseeable future (long distance traveling large scale events). 
+> Temporary support for individuals I consider necessary to not disrupt the life of people and give time to reorganize. Some business will only be close during wave peaks (e.g. gastronomy) while other businesses likely are reduced/closed for the foreseeable future (long distance traveling, large scale events). General notes on support and thoughts how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
+
+### Corona Conform Skiing
+__In short__: nowadays practiced cosy warm skiing is unsafe. The more outside the skiing-experience (including lifts and food) is the safer. 
+> My memories of skiing date back to the 90s, then a ski day was mostly outside from open lifts to outdoor lunch. 
+
+__ThinkThrough__
+Two sides:
+* **Skiing itself:** Skiing down some slope has risks, however not a virus infection. So regarding SARS-2 skiing itself is safe.
+* **Skiing associated:** Skiing as practiced nowadays (before ~~corona~~ corona-measures) involves crowded cableway cabins and room, restaurants and bars and at all locations with different people from different regions and countries. Moreover all this at a very high altitude ( => deep breathing).
+  
+All mentioned in skiing associated are known as risk factors for Covid aerosol transmission (independent of the observed transmission in ski resorts).
+
+__Evidence__
+In line with theoretical risk factors - without aerosol protection measures (disinfectants and some droplet preventions were all ready in place in winter 2020) - there have been many infections traced back to ski resorts.
+
+__Experiences__
+In the summer 2020 in the alps many mountain places were crowded and had open cable cars. To my knowledge no increased Covid-19 incidences were observed. No hot-spots have been observed. 
+=> in summer time when good ventilation was easy and often practiced and very low case numbers mountain holidays worked.
+
+
+__Comment__
+Skiing itself is safe but there need to be restrictions on the high risk skiing associated settings. 
+> To keep in mind, that high altitude and sports increase the aerosol transmission.
+* __cableways__: best unconfined and if confined/indoor permanent open/removed windows.
+* __cableway buildings__: good ventilation very important. Doors and windows should be open all the time. 
+* __gastronomy__: as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a week. 
+  * __indoor gastronomy__: risky, guests from the same villages/hotels going only to one/a limited number of restaurants helps to prevents chains of superspreading and helps contact tracing. 
+  * __outdoor gastronomy__: not risky, as long as clean mask are used when getting/bringing the food. 
+* __queuing__: outdoors only, indoor queuing should be avoided.
+* __masks__:
+
+
+if open then with seriousness and responsibility
+
+
+
+
+
+
 
 ### Reduction of Nightlife
 A slow down of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
@@ -278,7 +320,6 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
 > Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the immune system is burdened the next day repairing party-damage and may not fight viruses. This is double bad:
 >   1. Disease progression: Longer asymptomatic phase and higher viral loads
 >   2. Feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore are not recognized.
-
 
 ### Reduce Alcohol Consumption
 The history of prohibition dates back nearly as long, as history itself has been handed down. Full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
