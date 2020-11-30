@@ -273,7 +273,7 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 ### Corona Conform Skiing
 [**in work**]
-__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoor like. Lowering the maximum crowd density is relevant too, mainly indoors.
+__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoor like and safer. Lowering the maximum crowd density is important too, especially indoors.
 > My memories of skiing date back to the 90s, back then a ski day was mostly outdoors from open lifts to outdoor lunch.
 
 > Skiing being allowed in some regions first, I consider good: Manufacturers start with prototypes/small series too before large scale series production. The situations ideally are closely monitored (e.g. Covid-19 test for travellers both on arrival and departure) and all experiences (concepts, monitoring) transparently published, so that everyone can benefit from the gathered experiences. 
@@ -299,7 +299,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
 * __cableways__: best unconfined=outdoors and if confined/indoor permanent open/removed windows.
 * __tourism buildings__: In tourism buildings (cableways, information offices, gastronomy) good ventilation very important. Doors and windows should be open all the time (more in [ventilation](#ventilation)).
 * __queuing__: outdoors only, indoor queuing should be avoided.
-  > Yesterday (29.11.) I was up on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks were worn), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon. Driven additionally by the reduced capacity many people ended up queuing indoors with few ventilation in the beginning (closed doors and windows). 
+  > Yesterday (29.11.) I was up on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon. Driven additionally by the reduced capacity many people ended up queuing indoors with few ventilation in the beginning (closed doors and windows). 
 * __gastronomy__: as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a week. 
   * __indoor gastronomy__: risky, guests from the same villages/hotels going only to a limited number of restaurants helps to prevents chains of (super)spreading and helps contact tracing. 
   * __outdoor gastronomy__: not risky, as long as clean mask are used when getting/bringing the food. 
