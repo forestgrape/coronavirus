@@ -24,7 +24,8 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- 30.11. Thoughts about [Corona Conform Skiing](./monitor_and_control.md#corona-conform-skiing) on the page [Monitor and Control](./monitor_and_control.md)
+- 30.11. Thoughts about [Corona Conform Skiing](./monitor_and_control.md#corona-conform-skiing) on the page [Monitor and Control](./monitor_and_control.md) 
+    > Motivated by current discussions and recent personal experiences. 
 - 24.11. New Page on [Economics](./economics.md): The goal is instead of providing target support in different situation (e.g. the current Covid situation), provide a universal credit system, so all in need can redesign and reorganize their (economic) life.
 - 24.11. License relaxed back again. No citation is needed for uses regarding public information or health. 
 - 17.11. Clarifications mainly on the Immune System page 
