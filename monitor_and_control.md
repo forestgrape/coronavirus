@@ -280,7 +280,7 @@ __In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsaf
 
 __ThinkThrough__
 Two sides:
-* **Skiing itself:** Skiing down some slope has risks, however not a virus infection. So regarding SARS-2 skiing itself is safe.
+* **Skiing itself:** Skiing down some slope has risks, however not virus infections. So regarding SARS-2 skiing itself is safe.
 * **Skiing associated:** Skiing as practiced nowadays (before ~~corona~~ corona-measures) involves crowded cableway cabins and room, restaurants and bars and at all locations with different people from different regions and countries. Moreover all this at a very high altitude ( => deep breathing).
   
 All mentioned in skiing associated are known as risk factors for Covid aerosol transmission (independent of the observed transmission in ski resorts).
@@ -314,7 +314,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
   > Several points:
   > * __Attitude__: Operators should take best possible care and encourage guests to do so. If control is necessary, the system needs to be or at least attempted to be designed such that control is possible. 
   > * __Knowledge__: It is known that aerosol transmission plays a role in the transmission of Covid and that some cloth mask offer very few protection. 
-  > * __Responsibility__: Own responsibility is for everyone including operators, so if there is no general rule (e.g. on the mask type), that doesn't mean one shouldn't be stricter or check in sensible situations.
+  > * __Responsibility__: Own responsibility is for everyone including operators. If there are few official rules and so there is no general rule for a specific situation (e.g. on the mask type), it still can be adequate to set a rule or do checks in sensible situations.
   
 
 
