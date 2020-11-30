@@ -274,9 +274,10 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 ### Corona Conform Skiing
 [**in work**]
 __In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoor like and safer. Lowering the maximum crowd density is important too, especially indoors.
-> My memories of skiing date back to the 90s, back then a ski day was mostly outdoors from open lifts to outdoor lunch.
 
-> Skiing being allowed in some regions first, I consider good: Manufacturers start with prototypes/small series too before large scale series production. The situations ideally are closely monitored (e.g. Covid-19 test for travellers both on arrival and departure) and all experiences (concepts, monitoring) transparently published, so that everyone can benefit from the gathered experiences. 
+> My memories of skiing date back to the early 90s, back then a ski day was mostly outdoors from open-sky lifts to outdoor lunch.
+
+> Skiing being allowed in some regions first, I consider good: Manufacturers start with prototypes/small series too before large scale series production. The situations ideally are closely monitored (e.g. Covid-19 test for travellers both on arrival and departure) and all experiences (concepts, monitoring results) transparently published, so that everyone can benefit from the gathered experiences.
 
 __ThinkThrough__
 Two sides:
@@ -313,7 +314,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
   * __indoor__: only surgical masks or above ([Mask Types](#mask-types)) since:
     *  increased risk aerosol transmission risk due to high altitude
     *  cloths mask scarfs and the like are hard to distinguish but in indoor cabins masks should be controlled: good filtration and virus-clean masks are important
-    *  the protection masks offer is likely better for [clean masks](#clean-masks).
+    *  mask likely offer better protection if fresh/clean [clean masks](#clean-masks).
 
   > Recently I read I a comment from a speaker from a Cableway Association, reading something like: "We cannot and must not control whether people wear clean or the right masks, we trust on the own responsibility." 
   > Several points:
