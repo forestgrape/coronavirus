@@ -313,7 +313,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
   > Recently I read I a comment from a speaker from a Cableway Association, reading something like: "We cannot and must not control whether people wear clean or the right masks, we trust on the own responsibility." 
   > Several points:
   > * Everybody should encourage and motivate everybody to take good protections. If control is necessary, the system needs to be or at least attempted to be designed such that control is possible. 
-  > * Aerosol transmission plays a role in the transmission of Covid and many cloth mask offer very few protection versus aerosol. 
+  > * Aerosol transmission plays a role in the transmission of Covid and many cloth mask offer only few protection versus aerosol. 
   > * Own responsibility is for everyone including operators. If there are few official rules and so there is no general rule for a specific situation (e.g. on the mask type), it still can be adequate to set a rule or do checks in sensible situations.
   
 
