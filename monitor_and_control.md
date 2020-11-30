@@ -273,7 +273,7 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 ### Corona Conform Skiing
 [**in work**]
-__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is and the lower peak crowds the safer. 
+__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Low peak crowds help too, especially indoors.
 > My memories of skiing date back to the 90s, back then a ski day was mostly outdoors from open lifts to outdoor lunch.
 
 > Skiing being allowed in some regions first, I consider good: Manufacturers start with prototypes/small series too before big series production. The situations ideally are closely monitored (e.g. Covid-19 test for travellers both on arrival and departure) and all experiences (concepts, monitoring) transparently published, such that everyone can benefit from the gathered experiences. 
@@ -312,9 +312,9 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
 
   > Recently I read I a comment from a speaker from a Cableway Association, reading something like: "We cannot and must not control whether people wear clean or the right masks, we trust on the own responsibility." 
   > Several points:
-  > * __Attitude__: Operators should take best possible care and encourage guests to do so. If control is necessary, the system needs to be or at least attempted to be designed such that control is possible. 
-  > * __Knowledge__: It is known that aerosol transmission plays a role in the transmission of Covid and that some cloth mask offer very few protection. 
-  > * __Responsibility__: Own responsibility is for everyone including operators. If there are few official rules and so there is no general rule for a specific situation (e.g. on the mask type), it still can be adequate to set a rule or do checks in sensible situations.
+  > * Everybody should encourage and motivate everybody to take good protections. If control is necessary, the system needs to be or at least attempted to be designed such that control is possible. 
+  > * Aerosol transmission plays a role in the transmission of Covid and many cloth mask offer very few protection versus aerosol. 
+  > * Own responsibility is for everyone including operators. If there are few official rules and so there is no general rule for a specific situation (e.g. on the mask type), it still can be adequate to set a rule or do checks in sensible situations.
   
 
 
