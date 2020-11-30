@@ -273,11 +273,13 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 ### Corona Conform Skiing
 [**in work**]
-__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoor like and safer. Lowering the maximum crowd density is important too, especially indoors.
+__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoor like. Lowering the maximum crowd density is helps too, especially indoors.
 
 > My memories of skiing date back to the early 90s, back then a ski day was mostly outdoors from open-sky lifts to outdoor lunch.
 
-> Skiing being allowed in some regions first, I consider good: Manufacturers start with prototypes/small series too before large scale series production. The situations ideally are closely monitored (e.g. Covid-19 test for travellers both on arrival and departure) and all experiences (concepts, monitoring results) transparently published, so that everyone can benefit from the gathered experiences.
+> Allowing skiing in some regions first, I consider good: The situations ideally are closely monitored (e.g. Covid-19 salvia-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) transparently published, so that everyone can benefit from the gathered experiences. 
+
+> International Travelling can be connected to skiing but mostly skiing and international travelling are independent (as of 30.11. not discussed on this page). Generally for travelling I think in place staying in case of an infection is important i.e. test before leave. 
 
 __ThinkThrough__
 Two sides:
@@ -285,6 +287,7 @@ Two sides:
 * **Skiing associated:** Skiing as practiced nowadays (before ~~corona~~ corona-measures) involves crowded cableway cabins and room, restaurants and bars and at all locations with different people from different regions and countries. Moreover all this at a very high altitude ( => deep breathing).
   
 All mentioned in skiing associated are known as risk factors for Covid aerosol transmission (independent of the observed transmission in ski resorts).
+
 
 __Evidence__
 In line with theoretical risk factors - without aerosol protection measures (disinfectants and some droplet preventions were all ready in place in winter 2020) - there have been many infections traced back to ski resorts.
