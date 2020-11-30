@@ -290,7 +290,12 @@ In line with theoretical risk factors - without aerosol protection measures (dis
 
 __Experiences__
 In the summer 2020 in the alps many mountain places were crowded and had open cable cars. To my knowledge no increased Covid-19 incidences were observed. No hot-spots have been observed. 
-=> in summer time when good ventilation was easy and often practiced and very low case numbers mountain holidays worked.
+
+=> in summer time 
+* when good ventilation was easy and often practiced 
+* combined with low Covid incidence rates 
+
+mountain holidays worked.
 
 
 __Comment__
