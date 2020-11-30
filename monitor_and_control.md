@@ -273,10 +273,10 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 ### Corona Conform Skiing
 [**in work**]
-__In short__: nowadays practiced cosy warm skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is and the lower peak crowds the safer. 
+__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is and the lower peak crowds the safer. 
 > My memories of skiing date back to the 90s, back then a ski day was mostly outdoors from open lifts to outdoor lunch.
 
-> Skiing being allowed in some regions first, I consider good: Manufacturers start with prototypes too before series production. The situations ideally are closely monitored (e.g. Covid-19 test for travellers both on arrival and departure) and all experiences (concepts, monitoring) transparently published, such that everyone can benefit from the gathered experiences. 
+> Skiing being allowed in some regions first, I consider good: Manufacturers start with prototypes/small series too before big series production. The situations ideally are closely monitored (e.g. Covid-19 test for travellers both on arrival and departure) and all experiences (concepts, monitoring) transparently published, such that everyone can benefit from the gathered experiences. 
 
 __ThinkThrough__
 Two sides:
