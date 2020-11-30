@@ -305,12 +305,12 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
 * __cableways__: best unconfined=outdoors and if confined/indoor permanent open/removed windows.
 * __tourism buildings__: In tourism buildings (cableways, information offices, gastronomy) good ventilation very important. Doors and windows should be open all the time (more in [ventilation](#ventilation)).
 * __queuing__: outdoors only, indoor queuing should be avoided.
-  > Yesterday (29.11.) I was up on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon: many people ended up queuing indoors with few ventilation, some even started feeling unwell. The situation improved when doors and windows were opened. Even better would have been to organize the queue to be outdoors or a ticketing system.
-* __gastronomy__: as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a week. 
-  * __indoor gastronomy__: risky, guests from the same villages/hotels going only to a limited number of restaurants helps to prevents chains of (super)spreading and helps contact tracing. 
-  * __outdoor gastronomy__: not risky, as long as clean mask are used when getting/bringing the food. 
+  > Yesterday (29.11.) I was up on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon: a large crowd queued indoor with few ventilation. The situation improved when doors and windows were opened. Alternatives would have been to organize the queue to be outdoors or a ticketing system.
+* __gastronomy__: as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a short time (often days).  
+  * __indoor gastronomy__: High risk. Guests from the same villages/hotels going only to a limited number of restaurants helps to prevents chains of (super)spreading and helps contact tracing. 
+  * __outdoor gastronomy__: Low risk. Ideally masks are used when getting/bringing food/going to toilets. 
 * __masks__:
-  * __outdoor__: any mask including cloths masks and scarf like. E.g. for Ski teachers to prevent droplet transmission 
+  * __outdoor__: any mask including cloths masks and scarf like to prevent droplet transmission e.g. for staff/ski teachers. 
   * __indoor__: surgical masks or above ([Mask Types](#mask-types)) since:
     *  __Increased Aerosol Transmission__: At high altitude combined with sports, the aerosol transmission is increased.
     *  __Good filter__: Cloths masks, scarfs and so on are hard to distinguish and some of them don't hold back virions in aerosol efficiently. Even good cloths masks offer less [filter performance](#filter-performance) than most surgical masks. 
