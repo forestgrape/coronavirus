@@ -311,16 +311,16 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
   * __outdoor gastronomy__: not risky, as long as clean mask are used when getting/bringing the food. 
 * __masks__:
   * __outdoor__: any mask including cloths masks and scarf like. E.g. for Ski teachers to prevent droplet transmission 
-  * __indoor__: only surgical masks or above ([Mask Types](#mask-types)) since:
-    *  increased risk aerosol transmission risk due to high altitude
-    *  cloths mask scarfs and the like are hard to distinguish but in indoor cabins masks should be controlled: good filtration and virus-clean masks are important
-    *  mask likely offer better protection if fresh/clean [clean masks](#clean-masks).
+  * __indoor__: surgical masks or above ([Mask Types](#mask-types)) since:
+    *  __Increased Aerosol Transmission__: At high altitude combined with sports, the aerosol transmission is increased.
+    *  __Good filter__: Cloths masks, scarfs and so on are hard to distinguish and some of them don't hold back virions in aerosol efficiently. Even good cloths masks offer less [filter performance](#filter-performance) than most surgical masks. 
+    *  __Clean masks__: Mask likely offer better protection if fresh/clean [clean masks](#clean-masks). So it is better to go skiing with a bunch of surgical masks and rotate them. By [cleaning](#mask-cleaning) the masks can be reused. 
 
   > Recently I read I a comment from a speaker from a Cableway Association, reading something like: "We cannot and must not control whether people wear clean or the right masks, we trust on the own responsibility." 
   > Several points:
-  > * Everybody should encourage and motivate everybody to take good protections. If control is necessary, the system needs to be or at least attempted to be designed such that control is possible. 
-  > * Aerosol transmission plays a role in the transmission of Covid and many cloth mask offer only few protection versus aerosol. 
-  > * Own responsibility is for everyone including operators. If there are few official rules and so there is no general rule for a specific situation (e.g. on the mask type), it still can be adequate to set a rule or do checks in sensible situations.
+  > * Everybody should encourage and motivate everybody to take good protections. If control is helpful, the system needs to be or at least attempted to be designed such that controlling is possible. 
+  > * Aerosol transmission plays a role in the transmission of Covid and many cloth masks offer only few protection versus aerosol. I avow, this is still disputed to some extent. 
+  > * Own responsibility is for everyone including operators. If there are few official rules, then there are many specific situations with no general/official rule (e.g. on the mask type). In sensible situations, it can be adequate to locally set additional rules or do checks.
   
 
 
