@@ -153,16 +153,16 @@ Time to act mindfully, carefully and circumspectly & work together in an open, f
 
 
 ### Sars-CoV-2 transmission 
-SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols. There is strong evidence indicating that the aerosol transmission  is the most important transmission and so this should be prevented. A short overview below and a more in depth description is in the section [Airborne Transmission](./transmission.md#recap-airborne-transmission).
+SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols. There is strong evidence indicating that the aerosol transmission  is the more important and more dangerous transmission and so to prevent aerosol transmission is important. A short overview below and a more in depth description is in the section [Airborne Transmission](./transmission.md#recap-airborne-transmission).
 * __droplet transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
     - masks
     - distance
     - side-a-side instead of face-to-face
     - plexiglas
 * __aerosols transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outside the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
-    - ventilation, distance and less people inside or being outside
+    - being outside, ventilation, distance and less people inside 
     - masks, preferably with a good fit and [filter](./monitor_and_control.md#mask-types) and changed/cleaned frequently
-    - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of other indoor rooms 
+    - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
 
     Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
     - Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
@@ -203,7 +203,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
     * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
 
-    But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](#spread-patterns).
+    But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](./transmission.md).
 
 - #### Transport
   * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
@@ -211,7 +211,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
 
 
 ### Observe 
-Observe the body, write down the observations and if possible measure.<br>
+Observe the body, write down the observations and if possible measure.
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
 
 * Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
@@ -226,8 +226,8 @@ Keep in mind that the temperature varies during a day and with the activities pe
 While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions don't move on their own and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to withdraw from social gatherings.
 
 Increased infection likelihood:
-* **Increased Exposure to Viruses**:being in a densely populated and poorly ventilated indoor spaces and close range face to face talking
-* **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air (e.g. sports)
+* **Increased Exposure to Viruses**:being in a densely populated and poorly ventilated indoor spaces or close range face to face talking
+* **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air (e.g. sports, high altitude)
 
 Keeping benefits and risks in mind:
 * whether, when and what to do and care about
