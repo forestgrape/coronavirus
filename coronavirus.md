@@ -385,7 +385,7 @@ The infectable cell can be:
 
 
 ### Metabolic Phase
-The viral metabolism starts once the genetic material of a virion is processed by a cell and thus the virus changes the cells metabolism. Since all this happens in a foreign cell and cells have mechanism in place to prevent its natural metabolism being changed, each of the following steps has a noteworthy probability of failing. 
+The viral metabolism starts once the genetic material of a virion is processed by a cell and thus the virus changes the cells metabolism. This happens in a foreign cell and cells have mechanism in place to prevent its metabolism being changed i.e. keeping the metabolism immune. For that reason, each of the following steps has a noteworthy probability of failing. 
 
 #### Metabolism Phase 1: Preparation
 [in work]<br>
