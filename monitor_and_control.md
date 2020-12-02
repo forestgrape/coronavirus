@@ -84,26 +84,28 @@ Mask reduce spread since they mitigate both the infection and spread risk. Masks
 * For self protection good fit and a good outside-to-inside filter are important. 
 * To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
 * In indoor rooms aerosol transmission occurs:
-  * changing/disinfecting the masks frequently is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
+  * changing/cleaning the masks frequently is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
   * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
-* After coughing or sneezing into mask changing is a must (one should not cough into mask but cough into the hand and downwards, then the hand should be washed or disinfected; moreover when coughing one should stay home). After speaking a lot into a mask changing is appropriate. Especially for [low and mid filter models](#filter-performance).
-* Some mask have a to big air resistance, in that case the air can bypasses the mask. There's still protection against droplets, essentially they are like wearable plexiglas. But bypassed air still contains [aerosols](./transmission.md#aerosol)
+* After coughing or sneezing into mask changing is needed (one should *not cough into a mask* but cough into the hand/handkerchief and downwards, then the hand should be washed or disinfected; moreover when coughing one should stay home). After speaking a lot into a mask changing is appropriate. Especially for [low and mid filter models](#filter-performance).
+* Some mask have a to big air resistance, in that case the air can bypasses the mask. There's still protection against droplets, essentially they are like wearable plexiglas. The bypassed air contains [aerosol](./transmission.md#aerosol).
 
 
 #### Mask Effectiveness
+
+> in rework, **reduction upon exhalation likely is lower** especially if the mask is used long without changing what 
+many do. Most lab experiments are done with fresh mask without using them for several hours. 
+
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
     - Particles greater than 5 micro meter: Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction: resulting in a 25 fold reduction in the number of viral copies 
     - Particles smaller than 5 micro meter:  statistically significant 2.8 fold reduction in viral copies detected in the fine aerosol fraction.
     - Overall: Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
-    > in rework, **reduction upon exhalation likely is lower** especially if the mask is used long without changing what 
-    many do. Most lab experiments are done with fresh mask without using them for several hours. 
+   
     
     Assuming a reduction of exhaled particles by a factor of 2 (50% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 4 = (2 times fewer particles inhaled) * (2 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 * That effectiveness is better for inhalation than for exhalation:
-  * the air is exhaled often at higher speeds than inhaled and the air exhaled is directed => higher air pressure difference upon exhalation on the filter. 
-  * the filter performance decreases with higher pressure differences. 
+   The air is exhaled often at higher speeds than inhaled and the air exhaled is directed => higher air pressure difference upon exhalation on the filter. The filter performance in turn decreases with higher pressure differences. 
 
 #### Mask Types
 Mask can be classified either by
@@ -113,7 +115,7 @@ Mask can be classified either by
 
 ##### Filter Performance
 The filtration performance specifies how much and which particles are filtered out of the air at some fixed airflows and pressures. 
-There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms are common, in the US N95/P95 (e.g. Wikipedia page on FFP standards). The face-to-face talking droplets spread which is the most prevalent transmission of SARS-CoV-2 is prevented by all filtration levels. High filtration is the safe option in situations with [aerosol transmission](./transmission.md#summary-airborne-transmission). 
+There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms are common, in the US N95/P95 (e.g. Wikipedia page on FFP standards). High filtration is the safe option in situations with [aerosol transmission](./transmission.md#summary-airborne-transmission). 
 
 * ###### High Filtration
   FFP2 (Europe), N95(US), KN95(China). Generally high filtration mask also have a good fit, since if the air sidelines the mask, no aerosols are hold back regardless of the filter (droplets are still hold back). 
@@ -127,31 +129,33 @@ There are various standards to classify mask by their filtration quality: E.g. i
   
 * ###### Intermediate Filtration
   Surgical Masks
+
 * ###### Low Filtration 
-  Textile mask often have low filter performance. They prevent the [droplet exchange](./transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not reliably prevent the spread of aerosols, which is important in indoor rooms if possibly infected. 
+  Textile mask often have low filter performance. They prevent the [droplet exchange](./transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not reliably prevent the spread of aerosols, which is important in indoor rooms if possibly infected. Indoors where aerosol transmission is likely low filtration masks shouldn't be used to protect others. 
 
 ##### Usage Classes
-* _Protection masks against dust_ are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let the air out unfiltered. That means that there is not inside to outside protection and thus masks with valves offer protection for the wearer only and *not* for others.
+* ###### Dust Protection Masks
+  _Protection masks_ against dust are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let the air out unfiltered. That means that there is not inside to outside protection and thus masks with valves offer protection for the wearer only and *not* for others. Usually they have very effective filters and thus filter virions. 
 * _Medical masks_ : There are two types of medical mask. 
-  * _Surgical masks_: are constructed for comfort and a focus is on inside to outside protection (during surgery, the body is open and so there is no skin protection). Mainly larger particles such as bacteria are filtered and additionally they cover the entire mouth area where often some nutrition rests can be.
-  * _Medical protections masks_: To protect medical staff against pathogens from infected patients. These masks are usually in the highest filtration category and offer good protection for all pathogens including viruses.
-* _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. These masks often offer could comfort and style. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](./transmission.md#summary-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
-
+  * ###### Surgical Masks
+    _Surgical masks_ are constructed for comfort and a focus is on inside to outside protection (during surgery, the body is open and so there is no skin protection). Mainly larger particles such as bacteria are filtered and additionally they cover the entire mouth area where often some nutrition rests can be.
+  * ###### Medical protections masks 
+    _Medical protections masks_ are constructed to protect medical staff against pathogens from infected patients. These masks are usually in the highest filtration category and offer good protection for all pathogens including viruses.
+* ###### Textile Masks
+  _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. These masks often offer could comfort and style. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](./transmission.md#summary-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
 
 #### Clean Masks
 The [mask effectiveness](#mask-effectiveness) is usually evaluated with fresh masks and not with mask worn for several hours. The problem if the mask is continuously worn for several hours is, that virions can be slowly breathed through the filter, which occurs more at exhalation than inhalation ([mask effectiveness](#mask-effectiveness)). Therefore mask should regularly be changed or [cleaned](#mask-cleaning)
-
 
 #### Mask Cleaning
 * __wash__: wash with soap/hot water/machine-wash
 * __heat__: heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming] [Chan et al.](#chan) have shown that Sars-CoV-1 is inactivated above 50 degrees.
 * __sunlight__: if washing or heating is not available (e.g. water saving in dry areas or camping), putting the mask to the bright sunlight is an alternative in areas with intense sunlight. 
-* __disinfect__: spray with pure alcohol (*not* alcohol intended for cleaning)
-* __waiting__: Usually half of the virions decay during several hours. Thus after several hours/days the virions concentration is lower. 
+* __disinfect__: spray with *pure* alcohol (*not* alcohol intended for cleaning)
+* __waiting__: Usually half of the virions decay during several hours at room temperature (i.e. the halflife time is several hours). Thus the next day most virions decayed.
 
 #### Mask Recommendation
 Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable, since masks are protective. 
-The recommendation should be strong for people feeling sick or with coughs in indoor public rooms.
 
 <!--  
 Reasons against masks seem sometimes rather searched:
@@ -212,7 +216,7 @@ as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
 * ventilate the room and flat before opening extern doors: Ideally ventilate before opening the personal room and open slightly only
 
 #### Isolation by Home-Lockdown
-To reduce spread isolation/home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more fine-grained the measures can be.
+To reduce spread isolation by home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more fine-grained the measures can be.
 * Isolation should be used with care since it can discourage people from testing and being transparent e.g. disclosing socials contacts and travel history.
 * There are reasons against a complete stay at home order in my opinion as of 31.7.2020:
     - Going outside is important for an intact immune system and good health. This is important for infected too.
@@ -273,13 +277,13 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 ### Corona Conform Skiing
 [**in work**]
-__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoor like. Lowering the maximum crowd density is helps too, especially indoors.
+__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoor like. Lowering the maximum crowd density is helps too, especially  indoors.
 
 > My memories of skiing date back to the early 90s, back then a ski day was mostly outdoors from open-sky lifts to outdoor lunch.
 
-> Allowing skiing in some regions first, I consider good: The situations ideally are closely monitored (e.g. Covid-19 salvia-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) transparently published, so that everyone can benefit from the gathered experiences. 
+> Allowing skiing in some regions first, I consider good, since all can benefit from the experiences gathered. Ideally the situations are closely monitored (e.g. Covid-19 salvia-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) are transparently published.
 
-> International Travelling can be connected to skiing but mostly skiing and international travelling are independent (as of 30.11. not discussed on this page). Generally for travelling I think in place staying in case of an infection is important i.e. test before leave. 
+> International Travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. no further discussed on this page). 
 
 __ThinkThrough__
 Two sides:
@@ -290,40 +294,52 @@ All mentioned in skiing associated are known as risk factors for Covid aerosol t
 
 
 __Evidence__
-In line with theoretical risk factors - without aerosol protection measures (disinfectants and some droplet preventions were all ready in place in winter 2020) - there have been many infections traced back to ski resorts.
+In line with theoretical risk factors (high altitude, sports, dry air in densely populated indoor rooms) - without aerosol protection measures (disinfectants and some droplet preventions were all ready in place in winter 2020) - many infections occurred in ski resorts.
 
 __Experiences__
-In the summer 2020 in the alps many mountain places were crowded and had open cable cars. To my knowledge no increased Covid-19 incidences were observed. No hot-spots have been observed. 
+In the summer 2020, many mountain locations in the alps were crowded and had running cable cars. To my knowledge no increased Covid-19 incidences were observed/associated and especially no hot-spots have been observed. 
 
 => in summer time 
-* when good ventilation was easy and often practiced 
+* when good ventilation is easy and often practiced 
 * combined with low Covid incidence rates 
 
-mountain holidays worked.
+mountain holidays work.
 
 
 __Comment__
 Skiing itself is safe but there need to be restrictions on the high risk skiing associated settings. 
-> To keep in mind, that high altitude and sports increase the aerosol transmission.
+
+> To keep in mind, high altitude and sports increase the aerosol transmission.
+
 * __cableways__: best unconfined=outdoors and if confined/indoor permanent open/removed windows.
-* __tourism buildings__: In tourism buildings (cableways, information offices, gastronomy) good ventilation very important. Doors and windows should be open all the time (more in [ventilation](#ventilation)).
-* __queuing__: outdoors only, indoor queuing should be avoided.
-  > Yesterday (29.11.) I was on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity, some ventilation in the cableways however not nearly as much as there could have been. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon: a large crowd lined up indoors and in the beginning with no appropriate ventilation. The situation improved when doors and windows were opened. Alternatives would have been to organize the queue to be outdoors or a ticketing system.
+* __tourism buildings__: 
+  Good [ventilation](#ventilation) is important.
+  * __with jackets__: In building where jackets are worn (e.g. cableway buildings, some sport-shops, self service restaurant where guests sit outside), ventilation can be permanent: Doors and windows are open allowing some draught. Aerosol transmission efficiently reduced.
+  * __without jackets__: In buildings where jackets are not worn (e.g. restaurants, tourist information). Regular ventilation e.g. each hour/ ideally there is some ventilation system installed. 
+* __queuing__: 
+  * outdoors preferable 
+  * indoor queuing ideally avoided or at least be very well ventilated.
+  * ticketing system. Tricky since needs to be working all the time. When everybody waits indoors when the weather is bad, the transmission risk high too. 
+  > Yesterday (29.11.) I was on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity, some ventilation in the cableways however not nearly as much as there could have been. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon: a large crowd lined up indoors and in the beginning with no appropriate ventilation, some even started feeling unwell. The situation improved when doors and windows were opened. Alternatives are to organize the queue to be outdoors or a ticketing system.
 * __gastronomy__: as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a short time (often days).  
   * __indoor gastronomy__: High risk. Guests from the same villages/hotels going only to a limited number of restaurants helps to prevents chains of (super)spreading and helps contact tracing. 
-  * __outdoor gastronomy__: Low risk. Ideally masks are used when getting/bringing food/going to toilets. 
+    > Indoor gastronomy is the highest risk in my opinion. In cableway(-building) ventilation by draught can be used since people can wear warm jackets (sport shops will cheer) and wear clean masks with good filters but for indoor gastronomy masks, draught & jackets fit less. Ideally some ventilation system is in place.
+  * __outdoor gastronomy__: Low risk. Ideally masks are used when getting/bringing food/drinks or going to toilets. 
+  * __apres ski__:
+    * __indoor__: very high risk often dense crowds and a lot of alcohol (see also indoor gastronomy)
+    * __outdoor__: low to medium risk with some distance and limits on alcohol
 * __masks__:
   * __outdoor__: any mask including cloths masks and scarf like to prevent droplet transmission e.g. for staff/ski teachers. 
   * __indoor__: surgical masks or above ([Mask Types](#mask-types)) since:
     *  __Increased Aerosol Transmission__: At high altitude combined with sports, the aerosol transmission is increased.
     *  __Good filter__: Cloths masks, scarfs and so on are hard to distinguish and some of them don't hold back virions in aerosol efficiently. Even good cloths masks offer less [filter performance](#filter-performance) than most surgical masks. 
-    *  __Clean masks__: Mask likely offer better protection if fresh/clean [clean masks](#clean-masks). So it is better to go skiing with a bunch of surgical masks and rotate them. By [cleaning](#mask-cleaning) the masks can be reused. 
+    *  __Clean masks__: Mask likely offer better protection if fresh/clean [clean masks](#clean-masks). So it is better to go skiing with a bunch of surgical masks and rotate them. [Cleaned](#mask-cleaning) the masks can be reused. 
 
   > Recently I read I a comment from a speaker from a Cableway Association, reading something like: "We cannot and must not control whether people wear clean or the right masks, we trust on the own responsibility." 
   > Several points:
   > * Everybody should encourage and motivate everybody to take good protections. If control is helpful, the system needs to be or at least attempted to be designed such that controlling is possible. 
-  > * Aerosol transmission plays a role in the transmission of Covid and many cloth masks offer only few protection versus aerosol. I avow, this is still disputed to some extent. 
-  > * Own responsibility is for everyone including operators. If there are few official rules, then there are many specific situations with no general/official rule (e.g. on the mask type). In sensible situations, it can be adequate to locally set additional rules or do checks.
+  > * Aerosol transmission plays a role in the transmission of Covid and many cloth masks offer only few protection versus aerosol. // I avow, this is still disputed to some extent. 
+  > * Own responsibility is for everyone including operators. If there are few official rules, then there are many specific situations with no general/official rule (e.g. on the mask type). In sensible situations, it can be adequate to set additional rules or do more checks.
   
 
 
@@ -432,7 +448,7 @@ Outside there is much more air per person than inside:
 #### Virion Decay
 Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the virion decay are:
 * the genome is [stored in unstable ssRNA](./coronavirus.md#ssrna)
-* the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membrane has not evolved to be stable outside the organism.
+* the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membranes have not evolved to be stable outside the organism.
 * virions have no repair mechanism since they don't have a metabolism
 
 Process and situations virions decay occurs:
