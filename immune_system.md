@@ -1,7 +1,8 @@
 
 
-# Immune System
+# Sketching the Immune System
 
+* [Summary](#summary)
 * [Immune System Goals](#immune-system-goals)
   * [Prevent Entry](#prevent-entry)
   * [Detect and Eliminate Unwanted Things](#detect-and-eliminate-unwanted-things)
@@ -25,22 +26,28 @@
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
 
-[in work and incomplete] Selected topics of the immune protection with a focus protection versus coronaviruses are discussed.
+
+## Summary
+[**in work and incomplete**] Selected topics of the immune protection with a focus protection versus coronaviruses are discussed.
 
 ###### Immune System
 > The *immune system* denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them. 
 
-Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host from interfering with their metabolism: The host immune system tries to stop the virus metabolism and so the the virus immune system in turn tries the stop the host immune system.
+Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host from interfering with their metabolism: The host immune system tries to stop the virus metabolism and the the virus immune system in turn tries the stop the host immune system.
 
 A lot of completely different immune mechanism have evolved in the different [life forms](./coronavirus.md#life-form). Immune mechanism can be classified according to various criteria:
-- [Immune System Goals](#immune-system-goals): prevent entry, eliminate unwanted, control metabolism
-- [Immune System Mechanism](#immune-system-mechanisms): physical, biological or chemical
-- [Immune System Specificity](#immune-system-specificity): Which substances are recognized and targeted. 
-- [Protection Locations](#protection-locations): local or global, at frequent entry points many local protection mechanism are in place. 
+- [Immune System Goals](#immune-system-goals): Prevent entry, eliminate unwanted, supervise metabolism.
+- [Immune System Mechanism](#immune-system-mechanisms): Physical, chemical and biological mechanism are in use. 
+- [Immune System Specificity](#immune-system-specificity): Which substances are recognized and targeted. Substances that are ignored. 
+- [Protection Locations](#protection-locations): Local or global. At frequent foreign substances entry points many local protection mechanism are in place. 
 
 
 ## Immune System Goals
 [in work and incomplete]
+As [defined](#immune-system) the immune system task is to keep the metabolism free of unwanted things. Different part of the immune system have different goals/tasks:
+* [Prevent Entry](#prevent-entry)
+* [Detect and Eliminate Unwanted Things](#detect-and-eliminate-unwanted-things)
+* [Prevent Unwanted Metabolisms](#prevent-unwanted-metabolisms)
 
 ### Prevent Entry
 Against many pathogens a physical barrier is the most effective line of defence. Where possible this defense mechanism is in place. However where a an exchange of chemical and biological substance is needed no complete physical barrier is possible but other obstacles are in place:
@@ -61,8 +68,8 @@ In some cases preventing unwanted metabolism is done by eliminating whole cells,
 [in work]
 Self checks of the cells: inside the cells there are various systems to keep to cells metabolism immune.
 * RNA silencing
-* detect foreign RNA e.g. double stranded
-* detect stress
+* Detect foreign RNA e.g. double stranded
+* Detect stress e.g. Ribosome permanently producing. 
 
 #### Extern-checks
 Cells present what they produce on the outside: T cells inspect these substances and can induce cell death or ring the bells. In fighting coronaviruses T cells play a key role [citations in work].
@@ -217,7 +224,8 @@ All form of life on earth share common molecular patterns. The more genetically 
 * ##### vanderhoek2012
     Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012).
     **The dominance of human coronavirus OC43 and NL63 infections in infants.**
-    Journal of clinical virology: the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. https://doi.org/10.1016/j.jcv.2011.11.011
+    Journal of clinical virology: the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. 
+    https://doi.org/10.1016/j.jcv.2011.11.011
 
 <!--* ##### han2006-->
 
