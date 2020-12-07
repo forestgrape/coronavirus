@@ -375,12 +375,12 @@ EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhea| local T cell or antibodies |
 > Virus discovery is not easy and requires the right settings. Some of the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite both being endemic for over 50 years and virologists had the (theoretical) possibilities to discover coronaviruses since the 70's. MERS got discovered in 2012 but likely human infections have occurred long before. [citations in work] [in consideration/thinking]
 
 
-### diseases caused by the bovine coronavirus
+### Diseases caused by Bovine Coronavirus
 [raw form is on todo-list]
 
 
 ### Infections caused by Sars-CoV-2
-[in work]<br>
+[in work]
 Sars-CoV-2 has been observed to cause
 Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the locations.
 
