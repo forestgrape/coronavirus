@@ -270,7 +270,10 @@ More fairness for choosing job/work options.
 
 ## Appendix
 ### Thoughts about Fairness
-Related but subjective and slightly off topic thought on fairness and how to achieve and analyze it. 
+Related but subjective and slightly off topic thought on fairness and how to achieve and analyze it.
+
+> This section is highly subjective and influenced by personal experiences/impressions respectively not experiences/impressions. These depend on many factors, one is the region of living.
+
 
 #### Analyzing System Fairness
 Temporarily partitioning the society into groups can help to discover unfairness in the system i.e. structural. The partitioning can be done for all possible features such as genetic, appearance, location of residence or birth, wealth, date of birth (even the month can have some relevance: statistical analyses show that the month of birth plays a role in the success for a professional team sports career: the ones being the oldest in the sport-year seem to have slightly better chances. Well there are more important things to tackle.) While the results and possible improvement suggestions need to be communicated, the partitioning is only temporarily for analyses, we live together not separated and we work best as one team.
