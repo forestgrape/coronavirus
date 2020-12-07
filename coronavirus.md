@@ -483,7 +483,7 @@ The tissue tropism depends on:
 * Local Immune system
 
 
-* Coronaviruses are often is tissues with large apical surface and the [virions are released](#orientation-matters) again on the apical side to spread via the covering fluids. 
+* Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#orientation-matters) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from  to the kidney and the intestine from where they can leave and infect the next host. 
 * Coronaviruses are to big to diffuse efficiently inside tissues [to verify].
 
 
