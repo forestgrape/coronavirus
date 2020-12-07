@@ -36,8 +36,6 @@
 
 ### Objects Moving in the Air
 [in work]
-
-
 The movement of an object in the air depends on the ratio of its surface divided by its mass. The mass is turn is the volume times the density of the material. 
 
 > S/m ratio = surface of a particle divided by its 
@@ -125,6 +123,8 @@ Model    | Metaphor   | Actions | Source/Deposition | Situations/Clima|   Preven
 * Aerosol and dry form spread are increasingly possible the lower the absolute humidity is. The absolute humidity in heated indoor rooms is lower, the lower the outside temperature is. 
 * The dry form model is proposed here. This transmission form is just a proposal and whether it occurs and what role it play is not verified.
 
+
+
 ## Particle Dynamics in the Respiratory Tract
 
 Conversational remarks about how I understand particle deposition models. 
@@ -157,15 +157,14 @@ So Covid-19 can be spread with breathing alone especially since in the deep lung
 This section describes how particles are deposited in the respiratory tract. These particles can originate from other locations in the respiratory tract or being inhaled from extern air.
 
 #### Literature
+* [Heyder](#heyder-2004) is a readable description  
+* [Lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. 
 * [Park](#park) is a recent review. 
 * An often used model is the [ICRP Model](#bailey). 
 * In this work mostly references results from [Kleinstreuer](#kleinstreuer-2018). 
-* [Heyder](#heyder-2004) is a readable description  
-* [Lindstrom](#lindstrom) explains very well the overall topic in her 40 pages long thesis. 
-* [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
 
 #### Deposition Factors
-How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors ([park et al](#park) have recently written a review).
+How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors:
 - particles properties such as 
   - diameter: the diameter determines the size of particles and thus how particles [move in the air](#objects-moving-in-the-air). 
   - Form: constant for water droplets but dry particles can vary in form. The influence of the form is simulated in ([Sturm](#sturm)).  
@@ -173,6 +172,8 @@ How many particles are deposited/breath out in which region in/from the respirat
 - breathing volume and frequency [hofemeier](#hofemeier)
 - air humidity and how much the air is moistened in the lung. E.g. described in [zhong18](#zhong18), [varghese](#varghese)]
 - orientation respect to gravity i.e. wether horizontal or vertical
+- [qi](#qi) shows that particle deposition is individual and may change in case of lung diseases. 
+
  
 #### Deposition Locations
 The physiology of the airways is such that particles are absorbed and cleared out as early as possible and the heavier the earlier [Stuart](#stuart), [Balley](#bailey), [Kleinstreuer](#kleinstreuer-2018).
@@ -310,46 +311,48 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 #### Evidence from Biological Properties
 [in rework since **partly wrong**]
-As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](./coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection. 
+As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](./coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
 
     
 #### Evidence from the observed Spread Patterns
-
+[in rework since **partly wrong**, December 2020]
 The droplet transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the droplet models:
 
 [in work: correct that aerosol but not the droplet models could partly explain observed spread patterns]
-In confined settings without special protection reproduction numbers, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of aerosols is affected by  and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in cool outside temperature and heated indoor spaces which means dry and confined air. In theses settings dry dust like spreading is possible.
+In confined settings without special protection reproduction numbers, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of aerosols is affected by and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity which yields longer remaining in the air. The events of very high spreading have all been observed in indoor spaces. In theses settings dry dust like spreading is possible.
 
 
 * Sars-CoV-2:
     - Long-Term Care Facility in Seattle [Honein et al](#honein)
 	- Diamond Princess Cruise Ship anchored in Japan, well analysed by [Mizumoto and colleagues](#mizumoto). Observations:
         * Covid-19 spread started between passengers and not equally between passengers and personal.
-        * very high peak values of the reproduction number are observed (over 10):  This is well above the number of close contacts a person usually has and so droplet transmission is unlikely. 
+        * very high peak values of the reproduction number are observed (over 10):  This is well above the number of close contacts a person usually has and so droplet transmission is unlikely.
         
         The observations favour long range but same room transmission (aerosol and dry form transmission) over droplet transmission and slightly indicate dry form transmission:
-        * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission. 
+        * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission.
         * In the aerosol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
-        * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected since they spend the time in the same areas. 
+        * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected since they spend the time in the same areas.
 	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
 	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
 	- Hospitals in Nothern Italy [LE](#le)
 
 * SARS-CoV-1:
-    - Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in close by rooms and not to the personal. 
+    - Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in close by rooms and not to the personal.
 
 
 * SARS 1 & 2: 
     In settings without prior SARS experience the infection rate in health care workers is very high:
 	* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
-	* 2019/2020 in Europe - Italy especially [LE](#le)<br>
+	* 2019/2020 in Europe - Italy especially [LE](#le)
 	
 	Possible Explanation: The medical staff is used to protect against fomites and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
 
 * Mers-Cov:
-Most superspreading events occured in Winter season and in hospitals [dudas2017](#dudas2017). The primary superspreading in very dry (heated indoor) can be a reason  diseases occurred recently, even though overall hygiene increased.  
+  Most superspreading events were observed in winter and often in hospitals [dudas2017](#dudas2017). 
 
+* The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outside temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 
 
+* The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS has been infecting humans for some decades which was discovered by analyzing backup samples [to confirm and cite])
 
     
 #### Further evidences
@@ -358,7 +361,7 @@ Most superspreading events occured in Winter season and in hospitals [dudas2017]
 
 * In humid and warm temperature environments (above 30 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols which in turn often growth to droplets. In this case, a droplet like spreading pattern with no super-spreading events would be expected. 
 
-* The initial cases that led to the discovery of Sars-CoV-2 occurred during cold outside temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 
+
 
 
 
