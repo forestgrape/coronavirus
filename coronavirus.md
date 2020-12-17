@@ -1,6 +1,6 @@
 
 # Coronaviruses with a Focus on Sars-CoV-2
-[in work]
+[**in (re)work**]
 Various aspects of coronaviruses are described with a focus on understanding. We start with first principles: life forms on earth. Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. Finally we have a look at coronaviruses with a focus on SARS-CoV-2.
 
 * [Introduction to Life](#introduction-to-life)
@@ -404,10 +404,6 @@ The metabolism can produce new virions that are released from the cell. The prop
    *  (+) RNA genomes to get packed together with the N proteins to form the nucleocapsids of new virions and thus building up new virions.
 
 
-
-
-<p id='tropism-of-coronaviruses'>-----</p>
-
 ## Tropism 
 > <span id='tropism'>*Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.</span>
 
@@ -429,7 +425,6 @@ Both evolution and biological constraints yield the tropism of viruses. Evolutio
     - chemical environment: e.g. pH value
     - biological environment: e.g. Virions are primed for cell entry by specific proteins
     -->
-
 <!--
 <p id='tropism-of-coronaviruses'>-----</p>
 
@@ -445,13 +440,11 @@ Plant seeds evolved first to travel and then to be activated under favorable con
     - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
 * matching receptor
 
-  
 
 ### Metabolic Phase Tropism
 [in work: incomplete and citations/confirmation in work]
 
 > The tropism in the virion phase is better known than the tropism in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells of laboratory cell-lines, expression the right receptors. To investigate the metabolic phase, ideally one could look into the cells. 
-
 
 * The cell environment shouldn't deactivate the virus or alarming the immune system.
 * The cell should be able to produce many virions and thus should have a capable metabolism.
@@ -459,7 +452,7 @@ Plant seeds evolved first to travel and then to be activated under favorable con
 #### Metabolic Phase Tropism of Coronaviruses
 * ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
 * immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place. 
-[todo: search&read]
+[todo: search & read]
 
 ### Cell Tropism
 > *Cell tropism* describes how a virus behaves upon match of a virion to a specific cell type. 
