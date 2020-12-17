@@ -37,7 +37,6 @@ First the conclusion are given and then the observations founding them are sketc
       * activities such as singing, shouting or strains e.g. sports
       
     The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
-
     Regarding prevention measures the takeaway is, that transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away. 
 
 #### Observations
@@ -127,8 +126,6 @@ Spread situations and patterns of Covid-19 both observed and described in litera
 
 ### Indoor Social Settings
 * [Contact Tracing in Hong Kong](#summary-adamwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
-
-#### Bars and Restaurants
 
 ### Airplanes
 [**in work**]
@@ -400,4 +397,4 @@ Pediatrics. 2020;146(2):e2020004879 [https://doi.org/10.1542/peds.2020-004879]()
 Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases, 26(11), 2713-2716. https://dx.doi.org/10.3201/eid2611.203254.
 
 #### freedman
-Freedman, D. O., & Wilder-Smith, A. (2020). In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication. https://doi.org/10.1093/jtm/taaa178
+Freedman, D. O., & Wilder-Smith, A. (2020). In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication. https://doi.org/10.1093/jtm/taaa178                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
