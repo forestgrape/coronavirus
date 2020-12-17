@@ -2,6 +2,35 @@
 # Hypotheses about Nidovirales
 Hypotheses about Nidovirales are discussed. They extend the [page on coronaviruses](./coronavirus.md) and the section [Backtracing SARS-1/2](./../index.md#backtracing-sars-cov-12) from a subject point. In the flavour they belong to the section [Ideas to Explore](./index.md#ideas-to-explore)
 
+## Content 
+* [Content](#content)
+* [Hypotheses in Short](#hypotheses-in-short)
+* [Relevance](#relevance)
+* [Origin and Evolution of SARS-like](#origin-and-evolution-of-sars-like)
+  * [Summary Ye,Jin](#summary-yejin)
+  * [summary boni,lemey](#summary-bonilemey)
+  * [summary anderson](#summary-anderson)
+* [Coronaviruses Interspecies Infections](#coronaviruses-interspecies-infections)
+  * [summary dudas 2017](#summary-dudas-2017)
+  * [summary wang 2017](#summary-wang-2017)
+* [Observations in Domestic/Captured Animals](#observations-in-domesticcaptured-animals)
+  * [summary guan 2003](#summary-guan-2003)
+  * [summary zhang](#summary-zhang)
+  * [summary k xiao](#summary-k-xiao)
+  * [summary t lam](#summary-t-lam)
+* [Observations in Wild Animals other than Bats](#observations-in-wild-animals-other-than-bats)
+  * [summary corman 14](#summary-corman-14)
+* [Observations in Bats](#observations-in-bats)
+  * [Summary Fan 2019](#summary-fan-2019)
+  * [Summary Zhou](#summary-zhou)
+  * [summary ge 2013](#summary-ge-2013)
+* [Species Tropism](#species-tropism)
+  * [summary zhai](#summary-zhai)
+  * [summary wu](#summary-wu)
+* [Coronaviruses and Insects](#coronaviruses-and-insects)
+  * [Summary Tengs,Jonassen](#summary-tengsjonassen)
+  * [Summary Watson 2002](#summary-watson-2002)
+
 ## Hypotheses in Short
 [in work]
 
@@ -34,33 +63,6 @@ Notes:
 
 
 # Summarized References
-* [Hypotheses in Short](#hypotheses-in-short)
-* [Relevance](#relevance)
-* [Origin and Evolution of SARS-like](#origin-and-evolution-of-sars-like)
-  * [Summary Ye,Jin](#summary-yejin)
-  * [summary boni,lemey](#summary-bonilemey)
-  * [summary anderson](#summary-anderson)
-* [Coronaviruses Interspecies Infections](#coronaviruses-interspecies-infections)
-  * [summary dudas 2017](#summary-dudas-2017)
-  * [summary wang 2017](#summary-wang-2017)
-* [Observations in Domestic/Captured Animals](#observations-in-domesticcaptured-animals)
-  * [summary guan 2003](#summary-guan-2003)
-  * [summary zhang](#summary-zhang)
-  * [summary k xiao](#summary-k-xiao)
-  * [summary t lam](#summary-t-lam)
-* [Observations in Wild Animals other than Bats](#observations-in-wild-animals-other-than-bats)
-  * [summary corman 14](#summary-corman-14)
-* [Observations in Bats](#observations-in-bats)
-  * [Summary Fan 2019](#summary-fan-2019)
-  * [Summary Zhou](#summary-zhou)
-  * [summary ge 2013](#summary-ge-2013)
-* [Species Tropism](#species-tropism)
-  * [summary zhai](#summary-zhai)
-  * [summary wu](#summary-wu)
-* [Coronaviruses and Insects](#coronaviruses-and-insects)
-  * [Summary Tengs,Jonassen](#summary-tengsjonassen)
-  * [Summary Watson 2002](#summary-watson-2002)
-
 
 ## Origin and Evolution of SARS-like
 
@@ -81,10 +83,10 @@ The seven human coronaviruses are reviewed and compared with a focus on:
 **Evolutionary origins of the SARS‐CoV‐2 sarbecovirus lineage responsible for the COVID-19 pandemic**
 Maciej F Boni , Philippe Lemey, Xiaowei Jiang , Tommy Tsan-Yuk Lam , Blair Perry , Todd Castoe , Andrew Rambaut and David L Robertson
 #### Methods
-Frequent recombination events makes genome analysis challenging. Regions likely without recombinations are identified using 3 different methods. The identified non-recombining regions are analysed using traditional phylogenetic methods including tree construction and dating. 
+Frequent recombination events makes genome analysis challenging. Regions likely without recombination are identified using 3 different methods. The identified non-recombining regions are analysed using traditional phylogenetic methods including tree construction and dating. 
 #### Results
 * Aligning different sarbecovirus genomes, mainly sampled from bats, indicates frequent recombination events. 
-* Phylogentic analysis on non-recombinant regions
+* Phylogenetic analysis on non-recombinant regions
     - This approach is used to estimate the dates of separation of different strains including Sars-CoV-1, Sars-CoV-2 and several strains found in bats.
     - Removing recombinant genomic segments point to a single ancestral lineage for SARS-CoV-2 and RaTG13 including Sars-like from pangolin (confiscated in March 2019 in Guangdong) and a clade of pangolin sequences from Guangxi province confiscated in 2017.
 *  Evidence Sars-CoV-2 emerge directly from yet unknown reservoir (authors suggest bats):
@@ -119,7 +121,7 @@ The phylodynamics of 274 MERS genomes, 174 from human infections and 100 from ca
 * camels are the reservoir hosts of MERS-CoV: 
     * the evolution of MERS takes place in camels and not in humans. 
     * human are terminal hosts and the reproduction/spread value is about 0.7 
-    * the sequence data alone indicate at least 50 zoonotic introduction of MERS to humans. Extrapolation to all labraratory confirmed MERS cases yields hundreds of introductions to humans.
+    * the sequence data alone indicate at least 50 zoonotic introduction of MERS to humans. Extrapolation to all laboratory confirmed MERS cases yields hundreds of introductions to humans.
 * frequent recombination events occur in the camels. 
 * most transmissions to humans occur in the summer months, however large clusters of secondary cases from human to human transmission tend to occur in winter or spring. 
 
@@ -154,7 +156,7 @@ All of the racoon dogs and the palm civets showed signs of recent SARS infection
 **Isolation of SARS-CoV-2-related coronavirus from Malayan pangolins**; Group: Wu Chen, Lihua Xiao, Yongyi Shen; Guangzhou
 #### Methods & Results
 Pangolins confiscated from two transports were investigated:
-- The first transport in March 2019 contained 21 Malayan pangolins. During the following stay in a wildlife rescue center many gradually developed signs of a respiratory disease: shortness of breath, emaciation, lack of appetite, inactivity and crying. 17 of the 21 pangolins, were PCR positiv for a Sars-like coronavirus named Pangolin-CoV. 14 of the 17 infected pangolins died. Serology with an assay designed for S1 and RBD antigens of Sars-CoV-2 was done for 4 infected pangolins: Only one of the 4 sera was positive. 
+- The first transport in March 2019 contained 21 Malayan pangolins. During the following stay in a wildlife rescue center many gradually developed signs of a respiratory disease: shortness of breath, emaciation, lack of appetite, inactivity and crying. 17 of the 21 pangolins, were PCR positive for a Sars-like coronavirus named Pangolin-CoV. 14 of the 17 infected pangolins died. Serology with an assay designed for S1 and RBD antigens of Sars-CoV-2 was done for 4 infected pangolins: Only one of the 4 sera was positive. 
 - The second transport consisted of 4 Chinese and 4 Malayan pangolins. None of them was PCR positive for Sars-like coronaviruses.
 #### Discussion
 * Description of the genetic relations of Pangolin-CoV: Table 1 and Fig. 2. The genetic distances depend on the location on the genome and wheter nucleic or amino acids are considered:
