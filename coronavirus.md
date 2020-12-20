@@ -54,14 +54,19 @@ In other words, a form of live has memorized environment interactions and passes
 
 All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins (only RNA in the case of [viroids](#viroid)), which catalyze interactions in watery solutions. 
 
-The simplest forms of life are viriods. 
-> <span id='viroid'>*Viroids* are pieces of RNA able catalyze self reproduction.</span>  
+The simplest forms of life are viroids. 
+> ###### Viroid
+> *Viroids* are pieces of RNA able catalyze self reproduction. 
 
 All other known forms of life also encode enzymes made of proteins.
-> <span id='protein'>*Proteins* are amino acids chained together.</protein>
+> ###### Protein
+> *Proteins* are amino acids chained together.
 
 Proteins are assembled by ribosomes:
-> <span id='ribosome'> *Ribosomes* read positive sense RNA</span>, called <span id='mrna'> *messenger RNA* or just *mRNA* </span>, and select a amino acid for each triple of RNA acids and chain these amino acids together to form proteins. This process is called <span id='translation'>*translation*</span> since the mRNA is translated to a protein.
+> ###### Ribosome
+> ###### mRNA
+> ###### Translation
+> *Ribosomes* read positive sense RNA, called *messenger RNA* or just *mRNA*, and select a amino acid for each triple of RNA acids and chain these amino acids together to proteins. This process is called *translation* since the mRNA is translated to a protein.
 
 
 ### Lifetime Storage
@@ -153,12 +158,13 @@ As noted all forms of life which encode their entire metabolism are dsDNA based.
 
 ## Introduction to Viruses
 
-> <span id='virus'> A *virus* is a form of life, that can't produce all necessary enzymes for its replication. </span> 
+> ###### Virus
+> A *virus* is a form of life, that can't produce all necessary enzymes for its replication.
 
 Viruses integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](#cell-forming-life) and the metabolisms is inside the cell, viruses need to be within cells to have a metabolism running.
 
 > ###### Infected Cell
-> <span id='infected-cell'> A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism. </span>
+> A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism.
 
 These can mean that the virus is replicating inside the cell. A cell is also called infected if only some viral genes are translated and the resulting enzymes are active and thus influence the cells metabolism. To specify, cells in which replication takes place are called host cells.
 
@@ -173,19 +179,25 @@ Most cells don't live forever. In multicellular organisms most cells live fare s
 * Virion phase: Travel, wait and upon match with an [infectable cell](#infectable-cell) induce infection. 
 * Metabolic phase: Produce proteins and ultimately progeny by the using structures, resources and enzymes from the cell infected.
 
-> <span id='virion'> A _virion_ is form of a virus outside a cell and ready to infect a cell. </span>
+> ###### Virion
+> A *virion* is form of a virus outside a cell and ready to infect a cell. </span>
 
 Virions are similar to seeds of plants: They are dormant and wait for activation. Virions don't have a metabolism running. However they evolved to induce infection on the right circumstances. to be capable have sticky proteins which can get attached to cells. Once activated/primed cell fusion is initiated by using spring loaded energy. 
 
-> <span id='infectable-cell'> A _infectable cell_ is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable </span>
+> ###### Infectable Cell
+> A *infectable cell* is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable.
 
 Once a virus infects cells, it changes metabolism of the cell. For surviving a virus hijacks the cell's metabolism to produce new virions. 
 
-> <span id='infected-object'> An object is called _infected_ by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an organism. There are constraints on a [object to be infectable](#tropism-of-viruses).</span> 
+> ###### Virus Infection
+> An object is called _infected_ by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an [organism](#organism). 
 
-So an organism is infected if it has some cells that are [infected](#infected-cell).
+So an organism is infected if it has some [cells that are infected](#infected-cell).
 
-> <span id='infectable-object'> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.</span>
+> ###### Infectable Object
+> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism. 
+
+There are [constraints on a object to be infectable](#tropism-of-viruses). A necessary condition for an object to become infected is the availability of [infectable cells](#infectable-cell). However this condition is not sufficient, reachability, priming factors and immune evasion are other conditions needed. 
 
 Therefore viruses are dependent on the host cells. Long-term surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
 
@@ -210,7 +222,7 @@ Similarly for viruses infecting organisms, often to grasp the full picture it is
 * RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#tropism-of-viruses) in different situations. 
 
 > ###### Virus Entity
-> A *Virus Entity or Organism* denotes all viruses in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*. 
+> A *Virus Entity or Virus Organism* denotes all viruses in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*. 
 
 Similar to the different cells in multicellular organism only few viruses in a virus entity are likely to infect new hosts and thereby form a new entity. 
 
@@ -227,8 +239,6 @@ In outside living vertebrate hosts, the typical life cycle of a coronavirus enti
 * establish a possibly longer lasting infection in the intestine(/kidney) and contineously have progeny released
 * progeny: the virions get transported by wind or water to new susceptible hosts
 -->
-
-
 
 
 ### Movement of Virions
@@ -555,16 +565,23 @@ That in swab tests there are viruses in the nose and the mouth can be either cau
 ## Habitat
 [in rework]
 As outlined in the section [tropism](#tropism) there is a variety of conditions for a virus to start to metabolism and even more too successfully replicate. These environments form the habitat of a virus strain:
-><span id='habitat'> The *Habitat* of a virus are the locations which are frequently infected: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs and the host organism: us humans </span>
+
+> ###### Habitat
+> The *Habitat* of a virus are the locations which are frequently infected: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs and the host organism: us humans. 
 
 ### Organisms Habitat aka Hosts
 The organisms forming the habitat are called hosts:
-><span id='host'>A *host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently and are relevant for the spread of the virus i.e. are part of the life cycle.</span>
 
-><span id='endemic'> A virus strain is *endemic* in a collection of organisms if that collection is a habitat of the virus.</span>
+> ###### Host
+> A *host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently and are relevant for the spread of the virus i.e. are part of the life cycle.
+
+> ###### Endemic
+> A virus strain is *endemic* in a collection of organisms if that collection is a habitat of the virus.
 
 Sometimes it is helpful to name frequently infected organism which play no role in the virus spread:
-><span id='side-host'>A *Side Host* or *Terminal Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot efficiently replicate or leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host</span> 
+
+> ###### Side Host
+> A *Side Host* or *Terminal Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot efficiently replicate or leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host.
 
 ### Conquering new Habitats
 The virus can get attached to a cell types or hosts the given strain which are not part of its current habitat. Most likely the entity of viruses doesn't manage to adapt to the new target. However if a lineage of viruses manages to adapt to the new target, this becomes a new habitat. 
@@ -584,11 +601,14 @@ With no metabolism running virions can not move on their own and so they can't s
         * the virus entity can *not* efficiently leave to keep up the chain of infections: on average less than one virion (i.e. reproduction factor is < 1)-> break i.e. the infection chain is a cul-de-sac and the organisms are [side hosts or terminal hosts](#side-host) 
         * on average more than one virion of a virus entity can leave and infect another organism (i.e. the reproduction factor is > 1) -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happened. Since the evolutionary drive changes, this can give raise to a new virus strain. 
     
-> <span id='interspecies-infection'> An _interspecies infection_ is when an animal which is not an existing [host](#host) animal becomes infected by a virus strain. </span>
+> ###### Interspecies Infection
+> An _interspecies infection_ is when an animal which is not an existing [host](#host) animal becomes infected by a virus strain. 
 
-> <span id='interspecies-jump'> An *interspecies jump* denotes a transmission to a new species and the species becomes a new [host](#host) i.e. the new species becomes part of the habitat of the virus. The virus strain may evolve to an adapted new strain.</span>
+> ###### Interspecies Jump
+> An *interspecies jump* denotes a transmission to a new species and the species becomes a new [host](#host) i.e. the new species becomes part of the habitat of the virus. The virus strain may evolve to an adapted new strain.
 
-> <span id='zoonosis'> A *zoonosis* is an [interspecies jump](#interspecies-jump) where the new host species is human (homo sapiens).</span>
+> ###### Zoonosis
+> A *zoonosis* is an [interspecies jump](#interspecies-jump) where the new host species is human (homo sapiens).
 
 So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
 
