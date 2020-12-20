@@ -54,7 +54,7 @@ EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhea| local T cell or antibodies |
 [raw form is on todo-list]
 
 
-### Infections caused by Sars-CoV-2
+### Sars-CoV-2 Infection Locations
 [in work]
 Sars-CoV-2 has been observed to cause
 Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the locations.
@@ -62,7 +62,7 @@ Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the
 #### Infection Locations and Immune Responses
 [in work and partly **estimated/guessed**, citations coming/in search]
 
-Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ possible complications | Infection Path |
+Infection Type  | Location | Symptoms | Immune responses | Comments and Risks/ possible complications/internal  spread  | Infection Path |
 ----|----|----|----|----|----
 URI| Nose (nasal cavity / nasopharynx)| sneezing, loss of smell, headache, red eyes (especially if mask open towards the eyes)  |runny nose (mucus), local T cells or antibodies |  LRI, local spread| aerosol
 URI| Mouth (oropharynx) | loss of taste | local T cells|  (LRI), (spread through olfactory route could occur)| droplet, direct contact, (indirect contact)
