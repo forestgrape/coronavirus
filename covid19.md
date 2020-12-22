@@ -52,7 +52,7 @@ There are many different forms and causes of diseases:
 Necessary for a virus disease is a virus infection:
 
 > ##### Virus Infection
-> A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing/hijacking the cells metabolism to produce virus progeny - called virions. More about virus infections is in [Introduction to Viruses](./coronavirus.md#introduction-to-viruses)
+> A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing/hijacking the cells metabolism to produce virus progeny - called virions. More about viruses and their infections in the chapter [Introduction to Viruses](./coronavirus.md#introduction-to-viruses)
 
 If a virus infection causes lack of ease, one has a virus disease. 
 
