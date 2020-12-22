@@ -11,7 +11,7 @@
   * [History of Covid-19 Diagnosis](#history-of-covid-19-diagnosis)
   * [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)
   * [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)
-  * [Rethink Diagnosis](#rethink-diagnosis)
+  * [Diagnosis Locations](#diagnosis-locations)
 * [Viral Load](#viral-load)
   * [Body Fluids](#body-fluids)
   * [Tissues](#tissues)
@@ -109,14 +109,14 @@ Coronavirus infections can be localized (especially in the early phase), therefo
 
 ### History of Covid-19 Diagnosis
 * In late 2019 and early 2020 Covid-19 was often diagnosed based on lung CT findings.
-* From February 2020 to December 2020 the most used method to diagnose Covid-19 is having a detectable viral load of SARS-CoV-2 in nasopharyngeal swabs. The viral load is detected either by PCR-Test or Antigen-Tests
-* 2021? [Rethink Diagnosis](#rethink-diagnosis)
+* From February 2020 to December 2020 the most used method to diagnose Covid-19, is having a detectable amount of SARS-CoV-2 in nasopharyngeal swabs. The viral load is detected either by [PCR-Test](#pcr-test) or [Antigen-Tests](#antigen-test). In the early phase of the Covid-19 pandemics the battle neck were accurate PCR tests and the work needed to take swabs was less an issue. 
+* 2021? Alternate Locations? [Rethink Diagnosis](#diagnosis-locations)
 
 
 ### Methods to Directly Detect Viruses
-At locations infected by viruses or the lining fluids protecting/cleaning these locations the virions can be measured.
+In tissues containing infected cells or in the lining fluids protecting/cleaning these tissues the viral load can be measured.
 * #### Detect Building Blocks of Viruses
-  To detect a virus infection the building blocks of virions can be searched.
+  To detect viruses replicating the building blocks of virions can be searched.
   * ##### PCR Test 
     The genome of virions (positive single stranded RNA for coronaviruses). The amount of virions - called [viral load](#viral-load) - present can be determined and the specificity is very high.
   * ##### Antigen Test
@@ -124,20 +124,24 @@ At locations infected by viruses or the lining fluids protecting/cleaning these 
 * #### Detect Metabolism of Coronaviruses
   Temporary RNA produced from coronaviruses with a running metabolism.
 * #### Detect Infectious Virions
-  **Serology** Material possibly containing virions can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change or detecting RNA to see whether there were infectious virions in the material in question. The material can be diluted so much that virus colonies originating from single virions can be distinguished. Like this the number of infectious virions can be estimated.
+  **Serology** Material possibly containing virions can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change/damage or detecting RNA to see whether there were infectious virions in the material in question. The material can be diluted so much that virus colonies originating from single virions can be distinguished. Like this the number of infectious virions can be estimated.
 
 ### Methods to Indirectly Detect Viruses
 * #### Detect Tissue damage
   * chemical e.g. detecting cell damage by detecting distinctive proteins.
+    (-) not specific
   * optical e.g. round glassy occupancies in the lung are characteristic for Covid [to check and cite]
     (+) specific
+    (+) detects infection of the lung regardless whether there are viruses in the upper respiratory tract
     (-) radiation exposure for patient
     (-) only in diseases involving the lung significantly and thus sensitivity low
+    => recommended for symptomatic risk patients of very high age with negative test in the upper respiratory tract
 * #### Detect Immune Response
   For infections triggering certain alarms the immune response involves antibodies which can be detected in the blood. There are several kind of antibodies which are produced at different stages of an infections, these can be used to roughly back date the infection.
 
-### Rethink Diagnosis
-#### Locations
+
+### Diagnosis Locations
+Since SARS-CoV-2 infects and transmits mainly through the respiratory tract, these locations need to be searched for viruses. For accessibility reasons the upper respiratory is the location most test are done. The current 'gold standard' for Covid-19 diagnosis are nasopharyngeal swabs. 
 Coughed up sputum and salvia since easier to sample than the back of the nose and there are indications for a viral load similar or on average even slightly higher than in NPS samples as described in the section [Viral Load](#viral-load).
 
 
