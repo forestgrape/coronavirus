@@ -47,11 +47,11 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * Moderate measures preserving life quality.
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases 
 > * Monitor and estimate overall cases to plan
-> * Settings that those who want/need can mostly protect, while those not needing/choosing can go on, go on circumspectly.
-> * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, considering or risking with a high probability *not* to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
+> * Settings that those who want/need can protect, while those not needing/choosing can go on, go on circumspectly.
+> * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
 >
 > ### Reconsidering Strategy
-> In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent. In warm areas windows should be open all the time and air-conditioning should not be used.
+> In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent. In warm areas windows should be open all the time and air-conditioning should *never* be used.
 > 
 > Two more points
 > * Trying new paths even at the risk of falling but having a parachute ready and using it early. Better walk with the parachute (and being ready for the next journey) than fall cool without. For Covid-19 the parachutes are outdoor days: being outdoors and avoiding all non essential entries to foreign or public indoor settings.
@@ -92,8 +92,12 @@ Mask reduce spread since they mitigate both the infection and spread risk. Masks
 
 #### Mask Effectiveness
 
-> in rework, **reduction upon exhalation likely is lower** especially if the mask is used long without changing what 
-many do. Most lab experiments are done with fresh mask without using them for several hours. 
+> in rework
+> **reduction upon exhalation likely is lower** especially if the mask is used long without changing what many do:
+> * Most lab experiments are done with fresh masks and not with masks used for several hours. 
+> * The effectiveness is likely better for inhalation than for exhalation:
+   The air is exhaled often at higher speeds than inhaled and the air exhaled is directed => higher air pressure difference upon exhalation on the filter. The filter performance in turn decreases with higher pressure differences.
+> * long worn cloths mask with bad filtration could have a spray effect for the aerosol spread: accumulation of exhaled breadth condensate in the inner layers of the mask and then spray like release upon strong exhales such as shouting. 
 
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
     - Particles greater than 5 micro meter: Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction: resulting in a 25 fold reduction in the number of viral copies 
@@ -104,8 +108,6 @@ many do. Most lab experiments are done with fresh mask without using them for se
     
     Assuming a reduction of exhaled particles by a factor of 2 (50% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 4 = (2 times fewer particles inhaled) * (2 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
-* That effectiveness is better for inhalation than for exhalation:
-   The air is exhaled often at higher speeds than inhaled and the air exhaled is directed => higher air pressure difference upon exhalation on the filter. The filter performance in turn decreases with higher pressure differences. 
 
 #### Mask Types
 Mask can be classified either by
@@ -598,19 +600,19 @@ Notations and Equivalences:
   
 total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment if the estimated values are for several days greater and *no* adequate measures in place
 --------|--------|------|--------|---
-<0.2%   |2 K     | 200  |    ~.5 | if less or not increasing or mainly young infected: loose rules, own responsibility
->0.4%   |4 K     | 400  |    ~1  | if greater or increasing: **monitoring** needed. Prefer outdoor to indoor
->1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
->4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
+< 0.2%   |2 K     | 200  |  ~.5   | if less or not increasing or mainly young infected: loose rules, own responsibility
+> 0.4%   |4 K     | 400  |  ~1    | if greater or increasing: **monitoring** needed. Prefer outdoor to indoor
+> 1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
+> 4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
 > 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed
-> 10%   |100 K   |10'000| ~25+   | prevent even at very high costs, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
+> 10%   |100 K   |10'000| ~25+   | **prevent even at very high costs**, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
 >  15%  |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic situations can occur therefore death rate doubles or more, reached in heaviest hit regions.
 
 
 ## Data 
 
 ### Distributed Handling
-Data production/collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them.
+Data production / collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them.
 
 Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free of costs nowadays), annotated and searchable published.
 
@@ -693,11 +695,15 @@ Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub rep
 
 * ##### noakes
     Gilkeson, CA, Camargo-Valero, MA, Pickin, LE and Noakes, CJ (2013)
-    Measurement of ventilation and airborne infection risk in large naturally ventilated
-    hospital wards. Building and Environment, 65. 35 – 48. https://dx.doi.org/10.1016/j.buildenv.2013.03.006
+    **Measurement of ventilation and airborne infection risk in large naturally ventilated hospital wards.** 
+    Building and Environment, 65. 35 – 48. https://dx.doi.org/10.1016/j.buildenv.2013.03.006
     
 * ##### escombe
-    Escombe, A. R., Oeser, C. C., Gilman, R. H., Navincopa, M., Ticona, E., Pan, W., Martínez, C., Chacaltana, J., Rodríguez, R., Moore, D. A., Friedland, J. S., & Evans, C. A. (2007). Natural ventilation for the prevention of airborne contagion. PLoS medicine, 4(2), e68. https://doi.org/10.1371/journal.pmed.0040068
+    Escombe, A. R., Oeser, C. C., Gilman, R. H., Navincopa, M., Ticona, E., Pan, W., Martínez, C., Chacaltana, J., Rodríguez, R., Moore, D. A., Friedland, J. S., & Evans, C. A. (2007). 
+    **Natural ventilation for the prevention of airborne contagion.** 
+    PLoS medicine, 4(2), e68. https://doi.org/10.1371/journal.pmed.0040068
     
 * ##### salathe
-    Smieszek, T., Lazzari, G., & Salathé, M. (2019). Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System. Scientific reports, 9(1), 2185. https://doi.org/10.1038/s41598-019-38825-
+    Smieszek, T., Lazzari, G., & Salathé, M. (2019). 
+    **Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System.** 
+    Scientific reports, 9(1), 2185. https://doi.org/10.1038/s41598-019-38825-
