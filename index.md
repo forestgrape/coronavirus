@@ -24,6 +24,8 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
+- 22.12. [Covid-19](./covid19.md) redone. New sections about diagnosis and the locations where viral load observed in online work - these sections show that salvia is appropriate to diagnose Covid-19. 
+- 22.12. split up the page monitor_and_control.md into two pages monitoring.md and control_measures.md
 - 30.11. Thoughts about [Corona Conform Skiing](./monitor_and_control.md#corona-conform-skiing) on the page [Monitor and Control](./monitor_and_control.md) 
     > Motivated by current discussions and recent personal experience. 
 - 24.11. New Page on [Economics](./economics.md): The proposal is to provide universal capital services (e.g. credits) instead of providing targeted support in different situations/crisis (e.g. the current Covid situation). Goals are:
