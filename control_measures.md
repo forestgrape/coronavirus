@@ -24,14 +24,6 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Balancing of Measures](#balancing-of-measures)
   * [Outside is Safer](#outside-is-safer)
   * [Hospital Overwhelming](#hospital-overwhelming)
-* [Monitor](#monitor)
-  * [Monitor Evolution](#monitor-evolution)
-  * [Monitor Prevalence](#monitor-prevalence)
-  * [Testing Schemes](#testing-schemes)
-* [On Numbers](#on-numbers)
-  * [Numbers and Comments](#numbers-and-comments)
-* [Data](#data)
-  * [Distributed Handling](#distributed-handling)
 * [References](#references)
   * [Exhaled Particles](#exhaled-particles)
   * [Laboratory Biosafety](#laboratory-biosafety)
@@ -443,12 +435,12 @@ Outside the viruses get diluted and then are cleared/inactivated faster than ins
 #### Dilution
 Outside there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
-* In the most densely populated cities the population density reaches 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
-* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:<br> 
+* Even in the most densely populated cities the population density reaches at most 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, this yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
+* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:
 (1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person.
 
 #### Virion Decay
-Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the virion decay are:
+Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the fast virion decay are:
 * the genome is [stored in unstable ssRNA](./coronavirus.md#ssrna)
 * the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membranes have not evolved to be stable outside the organism.
 * virions have no repair mechanism since they don't have a metabolism
@@ -460,7 +452,7 @@ Process and situations virions decay occurs:
     particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan et al 2011](#chan).
 - ##### disintegration
     * digestive enzymes from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary disintegrate the envelope
-    * soap destroys the lipid envelope and renders virions uninfectable
+    * soap destroys the lipid envelope and so the virions
 - ##### decay by time passing
     * single stranded RNA is unstable and thus even under optimal conditions virions have a probability to decay
     
@@ -483,169 +475,6 @@ Reasons to avoid hospital overwhelming (with good planning some of the reasons c
 * Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure not overwhelmed hospitals are necessary too. 
 * The overall process can get less efficient. E.g. patients need out of hospital treatment, which has additional challenges.
 * Can greatly increase the risk for additional spread since protection measures may not be in place. E.g. the provisional building may not have an appropriate ventilation and temporary personal can be more likely to forget about proper protection measures.
-
-
-## Monitor 
-
-### Monitor Evolution
-[in work]
-From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
-
-### Monitor Prevalence
-To adjust the measures and to communicate these it is important to estimate and monitor different incidence rates.
-
-#### Different Counts
-There are several counts to distinguish [not very clear on this page yet, in work]:
-* Number of people getting currently infected. This number predicts how many people may need hospital treatment starting in roughly 1 to 3 weeks and being there in 1 to 4 weeks so they may need a place in the next 1 to 7 weeks. This number can only be **estimated**. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing)
-* Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get **tested** through sampling or contact tracing. They may or may not develop symptoms, about 80% develop symptoms. 
-* Number of people with **symptoms**. Likely these are most often detected in case counts. Symptoms usually come 1 - 10 days after the infection occurred.
-* Number of people admitted to **hospitals**. This number can be lowered in absolute emergencies with triage. 
-* End of disease. Often about 10 days after initial symptoms for mild disease. The disease lasts usually much longer in severe cases and is fatal in about 1 of 400 cases which yields the **death count**.
-
-#### Motivation
-* Since what control tactics is optimal and/or needed depends largely on incidence rates. If the incidence rate is out of some bounds the strategy may fail to work or be unnecessary strict: 
-  * Controlling methods relying on a working contact tracing need low incidence rates and detecting most cases with monitoring. To rely on contact tracing detection rate should be at least 75%. Still useful if lower but one shouldn't rely on it.   
-  * Many controlling methods rely on methods reducing the infection probability but not preventing it (e.g. distancing, low-filter face masks), that only works if there are not to many infected 
-  * Shutting down businesses (badly ventilated offices and fabrics are the fare bigger risk than schools or outdoor gastronomy) may not be adequate at an incidence rate of 0.1% of currently infected, adequate to close targeted at 1% and as much as possible all indoor settings at 10%. 
-* Planning of in hospitals: Knowing the current incidence rates gives an estimate for the capacity needed in a few weeks
-* Communication: Knowing the cases helps on decision for everybody such if to avoid crowded spaces or staying home when having respiratory symptoms 
-
-#### Detect Estimates Out of Bounds
-The equation 
-`current_death_count = estimated_past_case_count * fatality_rate` 
-can be used to detect if the estimation methods worked in the past. How fare in the past depends how long on average the patients survive and whether takes the date of infection or the date of going for a test ([Different Counts](#different-counts)). Assuming a fatality rate of 0.25% yields one in 400 dies from Covid-19. So the 
-`estimated_past_case_count = 400 * current_death_count` 
-The case can be different yielding a correction factor:
-`correction_factor = estimated_past_case_count/past_case_count_from_death_count`
-If the estimation method didn't change the current actual infected can be estimated with the correction_factor: 
-`new_estimated_case_count = correction_factor * estimated_case_count`.
-
-
-#### On Estimates Out of Bounds
-A correction factor greater than 2 needs redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](#strategy) and [On Numbers](#on-numbers)). How much worrying depends if, how effective and when measures have been adapted. 
-Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/controls/reduction can be necessary.
-
-* Pausing infections especially everything super-spreading opportunities i.e. indoor rooms. 
-  * closure of non essential businesses
-  * for somewhat essential businesses e.g. longer distance public transport: names can be recorded and people need to hand in some argumentation in the next weeks why it was essential to enter. This causes few immediate work/tumults but likely discourages most from unnecessarily entering. 
-  * whitelist approach if doable e.g. negative test/no fever required
-  * pause of non essential visits to hospitals and so on
-* sample and estimate the numbers
-  * should be doable within a few days
-  * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (Uniform -random- sampling) 
-* choosing tactics suiting the strategy given the situation
- 
-
-#### What to Monitor
-1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
-    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine))
-2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
-3. Other respiratory diseases: influenza and common colds should be monitored too:
-  * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
-  * long term adverse effects of common colds are likely underestimated. This is a good opportunity to diminish there prevalence and reduce the number of strains circulating. 
-
-#### How to Monitor
-* **Frequency:** Ideally these are taken near daily, else at least weekly. 
-* **Communicate:** Often (as of 16.10.20) only the positive tests and the positive test rate are communicated. However more complete data would allow more accurate interpretations: 
-  * many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), 
-  * how many of the tested are healthy and just need some clean sheet to travel, 
-  * how many who are tested have symptoms, 
-  * how many are tested because of company monitoring.
-* **Methods:**
-  see also [testing schemes](#testing-schemes)
-  * **very low to low incidence:** case counts 
-  * **low to mid incidence:** case counts people turn up for testing can be used. The contact tracing yields then additional cases which can be used to scale counts from those who asked for tests. 
-  * **mid to high incidence:** sampling
-
-### Testing Schemes
-Testing some for low and high incidence. Reasons are noted or already mentioned in the section [What to Monitor](#what-to-monitor).
-#### Testing Priorities at High Incidence 
-1. Testing of risk patients. Reason: Appropriate treatment.  
-2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
-3. How many people with respiratory disease symptoms have Covid-19. 
-4. Tests to do contact tracing. Reason: Break infection chains
-5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. 
-6. Monitoring respiratory diseases: influenza and common colds. 
-7. Tests for travel permissions, quarantine cancel and so on.
-    
-#### Testing Priorities at Low Incidence 
-1. Testing of risk patients. Reason: An appropriate treatment from early on.
-2. Health care workers and other groups with contact to risk groups
-3. Tests to do contact tracing and quarantine cancel
-4. Tests to estimate the overall incidence (travel test below can give an indication). Reason: When the incidence is high, a different tactics for controlling can be appropriate.
-5. Tests for travel permissions and so on. 
-
-
-## On Numbers
-[in work]
-Assumptions: 
-* fatality rate of .25% i.e. 1 in 400 (The [death rate](./covid19.md#fatality-rate) depends on many factors and varies considerably); 
-* average disease duration 10 days; 
- 
-Notations and Equivalences:
-* all counts are day counts unless noted otherwise
-* case count per million inhabitants per day = 400 * death count per million inhabitants per day (assuming 1 death in 400)
-* total current infected per million = 10 * case count per million per day (assuming 10 day infection duration)
-* K = 1000 e.g. 10 K = 10'000
-
-### Numbers and Comments
-[in work and to be checked]
-* The **numbers can vary greatly** across regions and hospitals capacities, population structure and how the infection are distributed across the population. 
-* The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). 
-* The case counts are the **actual** infected and not only the positive tested. 
-* The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
-[in work]
-* the numbers should be **lower during cold seasons**, since aerosol transmission is very hard to control. Some immune protection can be built up in warm seasons but not in cold season. 
-* The current numbers need to be estimated. The death count detects infections happened about 20 days in the past. The counts from contact tracing or testing symptomatic are a few days in the past. 
-  
-total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment if the estimated values are for several days greater and *no* adequate measures in place
---------|--------|------|--------|---
-< 0.2%   |2 K     | 200  |  ~.5   | if less or not increasing or mainly young infected: loose rules, own responsibility
-> 0.4%   |4 K     | 400  |  ~1    | if greater or increasing: **monitoring** needed. Prefer outdoor to indoor
-> 1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
-> 4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
-> 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed
-> 10%   |100 K   |10'000| ~25+   | **prevent even at very high costs**, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
->  15%  |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic situations can occur therefore death rate doubles or more, reached in heaviest hit regions.
-
-
-## Data 
-
-### Distributed Handling
-Data production / collection, data description and data analysis can be done separate today. Remark: Separation of roles has a long tradition in science: Tycho Brahe collected the planetary motions, Kepler described them and Newton explained them.
-
-Today separation of roles can be done faster, easier and in cooperation, thanks to modern communication technologies. The basis is, that data is observed/produced, recorded (often free of costs nowadays), annotated and searchable published.
-
-In computer science it is well known that distributed and parallel data handling works best. This even on computers with only a couple of cores.
-* Map reduce and similar
-* Programming paradigms enabling parallel execution data handling
-
-We humans have billions of brains, so with good communication we've got a lot of brain power to tackle any task.
-
-<!--
-* there are many skilled data scientists around the world. Many spending their time presenting us the most relevant ads. Relevant usually means highest click rate i.e. most distracting. Whether the distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
-
-#### Data Specifications
-For data analysis it is important to have accurate, consistent and clearly specified data and notifications about possible inaccuracies or changed specifications. Notified corrections are helpful too.
-
-The different measurement methods regarding Covid-19 with no or few specifications have a lot of space for improvement all around the world. A uniform agreement on annotations would make the data better comparable.
-
-<!--todo:update -->
-E.g. In Switzerland as of 17.4.20, the testing policy is to test only people who are sick _and_ belong to a risk group. The policy is mostly followed, however is hard to find on the official page from the BAG (Swiss Health Department, bag.admin.ch in the German Covid-19 FAQ) and even left out on the English version (as of 17.4.20). The official statistics on the same domain, has no note about this testing scheme. The data are analyzable (since largely consistent) and expressive but just not comparable to countries, where everybody who is sick or even everybody who could be infected is tested.
-Remark: As of 1.5.20 more people are allowed to test.
-
-> Subjective Remark, May 2020: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more fine-grained measures can be. A gradual reopening starting in April makes sense.
-Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearly stated.<br>
-> To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view in all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lock-downs step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important.
-Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
-
-#### Data Features
-* For analysis is useful to have as complete, accurate and fine-grained data as possible and data protection laws permit (e.g. age, medical conditions and locations).
-* Clinical observations annotated and published with as much data as possible
-* Interpretations and analyses are nice but data analysis can be done dis
-
-#### Easy Readable
-Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub repository or REST API) and are annotated e.g. contain a readme with the specifications what and how is measured. 
 
 
 ---
