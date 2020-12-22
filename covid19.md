@@ -12,7 +12,9 @@
   * [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)
   * [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)
   * [Diagnosis Locations](#diagnosis-locations)
+  * [Review of Common Practice for Diagnosis](#review-of-common-practice-for-diagnosis)
 * [Viral Load](#viral-load)
+  * [Challenges to Diagnose Covid and interpret Viral Load](#challenges-to-diagnose-covid-and-interpret-viral-load)
   * [Body Fluids](#body-fluids)
   * [Tissues](#tissues)
 * [Fatality Rate](#fatality-rate)
@@ -32,20 +34,20 @@ Many of the symptoms are not specific to Covid-19, they can have other causes th
 
 ## Virus Disease
 
-> ##### Covid-19
-> *Covid-19* stands for COronaVIrus Disease 2019.
-
 > ##### Disease
 > A *disease* is a biological disorder of structure or function in an organism causing inconvenience and/or unwanted effects. Literally disease means without-ease (dis=without, separated from). A disease is often dynamic and an immune response is induced/involved.
 
 Chemical/biochemical damage such as dehydration or a poisoning or physical damage such as a fracture or an injury are not diseases themselves but they chemical/physical damage can result from a disease.
 
 There are many different forms and causes of diseases:
-* other [life forms](./coronavirus.md#life-form) such as 
-  * bacteria
-  * fungi
-  * viruses
-* autoimmune disease where the immune response is targets own substances
+* other [life forms](./coronavirus.md#life-form) interfering with the metabolism
+  * interfere outside of cells but inside multicellular organisms:
+    * most bacteria
+    * fungi
+  * interfere inside cells
+    * some bacteria
+    * all viruses
+* autoimmune disease where the immune response is targets own substances ([Immune System page](./immune_system.md))
 
 Necessary for a virus disease is a virus infection:
 
@@ -57,7 +59,12 @@ If a virus infection causes lack of ease, one has a virus disease.
 > ##### Virus Disease
 > A *virus disease* is a [virus infection of an organism](./coronavirus.md#virus-infection) causing adverse effects. Such effects can be either directly through tissue damage caused by viruses but usually to keep the body virus free and prevent tissue damage a strong immune response is induced causing symptoms on its own e.g. fever. These definition is not strict, since adverse effects or tissue damage can be small and the virus infection is not considered as a diseases. 
 
-So virus infections causing no inconvenience/lack of ease are often not considered as a diseases. The definition isn't uniform however, for viruses which can be highly pathogenic usually one speaks of a disease if there is an infection diagnosed regardless whether there are symptoms. Covid-19 is often used synonymously with having SARS-CoV-2 viruses detected in the upper respiratory tract [more in the section diagnosis](#diagnosis). 
+So virus infections causing no inconvenience/lack of ease are often not considered as a diseases. The definition isn't uniform for all viruses however, for viruses which can be highly pathogenic usually one speaks of a disease if there is an infection diagnosed regardless whether there are symptoms.
+
+> ##### Covid-19
+> *Covid-19* stands for COronaVIrus Disease 2019.
+
+Covid-19 is often used synonymously with having SARS-CoV-2 viruses detected by NPS sampling. [more in the section diagnosis](#diagnosis). However not all people infected with SARS-CoV-2 have viruses in the nose, it is even possible to pass away from Covid but having no detectable viral load in the nose. People with a sensible immune system may detect symptoms before there is a detectable viral load in the upper respiratory tract on the other hand people can also have detectable viral load in the upper respiratory tract and having no symptoms, the latter patients are referred as asymptomatic. 
 
 ## Disease Factors
 A virus disease is an interplay of host factors including the host immune system, the behavior of the virus and environmental factors.
@@ -86,7 +93,6 @@ Several section of this page shed light on different aspects of the infection lo
 
 
 
-
 ## Immune Response and Symptoms
 [in work]
 
@@ -110,8 +116,8 @@ Coronavirus infections can be localized (especially in the early phase), therefo
 ### History of Covid-19 Diagnosis
 * In late 2019 and early 2020 Covid-19 was often diagnosed based on lung CT findings.
 * From February 2020 to December 2020 the most used method to diagnose Covid-19, is having a detectable amount of SARS-CoV-2 in nasopharyngeal swabs. The viral load is detected either by [PCR-Test](#pcr-test) or [Antigen-Tests](#antigen-test). In the early phase of the Covid-19 pandemics the battle neck were accurate PCR tests and the work needed to take swabs was less an issue. 
-* 2021? Alternate Locations? [Rethink Diagnosis](#diagnosis-locations)
-
+* Late 2020 antigen tests are getting more common.
+* 2021? Alternate Locations? [Review of Diagnosis](#review-of-diagnosis)
 
 ### Methods to Directly Detect Viruses
 In tissues containing infected cells or in the lining fluids protecting/cleaning these tissues the viral load can be measured.
@@ -131,38 +137,71 @@ In tissues containing infected cells or in the lining fluids protecting/cleaning
   * chemical e.g. detecting cell damage by detecting distinctive proteins.
     (-) not specific
   * optical e.g. round glassy occupancies in the lung are characteristic for Covid [to check and cite]
-    (+) specific
-    (+) detects infection of the lung regardless whether there are viruses in the upper respiratory tract
-    (-) radiation exposure for patient
-    (-) only in diseases involving the lung significantly and thus sensitivity low
-    => recommended for symptomatic risk patients of very high age with negative test in the upper respiratory tract
 * #### Detect Immune Response
   For infections triggering certain alarms the immune response involves antibodies which can be detected in the blood. There are several kind of antibodies which are produced at different stages of an infections, these can be used to roughly back date the infection.
 
 
 ### Diagnosis Locations
-Since SARS-CoV-2 infects and transmits mainly through the respiratory tract, these locations need to be searched for viruses. For accessibility reasons the upper respiratory is the location most test are done. The current 'gold standard' for Covid-19 diagnosis are nasopharyngeal swabs. 
-Coughed up sputum and salvia since easier to sample than the back of the nose and there are indications for a viral load similar or on average even slightly higher than in NPS samples as described in the section [Viral Load](#viral-load).
+The fluids in the respiratory tract are a good locations to detect SARS-CoV-2 virions:
+* Since SARS-CoV-2 infects and transmits mainly through the respiratory tract, the respiratory tracts is the place to search
+* The virions mostly are released on the apical side and so there are virions in the fluids covering infected tissues. 
+* For accessibility reasons fluids in the upper respiratory is the location most test are done. However serious infections are located in the lower respiratory tract where the largest numbers of infectable cells are.   
+  
+For a location to be suitable for diagnosis active viral replication ([Infected Locations](#infection-locations)) or at least a viral load ([Viral Load](#viral-load)) through deposition is needed.
 
+
+### Review of Common Practice for Diagnosis
+Locations frequently used for sampling fluids to analyze for viral load (section on [Viral Load](#viral-load)). Back since the 
+* #### Nasopharyngeal Swabs with PCR
+  The current 'gold standard' for Covid-19 diagnosis are nasopharyngeal swabs. 
+* #### Nasopharyngeal Swabs with Antigen Tests
+  [in work]
+* #### Salvia with PCR
+  Salvia since easier to sample than the back of the nose. The detection rate of SARS-CoV-2 in salvia mixed with cough up sputum seems to perform as well or even better as NPS (section [Viral Load](#viral-load) and [summary Lee](#summary-lee).
+* #### Salvia with Antigen Tests
+* #### Lung CT
+  round glassy occupancies in the lung are characteristic for Covid [to check and cite]
+    (+) specific
+    (+) detects infection of the lung regardless whether there are viruses in the upper respiratory tract
+    (-) radiation exposure for patient
+    (-) only in diseases involving the lung significantly and thus sensitivity low
+    => recommended for symptomatic risk patients of very high age with negative test in the upper respiratory tract
 
 ## Viral Load
+[**in work and unfinished**]
 
 > ##### Viral Load
 > The *viral load* denotes how many virions are present in specimen of tissue or body fluid.
 
+A viral load is mostly observed in locations with active viral replication. Sometimes a viral load can be detected upon deposition of virions from other infected locations. While the latter is necessary for the initial infection event of a location, the viral load through deposition is mostly to low to be detected. However what is often the case is local amplification: This is likely often the case in the nose, while the lung is primarily infected and both responsible for the spread and the symptoms, there are some susceptible cells in the nose amplifying deposited virions and thus a detectable viral load is there.
+
+Knowing the viral load observed in different fluids and tissues is relevant for:
+* __Diagnosis__: For diagnosis easy sampling should be possible and the viral load is optimally high for the different disease patterns caused by SARS-CoV-2. 
+* __Transmission__: Knowing the viral load in different locations can help to understand and prevent the transmission of SARS-CoV-2.
+* __Understanding Covid-19__: Knowing at which stages which locations are infected by the coronaviruses can help to predict the disease progression and optimal treatment. 
+
 The viral load can be determined in the tissues, single cells or the body fluids which cover to protect and clean many of epithelial cell layers of the human body.
 
-
+### Challenges to Diagnose Covid and interpret Viral Load 
+Often investigations for viral load are biased. Reasons are:
+* Sampling bias towards symptomatic patients. Not necessarily bad since symptomatic patients are likely more infectious and more at risk for severe disease.
+* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in salvia is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%.
 ### Body Fluids
-#### Salvia
+Coronaviruses virions are mostly released on the apical surfaces and so there are virions in the fluids covering infected cells.
 
-#### Posterior Nose Mucus
+#### Upper Respiratory Tract
+[in work] A recommended review is by [Lee et al](#summary-review-lee).
+##### Salvia
+Recommended articles are the reviews by [Lee et al](#summary-review-lee), [da Silva](#summary-dasilva-review) and the investigation by [Iwasaki](#summary-iwasaki)
+##### Posterior Nose Mucus
+Is obtained by nasopharyngeal swabs and the most used location for detecting Covid-19 (as of December 2020). 
+##### Anterior Nose Mucus
+Reviewed in [Lee et al](#summary-review-lee)
+##### Sputum
 
-#### Anterior Nose Mucus
-
-#### Sputum
-
-#### Broncho-alveolar-lavage (BAL)
+#### Lower Respiratory Tract
+Serious infections are located in the lower respiratory tract where the largest numbers of infectable cells are. However the viral load in these locations are less known especially for mild cases due to inconvenient sampling. 
+##### Broncho-alveolar-lavage (BAL)
 
 #### Blood
 
@@ -192,16 +231,22 @@ As usually for summarized references on this github-page:
 
 ### Viral Load in the Upper Respiratory Tract
 
-#### Azzi
+#### Summary Review Lee
+**Performance of Saliva, Oropharyngeal Swabs, and Nasal Swabs for SARS-CoV-2 Molecular Detection: A Systematic Review and Meta- analysis**
+A review and meta analysis. Helpful plots showing uniformly the detection rates of SARS-CoV-2 in NPS/salvia/NS for the reviewed studies and aggregated detection rates for different features (e.g. symptomatic) and different collection methods (NPS/Salvia/NS). 
 ##### Methods
-Saliva samples of 25 patients with severe COVID-19 are analyzed by rRT-PCR.
-##### Results
-* "SARS-CoV-2 was detected in all 25 patients first salivary swab, with different Ct values (range 18.12–32.23, mean value 27.16 +/− 3.07), but all of them were under the Ct value of 33."
-* "Interestingly, there was an inverse correlation between the LDH values recorded in the haematochemical analyses and the Ct values, thus the viral load detected in the saliva was correlated to the tissue damage reported by biomarkers (p = 0.04) (Table 2) (Fig. 1a and b)."
-* "In contrast, there was not a significant correlation between usRCT and the Ct values (p = 0.07), but an inverse tendency between this inflammatory index and the viral load detected in saliva (Fig. 1c and d) was observed."
-* "A striking feature was highlighted in two patients who showed positive salivary results on the same days when their pharyngeal or bronchoalveolar swabs proved to be negative."
+"We systematically searched PubMed, Google Scholar, medRxiv, and bioRxiv (last retrieval October 1st, 2020) for comparative studies of alternative specimen types [saliva, oropharyngeal (OP), and nasal (NS) swabs] versus NP swabs for SARS-CoV-2 diagnosis using nucleic acid amplification testing (NAAT)." => "From 1,253 unique citations, we identified 25 saliva, 11 NS, 6 OP, and 4 OP/NS studies meeting 15 inclusion criteria."
+##### Findings
+The results from the different studies/data aggregated by feature are summarized to a figure which shows % positive alternate specimens, % positive NP specimens and (if available) % specimens where both NP and alternate are positive. 
+Selected aggregated results shown in Figure 2:
+* Overall salvia they conclude a detection rate of 88% for salvia and 94% for NPS //both detection rates are likely much lower see Limitations 
+* Cough or deep  throat salvia have a detection rate of 94% while NPS have 89%.
+* Asymptomatic patients have a detection rate of 87% in salvia and 73% in NPS
+* Symptomatic Patients have a detection rate of 88% in salvia and 96% in NPS
+##### Limitations
+To my checking in a few cases NPS are taken as a reference method and assigned a sensitivity of 100% [to confirm and check]. 
 
-#### daSilva
+#### Summary Review daSilva 
 **Saliva as a possible tool for the SARS-CoV-2 detection: A review**
 
 Helpful summaries of 39 studies analyzing the viral load in salvia. 
@@ -213,14 +258,24 @@ Search for (“saliva”) and (“SARS-CoV-2” or “coronavirus” or “COVID
 * For most studies: When NPS samples were positive salvia samples were positive in over 70% of the cases. 
 * For most studies: When salvia samples were positive NPS samples were positive Salivary samples for SARS-CoV-2 detection was as consistent and sensitive as the nasopharyngeal swabs in most studies, having been effective in detecting asymptomatic infections previously tested negative in nasopharyngeal samples."
 
-#### Iwasaki
+#### Summary Azzi
+##### Methods
+Saliva samples of 25 patients with severe COVID-19 are analyzed by rRT-PCR.
+##### Results
+* "SARS-CoV-2 was detected in all 25 patients first salivary swab, with different Ct values (range 18.12–32.23, mean value 27.16 +/− 3.07), but all of them were under the Ct value of 33."
+* "Interestingly, there was an inverse correlation between the LDH values recorded in the haematochemical analyses and the Ct values, thus the viral load detected in the saliva was correlated to the tissue damage reported by biomarkers (p = 0.04) (Table 2) (Fig. 1a and b)."
+* "In contrast, there was not a significant correlation between usRCT and the Ct values (p = 0.07), but an inverse tendency between this inflammatory index and the viral load detected in saliva (Fig. 1c and d) was observed."
+* "A striking feature was highlighted in two patients who showed positive salivary results on the same days when their pharyngeal or bronchoalveolar swabs proved to be negative."
+
+
+#### Summary Iwasaki
 ##### Methods
 Analyzed the viral nasopharyngeal and saliva samples in 76 patients.
 ##### Results
 * 8 patients were positive for both salvia and nasopharyngeal probes. 1 patient for salvia only and 1 for nasopharyngeal only. 
 * A weak tendency for salvia samples to have a higher viral load early and nasopharyngeal swabs in the later phase of Covid-19 was observed. 
 
-#### Güclü
+#### Summary Güclü
 **Comparison of saliva and oro-nasopharyngeal swab sample in the molecular diagnosis of COVID-19**
 ##### Methods 
 Three groups of patients are analyzed:
@@ -232,15 +287,8 @@ Three groups of patients are analyzed:
 * Group 2: Two salvia samples were positive for SARS-CoV-2. No positive ONS samples by group construction.
 * Group 3: SARS-CoV-2 was detected in the saliva of two patients, and only in ONS of one patient. 
 
-#### Lee
-**Performance of Saliva, Oropharyngeal Swabs, and Nasal Swabs for SARS-CoV-2 Molecular Detection: A Systematic Review and Meta- analysis**
-A review and meta analysis. Helpful plots showing uniformly the detection rates of SARS-CoV-2 in NPS/salvia/NS for the reviewed studies and aggregated detection rates for different features (e.g. symptomatic) and different collection methods (NPS/Salvia/NS): The results from the different studies/data aggregated by feature are summarized to a figure which shows % positive alternate specimens, % positive NP specimens and (if available) % specimens where both NP and alternate are positive. 
-##### Methods
-"We systematically searched PubMed, Google Scholar, medRxiv, and bioRxiv (last retrieval October 1st, 2020) for comparative studies of alternative specimen types [saliva, oropharyngeal (OP), and nasal (NS) swabs] versus NP swabs for SARS-CoV-2 diagnosis using nucleic acid amplification testing (NAAT)." => "From 1,253 unique citations, we identified 25 saliva, 11 NS, 6 OP, and 4 OP/NS studies meeting 15 inclusion criteria."
-##### Results 
- 
 
-#### Procop
+#### Summary Procop
 Procop GW, Shrestha NK, Vogel S, Van Sickle K, Harrington S, Rhoads DD, Rubin BP, Terpeluk P. 2020. 
 **A direct comparison of enhanced saliva to nasopharyngeal swab for the detection of SARS-CoV-2 in symptomatic patients.** 
 J Clin Microbiol 58:e01946-20. https:// doi.org/10.1128/JCM.01946-20.
@@ -260,7 +308,7 @@ Total           | 38        | 178           | 216
 * "There was little correlation between the CT values (i.e., viral loads) of the positive saliva and NPS specimens (Pearson correlation coefficient, r = 0.162; P = 0.333) (Fig. 1C)."
 
 
-#### Williams
+#### Summary Williams
 **Saliva as a non-invasive specimen for detection of SARS-CoV-2**
 ##### Methods
 * Between 25th March and 1st April 2020 in Melbourne, 622 patients provided NPS samples, 522 of those 622 patients provided saliva and NPS samples for Covid-19 tests. 
@@ -273,7 +321,7 @@ Data not uniform/consistent:
 * Of the 622 patients with NPS samples only 522 provided salvia samples (but not written if the positive 39 belonged to the 522).
 * Only 50 salvia samples of all those negative with negative NPS were analyzed.  
 
-#### Vaz
+#### Summary Vaz
 **Saliva is a reliable, non-invasive specimen for SARS-CoV-2 detection**
 ##### Methods
 155 Participants with signs/symptoms suggesting SARS-CoV-2 infection underwent a nasopharyngeal swab (NPS) and/or oropharyngeal swab (OPS) and saliva collection in Salvador, Brazil. 
