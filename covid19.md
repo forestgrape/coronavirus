@@ -1,7 +1,7 @@
 # Covid-19
 
 * [Public Description](#public-description)
-* [Virus Disease](#virus-disease)
+* [Introduction](#introduction)
 * [Disease Factors](#disease-factors)
 * [Infection Locations](#infection-locations)
 * [Immune Response and Symptoms](#immune-response-and-symptoms)
@@ -14,7 +14,7 @@
   * [Diagnosis Locations](#diagnosis-locations)
   * [Review of Common Practice for Diagnosis](#review-of-common-practice-for-diagnosis)
 * [Viral Load](#viral-load)
-  * [Challenges to Diagnose Covid and interpret Viral Load](#challenges-to-diagnose-covid-and-interpret-viral-load)
+  * [Challenges regarding Viral Load and Diagnosis](#challenges-regarding-viral-load-and-diagnosis)
   * [Body Fluids](#body-fluids)
   * [Tissues](#tissues)
 * [Fatality Rate](#fatality-rate)
@@ -32,7 +32,7 @@ Many of the symptoms are not specific to Covid-19, they can have other causes th
 
 
 
-## Virus Disease
+## Introduction
 
 > ##### Disease
 > A *disease* is a biological disorder of structure or function in an organism causing inconvenience and/or unwanted effects. Literally disease means without-ease (dis=without, separated from). A disease is often dynamic and an immune response is induced/involved.
@@ -40,16 +40,16 @@ Many of the symptoms are not specific to Covid-19, they can have other causes th
 Chemical/biochemical damage such as dehydration or a poisoning or physical damage such as a fracture or an injury are not diseases themselves but they chemical/physical damage can result from a disease.
 
 There are many different forms and causes of diseases:
-* other [life forms](./coronavirus.md#life-form) interfering with the metabolism
-  * interfere outside of cells but inside multicellular organisms:
+* other [life forms](./coronavirus.md#life-form) interfering with the metabolism, such an interference is called [infection as defined below](#virus-infection). 
+  * outside of cells but inside multicellular organisms
     * most bacteria
     * fungi
-  * interfere inside cells
+  * inside cells
     * some bacteria
     * all viruses
 * autoimmune disease where the immune response is targets own substances ([Immune System page](./immune_system.md))
 
-Necessary for a virus disease is a virus infection:
+Virus diseases are cause by virus infections:
 
 > ##### Virus Infection
 > A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing/hijacking the cells metabolism to produce virus progeny - called virions. More about viruses and their infections in the chapter [Introduction to Viruses](./coronavirus.md#introduction-to-viruses)
@@ -157,7 +157,7 @@ Locations frequently used for sampling fluids to analyze for viral load (section
 * #### Nasopharyngeal Swabs with Antigen Tests
   [in work]
 * #### Salvia with PCR
-  Salvia since easier to sample than the back of the nose. The detection rate of SARS-CoV-2 in salvia mixed with cough up sputum seems to perform as well or even better as NPS (section [Viral Load](#viral-load) and [summary Lee](#summary-lee).
+  Salvia since easier to sample than the back of the nose. The detection rate of SARS-CoV-2 in salvia mixed with cough up sputum seems to perform as well or even better as NPS (section [Viral Load](#viral-load) and [summary Lee](#summarized-review-lee).
 * #### Salvia with Antigen Tests
 * #### Lung CT
   round glassy occupancies in the lung are characteristic for Covid [to check and cite]
@@ -182,17 +182,17 @@ Knowing the viral load observed in different fluids and tissues is relevant for:
 
 The viral load can be determined in the tissues, single cells or the body fluids which cover to protect and clean many of epithelial cell layers of the human body.
 
-### Challenges to Diagnose Covid and interpret Viral Load 
+### Challenges regarding Viral Load and Diagnosis
 Often investigations for viral load are biased. Reasons are:
-* Sampling bias towards symptomatic patients. Not necessarily bad since symptomatic patients are likely more infectious and more at risk for severe disease.
+* Sampling is biased towards symptomatic patients. Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and more at risk for severe disease.
 * Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in salvia is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%.
+
 ### Body Fluids
 Coronaviruses virions are mostly released on the apical surfaces and so there are virions in the fluids covering infected cells.
-
 #### Upper Respiratory Tract
 [in work] A recommended review is by [Lee et al](#summary-review-lee).
 ##### Salvia
-Recommended articles are the reviews by [Lee et al](#summary-review-lee), [da Silva](#summary-dasilva-review) and the investigation by [Iwasaki](#summary-iwasaki)
+Reviewed in [Lee et al](#summarized-review-lee) and [da Silva](#summarized-review-dasilva). A good recommended read is [Yokota](#summary-yokota)
 ##### Posterior Nose Mucus
 Is obtained by nasopharyngeal swabs and the most used location for detecting Covid-19 (as of December 2020). 
 ##### Anterior Nose Mucus
@@ -225,13 +225,13 @@ The death rate depends on how a Covid-19 infection is defined and diagnosed: E.g
 
 
 ## Summarized References
-As usually for summarized references on this github-page:
+As usually for summarized references:
 * in "..." are word-for-word extracts. 
 * "Figure 1" and similar refer to figures in the corresponding paper. 
 
 ### Viral Load in the Upper Respiratory Tract
 
-#### Summary Review Lee
+#### Summarized Review Lee
 **Performance of Saliva, Oropharyngeal Swabs, and Nasal Swabs for SARS-CoV-2 Molecular Detection: A Systematic Review and Meta- analysis**
 A review and meta analysis. Helpful plots showing uniformly the detection rates of SARS-CoV-2 in NPS/salvia/NS for the reviewed studies and aggregated detection rates for different features (e.g. symptomatic) and different collection methods (NPS/Salvia/NS). 
 ##### Methods
@@ -244,9 +244,9 @@ Selected aggregated results shown in Figure 2:
 * Asymptomatic patients have a detection rate of 87% in salvia and 73% in NPS
 * Symptomatic Patients have a detection rate of 88% in salvia and 96% in NPS
 ##### Limitations
-To my checking in a few cases NPS are taken as a reference method and assigned a sensitivity of 100% [to confirm and check]. 
+To my checking for some studies NPS are taken as a reference method and assigned a sensitivity of 100% [to confirm and check]. Therefore the detection rates should be interpreted as relative numbers comparing NPS and alternate specimens and not as absolute detection rates. 
 
-#### Summary Review daSilva 
+#### Summarized Review daSilva 
 **Saliva as a possible tool for the SARS-CoV-2 detection: A review**
 
 Helpful summaries of 39 studies analyzing the viral load in salvia. 
@@ -332,8 +332,15 @@ Saliva positive | 67 (43.%) | 2 (1.3%)  | 69 (44.5%)
 Salvia negative |   4 (2.6%) | 82 (52.9%)| 86 (55.5%)
 Total           | 71 (45.8%)   | 84 (54.2%)   |155 (100%)
 
-#### Yokota
-
+#### Summary Yokota
+**Mass screening of asymptomatic persons for SARS-CoV-2 using saliva**
+Yokota, I., Shane, P. Y., Okada, K., Unoki, Y., Yang, Y., Inao, T., Sakamaki, K., Iwasaki, S., Hayasaka, K., Sugita, J., Nishida, M., Fujisawa, S., & Teshima, T. (2020). Mass screening of asymptomatic persons for SARS-CoV-2 using saliva. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America, ciaa1388. Advance online publication. https://doi.org/10.1093/cid/ciaa1388
+##### Methods
+Individuals from two cohorts of asymptomatic persons: the contact tracing cohort and the airport quarantine cohort had specimens from nasopharyngeal swabs (NPS) and saliva samples analyzed by PCR. 
+##### Results
+"In this mass-screening study including 1,924 individuals, the sensitivity of nucleic acid amplification testing with nasopharyngeal and saliva specimens were 86% (90%CI:77-93%) and 92% (90%CI:83-97%), respectively, with specificities greater than 99.9%. The true concordance probability between the nasopharyngeal and saliva tests was estimated at 0.998 (90%CI:0.996-0.999) on the estimated airport prevalence at 0.3%. In positive individuals, viral load was highly correlated between NPS and saliva."
+##### Conclusion
+"Both nasopharyngeal and saliva specimens had high sensitivity and specificity. Self- collected saliva is a valuable specimen to detect SARS-CoV-2 in mass screening of asymptomatic persons."
 
 
 ## References
