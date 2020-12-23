@@ -3,13 +3,13 @@
 **[in work]**
 
 ### Abstract Disease Patterns
-Coronaviruses can cause infections at different locations and thus induce different diseases: 
+Coronaviruses cause infections at different locations and thus induce different diseases: 
 * The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
 * The coronaviruses directly emerging from zoonoses from wild/outside animals MERS-CoV and Sars-CoV-1 cause lower respiratory tract infections and frequently spread to the intestine. 
 
-In the case of bovine coronaviruses the same strains can cause different infections. These are recognized as different diseases and until the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent:
-* enteric diseases (neonatal calf diarrhea, winter dysentery) 
-* respiratory diseases (shipping fever and general pneumonia). 
+In the case of bovine coronaviruses the same strains can cause different infections. These infections are recognized as different diseases and until the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent:
+* Enteric disease (neonatal calf diarrhea, winter dysentery) 
+* Respiratory disease (shipping fever and general pneumonia). 
 
 For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and MERS-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs:
 * What drives and causes the different infection location patterns?
@@ -53,11 +53,11 @@ EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhea| local T cell or antibodies |
 ### Diseases caused by Bovine Coronavirus
 [raw form is on todo-list]
 
-
+<!--
 ### Sars-CoV-2 Infection Locations
 [in work]
 Sars-CoV-2 has been observed to cause
-Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the locations.
+Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the locations.-->
 
 #### Infection Locations and Immune Responses
 [in work and partly **estimated/guessed**, citations coming/in search]
@@ -78,7 +78,7 @@ Not infectable since no ACE2 and thus the symptoms from the corresponding locati
 Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ possible complications | Notes
 --------------|--------------|----------|---------------|------------------------|---------------
 MRI| Vocal folds | hoarse | - | no ACE2 cells thus no virus replication |
-LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](./coronavirus.md#ace2-receptor-distribution) thus no replication| viral load in sputum due to deposition 
+LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](../coronavirus.md#tissue-tropism-of-sars-cov-2) thus no replication| viral load in sputum due to deposition 
 
 
 #### Resources and Readings
