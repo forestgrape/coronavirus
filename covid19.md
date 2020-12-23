@@ -22,12 +22,13 @@
   * [Estimates](#estimates)
 * [Summarized References](#summarized-references)
   * [Viral Load in the Upper Respiratory Tract](#viral-load-in-the-upper-respiratory-tract)
+  * [Diagnosis Challenges](#diagnosis-challenges)
 * [References](#references)
 * [Appendix](#appendix)
 
 
 ## Public Description
-Covid-19 can have many forms and accompanying [symptoms](#symptoms). The symptoms vary since they depend on the [locations](#infection-locations) infected and SARS-CoV-2 can infect many locations throughout the respiratory tract except the vocal folds. So any kind of respiratory symptoms - except a hoarse voice - can indicate Covid-19. In risk regions with such symptoms one should avoid crowded indoor spaces and do a Covid test. 
+Covid-19 has different clinical pictures and [symptoms](#symptoms). The symptoms vary since they depend on the [locations](#infection-locations) infected and SARS-CoV-2 can infect many locations throughout the respiratory tract except the vocal folds. So any kind of respiratory symptoms - except a hoarse voice - can indicate Covid-19. With such symptoms one should avoid crowded indoor spaces and do a Covid test. 
 Many of the symptoms are not specific to Covid-19, they can have other causes than SARS-CoV-2: having a (respiratory) infection with another virus or even bacteria, having eaten/drunken something harmful (e.g. rotten or too much alcohol and the like), not having had enough sleep.
 
 
@@ -196,9 +197,9 @@ Reviewed in [Lee et al](#summarized-review-lee) and [da Silva](#summarized-revie
 ##### Posterior Nose Mucus
 Is obtained by nasopharyngeal swabs and the most used location for detecting Covid-19 (as of December 2020). 
 ##### Anterior Nose Mucus
-Reviewed in [Lee et al](#summary-review-lee)
+Reviewed in [Lee et al](#summarized-review-lee)
 ##### Sputum
-
+* Salvia with coughed up sputum 
 #### Lower Respiratory Tract
 Serious infections are located in the lower respiratory tract where the largest numbers of infectable cells are. However the viral load in these locations are less known especially for mild cases due to inconvenient sampling. 
 ##### Broncho-alveolar-lavage (BAL)
@@ -232,13 +233,13 @@ As usually for summarized references:
 ### Viral Load in the Upper Respiratory Tract
 
 #### Summarized Review Lee
-**Performance of Saliva, Oropharyngeal Swabs, and Nasal Swabs for SARS-CoV-2 Molecular Detection: A Systematic Review and Meta- analysis**
+Lee, Rose & Herigon, Joshua & Benedetti, Andrea & Pollock, Nira & Denkinger, Claudia. (2020). **Performance of Saliva, Oropharyngeal Swabs, and Nasal Swabs for SARS-CoV-2 Molecular Detection: A Systematic Review and Meta-analysis.** 10.1101/2020.11.12.20230748. 
 A review and meta analysis. Helpful plots showing uniformly the detection rates of SARS-CoV-2 in NPS/salvia/NS for the reviewed studies and aggregated detection rates for different features (e.g. symptomatic) and different collection methods (NPS/Salvia/NS). 
 ##### Methods
 "We systematically searched PubMed, Google Scholar, medRxiv, and bioRxiv (last retrieval October 1st, 2020) for comparative studies of alternative specimen types [saliva, oropharyngeal (OP), and nasal (NS) swabs] versus NP swabs for SARS-CoV-2 diagnosis using nucleic acid amplification testing (NAAT)." => "From 1,253 unique citations, we identified 25 saliva, 11 NS, 6 OP, and 4 OP/NS studies meeting 15 inclusion criteria."
 ##### Findings
 The results from the different studies/data aggregated by feature are summarized to a figure which shows % positive alternate specimens, % positive NP specimens and (if available) % specimens where both NP and alternate are positive. 
-Selected aggregated results shown in Figure 2:
+Selected aggregated results, the complete list is found in Figure 2 in the paper. 
 * Overall salvia they conclude a detection rate of 88% for salvia and 94% for NPS //both detection rates are likely much lower see Limitations 
 * Cough or deep  throat salvia have a detection rate of 94% while NPS have 89%.
 * Asymptomatic patients have a detection rate of 87% in salvia and 73% in NPS
@@ -247,18 +248,20 @@ Selected aggregated results shown in Figure 2:
 To my checking for some studies NPS are taken as a reference method and assigned a sensitivity of 100% [to confirm and check]. Therefore the detection rates should be interpreted as relative numbers comparing NPS and alternate specimens and not as absolute detection rates. 
 
 #### Summarized Review daSilva 
-**Saliva as a possible tool for the SARS-CoV-2 detection: A review**
+Medeiros da Silva, R. C., Nogueira Marinho, L. C., de Araújo Silva, D. N., Costa de Lima, K., Pirih, F. Q., & Luz de Aquino Martins, A. R. (2020). **Saliva as a possible tool for the SARS-CoV-2 detection: A review.** Travel medicine and infectious disease, 38, 101920. 
 
-Helpful summaries of 39 studies analyzing the viral load in salvia. 
+Helpful summaries of 39 studies, which analyze the viral load in salvia. 
 ##### Methods
 Search for (“saliva”) and (“SARS-CoV-2” or “coronavirus” or “COVID-1”) in PubMed, Medline, Cochrane Library, Web of Science, Embase and Scopus yielded:
 "A total of 363 studies were identified by  and 39 were selected for review."
-##### Key findings
-* In most studies saliva samples yielded a viral load similar as NPS samples. 
-* For most studies: When NPS samples were positive salvia samples were positive in over 70% of the cases. 
-* For most studies: When salvia samples were positive NPS samples were positive Salivary samples for SARS-CoV-2 detection was as consistent and sensitive as the nasopharyngeal swabs in most studies, having been effective in detecting asymptomatic infections previously tested negative in nasopharyngeal samples."
+##### Findings
+* For most studies: Saliva samples yielded a viral load similar to NPS samples. 
+* For most studies: If NPS samples were positive, salvia samples were positive in 70% or more cases. 
+* For most studies: If salvia samples were positive NPS samples were positive. 
+* "Salivary samples for SARS-CoV-2 detection was as consistent and sensitive as the nasopharyngeal swabs in most studies, having been effective in detecting asymptomatic infections previously tested negative in nasopharyngeal samples."
 
 #### Summary Azzi
+Azzi, L., Carcano, G., Gianfagna, F., Grossi, P., Gasperina, D. D., Genoni, A., Fasano, M., Sessa, F., Tettamanti, L., Carinci, F., Maurino, V., Rossi, A., Tagliabue, A., & Baj, A. (2020). **Saliva is a reliable tool to detect SARS-CoV-2. The Journal of infection,** 81(1), e45–e50. https://doi.org/10.1016/j.jinf.2020.04.005
 ##### Methods
 Saliva samples of 25 patients with severe COVID-19 are analyzed by rRT-PCR.
 ##### Results
@@ -269,6 +272,7 @@ Saliva samples of 25 patients with severe COVID-19 are analyzed by rRT-PCR.
 
 
 #### Summary Iwasaki
+Iwasaki, S., Fujisawa, S., Nakakubo, S., Kamada, K., Yamashita, Y., Fukumoto, T., Sato, K., Oguri, S., Taki, K., Senjo, H., Sugita, J., Hayasaka, K., Konno, S., Nishida, M., & Teshima, T. (2020). **Comparison of SARS-CoV-2 detection in nasopharyngeal swab and saliva.** The Journal of infection, 81(2), e145–e147. https://doi.org/10.1016/j.jinf.2020.05.071
 ##### Methods
 Analyzed the viral nasopharyngeal and saliva samples in 76 patients.
 ##### Results
@@ -276,7 +280,8 @@ Analyzed the viral nasopharyngeal and saliva samples in 76 patients.
 * A weak tendency for salvia samples to have a higher viral load early and nasopharyngeal swabs in the later phase of Covid-19 was observed. 
 
 #### Summary Güclü
-**Comparison of saliva and oro-nasopharyngeal swab sample in the molecular diagnosis of COVID-19**
+Güçlü, E., Koroglu, M., Yürümez, Y., Toptan, H., Kose, E., Güneysu, F., & Karabay, O. (2020). 
+**Comparison of saliva and oro-nasopharyngeal swab sample in the molecular diagnosis of COVID-19.** Revista da Associacao Medica Brasileira (1992), 66(8), 1116–1121. https://doi.org/10.1590/1806-9282.66.8.1116
 ##### Methods 
 Three groups of patients are analyzed:
 * "Group 1 (30 patients): Hospitalized patients with a finding consistent with COVID-19 in the CT scan of the lung and detected SARS-CoV-2 by PCR in at least one ONS sample."
@@ -291,7 +296,7 @@ Three groups of patients are analyzed:
 #### Summary Procop
 Procop GW, Shrestha NK, Vogel S, Van Sickle K, Harrington S, Rhoads DD, Rubin BP, Terpeluk P. 2020. 
 **A direct comparison of enhanced saliva to nasopharyngeal swab for the detection of SARS-CoV-2 in symptomatic patients.** 
-J Clin Microbiol 58:e01946-20. https:// doi.org/10.1128/JCM.01946-20.
+J Clin Microbiol 58:e01946-20. [https:// doi.org/10.1128/JCM.01946-20]()
 ##### Methods
 "An enhanced saliva specimen (i.e., strong sniff, elicited cough, and collection of saliva/secretions) was collected without transport medium prior to collection of NPS from 224 patients with symptoms deemed consistent with COVID-19."
 ##### Results
@@ -329,8 +334,8 @@ Data not uniform/consistent:
 Salvia\NPS or OPS | NPS or OPS positive | NPS or OPS negative | Total
 --|--|--|--
 Saliva positive | 67 (43.%) | 2 (1.3%)  | 69 (44.5%)
-Salvia negative |   4 (2.6%) | 82 (52.9%)| 86 (55.5%)
-Total           | 71 (45.8%)   | 84 (54.2%)   |155 (100%)
+Salvia negative |   4 (2.6%)| 82 (52.9%)| 86 (55.5%)
+Total           | 71 (45.8%)| 84 (54.2%)| 155 (100%)
 
 #### Summary Yokota
 **Mass screening of asymptomatic persons for SARS-CoV-2 using saliva**
@@ -342,12 +347,26 @@ Individuals from two cohorts of asymptomatic persons: the contact tracing cohort
 ##### Conclusion
 "Both nasopharyngeal and saliva specimens had high sensitivity and specificity. Self- collected saliva is a valuable specimen to detect SARS-CoV-2 in mass screening of asymptomatic persons."
 
+#### Summary Zhou
+**SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients**
+#### Methods
+"We analyzed the viral load in nasal and throat swabs obtained from the 17 symptomatic patients in relation to day of onset of any symptoms (Fig. 1C)." 
+#### Results
+* "Higher viral loads (inversely related to Ct value) were detected soon after symptom onset, with higher viral loads detected in the nose than in the throat." 
+* "Our analysis suggests that the viral nucleic acid shedding pattern of patients infected with SARS-CoV-2 resembles that of patients with influenza4 and appears different from that seen in patients infected with SARS-CoV."
+* "The viral load that was detected in the asymptomatic patient was similar to that in the symptomatic patients, which suggests the transmission potential of asymptomatic or minimally symptomatic patients."
+* The nasal and throat swabs of many patients don't have single local maxima but several. Moreover they can reach 0 one day and be positive the next day. //=> to exclude infection several negative samples are needed. 
+
+### Diagnosis Challenges
+#### Matic
+**Practical challenges to the clinical implementation of saliva for SARS-CoV-2 detection**
+
 
 ## References
 
-#### Ioannidis
-Ioannidis J. The infection fatality rate of COVID-19 inferred from seroprevalence data. 
-accessed version published on 14.10.2020: https://www.who.int/bulletin/online_first/BLT.20.265892.pdf
+* #### Ioannidis
+  Ioannidis J. **The infection fatality rate of COVID-19 inferred from seroprevalence data.**
+  accessed version published on 14.10.2020: https://www.who.int/bulletin/online_first/BLT.20.265892.pdf
 
 
 
