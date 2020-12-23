@@ -2,17 +2,17 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* [Updates](#updates) in progress. Moved from single-page to multi-page. In work, therefore some local links may temporary not work or require hand-lookup (via markdown at github). 
+* [Updates](#updates) in progress. Moved from single-page to multi-page. In work, therefore some local links temporary not work and/or require hand-lookup (via markdown at github). 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations:
-  * For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste like). Feedback is still appreciated though!
-  * In scientific contexts, I consider citing a good and helpful practice. In the sense of inspiration rather than a rigorous fundament. 
+  * For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). Feedback is still appreciated though!
+  * In scientific contexts, I consider citing a good and helpful practice. Even when only inspiration rather than a rigorous fundament is provided. 
   * For inspiration/cherry picking ideas, thanks are enough and welcome. 
-* Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#general-suggestions-and-thoughts) and [Covid-19](./covid19.md#public-description).
+* Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-suggestions-and-tips) and [Covid-19](./covid19.md#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
 > ###### Definitions
@@ -24,10 +24,10 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- 22.12. [Covid-19](./covid19.md) redone. New sections about Diagnosis and Viral Load observed in online work - these sections show that salvia is appropriate to diagnose Covid-19. 
-- 22.12. split up the page monitor_and_control.md into two pages monitoring.md and control_measures.md
-- 22.12. section Coronavirus Disease Pattering moved from the section Ideas to Explore to its own page [Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md). 
-- 30.11. Thoughts about [Corona Conform Skiing](./monitor_and_control.md#corona-conform-skiing) on the page [Monitor and Control](./monitor_and_control.md) 
+- 22.12. [Covid-19](./covid19.md) redone. New sections about Diagnosis and Viral Load in online work - these sections show that salvia is appropriate to diagnose Covid-19. 
+- 22.12. split up the page monitor_and_control.md into two pages [monitoring.md](./monitoring.md) and [controlling.md](./controlling.md)
+- 22.12. section Coronavirus Disease Pattering moved from the section Ideas to Explore to its own page ideas_to_explore/[Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md)
+- 30.11. Thoughts about [Corona Conform Skiing](./controlling.md#corona-conform-skiing) on the page [Controlling](./controlling.md) 
     > Motivated by current discussions and recent personal experience. 
 - 24.11. New Page on [Economics](./economics.md): The proposal is to provide universal capital services (e.g. credits) instead of providing targeted support in different situations/crisis (e.g. the current Covid situation). Goals are:
   - Everyone in need can redesign and reorganize their (economic) life in any situation.
@@ -104,19 +104,17 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 <p id="t-content">-----</p> <!--before 1.10.2020: workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
 
 ## Content
-[**currently partly out of date, new section are visible in updates**]
+[**partly out of date, new sections are found in updates**]
 * [Updates](#updates)
-* [Public Suggestions and Thoughts](#public-suggestions-and-thoughts) <br> 
+* [Public Suggestions and Tips](#public-suggestions-and-tips)
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
-* [Covid-19](./covid19.md#covid-19)
+* [Covid-19](./covid19.md)
     The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
-* [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md#top)
-    * [Protection Measures](./monitor_and_control.md#protection-measures)
-    * [Risk Assessment](./monitor_and_control.md#risk-assessment)   
-    * [Monitor](./monitor_and_control.md#monitor)
-    * [Data Availability](./monitor_and_control.md#data)
-  
-* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#coronaviruses)
+* [Thoughts about Controlling Sars-CoV-2](./control_measures.md#content)
+    Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife. 
+* [Monitoring](./monitoring.md#content)
+  About testing, monitoring and gathering and publishing data.
+* [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#top)
     Various aspects of coronaviruses are described with a focus on understanding. 
     - The starting point are first principles: life forms on earth. 
     - Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. 
@@ -128,7 +126,7 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 * [Ideas to Explore](#ideas-to-explore)
     - [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
         The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
-    - [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
+    - [Infection Tropism and Disease Patterns](./ideas_to_explore/coronavirus_disease_patterns.md)
     - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
     - [Prevent Early On Mucus Accumulations](#early-vents) <br>
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
@@ -136,7 +134,7 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 * [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models)
     Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible. 
     - A recap of airborne transmission, 
-    - look at a proposal of a new dry from transmission model,
+    - Proposal of a new dry from transmission model,
     - describe how particles behave in the respiratory tract,
     - analyse spread pattern of Covid-19 which indicate aerosol transmission
     - and based on the discussions protection measures are suggested: smoke protection and masks. 
@@ -145,7 +143,7 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 
 
 
-## Public Suggestions and Thoughts
+## Public Suggestions and Tips
 [in rework]
 Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term adverse effects are possible too for other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
@@ -156,14 +154,14 @@ Covid-19 can be serious in the short-term and such serious infections can someti
 Time to act mindfully, carefully and circumspectly & work together in an open, fair and honest way. 
 
 
-### Sars-CoV-2 transmission 
-SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aerosols. There is strong evidence indicating that the aerosol transmission  is the more important and more dangerous transmission and so to prevent aerosol transmission is important. A short overview below and a more in depth description is in the section [Airborne Transmission](./transmission.md#recap-airborne-transmission).
-* __droplet transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
-    - masks
-    - distance
-    - side-a-side instead of face-to-face
-    - plexiglas
-* __aerosols transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outside the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
+### Sars-CoV-2 Transmission 
+SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in water droplets flying like balls) or by aerosol (the virions move with the air). For Covid-19 aerosol transmission is more frequent and much more dangerous. A short overview below and a more in depth description is in the section [Airborne Transmission](./transmission.md#recap-airborne-transmission).
+* __Droplet Transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
+    - Masks
+    - Distance
+    - Side-a-side instead of face-to-face
+    - Plexiglas
+* __Aerosols Transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outside the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
     - being outside, ventilation, distance and less people inside 
     - masks, preferably with a good fit and [filter](./monitor_and_control.md#mask-types) and changed/cleaned frequently
     - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
@@ -179,21 +177,21 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets or by aeros
 In brief: Think ahead. To reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
 
 * #### Outside
-    [Outside is safe, if some distance is kept](./monitor_and_control.md#outside-is-safer). Ideally, walk or cycle directly from home. Outside most infection occur when close range face-to-face talking. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
+    [Outside is safe, if some distance is kept](./control.md#outside-is-safer). Ideally, walk or cycle directly from home. Outside most infection occur when close range face-to-face talking. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 * #### Ventilate
-    [Ventilation](./monitor_and_control.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
+    [Ventilation](./control.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
     * Open the windows. In cold climate: ventilate the rooms regularly by opening all windows for 5 minutes.  
     * If possibly infected, ventilate before opening the door of your room or flat. 
 
 * #### Masks
-    Wear a [mask](./monitor_and_control.md#masks) 
+    Wear a [mask](./control.md#masks) 
     - Outdoor and indoor: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    The mask should be clean, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
+    The mask should be clean/fresh, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
 
-    Masks can be reused if [cleaned](./monitor_and_control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+    Masks can be reused if [cleaned](./control.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
 * #### Distancing
     Distancing reduces infection risk.
@@ -326,7 +324,8 @@ Summaries of references, that base and inspire this findings, are on the page [H
 5. Insectivores mammals could be intermediate hosts for the transmissions to humans. SARS-like infected mammals often have a respiratory disease and transmission can occur airborne from then on. Civets likely have been intermediate hosts responsible for some jumps to humans. 
 
 
-
+## Infection Tropism and Disease Patterns
+moved to separate page [Infection Tropism and Disease Patterns](./ideas_to_explore/coronavirus_disease_patterns.md)
 
 <p id='litvac2'> -----</p>
 
@@ -650,6 +649,7 @@ The numbers in parenthesis are
 
 * The Covid-19 fatality rates are higher in cities and especially in cities which are not known for very clean air. Many Covid-19 related deaths are recorded in: Madrid, Milano, Teheran, New York and Wuhan [citation to be added]. According to findings from [Wolff](#wolff) dirty air can reduce the mucus clearance in various ways. 
 
+
 <p id='influenza'></p>
     
 #### Factors Associated with ADRS in Influenza    
@@ -660,7 +660,7 @@ The following characteristics are observed by [Yuen et al.](#yuen):
 - Diabetis, Age, Chronic hear disease positively correlate with ARDS development. 
     
 
-#### factors influencing the mucus flow
+#### Factors influencing the Mucus Flow
 
 * [Nakagawa et al.](#nakagawa) found that "Ageing, Diabetes, and Hypertension Are Associated With Decreased Nasal Mucociliary Clearance". The mechanisms of mucus production in the nose are likely similar to those in the trachea and therefore similar associations are expected [to be confirmed]. 
 
@@ -673,7 +673,7 @@ The following characteristics are observed by [Yuen et al.](#yuen):
 * In his review on ["Effects of Airborne Pollutants on Mucociliary Clearance"](#wolff)  Ronald K. Wolff summarizes "A variety of pollutants have been shown to impair mucociliary clearance following acute or subchronic exposures." 
 
 
-#### humidity related death rates
+#### Humidity related Death Rates
 
 * Around the world fewer deaths per capita in humid air countries indicating a lower death-rate. There is a lower death-rate in Singapore/Kuwait/Qatar/Isreal than in Island/Norway, countries which all have a good health care system and do widespread testing ([data specifications](#data-specifications)). 
     - __Remark__: Norway and Isreal probably get half of the cases tested positive, so the death rate should be divided by 2. 
