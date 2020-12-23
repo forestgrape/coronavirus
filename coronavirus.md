@@ -492,7 +492,7 @@ The tissue tropism depends on:
 
 
 ## Tissue Tropism of Sars-CoV-2
-[in rework to remove errata and to clarify]<br>
+[in rework to remove errata and to clarify]
 The task determine to habitat of Sars-CoV-2 can be tackled either 
 * a [theoretical deduction](#theoretical-deduction) based on the cell tropism of SARS-CoV-2. The cell tropism in turn is based on in vivo and in vitro experiments and observations.
 * an [empirical deduction](#empirical-deduction) based on observations of Covid-19 cases.
