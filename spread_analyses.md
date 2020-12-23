@@ -6,7 +6,7 @@
   * [Cities versus Rural](#cities-versus-rural)
 * [Infectors](#infectors)
   * [Infector Distribution](#infector-distribution)
-  * [Pre-symptomatic Infectors](#pre-symptomatic-infectors)
+  * [Infectors and Symptom Status](#infectors-and-symptom-status)
   * [Children](#children)
 * [Spread Situations](#spread-situations)
   * [Indoor Social Settings](#indoor-social-settings)
@@ -109,16 +109,16 @@ Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
 * 10% of the cases induced 20% of infections
 * 70% of the cases induced no observed infections (despite most of them being not in 
 
-### Pre-symptomatic Infectors
+### Infectors and Symptom Status
 [**in work**]
-> // Caveat: Most of the investigation were done early in 2020 when only few strains of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections. At that time over 80% of the cases developed symptoms. 
+> // Caveat: Most of the investigation were done early in 2020 when only few strains of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections. Back then over 80% developed symptoms. 
 * [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people. Caveat: 
 * The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
 * [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
 
 ### Children
 Children are less likely to be infectees and less likely to be infectors [see section [Schools and Children](#schools-and-children)].
-
+ 
 
 ## Spread Situations
 **[in work]**
@@ -198,13 +198,13 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 * [Dattner et al](#summary-dattner) observed that children are relative to adults
   * less susceptible 45% [40%, 55%]) 
   * somewhat less infectious 85% [65%, 110%])
-* [Madewell et al](#summary-madewell) find that children are only about half as likely to get infected in households compared to adults (including spouses which are most likely to get infected)
+* [Madewell et al](#summary-madewell) find that children are only about half as likely to get infected in households compared to adults (spouses which are most likely to get infected)
 * [Vlachos, Hertegard and Svaleryd](#summary-vlachossvaleryd) found that parents children in the 9th school year (open schools)had about the same incidence rate for Covid-19 as parents children in the 10th school year (closed school). If adjusted for factors such as age and occupation the risk was about 15% higher for being diagnosed with Covid-19 when the child went to open schools. // Comment: this indicate that other factors are more important than whether the children go to school. 
 * Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by densely populated rooms and the permanent use of air-conditioning [Summary Stein-Zamir](#summary-stein-zamir). 
 * [Ehrhardt et al](#summary-ehrhardtbrockmann) observed in Baden-Wuertenberg between 19 May to 28 July:
-  * 6 of 137 likely infectious pupils actually infected other a total of 11 other pupils (an R value contribution of below .1)
+  * 6 of 137 infected pupils infected a total of 11 other pupils (an R value contribution of below .1)
   * 3% of infections of children (0-19 year) could be traced back to schools. Where as 41% to families and 8% to festivals/events.
-* [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly outside of schools. This in turn indicates that for most viruses adults play the major role in the transmission. 
+* [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly in setting other than schools. This in turn indicates that for most viruses adults play the major role in the transmission.
   
 
 ---
