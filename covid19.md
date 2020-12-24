@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [Disease Factors](#disease-factors)
 * [Infection Locations](#infection-locations)
+  * [Infection Location and Symptoms](#infection-location-and-symptoms)
 * [Immune Response and Symptoms](#immune-response-and-symptoms)
   * [Causes of Symptoms](#causes-of-symptoms)
   * [Localized Symptoms](#localized-symptoms)
@@ -12,10 +13,12 @@
   * [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)
   * [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)
   * [Diagnosis Locations](#diagnosis-locations)
-  * [Review of Common Practice for Diagnosis](#review-of-common-practice-for-diagnosis)
-* [Viral Load](#viral-load)
+  * [Review of Common Diagnostic Methods](#review-of-common-diagnostic-methods)
   * [Challenges regarding Viral Load and Diagnosis](#challenges-regarding-viral-load-and-diagnosis)
-  * [Body Fluids](#body-fluids)
+* [Viral Load](#viral-load)
+  * [Local Amplification:](#local-amplification)
+  * [Types of Specimens](#types-of-specimens)
+  * [Locations](#locations)
   * [Tissues](#tissues)
 * [Fatality Rate](#fatality-rate)
   * [Measure Method](#measure-method)
@@ -28,8 +31,8 @@
 
 
 ## Public Description
-Covid-19 has different clinical pictures and [symptoms](#symptoms). The symptoms vary since they depend on the [locations](#infection-locations) infected and SARS-CoV-2 can infect many locations throughout the respiratory tract except the vocal folds. So any kind of respiratory symptoms - except a hoarse voice - can indicate Covid-19. With such symptoms one should avoid crowded indoor spaces and do a Covid test. 
-Many of the symptoms are not specific to Covid-19, they can have other causes than SARS-CoV-2: having a (respiratory) infection with another virus or even bacteria, having eaten/drunken something harmful (e.g. rotten or too much alcohol and the like), not having had enough sleep.
+Covid-19 has different clinical pictures and [symptoms](#immune-response-and-symptoms). The symptoms vary since they depend on the [locations](#infection-locations) infected. SARS-CoV-2 can infect many locations in the respiratory tract except the vocal folds. Therefore any kind of respiratory symptoms - except a hoarse voice - can indicate Covid-19. With such symptoms one should avoid crowded indoor spaces and do a Covid test. 
+Many of the symptoms are not specific to Covid-19, they may have other causes than SARS-CoV-2: having a (respiratory) infection with different virus or a bacterium, having eaten/drunken something harmful (e.g. rotten or too much alcohol and the like)or just not having had enough sleep.
 
 
 
@@ -38,9 +41,9 @@ Many of the symptoms are not specific to Covid-19, they can have other causes th
 > ##### Disease
 > A *disease* is a biological disorder of structure or function in an organism causing inconvenience and/or unwanted effects. Literally disease means without-ease (dis=without, separated from). A disease is often dynamic and an immune response is induced/involved.
 
-Chemical/biochemical damage such as dehydration or a poisoning or physical damage such as a fracture or an injury are not diseases themselves but they chemical/physical damage can result from a disease.
+Chemical/biochemical damages such as dehydration, a poisoning or physical damage such as a fracture or an injury are not diseases themselves but chemical/physical damage can result from a disease.
 
-There are many different forms and causes of diseases:
+There are many different causes of diseases:
 * other [life forms](./coronavirus.md#life-form) interfering with the metabolism, such an interference is called [infection as defined below](#virus-infection). 
   * outside of cells but inside multicellular organisms
     * most bacteria
@@ -48,7 +51,7 @@ There are many different forms and causes of diseases:
   * inside cells
     * some bacteria
     * all viruses
-* autoimmune disease where the immune response is targets own substances ([Immune System page](./immune_system.md))
+* immune disease in which the immune system overreacts to substances without need (notes on the immune system in the [Immune System chapter](./immune_system.md))
 
 Virus diseases are cause by virus infections:
 
@@ -58,39 +61,55 @@ Virus diseases are cause by virus infections:
 If a virus infection causes lack of ease, one has a virus disease. 
 
 > ##### Virus Disease
-> A *virus disease* is a [virus infection of an organism](./coronavirus.md#virus-infection) causing adverse effects. Such effects can be either directly through tissue damage caused by viruses but usually to keep the body virus free and prevent tissue damage a strong immune response is induced causing symptoms on its own e.g. fever. These definition is not strict, since adverse effects or tissue damage can be small and the virus infection is not considered as a diseases. 
+> A *virus disease* is a [virus infection of an organism](./coronavirus.md#virus-infection) causing adverse effects. 
 
-So virus infections causing no inconvenience/lack of ease are often not considered as a diseases. The definition isn't uniform for all viruses however, for viruses which can be highly pathogenic usually one speaks of a disease if there is an infection diagnosed regardless whether there are symptoms.
+Adverse effects result either directly through tissue damage caused by viruses but usually to keep the body virus free (to prevent future cell/tissue damage) a strong immune response is induced causing effects/symptoms on its own e.g. fever.
+
+The virus disease definition is not strict, since adverse effects or tissue damage are often small and in such cases a virus infection is not considered a disease. 
+Virus infections causing no inconvenience/lack of ease are usually not considered as a diseases. The definition isn't uniform for all viruses, for viruses which can be highly pathogenic usually one speaks of a disease if there is an infection diagnosed regardless whether there are symptoms.
 
 > ##### Covid-19
 > *Covid-19* stands for COronaVIrus Disease 2019.
 
-Covid-19 is often used synonymously with having SARS-CoV-2 viruses detected by NPS sampling. [more in the section diagnosis](#diagnosis). However not all people infected with SARS-CoV-2 have viruses in the nose, it is even possible to pass away from Covid but having no detectable viral load in the nose. People with a sensible immune system may detect symptoms before there is a detectable viral load in the upper respiratory tract on the other hand people can also have detectable viral load in the upper respiratory tract and having no symptoms, the latter patients are referred as asymptomatic. 
+"Covid-19" is often used synonymously with having SARS-CoV-2 viruses detected by NPS sampling [more in the section diagnosis](#diagnosis). However not all persons infected with SARS-CoV-2 have viruses in the nose. It is even possible to have severe Covid-19 without having detectable viruses by nose swabs [citation in work]. People with a sensible immune system may experience symptoms before there is a detectable viral load in the upper respiratory tract. On the contrary some people have a detectable viral load in the upper respiratory tract but no symptoms. 
+> ##### Symptomatic
+> A person experiencing/notifying/showing symptoms of a disease is called symptomatic. 
+> ##### Asymptomatic
+> A person *not* experiencing/notifying/showing symptoms while having an infection is called asymptomatic.
+> ##### Presymptomatic
+> Even those person developing symptoms are asymptomatic in the early phase of a disease during these phase a person is called presymptomatic. 
 
 ## Disease Factors
-A virus disease is an interplay of host factors including the host immune system, the behavior of the virus and environmental factors.
+A virus disease is an interplay of host factors including the host immune system, of the behavior of the virus and of environmental factors.
 
 * __Host factors__ relevant for the tropism of Covid-19 are
-    - Cells susceptible to infection and capable of producing viruses (not all cells are e.g. red blood cells are not).
+    - Cells susceptible to infection and capable of producing viruses (not all cells are susceptible e.g. red blood cells are not).
     - Host [immune response](#immune-response-and-symptoms).
 * __Tropism of SARS-2__
-  Viruses behave different under different environmental factors, described in the section [Tropism of viruses](./coronavirus.md/tropism). E.g. SARS-2 virions enter just cells containing a matching receptor and having been activated by proteases. So to infect a tissue several conditions need to be met, more in the section [Tissue Tropism of SARS-CoV-2](./coronavirus.md/#tissue-tropism-of-sars-cov-2).
+  Viruses behave different under different environmental factors, described in the section [Tropism of viruses](./coronavirus.md/tropism). E.g. SARS-2 virions can enter only cells containing a matching receptor. To infect a tissue several conditions must be met as described in the chapter [Tissue Tropism of SARS-CoV-2](./coronavirus.md/#tissue-tropism-of-sars-cov-2).
 * __Environmental Factors__
     - the travel of virions between hosts and thus the mode of the initial infection. E.g. in dry air exhaled droplets dry out and these are more likely to be deposited deep in the lungs.
-    - Environmental factors can influence the host factors and the virus tropism and thus indirectly the course of the disease. E.g.:
+    - Environmental factors can influence the host factors as well as the virus tropism and thus indirectly the course of the disease. E.g.:
       - Very dry air can weaken the immune system of the mucous membrane in the respiratory tract
-      - Dirty air can weaken the clearance of particles in the respiratory tract since the ciliated cells can be damaged.
+      - Dirty air can weaken the clearance of particles in the respiratory tract e.g. by damaging ciliated cells.
 
 
 
 ## Infection Locations
-SARS-CoV-2 can infect different tissues in humans. Where and how much viruses infect different locations determines the locality of the tissue disordering and the immune response induced. 
+SARS-CoV-2 infects different tissues in humans. The effects from the virus infection such as tissue damage and symptoms are often local to the infected locations. 
 
-Several section of this page shed light on different aspects of the infection locations:
+Different topics related to the infection locations are described in the sections:
 * The section [Viral Load](#viral-load) describes in which body fluids and tissues how many virions are observed. 
 * The [Immune Response and Symptoms](#immune-response-and-symptoms) section gives an overview of the different symptoms induced by the infection location.
-* On the [coronavirus page](./coronavirus.md) in the section [tissue tropism](./coronavirus.md#tissue-tropism-of-sars-cov-2) describes the tissue preferences of coronaviruses and SARS-CoV-2 especially.
+* On the [coronavirus page](./coronavirus.md), the section [tissue tropism](./coronavirus.md#tissue-tropism-of-sars-cov-2) describes the tissue preferences of coronaviruses and SARS-CoV-2 especially.
 * The experimental page [Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md) describes that coronavirus infections at different locations can be experienced/observed as different diseases.
+
+### Infection Location and Symptoms
+* Upper Respiratory Tract => Symptoms are similar to other respiratory diseases: a sore throat, coughing and a runny nose. Loss of smell or taste occurs too and is more specific to Covid-19. 
+* Throat => Coughing, the body wants to get rid of the viruses in the respiratory tract.
+* Central Bronchi => Dry cough.
+* Deep Lungs i.e. small bronchi, alveoli => If the lungs get involved, symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks.
+* virions in the alveoli and spread to the blood => Early on virions are released into the blood. This feels like it is starting from within. Symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too.
 
 
 
@@ -103,20 +122,16 @@ The symptoms of a [virus disease](#virus-disease) are caused:
 2. Indirect symptoms through the induced [immune response](./immune_system.md) (frequent).
 
 ### Localized Symptoms
-Coronavirus infections can be localized (especially in the early phase), therefore the symptoms can be local and depend on the locations infected. SARS-CoV-2 [infects different locations](#infection-locations). The disease patterns and symptoms caused at the different locations are described in more detail in the experimental section [disease-pattering](./ideas_to_explore/coronavirus_disease_patterns.md), here just a course and informal overview:
+Coronavirus infections can be localized (especially in the early phase), therefore the symptoms can be local and depend on the locations infected as described in the section [Infection Locations and Symptoms](#infection-location-and-symptoms). 
 
-* Upper Respiratory Tract => Symptoms are similar to other respiratory diseases: a sore throat, coughing and a runny nose. Loss of smell or taste occurs too and is more specific to Covid-19. 
-* Throat => Coughing, the body wants to get rid of the viruses in the respiratory tract.
-* Central Bronchi => Dry cough.
-* Deep Lungs i.e. small bronchi, alveoli => If the lungs get involved, symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks.
-* virions in the alveoli and spread to the blood => Early on virions are released into the blood. This feels like it is starting from within. Symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too.
+
 
 
 ## Diagnosis
 
 ### History of Covid-19 Diagnosis
 * In late 2019 and early 2020 Covid-19 was often diagnosed based on lung CT findings.
-* From February 2020 to December 2020 the most used method to diagnose Covid-19, is having a detectable amount of SARS-CoV-2 in nasopharyngeal swabs. The viral load is detected either by [PCR-Test](#pcr-test) or [Antigen-Tests](#antigen-test). In the early phase of the Covid-19 pandemics the battle neck were accurate PCR tests and the work needed to take swabs was less an issue. 
+* From February 2020 to December 2020 the most used method to diagnose Covid-19, is having a detectable amount of SARS-CoV-2 in nasopharyngeal swabs. The viral load is detected either by [PCR-Test](#pcr-test) or [Antigen-Tests](#antigen-test). In the early phase of the Covid-19 pandemics when the bottleneck was the availability of accurate PCR tests. 
 * Late 2020 antigen tests are getting more common.
 * 2021? Alternate Locations? [Review of Diagnosis](#review-of-diagnosis)
 
@@ -125,34 +140,34 @@ In tissues containing infected cells or in the lining fluids protecting/cleaning
 * #### Detect Building Blocks of Viruses
   To detect viruses replicating the building blocks of virions can be searched.
   * ##### PCR Test 
-    The genome of virions (positive single stranded RNA for coronaviruses). The amount of virions - called [viral load](#viral-load) - present can be determined and the specificity is very high.
+    The genome of virions (positive single stranded RNA for coronaviruses). The amount of virions - called [viral load](#viral-load) - present can be determined with high specificity.
   * ##### Antigen Test
-    Methods detecting proteins of virions are usually called  (the name antigen since the virus proteins can be recognized by the immune system as harmful and antibodies can be produced against them)
+    Methods detecting proteins of virions are usually called antigen tests (virus proteins are called antigens since these proteins can be recognized by the immune system as harmful).
 * #### Detect Metabolism of Coronaviruses
   Temporary RNA produced from coronaviruses with a running metabolism.
 * #### Detect Infectious Virions
-  **Serology** Material possibly containing virions can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change/damage or detecting RNA to see whether there were infectious virions in the material in question. The material can be diluted so much that virus colonies originating from single virions can be distinguished. Like this the number of infectious virions can be estimated.
+  **Serology** Material possibly containing virions can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change/damage or detecting RNA to see whether there were infectious virions in the material in question. The material can be diluted so much that virus colonies originating from single virions can be distinguished. In this  way the number of infectious virions can be determined.
 
 ### Methods to Indirectly Detect Viruses
 * #### Detect Tissue damage
   * chemical e.g. detecting cell damage by detecting distinctive proteins.
     (-) not specific
-  * optical e.g. round glassy occupancies in the lung are characteristic for Covid [to check and cite]
+  * optical e.g. round glassy occupancies in the lung are characteristic for Covid-19 [to check and cite]
 * #### Detect Immune Response
-  For infections triggering certain alarms the immune response involves antibodies which can be detected in the blood. There are several kind of antibodies which are produced at different stages of an infections, these can be used to roughly back date the infection.
+  * #### Antibody Test
+    Often referred as *serology*. For infections triggering certain alarms the immune response involves antibodies which can be detected in the blood. There are different kind of antibodies which are produced at different stages during and after an infection. Infection in later stages and past infections can be laboratory diagnosed  
 
 
 ### Diagnosis Locations
+Locations with active viral replication ([Infected Locations](#infection-locations)) or a viral load ([Viral Load](#viral-load)) through deposition are suitable for diagnosis.
+
 The fluids in the respiratory tract are a good locations to detect SARS-CoV-2 virions:
 * Since SARS-CoV-2 infects and transmits mainly through the respiratory tract, the respiratory tracts is the place to search
-* The virions mostly are released on the apical side and so there are virions in the fluids covering infected tissues. 
-* For accessibility reasons fluids in the upper respiratory is the location most test are done. However serious infections are located in the lower respiratory tract where the largest numbers of infectable cells are.   
-  
-For a location to be suitable for diagnosis active viral replication ([Infected Locations](#infection-locations)) or at least a viral load ([Viral Load](#viral-load)) through deposition is needed.
+* The virions mostly are released on the apical side and therefore there are virions in the fluids covering infected tissues. 
+* For accessibility reasons fluids in the upper respiratory are preferred. However the largest number of susceptible cells to SARS-CoV-2 are in the lower respiratory tract.
 
 
-### Review of Common Practice for Diagnosis
-Locations frequently used for sampling fluids to analyze for viral load (section on [Viral Load](#viral-load)). Back since the 
+### Review of Common Diagnostic Methods
 * #### Nasopharyngeal Swabs with PCR
   The current 'gold standard' for Covid-19 diagnosis are nasopharyngeal swabs. 
 * #### Nasopharyngeal Swabs with Antigen Tests
@@ -168,32 +183,42 @@ Locations frequently used for sampling fluids to analyze for viral load (section
     (-) only in diseases involving the lung significantly and thus sensitivity low
     => recommended for symptomatic risk patients of very high age with negative test in the upper respiratory tract
 
+### Challenges regarding Viral Load and Diagnosis
+Often investigations for viral load are biased. Reasons are:
+* Sampling is biased towards symptomatic patients. Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and more at risk for severe disease.
+* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in salvia is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%.
+* E.g. not to every infection in the upper respiratory tract the body responds with antibodies or only antibodies of a specific type. On the other hand a lower respiratory tract infection may yield antibodies, but be negative at a single PCR in the upper respiratory tract.
+
+
 ## Viral Load
 [**in work and unfinished**]
 
 > ##### Viral Load
 > The *viral load* denotes how many virions are present in specimen of tissue or body fluid.
 
-A viral load is mostly observed in locations with active viral replication. Sometimes a viral load can be detected upon deposition of virions from other infected locations. While the latter is necessary for the initial infection event of a location, the viral load through deposition is mostly to low to be detected. However what is often the case is local amplification: This is likely often the case in the nose, while the lung is primarily infected and both responsible for the spread and the symptoms, there are some susceptible cells in the nose amplifying deposited virions and thus a detectable viral load is there.
+A viral load is observed in locations with active viral replication. Sometimes a viral load can be detected upon deposition of virions from other infected locations. While the latter is necessary for the initial infection event of a location, the viral load through deposition is often to low to be detected. However often happens local amplification. 
+### Local Amplification: 
+While the lung is primarily infected and both responsible for the spread to other persons and the symptoms, there are susceptible cells in the nose or in the salviary glands for SARS-CoV-2 replication and thus the deposited virions replicated and so the viral load is amplified there. Therefore the nose mucus or salvia are have a detectable viral load and thus are suitable for diagnosis. 
 
 Knowing the viral load observed in different fluids and tissues is relevant for:
-* __Diagnosis__: For diagnosis easy sampling should be possible and the viral load is optimally high for the different disease patterns caused by SARS-CoV-2. 
+* __Diagnosis__: The viral load is optimally high for the different disease patterns caused by SARS-CoV-2 and taking specimens easy.  
 * __Transmission__: Knowing the viral load in different locations can help to understand and prevent the transmission of SARS-CoV-2.
-* __Understanding Covid-19__: Knowing at which stages which locations are infected by the coronaviruses can help to predict the disease progression and optimal treatment. 
+* __Understanding Covid-19__: Knowing at which stages which locations are infected by the coronaviruses can help to predict the disease progression and to optimize the treatment. 
 
-The viral load can be determined in the tissues, single cells or the body fluids which cover to protect and clean many of epithelial cell layers of the human body.
 
-### Challenges regarding Viral Load and Diagnosis
-Often investigations for viral load are biased. Reasons are:
-* Sampling is biased towards symptomatic patients. Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and more at risk for severe disease.
-* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in salvia is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%.
 
-### Body Fluids
-Coronaviruses virions are mostly released on the apical surfaces and so there are virions in the fluids covering infected cells.
+
+### Types of Specimens
+#### Body Fluids
+Coronaviruses virions are mostly released on the apical surfaces and so the virions in the fluids covering infected cells.
+#### Tissues
+Since sampling fluids is enough in most cases tissues are rarely sampled. 
+
+### Locations
 #### Upper Respiratory Tract
 [in work] A recommended review is by [Lee et al](#summary-review-lee).
 ##### Salvia
-Reviewed in [Lee et al](#summarized-review-lee) and [da Silva](#summarized-review-dasilva). A good recommended read is [Yokota](#summary-yokota)
+Reviewed in [Lee et al](#summarized-review-lee) and [da Silva](#summarized-review-dasilva). A recommended read is [Yokota](#summary-yokota)
 ##### Posterior Nose Mucus
 Is obtained by nasopharyngeal swabs and the most used location for detecting Covid-19 (as of December 2020). 
 ##### Anterior Nose Mucus
@@ -201,8 +226,8 @@ Reviewed in [Lee et al](#summarized-review-lee)
 ##### Sputum
 * Salvia with coughed up sputum 
 #### Lower Respiratory Tract
-Serious infections are located in the lower respiratory tract where the largest numbers of infectable cells are. However the viral load in these locations are less known especially for mild cases due to inconvenient sampling. 
-##### Broncho-alveolar-lavage (BAL)
+Despite the lower respiratory tract is the most relevant location, the viral load in these locations is less known especially for mild cases since sampling is complicated. 
+##### Broncho-alveolar-lavage fluid (BAL)
 
 #### Blood
 
@@ -211,17 +236,19 @@ Serious infections are located in the lower respiratory tract where the largest 
 
 ## Fatality Rate
 [in work]
-The death rate depends on many factors and varies considerably. 
+The death rate depends on many factors and varies considerably.
+
 ### Measure Method
-The death rate depends on how a Covid-19 infection is defined and diagnosed: E.g. not to all infection in the upper respiratory tract the body responds with antibodies or only antibodies of a specific type. On the other hand a lower respiratory tract infection may yield antibodies but be negative at a single PCR for the upper respiratory tract. 
+The death rate depends on how a Covid-19 infection is [defined](#covid-19) and [diagnosed](#diagnosis).
+
 ### Estimates
 [in work]
 * John Ioannidis infers the death rate from seroprevalence data across the world. Results:
   * 0.27% is the median COVID-19 infection fatality rate   (0.23% if corrected for the number of antibody types tested (immunoglobin, IgG, IgM, IgA))
-  * 0.09% in locations with COVID-19 population mortality rates less than the global average (< 118 deaths/million)
-  * 0.20% in locations with 118–500 COVID-19 deaths/million people
-  * 0.57% in locations with > 500 COVID-19 deaths/million people
-  * 0.05% corrected median for people younger than 70 years
+  * 0.09% infection-fatality-rate in locations with COVID-19 population-mortality-rates less than the global average (< 118 deaths/million)
+  * 0.20% infection-fatality-rate in locations with 118–500 COVID-19 deaths/million people
+  * 0.57% infection-fatality-rate in locations with > 500 COVID-19 deaths/million people
+  * 0.05% infection-fatality-rate corrected median for people younger than 70 years
 
 
 
@@ -372,6 +399,5 @@ Individuals from two cohorts of asymptomatic persons: the contact tracing cohort
 
 ## Appendix
 > #### Personal Covid Experience
-> I likely had Covid-19 myself in early to mid March 2020 when temperatures were still about -10 degree Celsius in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to official prevalence and 3) lastly because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session which by itself went well, but it turned out to have been a bad idea: since in the following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were more calming instead of ringing the bells. Later on temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
+> I likely had Covid-19 myself in early to mid March 2020 when temperatures were still about -10 degree Celsius in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to official prevalence and 3) because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session which by itself went well, but it turned out to have been a bad idea: since in the following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were more calming instead of ringing the bells. Later on temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
 > Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: before the first symptoms, I had a long day and a rather stressful sleep afterwards, so the immune system likely not had enough time and resources to control the viruses. 
-> All in all I should have been more careful and wasn't exemplary in the early and mid phase.
