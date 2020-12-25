@@ -148,7 +148,7 @@ In tissues containing infected cells or in the lining fluids protecting/cleaning
 * #### Detect Metabolism of Coronaviruses
   Temporary RNA produced from coronaviruses with a running metabolism.
 * #### Detect Infectious Virions
-  Material possibly containing virions can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change/damage or detecting RNA to see whether there were infectious virions in the material in question. The material can be diluted so much that virus colonies originating from single virions can be distinguished. In this  way the number of infectious virions can be determined.
+  Samples possibly containing virions can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change/damage or detecting RNA to see whether there were infectious virions in the  samples. The samples can be diluted so much that virus colonies originating from single virions can be distinguished. In this  way the number of infectious virions can be determined.
 
 ### Methods to Indirectly Detect Viruses
 * #### Detect Tissue damage
