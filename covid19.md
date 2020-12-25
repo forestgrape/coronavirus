@@ -143,10 +143,12 @@ In tissues containing infected cells or in the lining fluids protecting/cleaning
     The genome of virions (positive single stranded RNA for coronaviruses). The amount of virions - called [viral load](#viral-load) - present can be determined with high specificity.
   * ##### Antigen Test
     Methods detecting proteins of virions are usually called antigen tests (virus proteins are called antigens since these proteins can be recognized by the immune system as harmful).
+  * ##### PCR vs Antigen Tests
+    The sensitivity and specificity of antigen tests depend on the exact antigen test and tend to be lower for most antigen tests available as of December 2020.
 * #### Detect Metabolism of Coronaviruses
   Temporary RNA produced from coronaviruses with a running metabolism.
 * #### Detect Infectious Virions
-  **Serology** Material possibly containing virions can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change/damage or detecting RNA to see whether there were infectious virions in the material in question. The material can be diluted so much that virus colonies originating from single virions can be distinguished. In this  way the number of infectious virions can be determined.
+  Material possibly containing virions can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change/damage or detecting RNA to see whether there were infectious virions in the material in question. The material can be diluted so much that virus colonies originating from single virions can be distinguished. In this  way the number of infectious virions can be determined.
 
 ### Methods to Indirectly Detect Viruses
 * #### Detect Tissue damage
@@ -155,7 +157,7 @@ In tissues containing infected cells or in the lining fluids protecting/cleaning
   * optical e.g. round glassy occupancies in the lung are characteristic for Covid-19 [to check and cite]
 * #### Detect Immune Response
   * #### Antibody Test
-    Often referred as *serology*. For infections triggering certain alarms the immune response involves antibodies which can be detected in the blood. There are different kind of antibodies which are produced at different stages during and after an infection. Infection in later stages and past infections can be laboratory diagnosed  
+    For infections triggering certain alarms the immune response involves antibodies which can be detected in the blood. There are different kind of antibodies which are produced at different stages during and after an infection. Infection in later stages and past infections can be laboratory diagnosed. The antibodies are in the serum of the blood. Methods analyzing the blood serum are called *serology* and often antibody test are referred serological test.
 
 
 ### Diagnosis Locations
@@ -170,8 +172,10 @@ The fluids in the respiratory tract are a good locations to detect SARS-CoV-2 vi
 ### Review of Common Diagnostic Methods
 * #### Nasopharyngeal Swabs with PCR
   The current 'gold standard' for Covid-19 diagnosis are nasopharyngeal swabs. 
+  (+/-) quite easy to take but trained persons are needed
+  (+) the sensitivity is good for severe infections. 
 * #### Nasopharyngeal Swabs with Antigen Tests
-  [in work]
+  as for Nasopharyngeal but 
 * #### Salvia with PCR
   Salvia since easier to sample than the back of the nose. The detection rate of SARS-CoV-2 in salvia mixed with cough up sputum seems to perform as well or even better as NPS (section [Viral Load](#viral-load) and [summary Lee](#summarized-review-lee).
 * #### Salvia with Antigen Tests
