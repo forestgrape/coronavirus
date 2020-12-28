@@ -12,7 +12,7 @@
 * [Summary](#summary)
 * [Thoughts about Economical Systems](#thoughts-about-economical-systems)
   * [Capitalism](#capitalism)
-* [Government Support](#government-support)
+* [Classical Support Measures](#classical-support-measures)
   * [Acyclic Spending](#acyclic-spending)
   * [Lowering the Interest Rates](#lowering-the-interest-rates)
   * [Targeted Financial Support](#targeted-financial-support)
@@ -43,10 +43,10 @@
 ### Baseline Principles
 Principles assumed here.
 1. We all should be able to live the life we want while respecting the rest of the world doing so too. 
-2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan.  (Inspired by John Rawls' theory of justice). Fairness in the following is used in this sense of different appealing opportunities to pursue the economic life. Fair in this sense does not necessarily mean equal in wealth or in the way of life.
+2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan. Fairness in the following is used in this sense of different appealing/attractive opportunities to pursue the economic life (Inspired by John Rawls' theory of justice). Fair in this sense does not necessarily mean equal in wealth or in the way of life.
 3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain branches/subgroups. Singling out and supporting branches/subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everyone. 
 
-    > In the case for Covid-19, determine branches and businesses needing temporary support is not easy. Some are effected directly, some indirectly. Even inside branches there can be differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction or even IT businesses specialized on large scale events can need to reorientate and thus rely on support.
+    > In the case for Covid-19, determine branches and businesses needing temporary support is not easy. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction or even IT businesses specialized on large scale events can need to reorientate and thus may need support.
 
     > Relevant but subjective and slightly off-topic notes on fairness in the section [Thoughts about Fairness](#thoughts-about-fairness).
 
@@ -54,7 +54,7 @@ Principles assumed here.
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
 ## Summary
 [**in work**]
-From time to time parts of the economy are shaken, local or worldwide, in specific branches or uniform. Covid-19 does so in specific branches. Usually governments need to support both companies and individuals. An ideal economical system would adapt itself to a changed environment. The goal here is to improve the financial system to make the economy more resilient, adaptable and fair. 
+From time to time parts of the economy are shaken, local or worldwide, in specific branches or uniform. Covid-19 does so in specific branches. Upon economic quakes governments usually support both companies and individuals. An ideal economical system would adapt itself to a changed environment. The goal here is to improve the financial system to make the economy more resilient, adaptable and fair. 
 
 1. First classical support measures are listed and pro and contras discussed. 
    * targeted support is complicated and can be unfair since some fall through the nets
@@ -76,7 +76,7 @@ From time to time parts of the economy are shaken, local or worldwide, in specif
    * Education options (from child care to IT courses for seniors)
    * Transportation and Telecommunication
    * Health care
-   * Accessible Production Infrastructure (not everything can be homemade competitively)
+   * Accessible Production Infrastructure (as of 2020 only nfew goods can be homemade competitively)
 
 ## Thoughts about Economical Systems
 [in work]
@@ -99,26 +99,25 @@ In theory capitalism allows everyone to have an own realm and so design the econ
 
 #### Liquidity in Capitalism
 Most implementations of capitalism work as follows:
-* a National Bank controls the amount of money and lends it to financial service providers (usually banks) with some interest rates
-* the banks lend that money accompanied with financial services to the public. The fees for the services and together with the risk are earned back through interest rates.
+* A National Bank controls the amount of money and lends it to financial service providers (usually banks) with some interest rates
+* The banks provide that money accompanied with financial services (e.g. advice) to the public. The fees for the services and together with the risk are earned back through interest rates.
 
 
 
-## Government Support
+## Classical Support Measures
 Government support options for the economy. 
 
 ### Acyclic Spending
 Depends on what the state owns and whether a short term increase in spending is beneficial.
 Most states own/control:
-* **infrastructure**: e.g. transport and public buildings: well suited for acyclic investment since the infrastructure usually last several decades and often there is some freedom in the timing of renewal. 
-* **education systems**: mostly the need for education is steady and so short term push makes only sense in certain situations
-* **administration**: the need for administration tends to be steady and so short term increase makes only sense in rare situations and tends to be limited. 
+* **Infrastructure**: e.g. transport and public buildings: Well suited for acyclic investment since the infrastructure usually last several decades and often there is some freedom in the timing of renewal. 
+* **Education**: The need for education is steady and so short term push makes only sense in certain/rare situations
+* **Administration**: The need for administration tends to be steady and so short term increase makes only sense in rare situations.
 
 
 
 #### Adequate Situations
-Acyclic government funding works especially well if the crisis involve construction branches.
-
+Acyclic government funding works especially well if the crisis involve construction branches. Construction branches since in many countries a large part of the infrastructure is government owned. 
 * Bank Crisis 2009
   In the bank crisis acyclic investment in infrastructure was suitable because the real estate sector was hard hit and so acyclic investment in construction was possible. 
 * Covid Crisis 2020
@@ -139,7 +138,7 @@ Low interest rates yield more liquidity. Liquidity in turn can yield more invest
 
 ### Targeted Financial Support 
 [**in work and incomplete**]
-Governments can support targeted businesses or individuals.
+Targeted support for businesses or individuals.
 
 #### Individuals
 * Unemployment/Low income Support
@@ -152,30 +151,35 @@ Governments can support targeted businesses or individuals.
 * Support Salaries (the businesses are supported to pay the salaries. The businesses profit since they can keep the employees and thus are ready to restart)
 * Liquidity measures: Credit scheme or guarantees
 
-> // Short-term support in case of sudden changes can be adequate to prevent disruption. Mid-term and long-term, credit markets mostly work for businesses.  Businesses providing important social services can be considered worth supporting. However subsidizing important social services is an alternative  (i.e. support all providing important social services but coupled to requirements on the services).
+> // Short-term support in case of sudden changes can be adequate to prevent disruption. Mid-term and long-term, credit markets mostly work for businesses. Businesses providing important social services can be considered worth supporting. However subsidizing important social services directly is an alternative  (i.e. support all providing important social services but coupled to requirements on the services).
 
 #### Pro/Contra
 [in work]
 
 
 ### Universal Financial Support
-Also called Helicopter Money. Hand out many to everybody. The idea is that the initial consumption starts economic cycles i.e. the initial consumptions yields well going businesses which then invest and generate in turn demands. 
+Also called Helicopter Money. Hand out money to everybody. The idea is that the initial consumption starts economic cycles i.e. the initial consumptions yields well going businesses which then invest and generate in turn demands. 
 #### Effects
 * Individuals/households tend to spend additional money quickly, so a timely increase in private consumption is the result.
-#### Pro
+#### Pro/Contra
 + timely
 #### Contra
 - very expensive and thus increasing debt
 - may not help those enough who need it most
+#### Experiences
+* To tackle deflation in Japan in the 00's there were rounds of helicopter-money. 
 
 ### Financial Support versus Capital Services
 Financial services denotes capital support without any refund mechanism: 
 > ###### Financial Support
-> On this page: *Financial Support* denotes credits without repayment/refund or any other financial obligation.
+> On this page: *Financial Support* denotes credits without repayment/refund nor any other financial obligation.
 
-Capital services on the other hand, denote capital provided subject to some refund mechanism:
+Capital services on the other hand, denote capital provided subject to some refund mechanism and possibly risk assessment (e.g. business plan checks) and advices.
+
 > ###### Capital Services
-> On this page: *Capital Services* provide a legal person with capital and possible advices/guidance in trade to some owe value/return rule. Examples are: classical credits with some interest rate, share/stock in return for initial capital and (convertible) loans.
+> On this page: *Capital Services* provide a legal person with capital and possible advices/guidance in trade to some owe value (e.g. shares) and/or return rule (payback and interest rates). 
+
+Examples of capital services are: classical credits with some interest rate, share/stock in return for initial capital and (convertible) loans.
 
 
 ### Capital Services
