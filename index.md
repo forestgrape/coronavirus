@@ -24,9 +24,7 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- 22.12. [Covid-19](./covid19.md) redone. New sections about Diagnosis and Viral Load in online work - these sections show that salvia is appropriate to diagnose Covid-19. 
-- 22.12. split up the page monitor_and_control.md into two pages [monitoring.md](./monitoring.md) and [controlling.md](./controlling.md)
-- 22.12. section Coronavirus Disease Pattering moved from the section Ideas to Explore to its own page ideas_to_explore/[Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md)
+- 22.12. [Covid-19](./covid19.md) redone. New sections about Diagnosis and Viral Load in online work - these sections show that salvia has a similar sensitivity as nose samples to diagnose Covid-19. 
 - 30.11. Thoughts about [Corona Conform Skiing](./controlling.md#corona-conform-skiing) on the page [Controlling](./controlling.md) 
     > Motivated by current discussions and recent personal experience. 
 - 24.11. New Page on [Economics](./economics.md): The proposal is to provide universal capital services (e.g. credits) instead of providing targeted support in different situations/crisis (e.g. the current Covid situation). Goals are:
@@ -74,6 +72,8 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
 
 ### Minor Updates
+- 22.12. split up the page monitor_and_control.md into two pages [monitoring.md](./monitoring.md) and [controlling.md](./controlling.md)
+- 22.12. section Coronavirus Disease Pattering moved from the section Ideas to Explore to its own page ideas_to_explore/[Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md)
 - 3.11. License set to Creative Commons Attribution 4.0. (before it was at most Creative Commons Att. 4.0)
 - 24.10. Completed&added&linked summaries regarding insects for the section [Backtracing SARS-1/2](#backtracing-sars-cov-12)
 - 20-23.10. Clarifications and corrections across the page with a focus on the sections Transmission, Immune System and Coronaviruses.
@@ -279,7 +279,7 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 The goal of this section is to trace the natural habitats of Sars-like viruses. 
 * The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 21.9.20 is often though as bats. 
-* the jump and adaption to humans is unclear and speculations are flourishing 
+* The jump and adaption to humans is unclear
 
 ### Relevance
 * knowing the habitat can help to adequately prevent additional jumps.
