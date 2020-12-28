@@ -9,24 +9,24 @@ Hypotheses about Nidovirales are discussed. They extend the [page on coronavirus
 * [Origin and Evolution of SARS-like](#origin-and-evolution-of-sars-like)
   * [Summary Ye,Jin](#summary-yejin)
   * [summary boni,lemey](#summary-bonilemey)
-  * [summary anderson](#summary-anderson)
+  * [Summary Anderson](#summary-anderson)
 * [Coronaviruses Interspecies Infections](#coronaviruses-interspecies-infections)
-  * [summary dudas 2017](#summary-dudas-2017)
-  * [summary wang 2017](#summary-wang-2017)
+  * [Summary Dudas 2017](#summary-dudas-2017)
+  * [Summary Wang 2017](#summary-wang-2017)
 * [Observations in Domestic/Captured Animals](#observations-in-domesticcaptured-animals)
-  * [summary guan 2003](#summary-guan-2003)
-  * [summary zhang](#summary-zhang)
-  * [summary k xiao](#summary-k-xiao)
-  * [summary t lam](#summary-t-lam)
+  * [Summary Guan 2003](#summary-guan-2003)
+  * [Summary Zhang](#summary-zhang)
+  * [Summary K Xiao](#summary-k-xiao)
+  * [Summary T Lam](#summary-t-lam)
 * [Observations in Wild Animals other than Bats](#observations-in-wild-animals-other-than-bats)
-  * [summary corman 14](#summary-corman-14)
+  * [Summary Corman 14](#summary-corman-14)
 * [Observations in Bats](#observations-in-bats)
   * [Summary Fan 2019](#summary-fan-2019)
   * [Summary Zhou](#summary-zhou)
-  * [summary ge 2013](#summary-ge-2013)
+  * [Summary Ge 2013](#summary-ge-2013)
 * [Species Tropism](#species-tropism)
-  * [summary zhai](#summary-zhai)
-  * [summary wu](#summary-wu)
+  * [Summary Zhai](#summary-zhai)
+  * [Summary Wu](#summary-wu)
 * [Coronaviruses and Insects](#coronaviruses-and-insects)
   * [Summary Tengs,Jonassen](#summary-tengsjonassen)
   * [Summary Watson 2002](#summary-watson-2002)
@@ -35,7 +35,7 @@ Hypotheses about Nidovirales are discussed. They extend the [page on coronavirus
 [in work]
 
 ## Relevance
-To know the evolutionary hosts is helps to understand Nidovirales. An understanding in turn can enable us to steer coronaviruses infections including SARS-CoV-2.
+To know the evolutionary hosts helps to understand Nidovirales. Understanding in turn can enable us to steer coronaviruses infections, including SARS-CoV-2 infections.
 * #### Analyse & Understand
     Knowing and be able to observe the prehuman hosts is useful for research to better understand SARS-like coronaviruses: 
     - Better understand transmission and evolution of SARS-like viruses.
@@ -94,7 +94,7 @@ Frequent recombination events makes genome analysis challenging. Regions likely 
     - RaTG13 and Sars-CoV-2 are similar in the S gene except for the variable loop region. RaTG13 is divergent in the variable loop region from Sars-CoV-2 and is the likely product of recombination, acquiring a divergent variable loop from an as yet unsampled bat sarbecovirus.
 
 
-### summary anderson 
+### Summary Anderson 
 **The proximal origin of SARS-CoV-2**, Kristian G. Andersen, Andrew Rambaut, W. Ian Lipkin, Edward C. Holmes and Robert F. Garry; Nature Medicine
 
 Review of distinguishing features of Sars-Cov-2 and theories about the origin:
@@ -113,7 +113,7 @@ Review of distinguishing features of Sars-Cov-2 and theories about the origin:
 
 ## Coronaviruses Interspecies Infections
 
-### summary dudas 2017
+### Summary Dudas 2017
 **MERS-CoV spillover at the camel-human interface** Gytis Dudas, Luiz Max Carvalho, Andrew Rambaut, Trevor Bedford; elifesciences.org
 #### Methods
 The phylodynamics of 274 MERS genomes, 174 from human infections and 100 from camel infections is constructed by simulation using structured coalescent models, which treat camels and humans populations as different virus habitats. 
@@ -125,7 +125,7 @@ The phylodynamics of 274 MERS genomes, 174 from human infections and 100 from ca
 * frequent recombination events occur in the camels. 
 * most transmissions to humans occur in the summer months, however large clusters of secondary cases from human to human transmission tend to occur in winter or spring. 
 
-### summary wang 2017
+### Summary Wang 2017
 **Serological Evidence of Bat SARS-Related Coronavirus Infection in Humans, China** - N Wang, Zheng-Li Shi et al, WIV 2017
 #### Methods 
 Serum samples of 218 residents from rural villages in the Yunnan province were were analyzed. The villages are close to the Yanzi and Shitou caves which are inhabited by bats infected with Sars-Cov-like viruses infected bats have been found. The nucleocapsid protein of the bat coronavirus Sars-CoV-Rp3 was used to develop a SARSr-CoV specific ELISA for serosurveillance. 
@@ -135,7 +135,7 @@ The sera of 6 person between 45 and 57 years old were seropositive - correspondi
 
 ## Observations in Domestic/Captured Animals
 
-### summary guan 2003
+### Summary Guan 2003
 **Isolation and Characterization of Viruses Related to the SARS Coronavirus from Animals in Southern China**
 #### Methods
 Investigation of several animals in a live-animal retail market in Shenzhen. 
@@ -144,7 +144,7 @@ Investigation of several animals in a live-animal retail market in Shenzhen.
 #### Results
 All of the racoon dogs and the palm civets showed signs of recent SARS infections. One of the ferrets badgers had antibodies. None of the other animals showed clear signs of a recent SARS infection.
 
-### summary zhang
+### Summary Zhang
 [in work]
 **Pangolin homology associated with 2019-nCoV**, Tao Zhang, Zhigang Zhang et al - Yunnan, 2020
 #### Extracts
@@ -152,7 +152,7 @@ All of the racoon dogs and the palm civets showed signs of recent SARS infection
 - "We found genomic and evolutionary evidences of the occurrence of 2019-nCoV-like coronavirus (named Pangolin-CoV) from dead Malayan Pangolins. Pangolin-CoV is 91.02% and 90.55% identical at the whole genome level to 2019-nCoV and BatCoV RaTG13, respectively."
 
 
-### summary k xiao
+### Summary K Xiao
 **Isolation of SARS-CoV-2-related coronavirus from Malayan pangolins**; Group: Wu Chen, Lihua Xiao, Yongyi Shen; Guangzhou
 #### Methods & Results
 Pangolins confiscated from two transports were investigated:
@@ -164,11 +164,11 @@ Pangolins confiscated from two transports were investigated:
     - The RBD of the spike gene is closest to Human-Sars-CoV-2 while at the 5' end of the S1 part of the spike the similarity is highest to at-SARSr-CoV ZC45.
 * The varying similarities across the regions of the Pangolin-CoV genome indicate recombination events.   
 
-### summary t lam 
+### Summary T Lam 
 #### Methods
 * Investigation of frozen tissue samples (lungs, intestine and blood) from 18 Malayan pangolins (Manis javanica) obtained from anti-smuggling operations in Guangxi from August 2017 to January 2018. High-throughput RNA sequencing revealed the presence of coronaviruses in 6 out of 43 samples (2 lung samples, 2 intestinal samples, 1 lung–intes- tine mixed sample and 1 blood sample from 5 individual pangolins). Using amplicon sequencing six genome sequences are obtained. 
 #### Results
-* Six genome sequencess are obtained and named GX/P1E, GX/P2V, GX/P3B, GX/P4L, GX/P5E and GX/P5L.
+* Six genome sequences are obtained and named GX/P1E, GX/P2V, GX/P3B, GX/P4L, GX/P5E and GX/P5L.
 #### Discussion
 Comparison of the genomes obtained to SARS-like (Fig 1) 
 and recombination analysis (Fig 2)             
@@ -181,7 +181,7 @@ and recombination analysis (Fig 2)
 
 ## Observations in Wild Animals other than Bats
 
-### summary corman 14
+### Summary Corman 14
 **Characterization of a Novel Betacoronavirus Related to Middle East Respiratory Syndrome Coronavirus in European Hedgehogs**
 #### Methods
 * analyzing of 248 fecal samples from wild European hedgehogs for CoVs
@@ -223,7 +223,7 @@ Review bat coronaviruses in China with a focus on: viral diversity, reservoir ho
 * Phylogenetic tree of SARS-2-close constructed with the whole genome, the spike, the RBD, RdRp. Since the distance vary through genome regions, the trees vary in structure. The varying distances/tree structures indicate recombination.
 
 
-### summary ge 2013
+### Summary Ge 2013
 **Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor.** Ge, Shi et al - WIV - Nature 2013
 #### Methods
 Bats in the two caves Yanzi and Shitou in northern Yunnan were analyzed for coronaviruses infections.
@@ -235,7 +235,7 @@ Bats in the two caves Yanzi and Shitou in northern Yunnan were analyzed for coro
 
 ## Species Tropism
 
-### summary zhai
+### Summary Zhai
 **Comparison of Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein Binding to ACE2 Receptors from Human, Pets, Farm Animals, and Putative Intermediate Hosts**
 #### Methods
 * The binding of SARS-CoV-2 spikes to ACE 2 receptors of different animals is predicted based on X-ray structures of human ACE2 bound to the receptor-binding domain (RBD) of the spike protein (S)
@@ -244,7 +244,7 @@ Bats in the two caves Yanzi and Shitou in northern Yunnan were analyzed for coro
 * based on the number of key residue changes from human ACE 2, good binding is predicted for cat-like, sheep and cattle. 
 * "In summary, binding of S of SARS-CoV-2 to ACE2 proteins tolerates a surprisingly large number of amino acid changes in the interaction surface, five in pig ACE2 and seven in civet ACE2."
 
-### summary wu
+### Summary Wu
 **In Silico Analysis of Intermediate Hosts and Susceptible Animals of SARS-CoV-2**
 #### Methods
 Selection of 82 representative ACE2 sequences from the 1000 sequences with the closest homology to the human ACE2 protein. The selected ACE2 proteins were modeled by homology modeling and the binding free energy of ACE2 protein with the RBD of SARS-CoV-2 calculated <!--todo:lookup which method is used-->. 
@@ -258,23 +258,22 @@ The ACE 2 receptors of primates and cat-like ACE are predicted to bind well to t
 **A mobile genetic element in the SARS-CoV-2 genome is shared wit multiple insect species**
 #### Review of s2m knowledge
 * s2m is a 41-43 nucleotide element always occuring at the 3’ of genomes
-* the s2m hairpin-forming element
-* s2m occurrence in viruses in patchy but if occurring the element is highly conserved.
+* s2m is a hairpin-forming element
+* s2m occurrence in viruses is rare but if occurring the element is highly conserved, both in sequence and secondary structure.
 * s2m is the only known example of a genetic element to move between distantly related viruses
 * s2m is known to occur in Sarbecoviruses 
-* s2m is a well conserved both in sequence and secondary structure
 * unknown function
 #### Methods
-* all known s2m genotypes are searched using BLASTN in:
+* Search for all known s2m genotypes using BLASTN in:
   * the entire virus section of GenBank to find out the presence in viruses
   * TSA and whole genome shotgun contigs databases to find out the presence in insects
-* phylogenetic analysis using
+* Phylogenetic Analysis using
   * ClustalW for aligning
   * MEGA X for maxiumum likelihood
   * James-Taylor-Thornton (JTT) substitution model
 #### Results 
 * 5553 s2m accessions
-  * 3984 in SARS-Cov-2 strains
+  * 3984 in SARS-Cov-2 strains // SARS-CoV-2 is the most sequenced Sarbecovirus
   * two similar sequences in virome of the spider species Tetragnatha maxillosa
   * winter moth and bagworm moth
 * G>U mutation in position 31 which is only observed in the pandemic SARS-CoV-2 strains and in no other accessions s2m sequences
