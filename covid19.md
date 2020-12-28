@@ -4,7 +4,7 @@
 * [Introduction](#introduction)
 * [Disease Factors](#disease-factors)
 * [Infection Locations](#infection-locations)
-  * [Infection Location and Symptoms](#infection-location-and-symptoms)
+  * [Common Infection Location](#common-infection-location)
 * [Immune Response and Symptoms](#immune-response-and-symptoms)
   * [Causes of Symptoms](#causes-of-symptoms)
   * [Localized Symptoms](#localized-symptoms)
@@ -31,7 +31,7 @@
 
 
 ## Public Description
-Covid-19 has different clinical pictures and [symptoms](#immune-response-and-symptoms). The symptoms vary since they depend on the [locations](#infection-locations) infected. SARS-CoV-2 can infect many locations in the respiratory tract except the vocal folds. Therefore any kind of respiratory symptoms - except a hoarse voice - can indicate Covid-19. With such symptoms one should avoid crowded indoor spaces and do a Covid test. 
+Covid-19 has different clinical pictures and [symptoms](#immune-response-and-symptoms). The appearances vary since they depend on the [locations](#infection-locations) infected andq SARS-CoV-2 can infect many locations in the respiratory tract except the vocal folds. Therefore any kind of respiratory symptoms - except a hoarse voice - can indicate Covid-19. With such symptoms one should avoid crowded indoor spaces and do a Covid test. 
 Many of the symptoms are not specific to Covid-19, they may have other causes than SARS-CoV-2: having a (respiratory) infection with different virus or a bacterium, having eaten/drunken something harmful (e.g. rotten or too much alcohol and the like)or just not having had enough sleep.
 
 
@@ -58,20 +58,26 @@ Virus diseases are cause by virus infections:
 > ##### Virus Infection
 > A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing/hijacking the cells metabolism to produce virus progeny - called virions. More about viruses and their infections in the chapter [Introduction to Viruses](./coronavirus.md#introduction-to-viruses)
 
-If a virus infection causes lack of ease, one has a virus disease. 
+If a virus infection causes lack of ease, one has a virus disease:
 
 > ##### Virus Disease
 > A *virus disease* is a [virus infection of an organism](./coronavirus.md#virus-infection) causing adverse effects. 
 
-Adverse effects result either directly through tissue damage caused by viruses but usually to keep the body virus free (to prevent future cell/tissue damage) a strong immune response is induced causing effects/symptoms on its own e.g. fever.
+Adverse effects result either directly through tissue damage caused by viruses or more frequent to keep the body virus free (to prevent future cell/tissue damage) a strong immune response is induced causing effects on its own.
 
-The virus disease definition is not strict, since adverse effects or tissue damage are often small and in such cases a virus infection is not considered a disease. 
-Virus infections causing no inconvenience/lack of ease are usually not considered as a diseases. The definition isn't uniform for all viruses, for viruses which can be highly pathogenic usually one speaks of a disease if there is an infection diagnosed regardless whether there are symptoms.
+The definition of a virus disease is not strict:  
+* Adverse effects or tissue damage are often small and no lack of ease is caused. For most viruses very mild infections are not considered diseases. 
+* For viruses which can be highly pathogenic usually one speaks of a disease if there is an infection diagnosed regardless whether there are symptoms or adverse effects.
 
 > ##### Covid-19
-> *Covid-19* stands for COronaVIrus Disease 2019.
+> *Covid-19* stands for COronaVIrus Disease 2019. As of December 2020, all SARS-CoV-2 infections are called Covid-19. 
 
-"Covid-19" is often used synonymously with having SARS-CoV-2 viruses detected by NPS sampling [more in the section diagnosis](#diagnosis). However not all persons infected with SARS-CoV-2 have viruses in the nose. It is even possible to have severe Covid-19 without having detectable viruses by nose swabs [citation in work]. People with a sensible immune system may experience symptoms before there is a detectable viral load in the upper respiratory tract. On the contrary some people have a detectable viral load in the upper respiratory tract but no symptoms. 
+In colloquial language, "Covid-19" is often used synonymously with having SARS-CoV-2 viruses detected in the upper respiratory tract, often tested by nasopharyngeal sampling and PCR testing. However the situation is not that simple:  
+* Not all persons infected with SARS-CoV-2 have a detectable amount of viruses in the nose since SARS-CoV-2 can infect the lower respiratory tract only. Especially people with a sensible immune system may experience symptoms without having a detectable viral load in the upper respiratory tract. But it is also possible to have severe Covid-19 without having detectable viruses by nose swabs [citation in work].  
+* On the contrary some people have a detectable viral load in the upper respiratory tract but no symptoms. The following terms describe the symptom stage of a person.
+
+More about in the sections [Diagnosis](#diagnosis) and Locations](#infection-locations).
+
 > ##### Symptomatic
 > A person experiencing/notifying/showing symptoms of a disease is called symptomatic. 
 > ##### Asymptomatic
@@ -104,8 +110,8 @@ Different topics related to the infection locations are described in the section
 * On the [coronavirus page](./coronavirus.md), the section [tissue tropism](./coronavirus.md#tissue-tropism-of-sars-cov-2) describes the tissue preferences of coronaviruses and SARS-CoV-2 especially.
 * The experimental page [Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md) describes that coronavirus infections at different locations can be experienced/observed as different diseases.
 
-### Infection Location and Symptoms
-* Upper Respiratory Tract => Symptoms are similar to other respiratory diseases: a sore throat, coughing and a runny nose. Loss of smell or taste occurs too and is more specific to Covid-19. 
+### Common Infection Location
+* Upper Respiratory Tract => Symptoms are similar to other respiratory diseases: a sore throat, coughing and a runny nose. Loss of smell or taste.
 * Throat => Coughing, the body wants to get rid of the viruses in the respiratory tract.
 * Central Bronchi => Dry cough.
 * Deep Lungs i.e. small bronchi, alveoli => If the lungs get involved, symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks.
@@ -157,7 +163,8 @@ In tissues containing infected cells or in the lining fluids protecting/cleaning
   * optical e.g. round glassy occupancies in the lung are characteristic for Covid-19 [to check and cite]
 * #### Detect Immune Response
   * #### Antibody Test
-    For infections triggering certain alarms the immune response involves antibodies which can be detected in the blood. There are different kind of antibodies which are produced at different stages during and after an infection. Infection in later stages and past infections can be laboratory diagnosed. The antibodies are in the serum of the blood. Methods analyzing the blood serum are called *serology* and often antibody test are referred serological test.
+    [in work] <!--td: update immune sys page with antibodies>
+    For infections triggering certain alarms the immune response involves antibodies which can be detected in the blood. The antibodies are in the serum of the blood. Methods analyzing the blood serum are called *serology* and often antibody test are referred serological test. There are different kind of antibodies which are produced at different stages during and after an infection. Infections in later stages and past infections can be laboratory diagnosed. 
 
 
 ### Diagnosis Locations
@@ -323,6 +330,27 @@ Three groups of patients are analyzed:
 * Group 2: Two salvia samples were positive for SARS-CoV-2. No positive ONS samples by group construction.
 * Group 3: SARS-CoV-2 was detected in the saliva of two patients, and only in ONS of one patient. 
 
+#### Summary Huber
+
+
+##### Methods
+* "Adults and children that qualified for a regular SARS-CoV-2 test according to the FOPH (Swiss federal office of public health) and reported to one of the participating test centers or emergency units were enrolled from October 20, 2020 to November 4, 2020. In total 1187 individuals (male 54.8%/female 45.2%) were included (Table1)." 
+* "Participants were either asked to clear the throat thoroughly (“Basic”, N = 835) or in an intensified protocol to clear it three times (“Enhanced”, N = 352) and collect about 0.5 – 1 ml of saliva."
+* "In the present study, neither eating, drinking nor smoking was controlled as study subjects came for an elective analysis by NPS and thus could only be informed about the saliva sampling on site immediately before the collection."
+*  "Immediately after saliva collection, VTM (virus transport medium) was added to the crude saliva and the content mixed through gentle twisting." 
+*  "Saliva was collected directly after NPS and both specimens immediately sent for SARS-CoV-2 RT-PCR testing."
+##### Results
+Salvia\Swab | Swab positive | Swab negative | Total
+--|--|--|--
+Saliva positive |       228 |           4   |  232 
+Salvia negative |        20 |         935   |  955
+Total           |       248 |         939   | 1187 
+
+
+* "We observed decreasing viral loads with ongoing symptomatic infection in both saliva and NPS, highlighting a transient window of detection in the upper respiratory tract. Interestingly, changes in saliva were overall less dynamic than in NPS (Figure 4B)."
+* "In line with a trend to lower viral loads, i.e. higher Ct values in absence of symptoms (asymptomatic median Ct 28.4; mild symptoms median Ct 23.7; strong symptoms median Ct 21.6)"
+* "Up to a Ct 33 (equivalent to approximately 26’000 genome copies/ml) in the corresponding NPS, a notably high PPA (97.6%) is reached."
+
 
 #### Summary Procop
 Procop GW, Shrestha NK, Vogel S, Van Sickle K, Harrington S, Rhoads DD, Rubin BP, Terpeluk P. 2020. 
@@ -355,7 +383,7 @@ Total           | 38        | 178           | 216
 ##### Limitations
 Data not uniform/consistent:
 * Of the 622 patients with NPS samples only 522 provided salvia samples (but not written if the positive 39 belonged to the 522).
-* Only 50 salvia samples of all those negative with negative NPS were analyzed.  
+* Only 50 salvia samples of those tested negative by NPS were analyzed.  
 
 #### Summary Vaz
 **Saliva is a reliable, non-invasive specimen for SARS-CoV-2 detection**
