@@ -362,7 +362,7 @@ A slow down of nightlife can reach from an early closure of clubs to a complete 
 >   2. Feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore are not recognized.
 
 ### Reduce Alcohol Consumption
-The history of prohibition dates back nearly as long, as history itself has been handed down. Full prohibition never really worked. Today many countries have increased taxes. Often the taxes are not very high, just enough to reduce consumption but smuggling doesn't pay off. 
+The history of prohibition dates back nearly as long, as history itself has been handed down. Full prohibition never really worked. Today many countries have increased taxes. The taxes mostly are high enough to reduce consumption but low enough that smuggling doesn't pay off. 
 * ThinkThrough:
   * Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms.
   * Alcohol reduces the ability to concentrate and rashly action are more common, that's why no driving. Permanent following of corona prevention measures needs concentration.
