@@ -9,18 +9,23 @@
 * [Immune Response and Symptoms](#immune-response-and-symptoms)
   * [Causes of Symptoms](#causes-of-symptoms)
   * [Localized Symptoms](#localized-symptoms)
+* [Disease Stages](#disease-stages)
 * [Diagnosis](#diagnosis)
   * [History of Covid-19 Diagnosis](#history-of-covid-19-diagnosis)
   * [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)
   * [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)
   * [Diagnosis Locations](#diagnosis-locations)
-  * [Review of Common Diagnostic Methods](#review-of-common-diagnostic-methods)
   * [Challenges regarding Viral Load and Diagnosis](#challenges-regarding-viral-load-and-diagnosis)
 * [Viral Load](#viral-load)
-  * [Local Amplification:](#local-amplification)
+  * [Local Amplification](#local-amplification)
+  * [Relevance of Viral Load](#relevance-of-viral-load)
   * [Types of Specimens](#types-of-specimens)
-  * [Locations](#locations)
+  * [Viral Load at different Locations](#viral-load-at-different-locations)
   * [Tissues](#tissues)
+* [Salvia based Diagnosis](#salvia-based-diagnosis)
+  * [Literature on Salvia for Covid-19 Diagnosis](#literature-on-salvia-for-covid-19-diagnosis)
+  * [Literature on Salvia for Diagnosis](#literature-on-salvia-for-diagnosis)
+  * [Viral Load in Salvia](#viral-load-in-salvia)
 * [Fatality Rate](#fatality-rate)
   * [Estimates](#estimates)
 * [Summarized References](#summarized-references)
@@ -86,26 +91,26 @@ More about in the sections [Diagnosis](#diagnosis) and Locations](#infection-loc
 > Even those person developing symptoms are asymptomatic in the early phase of a disease during these phase a person is called presymptomatic. 
 
 ## Disease Factors
-A virus disease is an interplay of host factors including the host immune system, of the behavior of the virus and of environmental factors.
+A virus disease is an interplay of host factors including the host immune system, the behavior of the virus and of environmental factors.
 
-* __Host factors__ relevant for the tropism of Covid-19 are
+* __Host Factors__ relevant for the tropism of Covid-19 are
     - Cells susceptible to infection and capable of producing viruses (not all cells are susceptible e.g. red blood cells are not).
     - Host [immune response](#immune-response-and-symptoms).
-* __Tropism of SARS-2__
-  Viruses behave different under different environmental factors, described in the section [Tropism of viruses](./coronavirus.md/tropism). E.g. SARS-2 virions can enter only cells containing a matching receptor. To infect a tissue several conditions must be met as described in the chapter [Tissue Tropism of SARS-CoV-2](./coronavirus.md/#tissue-tropism-of-sars-cov-2).
+* __Capabilities and Behavior of the Virus__
+  Viruses behave different under different environmental factors (called tropism of viruses), described in the section [Tropism of viruses](./coronavirus.md/tropism). E.g. SARS-2 virions can initiate cell entry only for cells containing a matching receptor. To infect a tissue several conditions must be met as described in the chapter [Tissue Tropism of SARS-CoV-2](./coronavirus.md/#tissue-tropism-of-sars-cov-2).
 * __Environmental Factors__
     - the travel of virions between hosts and thus the mode of the initial infection. E.g. in dry air exhaled droplets dry out and these are more likely to be deposited deep in the lungs.
     - Environmental factors can influence the host factors as well as the virus tropism and thus indirectly the course of the disease. E.g.:
-      - Very dry air can weaken the immune system of the mucous membrane in the respiratory tract
-      - Dirty air can weaken the clearance of particles in the respiratory tract e.g. by damaging ciliated cells.
+      - Very dry air can weaken the immune system of the mucous membrane in the respiratory tract.
+      - Dirty air can weaken defence mechanisms against viruses e.g. ciliated cells are damaged and thereby the clearance of particles in the respiratory tract is reduced.
 
 
 
 ## Infection Locations
-SARS-CoV-2 infects different tissues in humans. The effects from the virus infection such as tissue damage and symptoms are often local to the infected locations. 
+SARS-CoV-2 infects different tissues in humans. The effects from the virus infection such as tissue damage and symptoms are often local to the infected locations.
 
 Different topics related to the infection locations are described in the sections:
-* The section [Viral Load](#viral-load) describes in which body fluids and tissues how many virions are observed. 
+* The section [Viral Load](#viral-load) describes in which body fluids and tissues how many virions are observed.
 * The [Immune Response and Symptoms](#immune-response-and-symptoms) section gives an overview of the different symptoms induced by the infection location.
 * On the [coronavirus page](./coronavirus.md), the section [tissue tropism](./coronavirus.md#tissue-tropism-of-sars-cov-2) describes the tissue preferences of coronaviruses and SARS-CoV-2 especially.
 * The experimental page [Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md) describes that coronavirus infections at different locations can be experienced/observed as different diseases.
@@ -131,6 +136,8 @@ The symptoms of a [virus disease](#virus-disease) are caused:
 Coronavirus infections can be localized (especially in the early phase), therefore the symptoms can be local and depend on the locations infected as described in the section [Infection Locations and Symptoms](#infection-location-and-symptoms). 
 
 
+## Disease Stages
+[in work]
 
 
 ## Diagnosis
@@ -139,7 +146,7 @@ Coronavirus infections can be localized (especially in the early phase), therefo
 * In late 2019 and early 2020 Covid-19 was often diagnosed based on lung CT findings.
 * From February 2020 to December 2020 the most used method to diagnose Covid-19, is having a detectable amount of SARS-CoV-2 in nasopharyngeal swabs. The viral load is detected either by [PCR-Test](#pcr-test) or [Antigen-Tests](#antigen-test). In the early phase of the Covid-19 pandemics when the bottleneck was the availability of accurate PCR tests. 
 * Late 2020 antigen tests are getting more common.
-* 2021? Alternate Locations? [Review of Diagnosis](#review-of-diagnosis)
+* 2021? Alternate Locations? [Rethink Diagnosis](#diagnosis-locations)
 
 
 ### Methods to Directly Detect Viruses
@@ -150,7 +157,7 @@ In tissues containing infected cells or in the lining fluids protecting/cleaning
     Test for specific sequences in the genome of virions (positive single stranded RNA for coronaviruses). The amount of virions - called [viral load](#viral-load) - can be determined with high specificity and sensitivity. 
   * ##### Antigen Test
     Methods detecting proteins of virions are usually called antigen tests (virus proteins are called antigens since these proteins can be recognized by the immune system as harmful).
-    * There are many different products of antigen tests which vary a lot in sensitivity and specificity. 
+    * There are many different products of antigen tests which vary a lot in sensitivity and specificity.
     * The sensitivity and specificity of antigen tests tend to be lower than PCR based tests for most antigen test kits available as of December 2020.
 * #### Detect Metabolism of Coronaviruses
   Temporary RNA produced from coronaviruses with a running metabolism can be detected by [PCR-Tests](#pcr-test).
@@ -172,37 +179,42 @@ In tissues containing infected cells or in the lining fluids protecting/cleaning
 
 
 ### Diagnosis Locations
-Locations with active viral replication ([Infected Locations](#infection-locations)) or a viral load ([Viral Load](#viral-load)) through deposition are suitable for diagnosis.
+Two types of locations are suitable for diagnosis: 
+* Tissues with active viral replication ([Infected Locations](#infection-locations))
+* Viral Load in body fluids ([Viral Load](#viral-load)) from virus replication in close tissues or deposition. 
 
 The fluids in the respiratory tract are a good locations to detect SARS-CoV-2 virions:
 * Since SARS-CoV-2 infects and transmits mainly through the respiratory tract, the respiratory tracts is the place to search
 * The virions mostly are released on the apical side and therefore there are virions in the fluids covering infected tissues. 
 * For accessibility reasons fluids in the upper respiratory are preferred. However the largest number of susceptible cells to SARS-CoV-2 are in the lower respiratory tract.
 
+Common locations and corresponding methods for diagnosis are:
+* [Nasopharyngeal Swabs](#nasopharyngeal-swabs) 
+* [Salvia Diagnosis](#salvia-diagnosis)
+* [Lung CT](#lung-ct)
 
-### Review of Common Diagnostic Methods
-* #### Nasopharyngeal Swabs with PCR
-  The current 'gold standard' for Covid-19 diagnosis are nasopharyngeal swabs. 
-  (+/-) quite easy to take but trained persons are needed
-  (+) the sensitivity is good for severe infections. 
-* #### Nasopharyngeal Swabs with Antigen Tests
-  as for Nasopharyngeal but 
-* #### Salvia with PCR
-  Salvia since easier to sample than the back of the nose. The detection rate of SARS-CoV-2 in salvia mixed with cough up sputum seems to perform as well or even better as NPS (section [Viral Load](#viral-load) and [summary Lee](#summarized-review-lee).
-* #### Salvia with Antigen Tests
-* #### Lung CT
-  round glassy occupancies in the lung are characteristic for Covid [to check and cite]
-    (+) specific
-    (+) detects infection of the lung regardless whether there are viruses in the upper respiratory tract
-    (-) radiation exposure for patient
-    (-) only in diseases involving the lung significantly and thus sensitivity low
-    => recommended for symptomatic risk patients of very high age with negative test in the upper respiratory tract
+#### Nasopharyngeal Swabs
+Nasopharyngeal Swabs (NPS) are, as of december 2020, often used as 'gold standard' for Covid-19 diagnosis. NPS samples can be analyzed either by PCR or antigen tests.
+(+/-) quite easy to take but trained persons are needed
+(+) the sensitivity is good for severe infections.
+
+#### Salvia
+Described in the section [Salvia based Diagnosis](#salvia-based-diagnosis).
+
+#### Lung CT
+Round glassy occupancies in the lung are characteristic for Covid [to check and cite]
+(+) specific
+(+) detects infection of the lung regardless whether there are viruses in the upper respiratory tract
+(-) radiation exposure for patient
+(-) only in diseases involving the lung significantly and thus sensitivity low
+=> recommended for symptomatic risk patients of very high age (radiation exposure less relevant) with negative test in the upper respiratory tract
 
 
 ### Challenges regarding Viral Load and Diagnosis
 Often investigations for viral load are biased. Reasons are:
 * Sampling is biased towards symptomatic patients. Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and more at risk for severe disease.
-* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in salvia is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%.
+* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in salvia is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%. 
+  > I guess/estimate the sensitivity of NPS testing at a single time point lower than 75%
 * E.g. not to every infection in the upper respiratory tract the body responds with antibodies or only antibodies of a specific type. On the other hand a lower respiratory tract infection may yield antibodies, but be negative at a single PCR in the upper respiratory tract.
 
 
@@ -216,9 +228,10 @@ Often investigations for viral load are biased. Reasons are:
 A viral load is observed in locations with active viral replication. Sometimes a viral load can be detected upon deposition of virions from other infected locations. While the latter is necessary for the initial infection event of a location, the viral load through deposition is often to low to be detected. However often happens local amplification. 
 
 
-### Local Amplification: 
-While the lung is primarily infected and both responsible for the spread to other persons and the symptoms, there are susceptible cells in the nose or in the salviary glands for SARS-CoV-2 replication. Deposited virions can replicate and so the viral load is amplified in these locations. Therefore the nose mucus or salvia often have a detectable viral load and thus are suitable for diagnosis. 
+### Local Amplification
+While the lung is primarily infected and both responsible for the spread to other persons and the symptoms, there are susceptible cells in the nose and in the salviary glands for SARS-CoV-2 replication. Deposited virions can replicate and so the viral load is amplified in these locations. Therefore the nose mucus or salvia often have a detectable viral load and thus are suitable for diagnosis. 
 
+### Relevance of Viral Load
 Knowing the viral load observed in different fluids and tissues is relevant for:
 * __Diagnosis__: For an optimal diagnosis location, the viral load is optimally high for the different disease patterns caused by SARS-CoV-2 and taking specimens is easy.  
 * __Transmission__: Knowing the viral load in different locations (fluids:relevant for spread and infection and tissues:where the viruses replicate) can help to understand and prevent transmissions of SARS-CoV-2 virions.
@@ -232,30 +245,68 @@ Knowing the viral load observed in different fluids and tissues is relevant for:
 Coronaviruses virions are mostly released on the apical surfaces and so the virions in the fluids covering infected cells.
 
 #### Tissues
-Since sampling fluids is enough in most cases tissues are rarely sampled. 
+Since sampling fluids is enough in most cases tissues are rarely collected. Sometimes tissues are analyzed post mortem which show the virus distribution in deadly SARS-CoV-2 infections. 
 
 
 
-### Locations
+### Viral Load at different Locations
 
-#### Upper Respiratory Tract
-[in work] A recommended review is by [Lee et al](#summary-review-lee).
-##### Salvia
-Reviewed in [Lee et al](#summarized-review-lee) and [da Silva](#summarized-review-dasilva). A recommended read is [Yokota](#summary-yokota). A recent careful large scale is [Huber](#summary-huber). 
-##### Posterior Nose Mucus
-Is obtained by nasopharyngeal swabs and the most used location for detecting Covid-19 (as of December 2020). 
-##### Anterior Nose Mucus
-Reviewed in [Lee et al](#summarized-review-lee)
-##### Sputum
-* Salvia with coughed up sputum 
+[in work] A recommended review for the viral load in upper respiratory tract specimens is by [Lee et al](#summary-review-lee).
+#### Viral Load in the Mouth 
+see [Viral Load in Salvia](#viral-load-in-salvia) in the section [Salvia based Diagnosis](#salvia-based-diagnosis)
 
-#### Lower Respiratory Tract
-Despite the lower respiratory tract is the most relevant location, the viral load in these locations is less known especially for mild cases since sampling is complicated. 
-##### Broncho-alveolar-lavage fluid (BAL)
+#### Posterior Nose Mucus
+Is obtained by nasopharyngeal swabs and the most used location for detecting Covid-19 (as of December 2020).
+#### Anterior Nose Mucus
+[in work]
+In the review of  [Lee et al](#summarized-review-lee) some studies investigating the anterior nose mucus are cited.
+#### Sputum
+[in work]
+
+#### Broncho-alveolar-lavage fluid (BAL)
+One of the few locations in the lower respiratory tract which is/can be sampled. Despite the lower respiratory tract is the most relevant location, the viral load in these locations is less known especially for mild cases since sampling is complicated. 
 
 #### Blood
 
 ### Tissues
+[on todo list]
+#### Lung
+#### Kidney
+#### Intestine
+#### Brain
+
+
+
+
+## Salvia based Diagnosis
+The salvia based diagnosis has advantages:
+* Salvia since easier to sample than the back of the nose and suitable for self collection. 
+* The detection rate of SARS-CoV-2 in salvia mixed with cough up sputum seems to perform as well or even better as NPS (section [Viral Load](#viral-load-locations) and [summary Lee](#summarized-review-lee))
+
+but also challenges:
+* The viral load in salvia depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the salvia flow is increased during eating and decreased at night).
+
+### Literature on Salvia for Covid-19 Diagnosis
+Reviewed in [Lee et al](#summarized-review-lee) and [da Silva](#summarized-review-dasilva). A recommended read is [Yokota 2](#summary-yokota-2). A recent detailed investigation with 252 positive testees (228 salvia & NPS, 20 NPS only, 4 salvia only) is [Huber](#summary-huber).
+
+### Literature on Salvia for Diagnosis
+
+
+### Viral Load in Salvia
+The viral load in salvia depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the salvia flow is increased during eating and decreased at night). Direct comparison of different sampling procedures for SARS-CoV-2 viral load are not available to my knowledge (as of 29.12.2020), however a
+
+#### Viral Load for different Sampling Procedures
+* Throat Wash
+* Coughing up Sputum
+* Early Morning Salvia
+* Adding VTM versus
+
+#### Comparing Sampling Procedures
+* Single vs Triple Throat Wash
+* Adding VTM vs 
+#### Viral Load compared to NPS
+The viral load in salvia is similar to the viral load in the nose with an  agreement of about 90%. Since the viral load in salvia depends on the sampling methods, the results obtained in different studies ([Literature](#literature-on-salvia-diagnosis)) vary slightly.
+
 
 
 ## Fatality Rate
@@ -264,23 +315,23 @@ The death rate depends on many factors and varies considerably.
 
 The death rate calculation depends on how a Covid-19 infection is [defined](#infections-and-diseases) and [diagnosed](#diagnosis).
 
-Sometime the terms infection fatality rate and case fatality rate are used. 
-
 > ###### Infection Fatality Rate
-> The *infection fatality rate* denotes how many people having a certain infection die. 
+> The *infection fatality rate* denotes the proportion how many people die from the infection from all people having the infection. 
 > `ifr = #(deaths)/#(all infected)`
 
-> *Fatality rate* on this page always means [infection fatality rate](#infection-fatality-rate), so the terms are used synonymously.
+> *Fatality rate* on this page is used synonymously to [infection fatality rate](#infection-fatality-rate).
 
-How an infection is defined/diagnosed is written when infection counts are used. For most infections it is difficult to to uniformly define what means infected. [Covid-19](#covid-19) is often diagnosed either by PCR test or past infections by seroprevalence of antibodies. These methods don't agree in all cases: One can have a positive PCR test but no antibodies (later on) or having antibodies but a negative PCR test in the nose.
+To define and diagnose an infection is not simple as described in [Diseases and Infections](#infections-and-diseases). Acute [Covid-19](#covid-19) is often diagnosed either by PCR test and past Covid-19 by seroprevalence of antibodies. These methods don't agree in all cases: One can have a positive PCR test but no antibodies formation or having antibodies but a negative PCR test in the nose (especially if measured only at a single time point).
 
 
 > ###### Case Fatality Rate
 > The *case fatality rate* denotes the death rate obtained by using the official case counts: `cfr = #deaths/#(official cases)`
  
 
-For Covid-19 the official case counts are usually fare to low, so the cfr is fare too high. So a very high cfr can indicate many hidden cases:  
-> Calculations related to cfr can be used to estimate how many infected go unnoticed/undetected in different regions (section [Detect Estimates Out of Bounds](./monitoring.md#detect-estimates-out-of-bounds) in the [Monitoring chapter](./monitoring.md)).
+For Covid-19 the official usually miss the majority of the cases, which yields a cfr fare to high. 
+> The relation between cfr can ifr can be exploited to estimate the `detection rate = #(case count)/#(actual infected)` and the hidden cases:  
+`cfr/ifr = [#(deaths)/#(all infected)] / [#(deaths)/#(cases count)] = #(case count)/#(all infected) = detection rate`  
+(more in the section [Detect Estimates Out of Bounds](./monitoring.md#detect-estimates-out-of-bounds) in the [Monitoring chapter](./monitoring.md)).
 
 ### Estimates
 [in work]
@@ -338,6 +389,16 @@ Saliva samples of 25 patients with severe COVID-19 are analyzed by rRT-PCR.
 * "In contrast, there was not a significant correlation between usRCT and the Ct values (p = 0.07), but an inverse tendency between this inflammatory index and the viral load detected in saliva (Fig. 1c and d) was observed."
 * "A striking feature was highlighted in two patients who showed positive salivary results on the same days when their pharyngeal or bronchoalveolar swabs proved to be negative."
 
+#### Summary Berenger
+
+##### Methods
+* Twenty-nine participants (58.6% hospitalized) had a saline gargle sample collected.
+* "[Pasomsub et al.](#pasomsub) report on a low number of patients (n 1⁄4 21 positives), finding a sensitivity of 84.2% for saliva collected in UTM compared with NP and oropharyngeal/throat (OP) swabs for the detection of SARS-CoV-2. We therefore decided to test the method of Pasomsub et al. in a larger number of patients."
+* "PCR-positive individuals admitted to the hospital or in the community diagnosed by a NP or OP swab gave their consent"
+* Collection Methods:
+  * For the saline gargle and spit method, participants took 3 mL of 0.85% sterile saline into their mouth, moved it back and forth to each side of the mouth twice, then gargled for 3 s and spat into a sterile polypropylene urine collection container (~4 cm wide). 
+  * For the UTM method, participants accumulated saliva for 1 - 2 min (no specific volume) and spat into an empty urine container, and then 3 mL of Copan Italia UTM-RT (Code 330C) was immediately added.
+
 
 #### Summary Iwasaki
 Iwasaki, S., Fujisawa, S., Nakakubo, S., Kamada, K., Yamashita, Y., Fukumoto, T., Sato, K., Oguri, S., Taki, K., Senjo, H., Sugita, J., Hayasaka, K., Konno, S., Nishida, M., & Teshima, T. (2020). **Comparison of SARS-CoV-2 detection in nasopharyngeal swab and saliva.** The Journal of infection, 81(2), e145–e147. https://doi.org/10.1016/j.jinf.2020.05.071
@@ -391,11 +452,11 @@ J Clin Microbiol 58:e01946-20. [https:// doi.org/10.1128/JCM.01946-20]()
 ##### Results
 216 of the 224 patients had analyzed both samples without errors (9 errors in total).
 
-Salvia\Swab | Swab positive | Swab negative | Total
+Salvia\Swab     | Swab positive | Swab negative | Total
 --|--|--|--
-Saliva positive | 38        | 1             | 39 
-Salvia negative |  0        | 177           | 177
-Total           | 38        | 178           | 216 
+Saliva positive | 38            | 1             | 39 
+Salvia negative |  0            | 177           | 177
+Total           | 38            | 178           | 216 
 
 ###### Notes
 * "The overall mean (SD) CT value for the positive NPS specimens was 20.55 (5.36) cycles, whereas the corresponding overall mean (SD) CT value for enhanced saliva specimens was 24.16 (4.80) cycles, for a mean difference in CT value for paired NPS and saliva specimens of -3.61 (95% CI, -5.78 to -1.44; P = 0.002)."
@@ -491,4 +552,4 @@ Total           |  5        | 1758   | 1763
 ## Appendix
 > #### Personal Covid Experience
 > I likely had Covid-19 myself in early to mid March 2020 when temperatures were still about -10 degree Celsius in my area. For me the initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to official prevalence and 3) because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session. During the sport session I felt fit, but it turned out to have been a bad idea: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
-> Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: The day before the first symptoms was long and rather stressful, so the immune system likely not had enough time and resources to control the viruses initially. But it then reacted timely: from the likely infection event (somebody coughing roughly 4 meters away in the same room) to the first symptoms is was less than twelve hours. 
+> Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. But it then reacted timely: from the likely infection event (somebody coughing roughly 4 meters away in the same room and I was there for about 1 hour) to feeling strange is was less than twelve hours. 
