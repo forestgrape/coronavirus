@@ -17,6 +17,7 @@
   * [Numbers and Comments](#numbers-and-comments)
 * [Data](#data)
   * [Distributed Handling](#distributed-handling)
+  * [Data Specifications](#data-specifications)
 
 
 ## Monitor Evolution
@@ -92,10 +93,10 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 ## Testing Schemes
 Testing some for low and high incidence. Reasons are noted or already mentioned in the section [What to Monitor](#what-to-monitor).
 ### Testing Priorities at High Incidence 
-1. Testing of risk patients. Reason: Appropriate treatment.  
+1. Testing of risk patients. Reason: Appropriate treatment and prevention of spread (to other risk persons). 
 2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
 3. How many people with respiratory disease symptoms have Covid-19. 
-4. Tests to do contact tracing. Reason: Break infection chains
+4. Tests to do contact tracing. Reason: Break infection chains.
 5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. 
 6. Monitoring respiratory diseases: influenza and common colds. 
 7. Tests for travel permissions, quarantine cancel and so on.
@@ -122,9 +123,9 @@ Notations and Equivalences:
 
 ### Numbers and Comments
 [in work and to be checked]
-* The **numbers can vary greatly** across regions and hospitals capacities, population structure and how the infection are distributed across the population. 
+* The **numbers vary** across regions and hospitals capacities, population structure and how the infections are distributed across the population. 
 * The **[fatality rate](./covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). 
-* The case counts are the **actual** infected and not only the positive tested. 
+* The case counts are the **actual infected** and not only the positive tested. 
 * The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
 [in work]
 * the numbers should be **lower during cold seasons**, since aerosol transmission is very hard to control. Some immune protection can be built up in warm seasons but not in cold season. 
@@ -157,7 +158,7 @@ We humans have billions of brains, so with good communication we've got a lot of
 <!--
 * there are many skilled data scientists around the world. Many spending their time presenting us the most relevant ads. Relevant usually means highest click rate i.e. most distracting. Whether the distraction is good or bad depends on pre and post activity, e.g. to analyze Covid data for a change can be welcome. Remark: I consider adds as useful for product information and spread. -->
 
-#### Data Specifications
+### Data Specifications
 For data analysis it is important to have accurate, consistent and clearly specified data and notifications about possible inaccuracies or changed specifications. Notified corrections are helpful too.
 
 The different measurement methods regarding Covid-19 with no or few specifications have a lot of space for improvement all around the world. A uniform agreement on annotations would make the data better comparable.
