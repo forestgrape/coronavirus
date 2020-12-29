@@ -415,7 +415,8 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 
 ## Tropism 
-> <span id='tropism'>*Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism in the case of viruses describes how viruses react to different circumstances.</span>
+###### Tropism
+> *Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism of viruses describes how viruses behave in different biochemical or biological circumstances (e.g. on what conditions they enter a cell). 
 
 <!--
 > In literature, the term tropism of viruses often used only in the context of tissues: in which tissues infections are observed. Here, for observed infections the term habitat is used. -->
