@@ -6,7 +6,7 @@
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
-* The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like.  More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
+* The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like. More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations:
   * For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). Feedback is still appreciated though!
@@ -18,7 +18,7 @@
 > ###### Definitions
 > *Definitions* are written like this and are valid throughout this page. Sometimes only throughout this page. However redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
-> *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style //. Otherwise distinction is done by context/content. 
+> *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content. 
 
 ---
 
@@ -104,7 +104,7 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 <p id="t-content">-----</p> <!--before 1.10.2020: workaround to set ids: Markdown generates ids from titles but github preview/jupyter keeps cases while github pages converts to all lower case. Sometimes these auto-generated title ids are used and these titles are written all lower case. -->
 
 ## Content
-[**partly out of date, new sections are found in updates**]
+[**partly out of date, new sections are found in [updates](#updates)**]
 * [Updates](#updates)
 * [Public Suggestions and Tips](#public-suggestions-and-tips)
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
@@ -227,13 +227,13 @@ Keep in mind that the temperature varies during a day and with the activities pe
 ### Estimate and Adaptive Planning
 While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions don't move on their own and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to withdraw from social gatherings.
 
-Increased infection likelihood:
+Increased infection probability:
 * **Increased Exposure to Viruses**:being in a densely populated and poorly ventilated indoor spaces or close range face to face talking
 * **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air (e.g. sports, high altitude)
 
 Keeping benefits and risks in mind:
 * whether, when and what to do and care about
-* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to be checked] despite excessive sports diminishes the immune system. This likely because they were able to reduce exposure to viruses by being careful and overall a good organization.
+* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to check] despite excessive sports diminishes the immune system. This likely because they were able to reduce exposure to viruses by being careful and overall a good organization.
 
 ### Respect and Take Care 
 > *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
