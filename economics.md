@@ -46,8 +46,8 @@ Principles assumed here.
 
     > In the case for Covid-19, determine branches and businesses needing temporary support is not easy. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction or even IT businesses specialized on large scale events can need to reorientate and thus may need support.
 
-    > Here was a link to related but off topic notes considerations. I have deleted these since they my consideration were partly wrong and depended to much on personal experiences and need a thorough discussion and consideration but the focus for now is on Covid-19. 
-
+    > Here was a link to related but off topic notes considerations. I have deleted these since they my consideration were partly wrong and depended to much on personal experiences and need a thorough discussion and consideration but the focus for now is on Covid-19.
+    > My view is we live together and I am not of fan of thinking in fixed groups. This is subjective, because I personally was/am often out of groups - partly chosen and partly unchosen - which is sometimes not nice. 
 
 [in work]
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
