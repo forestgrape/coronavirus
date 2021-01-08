@@ -31,8 +31,6 @@
 * [Economic System for Liberalism](#economic-system-for-liberalism)
 * [Summarized References](#summarized-references)
 * [References](#references)
-* [Appendix](#appendix)
-  * [Thoughts about Fairness](#thoughts-about-fairness)
 
 > ##### Economics
 > Science about the production, consumption, and transfer of goods and services.
@@ -48,7 +46,8 @@ Principles assumed here.
 
     > In the case for Covid-19, determine branches and businesses needing temporary support is not easy. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction or even IT businesses specialized on large scale events can need to reorientate and thus may need support.
 
-    > Relevant but subjective and slightly off-topic notes on fairness in the section [Thoughts about Fairness](#thoughts-about-fairness).
+    > Here was a link to related but off topic notes considerations. I have deleted these since they my consideration were partly wrong and depended to much on personal experiences and need a thorough discussion and consideration but the focus for now is on Covid-19. 
+
 
 [in work]
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
@@ -272,23 +271,3 @@ More fairness for choosing job/work options.
   https://repository.law.umich.edu/articles/60
 
 
-## Appendix
-### Thoughts about Fairness
-Related but subjective and slightly off topic thought on fairness and how to achieve and analyze it.
-
-> This section is highly subjective and influenced by personal experiences/impressions respectively not experiences/impressions. These depend on many factors, one is the region of living.
-
-
-#### Analyzing System Fairness
-Temporarily partitioning the society into groups can help to discover unfairness in the system i.e. structural. The partitioning can be done for all possible features such as genetic, appearance, location of residence or birth, wealth, date of birth (even the month can have some relevance: statistical analyses show that the month of birth plays a role in the success for a professional team sports career: the ones being the oldest in the sport-year seem to have slightly better chances. Well there are more important things to tackle.) While the results and possible improvement suggestions need to be communicated, the partitioning is only temporarily for analyses, we live together not separated and we work best as one team.
-
-#### Situations to Improve
-In many parts of todays world:
-* The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where high quality education is difficult to access => universal access to high quality education at different stages of the life. Often the switches are set early in life, there ideally there are chances at different stages throughout the life.
-* The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Flexible work-schemes, agile economies & highlighting the benefits of different backgrounds and experiences; e.g. when providing services or goods for the society (groups) it is beneficial to have people with experiences reflecting the society (groups).
-  
-  > When having children, traditionally women prioritize education and men prioritize work. I think both should be able to set a high priority on education (priority is often not the same as time spent). The economy should be designed such that work goes well along the prioritized education. Education is team work and alternating or smooth switching likely work to my guessing - but I don't know really. Of course other options should work well too: one parent focus on education or both focus on work. For all options flexible work schemes and good extern child care are advantageous - there are always times children call and times work calls. 
-  
-  > Educating can be as instructive as working in a large company, one learns to manage, to teach, setting priorities etc.. So all benefit from time spent on education. As any branch switch, switching from education to another branch often needs a learning and adaption phase. For many professions solid foundations and training are needed which can be/have been acquired through a higher education.
-
-  > Teaching (across all age groups and from elementary to academics) I consider as very instructive and it shaped/s my thinking.
