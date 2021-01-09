@@ -46,9 +46,11 @@ Principles assumed here.
 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan. Fairness in the following is used in this sense of different appealing/attractive opportunities to pursue the economic life (Inspired by John Rawls' theory of justice). Fair in this sense does not necessarily mean equal in wealth or in the way of life.
 3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain branches/subgroups. Singling out and supporting branches/subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everyone. 
 
-    > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction business specialized on large scale events may need to reorientate and thus need support.
+    > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction business specialized on large scale events may need to reorientate and thus need support. 
 
-    > In my view, important is we live together and should try to always think to improve life and fairness for everybody. Although I acknowledge, that chances for economic success and benefits are not equally distributed both for individuals and groups in current days economies. 
+    >
+
+    > In my view, with connectedness we have today, I think improvements are best designed to work for all. Although I acknowledge, that the economic opportunities and chances for the benefits vary widely in todays world.
 
     
 [in work]
@@ -99,7 +101,7 @@ In theory capitalism allows everyone to have an own realm and so design the econ
 
 
 #### Liquidity in Capitalism
-Most implementations of capitalism work as follows:
+In most implementations of capitalism liquidity is provided in two steps:
 * A National Bank controls the amount of money and lends it to financial service providers (usually banks) with some interest rates
 * The banks provide that money accompanied with financial services (e.g. advice) to the public. The fees for the services and together with the risk are earned back through interest rates.
 
@@ -112,8 +114,8 @@ Government support options for the economy.
 Depends on what the state owns and whether a short term increase in spending is beneficial.
 Most states own/control:
 * **Infrastructure**: e.g. transport and public buildings: Well suited for acyclic investment since the infrastructure usually last several decades and often there is some freedom in the timing of renewal. 
-* **Education**: The need for education is steady and so short term push makes only sense in certain/rare situations
-* **Administration**: The need for administration tends to be steady and so short term increase makes only sense in rare situations.
+* **Education**: The need for education is steady and so short term push makes only sense in certain/rare situations. Also education providence (especially teachers) often is limited so to scale up education is often not possible. 
+* **Administration**: The need for administration tends to be steady and so short term increase makes only sense in rare situations (contact tracing for Covid-19 is an administrative task for which a short-term increase during a Covid-19 wave is often adequate)
 
 
 
@@ -133,8 +135,8 @@ Lowering the interest rates gets the banks access to cheaper money which in turn
 Low interest rates yield more liquidity. Liquidity in turn can yield more investments and thus can catalyze the transformation of the economy.
 
 #### Pro/Contra
-* A main drawback is that the money flow is top down. From the bank to large companies and usually not much and only retarded the liquidity reaches small businesses.
-  * slow effect since mostly top down: the banks lower their credits rates but mostly likely for large businesses only (small business credits require time to scale since risk checking and so on requires time and personal). Large cooperates discuss whether to take and what to do with additional money, then decisions need to flow through the hierarchy and possible multiple times. So until new jobs are created a lot time passes 
+* A main drawback is that the money flow is top down: From the  large bank to large companies. Small businesses however only get a fraction of the liquidity provided and often additionally retarded. 
+  * Slow effect since mostly top down: the banks lower their credits rates but mostly likely for large businesses only (small business credits require time to scale since risk checking and so on requires time and personal). Large cooperates discuss whether to take and what to do with additional money, then decisions need to flow through the hierarchy and possible multiple times. So until new jobs are created a lot time passes 
   * the jobs are created top down and may not those jobs people reorganizing are looking for or qualified. 
 
 ### Targeted Financial Support 
@@ -276,4 +278,4 @@ More fairness for choosing job/work options.
 ## Appendix
 
 ### Deleted off Topic Thoughts
-> Here was a short section about related but off topic thoughts on some aspects of group related *economic* fairness with two examples. I have deleted these since the focus of this page is on Covid-19 and considering aspects of fairness needs much more work to take into consideration all view points and different experiences. 
+> Here was a short section about related but off topic thoughts on some aspects of group related *economic* fairness. I have deleted these since the focus of this page is on Covid-19 and to some extent on economics (this page) and considering aspects of fairness needs much more work - to take into consideration all view points and different experiences. I intend to republish the thoughts but more careful and better thought through in spring or summer 2021. The deleted drafts are still accessible through the github history function from early drafts to a slightly improved drafts.
