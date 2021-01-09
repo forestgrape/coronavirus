@@ -48,7 +48,7 @@ Principles assumed here.
 
     > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction business specialized on large scale events may need to reorientate and thus need support.
 
-    > In my view, important is we live together and should try to always think to improve life and fairness for everybody. Although I acknowledge, that chances for economic success and benefits are not equally distributed in current days economies. 
+    > In my view, important is we live together and should try to always think to improve life and fairness for everybody. Although I acknowledge, that chances for economic success and benefits are not equally distributed both for individuals and groups in current days economies. 
 
     
 [in work]
