@@ -31,6 +31,8 @@
 * [Economic System for Liberalism](#economic-system-for-liberalism)
 * [Summarized References](#summarized-references)
 * [References](#references)
+* [Appendix](#appendix)
+  * [Deleted off Topic Thoughts](#deleted-off-topic-thoughts)
 
 > ##### Economics
 > Science about the production, consumption, and transfer of goods and services.
@@ -44,11 +46,11 @@ Principles assumed here.
 2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan. Fairness in the following is used in this sense of different appealing/attractive opportunities to pursue the economic life (Inspired by John Rawls' theory of justice). Fair in this sense does not necessarily mean equal in wealth or in the way of life.
 3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain branches/subgroups. Singling out and supporting branches/subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everyone. 
 
-    > In the case for Covid-19, determine branches and businesses needing temporary support is not easy. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction or even IT businesses specialized on large scale events can need to reorientate and thus may need support.
+    > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction business specialized on large scale events may need to reorientate and thus need support.
 
-    > Here was a link to related but off topic notes considerations. I have deleted these since they my consideration were partly wrong and depended to much on personal experiences and need a thorough discussion and consideration but the focus for now is on Covid-19.
-    > My view is we live together and I am not of fan of thinking in fixed groups. This is subjective, because I personally was/am often out of groups - partly chosen and partly unchosen - which is sometimes not nice. 
+    > In my view, important is we live together and should try to always think to improve life and fairness for everybody. Although I acknowledge, that chances for economic success and benefits are not equally distributed in current days economies. 
 
+    
 [in work]
 <!--economic principles an economic system should enable everyone to design the life according to personal preferences-->
 ## Summary
@@ -150,7 +152,7 @@ Targeted support for businesses or individuals.
 * Support Salaries (the businesses are supported to pay the salaries. The businesses profit since they can keep the employees and thus are ready to restart)
 * Liquidity measures: Credit scheme or guarantees
 
-> // Short-term support in case of sudden changes can be adequate to prevent disruption. Mid-term and long-term, credit markets mostly work for businesses. Businesses providing important social services can be considered worth supporting. However subsidizing important social services directly is an alternative  (i.e. support all providing important social services but coupled to requirements on the services).
+> // Short-term support in case of sudden changes can be adequate to prevent disruption. Mid-term and long-term, credit markets mostly work for businesses. Businesses providing important social services can be considered worth supporting. However subsidizing important social services independent of any crisis is an alternative  (i.e. support those providing social services but with requirements on the services).
 
 #### Pro/Contra
 [in work]
@@ -271,3 +273,7 @@ More fairness for choosing job/work options.
   https://repository.law.umich.edu/articles/60
 
 
+## Appendix
+
+### Deleted off Topic Thoughts
+> Here was a short section about related but off topic thoughts on some aspects of group related *economic* fairness with two examples. I have deleted these since the focus of this page is on Covid-19 and considering aspects of fairness needs much more work to take into consideration all view points and different experiences. 
