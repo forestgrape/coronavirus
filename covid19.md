@@ -26,6 +26,8 @@
 * [Salvia based Diagnosis](#salvia-based-diagnosis)
   * [Literature on Salvia Diagnosis](#literature-on-salvia-diagnosis)
   * [Viral Load in Salvia](#viral-load-in-salvia)
+  * [Salvia Sampling Procedures](#salvia-sampling-procedures)
+  * [Salvia Sampling Recommendations](#salvia-sampling-recommendations)
 * [Fatality Rate](#fatality-rate)
   * [Estimates](#estimates)
 * [Summarized References](#summarized-references)
@@ -279,52 +281,53 @@ One of the few locations in the lower respiratory tract which is/can be sampled.
 
 
 ## Salvia based Diagnosis
-The salvia based diagnosis has advantages ([Matic et al](#summary-matic) describe this concisely in their introduction):
-* Salvia since easier to sample than the back of the nose and suitable for self collection. 
-* The detection rate of SARS-CoV-2 in salvia mixed with cough up sputum seems to perform as well or even better as NPS ([summary Lee](#summarized-review-lee))
+Key features of salvia based Covid diagnosis are:
+* Salvia since easier to sample than the back of the nose and suitable for self collection.
+* Viral Load: The viral load in salvia depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the salvia flow is increased during eating and decreased at night).
+  * The viral load in salvia is similar to the viral load in the nose with an  agreement of about 90% but the results obtained in different studies ([Literature](#literature-on-salvia-diagnosis)) vary. One reason for the variation is the noted dependence on the salvia sampling method.
+  * The detection rate of SARS-CoV-2 in salvia mixed with cough up sputum seems to perform as well or even better than NPS ([summary Lee](#summarized-review-lee)). Which is not surprising since sputum is known to have a high viral load/detection rate.
 
-but also challenges:
-* The viral load in salvia depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the salvia flow is increased during eating and decreased at night).
+
+These and more features of salvia based diagnosis are concisely described in the introduction of ([Matic et al](#summary-matic). 
 
 ### Literature on Salvia Diagnosis
 Summaries of the papers are in the section [Summarized References](#summarized-references).
 * Reviews are 
-  * [Lee et al](#summarized-review-lee)(has nice plots comparing the different methods) 
+  * [Lee et al](#summarized-review-lee)(has nice plots comparing the different sampling methods) 
   * [da Silva](#summarized-review-dasilva)(helpful summaries of studies).
 * A interesting read is [Yokota 2](#summary-yokota-2). In his [Opinion Paper](#summary-opinion-by-azzi) L. Azzi opts for salvia based diagnosis and summarizes key points of [Yokota et al](#summary-yokota-2).
 
 
-
 ### Viral Load in Salvia
-The viral load in salvia depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the salvia flow is increased during & after eating and decreased at night). 
+Location of sampling (e.g. throat wash, coughing up sputum) and timing  (e.g. time of day / before after eating since the salvia flow is increased during & after eating and decreased at night). Thus different [Salvia Sampling Procedures](#salvia-sampling-procedures) yield different results. 
 
-#### Viral Load for different Sampling Procedures
+
+### Salvia Sampling Procedures
 [in work]
-Different sampling procedures from different studies are listed and compared in the review of [Lee et al](#summarized-review-lee). 
+As noted in the viral load section (which determines the detection rate) depends on the sampling method.
 * ##### Throat Salvia
-  * Testees in [Huber et al](#summary-huber) were asked to clear the throat. A first group of testees were asked to clear the throat thoroughly (“Basic”, N = 835) and a second group to clear it three times (“Enhanced”, N = 352). A tendency for the enhanced protocol to yield a slightly higher sensitivity is observed.
+  Testees in [Huber et al](#summary-huber) were asked to clear the throat. A first group of testees were asked to clear the throat thoroughly (“Basic”, N = 835) and a second group to clear it three times (“Enhanced”, N = 352). A tendency for the enhanced protocol to yield a slightly higher sensitivity is observed.
 * ##### Coughed up Sputum
 * ##### Early Morning Salvia
 * ##### Saline Gargle
   [Berenger et al](#summary-berenger) hast testees in a first round gargle saline water and in a second round to accumulate and then spit salvia and add universal transport medium (UTM). The sensitivity observed in the UTM method is higher than in the saline gargle method.
-#### Viral Load compared to NPS
-The viral load in salvia is similar to the viral load in the nose with an  agreement of about 90%. Since the viral load in salvia depends on the sampling methods, the results obtained in different studies ([Literature](#literature-on-salvia-diagnosis)) vary slightly.
 
-
+### Salvia Sampling Recommendations
 
 ## Fatality Rate
 [in work]
-The death rate depends on many factors and varies considerably.
-
-The death rate calculation depends on how a Covid-19 infection is [defined](#infections-and-diseases) and [diagnosed](#diagnosis).
 
 > ###### Infection Fatality Rate
-> The *infection fatality rate* denotes the proportion how many people die from the infection from all people having the infection. 
+> The *infection fatality rate/death rate* denotes the proportion how many people die from the infection from all people having the infection. 
 > `ifr = #(deaths)/#(all infected)`
 
 > *Fatality rate* on this page is used synonymously to [infection fatality rate](#infection-fatality-rate).
 
-To define and diagnose an infection is not simple as described in [Diseases and Infections](#infections-and-diseases). Acute [Covid-19](#covid-19) is often diagnosed either by PCR test and past Covid-19 by seroprevalence of antibodies. These methods don't agree in all cases: One can have a positive PCR test but no antibodies formation or having antibodies but a negative PCR test in the nose (especially if measured only at a single time point).
+By the formula above the fatality rate depends on the definition of a SARS-CoV-2 infection and a death cause by SARS-CoV-2, both are not straight forward to define: 
+* SARS-CoV-2 infections and diseases are described in the chapter [Diseases and Infections](#infections-and-diseases). Acute [Covid-19](#covid-19) is often diagnosed either by PCR test and past Covid-19 by seroprevalence of antibodies. These methods don't agree in all cases: One can have a positive PCR test but no antibodies formation or having antibodies but a negative PCR test in the nose (especially if measured only at a single time point).
+* Covid associated deaths are often clear. However since in many severe cases the patients have other illnesses to finally distinguish a death cause can be difficult in some cases. 
+
+Once agreed upon a uniform way to measure the fatality rate, the rate still varies considerably due to different populations structures (e.g. age, exposed air pollution, overall health, ...), medical systems, environmental factors such as climate and living conditions (e.g. living in big buildings). 
 
 
 > ###### Case Fatality Rate
@@ -371,7 +374,7 @@ Selected aggregated results, the complete list is found in Figure 2 in the paper
 * Asymptomatic patients have a detection rate of 87% in salvia and 73% in NPS
 * Symptomatic Patients have a detection rate of 88% in salvia and 96% in NPS
 
-
+ 
 
 #### Summarized Review daSilva 
 Medeiros da Silva, R. C., Nogueira Marinho, L. C., de Araújo Silva, D. N., Costa de Lima, K., Pirih, F. Q., & Luz de Aquino Martins, A. R. (2020). **Saliva as a possible tool for the SARS-CoV-2 detection: A review.** Travel medicine and infectious disease, 38, 101920. 
@@ -387,6 +390,27 @@ Search for (“saliva”) and (“SARS-CoV-2” or “coronavirus” or “COVID
 
 #### Summarized Review Mazumder
 **Diagnostic tests for SARS-CoV-2: current status and issues**
+Different diagnostic tests for Covid-19 are reviewed and pro & contras discussed:
+* Virus culture:
+  Not useful since: Requires skilled workers, high biosafety & 3-6 days for SARS-CoV-2 to cause apparent cytopathic effects.
+* Molecular assays (references for each specimen in the paper):
+  Specimen              | Sensitivity (%)
+  --|--
+  Nasopharyngeal swab   | 63 – 89
+  Oropharyngeal swab    | 32 – 84
+  Brochoalveolar lavage | 93
+  Sputum                | 72
+  Blood                 | 3 – 15
+  Feces                 | 10
+  Anal swab             | 10-21.2
+* Immunoassays (antigen tests):
+  A challenge is especially specificity since: "Within a genus, antibodies against other coronaviruses might cross-react and such cross-reactive conserved viral proteins limit the use of whole virus–based assays, for example, immunofluorescence assay (IFA) [7]."
+* Symptom-based diagnosis
+
+
+
+  
+ 
 
 #### Summary Azzi
 Azzi, L., Carcano, G., Gianfagna, F., Grossi, P., Gasperina, D. D., Genoni, A., Fasano, M., Sessa, F., Tettamanti, L., Carinci, F., Maurino, V., Rossi, A., Tagliabue, A., & Baj, A. (2020). **Saliva is a reliable tool to detect SARS-CoV-2. The Journal of infection,** 81(1), e45–e50. https://doi.org/10.1016/j.jinf.2020.04.005
@@ -527,8 +551,6 @@ Experiments:
   The CT values of the E-gene in the salvia samples stayed constant over the time points measured. 
 
 
-
-
 #### Summary Pasomsub
 [in work]
 **Saliva sample as a non-invasive specimen for the diagnosis of coronavirus disease 2019: a cross-sectional study**
@@ -549,20 +571,28 @@ Procop GW, Shrestha NK, Vogel S, Van Sickle K, Harrington S, Rhoads DD, Rubin BP
 J Clin Microbiol 58:e01946-20. [https:// doi.org/10.1128/JCM.01946-20]()
 ##### Methods
 "An enhanced saliva specimen (i.e., strong sniff, elicited cough, and collection of saliva/secretions) was collected without transport medium prior to collection of NPS from 224 patients with symptoms deemed consistent with COVID-19."
+
 ##### Results
-216 of the 224 patients had analyzed both samples without errors (9 errors in total).
+* 216 of the 224 patients had analyzed both samples without errors (9 errors in total).
 
-Salvia\Swab     | Swab + | Swab - | Total
---|--|--|--
-Saliva +        | 38     | 1      | 39 
-Salvia -        |  0     | 177    | 177
-Total           | 38     | 178    | 216 
+* Detection Rate: 
+  Salvia\Swab     | Swab + | Swab - | Total
+  --|--|--|--
+  Saliva +        | 38     | 1      | 39 
+  Salvia -        |  0     | 177    | 177
+  Total           | 38     | 178    | 216 
 
-###### Notes
-* "The overall mean (SD) CT value for the positive NPS specimens was 20.55 (5.36) cycles, whereas the corresponding overall mean (SD) CT value for enhanced saliva specimens was 24.16 (4.80) cycles, for a mean difference in CT value for paired NPS and saliva specimens of -3.61 (95% CI, -5.78 to -1.44; P = 0.002)."
-* "There was little correlation between the CT values (i.e., viral loads) of the positive saliva and NPS specimens (Pearson correlation coefficient, r = 0.162; P = 0.333) (Fig. 1C)."
+* Viral Load:
+  
+  Specimen\Gene | N-Gene | RNaseP 
+  --|--|--|--
+  Salvia        | 24.2   | 23   
+  NPS           | 20.6   | 25.1
 
-
+  * "Although cycle threshold values were distributed widely overall, those for NPS specimens were lower than those for saliva specimens (Fig. 1A). The overall mean (SD) CT value for the positive NPS specimens was 20.55 (5.36) cycles, whereas the corre- sponding overall mean (SD) CT value for enhanced saliva specimens was 24.16 (4.80) cycles, for a mean difference in CT value for paired NPS and saliva specimens of - 3.61 (95% CI, -5.78 to -1.44; P = 0.002). Seventy-one percent of the saliva specimens had higher CT values (i.e., lower viral loads) than the matched NPS specimens (Fig. 1B). There was little correlation between the CT values (i.e., viral loads) of the positive saliva and NPS specimens (Pearson correlation coefficient, r = 0.162; P = 0.333) (Fig. 1C)."
+  * Control Sample Validity: "The mean (SD) CT value of the RNase P amplification control of the NPS specimens was 25.1 (2.2) cycles, whereas the mean (SD) CT value of this target for the saliva specimens was 23.0 (1.8). The mean difference in CT values was 2.1 (95% confidence interval [CI], 1.8 to 2.4; P = 0.001), which suggests that the saliva specimens had a greater cellularity than the NPS specimens."
+  
+   
 
 
 #### Summary Rao
@@ -583,15 +613,21 @@ DOI: [https://doi.org/10.1093/cid/ciaa1156]()
   * In brief: Samples were inactivated at 65 C for 1 hour, nucleic acid extraction by MagNA Pure 96 system and Viral NA Small Volume extraction kit (Roche Diagnostic GmBH, Germany), from 200 μL of viral transport medium containing the NPS or 200 μL of saliva. Testing with 1-step RT-PCR of Real-Q 2019 nCoV detection kit (Biosewoom, Inc, South Korea), which detects the E-gene and RdRp of SARS-CoV-2 and human RNase gene as an internal control. 
   * "Samples were classified as positive for SARS-CoV-2 when both E-gene and RdRp primer-probe sets were detected at cycle threshold (Ct) value of <38."
 ##### Results
-* "Among the 217 eligible participants, 73.7% (160/217) participants were tested positive for SARS-CoV-2 either from saliva, NPS, or both. There was an overall significant fair agreement between saliva and NPS (73.7%; 160/217, κ 0.260, 95% CI .158 – .363, P < .001). Among patients with concordant results, 45.6% (73/160) had virus detected in both saliva and NPS. Eighty-seven patients had discordant results between saliva and NPS via SARS-CoV-2 RT-PCR assay, by which 47.5% (76/160) patients with virus detected in saliva but not in NPS and 6.9% (11/160) patients with virus detected in NPS but not in saliva."
-* Saliva shares large distribution of Ct value in comparison to NPS. Meanwhile, most NPS Ct values were edging the upper limit (Figure 2)."
+* Dectection Rate: 
+  Salvia\Swab     |  NPS + |  NPS - | Total
+  --|--|--|--
+  Saliva +        |  73    |    76  |  149
+  Salvia -        |  11    |    57  |   68
+  Total           |  84    |   133  |  217
+* Viral Load:
+  Figure 1 shows the Ct values of SARS-CoV-2 genes E and RdRp and the human RNaseP gene for both salvia and NPS. The  values approximately are:
+  
+  Specimen\Gene | E-Gene | RdRp | RNaseP
+  --|--|--|--
+  Salvia        | 30.5   | 31   | 27
+  NPS           | 33     | 33.5 | 29
 
-Salvia\Swab     |  NPS + |  NPS - | Total
---|--|--|--
-Saliva +        |  73    |    76  |  149
-Salvia -        |  11    |    57  |   68
-Total           |  84    |   133  |  217
-
+  Figure 2 shows that the salvia viral loads are more broadly distributed compared to the NPS viral load. The distribution of the RNaseP CT values is quite narrowly both for salvia and NPS, indicating a uniform sampling process for both specimens.
 
 
 #### Summary Wang
@@ -615,7 +651,6 @@ Total           |  84    |   133  |  217
 * Two of the four cultured fecel samples showed signs of virus replication.
 
 
-
 #### Summary Williams
 **Saliva as a non-invasive specimen for detection of SARS-CoV-2**
 ##### Methods
@@ -629,7 +664,6 @@ Total           |  84    |   133  |  217
 Data not uniform/consistent:
 * Of the 622 patients with NPS samples only 522 provided salvia samples (but not written if the positive 39 belonged to the 522).
 * Only 50 salvia samples of those tested negative by NPS were analyzed.  
-
 
 
 #### Summary Vaz
@@ -657,6 +691,7 @@ Saliva +    |    34 | 4     | 38
 Salvia -    |     0 | 4     | 4
 Total       |    34 | 8     | 42 
 
+
 #### Summary Yokota 2
 **Mass screening of asymptomatic persons for SARS-CoV-2 using saliva**
 Yokota, I., Shane, P. Y., Okada, K., Unoki, Y., Yang, Y., Inao, T., Sakamaki, K., Iwasaki, S., Hayasaka, K., Sugita, J., Nishida, M., Fujisawa, S., & Teshima, T. (2020). Mass screening of asymptomatic persons for SARS-CoV-2 using saliva. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America, ciaa1388. Advance online publication. https://doi.org/10.1093/cid/ciaa1388
@@ -680,6 +715,9 @@ Saliva +    |  4    |    0  | 4
 Salvia -    |  1    | 1758  | 1759
 Total       |  5    | 1758  | 1763 
 
+
+
+
 ### References RNA Detection Stability
 
 #### Summary Ott
@@ -700,7 +738,6 @@ Total       |  5    | 1758  | 1763
 ### Time Series
 
 
-
 #### Summary To
 **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
 [in work]
@@ -709,23 +746,36 @@ Total       |  5    | 1758  | 1763
 **Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs**
 ##### Methods
 * Participants: 
-  * 44 COVID-19 inpatients and 29 of those 44 had paired samples taken (Table 1). Initial Covid-19 diagnosis at hospital admission by NPS for all patients. 
-  * "Asymptomatic healthcare workers (e.g., without fever or respiratory symptoms) with occupational exposure to patients with COVID-19 were invited to enroll in the study."
+  * Group In-patients: 44 COVID-19 inpatients and 29 of those 44 had paired samples taken (Table 1). Initial Covid-19 diagnosis at hospital admission by NPS for all patients. 
+  * Group Healthcare Workers: "Asymptomatic healthcare workers (e.g., without fever or respiratory symptoms) with occupational exposure to patients with COVID-19 were invited to enroll in the study."
 * Sample Collection: 
   * Salvia: "Saliva samples were self-collected by the patient. Upon waking, patients were asked to avoid food, water and brushing of teeth until the sample was collected. Patients were asked to repeatedly spit into a sterile urine cup until roughly a third full of liquid (excluding bubbles), before securely closing it."
   * NPS: "Nasopharyngeal samples were taken by registered nurses using the BD universal viral transport (UVT) system. The flexible, mini-tip swab was passed through the patient's nostril until the posterior nasopharynx was reached, left in place for several seconds to absorb secretions then slowly removed while rotating."
 * Sample Handling: "All samples were stored at room temperature and transported to the research lab at the Yale School of Public Health within 5 hours of sample collection."
   
 ##### Results
-* In Figure 1 in their paper the viral loads from salvia and NPS are compared. The mean viral load in salvia is about 5 times higher than in NPS. In Figure 1c the paired viral load points are plotted. The plot corresponds to the following table: 
 
+* Detection Rate: 
   Salvia\NPS       | NPS +  | NPS - | Total
   --|--|--|--
   Saliva +         |   24   |    8  | 32
   Salvia -         |    3   |    3  |  6 
   Total            |   27   |   11  | 38 
 
+* Viral Load:
+  Specimen\Gene | N Gene | RNaseP(approx) 
+  --|--|--
+  Salvia        | 28.7   | 24   
+  NPS           | 31.3   | 29
+
+* "As results from N1 and N2 were comparable (​Extended Data Fig. 1​), all virus copies are shown as calculated using the N1 primer-probe set."
+* In Figure 1 in their paper the viral loads from salvia and NPS are compared. The mean viral load in salvia is about 5 times higher than in NPS. In Figure 1c the paired viral load points are plotted. The plot corresponds to the following table: 
+
+  
+
 * In Figure 2 the measurements of viral titers are shown as time series per patient. Not only are more salvia samples positive compared to NPS as noted above, but also the viral load is less variable i.e. the decrease of the viral load in salvia is more monoton.
+* In Figure 3 a) shows the viral load for the two groups. In figure 3 b) and c) the Ct values of the RNase control are shown. For the In-patients the average RNase Ct for NPS is about 29 and for salvia about 24. 
+
 
 
 #### Wyllie Letter
@@ -742,7 +792,6 @@ This is the letter version of the investigation by [Wyllie et al](#summary-wylli
 * "Four hundred and ten patients with confirmed COVID-19 from the Guangdong CDC (Center for Disease Control and Prevention), who were hospitalized in Shenzhen Third People’s Hospital, were included."
 * "3,552 respiratory specimens from 410 patients were serially collected during hospitalization, including 559 oropharyngeal swabs, 2,231 nasopharyngeal swabs, 696 sputum samples, and 66 BALF samples."
 * "The different types of specimens from laboratory-confirmed COVID-19 cases were stratified into three groups based on the collection times: 0–7, 8–14, and R15 d.a.o."
-
 
 ##### Results
 * Table 1 shows that NPS have quite a low dection rate (only about 60% for mild cases) and sputum has the highest detection rate (about 80%). Results for the first 7 days (shedding of infectious virions highest in first week[citation in work]):
@@ -766,7 +815,6 @@ This is the letter version of the investigation by [Wyllie et al](#summary-wylli
   * While *no* viral RNA was detected in the upper respiratory tract, at the *same* time it was positive in BALF for the cases 01, 03, 07, 11, 12, 13, and 16 (Figure 2).  
   * "Viral RNA was tested negative in the first three or all of the upper respiratory samples. However, viral RNA was detected either by the further detection of upper respiratory samples (cases 21–28) or BALF samples (cases 02, 04, 06, and 07) (Figures 2 and S1)." 
 * Figure 3 shows CT Scans of the mentioned 11 cases (02, 04, 06, 07 and 21-28) tested negative at least 3 time in the upper respiratory tract. The CT  show typical ground-glass opacity in the lungs, suggesting a viral pneumonia.
-
 
 
 #### Summary Zhou
