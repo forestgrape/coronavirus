@@ -2,16 +2,15 @@
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Note
-* [Updates](#updates) in progress. Moved from single-page to multi-page. In work, therefore some local links temporary not work and/or require hand-lookup (via markdown at github). 
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
-* This is work in progress, so mistakes of any form are likely. Parts under heavy work are mostly marked with '[in work]'.
+* The page is in work. Parts under heavy work are mostly marked with '[in work]'.
+* Mistakes of any form are likely. 
 * The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like. More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
 * This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations:
   * For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). Feedback is still appreciated though!
-  * In scientific contexts, I consider citing a good and helpful practice. Even when only inspiration rather than a rigorous fundament is provided. 
-  * For inspiration/cherry picking ideas, thanks are enough and welcome. 
+  * In scientific contexts, I consider citing a good and helpful practice.
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-suggestions-and-tips) and [Covid-19](./covid19.md#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
@@ -25,31 +24,31 @@
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 - 22.12. [Covid-19](./covid19.md) redone. New sections about Diagnosis and Viral Load in online work - these sections show that salvia has a similar sensitivity as nose samples to diagnose Covid-19. 
-- 30.11. Thoughts about [Corona Conform Skiing](./controlling.md#corona-conform-skiing) on the page [Controlling](./controlling.md) 
+- 30.11. [Corona Conform Skiing](./controlling.md#corona-conform-skiing) on the page [Controlling](./controlling.md)
     > Motivated by current discussions and recent personal experience. 
 - 24.11. New Page on [Economics](./economics.md): The proposal is to provide universal capital services (e.g. credits) instead of providing targeted support in different situations/crisis (e.g. the current Covid situation). Goals are:
   - Everyone in need can redesign and reorganize their (economic) life in any situation.
   - Making the economic system more fair in the sense that everyone has the opportunity to choose the economic way of life.
 - 24.11. License relaxed back again. No citation is needed for uses regarding public information or health. 
 - 17.11. Clarifications mainly on the Immune System page 
-- 9.11. Formulations corrected and improved. 
+- 9.11. Formulations corrected and improved.
   > I spend more time on reading and analyzing than on formulations and proof reading. Although I try, sometimes words are not weighted carefully and it can take a couple of days to discover & improve unworldly formulations.
 - 7.11. Updates in [Spread Analyses](./spread_analyses.md) in work:
-  - [Infector Distribution](./spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong. 
+  - [Infector Distribution](./spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong.
   - Section on [Pre-symptomatic Infectors](./spread_analyses.md#pre-symptomatic-infectors) in work
-- 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](./monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers and not estimates. 
+- 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](./monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers and not estimates.
     > Mainly I was shocked by the very steep increase of deaths and still am [analyses in work]. I spent/d a lot of time learning to analyse from different view points and to estimate unbiasedly (regardless whether liked).
 - 5./6.11. Updates in [Spread Analyses](./spread_analyses.md) in online work:
-    * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas. 
-      > Not proven yet but evidence strong enough that risk regions should **stop allowing large scale events** even with protection measures. As of 4./5.11. there still seem to be football matches with many thousand spectators. 
+    * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas.
+      > Not proven yet but evidence strong enough that risk regions should **stop allowing large scale events** even with protection measures. As of 4./5.11. there still seem to be football matches with many thousand spectators.
     * Sections about observed spreading events in food production factories and airplanes.
 - 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
-- 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago. 
+- 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago.
 - 28.10. (only summaries available) Early results from [Spread Analyses](./spread_analyses.md) show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
-    > This page started out with the proposal of a dry form aerosol transmission model to describe the early observed spread patterns. During the summer I started to acknowledge droplet transmission, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in October 2020 combined with extensive droplet preventions in place made me reanalyze: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude: 
-    * air-conditioning: Brazil, Middle East and Southern US (in California noteworthy is the difference between hot Los Angeles and temperate San Francisco)
-    * high altitudes which means cold nights and increased breathing: La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
-- 25.10. New page [Spread Analyses](./spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings. 
+    > This page started out with the proposal of a dry form aerosol transmission model to describe the early observed spread patterns. During the summer I started to acknowledge droplet transmission as important, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in October 2020 combined with extensive droplet preventions in place made me reanalyze: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude:
+    * Air-conditioning: Brazil, Middle East and Southern US (in California noteworthy is the difference between hot Los Angeles and temperate San Francisco)
+    * High altitudes which means cold nights and increased breathing: La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
+- 25.10. New page [Spread Analyses](./spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings.
 -  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a major role in the past and current Covid spread while protection measures are in place. Caveat: most investigations were done in summer climate.
 -  15./16.10. Early Online Update for the sections [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
@@ -65,17 +64,16 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 - 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
-- 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](./transmission.md##intermezzo-particle-dynamics-in-the-respiratory-tract).
+- 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](./transmission.md##particle-dynamics-in-the-respiratory-tract).
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ triple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as the lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
-    2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](#kleinstreuer). The ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first,  the oscillation frequency of the cilia increased, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].  
-    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.    
+    2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](./transmission.md#kleinstreuer-2018). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first, the oscillation frequency of the cilia increased, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].
+    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.  
 
 ### Minor Updates
 - 22.12. split up the page monitor_and_control.md into two pages [monitoring.md](./monitoring.md) and [controlling.md](./controlling.md)
 - 22.12. section Coronavirus Disease Pattering moved from the section Ideas to Explore to its own page ideas_to_explore/[Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md)
-- 3.11. License set to Creative Commons Attribution 4.0. (before it was at most Creative Commons Att. 4.0)
-- 24.10. Completed&added&linked summaries regarding insects for the section [Backtracing SARS-1/2](#backtracing-sars-cov-12)
+- 24.10. Completed & added & linked summaries regarding insects for the section [Backtracing SARS-1/2](#backtracing-sars-cov-12)
 - 20-23.10. Clarifications and corrections across the page with a focus on the sections Transmission, Immune System and Coronaviruses.
 - 18.10. Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./transmission.md#summary-airborne-transmission)). More on the topic in work. 
 - 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) and testing priorities
@@ -144,6 +142,7 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 
 
 ## Public Suggestions and Tips
+
 [in rework]
 Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term adverse effects are possible too for other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
 
@@ -242,7 +241,7 @@ Keeping benefits and risks in mind:
 Respecting others having a different view of Covid yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
 
 * Precautions/Protection measures in place in public spaces which everybody needs to use. 
-* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Depending on the epidemiological situation protections measures can be community/local decisions. E.g. Universities provide both on campus and off campus studying.
+* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Depending on the epidemiological situation protections measures can be community/local decisions. E.g. universities provide both on campus and off campus studying.
 
 > Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
 
@@ -390,7 +389,7 @@ Incidence rates of both cases and deaths varies a lot between the different regi
 
 > Remark: Cattle farming is very common in many areas in Switzerland due to a long tradition and an accompanying tradition of making a variety of tasty cheeses. Care has been taken to preserve traditional recipes and the microbes used, throughout the industrialization of agriculture in the 20th century. Additionally the market for milk and meat is protected and significantly subsidized. The support is higher than for other forms of agriculture.
 
-> Subjective Remark: I consider distributed agriculture as important and worth preserving. Both subsidies and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop.<br>
+> Subjective Remark: I consider distributed agriculture as important and worth preserving. Both subsidies and protected markets are suitable means to support desired industries whether worth preserving or giving space to develop.
 Economy solely on global effectiveness trimmed, yields that. But often only that. Question is, in which situations this is wanted. 
 
 * In areas where cattle farming is less common the average number of deaths per 100K is about is about 30 in average and 32 in median [more accurate statistics on todo].
@@ -564,9 +563,9 @@ These are unchecked proposals and should be carefully supervised. Ideally method
 Increase the mucus flow and clearance by increasing the humidity [Hong](#hong), [Hasani](#hasani)
 This prevents the accumulation of viral loaded and dry mucus early on. This in turn should both increase the well-being as well as the overall prognosis. 
 
-__Caution__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangereous__ increased distribution of virus parts and therefore an additional inflammation/irritation. While immune suppresive are generally discouraged, because they could yield a diminished immune reaction and possibly yield prolonged virus spread, in this situation they can be appropriate. 
+__Caution__: If there are already a lot of (dry) mucus accumulations, liquefying them could yield a likely __temporary but possibly dangerous__ increased distribution of virus parts and therefore an additional inflammation/irritation. While immune suppresive are generally discouraged, because they could yield a diminished immune reaction and possibly yield prolonged virus spread, in this situation they can be appropriate. 
 
-* heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumomia patients around the world receive successful treatment. 
+* heated humidifiers in combination with a ventilator as described by [Hong et al. in 2014](#hong) i.e. in the way in which many pneumonia patients around the world receive successful treatment. 
     __Benefit__: This increases both the [humidity](#hong) and also decreases the spread of particles from the alveoli as observed by  [Lindstedt and colleagues](#lindstedt). __Risk__: general risks of invasive ventilation, temporary irritation due to liquefying of mucus. 
 
 * a heated humidifier stand-alone i.e. as above but with no ventilator. __Benefit__: Increase humidity and thus mucus flow and easy to use with an oxygen mask. __Risk__: temporary irritation due to liquefying of mucus.
