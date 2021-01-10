@@ -681,7 +681,7 @@ Total            |    71      |      84   | 155
 #### Summary Yokota 1
 **Equivalent SARS-CoV-2 viral loads between nasopharyngeal swab and saliva in symptomatic patients**
 ##### Methods
-* "Forty-two patients diagnosed with COVID-19 by positive qRT-PCR of NPS were enrolled in this study."
+* "Forty-two patients diagnosed with COVID-19 by positive qRT-PCR by NPS were enrolled in this study."
 * "Paired NPS and saliva samples were simultaneously collected from all patients upon hospital admission between June 12, 2020 and August 6, 2020."
 * "Self-collected saliva was diluted 4-fold with phosphate buffered saline and centrifuged at 2000 × g for 5 min to remove cells and debris. RNA was extracted from 200 μL of the supernatant or nasopharyngeal swab samples using QIAsymphony DSP Virus/Pathogen kit and QIAamp Viral RNA Mini Kit (QIAGEN, Hilden, Germany)."
 ##### Results
