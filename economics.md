@@ -48,9 +48,8 @@ Principles assumed here.
 
     > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction business specialized on large scale events may need to reorientate and thus need support. 
 
-    >
-
-    > In my view, with connectedness we have today, I think improvements are best designed to work for all. Although I acknowledge, that the economic opportunities and chances for the benefits vary widely in todays world.
+    
+    > In my view, with connectedness we have today, I think improvements are best designed to work for all. Although I acknowledge, that the economic opportunities and benefits vary widely in todays world.
 
     
 [in work]
@@ -278,4 +277,4 @@ More fairness for choosing job/work options.
 ## Appendix
 
 ### Deleted off Topic Thoughts
-> Here was a short section about related but off topic thoughts on some aspects of group related *economic* fairness. I have deleted these since the focus of this page is on Covid-19 and to some extent on economics (this page) and considering aspects of fairness needs much more work - to take into consideration all view points and different experiences. I intend to republish the thoughts but more careful and better thought through in spring or summer 2021. The deleted drafts are still accessible through the github history function from early drafts to a slightly improved drafts.
+> Here was a short section about related but off topic thoughts on some aspects of group related *economic* fairness (economics and to some extent education was considered but *not* other topics). These are temporarily removed, since the focus of this page is on Covid-19 and economical systems on this page. Considering other points  needs more work to take into consideration all view points and different experiences. The deleted drafts are still accessible through the github history function from early drafts to a slightly improved drafts (github commits in late December 2020). There wasn't any negative feedback or so -in fact I get few feedback - at the end I was just unsure whether I formulated and thought carefully enough. I intend to republish the thoughts more carefully formulated and better thought through in spring or summer 2021.
