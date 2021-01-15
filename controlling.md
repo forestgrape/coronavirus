@@ -31,27 +31,27 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 
 
 ## Strategy 
-> Mind set I follow to tackle SARS-CoV-2:
+> Mind set followed here to tackle SARS-CoV-2:
 > * communication and explanation
 > * knowledge & research
-> * own responsibility and independent decisions
-> * Focus on overall life quality. This includes keeping overall health effects in mind: in numbers, possible damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements no advertising is an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
+> * self responsibility, independent decisions combined with a circumspect lifestyle
+> * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements no advertising is an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
 > * Moderate measures preserving life quality.
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases 
-> * Monitor and estimate overall cases to plan
+> * Monitor and estimate overall cases to do predictions and planning. 
 > * Settings that those who want/need can protect, while those not needing/choosing can go on, go on circumspectly.
 > * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
 >
 > ### Reconsidering Strategy
-> In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent. In warm areas windows should be open all the time and air-conditioning should *never* be used.
+> In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent and good mask need to available. In warm areas windows should be open all the time and air-conditioning should *never* be used.
 > 
 > Two more points
-> * Trying new paths even at the risk of falling but having a parachute ready and using it early. Better walk with the parachute (and being ready for the next journey) than fall cool without. For Covid-19 the parachutes are outdoor days: being outdoors and avoiding all non essential entries to foreign or public indoor settings.
+> * Trying new paths even at the risk of falling but having a parachute ready and using it early. Better walk with the parachute (and being ready for a new journey) than fall cool without. For Covid-19 the parachutes are outdoor days: being outdoors and avoiding all non essential entries to foreign or public indoor settings.
 > * Analyzing missteps can be rewarding, the next antibiotics are to be discovered.
 
 
 ## Protection Measures
-The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (either droplet, aerosol or dry form transmission). This is not yet confirmed. Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (primarily through aerosol and even dry form aerosol, possibly some droplet transmission). Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
 ### Support Immune Protection
 Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases, this should be the main focus (along with open windows and no air-conditioners if there are Covid-19 cases).
@@ -63,14 +63,14 @@ Proposals for good health:
 * lessen stress 
     - secure and affordable life including basic health care
     - less pressure overall
-* healthy nutrition 
-* providing information and tips to focus on health and the immune system
+* Healthy nutrition 
+* Providing information and tips to focus on health and the immune system
 
 There are many more reasons good health - including an intact immune system - is important.
 
 
 ### Masks
-Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed frequently, but they can be [reused](#mask-cleaning) later on. 
+Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed frequently. Mask can be [reused](#mask-cleaning) later on. 
 
 #### Mask Usage
 * For self protection good fit and a good outside-to-inside filter are important. 
@@ -275,7 +275,7 @@ __In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsaf
 
 > My memories of skiing date back to the early 90s, back then a ski day was mostly outdoors from open-sky lifts to outdoor lunch.
 
-> Allowing skiing in some regions first, I consider good, since all can benefit from the experiences gathered. Ideally the situations are closely monitored (e.g. Covid-19 salvia-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) are transparently published.
+> Allowing skiing in some regions first, I consider good, since all can benefit from the experiences gathered. Ideally the situations are closely monitored (e.g. Covid-19 saliva-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) are transparently published.
 
 > International Travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. no further discussed on this page). 
 
@@ -428,9 +428,9 @@ Measure regarding schools can reach from complete closure to mild measures such 
 ### Outside is Safer
 Outside the viruses get diluted and then are cleared/inactivated faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main risk is in face-to-face situations. 
 
-- [dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
-- [virion destruction](#virion-decay): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
-- [virion clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
+- [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
+- [Virion Decay](#virion-decay): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
+- [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
 
 #### Dilution
 Outside there is much more air per person than inside:
@@ -441,31 +441,28 @@ Outside there is much more air per person than inside:
 
 #### Virion Decay
 Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the fast virion decay are:
-* the genome is [stored in unstable ssRNA](./coronavirus.md#ssrna)
-* the envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membranes have not evolved to be stable outside the organism.
-* virions have no repair mechanism since they don't have a metabolism
+* The genome is [stored in unstable ssRNA](./coronavirus.md#ssrna)
+* The envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membranes have not evolved to be stable outside the organism.
+* Virions have no repair mechanism since they don't have a metabolism
 
 Process and situations virions decay occurs:
-- ##### decay by sunlight
-    mainly the UV part destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin).
-- ##### decay by heat 
-    particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan et al 2011](#chan).
-- ##### disintegration
-    * digestive enzymes from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary disintegrate the envelope
-    * soap destroys the lipid envelope and so the virions
-- ##### decay by time passing
-    * single stranded RNA is unstable and thus even under optimal conditions virions have a probability to decay
+- ##### Decay by Sunlight
+  The UV part destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin).
+- ##### Decay by Heat
+  particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan et al 2011](#chan).
+- ##### Disintegration
+  * digestive enzymes from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary disintegrate the envelope
+  * soap destroys the lipid envelope and so the virions
+- ##### Decay by Time
+  Single stranded RNA is unstable and thus even under optimal conditions virions have a probability to decay
     
 
 #### Virion Clearance
-Virion are cleared from the air by the mechanism below.  and due to [virion decay](#virion-decay) there's no accumulation.
+Virion are cleared from the air by the mechanism below and due to [virion decay](#virion-decay) there's no accumulation.
 - [Virion Decay](#virion-decay) in air: occurs mainly through sun light
-- condensation 
-- washed out by rain
-- virion attachment to non infectable materials (which is nearly everything except a tiny fraction of cells in the scarce hosts) 
-    * earth
-    * water
-    * rocks
+- Condensation 
+- Washed out by rain
+- Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outside the vast majority of surfaces are not infectable. 
 
 
 ### Hospital Overwhelming
