@@ -98,22 +98,23 @@ Proteins are assembled by ribosomes:
 [in work]
 
 #### 1 Form using RNA only
-* viroids
-    - single RNA strand which catalyzes its duplication
+
+> ##### Viroid
+> Viroids = single RNA strand which catalyzes its duplication
 
 #### 7 Forms using Proteins
 7 forms of combinations of lifetime storage and duplication/decode mechanisms are known to be in use on earth, known as Baltimore classification:
-* (+)ssRNA := Single stranded RNA, + sense
+* (+)ssRNA = Single stranded RNA, + sense
     - genome can be directly read by ribosomes
     - replication is done via a (-) RNA strand which is duplicated to many (+) strands
-* (-)ssRNA := Single stranded RNA, - sense
+* (-)ssRNA = Single stranded RNA, - sense
     - genome needs to be transcribed to (+) stranded RNA before translation in the ribosomes
     - replication is done via  (+) stranded RNA
-* ssDNA := Single-strand DNA
-* dsDNA-RT := gapped DNA
-* dsRNA := Double strand RNA
-* ssRNA-RT := DNA-RNA reverse transcribing
-* dsDNA := Double stranded DNA
+* ssDNA = Single-strand DNA
+* dsDNA-RT = gapped DNA
+* dsRNA = Double strand RNA
+* ssRNA-RT = DNA-RNA reverse transcribing
+* dsDNA = Double stranded DNA
 
 
 > A *gene* denotes a piece of storage encoding a single protein. 
@@ -180,7 +181,7 @@ Most cells don't live forever. In multicellular organisms most cells live fare s
 * Metabolic phase: Produce proteins and ultimately progeny by the using structures, resources and enzymes from the cell infected.
 
 > ###### Virion
-> A *virion* is form of a virus outside a cell and ready to infect a cell. </span>
+> A *virion* is form of a virus outside a cell and ready to infect a cell. 
 
 Virions are similar to seeds of plants: They are dormant and wait for activation. Virions don't have a metabolism running. However they evolved to induce infection on the right circumstances. to be capable have sticky proteins which can get attached to cells. Once activated/primed cell fusion is initiated by using spring loaded energy. 
 
@@ -484,12 +485,9 @@ Viruses optimized to their environment often infect only cells involved in the s
 The tissue tropism depends on:
 * Susceptible Cells in the tissue 
 * Reachability of the Cells
+  * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#orientation-matters) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from  to the kidney and the intestine from where they can leave and infect the next host. 
+  * Coronaviruses are to big to diffuse efficiently inside most tissues.
 * Local Immune system
-
-
-* Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#orientation-matters) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from  to the kidney and the intestine from where they can leave and infect the next host. 
-* Coronaviruses are to big to diffuse efficiently inside tissues [to verify].
-
 
 
 ## Tissue Tropism of Sars-CoV-2
@@ -519,7 +517,7 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 
 #### Orientation Matters 
 *  The transmission pathways (mostly airborne and vectorless) yield an initial deposition of the virions on the apical side together with the barrier function of the apical cell layer the virions have  
-* In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
+* In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
 #### ACE2 Receptor Detection
 There are two common methods to measure tissue distribution of proteins:
