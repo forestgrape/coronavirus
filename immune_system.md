@@ -102,7 +102,7 @@ Recognizing biological substances as unwanted and eliminate them. Unlike chemica
 * To control coronaviruses infections T cells are key [citation coming].
 
 > ###### Local T cell
-> *Tissue resident T cells* in literature and here called *local T cells* are T cells which survey the tissues cells integrity. They don't travel with the blood.They remain locally in tissues they may move there however. 
+> *Tissue resident T cells* in literature and here called *local T cells* are T cells which survey the tissues cells integrity. They don't travel with the blood. They remain locally in tissues they may move there however. 
 
 ### Distribution
 * Local T cells are located often at entry points of viruses. E.g. the mouth is a common entry point for viruses, so in the mouth there are many local T cells [to check and cite]. 
@@ -140,13 +140,14 @@ There are many degrees of specificity, the following categories are just a coars
 ### Trained Immune System
 Some parts of the immune system is able to vary is targets throughout lifetime. What to target is determined by a training process in which substance are learned to be wanted or unwanted. 
 
+> ###### Allergy
 > Sometimes proteins parts not associated to pathogens are classified as being harmful. This yields allergies. 
 
-##### Examples
+#### Examples
 * Antibodies: bind to specific proteins and thereby inactivate or mark them
 * Trained T cells
 
-##### How training works
+#### How training works
 [in work, to be completed and to be checked]
 1. Unwanted things or things reaching end of life are disassembled (e.g. SARS-Cov-2 infected cells usually die)
 2. The decay particles then analyzed by the immune system for filtering out decay particles already known.
@@ -155,9 +156,8 @@ Some parts of the immune system is able to vary is targets throughout lifetime. 
 3. It is now checked if the selected cell does *not* bind to self substances. If the cell does *not* bind self, the cell is capable to specifically produce binding elements to the new substance. 
 4. monoclonal replication is induced once more if the new foreign particles are seen. 
 
+> ###### Antigen
 > The binding elements are called *antibodies* and the particles they bind are called *antigens*.
-
-
 
 
 
