@@ -6,11 +6,10 @@
 * These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
 * The page is in work. Parts under heavy work are mostly marked with '[in work]'.
 * Mistakes of any form are likely. 
-* The page started with a proposal for a Dry Form Transmission Model and that the Covid-19 transmission can be metaphored smoke-like. More [content](#content) has been added since and noteworthy changes are mentioned in [updates](#updates). 
-* This page is intended to be like an inspiring conversation and many parts aren't rigorous and just ideas in raw form. 
+* This page often conversational and some parts aren't rigorous and just ideas in raw form. These are marked as experimental. 
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations:
   * For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). Feedback is still appreciated though!
-  * In scientific contexts, I consider citing a good and helpful practice.
+  * In scientific contexts, citing is a good and helpful practice.
 * Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-suggestions-and-tips) and [Covid-19](./covid19.md#public-description).
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
@@ -23,7 +22,11 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- 22.12. [Covid-19](./covid19.md) redone. New sections about Diagnosis and Viral Load in online work - these sections show that salvia has a similar sensitivity as nose samples to diagnose Covid-19. 
+- 17.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page added replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page.
+  - Morning sputum, repeated morning saliva have a high viral load and good detection rates and moreover the viral load predicts the disease progression. 
+  - Nose swabs have a detection rate of about 60% and the viral load does not predict disease progression.
+- 17.1. Improvements and clarifications across the page. Respelled Salvia to Saliva. 
+- 22.12. [Covid-19](./covid19.md) redone. ~~New sections about Diagnosis and Viral Load in online work - these sections show that saliva has a similar sensitivity as nose samples to diagnose Covid-19.~~ moved see 17.1.21
 - 30.11. [Corona Conform Skiing](./controlling.md#corona-conform-skiing) on the page [Controlling](./controlling.md)
     > Motivated by current discussions and recent personal experience. 
 - 24.11. New Page on [Economics](./economics.md): The proposal is to provide universal capital services (e.g. credits) instead of providing targeted support in different situations/crisis (e.g. the current Covid situation). Goals are:
