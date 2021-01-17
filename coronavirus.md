@@ -20,7 +20,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 * [Coronavirus Life Cycle](#coronavirus-life-cycle)
   * [Virion Phase](#virion-phase)
   * [Metabolic Phase](#metabolic-phase)
-* [Tropism](#tropism)
+* [Tropism of Viruses](#tropism-of-viruses)
   * [Tropism Virion Phase](#tropism-virion-phase)
   * [Metabolic Phase Tropism](#metabolic-phase-tropism)
   * [Cell Tropism](#cell-tropism)
@@ -177,11 +177,18 @@ So a host cell is always an infected cell.
 Most cells don't live forever. In multicellular organisms most cells live fare shorter than the organism itself and even most cell lines don't survive and only few cells have the chance of being part of the cells giving raise to descendants [Organisms](#). If virus infected, cells often die even faster. Thus viruses need to jump to next cells. To achieve this, most viruses, including coronaviruses, have a 2 phase life cycle.
 
 ### Life Cycle
-* Virion phase: Travel, wait and upon match with an [infectable cell](#infectable-cell) induce infection. 
-* Metabolic phase: Produce proteins and ultimately progeny by the using structures, resources and enzymes from the cell infected.
+Coronaviruses have a two phase life cycle:
+* They are born/produced as virion which is the sleeping state.
+* Upon cell infection they hook into a cells metabolism mostly to produce new progeny (virions). 
+
+* Virion phase: Born as virion. Sleeping phase: [passive travel](#virion-travel), wait and upon [activation](#virion-attachment-and-activation) and match with an [infectable cell](#infectable-cell) enter the cell and start infection. 
+* Metabolic phase: Hook into a cells metabolism to produce proteins and ultimately new virions using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell .
 
 > ###### Virion
-> A *virion* is form of a virus outside a cell and ready to infect a cell. 
+> A *virion* is the form of a virus where the genome is packed and has no active metabolism. 
+
+
+Viruses while outside of cells are present always as virions. Once activated, virions can [infect cells](#infected-cell) and transform to the metabolic phase. 
 
 Virions are similar to seeds of plants: They are dormant and wait for activation. Virions don't have a metabolism running. However they evolved to induce infection on the right circumstances. to be capable have sticky proteins which can get attached to cells. Once activated/primed cell fusion is initiated by using spring loaded energy. 
 
@@ -375,7 +382,7 @@ Travel and Wait for Activation.
 Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
 
 #### Virion Travel 
-Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are [activated](#virion-activation) to start the cell infection process.
+Once released from a cell virions are moved (see [movement-of-virions](#movement-of-virions)) until they are [activated](#tropism-virion-phase) to start the cell infection process.
 A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination. 
 
 The infectable cell can be:
@@ -399,7 +406,7 @@ The infectable cell can be:
 The viral metabolism starts once the genetic material of a virion is processed by a cell and thus the virus changes the cells metabolism. This happens in a foreign cell and cells have mechanism in place to prevent its metabolism being changed i.e. keeping the metabolism immune. For that reason, each of the following steps has a noteworthy probability of failing. 
 
 #### Metabolism Phase 1: Preparation
-[in work]<br>
+[in work]
 The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Additionally let the ribosomes produce some proteins that diminish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:
 1. Release RNA -- let the host ribosomes translate two ORFs of the viral genome with frame-shifting---> two large proteins
 2. --cleave--> pieces of proteins
@@ -415,7 +422,8 @@ The metabolism can produce new virions that are released from the cell. The prop
    *  (+) RNA genomes to get packed together with the N proteins to form the nucleocapsids of new virions and thus building up new virions.
 
 
-## Tropism 
+## Tropism of Viruses
+
 ###### Tropism
 > *Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism of viruses describes how viruses behave in different biochemical or biological circumstances (e.g. on what conditions they enter a cell). 
 
@@ -428,6 +436,7 @@ Questions relevant for the tropism of viruses:
 * Which changes in the metabolism in different cells? 
 
 <!--
+in work ...
 Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term. Determinants for the tropism are:
 * cell types:   
     - receptors expressed
@@ -447,7 +456,7 @@ The general concepts are outlined in the section [tropism of viruses](#tropism-o
 ### Tropism Virion Phase
 Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on cell membranes and proteases available in the environment around the cell. 
 
-#### Virion Attachment and Activation
+#### Virion Attachment and Activation Factors
 * Environment around the cell
     - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
 * matching receptor
