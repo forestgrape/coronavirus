@@ -7,7 +7,7 @@
 * [Infection Locations](#infection-locations)
 * [Immune Response and Symptoms](#immune-response-and-symptoms)
   * [Causes of Symptoms](#causes-of-symptoms)
-  * [Localized Symptoms](#localized-symptoms)
+  * [Symptoms at different Locations](#symptoms-at-different-locations)
 * [Disease Stages](#disease-stages)
 * [Fatality Rate](#fatality-rate)
   * [Estimates](#estimates)
@@ -75,7 +75,7 @@ More about in the chapter [Diagnosis](./diagnosis_and_viral_load.md) and [Infect
 A virus disease is an interplay of host factors including the host immune system, the behavior of the virus and of environmental factors.
 
 * __Host Factors__ relevant for the tropism of Covid-19 are
-    - Cells susceptible to infection and capable of producing viruses (not all cells are susceptible e.g. red blood cells are not).
+    - Cells susceptible to infection and capable of producing viruses (not all cells are susceptible e.g. red blood cells are not susceptible to virus infections ).
     - Host [immune response](#immune-response-and-symptoms).
 * __Capabilities and Behavior of the Virus__
   Viruses behave different under different environmental factors (called tropism of viruses), described in the section [Tropism of viruses](./coronavirus.md#tropism). E.g. SARS-2 virions can initiate cell entry only for cells containing a matching receptor. To infect a tissue several conditions must be met as described in the chapter [Tissue Tropism of SARS-CoV-2](./coronavirus.md/#tissue-tropism-of-sars-cov-2).
@@ -106,14 +106,16 @@ The symptoms of a [virus disease](#virus-disease) are caused:
 1. Direct symptoms through cell damage. Only in severe cases. 
 2. Indirect symptoms through the induced immune response([Sketching of the Immune System](./immune_system.md).
 
-### Localized Symptoms
-Coronavirus infections are often localized as described in the section [Infection Locations](#infection-locations), in these cases the symptoms are local:
+### Symptoms at different Locations
+Infection symptoms depend on the infected locations. A Covid-19 infection can be at different [Infection Locations](#infection-locations). Typical symptoms for the different locations are (a similar section is in the chapter [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md), merge in work):
+
 * Upper Respiratory Tract => Symptoms are similar to other respiratory diseases: a sore throat, coughing and a runny nose. Loss of smell or taste.
 * Throat => Coughing, the body wants to get rid of the viruses in the respiratory tract, virions cleared to the intestine can cause diarrhea.
 * Trachea => Coughing
-* Central Bronchi => Dry cough.
-* Deep Lungs i.e. small bronchi => If the lungs get involved, symptoms can be a strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses) or even shortness of breath (the lungs are inflamed). Diarrhea can both start early and later on and can outlast the respiratory infection by days or even weeks.
-* Virions in the alveoli and spread to the blood => Early on virions are released into the blood. This feels like it is starting from within. Symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less and having an increased recovery time after sports are indications too.
+* Central Lungs i.e. bronchi => Strange feeling in the chest like something sticky being inside (dry mucus loaded with viruses).
+* Deep Lungs i.e. in the alveoli => The lungs can get inflamed. Strange feeling in the chest. Shortness of breath. Early on virions are released into the blood.
+* Blood i.e. viraemia => This feels like it is starting from within. Symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less. 
+*  Intestine => Diarrhea can both start early and later on and often outlasts the respiratory infection by days or even weeks.
 
 
 ## Disease Stages
