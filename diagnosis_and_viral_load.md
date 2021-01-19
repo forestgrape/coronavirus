@@ -113,7 +113,7 @@ The samples can be diluted so much that virus colonies originating from single v
 
 
 ### Detect Metabolism of Viruses
-Coronaviruses produce temporary RNA similar to mRNA of DNA based life forms can be detected by [PCR-Tests](#pcr-test). This RNA is not packaged into virions and therefore decays quickly and therefore can be used to detect a running metabolism of coronaviruses. 
+Coronaviruses produce temporary RNA similar to mRNA of DNA based life forms can be detected by [PCR-Tests](#pcr-test). This RNA is *not* packaged into virions and therefore is degraded quickly and therefore can be used to detect a running metabolism of coronaviruses. 
 
 ## Methods to Indirectly Detect Viruses
 
