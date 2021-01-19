@@ -205,13 +205,15 @@ Knowing the viral load observed in different fluids and tissues is relevant for:
 
 ### Literature for Viral Load and Diagnosis
 * A recommended review for the viral load in upper respiratory tract specimens is [Lee et al](#summary-review-lee).
-* [Yang et al](#summary-yang) investigated the viral load across the respiratory tract.
+* [Yang et al](#summary-yang) investigated the viral load across locations the respiratory tract.
 
 ### Diagnosis in the Nose
 #### Nasopharyngeal Swabs
 Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of December 2020, often used as 'gold standard' for Covid-19 diagnosis. NPS samples can be analyzed either by PCR or antigen tests.
 * quite easy to take but trained persons are needed
-* the sensitivity is about 60% ([Yang](#summary-yang))
+* the sensitivity is 
+  * 85% for severe cases and 62 % for mild cases in first week of illness. In the second week 69% for severe and 53 % for mild cases ([Yang](#summary-yang))
+  * 71% in the first 5 days of hospitalization [Wyllie](#summary-wyllie-letter) //patients initially positive by NPS so results biased and the 71% are likely to high (the study is about comparing saliva and NPS)
 #### Nasopharyngeal Aspirate 
 [in work] As NPS nasopharyngeal aspirates samples the back of the nose but from a much larger area. The large area reduces the randomness and the detection rate is superior [citations in work]. 
 
@@ -831,7 +833,7 @@ Location: Shenzhen; Date: written in May, patients likely from January to March
 
 ##### Results
 
-It is observed that NPS have quite a low dection rate (only about 60% for mild cases) and sputum has a high detection rate for both mild and severe cases (about 80%). Dection rates adapted and shortened from Table 1 in the paper:
+It is observed that NPS have quite a low detection rate (only about 60% for mild cases) and sputum has a high detection rate for both mild and severe cases (about 80%). Detection rates adapted and shortened from Table 1 in the paper:
 
 ###### Positive rate (n/N, %) during day 0 - 7 of illness
 Specimen      | Severe Cases | Mild Cases
