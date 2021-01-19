@@ -93,7 +93,7 @@ SARS-CoV-2 infects different tissues in humans. The effects from the virus infec
 Different topics related to the infection locations are described in the sections:
 * The chapter [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) describes in which body fluids and tissues how many virions are observed. This indicates an infected tissues close by. 
 * The [Immune Response and Symptoms](#immune-response-and-symptoms) section gives an overview of the different symptoms induced by the infection location.
-* On the [coronavirus chapter](./coronavirus.md), the section [tissue tropism](./coronavirus.md#tissue-tropism-of-sars-cov-2) describes the tissue preferences of coronaviruses and SARS-CoV-2 especially.
+* In the [coronavirus chapter](./coronavirus.md), the section [tissue tropism](./coronavirus.md#tissue-tropism-of-sars-cov-2) describes how and which tissues are infected by coronaviruses and SARS-2 especially. 
 * The experimental chapter [Coronavirus Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md) describes that coronavirus infections at different locations can be experienced/observed as different diseases.
 
 
