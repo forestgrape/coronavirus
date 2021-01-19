@@ -24,11 +24,12 @@ Diagnosis and Viral Load
   * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
   * [Diagnosis in the Nose](#diagnosis-in-the-nose)
   * [Diagnosis in the Mouth](#diagnosis-in-the-mouth)
-  * [Lung](#lung)
+  * [Diagnosis in the Lungs](#diagnosis-in-the-lungs)
   * [Challenges regarding Viral Load and Diagnosis](#challenges-regarding-viral-load-and-diagnosis)
 * [Saliva Diagnosis](#saliva-diagnosis)
   * [Literature on Saliva Diagnosis](#literature-on-saliva-diagnosis)
   * [Viral Load for Different Saliva Sampling Methods](#viral-load-for-different-saliva-sampling-methods)
+  * [Notes on Saliva Diagnosis](#notes-on-saliva-diagnosis)
 * [Summarized References](#summarized-references)
   * [Viral Load in Sputum](#viral-load-in-sputum)
   * [Viral Load in Saliva Summarized Refs](#viral-load-in-saliva-summarized-refs)
@@ -36,7 +37,9 @@ Diagnosis and Viral Load
   * [Time Series of Viral Load in Saliva](#time-series-of-viral-load-in-saliva)
   * [Time Series Viral Load in Multiple Locations](#time-series-viral-load-in-multiple-locations)
   * [Viral Load Nose and Throat Series](#viral-load-nose-and-throat-series)
-  * [Circadian Cycle of Sample Collection](#circadian-cycle-of-sample-collection)
+  * [Flow Patterns of Body Fluids](#flow-patterns-of-body-fluids)
+* [Appendix](#appendix)
+  * [Calculation of Viral Load from CT_Value](#calculation-of-viral-load-from-ct_value)
 
 
 **entire page is in work**
@@ -52,8 +55,8 @@ Methods and locations to diagnose Covid-19 are discussed. A focus is on methods 
 ### SARS-CoV-2 Viral Load
 The viral load measures the amount of virions present. Whether a viral load can be detected (=detection rate) and how high it is (=viral load), is dependent on the location, the sampling method and the infected locations/tissues of a patient. SARS-CoV-2 can infect many locations, the infected locations vary between patients and virions are distributed with fluids e.g. the air and the mucus in different parts of the respiratory tract. Some locations are easy to sample such as saliva or the nose swabs but detection rates are low (depending on the method and the infection they vary between 40% and 80%). Other methods are more cumbersome to sample such as nasopharyngeal aspirate, sputum or bronchoalveolar lavage fluid but offer higher sensitivities.
 
-* The de facto standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections.
-* Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). 
+* The standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections and the viral loads measured vary. 
+* Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). The viral load and thus the detection rate is reduced if the salivary flow increases e.g. eating or chewing gums.
 * Morning sputum and nasopharyngeal aspirate have high viral load and good detection rates. 
 * A high viral load in the sputum or in saliva is an indication for severe disease progression. The viral load in NPS samples isn't an indicator. 
 
@@ -76,7 +79,7 @@ A defined in the [Covid-19 chapter](./covid19.md) a [disease](./covid19.md#disea
 
   > In the very early phase of the Covid-19 pandemics PCR test were scarce and antigen tests not available so the work for BALF/sputum sampling was not the bottleneck. In the next months PCR test became more widely available but still limited, nasopharyngeal swabs were used: NPS sampling was doable since testing capacity was still limited. Everybody then just kept on doing NPS even there have been early studies pointing to the benefits of other methods such as self collected saliva. 
 * Late 2020 antigen tests are getting more common.
-* 2021? Alternate Locations? [Rethink Diagnosis](#diagnosis-locations) and a chapter on its own devoted to [saliva based diagnosis](#saliva-diagnosis).
+* 2021? Alternate Locations? Rethink [Diagnosis Locations and Methods](#diagnosis-locations) and a chapter is devoted to [saliva based diagnosis](#saliva-diagnosis).
 
 
 
@@ -84,15 +87,20 @@ A defined in the [Covid-19 chapter](./covid19.md) a [disease](./covid19.md#disea
 
 ### Measure the Viral Load
 
-In tissues containing infected cells or in the lining fluids protecting/cleaning these tissues the viral load can be measured by detecting building blocks. 
+In tissues containing infected cells or in the lining fluids protecting/cleaning these tissues the viral load can be measured by detecting building blocks.
 
 #### Genome Detection
 Test for specific sequences in the genome of virions (positive single stranded RNA for coronaviruses). The amount of virions (called [viral load](#viral-load)) - can be determined with high specificity and sensitivity. Examples are given in the section [Common Diagnosis Methods](#common-diagnosis-methods).
 
 > ###### PCR Test
-> A *PCR test* is a method to detect RNA or DNA of life forms. PCR doubles specific DNA/RNA strands in cycles called CT cycles. After some cycles the genomic material can be detected e.g. by optical fluorescence, this is the cycle number = CT value. 
+> A *PCR test* is a method to detect specific sequences of RNA or DNA. PCR doubles specific DNA/RNA strands in cycles called CT cycles. The concentration of the DNA/RNA double each round, at some point it is high enough to be detected by some helper method e.g. by optical fluorescence. The doubling cycles needed are called CT values.
 
-A viral load higher than several thousand copies per milliliter can be  detected by PCR tests (about 40 cycles). Since the doubling each cycle, the log viral load decreases linearly with an increased CT value (an example formula is given by [Yilmaz et al](#summary-yilmaz)). 
+##### From CT-value to Concentration
+As described the PCR method approximately doubles the viral_load each cycle until detectable by the helper method. To calculate to original viral load, one needs to undo the doubling-cycles. Thus a difference of 10 CT-cycles corresponds to an amplification of 2^10=1024: If 10 additional CT cycles are needed the starting viral load was 1024 times smaller ([Calculation](#calculation-of-viral-load-from-ct_value) in the Appendix).
+
+##### PCR Detection Limit
+In theory a single sequence of RNA/DNA can be amplified. Practically PCR apparatuses have some detection limit often this is in the order of a few thousand copies per milliliter. This correspond to a maximal PCR cycle number (often 40). 
+
 
 #### Protein Detection
 Methods detecting proteins of virions are usually called antigen tests (virus proteins are called antigens since these proteins can be recognized by the immune system as harmful).
@@ -109,11 +117,13 @@ Samples possibly containing virions can be put on cell or organ cultures. These 
 ##### Cell Cultures
 ##### Organ Cultures
 ##### Plague Assays
-The samples can be diluted so much that virus colonies originating from single virions can be distinguished. In this  way the number of infectious virions can be determined (this method is called Plaque assay)
+The samples can be diluted to the point new virus colonies are originating from single virions can be distinguished. In this way the number of infectious virions can be determined. 
 
 
 ### Detect Metabolism of Viruses
-Coronaviruses produce temporary RNA similar to mRNA of DNA based life forms can be detected by [PCR-Tests](#pcr-test). This RNA is *not* packaged into virions and therefore is degraded quickly and therefore can be used to detect a running metabolism of coronaviruses. 
+Coronaviruses produce temporary RNA similar to mRNA of DNA based life forms can be detected by [PCR-Tests](#pcr-test). This RNA is *not* packaged into virions and therefore is degraded quickly. Because of the fast degradation, detecting temporary RNA means there are viruses with a running metabolism. 
+
+
 
 ## Methods to Indirectly Detect Viruses
 
@@ -127,10 +137,11 @@ E.g. CT (quite accurate but high radiation to sensible locations) or Xray (not v
 ### Detect Immune Response
 #### Antibody Test
 [in work] 
-For infections triggering certain alarms, the immune response involves antibodies which can be detected in the blood. The antibodies are in the serum of the blood. There are different kind of antibodies which are produced at different stages during and after an infection. Only infections in later stages and past infections can be diagnosed by this method since some a couple of days are needed to produce antibodies. 
+For infections triggering certain alarms, the immune response involves antibodies which can be detected in the blood. The antibodies are in the serum of the blood. Different kinds of antibodies are produced at different stages during and after an infection. Only infections in later stages and past infections can be diagnosed by this method since the viruses replicate first to high enough titers to trigger the alarms and then a couple of days are needed to produce antibodies. 
 
 > ###### Serology
-> Methods analyzing the blood serum are called *serology* and often antibody test are referred serological (Covid) tests. 
+> Methods analyzing the blood serum are called *serology*. Antibody detection is referred as serological (Covid) tests. 
+
 
 
 ## Taking Specimens
@@ -144,7 +155,7 @@ Two types of locations are suitable for diagnosis:
 The human metabolisms follows a daily=circadian (circa = about, dies=day) cycle. This true also for many fluids which can be sampled for disease diagnosis e.g. for the sputum and saliva. 
 
 #### Saliva Collection Timing
-The saliva flow rate varies depends on activities such as sleeping or eating and has different flows from different glands as very readable described by [Dawes](#summary-dawes). The saliva flow rate, location and source yields different microhabitats for bacteria and viruses e.g. investigated with flow cytometry by ([Carlson-Jones et al](#summary-carlson-jones)). Carlson-Jones et al describe these habitats and observe that both the bacteria and virus like particles concentrations peak in the morning. 
+The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source yields different microhabitats for bacteria and viruses. [Carlson-Jones et al](#summary-carlson-jones) investigated these habitats with flow cytometry and observe that both the bacteria and virus like particles concentrations peak after sleep.
 This morning peak is also observed for SARS-CoV-2: [Hung et al](#summary-hung)
 
 ### Collection Methods
@@ -202,7 +213,7 @@ Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of 
 * quite easy to take but trained persons are needed
 * the sensitivity is about 60% ([Yang](#summary-yang))
 #### Nasopharyngeal Aspirate 
-[in work] As NPS nasopharyngeal aspirates samples the back of the nose but from a much larger area thus the detection rate is superior [citations in work]. 
+[in work] As NPS nasopharyngeal aspirates samples the back of the nose but from a much larger area. The large area reduces the randomness and the detection rate is superior [citations in work]. 
 
 #### Anterior Nose Mucus
 Detection rates tend to be even lower than NPS. In the review of  [Lee et al](#summarized-review-lee) some studies investigating the anterior nose mucus are cited. 
@@ -215,7 +226,7 @@ Varies across the methods. Early morning saliva has high viral loads and good de
 #### Oropharyngeal Swabs
 [in work]
 
-### Lung 
+### Diagnosis in the Lungs 
 
 #### XRay-Imaging
 Conventional XRay or computer tomography (essentially multiple XRay pictures enabling computer assisted construction of 3d image[to check])
@@ -235,7 +246,7 @@ Overall sputum has a high detection rate:
 
 #### BALF 
 Broncho-alveolar-lavage fluid (BALF). Even though the lower respiratory tract is the most relevant location for pathogenesis, the viral load is less known especially for mild cases since sampling is complicated.
-[Yang et al](#summary-yang) found in 
+[Yang et al](#summary-yang) detected a viral load in all severe cases. The viral 
 
 
 ### Challenges regarding Viral Load and Diagnosis
@@ -264,31 +275,36 @@ Summaries of the papers are in the section [Summarized References](#summarized-r
 * Reviews are
   * [Lee et al](#summarized-review-lee)(has nice plots comparing the different sampling methods) 
   * [da Silva](#summarized-review-dasilva)(helpful summaries of studies).
+  * [Manabe et al](#summary-manabe) investigate crevicular fluid and review the literature on saliva diagnosis. 
 * Well specified and carefully carried out investigations are:
   * [Wyllie](#summary-wyllie-letter). Early morning before eat saliva. **Recommended** read with illustrative plots, detailed information available in the appendix.
   * [Rao](#summary-rao). Early morning before eat saliva.
   * [Huber](#summary-huber). Throat wash specimens. 
 * An interesting read is [Yokota 2](#summary-yokota-2). In his [Opinion Paper](#summary-opinion-by-azzi) L. Azzi opts for saliva based diagnosis and summarizes key points of [Yokota et al](#summary-yokota-2).
+* [Hung et al](#summary-hung) describe the SARS-CoV-2 viral load in saliva at 5 different time point during the day and observe that the viral load peaks in the morning.
 
 ### Viral Load for Different Saliva Sampling Methods
 [in work]
 Location of sampling (e.g. throat wash, coughing up sputum) and timing  (e.g. time of day / before after eating since the saliva flow is increased during & after eating and decreased at night). Thus different [saliva Sampling Procedures](#saliva-sampling-procedures) yield different results. 
 
 * #### Throat saliva
-  Testees in [Huber et al](#summary-huber) were asked to clear the throat. The viral load and detection rate in NPS were slightly higher but about 90% of NPS positive were also positive in saliva. A tendency for increasing the saliva sensitivity for triple throat washing is observed. 
+  Testees (mostly symptomatic or exposed) in [Huber et al](#summary-huber) were asked to clear the throat. The viral load and detection rate in NPS were higher but about 90% of NPS positive were also positive in saliva. A tendency for increasing the saliva sensitivity for triple throat washing is observed. 
 * #### Coughed up Sputum/Nasal Secretions by sniffing
   * [Procop et al](#summary-procop): 216 Covid-19 symptomatic patients had enhanced saliva (provide all produceable secretions: strong sniff, elicited cough) collected and NPS analyzed. 38 were positive both for NPS and saliva. 1 testee had only saliva tested positive. 
 * #### Upon Waking Saliva
-  * [Wyllie et al](#summary-wyllie-letter) observe:
+  * [Wyllie et al](#summary-wyllie-letter) analyze saliva samples from hospitalized patients given each couple of days:
     * A viral load is detected in about 80% of the cases in the first 5 days after hospital admission of confirmed Covid-19 cases.
     * Both the viral load and the detection rate observed are higher than for NPS in day 0 to 5 and day 5 to 10 days after hospital admission. From day 11 and onwards about 50% are positive in NPS
-  * [Rao et al](#summary-rao) observed a much higher detection rates from early morning saliva than from NPS specimens. 
+  * [Rao et al](#summary-rao) observed much higher detection rates from early morning saliva than from NPS specimens in male recruits asymptomatic at the time of testing (average age 27) on day 8-10 in isolation after an initial positive NPS test. 
 * #### Saline Gargle
   [Berenger et al](#summary-berenger) hast testees in a first round gargle saline water and in a second round to accumulate and then spit saliva and add universal transport medium (UTM). The sensitivity observed in the UTM method is higher than in the saline gargle method.
 * #### Crevicular Fluid
-  [Manabe et al](#summary-manabe) investigated the effectiveness of crevicular fluid for Covid-19 diagnosis. 
+  * [Manabe et al](#summary-manabe) investigated the effectiveness of crevicular fluid for Covid-19 diagnosis. 
 
+### Notes on Saliva Diagnosis
+* Saliva tests can be cheated by increasing the saliva flow. Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands.  
 
+  > One reason more to relax the often uselessly strict quarantine and isolation rules across the world. Over 90% of the infected are undetected. Important is, to avoid crowded indoor spaces when infected and ventilate the flat well (most people live in flats). 
 
 ## Summarized References
 As usually for summarized references:
@@ -348,7 +364,7 @@ Search for (“saliva”) and (“SARS-CoV-2” or “coronavirus” or “COVID
 Different diagnostic tests for Covid-19 are reviewed and pro & contras discussed:
 * Virus culture:
   Not recommended for routine diagnosis since: Requires skilled workers, high biosafety & 3-6 days for SARS-CoV-2 to cause apparent cytopathic effects.
-* Molecular assays (references for each specimen in the paper):
+* Molecular assays (references for each specimen in the paper, the investigation from [Wang et al](#summary-wang) is one of those):
   Specimen              | Sensitivity (%)
   --|--
   Nasopharyngeal swab   | 63 – 89
@@ -489,7 +505,6 @@ Total       |    248 |  939   | 1187
 * Figure 4 B shows that earlier after symptom onset (only symptomatic patients) patients get tested, the higher the viral load is. 
 
 
-
 #### Summary Matic
 **Practical challenges to the clinical implementation of saliva for SARS-CoV-2 detection**
 The introduction section of their paper is highly recommended: it provides a concise overview of the different diagnostic methods and associated challenges.
@@ -609,14 +624,13 @@ NPS           | 33     | 33.5 | 29
 ##### Results
 * Positive rates in decreasing order:
   * Bronchoalveolar lavage fluid (14 of 15; 93%)
-  * Sputum (72 of 104; 72%)
-  * Nasal swabs (5 of 8; 63%)
+  * Sputum (72 of 104; 69%)
+  * Nasal swabs (5 of 8; 62.5%)
   * Fibrobronchoscope brush biopsy (6 of 13; 46%)
   * Pharyngeal swabs (126 of 398; 32%)
   * Feces (44 of 153; 29%)
   * Blood (3 of 307; 1%)
   * Urine specimens (0 of 72; 0%) 
-
 * Two of the four cultured fecel samples showed signs of virus replication.
 
 
@@ -640,7 +654,7 @@ Data not uniform/consistent:
 ##### Methods
 155 Participants with signs/symptoms suggesting SARS-CoV-2 infection underwent a nasopharyngeal swab (NPS) and/or oropharyngeal swab (OPS) and saliva collection in Salvador, Brazil. 
 ##### Results
-saliva\NPS or OPS | NPS/OPS + | NPS/OPS - | Total
+saliva\NPS or OPS| NPS/OPS +  | NPS/OPS - | Total
 --|--|--|--
 Saliva +         |    67      |       2   |  69 
 saliva -         |     4      |      82   |  86 
@@ -865,7 +879,7 @@ BALF          | 22.5 (21-24) | -
 ##### Methods
 * "We collected serial upper respiratory tract samples (1 nasopharyngeal swab and 1 throat swab put in a single collection tube with 1 mL of transport medium) for real-time PCR of SARS-CoV-2 RNA for all patients."
 * " Severe/critical patients were defined as those requiring invasive mechanical ventilation or high-flow nasal oxygen and mild as those not requiring supplementary oxygen or hospitalization."
-* "Viral load, expressed as log10 of viral RNA per swab, was calculated as (47 – observed cycle threshold value) / 3.4. This formula applies the average of the parameters (slope and constant) that we observe when we quantify viruses in serum using quantitative PCR with serial dilution of quantification standards (plasmid carrying target sequence) and presumes a 10-μL sample volume in the reaction and a 97% efficiency in the PCR."
+* "Viral load, expressed as log10 of viral RNA per swab, was calculated as (47 – observed cycle threshold value) / 3.4. This formula applies the average of the parameters (slope and constant) that we observe when we quantify viruses in serum using quantitative PCR with serial dilution of quantification standards (plasmid carrying target sequence) and presumes a 10-μL sample volume in the reaction and a 97% efficiency in the PCR." 
 ##### Results
 * "The highest viral loads were observed early after onset of symptoms in both groups of participants (Figure 1A and 1B). At 7 days, mean viral load among virus-positive patients was 5.8 log10 copies/swab for those with mild disease (n = 37) and 5.5 log10 copies/swab for those with severe/critical disease (n = 12) (P = .53). At 14 days, mean viral load was 4.4 log10 copies/swab for those with mild disease (n = 38) and 4.2 log10 copies/swab for those with severe/critical disease (n = 14) (P = .56)."
 * "The median duration of viral RNA shedding was 24.0 days in patients with mild disease and 22.5 days in patients with severe/critical disease (Figure 1C)."
@@ -884,7 +898,7 @@ BALF          | 22.5 (21-24) | -
 
 
 
-### Circadian Cycle of Sample Collection
+### Flow Patterns of Body Fluids
 
 #### Summary Carlson-Jones
 **The microbial abundance dynamics of the paediatric oral cavity before and after sleep**
@@ -921,3 +935,15 @@ BALF          | 22.5 (21-24) | -
 * "There was an overall trend of lower Ct values from specimens collected in the early morning, with a gradual decrease of viral load towards nighttime, but reaching statistical significance only when compared with the specimens collected at bedtime. Eight out of 13 subjects had a higher viral load in the early morning than the rest of the 4 time points (before lunch, before teatime at 3 pm, before dinner, before bedtime)."
 * "The distribution of Ct values at 5 different time points is shown in Figure 1. The medians (IQRs) at early morning, before lunch, before teatime at 3 pm, before dinner, and before bedtime were 34.5 (32.5–41), 38.2 (33.9–41), 36.3 (34.5–41), 41 (34.7–41), and 41 (34.7–41), respectively."
 
+## Appendix
+
+### Calculation of Viral Load from CT_Value
+`viral_load = d_c_h / 2^CT_cycles` where `d_c_h = detection_limit_for_helper_method` (the helper method is can be optical fluorescence)
+Often the viral load is given as logarithm. For logarithm to base 2:
+`log2(viral_load) = log2(d_c_h) - CT_cycles`
+The viral load as logarithm to base 10:
+`log10(viral_load) =log2(viral_load)/log2(10) = (log2(d_c_h) - CT_cycles)/3.32`
+Detection limit:
+`PCR_detection_limit * 2^max_cycles = helper_method_detection_limit`
+
+An example formula for their apparatus is in [Yilmaz et al](#summary-yilmaz).
