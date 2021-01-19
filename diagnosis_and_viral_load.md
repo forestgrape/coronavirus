@@ -50,7 +50,7 @@ Methods and locations to diagnose Covid-19 are discussed. A focus is on methods 
 * Antibodies which are part of the immune response. High specificity. Very low sensitivity in the early phase since antibodies are not yet produced. Higher sensitivity later on since most people produce antibodies. 
 
 ### SARS-CoV-2 Viral Load
-The viral load measures the amount of virions present. Whether a viral load can be detected (=detection rate) and how high it is (=viral load), is dependent on the location, the sampling method and the infected locations/tissues of a patient. SARS-CoV-2 can infect many locations and virions are distributed with fluids e.g. the air and the mucus in different parts of the respiratory tract. Some locations are easy to sample such as saliva or the nose swabs but detection rates are low (depending on the method and the infection they vary between 40% and 80%). Other methods are more cumbersome to sample such as nasopharyngeal aspirate, sputum or bronchoalveolar lavage fluid but offer higher sensitivities.
+The viral load measures the amount of virions present. Whether a viral load can be detected (=detection rate) and how high it is (=viral load), is dependent on the location, the sampling method and the infected locations/tissues of a patient. SARS-CoV-2 can infect many locations, the infected locations vary between patients and virions are distributed with fluids e.g. the air and the mucus in different parts of the respiratory tract. Some locations are easy to sample such as saliva or the nose swabs but detection rates are low (depending on the method and the infection they vary between 40% and 80%). Other methods are more cumbersome to sample such as nasopharyngeal aspirate, sputum or bronchoalveolar lavage fluid but offer higher sensitivities.
 
 * The de facto standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections.
 * Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). 
@@ -444,7 +444,7 @@ Notes:
 
 
 
-#### Summary Güclü
+#### Summary Güclü
 Güçlü, E., Koroglu, M., Yürümez, Y., Toptan, H., Kose, E., Güneysu, F., & Karabay, O. (2020). 
 **Comparison of saliva and oro-nasopharyngeal swab sample in the molecular diagnosis of COVID-19.** Revista da Associacao Medica Brasileira (1992), 66(8), 1116–1121. https://doi.org/10.1590/1806-9282.66.8.1116
 ##### Methods 
