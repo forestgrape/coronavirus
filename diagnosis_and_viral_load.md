@@ -50,16 +50,16 @@ Methods and locations to diagnose Covid-19 are discussed. A focus is on methods 
 * Antibodies which are part of the immune response. High specificity. Very low sensitivity in the early phase since antibodies are not yet produced. Higher sensitivity later on since most people produce antibodies. 
 
 ### SARS-CoV-2 Viral Load
-The viral load  can be detected and measured at different locations.  The viral loads and corresponding detection rates vary greatly between different locations since as described in the chapter [Covid-19](./covid19.md) SARS-CoV-2 can infect many locations and virions are distributed with fluid such as air in the respiratory tract. Some locations are easy to sample such as saliva or the nose swabs but detection rates are low (depending on the method and the infection they vary between 40% and 80%). Other methods are more cumbersome to sample such as nasopharyngeal aspirate, sputum or bronchoalveolar lavage fluid but offer higher sensitivities.
-Detection rates and viral load for diagnose locations:
-* The de facto standard method NPS analyzed by PCR has a detection rate of about  50 -80 % across infections. 
-* Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 70% - 90%). 
+The viral load measures the amount of virions present. Whether a viral load can be detected (=detection rate) and how high it is (=viral load), is dependent on the location, the sampling method and the infected locations/tissues of a patient. SARS-CoV-2 can infect many locations and virions are distributed with fluids e.g. the air and the mucus in different parts of the respiratory tract. Some locations are easy to sample such as saliva or the nose swabs but detection rates are low (depending on the method and the infection they vary between 40% and 80%). Other methods are more cumbersome to sample such as nasopharyngeal aspirate, sputum or bronchoalveolar lavage fluid but offer higher sensitivities.
+
+* The de facto standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections.
+* Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). 
 * Morning sputum and nasopharyngeal aspirate have high viral load and good detection rates. 
 * A high viral load in the sputum or in saliva is an indication for severe disease progression. The viral load in NPS samples isn't an indicator. 
 
 ### Take Away
-* __Recommended Diagnosis__: Morning sputum, repeated morning saliva have a high viral load and good detection rates and moreover predict the disease severity. 
-* __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has only a detection rate of about 60%. Nasopharyngeal aspirate good detection rate but not so easy to sample. CTs of the lungs works to detect possible super spreaders but there's radiation. 
+* __Recommended Diagnosis__: Morning sputum, repeated morning saliva have a high viral load and good detection rates and predict the disease severity. 
+* __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has only a detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation. 
 
 
 ## Introduction to Diagnosis
@@ -249,7 +249,7 @@ Often investigations for viral load are biased. Reasons are:
 ## Saliva based Diagnosis
 Key features of saliva based Covid diagnosis are:
 
-* Viral Load: The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90% but the results across studies and the collections methods they use. As for other fluids the best [collection time](#collection-time) upon waking and before eating and in this case the viral load and the detection rate is higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
+* Viral Load: The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90% but the results across studies and the collections methods they use. As for other fluids the best [collection time](#saliva-collection-timing) upon waking and before eating and in this case the viral load and the detection rate is higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
 * Suitability: Saliva is simpler than NPS and suitable for self collection.
 
 ### Literature on Saliva Diagnosis
@@ -557,7 +557,6 @@ Notes:
 * Control Sample Validity: "The mean (SD) CT value of the RNase P amplification control of the NPS specimens was 25.1 (2.2) cycles, whereas the mean (SD) CT value of this target for the saliva specimens was 23.0 (1.8). The mean difference in CT values was 2.1 (95% confidence interval [CI], 1.8 to 2.4; P = 0.001), which suggests that the saliva specimens had a greater cellularity than the NPS specimens."
   
 
-
 #### Summary Rao
 Rao M, Rashid FA, Sabri FSAH, et al. 
 **Comparing nasopharyngeal swab and early morning saliva for the identification of SARS-CoV-2.** 
@@ -845,6 +844,7 @@ BALF          | 22.5 (21-24) | -
 
 ### Viral Load Nose and Throat Series
 
+
 #### Summary Yilmaz
 **Upper Respiratory Tract Levels of Severe Acute Respiratory Syndrome Coronavirus 2 RNA and Duration of Viral RNA Shedding Do Not Differ Between Patients With Mild and Severe/Critical Coronavirus Disease 2019**
 ##### Methods
@@ -855,7 +855,6 @@ BALF          | 22.5 (21-24) | -
 * "The highest viral loads were observed early after onset of symptoms in both groups of participants (Figure 1A and 1B). At 7 days, mean viral load among virus-positive patients was 5.8 log10 copies/swab for those with mild disease (n = 37) and 5.5 log10 copies/swab for those with severe/critical disease (n = 12) (P = .53). At 14 days, mean viral load was 4.4 log10 copies/swab for those with mild disease (n = 38) and 4.2 log10 copies/swab for those with severe/critical disease (n = 14) (P = .56)."
 * "The median duration of viral RNA shedding was 24.0 days in patients with mild disease and 22.5 days in patients with severe/critical disease (Figure 1C)."
 * "We recorded clinical symptoms for 34 of the 39 participants with mild disease. Follow-up was done by regular phone calls. The most common presenting symptom was cough and fever, both occurring in 27 of 34 participants (79%), followed by muscle pain in 22 (65%), rhinitis in 20 (59%), and sore throat in 16 (47%)."
-
 
 
 #### Summary Zhou
@@ -870,9 +869,7 @@ BALF          | 22.5 (21-24) | -
 
 
 
-
 ### Circadian Cycle of Sample Collection
-
 
 #### Summary Carlson-Jones
 **The microbial abundance dynamics of the paediatric oral cavity before and after sleep**
