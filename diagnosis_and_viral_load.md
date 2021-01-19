@@ -249,8 +249,14 @@ Often investigations for viral load are biased. Reasons are:
 ## Saliva based Diagnosis
 Key features of saliva based Covid diagnosis are:
 
-* Viral Load: The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90% but the results across studies and the collections methods they use. As for other fluids the best [collection time](#saliva-collection-timing) upon waking and before eating and in this case the viral load and the detection rate is higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
-* Suitability: Saliva is simpler than NPS and suitable for self collection.
+* Viral Load: 
+  * The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90%. The results across studies and the collections methods they use ([Sampling Methods](#viral-load-for-different-saliva-sampling-methods)). 
+  * The optimal [collection time](#saliva-collection-timing) is upon waking and before eating. In this case the viral load and the detection rate is about 10% higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
+  * The viral load decrease in saliva is a predictor for the pathogenesis [Silva et al](#summary-silva).
+* Suitability: 
+  * Saliva is simpler than NPS and suitable for self collection.
+  * Well suited for pooled analysis [citation in work]. 
+  * Routine screening (e.g. in hospitality or care homes)
 
 ### Literature on Saliva Diagnosis
 Summaries of the papers are in the section [Summarized References](#summarized-references).
@@ -702,6 +708,15 @@ Total       |  5    | 1758  | 1763
 
 ### Time Series of Viral Load in Saliva
 
+
+#### Summary Silva
+[in work]
+**Saliva viral load is a dynamic unifying correlate of COVID-19 severity and mortality**
+##### Methods
+* Continuation of the saliva analyses done in [Wyllie et al](#summary-wyllie-letter). The obtained time series of viral loads in saliva and NPS specimens are compared to the pathogeneses. 
+##### Results
+* The faster the saliva viral load decreases the better the prognosis (shown in Figure 2 D).
+* NPS viral load peaks later than the saliva viral load and is quite variable (Figure 2 J). 
 
 #### Summary To
 **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
