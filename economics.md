@@ -32,7 +32,7 @@
 * [Summarized References](#summarized-references)
 * [References](#references)
 * [Appendix](#appendix)
-  * [Deleted off Topic Thoughts](#deleted-off-topic-thoughts)
+  * [Temporarily Hidden Off Topic Thoughts](#temporarily-hidden-off-topic-thoughts)
 
 > ##### Economics
 > Science about the production, consumption, and transfer of goods and services.
@@ -276,5 +276,5 @@ More fairness for choosing job/work options.
 
 ## Appendix
 
-### Deleted off Topic Thoughts
-> Here was a short section about related but off topic thoughts on aspects of group related *economic* fairness (economics and to some extent education was considered but *not* other topics). These are temporarily removed, since the focus of this project is on Covid-19, respectively this chapter economical systems. The deleted drafts are still accessible through the github history function from early drafts to a slightly improved drafts (github commits in late December 2020). I intend to republish the thoughts in spring or summer 2021 better thought through, formulated and trying to consider different view points and experiences.
+### Temporarily Hidden Off Topic Thoughts
+> Here was a short section about related but off topic thoughts on aspects of group related *economic* fairness (economics and to some extent education was considered but *not* other topics). These are temporarily removed, since I'd like to think more and invest more time to consider all possible view points and experiences, but for the moment the focus here is on coronaviruses. The deleted drafts are still accessible through the github history function from early drafts to a slightly improved drafts (github commits in late December 2020). I intend to republish the thoughts in spring or summer 2021 better considering different view points and experiences.
