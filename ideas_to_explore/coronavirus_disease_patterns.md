@@ -83,16 +83,22 @@ MRI| Vocal folds | hoarse | - | no ACE2 cells thus no virus replication |
 LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](../coronavirus.md#tissue-tropism-of-sars-cov-2) thus no replication| viral load in sputum due to deposition 
 
 
-#### Resources and Readings
-[in work]
-> Many concepts in this section are raw ideas and often not 1-1 in literature making. A lot of illustrative papers provided observations, inspiration and similar ideas founding the ideas here.
+## Resources and Readings
 
 * ##### Review Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses; S Su, Y Bi, G Gao et al
     - Table 1: comparison of the infection caused by the HCoVs 229E, OC43, Sars-CoV, NL63, HKU1, MERS-CoV 
     
 
-* ##### Virological assessment of hospitalized patients with COVID-2019; R Woelfel, C Drosten, C Wendtner et al
-    - Figure 2: Viral load kinetics in Swab, Sputum and Stool and seroconversions
+### Describing the Viral Load at the Different Infection Locations
 
-* more coming
+* ##### Yang
+  **Laboratory Diagnosis and Monitoring the Viral Shedding of SARS-CoV-2 Infection**
+  [Summary Yang](./../diagnosis_and_viral_load.md#summary-yang) on the page [diagnosis_and_viral_load.md](../diagnosis_and_viral_load.md)
 
+* ##### Mazumder
+  [Summarized Review Mazumder](./../diagnosis_and_viral_load.md#summarized-review-mazumder) on the page [diagnosis_and_viral_load.md](../diagnosis_and_viral_load.md)
+
+
+* ##### Woelfel
+  **Virological assessment of hospitalized patients with COVID-2019**
+  - Figure 2: Viral load kinetics in Swab, Sputum and Stool and seroconversions
