@@ -3,14 +3,10 @@
 
 ## Note
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
-* These are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
-* The page is in work. Parts under heavy work are mostly marked with '[in work]'.
-* Mistakes of any form are likely. 
+* Many parts are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated.
+* The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely. 
 * This page often conversational and some parts aren't rigorous and just ideas in raw form. These are marked as experimental. 
-* The license is Creative Commons Attribution 4.0. with the following notes/relaxations:
-  * For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). Feedback is still appreciated though!
-  * In scientific contexts, citing is a good and helpful practice.
-* Two sections are marked as __public__, which contain suggestions and conversational descriptions: [Public Suggestions](#public-suggestions-and-tips) and [Covid-19](./covid19.md#public-description).
+* The license is Creative Commons Attribution 4.0. with the following notes/relaxations: For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
 * Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
 
 > ###### Definitions
@@ -22,7 +18,7 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- 17.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page added replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page.
+- ~~17.1.~~ 18.1. (Pago Pago Timezone) [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page added replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page.
   - Morning sputum, repeated morning saliva have a high viral load and good detection rates and moreover the viral load predicts the disease progression. 
   - Nose swabs have a detection rate of about 60% and the viral load does not predict disease progression.
 - 17.1. Improvements and clarifications across the page. Respelled Salvia to Saliva. 
