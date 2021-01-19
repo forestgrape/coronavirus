@@ -26,7 +26,7 @@ Diagnosis and Viral Load
   * [Diagnosis in the Mouth](#diagnosis-in-the-mouth)
   * [Lung](#lung)
   * [Challenges regarding Viral Load and Diagnosis](#challenges-regarding-viral-load-and-diagnosis)
-* [Saliva based Diagnosis](#saliva-based-diagnosis)
+* [Saliva Diagnosis](#saliva-diagnosis)
   * [Literature on Saliva Diagnosis](#literature-on-saliva-diagnosis)
   * [Viral Load for Different Saliva Sampling Methods](#viral-load-for-different-saliva-sampling-methods)
 * [Summarized References](#summarized-references)
@@ -76,7 +76,7 @@ A defined in the [Covid-19 chapter](./covid19.md) a [disease](./covid19.md#disea
 
   > In the very early phase of the Covid-19 pandemics PCR test were scarce and antigen tests not available so the work for BALF/sputum sampling was not the bottleneck. In the next months PCR test became more widely available but still limited, nasopharyngeal swabs were used: NPS sampling was doable since testing capacity was still limited. Everybody then just kept on doing NPS even there have been early studies pointing to the benefits of other methods such as self collected saliva. 
 * Late 2020 antigen tests are getting more common.
-* 2021? Alternate Locations? [Rethink Diagnosis](#diagnosis-locations) and a chapter on its own devoted to [saliva based diagnosis](#saliva-based-diagnosis).
+* 2021? Alternate Locations? [Rethink Diagnosis](#diagnosis-locations) and a chapter on its own devoted to [saliva based diagnosis](#saliva-diagnosis).
 
 
 
@@ -208,7 +208,7 @@ Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of 
 Detection rates tend to be even lower than NPS. In the review of  [Lee et al](#summarized-review-lee) some studies investigating the anterior nose mucus are cited. 
 
 ### Diagnosis in the Mouth
-Varies across the methods. Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Procedures](#saliva-sampling-procedures) in the section [saliva based Diagnosis](#saliva-based-diagnosis). 
+Varies across the methods. Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Procedures](#saliva-sampling-procedures) in the section [saliva based Diagnosis](#saliva-diagnosis). 
 
 > Separate section since I consider saliva diagnosis as the best option for routine Covid diagnosis. 
 
@@ -246,7 +246,7 @@ Often investigations for viral load are biased. Reasons are:
 
 
 
-## Saliva based Diagnosis
+## Saliva Diagnosis
 Key features of saliva based Covid diagnosis are:
 
 * Viral Load: 
