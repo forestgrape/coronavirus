@@ -27,7 +27,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
   * [Tissue Tropism](#tissue-tropism)
 * [Tissue Tropism of Sars-CoV-2](#tissue-tropism-of-sars-cov-2)
   * [Theoretical Deduction](#theoretical-deduction)
-  * [Empirical Deduction](#empirical-deduction)
+  * [Empirical Deduction of the SARS-2 Tissue Tropism](#empirical-deduction-of-the-sars-2-tissue-tropism)
 * [Habitat](#habitat)
   * [Organisms Habitat aka Hosts](#organisms-habitat-aka-hosts)
   * [Conquering new Habitats](#conquering-new-habitats)
@@ -545,28 +545,34 @@ For serving as an entry point, ACE2 should be built into the cell membrane as a 
     - being built into the cell membrane as a receptor on any site. 
 
 #### ACE2 Receptor Distribution
-[**incomplete and in rework**][Until updated, recommended is direct lookup in: [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]<br>
+[**incomplete and in rework**]
+[recommended read is [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]<br>
 ACE2 is apically available 
 * in the lower respiratory tract
     - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
     - alveolar epithelial type 2 cells [to check/find citation].
-
+  
 * in the upper respiratory tract
     - the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
     - goblet cells[todo: other cells (goblet) too in rework]
 
 
-### Empirical Deduction
-[in rework: update and a section for each strain]<br>
+### Empirical Deduction of the SARS-2 Tissue Tropism
+[in rework: update and a section for each strain]
 Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
 
 #### Betacoronavirus Type 2 Viral Load
-The viral load observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
+[in rework]
+The viral loads observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
 * The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
-* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome. <br>
-Remark: Mers-Cov has a different cell entry receptor (DPP4). However the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone (extended explanation in work). This is just a piece of evidence in the overall picture. 
+* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome.
+Remark: Mers-Cov has a different cell entry receptor (DPP4). However 
+* the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone. 
+* some and especially the severe SARS-2 infections show a similar pathogenesis as MERS
 
-That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. An widespread infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].  
+This is just a piece of evidence in the overall picture. 
+
+That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. ~~An widespread infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].~~ The upper respiratory tract is used to fight viruses and so infections are rarely virulent [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md). 
 
 
 
