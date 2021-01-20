@@ -113,16 +113,16 @@ Key aspects of the airborne transmission in table form; for details on Actions a
 
 Model    | Metaphor   | Actions | Source/Deposition | Situations/Clima|   Prevent              
 ---------|------------|------------------|-----------------|------|---
-[droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (overall the most common transmission of SARS-CoV-2)| Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| central lungs (trachea, bronchi), nose | cool and low absolute humidity | (high-filtration-)mask, distance, **ventilate**
-[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | very dry (low relative humidity) e.g. indoor heated| high-filtration-mask with good fit, **ventilate**, no deep inhalation e.g. no indoor sport
+[droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
+[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets drying out| vocal folds, central lungs (trachea, bronchi), nose (deposition only) | cool and low absolute humidity | (high-filtration-)mask, distance, **ventilate**
+[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | any with between person air exchange e.g. indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation e.g. no indoor sport
 
 
 #### Comments
 * In warm climates rooms can be ventilated well, so the aerosol spread is likely less important but can be favoured by careless use of air-conditioning.  
-* Aerosol and dry form spread are increasingly possible the lower the absolute humidity is. The absolute humidity in heated indoor rooms is lower, the lower the outside temperature is. 
-* The dry form model is proposed here. This transmission form is just a proposal and whether it occurs and what role it play is not verified.
-
+* Aerosol and dry form spread are increasingly possible the more indoor air is exchanged. 
+* The air humidity is relevant for droplet aerosol since the droplets can growth and shrink, which changes the osmotic pressure on the virions. The absolute humidity in heated indoor rooms is lower, the lower the outside temperature is. 
+* The dry form model is proposed here.
 
 
 ## Particle Dynamics in the Respiratory Tract
