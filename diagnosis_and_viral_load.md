@@ -90,10 +90,10 @@ A defined in the [Covid-19 chapter](./covid19.md) a [disease](./covid19.md#disea
 
 ### Measure the Viral Load
 
-In tissues containing infected cells or in the lining fluids protecting/cleaning these tissues the viral load can be measured by detecting building blocks.
+In tissues containing infected cells or in the lining fluids protecting/cleaning these tissues the viral load can be measured by detecting building blocks of virions.
 
 #### Genome Detection
-Test for specific sequences in the genome of virions (positive single stranded RNA for coronaviruses). The amount of virions (called [viral load](#viral-load)) - can be determined with high specificity and sensitivity. Examples are given in the section [Common Diagnosis Methods](#common-diagnosis-methods).
+Test for specific sequences in the genome of virions (positive single stranded RNA for coronaviruses). The amount of virions (called [viral load](#viral-load)) - can be determined with high specificity and sensitivity.
 
 > ###### PCR Test
 > A *PCR test* is a method to detect specific sequences of RNA or DNA. PCR doubles specific DNA/RNA strands in cycles called CT cycles. The concentration of the DNA/RNA double each round, at some point it is high enough to be detected by some helper method e.g. by optical fluorescence. The doubling cycles needed are called CT values.
