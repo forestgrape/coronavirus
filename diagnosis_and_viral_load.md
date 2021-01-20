@@ -22,6 +22,7 @@ Diagnosis and Viral Load
 * [Introduction to Viral Load](#introduction-to-viral-load)
 * [Diagnosis and Viral Load at Different Locations](#diagnosis-and-viral-load-at-different-locations)
   * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
+  * [Detection Rates](#detection-rates)
   * [Diagnosis in the Nose](#diagnosis-in-the-nose)
   * [Diagnosis in the Mouth](#diagnosis-in-the-mouth)
   * [Diagnosis in the Lungs](#diagnosis-in-the-lungs)
@@ -29,14 +30,16 @@ Diagnosis and Viral Load
 * [Saliva Diagnosis](#saliva-diagnosis)
   * [Literature on Saliva Diagnosis](#literature-on-saliva-diagnosis)
   * [Viral Load for Different Saliva Sampling Methods](#viral-load-for-different-saliva-sampling-methods)
-  * [Notes on Saliva Diagnosis](#notes-on-saliva-diagnosis)
+  * [Notes](#notes)
 * [Summarized References](#summarized-references)
+  * [Viral Load in Different Specimens](#viral-load-in-different-specimens)
   * [Viral Load in Sputum](#viral-load-in-sputum)
-  * [Viral Load in Saliva Summarized Refs](#viral-load-in-saliva-summarized-refs)
+  * [Viral Load in URT](#viral-load-in-urt)
+  * [Viral Load in Saliva compared to NPS](#viral-load-in-saliva-compared-to-nps)
   * [References RNA Detection Stability](#references-rna-detection-stability)
   * [Time Series of Viral Load in Saliva](#time-series-of-viral-load-in-saliva)
   * [Time Series Viral Load in Multiple Locations](#time-series-viral-load-in-multiple-locations)
-  * [Viral Load Nose and Throat Series](#viral-load-nose-and-throat-series)
+  * [Viral Load Series in URT](#viral-load-series-in-urt)
   * [Flow Patterns of Body Fluids](#flow-patterns-of-body-fluids)
 * [Appendix](#appendix)
   * [Calculation of Viral Load from CT_Value](#calculation-of-viral-load-from-ct_value)
@@ -61,8 +64,8 @@ The viral load measures the amount of virions present. Whether a viral load can 
 * A high viral load in the sputum or in saliva is an indication for severe disease progression. The viral load in NPS samples isn't an indicator. 
 
 ### Take Away
-* __Recommended Diagnosis__: Morning sputum, repeated morning saliva have a high viral load and good detection rates and predict the disease severity. 
-* __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has only a detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation. 
+* __Recommended Diagnosis__: Morning sputum, repeated morning saliva yield high viral loads, good detection rates and predict the disease severity. 
+* __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has only a detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation.
 
 
 ## Introduction to Diagnosis
@@ -152,11 +155,12 @@ Two types of locations are suitable for diagnosis:
 * Viral Load in body fluids ([Viral Load](#viral-load)) from virus replication in close tissues or deposition. Sampled by swab or aspiration. 
 
 ### Collection Timing
-The human metabolisms follows a daily=circadian (circa = about, dies=day) cycle. This true also for many fluids which can be sampled for disease diagnosis e.g. for the sputum and saliva. 
+The metabolisms of organism vary across situation/activities performed. Many metabolic functions follow also a daily=circadian (circa = about, dies=day) cycle. The fluids used for disease diagnosis often have a daily cycle e.g. sputum and saliva. 
 
 #### Saliva Collection Timing
-The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source yields different microhabitats for bacteria and viruses. [Carlson-Jones et al](#summary-carlson-jones) investigated these habitats with flow cytometry and observe that both the bacteria and virus like particles concentrations peak after sleep.
-This morning peak is also observed for SARS-CoV-2: [Hung et al](#summary-hung)
+The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source give rise to different microhabitats for bacteria and viruses. 
+* [Carlson-Jones et al](#summary-carlson-jones) investigated these habitats with flow cytometry and observe that both the bacteria and virus like particles concentrations peak after sleep.
+* A morning peak is also observed for SARS-CoV-2: [Hung et al](#summary-hung)
 
 ### Collection Methods
 > ###### Aspirate
@@ -207,18 +211,35 @@ Knowing the viral load observed in different fluids and tissues is relevant for:
 * A recommended review for the viral load in upper respiratory tract specimens is [Lee et al](#summary-review-lee).
 * [Yang et al](#summary-yang) investigated the viral load across locations the respiratory tract.
 
+### Detection Rates 
+Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken) mainly from the literature above but also from other [references summarized](#summarized-references) in first week of severe respectively mild symptoms.
+Severe  | Mild  | Specimen    
+--|--|--
+65      | 50    | [oropharyngeal](#oropharyngeal-swabs)
+85      | 70    | [morning saliva](#viral-load-for-different-saliva-sampling-methods)
+70      | 
+75      | 60    | [NPS](#nasopharyngeal-swabs) 
+65      | 50    | [Nasal Swab](#nasal-swab)
+90      | 80    | [sputum](#sputum)
+90      | 30    | [BALF](#balf)
+75      | 25    | [Lung XRay](#xray-imaging) 
+
 ### Diagnosis in the Nose
 #### Nasopharyngeal Swabs
 Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of December 2020, often used as 'gold standard' for Covid-19 diagnosis. NPS samples can be analyzed either by PCR or antigen tests.
 * quite easy to take but trained persons are needed
-* the sensitivity is 
-  * 85% for severe cases and 62 % for mild cases in first week of illness. In the second week 69% for severe and 53 % for mild cases ([Yang](#summary-yang))
-  * 71% in the first 5 days of hospitalization [Wyllie](#summary-wyllie-letter) //patients initially positive by NPS so results biased and the 71% are likely to high (the study is about comparing saliva and NPS)
+* Sensitivity:
+  * [Yang et al](#summary-yang) observe the sensitivities: 85% for severe cases and 62 % for mild cases in first week of illness. In the second week 69% for severe and 53 % for mild cases.
+  * 71% in the first 5 days of hospitalization [Wyllie](#summary-wyllie-letter)
+  //patients initially positive by NPS so results possibly biased (the study is about evaluating saliva and comparing it to NPS)
+* Slow decrease of viral load and high variability across specimens and days ([Zhou](#summary-zhou), Figure B and D in [Wyllie](#summary-wyllie-letter)). (The slow decrease likely since the cleaning of dead cells and dirt is not very fast at the back of the nose. The variability probably because the sampling area is small).
+* Specificity: The specificity to detect infectiousness is low in mild cases (rough estimate about 50%) since the infectiousness peaks early (according to virus culture investigations) and viral RNA decreases slowly in NPS.
+ 
 #### Nasopharyngeal Aspirate 
 [in work] As NPS nasopharyngeal aspirates samples the back of the nose but from a much larger area. The large area reduces the randomness and the detection rate is superior [citations in work]. 
 
-#### Anterior Nose Mucus
-Detection rates tend to be even lower than NPS. In the review of  [Lee et al](#summarized-review-lee) some studies investigating the anterior nose mucus are cited. 
+#### Nasal Swab
+The anterior or mid-turbinate mucus can be swabbed. Overall detection rates tend to about 10% lower than NPS (Figure 5 in [Lee et al](#summarized-review-lee)). [Hanson et al](#summary-hanson) observed about a 10% lower detection for anterior nasal swabs compared to NPS or saliva. 
 
 ### Diagnosis in the Mouth
 Varies across the methods. Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Procedures](#saliva-sampling-procedures) in the section [saliva based Diagnosis](#saliva-diagnosis). 
@@ -226,7 +247,7 @@ Varies across the methods. Early morning saliva has high viral loads and good de
 > Separate section since I consider saliva diagnosis as the best option for routine Covid diagnosis. 
 
 #### Oropharyngeal Swabs
-[in work]
+[Zhou et al](#summary-zhou) compared oropharyngeal swabs to NPS: OPS are more variables and have lower sensitivity. 
 
 ### Diagnosis in the Lungs 
 
@@ -240,11 +261,13 @@ Round glassy occupancies in the lung are characteristic for Covid [to check and 
 => recommended for symptomatic risk patients of very high age (radiation exposure less relevant) with negative test in the upper respiratory tract.
 
 #### Sputum
-Overall sputum has a high detection rate: 
-* over 80% in the first week of symptoms and over 70% in the second [Yang et al](#summary-yang). 
-* [Wang et al](#summary-wang) observed a detection over 70%. 
+[in work]
+Sputum has a high detection rate: 
+* over 80% in the first week of symptoms and over 70% in the second [Yang et al](#summary-yang) both for mild and severe cases. 
+* [Wang et al](#summary-wang) observed a detection rate over 70%. 
 
 #### Endotracheal Aspirate
+[in work]
 
 #### BALF 
 Broncho-alveolar-lavage fluid (BALF). Even though the lower respiratory tract is the most relevant location for pathogenesis, the viral load is less known especially for mild cases since sampling is complicated.
@@ -266,10 +289,13 @@ Key features of saliva based Covid diagnosis are:
   * The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90%. The results across studies and the collections methods they use ([Sampling Methods](#viral-load-for-different-saliva-sampling-methods)). 
   * The optimal [collection time](#saliva-collection-timing) is upon waking and before eating. In this case the viral load and the detection rate is about 10% higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
   * The viral load decrease in saliva is a predictor for the pathogenesis [Silva et al](#summary-silva).
+* Handling:
+  * The load of SARS-CoV-2 RNA stays stable and is detectable in saliva after some days ([Matic et al](#summary-matic); [Ott et al](#summary-ott))) and with and without transport media (about half of the studies use some transport media).
 * Suitability: 
   * Saliva is simpler than NPS and suitable for self collection.
-  * Well suited for pooled analysis [citation in work]. 
-  * Routine screening (e.g. in hospitality or care homes)
+  * Pooled analysis [citation in work]. 
+  * Routine screening, possibly pooled (e.g. in hospitality, offices care homes)
+
 
 ### Literature on Saliva Diagnosis
 Summaries of the papers are in the section [Summarized References](#summarized-references).
@@ -301,12 +327,18 @@ Location of sampling (e.g. throat wash, coughing up sputum) and timing  (e.g. ti
 * #### Saline Gargle
   [Berenger et al](#summary-berenger) hast testees in a first round gargle saline water and in a second round to accumulate and then spit saliva and add universal transport medium (UTM). The sensitivity observed in the UTM method is higher than in the saline gargle method.
 * #### Crevicular Fluid
-  * [Manabe et al](#summary-manabe) investigated the effectiveness of crevicular fluid for Covid-19 diagnosis. 
+  Gingival crevicular fluid (GCF) sampling is used to diagnose periodontal diseases [citation in work]. 
+  * [Manabe et al](#summary-manabe) investigated the effectiveness of crevicular fluid for Covid-19 diagnosis. About 10% lower than NPS in the first 5 days after symptom onset. From days 5 - 10 about 60% of NPS positive samples were positive by GCF.
+  * [Gupta et al](#summary-gupta) observe a detection rate about 35% lower than NPS (21 positive out of 33 positive by NPS). 
 
-### Notes on Saliva Diagnosis
-* Saliva tests can be cheated by increasing the saliva flow. Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands.  
 
-  > One reason more to relax the often uselessly strict quarantine and isolation rules across the world. Over 90% of the infected are undetected. Important is, to avoid crowded indoor spaces when infected and ventilate the flat well (most people live in flats). 
+### Notes
+* Saliva tests can be cheated by increasing the saliva flow ([Dawes](#summary-dawes)). 
+
+  > One reason more to relax the often overly strict [quarantine and isolation rules](./controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](./covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected - they don't know how much care to take.
+
+  Detecting Cheating may require new methods: RNaseP is often used as control for correct (NP) sampling, but in this case RNaseP likely does not help. Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP may not decrease much on an increased flow rate. What could help is detection other organism of the oral flora e.g. bacteria which peak to in after sleep ([Carlson-Jones](#summary-carlson-jones)). 
+  
 
 ## Summarized References
 As usually for summarized references:
@@ -315,51 +347,7 @@ As usually for summarized references:
 * While trying to capture the key findings of the investigations, the summaries are biased towards the findings referred on this page. 
 
 
-### Viral Load in Sputum
-
-#### Summary Yu
-**SARS-CoV-2 viral load in sputum correlates with risk of COVID-19 progression**
-##### Methods
-* Total 92 patients
-  * 30 were severe on admission. 
-  * 62 mild-moderate cases at admission, 11 cases became severe during hospitalization.
-* "The sputum specimens were collected from the lower respiratory tract of each patient at admission and the levels of viral nuclei acid were determined by a real-time PCR (RT- PCR) approach and indicated by the cycle threshold (Ct) values of RT-PCR assays [2]."
-##### Results
-"We found that the viral load of the sputum specimen in the lower respiratory tract tested at baseline is closely related to the severity of COVID-19. More importantly, patients with a higher baseline viral load are more likely to become severe." //shown in Figure 1 of the paper. 
-
-
-
-### Viral Load in Saliva Summarized Refs
-
-#### Summarized Review Lee
-Lee, Rose & Herigon, Joshua & Benedetti, Andrea & Pollock, Nira & Denkinger, Claudia. (2020). **Performance of Saliva, Oropharyngeal Swabs, and Nasal Swabs for SARS-CoV-2 Molecular Detection: A Systematic Review and Meta-analysis.** 10.1101/2020.11.12.20230748. 
-A review and meta analysis. Helpful plots showing uniformly the detection rates of SARS-CoV-2 in NPS/saliva/NS for the reviewed studies and aggregated detection rates for different features (e.g. symptomatic) and different collection methods (NPS/saliva/NS). 
-##### Methods
-"We systematically searched PubMed, Google Scholar, medRxiv, and bioRxiv (last retrieval October 1st, 2020) for comparative studies of alternative specimen types [saliva, oropharyngeal (OP), and nasal (NS) swabs] versus NP swabs for SARS-CoV-2 diagnosis using nucleic acid amplification testing (NAAT)." => "From 1,253 unique citations, we identified 25 saliva, 11 NS, 6 OP, and 4 OP/NS studies meeting 15 inclusion criteria."
-##### Findings
-The results from the different studies/data aggregated by feature are summarized to a figure which shows % positive alternate specimens, % positive NP specimens and (if available) % specimens where both NP and alternate are positive. 
-Selected aggregated results, the complete list is found in Figure 2 in the paper
-
-> Note: Sensitivity values should be taken as a score and *not* as detection rates in percentages since diagnosis by upper respiratory specimens alone is not possible.
-
-* Overall saliva they conclude a detection rate of 88% for saliva and 94% for NPS //both detection rates are likely much lower see Limitations
-* Cough or deep  throat saliva have a detection rate of 94% while NPS have 89%.
-* Asymptomatic patients have a detection rate of 87% in saliva and 73% in NPS
-* Symptomatic Patients have a detection rate of 88% in saliva and 96% in NPS
-
- 
-
-#### Summarized Review daSilva 
-Medeiros da Silva, R. C., Nogueira Marinho, L. C., de Araújo Silva, D. N., Costa de Lima, K., Pirih, F. Q., & Luz de Aquino Martins, A. R. (2020). **Saliva as a possible tool for the SARS-CoV-2 detection: A review.** Travel medicine and infectious disease, 38, 101920. 
-
-Helpful summaries of 39 studies, which analyze the viral load in saliva. 
-##### Methods
-Search for (“saliva”) and (“SARS-CoV-2” or “coronavirus” or “COVID-1”) in PubMed, Medline, Cochrane Library, Web of Science, Embase and Scopus yielded:
-"A total of 363 studies were identified by  and 39 were selected for review."
-##### Findings
-* For most studies: Saliva samples yielded a viral load and positivity rate similar to NPS samples. 
-* For most studies: If NPS samples were positive, saliva samples were positive in 70% or more cases. 
-* "Salivary samples for SARS-CoV-2 detection was as consistent and sensitive as the nasopharyngeal swabs in most studies, having been effective in detecting asymptomatic infections previously tested negative in nasopharyngeal samples."
+### Viral Load in Different Specimens
 
 #### Summarized Review Mazumder
 **Diagnostic tests for SARS-CoV-2: current status and issues**
@@ -380,6 +368,112 @@ Different diagnostic tests for Covid-19 are reviewed and pro & contras discussed
   A challenge is especially specificity since: "Within a genus, antibodies against other coronaviruses might cross-react and such cross-reactive conserved viral proteins limit the use of whole virus–based assays, for example, immunofluorescence assay (IFA) [7]."
 * Symptom-based diagnosis
 
+### Viral Load in Sputum
+
+#### Summary Yu
+**SARS-CoV-2 viral load in sputum correlates with risk of COVID-19 progression**
+##### Methods
+* Total 92 patients
+  * 30 were severe on admission. 
+  * 62 mild-moderate cases at admission, 11 cases became severe during hospitalization.
+* "The sputum specimens were collected from the lower respiratory tract of each patient at admission and the levels of viral nuclei acid were determined by a real-time PCR (RT- PCR) approach and indicated by the cycle threshold (Ct) values of RT-PCR assays [2]."
+##### Results
+"We found that the viral load of the sputum specimen in the lower respiratory tract tested at baseline is closely related to the severity of COVID-19. More importantly, patients with a higher baseline viral load are more likely to become severe." //shown in Figure 1 of the paper. 
+
+
+### Viral Load in URT
+
+#### Summary Hanson
+Hanson KE, Barker AP, Hillyard DR, Gilmore N, Barrett JW, Orlandi RR, Shakir SM. 2020. **Self-collected anterior nasal and saliva specimens versus health care worker-collected nasopharyngeal swabs for the molecular detection of SARS-CoV-2.** J Clin Microbiol 58:e01824-20. https://doi.org/10.1128/JCM .01824-20.
+##### Methods
+* Participants: " Adult patients presenting to a drive-through test center with symptoms suggestive of coronavirus disease 2019 (COVID-19) were included. Criteria for testing included the presence of at least one of the following: fever, cough, shortness of breath, sore throat, malaise, chills, and/or a decreased sense of smell or taste."
+* Sample Collection: "Flocked minitip and foam swabs (Puritan Medical Products) were used for the nasopharyngeal and nasal swab collections, respectively. Swabs placed in 3 ml of sterile 1 phosphate-buffered saline (ARUP Laboratories) and straight saliva collected in a sterile empty 50-ml Falcon tube (without prealiquoted stabilization medium) were transported to the clinical laboratory at 4 degree."
+* "We did not include a host genomic marker to ensure the presence of respiratory epithelial cells on the swab, nor did we compare patient self-collected ANS to health care provider-collected ANS."
+##### Results
+
+Saliva\Swab   | Swab + | Swab -| Total
+--|--|--|--
+Saliva +      |  75 |       6  |  81
+Saliva -      |   5 |     268  | 273
+Total         |  80 |     274  | 354 
+
+ANasal = Anterior Nasal Sample
+
+ANasal\Swab | Swab + | Swab -| Total
+--|--|--|--
+ANasal +      |  69 |     1    |  70
+ANasal -      |  11 |   273    | 284
+Total         |  80 |   274    | 354 
+
+Saliva\ANasal| ANasal +| ANasal - | Total
+--|--|--|--
+Saliva +      |  67 |      14  |  81
+Saliva -      |   3 |     270  | 273
+Total         |  70 |     284  | 354 
+
+* Viral load of NPS and ANasal are positively correlated with ANasal being lower. Saliva values are in some cases very different. (Fig 2)
+
+##### Discussion
+* "Additionally, the level of viral replication in the nasopharynx or posterior oropharynx/salivary glands may vary over the course of infection. We did not collect information on the duration or type of symptoms at the time of specimen collection, which is an additional limitation of the study."
+* "Lastly, in an attempt to exclude the possibility of RNA degradation in straight saliva as a potential explanation for false-negative results, we performed stability studies at ambient and refrigerated temperatures for up to 5 days and saw no reduced TMA or PCR signal (data not shown)."
+
+
+#### Summary Gupta
+**SARS-CoV-2 Detection in Gingival Crevicular Fluid**
+##### Methods
+* Participants: 
+  * "A total of 33 patients presenting to the Communicable Diseases Ward of the institution between July 1, 2020, and July 25, 2020, were recruited into the study after their COVID-19 status was confirmed by nasopharyngeal swab testing."
+  * "As far as COVID-19 status is concerned, 20 of these 33 patients were asymptomatic carriers (60.60%) and 13 presented with mild symptoms of fever, cough, and/or sore throat (39.4%). Fourteen of these 33 patients (42.42%) were deemed to have gum disease upon examination."
+* "GCF and saliva samples were collected from 33 COVID-19– confirmed patients by trained health care personnel by taking adequate protective measures as per the institute’s guidelines."
+##### Results
+Table 1 show the patients characteristics including the E-gene Ct-values for NPS, GCF and Saliva. // very nice to have complete data
+* Viral Load: 
+  * Averages: NPS about 24 Ct-value, GCF about 27 and Saliva about 28 (Figure in Paper)
+  * Variability: Larger in NPS (6.3 std) and saliva (5.4). Smaller in GCF (3.9). 
+* Detection Rate:
+  * 21/33 (64%) by GCF
+  * 21/31 (67%) by Saliva
+* "Saliva samples tested positive in 3 of the 12 patients whose GCF tested negative, and likewise, GCF tested positive for 2 of the 11 patients whose saliva tested negative on real-time reverse transcription polymerase chain reaction (rRT-PCR). "
+##### Notes
+"Periodontal health has been known to be reflective of sys- temic health. By this extension, GCF has been used in a num- ber of studies to gauge the systemic status of individuals in terms of being indicative of the serum level of immune response. GCF sampling has also been used to reliably deter- mine viral loads while studying periodontal conditions (Grenier et al. 2009)."
+
+<!--
+  * "Considering the presence of SARS-CoV-2 RNA in the NPS swabs as gold standard, the sensitivity of GCF and saliva, respectively, was found to be 63.64% (CI, 45.1% to 79.60%) and 64.52% (CI, 45.37% to 80.77%)."  
+-->
+
+
+#### Summarized Review Lee
+Lee, Rose & Herigon, Joshua & Benedetti, Andrea & Pollock, Nira & Denkinger, Claudia. (2020). **Performance of Saliva, Oropharyngeal Swabs, and Nasal Swabs for SARS-CoV-2 Molecular Detection: A Systematic Review and Meta-analysis.** 10.1101/2020.11.12.20230748. 
+A review and meta analysis. Helpful plots showing uniformly the detection rates of SARS-CoV-2 in NPS/saliva/NS for the reviewed studies and aggregated detection rates for different features (e.g. symptomatic) and different collection methods (NPS/saliva/NS). 
+##### Methods
+"We systematically searched PubMed, Google Scholar, medRxiv, and bioRxiv (last retrieval October 1st, 2020) for comparative studies of alternative specimen types [saliva, oropharyngeal (OP), and nasal (NS) swabs] versus NP swabs for SARS-CoV-2 diagnosis using nucleic acid amplification testing (NAAT)." => "From 1,253 unique citations, we identified 25 saliva, 11 NS, 6 OP, and 4 OP/NS studies meeting 15 inclusion criteria."
+##### Findings
+The results from the different studies/data aggregated by feature are summarized to a figure which shows % positive alternate specimens, % positive NP specimens and (if available) % specimens where both NP and alternate are positive. 
+Selected aggregated results, the complete list is found in Figure 2 in the paper
+
+> Note: Sensitivity values should be taken as a score and *not* as detection rates in percentages since diagnosis by upper respiratory specimens alone misses many cases [Yang](#summary-yang), [Wang](#summary-wang), [Wyllie](#summary-wyllie-letter)
+
+* Overall saliva has a score of 88 compared to one of 94 for NPS 
+* Cough or deep  throat saliva have a score of 94 while NPS have 89.
+* Asymptomatic patients have a score of 87 in saliva and 73 in NPS
+* Symptomatic Patients have a score of 88 in saliva and 96 in NPS
+
+
+### Viral Load in Saliva compared to NPS
+
+#### Summarized Review daSilva 
+Medeiros da Silva, R. C., Nogueira Marinho, L. C., de Araújo Silva, D. N., Costa de Lima, K., Pirih, F. Q., & Luz de Aquino Martins, A. R. (2020). **Saliva as a possible tool for the SARS-CoV-2 detection: A review.** Travel medicine and infectious disease, 38, 101920. 
+
+Helpful summaries of 39 studies, which analyze the viral load in saliva. 
+##### Methods
+Search for (“saliva”) and (“SARS-CoV-2” or “coronavirus” or “COVID-1”) in PubMed, Medline, Cochrane Library, Web of Science, Embase and Scopus yielded:
+"A total of 363 studies were identified by  and 39 were selected for review."
+##### Findings
+* For most studies: Saliva samples yielded a viral load and positivity rate similar to NPS samples. 
+* For most studies: If NPS samples were positive, saliva samples were positive in 70% or more cases. 
+* "Salivary samples for SARS-CoV-2 detection was as consistent and sensitive as the nasopharyngeal swabs in most studies, having been effective in detecting asymptomatic infections previously tested negative in nasopharyngeal samples."
+
+
 #### Summary Manabe
 **Self-collected oral fluid saliva is insensitive compared to nasal-oropharyngeal swabs in the detection of SARS-CoV-2 in outpatients**
 ##### Methods
@@ -389,10 +483,28 @@ Different diagnostic tests for Covid-19 are reviewed and pro & contras discussed
   * "Midway through enrolment, participants were asked to add spit into the Oracol collection tube to evaluate if that might enhance sensitivity."
 * "VeroE6-TMPRSS2 [16] cell culture model was used to assess viable virus when incubated with VTM (nasal-OP samples only). SARS-CoV-2 specific growth was verified by indirect immunofluorescence for SARS-CoV-2 antigen (nucleocapsid and spike proteins).[17]"
 ##### Results
-* In the first 5 days after symptom onset the agreement for positive samples was about 90%. But in days 5 to 10 about 60% of crevicular fluid samples where positive of the swab positive ones (as shown in Figure 3). 
+* In the first 5 days after symptom onset the agreement for positive samples was about 90%. In days 5 to 10 about 60% of crevicular fluid samples where positive of the swab positive ones (as shown in Figure 3). 
 * "We cultured all rRT-PCR positive nasal-OP specimens on VeroE6 TMPRSS2 cells. All culture positive samples (n=16) were obtained within 11 days of symptom onset. In all matched samples in which SARS-CoV-2 was culture positive (n=9), SARS-CoV-2 RNA was detected by rRT-PCR in both nasal-OP and oral fluid samples."
 ##### Discussion
 * "In our study, we found that spit added to the oral fluid did increase sensitivity. Taken together spit/drool sample type is better than oral fluid from the gumline. These differences are important since many in vitro devices that are currently being tested for the direct detection of SARS-CoV-2 use different salivary sample types including passive drool, spit, oral fluid collected with a sponge, and sputum from clearing the throat."
+
+#### Otto
+**Posterior Oropharyngeal Saliva for the Detection of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)**
+
+##### Methods
+* Participants: "Both POPS and NPsp were collected and tested from 92 outpatient adults attending the coronavirus disease-19 (COVID-19) consultation unit. All patients presented symptoms compatible with COVID-19 infection but none had a productive cough."
+* Saliva Sampling: ".POPS were collected by asking the patients to cough while wearing their surgical masks and then to col- lect saliva themselves into a sterile container, without VMT."
+* Analysis: "RT-PCR assay targeting the IP2 and IP4 regions of RdRp gene of SARS-CoV-2 was performed according to the French National Center protocol in a Light-Cycler 480 Real- Time PCR System (Roche)."
+
+##### Results
+Detection Rate:
+Saliva\Swab | Swab + | Swab -| Total
+--|--|--|--
+Saliva +    |  45 |      4   | 49
+Saliva -    |   0 |     43   | 43
+Total       |  45 |     47   | 92 
+
+
 
 #### Summary Azzi
 Azzi, L., Carcano, G., Gianfagna, F., Grossi, P., Gasperina, D. D., Genoni, A., Fasano, M., Sessa, F., Tettamanti, L., Carinci, F., Maurino, V., Rossi, A., Tagliabue, A., & Baj, A. (2020). **Saliva is a reliable tool to detect SARS-CoV-2. The Journal of infection,** 81(1), e45–e50. https://doi.org/10.1016/j.jinf.2020.04.005
@@ -589,7 +701,7 @@ DOI: [https://doi.org/10.1093/cid/ciaa1156]()
 * Participants:
   "This prospective single center diagnostic study was conducted among 217 individuals who were tested positive for SARS- CoV-2 via NPS at a COVID-19 quarantine center, MAEPS. These selected individuals were on days 8–10 of isolation during the sampling."..."Individuals with respiratory aid were excluded."
   "All participants were male recruits and asymptomatic at the time of sampling. The median age of the participant was 27 (IQR: 18–36) years." 
-* saliva Collection:
+* Saliva Collection:
   "Before collecting swabs, individuals were asked to provide self-collected deep throat saliva sample in a sterile collection container. Instruction on self-collected deep throat saliva was announced to participants a day prior. Briefly, upon waking up, the individuals were instructed to avoid food, water, and brushing of teeth before the collection of 2 mL of saliva."
 * Swab Collection:
   "As a standard protocol, NPS from individuals were collected using sterile flocked swab and placed in sterile tube containing viral transport medium (VTM)."
@@ -612,7 +724,7 @@ Specimen\Gene | E-Gene | RdRp | RNaseP
 saliva        | 30.5   | 31   | 27
 NPS           | 33     | 33.5 | 29
 
-* Figure 1 shows the Ct values of SARS-CoV-2 genes E and RdRp and the human RNaseP gene for both saliva and NPS (values shown in the table above). tto 
+* Figure 1 shows the Ct values of SARS-CoV-2 genes E and RdRp and the human RNaseP gene for both saliva and NPS (values shown in the table above). 
 * Figure 2 shows that the saliva viral loads are more broadly distributed compared to the NPS viral load. The distribution of the RNaseP CT values is quite narrowly both for saliva and NPS, indicating a uniform sampling process for both specimens.
 
 
@@ -681,11 +793,13 @@ Total       |    34 | 8     | 42
 **Mass screening of asymptomatic persons for SARS-CoV-2 using saliva**
 Yokota, I., Shane, P. Y., Okada, K., Unoki, Y., Yang, Y., Inao, T., Sakamaki, K., Iwasaki, S., Hayasaka, K., Sugita, J., Nishida, M., Fujisawa, S., & Teshima, T. (2020). Mass screening of asymptomatic persons for SARS-CoV-2 using saliva. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America, ciaa1388. Advance online publication. https://doi.org/10.1093/cid/ciaa1388
 ##### Methods
-Individuals from two cohorts of asymptomatic persons: the contact tracing cohort and the airport quarantine cohort had specimens from nasopharyngeal swabs (NPS) and saliva samples analyzed by PCR.
+* Participants: Individuals from two cohorts of asymptomatic persons: the contact tracing cohort and the airport quarantine cohort had specimens from nasopharyngeal swabs (NPS) and saliva samples analyzed by PCR.
+* Saliva Collection: "All neat saliva specimens were self-collected in a sterilized 15mL polystyrene sputum collection tube (Toyo Kizai, Warabi, Japan) and transported at 4°C without transport media." 
+* NPS Collection: "The nasopharyngeal samples were collected by using FLOQSwabs (COPAN, Murrieta, CA, USA). The swabs were placed in transport medium and transported at 4°C."
+* Analysis: "All NPS samples in the CT cohort were tested by qRT-PCR. The NPS samples in the AQ cohort was tested by either qRT-PCR or reverse transcriptase loop-mediated isothermal amplification (RT-LAMP)[13, 14] at the discretion of the airport quarantine. All saliva samples in both cohorts were analyzed by both qRT-PCR and RT-LAMP."
+
 ##### Results
 * "In this mass-screening study including 1,924 individuals, the sensitivity of nucleic acid amplification testing with nasopharyngeal and saliva specimens were 86% (90%CI:77-93%) and 92% (90%CI:83-97%), respectively, with specificities greater than 99.9%. The true concordance probability between the nasopharyngeal and saliva tests was estimated at 0.998 (90%CI:0.996-0.999) on the estimated airport prevalence at 0.3%. In positive individuals, viral load was highly correlated between NPS and saliva."
-* "Both nasopharyngeal and saliva specimens had high sensitivity and specificity. Self- collected saliva is a valuable specimen to detect SARS-CoV-2 in mass screening of asymptomatic persons."
-
 ###### Contact Tracing Cohort
 saliva\Swab | NPS + | NPS - | Total
 --|--|--|--
@@ -699,6 +813,13 @@ saliva\Swab | NPS + | NPS - | Total
 Saliva +    |  4    |    0  | 4 
 saliva -    |  1    | 1758  | 1759
 Total       |  5    | 1758  | 1763 
+
+##### Discussion
+* "Both nasopharyngeal and saliva specimens had high sensitivity and specificity. Self- collected saliva is a valuable specimen to detect SARS-CoV-2 in mass screening of asymptomatic persons."
+* "Our study suggests that RT-LAMP may be a useful alternative to RT-PCR for the diagnosis of SARS- CoV-2, especially where diagnosis is required at the point of sample collection."
+
+
+
 
 
 
@@ -725,6 +846,29 @@ Total       |  5    | 1758  | 1763
 ### Time Series of Viral Load in Saliva
 
 
+#### Summary Yuwen He
+**Value of Viral Nucleic Acid in Sputum and Feces and Specific IgM/IgG in Serum for the Diagnosis of Coronavirus Disease 2019**
+
+##### Methods
+* Participants: 
+  * "20 patients in this hospital who were almost critically ill or severe, other mild or asymptomatic patients were not admitted. The subjects of our study were all COVID-19 patients admitted to our hospital, and there were no additional inclusion or exclusion criteria."
+  * " The median time from onset to admission to our hospital for 20 patients was 9.5 (7.5–14.0), some patients had been treated elsewhere during this period. And the median hospital stay was 63.5 (28.0–93.8) days."
+* Sampling: "After admission, the patient was tested for viral nucleic acid continuously for a week and then every 2–3 days. Antibodies have been tested every 2–3 days since 15 February. To improve the efficiency of clinical work, collection of long-lasting negative specimens was suspended, while positive specimens were continuously collected until discharge."
+* Serology: 
+  * "Our serological test used for SARS-CoV-2 specific IgM/IgG antibodies was a rapid detection method. The detection principle of the IgM/IgG antibody detection kit (Livzon Diagnostics Co., Ltd, Zhuhai, China) for SARS-CoV-2 is based on colloidal gold immunochromatography."
+  * "The clinical test results of this kit showed that the detection sensitivity of IgM was 79.0% and the specificity was 99.7%; the detection sensitivity of IgG was 84.3% and the specificity was 99.4%; the combined detection sensitivity of IgM and IgG was 90.6% and the specificity was 99.2%."
+
+##### Results
+* Figure 1 shows the disease progression as time series with the serological and PCR tests done for each patient. 
+* "SARS-CoV-2 nucleic acid tests in nasal swabs, throat swabs and feces for a small number of patients (patients #10, #14, #17, and #21) were invariably negative from diagnosis to discharge but lasted for 94, 29, 41, and 4 days in sputum, respectively. Moreover, sputum samples remained positive for an average of 42.8 ± 4.2 (mean ± SD) days since diagnosis."
+* "The feces samples remained SARS-CoV-2 RNA positive for 22.3 ± 29.8 (mean ± SD) days since diagnosis, of which 11 patients (55%) were positive."
+* "Although the existence time of virus in feces was not significantly different from that in nasal or throat swabs (Figure 2), it is worth noting that patients #2 and #8 presented consecutively positive in feces samples for 24.0 and 29.0 days, respectively after the nasal-swab, throat-swab, and sputum samples consistently became negative."
+
+##### Discussion
+* "In summary, SARS-CoV-2 has multiple shedding ways and a more prolonged survival period in sputum specimens from COVID-19 patients."
+
+
+
 #### Summary Silva
 [in work]
 **Saliva viral load is a dynamic unifying correlate of COVID-19 severity and mortality**
@@ -732,7 +876,7 @@ Total       |  5    | 1758  | 1763
 * Continuation of the saliva analyses done in [Wyllie et al](#summary-wyllie-letter). The obtained time series of viral loads in saliva and NPS specimens are compared to the pathogeneses. 
 ##### Results
 * The faster the saliva viral load decreases the better the prognosis (shown in Figure 2 D).
-* NPS viral load peaks later than the saliva viral load and is quite variable (Figure 2 J). 
+* NPS viral load peaks later than the saliva viral load and is more variable i.e. the decrease is less monotone (Figure 2 J). 
 
 #### Summary To
 **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
@@ -771,7 +915,7 @@ Notes:
 **Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2**
 This is a more up to date version of the [paper above](#summary-wyllie) published as letter on nejm.org.
 
-> This letter motivated me to recommend & read about saliva diagnosis. Key information such as sampling methods is in the appendix of the letter (which I first overlooked and thus summarized the paper version first) and even some raw data.
+> This letter motivated me to read about saliva diagnosis. Key information such as sampling methods is in the appendix of the letter (which I first overlooked and thus summarized the paper version first) and even some raw data. Follow up analyses in [Silva](#summary-silva). 
 
 ##### Methods
 to be done (similar to the [paper version above](#summary-wyllie))
@@ -873,8 +1017,7 @@ BALF          | 22.5 (21-24) | -
 **The SARS-CoV-2 RNA with mild pulmonary consolidation lasts longer in non- severe COVID-19 patients: an observational study**
 
 
-### Viral Load Nose and Throat Series
-
+### Viral Load Series in URT
 
 #### Summary Yilmaz
 **Upper Respiratory Tract Levels of Severe Acute Respiratory Syndrome Coronavirus 2 RNA and Duration of Viral RNA Shedding Do Not Differ Between Patients With Mild and Severe/Critical Coronavirus Disease 2019**
@@ -894,7 +1037,7 @@ BALF          | 22.5 (21-24) | -
 "We analyzed the viral load in nasal and throat swabs obtained from the 17 symptomatic patients in relation to day of onset of any symptoms (Fig. 1C)." 
 ##### Results
 * "Higher viral loads (inversely related to Ct value) were detected soon after symptom onset, with higher viral loads detected in the nose than in the throat." 
-* "Our analysis suggests that the viral nucleic acid shedding pattern of patients infected with SARS-CoV-2 resembles that of patients with influenza4 and appears different from that seen in patients infected with SARS-CoV."
+* "Our analysis suggests that the viral nucleic acid shedding pattern of patients infected with SARS-CoV-2 resembles that of patients with influenza[4] and appears different from that seen in patients infected with SARS-CoV."
 * "The viral load that was detected in the asymptomatic patient was similar to that in the symptomatic patients, which suggests the transmission potential of asymptomatic or minimally symptomatic patients." //not necessarily the lower respiratory tract is likely more relevant for spread
 * For many patients the time series of their nasal and throat swabs are varying and don't have single local maxima but several. The viral load can even be undetectable one day and be positive the next day. //=> to exclude infection several negative samples are needed.
 
