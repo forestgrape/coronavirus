@@ -8,7 +8,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Masks](#masks)
   * [Ventilation](#ventilation)
   * [Distancing](#distancing)
-  * [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine)
+  * [Covid-19 Cases and Quarantine](#covid-19-cases-and-quarantine)
 * [Control Measures](#control-measures)
   * [Contact Tracing](#contact-tracing)
   * [Whitelist Testing](#whitelist-testing)
@@ -37,7 +37,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * self responsibility, independent decisions combined with a circumspect lifestyle
 > * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements no advertising is an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
 > * Moderate measures preserving life quality.
-> * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases 
+> * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases.
 > * Monitor and estimate overall cases to do predictions and planning. 
 > * Settings that those who want/need can protect, while those not needing/choosing can go on, go on circumspectly.
 > * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
@@ -70,7 +70,7 @@ There are many more reasons good health - including an intact immune system - is
 
 
 ### Masks
-Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed frequently. Mask can be [reused](#mask-cleaning) later on. 
+Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed frequently. Mask can be [reused](#mask-cleaning) later on.
 
 #### Mask Usage
 * For self protection good fit and a good outside-to-inside filter are important. 
@@ -175,9 +175,9 @@ Ventilation reduces the indoor airborne spread, since the virion density in [out
 [Airborne transmission](./transmission.md#recap-airborne-transmission) - both droplets (reek of alcohol like spread) and aerosol/dry particulates (smoke-like) - can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air.
 
 
-### Handling Covid-19 Cases and Quarantine
+### Covid-19 Cases and Quarantine
 The focus should be on monitoring cases both for disease progression and to figure out and avoid infection paths. 
-The thinking behind using a tactics of relaxed instructions is as follows:
+To achieve this, relaxed quarantine and isolation rules are better:
 
 #### Example Calculation of Spread
 * ##### Strict Instructions
@@ -223,7 +223,7 @@ To reduce spread isolation by home-lockdown is a radical measure. The more is kn
 
     Preventing spread opportunities e.g. both indoor and crowded public spaces is important however.
 
-Isolation by a stay-at-home order may be working for people with own houses with gardens but for people living in big buildings, permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
+Isolation by a stay-at-home order may be working for people with own houses with gardens but for people living in flats in big buildings (and the majority of people do so in Covid risk countries), permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
 
 
 ## Control Measures
