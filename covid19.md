@@ -10,6 +10,7 @@
   * [Symptoms at different Locations](#symptoms-at-different-locations)
 * [Disease Stages](#disease-stages)
 * [Fatality Rate](#fatality-rate)
+  * [Comparing Case and Infection Fatality](#comparing-case-and-infection-fatality)
   * [Estimates](#estimates)
 * [References](#references)
   * [Fatality](#fatality)
@@ -141,7 +142,7 @@ Once agreed upon a uniform way to measure the fatality rate, the rate still vari
 > ###### Case Fatality Rate
 > The *case fatality rate* denotes the death rate obtained by using the official case counts: `cfr = #deaths/#(official cases)`
  
-
+### Comparing Case and Infection Fatality
 The official Covid-19 case counts are in most countries fare to low and thus the cfr fare to high. 
 > The mismatch between the cfr can ifr can be exploited to estimate the `detection rate = #(case count)/#(actual infected)` and the hidden cases:  
 `cfr/ifr = [#(deaths)/#(all infected)] / [#(deaths)/#(cases count)] = #(case count)/#(all infected) = detection rate`  
