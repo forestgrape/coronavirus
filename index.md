@@ -300,7 +300,7 @@ Summaries of references, that base and inspire this findings, are on the page [H
           - antibody observations in rural areas: for both a few percentages (pre SARS-CoV-2)
           - both MERS-like and SARS-like are sampled from bats
       - evolution: frequent recombination
-    - SARS-like have a large and dense genetic diversity and an evolution with frequent recombination which requires co-infections of different strains in the same cell and so in the same animal. This makes indicates a host species with a large biomass and a relaxed 'Darwinism'. For the last centuries the only animals providing this, are farm animals. Candidates are goats, sheep, pigs or even silk-moths (Bombyx mori). 
+    - SARS-like have a large and dense genetic diversity and an evolution with frequent recombination which requires co-infecting  different strains the same cell and so the same animal. This makes indicates a host species with a large biomass and a relaxed 'Darwinism'. For the last centuries the only animals providing this, are farm animals. Candidates are goats, sheep, pigs or even silk-moths (Bombyx mori). 
 3. The livestock animals are likely goats or sheep. Evidence:
     - Due to cross immune reactions against coronaviruses, a group of vertebrates likely can be an evolutionary habitat to only one coronavirus species. Cattle have BCoVs, pigs have TEGV and camels MERS. Sheep and goats are still available to provide a habitat. 
     - MERS is genetically quite close to SARS-CoVs, indicating the natural hosts of SARS-like are quite close natural hosts of MERS both genetically and in lifestyle. 
