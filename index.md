@@ -18,7 +18,7 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
-- ~~17.1.~~ 18.1. (Pago Pago Timezone) [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page added replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page.
+- ~~17.1.~~ 18.1.-22.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page in online work (replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page). 
   - Morning sputum, repeated morning saliva have a high viral load and good detection rates and moreover the viral load predicts the disease progression. 
   - Nose swabs have a detection rate of about 60% and the viral load does not predict disease progression.
 - 17.1. Improvements and clarifications across the page. Respelled Salvia to Saliva. 
