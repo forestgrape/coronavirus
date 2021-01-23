@@ -214,6 +214,7 @@ Knowing the viral load observed in different fluids and tissues is relevant for:
 
 ### Detection Rates
 Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken) mainly from the literature above but also from other [references summarized](#summarized-references) in first week of severe respectively mild symptoms.
+
 Severe  | Mild  | Specimen
 --|--|--
 65      | 50    | [oropharyngeal](#oropharyngeal-swabs)
