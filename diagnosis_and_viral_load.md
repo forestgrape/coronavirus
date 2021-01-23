@@ -3,7 +3,7 @@ Diagnosis and Viral Load
 ========================
 
 * [Summary](#summary)
-  * [Covid-19 Diagnosis](#covid-19-diagnosis)
+  * [Methods to diagnose Covid-19](#methods-to-diagnose-covid-19)
   * [SARS-CoV-2 Viral Load](#sars-cov-2-viral-load)
   * [Take Away](#take-away)
 * [Introduction to Diagnosis](#introduction-to-diagnosis)
@@ -41,7 +41,7 @@ Diagnosis and Viral Load
   * [Time Series of Viral Load in Saliva](#time-series-of-viral-load-in-saliva)
   * [Time Series Viral Load in Multiple Locations](#time-series-viral-load-in-multiple-locations)
   * [Viral Load Series in URT](#viral-load-series-in-urt)
-  * [Flow Patterns of Body Fluids](#flow-patterns-of-body-fluids)
+  * [Timing Specimen Collection](#timing-specimen-collection)
 * [Appendix](#appendix)
   * [Calculation of Viral Load from CT_Value](#calculation-of-viral-load-from-ct_value)
 
@@ -49,15 +49,15 @@ Diagnosis and Viral Load
 **entire page is in work**
 
 ## Summary
-Methods and locations to diagnose Covid-19 are discussed. A focus is on methods detecting the SARS-CoV-2 viral load at different locations. For this reason diagnosis and viral load are in the same chapter.
+Methods to diagnose Covid-19 are discussed. A focus is on methods detecting the SARS-CoV-2 viral load at different locations. For this reason the topics diagnosis and viral load are discussed in the same chapter.
 
-### Covid-19 Diagnosis
-* The [viral load](#viral-load) such as antigen test or PCR tests. PCR test offer a little better sensitivity and specificity but the sensitivity depends mainly on the location.
-* Detect infections indirectly e.g. visual changes in the lungs by X-ray images. Detection only if the lung is notable infected but high sensitivity in this cases. 
-* Antibodies which are part of the immune response. High specificity. Very low sensitivity in the early phase since antibodies are not yet produced. Higher sensitivity later on since most people produce antibodies. 
+### Methods to diagnose Covid-19
+* Detect the amount of viruses present. The amount of viruses, called [viral load](#viral-load), is measured by antigen test or PCR tests. 
+* Detect infections indirectly by detecting the tissue damage caused e.g. visual changes in the lungs by X-ray images.
+* Antibodies which are part of the immune response.
 
 ### SARS-CoV-2 Viral Load
-The viral load measures the amount of virions present. Whether a viral load can be detected (=detection rate) and how high it is (=viral load), is dependent on the location, the sampling method and the infected locations/tissues of a patient. SARS-CoV-2 can infect many locations, the infected locations vary between patients and virions are distributed with fluids e.g. the air and the mucus in different parts of the respiratory tract. Some locations are easy to sample such as saliva or the nose swabs but detection rates are low (depending on the method and the infection they vary between 40% and 80%). Other methods are more cumbersome to sample such as nasopharyngeal aspirate, sputum or bronchoalveolar lavage fluid but offer higher sensitivities.
+Measuring the SARS-CoV-2 viral load is highly specific to detect acute infections. The sensitivity (detection rate = whether a viral load is detected) and how high it is, is dependent on the location, the sampling method and the infected locations/tissues of a patient. Common locations and fluids the viral load is measured are:
 
 * The standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections and the viral loads measured vary. 
 * Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). The viral load and thus the detection rate is reduced if the salivary flow increases e.g. eating or chewing gums.
@@ -65,8 +65,8 @@ The viral load measures the amount of virions present. Whether a viral load can 
 * A high viral load in the sputum or in saliva is an indication for severe disease progression. The viral load in NPS samples isn't an indicator. 
 
 ### Take Away
-* __Recommended Diagnosis__: Morning sputum, repeated morning saliva yield high viral loads, good detection rates and predict the disease severity. Morning saliva has shown is effectiveness in the surveillance system in Hong Kong.
-* __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has only a detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation.
+* __Recommended Diagnosis__: Repeated morning saliva specimens yield reliable viral loads which even predict the course of the disease. Morning saliva has shown is effectiveness in the surveillance system in Hong Kong. Sputum can help to determine the involvement of the lower respiratory tract and the prognosis. 
+* __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has a low detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation.
 
 
 ## Introduction to Diagnosis
@@ -428,7 +428,6 @@ Total         |  122 |   107  | 229
 
 )
 
-
 ###### All Specimens
 * "A total of 13772 POPS and respiratory specimens from 8596 patients were received for SARS-CoV-2 RNA detection between 1 February 2020 and 15 April 2020, of which 12700 were performed for diagnostic purpose, with an overall positive rate of 1.55%. In particular, the positive rate of specimens sent from “Tier 1” patients and testing centers for symptomatic returned travelers were 8.34% and 6.18%, respectively. " //Tier 1 = Symptomatic patients with epidemiological risk factors.
 
@@ -560,6 +559,30 @@ Search for (“saliva”) and (“SARS-CoV-2” or “coronavirus” or “COVID
 * "We cultured all rRT-PCR positive nasal-OP specimens on VeroE6 TMPRSS2 cells. All culture positive samples (n=16) were obtained within 11 days of symptom onset. In all matched samples in which SARS-CoV-2 was culture positive (n=9), SARS-CoV-2 RNA was detected by rRT-PCR in both nasal-OP and oral fluid samples."
 ##### Discussion
 * "In our study, we found that spit added to the oral fluid did increase sensitivity. Taken together spit/drool sample type is better than oral fluid from the gumline. These differences are important since many in vitro devices that are currently being tested for the direct detection of SARS-CoV-2 use different salivary sample types including passive drool, spit, oral fluid collected with a sponge, and sputum from clearing the throat."
+
+
+#### Summary Senok
+**Saliva as an Alternative Specimen for Molecular COVID- 19 Testing in Community Settings and Population-Based Screening**
+https://doi.org/10.2147/IDR.S275152
+##### Methods
+* Location: Dubai, 29th June−14th July 2020 at the Al Khawaneej Health Center in Dubai, United Arab Emirates (UAE).
+* Participants: 
+  * "An average of 235 patients are screened daily at the center, including contacts of confirmed positive cases, those with presumptive symptoms with or without history of exposure as well as individuals concerned about possible infection." 
+  * "The median (IQR) onset of symptoms prior to the test was 2.5 (1–14) days. Table 1 shows the demographic and clinical characteristics of all patients who tested positive for SARS-CoV-2."
+* NPS Collection: Nasopharyngeal swab in universal transport media 
+* Saliva Collection: " To ensure consistency in saliva collection, the healthcare personnel were trained in giving instructions to the patients for saliva collection and a unified script was used. Saliva was collected using sterile containers without transport medium and samples were obtained at least one hour after the patient last consumed food, fluid, or smoked tobacco. Patients were asked to pool saliva in their mouth for 1–2 minutes and then gently spit 2–4 mL of saliva into the provided sterile container."
+##### Results
+"A total of 35 (8.7%) patients showed viral detection by SARS-CoV-2 RT-PCR from at least one specimen type and both the RdRp and N gene targets were detectable in all positive samples. The overall prevalence for COVID-19 diagnosis by swab RT-PCR was 6.5% (n/N=26/401) and 7.0% by saliva RT-PCR (n/N=28/401)."
+
+Saliva\Swab   | Swab + | Swab -| Total
+--|--|--|--
+Saliva +      | 19     |   9   |  28
+Saliva -      |  7     | 366   | 373
+Total         | 26     | 375   | 401
+
+* The average body temperature of the +/+:36.9 (.5), Swab+/Saliva-: 36.9(0.6), Swab-/Saliva+: 36.4 (.3)  (Table 1)
+* "Among the 19 patients with paired positive samples, the median cycle threshold (Ct) values for RdRp and N gene targets were 29.6 (IQR 24.8–35.0) and 28.9 (IQR 24.5–35.0), respectively, in saliva; while the swab Ct values were RdRp 28.1 (IQR 22.6–31.8) and 28.0 (IQR 23.1–32.3) N gene target (Figure 1 shows the Ct values for paired samples)."
+* "RdRp and N gene median Ct of 36.1 (IQR 33.9–37.1) and 36.3 (IQR 34.0–37.5), respectively, were found in saliva samples (n=9) which had a negative paired swab. Similarly, median RdRp and N gene Ct was 36.4 (IQR 35.1–38.6) and 37.5 (IQR 32.5–38.2), respectively for swab samples (n=7) which had paired negative saliva."
 
 #### Summary Otto
 **Posterior Oropharyngeal Saliva for the Detection of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)**
@@ -1117,7 +1140,7 @@ BALF          | 22.5 (21-24) | -
 
 
 
-### Flow Patterns of Body Fluids
+### Timing Specimen Collection
 
 #### Summary Carlson-Jones
 **The microbial abundance dynamics of the paediatric oral cavity before and after sleep**
@@ -1149,7 +1172,8 @@ BALF          | 22.5 (21-24) | -
 #### Summary Hung
 **Early-Morning vs Spot Posterior Oropharyngeal Saliva for Diagnosis of SARS-CoV-2 Infection: Implication of Timing of Specimen Collection for Community-Wide Screening**
 ##### Methods 
-"Posterior oropharyngeal saliva was collected at 5 different time points within the same day from 18 patients with pre- viously confirmed SARS-CoV-2 infection by molecular testing. Cycle threshold (Ct) values were compared."
+* "Posterior oropharyngeal saliva was collected at 5 different time points within the same day from 18 patients with previously confirmed SARS-CoV-2 infection by molecular testing. Cycle threshold (Ct) values were compared."
+* "The 5 specific time points were (1) early-morning (first thing in the morning upon awakening, before teeth brushing, mouth rinsing, and eating breakfast); (2) before lunch; (3) before afternoon tea at 3 pm; (4) before dinner; and (5) before bedtime (and before teeth brushing). Patients were not asked to refrain from eating, drinking, or mouth rinsing before collection of posterior oropharyngeal saliva at the second, third, and fourth time points to resemble spot saliva taken at the clinic in real life."
 ##### Results
 * "There was an overall trend of lower Ct values from specimens collected in the early morning, with a gradual decrease of viral load towards nighttime, but reaching statistical significance only when compared with the specimens collected at bedtime. Eight out of 13 subjects had a higher viral load in the early morning than the rest of the 4 time points (before lunch, before teatime at 3 pm, before dinner, before bedtime)."
 * "The distribution of Ct values at 5 different time points is shown in Figure 1. The medians (IQRs) at early morning, before lunch, before teatime at 3 pm, before dinner, and before bedtime were 34.5 (32.5–41), 38.2 (33.9–41), 36.3 (34.5–41), 41 (34.7–41), and 41 (34.7–41), respectively."
