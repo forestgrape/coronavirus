@@ -48,7 +48,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 ### Life Forms
 
 > ###### Life Form
-> <span id='form-of-life'> A *life form* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called *progeny* or *next generation*. </span>
+> A *life form* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called *progeny* or *next generation*.
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
@@ -75,14 +75,14 @@ Proteins are assembled by ribosomes:
 * ##### ssRNA
     single stranded RNA:
     - unstable 
-    - difficult to reliably duplicate, recombinations are possible upon duplication  
+    - difficult to reliably duplicate, recombination possible
 * ##### dsRNA
     double stranded RNA: 
     - somewhat unstable
     - somewhat reliable duplication possible
 * ##### ssDNA
     single stranded DNA: 
-    - difficult to reliable duplicate
+    - difficult to reliable duplicate, recombination possible
     - mediocre stability
 * ##### dsDNA
     double stranded DNA: 
@@ -116,10 +116,10 @@ Proteins are assembled by ribosomes:
 * ssRNA-RT = DNA-RNA reverse transcribing
 * dsDNA = Double stranded DNA
 
-
+> ###### Gene
 > A *gene* denotes a piece of storage encoding a single protein. 
 
-So genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA which in turn can be translated to proteins. 
+Often genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA which in turn can be translated to proteins. 
 
 ### Interactions between Life Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
@@ -127,23 +127,24 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 * Besides energy mammals including us humans need extern organic sources for vitamins, essential amino acids, essential fatty acids, ...
 * Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanently coupled life forms develop: E.g. mitochondria as cell organelles. 
 
-> Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes/machines. Where as viruses by definition don't produce all needed enzymes/machines.
+> Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes (the machines). Where as [viruses](#virus) by definition don't produce all needed enzymes/machines.
 
 Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings.
 
 ### Keeping the Metabolism Immune
-Most life forms have have some mechanisms to keep their metabolism immune. These mechanisms are called [immune system](./immune_system.md). 
-A simple and effective way of doing so, is shielding the metabolism by semipermeable membranes. The membranes evolved vary in permeability, thickness and rigidity.
+Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more . These mechanisms are called [immune system](./immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
 #### Cell Forming Life Forms
 **[in work]**
-As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms have their entire metabolism inside semipermeable membranes [to check: all double layer lipid?]. Such a structure is called a cell. The cell can be subdivided again by membranes into different compartments and thereby giving rise to cell organelles. 
-
-> ##### Eukaryotes
-> Forms, that additionally shield their genome by an inner membrane. This inner structure is called nucleus. Forms of life having a nucleus (Latin for kernel) are called *eukaryotes* (naming done in the 60's from eu and karyo=kernel).
+As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms have their metabolism inside semipermeable membranes [to check: all double layer lipid?]. Such a structure is called a cell. Some cells have just the outer membrane:
 
 > ##### Prokaryotes
-> Some forms of life have just this outer membrane but no inner membrane shielding the genome away from the main metabolism. These forms are called *prokaryotes* (from Greek: pro=before, karyo=kernel). 
+> Some forms of life have just this outer membrane but no inner membrane shielding the genome away from the main metabolism. These forms are called *prokaryotes* (from Greek: pro=before, karyo=kernel).
+
+Some cells are subdivided again by membranes into different compartments which are called cell organelles. If the genome is shielded by a kernel genome is shielded by a membrane this organelle is called nucleus. 
+
+> ##### Eukaryotes
+> Cell forming life forms shielding their genome by an inner membrane are called *eukaryotes* (naming done in the 60's from eu=well (sounds well?) and karyo=kernel). This inner structure is called nucleus.
 
 
 * Prokaryotes
@@ -153,7 +154,17 @@ As noted all forms of life which encode their entire metabolism are dsDNA based.
   - Archaea
 * Eukaryotes
   * Plants, Animals and Fungi all belong to the eukaryotes. These eukaryotes form multicellular organisms. 
-  * There are many more eukaryotes, many of them not forming multicellular organisms and thus living as single cells. These are called *protozoa*. 
+  * There are many more eukaryotes, many of them not forming multicellular organisms and thus living as single cells. Even though very divers, these are called *protozoa*. 
+
+Often life forms specialize, organize and work together to form a more capable entity and thus the overall fitness is increased. TExamples of cooperations are symbiosis and organisms. 
+
+<!-- Symbiosis life forms keep independence for replication or can life Inside an organism the units communicate and share resources. Sometime the units keep some independence and can go separate paths again. However many forms of life on todays earth e.g. plants, fungi and animals, are organisms:
+-->
+
+> ###### Organism
+> Start out as a single cell with replicates. At some point the replicates differentiate into specialized cells having different appearances and tasks. 
+
+For many questions, organisms are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
 
 
 
@@ -162,7 +173,7 @@ As noted all forms of life which encode their entire metabolism are dsDNA based.
 > ###### Virus
 > A *virus* is a form of life, that can't produce all necessary enzymes for its replication.
 
-Viruses integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](#cell-forming-life) and the metabolisms is inside the cell, viruses need to be within cells to have a metabolism running.
+Viruses integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](#cell-forming-life) [to check] and the metabolisms is inside the cells, viruses need to be within cells to replicate.
 
 > ###### Infected Cell
 > A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism.
@@ -178,15 +189,14 @@ Most cells don't live forever. In multicellular organisms most cells live fare s
 
 ### Life Cycle
 Coronaviruses have a two phase life cycle:
-* They are born/produced as virion which is the sleeping state.
-* Upon cell infection they hook into a cells metabolism mostly to produce new progeny (virions). 
+* They are born/produced as [virion](#virion) (similar to seeds of plants).
+* Upon cell infection they hook into a cells metabolism to have the cell produce proteins encoded by the virus. As for all forms of life the goal is to produce progeny = new virions. 
 
 * Virion phase: Born as virion. Sleeping phase: [passive travel](#virion-travel), wait and upon [activation](#virion-attachment-and-activation) and match with an [infectable cell](#infectable-cell) enter the cell and start infection. 
 * Metabolic phase: Hook into a cells metabolism to produce proteins and ultimately new virions using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell .
 
 > ###### Virion
-> A *virion* is the form of a virus where the genome is packed and has no active metabolism. 
-
+> A *virion* is both the travel and birth form of a virus. The genome and proteins required to infect a cell are packed into some form of shell. A virion has no active metabolism. 
 
 Viruses while outside of cells are present always as virions. Once activated, virions can [infect cells](#infected-cell) and transform to the metabolic phase. 
 
@@ -198,7 +208,7 @@ Virions are similar to seeds of plants: They are dormant and wait for activation
 Once a virus infects cells, it changes metabolism of the cell. For surviving a virus hijacks the cell's metabolism to produce new virions. 
 
 > ###### Virus Infection
-> An object is called _infected_ by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an [organism](#organism). 
+> An object is called *infected* by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an [organism](#organism). 
 
 So an organism is infected if it has some [cells that are infected](#infected-cell).
 
@@ -211,19 +221,13 @@ Therefore viruses are dependent on the host cells. Long-term surviving virus str
 
 
 ### Virus Classification
-As defined all [forms of life](#form-of-life) which don't encode their entire metabolism are called [viruses](#virus). Since such forms exists across the tree of life, viruses are as diverse as the tree of life. The goal of classification is usually to group things together which are similar to some features of interest. Features of interest for viruses are: 
+As defined a [life form](#life-form) not encoding its entire metabolism is called [virus](#virus). Viruses exists for all the different storage forms used by [life forms]. From a  diverse as the tree of life. The goal of classification is usually to group things together which are similar to some features of interest. Features of interest for viruses are: 
 * behavior and habitats occupied
 * genetic and structural similarity
 
 
 ### Virus Entities
 [in work and experimental]
-Often life forms specialize, organize and work together to form a more capable entity and thus the overall fitness is increased. Inside an organism the units communicate and share resources. Sometime the units keep some independence and can go separate paths again. However many forms of life on todays earth e.g. plants, fungi and animals, are organisms:
-
-> ###### Organism
-> Start out as a single cell with replicates and at some point the replicates start to differentiate into specialized cells having different appearances and tasks. 
-
-For many questions, organisms are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
 
 Similarly for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviors in different cells and upon different situations:
 * DNA viruses can in theory encode the same differentiation mechanisms as eukaryotic cells 
@@ -349,27 +353,31 @@ The membrane is spherical and consists of structural proteins which are coated i
 - RNA dependent RNA polymerase 
 - cleavage other proteins and RNA [to check]
 
-* ##### Spike Proteins
-    Spike protein. These proteins point spike-like out of the spherical. This gives coronaviruses a corona (latin for crown or solar corona) like appearance under the electron microscope and therefore their name. The spike protein is 
-    * RBD
-        The RBDs are located in the S1 part of the spike protein and bind to the ACE2 receptor. 
+##### Spike Protein
+The spike proteins point spike-like out of the spherical virions. This gives coronaviruses virions a corona (latin for crown or solar corona) like appearance under the electron microscope and therefore their name. Functions:
+* RBD: The RBDs are located in the S1 part of the spike protein and binds to the ACE2 receptor. 
+* [in work]
 
 
 #### Coronaviruses Species
 [in work]
+
 ##### SARS-CoV-1
 Betacoronavirus identified causing Sars in 2003/2004.
-* yields mainly lower respiratory tract infections
+* mainly lower respiratory tract infections
+* ACE2 receptor
+
 ##### SARS-CoV-2
-Betacoronavirus identified causing the current Covid-19 pandemics. A focus of this page and many sections contain special notes about features of Sars-CoV-2.  
+Betacoronavirus identified causing the current Covid-19 pandemics. A focus of this page and many sections contain special notes about features of Sars-CoV-2.
+
 ##### MERS-CoV
 Betacoronavirus identified causing MERS. 
 * infects cells in the deep lungs (bronchi and alveolis) 
 * the natural hosts are dromedary camels
-* main spreading events observed in extremely dry air
+* main spreading events observed in indoor settings
+
 ##### Bovine Coronaviruses
 Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
-
 
 
 ## Coronavirus Life Cycle 
@@ -415,7 +423,7 @@ The goal of the first phase in the metabolism is to produce RdRP (RNA dependent 
    * polymerase protein (protein capable of transcription of RNA to RNA) 
 
 #### Metabolism Phase 2: Replication
-The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the properties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template mediated by the polymerase protein:<br>
+The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the properties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template mediated by the polymerase protein:
 1. (+) RNA --transcription--> (-) RNA template
 2. (-) RNA template -- transcription-->
    *  pieces of subgenomic mRNAs which get translated to mostly structural proteins (N, S, M, E, [HE])
@@ -520,7 +528,7 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 * infection but no replication
     - dendritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]: aptosis induce
 * no entry
-    - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted. 
+    - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted (usually captured in an endosome). 
 
 > Even if the virions can't attach to a cell and/or induce cell entry, phagocytosis can be induced by the cell alone:  e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
@@ -531,22 +539,22 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 #### ACE2 Receptor Detection
 There are two common methods to measure tissue distribution of proteins:
 * ##### Antibody Staining
-    detecting ACE2 using anti-ACE2 antibodies. Detects proteins on cell surfaces. [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
+    Proteins on cell surfaces can be visualized by using marked antibodies. Several groups have analyzed tissues with ACE2 antibodies: [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
 * ##### Measure mRNA
     Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
 ##### Caveats of ACE2 Detection
 [in work, verification needed]
-For serving as an entry point, ACE2 should be built into the cell membrane as a receptor i.e. being useable from the outside. So if _both_ of above methods yield positive, this is very likely. Moreover since coronaviruses have a preference for [aptical tissue sites](#tissue-tropism) the ACE2 should be expressed on the apical sites. 
+For serving as an entry point, ACE2 needs to be built into the cell membrane as a receptor i.e. being useable from the outside. If _both_ of above methods are positive, this is very likely [antibody staining is likely enough, to check]. Since coronaviruses have a preference for [apical tissue sites](#tissue-tropism) ACE2 should be expressed on the apical sites. 
 * [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
 * [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
     - stay in the cell i.e. in cytoplasm or more into the nucleus
     - be released from the cell
-    - being built into the cell membrane as a receptor on any site. 
+    - being built into the cell membrane as a receptor on any site and not necessarily the required apical site. 
 
 #### ACE2 Receptor Distribution
 [**incomplete and in rework**]
-[recommended read is [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]<br>
+[recommended read is [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]
 ACE2 is apically available 
 * in the lower respiratory tract
     - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
@@ -643,15 +651,15 @@ So an interspecies infection denotes a transmission without spread in the new sp
 [in work]
 
 Coronaviruses can adapt fast to changed or new environments if given time and opportunity. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome. 
-The genetic evolution of coronaviruses is fast compared to other [forms of life](#form-of-life) because:
+The genetic evolution of coronaviruses is fast compared to other [forms of life](#life-form) because:
 * a short average generation-time (only a few hours [to be confirmed]) 
-* properties of [RNA replication](#ssRNA). The mechanism of RNA copying [[Woo et al.](#woo)] [more refs coming] is: 
+* properties of [single stranded RNA replication](#ssRNA). The mechanism of RNA copying is: 
     - RNA-dependent RNA polymerase, which yields a high rate of random point mutations compared to DNA polymerases
-    - a homologous recombination mechanism
+    - a homologous recombination mechanism [[Woo et al.](#woo)] , more refs coming]
 * Genome is [encoded in RNA and not in DNA](#lifetime-storage) 
 * large population size both within hosts and the number of infected hosts (for Sars-CoV-2)
 
-Coronaviruses have large genomes (in comparison to other RNA viruses and messenger RNAs) which both back the recombination and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occurring on todays earth, possibly even the largest[to check].  
+Coronaviruses have large genomes (in comparison to other RNA viruses or messenger RNAs) which both back the recombination and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occurring on todays earth, possibly even the largest [to check].  
 [in work]
 
 ### Conserved Patterns
