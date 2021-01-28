@@ -3,11 +3,11 @@
 
 ## Note
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
-* Many parts are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated.
+* Many parts are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. Some sections are marked as experimental. 
+* This page often conversational and some parts aren't rigorous and just ideas in raw form. 
 * The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely. 
-* This page often conversational and some parts aren't rigorous and just ideas in raw form. These are marked as experimental. 
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations: For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
-* Pointing out mistakes especially relating to content, improvement suggestions and feedback are __welcome__.
+* Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 
 > ###### Definitions
 > *Definitions* are written like this and are valid throughout this page. Sometimes only throughout this page. However redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
@@ -18,9 +18,15 @@
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
+
+> ### A word of Caution regarding Vaccines (28.1.)
+> What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines. It increases safety for people at risk for severe Covid-19. But long-term adverse effects and long-term effect on infections are unknown. The effects of vaccines on viral shedding and viral evolution are unknown/unpublished too. An unbiased discussion is missing since the risks of long-term adverse effects are largely ignored.
+> In my opinion, for the time being, the vaccines should be used as evaluated and benefits are shown: For seronegative and PCR negative people at the risk of serious Covid. If the benefits outweigh the risk, summer would be a good time to vaccine many/those not at serious risk. [An extended argumentation is in work.]
+
+
 - 18.1.-23.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page in online work (replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page). 
   - 22./23.1. Experiences from HongKong (Summary [Wong](./diagnosis_and_viral_load.md#summary-wong)) and an investigation from Dubai [Summary Senok](./diagnosis_and_viral_load.md#summary-senok) for saliva based diagnosis in the [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) chapter.
-  - Morning sputum, repeated morning saliva have a high viral load and good detection rates and moreover the viral load predicts the disease progression. 
+  - Repeated morning saliva and sputum have a reliable viral load which predicts the disease progression. 
   - Nose swabs have a detection rate of about 60% and the viral load does not predict disease progression.
 - 17.1. Improvements and clarifications across the page. Respelled Salvia to Saliva. 
 - 22.12. [Covid-19](./covid19.md) redone. ~~New sections about Diagnosis and Viral Load in online work - these sections show that saliva has a similar sensitivity as nose samples to diagnose Covid-19.~~ moved see 17.1.21
@@ -29,20 +35,19 @@ All updates regarding the current Covid Situation here. Larger updates here, sma
 - 24.11. New Page on [Economics](./economics.md): The proposal is to provide universal capital services (e.g. credits) instead of providing targeted support in different situations/crisis (e.g. the current Covid situation). Goals are:
   - Everyone in need can redesign and reorganize their (economic) life in any situation.
   - Making the economic system more fair in the sense that everyone has the opportunity to choose the economic way of life.
-- 24.11. License relaxed back again. No citation is needed for uses regarding public information or health. 
-- 17.11. Clarifications mainly on the Immune System page 
 - 9.11. Formulations corrected and improved.
   > I spend more time on reading and analyzing than on formulations and proof reading. Although I try, sometimes words are not weighted carefully and it can take a couple of days to discover & improve unworldly formulations.
 - 7.11. Updates in [Spread Analyses](./spread_analyses.md) in work:
   - [Infector Distribution](./spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong.
   - Section on [Pre-symptomatic Infectors](./spread_analyses.md#pre-symptomatic-infectors) in work
 - 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](./monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers and not estimates.
-    > Mainly I was shocked by the very steep increase of deaths and still am [analyses in work]. I spent/d a lot of time learning to analyse from different view points and to estimate unbiasedly (regardless whether liked).
+    > Mainly I was shocked by the very steep increase of deaths and still am [analyses in work]. 
+    > Even though I spent/d a lot of time learning to analyse. 
 - 5./6.11. Updates in [Spread Analyses](./spread_analyses.md) in online work:
     * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas.
       > Not proven yet but evidence strong enough that risk regions should **stop allowing large scale events** even with protection measures. As of 4./5.11. there still seem to be football matches with many thousand spectators.
     * Sections about observed spreading events in food production factories and airplanes.
-- 1.11. [Strategy](./monitor_and_control.md#strategy) and [On Numbers](./monitor_and_control.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
+- 1.11. [Strategy](./controlling.md#strategy) and [On Numbers](./monitoring.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago.
 - 28.10. (only summaries available) Early results from [Spread Analyses](./spread_analyses.md) show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
     > This page started out with the proposal of a dry form aerosol transmission model to describe the early observed spread patterns. During the summer I started to acknowledge droplet transmission as important, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in October 2020 combined with extensive droplet preventions in place made me reanalyze: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude:
