@@ -20,8 +20,12 @@
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
 > ### A word of Caution regarding Vaccines (28.1.)
-> What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines. It increases safety for people at risk for severe Covid-19. But long-term adverse effects and long-term effect on infections are unknown. The effects of vaccines on viral shedding and viral evolution are unknown/unpublished too. An unbiased discussion is missing since the risks of long-term adverse effects are largely ignored.
-> In my opinion, for the time being, the vaccines should be used as evaluated and benefits are shown: For seronegative and PCR negative people at the risk of serious Covid. If the benefits outweigh the risk, summer would be a good time to vaccine many/those not at serious risk. [An extended argumentation is in work.]
+> What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines. It increases the safety and life quality for people at risk for severe Covid-19. 
+> * What has been shown for the approved vaccines they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects). 
+> * What is mostly unknown/not investigated/not published are adverse effects such as subtle immune system disorders or long-term effects. There are open questions how  SARS-CoV-2 infections are changed apart from preventing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution and changed pathogenesis are mostly unknown/unpublished too.
+>  
+> An unbiased discussion is missing since many risks ignored and unknown risks are dismissed as not possible. 
+> In my opinion, for the time being, the vaccines should be used as evaluated and benefits are known: For seronegative and PCR negative people at the risk of severe Covid. If it turns out, that the benefits outweigh the risks, the summer would be a good time to vaccine many/those not at serious risk. [A concrete argumentation is in work.]
 
 
 - 18.1.-23.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page in online work (replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page). 
