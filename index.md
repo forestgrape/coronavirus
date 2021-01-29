@@ -20,7 +20,7 @@
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
 > ### A word of Caution regarding Vaccines (28.1.)
-> What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines. It increases the safety and life quality for people at risk for severe Covid-19. 
+> What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines and around the world vaccination is well organized. It increases the safety and life quality for people at risk for severe Covid-19  
 > * What has been shown for the approved vaccines they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects). 
 > * What is mostly unknown/not investigated/not published are adverse effects such as subtle immune system disorders or long-term effects. There are open questions how  SARS-CoV-2 infections are changed apart from preventing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution and changed pathogenesis are mostly unknown/unpublished too.
 >  
