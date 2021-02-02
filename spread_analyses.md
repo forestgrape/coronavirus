@@ -214,7 +214,7 @@ Sources: [https://www.sofascore.com](),
   [to check]
 * UK (Period 3.12. - 5.1.) ([Appendix UK Sport Data](#data-uk-sport-events))
   * Multiple match cancellation.
-  * A steep increase in case counts. // before 3.12. there was a lockdown/shutdown and after pubs and restaurants were reopened in most regions 
+  * A steep increase in case counts. // before 3.12. there was a lockdown/shutdown and after pubs and restaurants were reopened in most regions but unlikely sport events played a role since only a couple of thousands spectators across the country
   * An increase in infected players. However the increase in infected players is only slightly steeper than the general case count increase.
     * 23.11. - 13.12:  30 (3 Weeks; 3 Rounds)
     * 21.12 - 10.1.: 94 (3 Weeks; 4 Rounds; some matches cancelled and these high risk teams likely not tested)
