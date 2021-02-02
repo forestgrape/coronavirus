@@ -7,7 +7,7 @@
 * [Geographical Analysis](#geographical-analysis)
   * [Climate and Covid-19 Spread](#climate-and-covid-19-spread)
   * [Cities versus Rural](#cities-versus-rural)
-  * [Living Space](#living-space)
+  * [Living Conditions](#living-conditions)
 * [Infectors](#infectors)
   * [Infector Distribution](#infector-distribution)
   * [Infectors and Symptom Status](#infectors-and-symptom-status)
@@ -116,7 +116,7 @@ Infectious disease wave through the clusters until there's no more ground to nou
 > * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
 
 
-### Living Space
+### Living Conditions
 People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
 * [Brueningk et al](#summary-brueningk) deduce from Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
 * [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in). 
