@@ -14,18 +14,19 @@
 
 > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content. 
 
+
 ---
 
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
 > ### A word of Caution regarding Vaccines (28.1.)
-> What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines and around the world vaccination is well organized. It increases the safety and life quality for people at risk for severe Covid-19  
+> What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines and vaccination programs are well organized. It increases the safety and life quality for people at risk for severe Covid-19  
 > * What has been shown for the approved vaccines they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects). 
-> * What is mostly unknown/not investigated/not published are adverse effects such as subtle immune system disorders or long-term effects. There are open questions how  SARS-CoV-2 infections are changed apart from preventing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution and changed pathogenesis are mostly unknown/unpublished too.
+> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects (both less a concern for inactivated virus vaccines for other technologies the effects depend on the exact formulation). There are open questions how  SARS-CoV-2 infections are changed apart from reducing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution (both point mutations and recombination) and changed pathogenesis are largely unknown/unpublished.
 >  
 > An unbiased discussion is missing since many risks ignored and unknown risks are dismissed as not possible. 
-> In my opinion, for the time being, the vaccines should be used as evaluated and benefits are known: For seronegative and PCR negative people at the risk of severe Covid. If it turns out, that the benefits outweigh the risks, the summer would be a good time to vaccine many/those not at serious risk. [A concrete argumentation is in work.]
+> In my opinion, for the time being, the vaccines should be used as the evaluation carried out show clear benefits: For seronegative and PCR negative people at the risk of severe Covid. If it turns out, that the benefits outweigh the risks, summer would be a good time to vaccine many/those not at risk. [Argumentation is in work.]
 
 
 - 18.1.-23.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page in online work (replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page). 
