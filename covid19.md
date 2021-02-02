@@ -139,9 +139,9 @@ Infection symptoms depend on the infected locations. A Covid-19 infection can be
 ### Movement
 
 #### Summary Movement
-Movement is in the early phase of Covid-19 helps to produce a good immune response. In the recovery phase movement fastens the process and reduces the probability of long term effects. 
+Movement is in the early phase of Covid-19 helps to produce a good immune response. In the convalescent phase movement speeds up recovery and reduces the probability of long term effects. 
 
-> This section recommends **moderate movement** and **not** intense exercise. Exercise is adequate in some situations but not in others because of risks such as injuring the heart muscles. Since exercise involves movement, some citations are about exercise but often the findings hold for any form of movement.
+> **Moderate movement** (e.g. a walk) and **not** intense exercise is recommended. Exercise is adequate in some situations but not in others because of risks such as injuring the heart muscles. Since exercise involves movement, some citations are about exercise but often the findings hold for any form of movement.
 
 #### Biological Mechanisms
 * In the early phase of Covid, movement is important since the circulation in the lymphatic system is mostly passive and driven by the body movement. With movement the immune response is better and faster (Coronavirus infection 'signatures' reach the lymph nodes faster, capable immune cells are produced and some of them migrate to protect other body location such as the lung and extern movement make them move faster.). With a healthy lifestyle with sufficient movement, for infections starting in the upper respiratory tract, protective T cells are likely to reach the lungs before the viruses have time to replicate to high numbers.
