@@ -1,9 +1,13 @@
 # Spread Analyses
 **[in work]**
 * [Summary](#summary)
+  * [Covid Transmission happens when much Air is Exchanged between People](#covid-transmission-happens-when-much-air-is-exchanged-between-people)
+  * [Observations supporting the Air Exchange Hypothesis](#observations-supporting-the-air-exchange-hypothesis)
+  * [The Susceptibility and Infectiousness varies across People and depends on Biological Factors](#the-susceptibility-and-infectiousness-varies-across-people-and-depends-on-biological-factors)
 * [Geographical Analysis](#geographical-analysis)
-  * [Methods](#methods)
+  * [Climate and Covid-19 Spread](#climate-and-covid-19-spread)
   * [Cities versus Rural](#cities-versus-rural)
+  * [Living Space](#living-space)
 * [Infectors](#infectors)
   * [Infector Distribution](#infector-distribution)
   * [Infectors and Symptom Status](#infectors-and-symptom-status)
@@ -25,38 +29,49 @@
   * [Summary Perez-Lopez](#summary-perez-lopez)
   * [Summary Rader,Scarpino](#summary-raderscarpino)
 * [References](#references)
+* [Appendix](#appendix)
+  * [Data UK Sport Events](#data-uk-sport-events)
 
 ## Summary
-First the conclusion are given and then the observations founding them are sketched. 
-#### Conclusions 
-1. ##### Covid Transmission happens when much Air is Exchanged between People
-    Covid-19 transmission correlates to the amount of air people breadth from each other. The amount of exchanged air is high 
-    * indoors air with bad ventilation (either heated or air-conditioned) 
-    * increased inhaling
-      * being at low air pressure (either high altitude or airplane) 
-      * activities such as singing, shouting or strains e.g. sports
-      
-    The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
-    Regarding prevention measures the takeaway is, that transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away. 
-
-#### Observations
+[Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described and analysed.
+### Covid Transmission happens when much Air is Exchanged between People
+Covid-19 transmission correlates to the amount of air people breadth from each other.
+The amount of exchanged air is high 
+* indoors air with bad ventilation (either heated or air-conditioned) 
+* increased inhaling
+  * being at low air pressure (either high altitude or airplane) 
+  * activities such as singing, shouting or strains e.g. sports
+  
+The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
+Regarding prevention measures the takeaway is, that transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
+### Observations supporting the Air Exchange Hypothesis
 Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air:
-1. [Geographical Analysis](#geographical-analysis): Looking at the Covid-19 waves across the world. The waves are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Arizona in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
-2. [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections [**in work**]. Children do not spread Covid well. 
-3. [Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described and analysed. 
-    * [Schools and Children](#schools-and-children)
-     Children less susceptible to infection and they spread Covid less than adults. 
-    * [Large Scale Sporting Events](#large-scale-sporting-events) In sports clubs where spectators are/were allowed to the stadiums, the players have a much higher risks to get infected with Covid-19 than in regions without spectators. Moreover Covid-19 incidence rates seem to be higher in areas with large scale sport events (especially indoor). 
-    * [Airplanes](#airplanes): High spread rates observed without adequate prevention measures (mask, ventilation). 
-    * [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world. 
-    
+* [Geographical Analysis](#geographical-analysis): Covid-19 waves across the world are predated by uncomfortable climate conditions (sometimes to hot but mostly to cold). 
+* [Large Scale Sporting Events](#large-scale-sporting-events) In sports clubs where spectators are/were allowed to the stadiums, the players have a much higher risks to get infected with Covid-19 than in regions without spectators. Moreover Covid-19 incidence rates seem to be higher in areas with large scale sport events (especially indoor). 
+* [Airplanes](#airplanes): High spread rates observed without adequate prevention measures (mask, ventilation). 
+* [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world.
+* Dense living conditions in comfortable climate or in regions where air-conditioners are not widespread
+* Limited access to water for washing hands alone don't yield an increased spread of Covid-19. 
 
+
+### The Susceptibility and Infectiousness varies across People and depends on Biological Factors
+The susceptibility and infectiousness are correlated and depend on factors such as age, BMI, sex ...
+* [Schools and Children](#schools-and-children)
+Children less susceptible to infection and they spread Covid less than adults. 
+*  Women are less infectious than men (observed for influenza and the generation of aerosol) [refs coming]
+* [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections [**in work**]. 
+  
+    
 **[in work]**
 
 ## Geographical Analysis
 [in work]
 
-### Methods
+### Climate and Covid-19 Spread
+Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air:  Covid-19 waves across the world are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Arizona in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
+
+
+<!--
 For regions across the world the following is analysed:
 * Covid-19 cases and deaths to find Covid-waves i.e. time spans with increased spread
 * geographical, climate and social situations including measures to flatten/prevent Covid 
@@ -64,7 +79,7 @@ For regions across the world the following is analysed:
   * while Covid-19 decrease or stay low despite having a relevant population of possible Covid spreaders (the spread in regions with very low case count where contact tracing can work, behave differently and will be analysed in future)
 
 
-<!--
+
 ### Spread Analyses in South Americas
 Most countries in South Americas recorded many cases, a notable exception is Uruguay with very few cases and only a couple of deaths. The geographic and social situation are hugely different across the Continent. 
 All countries provided programs for financial support and additionally:
@@ -100,6 +115,12 @@ Infectious disease wave through the clusters until there's no more ground to nou
 > * the peak incidence will be much higher (double or more) and the wave passes through the entire society in one go. 
 > * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
 
+
+### Living Space
+People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
+* [Brueningk et al](#summary-brueningk) deduce from Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
+* [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in). 
+
 ## Infectors
 Knowing how infectors are distributed, can help to fine-tune control measures. 
 
@@ -122,7 +143,7 @@ Children are less likely to be infectees and less likely to be infectors [see se
 
 ## Spread Situations
 **[in work]**
-Spread situations and patterns of Covid-19 both observed and described in literature.
+Spread situations and patterns of Covid-19 both observed and described in literature. Nearly all observed spread events are indoors, except football matches with visitors. 
 
 ### Indoor Social Settings
 * [Contact Tracing in Hong Kong](#summary-adamwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
@@ -167,28 +188,42 @@ It will be interesting to investigate the prevalence of Covid-19 in the spectato
 * Belgium: up to 400 outdoor and 200 indoor allowed from 23.9. to 23.10.
 * Russia: still several thousand fans seem to be allowed in football [as indicated by stadium counts on 4.11.]
 * Turkey: several hundred fans seem to be allowed in football [as indicated by stadium counts on 4.11.] [to check]
+* UK: After a 4 week lockdown which ended on 2nd December 2020 until 5.1.2021 ([Appendix UK Sport Data](#data-uk-sport-events)):
+  4000 spectators in Tier 1 (about 10%-15% of capacity)
+  2000 spectators in Tier 2 (about 5%-7.5% of capacity)
+  0 spectators in Tier 3
+  until 5th of January 2021 when a new lockdown was started.
 
 
 #### Results from Leagues with Spectators
 Sources: [https://www.sofascore.com](),
-[https://www.bbc.com/sport/football/scores-fixtures](), 
+[https://www.bbc.com/sport/football/scores-fixtures](), [https://www.srf.ch/sports]()
 * Netherlands
   * A very steep increase of Covid-19 cases in early October
 * Switzerland
   * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams (multiple infected players and staff members). Some teams had most of their players and staff infected. 
   * the regions with ice hockey stadiums most showed a steeper increase in Covid-19 cases than the regions without ice hockey stadiums. This indicates regular super-spreading events (as fare as I can judge by the data public available). 
   * in late October the majority of hockey matches needed to be cancelled since many teams had multiple infected players.
-* Ukraine
-  * Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members. [other teams to be checked]
+* Ukraine:
+  Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members. [other teams to be checked]
 * Belgium 
-  * 4 of 17 matches cancelled between 21.10. and 4.11., despite an increasing Covid prevalence throughout October most matches need to be cancelled in mid October when spectators still were allowed. Nevertheless the cancels can also be due to the overall very high Covid-19 prevalence in Belgium. 
+  * 4 of 17 matches cancelled between 21.10. and 4.11., despite an increasing Covid prevalence throughout October most matches need to be cancelled until mid October when spectators still were allowed. Nevertheless the cancels can also be due to the overall very high Covid-19 prevalence in Belgium. 
 * Turkey 
-  * regular cancellation of matches due to insufficient players 
+  regular cancellation of matches due to insufficient players 
 * Russia
-  * [to check]
+  [to check]
+* UK (Period 3.12. - 5.1.) ([Appendix UK Sport Data](#data-uk-sport-events))
+  * Multiple match cancellation.
+  * A steep increase in case counts. // before 3.12. there was a lockdown/shutdown and after pubs and restaurants were reopened in most regions 
+  * An increase in infected players. However the increase in infected players is only slightly steeper than the general case count increase.
+    * 23.11. - 13.12:  30 (3 Weeks; 3 Rounds)
+    * 21.12 - 10.1.: 94 (3 Weeks; 4 Rounds; some matches cancelled and these high risk teams likely not tested)
+  * // Some evidence that spectators increased the number of infected players. Even though there were some matches cancelled, the increase in infected players was not much steeper than the general case count. However in september/october/november the correlation between case counts and infected players is rather low. 
+
+
 
 #### Results from Leagues without Fans
-* UK: between 21.10. and 4.11. all matches (16) have been played
+* UK (no spectators until 2.12.): between 21.10. and 4.11. all matches (16) have been played
 * Netherlands (allowed only until 1.10.): between 21.10. and 4.11. all matches (18) have been played
 * Germany: no matches cancelled [to confirm]
 
@@ -388,13 +423,82 @@ Their work consists of two parts:
 ## References
 References with a summary are in the section [Summarized References](#summarized-references)
 
-#### lee,raszka
+#### Lee,Raszka
 Lee B and Raszka WV. 
 **COVID-19 Transmission and Children: The Child Is Not to Blame.**
 Pediatrics. 2020;146(2):e2020004879 [https://doi.org/10.1542/peds.2020-004879]()
 
-#### choi
+#### Choi
 Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases, 26(11), 2713-2716. https://dx.doi.org/10.3201/eid2611.203254.
 
-#### freedman
-Freedman, D. O., & Wilder-Smith, A. (2020). In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication. https://doi.org/10.1093/jtm/taaa178                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+#### Freedman
+Freedman, D. O., & Wilder-Smith, A. (2020). In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication. https://doi.org/10.1093/jtm/taaa178                                                                                                            
+
+#### Lundkvist
+Åke Lundkvist, Stefan Hanson & Björn Olsen (2020) 
+**Pronounced difference in Covid-19 antibody prevalence indicates cluster transmission in Stockholm, Sweden**, 
+Infection Ecology & Epidemiology, 10:1, DOI: 10.1080/20008686.2020.1806505
+##### Methods
+"The prevalence of COVID-19 antibodies on June 17–18, 2020 was investigated in two residential areas of Stockholm, Sweden."
+##### Results
+In Norra Djurgårdsstaden, modern residential blocks in the upper price class, 4.1% of study participants had SARS-CoV-2-specific antibodies. In Tensta a suburb with low cost apartments in large residential blocks (built in the 60s and 70s), 30% of the participants tested antibody positive.
+
+
+#### Summary Brueningk
+**Determinants of SARS-CoV-2 transmission to guide vaccination strategy in a city**
+Sarah C. Brüningk, Juliane Klatt, Madlen Stange, Alfredo Mari, Myrta Brunner, Tim-Christoph Roloff, Helena M.B. Seth-Smith, Michael Schweitzer, Karoline Leuzinger, Kirstine K. Søgaard, Diana Albertos Torres, Alexander Gensch, Ann-Kathrin Schlotterbeck, Christian H. Nickel, Nicole Ritz, Ulrich Heininger, Julia Bielicki, Katharina Rentsch, Simon Fuchs, Roland Bingisser, Martin Siegemund, Hans Pargger, Diana Ciardo, Olivier Dubuis, Andreas Buser, Sarah Tschudin-Sutter, Manuel Battegay, Rita Schneider-Sliwa, Karsten M. Borgwardt, Hans H. Hirsch, Adrian Egli
+medRxiv 2020.12.15.20248130; doi: https://doi.org/10.1101/2020.12.15.20248130
+
+##### Methods
+The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed based on sequence data and computer simulation. In a second step, the effect of reduced transmissibility of population subgroups on the spread of Covid is simulated. 
+
+>  The term vaccinated is used in the paper but since it is unknown (as of 27.1.2021) whether the available vaccines produce a useful immunity regarding transmission and there are other methods (e.g. testing, masks, natural immunity) to reduce transmissibility the term reduced transmissibility is used here.
+
+##### Methods Details
+* Sequence Information: "In total 247 cases within the time period from the 25th of February until the 22nd of April were included in this analysis. For all data a seven day moving window average was taken to account for reporting bias on weekends, and cumulative numbers of infected cases (compartment I) were calculated."
+* Simulation: "SEIR-model. Similar to previous work [20, 52, 53] the spread of the epidemic within the city of Basel was described using a compartmental two-arm SEIR model including both sequenced, and unsequencend/unreported cases."
+* Serology: "We determined SARS-CoV-2 antibody responses in a total of 2,019 serum samples collected from individuals between 25th of February and 22nd of May, 2020, to account for sero-conversion. The cohorts included healthy blood donors and patients from the University Hospital Basel with residency in Basel-City, and Viollier AG Zurich, a lab medicine provider contracted for the SARS-CoV-2 PCR testing."
+
+##### Results
+People belonging to the thirds with the smallest living space per person have the largest pre-lockdown effective reproductive number (shown in Figure 3). Similarly people in the lowest income (which is likely well correlated to the living space) have a high reproductive number. Reducing the transmissibility of the people belonging to the lowest living space third or the lowest income third reduces and delays the maximal icu occupancy (Figure 7).
+
+##### Results Details
+* Mobility:
+  * "We observe that low and median income populations are more mobile than their wealthier counterparts. Moreover, there is little mobility within areas with a low share of 1-person households, a result of the predominantly peripheral location of the relevant statistical blocks (see Figure S5). For living space per person or percentage of senior citizens, mobility was comparable between tertiles with a trend towards higher mobility within the younger population groups."
+  * "For living space per person or percentage of senior citizens, mobility was comparable
+146 between tertiles with a trend towards higher mobility within the younger population groups."
+* "We found that blocks with a higher median income (2% achieved significance), or higher living space per person (1% achieved significance), or lower share of 1-person households (2% achieved significance) had a significantly lower Ref f (< 1.7) relative to the maximum Ref f observed in the relevant partition."
+* "Serology information was used to estimate the fraction of unreported cases as follows: An estimated 1.88% (38/2,019) of the Basel-City population was infected with SARS-CoV-2. Of these 60% would be attributed to the B.1-C15324T strain, leading to a percentage of 88% of unreported/unsequenced cases to consider."
+
+
+## Appendix
+
+### Data UK Sport Events
+
+#### scott-bbc
+**Fans at sporting events: Maximum of 4,000 to be allowed in England**
+By Laura Scott and Mandeep Sanghera
+
+#### Premier League Case Counts
+Source: https://www.premierleague.com/news/1814863
+
+"
+Round 5: 28 Sep-4 Oct - 1,587 tested, with nine testing positive. 
+Round 6: 5-11 Oct - 1,128 tested, with five testing positive.
+Round 7: 12-18 Oct - 1,575 tested, with eight testing positive.
+Round 8: 19-25 Oct - 1,609 tested, with two testing positive.
+Round 9: 26 Oct-1 Nov - 1,446 tested, with four testing positive.
+Round 10: 2-8 Nov - 1,646 tested, with four testing positive.
+Round 11: 9-15 Nov - 1,207 tested, with 16 testing positive.
+Round 12: 16-22 Nov - 1,530 tested, with eight testing positive.
+Round 13: 23-29 Nov - 1,381 tested, with 10 testing positive.
+Round 14: 30 Nov-6 Dec - 1,483 tested, with 14 testing positive.
+Round 15: 7-13 Dec - 1,549 tested, with six testing positive.
+Round 16: 14-20 Dec - 1,569 tested, with seven testing positive.
+Round 17: 21-27 Dec - 1,479 tested, with 18 being positive. 
+Round 18: 28-31 Dec - 1,311 tested, with 28 being positive.
+Round 19: 1-3 Jan - 984 tested, with 12 being positive.
+Round 20: 4-10 Jan - 2,593 tested, with 36 being positive. 
+Round 21: 11-17 Jan - 3,115 tested, with 16 being positive. 
+"
+
