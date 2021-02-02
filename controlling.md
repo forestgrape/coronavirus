@@ -8,10 +8,11 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Masks](#masks)
   * [Ventilation](#ventilation)
   * [Distancing](#distancing)
+  * [Large Buildings](#large-buildings)
   * [Covid-19 Cases and Quarantine](#covid-19-cases-and-quarantine)
 * [Control Measures](#control-measures)
   * [Contact Tracing](#contact-tracing)
-  * [Whitelist Testing](#whitelist-testing)
+  * [Testing Benefits](#testing-benefits)
   * [Outdoor Days](#outdoor-days)
   * [Home-Lock Down](#home-lock-down)
 * [Thoughts about Social Measures](#thoughts-about-social-measures)
@@ -46,7 +47,9 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent and good mask need to available. In warm areas windows should be open all the time and air-conditioning should *never* be used.
 > 
 > Two more points
-> * Trying new paths even at the risk of falling but having a parachute ready and using it early. Better walk with the parachute (and being ready for a new journey) than fall cool without. For Covid-19 the parachutes are outdoor days: being outdoors and avoiding all non essential entries to foreign or public indoor settings.
+> * Trying new paths but step by step and at the risk of falling having a parachute ready and using it early.
+  > Better walk with the parachute (and being ready for a new journey) than fall cool without. For Covid-19 the parachutes are outdoor days: being outdoors and avoiding all non essential entries to foreign or public indoor settings.
+  > Doing experiments in limited settings/small numbers until   
 > * Analyzing missteps can be rewarding, the next antibiotics are to be discovered.
 
 
@@ -168,16 +171,22 @@ Reasons against masks seem sometimes rather searched:
 Ventilation reduces the indoor airborne spread, since the virion density in [outside air](#outside-is-safer) is much lower than in indoor air. There should be limits on the CO2 concentration and the concentration should be continuously monitored. 
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is in their setting as effective as vaccinating around half of the population. 
+* [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is, in the simulated setting, as effective as vaccinating around half of the population. 
 
 
 ### Distancing
 [Airborne transmission](./transmission.md#recap-airborne-transmission) - both droplets (reek of alcohol like spread) and aerosol/dry particulates (smoke-like) - can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air.
 
+### Large Buildings
+Large residential block and office buildings special care needs to be taken, since they play a relevant role in the spread of Covid ([Living Conditions](./spread_analyses.md#living-conditions) in the chapter [Spread Analyses](./spread_analyses.md)). 
+* Good filtration masks should be used in shared stairwells. 
+* The stairwell should be ventilated regularly. 
+* Flats/offices should be ventilated before opening the door to the stairwell, especially if sick. 
+
 
 ### Covid-19 Cases and Quarantine
-The focus should be on monitoring cases both for disease progression and to figure out and avoid infection paths. 
-To achieve this, relaxed quarantine and isolation rules are better:
+The focus should be on monitoring cases both for disease progression and to figure out and break infection paths. 
+Relaxed rules are important for the [health of the infected and the possibly infected](./covid19.md#movement) and in many situations relaxed rules are more efficient in reducing the spread:
 
 #### Example Calculation of Spread
 * ##### Strict Instructions
@@ -199,31 +208,31 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 #### Suggestions for possibly Infected
 * mask wearing in all public indoor spaces and best in all indoor rooms where susceptible people can be.
-* no crowed indoor spaces
+* no crowded indoor spaces
 * distance: 1 meters outdoors and 2 meters indoors.
 * no face-to-face talking without a mask
 * regular ventilation
-* avoid strains
-* avoid activities with heavy breathing/deep inhaling e.g. sport and singing/shouting
+* avoid excessive strains e.g. strenuous sports
+* avoid indoor activities with heavy breathing/deep inhaling e.g. sport and singing/shouting
 
 #### Suggestions for Infected
 as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
 * [High-filtration mask](#high-filtration) in all indoor spaces/rooms where susceptible people can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
-* no crowded places (outdoors and indoors)
-* distance: 2 meters outdoors and 4 meters indoors.
-* no close range face-to-face talking
-* ventilate the room and flat before opening extern doors: Ideally ventilate before opening the personal room and open slightly only
+* No crowded places (outdoors and indoors)
+* Distance: 2 meters outdoors and 4 meters indoors.
+* No close range face-to-face talking
+* Ventilate the room and flat before opening extern doors ([Large Buildings](#large-buildings)). Ideally ventilate before opening the personal room and open slightly only.
 
 #### Isolation by Home-Lockdown
 To reduce spread isolation by home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more fine-grained the measures can be.
 * Isolation should be used with care since it can discourage people from testing and being transparent e.g. disclosing socials contacts and travel history.
-* There are reasons against a complete stay at home order in my opinion as of 31.7.2020:
+* There are good reasons against home isolation:
     - Going outside is important for an intact immune system and good health. This is important for infected too.
-    - Indoor sports or movement can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk.
+    - Indoor sports can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk.
 
-    Preventing spread opportunities e.g. both indoor and crowded public spaces is important however.
+  Preventing spread opportunities e.g. avoiding indoor and/or crowded public spaces is important.
 
-Isolation by a stay-at-home order may be working for people with own houses with gardens but for people living in flats in big buildings (and the majority of people do so in Covid risk countries), permanent home stay can increase transmission opportunities and no movement at all is often not healthy.
+Isolation by a stay-at-home order may be working for people with own houses with gardens but for people living in flats in big buildings (and the majority of people do so in Covid risk countries), permanent home stay can increase transmission opportunities and movement is healthy.
 
 
 ## Control Measures
@@ -232,18 +241,21 @@ Isolation by a stay-at-home order may be working for people with own houses with
 ### Contact Tracing
 [in work]
 
-### Whitelist Testing
-Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home isolation phase applies and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
+### Testing Benefits
+Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home [isolation rules](#covid-19-cases-and-quarantine) apply and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
 * Experiences: 
-  * In many countries such testing is done for travelling: only those with negative tests are allowed to enter. 
+  * Many countries require negative tests for entry. 
   * In Slovakia in early November 2020 a nationwide testing campaign and only those with negative tests were excluded from a general curfew. 
-    > A new tactics and it will be interesting to analyze it. A general curfew I consider to strict in any situation including this, only allowing people with negative tests to enter foreign indoor settings should be enough.
+    > A new tactics and it will be interesting to analyze it. A general curfew I consider to strict in any situation including this. Only allowing people with negative tests to enter foreign indoor settings (e.g. gastronomy/offices) should be enough.
 
     > A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms. 
 
 
+High filtration masks should be used in shared stairwells and the flats should be ventilated before opening the door. 
+
+
 ### Outdoor Days
-Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission. To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.  
+Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission if care is taken in [buildings](#large-buildings) and [shops](#shops). To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.
 
 ### Home-Lock Down
 A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was more limited and transmission less known. It has very severe drawbacks compared to [outdoor days](#outdoor-days):
@@ -251,7 +263,7 @@ A general curfew is a radical measure. It reduces contacts and makes it easier t
 * a lot of aerosol is exhaled when doing indoor sports and this puts fellow occupants and neighbors in the same building at risk.
 * being lock indoors can have negative psychological effects 
 
-A curfew at night has some use cases e.g. preventing private parties but in most situations softer measures can be applied: [Reduction of Nightlife](#reduction-of-nightlife).
+A curfew at night has some use cases e.g. preventing private parties but in most situations softer measures are enough e.g. [Reduction of Nightlife](#reduction-of-nightlife).
 
 
 
@@ -310,19 +322,19 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
 
 > To keep in mind, high altitude and sports increase the aerosol transmission.
 
-* __cableways__: best unconfined=outdoors and if confined/indoor permanent open/removed windows.
+* __cableways__: best unconfined=outdoors and if confined=indoor permanent open/removed windows.
 * __tourism buildings__: 
   Good [ventilation](#ventilation) is important.
-  * __with jackets__: In building where jackets are worn (e.g. cableway buildings, some sport-shops, self service restaurant where guests sit outside), ventilation can be permanent: Doors and windows are open allowing some draught. Aerosol transmission efficiently reduced.
-  * __without jackets__: In buildings where jackets are not worn (e.g. restaurants, tourist information). Regular ventilation e.g. each hour/ ideally there is some ventilation system installed. 
+  * __with jackets__: In building where jackets are worn (e.g. cableway buildings, some sport-shops, self service restaurant where guests sit outside), ventilation can be permanent: Doors and windows are open allowing some draught. Aerosol transmission is efficiently reduced.
+  * __without jackets__: In buildings where jackets are not worn (e.g. restaurants, tourist information). Regular ventilation e.g. each hour. Ideally there is a ventilation system or at least an adequate air-cleaning system installed. 
 * __queuing__: 
-  * outdoors preferable 
-  * indoor queuing ideally avoided or at least be very well ventilated.
-  * ticketing system. Tricky since needs to be working all the time. When everybody waits indoors when the weather is bad, the transmission risk high too. 
-  > Yesterday (29.11.) I was on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity, some ventilation in the cableways however not nearly as much as there could have been. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon: a large crowd lined up indoors and in the beginning with no appropriate ventilation, some even started feeling unwell. The situation improved when doors and windows were opened. Alternatives are to organize the queue to be outdoors or a ticketing system.
+  * Outdoors preferable 
+  * Indoor queuing ideally avoided and if then very well ventilated.
+  * Ticketing system. Tricky since needs to be working all the time. When everybody waits indoors when the weather is bad, the transmission risk high too. 
+  > Yesterday (29.11.) I was on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity, some ventilation in the cableways however not nearly as much ventilation as there could be. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon: a large crowd lined up indoors and in the beginning with no appropriate ventilation, some even started feeling unwell. The situation improved when doors and windows were opened.
 * __gastronomy__: as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a short time (often days).  
   * __indoor gastronomy__: High risk. Guests from the same villages/hotels going only to a limited number of restaurants helps to prevents chains of (super)spreading and helps contact tracing. 
-    > Indoor gastronomy is the highest risk in my opinion. In cableway(-building) ventilation by draught can be used since people can wear warm jackets (sport shops will cheer) and wear clean masks with good filters but for indoor gastronomy masks, draught & jackets fit less. Ideally some ventilation system is in place.
+    > Indoor gastronomy is the highest risk in my opinion. In cableway(-building) ventilation by draught can be used since people can wear warm jackets (sport shops will cheer) and wear clean masks with good filters. But for indoor gastronomy masks, draught & jackets fit less. Ideally some ventilation system is in place.
   * __outdoor gastronomy__: Low risk. Ideally masks are used when getting/bringing food/drinks or going to toilets. 
   * __apres ski__:
     * __indoor__: very high risk often dense crowds and a lot of alcohol (see also indoor gastronomy)
@@ -336,7 +348,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
 
   > Recently I read I a comment from a speaker from a Cableway Association, reading something like: "We cannot and must not control whether people wear clean or the right masks, we trust on the own responsibility." 
   > Several points:
-  > * Everybody should encourage and motivate everybody to take good protections. If control is helpful, the system needs to be or at least attempted to be designed such that controlling is possible. 
+  > * Everybody should encourage and motivate everybody to take good protections. If control is helpful or needed, the system needs to be or at least attempted to be designed such that controlling is possible.
   > * Aerosol transmission plays a role in the transmission of Covid and many cloth masks offer only few protection versus aerosol. // I avow, this is still disputed to some extent. 
   > * Own responsibility is for everyone including operators. If there are few official rules, then there are many specific situations with no general/official rule (e.g. on the mask type). In sensible situations, it can be adequate to set additional rules or do more checks.
   
