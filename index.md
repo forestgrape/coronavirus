@@ -20,7 +20,8 @@
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
-- 2.2. How [Movement](./covid19.md#movement) helps to produce a good immune response and helps recovering from Covid on the [Covid-19 page](./covid19.md). 
+- 2.2. How [Movement](./covid19.md#movement) helps to produce a good immune response and helps recovering from Covid on the [Covid-19 page](./covid19.md).
+- 2.2. Many small updates and clarifications across the page. E.g. added the importance of ventilation of stairwells in [large buildings](./controlling.md#large-buildings) on the Controlling page.
 
 > ### A word of Caution regarding Vaccines (28.1.)
 > What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines and vaccination programs are well organized. It increases the safety and life quality for people at risk for severe Covid-19  
