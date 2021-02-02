@@ -137,28 +137,31 @@ Infection symptoms depend on the infected locations. A Covid-19 infection can be
 [in work and incomplete]
 
 ### Movement
-> This section is recommends moderate movement and **not** about exercise. Exercise is adequate in some situations but not in others because of risks such as injuring the heart muscles. Exercise involves movement and so some citations are about exercise but often the findings hold for movement too.
 
-Both in early and later stages of a Covid-19 infection moderate movement is important. Emphasis on **moderate** e.g. a walk and not on intense or even competitive sports.
+#### Summary Movement
+Movement is in the early phase of Covid-19 helps to produce a good immune response. In the recovery phase movement fastens the process and reduces the probability of long term effects. 
 
+> This section recommends **moderate movement** and **not** intense exercise. Exercise is adequate in some situations but not in others because of risks such as injuring the heart muscles. Since exercise involves movement, some citations are about exercise but often the findings hold for any form of movement.
+
+#### Biological Mechanisms
 * In the early phase of Covid, movement is important since the circulation in the lymphatic system is mostly passive and driven by the body movement. With movement the immune response is better and faster (Coronavirus infection 'signatures' reach the lymph nodes faster, capable immune cells are produced and some of them migrate to protect other body location such as the lung and extern movement make them move faster.). With a healthy lifestyle with sufficient movement, for infections starting in the upper respiratory tract, protective T cells are likely to reach the lungs before the viruses have time to replicate to high numbers.
 * In the convalescent phase movement is important since 
   1. it helps clearing the lymph and thus remnants of SARS-2 (antigens) are removed.
   2. movement or even careful sport keep the immune system in check and prevent it from overshooting which is likely a major reason for [long covid](#long-term-adverse-effects).
 
 #### Literature on Movement
-* In his readable interview [Zhu](#zhu) asks precise question to Dr Woods how one benefits from doing sports to fight a virus disease. 
-* [Ali and Kunugi](#ali) describe harmful consequences of reduced/no movement.
-* Many of the in [References Rehabilitation](#references-rehabilitation) recommend movement. 
-* more refs on the way, the refs in [Zhu](#zhu) are recommended
+* In his readable interview [Zhu](#zhu) asks precise question to Dr Woods on the effects of exercising on virus infections.
+* [Ali and Kunugi](#ali) describe several adverse consequences of reduced/no movement.
+* Movement and adequate exercise is recommended in many [References regarding Rehabilitation](#references-rehabilitation). 
+* more refs on the way
 
 #### Epidemiological Evidence
 There is epidemiological evidence supporting the above argumentation:
 * Countless athletes have caught Covid infections and despite their health is thoroughly supervised and even a slight performance decrease is noticed in team sports where athletes go back to train as soon as possible - to my knowledge - no long term effects have been observed. Besides having a good health, adequate training likely helped.
-* In situations with strict stay-at-home orders the fatality rate and the rate of severe cases is higher than in situations without stay-at-home orders (the isolation rules can be mostly ignored, especially in spring 2020 since the case detection rate was below 5 %).
-* Important risk factors for severe Covid are well correlated with with few movements/sports e.g. obesity, arteriosclerosis and diabetes. Since behavior patters tend to be stable, these risk factors could be partly due to too few movement/sports.
+* In situations with strict stay-at-home orders the fatality rate (fatality rates in different locations shown in Table 4 in [Ioannidis](#ioannidis), rates for those younger than 70 are higher in regions where strict stay-at-home orders were in place) and the rate of severe cases is higher than in situations without stay-at-home orders (the isolation rules can be mostly ignored, especially in spring 2020 since the case detection rate was below 5 %). [a more detailed analysis in work]
+* Important risk factors for severe Covid are well correlated with with few movements/sports e.g. obesity, arteriosclerosis and diabetes. Since behavior patters are often stable, too few movement/sports is a possibility for a confounding factor.
 
-To support good prognosis the [isolation and quarantine rules](./controlling.md#covid-19-cases-and-quarantine)) should take this into account.
+To support good health and Covid prognosis the [isolation and quarantine rules](./controlling.md#covid-19-cases-and-quarantine)) should take this into account.
 
 ## Long Term Effects
 Sometime long lasting symptoms such as fatigue and decreased physical fitness can occur, called long Covid/long-haulers. Tissues damage which needs some time to repair can be a cause, another cause for long covid can be that immune system overshoots. To prevent the latter moderate [movement](#movement) can help.
