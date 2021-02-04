@@ -470,6 +470,24 @@ People belonging to the thirds with the smallest living space per person have th
 * "We found that blocks with a higher median income (2% achieved significance), or higher living space per person (1% achieved significance), or lower share of 1-person households (2% achieved significance) had a significantly lower Ref f (< 1.7) relative to the maximum Ref f observed in the relevant partition."
 * "Serology information was used to estimate the fraction of unreported cases as follows: An estimated 1.88% (38/2,019) of the Basel-City population was infected with SARS-CoV-2. Of these 60% would be attributed to the B.1-C15324T strain, leading to a percentage of 88% of unreported/unsequenced cases to consider."
 
+#### Summary Dalziel
+[in work]
+**Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities**
+Benjamin D. Dalziel, Stephen Kissler, Julia R. Gog, Cecile Viboud, Ottar N. Bjørnstad, C. Jessica E. Metcalf and Bryan T. Grenfell
+Science 362 (6410), 75-79. [https://doi.org/10.1126/science.aat6030]()
+
+##### Methods
+* " However, the role of city size and structure in shaping transmission patterns of seasonal influenza is not well understood. We address this here using 6 years (2002 to 2008) of data on weekly incidence of influenza- like illness (ILI) in 603 three-digit postal (ZIP) codes across the United States, assembled from medical claims data (34)."
+##### Results
+* "We find that differences in nj among cities persist across years—some cities have consistently more intense epidemics than others, year after year. "
+* "Cities with higher mean intensity tend to be located in the east, have smaller population sizes, and have higher-amplitude seasonal fluctuations in specific humidity." (Fig 1 D-F)
+* "Increasing base transmission potential can decrease epidemic intensity in a seasonally forced compartmental epidemic model." (Fig 2)
+* Population size and crowding increase the base transmission potential. (Fig 3 F,G)
+
+
+
+
+
 
 ## Appendix
 
