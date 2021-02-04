@@ -13,33 +13,39 @@
   * [Biological Mechanisms](#biological-mechanisms)
 * [Immune System Members](#immune-system-members)
   * [T Cells](#t-cells)
-  * [Distribution](#distribution)
 * [Protection Locations](#protection-locations)
 * [Adaption of the Immune System](#adaption-of-the-immune-system)
+  * [Redistribution of](#redistribution-of)
 * [Immune System Specificity](#immune-system-specificity)
   * [Trained Immune System](#trained-immune-system)
 * [Cross Immune Protections](#cross-immune-protections)
   * [Cross Protections Observed](#cross-protections-observed)
 * [How SARS-2 Overcomes Immune Obstacles](#how-sars-2-overcomes-immune-obstacles)
-* [Appendix](#appendix)
-  * [Biology, Chemistry and Physics](#biology-chemistry-and-physics)
+  * [Overcome Physical Barriers](#overcome-physical-barriers)
+  * [Overcome Chemical Barriers](#overcome-chemical-barriers)
+  * [Overcome Biological Barriers](#overcome-biological-barriers)
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
+  * [Books](#books)
+* [Appendix](#appendix)
+  * [Biology, Chemistry and Physics](#biology-chemistry-and-physics)
 
 
 ## Summary
-[**in work and incomplete**] Selected topics of the immune protection with a focus protection versus coronaviruses are discussed.
+[**in work and incomplete and to be checked**]
+
+Selected topics of the immune protection with a focus protection versus coronaviruses are discussed.
 
 ###### Immune System
-> The *immune system* denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them. 
+> The *immune system* denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them.
 
 Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host from interfering with their metabolism: The host immune system tries to stop the virus metabolism and the the virus immune system in turn tries the stop the host immune system.
 
-A lot of completely different immune mechanism have evolved in the different [life forms](./coronavirus.md#life-form). Immune mechanism can be classified according to various criteria:
-- [Immune System Goals](#immune-system-goals): Prevent entry, eliminate unwanted, supervise metabolism.
-- [Immune System Mechanism](#immune-system-mechanisms): Physical, chemical and biological mechanism are in use. 
-- [Immune System Specificity](#immune-system-specificity): Which substances are recognized and targeted. Substances that are ignored. 
-- [Protection Locations](#protection-locations): Local or global. At frequent foreign substances entry points many local protection mechanism are in place. 
+Immune mechanism can be classified according to various criteria:
+- [Immune System Goals](#immune-system-goals): Prevent entry | eliminate unwanted | supervise metabolism.
+- [Immune System Mechanism](#immune-system-mechanisms): Physical, chemical and biological mechanism are in use.
+- [Immune System Specificity](#immune-system-specificity): Which substances are recognized and targeted. Substances that are ignored.
+- [Protection Locations](#protection-locations): Local or global. At frequent foreign substances entry points many local protection mechanism are in place.
 
 
 ## Immune System Goals
@@ -56,13 +62,13 @@ Against many pathogens a physical barrier is the most effective line of defence.
 
 
 ### Detect and Eliminate Unwanted Things
-Unwanted can mean: 
+Unwanted can mean:
 - foreign substances
 - cells considered out of order
-- things classified as being harmful. These are often specific parts of proteins. 
+- things classified as being harmful. These are often specific parts of proteins.
 
 ### Prevent Unwanted Metabolisms
-In some cases preventing unwanted metabolism is done by eliminating whole cells, in that case preventing unwanted metabolism yields eliminating unwanted cells and so is a special case of [eliminating unwanted things](#detect-and-eliminate-unwanted-things). But often the immune response is more fine-grained e.g. silencing foreign RNAs. 
+In some cases preventing unwanted metabolism is done by eliminating whole cells, in that case preventing unwanted metabolism yields eliminating unwanted cells and so is a special case of [eliminating unwanted things](#detect-and-eliminate-unwanted-things). But often the immune response is more fine-grained e.g. silencing foreign RNAs.
 
 #### Self-checks
 [in work]
@@ -96,17 +102,17 @@ Recognizing biological substances as unwanted and eliminate them. Unlike chemica
 
 
 ## Immune System Members
+
 ### T Cells
 * T cells are in the blood and locally in tissues. 
-* T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism e.g. produce virions, which can be [detected by T cells](#extern-checks). 
+* T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism e.g. produce virions, which can be [detected by T cells](#extern-checks).
 * To control coronaviruses infections T cells are key [citation coming].
 
 > ###### Local T cell
-> *Tissue resident T cells* in literature and here called *local T cells* are T cells which survey the tissues cells integrity. They don't travel with the blood. They remain locally in tissues they may move there however. 
+> *Tissue resident T cells* in literature, called *local T cells* on this page, are T cells which survey the tissues cells integrity. They move within tissues and and do not circulate with the blood.
 
-### Distribution
-* Local T cells are located often at entry points of viruses. E.g. the mouth is a common entry point for viruses, so in the mouth there are many local T cells [to check and cite]. 
-
+#### Distribution
+Local T cells are located often at entry points for pathogens. E.g. the mouth is a common entry point for viruses, so in the mouth there are many local T cells [to check and cite].
 
 ## Protection Locations
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
@@ -114,11 +120,12 @@ Immune responses can be global (affecting the entire body), local for some tissu
 * tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
 * cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
-
 ## Adaption of the Immune System
 The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
 * lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#variable-immune-system))
-* generation adaption: personal and ancestral exposures yields the overall adaption of both the innate and adaptable immune system
+* generational adaption: personal and ancestral exposures are memorized and cause both the innate and adaptable immune system to adapt
+
+### Redistribution of 
 
 
 ## Immune System Specificity
@@ -138,8 +145,7 @@ There are many degrees of specificity, the following categories are just a coars
     - variable targeting throughout lifetime: [Trained Immune System](#trained-immune-system)
         
 ### Trained Immune System
-Some parts of the immune system is able to vary is targets throughout lifetime. What to target is determined by a training process in which substance are learned to be wanted or unwanted. 
-
+Some parts of the immune system is able to vary is targets throughout lifetime. 
 > ###### Allergy
 > Sometimes proteins parts not associated to pathogens are classified as being harmful. This yields allergies. 
 
@@ -147,18 +153,34 @@ Some parts of the immune system is able to vary is targets throughout lifetime. 
 * Antibodies: bind to specific proteins and thereby inactivate or mark them
 * Trained T cells
 
-#### How training works
+#### Mechanisms to Produce Different Binding Capabilities
+One mechanisms to produce different cells able to bind to different substances is, that the binding parts of these cell are randomized i.e. the genes coding these binding parts are generated by a process which produces random sequences. Now the immune system needs to check that: 
+1. these randomized binding sites don't bind to something useful e.g. healthy cells belonging from the same organism (self).
+2. these randomized binding sites are useful i.e. they bind to something harmful. 
+
+Checking these conditions is called training. 
+
+##### How Training works
 [in work, to be completed and to be checked]
-1. Unwanted things or things reaching end of life are disassembled (e.g. SARS-Cov-2 infected cells usually die)
-2. The decay particles then analyzed by the immune system for filtering out decay particles already known.
+1. In the __bone marrow__ continuously new immune cell arise from stem cells. A certain class of immune cells with different binding capabilities moves to the thymus and these are called Thymus cell (T cells). 
+2. In the __thymus__ it is checked if the selected cell bind to self substances:
+   * If the cell binds self substances => harmful since the own body is attacked => trigger cell death (if these goes wrong an autoimmune disease can result)
+   * If the cell does *not* bind self => The cell is not attack self and thus not harmful => send the cell to the lymph nodes. 
+3. In the __lymph nodes__ the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful. 
+
+<!--
+3. Unwanted things or things reaching end of life are disassembled (e.g. SARS-Cov-2 infected cells usually die)
+4. The decay particles then analyzed by the immune system for filtering out decay particles already known.
   * The decay particles recognized as known (self or known foreign) are not interesting and disposed
   * The unknown particles, are presented to a special class of immune cells, if a cell turns to be capable to bind this new substance, the cell is selected. 
-3. It is now checked if the selected cell does *not* bind to self substances. If the cell does *not* bind self, the cell is capable to specifically produce binding elements to the new substance. 
-4. monoclonal replication is induced once more if the new foreign particles are seen. 
+ 
 
 > ###### Antigen
-> The binding elements are called *antibodies* and the particles they bind are called *antigens*.
+ Particles classified as unwanted to which the immune system is able  particles they bind are called *antigens*.
 
+> ###### Antibody
+> The elements by which the immune system can bind to antigens are called *antibodies*.
+-->
 
 
 <!--
@@ -170,8 +192,8 @@ Some parts of the immune system is able to vary is targets throughout lifetime. 
  -->
 
 ## Cross Immune Protections
-All form of life on earth share common molecular patterns. The more genetically related the forms, the more genes and corresponding proteins they share. These [common patterns](#conserved-patterns) are possible targets to develop cross protections either by the immune system or artificial medications. 
- 
+All form of life on earth share common molecular patterns. The more genetically related the forms, the more genes and corresponding proteins are similar. Some elements are more conserved and are possible targets to develop cross protections either by the immune system or artificial medications. 
+
 ### Cross Protections Observed
 *  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
     - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
@@ -180,19 +202,59 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 
 ## How SARS-2 Overcomes Immune Obstacles
-* physical: 
-    - skin <- circumvented by coronaviruses by entering via breathing
-    - mucus <- less mucus in the lungs and nasal cavity
-    - cell membranes <- bind to receptor and fuse membranes with spikes
-* chemical:
-    - stomach acid <- circumvented by coronaviruses 
-      - replicate to high numbers in the lungs and pass through the very thin alveolar epithel layer to the blood and reach the intestine
-      - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
-* biological:
-    - Phagocyte <- exploit phagocytosis by infecting the cell
-      - SARS-2 can replicate in macrophages
-      - In most immune cells no replication takes place (e.g. T cells) since cell death is induced. By cell death the immune cells are still knocked out. 
-    - inactivation by antibodies: [in work]
+
+### Overcome Physical Barriers
+- skin <- circumvented by coronaviruses by entering via breathing
+- mucus <- less mucus in the lungs and nasal cavity
+- cell membranes <- bind to receptor and fuse membranes with spikes
+
+### Overcome Chemical Barriers
+- stomach acid <- circumvented by coronaviruses 
+  - replicate to high numbers in the lungs and pass through the very thin alveolar epithel layer to the blood
+  - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
+
+### Overcome Biological Barriers
+#### Overcome Phagocytosis
+Phagocyte <- exploit phagocytosis by infecting the cell
+- SARS-2 can replicate in macrophages
+- In most immune cells no replication takes place (e.g. T cells) since cell death is induced. But by cell death the immune cell is still knocked out.
+ 
+#### Overcome Antibodies
+[in work]
+For coronaviruses waiting until antibody based immunity wanes or even jumping generations is often not an option, thus circumventing antibodies is an essential skill. Coronaviruses have a variety of mechanisms to circumvent antibodies. However circumventing antibodies is oft not free for coronaviruses, so antibodies slow down coronaviruses and the immune system has more time.
+- Mutations
+- Shields
+  - glycan shields
+  - variable regions on the outside which mutate with high frequency
+- Masking
+  - sensitive regions e.g. receptor binding domains are shielded until primed
+  - different priming steps in different locations in the hosts enabling intrahost spread
+- Exploitation
+  Exploiting antibody induced phagocytosis
+
+
+
+
+## References
+[in work]
+
+### Interspecies Transmission, Adaption & Evolution
+
+#### vanderhoek2012
+Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012).
+**The dominance of human coronavirus OC43 and NL63 infections in infants.**
+Journal of clinical virology: the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. 
+https://doi.org/10.1016/j.jcv.2011.11.011
+
+<!--* ##### han2006-->
+
+
+### Books
+[in work]
+#### Lydyard
+Immunology, Third Edition
+Peter Lydyard, Alex Whelan, Michael Fanger
+
 
 
 ## Appendix
@@ -202,30 +264,16 @@ All form of life on earth share common molecular patterns. The more genetically 
 > Historically biology, chemistry and physics evolved as separate scientific disciplines with the tasks:
 > - Biology: Observing and describing living organisms.
 > - Chemistry: the successor of alchemy (the transmutation of metals from greek al=the and khēmia=transmuting metals). Chemistry is about transmuting and disassembling substances.
-> - Physics: Movements and forces on solid objects. Early handed down descriptions and experiments were done by Archimedes and Galileo. Newton mathematically described the observed planetary motions as the movement of objects rotating around the sun subject to gravity. From that point on physics dealt with distance forces influencing the acceleration of objects. This concept and its extensions (e.g. force fields) turned out to describe many phenomena in nature.
+> - Physics: Movements and forces on solid objects. Early handed down descriptions and experiments were done by Archimedes and Galileo. Newton mathematically described the observed planetary motions as the movement of objects rotating around the sun subject to gravity. From that point on physics dealt with distance forces influencing the acceleration of objects. This approach turned out to describe many phenomena in nature.
 > 
 > Concepts from physics (movements of particles, behavior of waves, forces and related concepts) can be used to model/explain nearly every phenomena observed.
-> The underlying mechanism of chemical reactions can be explained by the behavior of the outer electron shells of atoms. Mostly these underlying mechanisms can be abstracted away however and chemistry describes how atoms react with each other. Molecular biology in turn is the chemistry of molecules only occurring in the context of life forms. The building block of life can be described by molecular biology. Life forms, which are complex constructs huge numbers of these building blocks, show phenomena requiring new concepts for their description and that's a central task of modern biology. So physics, chemistry and biology are all about describing nature but their focus differ.
+> The underlying mechanism of chemical reactions can be explained by the behavior of the outer electron shells of atoms. Mostly these underlying mechanisms can be abstracted away however and chemistry describes how atoms react with each other. Molecular biology in turn is the chemistry of molecules only occurring in the context of life forms. The building block of life can be described by molecular biology. Life forms, which are complex constructs huge numbers of these building blocks, show phenomena that are often best described by abstracting away the building blocks. So physics, chemistry and biology describe different parts of nature.
 > 
 > Physical, chemical and biological are used here as follows:
 > - ##### Physics
->   Physics is about particles and their movements and forces that change these movements
+>   Physics is about the behavior of particles and bodies and how they interact with each other to change their movements and states. The behavior of particle systems (many particles which interact) is often easier/only doable by considering the entity and not single particles.
 > - ###### Chemistry
->   Describes reactions of substances = changes in the electron arrangement of the outer electron shells
+>   *Chemistry* describes reactions of substances. *Chemical reaction* = changes in the electron arrangement of the outer electron shells.
 > - ###### Biology
->   Reactions and participating substances occurring only in the context of [life forms](./coronavirus.md#life-form) on earth. These are complex organic molecules and their reactions.
-
-
-## References
-[in work]
-
-### Interspecies Transmission, Adaption & Evolution
-
-* ##### vanderhoek2012
-    Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012).
-    **The dominance of human coronavirus OC43 and NL63 infections in infants.**
-    Journal of clinical virology: the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. 
-    https://doi.org/10.1016/j.jcv.2011.11.011
-
-<!--* ##### han2006-->
+>   Molecular biology which is essentially the chemistry of life forms: Reactions and participating substances occurring only in the context of [life forms](./coronavirus.md#life-form) on earth. Mostly these are complex organic molecules and their reactions. 'Classical' biology
 
