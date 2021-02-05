@@ -3,7 +3,7 @@
 
 ## Note
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
-* Many parts are __hypothesis__ and __research ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. Some sections are marked as experimental. 
+* Many parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. Some sections are marked as experimental. 
 * This page often conversational and some parts aren't rigorous and just ideas in raw form. 
 * The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely. 
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations: For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
@@ -20,17 +20,19 @@
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
+- 4./5.2. Updated a word of caution regarding vaccines. RNA vaccines are not like protein only vaccines and I consider them as a no go for people below 40 years. 
+- 4./5.2. Corrected mistakes (T Cell Training) and clarifications on the Immune System page.
 - 2.2. How [Movement](./covid19.md#movement) helps to produce a good immune response and helps recovering from Covid on the [Covid-19 page](./covid19.md).
 - 2.2. Many small updates and clarifications across the page. E.g. added the importance of ventilation of stairwells in [large buildings](./controlling.md#large-buildings) on the Controlling page.
 
 > ### A word of Caution regarding Vaccines (28.1.)
 > What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines and vaccination programs are well organized. It increases the safety and life quality for people at risk for severe Covid-19. Regarding vaccine recommendations the known and unknown is important:
 > * What has been shown for the approved vaccines is, that they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects). 
-> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects (both not much a concern for inactivated virus vaccines or other protein based vaccines for other technologies the effects depend on the exact formulation. There's a misconception about RNA vaccines that they are similar to protein only vaccines, they are generally *not* similar). There are open questions how  SARS-CoV-2 infections are changed apart from reducing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution (both point mutations and recombination) and changed pathogenesis are largely unknown/unpublished.
+> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects (both not much a concern for inactivated virus vaccines or other protein based vaccines as long as all the adjuvants are proven to be harmless. For other technologies the effects depend on the exact specifications.). There are open questions how  SARS-CoV-2 infections are changed apart from reducing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution (both point mutations and recombination) and changed pathogenesis are largely unknown/unpublished.
 >  
 > An unbiased discussion is missing since many risks ignored and unknown risks are dismissed as not possible. 
 > In my opinion, for the time being, the vaccines should be used as the evaluation carried out show clear benefits: For seronegative and PCR negative people at the risk of severe Covid. If it turns out, that the benefits outweigh the risks, summer would be a good time to vaccine many/those not at risk. [Argumentation is in work.]
-> Regarding long-term and immune disorders as side effects RNA based vaccines are the most risky in theory. Practically it is nearly impossible to estimate the risks since exact formulations are not published (to my knowledge). Therefore I consider them as a NO GO for people below 40 years of age. 
+> Regarding long-term and immune disorders effects RNA based vaccines are the most risky in theory because RNA can mess around with the depths of molecular life. Practically with few information and experiences published, adverse effects are hard to estimate. Currently I consider them as a NO GO for people below 40 years of age.
 
 
 - 18.1.-23.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page in online work (replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page). 
