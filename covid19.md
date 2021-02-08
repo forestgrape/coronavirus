@@ -11,7 +11,9 @@
 * [Disease Stages](#disease-stages)
 * [Prevention and Treatment](#prevention-and-treatment)
   * [Movement](#movement)
-* [Long Term Effects](#long-term-effects)
+* [Recovery and Long Lasting Effects](#recovery-and-long-lasting-effects)
+  * [Literature Recovery](#literature-recovery)
+  * [Long Lasting Effects](#long-lasting-effects)
 * [Fatality Rate](#fatality-rate)
   * [Comparing Case and Infection Fatality](#comparing-case-and-infection-fatality)
   * [Estimates](#estimates)
@@ -117,7 +119,7 @@ The symptoms of a [virus disease](#virus-disease) are caused:
 2. Indirect symptoms through the induced immune response([Sketching of the Immune System](./immune_system.md).
 
 ### Symptoms at different Locations
-Infection symptoms depend on the infected locations. A Covid-19 infection can be at different [Infection Locations](#infection-locations). Typical symptoms for the different locations are (a similar section is in the chapter [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md), merge in work):
+Infection symptoms depend on the infected locations. SARS-CoV-2 infects different [Locations](#infection-locations). Typical symptoms for the different locations are (a similar section is in the chapter [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md), merge in work):
 
 * Upper Respiratory Tract => Symptoms are similar to other respiratory diseases: a sore throat, coughing and a runny nose. Loss of smell or taste.
 * Throat => Coughing, the body wants to get rid of the viruses in the respiratory tract, virions cleared to the intestine can cause diarrhea.
@@ -128,42 +130,34 @@ Infection symptoms depend on the infected locations. A Covid-19 infection can be
 *  Intestine => Diarrhea can both start early and later on and often outlasts the respiratory infection by days or even weeks.
 
 
-
-
 ## Disease Stages
 [in work]
+
 
 ## Prevention and Treatment
 [in work and incomplete]
 
 ### Movement
+Movement is import for optimal functioning of the immune system. A good working immune system in turn is important regarding the prevention, the treatment and recovering of/from Covid-19. Moderate movement (e.g. a walk) is recommended even when infected, while exercising is only recommended when fit and healthy. 
 
-#### Summary Movement
-Movement is in the early phase of Covid-19 helps to produce a good immune response. In the convalescent phase movement speeds up recovery and reduces the probability of long term effects.
+The benefits of sports founded by biological mechanisms and epidemiological evidence are described on the [Movement page](./movement.md).
 
-> **Moderate movement** (e.g. a walk) and **not** intense exercise is generally recommended. Exercise is adequate in some situations but not in others because of risks such as heart muscles inflammations. Since exercise involves movement, some citations are about exercise but often the findings hold for any form of movement.
+Recommended articles regarding movement and exercise are:
+* [Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.](#zhu) by Zhu
+* [COVID-19: A pandemic that threatens physical and mental health by promoting physical inactivity](#ali) by Ali and Kunugi 
 
-#### Biological Mechanisms
-In the __early phase__ of Covid, movement is important since the circulation in the lymphatic system is mostly passive and driven by body movement. With movement the immune response is better and faster since coronavirus infection 'signatures' reach the lymph nodes faster where capable immune cells are trained. Some of these cells migrate to protect other body location such as the lungs; extern movement makes them migrate faster. With healthy movement, for infections starting in the upper respiratory tract, protective immune cells (mainly T cells) are likely to reach the lungs before the viruses have time to replicate to high numbers.
-In the __convalescent phase__ movement is important since 
-1. Movement helps clearing the lymph and thus remnants of SARS-2 (antigens which can cause inflammation) are removed.
-2. Movement or even careful sport keep the immune system in check and prevent it from overshooting which is likely a major reason for [long covid](#long-term-adverse-effects).
 
-#### Literature on Movement
-* In his readable interview [Zhu](#zhu) asks precise question to Dr Woods on the effects of exercising on virus infections and the immune response.
-* [Ali and Kunugi](#ali) describe several adverse consequences of reduced/no movement.
-* Movement and adequate exercise is recommended in many [recommendations regarding rehabilitation](#references-rehabilitation). 
-* more refs on the way
 
-#### Epidemiological Evidence
-There is epidemiological evidence supporting the above argumentation:
-* Countless athletes have caught Covid infections and despite their health is thoroughly supervised and even a slight performance decrease is noticed in team sports where athletes go back to train as soon as possible - to my knowledge - no long term effects have been observed. Besides having a good health, adequate training likely helped.
-* In situations with strict stay-at-home orders the fatality rate (fatality rates in different locations shown in Table 4 in [Ioannidis](#ioannidis) including rates for those younger than 70) and the rates of severe cases are higher than in situations without stay-at-home orders (isolation rules can be mostly ignored, especially in spring 2020 since the case detection rate was below 5 %). [a more precise argumentation on todo]
-* Important risk factors for severe Covid are well correlated with with few movements/sports e.g. obesity, arteriosclerosis and diabetes. Since behavior patters are often stable, it is possible that too few movement/sports is partly a confounding cause for the named risk factors.
+## Recovery and Long Lasting Effects
+[to be done]
+Over 90 % of people are adverse effects free a couple of weeks after a SARS-CoV-2 infection. For good health and especially in Covid-19 times a healthy lifestyle with [movement](#movement) helps. 
+For some people a healthy life-style is not enough to recover from Covid-19. 
 
-To support good health and Covid prognosis the [isolation and quarantine rules](./controlling.md#covid-19-cases-and-quarantine)) should take this into account.
+### Literature Recovery
+* A recommended read is [Long COVID: A Primer for Family Physicians](#greenhalgh-nov2020) by Greenhalgh and Knight
+* More detailed reads are [Management of post-acute covid-19 in primary care](#greenhalgh-aug2020) by Greenhalgh et al and [The Stanford Hall consensus statement for post-COVID-19 rehabilitation](#barker-davies) by Barker-Davies et al
 
-## Long Term Effects
+### Long Lasting Effects
 Sometime long lasting symptoms such as fatigue and decreased physical fitness can occur, called long Covid/long-haulers. Tissues damage which needs some time to repair can be a cause ([Marshall](#marshall)). Another cause for long covid can be that immune system overshoots. To prevent the latter moderate [movement](#movement) can help.
 
 ## Fatality Rate
@@ -231,7 +225,6 @@ Trisha Greenhalgh, Matthew Knight, Christine A’Court, Maria Buxton, Laiba Husa
 BMJ 2020;370:m3026 [http://dx.doi.org/10.1136/bmj.m3026]()
 [in work]
 
-
 #### Barker-Davies
 **The Stanford Hall consensus statement for post-COVID-19 rehabilitation**
 Barker-Davies RM, O’Sullivan O, Senaratne KPP, et al. Br J Sports Med 2020;54:949–959.
@@ -255,5 +248,5 @@ Zhu W. **Should, and how can, exercise be done during a coronavirus outbreak? An
 
 ## Appendix
 > #### Personal Covid Experience
-> I likely had Covid-19 myself in early to mid March 2020 when temperatures were freezing cold in my living place at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly -  2) the supposed low prior probability according to the official prevalence and 3) because I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon these initial symptoms faded and I felt fit again. I went on doing some sport session. The sport session went well by itself, but it turned out to have been a bad idea: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
+> I likely had Covid-19 myself in early to mid March 2020 when temperatures were freezing cold in my living place at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly; 2) the supposed low prior probability according to the official prevalence and 3) I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon the initial symptoms faded and I felt fit again. I went for some cross country skiing and much more intense than planned since three quarters were through deep snow. The sport session went well by itself, but it turned out to have been a bad idea: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
 > Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. But it then reacted timely: Less than twelve hours after the likely infection event (someone repeatedly coughing about 4 meters away in the same room - I wrongly assumed a negative test - and I was there for one or two hours) the initial strange feeling started.
