@@ -20,19 +20,21 @@
 ## Updates
 All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
-- 4./5.2. Updated a word of caution regarding vaccines. RNA vaccines are not like protein only vaccines and I consider them as a no go for people below 40 years. 
-- 4./5.2. Corrected mistakes (T Cell Training) and clarifications on the Immune System page.
+
+- 7.2./8.2. Benefits of movement moved to own page [Movement](./movement.md) extension and a better foundation in work.
+- 4.2./8.2. Formulations and clarifications across the page. E.g. Updated a word of caution regarding vaccines. Special caution is needed for RNA vaccines.
+- 4.2/8.2. Corrected mistakes (T Cell Training) and clarifications on the [Immune System page](./immune_system.md).
 - 2.2. How [Movement](./covid19.md#movement) helps to produce a good immune response and helps recovering from Covid on the [Covid-19 page](./covid19.md).
 - 2.2. Many small updates and clarifications across the page. E.g. added the importance of ventilation of stairwells in [large buildings](./controlling.md#large-buildings) on the Controlling page.
 
-> ### A word of Caution regarding Vaccines (28.1.)
+> ### A word of Caution regarding Vaccines (28.1., last updates 8.2.)
 > What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines and vaccination programs are well organized. It increases the safety and life quality for people at risk for severe Covid-19. Regarding vaccine recommendations the known and unknown is important:
 > * What has been shown for the approved vaccines is, that they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects). 
-> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects (both not much a concern for inactivated virus vaccines or other protein based vaccines as long as all the adjuvants are proven to be harmless. For other technologies the effects depend on the exact specifications.). There are open questions how  SARS-CoV-2 infections are changed apart from reducing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution (both point mutations and recombination) and changed pathogenesis are largely unknown/unpublished.
+> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects (both not much a concern for inactivated virus vaccines or other protein based vaccines as long as the adjuvants are harmless. For other technologies the effects depend on the exact specifications. RNA vaccines are __not__ protein only; RNA vaccines do produce proteins and induce antibodies against these proteins but thereby they mess around with the (not well understood) depths of eukaryotic life, which can be risky especially for the young. There are open questions how  SARS-CoV-2 infections are changed apart from reducing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution (both point mutations and recombination) and changed pathogenesis are mostly unknown/not investigated/unpublished.
 >  
 > An unbiased discussion is missing since many risks ignored and unknown risks are dismissed as not possible. 
-> In my opinion, for the time being, the vaccines should be used as the evaluation carried out show clear benefits: For seronegative and PCR negative people at the risk of severe Covid. If it turns out, that the benefits outweigh the risks, summer would be a good time to vaccine many/those not at risk. [Argumentation is in work.]
-> Regarding long-term and immune disorders effects RNA based vaccines are the most risky in theory because RNA can mess around with the depths of molecular life. Practically with few information and experiences published, adverse effects are hard to estimate. Currently I consider them as a NO GO for people below 40 years of age.
+> In my opinion, for the time being, the vaccines should be used as the evaluation carried out show clear benefits: For seronegative and PCR negative people at high risk for severe Covid. If it turns out, that the benefits outweigh the risks, summer would be a good time to vaccine many/those not at risk. 
+> [Argumentation coming soon.]
 
 
 - 18.1.-23.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page in online work (replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page). 
