@@ -325,7 +325,7 @@ Getting matched to an infectable cell involves the following steps (steps in [..
 - [reach a tissue]
 - reach an infectable cell
 
-Each step has a success rate of at most a few percents, so the combined probability of reaching a target can be very low. 
+Each step has usually a low success rate. So the combined probability of reaching a target tends to be very small. 
 
 The probability to reach a *next* exploitable host, is especially low, due to many traps and hostile environment:
 * get attached to a wrong thing. High probability due to the random movement and usually the surface of non targets is fare greater than the target surface. Except confined indoor settings, in this case the surface of the combined lungs is the greatest surface - greater than the surface of all the walls.  
