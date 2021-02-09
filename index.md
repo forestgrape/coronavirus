@@ -18,12 +18,13 @@
 ---
 
 ## Updates
-All updates regarding the current Covid Situation here. Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
+All updates regarding the current Covid Situation here. 
+Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
 
-- 7.2./8.2. Benefits of movement moved to own page [Movement](./movement.md) extension and a better foundation in work.
-- 4.2./8.2. Formulations and clarifications across the page. E.g. Updated a word of caution regarding vaccines. Special caution is needed for RNA vaccines.
-- 4.2/8.2. Corrected mistakes (T Cell Training) and clarifications on the [Immune System page](./immune_system.md).
+- 9.2. (7.2. commits) Benefits of movement moved to own page [Movement](./movement.md) extension and a better foundation in work.
+- 9.2. (4.2. commits) Formulations and clarifications across the page. E.g. Updated a word of caution regarding vaccines. Special caution is needed for RNA vaccines.
+- 9.2. (4.2. commits) Corrected mistakes (T Cell Training) and clarifications on the [Immune System page](./immune_system.md).
 - 2.2. How [Movement](./covid19.md#movement) helps to produce a good immune response and helps recovering from Covid on the [Covid-19 page](./covid19.md).
 - 2.2. Many small updates and clarifications across the page. E.g. added the importance of ventilation of stairwells in [large buildings](./controlling.md#large-buildings) on the Controlling page.
 
