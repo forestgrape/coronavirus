@@ -119,7 +119,9 @@ The symptoms of a [virus disease](#virus-disease) are caused:
 2. Indirect symptoms through the induced immune response([Sketching of the Immune System](./immune_system.md).
 
 ### Symptoms at different Locations
-Infection symptoms depend on the infected locations. SARS-CoV-2 infects different [Locations](#infection-locations). Typical symptoms for the different locations are (a similar section is in the chapter [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md), merge in work):
+Infection symptoms depend on the infected locations. SARS-CoV-2 infects different [Locations](#infection-locations). Typical symptoms for the different locations are: 
+
+> A similar section is in the chapter [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md), a merge is planned. 
 
 * Upper Respiratory Tract => Symptoms are similar to other respiratory diseases: a sore throat, coughing and a runny nose. Loss of smell or taste.
 * Throat => Coughing, the body wants to get rid of the viruses in the respiratory tract, virions cleared to the intestine can cause diarrhea.
@@ -150,8 +152,9 @@ Recommended articles regarding movement and exercise are:
 
 ## Recovery and Long Lasting Effects
 [to be done]
-Over 90 % of people are adverse effects free a couple of weeks after a SARS-CoV-2 infection. For good health and especially in Covid-19 times a healthy lifestyle with [movement](#movement) helps. 
-For some people a healthy life-style is not enough to recover from Covid-19. 
+Over 90 % of people are adverse effects free a couple of weeks after a SARS-CoV-2 infection. Regarding athletes, countless have been diagnosed with Covid-19: Many of them competed in professional sports just a few weeks later and - to my knowledge - long-term adverse effects haven't been observed for any athlete. Athletes often have good fitness, do regular exercise and eat healthily . A healthy lifestyle including [movement](#movement) helps everybody to be in good health.
+
+Nevertheless for some people a healthy life-style is not enough and some experience [long lasting effects](#long-lasting-effects). How to better recover in [Literature Recovery](#literature-recovery).
 
 ### Literature Recovery
 * A recommended read is [Long COVID: A Primer for Family Physicians](#greenhalgh-nov2020) by Greenhalgh and Knight
@@ -161,7 +164,6 @@ For some people a healthy life-style is not enough to recover from Covid-19.
 Sometime long lasting symptoms such as fatigue and decreased physical fitness can occur, called long Covid/long-haulers. Tissues damage which needs some time to repair can be a cause ([Marshall](#marshall)). Another cause for long covid can be that immune system overshoots. To prevent the latter moderate [movement](#movement) can help.
 
 ## Fatality Rate
-[in work]
 
 > ###### Infection Fatality Rate
 > The *infection fatality rate/death rate* denotes the ratio of the people who die from the infection to all people overcoming the infection. 
