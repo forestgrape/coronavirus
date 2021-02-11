@@ -15,8 +15,10 @@
   * [T Cells](#t-cells)
 * [Protection Locations](#protection-locations)
 * [Adaption of the Immune System](#adaption-of-the-immune-system)
-  * [Redistribution of](#redistribution-of)
-* [Immune System Specificity](#immune-system-specificity)
+  * [Redistribution of Immune Cells](#redistribution-of-immune-cells)
+* [Immune System Targeting](#immune-system-targeting)
+  * [Immune System Specificity](#immune-system-specificity)
+  * [Innate Immune System](#innate-immune-system)
   * [Trained Immune System](#trained-immune-system)
 * [Cross Immune Protections](#cross-immune-protections)
   * [Cross Protections Observed](#cross-protections-observed)
@@ -78,7 +80,7 @@ Self checks of the cells: inside the cells there are various systems to keep to 
 * Detect stress e.g. Ribosome permanently producing. 
 
 #### Extern-checks
-Cells present what they produce on the outside: T cells inspect these substances and can induce cell death or ring the bells. In fighting coronaviruses T cells play a key role [citations in work].
+Cells present what they produce on the outside: Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells. 
 
 
 ## Immune System Mechanisms
@@ -108,11 +110,20 @@ Recognizing biological substances as unwanted and eliminate them. Unlike chemica
 * T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism e.g. produce virions, which can be [detected by T cells](#extern-checks).
 * To control coronaviruses infections T cells are key [citation coming].
 
+> ###### Resident T cell
 > ###### Local T cell
-> *Tissue resident T cells* in literature, called *local T cells* on this page, are T cells which survey the tissues cells integrity. They move within tissues and and do not circulate with the blood.
+> *Tissue resident T cells* in literature, often shortened to *resident T cells* on this page, are T cells which survey the tissues cells integrity. They move within tissues and and do not circulate with the blood. //previously shortened here as *local* T cells
 
 #### Distribution
-Local T cells are located often at entry points for pathogens. E.g. the mouth is a common entry point for viruses, so in the mouth there are many local T cells [to check and cite].
+T cells are in the blood, in lymph nodes and resident T cells in tissues. Lymph nodes and tissue resident T cells are often at entry points for pathogens e.g. the mouth is a common entry point for viruses, so close to the mouth there are many T cells [in work].
+
+##### T Cell Training
+[in work, to be completed and to be checked]
+1. In the __bone marrow__ continuously new immune cell arise from stem cells. A certain class of immune cells with different binding capabilities moves to the thymus and these are called Thymus cell (T cells). 
+2. In the __thymus__ it is checked if the selected cell bind to self substances:
+   * If the cell binds self substances => harmful since the own body is attacked => trigger cell death (if these goes wrong an autoimmune disease can result)
+   * If the cell does *not* bind self => The cell is not attack self and thus not harmful => send the cell to the lymph nodes. 
+3. In the __lymph nodes__ the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful. 
 
 ## Protection Locations
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
@@ -125,33 +136,47 @@ The entire immune system adapts the way and strength of protection provided at e
 * lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#variable-immune-system))
 * generational adaption: personal and ancestral exposures are memorized and cause both the innate and adaptable immune system to adapt
 
-### Redistribution of 
+### Redistribution of Immune Cells
+[in work]
 
 
-## Immune System Specificity
+## Immune System Targeting
+
+### Immune System Specificity
 [in work]
 There are many degrees of specificity, the following categories are just a coarse approximation.
 
-* broad e.g.:  
-    - skin: keep everything out
-    - neutrophil granulocytes: local shutdown of all forms of life
-* semi specific e.g.:
-    - intracellular processes from eukaryotes targeting single stranded DNA
-    - membranes: only permeable for specific substances
-* specific:     
-    Some of the biological immune mechanisms are specific
-    - constant targeting throughout lifetime (can be stored in [lifetime storage])
-        * RNA pieces silencing mRNAs / other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
-    - variable targeting throughout lifetime: [Trained Immune System](#trained-immune-system)
+#### Unspecific
+Examples  
+- skin: keep everything out
+- some immune cells such as neutrophil granulocytes: local shutdown of all living things
+- stomach acid
+
+#### Semi Specific
+Examples
+- Receptors from double stranded DNA based lifeforms targeting single stranded DNA
+- Membranes (e.g. Cell membranes, nucleus membrane, blood brain barrier): only permeable for specific substances
+
+#### Highly Specific  
+Examples
+* RNA pieces silencing mRNAs / other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
+* Antibodies target specific biological substances (mostly proteins). Antibodies are an example of the[Trained Immune System](#trained-immune-system). 
+
         
+### Innate Immune System
+[in work] The targets don't vary throughout the lifespan of a life form and the information is usually stored in [lifetime storage])
+
 ### Trained Immune System
-Some parts of the immune system is able to vary is targets throughout lifetime. 
-> ###### Allergy
-> Sometimes proteins parts not associated to pathogens are classified as being harmful. This yields allergies. 
+Some parts of the immune system are able to vary the targets throughout a lifespan of a life form.
+
 
 #### Examples
 * Antibodies: bind to specific proteins and thereby inactivate or mark them
-* Trained T cells
+* Trained T cells ([T cell Training](#t-cell-training))
+
+> ###### Allergy
+> Sometimes proteins parts not associated to pathogens are classified as being harmful. This yields allergies. 
+
 
 #### Mechanisms to Produce Different Binding Capabilities
 One mechanisms to produce different cells able to bind to different substances is, that the binding parts of these cell are randomized i.e. the genes coding these binding parts are generated by a process which produces random sequences. Now the immune system needs to check that: 
@@ -160,13 +185,7 @@ One mechanisms to produce different cells able to bind to different substances i
 
 Checking these conditions is called training. 
 
-##### How Training works
-[in work, to be completed and to be checked]
-1. In the __bone marrow__ continuously new immune cell arise from stem cells. A certain class of immune cells with different binding capabilities moves to the thymus and these are called Thymus cell (T cells). 
-2. In the __thymus__ it is checked if the selected cell bind to self substances:
-   * If the cell binds self substances => harmful since the own body is attacked => trigger cell death (if these goes wrong an autoimmune disease can result)
-   * If the cell does *not* bind self => The cell is not attack self and thus not harmful => send the cell to the lymph nodes. 
-3. In the __lymph nodes__ the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful. 
+ 
 
 <!--
 3. Unwanted things or things reaching end of life are disassembled (e.g. SARS-Cov-2 infected cells usually die)
@@ -219,18 +238,21 @@ Phagocyte <- exploit phagocytosis by infecting the cell
 - SARS-2 can replicate in macrophages
 - In most immune cells no replication takes place (e.g. T cells) since cell death is induced. But by cell death the immune cell is still knocked out.
  
-#### Overcome Antibodies
-[in work]
-For coronaviruses waiting until antibody based immunity wanes or even jumping generations is often not an option, thus circumventing antibodies is an essential skill. Coronaviruses have a variety of mechanisms to circumvent antibodies. However circumventing antibodies is oft not free for coronaviruses, so antibodies slow down coronaviruses and the immune system has more time.
-- Mutations
-- Shields
-  - glycan shields
+#### Overcome Acquired Immunity
+[in work, citations coming]
+For coronaviruses waiting until acquired wanes or even jumping generations is usually not an option, thus circumventing acquired immunity is an essential skill. 
+
+##### Overcoming Antibodies Targeting Virions
+Coronaviruses have a variety of mechanisms to circumvent neutralizing antibodies. However circumventing neutralizing antibodies is not free for coronaviruses, so antibodies slow down them and the immune system has more time.
+- Mutate
+- Shield
+  - glycans on the outside
   - variable regions on the outside which mutate with high frequency
-- Masking
+- Mask
   - sensitive regions e.g. receptor binding domains are shielded until primed
-  - different priming steps in different locations in the hosts enabling intrahost spread
-- Exploitation
-  Exploiting antibody induced phagocytosis
+  - different priming steps in different locations in the hosts enabling intra-host spread
+- Exploit
+  Exploiting antibody induced phagocytosis by infecting the phagocyte cell
 
 
 
@@ -251,6 +273,7 @@ https://doi.org/10.1016/j.jcv.2011.11.011
 
 ### Books
 [in work]
+
 #### Lydyard
 Immunology, Third Edition
 Peter Lydyard, Alex Whelan, Michael Fanger
