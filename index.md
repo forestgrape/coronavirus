@@ -36,7 +36,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 >  
 > An unbiased discussion is missing since many risks ignored and unknown risks are dismissed as not possible. 
 > In my opinion, for the time being, the vaccines should be used as the limited evaluations published show clear benefits: For seronegative and PCR negative people at risk for severe Covid. If it turns out, that the benefits outweigh the risks, summer would be a good time to vaccine many/those not at risk. 
-> [Argumentation coming soon.]
+> [Argumentation in advanced work.]
 
 
 - 18.1.-23.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page in online work (replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page). 
