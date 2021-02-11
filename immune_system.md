@@ -119,11 +119,11 @@ T cells are in the blood, in lymph nodes and resident T cells in tissues. Lymph 
 
 ##### T Cell Training
 [in work, to be completed and to be checked]
-1. In the __bone marrow__ continuously new immune cell arise from stem cells. A certain class of immune cells with different binding capabilities moves to the thymus and these are called Thymus cell (T cells). 
-2. In the __thymus__ it is checked if the selected cell bind to self substances:
-   * If the cell binds self substances => harmful since the own body is attacked => trigger cell death (if these goes wrong an autoimmune disease can result)
-   * If the cell does *not* bind self => The cell is not attack self and thus not harmful => send the cell to the lymph nodes. 
-3. In the __lymph nodes__ the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful. 
+1. In the __bone marrow__ continuously new immune cell arise from stem cells. Some differentiation occurs. A certain class of immune cells moves to the thymus. 
+2. In the __thymus__ it is checked if the cells have the right binding capabilities: Binding MHC neither to weak nor to strong. Don't attack self substances. 
+   * Fail (wrong MHC binding strength or self substances attacked) => trigger cell death (if goes wrong, an autoimmune disease can result)
+   * Succeed (right MHC binding strength If the cell does *not* bind self) => send the cell to the lymph nodes. 
+3. In the __lymph nodes__ the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful.
 
 ## Protection Locations
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
