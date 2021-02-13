@@ -10,7 +10,7 @@
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 
 > ###### Definitions
-> *Definitions* are written like this and are valid throughout this page. Sometimes only throughout this page. However redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
+> *Definitions* are written like this and are valid throughout this page, sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
 > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content. 
 
