@@ -28,7 +28,7 @@ The only protein well accessible for coronavirus virions is the spike protein, s
   - glycans on the outside
   - variable regions on the outside which mutate/recombine often
 - Mask
-  - sensitive regions e.g. receptor binding domains are shielded until [primed]
+  - sensitive regions e.g. receptor binding domains are shielded until [primed](./coronavirus.md#virion-activation). 
   - different priming steps in different locations in the hosts enabling intra-host spread
 - Exploit
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)

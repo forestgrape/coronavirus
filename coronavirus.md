@@ -407,7 +407,7 @@ The infectable cell can be:
 Coronaviruses virions usually need to be activated before they bind to cell or initiate cell fusion. Since:
 * The spike are like springs and have stored energy by which a coronavirus virion can induce cell fusion but without metabolism virions can't reload the spikes. 
 * For successful infection it is important that the virions infect useful cells. 
-* The targeting cell is ideally not next to the originating cell because this would make it easy for the immune system to fight coronaviruses.
+* The targeting cell is ideally a little away from the originating cell to make targeting for the immune system more difficult.
 
 The spikes proteins are the only part by which coronavirus virions interact with the environment, so the spike need to be activated i.e. each activation step sets a spike to a different state. 
 
