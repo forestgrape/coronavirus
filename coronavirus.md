@@ -38,7 +38,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 * [References](#references)
   * [RNA Viruses](#rna-viruses)
   * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
-  * [Cell Entry](#cell-entry)
+  * [References Cell Entry](#references-cell-entry)
   * [Expression Locations of ACE2](#expression-locations-of-ace2)
 
 
@@ -398,6 +398,21 @@ The infectable cell can be:
 * in the same tissue| another tissue
 * of the same cell type| another cell type
 
+#### Virion Activation
+
+> ##### From Plant Seeds to Virions
+> Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells. Coronaviruses evolved to check biological conditions: receptors on cell membranes and proteases available in the environment around the cell.
+
+
+Coronaviruses virions usually need to be activated before they bind to cell or initiate cell fusion. Since:
+* The spike are like springs and have stored energy by which a coronavirus virion can induce cell fusion but without metabolism virions can't reload the spikes. 
+* For successful infection it is important that the virions infect useful cells. 
+* The targeting cell is ideally not next to the originating cell because this would make it easy for the immune system to fight coronaviruses.
+
+The spikes proteins are the only part by which coronavirus virions interact with the environment, so the spike need to be activated i.e. each activation step sets a spike to a different state. 
+
+> ##### Spike Priming
+> *Spike priming* means the spike is set to a state ready for the next step in the [cell entry process](#cell-entry). 
 
 #### Cell Entry
 - the virus gets attached to the matching receptor on the target cell mostly via the spike protein
@@ -462,12 +477,12 @@ The general concepts are outlined in the section [tropism of viruses](#tropism-o
 
 
 ### Tropism Virion Phase
-Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells, therefore viruses evolved to check biological conditions: receptors on cell membranes and proteases available in the environment around the cell. 
 
-#### Virion Attachment and Activation Factors
-* Environment around the cell
+As described in the section [virion activation](#virion-activation) the virions need to be activated. The activation factors determine the tropism of virions:
+
+* Environment around the Cell
     - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
-* matching receptor
+* Matching Receptor on the target cell surface
 
 
 ### Metabolic Phase Tropism
@@ -489,12 +504,12 @@ Plant seeds evolved first to travel and then to be activated under favorable con
 The cell tropism is the combination of the [virion tropism](#tropism-virion-phase) which determines cell entry and the [tropism in the metabolic phase](#tropism-metabolic-phase) which determines the changes in the cells metabolism induced upon viral entry. 
 
 Viruses optimized to their environment often infect only cells involved in the survival of the virus strain:
-* cell used as entry point. For coronaviruses these are often cells on the apical epithelial layer of respiratory tract. 
-* cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. Often these are secretory or ciliated cells in the respiratory tract.
-* cells relevant to leave a host. 
+* Cells used as entry point. For coronaviruses these are often cells on the apical epithelial layer of respiratory tract. 
+* Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. Often these are secretory or ciliated cells in the respiratory tract.
+* Cells relevant to leave a host. 
     - Often these are cells in the intestine or the kidney. 
     - For indoor living hosts these are often in the upper respiratory tract. 
-* cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis. 
+* Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis. 
 
 
 
@@ -516,7 +531,7 @@ The task determine to habitat of Sars-CoV-2 can be tackled either
 ### Theoretical Deduction
 In the following the [tissue tropism](#tissue-tropism) of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question. 
 
-#### Cell Entry
+#### SARS-2 Cell Entry
 [in rework/reorder]
 The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
 
@@ -533,7 +548,7 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 > Even if the virions can't attach to a cell and/or induce cell entry, phagocytosis can be induced by the cell alone:  e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
 #### Orientation Matters 
-*  The transmission pathways (mostly airborne and vectorless) yield an initial deposition of the virions on the apical side together with the barrier function of the apical cell layer the virions have  
+*  The transmission pathways (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the apical cell layer the virions have  
 * In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
 #### ACE2 Receptor Detection
@@ -548,9 +563,9 @@ There are two common methods to measure tissue distribution of proteins:
 For serving as an entry point, ACE2 needs to be built into the cell membrane as a receptor i.e. being useable from the outside. If _both_ of above methods are positive, this is very likely [antibody staining is likely enough, to check]. Since coronaviruses have a preference for [apical tissue sites](#tissue-tropism) ACE2 should be expressed on the apical sites. 
 * [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
 * [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
-    - stay in the cell i.e. in cytoplasm or more into the nucleus
+    - stay in the cell e.g. in the cytoplasm or move into the nucleus
     - be released from the cell
-    - being built into the cell membrane as a receptor on any site and not necessarily the required apical site. 
+    - being built into the cell membrane on the basal side or on the apical side as a receptor <= needed by coronaviruses. 
 
 #### ACE2 Receptor Distribution
 [**incomplete and in rework**]
@@ -706,7 +721,7 @@ Examples of well conserved proteins for coronaviruses are:
     LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
     **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054 
 
-### Cell Entry
+### References Cell Entry
 
 * ##### jiang
 	Keiji Kuba , Yumiko Imai, Shuan Rao, Hong Gao, Feng Guo, Bin Guan, Yi Huan, Peng Yang,
