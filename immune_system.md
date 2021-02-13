@@ -22,10 +22,6 @@
   * [Trained Immune System](#trained-immune-system)
 * [Cross Immune Protections](#cross-immune-protections)
   * [Cross Protections Observed](#cross-protections-observed)
-* [How SARS-2 Overcomes Immune Obstacles](#how-sars-2-overcomes-immune-obstacles)
-  * [Overcome Physical Barriers](#overcome-physical-barriers)
-  * [Overcome Chemical Barriers](#overcome-chemical-barriers)
-  * [Overcome Biological Barriers](#overcome-biological-barriers)
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
   * [Books](#books)
@@ -218,41 +214,6 @@ All form of life on earth share common molecular patterns. The more genetically 
     - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
     - NL63 -protects-> 229E (only unidirectional)
 * [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](./coronavirus.md#observed-interspecies-infections).
-
-
-## How SARS-2 Overcomes Immune Obstacles
-
-### Overcome Physical Barriers
-- skin <- circumvented by coronaviruses by entering via breathing
-- mucus <- less mucus in the lungs and nasal cavity
-- cell membranes <- bind to receptor and fuse membranes with spikes
-
-### Overcome Chemical Barriers
-- stomach acid <- circumvented by coronaviruses 
-  - replicate to high numbers in the lungs and pass through the very thin alveolar epithel layer to the blood
-  - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
-
-### Overcome Biological Barriers
-#### Overcome Phagocytosis
-Phagocyte <- exploit phagocytosis by infecting the cell
-- SARS-2 can replicate in macrophages
-- In most immune cells no replication takes place (e.g. T cells) since cell death is induced. But by cell death the immune cell is still knocked out.
- 
-#### Overcome Acquired Immunity
-[in work, citations coming]
-For coronaviruses waiting until acquired wanes or even jumping generations is usually not an option, thus circumventing acquired immunity is an essential skill. 
-
-##### Overcoming Antibodies Targeting Virions
-Coronaviruses have a variety of mechanisms to circumvent neutralizing antibodies. However circumventing neutralizing antibodies is not free for coronaviruses, so antibodies slow down them and the immune system has more time.
-- Mutate
-- Shield
-  - glycans on the outside
-  - variable regions on the outside which mutate with high frequency
-- Mask
-  - sensitive regions e.g. receptor binding domains are shielded until primed
-  - different priming steps in different locations in the hosts enabling intra-host spread
-- Exploit
-  Exploiting antibody induced phagocytosis by infecting the phagocyte cell
 
 
 
