@@ -179,7 +179,7 @@ One mechanisms to produce different cells able to bind to different substances i
 1. these randomized binding sites don't bind to something useful e.g. healthy cells belonging from the same organism (self).
 2. these randomized binding sites are useful i.e. they bind to something harmful. 
 
-Checking these conditions is called training. 
+Checking these conditions is called training (described for T cells in [T Cell Training](#t-cell-training)).  
 
  
 
