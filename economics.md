@@ -277,7 +277,7 @@ More fairness for choosing job/work options.
 ## Appendix
 
 ### Temporarily Hidden Off Topic Thoughts
-> The section here is temporarily commented out -  related but off topic thoughts on aspects of group related *economic* fairness (economics and to some extent education was considered but *not* other topics). I'd like to think more and invest more time to consider all possible view points and experiences - some are missing - , but for the moment the focus here is on coronaviruses. The drafts are still accessible  as comment on the markdown file or in the github history. I plan to rethink the subjective thoughts in spring 2021. Feedback is appreciated.
+> The section here is temporarily commented out -  related but off topic thoughts on aspects of group related *economic* fairness (economics and to some extent education is considered but *not* other topics). I'd like to think more and invest more time to consider more view points and experiences, but for the moment the focus here is on coronaviruses. The drafts are still accessible  as comment on the markdown file or in the github history. Rethinking is planned for spring 2021. Feedback is appreciated.
 
 
 <!--
@@ -293,7 +293,7 @@ Temporarily partitioning the society into groups can help to discover unfairness
 #### Situations to Improve
 In many parts of todays world:
 * The opportunities children will have in their future life depend largely on the wealth and social status of their parents. Especially in countries where high quality education is difficult to access => universal access to high quality education at different stages of the life. Often the switches are set early in life, there ideally there are chances at different stages throughout the life.
-* The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Flexible work-schemes, agile economies & highlighting the benefits of different backgrounds and experiences; e.g. when providing services or goods for the society (groups) it is beneficial to have people with experiences reflecting the society (groups).
+* The opportunities in the economic life depend to a large extent on streamlined CVs from well known institutions (e.g. companies, universities) and available capital. Especially in countries where the economy is dominated by large conventional companies => Flexible work-schemes, agile economies & highlighting the benefits of different backgrounds and experiences; e.g. when providing services or goods for the society/groups it is beneficial to have people with experiences reflecting the customers (society/groups).
   
   > When having children, traditionally women prioritize education and men prioritize work. I think both should be able to set a high priority on education (priority is often not the same as time spent). The economy should be designed such that work goes well along the prioritized education. Education is team work and alternating or smooth switching likely work to my guessing - but I don't know really. Of course other options should work well too: one parent focus on education or both focus on work. For all options flexible work schemes and good extern child care are advantageous - there are always times children call and times work calls. 
   
