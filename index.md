@@ -5,7 +5,7 @@
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](#https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](#https://forestgrape.github.io/coronavirus)
 * Many parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. Some sections are marked as experimental. 
 * This page often conversational and some parts aren't rigorous and just ideas in raw form. 
-* The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely. 
+* The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations: For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 
@@ -129,30 +129,30 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Covid-19](./covid19.md)
     The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
-* [Thoughts about Controlling Sars-CoV-2](./control_measures.md#content)
-    Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife. 
+* [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) How to diagnose Covid with a focus on methods detecting parts of viruses (virus RNA with PCR or virus proteins with antigen test) at different locations (e.g. in the nose, mouth, lungs).
+* [Thoughts about Controlling Sars-CoV-2](./controlling.md)
+    Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
 * [Monitoring](./monitoring.md#content)
-  About testing, monitoring and gathering and publishing data.
+    About testing, monitoring, gathering and publishing data.
 * [Coronaviruses with a Focus on Sars-CoV-2](./coronavirus.md#top)
     Various aspects of coronaviruses are described with a focus on understanding. 
     - The starting point are first principles: life forms on earth. 
     - Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. 
     - We then look at coronaviruses with a focus on SARS-CoV-2.
-
 * [Immune System](./immune_system.md#immune-system)
-  Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
-
+  Selected topics of the immune protection with a focus protection versus coronaviruses are discussed.
+  * [Movement](./movement.md) How movement helps to get a better immune reaction upon a Covid infection and to recover faster and better.
+  * [Immune Evasion](./immune_evasion.md) How coronaviruses circumvent immune system obstacles.
 * [Ideas to Explore](#ideas-to-explore)
     - [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
         The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
     - [Infection Tropism and Disease Patterns](./ideas_to_explore/coronavirus_disease_patterns.md)
-    - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#litvac2)
-    - [Prevent Early On Mucus Accumulations](#early-vents) <br>
+    - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs)
+    - [Prevent Early On Mucus Accumulations](#early-on-prevent-mucus-accumulations)
     Humidify inhaled air early on to increase the mucus flow and thereby the overall prognosis.
-    - [Data Availability](#data) Public availability of well specified and raw/fine-grained data.
-* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md#transmission-models)
-    Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible. 
-    - A recap of airborne transmission, 
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./transmission.md)
+    Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible.
+    - A summary of airborne transmission, 
     - Proposal of a new dry from transmission model,
     - describe how particles behave in the respiratory tract,
     - analyse spread pattern of Covid-19 which indicate aerosol transmission
