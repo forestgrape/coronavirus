@@ -40,12 +40,13 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 > [Argumentation in advanced work.]
 
 
-- 18.1.-23.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) page in online work (replacing the sections 'Viral Load' and 'Diagnosis' on the Covid19 page). 
-  - 22./23.1. Experiences from HongKong (Summary [Wong](./diagnosis_and_viral_load.md#summary-wong)) and an investigation from Dubai [Summary Senok](./diagnosis_and_viral_load.md#summary-senok) for saliva based diagnosis in the [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) chapter.
+- 22.12.-23.1. [Diagnosis and Viral Load](./diagnosis_and_viral_load.md) (before 18.1. on the Covid19 page). 
   - Repeated morning saliva and sputum have a reliable viral load which predicts the disease progression. 
   - Nose swabs have a detection rate of about 60% and the viral load does not predict disease progression.
+  -  Experiences from HongKong (Summary [Wong](./diagnosis_and_viral_load.md#summary-wong)) and an investigation from Dubai [Summary Senok](./diagnosis_and_viral_load.md#summary-senok).
+  
 - 17.1. Improvements and clarifications across the page. Respelled Salvia to Saliva. 
-- 22.12. [Covid-19](./covid19.md) redone. ~~New sections about Diagnosis and Viral Load in online work - these sections show that saliva has a similar sensitivity as nose samples to diagnose Covid-19.~~ moved see 17.1.21
+- 22.12. [Covid-19](./covid19.md) redone. New sections about Diagnosis and Viral Load in online work - saliva has a similar sensitivity as nose samples. moved see 17.1.21
 - 30.11. [Corona Conform Skiing](./controlling.md#corona-conform-skiing) on the page [Controlling](./controlling.md)
     > Motivated by current discussions and recent personal experience. 
 - 24.11. New Page on [Economics](./economics.md): The proposal is to provide universal capital services (e.g. credits) instead of providing targeted support in different situations/crisis (e.g. the current Covid situation). Goals are:
@@ -57,20 +58,19 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
   - [Infector Distribution](./spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong.
   - Section on [Pre-symptomatic Infectors](./spread_analyses.md#pre-symptomatic-infectors) in work
 - 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](./monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers and not estimates.
-    > Mainly I was shocked by the very steep increase of deaths and still am [analyses in work]. 
-    > Even though I spent/d a lot of time learning to analyse. 
+    > Mainly I was shocked by the very steep increase of deaths and still am [analyses in work]. Even though I spent/d a lot of time learning to analyse. 
 - 5./6.11. Updates in [Spread Analyses](./spread_analyses.md) in online work:
     * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas.
       > Not proven yet but evidence strong enough that risk regions should **stop allowing large scale events** even with protection measures. As of 4./5.11. there still seem to be football matches with many thousand spectators.
     * Sections about observed spreading events in food production factories and airplanes.
 - 1.11. [Strategy](./controlling.md#strategy) and [On Numbers](./monitoring.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago.
-- 28.10. (only summaries available) Early results from [Spread Analyses](./spread_analyses.md) show that Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
-    > During the summer droplet transmission seemed most important, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in October 2020 combined with extensive droplet preventions in place triggered reconsidering: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude:
+- 28.10. (only summaries available) Early results from [Spread Analyses](./spread_analyses.md) show that the Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
+    > During the summer droplet transmission seemed most important, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in October 2020 combined with extensive droplet preventions in place questioned the dominance of droplet transmission. Reconsideration and a detailed look show: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude:
     * Air-conditioning: Brazil, Middle East and Southern US (in California noteworthy is the difference between hot Los Angeles and temperate San Francisco)
     * High altitudes which means cold nights and increased breathing: La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
 - 25.10. New page [Spread Analyses](./spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings.
--  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which I needed to correct. Pupils are **not** likely to play a major role in the past and current Covid spread while protection measures are in place. Caveat: most investigations were done in summer climate.
+-  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which needed correction: Pupils are **not** likely to play a major role in the past and current Covid spread while protection measures are in place.
 -  15./16.10. Early Online Update for the sections [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
