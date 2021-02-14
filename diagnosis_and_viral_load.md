@@ -3,13 +3,10 @@ Diagnosis and Viral Load
 ========================
 
 * [Summary](#summary)
-  * [Methods to diagnose Covid-19](#methods-to-diagnose-covid-19)
-  * [SARS-CoV-2 Viral Load](#sars-cov-2-viral-load)
-  * [Take Away](#take-away)
 * [Introduction to Diagnosis](#introduction-to-diagnosis)
 * [History of Covid-19 Diagnosis](#history-of-covid-19-diagnosis)
 * [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)
-  * [Measure the Viral Load](#measure-the-viral-load)
+  * [Measure Virus Building Blocks](#measure-virus-building-blocks)
   * [Detect Infectious Virions](#detect-infectious-virions)
   * [Detect Metabolism of Viruses](#detect-metabolism-of-viruses)
 * [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)
@@ -49,39 +46,39 @@ Diagnosis and Viral Load
 **entire page is in work**
 
 ## Summary
-Methods to diagnose Covid-19 are discussed. A focus is on methods detecting the SARS-CoV-2 viral load at different locations. For this reason the topics diagnosis and viral load are discussed in the same chapter.
+Different methods to diagnose Covid-19 are discussed. A focus is on methods measuring the amount of viruses (viral load) at different locations. For this reason the topics diagnosis and viral load are discussed in the same chapter.
 
-### Methods to diagnose Covid-19
-* Detect the amount of viruses present. The amount of viruses, called [viral load](#viral-load), is measured by antigen test or PCR tests. 
+#### Methods to diagnose Covid-19
+* Detect the viruses directly by measuring the [viral load](#viral-load) by antigen test or PCR tests.
 * Detect infections indirectly by detecting the tissue damage caused e.g. visual changes in the lungs by X-ray images.
-* Antibodies which are part of the immune response.
+* Detect antibodies which are part of the immune response.
 
-### SARS-CoV-2 Viral Load
-Measuring the SARS-CoV-2 viral load is highly specific to detect acute infections. The sensitivity (detection rate = whether a viral load is detected) and how high it is, is dependent on the location, the sampling method and the infected locations/tissues of a patient. Common locations and fluids the viral load is measured are:
+#### SARS-CoV-2 Viral Load
+Measuring the SARS-CoV-2 viral load is highly specific to detect infections. The sensitivity (detection rate) is dependent on the location, the sampling method and the infected locations/tissues of a patient. Common locations and fluids the viral load is measured are:
 
 * The standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections and the viral loads measured vary. 
 * Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). The viral load and thus the detection rate is reduced if the salivary flow increases e.g. eating or chewing gums.
 * Morning sputum and nasopharyngeal aspirate have high viral load and good detection rates. 
-* A high viral load in the sputum or in saliva is an indication for severe disease progression. The viral load in NPS samples isn't an indicator. 
+* The viral load in the sputum and in saliva is an indication for disease progression. The viral load in NPS samples is not an indicator. 
 
-### Take Away
+#### Take Away
 * __Recommended Diagnosis__: Repeated morning saliva specimens yield reliable viral loads which even predict the course of the disease. Morning saliva has shown is effectiveness in the surveillance system in Hong Kong. Sputum can help to determine the involvement of the lower respiratory tract and the prognosis. 
-* __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has a low detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation.
-
+* __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has a mediocre detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation. Serum antibodies detect 
+* __To keep in mind__: SARS-CoV-2 infects the upper respiratory tract (nose, mouth, throat) and the lower respiratory tract (bronchi, lungs). The immune responses vary depending on the infection location, infection severity and the individual immune system. Therefore there's no perfect diagnose location and method. Not to every infection in the upper respiratory tract the body responds with serum antibodies. On the other hand a lower respiratory tract infection may yield antibodies and one is infectious, but a single virus test in the upper respiratory tract can be negative.
 
 ## Introduction to Diagnosis
 
-> ###### Diagnose a Disease
-> Figuring out the causes of the disease.
+A defined in the [Covid-19 chapter](./covid19.md) a [disease](./covid19.md#disease) is a disordering of the body which can be caused by pathogens. For a virus disease, the cause (the viruses) can be detected directly section [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)). Possible disordering/damage caused (e.g. tissue damage) and possible induced immune responses can be inspected and indicate indirectly a virus infection (section [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)).
 
-A defined in the [Covid-19 chapter](./covid19.md) a [disease](./covid19.md#disease) is a disordering of the body. The disordering and induced immune responses can be inspected across all causes of a disease (section [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses). For virus diseases the viruses can be detected directly (section [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)).
+> ###### Diagnosis
+> Diagnosis comes from dia ‘apart’ + gignōskein ‘recognize, know’ (British English Thesaurus). Diagnose an illness is to figure out the causes i.e. determine which disease causes the illness. 
 
 ## History of Covid-19 Diagnosis
 * In late 2019 and January 2020 Covid-19 was mostly diagnosed based on lung CT findings.
 * In February 2020 PCR test became more widely available and often specimens from the lower respiratory tract such as BALF or sputum were used. 
 * From February/March 2020 to December 2020 the standard SARS-CoV-2 tests are nasopharyngeal swabs in most locations of the world. The viral load is detected either by [PCR-Test](#pcr-test) or [Antigen-Tests](#antigen-test).
 
-  > In the very early phase of the Covid-19 pandemics PCR test were scarce and antigen tests not available so the work for BALF/sputum sampling was not the bottleneck. In the next months PCR test became more widely available but still limited, nasopharyngeal swabs were used: NPS sampling was doable since testing capacity was still limited. Everybody then just kept on doing NPS even there have been early studies pointing to the benefits of other methods such as self collected saliva. 
+  > In the very early phase of the Covid-19 pandemics PCR test were scarce and antigen tests not available so the work for BALF/sputum sampling was not the bottleneck. In the next months PCR test became more widely available but still limited, nasopharyngeal swabs were used: NPS sampling was doable since testing capacity was still limited. Then one just kept on doing NPS even though there have been early studies pointing to the benefits of other methods such as self collected saliva. 
 * Late 2020 antigen tests are getting more common.
 * 2021? Alternate Locations? Rethink [Diagnosis Locations and Methods](#diagnosis-locations) and a chapter is devoted to [saliva based diagnosis](#saliva-diagnosis).
 
@@ -89,9 +86,9 @@ A defined in the [Covid-19 chapter](./covid19.md) a [disease](./covid19.md#disea
 
 ## Methods to Directly Detect Viruses
 
-### Measure the Viral Load
+### Measure Virus Building Blocks
 
-In tissues containing infected cells or in the lining fluids protecting/cleaning these tissues the viral load can be measured by detecting building blocks of virions.
+In tissues containing infected cells or in the lining fluids protecting/cleaning these tissues the viral load can be measured by detecting building blocks of virions. The presence of such building blocks in detectable amounts indicate a current or recent virus infection; in the case of a recent infection, there are not necessarily infectious virions around i.e. the viruses are already defeated and there are just parts of viruses around. 
 
 #### Genome Detection
 Test for specific sequences in the genome of virions (positive single stranded RNA for coronaviruses). The amount of virions (called [viral load](#viral-load)) - can be determined with high specificity and sensitivity.
@@ -244,7 +241,7 @@ Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of 
 The anterior or mid-turbinate mucus can be swabbed. Overall detection rates tend to about 10% lower than NPS (Figure 5 in [Lee et al](#summarized-review-lee)). [Hanson et al](#summary-hanson) observed about a 10% lower detection for anterior nasal swabs compared to NPS or saliva. 
 
 ### Diagnosis in the Mouth
-Varies across the methods. Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Procedures](#saliva-sampling-procedures) in the section [saliva based Diagnosis](#saliva-diagnosis). 
+The sensitivity varies across the methods. Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Procedures](#saliva-sampling-procedures) in the section [saliva based Diagnosis](#saliva-diagnosis). 
 
 > Separate section since I consider saliva diagnosis as the best option for routine Covid diagnosis. 
 
@@ -278,9 +275,9 @@ Broncho-alveolar-lavage fluid (BALF). Even though the lower respiratory tract is
 
 ### Challenges regarding Viral Load and Diagnosis
 Often investigations for viral load are biased. Reasons are:
-* Sampling is biased towards symptomatic patients. Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and more at risk for severe disease.
-* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in saliva is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%. 
-* E.g. not to every infection in the upper respiratory tract the body responds with antibodies or only antibodies of a specific type. On the other hand a lower respiratory tract infection may yield antibodies, but be negative at a single PCR in the upper respiratory tract.
+* Sampling is biased towards symptomatic patients. Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and at increased risk for severe disease.
+* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in saliva is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%.
+
 
 
 
@@ -296,7 +293,7 @@ Key features of saliva based Covid diagnosis are:
 * Suitability: 
   * Saliva is simpler than NPS and suitable for self collection.
   * Pooled analysis [citation in work]. 
-  * Routine screening, possibly pooled (e.g. in hospitality, offices care homes)
+  * Routine screening, possibly pooled (e.g. in hospitality, offices, care homes)
 
 
 ### Literature on Saliva Diagnosis
@@ -343,7 +340,7 @@ Location of sampling (e.g. throat wash, coughing up sputum) and timing  (e.g. ti
 
   > One reason more to relax the often overly strict [quarantine and isolation rules](./controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](./covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected - they don't know how much care to take.
 
-  Detecting Cheating may require new methods: RNaseP is often used as control for correct (NP) sampling, but in this case RNaseP likely does not help. Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP may not decrease much on an increased flow rate. What could help is detection other organism of the oral flora e.g. bacteria which peak to in after sleep ([Carlson-Jones](#summary-carlson-jones)). 
+  Detecting Cheating may require new methods than common used RNaseP. RNaseP can be used as control since RNaseP is only contained in correctly taken specimens (RNaseP is an enzyme which is mostly built from RNA which released from the cells to extracellular fluids such as mucus, blood or saliva. Its RNA parts can be amplified & detected by PCR.). But to detect the correct saliva timing RNaseP likely does not help: Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP does not decrease much on an increased flow rate [to check]. What could help is detection other organism of the oral flora e.g. bacteria which peak to in after sleep ([Carlson-Jones](#summary-carlson-jones)). 
   
 
 ## Summarized References
@@ -581,7 +578,7 @@ Saliva +      | 19     |   9   |  28
 Saliva -      |  7     | 366   | 373
 Total         | 26     | 375   | 401
 
-* The average body temperature of the +/+:36.9 (.5), Swab+/Saliva-: 36.9(0.6), Swab-/Saliva+: 36.4 (.3)  (Table 1)
+* The average body temperatures are  for Swab+/Saliva+:36.9 (.5), for Swab+/Saliva-: 36.9(0.6) and for Swab-/Saliva+: 36.4 (.3)  (Table 1)
 * "Among the 19 patients with paired positive samples, the median cycle threshold (Ct) values for RdRp and N gene targets were 29.6 (IQR 24.8–35.0) and 28.9 (IQR 24.5–35.0), respectively, in saliva; while the swab Ct values were RdRp 28.1 (IQR 22.6–31.8) and 28.0 (IQR 23.1–32.3) N gene target (Figure 1 shows the Ct values for paired samples)."
 * "RdRp and N gene median Ct of 36.1 (IQR 33.9–37.1) and 36.3 (IQR 34.0–37.5), respectively, were found in saliva samples (n=9) which had a negative paired swab. Similarly, median RdRp and N gene Ct was 36.4 (IQR 35.1–38.6) and 37.5 (IQR 32.5–38.2), respectively for swab samples (n=7) which had paired negative saliva."
 
@@ -1182,7 +1179,7 @@ BALF          | 22.5 (21-24) | -
 ## Appendix
 
 ### Calculation of Viral Load from CT_Value
-`viral_load = d_c_h / 2^CT_cycles` where `d_c_h = detection_limit_for_helper_method` (the helper method detects when a certain concentration of DNA/RNA is reached, often optical fluorescence is used)
+`viral_load = d_c_h / 2^CT_cycles` where `d_c_h = detection_limit_for_helper_method` (the helper method detects when a certain concentration of DNA or RNA is reached, often optical fluorescence is used)
 Often the viral load is given as logarithm. For logarithm to base 2:
 `log2(viral_load) = log2(d_c_h) - CT_cycles`
 The viral load as logarithm to base 10:
