@@ -10,7 +10,7 @@
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 
 > ###### Definitions
-> *Definitions* are written like this and are valid throughout this page, sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
+> *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
 > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content. 
 
@@ -21,7 +21,7 @@
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
-
+- 14./15.2 [Diagnosis and Viral Load page](./diagnosis_and_viral_load.md) clarified.
 - 13.2. How Coronaviruses overcome Immune System obstacles moved to separate page [Immune Evasion](./immune_evasion.md). [References and a more detailed description in work.]. Clarifications how [coronaviruses get activated](./coronavirus.md#virion-activation) on the [coronavirus page](./coronavirus.md). 
 - 11.2. Corrected mistakes (T Cell Training) and added/completed section how SARS-2 overcomes antibodies on the [Immune System page](./immune_system.md).
 - 11.2. Formulations and clarifications across the page.
