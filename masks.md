@@ -8,7 +8,7 @@
   * [Reasons for Clean Masks](#reasons-for-clean-masks)
   * [Mask Recommendation](#mask-recommendation)
 * [Appendix](#appendix)
-  * [Personal Mask Preference](#personal-mask-preference)
+  * [Personal Mask Preferences](#personal-mask-preferences)
 * [References](#references)
 
 
@@ -107,9 +107,9 @@ Reasons against masks seem sometimes rather searched:
 
 
 ## Appendix
-### Personal Mask Preference
+### Personal Mask Preferences
 
-#### Current Mask Preference
+#### Current Mask Preferences
 Currently I prefer FFP 1 dust protection mask (3M 8710 E made in Wroclaw PL; about 1$ a piece): 
 __Advantages__: in theory FFP1 filter somewhat less aerosol than FFP2 but more than surgical masks and they offer a dense fit with bands behind the head, are as comfortable as ski googles (tight but ok), easy to breath and especially no annoying sidelined air to the eyes. 
 __Drawbacks__: taken on/off is cumbersome so for shopping I sometimes use surgical masks. Also they don't look fashionable ...
