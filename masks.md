@@ -118,7 +118,7 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
 > 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a very good and dense fit. However this fit came at the cost of a reduced comfort; very tight bands around the head and not really comfortable at the nose.
 > 2. In summer 2020 I bought some cloth mask but I didn't like the fit since there was no fixation above the nose. I went to the hardware store to get some other dust FFP2s, however these were sold out but instead they had cloth masks. These had a good fit and were comfortable and I used them during summer.
 > 3. In autumn when (evidence for) aerosol transmission increased combined with reports that many cloth mask were not dense enough, I went on to surgical masks. There are differences between the models of surgical masks: some are easier to breath through while others more air sidelines by the nose/eyes, which can be distracting.
-> 4. In early winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters produces purpose defeating (and uncomfortable) sidelined air.
+> 4. Over the winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters produces purpose defeating (and uncomfortable) sidelined air.
 > 5. Around christmas time I went once again to a hardware store to buy some dust FFP2. Sold out FFP2 dust masks again, but dust FFP1 were available. They fit (Introduction statement).
 
 
