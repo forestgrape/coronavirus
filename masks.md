@@ -18,8 +18,8 @@
 * In indoor rooms aerosol transmission occurs:
   * frequent changing/cleaning the masks is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
   * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
-* After coughing or sneezing into mask changing is needed (one should *not cough into a mask* but cough into the hand/handkerchief and downwards, then the hand should be washed or disinfected; moreover when coughing one should stay home). After speaking a lot into a mask changing is appropriate. Especially for [low and mid filter models](#filter-performance).
-* Some mask have a to big air resistance, in that case the air can bypasses the mask. There's still protection against droplets, essentially they are like wearable plexiglas. The bypassed air contains [aerosol](./transmission.md#aerosol).
+* After coughing or sneezing into mask changing is needed (one should *not cough into a mask* but cough into the hand/handkerchief and downwards, then the hand should be washed or disinfected; moreover with heavy cough and without Covid test one ideally is out of public spaces). After speaking a lot into a mask changing is appropriate. Especially for [low and mid filter models](#filter-performance).
+* Some mask have a to big air resistance, in that case the air can bypasses the mask. There's still protection against droplets, but the bypassed air contains [aerosol](./transmission.md#aerosol). They are like wearable plexiglas. 
 
 
 ## Mask Effectiveness
@@ -115,10 +115,10 @@ __Advantages__: in theory FFP1 filter somewhat less aerosol than FFP2 but more t
 __Drawbacks__: taken on/off is cumbersome so for shopping I sometimes use surgical masks. Also they don't look fashionable ...
 
 > #### Personal Mask History
-> 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with a lot of soap went well. The masks had a very good and dense fit. However this fit came at the cost of reduce comfort; very tight bands around the head and not really comfortable at the nose.
+> 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a very good and dense fit. However this fit came at the cost of a reduced comfort; very tight bands around the head and not really comfortable at the nose.
 > 2. In summer 2020 I bought some cloth mask but I didn't like the fit since there was no fixation above the nose. I went to the hardware store to get some other dust FFP2s, however these were sold out but instead they had cloth masks. These had a good fit and were comfortable and I used them during summer.
 > 3. In autumn when (evidence for) aerosol transmission increased and it became increasingly clear that cloth mask were not dense enough, I went on to surgical mask. There are differences between the models of surgical masks: some are easier to breath through while for others more air sidelines by the nose/eyes. For a short time in a super market I don't care, but for longer the sidelined air in the eyes is annoying.
-> 4. In early winter I bought different 'Covid recommended' FFP2. However the bands always went around the ears and so the fit was not very tight. The loose fit combined with the dense filter produced annoying (and purpose defeating) sidelined air.
+> 4. In early winter I tried different 'Covid recommended' FFP2s. The bands always went around the ears and so the fit was not very tight. The loose fit combined with the dense filter produced annoying (and purpose defeating) sidelined air.
 > 5. Around christmas time I went once again to a hardware store to buy some dust FFP2. No dust FFP2 again, but dust FFP1 were available. They fit (Introduction statement).
 
 
