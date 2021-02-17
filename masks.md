@@ -1,0 +1,130 @@
+# Masks
+* [Mask Usage](#mask-usage)
+* [Mask Effectiveness](#mask-effectiveness)
+* [Mask Types](#mask-types)
+  * [Filter Performance](#filter-performance)
+  * [Usage Classes](#usage-classes)
+* [Mask Cleaning](#mask-cleaning)
+  * [Reasons for Clean Masks](#reasons-for-clean-masks)
+  * [Mask Recommendation](#mask-recommendation)
+* [Appendix](#appendix)
+  * [Personal Mask Preference](#personal-mask-preference)
+* [References](#references)
+
+
+## Mask Usage
+* For self protection good fit and a good outside-to-inside filter are important. 
+* To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
+* In indoor rooms aerosol transmission occurs:
+  * frequent changing/cleaning the masks is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
+  * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
+* After coughing or sneezing into mask changing is needed (one should *not cough into a mask* but cough into the hand/handkerchief and downwards, then the hand should be washed or disinfected; moreover when coughing one should stay home). After speaking a lot into a mask changing is appropriate. Especially for [low and mid filter models](#filter-performance).
+* Some mask have a to big air resistance, in that case the air can bypasses the mask. There's still protection against droplets, essentially they are like wearable plexiglas. The bypassed air contains [aerosol](./transmission.md#aerosol).
+
+
+## Mask Effectiveness
+
+> **Reduction upon exhalation is likely low for many masks** (especially if the mask is used long without changing what many do). Reasons:
+> * Most lab experiments are done with fresh masks and not with masks used for several hours.
+> * The effectiveness is likely better for inhalation than for exhalation:
+   The air is exhaled often at higher speeds than inhaled and the air exhaled is directed => higher air pressure difference upon exhalation on the filter (The filter performance in turn decreases with higher pressure differences).
+> * long worn (cloths) mask could have a **spray effect for the aerosol** spread: accumulation of exhaled breadth condensate in the inner side/layers of the mask and then spray like release upon strong exhales such as shouting.
+
+* [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
+    - Particles greater than 5 micro meter: Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction: resulting in a 25 fold reduction in the number of viral copies 
+    - Particles smaller than 5 micro meter:  statistically significant 2.8 fold reduction in viral copies detected in the fine aerosol fraction.
+    - Overall: Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
+    
+   
+    Assuming a reduction of exhaled particles by a factor of 2 (50% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 4 = (2 times fewer particles inhaled) * (2 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+
+
+## Mask Types
+Mask can be classified either by
+* [Filter Performance](#filter-performance) How good is the filter?
+* [Usage Classes](#usage-classes) What is the intended usage?
+
+
+### Filter Performance
+The filtration performance specifies how much and which particles are filtered out of the air at some fixed airflows and pressures. 
+There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms are common, in the US N95/P95 (e.g. Wikipedia page on FFP standards). High filtration is the safe option in situations with [aerosol transmission](./transmission.md#summary-airborne-transmission). 
+
+
+* ##### Very High Filtration
+  FFP3
+
+* ##### High Filtration
+  FFP2 (Europe), N95(US), KN95(China). (Correctly tested & certified) high filtration mask also have a good fit, since if the air sidelines the mask, no aerosols are hold back regardless of the filter (droplets are still hold back). 
+  
+  * N95 (United States NIOSH-42CFR84)
+  * FFP2 (Europe EN 149-2001)
+  * KN95 (China GB2626-2006)
+  * P2 (Australia/New Zealand AS/NZA 1716:2012)
+  * Korea 1st class (Korea KMOEL - 2017-64)
+  * DS2 (Japan JMHLW-Notification 214, 2018)
+
+* ##### Intermediate-High Filtration
+  FFP1
+  
+* ##### Intermediate Filtration
+  Surgical Masks
+
+* ##### Low-Intermediate Filtration 
+  Textile mask often have low filter performance. They prevent the [droplet exchange](./transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not prevent the spread of aerosols, which is important in indoor rooms if possibly infected. Indoors where aerosol transmission is likely low filtration masks shouldn't be used to protect others. 
+
+### Usage Classes
+* #### Dust Protection Masks
+  _Protection masks_ against dust are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let out the air unfiltered. That means that there is no inside to outside protection. Thus masks with valves offer protection for the wearer only and *not* for others. Dust mask exists for all mid to very high filter classes including all FFP filter classes. 
+* #### Medical masks
+  There are two types of medical mask. 
+  * ##### Surgical Masks
+    _Surgical masks_ are constructed for comfort and the focus is on inside to outside droplet protection (during surgery, the body is open and so there is no skin protection). Mainly larger particles such as bacteria are filtered. They cover the entire mouth area to prevent  nutrition rests or face hairs falling down. Usually they are very flat and don't look muzzle like which is bad since the air pressure isn't evenly distributed across the filter especially when mouth breathing/talking (the pressure peaks before the mouth and much of the airflow then gets a sideway momentum). 
+  * ##### Medical protections masks 
+    _Medical protections masks_ are constructed to protect medical staff against pathogens from infected patients. These masks are usually in a high [filtration category](#filter-performance) such as FFP2 and offer good protection for all pathogens including viruses.
+* #### Textile Masks
+  _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. These masks often offer could comfort and style. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](./transmission.md#summary-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
+
+
+## Mask Cleaning
+* __wash__: wash with soap/hot water/machine-wash
+* __heat__: heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming] [Chan et al.](#chan) have shown that Sars-CoV-1 is inactivated above 50 degrees.
+* __sunlight__: if washing or heating is not available (e.g. water saving in dry areas or camping), putting the mask to the bright sunlight is an alternative in areas with intense sunlight. 
+* __disinfect__: spray with *pure* alcohol (*not* alcohol intended for cleaning)
+* __waiting__: Usually half of the virions decay during several hours at room temperature (i.e. the halflife time is several hours). Thus the next day (or even better a few days) most virions are decayed. 
+
+### Reasons for Clean Masks
+The [mask effectiveness](#mask-effectiveness) is usually evaluated with fresh masks and not with mask worn for several hours. The problem if the mask is continuously worn for several hours is, that virions can be slowly breathed through the filter, which occurs more at exhalation than inhalation ([mask effectiveness](#mask-effectiveness)). Therefore masks should regularly be changed or [cleaned](#mask-cleaning). Even rotating a bunch masks through each day and reusing them the next day helps. Wearing the same mask as short as doable especially if its about protecting others.
+
+### Mask Recommendation
+Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable, since masks are protective. (written sometimes in spring 2020)
+
+<!--  
+Reasons against masks seem sometimes rather searched:
+* touching more often the face. 
+> Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this, masks are protective. 
+* Reserve for healthcare workers is needed for the big wave. 
+> If masks help to prevent the big wave in its roots, then that's the better option.-->
+
+
+## Appendix
+### Personal Mask Preference
+
+#### Current Mask Preference
+Currently I prefer FFP 1 dust protection mask (3M 8710 E made in Wroclaw PL; about 1$ a piece): 
+__Advantages__: in theory FFP1 filter somewhat less aerosol than FFP2 but more than surgical masks and they offer a dense fit with bands behind the head, are as comfortable as ski googles (tight but ok), easy to breath and especially no annoying sidelined air to the eyes. 
+__Drawbacks__: taken on/off is cumbersome so for shopping I sometimes use surgical masks. Also they don't look fashionable ...
+
+#### Personal Mask History
+> 1. My first masks were a few FFP 2 certified mask bought about year ago (Mid February 2020) in a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with a lot of soap went well. These masks had a very good and dense fit. However this fit came at the cost of reduce comfort; very tight bands around the head. From mid spring to early summer I didn't use masks much.
+> 2. In summer bought some cloth mask but I didn't like the fit so I went to the hardware store to get some other FFP 2, however these were sold out and instead they cloth masks. The cloth masks from the hardware store had a good fit and were comfortable. These became my new standard masks e.g. in public transport.
+> 3. In autumn when (evidence for) aerosol transmission increased and it became increasingly clear that cloth mask were not dense enough I went on to surgical mask. There are differences between the models of surgical masks: some are easier to breath through while for others more air sidelines by the nose/eyes. For a short time in a super market I don't care, but for longer the sidelined air in the eyes is annoying. 
+> 4. In early winter I bought different 'Covid recommended' FFP2. However the bands always went around the ears and so the fit was not very tight. The loose fit combined with the dense filter produced annoying (and purpose defeating) sidelined air. 
+> 5. Around christmas time I went once again to a hardware store to buy some dust FFP2. FFP2 were sold out, but dust FFP1 were available. They fit (Introduction statement).
+
+
+## References
+
+* ##### milton2013
+    Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). 
+    **Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.** PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
+
