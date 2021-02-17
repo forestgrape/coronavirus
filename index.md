@@ -21,6 +21,7 @@
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
+- 17.2. [Masks](./masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./masks#personal-mask-preferences)
 - 14./15.2 [Diagnosis and Viral Load page](./diagnosis_and_viral_load.md) updated (mainly clarified & formulations improved).
 - 13.2. How Coronaviruses overcome Immune System obstacles moved to separate page [Immune Evasion](./immune_evasion.md). [References and a more detailed description in work.]. Clarifications how [coronaviruses get activated](./coronavirus.md#virion-activation) on the [coronavirus page](./coronavirus.md). 
 - 11.2. Corrected mistakes (T Cell Training) on the [Immune System page](./immune_system.md) and added/completed section how SARS-2 overcomes antibodies.
