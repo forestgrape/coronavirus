@@ -34,6 +34,7 @@ The only protein well accessible for coronavirus virions is the spike protein, s
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
   
 > Neutralizing antibodies act also as non-neutralizing antibodies i.e. they mark something as not wanted and thus the immune system targets it.
+> 
 > Besides antibodies, natural infections and to some extent vaccines induce also specific memory T cells targeting different antigens of viruses.
 
 
