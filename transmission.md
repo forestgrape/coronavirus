@@ -21,7 +21,7 @@
   * [Airflow Theory](#airflow-theory)
   * [Sources of Exhaled Particles](#sources-of-exhaled-particles)
   * [Particle Deposition at In/Exhalation](#particle-deposition-at-inexhalation)
-  * [Transmission and Infection of  Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
+  * [Transmission and Infection of Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
   * [Epidemiological Patterns](#epidemiological-patterns)
   * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
 
@@ -509,7 +509,7 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 
 
   
-### Transmission and Infection of  Respiratory Viruses
+### Transmission and Infection of Respiratory Viruses
 
 * ##### kikkert
 	Marjolein Kikkert
@@ -544,7 +544,7 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
     **Modeling the airborne survival of influenza virus in a residential setting: the impacts of home humidification.**
     Environmental health : a global access science source, 9, 55. https://doi.org/10.1186/1476-069X-9-55
     
-
+    
 ### Epidemiological Patterns
     
 *  ##### le
