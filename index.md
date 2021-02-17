@@ -7,7 +7,10 @@
 * This page often conversational and some parts aren't rigorous and just ideas in raw form. 
 * The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations: For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
+* [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H72F6XY) is welcome, to help me re-searching full-time on coronaviruses.
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
+
+
 
 > ###### Definitions
 > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
@@ -21,6 +24,7 @@
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
+- 17.2. added [Support-me option with ko-fi.com](https://ko-fi.com/H2H72F6XY)
 - 17.2. [Masks](./masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./masks#personal-mask-preferences)
 - 14./15.2 [Diagnosis and Viral Load page](./diagnosis_and_viral_load.md) updated (mainly clarified & formulations improved).
 - 13.2. How Coronaviruses overcome Immune System obstacles moved to separate page [Immune Evasion](./immune_evasion.md). [References and a more detailed description in work.]. Clarifications how [coronaviruses get activated](./coronavirus.md#virion-activation) on the [coronavirus page](./coronavirus.md). 
