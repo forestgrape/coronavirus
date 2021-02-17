@@ -5,7 +5,7 @@
 * [Monitor Evolution](#monitor-evolution)
 * [Monitor Prevalence](#monitor-prevalence)
   * [Different Counts](#different-counts)
-  * [Motivation](#motivation)
+  * [Motivation to Monitor](#motivation-to-monitor)
   * [Detect Estimates Out of Bounds](#detect-estimates-out-of-bounds)
   * [On Estimates Out of Bounds](#on-estimates-out-of-bounds)
   * [What to Monitor](#what-to-monitor)
@@ -22,20 +22,20 @@
 
 ## Monitor Evolution
 [in work]
-From time to time full genome samples should be analyzed to monitor evolution of Sars-CoV-2 and to deduce the international spread. 
+From time to time full genome samples should be analyzed to monitor the evolution of Sars-CoV-2 and to deduce the international spread. 
 
 ## Monitor Prevalence
-To adjust the measures and to communicate these it is important to estimate and monitor different incidence rates.
+To adjust the measures and to communicate these, it is important to estimate and monitor different incidence rates.
 
 ### Different Counts
 There are several counts to distinguish [not very clear on this page yet, in work]:
-* Number of people getting currently infected. This number predicts how many people may need hospital treatment starting in roughly 1 to 3 weeks and being there in 1 to 4 weeks so they may need a place in the next 1 to 7 weeks. This number can only be **estimated**. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing)
-* Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get **tested** through sampling or contact tracing. They may or may not develop symptoms, about 80% develop symptoms. 
-* Number of people with **symptoms**. Likely these are most often detected in case counts. Symptoms usually come 1 - 10 days after the infection occurred.
-* Number of people admitted to **hospitals**. This number can be lowered in absolute emergencies with triage. 
-* End of disease. Often about 10 days after initial symptoms for mild disease. The disease lasts usually much longer in severe cases and is fatal in about 1 of 400 cases which yields the **death count**.
+* Number of people getting currently infected. This number predicts how many people may need hospital treatment starting in roughly 1 to 3 weeks and being there in 1 to 4 weeks so they may need a place in the next 1 to 7 weeks. This number can only be **estimated**. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing).
+* Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get **tested** through sampling or contact tracing. They may or may not develop symptoms, about 80% develop symptoms.
+* Number of people with **symptoms**. Likely a fraction of these are most often detected in case counts. Symptoms usually come between 1 and 10 days after the infection occurred.
+* Number of people admitted to **hospitals**. (This number can be lowered in absolute emergencies with triage.)
+* End of disease. Often about 10 days after symptom onset for a mild disease. The disease lasts usually much longer in severe cases and is fatal in about [1 of 400 cases](#on-numbers) which yields the **death count**.
 
-### Motivation
+### Motivation to Monitor
 * Since what control tactics is optimal and/or needed depends largely on incidence rates. If the incidence rate is out of some bounds the strategy may fail to work or be unnecessary strict: 
   * Controlling methods relying on a working contact tracing need low incidence rates and detecting most cases with monitoring. To rely on contact tracing detection rate should be at least 75%. Still useful if lower but one shouldn't rely on it.   
   * Many controlling methods rely on methods reducing the infection probability but not preventing it (e.g. distancing, low-filter face masks), that only works if there are not to many infected 
@@ -55,18 +55,18 @@ If the estimation method didn't change the current actual infected can be estima
 
 
 ### On Estimates Out of Bounds
-A correction factor greater than 2 needs redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](#strategy) and [On Numbers](#on-numbers)). How much worrying depends if, how effective and when measures have been adapted. 
-Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/controls/reduction can be necessary.
+A correction factor greater than 2 needs a redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](./controlling.md#strategy) and [On Numbers](#on-numbers)). How much worrying depends if, how effective and when measures have been adapted. 
+Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/control/reduction can be necessary.
 
-* Pausing infections especially everything super-spreading opportunities i.e. indoor rooms. 
+1. Pausing infections especially everything super-spreading opportunities i.e. indoor rooms. 
   * closure of non essential businesses
   * for somewhat essential businesses e.g. longer distance public transport: names can be recorded and people need to hand in some argumentation in the next weeks why it was essential to enter. This causes few immediate work/tumults but likely discourages most from unnecessarily entering. 
   * whitelist approach if doable e.g. negative test/no fever required
   * pause of non essential visits to hospitals and so on
-* sample and estimate the numbers
+2. Sample and estimate the numbers
   * should be doable within a few days
   * 5'000 tests per million inhabitants should work to estimate to infection rate with an accuracy of .5% (Uniform -random- sampling) 
-* choosing tactics suiting the strategy given the situation
+3. Choosing a tactics suiting the strategy given the situation
  
 
 ### What to Monitor
@@ -80,7 +80,7 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 ### How to Monitor
 * **Frequency:** Ideally these are taken near daily, else at least weekly. 
 * **Communicate:** Often (as of 16.10.20) only the positive tests and the positive test rate are communicated. However more complete data would allow more accurate interpretations: 
-  * many of the tested often are health care professionals (who know how to protect and incidence is thus underestimated), 
+  * many of the tested often are health care professionals (who know how to protect or have an increased immunity and incidence is thus underestimated), 
   * how many of the tested are healthy and just need some clean sheet to travel, 
   * how many who are tested have symptoms, 
   * how many are tested because of company monitoring.
@@ -133,13 +133,13 @@ Notations and Equivalences:
   
 total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment if the estimated values are for several days greater and *no* adequate measures in place
 --------|--------|------|--------|---
-< 0.2%   |2 K     | 200  |  ~.5   | if less or not increasing or mainly young infected: loose rules, own responsibility
-> 0.4%   |4 K     | 400  |  ~1    | if greater or increasing: **monitoring** needed. Prefer outdoor to indoor
-> 1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
-> 4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
-> 5%    |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed
-> 10%   |100 K   |10'000| ~25+   | **prevent even at very high costs**, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
->  15%  |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic situations can occur therefore death rate doubles or more, reached in heaviest hit regions.
+0.2%   |2 K     | 200  |  ~.5   | if less or not increasing or mainly young infected: loose rules, own responsibility
+0.4%   |4 K     | 400  |  ~1    | if greater or increasing: **monitoring** needed. Prefer outdoor to indoor
+1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
+4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
+5%     |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed
+10%    |100 K   |10'000| ~25+   | **prevent even at very high costs**, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
+15%    |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic situations can occur. Death rate doubles or more, reached in heaviest hit regions.
 
 
 ## Data 
