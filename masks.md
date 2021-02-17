@@ -110,8 +110,8 @@ Reasons against masks seem sometimes rather searched:
 ### Personal Mask Preferences
 
 #### Current Mask Preferences
-Currently I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece): 
-__Advantages__: By specification, FFP1 masks filter less aerosol than FFP2 masks but still more than surgical masks. As many dust protection masks the fit is dense thanks to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
+Currently I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). By specification, FFP1 masks filter less aerosol than FFP2 masks but still more than surgical masks. They are a compromise between comfort (cloth masks) and filtration (FFP2).
+__Advantages__: As many dust protection masks the fit is dense thanks to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
 
 > #### Personal Mask History
@@ -119,7 +119,7 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
 > 2. In summer 2020 I bought some cloth mask but I didn't like the fit since there was no fixation above the nose. I went to the hardware store to get some other dust FFP2s, however these were sold out but instead they had cloth masks. These had a good fit and were comfortable and I used them during summer.
 > 3. In autumn when (evidence for) aerosol transmission increased combined with reports that many cloth mask were not dense enough, I went on to surgical masks. There are differences between the models of surgical masks: some are easier to breath through while others more air sidelines by the nose/eyes, which can be distracting.
 > 4. Over the winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters sometimes produces purpose defeating and uncomfortable sidelined air (but usually not more than surgical masks).
-> 5. Around christmas time I went once again to a hardware store to buy some dust FFP2. Sold out FFP2 dust masks again, but dust FFP1 were available. They fit (Introduction statement).
+> 5. Around christmas time I went once again to a hardware store to buy some dust FFP2. Sold out FFP2 dust masks again, but dust FFP1 were available. They fit and are in use since then(Introduction statement).
 
 
 ## References
