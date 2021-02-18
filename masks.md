@@ -110,7 +110,7 @@ Reasons against masks seem sometimes rather searched:
 ### Personal Mask Preferences
 
 #### Current Mask Preferences
-Currently I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). By specification, FFP1 masks filter less aerosol than FFP2 masks but still more than surgical masks. They are a compromise between comfort (cloth masks) and filtration (FFP2).
+Currently I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). By specification, FFP1 masks filter less aerosol than FFP2 masks but still more than surgical masks.
 __Advantages__: As many dust protection masks the fit is dense thanks to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
 
