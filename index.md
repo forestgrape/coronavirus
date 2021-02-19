@@ -7,7 +7,7 @@
 * This page often conversational and some parts aren't rigorous and just ideas in raw form. 
 * The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
 * The license is Creative Commons Attribution 4.0. with the following notes/relaxations: For any use with the main purpose public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
-* [Support-me on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to help me re-searching full-time on coronaviruses.
+* [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 
 
