@@ -81,7 +81,7 @@ To prevent droplet transmission outdoors or in very well ventilated situations a
 Ventilation reduces the indoor airborne spread, since the virion density in [outside air](#outside-is-safer) is much lower than in indoor air. There should be limits on the CO2 concentration and the concentration should be continuously monitored. 
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is, in the simulated setting, as effective as vaccinating around half of the population. 
+* [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is, in the simulated setting, as effective as immunizing around half of the population. // they write vaccinate instead of immunize, however there's evidence vaccinating against influenza does not stop spreading.
 
 
 ### Distancing
@@ -127,11 +127,11 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 #### Suggestions for Infected
 as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
-* [High-filtration mask](#high-filtration) in all indoor spaces/rooms where susceptible people can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
+* [High-filtration mask](#high-filtration) in all indoor spaces/rooms where people to protect can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
 * No crowded places (outdoors and indoors)
 * Distance: 2 meters outdoors and 4 meters indoors.
 * No close range face-to-face talking
-* Ventilate the room and flat before opening extern doors ([Large Buildings](#large-buildings)). Ideally ventilate before opening the personal room and open slightly only.
+* Ventilate the room and flat before opening extern doors ([Large Buildings](#large-buildings)). Ideally ventilate before opening the personal room and open the door slightly only.
 
 #### Isolation by Home-Lockdown
 To reduce spread isolation by home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more fine-grained the measures can be.
@@ -194,7 +194,7 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 
 > #### Government Support 
-> Temporary support for individuals I consider necessary to not disrupt the life of people and give time to reorganize. Some business will only be close during wave peaks (e.g. gastronomy) while other businesses likely are reduced/closed for the foreseeable future (long distance traveling, large scale events). General notes on support and thoughts how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
+> Temporary support for individuals I consider necessary to not disrupt the life of people and give time to reorganize. Some business will only be closed during wave peaks (e.g. gastronomy) while other businesses likely are reduced/closed for the foreseeable future (long distance traveling, large scale events). General notes on support and thoughts how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
 
 ### Corona Conform Skiing
 [**in work**]
@@ -218,11 +218,11 @@ __Evidence__
 In line with theoretical risk factors (high altitude, sports, dry air in densely populated indoor rooms) - without aerosol protection measures (disinfectants and some droplet preventions were all ready in place in winter 2020) - many infections occurred in ski resorts.
 
 __Experiences__
-In the summer 2020, many mountain locations in the alps were crowded and had running cable cars. To my knowledge no increased Covid-19 incidences were observed/associated and especially no hot-spots have been observed. 
+In the summer 2020, many mountain locations in the alps were crowded and had running cable cars. To my knowledge no increased Covid-19 incidences and especially no hot-spots were observed.
 
-=> in summer time 
+=> In the summer season 
 * when good ventilation is easy and often practiced 
-* combined with low Covid incidence rates 
+* combined with low Covid incidence rates
 
 mountain holidays work.
 
@@ -230,7 +230,7 @@ mountain holidays work.
 __Comment__
 Skiing itself is safe but there need to be restrictions on the high risk skiing associated settings. 
 
-> To keep in mind, high altitude and sports increase the aerosol transmission.
+> To keep in mind, high altitude and sports increase the amount of air breathed and thus aerosol transmission.
 
 * __cableways__: best unconfined=outdoors and if confined=indoor permanent open/removed windows.
 * __tourism buildings__: 
@@ -254,7 +254,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
   * __indoor__: surgical masks or above ([Mask Types](#mask-types)) since:
     *  __Increased Aerosol Transmission__: At high altitude combined with sports, the aerosol transmission is increased.
     *  __Good filter__: Cloths masks, scarfs and so on are hard to distinguish and some of them don't hold back virions in aerosol efficiently. Even good cloths masks offer less [filter performance](#filter-performance) than most surgical masks. 
-    *  __Clean masks__: Mask likely offer better protection if fresh/clean [clean masks](#clean-masks). So it is better to go skiing with a bunch of surgical masks and rotate them. [Cleaned](#mask-cleaning) the masks can be reused. 
+    *  __Clean masks__: Mask likely offer better protection if fresh/clean [clean masks](#clean-masks). So it is better to go skiing with a bunch of surgical masks and rotate them.
 
   > Recently I read I a comment from a speaker from a Cableway Association, reading something like: "We cannot and must not control whether people wear clean or the right masks, we trust on the own responsibility." 
   > Several points:
@@ -263,19 +263,17 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
   > * Own responsibility is for everyone including operators. If there are few official rules, then there are many specific situations with no general/official rule (e.g. on the mask type). In sensible situations, it can be adequate to set additional rules or do more checks.
   
 
-
-
 ### Reduction of Nightlife
 A slow down of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
 * Evidence:
   * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife [citations coming]. 
-  * In many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings and private parties. A possible explanation is that contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In regions with low case counts and extensive contact tracing (e.g. South Korea and Hong Kong) many infections have been traced to nightlife [citations in work].  
-* ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. Drinking is common, which is a risk factor by itself, but it also prevents mask usage. 
+  * That in many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings or private parties can be attributed to trace and test schemes: Contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In regions with low case counts and extensive contact tracing (e.g. South Korea and Hong Kong) many infections have been traced to nightlife [citations in work].  
+* ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. Drinking is common, a risk factor by itself, also prevents mask usage. 
 * Experiences:
   * An early closure of nightlife was implemented in (exact measures to be checked, combined with other measures/recommendations)
-    * Greece  (11.8.20, closing between 24 pm and 7 am, in risk regions: Athens [to check])
-    * Denmark (15.9.20, closing at 22 pm in risk regions, recommendation to reduce social contact and ending private parties at 10 pm)
-    * Spain (14.8.20, closing of nightclubs; bars and restaurants close at 1 am; no drinking on the streets)
+    * Greece, 11.8.20: closing between 12 pm and 7 am, in risk regions: Athens [to check])
+    * Denmark, 15.9.20: closing at 10 pm in risk regions, recommendation to reduce social contact and ending private parties at 10 pm
+    * Spain, 14.8.20: closing of nightclubs, bars and restaurants close at 1 am, no drinking on the streets
   
     Two weeks after this measures the incidence of Covid cases flattened in all the above countries. 
     ##### Remark
@@ -320,18 +318,18 @@ Measure regarding schools can reach from complete closure to mild measures such 
     * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets. 
     * Children all come from different families and inside families protection is not easy but doable if the infection known ~~hardly doable~~. 
 * Experiences: 
-  * Closing schools were part of lock-downs in spring 2020 in many countries due to experiences with influenza, but influenza transmission is very different. For SARS-CoV-2 evidence is that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families. 
+  * Closing schools were part of lock-downs in spring 2020 in many countries due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families. 
   * In some schools mask wearing is common, negative comments are few
-  * Project based and individual learning are a common teaching approaches and known to work. 
-* Comment: Children [spread Covid-19](./spread_analyses.md) less and produce less aerosol. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even be prevented:
+  * Project based and individual learning are common teaching approaches and known to work. 
+* Comment: Children [spread Covid-19](./spread_analyses.md) less since they produce less aerosol and have better immune responses. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even prevented by:
   * Masks when face-to-face talking e.g. in breaks
   * Fewer Exams, Projects can be graded
-    * Exams can cause stress. With stress, coronaviruses get forgotten both by the immune system and oneself.  
+    * Exams can cause stress. With stress, coronaviruses get forgotten both by the immune system and the behavior.  
     * With common cold like symptoms, one  usually doesn't skip an exam. In Covid times it is important to stay home. On the other hand, skipping an exam on purpose is also easy, some respiratory symptom will pop up. 
   * No talking exercises and more focus on written tasks. 
     * Showing educational movies. 
-    * A good time to learn respectively teach programming and other computer skills. For computer skills there are many good self learning resources. 
-  * More  individual than group work. If group work, then the groups should not change daily (weekly should be ok)
+    * A good time to learn, respectively teach, programming and other computer skills. For computer skills there are many good self learning resources. 
+  * More  individual than group work. If group work, then the groups should not change daily (weekly should be ok).
   * Outdoor sports
   * Relaxed presence requirements. E.g. students/pupils can be given tasks and the tasks can be done remotely. Projects can be rescheduled and started earlier. 
   * Library like settings/managed self-learning can be an alternative to closures: students just come to learn/work/read and somebody is there to help when needed (teacher - student protection measures may work better than student-student). Pupils/students can come to read, even if it's reading the favorite book.
@@ -349,14 +347,14 @@ Measure regarding schools can reach from complete closure to mild measures such 
 * Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
 * Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
 * All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
-* Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal. E.g. long-term prohibit visits is likely no solution.
+* Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal, e.g. long-term prohibit visits is likely no solution.
 
 
 ### Outside is Safer
 Outside the viruses get diluted and then are cleared/inactivated faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main risk is in face-to-face situations. 
 
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
-- [Virion Decay](#virion-decay): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
+- [Virion Decay](./stability.md): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
 - [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
 
 #### Dilution
@@ -366,27 +364,9 @@ Outside there is much more air per person than inside:
 * Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:
 (1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person.
 
-#### Virion Decay
-Virion decay happens everywhere in the air, in the body, in water. Depending on the environment at different speed and with different mechanisms. The principal reasons for the fast virion decay are:
-* The genome is [stored in unstable ssRNA](./coronavirus.md#ssrna)
-* The envelope of coronaviruses consists of fatty acids which form the cell membranes of the virus host organism. In multicellular organism the cell membranes have not evolved to be stable outside the organism.
-* Virions have no repair mechanism since they don't have a metabolism
-
-Process and situations virions decay occurs:
-- ##### Decay by Sunlight
-  The UV part destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin, a cell membrane and inside a the cell nucleus takes damage from exposure to UV (the more light absorbing melanin the less sunlight reaches the inner layer of the skin).
-- ##### Decay by Heat
-  particles and surfaces exposed to sunlight reach easily temperatures over 45 degrees. At this temperature virions don't stay intact for long [Chan et al 2011](#chan).
-- ##### Disintegration
-  * digestive enzymes from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary disintegrate the envelope
-  * soap destroys the lipid envelope and so the virions
-- ##### Decay by Time
-  Single stranded RNA is unstable and thus even under optimal conditions virions have a probability to decay
-    
-
 #### Virion Clearance
 Virion are cleared from the air by the mechanism below and due to [virion decay](#virion-decay) there's no accumulation.
-- [Virion Decay](#virion-decay) in air: occurs mainly through sun light
+- [Virion Decay](./stability.md) in air: occurs mainly through sun light
 - Condensation 
 - Washed out by rain
 - Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outside the vast majority of surfaces are not infectable. 
