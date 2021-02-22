@@ -9,14 +9,14 @@ Movement is in the early phase of Covid-19 helps to produce a good immune respon
 ## Literature on Movement
 * In his readable interview [Zhu](#zhu) asks precise question to Dr Woods on the effects of exercising on virus infections and the immune response.
 * [Ali and Kunugi](#ali) describe several adverse consequences of reduced/no movement.
-* Movement and adequate exercise is recommended in many [recommendations regarding rehabilitation](#references-rehabilitation). 
+* Movement and adequate exercise is recommended in many [recommendations regarding rehabilitation](./covid19.md#references-rehabilitation). 
 * more refs on the way
 
 ## Relevance
 To support good health and Covid prognosis the [measures](./controlling.md) and the [isolation and quarantine rules](./controlling.md#covid-19-cases-and-quarantine)) should take the benefits of movement into account.
 
 ## Biological Mechanisms
-[simplified, a somewhat more detailed argumentation in work]
+[simplified, a more detailed argumentation in work]
 In the __early phase__ of Covid, movement is important since the circulation in the lymphatic system is mostly passive and driven by body movement. With movement the immune response is better and faster since coronavirus infection 'signatures' reach the lymph nodes faster where capable immune cells are trained. Some of these cells migrate to protect other body location such as the lungs; extern movement makes them migrate faster. With healthy movement, for infections starting in the upper respiratory tract, protective immune cells (mainly T cells) are likely to reach the lungs before the viruses have time to replicate to high numbers.
 In the __convalescent phase__ movement is important since 
 1. Movement helps clearing the lymph and thus remnants of SARS-2 (antigens which can cause inflammation) are removed.
