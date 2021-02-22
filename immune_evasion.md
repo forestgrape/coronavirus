@@ -22,7 +22,7 @@ For coronaviruses waiting until acquired wanes or even jumping generations is us
 
 #### Overcoming Neutralizing Antibodies
 [in work, to check and to add refs]
-The only protein well accessible for coronavirus virions is the spike protein, so that's the target. If a sufficient number of spikes have antibodies attached a virion cannot infect cells on its own anymore, since working spike proteins are needed. Antibodies that block virions from infecting cells are called neutralizing antibodies. Coronaviruses have a variety of mechanisms to circumvent neutralizing antibodies. However circumventing neutralizing antibodies is not free for coronaviruses, so neutralizing antibodies slow down them and the immune system has more time. Additionally neu
+The only virion protein reliable accessible is the spike protein, so that's the target. If a sufficient number of spikes have antibodies attached a virion cannot infect cells on its own anymore, since working spike proteins are needed for active cell entry. Antibodies that block virions from infecting cells are called neutralizing antibodies. Coronaviruses have a variety of mechanisms to circumvent neutralizing antibodies. But circumventing neutralizing antibodies is not free for coronaviruses, so neutralizing antibodies slows them down, the immune system has more time and neutralizing antibodies also act
 - Mutate
 - Shield
   - glycans on the outside
@@ -33,9 +33,9 @@ The only protein well accessible for coronavirus virions is the spike protein, s
 - Exploit
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
   
-> Neutralizing antibodies act also as non-neutralizing antibodies i.e. they mark something as not wanted and thus the immune system targets it.
-> 
-> Besides antibodies, natural infections and to some extent vaccines induce also specific memory T cells targeting different antigens of viruses.
+> Neutralizing antibodies act also as non-neutralizing antibodies (cells show what they produce on the outside. An infected cell usually produces coronavirus spikes and this spikes get presented on the cell membrane. Immune cells such as T cells can detect this and induce cell death. So the cell is stopped from producing many virions. 
+
+> Besides antibodies, natural infections and to some extent vaccines induce also specific memory T cells targeting different antigens of viruses. These T cells are especially effective at recognizing the presented antigens mentioned above.
 
 
 ## References
