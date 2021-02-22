@@ -220,11 +220,7 @@ In line with theoretical risk factors (high altitude, sports, dry air in densely
 __Experiences__
 In the summer 2020, many mountain locations in the alps were crowded and had running cable cars. To my knowledge no increased Covid-19 incidences and especially no hot-spots were observed.
 
-=> In the summer season 
-* when good ventilation is easy and often practiced 
-* combined with low Covid incidence rates
-
-mountain holidays work.
+=> In the summer season when good ventilation is easy and often practiced and combined with low Covid incidence rates mountain holidays worked well.
 
 
 __Comment__
