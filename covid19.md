@@ -13,6 +13,7 @@
   * [Movement](#movement)
 * [Recovery and Long Lasting Effects](#recovery-and-long-lasting-effects)
   * [Literature Recovery](#literature-recovery)
+  * [How to Recover](#how-to-recover)
   * [Long Lasting Effects](#long-lasting-effects)
 * [Fatality Rate](#fatality-rate)
   * [Comparing Case and Infection Fatality](#comparing-case-and-infection-fatality)
@@ -119,10 +120,9 @@ The symptoms of a [virus disease](#virus-disease) are caused:
 2. Indirect symptoms through the induced immune response([Sketching of the Immune System](./immune_system.md).
 
 ### Symptoms at different Locations
+> A similar section is in the chapter [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md), a merge is planned.
+ 
 Infection symptoms depend on the infected locations. SARS-CoV-2 infects different [Locations](#infection-locations). Typical symptoms for the different locations are: 
-
-> A similar section is in the chapter [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md), a merge is planned. 
-
 * Upper Respiratory Tract => Symptoms are similar to other respiratory diseases: a sore throat, coughing and a runny nose. Loss of smell or taste.
 * Throat => Coughing, the body wants to get rid of the viruses in the respiratory tract, virions cleared to the intestine can cause diarrhea.
 * Trachea => Coughing
@@ -140,7 +140,13 @@ Infection symptoms depend on the infected locations. SARS-CoV-2 infects differen
 [in work and incomplete]
 
 ### Movement
-Movement is import for optimal functioning of the immune system. A good working immune system in turn is important regarding the prevention, the treatment and recovering of/from Covid-19. Moderate movement (e.g. a walk) is recommended even when infected, while exercising is only recommended when fit and healthy. 
+Movement is import for optimal functioning of the immune system. A good working immune system in turn is important regarding the prevention, the treatment and recovering of/from Covid-19. Moderate movement (e.g. a walk or stretching at home) is recommended even when infected, while exercise is only recommended when fit and healthy.
+
+> In some regions a walk outside is not allowed for people tested positive (though this are usually few since the detection rate of mild positives is usually very low), at least if not living in a house with a garden.
+
+> Indoor movement can be aerosol generating. Therefore when possibly infected and there are people to protect in the same flat, it is important to be in a separate room and ventilate the room after light exercise. To reduce transmission risk, outdoors should be preferred.
+
+> In the case of targeted testing I think those living in flat with small living spaces, which already have a greater infection risk, should not have additional constraints possibly hindering a healthy recovery.
 
 The benefits of sports founded by biological mechanisms and epidemiological evidence are described on the [Movement page](./movement.md).
 
@@ -154,14 +160,19 @@ Recommended articles regarding movement and exercise are:
 [to be done]
 Over 90 % of people are adverse effects free a couple of weeks after a SARS-CoV-2 infection. Regarding athletes, countless have been diagnosed with Covid-19: Many of them competed in professional sports just a few weeks later and - to my knowledge - long-term adverse effects haven't been observed for any athlete. Athletes often have good fitness, do regular exercise and eat healthily . A healthy lifestyle including [movement](#movement) helps everybody to be in good health.
 
-Nevertheless for some people a healthy life-style is not enough and some experience [long lasting effects](#long-lasting-effects). How to better recover in [Literature Recovery](#literature-recovery).
+Nevertheless for some people a healthy life-style is not enough and some experience [long lasting effects](#long-lasting-effects). 
 
 ### Literature Recovery
 * A recommended read is [Long COVID: A Primer for Family Physicians](#greenhalgh-nov2020) by Greenhalgh and Knight
 * More detailed reads are [Management of post-acute covid-19 in primary care](#greenhalgh-aug2020) by Greenhalgh et al and [The Stanford Hall consensus statement for post-COVID-19 rehabilitation](#barker-davies) by Barker-Davies et al
 
+### How to Recover
+[in work]
+How to optimally recover is addressed in papers listed in [Literature Recovery](#literature-recovery).
+
 ### Long Lasting Effects
 Sometime long lasting symptoms such as fatigue and decreased physical fitness can occur, called long Covid/long-haulers. Tissues damage which needs some time to repair can be a cause ([Marshall](#marshall)). Another cause for long covid can be that immune system overshoots. To prevent the latter moderate [movement](#movement) can help.
+
 
 ## Fatality Rate
 
@@ -179,7 +190,7 @@ Once agreed upon a uniform way to measure the fatality rate, the rate still vari
 
 
 > ###### Case Fatality Rate
-> The *case fatality rate* denotes the death rate obtained by using the official case counts: `cfr = #deaths/#(official cases)`
+> The *case fatality rate* denotes the deaths divided by the official case counts: `cfr = #deaths/#(official cases)`
  
 ### Comparing Case and Infection Fatality
 The official Covid-19 case counts are in most countries fare to low and thus the cfr fare to high. 
