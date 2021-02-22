@@ -36,17 +36,18 @@ There are several counts to distinguish [not very clear on this page yet, in wor
 * End of disease. Often about 10 days after symptom onset for a mild disease. The disease lasts usually much longer in severe cases and is fatal in about [1 of 400 cases](#on-numbers) which yields the **death count**.
 
 ### Motivation to Monitor
-* Since what control tactics is optimal and/or needed depends largely on incidence rates. If the incidence rate is out of some bounds the strategy may fail to work or be unnecessary strict: 
-  * Controlling methods relying on a working contact tracing need low incidence rates and detecting most cases with monitoring. To rely on contact tracing detection rate should be at least 75%. Still useful if lower but one shouldn't rely on it.   
-  * Many controlling methods rely on methods reducing the infection probability but not preventing it (e.g. distancing, low-filter face masks), that only works if there are not to many infected 
+* Determine control which control measures are optimal and/or needed depends on incidence rates. If the incidence rate is out of some bounds the measures may fail to work or be unnecessary strict: 
+  * Controlling methods relying on contact tracing need low incidence rates and detecting most cases with monitoring. To rely on contact tracing detection rate should be at least 75%. Still useful if lower but one shouldn't rely on it.   
+  * Many controlling methods rely on methods reducing the infection probability but not preventing it (e.g. distancing, intermediate filtration face masks), that only works if there are not to many infected.
   * Shutting down businesses (badly ventilated offices and fabrics are the fare bigger risk than schools or outdoor gastronomy) may not be adequate at an incidence rate of 0.1% of currently infected, adequate to close targeted at 1% and as much as possible all indoor settings at 10%. 
-* Planning of in hospitals: Knowing the current incidence rates gives an estimate for the capacity needed in a few weeks
-* Communication: Knowing the cases helps on decision for everybody such if to avoid crowded spaces or staying home when having respiratory symptoms 
+* Planning in hospitals: Knowing the current incidence rates gives an estimate for the capacity needed in a few weeks.
+* Communication: Knowing the cases helps on decision for everybody such if to avoid crowded spaces or staying home when having respiratory symptoms.
+
 
 ### Detect Estimates Out of Bounds
 The equation 
 `current_death_count = estimated_past_case_count * fatality_rate` 
-can be used to detect if the estimation methods worked in the past. How fare in the past depends how long on average the patients survive and whether takes the date of infection or the date of going for a test ([Different Counts](#different-counts)). Assuming a fatality rate of 0.25% yields one in 400 dies from Covid-19. So the 
+can be used to detect if the estimation methods worked in the past. How fare in the past depends how long on average the patients survive and whether takes the date of infection or the date of going for a test ([Different Counts](#different-counts)). Assuming a fatality rate of 0.25% is equal to one in 400  Covid infectees dies. So the 
 `estimated_past_case_count = 400 * current_death_count` 
 The case can be different yielding a correction factor:
 `correction_factor = estimated_past_case_count/past_case_count_from_death_count`
@@ -55,10 +56,10 @@ If the estimation method didn't change the current actual infected can be estima
 
 
 ### On Estimates Out of Bounds
-A correction factor greater than 2 needs a redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](./controlling.md#strategy) and [On Numbers](#on-numbers)). How much worrying depends if, how effective and when measures have been adapted. 
+A correction factor greater than 2 needs a redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](./controlling.md#strategy) and [On Numbers](#on-numbers)). How much worrying depends whether, when and how effective the measures have been adapted since. 
 Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/control/reduction can be necessary.
 
-1. Pausing infections especially everything super-spreading opportunities i.e. indoor rooms. 
+1. Pausing infections especially everything super-spreading opportunities for a few days until testing and estimates are available. Do [outdoor days](./controlling.md#outdoor-days) and possibly some restrictions on indoor rooms: 
   * closure of non essential businesses
   * for somewhat essential businesses e.g. longer distance public transport: names can be recorded and people need to hand in some argumentation in the next weeks why it was essential to enter. This causes few immediate work/tumults but likely discourages most from unnecessarily entering. 
   * whitelist approach if doable e.g. negative test/no fever required
@@ -95,7 +96,7 @@ Testing some for low and high incidence. Reasons are noted or already mentioned 
 ### Testing Priorities at High Incidence 
 1. Testing of risk patients. Reason: Appropriate treatment and prevention of spread (to other risk persons). 
 2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
-3. How many people with respiratory disease symptoms have Covid-19. 
+3. How many people with respiratory disease symptoms have Covid-19. Reason: Appropriate advices for those experiencing respiratory symptoms.
 4. Tests to do contact tracing. Reason: Break infection chains.
 5. Sampling different population groups e.g. young people: students and school children, region based, incoming travelers. Reason: Have an overview what's going on to adapt measures. 
 6. Monitoring respiratory diseases: influenza and common colds. 
@@ -129,13 +130,14 @@ Notations and Equivalences:
 * The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
 [in work]
 * the numbers should be **lower during cold seasons**, since aerosol transmission is very hard to control. Some immune protection can be built up in warm seasons but not in cold season. 
-* The current numbers need to be estimated. The death count detects infections happened about 20 days in the past. The counts from contact tracing or testing symptomatic are a few days in the past. 
+* The current numbers need to be estimated. The death count detects infections happened about 20 days in the past. The counts from contact tracing or testing symptomatic are a few days in the past.
+* The numbers below are for a __population without immunity in risk groups__ (mainly people without a good immune system). Immunity can be acquired by previous infections or vaccines.
   
 total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment if the estimated values are for several days greater and *no* adequate measures in place
 --------|--------|------|--------|---
-0.2%   |2 K     | 200  |  ~.5   | if less or not increasing or mainly young infected: loose rules, own responsibility
-0.4%   |4 K     | 400  |  ~1    | if greater or increasing: **monitoring** needed. Prefer outdoor to indoor
-1 %    |10 K    | 1000 |  ~2.5  | worrisome if case count increases => tighten the rules, infection risk is increased due to many infected. 
+0.2%   |2 K     | 200  |  ~.5   | if less or not increasing or mainly young infected: loose rules, self responsibility
+0.4%   |4 K     | 400  |  ~1    | if greater and increasing: **monitoring** needed. Prefer outdoor to indoor
+1 %    |10 K    | 1000 |  ~2.5  | worrisome if greater and case count increases => tighten the rules, infection risk is increased due to many infected. 
 4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
 5%     |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed
 10%    |100 K   |10'000| ~25+   | **prevent even at very high costs**, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
@@ -168,7 +170,7 @@ E.g. In Switzerland as of 17.4.20, the testing policy is to test only people who
 Remark: As of 1.5.20 more people are allowed to test.
 
 > Subjective Remark, May 2020: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more fine-grained measures can be. A gradual reopening starting in April makes sense.
-Room for improvement: Masks benefits indoors and that outdoors infection risk is fare smaller should be clearly stated.<br>
+Room for improvement: Masks benefits indoors and that outdoors infection risk is much smaller should be clearly stated.
 > To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view in all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lock-downs step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important.
 Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
 
