@@ -76,7 +76,7 @@ Self checks of the cells: inside the cells there are various systems to keep to 
 * Detect stress e.g. Ribosome permanently producing. 
 
 #### Extern-checks
-Cells present what they produce on the outside: Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells. 
+Cells present what they produce on the outside: Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
 
 
 ## Immune System Mechanisms
@@ -103,7 +103,7 @@ Recognizing biological substances as unwanted and eliminate them. Unlike chemica
 
 ### T Cells
 * T cells are in the blood and locally in tissues. 
-* T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism e.g. produce virions, which can be [detected by T cells](#extern-checks).
+* T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism since they produce proteins encoded by the viruses. [T cells can detect](#extern-checks) the virus proteins exposed.
 * To control coronaviruses infections T cells are key [citation coming].
 
 > ###### Resident T cell
