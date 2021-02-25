@@ -8,14 +8,14 @@
   * [Exponential Decay](#exponential-decay)
   * [Virion Decay](#virion-decay)
   * [Measuring Decay Rate](#measuring-decay-rate)
-* [Decay Modifiers](#decay-modifiers)
+* [Decay Mechanisms](#decay-mechanisms)
+* [Factors modifying the Decay](#factors-modifying-the-decay)
   * [Temperature](#temperature)
   * [PH Values](#ph-values)
-* [Decay Mechanisms](#decay-mechanisms)
 * [Intrinsic Decay Mechanisms](#intrinsic-decay-mechanisms)
   * [RNA Decay](#rna-decay)
   * [Protein Decay](#protein-decay)
-  * [Lipid Envelope](#lipid-envelope)
+  * [Lipid Envelope Decay](#lipid-envelope-decay)
 * [Extrinsic Decay Mechanisms](#extrinsic-decay-mechanisms)
   * [Evaporation and Condensation](#evaporation-and-condensation)
   * [Osmotic Pressure](#osmotic-pressure)
@@ -24,6 +24,7 @@
   * [Biological and Chemical Substances](#biological-and-chemical-substances)
 * [References](#references)
   * [References Temperature](#references-temperature)
+
 
 
 ## Introduction
@@ -39,8 +40,11 @@
 * In the stomach virions are inactivated by acids.
 
 
+
 ## Measuring Infectious Virions
 To measure infectious viruses cell culture experiments are necessary. The methods detecting building blocks of viruses (PCR and antigen tests) yield positive regardless whether the virions are intact and infectious (page [diagnosis and viral load](./diagnosis_and_viral_load.md)).
+
+
 
 ## Decay Rate
 
@@ -58,11 +62,20 @@ Common measures for the rate of an exponential decay are:
 * tenth life time = 90% reduction time = log10 reduction time = time until 90% of the collection is decayed = a tenth of the collection is intact
 
 
-## Decay Modifiers
+
+## Decay Mechanisms
+The decay of virions occurs without and with extern influences denoted as [intrinsic](#intrinsic-decay) and [extrinsic](#extrinsic-decay) here. Factors such as temperature or PH value which modify the rate of other decay mechanism are called [modifiers](#decay-modifiers).
+
+
+
+## Factors modifying the Decay
+
+> ##### Decay Modifiers
+> A factor which changes the speed/rate of a decay mechanism is called decay modifier.
 
 ### Temperature
 [**in work and to check/confirm and cite**]
-The temperature increases both the [intrinsic decay](#intrinsic-decay) and the extrinsic effects
+The temperature modifies both the [intrinsic decay](#intrinsic-decay) and the extrinsic effects
 * #### Intrinsic Effects 
   The [intrinsic decay mechanisms](#intrinsic-decay) are: Proteins loose functionality, RNA decays, the lipid envelopes looses stability.
   
@@ -80,18 +93,25 @@ At temperatures around 22 degrees PH values between 3 and 10 don't do much to de
 
 
 
-## Decay Mechanisms
-
-
 ## Intrinsic Decay Mechanisms
+
+> ##### Intrinsic Decay
+> Intrinsic decay occurs even without special extern influences. It can be modified by extern factors such as temperature.
+
 ### RNA Decay
-RNA is unstable and decays naturally (unless stored at freezing cold temperatures).
+RNA is unstable and decays (unless stored at freezing cold temperatures).
 ### Protein Decay
 The proteins especially the spike proteins are subject to decay especially at temperatures above 45 degree.
-### Lipid Envelope
+### Lipid Envelope Decay
 The lipid envelope looses stability.
 
+
+
 ## Extrinsic Decay Mechanisms
+
+> ##### Extrinsic Decay
+> Extrinsic decay is induced by extern environmental factors.
+
 ### Evaporation and Condensation
 Evaporation and condensation affect the concentration of chemical and biological substances. Which can yield clumping or [osmotic pressures](#osmotic-pressure).
 
@@ -100,10 +120,10 @@ Droplets of any size in the air or on surfaces are subject to evaporation and co
 
 ### UV Light
 [in work]
-The UV part of sun light destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV.
+The UV part of sun light destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. => RNA decay
 
 ### Extreme PH Values
-While PH values between 3 and 10 just increase the intrinsic decay. PH values below 3 or above 10 actively inactivate CoVs.
+While PH values between 3 and 10 just adapt the rate of other factors. PH values below 3 or above 10 actively inactivate CoVs. => Proteins, Envelope
 
 ### Biological and Chemical Substances
 [in work]
@@ -112,6 +132,9 @@ While PH values between 3 and 10 just increase the intrinsic decay. PH values be
 * __Neutralizing antibodies__ can bind to the spike proteins and thereby the spike proteins loose the functionality to do the cell fusion.
 * __Antiviral substances__ found in most body fluids destroy virions e.g. by changing the structure of the spike proteins, destroying the lipid envelope.
 * __Proteins__ (even when they do not have enzymatic functions targeting virions) can interact with the spike protein and induce conformation changes whereby the spikes loose the ability to induce cell fusion.
+* __Hydrogen Peroxide__: Denatures Proteins, RNA.
+=> Extern substances act on the spike or the envelope.
+=> Substances entering the virion can act on intern or extern structures.
 
 
 ## References
