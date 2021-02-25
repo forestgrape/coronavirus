@@ -43,21 +43,25 @@ The amount of exchanged air is high
   * activities such as singing, shouting or strains e.g. sports
   
 The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
-Regarding prevention measures the takeaway is, that transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
+Regarding prevention measures the takeaway is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
+
 ### Observations supporting the Air Exchange Hypothesis
 Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air:
-* [Geographical Analysis](#geographical-analysis): Covid-19 waves across the world are predated by uncomfortable climate conditions (sometimes to hot but mostly to cold). 
+* [Geographical Analysis](#geographical-analysis): Covid-19 waves across the world are predated by uncomfortable climate conditions:
+  * Cold temperatures below 15 degrees during the day and below 10 degrees at night => indoor heating
+  * Hot outside temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). 
 * [Large Scale Sporting Events](#large-scale-sporting-events) In sports clubs where spectators are/were allowed to the stadiums, the players have a much higher risks to get infected with Covid-19 than in regions without spectators. Moreover Covid-19 incidence rates seem to be higher in areas with large scale sport events (especially indoor). 
 * [Airplanes](#airplanes): High spread rates observed without adequate prevention measures (mask, ventilation). 
 * [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world.
+
+Situations where no increased spread is observed:
 * Dense living conditions in comfortable climate or in regions where air-conditioners are not widespread
 * Limited access to water for washing hands alone don't yield an increased spread of Covid-19. 
 
 
 ### The Susceptibility and Infectiousness varies across People and depends on Biological Factors
 The susceptibility and infectiousness are correlated and depend on factors such as age, BMI, sex ...
-* [Schools and Children](#schools-and-children)
-Children less susceptible to infection and they spread Covid less than adults. 
+* [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. 
 *  Women are less infectious than men (observed for influenza and the generation of aerosol) [refs coming]
 * [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections [**in work**]. 
   
@@ -118,7 +122,7 @@ Infectious disease wave through the clusters until there's no more ground to nou
 
 ### Living Conditions
 People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
-* [Brueningk et al](#summary-brueningk) deduce from Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
+* [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
 * [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in). 
 
 ## Infectors
@@ -277,8 +281,8 @@ Comparison with SARS-1 or MERS:
 * MERS: 0.035 (0.035)
 
 
-> #### Comments
-> * Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for several household members are likely and thus the prevalence is likely higher than the secondary attack rate. 
+> #### Comment
+> Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for different household members are likely and thus inferring the secondary attack rate from the prevalence in household members overestimates the secondary attack rate. 
 
 
 
@@ -356,7 +360,6 @@ Analyzing a large high school out break in Israel shortly after schools have bee
 
 ### Summary Dattner
 **The role of children in the spread of COVID-19: Using household data from Bnei Brak, Israel, to estimate the relative susceptibility and infectivity of children**
-Remark: **not** peer-reviewed
 #### Methods
 * "Data were collected from households in the city of Bnei Brak (City close to Tel Aviv), Israel, in which all household members were tested for COVID-19 using PCR."
 * The authors developed a model (discrete stochastic dynamic model) for the propagation of Covid within a household. With this model infectivity and susceptibility for children and adults can be estimated. 
@@ -429,10 +432,13 @@ Lee B and Raszka WV.
 Pediatrics. 2020;146(2):e2020004879 [https://doi.org/10.1542/peds.2020-004879]()
 
 #### Choi
-Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases, 26(11), 2713-2716. https://dx.doi.org/10.3201/eid2611.203254.
+Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). 
+**In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases**, 26(11), 2713-2716. 
+https://dx.doi.org/10.3201/eid2611.203254.
 
 #### Freedman
-Freedman, D. O., & Wilder-Smith, A. (2020). In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication. https://doi.org/10.1093/jtm/taaa178                                                                                                            
+Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
+https://doi.org/10.1093/jtm/taaa178                                                                                                            
 
 #### Lundkvist
 Åke Lundkvist, Stefan Hanson & Björn Olsen (2020) 
@@ -483,9 +489,6 @@ Science 362 (6410), 75-79. [https://doi.org/10.1126/science.aat6030]()
 * "Cities with higher mean intensity tend to be located in the east, have smaller population sizes, and have higher-amplitude seasonal fluctuations in specific humidity." (Fig 1 D-F)
 * "Increasing base transmission potential can decrease epidemic intensity in a seasonally forced compartmental epidemic model." (Fig 2)
 * Population size and crowding increase the base transmission potential. (Fig 3 F,G)
-
-
-
 
 
 
