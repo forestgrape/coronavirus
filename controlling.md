@@ -127,7 +127,7 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 #### Suggestions for Infected
 as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
-* [High-filtration mask](#high-filtration) in all indoor spaces/rooms where people to protect can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
+* [High-filtration mask](./masks.md#high-filtration) in all indoor spaces/rooms where people to protect can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
 * No crowded places (outdoors and indoors)
 * Distance: 2 meters outdoors and 4 meters indoors.
 * No close range face-to-face talking
@@ -142,7 +142,7 @@ To reduce spread isolation by home-lockdown is a radical measure. The more is kn
 
   Preventing spread opportunities e.g. avoiding indoor and/or crowded public spaces is important.
 
-Isolation by a stay-at-home order may be working for people with own houses with gardens but for people living in flats in big buildings (and the majority of people do so in Covid risk countries), permanent home stay can increase transmission opportunities and movement is healthy.
+Isolation by a stay-at-home-order may be working for people with own houses with gardens but for people living in flats in big buildings (and the majority of people do so in Covid risk regions), permanent home stay can increase transmission opportunities and has adverse health effects since movement is healthy.
 
 
 ## Control Measures
@@ -202,9 +202,9 @@ __In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsaf
 
 > My memories of skiing date back to the early 90s, back then a ski day was mostly outdoors from open-sky lifts to outdoor lunch.
 
-> Allowing skiing in some regions first, I consider good, since all can benefit from the experiences gathered. Ideally the situations are closely monitored (e.g. Covid-19 saliva-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) are transparently published.
+> Allowing skiing in some regions first, I consider beneficial, since all can benefit from the experiences gathered. Ideally the situations are closely monitored (e.g. Covid-19 saliva-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) are transparently published.
 
-> International Travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. no further discussed on this page). 
+> International Travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. not further discussed on this page). 
 
 __ThinkThrough__
 Two sides:
@@ -246,7 +246,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
     * __indoor__: very high risk often dense crowds and a lot of alcohol (see also indoor gastronomy)
     * __outdoor__: low to medium risk with some distance and limits on alcohol
 * __masks__:
-  * __outdoor__: any mask including cloths masks and scarf like to prevent droplet transmission e.g. for staff/ski teachers. 
+  * __outdoor__: any mask including cloths masks and scarf-like to prevent droplet transmission e.g. for staff/ski teachers. 
   * __indoor__: surgical masks or above ([Mask Types](#mask-types)) since:
     *  __Increased Aerosol Transmission__: At high altitude combined with sports, the aerosol transmission is increased.
     *  __Good filter__: Cloths masks, scarfs and so on are hard to distinguish and some of them don't hold back virions in aerosol efficiently. Even good cloths masks offer less [filter performance](#filter-performance) than most surgical masks. 
@@ -308,13 +308,13 @@ Measure regarding schools can reach from complete closure to mild measures such 
 * ThinkThrough:
   * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children). If they spread then mainly with droplet transmission which can be prevented. 
   * However:
-    * Even with a low R value children can contribute to the overall spread. 
-    * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams. 
-    * Many people in the same room and school rooms may not be ventilated well
-    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets. 
-    * Children all come from different families and inside families protection is not easy but doable if the infection known ~~hardly doable~~. 
+    * Even with a low R value children can contribute to the overall spread.
+    * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams.
+    * Many people in the same room and classrooms are not always ventilated well.
+    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets.
+    * Children all come from different families and inside families protection is not easy but doable if the infection known ~~hardly doable~~ (children are not super-spreaders).
 * Experiences: 
-  * Closing schools were part of lock-downs in spring 2020 in many countries due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families. 
+  * Closing schools were part of lock-downs in spring 2020 in many countries due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
   * In some schools mask wearing is common, negative comments are few
   * Project based and individual learning are common teaching approaches and known to work. 
 * Comment: Children [spread Covid-19](./spread_analyses.md) less since they produce less aerosol and have better immune responses. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even prevented by:
@@ -347,7 +347,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
 
 
 ### Outside is Safer
-Outside the viruses get diluted and then are cleared/inactivated faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main risk is in face-to-face situations. 
+Outside the viruses get diluted and then are cleared or decay faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main risk is in face-to-face situations. 
 
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [Virion Decay](./stability.md): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
