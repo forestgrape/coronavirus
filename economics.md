@@ -113,9 +113,12 @@ Government support options for the economy.
 Depends on what the state owns and whether a short term increase in spending is beneficial.
 Most states own/control:
 * **Infrastructure**: e.g. transport and public buildings: Well suited for acyclic investment since the infrastructure usually last several decades and often there is some freedom in the timing of renewal. 
-* **Education**: The need for education is steady and so short term push makes only sense in certain/rare situations. Also education providence (especially teachers) often is limited so to scale up education is often not possible. 
-* **Administration**: The need for administration tends to be steady and so short term increase makes only sense in rare situations (contact tracing for Covid-19 is an administrative task for which a short-term increase during a Covid-19 wave is often adequate)
-
+* **Education**: 
+  * The need for education is steady and so short term push makes only sense in certain/rare situations. Exceptions: 
+    * Training shop owners how to add/move to an online business.
+    * Training people with closed businesses some new skills. E.g. in the tourisms or event branches web-development skills are nice to have.
+  * Education providence (especially teachers) often is limited so to scale up education is often not possible.
+* **Administration**: The need for administration tends to be steady and so short term increase makes only sense in rare situations (e.g. contact tracing for Covid-19 is an administrative task for which a short-term increase during a Covid-19 wave is often adequate)
 
 
 #### Adequate Situations
@@ -126,17 +129,16 @@ Acyclic government funding works especially well if the crisis involve construct
   Only targeted economies (international travel, gastronomy, culture) are hit and in these the government is often not involved. 
 
 ### Lowering the Interest Rates 
-The interest rates are set by the national banks. Most are (formally and/or to some extent) independent of the government and their goal is defined in the constitution [to confirm]. Often the goal is to supply sufficient money for the economics to be running well and keep the inflation in an interval conforming the economic goals. Nevertheless the national banks and thus setting the interest rates are part of the wider government.
-
+The interest rates are set by the national banks. Though most are (some formally and/or to some extent) independent of the government, the national banks and especially setting the interest rates is part of governing an economy. The goals are defined in the constitution [to confirm].  Often the goal is to supply sufficient money for the economics to be running well and keep the inflation in an interval conforming the economic goals. 
 Lowering the interest rates gets the banks access to cheaper money which in turn can provide cheaper credits to cooperates or individuals and they in turn invest the money. Usually these investments create additional demand
 
 #### Adequate Situations
-Low interest rates yield more liquidity. Liquidity in turn can yield more investments and thus can catalyze the transformation of the economy.
+Low interest rates yield more liquidity. Liquidity in turn can yield more investments and thus can catalyze transformations of the economy and found new markets.
 
 #### Pro/Contra
-* A main drawback is that the money flow is top down: From the  large bank to large companies. Small businesses however only get a fraction of the liquidity provided and often additionally retarded. 
-  * Slow effect since mostly top down: the banks lower their credits rates but mostly likely for large businesses only (small business credits require time to scale since risk checking and so on requires time and personal). Large cooperates discuss whether to take and what to do with additional money, then decisions need to flow through the hierarchy and possible multiple times. So until new jobs are created a lot time passes 
-  * the jobs are created top down and may not those jobs people reorganizing are looking for or qualified. 
+A main drawback is that the money flow is top down: From the  large bank to large companies. Small businesses however only get a fraction of the liquidity provided and often additionally retarded. 
+* Slow effect since mostly top down: the banks lower their credits rates but mostly likely for large businesses only (small business credits require time to scale since risk checking and so on requires time and personal). Large cooperates discuss whether to take and what to do with additional money, then decisions need to flow through the hierarchy and possible multiple times. So until new jobs are created a lot time passes 
+* the jobs are created top down and may not be the jobs people reorganizing are looking for or qualified for. 
 
 ### Targeted Financial Support 
 [**in work and incomplete**]
