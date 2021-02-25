@@ -72,11 +72,11 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 
 ### What to Monitor
 1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
-    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](#handling-covid-19-cases-and-quarantine))
+    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](./controlling.md#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](./controlling.md#covid-19-cases-and-quarantine))
 2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
 3. Other respiratory diseases: influenza and common colds should be monitored too:
   * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
-  * long term adverse effects of common colds are likely underestimated. This is a good opportunity to diminish there prevalence and reduce the number of strains circulating. 
+  * long term adverse effects of some common cold viruses are likely underestimated. This is a good opportunity to diminish there prevalence and reduce the number of strains circulating. 
 
 ### How to Monitor
 * **Frequency:** Ideally these are taken near daily, else at least weekly. 
