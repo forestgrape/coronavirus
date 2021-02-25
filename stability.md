@@ -12,16 +12,16 @@
 * [Factors modifying the Decay](#factors-modifying-the-decay)
   * [Temperature](#temperature)
   * [PH Values](#ph-values)
-* [Intrinsic Decay Mechanisms](#intrinsic-decay-mechanisms)
+* [Decay Mechanisms](#decay-mechanisms-1)
   * [RNA Decay](#rna-decay)
   * [Protein Decay](#protein-decay)
   * [Lipid Envelope Decay](#lipid-envelope-decay)
-* [Extrinsic Decay Mechanisms](#extrinsic-decay-mechanisms)
+* [Decay Factors](#decay-factors)
   * [Evaporation and Condensation](#evaporation-and-condensation)
   * [Osmotic Pressure](#osmotic-pressure)
   * [UV Light](#uv-light)
-  * [Extreme PH Values](#extreme-ph-values)
-  * [Biological and Chemical Substances](#biological-and-chemical-substances)
+  * [PH Values](#ph-values-1)
+  * [Biochemicals](#biochemicals)
 * [References](#references)
   * [References Temperature](#references-temperature)
 
@@ -76,9 +76,10 @@ The decay of virions occurs without and with extern influences denoted as [intri
 ### Temperature
 [**in work and to check/confirm and cite**]
 The temperature modifies both the [intrinsic decay](#intrinsic-decay) and the extrinsic effects
+
 * #### Intrinsic Effects 
   The [intrinsic decay mechanisms](#intrinsic-decay) are: Proteins loose functionality, RNA decays, the lipid envelopes looses stability.
-  
+
 * #### Extrinsic Effects
   * Temperature changes effect [evaporation and condensation](#evaporation-and-condensation). The water amount changed induces [osmotic forces](#osmotic-pressure).
   * Increased speed of [biochemical reactions](#biological-and-chemical-substances)
@@ -93,27 +94,45 @@ At temperatures around 22 degrees PH values between 3 and 10 don't do much to de
 
 
 
-## Intrinsic Decay Mechanisms
-
-> ##### Intrinsic Decay
-> Intrinsic decay occurs even without special extern influences. It can be modified by extern factors such as temperature.
+## Decay Mechanisms
+Coronavirus virions are composed of three classes of building blocks: RNA, Proteins and a lipid envelope. Each class of these building blocks is subject to decay. From the outside accessible is only the envelope and the spikes.
 
 ### RNA Decay
-RNA is unstable and decays (unless stored at freezing cold temperatures).
+#### Factors influencing RNA Decay
+* Temperature
+* UV light
+
+#### Possible Changes
+* RNA mutates (unless stored at freezing cold temperatures).
+* Secondary Structure change
+* RNA cleavage
+
 ### Protein Decay
-The proteins especially the spike proteins are subject to decay especially at temperatures above 45 degree.
+#### Factors influencing Protein Decay
+* Temperature: The proteins especially the spike proteins are subject to decay especially at temperatures above 45 degree.
+* Biochemicals
+  * Other Proteins: Other proteins can bind and/or induce conformational changes.
+  * Neutralizing Antibodies
+ 
+
+#### Possible Changes
+* Structural changes: The functionality of proteins depends on how the protein is folded.
+* Spike Protein
+  * Protein cleavage
+  * Releasing spring loaded energy.
+
 ### Lipid Envelope Decay
-The lipid envelope looses stability.
+#### Factors influencing Protein Decay
+* Temperature: The lipid envelope looses stability and becomes more permeable at higher temperatures.
+* Osmotic Pressure: can explode the envelope
+* Biochemicals: E.g. soap
 
 
 
-## Extrinsic Decay Mechanisms
-
-> ##### Extrinsic Decay
-> Extrinsic decay is induced by extern environmental factors.
+## Decay Factors
 
 ### Evaporation and Condensation
-Evaporation and condensation affect the concentration of chemical and biological substances. Which can yield clumping or [osmotic pressures](#osmotic-pressure).
+Evaporation and condensation affect the concentration of chemical and biological substances. Which can result in [osmotic pressure](#osmotic-pressure) and concentration changes of [biochemicals](#biochemicals).
 
 ### Osmotic Pressure
 Droplets of any size in the air or on surfaces are subject to evaporation and condensation. The induced concentration changes of salts and proteins yield osmotic forces. 
@@ -122,10 +141,10 @@ Droplets of any size in the air or on surfaces are subject to evaporation and co
 [in work]
 The UV part of sun light destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. => RNA decay
 
-### Extreme PH Values
+### PH Values
 While PH values between 3 and 10 just adapt the rate of other factors. PH values below 3 or above 10 actively inactivate CoVs. => Proteins, Envelope
 
-### Biological and Chemical Substances
+### Biochemicals
 [in work]
 * __Digestive enzymes__ from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary tract disintegrate the envelope.
 * __Soap__ destroys the lipid envelope and so the virions.
@@ -135,6 +154,7 @@ While PH values between 3 and 10 just adapt the rate of other factors. PH values
 * __Hydrogen Peroxide__: Denatures Proteins, RNA.
 => Extern substances act on the spike or the envelope.
 => Substances entering the virion can act on intern or extern structures.
+
 
 
 ## References
