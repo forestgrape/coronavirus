@@ -43,12 +43,11 @@
 ### Baseline Principles
 Principles assumed here.
 1. We all should be able to live the life we want while respecting the rest of the world doing so too. 
-2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan. Fairness in the following is used in this sense of different appealing/attractive opportunities to pursue the economic life (Inspired by John Rawls' theory of justice). Fair in this sense does not necessarily mean equal in wealth or in the way of life.
+2. Building on 1. all should have economic opportunities to pursue the jobs wanted. All should be allowed to make mistakes and so (economic) opportunities are ideally available through the entire lifespan. Fairness in the following is used in this sense of different appealing/attractive opportunities to pursue the economic life (Inspired by John Rawls' theory of justice). Fair in this sense does not necessarily mean equal in wealth or equal in the way of life.
 3. Ideally fairness is achieved by increasing fairness for everybody and not by fixing unfairness for certain branches/subgroups. Singling out and supporting branches/subgroups can yield new unfairness and spinning the wheel one ends up with individuals. So the best is, to start right away with fairness for everyone. 
 
-    > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well, on the other hand a construction business specialized on large scale events may need to reorientate and thus need support. 
+    > In the case for Covid-19, determine businesses needing temporary support is not straight forward. Some are effected directly (e.g. gastronomy), some indirectly. Even inside branches there are differences: A restaurant at an ideal location and appropriate menus for take-away can do well even though for most restaurants the earnings from take-away can be as low as the tip of a normal day, on the other hand a construction business specialized on large scale events may need to reorientate and thus need support.
 
-    
     > In my view, with connectedness we have today, I think improvements are best designed to work for all. Although I acknowledge, that the economic opportunities and benefits vary widely in todays world.
 
     
@@ -62,13 +61,14 @@ From time to time parts of the economy are shaken, local or worldwide, in specif
    * targeted support is complicated and can be unfair since some fall through the nets
    * current methods to increase liquidity (e.g. lowering interest rates) poor money on banks and big companies (so much many don't know what to do with it) but the money doesn't flow well to individuals. Reasons are:
      * that handing out credits is work and so handing out small credits is not lucrative. 
-     * credits are often secured and those who need them most can often not provide any security. 
+     * credits are often secured and those who need them most can often not provide any security.
+ 
 2. A universal credit framework is proposed with the goals:
      * Enable everybody to design the economic life
      * and thereby create a fairer economy
      * Improves the resilience and adaptability of the economical system since everybody has the capability to reorganize and reorientate
      * Many existing social support systems (e.g. unemployment support, student loans) can be integrated to/replace by a universal capital/credit system. 
-
+  
 3. Ideas to implement such a system are sketched:
    * Lower interest rates on money handed to financial institutions that is spend on small credits
    * Flexible payback scheme similar or based on tax systems. The idea is that those who are fortune payback much more than those who are less fortunate. The credits expire after some decades.
@@ -208,11 +208,11 @@ Today in most countries capital access depends on the capital status:
 
 ### Current Problem
 Providing capital services is associated with work:
-* risk and credibility checking
-* check & advise & improve business plan
-* accompanying the capital e.g. check if interest rates are paid regularly
+* Risk and credibility checking
+* Check & advise & improve business plan
+* Accompanying the capital e.g. check if interest rates are paid, adherence to business plan
 
-The work is per credit and not per amount of credit. Therefor handing out small credits is often not lucrative for financial institutions. 
+The work is per credit and not per amount of credit. Therefore handing out small credits is often not lucrative for financial institutions. 
 
 ### Goals
 #### Design Goals
