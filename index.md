@@ -276,7 +276,7 @@ Controlling SARS-CoV-2 is an individual, a local and global task. The better eve
 * Staying out of crowds and taking care even with mild respiratory disease symptoms, a runny nose is enough reason to stay home. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
 * Giving infections time to cure. It is known for various virus infections that they can become persistent.
-* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects are hardly known. Keeping cases low is good for everybody and the more people help doing so the better.
+* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects seem to be rare but experiences are still limited. Keeping cases low is good for everybody and the more people help doing so the better.
 * Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is crucial, which detects infections early, induces symptoms and clears them. 
 
 
@@ -425,7 +425,7 @@ Economy solely on global effectiveness trimmed, yields that. But often only that
     - TI, has a few cattle farming but mostly close to the mountains and away from the cities. The largest city Lugano is surrounded by the Lago di Lugano and forests 
     - VD has cattle farming but most of the population lives around the Lac Lemon, where the largest city Lausanne is located. Lausanne  has mainly vineyards and forests to the North and Lac Lemon in the South.  
     
-The same patterns are observed when considering only cantons with large cities or when considering only uniform language regions: Areas with a lot of cattle farming have lower death rates (both per positive tested cases and per capita):
+The same patterns are observed when considering only cantons with large cities or when considering only uniform language regions. Areas with a lot of cattle farming have lower death rates (both positive tested cases and per capita):
 * Urbanized Areas: ZH, ZG have a lower rates GE, BS
 * French Speaking Region: JU, FR, NE and VS have  lower rates both per severe cases and per population than GE and VD. 
 * German Speaking Region: TG, AI, SG, LU, AG have lower rates than BS.
