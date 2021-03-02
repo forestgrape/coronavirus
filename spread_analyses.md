@@ -200,8 +200,7 @@ It will be interesting to investigate the prevalence of Covid-19 in the spectato
 
 
 #### Results from Leagues with Spectators
-Sources: [https://www.sofascore.com](),
-[https://www.bbc.com/sport/football/scores-fixtures](), [https://www.srf.ch/sports]()
+Sources: [https://www.sofascore.com](), [https://www.bbc.com/sport/football/scores-fixtures](), [https://www.srf.ch/sports]() [accessed in early November]
 * Netherlands
   * A very steep increase of Covid-19 cases in early October
 * Switzerland
@@ -209,7 +208,8 @@ Sources: [https://www.sofascore.com](),
   * the regions with ice hockey stadiums most showed a steeper increase in Covid-19 cases than the regions without ice hockey stadiums. This indicates regular super-spreading events (as fare as I can judge by the data public available). 
   * in late October the majority of hockey matches needed to be cancelled since many teams had multiple infected players.
 * Ukraine:
-  Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members. [other teams to be checked]
+  * Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members. [other teams to be checked]
+  * Some players of the Ukraine national football team had positive PCR tests in mid November 2020.
 * Belgium 
   * 4 of 17 matches cancelled between 21.10. and 4.11., despite an increasing Covid prevalence throughout October most matches need to be cancelled until mid October when spectators still were allowed. Nevertheless the cancels can also be due to the overall very high Covid-19 prevalence in Belgium. 
 * Turkey 
@@ -222,7 +222,7 @@ Sources: [https://www.sofascore.com](),
   * An increase in infected players. However the increase in infected players is only slightly steeper than the general case count increase.
     * 23.11. - 13.12:  30 (3 Weeks; 3 Rounds)
     * 21.12 - 10.1.: 94 (3 Weeks; 4 Rounds; some matches cancelled and these high risk teams likely not tested)
-  * // Some evidence that spectators increased the number of infected players. Even though there were some matches cancelled, the increase in infected players was not much steeper than the general case count. However in september/october/november the correlation between case counts and infected players is rather low. 
+  * // Some evidence that spectators increased the number of infected players. Even though there were some matches cancelled, the increase in infected players was not much steeper than the general case count; however in september/october/november the correlation between case counts and infected players is rather low. 
 
 
 
@@ -456,7 +456,7 @@ Sarah C. Brüningk, Juliane Klatt, Madlen Stange, Alfredo Mari, Myrta Brunner, T
 medRxiv 2020.12.15.20248130; doi: https://doi.org/10.1101/2020.12.15.20248130
 
 ##### Methods
-The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed based on sequence data and computer simulation. In a second step, the effect of reduced transmissibility of population subgroups on the spread of Covid is simulated. 
+The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed based on sequence data and a computer simulation. In a second step, the effect of reduced transmissibility of population subgroups on the spread of Covid is simulated. 
 
 >  The term vaccinated is used in the paper but since it is unknown (as of 27.1.2021) whether the available vaccines produce a useful immunity regarding transmission and there are other methods (e.g. testing, masks, natural immunity) to reduce transmissibility the term reduced transmissibility is used here.
 
