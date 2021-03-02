@@ -15,11 +15,11 @@
 ## Mask Usage
 * For self protection good fit and a good outside-to-inside filter are important. 
 * To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
-* In indoor rooms aerosol transmission occurs:
+* In indoor rooms with aerosol transmission:
   * frequent changing/cleaning the masks is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
   * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
-* After coughing or sneezing into mask changing is needed (one should *not cough into a mask* but cough into the hand/handkerchief and downwards, then the hand should be washed or disinfected; moreover with heavy cough and without Covid test one ideally is out of public spaces). After speaking a lot into a mask changing is appropriate. Especially for [low and mid filter models](#filter-performance).
-* Some mask have a to big air resistance, in that case the air can bypasses the mask. There's still protection against droplets, but the bypassed air contains [aerosol](./transmission.md#aerosol). They are like wearable plexiglas. 
+* After coughing or sneezing into mask changing is needed (one should *not cough into a mask* but cough into the hand/handkerchief and downwards, then the hand should be washed or disinfected; moreover with heavy cough and without a negative Covid test, ideally one is out of public spaces). After speaking a lot into a mask, changing is appropriate. Especially for [low and mid filter models](#filter-performance).
+* Some mask have a big air resistance combined with a loose fit, in that case the air can bypasses the mask. There's still protection against droplets, but the bypassed air contains [aerosol](./transmission.md#aerosol). They are like wearable plexiglas. 
 
 
 ## Mask Effectiveness
@@ -47,7 +47,7 @@ Mask can be classified either by
 
 ### Filter Performance
 The filtration performance specifies how much and which particles are filtered out of the air at some fixed airflows and pressures. 
-There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms are common, in the US N95/P95 (e.g. Wikipedia page on FFP standards). High filtration is the safe option in situations with [aerosol transmission](./transmission.md#summary-airborne-transmission). 
+There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms, in the US N95/P95 (e.g. Wikipedia page on FFP standards). High filtration is the safe option in situations with [aerosol transmission](./transmission.md#summary-airborne-transmission). 
 
 
 * #### Very High Filtration
