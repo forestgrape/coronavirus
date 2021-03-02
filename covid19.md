@@ -140,13 +140,17 @@ Infection symptoms depend on the infected locations. SARS-CoV-2 infects differen
 [in work and incomplete]
 
 ### Movement
-Movement is import for optimal functioning of the immune system. A good working immune system in turn is important regarding the prevention, the treatment and recovering of/from Covid-19. Moderate movement (e.g. a walk or stretching at home) is recommended even when infected, while exercise is only recommended when fit and healthy.
+Movement is import for optimal functioning of the immune system. A good working immune system in turn is important regarding the prevention, the treatment and recovering of/from Covid-19. Moderate movement (e.g. a walk or home stretching. For home sports ventilation of the room before and afterwards is important) is recommended even when infected, while exercise is only recommended when fit and healthy.
 
-> In some regions a walk outside is not allowed for people tested positive (though this are usually few since the detection rate of mild positives is usually very low), at least if not living in a house with a garden.
+> In some regions if tested positive a walk outside is  only allowed for people in house with a garden. Though the detection rate of mild cases is usually very low, therefore most will have no formal restrictions.
 
-> Indoor movement can be aerosol generating. Therefore when possibly infected and there are people to protect in the same flat, it is important to be in a separate room and ventilate the room after light exercise. To reduce transmission risk, outdoors should be preferred.
+> Movement can be associated with deep breathing which is aerosol generating. Therefore when possibly infected and with people to protect in the same flat, it is important to be in a separate room and ventilate the room even after light exercise. Regarding transmission outdoors is still way better.
 
-> In the case of targeted testing I think those living in flat with small living spaces, which already have a greater infection risk, should not have additional constraints possibly hindering a healthy recovery.
+> The strict isolation rules were designed with SARS-1 and it's prevalence in mind: a few sporadic and severely sick cases. Additionally a droplet or fomites transmission was assumed, which makes isolation in an indoor room effective.
+
+> In my opinion, in the case of targeted testing, those living in flats with small living spaces, which already have a greater infection risk, should not have additional constraints possibly hindering a healthy recovery and putting fellow occupants at risk. 
+
+ 
 
 The benefits of sports founded by biological mechanisms and epidemiological evidence are described on the [Movement page](./movement.md).
 
@@ -262,4 +266,4 @@ Zhu W. **Should, and how can, exercise be done during a coronavirus outbreak? An
 ## Appendix
 > #### Personal Covid Experience
 > I likely had Covid-19 myself in early to mid March 2020 when temperatures were freezing cold in my living place at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly; 2) the supposed low prior probability according to the official prevalence and 3) I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon the initial symptoms faded and I felt fit again. I went for some cross country skiing and much more intense than planned since three quarters were through deep snow. The sport session went well by itself, but it turned out to have been a bad idea: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
-> Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. But it then reacted timely: Less than twelve hours after the likely infection event (someone repeatedly coughing about 4 meters away in the same room - I wrongly assumed a negative test - and I was there for one or two hours) the initial strange feeling started.
+> Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. Immune response was still timely though: Less than twelve hours after the likely infection event (someone repeatedly coughing about 4 meters away in the same room and I was there about an hour and a half) the initial strange feeling started.
