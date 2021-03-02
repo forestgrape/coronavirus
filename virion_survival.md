@@ -18,12 +18,12 @@
   * [Evaporation and Condensation](#evaporation-and-condensation)
   * [Osmotic Pressure](#osmotic-pressure)
   * [UV Light](#uv-light)
-  * [PH Values](#ph-values-1)
   * [Biochemicals](#biochemicals)
-* [Decay Mechanism](#decay-mechanism)
+* [Decay by Building Blocks](#decay-by-building-blocks)
   * [RNA Decay](#rna-decay)
   * [Protein Decay](#protein-decay)
   * [Lipid Envelope Decay](#lipid-envelope-decay)
+* [Decay Mechanism](#decay-mechanism)
 * [References](#references)
   * [References Temperature](#references-temperature)
 
@@ -141,7 +141,9 @@ By 1) higher temperature can enable and increase the speed of self decay mechani
 * Increased speed of [biochemical reactions](#biological-and-chemical-substances)
 
 ### PH Values
-At temperatures around 22 degrees PH values between 3 and 10 don't do much to destroy virions. However changes of the PH values alter the intrinsic decay of virions e.g. at temperatures between 30 degrees and 55 degrees the decay is elevated if the PH value is 8 instead of 7.
+[in work]
+pH value alter the speed of other decay mechanism and extreme pH values cause virion decay on their own.
+
 
 ### Evaporation and Condensation
 Evaporation and condensation affect the concentration of chemical and biological substances. Which can result in [osmotic pressure](#osmotic-pressure) and concentration changes of [biochemicals](#biochemicals).
@@ -153,9 +155,6 @@ Droplets of any size in the air or on surfaces are subject to evaporation and co
 [in work]
 The UV part of sun light destroys RNA. Even stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. => RNA decay
 
-### PH Values
-* PH values between 3 and 10 mainly adapt the rate of other factors. 
-* Extreme PH values below 3 or above 10 actively inactivate CoVs. => Proteins, Envelope
 
 ### Biochemicals
 [in work]
@@ -170,7 +169,7 @@ Extern biochemicals act on the spike or the envelope. Biochemicals entering the 
 
 
 
-## Decay Mechanism
+## Decay by Building Blocks
 [**in work**]
 Coronavirus virions are composed of three classes of building blocks: RNA, Proteins and a lipid envelope. Each class of these building blocks is subject to decay. From the outside accessible is only the envelope and the spikes protein.
 
@@ -224,7 +223,8 @@ The E,M and N proteins are more stable regarding self decay than the spikes. Reg
 * Osmotic Pressure: can explode the envelope [to confirm and cite]
 * Biochemicals: E.g. soap
 
-
+## Decay Mechanism
+[in work]
 
 ## References
 [**in work**]
