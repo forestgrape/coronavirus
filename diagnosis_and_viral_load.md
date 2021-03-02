@@ -115,11 +115,12 @@ Methods detecting proteins of virions are usually called antigen tests (virus pr
 
 ### Detect Infectious Virions
 [in work: to be checked and incomplete]
-Samples, which possibly contain virions, can be put on cell or organ cultures. These cell or organ cultures then can be inspected by another methods such as detecting tissue change/damage or detecting RNA to see whether there were infectious virions in the samples. Virus and especially coronavirus culturing is difficult, therefore for routine diagnosis virus culturing is not suitable. However virus culturing is very useful for research purposes: e.g. to detect whether and how long infected individuals shed infectious virions. 
+Samples, which possibly contain virions, can be put on cell or organ cultures. These cell or organ cultures then can be inspected e.g. by cell damage (cytophatic effects), by detecting tissue change/damage or detecting RNA to see whether and how much the viral load increased. Virus and especially coronavirus culturing is tricky and often requires strict lab security measures, therefore for routine diagnosis virus culturing is not suitable. However virus culturing is very useful for research purposes: e.g. to detect whether and how long infected individuals shed infectious virions. 
 ##### Cell Cultures
+
 ##### Organ Cultures
 ##### Plague Assays
-The samples can be diluted to the point, new virus colonies originating from a single virion can be distinguished. The number of virions in the dilution is then equal to the number of colonies.
+The samples can be diluted to the point, new virus colonies originating from a single virion can be distinguished on cell or organ cultures (practically always used with cell cultures). The number of virions in the dilution is then equal to the number of colonies.
 
 
 ### Detect Metabolism of Viruses
@@ -334,14 +335,14 @@ Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield differ
 
 * #### Upon Waking Saliva
   * [Wyllie et al](#summary-wyllie-letter) analyze saliva samples from hospitalized patients given each couple of days:
-    * A viral load is detected in about 80% of the cases in the first 5 days after hospital admission of confirmed Covid-19 cases.
+    * A viral load is detected in about 80% of the cases in the first 5 days after hospital admission of NPS confirmed Covid-19 cases.
     * Both the viral load and the detection rate observed are higher than for NPS in day 0 to 5 and day 5 to 10 days after hospital admission. From day 11 and onwards about 50% are positive in NPS
   * [Wong](#summary-wong) the detection rate of saliva is on average about 10 % better than nasopharyngeal samples (NPS or NPA and sometimes even mixed with throat swabs).
   * [Rao et al](#summary-rao) observed much higher detection rates from early morning saliva than from NPS specimens in male recruits asymptomatic at the time of testing (average age 27) on day 8-10 in isolation after an initial positive NPS test.
 * #### Throat saliva
-  Testees (mostly symptomatic or exposed) in [Huber et al](#summary-huber) were asked to clear the throat. The viral load and detection rate in NPS were higher but about 90% of NPS positive were also positive in saliva. A tendency for increasing the saliva sensitivity for triple throat washing is observed. 
+  Testees (mostly symptomatic or exposed) in [Huber et al](#summary-huber) were asked to clear the throat and then provide a saliva. The viral load and detection rate in NPS were higher but about 90% of NPS positive were also positive in saliva. A tendency for increasing the saliva sensitivity for triple throat washing is observed. 
 * #### Coughing up Sputum/Nasal Secretions by sniffing
-  * [Procop et al](#summary-procop): 216 Covid-19 symptomatic patients had enhanced saliva (provide all produceable secretions: strong sniff, elicited cough) collected and NPS analyzed. 38 were positive both for NPS and saliva. 1 testee had only saliva tested positive. 
+  * [Procop et al](#summary-procop): 216 Covid-19 symptomatic patients had enhanced saliva (provide different secretions: strong sniff, elicited cough) collected and PCR analyzed. 38 were positive both for NPS and saliva. 1 testee had only saliva tested positive. 
 * #### Coughing up
   * [Otto et al](#summary-otto)
 * #### Saline Gargle
@@ -1198,7 +1199,7 @@ BALF          | 22.5 (21-24) | -
 
 ### Calculation of Viral Load from CT_Value
 `viral_load = d_c_h / 2^CT_cycles` where `d_c_h = detection_limit_for_helper_method` (the helper method detects when a certain concentration of DNA or RNA is reached, often optical fluorescence is used)
-Often the viral load is given as logarithm. For logarithm to base 2:
+For calculations taken logarithms is helpful. For logarithm to base 2:
 `log2(viral_load) = log2(d_c_h) - CT_cycles`
 The viral load as logarithm to base 10:
 `log10(viral_load) =log2(viral_load)/log2(10) = (log2(d_c_h) - CT_cycles)/3.32`
