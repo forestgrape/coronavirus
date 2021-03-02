@@ -105,13 +105,13 @@ Key aspects of the airborne transmission in table form; for details on Actions a
 Model    | Metaphor   | Actions | Source/Deposition | Situations/Clima|   Prevent              
 ---------|------------|------------------|-----------------|------|---
 [droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low absolute humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**
+[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**
 [proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation e.g. no indoor sport
 
 
 #### Comments
 * In warm climates rooms can be ventilated well, so the aerosol spread can be prevented. Careless use of air-conditioning enables aerosol spread. 
-* Aerosol and dry form spread increases steeply with the amount of indoor air exchanged. 
+* Aerosol and dry form spread increases with the amount of indoor air exchanged. Especially when deep/heavy breathing.
 * The air humidity is relevant for droplet aerosol since the droplets can grow and shrink. Growing/shrinking change the osmotic pressure on the virions. Enveloped virions can get destroyed upon the pressure change. 
 * The absolute humidity in heated indoor rooms is lower, the lower the outside temperature is. 
 * The dry form model is proposed here.
@@ -139,7 +139,7 @@ This section describes when particles are generated and how they spread within t
 
 * [Milton et al](#milton-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
 
-So Covid-19 can be spread with breathing alone especially since in the deep lungs there are many receptors for Sars-CoV-2.  
+That small particulates are exhaled upon breathing alone from the deep lungs, combined with the observations that in the deep lungs the SARS-CoV-2 receptor ACE2 is highly available, means that Covid-19 can be transmitted with breathing alone.
 
 
 ### Particles Deposition
