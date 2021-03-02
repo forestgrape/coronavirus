@@ -196,9 +196,9 @@ Coronaviruses have a two phase life cycle:
 * Metabolic phase: Hook into a cells metabolism to produce proteins and ultimately new virions using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell .
 
 > ###### Virion
-> A *virion* is both the travel and birth form of a virus. The genome and proteins required to infect a cell are packed into some form of shell. A virion has no active metabolism. 
+> A *virion* is the 'birth-form' of a virus. The genome and proteins required to infect a cell are packed into some form of shell. A virion has no active metabolism.  
 
-Viruses while outside of cells are present always as virions. Once activated, virions can [infect cells](#infected-cell) and transform to the metabolic phase. 
+Viruses while outside of cells are present always as virions. Virions are passively moved around. Most virions decay but some get matched to an infectable cell. Once activated, virions can [infect cells](#infected-cell) and transform to the [metabolic phase](#metabolic-phase). 
 
 Virions are similar to seeds of plants: They are dormant and wait for activation. Virions don't have a metabolism running. However they evolved to induce infection on the right circumstances. to be capable have sticky proteins which can get attached to cells. Once activated/primed cell fusion is initiated by using spring loaded energy. 
 
