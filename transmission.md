@@ -279,7 +279,7 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [mar
 
 The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
 
-Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-spreading).
+Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-sources)).
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
 
