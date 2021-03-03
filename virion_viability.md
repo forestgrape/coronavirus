@@ -42,7 +42,7 @@
 Decay mechanism in different situations are:
 * Outdoors during the day the UV part of sunlight quickly breaks the RNA of virions even on cloudy days.
 * Virions exhaled in samples of respiratory fluids, which biochemicals such as antivirals, proteins and salts.
-  * At an air humidity between 40% and 90%: As long as the samples don't dry out, the biochemicals act on the virions and the decay is quite fast even at lower temperatures. The rate is fastest just before the samples dry since the concentration of biochemicals is highest.
+  * At an air humidity between about 30% - 40%  and 90%: The samples neither dry out completely nor growth a lot, the biochemicals act on the virions and the decay is quite fast even at lower temperatures. The rate is fastest just before the samples dry since the concentration of biochemicals is highest.
   * At an air humidity above 95%: The droplet expand there size in humid environment the virions can explode due to osmotic pressure, which results in a very fast decay.
   * At an air humidity below 40%: the droplets dry out the substances crystallize and only self decay occurs, which is slow at low temperatures.
 * In the stomach virions are inactivated by acids.
@@ -60,20 +60,18 @@ The self decay rate is approximately piecewise linear:
 * Above 65 degrees: The lipid envelope decays
 
 ##### RNA Self Decay
-* at 4 degrees: about 200 hours 
-* at 22 degrees: about 20 hours 
-* at 37 degrees: about  5 hours 
+* at 4 degrees: about  200 hours 
+* at 20 degrees: about 100 hours 
+* at 30 degrees: about  30 hours
+* at 37 degrees: about   5 hours 
 
-###### RNA and Spike Self Decay
+###### RNA and Protein Self Decay
 * at 45 degrees: about  2 hours
 
 ###### Spike Self Decay
-* at 55 degrees: about 2 - 5 minutes (spikes)
+* at 55 degrees: about 2 - 5 minutes 
 * at 70 degrees: about 10 seconds (lipid envelope and proteins)
 
-
-#### Sunlight
-At low UV (e.g low sun in the fall) the halflife time is about 6 minutes and at high UV (e.g. sun in summer) about 2 min.
 
 #### Biochemicals
 Decay by biochemicals inactivate virions mainly from the outside by interacting with the spike protein or destroying the lipid envelope. Rates at room temperature (22 degree) 
@@ -83,6 +81,10 @@ Decay by biochemicals inactivate virions mainly from the outside by interacting 
   * at 22 degrees: a few hours (1 to 4 hours)
 * Common disinfectants (e.g. ethanol 70%, iodine 7.5%): a few seconds
 * Soap: About 20 seconds
+
+
+#### Sunlight
+At low UV (e.g low sun in the fall) the halflife time is about 6 minutes and at high UV (e.g. sun in summer) about 2 min.
 
 
 ## Relevance
