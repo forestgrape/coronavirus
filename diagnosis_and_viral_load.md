@@ -226,7 +226,7 @@ The saliva is secreted from different glands in the mouth. How much each of thes
 * [Yang et al](#summary-yang) investigated the viral load across locations the respiratory tract.
 
 ### Detection Rates
-Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken) mainly from the literature above but also from other [references summarized](#summarized-references) in first week of severe respectively mild symptoms.
+Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken). In first week of severe respectively mild symptoms.
 
 Severe  | Mild  | Specimen
 --|--|--
@@ -238,6 +238,8 @@ Severe  | Mild  | Specimen
 90      | 80    | [sputum](#sputum)
 90      | 30    | [BALF](#balf)
 75      | 25    | [Lung XRay](#xray-imaging) 
+
+Sources: Mainly the [recommended literature](#literature-for-viral-load-and-diagnosis) above but also from other [summarized references](#summarized-references).
 
 ### Diagnosis in the Nose
 #### Nasopharyngeal Swabs
@@ -701,10 +703,10 @@ Three groups of patients are analyzed:
 * Group 3: SARS-CoV-2 was detected in the saliva of two patients, and only in ONS of one patient. 
 
 Results for testees in Group 1 and Group 2 (all patients in group 1 & 2 have Covid with a very high probability):
-saliva\Swab | Swab + | Swab - | Total
+Saliva\Swab | Swab + | Swab - | Total
 --|--|--|--
 Saliva +    |    21 |    2    | 23 
-saliva -    |     9 |   13    | 22
+Saliva -    |     9 |   13    | 22
 Total       |    30 |   15    | 45 
 
 
@@ -718,10 +720,10 @@ Total       |    30 |   15    | 45
 *  "Immediately after saliva collection, VTM (virus transport medium) was added to the crude saliva and the content mixed through gentle twisting." 
 *  "Saliva was collected directly after NPS and both specimens immediately sent for SARS-CoV-2 RT-PCR testing."
 ##### Results
-saliva\NPS  | NPS +  | NPS -  | Total
+Saliva\NPS  | NPS +  | NPS -  | Total
 --|--|--|--
 Saliva +    |    228 |    4   |  232 
-saliva -    |     20 |  935   |  955
+Saliva -    |     20 |  935   |  955
 Total       |    248 |  939   | 1187 
 
 
@@ -752,10 +754,10 @@ Five saliva samples (2 from patients and 3 from volunteers spiked with known pos
 ##### Results
 __Experiment 1 Comparing NPS and saliva Diagnosis:__
   
-saliva\Swab | Swab + | Swab - | Total
+Saliva\Swab | Swab + | Swab - | Total
 --|--|--|--
 Saliva +    |     15 |     1  | 16 
-saliva -    |      6 |    52  | 58
+Saliva -    |      6 |    52  | 58
 Total       |     21 |    53  | 74 
 
 __Experiment 2 Stability of SARS-CoV-2 RNA for Detection__
@@ -769,10 +771,10 @@ Pasomsub E et al., Saliva sample as a non-invasive specimen for the diagnosis of
 ##### Methods
 "From 27 March to 4 April 2020, we prospectively collected saliva samples and a standard nasopharyngeal and throat swab in persons seeking care at an acute respiratory infection clinic in a university hospital during the outbreak of COVID-19. Real-time polymerase chain reaction (RT-PCR) was performed, and the results of the two specimens were compared."
 ##### Results
-saliva\NPS | NPS + | NPS - | Total
+Saliva\NPS | NPS + | NPS - | Total
 --|--|--|--
 Saliva +   |    16 |   2   |   18 
-saliva -   |     3 | 179   |  182
+Saliva -   |     3 | 179   |  182
 Total      |    19 | 181   |  200 
 
 
@@ -787,10 +789,10 @@ J Clin Microbiol 58:e01946-20. [https:// doi.org/10.1128/JCM.01946-20]()
 
 ##### Results
 Detection Rate: 
-saliva\Swab     | Swab + | Swab - | Total
+Saliva\Swab     | Swab + | Swab - | Total
 --|--|--|--
 Saliva +        | 38     | 1      | 39 
-saliva -        |  0     | 177    | 177
+Saliva -        |  0     | 177    | 177
 Total           | 38     | 178    | 216 
 
 Viral Load:
@@ -825,16 +827,16 @@ DOI: [https://doi.org/10.1093/cid/ciaa1156]()
 
 ##### Results
 Dectection Rate: 
-saliva\Swab     |  NPS + |  NPS - | Total
+Saliva\Swab     |  NPS + |  NPS - | Total
 --|--|--|--
 Saliva +        |  73    |    76  |  149
-saliva -        |  11    |    57  |   68
+Saliva -        |  11    |    57  |   68
 Total           |  84    |   133  |  217
 
 Viral Load:
 Specimen\Gene | E-Gene | RdRp | RNaseP
 --|--|--|--
-saliva        | 30.5   | 31   | 27
+Saliva        | 30.5   | 31   | 27
 NPS           | 33     | 33.5 | 29
 
 * Figure 1 shows the Ct values of SARS-CoV-2 genes E and RdRp and the human RNaseP gene for both saliva and NPS (values shown in the table above). 
@@ -881,10 +883,10 @@ Data not uniform/consistent:
 ##### Methods
 155 Participants with signs/symptoms suggesting SARS-CoV-2 infection underwent a nasopharyngeal swab (NPS) and/or oropharyngeal swab (OPS) and saliva collection in Salvador, Brazil. 
 ##### Results
-saliva\NPS or OPS| NPS/OPS +  | NPS/OPS - | Total
+Saliva\NPS or OPS| NPS/OPS +  | NPS/OPS - | Total
 --|--|--|--
 Saliva +         |    67      |       2   |  69 
-saliva -         |     4      |      82   |  86 
+Saliva -         |     4      |      82   |  86 
 Total            |    71      |      84   | 155 
 
 
@@ -895,10 +897,10 @@ Total            |    71      |      84   | 155
 * "Paired NPS and saliva samples were simultaneously collected from all patients upon hospital admission between June 12, 2020 and August 6, 2020."
 * "Self-collected saliva was diluted 4-fold with phosphate buffered saline and centrifuged at 2000 × g for 5 min to remove cells and debris. RNA was extracted from 200 μL of the supernatant or nasopharyngeal swab samples using QIAsymphony DSP Virus/Pathogen kit and QIAamp Viral RNA Mini Kit (QIAGEN, Hilden, Germany)."
 ##### Results
-saliva\Swab | NPS + | NPS - | Total
+Saliva\Swab | NPS + | NPS - | Total
 --|--|--|--
 Saliva +    |    34 | 4     | 38 
-saliva -    |     0 | 4     | 4
+Saliva -    |     0 | 4     | 4
 Total       |    34 | 8     | 42 
 
 
@@ -914,17 +916,17 @@ Yokota, I., Shane, P. Y., Okada, K., Unoki, Y., Yang, Y., Inao, T., Sakamaki, K.
 ##### Results
 * "In this mass-screening study including 1,924 individuals, the sensitivity of nucleic acid amplification testing with nasopharyngeal and saliva specimens were 86% (90%CI:77-93%) and 92% (90%CI:83-97%), respectively, with specificities greater than 99.9%. The true concordance probability between the nasopharyngeal and saliva tests was estimated at 0.998 (90%CI:0.996-0.999) on the estimated airport prevalence at 0.3%. In positive individuals, viral load was highly correlated between NPS and saliva."
 ###### Contact Tracing Cohort
-saliva\Swab | NPS + | NPS - | Total
+Saliva\Swab | NPS + | NPS - | Total
 --|--|--|--
 Saliva +    | 38    |   6   |  44 
-saliva -    |  3    | 114   | 117
+Saliva -    |  3    | 114   | 117
 Total       | 41    | 120   | 161
 
 ###### Airport Quarantine cohort
-saliva\Swab | NPS + | NPS - | Total
+Saliva\Swab | NPS + | NPS - | Total
 --|--|--|--
 Saliva +    |  4    |    0  | 4 
-saliva -    |  1    | 1758  | 1759
+Saliva -    |  1    | 1758  | 1759
 Total       |  5    | 1758  | 1763 
 
 ##### Discussion
@@ -1009,10 +1011,10 @@ Total       |  5    | 1758  | 1763
 ##### Results
 
 Detection Rate: 
-saliva\NPS       | NPS +  | NPS - | Total
+Saliva\NPS       | NPS +  | NPS - | Total
 --|--|--|--
 Saliva +         |   24   |    8  | 32
-saliva -         |    3   |    3  |  6 
+Saliva -         |    3   |    3  |  6 
 Total            |   27   |   11  | 38
 
 Notes:
@@ -1047,25 +1049,25 @@ __In-patients:__
   * " In specimens collected from in-patients by health care workers, we found greater variation in human RNase P cycle threshold (Ct) values in nasopharyngeal swab specimens (standard deviation, 2.89 Ct; 95% CI, 26.53 to 27.69) than in saliva specimens (standard deviation, 2.49 Ct; 95% CI, 23.35 to 24.35)."
 
 Detection Rate across all days: 
-saliva\NPS       | NPS +  | NPS - | Total
+Saliva\NPS       | NPS +  | NPS - | Total
 --|--|--|--
 Saliva +         |   31   |   12  | 43
-saliva -         |    8   |   19  | 27 
+Saliva -         |    8   |   19  | 27 
 Total            |   39   |   31  | 70 
 
 Ct values:
 Specimen\Gene | N Gene | RNaseP(approx) 
 --|--|--
-saliva        | 28.7   | 24   
+Saliva        | 28.7   | 24   
 NPS           | 31.3   | 29
 
 __Healthcare workers:__
 * "We detected SARS- CoV-2 RNA in saliva specimens obtained from 13 persons who did not report any symptoms at or before the time of sample collection. Of these 13 health care workers, 9 had collected matched nasopharyngeal swab specimens by themselves on the same day, and 7 of these specimens tested negative (Fig. S2). The diagnosis in the 13 health care workers with positive saliva specimens was later confirmed in diagnostic testing of addi- tional nasopharyngeal samples by a CLIA (Clinical Laboratory Improvement Amendments of 1988)– certified laboratory."
 
-saliva\NPS       | NPS +  | NPS - | Total
+Saliva\NPS       | NPS +  | NPS - | Total
 --|--|--|--
 Saliva +         |   2   |   7    | 9
-saliva -         |   0   |        |  
+Saliva -         |   0   |        |  
 Total            |   2   |        |  
 
 __In-patients compared to Healthcare workers:__
@@ -1122,13 +1124,14 @@ BALF          | 22.5 (21-24) | -
 * Figure 2 shows time series of viral loads for a series 21 individuals (18 severe and 3 mild patients). The detection rates vary for different time points, for different patients and for different locations:
   * While *no* viral RNA was detected in the upper respiratory tract, at the *same* time it was positive in BALF for the cases 01, 03, 07, 11, 12, 13, and 16 (Figure 2).  
   * "Viral RNA was tested negative in the first three or all of the upper respiratory samples. However, viral RNA was detected either by the further detection of upper respiratory samples (cases 21–28) or BALF samples (cases 02, 04, 06, and 07) (Figures 2 and S1)."
-  * The dection of SARS-CoV
 * Figure 3 shows CT Scans of the mentioned 11 cases (02, 04, 06, 07 and 21-28) tested negative at least 3 time in the upper respiratory tract. The CT  show typical ground-glass opacity in the lungs, suggesting a viral pneumonia.
 
 
 
 #### Summary Zhang
 **The SARS-CoV-2 RNA with mild pulmonary consolidation lasts longer in non- severe COVID-19 patients: an observational study**
+[in work]
+
 
 
 ### Viral Load Series in URT
