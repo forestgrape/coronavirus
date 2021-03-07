@@ -24,7 +24,10 @@
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
-
+- 7.3. [Virion Viability Page](./virion-viability.md) in online work. 
+    * Virions decay fast in sunlight, soap and desinfectants (halflife time a few minutes).
+    * The decay is faster at increased temperature. At temperatures lower than 40 degrees the decay depends on the solution which in turn depends on the humidity. 
+    * Above 45 degrees the decay fastens and is less dependent on the environment.
 - 17.2. [Masks](./masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./masks#personal-mask-preferences)
 - 14./15.2 [Diagnosis and Viral Load page](./diagnosis_and_viral_load.md) updated (mainly clarified & formulations improved).
 - 13.2. How Coronaviruses overcome Immune System obstacles moved to separate page [Immune Evasion](./immune_evasion.md). [References and a more detailed description in work.]. Clarifications how [coronaviruses get activated](./coronavirus.md#virion-activation) on the [coronavirus page](./coronavirus.md). 
