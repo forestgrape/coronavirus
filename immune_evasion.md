@@ -21,7 +21,7 @@ Phagocyte <- exploit phagocytosis by infecting the cell
 For coronaviruses waiting until acquired wanes or even jumping generations is usually not an option, thus circumventing acquired immunity is an essential skill. 
 
 #### Overcoming Neutralizing Antibodies
-[in work, to check and to add refs]
+[in work, to check and to add citations]
 The only virion protein reliable accessible is the spike protein, so that's the target. If a sufficient number of spikes have antibodies attached a virion cannot infect cells on its own anymore, since working spike proteins are needed for active cell entry. Antibodies that block virions from infecting cells are called neutralizing antibodies. Coronaviruses have a variety of mechanisms to circumvent neutralizing antibodies. But circumventing neutralizing antibodies is not free for coronaviruses, so neutralizing antibodies slows them down, the immune system has more time and neutralizing antibodies also act
 - Mutate
 - Shield
