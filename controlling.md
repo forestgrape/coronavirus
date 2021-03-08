@@ -35,10 +35,10 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * communication and explanation
 > * knowledge & research
 > * self responsibility, independent decisions combined with a circumspect lifestyle
-> * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements no advertising is an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
+> * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements restrictions are an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
 > * Moderate measures preserving life quality.
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases.
-> * Monitor and estimate overall cases to do predictions and planning. 
+> * Monitor and estimate overall cases to do predictions and planning.
 > * Settings that those who want/need can protect, while those not needing/choosing can go on, go on circumspectly.
 > * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
 >
@@ -194,7 +194,7 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 
 > #### Government Support 
-> Temporary support for individuals I consider necessary to not disrupt the life of people and give time to reorganize. Some business will only be closed during wave peaks (e.g. gastronomy) while other businesses likely are reduced/closed for the foreseeable future (long distance traveling, large scale events). General notes on support and thoughts how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
+> Temporary support for individuals I consider necessary not to disrupt livelihoods. Additionally support for those who need/want to reorganize can be adequate. Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced or closed for the foreseeable future (long distance traveling, large scale events). Restrictions are dependent on the local situation and on the weightening of all costs. General notes on support and thoughts how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
 
 ### Corona Conform Skiing
 [**in work**]
