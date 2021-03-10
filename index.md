@@ -24,11 +24,11 @@
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
-- 8.3. [Virion Viability Page](./virion-viability.md) in online work. 
-    * Virions decay fast in sunlight, soap and desinfectants (the halflife time is a few minutes).
-    * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a roomtemperature of 22 degrees.
-    * Above 45 degrees the decay fastens and is less dependent on the biochemical environment since the spring-loaded proteins loose their engergy.
-    * A fast decay seems to occur in the presence of osmotic pressure e.g. when the concetration of salts is very low in the sourounding water. This is the case in destilled water and in situations with a lot of condensation.
+- 10.3. [Virion Viability Page](./virion-viability.md) in online work. 
+    * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
+    * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees, especially at air humidities around 40%. In dry air or high but not very high humidity the decay is slower.
+    * Above 45 degrees the decay fastens rapidly since the spring-loaded proteins loose their energy.
+    
 - 17.2. [Masks](./masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./masks#personal-mask-preferences)
 - 14./15.2 [Diagnosis and Viral Load page](./diagnosis_and_viral_load.md) updated (mainly clarified & formulations improved).
 - 13.2. How Coronaviruses overcome Immune System obstacles moved to separate page [Immune Evasion](./immune_evasion.md). [References and a more detailed description in work.]. Clarifications how [coronaviruses get activated](./coronavirus.md#virion-activation) on the [coronavirus page](./coronavirus.md). 
