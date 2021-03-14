@@ -24,10 +24,10 @@
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
-- 10.3. [Virion Viability Page](./virion-viability.md) in online work. 
+- 14.3. [Virion Viability Page](./virion-viability.md) in online work. 
     * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
     * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees, especially at air humidities around 40%. In dry air or high but not very high humidity the decay is slower.
-    * Above 45 degrees the decay fastens rapidly since the spring-loaded proteins loose their energy.
+    * Above 45 degrees the decay fastens (doubling about every 2 degrees) due to the spring-loaded proteins (spikes and sometimes N) loosing their structure and thereby the stored energy.
     
 - 17.2. [Masks](./masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./masks#personal-mask-preferences)
 - 14./15.2 [Diagnosis and Viral Load page](./diagnosis_and_viral_load.md) updated (mainly clarified & formulations improved).
@@ -41,7 +41,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 > ### A word of Caution regarding Vaccines (28.1., updated 14.2.)
 > What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines and vaccination programs are well organized. It increases the safety and life quality for people at risk for severe Covid-19. Regarding vaccine recommendations the known and the unknown are important:
 > * What has been shown for the approved vaccines is, that they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects). 
-> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects. Especially in view of vaccinating young people, timely investigations/estimates (long-term) and publishing is needed. Both effects are less a concern for inactivated virus vaccines or other protein based vaccines as long as the adjuvants are harmless (which is not always sure e.g. the long-term safety profile of aluminum is surprisingly unclear despite being in use for 90 years.). For other technologies the effects depend on the exact specifications. RNA vaccines are in general __not__ comparable to protein only vaccines (mRNA vaccines do produce proteins but they thereby often [likely always, to check] mess around with the depths of eukaryotic life. This induces a strong immune response with antibodies, stronger than for proteins alone).
+> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects. Especially in view of vaccinating young people, timely investigations/estimates (long-term) and publishing is needed. Both effects are less a concern for inactivated virus vaccines or other protein based vaccines as long as the adjuvants are harmless (which is not always sure e.g. the safety profile of aluminum is surprisingly unclear despite being in use for 90 years.). For other technologies the effects depend on the exact specifications. RNA vaccines are in general __not__ comparable to protein only vaccines (mRNA vaccines do produce proteins but they thereby often [likely always, to check] mess around with the depths of eukaryotic life. This induces a strong immune response with antibodies, stronger than for proteins alone).
 > * There are open questions how  SARS-CoV-2 infections are changed apart from reducing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution (both point mutations and recombination) and changed pathogenesis are mostly unknown/not investigated/unpublished.
 >  
 > An unbiased discussion is missing since many risks ignored and unknown risks are dismissed as not possible. 
