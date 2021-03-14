@@ -63,9 +63,9 @@ Common locations and fluids the viral load is measured are:
 * The viral load in the sputum and in saliva is an indication for disease progression. The viral load in NPS samples is not an indicator. 
 
 #### Take Away
-* __Recommended Diagnosis__: Repeated morning saliva specimens yield reliable viral loads which even predict the course of the disease. Morning saliva has shown is effectiveness in the surveillance system in Hong Kong. Sputum can help to determine the involvement of the lower respiratory tract and the prognosis. 
+* __Recommended Diagnosis__: Repeated morning saliva specimens yield reliable viral loads which even predict the course of the disease. Morning saliva has shown is effectiveness in the surveillance system in Hong Kong. Sputum helps to diagnose lower respiratory tract infections and the viral load is a predictor for the prognosis. 
 * __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has a mediocre detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation. Serum antibodies detect 
-* __To keep in mind__: The viral load and the immune responses depend on the infection location, infection severity and the individual immune systems. Therefore there's no all catching diagnose location or method. Not to every infection in the upper respiratory tract the body responds with serum antibodies. On the other hand a lower respiratory tract infection may yield antibodies and one is infectious, but a single virus test in the upper respiratory tract can be negative.
+* __To keep in mind__: The viral load and the immune responses depend on the infection location, infection severity and the individual immune systems. Therefore there's no all catching diagnose location or method. Not to every infection in the upper respiratory tract the body responds with serum antibodies. On the other hand a lower respiratory tract infection one can be infectious and the infection induces an antibody response, but a single virus test in the upper respiratory tract can be negative.
 
 ## Introduction to Diagnosis
 
@@ -192,10 +192,10 @@ Tissues can be sampled in two ways for diagnosis:
 > An *aspirate* is a fluid that is collected by suction (aspirare is latin for 'to breath').
 
 > ###### Swab
-> A *swab* is an absorbent pad or piece of material used in medicine e.g. to collect mucus specimens. 
+> A *swab* is an absorbent pad or piece of material used in medicine e.g. to collect mucus specimens.
 
 > ###### Biopsy
-> A *biopsy* is a tissue sample taken for diagnostic purposes. 
+> A *biopsy* is a tissue sample taken for diagnostic purposes.
 
 > ###### Autopsy
 > *Autopsies* are tissue specimens taken post mortem. They are useful for the analysis of the viral load in different organs.
@@ -281,7 +281,8 @@ Round glassy occupancies in the lung are characteristic for Covid [to check and 
 [in work]
 Sputum has a high detection rate: 
 * over 80% in the first week of symptoms and over 70% in the second [Yang et al](#summary-yang) both for mild and severe cases. 
-* [Wang et al](#summary-wang) observed a detection rate over 70%. 
+* [Wang et al](#summary-wang) observed a detection rate over 70%.
+* [Yu et al](#summary-yu) find that sputum predicts the prognosis.
 
 #### Endotracheal Aspirate
 [in work]
@@ -293,8 +294,8 @@ Broncho-alveolar-lavage fluid (BALF). Even though the lower respiratory tract is
 
 ### Challenges regarding Viral Load and Diagnosis
 Often investigations for viral load are biased. Reasons are:
-* Sampling is biased towards symptomatic patients. Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and at increased risk for severe disease.
-* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in saliva is often compared to NPS viral load and sometimes NPS sampling is assigned a sensitivity of 100%.
+* Sampling is biased towards symptomatic patients. // Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and at increased risk for severe disease.
+* Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in saliva is often compared to NPS viral load. Sometimes NPS sampling is assigned a sensitivity of 100%.
 
 
 
@@ -303,11 +304,11 @@ Often investigations for viral load are biased. Reasons are:
 Key features of saliva based Covid diagnosis are:
 
 * Viral Load: 
-  * The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90%. The results across studies and the collections methods they use ([Sampling Methods](#viral-load-for-different-saliva-sampling-methods)). 
+  * The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90%. The results vary across studies and the collections methods they use ([Sampling Methods](#viral-load-for-different-saliva-sampling-methods)). 
   * The optimal [collection time](#saliva-collection-timing) is upon waking up and before eating. In this case the viral load and the detection rate is about 10% higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
   * The viral load decrease in saliva is a predictor for the pathogenesis [Silva et al](#summary-silva).
 * Handling:
-  * The load of SARS-CoV-2 RNA stays stable and is detectable in saliva after some days ([Matic et al](#summary-matic); [Ott et al](#summary-ott))) and with and without transport media (about half of the studies use some transport media).
+  * The load of SARS-CoV-2 RNA stays stable and is detectable in saliva after some days ([Matic et al](#summary-matic); [Ott et al](#summary-ott))) with and without virus transport media (about half of the studies use some transport media).
 * Suitability: 
   * Saliva is simpler than NPS and suitable for self collection.
   * Pooled analysis [citation in work]. 
@@ -316,18 +317,19 @@ Key features of saliva based Covid diagnosis are:
 
 ### Literature on Saliva Diagnosis
 Summaries of the papers are in the section [Summarized References](#summarized-references).
-* saliva and other diagnosis forms for Covid-19 are concisely described in the recommended introduction of ([Matic et al](#summary-matic)
+* Saliva and other diagnosis forms for Covid-19 are concisely described in the recommended introduction of ([Matic et al](#summary-matic)
 * Reviews are
   * [Lee et al](#summarized-review-lee)(has nice plots comparing the different sampling methods) 
   * [da Silva](#summarized-review-dasilva)(helpful summaries of studies).
   * [Manabe et al](#summary-manabe) investigate crevicular fluid and review the literature on saliva diagnosis. 
 * Well specified and carefully carried out investigations are:
-  * [Wong](#summary-wong). Early morning before eat saliva. Retrospective comparison of saliva against NPsp from testing centers in Hong Kong. 
+  * [Wong](#summary-wong). Early morning before eat saliva. Retrospective comparison of saliva to nasopharyngeal samples (mainly swabs but also some aspirates) from testing centers in Hong Kong. 
   * [Wyllie](#summary-wyllie-letter). Early morning before eat saliva. **Recommended** read with illustrative plots, detailed information available in the appendix.
   * [Rao](#summary-rao). Early morning before eat saliva.
-  * [Huber](#summary-huber). Throat wash specimens. 
-* An interesting read is [Yokota 2](#summary-yokota-2). In his [Opinion Paper](#summary-opinion-by-azzi) L. Azzi opts for saliva based diagnosis and summarizes key points of [Yokota et al](#summary-yokota-2).
-* [Hung et al](#summary-hung) describe the SARS-CoV-2 viral load in saliva at 5 different time point during the day and observe that the viral load peaks in the morning.
+  * [Huber](#summary-huber). Throat wash specimens.
+* Of interest
+  * An interesting read is [Yokota 2](#summary-yokota-2). In his [Opinion Paper](#summary-opinion-by-azzi) L. Azzi opts for saliva based diagnosis and summarizes key points of [Yokota et al](#summary-yokota-2).
+  * [Hung et al](#summary-hung) describe the SARS-CoV-2 viral load in saliva at 5 different time point during the day and observe that the viral load peaks in the morning.
 
 ### Saliva Sampling Methods
 [in work]
@@ -356,12 +358,12 @@ Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield differ
 
 
 ### Notes
-* The validity of saliva and most other specimens can be validated by detecting the RNaseP enzyme. RNaseP is only contained in correctly taken specimens since: RNaseP is an enzyme which is mostly consisting of RNA and some proteins. RNaseP is released from the cells to extracellular fluids such as mucus, blood or saliva. Its RNA parts can be amplified & detected by PCR.
+* The validity of saliva and most other specimens can be validated by detecting the RNaseP enzyme (enzyme made from RNA and proteins which degrades extracellular RNA). RNaseP is only contained in correctly taken specimens since: RNaseP is an enzyme which is mostly consisting of RNA and some proteins. RNaseP is released from the cells to extracellular fluids such as mucus, blood or saliva. Its RNA parts can be amplified & detected by PCR.
 * Saliva tests can be tricked by increasing the saliva flow ([Dawes](#summary-dawes)). 
 
-  > One reason more to relax the often overly strict [quarantine and isolation rules](./controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](./covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected. With a positive test most are likely careful (even without requirements).
+  > One reason more to relax the often overly strict [quarantine and isolation rules](./controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](./covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected. With a positive test, most are likely careful (even without requirements).
 
-  Detecting cheating may require new methods. Detection of members of the oral flora is an option since, as coronaviruses, most bacteria and viruses peak after sleep ([Carlson-Jones](#summary-carlson-jones)). RNaseP likely does not help: Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP does not decrease much on an increased flow rate [to check].
+  To determine useful sampling/cheating an option is: Detection of members of the oral flora, since not only coronaviruses but also most other bacteria and viruses peak after sleep ([Carlson-Jones](#summary-carlson-jones)). RNaseP likely does not help: Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP does not decrease much on an increased flow rate [to check].
   
 
 ## Summarized References
@@ -985,10 +987,10 @@ Total       |  5    | 1758  | 1763
 [in work]
 **Saliva viral load is a dynamic unifying correlate of COVID-19 severity and mortality**
 ##### Methods
-* Continuation of the saliva analyses done in [Wyllie et al](#summary-wyllie-letter). The obtained time series of viral loads in saliva and NPS specimens are compared to the pathogeneses. 
+* Continuation of the saliva analyses done in [Wyllie et al](#summary-wyllie-letter). The time series of viral loads in saliva and NPS specimens are compared to the corresponding pathogeneses.
 ##### Results
 * The faster the saliva viral load decreases the better the prognosis (shown in Figure 2 D).
-* NPS viral load peaks later than the saliva viral load and is more variable i.e. the decrease is less monotone (Figure 2 J). 
+* The NPS viral load peaks later than the saliva viral load and is more variable i.e. the decrease is less monotone (Figure 2 J). 
 
 #### Summary To
 **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
