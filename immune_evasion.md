@@ -29,13 +29,13 @@ The only virion protein reliable accessible is the spike protein, so that's the 
   - variable regions on the outside which mutate/recombine often
 - Mask
   - sensitive regions e.g. receptor binding domains are shielded until [primed](./coronavirus.md#virion-activation). 
-  - different priming steps in different locations in the hosts enabling intra-host spread
+  - different priming steps in different locations can give a different appearance at different locations in a host -> enabling intra-host spread [to check/confirm]
 - Exploit
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
   
-> Neutralizing antibodies act also as non-neutralizing antibodies (cells show what they produce on the outside. An infected cell usually produces coronavirus spikes and this spikes get presented on the cell membrane. Immune cells such as T cells can detect this and induce cell death. So the cell is stopped from producing many virions. 
+> Neutralizing antibodies act also as non-neutralizing antibodies (cells show what they produce on the outside. An infected cell usually produces coronavirus spikes and this spikes get presented on the cell membrane. Immune cells such as T cells can detect this and induce cell death. So the cell is stopped from producing many virions.
 
-> Besides antibodies, natural infections and to some extent vaccines induce also specific memory T cells targeting different antigens of viruses. These T cells are especially effective at recognizing the presented antigens mentioned above.
+> Besides antibodies, natural infections and to some extent vaccines induce also specific immune cells such as memory T cells targeting different antigens of viruses. These T cells are especially effective at recognizing the presented antigens mentioned above.
 
 
 ## References
