@@ -127,18 +127,18 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 #### Suggestions for Infected
 as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
-* [High-filtration mask](./masks.md#high-filtration) in all indoor spaces/rooms where people to protect can be. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
+* [High-filtration mask](./masks.md#high-filtration) in all indoor spaces/rooms where people to protect are. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
 * No crowded places (outdoors and indoors)
 * Distance: 2 meters outdoors and 4 meters indoors.
 * No close range face-to-face talking
-* Ventilate the room and flat before opening extern doors ([Large Buildings](#large-buildings)). Ideally ventilate before opening the personal room and open the door slightly only.
+* Ventilate the room and flat before opening extern doors ([Large Buildings](#large-buildings)). Ideally ventilate before opening the personal room and open the door reduced.
 
 #### Isolation by Home-Lockdown
 To reduce spread isolation by home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more fine-grained the measures can be.
 * Isolation should be used with care since it can discourage people from testing and being transparent e.g. disclosing socials contacts and travel history.
 * There are good reasons against home isolation:
     - Going outside is important for an intact immune system and good health. This is important for infected too.
-    - Indoor sports can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk.
+    - Indoor movement/light sports can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk.
 
   Preventing spread opportunities e.g. avoiding indoor and/or crowded public spaces is important.
 
@@ -167,6 +167,7 @@ High filtration masks should be used in shared stairwells and the flats should b
 ### Outdoor Days
 Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission if care is taken in [buildings](#large-buildings) and [shops](#shops). To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.
 
+
 ### Home-Lock Down
 A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was more limited and transmission less known. It has very severe drawbacks compared to [outdoor days](#outdoor-days):
 * few or no movement for a longer time is not good for health. 
@@ -194,7 +195,9 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 
 > #### Government Support 
-> Temporary support for individuals I consider necessary not to disrupt livelihoods. Additionally support for those who need/want to reorganize can be adequate. Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced or closed for the foreseeable future (long distance traveling, large scale events). Restrictions are dependent on the local situation and on the weightening of all costs. General notes on support and thoughts how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
+> Temporary support for individuals I consider necessary not to disrupt livelihoods. Additionally support for those who need/want to reorganize can be adequate. General notes on support and thoughts how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
+> 
+> Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced or closed for the foreseeable future (long distance traveling, large scale events). Restrictions are dependent on the local situation and on the weighting of all costs. 
 
 ### Corona Conform Skiing
 [**in work**]
@@ -204,7 +207,7 @@ __In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsaf
 
 > Allowing skiing in some regions first, I consider beneficial, since all can benefit from the experiences gathered. Ideally the situations are closely monitored (e.g. Covid-19 saliva-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) are transparently published.
 
-> International Travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. not further discussed on this page). 
+> International Travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. not further discussed on this page).
 
 __ThinkThrough__
 Two sides:
@@ -213,15 +216,13 @@ Two sides:
   
 All mentioned in skiing associated are known as risk factors for Covid aerosol transmission (independent of the observed transmission in ski resorts).
 
-
 __Evidence__
-In line with theoretical risk factors (high altitude, sports, dry air in densely populated indoor rooms) - without aerosol protection measures (disinfectants and some droplet preventions were all ready in place in winter 2020) - many infections occurred in ski resorts.
+In line with theoretical risk factors (high altitude, sports, dry air in densely populated indoor rooms) - without aerosol protection measures (disinfectants and some droplet preventions were already in place in winter 2020) - many infections occurred in ski resorts.
 
 __Experiences__
-In the summer 2020, many mountain locations in the alps were crowded and had running cable cars. To my knowledge no increased Covid-19 incidences and especially no hot-spots were observed.
+In the summer 2020 many mountain locations in the alps were crowded and had running cable cars. To my knowledge no increased Covid-19 incidences and especially no hot-spots were observed.
 
-=> In the summer season when good ventilation is easy and often practiced and combined with low Covid incidence rates mountain holidays worked well.
-
+=> In the summer season, when good ventilation is easy and often practiced and combined with low Covid incidence rates mountain holidays worked well.
 
 __Comment__
 Skiing itself is safe but there need to be restrictions on the high risk skiing associated settings. 
@@ -311,7 +312,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
     * Even with a low R value children can contribute to the overall spread.
     * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams.
     * Many people in the same room and classrooms are not always ventilated well.
-    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets.
+    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets. Unlike the influenza the main SARS receptor (ACE2) is not expressed on the vocal folds.
     * Children all come from different families and inside families protection is not easy but doable if the infection known ~~hardly doable~~ (children are not super-spreaders).
 * Experiences: 
   * Closing schools were part of lock-downs in spring 2020 in many countries due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
@@ -349,9 +350,12 @@ Measure regarding schools can reach from complete closure to mild measures such 
 ### Outside is Safer
 Outside the viruses get diluted and then are cleared or decay faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main risk is in face-to-face situations. 
 
+Outside there is:
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
-- [Virion Decay](./stability.md): sunlight and heat  destroy virions or at least increases the decay.<!-- check humidity effect on virus survival-->
 - [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
+
+and as described in the [viability chapter](./virion_viability.md),
+the [Virion Decay](./virion_viability.md) is high due to sunlight, heat. Additionally there are countless microorganisms nourishing from anything digestible.
 
 #### Dilution
 Outside there is much more air per person than inside:
