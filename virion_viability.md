@@ -4,8 +4,8 @@
 * [Content](#content)
 * [Short Summary Virion Viability](#short-summary-virion-viability)
 * [Extended Summary Virion Viability](#extended-summary-virion-viability)
-  * [Decay Mechanisms and Rates](#decay-mechanisms-and-rates)
   * [Decay Situations in Practice](#decay-situations-in-practice)
+  * [Decay Mechanisms and Rates](#decay-mechanisms-and-rates)
 * [Relevance](#relevance)
 * [Recommended Literature](#recommended-literature)
 * [Decay Factors](#decay-factors)
@@ -31,7 +31,7 @@
   * [Self Decay Rates](#self-decay-rates)
 * [References](#references)
   * [References Temperature Viability SARS-2](#references-temperature-viability-sars-2)
-  * [References Temperature Viability Viruses](#references-temperature-viability-viruses)
+  * [References Temperature Viability of other Viruses](#references-temperature-viability-of-other-viruses)
   * [References UV](#references-uv)
 
 > [**in work, some parts are explorative**]
@@ -45,25 +45,37 @@ At different situations different mechanisms are the principal drivers of the de
   * Temperatures above 70 degrees
 * Halflifetime a few Minutes
   * Sunlight
-  * Temperature above 50 degrees
+  * Temperatures above 50 degrees
 * Halflifetime a couple of  hours
-  * In Respiratory Tract Mucus/Saliva/on the Skin (which all have some antiviral activity) at room temperature
+  * In respiratory tract fluids such as mucus/saliva or on the skin (which all have some antiviral activity) at room temperature or above as long as the samples are not dried out.
   * Lower Respiratory Tract at 37 degrees
-* Halflifetime twelve Hours or more
-  * Dried samples at or below room temperatures
+* Halflifetime half a day or more
+  * Dried samples or single virions at or below room temperatures
+
 
 
 ## Extended Summary Virion Viability
 
-[Virions](./coronavirus.md#virion) aren't very stable compared to other forms of live. The principal reasons for the instability of virion are:
-* The genome is [stored in ssRNA](./coronavirus.md#ssrna)
-* The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out osmotic pressures, without metabolism virions do not.
-* Proteins: The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To a lesser extent this is also the case for the N protein.
-* Virions have no metabolism and thus cannot repair any damage occurred or even out imbalances.
+### Decay Situations in Practice
+[Virions](./coronavirus.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
+
+* Outdoors during the day the UV part of sunlight quickly breaks the RNA. Even on cloudy days and in the evening this decay is relevant although slower than at sunny noon.
+* Virions are exhaled in samples of respiratory fluids, which contain biochemical substances such as proteins, surfactants and salts. These biochemicals cause decay of the virions.
+  * At an air humidity between about 40% to 70%: The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate.
+  * At an air humidity between 70% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
+  * At an air humidity above 95%: The droplet expand there size in humid environments. A faster decay rate is observed. 
+  * At an air humidity below 40%: the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
+* In the stomach virions are inactivated by acids.
 
 
 ### Decay Mechanisms and Rates
-Common decay mechanisms and their speeds, given as halflife times. 
+
+[Virions](./coronavirus.md#virion) aren't very stable compared to other forms of live. The principal reasons for the instability of virion are:
+* The genome is [stored in ssRNA](./coronavirus.md#ssrna)
+* The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out osmotic pressures, without metabolism virions do not.
+* The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
+* Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
+
 
 #### Decay by UV Light
 UV light yields the RNA unreadable. At low UV (e.g low sun in the fall) the halflife time is about 6 minutes and at intense UV (e.g. sun in summer) about 2 min. On cloudy days the UV is lower but still high enough to break the RNA.
@@ -72,9 +84,9 @@ UV light yields the RNA unreadable. At low UV (e.g low sun in the fall) the half
 
 #### Decay by Biochemicals
 Decay by biochemicals inactivate virions mainly from the outside by interacting with the spike protein or destroying the lipid envelope. Rates at room temperature (22 degree):
-* In sputum/nasal mucus/saliva/on the skin the rates are in a similar range. The decay rate doubles about every 10 degrees temperature increase. The halflifetime is lowest at relative humidities such that the samples shrink due to evaporation but don't dry out, at about 40%.
-  * at 4 degrees: about 5 to 10 hours
-  * at 22 degrees: about 1 hour (around 45 - 70% relative humidity) to 4 hours (very dry air - lower than 40% relative humidity)
+* In sputum/nasal mucus/saliva/on the skin the rates are in a similar range. The decay rate doubles about every 10 degrees temperature increase. 
+  * at 4 degrees: about 5 (around 50% humidity) to 10 hours (around 20% humidity).
+  * at 22 degrees: about 1 hour (around 50% relative humidity) to 4 hours (around 20% humidity).
 * Common disinfectants (e.g. ethanol 70%, iodine 7.5%): a few seconds
 * Soap: About 20 seconds
 
@@ -83,28 +95,17 @@ Decay by biochemicals inactivate virions mainly from the outside by interacting 
 Self decay denotes the decay which always occurs even without extern factors. The self decay depends on the internal state of a virion. Self decay happens primarily by RNA self-decay up to about 40 degrees celsius. Above about 45 degrees the proteins start loosing functionality.
 
 The self decay rate can be approximated by a piecewise linear function:
-* 4 to 45 degrees:  The rate doubles (the halftime halves) about every 5 degree temperature increase. The halflifetimes are about:
+* 4 to 45 degrees: Decay mainly due to RNA self decay. The rate doubles (the halftime halves) about every 5 degree temperature increase. 
   * at 4 degrees: about   400 hours
   * at 20 degrees: about   80 hours
   * at 37 degrees: about   10 hours
   * at 45 degrees: The rate of the RNA decay and the protein deactivation is about the same with a combined halflifetime of 2 hours.
-* 45 to 60 degrees: Protein decay drives the decay. The rate doubles (the halftime halves) roughly every 2 degrees.
+* 45 to 60 degrees: Decay mainly due to decay of the spring-loaded (metastable) proteins. The rate doubles (the halftime halves) roughly every 2 degrees.
   * at 45 degrees the halflifetime is about 180 minutes hours.
   * at 55 degrees the halflifetime is 2 - 6 Minutes (depending on the coronavirus species; about 2 minutes for SARS-CoV-2).
 * 60 to 75 degrees: The lipid envelope decays.
   * at 70 degrees the halflifetime is about 10 seconds.
 
-
-### Decay Situations in Practice
-[Virions](./coronavirus.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
-
-* Outdoors during the day the UV part of sunlight quickly breaks the RNA of virions even on cloudy days.
-* Virions are exhaled in samples of respiratory fluids, which contain biochemicals such as proteins, surfactants and salts. These biochemicals cause decay of the virions.
-  * At an air humidity between about 40% to 70%: The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate.
-  * At an air humidity between 70% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
-  * At an air humidity above 95%: The droplet expand there size in humid environments. A fast decay is observed. 
-  * At an air humidity below 40%: the droplets dry out the substances crystallize. The decay rate is lower since biochemicals can't interact with the virions.
-* In the stomach virions are inactivated by acids.
 
 
 ## Relevance
@@ -194,8 +195,9 @@ The virions decay depends on:
 
 ##### Internal State
 > The *internal state* denotes the physical and chemical characterization of a virion. The internal state has constant and variable characteristics:
-> - Constant throughout lifespan = [Building Blocks](#virion-building-blocks) (RNA genome, proteins and envelope) and host acquired substances such as fatty acids or salts.
-> - Variable throughout lifespan
+> - Mostly constant for virions of a given lineage and their lifespan: Virus produced [Building Blocks](#virion-building-blocks) (RNA genome, proteins) 
+> - Mostly constant throughout the lifespan of a virions: Host-cell acquired building blocks(envelope)  and other host acquired substances such as fatty acids or salts.
+> - Variable throughout the virion lifespan
     - Temperature
     - pH value
     - biochemicals able that pass the envelope
@@ -269,16 +271,17 @@ When each member of a collection has some time independent chance to replicate o
 * The decay of radioactive material is exponential since each atom has some probability to decay during a fixed time span.
 * Change of prevalence of a disease in a homogenous  or at least time homogenous population (time homogenous is approximately true for SARS-2 strains at low numbers of infected throughout the population structure/groups).
 
-In most circumstances virions decay independently of each other with a fixed probability during a given time span. Therefore the decay is exponential:
-N(t) = k^t * N(0)  // N(t) = viability count at time t; k = decay factor; N(0) initial viability count i.e. at time 0
+In most circumstances virions decay independently of each other with a fixed probability during a given time span. In these situations the decay is exponential:
+N(t) = e^(k*t) * N(0)  // N(t) = viability count at time t; k = decay rate; N(0) initial viability i.e. at time 0
 
 Common measures for the rate of an exponential decay are:
 > Halflife time == log2 reduction time == half of the collection is intact == time to get a 50 % reduction
 
 > Tenth-life time == log10 reduction time == a tenth of the collection is intact == time to get a 90% reduction
 
-The following equation holds:
-90%-reduction time = log2(10) * halflifetime
+The following equations hold (by properties of the exp and the log functions):
+* 90%-reduction time = log2(10) * halflifetime
+* k = ln(2) / halflifetime
 
 
 ## Measured Decay Rates in different Situations
@@ -308,10 +311,10 @@ Sources:
 Estimates:
 Temperature\Humidity|20| 50 | 80 
 --|--|--|--
-5 | 100 - 300 | 40 - 50   | 60 - 80
+ 5| 100 - 300 | 40 - 50   | 60 - 80
 20|10 - 100   | 4 - 40    | 10 - 20
 30| 3 - 25    | 1.5 - 10  | 2.5 - 10
-40| 2- 8      | .6 - 1.5  | 0.5 - 4
+40| 2- 8      | .5 - 2    | 0.5 - 4
 
 Observations:
 The following pattern of decay rates is observed (described e.g. in [Morris](#morris) or in [])
@@ -375,6 +378,10 @@ The survival of TGEV and MHV in cell culture medium at 9 temperature-humidity co
 #### Chan 11
 **The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus**
 ##### Methods
+The viability of SARS-CoV-1 is determined for the following conditions: 
+* in solution and at dried at 40-50% humidity at room temperature.
+* dried virions at temperatures (28,33,38) and humidities (80-85%, 95%).
+##### Methods Details
 * Cells:
   * Cell Line: Foetal monkey kidney cells (FRhK- 4) 
   * Cell Culture Medium: minimal essential medium (MEM, Gibco, USA) with 10% foetal calf serum and penicillin streptomycin (Gibco, USA)
@@ -385,9 +392,11 @@ The survival of TGEV and MHV in cell culture medium at 9 temperature-humidity co
 * Experiment: 
   * "Ten microlitre of maintenance medium containing 107 TCID50 per mL of virus was placed in individual wells of a 24- well plastic plates and allowed to dry at room temperature (22∼25◦C) and relative humidity of 40–50% (i.e., conditions prevailing in a typical air-conditioned room)."
   * "The experiment was repeated at different temperatures (38◦ C, 33◦ C, 28◦ C) and relative humidities (>95%, 80∼89%) for 3hr, 7hr, 11hr, 13hr, and 24hr. A nebulizer under a controlled condition was used to generate high and relative low humidity environment. All the experiments above were conducted in duplicate and the residual viral infectivity was titrated."
+##### Results
+"The dried virus on smooth surfaces retained its viability for over 5 days at temperatures of 22–25◦C and relative humidity of 40–50%, that is, typical air-conditioned environments. However, virus viability was rapidly lost (>3 log10) at higher temperatures and higher relative humidity (e.g., 38◦C, and relative humidity of >95%)."
   
 
-#### Chan 2
+#### Chan 20
 **Factors affecting stability and infectivity of SARS-CoV-2**
 ##### Methods Summary
 "The residual virus in dried form or in solution was titrated on to Vero E6 cells on days 0, 1, 3, 5 and 7 after incubation at different temperatures. Viral viability was determined after treatment with various disinfectants and pH solutions at room temperature (20-25 C)."
@@ -402,15 +411,16 @@ The survival of TGEV and MHV in cell culture medium at 9 temperature-humidity co
     * "Controls were viruses in solution, and stored in closed screw cap tubes with similar treatment."
   * Stability in disinfectants
     "Thirty microlitres of SARS-CoV-2 (106.5 TCID /mL) and 270 50 mL of various disinfectants were mixed and incubated at room temperature (Table I)."
-
 ##### Results
-* "When the virus was added to 90% FBS or MEM and was heated at 56C for 30 min, viability in both FBS and MEM was reduced by at least 3 logs (3.580.29)."
+* "When the virus was added to 90% FBS or MEM and was heated at 56C for 30 min, viability in both FBS and MEM was reduced by at least 3 logs (3.58, 0.29)."
 
 
 
 #### Riddell
-
+**The effect of temperature on persistence of SARS-CoV-2 on common surfaces**
 ##### Methods
+"This study measured the survival rates of infectious SARS-CoV-2, suspended in a standard ASTM E2197 matrix, on several common surface types. All experiments were carried out in the dark, to negate any effects of UV light. Inoculated surfaces were incubated at 20 °C, 30 °C and 40 °C and sampled at various time points."
+##### Methods Details
 * Virus Strain: SARS-CoV-2 (Betacoronavirus/Australia/ SA01/2020)
 * Virus Culture: "The virus was passaged four times through Vero E6 cells (ATCC CRL- 1586) in Dulbecco’s Modified Eagle Medium (DMEM) supplemented with Penicillin, Streptomycin, Fungizone and 10% fetal calf serum and pelleted via ultracentrifugation at 100,000×g for 90 min."
 * Material/Surface Preparation: "All surfaces were prepared by cutting into approx. 1–1.5 cm2 coupons, non-porous surfaces were disinfected prior to use by washing in a mild detergent (Beck- man 555), rinsing in distilled water and then immersing in 80% v/v ethanol. Paper bank notes (in very good condition) were heated in a dry oven to 75 °C for 1 h to reduce bacterial/viral contamination. The 100% cotton cloth was steam sterilised prior to use."
@@ -419,11 +429,15 @@ The survival of TGEV and MHV in cell culture medium at 9 temperature-humidity co
   * "Once dry, the coupons were placed into a humidified climate chamber (Memmert HPP110) for specified time points. Samples were incubated in the dark to limit any effect light might have on viral decay. A single humidity set point (50% relative humidity) was maintained for each of three separate temperature experiments (20 °C, 30 °C, 40 °C)."
 * Virion Recovery: "For non-porous surfaces, for each replicate, virus was eluted in 2×115 μL volumes of DMEM with repeated pipetting then titrated individually, in quadruplicate wells on a 96-well plate. For recovery from cotton cloth, inoculated swatches of the cloth were individually submersed in 500 μL DMEM and pipetted repeatedly for at least 1 min before 230 μL of the recovered eluent from each swatch was titrated separately,5 in quadruplicate."
 * Measuring Survival: "The virus was resuspended in phosphate buffered saline (PBS) with 1% bovine serum albumin (BSA) and stored at − 80 °C. The virus stock was titrated on Vero E6 cells and the TCID 50 was determined to be 4.97×107/mL by the Spearman–Karber method [12, 13]."
+##### Results
+"We obtained half lives of between 1.7 and 2.7 days at 20 °C, reducing to a few hours when tem- perature was elevated to 40 °C."
 
 
 
 #### Chin 
-Chin, A.W.H., Chu, J.T.S., Perera, M.R.A., Hui, K.P.Y., Yen, H.-L., Chan, M.C.W., Peiris, M., Poon, L.L.M., 2020. Stability of SARS-CoV-2 in different environmental conditions. The Lancet Microbe 1 (1).
+Chin, A.W.H., Chu, J.T.S., Perera, M.R.A., Hui, K.P.Y., Yen, H.-L., Chan, M.C.W., Peiris, M., Poon, L.L.M., 2020. 
+**Stability of SARS-CoV-2 in different environmental conditions.** 
+The Lancet Microbe 1 (1).
 
 #### Morris
 **The effect of temperature and humidity on the stability of SARS-CoV-2 and other enveloped viruses**
@@ -431,25 +445,27 @@ https://doi.org/10.1101/2020.10.16.341883
 
 ##### Methods
 * "We measured the environmental stability of SARS-CoV-2 virions suspended in cell culture medium deposited onto a polypropylene plastic surface at nine environmental conditions: three relative humidities (RH; 40 %, 65 %, and 85 %) at each of three temperatures (10 C, 22 C, and 27 C)."
+* "We measured the evaporation kinetics of suspension medium under the same temperature and humidity conditions as the virus stability experiments"
+##### Methods Details
 * "We quantified infectious virus titer over time and estimated virus decay rates and corresponding half-lives in each condition using a simple Bayesian regression model (see Methods)."
 * Experiments:
   * Matrix: "We prepared a solution of Dulbecco’s Modified Eagle Medium (DMEM, a common cell culture medium) supplemented with 2mM L-glutamine, 2% fetal bovine serum and 100 units/mL penicillin/streptomycin, and containing 105 TCID50/mL SARS-CoV-2. "
   * "We prepared 216 disks corresponding to three replicates per eight post-deposition time-points (0, 1, 4, 8, and 24 hours, then daily for 4 days) for the nine conditions."
   * Recovery: "At each time-point, samples were collected by rinsing the disks with 1mL of DMEM and stored at 80 C until titration."
-
 ##### Results
-* "Overall, measured virus decay became markedly faster as temperature increased across all humidities, with decay at  C roughly five to ten times faster than decay at 10 C. Across temperatures, virus decay exhibited a U-shaped dependence on RH: roughly two to five times faster at 65% RH than at 40% and 100% RH (Fig. 1a)."
-
+* "Overall, measured virus decay became markedly faster as temperature increased across all humidities, with decay at 27 C roughly five to ten times faster than decay at 10 C. Across temperatures, virus decay exhibited a U-shaped dependence on RH: roughly two to five times faster at 65% RH than at 40% and 100% RH (Fig. 1a)."
 ##### Meta-analysis
-"To test the validity of our model beyond the measured environmental conditions (i.e., beyond 10– 27 C and 40–85 % RH), we compiled data from 11 published studies on human coronaviruses, including SARS-CoV-2, SARS-CoV-1, MERS-CoV, HCoV-OC43 and HCoV-299E, under 17 temperature-RH conditions. We generated estimates of half-life and uncertainties (Extended Data Table 2) and compared those estimates to the half-lives predicted by the mechanistic model parametrized from our SARS-CoV-2 data."
+* Table summarizing several coronavirus viability studies (halflifetimes given).
+* "To test the validity of our model beyond the measured environmental conditions (i.e., beyond 10– 27 C and 40–85 % RH), we compiled data from 11 published studies on human coronaviruses, including SARS-CoV-2, SARS-CoV-1, MERS-CoV, HCoV-OC43 and HCoV-299E, under 17 temperature-RH conditions. We generated estimates of half-life and uncertainties (Extended Data Table 2) and compared those estimates to the half-lives predicted by the mechanistic model parametrized from our SARS-CoV-2 data."
 
 
 
 #### Laude
 **Thermal Inactivation Studies of a Coronavirus, Transmissible Gastroenteritis Virus**
 
+> Similar to [Fleming](#fleming), recommended to read in parallel.
 ##### Methods
-Measure the decay rate of 
+The decay rate of the TGEV coronavirus at temperatures between 31 and 55 degrees at the pH values 7 and 8 is determined.
 ##### Methods Details
 * Virus Strain: "Purdue and the D52 strains were used as the source of transmissible gastroenteritis virus (TGEV)"
 * Cell and Virus Cultures: "The virus was propagated in the pig kidney cell line RP_D, and maintained in Eagle's minimum essential medium (MEM) containing 2% calf serum; the cultures were frozen at -70 °C at the first signs of c.p.e."
@@ -460,45 +476,76 @@ Measure the decay rate of
 * "Thermal inactivation of the virus at pH 8 showed that the half-life at any temperature is markedly reduced (Fig. 1 b)."
 * "Thermal inactivation of a coronavirus essentially resembles that observed previously with several other RNA viruses. TGEV thermal inactivation is mediated by two thermodynamically distinct reactions below and above 45 °C."
 
-#### Marr
-Marr LC, Tang JW, Van Mullekom J, Lakdawala SS. 2019 
-**Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence.** J. R. Soc. Interface 16: 20180298. 
-https://dx.doi.org/10.1098/rsif.2018.0298
-
 
 #### Biryukov
 Biryukov J, Boydston JA, Dunning RA, Yeager JJ, Wood S, Reese AL, Ferris A, Miller D, Weaver W, Zeitouni NE, Phillips A, Freeburger D, Hooper I, Ratnesar-Shumate S, Yolitz J, Krause M, Williams G, Dawson DG, Herzog A, Dabisch P, Wahl V, Hevey MC, Altamura LA. 2020. **Increasing temperature and relative humidity accelerates inactivation of SARS-CoV- 2 on surfaces.** 
 mSphere 5:e00441-20. 
 https://doi.org/10.1128/mSphere.00441-20
-
 #### Methods
 * "Vero (ATCC CCL-81) cells were used to propagate SARS-CoV-2 and in virus microtitration assays. Cells were cultured at 37°C and 5% CO2 in complete growth medium (gMEM) as previously described (16)."
 * Experiment: 
   * "Virus stability was measured using multiple RH and temperature combinations ranging from approximately 20 to 80% RH and 24 to 35°C." 
 
 
-### References Temperature Viability Viruses
+### References Temperature Viability of other Viruses
+
 #### DiGoia
+**Thermal Inactivation of Newcastle Disease Virus**
 ##### Methods
 "The rate of destruction of hemagglutinins and infectivity of Newcastle disease virus was determined over a temperature range of 37.8 to 60C."
 ##### Results
 "From the calculated values of delta H and delta S,it was concluded that inactivation of the hemagglutinating activity and viral infectivity was due to protein denaturation."
 
+#### Fleming
+**Thermal Inactivation of Semliki Forest Virus**
+##### Methods
+* First the influence of the originating cells and the surrounding matrix was determined to select a appropriate model for the thermal inactivation studies.
+* The inactivation of homogenous virions at temperatures between 2o° and 50° degrees in different dilution of stabilizing medium was determined.
+##### Results
+* Influence of originating cells:
+  * At 35°, the rate of inactivation was independent of the originating cell lines (Figure 2 a).
+  * At 50°, only virions originating from a stable cell line (mouse embryo cells) showed a 1 step log-linear inactivation. For other cells lines a 2 step log-linear inactivation is observed (Figure 2 b).
+* At 22° if the medium 199, CS was diluted by a phosphate buffer solution the virions lost stability (Figure 1 and 3). The loss of stability was shifted to higher dilutions in the dark (Figure 1).
+* The arrhenius plots in Figure 3 and the corresponding values in Table 1:
+  * There's a switch of the inactivations mechanism between 40 and 45 degrees.
+  * Apart from the switch of mechanisms around 45 degrees, the mechanisms do not change but the rates are higher
+    * at higher dilutions of the 199, CS medium
+    * at a pH of 6.5 instead of 7.5.
+* The decay at 50° (but not the decay at 35° or by UV radiation) induces a reduced neutralization by antibodies, which indicates changes of the surface proteins. However since the neutralizing tests were done by an excess of antibodies, this change was faster than the reduction of viability.
+
+
+#### Marr
+Marr LC, Tang JW, Van Mullekom J, Lakdawala SS. 2019 
+**Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence.** 
+J. R. Soc. Interface 16: 20180298. https://dx.doi.org/10.1098/rsif.2018.0298
+
 
 ### References UV
 #### Schuit
+**Airborne SARS-CoV-2 Is Rapidly Inactivated by Simulated Sunlight**
 [in work]
+
+> Remark: similar and same research group as [Ratnesar-Shumate](#ratnesar-shumate)
+##### Methods
+"This study examined effect of simulated sunlight, relative humidity, and suspension matrix on stability of SARS-CoV-2 in aerosols."
+##### Methods Details
 * Culturing: "Vero Cells (ATCC CCL-81) were grown at 37°C and 5% CO2 in culture medium, consisting of minimum essential medium (Gibco) supplemented with 10% heat-inactivated fetal bovine serum (Hyclone or Atlanta Biologicals), 2 mM GlutaMAX (Gibco), 0.1 mM nonessential amino acids solution (Gibco), 1 mM sodium pyruvate (Gibco), and 1% antibiotic-antimycotic solution (Gibco)."
 * Matrix: "For aerosol tests, aliquots of the concentrated virus were thawed and diluted 1:10 in either fresh culture medium or simulated saliva, formulated as described in the ASTM standard for measuring virus decontamination efficacy [25], but prepared with KH2PO4 and K2HPO4 at final concentrations of 15.4 mM and 24.6 mM, respectively. "
 * Experiments:
   * "Tests were conducted in both suspension matrices across a range of relative humidity levels (20%, 45%, and 70%) and simulated sunlight intensities (darkness, midintensity, and high intensity)."
+##### Results
+* "Mean decay rates (± SD) in simulated saliva, under simulated sunlight levels representative of late winter/early fall and summer were 0.121 ± 0.017 min−1 (90% loss, 19 minutes) and 0.306 ± 0.097 min−1 (90% loss, 8 minutes), respectively."
+* At high intensity light and high humidity the decay was faster in saliva than in culture medium.
 
 
 #### Ratnesar-Shumate
 **Simulated Sunlight Rapidly Inactivates SARS-CoV-2 on Surfaces**
-[in work], similar to Schuit, it's the same research group
+[in work]
 
+> Remark: similar and same research group as [Schuit](#schuit)
 ##### Methods
+"In the present study, simulated sunlight rapidly inactivated SARS-CoV-2 suspended in either simulated saliva or culture media and dried on stainless steel coupons."
+##### Methods Details
 * Cell Cultures: "Vero cells (ATCC CCL-81) were cultured at 37°C and under 5% CO2 in complete growth medium (gMEM) consisting of minimum essential medium (Life Technologies) supplemented with 10% v/v heat-inactivated fetal bovine serum (Sigma Aldrich), 2 mM Glutamax (Life Technologies), 0.1 mM nonessential amino acids (Life Technologies), 1 mM sodium pyruvate (Life Technologies), and 1% v/v antibiotic-antimycotic solution (Life Technologies)."
 * Virion Harvesting: "At 72 hours post infection, the flasks were removed from the incubator, frozen at −80°C for at least 1 hour, thawed at 37°C, and the contents of the flasks clarified by centrifugation at 2000g for 10 minutes at 4°C. The clarified supernatant was concentrated approximately 10-fold using a 100 000 molecular weight cutoff cross flow cassette (VF20P4; Sartorius), then stored at −80°C in 1 mL aliquots until use."
 * Experiment:
@@ -506,5 +553,8 @@ https://doi.org/10.1128/mSphere.00441-20
   * "The temperature and relative humidity inside the chamber were maintained within a narrow range for testing, specifically 20 ± 4°C and 19 ± 5%, respectively."
   * "For each day of experiments, a frozen aliquot of concentrated virus was thawed and diluted 1:10 into either gMEM or a simulated saliva. The simulated saliva formulation represents a suspension medium that mimics the properties of saliva, specifically tonicity, pH, and protein content, and was similar to previously published recipes [17, 18] with the exceptions of KH2PO4 and K2HPO4, which were present at 15.4 mM and 24.6 mM."
   * Amount: 5-μL droplets
+##### Results
+* "Ninety percent of infectious virus was inactivated every 6.8 minutes in simulated saliva and every 14.3 minutes in culture media when exposed to simulated sunlight representative of the summer solstice at 40°N latitude at sea level on a clear day. Significant inactivation also occurred, albeit at a slower rate, under lower simulated sunlight levels."
+* Inactivation is about 2 times faster in saliva compared to culture medium.
 
 
