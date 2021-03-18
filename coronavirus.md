@@ -90,7 +90,7 @@ Proteins are assembled by ribosomes:
     - reliable duplication possible 
 
 #### Notes on Storage
-* only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other forms are dependent on some enzymes produced by dsDNA forms and as defined below are called [viruses](#virus).
+* only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other life forms are dependent on some enzymes produced by dsDNA forms and are called [viruses](#virus).
 * Some forms of life alternate the storage formats through their life cycle: ssRNA-RT (retroviruses).
  
 
@@ -124,15 +124,15 @@ Often genes are sequences of single/double stranded DNA or RNA which are transcr
 ### Interactions between Life Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
 * All forms of life except those who are able to do photosynthesis or use other inorganic energy sources (thermal, chemical) are dependent on organic energy sources i.e. forms of energy produced by other forms of life. 
-* Besides energy mammals including us humans need extern organic sources for vitamins, essential amino acids, essential fatty acids, ...
+* Besides energy, mammals - including us humans - also need extern sources for vitamins, essential amino acids, essential fatty acids, ...
 * Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanently coupled life forms develop: E.g. mitochondria as cell organelles. 
 
-> Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes (the machines). Where as [viruses](#virus) by definition don't produce all needed enzymes/machines.
+> Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes (the machines). Where as [viruses](#virus) by definition don't produce all needed enzymes (machines).
 
 Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings.
 
 ### Keeping the Metabolism Immune
-Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more . These mechanisms are called [immune system](./immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
+Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](./immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
 #### Cell Forming Life Forms
 **[in work]**
