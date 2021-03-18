@@ -158,7 +158,8 @@ When each member of a collection has some time independent chance to replicate o
 * Change of prevalence of a disease in a homogenous  or at least time homogenous population (time homogenous is approximately true for SARS-2 strains at low numbers of infected throughout the population structure/groups).
 
 In most circumstances virions decay independently of each other with a fixed probability during a given time span. In these situations the decay is exponential:
-N(t) = e^(k*t) * N(0)  // N(t) = viability count at time t; k = decay rate; N(0) initial viability i.e. at time 0
+
+`N(t) = e^(-k*t) * N(0)`  where N(t) = viability count at time t; k = decay rate; N(0) initial viability i.e. at time 0
 
 Common measures for the rate of an exponential decay are:
 > Halflife time == log2 reduction time == half of the collection is intact == time to get a 50 % reduction
