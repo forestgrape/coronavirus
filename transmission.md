@@ -274,7 +274,7 @@ Aerosols containing particulates and dry particulates can convert to each other 
 * Dry Particulates -> Small Aerosol containing a Particulate (more likely in humid air, particulates act as condensation nuclei)
 * Dry Particulates <- Small Aerosol containing a Particulate (more likely in dry air)
 
-and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [marr](#marr)): 
+and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [Yang](#yang)): 
 * Small Aerosol <-> Large Aerosol/Droplets (in dry air equilibrium tends to the left, in humid to the right)
 
 The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
@@ -374,32 +374,17 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 
 ### Particles in the Air
 
-* ##### lindstrom
-    Lindström Bagge, Maria. (2004). 
-    **Particles in small airways: mechanisms for deposition and clearance & Pharmacokinetic assessment of delivered dose to the lung.** 
-    https://openarchive.ki.se/xmlui/handle/10616/37702
-
-* ##### bailey
-	**The New ICRP Model for the Respiratory Tract** M.R. Bailey 
-	Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, 
-    https://doi.org/10.1093/rpd/53.1-4.107
-    
-* ##### heyder 2004
-    Joachim Heyder
-    **Deposition of Inhaled Particles in the Human Respiratory Tract and Consequences for Regional Targeting in Respiratory Drug Delivery**
-    Proc Am Thorac Soc Vol 1. pp 315–320, 2004 www.atsjournals.org
-    https://doi.org/10.1513/pats.200409-046TA 
-
-* ##### park
-    Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
-    **Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates**
-    Atmosphere 2020, 11, 137; 
-    https://doi.org/10.3390/atmos11020137
-
 * ##### morawska2006
     Morawska, L. (2006),
     **Droplet fate in indoor environments, or can we prevent the spread of infection?.** Indoor Air, 16: 335-347. 
     https://doi.org/10.1111/j.1600-0668.2006.00432.x
+
+* ##### Yang
+    Yang W, Marr LC (2011) 
+    **Dynamics of Airborne Influenza A Viruses Indoors and Dependence on Humidity.**
+    PLoS ONE 6(6): e21481. 
+    https://doi.org/10.1371/journal.pone.0021481
+
 
 
 ### Airflow Theory
@@ -455,6 +440,29 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 
 
 ### Particle Deposition at In/Exhalation
+
+
+* ##### lindstrom
+    Lindström Bagge, Maria. (2004). 
+    **Particles in small airways: mechanisms for deposition and clearance & Pharmacokinetic assessment of delivered dose to the lung.** 
+    https://openarchive.ki.se/xmlui/handle/10616/37702
+
+* ##### bailey
+	**The New ICRP Model for the Respiratory Tract** M.R. Bailey 
+	Radiation Protection Dosimetry, Volume 53, Issue 1-4, 1 May 1994, Pages 107–114, 
+    https://doi.org/10.1093/rpd/53.1-4.107
+    
+* ##### heyder 2004
+    Joachim Heyder
+    **Deposition of Inhaled Particles in the Human Respiratory Tract and Consequences for Regional Targeting in Respiratory Drug Delivery**
+    Proc Am Thorac Soc Vol 1. pp 315–320, 2004 www.atsjournals.org
+    https://doi.org/10.1513/pats.200409-046TA 
+
+* ##### park
+    Vu Khac Hoang Bui, Ju-Young Moon, Minhe Chae, Duckshin Park and Young-Chul Lee 
+    **Prediction of Aerosol Deposition in the Human Respiratory Tract via Computational Models: A Review with Recent Updates**
+    Atmosphere 2020, 11, 137; 
+    https://doi.org/10.3390/atmos11020137
 
 #### Computational Simulations
 
@@ -529,10 +537,6 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 	**Transmission routes of respiratory viruses among humans.**
 	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
     
-* ##### marr
-    Yang, W., & Marr, L. C. (2011). 
-    **Dynamics of airborne influenza A viruses indoors and dependence on humidity.**
-    PloS one, 6(6), e21481. https://doi.org/10.1371/journal.pone.0021481
     
 * ##### pierret
     Reiman JM, Das B, Sindberg GM, Urban MD, Hammerlund MEM, et al. (2018) 
