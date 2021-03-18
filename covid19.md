@@ -22,7 +22,6 @@
   * [Fatality](#fatality)
   * [References Long Term Effects](#references-long-term-effects)
   * [References Rehabilitation](#references-rehabilitation)
-  * [References Exercise and Inactivity](#references-exercise-and-inactivity)
 * [Appendix](#appendix)
 
 
@@ -155,8 +154,8 @@ Movement is import for optimal functioning of the immune system. A good working 
 The benefits of sports founded by biological mechanisms and epidemiological evidence are described on the [Movement page](./movement.md).
 
 Recommended articles regarding movement and exercise are:
-* [Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.](#zhu) by Zhu
-* [COVID-19: A pandemic that threatens physical and mental health by promoting physical inactivity](#ali) by Ali and Kunugi 
+* [Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.](./movement.md#zhu) by Zhu
+* [COVID-19: A pandemic that threatens physical and mental health by promoting physical inactivity](./movement.md#ali) by Ali and Kunugi 
 
 
 
@@ -252,16 +251,7 @@ Barker-Davies RM, O’Sullivan O, Senaratne KPP, et al. Br J Sports Med 2020;54:
 * "Pulmonary rehabilitation (PR) has been advocated for several decades as a way to provide comprehensive care and improve the functional status of patients with respiratory diseases.27"
 * "Exercise training (ET) is considered the foundation of PR and included in 76%–100% of programmes internationally.33–35"
 
-### References Exercise and Inactivity
 
-#### Ali
-Amira Mohammed Ali, Hiroshi Kunugi
-**COVID-19: A pandemic that threatens physical and mental health by promoting physical inactivity**
-[https://doi.org/10.1016/j.smhs.2020.11.006]()
-
-#### Zhu
-Zhu W. **Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.** J Sport Health Sci 2020;9:1057. (http://creativecommons.org/licenses/by-nc-nd/4.0/)
-[https://doi.org/10.1016/j.jshs.2020.01.005]()
 
 ## Appendix
 > #### Personal Covid Experience

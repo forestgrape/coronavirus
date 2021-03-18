@@ -34,3 +34,15 @@ There is epidemiological evidence supporting the above argumentation:
 
 ## References 
 [in work]
+
+
+### References Exercise and Inactivity
+
+#### Ali
+Amira Mohammed Ali, Hiroshi Kunugi
+**COVID-19: A pandemic that threatens physical and mental health by promoting physical inactivity**
+[https://doi.org/10.1016/j.smhs.2020.11.006]()
+
+#### Zhu
+Zhu W. **Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.** J Sport Health Sci 2020;9:1057. (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+[https://doi.org/10.1016/j.jshs.2020.01.005]()
