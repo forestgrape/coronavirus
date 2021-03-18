@@ -350,7 +350,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
 
 
 ### Outside is Safer
-Outside the viruses get diluted and then are cleared or decay faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main transmission opportunity in face-to-face situations (however droplet infections don't directly and are less likely to induce deep lung infections ([Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md)). 
+Outside the viruses get diluted and then are cleared or decay faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main transmission opportunity in face-to-face situations (however droplet infections don't directly and are less likely to induce deep lung infections (Unconfirmed hypothesis stated in [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md)). 
 
 Outside there is safer because of:
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
