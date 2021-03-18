@@ -142,13 +142,13 @@ Infection symptoms depend on the infected locations. SARS-CoV-2 infects differen
 ### Movement
 Movement is import for optimal functioning of the immune system. A good working immune system in turn is important regarding the prevention, the treatment and recovering of/from Covid-19. Moderate movement (e.g. a walk or home stretching. For home sports ventilation of the room before and afterwards is important) is recommended even when infected, while exercise is only recommended when fit and healthy.
 
-> In some regions if tested positive a walk outside is  only allowed for people in house with a garden. Though the detection rate of mild cases is usually very low, therefore most will have no formal restrictions.
+> In some regions if tested positive a walk outside is  only allowed for people in house with a garden. Though the detection rate of mild cases is usually very low, so many will have no formal restrictions.
 
-> Movement can be associated with deep breathing which is aerosol generating. Therefore when possibly infected and with people to protect in the same flat, it is important to be in a separate room and ventilate the room even after light exercise. Regarding transmission outdoors is still way better.
+> Movement can be associated with deep breathing which is aerosol generating. Therefore when possibly infected and with people to protect in the same flat, it is important to be in a separate room and ventilate the room even after stretching and light exercise. Regarding aerosol transmission outdoors is still way safer.
 
 > The strict isolation rules were designed with SARS-1 and it's prevalence in mind: a few sporadic and severely sick cases. Additionally a droplet or fomites transmission was assumed, which makes isolation in an indoor room effective.
 
-> In my opinion, in the case of targeted testing, those living in flats with small living spaces, which already have a greater infection risk, should not have additional constraints possibly hindering a healthy recovery and putting fellow occupants at risk. 
+> In my opinion, in the case of targeted testing, those living in flats with small living spaces, which already have a greater infection risk, should not have additional constraints possibly hindering a healthy recovery and putting fellow occupants at risk.
 
  
 
