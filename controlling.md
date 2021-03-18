@@ -43,7 +43,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
 >
 > ### Reconsidering Strategy
-> In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent and good mask need to available. In warm areas windows should be open all the time and air-conditioning should *never* be used.
+> In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent at least if good masks are scarce. In warm areas windows should be open all the time and air-conditioning should *never* be used.
 > 
 > Three more points
 > 1. Trying new paths but step by step and at the risk of falling having a parachute ready and using it early enough. Better walk with the parachute (and being ready for a new journey) than fall cool without. For Covid-19 the parachutes are outdoor days: being outdoors and avoiding all non essential entries to foreign or public indoor settings.
@@ -81,7 +81,7 @@ To prevent droplet transmission outdoors or in very well ventilated situations a
 Ventilation reduces the indoor airborne spread, since the virion density in [outside air](#outside-is-safer) is much lower than in indoor air. There should be limits on the CO2 concentration and the concentration should be continuously monitored. 
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate both the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. They find that good ventilation is, in the simulated setting, as effective as immunizing around half of the population. // they write vaccinate instead of immunize, however there's evidence vaccinating against influenza does not stop spreading.
+* [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. In the simulation, good ventilation is as effective as immunizing around half of the population. // in the paper vaccinate is used instead of immunize, however there's evidence vaccinating against influenza does not stop spreading.
 
 
 ### Distancing
@@ -197,7 +197,9 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 > #### Government Support 
 > Temporary support for individuals I consider necessary not to disrupt livelihoods. Additionally support for those who need/want to reorganize can be adequate. General notes on support and thoughts how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
 > 
-> Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced or closed for the foreseeable future (long distance traveling, large scale events). Restrictions are dependent on the local situation and on the weighting of all costs. 
+> Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced or closed for the foreseeable future (long distance traveling, large scale events).
+> 
+> As noted restrictions are dependent on the local situation and on the weighting/prioritizing of the benefits and costs. 
 
 ### Corona Conform Skiing
 [**in work**]
@@ -207,14 +209,14 @@ __In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsaf
 
 > Allowing skiing in some regions first, I consider beneficial, since all can benefit from the experiences gathered. Ideally the situations are closely monitored (e.g. Covid-19 saliva-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) are transparently published.
 
-> International Travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. not further discussed on this page).
+> International travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. not further discussed on this page).
 
 __ThinkThrough__
 Two sides:
 * **Skiing itself:** Skiing down some slope has risks, however not virus infections. So regarding SARS-2 skiing itself is safe.
 * **Skiing associated:** Skiing as practiced nowadays (before ~~corona~~ corona-measures) involves crowded cableway cabins and room, restaurants and bars and at all locations with different people from different regions and countries. Moreover all this at a very high altitude ( => deep breathing).
   
-All mentioned in skiing associated are known as risk factors for Covid aerosol transmission (independent of the observed transmission in ski resorts).
+The points mentioned in skiing associated are known as risk factors for Covid transmission. Accordingly, without (adequate/aerosol) transmission preventions measures many transmissions have been linked to ski resorts in the winter 2020.
 
 __Evidence__
 In line with theoretical risk factors (high altitude, sports, dry air in densely populated indoor rooms) - without aerosol protection measures (disinfectants and some droplet preventions were already in place in winter 2020) - many infections occurred in ski resorts.
@@ -299,7 +301,7 @@ The history of prohibition dates back nearly as long, as history itself has been
   * Good ventilation 
   * In regions where the death rate is above 2.5 per million and cases are increasing, gastronomy can be reduced at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)).
   * If the epidemiological situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy is luxury, dispensable for a few weeks.
-  * People working in large groups (e.g. open-plan office) or living in large groups (e.g. families) should take special care regarding Covid-19 transmission including in gastronomy, since they already are possible angle points for transmission.
+  * People working in large groups (e.g. open-plan office) or living in large groups (e.g. families) should take special care regarding Covid-19 transmission, including in gastronomy, since they already are possible angle points for transmission.
 
 
 ### Corona Conform Schooling
@@ -348,14 +350,13 @@ Measure regarding schools can reach from complete closure to mild measures such 
 
 
 ### Outside is Safer
-Outside the viruses get diluted and then are cleared or decay faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main risk is in face-to-face situations. 
+Outside the viruses get diluted and then are cleared or decay faster than inside. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just smaller than inside - as described in the [transmission section](./transmission.md), outside the main transmission opportunity in face-to-face situations (however droplet infections don't directly and are less likely to induce deep lung infections ([Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md)). 
 
-Outside there is:
+Outside there is safer because of:
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
-
-and as described in the [viability chapter](./virion_viability.md),
-the [Virion Decay](./virion_viability.md) is high due to sunlight, heat. Additionally there are countless microorganisms nourishing from anything digestible.
+- The [Virion Decay Rate](./virion_viability.md) is high due to sunlight and environment variations. 
+- Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
 
 #### Dilution
 Outside there is much more air per person than inside:
@@ -376,7 +377,7 @@ Virion are cleared from the air by the mechanism below and due to [virion decay]
 [**in work**]
 Reasons to avoid hospital overwhelming (with good planning some of the reasons can be overcome):
 * Everyone has has the right for a fair and good treatment. 
-* Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure not overwhelmed hospitals are necessary too. 
+* Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure, not overwhelmed hospitals are necessary. 
 * The overall process can get less efficient. E.g. patients need out of hospital treatment, which has additional challenges.
 * Can greatly increase the risk for additional spread since protection measures may not be in place. E.g. the provisional building may not have an appropriate ventilation and temporary personal can be more likely to forget about proper protection measures.
 
@@ -384,8 +385,6 @@ Reasons to avoid hospital overwhelming (with good planning some of the reasons c
 ---
 
 ## References
-
-
 
 
 ### Laboratory Biosafety
