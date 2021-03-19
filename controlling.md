@@ -88,10 +88,15 @@ Ventilation reduces the indoor airborne spread, since the virion density in [out
 [Airborne transmission](./transmission.md#recap-airborne-transmission) - both droplets (reek of alcohol like spread) and aerosol/dry particulates (smoke-like) - can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air.
 
 ### Large Buildings
-Large residential block and office buildings special care needs to be taken, since they play a relevant role in the spread of Covid ([Living Conditions](./spread_analyses.md#living-conditions) in the chapter [Spread Analyses](./spread_analyses.md)). 
+Large residential block and office buildings special care needs to be taken, since the transmission risk is increased: 
+* Epidemiological evidence: [Living Conditions](./spread_analyses.md#living-conditions) in the chapter [Spread Analyses](./spread_analyses.md)
+* Biological evidence: viruses can survive quite long at lower air temperatures without sunlight such as stairwells (chapter [Virion Viability](./virion_viability.md)). 
+
+Suggested precaution measures:
 * Good filtration masks should be used in shared stairwells. 
 * The stairwell should be ventilated regularly. 
-* Flats/offices should be ventilated before opening the door to the stairwell, especially if sick. 
+* Flats/offices should be ventilated before opening the door to the stairwell, especially if sick.
+* Easy access to Covid-19 tests.
 
 
 ### Covid-19 Cases and Quarantine
