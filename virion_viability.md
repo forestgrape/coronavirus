@@ -8,7 +8,7 @@
   * [Decay Mechanisms and Rates](#decay-mechanisms-and-rates)
 * [Introduction](#introduction)
   * [Overview](#overview)
-  * [What's done here](#whats-done-here)
+  * [What's done and added here](#whats-done-and-added-here)
   * [Relevance](#relevance)
 * [Decay Measures and Rates](#decay-measures-and-rates)
   * [Measuring Infectious Virions](#measuring-infectious-virions)
@@ -32,6 +32,7 @@
 * [References](#references)
   * [References Temperature Viability SARS-2](#references-temperature-viability-sars-2)
   * [References Temperature Viability of other Viruses](#references-temperature-viability-of-other-viruses)
+  * [References Droplets and Influenza](#references-droplets-and-influenza)
   * [References UV](#references-uv)
 
 > ## Note
@@ -121,15 +122,15 @@ The page the following main chapters
 * [Decay Mechanisms by Building Blocks](#decay-mechanisms-by-building-blocks): The decay of the different building blocks (RNA-genome, proteins and envelope).
 * [Decay Rates and Mechanisms in concrete Situations](#decay-rates-and-mechanisms-in-concrete-situations) Decay patterns observed in experiments or relevant in practice are considered. Often several decay factors are present and the exact situation determines the virion decay mechanisms.
 
-### What's done here
-* Summary of knowledge of the various decay mechanisms, factors and situations. //at them moment parts of this page are rather an unordered collection than a concise summary, improvements in work
+### What's done and added here
+* Summary of knowledge of the various decay mechanisms, factors and situations. //at them moment parts of this page are rather an unordered collection than a concise summary
 * The decay situation and the decay mechanisms are associated to each other, some are rarely or not mentioned in literature. E.g. the decay in dry air is associated to RNA self decay. These associations are sometimes explorative and not confirmed.
-* While old and new research show that the decay in ambient air is U-shaped respect to humidity (low at in dry air, high in intermediate, then again lower in humid air) it is added here that at very high humidities (above 90%) the decay fastens. The same observation holds in distilled water. 
+* While old and new research show that the decay in ambient air is U-shaped respect to humidity ([Decay in Ambient Air](#decay-rates-in-ambient-air-at-different-humidities): low at in dry air, high in intermediate, then again lower in humid air). It is added and emphasized here that at very high humidities (above 90%) the decay fastens. Likely due to [condensation](#evaporation-and-condensation) since the same is true in distilled water. 
 
 ### Relevance
 * [in work]
 * Risk assessment
-  * The long survival of virions in cool environments without sunlight indicates a transmission risk in stairwell or garages/parkings of large buildings.
+  * The long survival of virions in cool environments without sunlight indicates a transmission risk in stairwell or garages/parkings of large buildings ([Precaution measures in Large Buildings](./controlling.md#large-buildings)). 
   * The fast inactivation in sunlight is one reason [outside is safer](./controlling.md#outside-is-safer), especially on sunny days.
 
 
@@ -150,7 +151,7 @@ The page the following main chapters
 [**in work**]
 
 ### Measuring Infectious Virions
-To measure infectious viruses cell culture experiments are necessary. The methods detecting building blocks of viruses (PCR and antigen tests) yield positive regardless whether the virions are intact and infectious (page [diagnosis and viral load](./diagnosis_and_viral_load.md)).
+To measure infectious viruses cell culture experiments are necessary. The methods detecting building blocks of viruses (PCR and antigen tests) yield positive if the parts of the building are present regardless whether the virions are intact and infectious (page [diagnosis and viral load](./diagnosis_and_viral_load.md)).
 
 ### Exponential Decay
 When each member of a collection has some time independent chance to replicate or decay during a certain time span independent of the other members, the whole collection growths or decays exponentially. Examples:
@@ -260,15 +261,20 @@ Evaporation and condensation affect amount of water in samples. Which has the ef
   * tendency to fall down at condensation
   * tendency to fly at evaporation
 
-How the particles sizes changes upon exposure to different humidities is described and measured by [Morris et al](#summary-morris), also recommended is illustratively described by [Marr and ]
+* How the particles sizes changes upon exposure to different humidities is described and measured by [Morris et al](#summary-morris). 
+* More general notes on the fate of particles in the air are illustrative paper by [Yang and Marr](./transmission.md#yang).
 
 
 #### Concentration Changes
 Concentration changes of [biochemicals](#biochemicals) in the environment (which can e.g. result from condensation or evaporation).
-* Increased concentration increases the decay through [biochemicals](#decay-by-biochemicals) if the decay is concentration dependent. E.g. in experiment simulating exhaled respiratory droplets, the fastest decay is observed just before the droplets dry out (which is around a relative humidity of 30 to 40%). Virions decay fastest since the concentration of the chemicals is highest then (Section [Decay in ambient Air](#decay-rates-in-ambient-air-at-different-humidities)).
-* At very low concentrations e.g. in distilled water which is achieved in condensation settings results in an increased decay rate. Decreased concentration in the environment can yield:
-  - [Osmotic Pressure](#osmotic-pressure)
-  - Influence the [internal state](#internal-states) e.g. more water inside possibly increases the [RNA self decay](#rna-self-decay) by increasing the degrees of freedom the RNA has to move.
+
+##### Concentration Increase
+Increased concentration increases the decay through [biochemicals](#decay-by-biochemicals) if the decay is concentration dependent. E.g. in experiment simulating exhaled respiratory droplets, the fastest decay is observed just before the droplets dry out (which is around a relative humidity of 30 to 40%). Virions decay fastest since the concentration of the chemicals is highest then (Section [Decay in ambient Air](#decay-rates-in-ambient-air-at-different-humidities)).
+
+##### Concentration Decrease
+At very low concentrations (in distilled water or in condensation situations) results in an increased decay rate. Decreased concentration in the environment can yield:
+- [Osmotic Pressure](#osmotic-pressure)
+- Influence the [internal state](#internal-states) e.g. more water inside possibly increases the [RNA self decay](#rna-self-decay) by increasing the degrees of freedom the RNA has to move.
 
 
 #### Osmotic Pressure
@@ -654,10 +660,13 @@ Semliki forest virus:
 * The decay at 50° (but not the decay at 35° or by UV radiation) induces a reduced neutralization by antibodies, which indicates changes of the surface proteins. However since the neutralizing tests were done by an excess of antibodies which makes the neutralization independent of the virus concentration, this change was faster than the reduction of viability.
 
 
+### References Droplets and Influenza
+
 #### Marr
 Marr LC, Tang JW, Van Mullekom J, Lakdawala SS. 2019 
 **Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence.** 
 J. R. Soc. Interface 16: 20180298. https://dx.doi.org/10.1098/rsif.2018.0298
+
 
 
 ### References UV
