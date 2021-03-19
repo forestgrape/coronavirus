@@ -27,7 +27,7 @@
 * [Decay Rates and Mechanisms in concrete Situations](#decay-rates-and-mechanisms-in-concrete-situations)
   * [Rates for UV Light](#rates-for-uv-light)
   * [Rates for Disinfecting Biochemicals](#rates-for-disinfecting-biochemicals)
-  * [Decay Rates in Ambient Air at different Humidities](#decay-rates-in-ambient-air-at-different-humidities)
+  * [Viability in Ambient Air](#viability-in-ambient-air)
   * [Self Decay Rates](#self-decay-rates)
 * [References](#references)
   * [References Temperature Viability SARS-2](#references-temperature-viability-sars-2)
@@ -125,7 +125,7 @@ The page the following main chapters
 ### What's done and added here
 * Summary of knowledge of the various decay mechanisms, factors and situations. //at them moment parts of this page are rather an unordered collection than a concise summary
 * The decay situation and the decay mechanisms are associated to each other, some are rarely or not mentioned in literature. E.g. the decay in dry air is associated to RNA self decay. These associations are sometimes explorative and not confirmed.
-* While old and new research show that the decay in ambient air is U-shaped respect to humidity ([Decay in Ambient Air](#decay-rates-in-ambient-air-at-different-humidities): low at in dry air, high in intermediate, then again lower in humid air). It is added and emphasized here that at very high humidities (above 90%) the decay fastens. Likely due to [condensation](#evaporation-and-condensation) since the same is true in distilled water. 
+* While old and new research show that the decay in ambient air is U-shaped respect to humidity ([Decay in Ambient Air](#viability-in-ambient-air): low at in dry air, high in intermediate, then again lower in humid air). It is added and emphasized here that at very high humidities (above 90%) the decay fastens. Likely due to [condensation](#evaporation-and-condensation) since the same is true in distilled water. 
 
 ### Relevance
 * [in work]
@@ -268,13 +268,15 @@ Evaporation and condensation affect amount of water in samples. Which has the ef
 #### Concentration Changes
 Concentration changes of [biochemicals](#biochemicals) in the environment (which can e.g. result from condensation or evaporation).
 
+
 ##### Concentration Increase
+Biochemicals can cause increased decay of the spike proteins or the lipid envelope and at low levels of 
 Increased concentration increases the decay through [biochemicals](#decay-by-biochemicals) if the decay is concentration dependent. E.g. in experiment simulating exhaled respiratory droplets, the fastest decay is observed just before the droplets dry out (which is around a relative humidity of 30 to 40%). Virions decay fastest since the concentration of the chemicals is highest then (Section [Decay in ambient Air](#decay-rates-in-ambient-air-at-different-humidities)).
 
 ##### Concentration Decrease
-At very low concentrations (in distilled water or in condensation situations) results in an increased decay rate. Decreased concentration in the environment can yield:
+Very low concentrations of minerals and proteins ( distilled water or in condensation situations) result in an increased decay rate. Possible effects of a low levels of biochemicals in the water:
 - [Osmotic Pressure](#osmotic-pressure)
-- Influence the [internal state](#internal-states) e.g. more water inside possibly increases the [RNA self decay](#rna-self-decay) by increasing the degrees of freedom the RNA has to move.
+- Influence the [internal state](#internal-states) due to osmosis more water inside virions, which possibly increases the [RNA self decay](#rna-self-decay) by increasing the degrees of freedom the RNA has to move.
 
 
 #### Osmotic Pressure
@@ -326,12 +328,21 @@ All of the building blocks of a virions are subject to decay. Under which circum
 
 #### RNA Self Decay
 The genome of coronaviruses is stored in single stranded RNA, which is the least stable of the 4 [storage forms](./coronavirus.md#lifetime-storage) is not very stable and bases can mutate which yield unusable RNA
-Modifying Factors: 
-* Temperature at increasing temperature RNA decays faster
-* Visible Light ([Summary Fleming](#summary-fleming))
-* Matrix the viruses are suspended. E.g. [Fleming and Beeson](#summary-fleming) found that the more the CS,199 medium was diluted the faster the decay.
 
-RNA self decay is the main decay mechanisms at temperatures below 40 degrees and in absence of interacting biochemicals. The rate is similar for single stranded RNA viruses (Some comments are in papers of [Fleming](#summary-fleming) and [Laude](#summary-laude)).
+##### Modifying Factors 
+* Temperature: The decay rate increases with the temperature (linear in Arrhenius plots).
+* Visible Light ([Summary Fleming](#summary-fleming))
+* Matrix the viruses are suspended in: 
+  * [Fleming and Beeson](#summary-fleming) found that the more the CS,199 medium was diluted, the faster the decay. The rate change respect to temperature remained constant, indicating that the mechanism didn't change, just occurred more frequently in higher dilutions at the same temperature. 
+  * In air humidities above 95% an increased decay is observed [Decay in Ambient Air](#viability-in-ambient-air).
+
+<!--* An increased decay in distilled water is observed in-->
+
+##### Situations
+RNA self decay is the main decay mechanisms at temperatures below 40 degrees in absence of faster decay mechanisms such interacting biochemicals or light. 
+Evidence:
+* The rate is similar for single stranded RNA viruses 
+* (Some comments are in papers of [Fleming](#summary-fleming) and [Laude](#summary-laude)).
 
 
 #### RNA Decay by UV Light
@@ -403,7 +414,7 @@ Sources:
 
 
 
-### Decay Rates in Ambient Air at different Humidities
+### Viability in Ambient Air
 
 In ambient air exhaled particles change their size due to evaporation and condensation, which changes the environment enclosed virions are exposed to. 
 Evidence and explanation are provided, that the decay rates are highest in intermediate and extremely high humidities and low in dry air.
