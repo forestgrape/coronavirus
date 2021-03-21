@@ -3,6 +3,7 @@
 This section extends and   [Public Advices and Suggestions](./index.md#public-advice) section. 
 
 * [Strategy](#strategy)
+* [Spread Assumptions](#spread-assumptions)
 * [Protection Measures](#protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
@@ -51,9 +52,22 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > 3. Analyzing missteps can be rewarding, the next antibiotics are to be discovered.
 
 
-## Protection Measures
-The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (primarily through aerosol and even dry form aerosol, possibly some droplet transmission). Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission. For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+## Spread Assumptions
+The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (primarily through aerosol and even dry form aerosol, possibly some droplet transmission). 
 
+Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). In short: The [spread pattern](./spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in situations with dense crowds such as demonstrations or crowded swimming pools, no increased spread has been observed.
+
+Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant). For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+
+Special care needs to be taken when the air is dry since:
+* In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](./transmission.md).
+* The [viability of coronaviruses](./virion_viability.md) in the air is highest in dry and cool air without sunlight.
+
+
+
+
+
+## Protection Measures
 ### Support Immune Protection
 Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases, this should be the main focus (along with open windows and no air-conditioners if there are Covid-19 cases).
 
@@ -75,8 +89,6 @@ Mask reduce spread since they mitigate both the infection and spread risk. Masks
 To prevent droplet transmission outdoors or in very well ventilated situations any mask helps. To prevent aerosol transmission indoors a good filtration and clean mask is necessary. The filtration of most surgical masks is ok. FFP masks or analog have good to very good filters. A good and dense fit is important, especially for masks with a high filtration. More on the page [Masks](./masks.md).
 
 
-
-
 ### Ventilation
 Ventilation reduces the indoor airborne spread, since the virion density in [outside air](#outside-is-safer) is much lower than in indoor air. There should be limits on the CO2 concentration and the concentration should be continuously monitored. 
 
@@ -86,6 +98,7 @@ Ventilation reduces the indoor airborne spread, since the virion density in [out
 
 ### Distancing
 [Airborne transmission](./transmission.md#recap-airborne-transmission) - both droplets (reek of alcohol like spread) and aerosol/dry particulates (smoke-like) - can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air.
+
 
 ### Large Buildings
 Large residential block and office buildings special care needs to be taken, since the transmission risk is increased: 
@@ -177,7 +190,7 @@ Avoiding foreign and public indoor rooms. So either at home or being outdoors. P
 A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was more limited and transmission less known. It has very severe drawbacks compared to [outdoor days](#outdoor-days):
 * few or no movement for a longer time is not good for health. 
 * a lot of aerosol is exhaled when doing indoor sports and this puts fellow occupants and neighbors in the same building at risk.
-* being lock indoors can have negative psychological effects 
+* being lock indoors can have negative psychological effects.
 
 A curfew at night has some use cases e.g. preventing private parties but in most situations softer measures are enough e.g. [Reduction of Nightlife](#reduction-of-nightlife).
 
@@ -301,12 +314,13 @@ The history of prohibition dates back nearly as long, as history itself has been
 ### Gastronomy
 * Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that in gastronomy, especially in the evening, many transmissions of Covid occur.
 * ThinkThrough:
-  * Many people from different backgrounds and regions sit often densely in the same room, this is ideal for SARS-Cov-2 to spread.
+  * Many people from different backgrounds and regions sit often densely in the same room, there for SARS-Cov-2 to spread.
 * Comment:
-  * Good ventilation 
+  * Good ventilation and not overly crowded
   * In regions where the death rate is above 2.5 per million and cases are increasing, gastronomy can be reduced at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)).
-  * If the epidemiological situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy is luxury, dispensable for a few weeks.
+  * If the epidemiological situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy dispensable for a few weeks.
   * People working in large groups (e.g. open-plan office) or living in large groups (e.g. families) should take special care regarding Covid-19 transmission, including in gastronomy, since they already are possible angle points for transmission.
+
 
 
 ### Corona Conform Schooling
