@@ -72,7 +72,7 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 
 ### What to Monitor
 1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
-    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease likely is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](./controlling.md#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](./controlling.md#covid-19-cases-and-quarantine))
+    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](./controlling.md#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](./controlling.md#covid-19-cases-and-quarantine))
 2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
 3. Other respiratory diseases: influenza and common colds should be monitored too:
   * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
@@ -172,7 +172,8 @@ Remark: As of 1.5.20 more people are allowed to test.
 > Subjective Remark, May 2020: While not perfect, the government and the BAG in Switzerland do overall a good job. What I consider done right: A slow down of life to have people focus on the important things among those health. A temporary slow down of spread to buy some time for preparation, experience gain and research. Personally, I liked (and helped me doing this page) that there was no stay at home order. Allowing people and especially children to go outside is important. The longer Covid-19 spread patterns can be analyzed the more fine-grained measures can be. A gradual reopening starting in April makes sense.
 Room for improvement: Masks benefits indoors and that outdoors infection risk is much smaller should be clearly stated.
 > To rate afterthought is much easier than to be there in charge with few proven and sure knowledge. In that view in all countries, there were difficult decisions and no clear right or wrong. Most countries found their path according to their situation. But I think now it is time to ease lock-downs step by step, especially in areas where there are not many severe Covid-19 cases. Around the world it remains important, however, to support public health. Keeping some slow down can be part of that. In case of new findings and knowledge, **adaption of strategies** is important.
-Right or Wrong and Perfection anyways are often a matter of viewpoint and angle. 
+Right or Wrong and Perfection anyways are often a matter of viewpoint and angle.
+
 
 #### Data Features
 * For analysis is useful to have as complete, accurate and fine-grained data as possible and data protection laws permit (e.g. age, medical conditions and locations).
