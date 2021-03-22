@@ -62,8 +62,14 @@ To keep in mind:
 * Dry Air: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](./transmission.md). The [viability of coronaviruses](./virion_viability.md) in the air is highest in dry and cool air without sunlight.
 * Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](./spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](./spread_analyses.md)). => (Encouraging) Transparency is important.
 
+
 Metaphor:
-Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough. When a smokers smokes can't be smelled risk is low, if it can ventilation helps.
+Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough. 
+
+Rule of Thumb:
+In situations when a smokers smokes can not be smelled the risk is low, if it can ventilation helps.
+
+
 
 
 
