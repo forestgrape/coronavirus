@@ -3,7 +3,7 @@
 This section extends and   [Public Advices and Suggestions](./index.md#public-advice) section. 
 
 * [Strategy](#strategy)
-* [Spread Assumptions](#spread-assumptions)
+* [Spread Summary and Assumptions](#spread-summary-and-assumptions)
 * [Protection Measures](#protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
@@ -52,21 +52,21 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > 3. Analyzing missteps can be rewarding, the next antibiotics are to be discovered.
 
 
-## Spread Assumptions
+## Spread Summary and Assumptions
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (primarily through aerosol and even dry form aerosol, possibly some droplet transmission). 
 
 Observations:
-Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). In short: The [spread pattern](./spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been observed.
+Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). In short: The [spread pattern](./spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed.
 
 To keep in mind:
-* Dry Air: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](./transmission.md). The [viability of coronaviruses](./virion_viability.md) in the air is highest in dry and cool air without sunlight.
+* Dry Air: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](./transmission.md). The [viability of coronaviruses](./virion_viability.md) is highest in dry and cool air without sunlight.
 * Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](./spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](./spread_analyses.md)). => (Encouraging) Transparency is important.
 
 
 Metaphor:
-Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough. 
+Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
-=> If a smokers smoke can *not* be smelled the risk is low; else, if it can, ventilation and good masks help.
+=> If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help.
 => Outdoor activities reduce the overall Covid burden. Indoor activities and meetings can increase the Covid spread.
 
 
