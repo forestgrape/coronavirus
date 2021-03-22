@@ -55,15 +55,15 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 ## Spread Assumptions
 The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (primarily through aerosol and even dry form aerosol, possibly some droplet transmission). 
 
+Observations:
 Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). In short: The [spread pattern](./spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in situations with dense crowds such as demonstrations or crowded swimming pools, no increased spread has been observed.
 
-Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant). For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+To keep in mind:
+* Dry Air: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](./transmission.md). The [viability of coronaviruses](./virion_viability.md) in the air is highest in dry and cool air without sunlight.
+* Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](./spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](./spread_analyses.md)). => (Encouraging) Transparency is important.
 
-Special care needs to be taken when the air is dry since:
-* In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](./transmission.md).
-* The [viability of coronaviruses](./virion_viability.md) in the air is highest in dry and cool air without sunlight.
-
-
+Metaphor:
+Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough. When a smokers smokes can't be smelled risk is low, if it can ventilation helps.
 
 
 
