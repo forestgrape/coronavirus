@@ -66,7 +66,7 @@ To keep in mind:
 Metaphor:
 Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough. 
 
-=> In situations when a smokers smokes can not be smelled the risk is low, if it can ventilation or masks help.
+=> If a smokers smoke can *not* be smelled the risk is low; else, if it can, ventilation and good masks help.
 => Outdoor activities reduce the overall Covid burden. Indoor activities and meetings can increase the Covid spread.
 
 
