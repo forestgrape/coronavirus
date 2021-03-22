@@ -66,10 +66,8 @@ To keep in mind:
 Metaphor:
 Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough. 
 
-Rule of Thumb:
-In situations when a smokers smokes can not be smelled the risk is low, if it can ventilation helps.
-
-
+Rules of Thumb:
+* In situations when a smokers smokes can not be smelled the risk is low, if it can ventilation or masks help.
 
 
 
@@ -334,15 +332,17 @@ Measure regarding schools can reach from complete closure to mild measures such 
 * Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
   > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. 
 * ThinkThrough:
-  * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children). If they spread then mainly with droplet transmission which can be prevented. 
+  * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children).
+  * Biological Background:
+    * The SARS-2 receptor ACE2 is not expressed on the vocal folds unlike the influenza A receptor. Therefore aerosol produced when talking are less infectious compared to influenza. 
+    * SARS-2 causing severe Covid is mainly spread from the lower lungs but children exhale only rarely particles from the lower lungs and additionally the lungs are rarely infected in children since their immune system is strong. So if children spread then mainly with droplet transmission which can be easily prevented.
   * However:
     * Even with a low R value children can contribute to the overall spread.
-    * Children easily forget about protection and masks. Especially if concentrating on other things e.g. preparing exams.
     * Many people in the same room and classrooms are not always ventilated well.
-    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets. Unlike the influenza the main SARS receptor (ACE2) is not expressed on the vocal folds.
-    * Children all come from different families and inside families protection is not easy but doable if the infection known ~~hardly doable~~ (children are not super-spreaders).
+    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets.
+    * Children all come from different families and inside families protection is not easy but doable if the infection known (children are not super-spreaders).
 * Experiences: 
-  * Closing schools were part of lock-downs in spring 2020 in many countries due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
+  * School closures were part of lock/shut-downs in spring 2020 in many countries. Mainly due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
   * In some schools mask wearing is common, negative comments are few
   * Project based and individual learning are common teaching approaches and known to work. 
 * Comment: Children [spread Covid-19](./spread_analyses.md) less since they produce less aerosol and have better immune responses. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even prevented by:
@@ -379,9 +379,8 @@ Outside the viruses get diluted and then either are cleared or decay. Due to dec
 
 Outside there is safer because of:
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
-- [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions.
-- The [Virion Decay Rate](./virion_viability.md) is high due to sunlight and environment variations. 
-- Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
+- [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
+- The [Virion Decay Rate](./virion_viability.md) is high due to sunlight and temperature changes. 
 
 #### Dilution
 Outside there is much more air per person than inside:
