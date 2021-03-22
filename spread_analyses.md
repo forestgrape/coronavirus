@@ -13,6 +13,7 @@
   * [Infectors and Symptom Status](#infectors-and-symptom-status)
   * [Children](#children)
 * [Spread Situations](#spread-situations)
+  * [Spread Situations Summary](#spread-situations-summary)
   * [Indoor Social Settings](#indoor-social-settings)
   * [Airplanes](#airplanes)
   * [Large Scale Production Factories](#large-scale-production-factories)
@@ -135,9 +136,8 @@ Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
 * 70% of the cases induced no observed infections (despite most of them being not in 
 
 ### Infectors and Symptom Status
-[**in work**]
 > // Caveat: Most of the investigation were done early in 2020 when only few strains of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections. Back then over 80% developed symptoms. 
-* [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people. Caveat: 
+* [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people.
 * The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
 * [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
 
@@ -147,7 +147,10 @@ Children are less likely to be infectees and less likely to be infectors [see se
 
 ## Spread Situations
 **[in work]**
-Spread situations and patterns of Covid-19 both observed and described in literature. Nearly all observed spread events are indoors, except football matches with visitors. 
+Spread situations and patterns of Covid-19 both observed and described in literature are discussed. 
+
+### Spread Situations Summary
+Nearly all observed spread events are indoors, except football matches with visitors. The reason is likely that many football stadiums are constructed to prevent draughts and the matches often took (take) place in the evening. On the other hand, in situations with crowded events during the day in unconfined settings (e.g. demonstrations or crowded swimming pools) no increased spread was observed.
 
 ### Indoor Social Settings
 * [Contact Tracing in Hong Kong](#summary-adamwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
