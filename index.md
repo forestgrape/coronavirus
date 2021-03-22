@@ -24,6 +24,7 @@
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
+- 22.3. [Spread Assumptions section](./controlling.md#spread-assumptions) on the [controlling page](./controlling.md) added. Formulations across the page.
 - 18.3. [Virion Viability Page](./virion_viability.md) in online work (finally!). 
     * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
     * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees, especially at air humidities around 40%. In dry air or high but not very high humidity the decay is slower.
