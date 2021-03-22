@@ -125,11 +125,12 @@ Often genes are sequences of single/double stranded DNA or RNA which are transcr
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
 * All forms of life except those who are able to do photosynthesis or use other inorganic energy sources (thermal, chemical) are dependent on organic energy sources i.e. forms of energy produced by other forms of life. 
 * Besides energy, mammals - including us humans - also need extern sources for vitamins, essential amino acids, essential fatty acids, ...
-* Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Sometimes out of relations, permanently coupled life forms develop: E.g. mitochondria as cell organelles. 
 
-> Cell forming forms usually just need the ingredients/raw material and are able to produce the enzymes (the machines). Where as [viruses](#virus) by definition don't produce all needed enzymes (machines).
+Cell forming forms usually just need the ingredients (raw materials) and are able to produce the enzymes (machines). Where as [viruses](#virus) by definition don't produce all needed enzymes (machines).
 
-Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings.
+Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings. Sometimes the couplings are so strong that the combination is a new form of life: E.g. mitochondria as cell organelles. 
+
+
 
 ### Keeping the Metabolism Immune
 Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](./immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
@@ -144,7 +145,7 @@ As noted all forms of life which encode their entire metabolism are dsDNA based.
 Some cells are subdivided again by membranes into different compartments which are called cell organelles. If the genome is shielded by a kernel genome is shielded by a membrane this organelle is called nucleus. 
 
 > ##### Eukaryotes
-> Cell forming life forms shielding their genome by an inner membrane are called *eukaryotes* (naming done in the 60's from eu=well (sounds well?) and karyo=kernel). This inner structure is called nucleus.
+> Cell forming life forms shielding their genome by an inner membrane are called *eukaryotes* (naming done in the 60's eukaryote = with-a-well-formed-kernel; eu=well and karyo=kernel). This inner structure is called nucleus.
 
 
 * Prokaryotes
@@ -189,41 +190,48 @@ Most cells don't live forever. In multicellular organisms most cells live fare s
 
 ### Life Cycle
 Coronaviruses have a two phase life cycle:
-* They are born/produced as [virion](#virion) (similar to seeds of plants).
-* Upon cell infection they hook into a cells metabolism to have the cell produce proteins encoded by the virus. As for all forms of life the goal is to produce progeny = new virions. 
-
-* Virion phase: Born as virion. Sleeping phase: [passive travel](#virion-travel), wait and upon [activation](#virion-attachment-and-activation) and match with an [infectable cell](#infectable-cell) enter the cell and start infection. 
-* Metabolic phase: Hook into a cells metabolism to produce proteins and ultimately new virions using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell .
+1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: [passive travel](#virion-travel), wait to be [activated](#virion-attachment-and-activation) by matched with an [infectable cell](#infectable-cell) in the right environment. Once activated virions try to enter the cell.
+2. Metabolic phase: Once inside a cell, a virus uses the cells metabolism to produce proteins and other substances using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell. As for all forms of life the ultimate goal is to produce progeny = new virions.
 
 > ###### Virion
-> A *virion* is the 'birth-form' of a virus. The genome and proteins required to infect a cell are packed into some form of shell. A virion has no active metabolism.  
+> A *virion* is the 'birth-form' of a virus. The genome and proteins required to infect a cell are usually packed into some form of protective shell. A virion has no active metabolism.
 
-Viruses while outside of cells are present always as virions. Virions are passively moved around. Most virions decay but some get matched to an infectable cell. Once activated, virions can [infect cells](#infected-cell) and transform to the [metabolic phase](#metabolic-phase). 
+Viruses while outside of cells are present always as virions. Virions are passively moved around. Most virions decay but some get matched to an infectable cell. Once activated, virions can [infect cells](#infected-cell) and transform to the [metabolic phase](#metabolic-phase).
 
-Virions are similar to seeds of plants: They are dormant and wait for activation. Virions don't have a metabolism running. However they evolved to induce infection on the right circumstances. to be capable have sticky proteins which can get attached to cells. Once activated/primed cell fusion is initiated by using spring loaded energy. 
+> Virions are [similar to seeds of plants](#plant-seeds-to-virions): They are dormant and wait for activation. Virions don't have a metabolism running. They evolved to induce infection on the right circumstances. Once activated/primed cell fusion is initiated by using spring loaded energy stored in the structure of special proteins.
+
+
+Once a virus infects cells, it changes metabolism of the cell.
+
+
+
+
+
+> ###### Virus Infection
+> An object is called *infected* by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an [organism](#organism).
+
+So an organism is infected if it has some [cells that are infected](#infected-cell).
 
 > ###### Infectable Cell
 > A *infectable cell* is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable.
 
-Once a virus infects cells, it changes metabolism of the cell. For surviving a virus hijacks the cell's metabolism to produce new virions. 
-
-> ###### Virus Infection
-> An object is called *infected* by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an [organism](#organism). 
-
-So an organism is infected if it has some [cells that are infected](#infected-cell).
-
 > ###### Infectable Object
-> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism. 
+> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.
 
-There are [constraints on a object to be infectable](#tropism-of-viruses). A necessary condition for an object to become infected is the availability of [infectable cells](#infectable-cell). However this condition is not sufficient, reachability, priming factors and immune evasion are other conditions needed. 
+There are [constraints on a object to be infectable](#tropism-of-viruses). A necessary condition for an object to become infected is the availability of [infectable cells](#infectable-cell). However this condition is not sufficient, reachability, priming factors and immune evasion are other conditions needed.
 
-Therefore viruses are dependent on the host cells. Long-term surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature. 
+Therefore viruses are dependent on the host cells. Long-term surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature.
 
 
 ### Virus Classification
-As defined a [life form](#life-form) not encoding its entire metabolism is called [virus](#virus). Viruses exists for all the different storage forms used by [life forms]. From a  diverse as the tree of life. The goal of classification is usually to group things together which are similar to some features of interest. Features of interest for viruses are: 
-* behavior and habitats occupied
-* genetic and structural similarity
+As defined a [life form](#life-form) not encoding its entire metabolism is called [virus](#virus). This definition is very broad so often further classifications/grouping are done. 
+
+> The goal of classification is usually to group things together which are similar to some features of interest. 
+
+Features of interest for viruses are:
+* Viruses can be classified by the hosts they infect. E.g. bacteriophages infect bacteria.
+* Genetic and metabolic similarity. Viruses exists across all the [different storage forms](#storage-and-duplication-options) used by life forms.
+* Structural Similarity. E.g. viruses can be classified into enveloped and non-enveloped viruses.
 
 
 ### Virus Entities
@@ -234,11 +242,11 @@ Similarly for viruses infecting organisms, often to grasp the full picture it is
 * RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#tropism-of-viruses) in different situations. 
 
 > ###### Virus Entity
-> A *Virus Entity or Virus Organism* denotes all viruses in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*. 
+> A *Virus Entity or Virus Organism* denotes all viruses in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*.
 
-Similar to the different cells in multicellular organism only few viruses in a virus entity are likely to infect new hosts and thereby form a new entity. 
+Similar to the different cells in multicellular organism only few viruses in a virus entity are likely to infect new hosts and thereby form a new entity.
 
-> Virus entities/organisms are a concept I haven't seen about in literature. Similar concepts may exists possibly under different names. 
+> Virus entities/organisms are a concept I haven't seen about in literature. Similar concepts may exists possibly under different names.
 
 <!--
 #### life cycle of a coronavirus entity
@@ -400,7 +408,7 @@ The infectable cell can be:
 
 #### Virion Activation
 
-> ##### From Plant Seeds to Virions
+##### Plant Seeds to Virions
 > Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells. Coronaviruses evolved to check biological conditions: receptors on cell membranes and proteases available in the environment around the cell.
 
 
@@ -450,17 +458,22 @@ The metabolism can produce new virions that are released from the cell. The prop
 ###### Tropism
 > *Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism of viruses describes how viruses behave in different biochemical or biological circumstances (e.g. on what conditions they enter a cell). 
 
-<!--
-> In literature, the term tropism of viruses often used only in the context of tissues: in which tissues infections are observed. Here, for observed infections the term habitat is used. -->
+> In literature, the term tropism of viruses often used only in the context of tissues: in which tissues infections are observed, denoted here as [Tissue Tropism](#tissue-tropism).
 
-Questions relevant for the tropism of viruses:
+Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term.
+
+Questions relevant for the tropism of viruses in the virion state:
 * To which receptors under which conditions the virions attach? 
-* Factors inducing cell entry of virions?
-* Which changes in the metabolism in different cells? 
+* Factors inducing activation and cell entry of virions?
+
+Questions relevant for the tropism of viruses in the metabolic state:
+* Do the cells support viral replication?
+* Is cell death induced upon infections?
+* Are the viruses neutralized once inside the cell?
 
 <!--
 in work ...
-Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term. Determinants for the tropism are:
+ Determinants for the tropism are:
 * cell types:   
     - receptors expressed
     - biochemistry inside the cells
@@ -488,15 +501,17 @@ As described in the section [virion activation](#virion-activation) the virions 
 ### Metabolic Phase Tropism
 [in work: incomplete and citations/confirmation in work]
 
-> The tropism in the virion phase is better known than the tropism in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells of laboratory cell-lines, expression the right receptors. To investigate the metabolic phase, ideally one could look into the cells. 
+> The tropism in the virion phase is better known than the tropism in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). The transfected cell however don't need to behave similar to the cells which are naturally infected. So to investigate the metabolic phase,  To investigate the metabolic phase, ideally one could look into the cells. 
 
+#### Cell Preferences
 * The cell environment shouldn't deactivate the virus or alarming the immune system.
 * The cell should be able to produce many virions and thus should have a capable metabolism.
 
 #### Metabolic Phase Tropism of Coronaviruses
-* ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
-* immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place. 
-[todo: search & read]
+[in work]
+* Ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
+* Immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place. 
+
 
 ### Cell Tropism
 > *Cell tropism* describes how a virus behaves upon match of a virion to a specific cell type. 
@@ -504,10 +519,10 @@ As described in the section [virion activation](#virion-activation) the virions 
 The cell tropism is the combination of the [virion tropism](#tropism-virion-phase) which determines cell entry and the [tropism in the metabolic phase](#tropism-metabolic-phase) which determines the changes in the cells metabolism induced upon viral entry. 
 
 Viruses optimized to their environment often infect only cells involved in the survival of the virus strain:
-* Cells used as entry point. For coronaviruses these are often cells on the apical epithelial layer of respiratory tract. 
-* Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. Often these are secretory or ciliated cells in the respiratory tract.
-* Cells relevant to leave a host. 
-    - Often these are cells in the intestine or the kidney. 
+* Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract. 
+* Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. For betacoronaviruses these are similar the entry cells i.e. secretory and ciliated cells in the epithelium of the respiratory tract.
+* Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
+    - Those coronaviruses having a [dual host life cycle](./ideas_to_explore/hypotheses_nidovirales.md): Often cells in the intestine or the kidney. 
     - For indoor living hosts these are often in the upper respiratory tract. 
 * Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis. 
 
