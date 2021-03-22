@@ -68,7 +68,7 @@ Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-an
 
 Rules of Thumb:
 * In situations when a smokers smokes can not be smelled the risk is low, if it can ventilation or masks help.
-* Most outdoor activities reduce the overall Covid burden. Indoor activities and meetings can increase the Covid spread.
+* Outdoor activities reduce the overall Covid burden. Indoor activities and meetings can increase the Covid spread.
 
 
 ## Protection Measures
