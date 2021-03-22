@@ -1,5 +1,6 @@
 # Spread Analyses
 **[in work]**
+* [Short Summary](#short-summary)
 * [Summary](#summary)
   * [Covid Transmission happens when much Air is Exchanged between People](#covid-transmission-happens-when-much-air-is-exchanged-between-people)
   * [Observations supporting the Air Exchange Hypothesis](#observations-supporting-the-air-exchange-hypothesis)
@@ -33,8 +34,11 @@
 * [Appendix](#appendix)
   * [Data UK Sport Events](#data-uk-sport-events)
 
+## Short Summary
+[Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. 
+
 ## Summary
-[Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described and analysed.
+
 ### Covid Transmission happens when much Air is Exchanged between People
 Covid-19 transmission correlates to the amount of air people breadth from each other.
 The amount of exchanged air is high 
@@ -47,7 +51,7 @@ The correlation to the amount of air exchanged is expected if the transmission m
 Regarding prevention measures relevant is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
 
 ### Observations supporting the Air Exchange Hypothesis
-Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air.
+Observations showing that the transmission of severe Covid correlates to situations with a lot of shared air but no to situations favoring fomite or droplet transmission.
 
 Situations with an **increased** spread:
 * [Geographical Analysis](#geographical-analysis): Covid-19 waves across the world are predated by uncomfortable climate conditions:
@@ -496,6 +500,18 @@ Science 362 (6410), 75-79. [https://doi.org/10.1126/science.aat6030]()
 * "Cities with higher mean intensity tend to be located in the east, have smaller population sizes, and have higher-amplitude seasonal fluctuations in specific humidity." (Fig 1 D-F)
 * "Increasing base transmission potential can decrease epidemic intensity in a seasonally forced compartmental epidemic model." (Fig 2)
 * Population size and crowding increase the base transmission potential. (Fig 3 F,G)
+
+
+#### Summary Hodcroft
+**Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
+Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
+medRxiv preprint doi: https://doi.org/10.1101/2020.10.25.20219063
+##### Methods
+[in work]
+Analyzing the spread of the variant 20A.EU1 in Europe by analyzing full genome sequences (20A.EU1: "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition.")
+##### Findings
+[in work]
+* "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
 
 
 

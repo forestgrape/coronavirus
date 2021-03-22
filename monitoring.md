@@ -22,7 +22,7 @@
 
 ## Monitor Evolution
 [in work]
-From time to time full genome samples should be analyzed to monitor the evolution of Sars-CoV-2 and to deduce the international spread. 
+From time to time full genome samples should be analyzed to monitor the evolution of Sars-CoV-2 and to deduce the international spread (e.g. done by [Hodcroft et al](./spread_analyses.md#summary-hodcroft)). Dense sampling even helps to reconstruct the local spread (e.g. done by [Brueningk et al](./spread_analyses.md#summary-brueningk)).
 
 ## Monitor Prevalence
 To adjust the measures and to communicate these, it is important to estimate and monitor different incidence rates.
@@ -141,7 +141,7 @@ total current infected in percent  | total current infected per million | case c
 4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
 5%     |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed
 10%    |100 K   |10'000| ~25+   | **prevent even at very high costs**, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
-15%    |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic situations can occur. Death rate doubles or more, reached in heaviest hit regions.
+15%    |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic situations likely. Death rate doubles or more, reached in heaviest hit regions.
 
 
 ## Data 
