@@ -517,7 +517,7 @@ Viruses optimized to their environment often infect only cells involved in the s
 The tissue tropism depends on:
 * Susceptible Cells in the tissue 
 * Reachability of the Cells
-  * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#orientation-matters) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from  to the kidney and the intestine from where they can leave and infect the next host. 
+  * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#cell-orientation) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from  to the kidney and the intestine from where they can leave and infect the next host. 
   * Coronaviruses are to big to diffuse efficiently inside most tissues.
 * Local Immune system
 
@@ -543,12 +543,14 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 * infection but no replication
     - dendritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]: aptosis induce
 * no entry
-    - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted (usually captured in an endosome). 
+    - Cells not expressing ACE2. 
+    - Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted (usually captured in an endosome). 
+    E.g. antibody marked virions can get phagocyted by macrophages. 
+    
+        > This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
-> Even if the virions can't attach to a cell and/or induce cell entry, phagocytosis can be induced by the cell alone:  e.g. for antibody marked virions which may get phagocyted by macrophages. This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
-
-#### Orientation Matters 
-*  The transmission pathways (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the apical cell layer the virions have  
+#### Cell Orientation  
+*  The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the epithelial cell layer, the virions come mostly in contact with the apical sides of cells.
 * In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
 #### ACE2 Receptor Detection
@@ -584,7 +586,7 @@ ACE2 is apically available
 [in rework: update and a section for each strain]
 Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
 
-#### Betacoronavirus Type 2 Viral Load
+#### Betacoronavirus Viral Load
 [in rework]
 The viral loads observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
 * The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
@@ -595,7 +597,7 @@ Remark: Mers-Cov has a different cell entry receptor (DPP4). However
 
 This is just a piece of evidence in the overall picture. 
 
-That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. ~~An widespread infection in the upper respiratory tract would likely yield a viral load in the lymph nodes too [to be confirmed, citation needed].~~ The upper respiratory tract is used to fight viruses and so infections are rarely virulent [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md). 
+That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent [Disease Pattering](./ideas_to_explore/coronavirus_disease_patterns.md).
 
 
 
