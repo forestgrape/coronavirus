@@ -38,26 +38,30 @@
 ### Covid Transmission happens when much Air is Exchanged between People
 Covid-19 transmission correlates to the amount of air people breadth from each other.
 The amount of exchanged air is high 
-* indoors air with bad ventilation (either heated or air-conditioned) 
-* increased inhaling
+* Indoors air with bad ventilation (either heated or air-conditioned) 
+* Increased inhaling
   * being at low air pressure (either high altitude or airplane) 
   * activities such as singing, shouting or strains e.g. sports
   
 The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
-Regarding prevention measures the takeaway is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
+Regarding prevention measures relevant is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
 
 ### Observations supporting the Air Exchange Hypothesis
-Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air:
+Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air.
+
+Situations with an **increased** spread:
 * [Geographical Analysis](#geographical-analysis): Covid-19 waves across the world are predated by uncomfortable climate conditions:
   * Cold temperatures below 15 degrees during the day and below 10 degrees at night => indoor heating
   * Hot outside temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). 
 * [Large Scale Sporting Events](#large-scale-sporting-events) In sports clubs where spectators are/were allowed to the stadiums, the players have a much higher risks to get infected with Covid-19 than in regions without spectators. Moreover Covid-19 incidence rates seem to be higher in areas with large scale sport events (especially indoor). 
 * [Airplanes](#airplanes): High spread rates observed without adequate prevention measures (mask, ventilation). 
 * [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world.
+* [Large Buildings](#living-conditions): In cold seasons small living spaces are associated with an increased spread.
 
-Situations where no increased spread is observed:
-* Dense living conditions in comfortable climate or in regions where air-conditioners are not widespread
-* Limited access to water for washing hands alone don't yield an increased spread of Covid-19. 
+Situations where **no increased** spread of severe Covid is observed:
+* Dense living conditions in comfortable climate or in regions where air-conditioners are not widespread.
+* In regions with limited access to water for washing hands.
+* Crowded settings during the day in unconfined settings (e.g. demonstrations, crowded parks, beaches and swimming pools).
 
 
 ### The Susceptibility and Infectiousness varies across People and depends on Biological Factors
@@ -199,7 +203,7 @@ It will be interesting to investigate the prevalence of Covid-19 in the spectato
   4000 spectators in Tier 1 (about 10%-15% of capacity)
   2000 spectators in Tier 2 (about 5%-7.5% of capacity)
   0 spectators in Tier 3
-  until 5th of January 2021 when a new lockdown was started.
+  until 5th of January 2021 when another shutdown/lockdown was started.
 
 
 #### Results from Leagues with Spectators
