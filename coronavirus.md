@@ -172,7 +172,10 @@ For many questions, organisms are considered as a whole and not the single cells
 ## Introduction to Viruses
 
 > ###### Virus
-> A *virus* is a form of life, that can't produce all necessary enzymes for its replication.
+> A *virus* is a form of life, that encodes and has proteins produced but can't produce all necessary enzymes for its replication on its own.
+
+* That it encodes and produces proteins distinguishes viruses from [viroids](#viroid).
+* That a virus cannot produces all the required enzymes distinguishes them from more self contained forms of life.
 
 Viruses integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](#cell-forming-life) [to check] and the metabolisms is inside the cells, viruses need to be within cells to replicate.
 
@@ -224,7 +227,7 @@ Therefore viruses are dependent on the host cells. Long-term surviving virus str
 
 
 ### Virus Classification
-As defined a [life form](#life-form) not encoding its entire metabolism is called [virus](#virus). This definition is very broad so often further classifications/grouping are done. 
+As defined a [life form](#life-form) encoding proteins but not all of them is called aj [virus](#virus). This definition is very broad so often further classifications/grouping are done. 
 
 > The goal of classification is usually to group things together which are similar to some features of interest. 
 
@@ -460,6 +463,8 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 > In literature, the term tropism of viruses often used only in the context of tissues: in which tissues infections are observed, denoted here as [Tissue Tropism](#tissue-tropism).
 
+> The focus is on the tropism of coronaviruses. Many statements are true for most viruses. The more closely related the more: Coronaviruses < Nidovirales < positive sense RNA viruses < RNA viruses < viruses. 
+
 Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term.
 
 Questions relevant for the tropism of viruses in the virion state:
@@ -544,7 +549,7 @@ The task determine to habitat of Sars-CoV-2 can be tackled either
 * an [empirical deduction](#empirical-deduction) based on observations of Covid-19 cases.
 
 ### Theoretical Deduction
-In the following the [tissue tropism](#tissue-tropism) of Sars-CoV-2 is deduced its [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question. 
+In the following the [tissue tropism](#tissue-tropism) of Sars-CoV-2 is deduced from the [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question. 
 
 #### SARS-2 Cell Entry
 [in rework/reorder]
