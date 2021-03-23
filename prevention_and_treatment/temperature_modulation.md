@@ -3,7 +3,9 @@
 [**in work, only summary somewhat complete**]
 
 ## Summary
-Numerous traditional remedies such as steam inhalation and drinking tea or customs such as sauna make use of local warming to prevent and treat respiratory infections. Regarding Covid-19 there are quite a few proposals to use heat for prevention which provide many pieces of evidence that local warming works.
+Numerous traditional remedies such as steam inhalation and drinking tea or customs such as sauna make use of local warming to prevent and treat respiratory infections. There are quite a few proposals to use heat for prevention and treatment for Covid-19. These proposals provide many pieces of evidence that local warming methods work. 
+
+> Currently the focus is on local warming. Notes about local cooling in work.
 
 We sketch epidemiological evidence (A), discuss enabling mechanisms (B). In (C) resources with similar recommendations are given.
 
