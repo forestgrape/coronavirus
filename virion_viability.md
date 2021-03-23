@@ -3,9 +3,9 @@
 ## Content
 * [Content](#content)
 * [Short Summary Virion Viability](#short-summary-virion-viability)
-* [Extended Summary Virion Viability](#extended-summary-virion-viability)
-  * [Decay Situations in Practice](#decay-situations-in-practice)
-  * [Decay Mechanisms and Rates](#decay-mechanisms-and-rates)
+* [Summary Virion Viability](#summary-virion-viability)
+  * [Reasons for the Fast Decay](#reasons-for-the-fast-decay)
+  * [Summary Decay Mechanisms and Rates](#summary-decay-mechanisms-and-rates)
 * [Introduction](#introduction)
   * [Overview](#overview)
   * [What's done and added here](#whats-done-and-added-here)
@@ -44,8 +44,9 @@
 
 
 ## Short Summary Virion Viability
-At different situations different mechanisms are the principal drivers of the decay. Usually one decay mechanism is much faster than all others, so only this fastest has to be accounted for. 
+The decay of coronavirus virions is driven by different mechanisms in different situations. Usually one decay mechanism is much faster than all others, so only this fastest has to be accounted for.
 
+Selected situations grouped by the halflifetimes of the virion decay:
 * Halflifetime below a minute
   * Disinfectants
   * Temperatures above 70 degrees
@@ -60,45 +61,45 @@ At different situations different mechanisms are the principal drivers of the de
 
 
 
-## Extended Summary Virion Viability
+## Summary Virion Viability
 
-### Decay Situations in Practice
-[Virions](./coronavirus.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
+[Virions](./coronavirus.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. Coronavirus virions decay fast compared to other forms of life. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
 
-* Outdoors during the day the UV part of sunlight quickly breaks the RNA. Even on cloudy days and in the evening this decay is relevant although slower than at sunny noon.
-* Virions are exhaled in samples of respiratory fluids, which contain biochemical substances such as proteins, surfactants and salts. These biochemicals cause decay of the virions.
-  * At an air humidity between about 40% to 70%: The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate.
-  * At an air humidity between 70% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
-  * At an air humidity above 95%: The droplet expand there size in humid environments. A faster decay rate is observed. 
-  * At an air humidity below 40%: the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
-* In the stomach the acids induce a fast decay.
-
-
-### Decay Mechanisms and Rates
-
-[Virions](./coronavirus.md#virion) aren't very stable compared to other forms of live. The principal reasons for the instability of virion are:
+### Reasons for the Fast Decay
+The principal reasons for the instability of virion are:
 * The genome is [stored in ssRNA](./coronavirus.md#ssrna)
 * The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out imbalances such as osmotic pressures, without metabolism virions do not.
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
 * Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
 
-
+### Summary Decay Mechanisms and Rates
 #### Summary Decay by UV Light
+Outdoors during the day the UV part of sunlight quickly breaks the RNA. Even on cloudy days and in the evening this decay is relevant although slower than at sunny noons.
 UV light yields the RNA unreadable. At low UV (e.g low sun in the fall) the halflife time is about 6 minutes and at intense UV (e.g. sun in summer) about 2 min. On cloudy days the UV is lower but still high enough to break the RNA.
 
 > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV.
 
-#### Summary Decay by Biochemicals
+#### Summary Decay in Disinfecting Biochemicals
 Decay by biochemicals inactivate virions mainly from the outside by interacting with the spike protein or destroying the lipid envelope. Rates at room temperature (22 degree):
-* In sputum/nasal mucus/saliva/on the skin the rates are in a similar range. The decay rate doubles about every 10 degrees temperature increase. 
-  * at 4 degrees: about 5 (around 50% humidity) up to 10 hours or more (dry air = around 20% humidity).
-  * at 22 degrees: about 1 hour (around 50% relative humidity) to 4 hours or more (around 20% humidity).
 * Common disinfectants (e.g. ethanol 70%, iodine 7.5%): a below a minute.
 * Soap: Below a minute.
+* Acids: In the stomach the acids induce a fast decay.
 
-#### Summary Self Decay
+#### Summary Decay in Respiratory Fluids
+Virions exhaled in samples of respiratory fluids decay mostly due to interactions with biochemicals in the respiratory fluids. The rate depends on the air temperature and humidity since:
+* At an air humidity between about 40% to 70%: The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
+* At an air humidity between 70% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
+* At an air humidity above 95%: The droplet expand there size in humid environments. A faster decay rate is observed. 
+* At an air humidity below 40%: the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
+
+Typical rates are:
+In sputum/nasal mucus/saliva/on the skin the rates are in a similar range. The decay rate doubles about every 10 degrees temperature increase. 
+* at 4 degrees: about 5 (around 50% humidity) up to 10 hours or more (dry air = around 20% humidity).
+* at 22 degrees: about 1 hour (around 50% relative humidity) to 4 hours or more (around 20% humidity).
+
+#### Summary Decay without extern Factors (Self Decay)
 [**explorative section**]
-Self decay denotes the decay which always occurs even without extern factors, however extern factors can modify the decay rate. The self decay depends on the internal state of a virion. Self decay happens primarily by RNA self-decay up to about 40 degrees celsius. Above about 45 degrees the proteins start loosing functionality.
+Self decay denotes the decay which always occurs even without extern factors. Extern factors can modify the decay rate, though. The self decay depends on the internal state of a virion. Self decay happens primarily by RNA self decay up to around 45 degrees. Above 45 degrees the proteins start loosing functionality.
 
 The self decay rate can be approximated by a piecewise linear function:
 * 4 to 45 degrees: Decay mainly due to RNA self decay. The rate doubles (the halftime halves) about every 5 degree temperature increase. 
@@ -112,6 +113,8 @@ The self decay rate can be approximated by a piecewise linear function:
 * 60 to 75 degrees: The lipid envelope decays.
   * at 70 degrees the halflifetime is about 10 seconds.
 
+
+
 ## Introduction
 ### Overview
 The page the following main chapters
@@ -121,6 +124,7 @@ The page the following main chapters
   * The viability depends on the [internal state](#internal-state) of a virions. The internal state in turn depends on the originating cell and the genome which can adapt in just a few generations.
 * [Decay Mechanisms by Building Blocks](#decay-mechanisms-by-building-blocks): The decay of the different building blocks (RNA-genome, proteins and envelope).
 * [Decay Rates and Mechanisms in concrete Situations](#decay-rates-and-mechanisms-in-concrete-situations) Decay patterns observed in experiments or relevant in practice are considered. Often several decay factors are present and the exact situation determines the virion decay mechanisms.
+* Measurements and data from many [references](#references) are compiled into a table: [Viability Data](./virion_viability/notes_on_viability_data.md).
 
 ### What's done and added here
 * Summary of knowledge of the various decay mechanisms, factors and situations. //at them moment parts of this page are rather an unordered collection than a concise summary
@@ -453,6 +457,8 @@ The estimates are based on the experiments:
 * [Casanova](#casanova): Temperatures (4,20,40), Humidities (20%, 50%, 80%)
 * [Chan 11](#summary-chan-11): Temperatures (28,33,38), Humidities (85%,95%)
 
+which are summarized in the table [Viability Data](./virion_viability/notes_on_viability_data.md).
+
 
 
 ### Self Decay Rates
@@ -468,6 +474,7 @@ The self decay rates are estimated from environment with the lowest observed dec
 Sources:
 * [Laude](#summary-laude): TGEV coronaviruses are solved in a PH buffer solution.
 * [Casanova](#summary-casanova): MHV and TGEV in MEM and at 20% relative humidity.
+* summarized in the table [Viability Data](./virion_viability/notes_on_viability_data.md)
 
 #### Until about 45 degrees: RNA Self Decay
 The primary self decay mechanism is RNA self decay. The rate of the RNA decay is similar across different RNA viruses [to check and cite].
@@ -500,6 +507,8 @@ At higher temperatures the proteins start to denature and loose their functional
 ## References
 [**in work**]
 ### References Temperature Viability SARS-2
+Many of the results/data are summarized in [Viability Data](./virion_viability/notes_on_viability_data.md).
+
 #### Guo
 **Study on the decay characteristics and transmission risk of respiratory viruses on the surface of objects**
 
