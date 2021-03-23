@@ -22,6 +22,8 @@ Topical medications against SARS-like are especially promising since:
 
 Summed up with topical treatment the removal of infectious virions seems possible. The reduced viral load should lessen inflammation and enable the immune system to clear the infection better and faster.
 
+An example of a topical treatment is to [modulate the temperature and humidity](./temperature_modulation.md).
+
 
 ## Introduction
 [**in work**]
@@ -50,4 +52,4 @@ Many viruses infecting the respiratory tract infects cells from the apical side 
 
 ## Topical Medications
 ### Temperature and Humidity Modulation
-At high temperatures, in condensation situations and on temperature changes virions decays faster. Such situations can be induced in the lungs and should reduce the viral load. Described on the page [Local Temperature and Humidity Modulation]
+At high temperatures, in condensation situations and on temperature changes virions decays faster. Such situations can be induced in the lungs and should reduce the viral load. Described on the page [Local Temperature and Humidity Modulation](./temperature_modulation.md)
