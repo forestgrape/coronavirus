@@ -1,5 +1,7 @@
 # Topical Treatment of Respiratory Infections including Covid
 
+[**in work and incomplete, only summary somewhat complete**]
+
 ## Summary Topical Treatment
 Infections on the surface of the upper and lower respiratory tract can be treated topically. For upper respiratory tract infections this is already common as it is common for other locations such as the skin. Advantages of topical treatments are 1. that the medications reach the pathogens directly and 2.relaxed tolerability constraints compared to systemic medications. Topical treatments of the lower respiratory tract can be by inhalation of the medications or other methods such as washings.
 
