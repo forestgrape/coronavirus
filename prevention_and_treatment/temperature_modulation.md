@@ -79,7 +79,9 @@ In the virion phase coronaviruses are very delicate due to the spring loaded ene
 ### References Heat
 
 #### Ramirez
-**Hydrothermotherapy in prevention and treatment of mild to moderate cases of COVID-19**
+Ramirez, F. E., Sanchez, A., & Pirskanen, A. T. (2021). 
+**Hydrothermotherapy in prevention and treatment of mild to moderate cases of COVID-19.** 
+Medical hypotheses, 146, 110363. https://doi.org/10.1016/j.mehy.2020.110363
 
 #### Cohen
 Cohen M. 
@@ -95,10 +97,14 @@ Balneotherapy and hydrotherapy in chronic respiratory disease
 ### References Sauna
 
 #### Kunutsor 2020
-**High fitness levels, frequent sauna bathing and risk of pneumonia in a cohort study: Are there potential implications for Covid-19?**
+Kunutsor, S. K., & Laukkanen, J. A. (2021). 
+**High fitness levels, frequent sauna bathing and risk of pneumonia in a cohort study: Are there potential implications for COVID-19?** 
+European journal of clinical investigation, 51(3), e13490. https://doi.org/10.1111/eci.13490
 
 #### Kunutsor 2017
-**Frequent sauna bathing may reduce the risk of pneumonia in middle-aged Caucasian men: the KIHD prospective cohort study**
+Kunutsor, S. K., Laukkanen, T., & Laukkanen, J. A. (2017). 
+**Frequent sauna bathing may reduce the risk of pneumonia in middle-aged Caucasian men: The KIHD prospective cohort study.** 
+Respiratory medicine, 132, 161–163. https://doi.org/10.1016/j.rmed.2017.10.018
 
 #### Laukkanen 2016
 Sauna bathing is inversely associated with dementia and Azheimer's deisease in middle-aged Finnish men
