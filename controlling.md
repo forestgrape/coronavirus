@@ -3,7 +3,7 @@
 This section extends and   [Public Advices and Suggestions](./index.md#public-advice) section. 
 
 * [Strategy](#strategy)
-* [Spread Summary and Assumptions](#spread-summary-and-assumptions)
+* [Spread Assumptions](#spread-assumptions)
 * [Protection Measures](#protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
@@ -41,7 +41,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases.
 > * Monitor and estimate overall cases to do predictions and planning.
 > * Settings that those who want/need can protect, while those not needing/choosing can go on, go on circumspectly.
-> * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. **Everybody has to right for a good treatment.**
+> * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. *Everybody has to right for a good treatment.*
 >
 > ### Reconsidering Strategy
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent at least if good masks are scarce. In warm areas windows should be open all the time and air-conditioning should *never* be used.
@@ -52,8 +52,8 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > 3. Analyzing missteps can be rewarding, the next antibiotics are to be discovered.
 
 
-## Spread Summary and Assumptions
-The following relies on the assumption that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) (primarily through aerosol and even dry form aerosol, possibly some droplet transmission). 
+## Spread Assumptions
+The design of measures relies on transmission models. Here it as assumed that the main transmission of Sars-CoV-2 is [airborne](./transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like as sketched in the following.
 
 Observations:
 Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./transmission.md). In short: The [spread pattern](./spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed.
@@ -61,7 +61,6 @@ Evidence for aerosol transmission is described in [Spread Analyses](./spread_ana
 To keep in mind:
 * Dry Air: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](./transmission.md). The [viability of coronaviruses](./virion_viability.md) is highest in dry and cool air without sunlight.
 * Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](./spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](./spread_analyses.md)). => (Encouraging) Transparency is important.
-
 
 Metaphor:
 Airborne transmissions can be thought [smoke like](./transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough.
