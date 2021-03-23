@@ -5,7 +5,7 @@
 * [Short Summary Virion Viability](#short-summary-virion-viability)
 * [Summary Virion Viability](#summary-virion-viability)
   * [Reasons for the Fast Decay](#reasons-for-the-fast-decay)
-  * [Summary Decay Mechanisms and Rates](#summary-decay-mechanisms-and-rates)
+  * [Summarized Decay Mechanisms and Rates](#summarized-decay-mechanisms-and-rates)
 * [Introduction](#introduction)
   * [Overview](#overview)
   * [What's done and added here](#whats-done-and-added-here)
@@ -72,20 +72,20 @@ The principal reasons for the instability of virion are:
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
 * Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
 
-### Summary Decay Mechanisms and Rates
-#### Summary Decay by UV Light
+### Summarized Decay Mechanisms and Rates
+#### Summarized Decay by UV Light
 Outdoors during the day the UV part of sunlight quickly breaks the RNA. Even on cloudy days and in the evening this decay is relevant although slower than at sunny noons.
 UV light yields the RNA unreadable. At low UV (e.g low sun in the fall) the halflife time is about 6 minutes and at intense UV (e.g. sun in summer) about 2 min. On cloudy days the UV is lower but still high enough to break the RNA.
 
 > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV.
 
-#### Summary Decay in Disinfecting Biochemicals
+#### Summarized Decay in Disinfecting Biochemicals
 Decay by biochemicals inactivate virions mainly from the outside by interacting with the spike protein or destroying the lipid envelope. Rates at room temperature (22 degree):
 * Common disinfectants (e.g. ethanol 70%, iodine 7.5%): a below a minute.
 * Soap: Below a minute.
 * Acids: In the stomach the acids induce a fast decay.
 
-#### Summary Decay in Respiratory Fluids
+#### Summarized Decay in Respiratory Fluids
 Virions exhaled in samples of respiratory fluids decay mostly due to interactions with biochemicals in the respiratory fluids. The rate depends on the air temperature and humidity since:
 * At an air humidity between about 40% to 70%: The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
 * At an air humidity between 70% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
@@ -97,7 +97,7 @@ In sputum/nasal mucus/saliva/on the skin the rates are in a similar range. The d
 * at 4 degrees: about 5 (around 50% humidity) up to 10 hours or more (dry air = around 20% humidity).
 * at 22 degrees: about 1 hour (around 50% relative humidity) to 4 hours or more (around 20% humidity).
 
-#### Summary Decay without extern Factors (Self Decay)
+#### Summarized Decay without extern Factors (Self Decay)
 [**explorative section**]
 Self decay denotes the decay which always occurs even without extern factors. Extern factors can modify the decay rate, though. The self decay depends on the internal state of a virion. Self decay happens primarily by RNA self decay up to around 45 degrees. Above 45 degrees the proteins start loosing functionality.
 
