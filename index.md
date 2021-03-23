@@ -24,6 +24,7 @@
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
+- 23.3. Clarified summary for [Virion Viability](./virion_viability.md). [A table with compiled data](./virion_viability/notes_on_viability_data.md) from viability experiments is online. 
 - 22.3. [Spread Assumptions section](./controlling.md#spread-assumptions) on the [controlling page](./controlling.md) added. Formulations across the page.
 - 18.3. [Virion Viability Page](./virion_viability.md) in online work (finally!). 
     * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
