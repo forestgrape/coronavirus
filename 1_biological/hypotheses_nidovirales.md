@@ -1,6 +1,6 @@
 
 # Hypotheses about Nidovirales
-Hypotheses about Nidovirales are discussed. They extend the [page on coronaviruses](./coronavirus.md) and the section [Backtracing SARS-1/2](./../index.md#backtracing-sars-cov-12) from a subject point. In the flavour they belong to the section [Ideas to Explore](./index.md#ideas-to-explore)
+Hypotheses about Nidovirales are discussed. They extend the [page on coronaviruses](./1_biological/coronavirus.md) and the section [Backtracing SARS-1/2](./../index.md#backtracing-sars-cov-12) from a subject point. In the flavour they belong to the section [Ideas to Explore](./index.md#ideas-to-explore)
 
 ## Content 
 * [Content](#content)

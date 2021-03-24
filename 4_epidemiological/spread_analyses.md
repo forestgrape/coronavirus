@@ -31,11 +31,13 @@
   * [Summary Perez-Lopez](#summary-perez-lopez)
   * [Summary Rader,Scarpino](#summary-raderscarpino)
 * [References](#references)
+  * [Epidemiological Patterns](#epidemiological-patterns)
 * [Appendix](#appendix)
   * [Data UK Sport Events](#data-uk-sport-events)
 
 ## Short Summary
-[Situations with Covid-19 spreading](#spread-situations) is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. 
+[Situations where high rates of Covid-19 transmission](#spread-situations) are observed or *not* observed are described. High transmission rates of severe Covid are observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without good ventilation, at crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing). 
+
 
 ## Summary
 
@@ -47,7 +49,7 @@ The amount of exchanged air is high
   * being at low air pressure (either high altitude or airplane) 
   * activities such as singing, shouting or strains e.g. sports
   
-The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](./transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
+The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](./4_epidemiological/transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
 Regarding prevention measures relevant is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
 
 ### Observations supporting the Air Exchange Hypothesis
@@ -508,13 +510,35 @@ Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez C
 medRxiv preprint doi: https://doi.org/10.1101/2020.10.25.20219063
 ##### Methods
 [in work]
-Analyzing the spread of the variant 20A.EU1 in Europe by analyzing full genome sequences. 20A.EU1: "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
+The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
 ##### Findings
 [in work]
 * "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
-* " Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). There- fore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
+* "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
 
 
+
+### Epidemiological Patterns
+    
+*  ##### le
+	The Lancet Editoral
+	**COVID-19: protecting health-care workers**
+	www.thelancet.com Vol 395 March 21, 2020
+	https://doi.org/10.1016/S0140-6736(20)30644-9 
+
+*  ##### mizumoto 
+	Kenji Mizumoto, Gerardo Chowell
+    **Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
+	https://doi.org/10.1016/j.idm.2020.02.003
+    
+* ##### honein
+    Temet M. McMichael et al.
+    **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
+    This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+
+* ##### lin
+    LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
+    **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054  
 
 ## Appendix
 

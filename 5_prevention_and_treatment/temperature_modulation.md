@@ -22,18 +22,18 @@ We sketch epidemiological evidence (A), discuss enabling mechanisms (B). In (C) 
 * Increasing the temperature upon infections is observed in many animals. Some insects, most reptiles and nearly all (all?) mammals. It comes at the cost of greatly increased energy burning for warm-blooded animals or at the cost of risky behavior such as sunbathing for reptiles, so there must be benefits else such behavior wouldn't have evolved and survived independently.
 
 ### B Summarized Mechanisms of Action
-Heat influences the viruses as virions (1) and in the metabolic state (2). Heat also enhances (3) and stimulates (4) the immune system.
+Heat influences the viruses as virions (a) and in the metabolic state (b). Heat also enhances (c) and stimulates (d) the immune system.
 
-#### 1 Inhibit Viruses
-* *Reduced survival of virions*
+#### Inhibit Viruses
+* _a) Reduced survival of virions_
    Virions decay quickly compared to other forms of life, especially at high temperatures. The principal reason is that virions rely on spring loaded energy in their proteins e.g. to induce cell fusion. Therefore the proteins are under tension this makes them delicate and once broken they won't go back to the original state. It the same as a spring once released won't go back to the tensioned state.
-* *Disrupted metabolism of viruses*
+* _b) Disrupted metabolism of viruses_
    Most viruses and all RNA viruses have a small genome encoding just a limited metabolisms. Cells on the other hand have a large genome and encode many fall back options upon suboptimal circumstances such as increased temperature.
 
-#### 2 Improved Host Immune System
-* *Enhancing the functionality of host immune mechanisms*
+#### Improved Host Immune System
+* _c) Enhancing the functionality of host immune mechanisms_
    Many mechanisms of the immune system work better at slightly increased temperatures. Examples are: Presentation of antigens, faster recruitment of adequate immune cells, better intracellular immune mechanisms.
-* *Stimulating the host immune system*
+* _d) Stimulating the host immune system_
    Increasing temperature upon infection dates back to the early time of multicellular life, the immune cells learned this and increase their activity upon temperature increase. The other way round too: Cooling signals the immune cells stay calm. 
    
 ### C Recommended Readings
@@ -53,7 +53,7 @@ Respiratory viruses have a two phase life-cycle. A virion phase and a metabolic 
 > In the following betacoronaviruses are considered but the argumentation holds for many respiratory viruses.
 
 #### Virion Phase
-In the virion phase coronaviruses are very delicate due to the spring loaded energy in their spike and nucleocapsid proteins. Varios environment changes including temperatures above 45 degrees induce structure loss in the spring loaded proteins ([Virion Viability Page](./virion_viability.md)). 
+In the virion phase coronaviruses are very delicate due to the spring loaded energy in their spike and nucleocapsid proteins. Varios environment changes including temperatures above 45 degrees induce structure loss in the spring loaded proteins ([Virion Viability Page](./1_biological/virion_viability.md)). 
 
 ### Enhancing the Immune Response
 [in work]

@@ -63,11 +63,11 @@ Selected situations grouped by the halflifetimes of the virion decay:
 
 ## Summary Virion Viability
 
-[Virions](./coronavirus.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. Coronavirus virions decay fast compared to other forms of life. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
+[Virions](./1_biological/coronavirus.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. Coronavirus virions decay fast compared to other forms of life. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
 
 ### Reasons for the Fast Decay
 The principal reasons for the instability of virion are:
-* The genome is [stored in ssRNA](./coronavirus.md#ssrna)
+* The genome is [stored in ssRNA](./1_biological/coronavirus.md#ssrna)
 * The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out imbalances such as osmotic pressures, without metabolism virions do not.
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
 * Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
@@ -134,8 +134,8 @@ The page the following main chapters
 ### Relevance
 * [in work]
 * Risk assessment
-  * The long survival of virions in cool environments without sunlight indicates a transmission risk in stairwell or garages/parkings of large buildings ([Precaution measures in Large Buildings](./controlling.md#large-buildings)). 
-  * The fast inactivation in sunlight is one reason [outside is safer](./controlling.md#outside-is-safer), especially on sunny days.
+  * The long survival of virions in cool environments without sunlight indicates a transmission risk in stairwell or garages/parkings of large buildings ([Precaution measures in Large Buildings](./6_social/controlling.md#large-buildings)). 
+  * The fast inactivation in sunlight is one reason [outside is safer](./6_social/controlling.md#outside-is-safer), especially on sunny days.
 
 
 <!--
@@ -155,7 +155,7 @@ The page the following main chapters
 [**in work**]
 
 ### Measuring Infectious Virions
-To measure infectious viruses cell culture experiments are necessary. The methods detecting building blocks of viruses (PCR and antigen tests) yield positive if the parts of the building are present regardless whether the virions are intact and infectious (page [diagnosis and viral load](./diagnosis_and_viral_load.md)).
+To measure infectious viruses cell culture experiments are necessary. The methods detecting building blocks of viruses (PCR and antigen tests) yield positive if the parts of the building are present regardless whether the virions are intact and infectious (page [diagnosis and viral load](./2_medical/diagnosis_and_viral_load.md)).
 
 ### Exponential Decay
 When each member of a collection has some time independent chance to replicate or decay during a certain time span independent of the other members, the whole collection growths or decays exponentially. Examples:
@@ -261,12 +261,12 @@ pH value alters the state of biochemicals and the virions. These effects alters 
 #### Evaporation and Condensation
 Evaporation and condensation affect amount of water in samples. Which has the effects:
 * the [concentration](#concentration-changes) of chemical and biological substances is increased at evaporation respectively decreased at condensation.    
-* In the air the changed size affects the movement of the particles (described in [Objects Moving in the Air](./transmission.md#objects-moving-in-the-air) on the Transmission page)
+* In the air the changed size affects the movement of the particles (described in [Objects Moving in the Air](./4_epidemiological/transmission.md#objects-moving-in-the-air) on the Transmission page)
   * tendency to fall down at condensation
   * tendency to fly at evaporation
 
 * How the particles sizes changes upon exposure to different humidities is described and measured by [Morris et al](#summary-morris). 
-* More general notes on the fate of particles in the air are illustrative paper by [Yang and Marr](./transmission.md#yang).
+* More general notes on the fate of particles in the air are illustrative paper by [Yang and Marr](./4_epidemiological/transmission.md#yang).
 
 
 #### Concentration Changes
@@ -331,7 +331,7 @@ All of the building blocks of a virions are subject to decay. Under which circum
 ### RNA Decay
 
 #### RNA Self Decay
-The genome of coronaviruses is stored in single stranded RNA, which is the least stable of the 4 [storage forms](./coronavirus.md#lifetime-storage) is not very stable and bases can mutate which yield unusable RNA
+The genome of coronaviruses is stored in single stranded RNA, which is the least stable of the 4 [storage forms](./1_biological/coronavirus.md#lifetime-storage) is not very stable and bases can mutate which yield unusable RNA
 
 ##### Modifying Factors 
 * Temperature: The decay rate increases with the temperature (linear in Arrhenius plots).
@@ -507,13 +507,17 @@ At higher temperatures the proteins start to denature and loose their functional
 ## References
 [**in work**]
 ### References Temperature Viability SARS-2
-Many of the results/data are summarized in [Viability Data](./virion_viability/notes_on_viability_data.md).
+Many of the results/data are compiled into a table: [Viability Data](./virion_viability/notes_on_viability_data.md).
 
 #### Guo
 **Study on the decay characteristics and transmission risk of respiratory viruses on the surface of objects**
 
+
 #### Summary Casanova
-Casanova, L.M., Jeon, S., Rutala, W.A., Weber, D.J., Sobsey, M.D., 2010. Effects of air temperature and relative humidity on coronavirus survival on surfaces. Appl. Environ. Microbiol. 76 (9), 2712–2717.
+Casanova, L.M., Jeon, S., Rutala, W.A., Weber, D.J., Sobsey, M.D., 2010. 
+**Effects of air temperature and relative humidity on coronavirus survival on surfaces.** 
+Appl. Environ. Microbiol. 76 (9), 2712–2717.
+
 ##### Methods
 The survival of TGEV and MHV in cell culture medium at 9 temperature-humidity combinations - Temperatures (4 C, 20 C, 40 C)  X  Humidities (20%, 50%, 80%) - was determined.
 ##### Methods Details
@@ -527,14 +531,24 @@ The survival of TGEV and MHV in cell culture medium at 9 temperature-humidity co
   * "Control carriers (time zero) were kept at each AT and RH until they were dry and were sampled immediately after drying. The exception was the carrier incubated at 40°C and 80% RH. Under these conditions, virus inactivation took place within a few hours. Consequently, the carriers were sampled beginning at 2 h after inoculation, when the virus inoculum was still wet."
   * "Based on virus recovery experiments, 1.5% beef extract (pH 7.5) was used to elute viruses from carriers (data not shown). At desired time points, carriers were removed, placed in a 24-well plate, and covered with 1 ml beef extract. Viruses were eluted by agitation on a shaking platform (60 rpm) for 20 min at room temperature. Eluted samples were diluted in cell culture medium, and virus infectivity was assayed using the appropriate host cell line. Three replicate carriers were assayed per time point."
 
+
+
 #### Summary Chan 11
+K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
 **The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus**
+Hindawi Publishing Corporation
+Advances in Virology
+Volume 2011, Article ID 734690, 7 pages
+https://doi.org/10.1155/2011/734690   
+
 ##### Methods
 The viability of SARS-CoV-1 is determined for the following conditions: 
 * in solution and at dried at 40-50% humidity at room temperature.
 * dried virions at temperatures (28,33,38) and humidities (80-85%, 95%).
+
 ##### Results
 "The dried virus on smooth surfaces retained its viability for over 5 days at temperatures of 22–25◦C and relative humidity of 40–50%, that is, typical air-conditioned environments. However, virus viability was rapidly lost (>3 log10) at higher temperatures and higher relative humidity (e.g., 38◦C, and relative humidity of >95%)."
+
 ##### Methods Details
 * Cells:
   * Cell Line: Foetal monkey kidney cells (FRhK- 4) 
@@ -608,8 +622,6 @@ https://doi.org/10.1101/2020.10.16.341883
 ##### Meta-analysis
 * Table summarizing several coronavirus viability studies (halflifetimes given).
 * "To test the validity of our model beyond the measured environmental conditions (i.e., beyond 10– 27 C and 40–85 % RH), we compiled data from 11 published studies on human coronaviruses, including SARS-CoV-2, SARS-CoV-1, MERS-CoV, HCoV-OC43 and HCoV-299E, under 17 temperature-RH conditions. We generated estimates of half-life and uncertainties (Extended Data Table 2) and compared those estimates to the half-lives predicted by the mechanistic model parametrized from our SARS-CoV-2 data."
-
-
 
 
 

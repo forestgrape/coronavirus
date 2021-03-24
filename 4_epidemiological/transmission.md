@@ -1,5 +1,4 @@
 
-
 # Transmission of Betacoronaviruses with Focus on Sars-CoV-2 and a Proposed Dry Form Transmission 
 
 * [Airborne Transmission](#airborne-transmission)
@@ -306,7 +305,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 ### Evidence for the Dry Form Transmission Model
 
 #### Evidence from Biological Properties
-As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](./coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
+As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](./1_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
 
     
 #### Evidence from the observed Spread Patterns
@@ -581,3 +580,37 @@ This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  partic
 * ##### lin
     LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
     **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054   
+
+
+
+<!--
+
+TODO UPDATE REFERENCES
+
+* Describing that the cell entry point is ACE2:
+[1] (SARS-Cov-1), [2] (SARS-Cov-1), [9] (SARS-Cov-2)
+
+* Describing the ACE2 \[surface\] expression locations:
+[6], [12]
+
+* Describing that some coronaviruses enter via the apical surface:
+[3](HCov 229E, uses a different receptor however cell entry side is likely more conserved)
+* Describing the viral distribution across the organs:
+[5] (SARS-Cov-1), [6] (SARS-Cov-1),[14]
+* Describing clinal findings which are most notable in the lung
+* Describing that a relevant number of patients has only an increase in temperature below 38 degrees and so if fever is defined as a temperature above 38 no fever:
+[7], [10]
+* Describing aerosol transmission in the case of influenza:
+[8]
+* Describing that dry spreading is possible:
+[11]
+* Describing spread potential i.e. high effective reproduction numbers in confined settings:
+[15]
+* Describing the human airway:
+[16],[17]
+* Describing particle deposition in the human airway on inhale:
+[18]
+* Describing particle deposition in the human airway on exhale. This is important both for diagnostic and transmission of Covid-19:
+[21]
+
+-->

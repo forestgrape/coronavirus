@@ -83,7 +83,7 @@ Not infectable since no ACE2 and thus the symptoms from the corresponding locati
 Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ possible complications | Notes
 --------------|--------------|----------|---------------|------------------------|---------------
 MRI| Vocal folds | hoarse | - | no ACE2 cells thus no virus replication |
-LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](../coronavirus.md#tissue-tropism-of-sars-cov-2) thus no replication| viral load in sputum due to deposition 
+LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](../1_biological/coronavirus.md#tissue-tropism-of-sars-cov-2) thus no replication| viral load in sputum due to deposition 
 
 
 ## Resources and Readings
@@ -96,10 +96,10 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](..
 
 * ##### Yang
   **Laboratory Diagnosis and Monitoring the Viral Shedding of SARS-CoV-2 Infection**
-  [Summary Yang](./../diagnosis_and_viral_load.md#summary-yang) on the page [diagnosis_and_viral_load.md](../diagnosis_and_viral_load.md)
+  [Summary Yang](./../2_medical/diagnosis_and_viral_load.md#summary-yang) on the page [diagnosis_and_viral_load.md](../2_medical/diagnosis_and_viral_load.md)
 
 * ##### Mazumder
-  [Summarized Review Mazumder](./../diagnosis_and_viral_load.md#summarized-review-mazumder) on the page [diagnosis_and_viral_load.md](../diagnosis_and_viral_load.md)
+  [Summarized Review Mazumder](./../2_medical/diagnosis_and_viral_load.md#summarized-review-mazumder) on the page [diagnosis_and_viral_load.md](../2_medical/diagnosis_and_viral_load.md)
 
 
 * ##### Woelfel
