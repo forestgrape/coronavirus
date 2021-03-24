@@ -107,9 +107,9 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 27.7. [Disease pattering](#infection-tropism-and-disease-patterns)
 - 29.4/3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' 
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
-- 9.4.20 Extended section [Prevent Early On Mucus Accumulations](#early-vents), previously named Early On Ventilators 
+- 9.4.20 Extended section [Prevent Early On Mucus Accumulations](./5_prevention_and_treatment/increasing_the_mucus_flow.md), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
-    - starting with [Early On Ventilators](#early-vents): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
+    - starting with [Early On Ventilators](./5_prevention_and_treatment/increasing_the_mucus_flow.md): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
 - 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](./4_epidemiological/transmission.md##particle-dynamics-in-the-respiratory-tract).
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ triple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as the lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
@@ -211,7 +211,7 @@ Various aspects of coronaviruses are described with a focus on understanding.
 ## Public Suggestions and Tips
 
 [in rework]
-Covid-19 can be serious in the short-term and such serious infections can sometimes damage organs. For less virulent Covid-19, *no* serious long-term effects are known yet, but experiences and research are limited and so whether such effects can occur is *unknown*. Though long-term adverse effects are possible too for other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since completely avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving. 
+Covid-19 can be serious in the short-term and such serious infections can damage organs. For less virulent Covid-19 sometimes longer lasting tiredness or immune system overreaction are observed. For a healthy recovery it is important to have a healthy lifestyle with movement. But experiences and research are still limited and so whether other effects cannot be excluded. Though long-term adverse effects are possible for many things including other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
 
 > Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
 
@@ -229,7 +229,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
     - Plexiglas
 * __Aerosols Transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outside the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
     - being outside, ventilation, distance and less people inside 
-    - masks, preferably with a good fit and [filter](./monitor_and_control.md#mask-types) and changed/cleaned frequently
+    - masks, preferably with a good fit and [filter](./5_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently
     - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
 
     Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
@@ -257,7 +257,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
 
     The mask should be clean/fresh, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
 
-    Masks can be reused if [cleaned](./6_social/controlling.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+    Masks can be reused if [cleaned](./5_prevention_and_treatment/masks.md#mask-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
 * #### Distancing
     Distancing reduces infection risk.
@@ -269,7 +269,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     Keep proper hygiene. Especially wash hands before eating and after toilet. Soap destroys coronaviruses. Hygiene is important because:
     * Transmission pathways of Covid-19 are still unclear. So just avoid them all. 
     * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
-    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](#kikkert)] and therefore can induce an increased infection risk.    
+    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](./3_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.    
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](./4_epidemiological/transmission.md).
 
@@ -285,7 +285,7 @@ The more common Covid-19 in a region is, the more likely it is, that an observed
 * Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
 * The precaution measures against Covid-19 protect against all respiratory diseases, so all respiratory diseases are reduced. Common colds are not common right now. So respiratory symptoms means being careful and even can mean figuring out all the people one could have infected and informing them to watch for symptoms.
 * Every morning first smell and then taste your favorite breakfast drink.  
-* Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](#symptoms). 
+* Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](./2_medical/covid19.md#symptoms). 
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
 
     > It's time [for medicine] to move on from digitalization schemes to the continuous color-space of statistics. There's no hard border for fever at 37.5 or at 38 degrees.
@@ -338,7 +338,7 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 * [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
 * [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
 * [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs)
-* [Early On Prevent Mucus Accumulations](#early-vents)
+* [Early On Prevent Mucus Accumulations](./5_prevention_and_treatment/increasing_the_mucus_flow.md)
 
 
 ## Backtracing Sars-CoV-1/2
