@@ -22,7 +22,7 @@
 
 ## Monitor Evolution
 [in work]
-From time to time full genome samples should be analyzed to monitor the evolution of Sars-CoV-2 and to deduce the international spread (e.g. done by [Hodcroft et al](./spread_analyses.md#summary-hodcroft)). Dense sampling even helps to reconstruct the local spread (e.g. done by [Brueningk et al](./spread_analyses.md#summary-brueningk)).
+From time to time full genome samples should be analyzed to monitor the evolution of Sars-CoV-2 and to deduce the international spread (e.g. done by [Hodcroft et al](4_epidemiological/spread_analyses.md#summary-hodcroft)). Dense sampling even helps to reconstruct the local spread (e.g. done by [Brueningk et al](4_epidemiological/spread_analyses.md#summary-brueningk)).
 
 ## Monitor Prevalence
 To adjust the measures and to communicate these, it is important to estimate and monitor different incidence rates.

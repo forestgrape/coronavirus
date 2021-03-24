@@ -294,7 +294,7 @@ Broncho-alveolar-lavage fluid (BALF). Even though the lower respiratory tract is
 
 ### Challenges regarding Viral Load and Diagnosis
 Often investigations for viral load are biased. Reasons are:
-* Sampling is biased towards symptomatic patients. // Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](./spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and at increased risk for severe disease.
+* Sampling is biased towards symptomatic patients. // Not necessarily bad since symptomatic patients are more infectious ([Section Infectors and Symptoms](4_epidemiological/spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses) and at increased risk for severe disease.
 * Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in saliva is often compared to NPS viral load. Sometimes NPS sampling is assigned a sensitivity of 100%.
 
 

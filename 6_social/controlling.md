@@ -56,11 +56,11 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 The design of measures relies on transmission models. Here it as assumed that the main transmission of Sars-CoV-2 is [airborne](./4_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like as sketched in the following.
 
 Observations:
-Evidence for aerosol transmission is described in [Spread Analyses](./spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./4_epidemiological/transmission.md). In short: The [spread pattern](./spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed.
+Evidence for aerosol transmission is described in [Spread Analyses](4_epidemiological/spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](./4_epidemiological/transmission.md). In short: The [spread pattern](4_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed.
 
 To keep in mind:
 * Dry Air: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](./4_epidemiological/transmission.md). The [viability of coronaviruses](./1_biological/virion_viability.md) is highest in dry and cool air without sunlight.
-* Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](./spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](./spread_analyses.md)). => (Encouraging) Transparency is important.
+* Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](4_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](4_epidemiological/spread_analyses.md)). => (Encouraging) Transparency is important.
 
 Metaphor:
 Airborne transmissions can be thought [smoke like](./4_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough.
@@ -104,7 +104,7 @@ Ventilation reduces the indoor airborne spread, since the virion density in [out
 
 ### Large Buildings
 Large residential block and office buildings special care needs to be taken, since the transmission risk is increased: 
-* Epidemiological evidence: [Living Conditions](./spread_analyses.md#living-conditions) in the chapter [Spread Analyses](./spread_analyses.md)
+* Epidemiological evidence: [Living Conditions](4_epidemiological/spread_analyses.md#living-conditions) in the chapter [Spread Analyses](4_epidemiological/spread_analyses.md)
 * Biological evidence: viruses can survive quite long at lower air temperatures without sunlight such as stairwells (chapter [Virion Viability](./1_biological/virion_viability.md)). 
 
 Suggested precaution measures:
@@ -327,10 +327,10 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 ### Corona Conform Schooling
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
-* Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](./spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
+* Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](4_epidemiological/spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
   > The early-on update ([Updates 16.10](./index.md#Updates)) was too early, I didn't read and lookup the sources carefully enough. 
 * ThinkThrough:
-  * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](./spread_analyses.md#schools-and-children).
+  * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](4_epidemiological/spread_analyses.md#schools-and-children).
   * Biological Background:
     * The SARS-2 receptor ACE2 is not expressed on the vocal folds unlike the influenza A receptor. Therefore aerosol produced when talking are less infectious compared to influenza. 
     * SARS-2 causing severe Covid is mainly spread from the lower lungs but children exhale only rarely particles from the lower lungs and additionally the lungs are rarely infected in children since their immune system is strong. So if children spread then mainly with droplet transmission which can be easily prevented.
@@ -343,7 +343,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * School closures were part of lock/shut-downs in spring 2020 in many countries. Mainly due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
   * In some schools mask wearing is common, negative comments are few
   * Project based and individual learning are common teaching approaches and known to work. 
-* Comment: Children [spread Covid-19](./spread_analyses.md) less since they produce less aerosol and have better immune responses. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even prevented by:
+* Comment: Children [spread Covid-19](4_epidemiological/spread_analyses.md) less since they produce less aerosol and have better immune responses. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even prevented by:
   * Masks when face-to-face talking e.g. in breaks
   * Fewer Exams, Projects can be graded
     * Exams can cause stress. With stress, coronaviruses get forgotten both by the immune system and the behavior.  
