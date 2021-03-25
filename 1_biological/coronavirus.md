@@ -134,7 +134,7 @@ Many forms of life live in symbiotic relations with many other forms of life: ea
 
 
 ### Keeping the Metabolism Immune
-Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](./3_immunological/immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
+Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](../3_immunological/immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
 #### Cell Forming Life Forms
 **[in work]**
@@ -352,7 +352,7 @@ The probability to reach a *next* exploitable host, is especially low, due to ma
 ### Nidovirales
 Coronaviruses belong to the order of Nidovirales. Nidovirales are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. Nido is latin for nest and describes two distinguishing features:  
 * Nidovirales share a gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92]. 
-* Moreover they partly shield their metabolism with nest like structures (double vesicles membrane vesicles [=Lim et al 2016](#lim,liu-2016)) inside the host cell where the new virions are assembled. 
+* Moreover they partly shield their metabolism with nest like structures (double vesicles membrane vesicles [Lim et al 2016](#lim,liu-2016)) inside the host cell where the new virions are assembled. 
 
 ### Coronaviruses
 The membrane is spherical and consists of structural proteins which are coated in a lipid bilayer membrane acquired from the host cell. This membrane is called envelope. 
@@ -528,7 +528,7 @@ Viruses optimized to their environment often infect only cells involved in the s
 * Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract. 
 * Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. For betacoronaviruses these are similar the entry cells i.e. secretory and ciliated cells in the epithelium of the respiratory tract.
 * Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
-    - Those coronaviruses having a [dual host life cycle](1_biological/hypotheses_nidovirales.md): Often cells in the intestine or the kidney. 
+    - Those coronaviruses having a [dual host life cycle](./hypotheses_nidovirales.md): Often cells in the intestine or the kidney. 
     - For indoor living hosts these are often in the upper respiratory tract. 
 * Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis. 
 
@@ -618,7 +618,7 @@ Remark: Mers-Cov has a different cell entry receptor (DPP4). However
 
 This is just a piece of evidence in the overall picture. 
 
-That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent [Disease Pattering](./2_medical/coronavirus_disease_patterns.md).
+That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent [Disease Pattering](../2_medical/coronavirus_disease_patterns.md).
 
 
 

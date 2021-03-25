@@ -88,7 +88,7 @@ The cattle rich regions in the North and North East: Galicia, La Rioja, Basque C
 Similar patterns seem to be in the USA and France. For analysis, ideally the partitioning of population is fine-grained, at most a few 100K people per partition. 
 
 ### Observed Interspecies Jumps
-There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](./1_biological/coronavirus.md#infecting-new-species) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely, but they are not easy to prove [citation coming].
+There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](../1_biological/coronavirus.md#infecting-new-species) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely, but they are not easy to prove [citation coming].
 Examples where they have PCR confirmed:
 * The HECV-4408 coronavirus was isolated from a child having diarrhea in 1994 as described in [Zhang et al](#zhang94)
 Examples of a successful jump from BCoV between humans and bovine:
@@ -97,7 +97,7 @@ Examples of a successful jump from BCoV between humans and bovine:
 
 ## Mechanisms of Crossprotection
 [in rework]
-[local T cells](./3_immunological/immune_system.md#local-t-cell) distributed through the respiratory tract recognize viral infections and induce cell death to prevent viral replication [argumentation 22.10. on todo-list]. 
+[local T cells](../3_immunological/immune_system.md#local-t-cell) distributed through the respiratory tract recognize viral infections and induce cell death to prevent viral replication [argumentation 22.10. on todo-list]. 
 * possibly by recognizing preserved parts of the initially translated ORFs
 * but more likely local T cells recognizing more general anomalies of virus infected cells [in work]
 

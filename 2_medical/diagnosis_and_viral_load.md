@@ -69,7 +69,7 @@ Common locations and fluids the viral load is measured are:
 
 ## Introduction to Diagnosis
 
-A defined in the [Covid-19 chapter](./2_medical/covid19.md) a [disease](./2_medical/covid19.md#disease) is a disordering of the body which can be caused by pathogens. For a virus disease, the cause (the viruses) can be detected directly section [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)). Possible disordering/damage caused (e.g. tissue damage) and possible induced immune responses can be inspected and indicate indirectly a virus infection (section [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)).
+A defined in the [Covid-19 chapter](../2_medical/covid19.md) a [disease](../2_medical/covid19.md#disease) is a disordering of the body which can be caused by pathogens. For a virus disease, the cause (the viruses) can be detected directly section [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)). Possible disordering/damage caused (e.g. tissue damage) and possible induced immune responses can be inspected and indicate indirectly a virus infection (section [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)).
 
 > ###### Diagnosis
 > Diagnosis comes from dia ‘apart’ + gignōskein ‘recognize, know’ (British English Thesaurus). Diagnose an illness is to figure out the causes i.e. determine which disease causes the illness. 
@@ -173,7 +173,7 @@ A viral load can be observed at a specific location for the following reasons:
 
 ### Specimens with Viral Load
 Sampling the surfaces of tissues is usually enough and sampling the tissues itself is not necessary (So for [Specimen Collection](#specimen-collection, swabs or aspirate are enough).
-* __Viral Load on Tissue Surfaces:__ Coronaviruses usually release their virions on the apical side of cells in epithelium tissues ([Orientation Matters](./1_biological/coronavirus.md#cell-orientation)). If the tissue surfaces are not covered by collectable fluids, the surfaces can be washed with an appropriate fluid and collected by aspiration.
+* __Viral Load on Tissue Surfaces:__ Coronaviruses usually release their virions on the apical side of cells in epithelium tissues ([Orientation Matters](../1_biological/coronavirus.md#cell-orientation)). If the tissue surfaces are not covered by collectable fluids, the surfaces can be washed with an appropriate fluid and collected by aspiration.
 * __Viral Load in Body Fluids__
   Fluid specimens can be collected either by [swabs](#swab) or by [aspiration](#aspirate).
   Body fluids can contain viruses since
@@ -361,7 +361,7 @@ Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield differ
 * The validity of saliva and most other specimens can be validated by detecting the RNaseP enzyme (enzyme made from RNA and proteins which degrades extracellular RNA). RNaseP is only contained in correctly taken specimens since: RNaseP is an enzyme which is mostly consisting of RNA and some proteins. RNaseP is released from the cells to extracellular fluids such as mucus, blood or saliva. Its RNA parts can be amplified & detected by PCR.
 * Saliva tests can be tricked by increasing the saliva flow ([Dawes](#summary-dawes)). 
 
-  > One reason more to relax the often overly strict [quarantine and isolation rules](./6_social/controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](./2_medical/covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected. With a positive test, most are likely careful (even without requirements).
+  > One reason more to relax the often overly strict [quarantine and isolation rules](../6_social/controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](../2_medical/covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected. With a positive test, most are likely careful (even without requirements).
 
   To determine useful sampling/cheating an option is: Detection of members of the oral flora, since not only coronaviruses but also most other bacteria and viruses peak after sleep ([Carlson-Jones](#summary-carlson-jones)). RNaseP likely does not help: Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP does not decrease much on an increased flow rate [to check].
   

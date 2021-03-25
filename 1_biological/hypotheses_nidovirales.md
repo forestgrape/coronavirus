@@ -3,7 +3,7 @@
 
 > EXPLORATIVE 
 
-Hypotheses about Nidovirales are discussed. They extend the [page coronaviruses](../1_biological/coronavirus.md#top). 
+Hypotheses about Nidovirales are discussed. They extend the [page coronaviruses](.../1_biological/coronavirus.md#top). 
 
 ## Content 
 * [Content](#content)

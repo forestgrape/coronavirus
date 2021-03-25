@@ -6,16 +6,16 @@ Movement is in the early phase of Covid-19 helps to produce a good immune respon
 
 > **Moderate movement** (e.g. a walk) and **not** intense exercise is generally recommended. Exercise is adequate in some situations but not in others because of risks such as heart muscles inflammations. Since exercise involves movement, some citations are about exercise but often the findings hold for any form of movement.
 
-> In many countries it is not allowed leaving the private ground upon infection. Circumvention: owning/buying a large garden and owning/building a personal fitness studio (importantly with a built in ventilation unless used alone!). Also commented in [Covid19/movement](./2_medical/covid19.md#movement).
+> In many countries it is not allowed leaving the private ground upon infection. Circumvention: owning/buying a large garden and owning/building a personal fitness studio (importantly with a built in ventilation unless used alone!). Also commented in [Covid19/movement](../2_medical/covid19.md#movement).
 
 ## Literature on Movement
 * In his readable interview [Zhu](#zhu) asks precise question to Dr. Woods about the effects of exercising on virus infections and the immune response.
 * [Ali and Kunugi](#ali) describe several adverse consequences of reduced/no movement.
-* Movement and adequate exercise is recommended in many [recommendations regarding rehabilitation](./2_medical/covid19.md#references-rehabilitation). 
+* Movement and adequate exercise is recommended in many [recommendations regarding rehabilitation](../2_medical/covid19.md#references-rehabilitation). 
 * more refs on the way
 
 ## Relevance
-To support good health and Covid prognosis the [measures](./6_social/controlling.md) and the [isolation and quarantine rules](./6_social/controlling.md#covid-19-cases-and-quarantine)) should take the benefits of movement into account.
+To support good health and Covid prognosis the [measures](../6_social/controlling.md) and the [isolation and quarantine rules](../6_social/controlling.md#covid-19-cases-and-quarantine)) should take the benefits of movement into account.
 
 ## Biological Mechanisms
 [simplified, a more detailed argumentation in work]

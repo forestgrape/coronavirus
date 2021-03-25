@@ -55,7 +55,7 @@ As [defined](#immune-system) the immune system task is to keep the metabolism fr
 
 ### Prevent Entry
 Against many pathogens a physical barrier is the most effective line of defence. Where possible this defense mechanism is in place. However where a an exchange of chemical and biological substance is needed no complete physical barrier is possible but other obstacles are in place:
-* alveoli in the lung: exchange of oxygen => the respiratory tract evolved such that most particles don't reach the alveoli, described in [Particle Dynamics in the Respiratory Tract](./4_epidemiological/transmission.md#particle-dynamics-in-the-respiratory-tract).
+* alveoli in the lung: exchange of oxygen => the respiratory tract evolved such that most particles don't reach the alveoli, described in [Particle Dynamics in the Respiratory Tract](../4_epidemiological/transmission.md#particle-dynamics-in-the-respiratory-tract).
 * Intestine in the alimentary => To take up nutrients the intestine needs to  be permeable to chemical and biological substance and the substance also need to reach it. To reduce the amount of pathogens reaching the intestine, the acidic stomach is in front of the alkaline intestine.
 
 
@@ -213,7 +213,7 @@ All form of life on earth share common molecular patterns. The more genetically 
 *  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
     - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
     - NL63 -protects-> 229E (only unidirectional)
-* [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](./1_biological/coronavirus.md#observed-interspecies-infections).
+* [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](../1_biological/coronavirus.md#observed-interspecies-infections).
 
 
 
@@ -259,5 +259,5 @@ Peter Lydyard, Alex Whelan, Michael Fanger
 > - ###### Chemistry
 >   *Chemistry* describes reactions of substances. *Chemical reaction* = changes in the electron arrangement of the outer electron shells.
 > - ###### Biology
->   Molecular biology which is essentially the chemistry of life forms: Reactions and participating substances occurring only in the context of [life forms](./1_biological/coronavirus.md#life-form) on earth. Mostly these are complex organic molecules and their reactions. 'Classical' biology
+>   Molecular biology which is essentially the chemistry of life forms: Reactions and participating substances occurring only in the context of [life forms](../1_biological/coronavirus.md#life-form) on earth. Mostly these are complex organic molecules and their reactions. 'Classical' biology
 

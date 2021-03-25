@@ -305,7 +305,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 ### Evidence for the Dry Form Transmission Model
 
 #### Evidence from Biological Properties
-As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](./1_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
+As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](../1_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
 
     
 #### Evidence from the observed Spread Patterns
