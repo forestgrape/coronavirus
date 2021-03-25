@@ -148,7 +148,7 @@ Movement is import for optimal functioning of the immune system. A good working 
 
 > Movement can be associated with deep breathing which is aerosol generating. Therefore when possibly infected and with people to protect in the same flat, it is important to be in a separate room and ventilate the room even after stretching and light exercise. Regarding aerosol transmission outdoors is still way safer.
 
-> The strict isolation rules were designed with SARS-1 and it's prevalence in mind: a few sporadic and severely sick cases. Additionally a droplet or fomites transmission was assumed, which makes isolation in an indoor room effective.
+> The strict isolation rules were designed with SARS-1 and it's prevalence in mind: a few sporadic and severely sick cases. Additionally a droplet and fomites transmission model was assumed, which makes isolation in an indoor room effective.
 
 > In my opinion, in the case of targeted testing, those living in flats with small living spaces, which already have a greater infection risk, should not have additional constraints possibly hindering a healthy recovery and putting fellow occupants at risk.
 
