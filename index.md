@@ -124,7 +124,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 18.10. Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./4_epidemiological/transmission.md#summary-airborne-transmission)). More on the topic in work. 
 - 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) and testing priorities
 - 15.10. moved [Covid section](./2_medical/covid19.md) to its own page
-- 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md)
+- 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](1_biological/hypotheses_nidovirales.md)
 - 8.-13. 10. Public Advice and Suggestions renamed to [Public/General Suggestions and Thoughts](#public-suggestions-and-thoughts) and adapted
 - 3.8. [Airborne Transmission](./4_epidemiological/transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](./1_biological/coronavirus.md) page
@@ -342,7 +342,7 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 
 ## Backtracing Sars-CoV-1/2
-moved to a chapter on the page [Hypotheses about Nidovirales](./ideas_to_explore/hypotheses_nidovirales.md).
+moved to a chapter on the page [Hypotheses about Nidovirales](1_biological/hypotheses_nidovirales.md).
 
 ## Infection Tropism and Disease Patterns
 moved to separate page [Infection Tropism and Disease Patterns](./2_medical/coronavirus_disease_patterns.md)

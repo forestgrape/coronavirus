@@ -528,7 +528,7 @@ Viruses optimized to their environment often infect only cells involved in the s
 * Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract. 
 * Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. For betacoronaviruses these are similar the entry cells i.e. secretory and ciliated cells in the epithelium of the respiratory tract.
 * Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
-    - Those coronaviruses having a [dual host life cycle](./ideas_to_explore/hypotheses_nidovirales.md): Often cells in the intestine or the kidney. 
+    - Those coronaviruses having a [dual host life cycle](1_biological/hypotheses_nidovirales.md): Often cells in the intestine or the kidney. 
     - For indoor living hosts these are often in the upper respiratory tract. 
 * Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis. 
 
