@@ -13,7 +13,7 @@
 ## Notes on Reading
 * New content is announced in [Updates](#updates). 
 * A [Table of Content](#content) is provided. The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
-* This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus]()
+* This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](https://forestgrape.github.io/coronavirus)
 
 * > ###### Definitions
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
