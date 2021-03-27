@@ -1,4 +1,5 @@
 cites.md
-.ipynb_checkpoints
-.old/*
-.new/*
+.*
+_site/*
+Gemfile
+Gemfile.lock
