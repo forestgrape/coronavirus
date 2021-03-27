@@ -26,11 +26,3 @@ adapted from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_siden
     padding: 0px 10px;
 }
 
-@media screen and (max-height: 450px) {
-    .nav-toc {
-        padding-top: 15px;
-    }
-    .nav-toc a {
-        font-size: 18px;
-    }
-}
