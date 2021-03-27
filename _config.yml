@@ -1,19 +1,9 @@
 theme: jekyll-theme-cayman
 
-
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-include:
-  - coronavirus.md
-  - covid19.md
-  - immune_system.md
-  - index.md
-  - monitor_and_control.md
-  - transmission.md
-  - economics.md
-  - spread_analyses.md
 
 
