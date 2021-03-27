@@ -11,6 +11,7 @@
 </head>
 
 <body>
+
   <section class="page-header">
     <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
     <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
@@ -22,9 +23,16 @@
     <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
     {% endif %}
   </section>
-  <section class="</section>
+  
   <section class="main-content">
+    <section>Home</section>
+    <section class="nav-toc">
+      <p>Content</p>
+    </section>
+
+    <section class="nav-content">
     {{ content }}
+  </section>
 
     <footer class="site-footer">
       {% if site.github.is_project_page %}
@@ -35,6 +43,28 @@
           Pages</a>.</span>
     </footer>
   </section>
+
+  {% unless site.no_tocnav %}  
+      <!--tocnav-->
+      <link rel="stylesheet" href="../tocnav/tocstyle.css">
+      <link rel="stylesheet" href="../tocnav/toc_placement.css">
+      <script src="../tocnav/tocbot.js"></script>
+      <script>
+          tocbot.init({
+              // Where to render the table of contents.
+              tocSelector: '.nav-toc',
+              // Where to grab the headings to build the table of contents.
+              contentSelector: '.nav-content',
+              // Which headings to grab inside of the contentSelector element.
+              headingSelector: 'h1, h2, h3',
+              // For headings inside relative or absolute positioned containers within content.
+              hasInnerContainers: true,
+  
+          });
+      </script>
+      <!--/tocnav-->
+
+  {% endunless %}
 
   {% if site.google_analytics %}
   <script>

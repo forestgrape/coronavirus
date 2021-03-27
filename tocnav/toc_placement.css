@@ -1,0 +1,40 @@
+/*
+adapted from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sidenav_fixed2
+*/
+
+.nav-toc {
+    height: 100%;
+    /* Full-height: remove this if you want "auto" height */
+    width: 160px;
+    /* Set the width of the sidebar */
+    position: fixed;
+    /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1;
+    /* Stay on top */
+    top: 0;
+    /* Stay at the top */
+    left: 0;
+    background-color: #159957;
+    background-image: linear-gradient(220deg, #155799, #159957);
+    overflow-x: hidden;
+    /* Disable horizontal scroll */
+    overflow-y: hidden;
+    padding-top: 20px;
+}
+
+.nav-content {
+    margin-left: 140px;
+    /* Same width as the sidebar + left position in px */
+    font-size: 28px;
+    /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+    .nav-toc {
+        padding-top: 15px;
+    }
+    .nav-toc a {
+        font-size: 18px;
+    }
+}
