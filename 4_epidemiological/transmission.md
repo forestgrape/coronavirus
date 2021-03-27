@@ -99,7 +99,7 @@ The larger droplets keep their name and are called droplets:
 ### Summary Airborne Transmission
 Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls while aerosols mostly move with the air. Tiny and dry particles always go with the air. 
 
-Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and on masks in [Protection Measures](./monitor_and_control.md). [citations in work  ]
+Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and [masks](../5_prevention_and_treatment/masks.md). [citations in work  ]
 
 Model    | Metaphor   | Actions | Source/Deposition | Situations/Clima|   Prevent              
 ---------|------------|------------------|-----------------|------|---

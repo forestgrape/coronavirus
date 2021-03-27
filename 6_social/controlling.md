@@ -1,5 +1,5 @@
 
-# Thoughts on Monitor and Controlling Sars-CoV-2
+# Thoughts on Controlling Sars-CoV-2
 This section extends and   [Public Advices and Suggestions](./index.md#public-advice) section. 
 
 * [Strategy](#strategy)
@@ -88,7 +88,7 @@ There are many more reasons good health - including an intact immune system - is
 
 ### Masks
 Mask reduce spread since they mitigate both the infection and spread risk. Masks should be changed frequently but can be reused.
-To prevent droplet transmission outdoors or in very well ventilated situations any mask helps. To prevent aerosol transmission indoors a good filtration and clean mask is necessary. The filtration of most surgical masks is ok. FFP masks or analog have good to very good filters. A good and dense fit is important, especially for masks with a high filtration. More on the page [Masks](./masks.md).
+To prevent droplet transmission outdoors or in very well ventilated situations any mask helps. To prevent aerosol transmission indoors a good filtration and clean mask is necessary. The filtration of most surgical masks is ok. FFP masks or analog have good to very good filters. A good and dense fit is important, especially for masks with a high filtration. More on the page [Masks](../5_prevention_and_treatment/masks.md).
 
 
 ### Ventilation
@@ -147,7 +147,7 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 
 #### Suggestions for Infected
 as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
-* [High-filtration mask](./masks.md#high-filtration) in all indoor spaces/rooms where people to protect are. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
+* [High-filtration mask](../5_prevention_and_treatment/masks.md#high-filtration) in all indoor spaces/rooms where people to protect are. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
 * No crowded places (outdoors and indoors)
 * Distance: 2 meters outdoors and 4 meters indoors.
 * No close range face-to-face talking

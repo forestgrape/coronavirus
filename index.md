@@ -46,7 +46,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees, especially at air humidities around 40%. In dry air or high but not very high humidity the decay is slower.
     * Above 45 degrees the decay fastens (doubling about every 2 degrees) due to the spring-loaded proteins (spikes and sometimes N) loosing their structure and thereby the stored energy.
 
-- 17.2. [Masks](./masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./masks#personal-mask-preferences)
+- 17.2. [Masks](./5_prevention_and_treatment/masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./5_prevention_and_treatment/masks.md#personal-mask-preferences)
 - 13.2. How Coronaviruses overcome Immune System obstacles moved to separate page [Immune Evasion](./3_immunological/immune_evasion.md).
 - 11.2. Corrected mistakes (T Cell Training) on the [Immune System page](./3_immunological/immune_system.md) and added/completed section how SARS-2 overcomes antibodies.
 - 2.2. How [Movement](./2_medical/covid19.md#movement) helps to produce a good immune response and helps recovering from Covid on the [Covid-19 page](./2_medical/covid19.md).
