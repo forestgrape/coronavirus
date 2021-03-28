@@ -17,7 +17,7 @@
 
   
   <nav class="side-nav">
-    <div id="hide-nav" style="font-size: .8rem; padding-left: 1rem;">&#10006</div>
+    <div id="hide-nav" style="font-size: .8rem; padding-left: 1rem;" onclick="navHide">&#10006</div>
     <hr>
     <a class="toc-list" href="/index.html#content" style="color:white;padding-bottom:1em">Go to Root Index</a>
     <hr>
@@ -29,10 +29,10 @@
 
 
   <section class="main-content">
-
+  
     <header>
       <h1>{{ site.title | default: site.github.repository_name }}</h1>
-      {% if site.github.is_project_page %}
+      {% if page.home %}
       <p class="project-tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
