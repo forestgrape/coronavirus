@@ -9,6 +9,10 @@
     .main-content{ margin-left: calc(9% + 9rem)};
 }
 
+@media (min-width: 800px) and (min-height: 400px){
+    .side-nav {overflow-y: hidden;}
+}
+
 .side-nav {
     height: 100%;
     /* Full-height: remove this if you want "auto" height */
