@@ -2,16 +2,26 @@
 <html lang="{{ site.lang | default: " en-US" }}">
 
 <head>
+
   <meta charset="UTF-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="../styles/styles.css">
 </head>
 
 <body>
 
-  <nav class="nav-bar">
-    <a class="toc-list" href="../index.html#content">Content Overview</a>
+  
+  <nav class="side-nav">
+    <div id="hide-nav" style="font-size: .8rem; padding-left: 1rem;">&#10006</div>
+    <hr>
+    <a class="toc-list" href="/index.html#content" style="color:white;padding-bottom:1em">Go to Root Index</a>
+    <hr>
+    <p class="toc-list" style="font-size: 0.6em;">Current Page and its content:</p>
     <section class="nav-toc">
     </section>
   </nav>
@@ -20,9 +30,8 @@
 
   <section class="main-content">
 
-    <header style="background-color: rgb(31, 185, 44);">
+    <header>
       <h1>{{ site.title | default: site.github.repository_name }}</h1>
-
       {% if site.github.is_project_page %}
       <p class="project-tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -44,10 +53,15 @@
     </footer>
   </section>
 
+
+
+
+  
   {% unless page.no_tocnav %}
-  <link rel="stylesheet" href="../styles/tocstyle.css">
-  <link rel="stylesheet" href="../styles/toc_placement.css">
+  <link rel="stylesheet" href="../navbar/pos.css">
+  <link rel="stylesheet" href="../navbar/tocstyle.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
+  <script src="../navbar/navbar_toggle.js"></script>
   <script>
     tocbot.init({
       // Where to render the table of contents.

@@ -1,0 +1,25 @@
+.side-nav { display: none;}
+.main-content {
+    padding: 0px 10px;
+    margin-left: 0%;
+}
+
+@media screen and (min-width: 600px) {
+    .side-nav {display: block;}
+    .main-content{ margin-left: calc(10% + 7rem)};
+}
+
+.side-nav {
+    height: 100%;
+    /* Full-height: remove this if you want "auto" height */
+    position: fixed;
+    width: calc(10% + 7rem);
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(90deg, #155799, #159957);
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding-top: 20px;
+}
+
