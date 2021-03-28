@@ -22,14 +22,10 @@
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
   * [Comments on Spread Analysis](#comments-on-spread-analysis)
-  * [Summary Madewell](#summary-madewell)
-  * [Summary Adam,Wu](#summary-adamwu)
-  * [Summary Ehrhardt,Brockmann](#summary-ehrhardtbrockmann)
-  * [Summary Vlachos,Svaleryd](#summary-vlachossvaleryd)
-  * [Summary Stein-Zamir](#summary-stein-zamir)
-  * [Summary Dattner](#summary-dattner)
-  * [Summary Perez-Lopez](#summary-perez-lopez)
-  * [Summary Rader,Scarpino](#summary-raderscarpino)
+  * [References Household Transmissions](#references-household-transmissions)
+  * [References General Spread Patterns](#references-general-spread-patterns)
+  * [References Covid Spread Children and Schools](#references-covid-spread-children-and-schools)
+  * [References Living Conditions](#references-living-conditions)
 * [References](#references)
   * [Epidemiological Patterns](#epidemiological-patterns)
 * [Appendix](#appendix)
@@ -268,16 +264,16 @@ References without a summary are in the section [References](#references). Copy 
 ### Comments on Spread Analysis
 * only when Covid prevalence is very low, infected household members directly indicate secondary attack rate [Comments at [Summary Madewell](#summary-madewell)]
 
-
-### Summary Madewell
+### References Household Transmissions
+#### Summary Madewell
 **Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate**
 Zachary J. Madewell, Yang Yang, Ira M. Longini Jr, M. Elizabeth Halloran, Natalie E. Dean
 medRxiv preprint doi: [https://doi.org/10.1101/2020.07.29.20164590](), posted August 1, 2020.
-#### Methods
+##### Methods
 Meta-Analysis of studies regarding the transmission dynamics of Covid-19 in household settings. Many different kind of studies are included: * Covid diagnosis based on RT-PCR, whole-genome sequencing, nucleic acid tests, antibody tests and some studies included symptoms. 
 * The influence of the different factors (contact type, symptom status, adult/child contacts, contact sex, relationship to index case, index case sex, number of contacts in household, coronavirus) is analyzed.
 
-#### Findings
+##### Findings
 Secondary Attach Rates with different groups as **infectors**. The error rate is in brackets. 
 * household: 0.19 (0.4); family including non household contacts: 0.18 (0.5)
 * symptomatic: 0.2 (0.6); pre- or asymptomatic: 0.07 (0.04)
@@ -294,18 +290,17 @@ Comparison with SARS-1 or MERS:
 * MERS: 0.035 (0.035)
 
 
-> #### Comment
+> ##### Comment
 > Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for different household members are likely and thus inferring the secondary attack rate from the prevalence in household members overestimates the secondary attack rate. 
 
 
-
-
-### Summary Adam,Wu
+### References General Spread Patterns
+#### Summary Adam,Wu
 **Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
 Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs.3.rs-29548/v1]()
-#### Methods
+##### Methods
 "Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection."
-#### Results
+##### Results
 * Distribution of Infectivity:
   * 20% of the cases induced 80% of infections
   * 10% of the cases induced 20% of infections
@@ -317,18 +312,32 @@ Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs
   * Government quarantine yielded no further infections (Fig.2)
 * "Of all cases confirmed in Hong Kong, 195 (18.8%, 195/1,038) were asymptomatic at confirmation (Supplementary Table 2) and, of these, most (83.1%, 162/195) were PCR-confirmed from 27 March onward" (Extended Data Fig.2)
 * Infections caused by pre-symptomatic infectors were rarely observed: "Seven instances of likely pre-symptomatic transmission were observed where onset of the infectee preceded that of the infector or occurred on the same day."
-#### Limitations
+##### Limitations
 "These findings take advantage of the quality of case ascertainment and contact tracing data in Hong Kong, although some incompleteness in links between cases could potentially bias our estimates of transmission heterogeneity."
 
 
-### Summary Ehrhardt,Brockmann
+#### Summary Hodcroft
+**Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
+Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
+medRxiv preprint doi: https://doi.org/10.1101/2020.10.25.20219063
+##### Methods
+[in work]
+The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
+##### Findings
+[in work]
+* "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
+* "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
+
+### References Covid Spread Children and Schools
+
+#### Summary Ehrhardt,Brockmann
 **Transmission of SARS-CoV-2 in children aged 0 to 19 years in childcare facilities and schools after their reopening in May 2020**
 Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wagner-Wiening C , Eichner M , Brockmann SO . , Baden-Württemberg, Germany. Euro Surveill. 2020;25(36):pii=2001587. [https://doi.org/10.2807/1560-7917.ES.2020.25.36.2001587]()
-#### Methods
+##### Methods
 "We investigated data from severe acute respira- tory syndrome coronavirus 2 (SARS-CoV-2) infected 0–19year olds, who attended schools/childcare facili- ties, to assess their role in SARS-CoV-2 transmission after these establishments’ reopening in May 2020 in Baden-Württemberg, Germany."
-#### School Setting
+##### School Setting
 50% Group Size: Yes, Cleaning of Surface: Yes, Regular Ventilation: Yes, Hygiene: Yes, Face Mask in Break: Some, Face Mask in Classroom: No, Physical Distancing: Some, No Singing: Most, Physical Education: No
-#### Results
+##### Results
 * Infection by pupils
   1. Total of 557 Covid-19 cases in the age group 0-19 year out of a total of 3104 cases in Badenwuertenberg in the study period (19.5-25.7)
   2. For 453 School attendance information was available
@@ -338,57 +347,57 @@ Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wag
 * only 15 (3%) of 453 infected children (with school attendance known) were infected in schools (the 11 above from other pupils and 4 by teachers). Most infections occurred in families or festivals/events (Table 2).
 
 
-### Summary Vlachos,Svaleryd
+#### Summary Vlachos,Svaleryd
 **School closures and SARS-CoV-2. Evidence from Sweden’s partial school closure**
 Jonas Vlachos, Edvin Hertegard, Helena Svaleryd
-#### Methods
+##### Methods
 Remark: Working Paper
 * "Swedish upper secondary schools moved to online instruction while lower secondary school remained open. This allows for a comparison of parents and teachers differently exposed to open and closed schools, but otherwise facing similar conditions."
 * the incidence rates were adjusted using logistic regression for wage, sex, occupation, educational attainment, income, regions of residence and of origin. OLS was used too. 
-#### Results
+##### Results
 * Comparison of Covid-19 incidences between parents with children in schools and homeschooling:
   * unadjusted the Covid incidence were near the same 5.67 versus 5.66 (Table 2)
   * adjusted the risk for parents with children in school was about 15% [OR 1.15; CI95 1.03–1.27] higher if adjusted with logistic regression(Table 1)
 * "Among lower secondary teachers the infection rate doubled relative to upper secondary teachers [OR 2.01; CI95 1.52–2.67]. This spilled over to the partners of lower secondary teachers who had a higher infection rate than their upper secondary counterparts [OR 1.30; CI95 1.00–1.68]."
-> #### Comment
-> It is not clear that the observed slightly increased Covid incidence of parents/teachers of lower secondary school children results from transmission from the children, it could also be attributed to parents visiting the school and a following transmission between adults. 
+> ##### Comment
+> It is not clear that the observed slightly increased Covid incidence of parents/teachers of lower secondary school children results from transmission from the children, it could also be attributed to parents visiting the schools and a transmission between adults. 
 
 
-### Summary Stein-Zamir
+#### Summary Stein-Zamir
 **A large COVID-19 outbreak in a high school 10 days after schools’ reopening, Israel, May 2020.**
 Stein-Zamir Chen , Abramson Nitza , Shoob Hanna , Libal Erez , Bitan Menachem , Cardash Tanya , Cayam Refael , Miskin Ian .  Euro Surveill. 2020;25(29):pii=2001352. https://doi.org/10.2807/1560-7917.ES.2020.25.29.2001352
-#### Methods
+##### Methods
 Analyzing a large high school out break in Israel shortly after schools have been reopened. 
-#### School Setting
+##### School Setting
 * From 13 March to 17 May Schools in Israel were closed (limited opening for small children on 3 May)
 * A heat wave with temperatures up to 40 degree from 19–21 May: 
   * "air-conditioning functioned continuously in all classes."
   * no face-masks
 * "crowded classes: 35–38 students per class, class area 39–49 m2, allowing 1.1–1.3 m2 per student"
-#### Results
+##### Results
 * "Testing of the complete school community revealed 153 students (attack rate: 13.2%) and 25 staff members (attack rate: 16.6%) who were COVID-19 positive."
 * "COVID-19 rates were higher in junior grades (7–9) than in high grades (10–12) (Figure 1). The peak rates were observed in the 9th grade (20 cases in one class and 13 cases in two other classes) and the 7th grade (14 cases in one class). Of the cases in teachers, four taught all these four classes, two taught three of the four classes and one taught two of these four classes."
 * "Most student cases presented with mild symptoms or were asymptomatic."
 
 
-### Summary Dattner
+#### Summary Dattner
 **The role of children in the spread of COVID-19: Using household data from Bnei Brak, Israel, to estimate the relative susceptibility and infectivity of children**
-#### Methods
+##### Methods
 * "Data were collected from households in the city of Bnei Brak (City close to Tel Aviv), Israel, in which all household members were tested for COVID-19 using PCR."
 * The authors developed a model (discrete stochastic dynamic model) for the propagation of Covid within a household. With this model infectivity and susceptibility for children and adults can be estimated. 
-#### Findings
+##### Findings
 * 44% of adults and 25% of children infected
 * infection risk increases with age (except children below 1 year compared to children between 1 and 4)
 * For children the susceptibility was 45% [40%, 55%] and the infectivity 85% [65%, 110%] in comparison to adults. 
 
 
-### Summary Perez-Lopez
+#### Summary Perez-Lopez
 **Dramatic decrease of laboratory‐ confirmed influenza A after school closure in response to COVID‐19**
 Perez‐Lopez A, Hasan M, Iqbal M, Janahi M, Roscoe D, Tang P.; Pediatric Pulmonology. 2020;1–2. [https://doi.org/10.1002/ppul.24933]()
-#### Methods
+##### Methods
 * "A proactive school closure was the first social distancing measure implemented by the State of Qatar on 10 March."
 * "Table 1 shows a comparison of the molecular detection of respiratory viruses other than SARS‐CoV‐2 on nasopharyngeal swabs from our PED per 1000 emergency visits before school closure, between 13 February and 14 March, assuming a maximum incubation period for influenza of 4 days, and after school closure, between 15 March and 11 April."
-#### Results
+##### Results
 Virus tested| open schools|closed schools| RR (95% CI)
 ------------|-------------|-------------|-------------------
 Total tests | 75.1 (69.1‐81.6) | 64.1 (60.3‐77.6) | 0.9 (0.7‐1)
@@ -403,16 +412,16 @@ Parainfluenza | 3.1 (2‐4.6)| 3.6 (2.1‐6.4) | 1.2 (0.6‐2.3)
 
 ---
    
-
-### Summary Rader,Scarpino
+### References Living Conditions
+#### Summary Rader,Scarpino
 **Crowding and the shape of COVID-19 epidemics**
 Rader, B., Scarpino, S.V., Nande, A. et al.
 Nat Med (2020). [https://doi.org/10.1038/s41591-020-1104-0]()
 
-#### Goal
+##### Goal
 Figure out the effect of population densities (crowding), mobility, humidity on the overall and the temporal distribution of Covid-19 incidences. 
 
-#### Methods
+##### Methods
 The incidence rates of Covid was analysed in China and Italy.
 Their work consists of two parts: 
 1. A spread analysis, using various statistical methods.
@@ -421,37 +430,19 @@ Their work consists of two parts:
      * To measure how peaky the incidence curves are, Shannon entropy is calculated. 
 2. The spread is simulated. The simulation is done for different population models [to check].
 
-#### 1. Analysis Results
+##### 1. Analysis Results
 * lower density = sparse (rural areas): 
   * more peaked incidence rates, most of the infections are within 20 days (Figure 1a)
   * lower cumulative incidence (final attack rate)
 * high density = crowded (large cities): 
   * less peaked incidence rates, most of the cases are within 40 days (Figure 1a)
   * higher cumulative incidence rates
-#### 2. Simulation Results
+##### 2. Simulation Results
 * lower density = sparse: 
   * intervention measures cause the incidence curve to flatten out and moderately reduce total case count (Figure 3 c and d)
 * high density = crowded: 
   * intervention measures are crucial since without interventions prolonged spread with high numbers of infected is predicted (Figure 3 c and d)
 
-
-
-## References
-References with a summary are in the section [Summarized References](#summarized-references)
-
-#### Lee,Raszka
-Lee B and Raszka WV. 
-**COVID-19 Transmission and Children: The Child Is Not to Blame.**
-Pediatrics. 2020;146(2):e2020004879 [https://doi.org/10.1542/peds.2020-004879]()
-
-#### Choi
-Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). 
-**In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases**, 26(11), 2713-2716. 
-https://dx.doi.org/10.3201/eid2611.203254.
-
-#### Freedman
-Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
-https://doi.org/10.1093/jtm/taaa178                                                                                                            
 
 #### Lundkvist
 Åke Lundkvist, Stefan Hanson & Björn Olsen (2020) 
@@ -461,6 +452,7 @@ Infection Ecology & Epidemiology, 10:1, DOI: 10.1080/20008686.2020.1806505
 "The prevalence of COVID-19 antibodies on June 17–18, 2020 was investigated in two residential areas of Stockholm, Sweden."
 ##### Results
 In Norra Djurgårdsstaden, modern residential blocks in the upper price class, 4.1% of study participants had SARS-CoV-2-specific antibodies. In Tensta a suburb with low cost apartments in large residential blocks (built in the 60s and 70s), 30% of the participants tested antibody positive.
+
 
 
 #### Summary Brueningk
@@ -489,6 +481,24 @@ People belonging to the thirds with the smallest living space per person have th
 * "We found that blocks with a higher median income (2% achieved significance), or higher living space per person (1% achieved significance), or lower share of 1-person households (2% achieved significance) had a significantly lower Ref f (< 1.7) relative to the maximum Ref f observed in the relevant partition."
 * "Serology information was used to estimate the fraction of unreported cases as follows: An estimated 1.88% (38/2,019) of the Basel-City population was infected with SARS-CoV-2. Of these 60% would be attributed to the B.1-C15324T strain, leading to a percentage of 88% of unreported/unsequenced cases to consider."
 
+## References
+References with a summary are in the section [Summarized References](#summarized-references)
+
+#### Lee,Raszka
+Lee B and Raszka WV. 
+**COVID-19 Transmission and Children: The Child Is Not to Blame.**
+Pediatrics. 2020;146(2):e2020004879 [https://doi.org/10.1542/peds.2020-004879]()
+
+#### Choi
+Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). 
+**In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases**, 26(11), 2713-2716. 
+https://dx.doi.org/10.3201/eid2611.203254.
+
+#### Freedman
+Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
+https://doi.org/10.1093/jtm/taaa178                                                                                                            
+
+
 #### Summary Dalziel
 [in work]
 **Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities**
@@ -502,20 +512,6 @@ Science 362 (6410), 75-79. [https://doi.org/10.1126/science.aat6030]()
 * "Cities with higher mean intensity tend to be located in the east, have smaller population sizes, and have higher-amplitude seasonal fluctuations in specific humidity." (Fig 1 D-F)
 * "Increasing base transmission potential can decrease epidemic intensity in a seasonally forced compartmental epidemic model." (Fig 2)
 * Population size and crowding increase the base transmission potential. (Fig 3 F,G)
-
-
-#### Summary Hodcroft
-**Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
-Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
-medRxiv preprint doi: https://doi.org/10.1101/2020.10.25.20219063
-##### Methods
-[in work]
-The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
-##### Findings
-[in work]
-* "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
-* "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
-
 
 
 ### Epidemiological Patterns
