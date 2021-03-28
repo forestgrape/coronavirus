@@ -1,9 +1,9 @@
 ---
-title: Start of Betacoronavirus
+title: Home of Betacoronavirus
 ---
 
 
-# Thoughts and Ideas about Betacoronaviruses and Covid-19
+# Home of Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Notes
 * Many parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
