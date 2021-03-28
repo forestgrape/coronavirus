@@ -1,4 +1,8 @@
- 
+---
+title: Start of Betacoronavirus
+---
+
+
 # Thoughts and Ideas about Betacoronaviruses and Covid-19
 
 ## Notes
