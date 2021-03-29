@@ -3,7 +3,7 @@
 
 > EXPLORATIVE 
 
-Hypotheses about Nidovirales are discussed. They extend the [page coronaviruses](../1_biological/coronavirus.md#top). 
+Hypotheses about Nidovirales are discussed. They extend the [page coronaviruses](../2_biological/coronavirus.md#top). 
 
 ## Content 
 * [Content](#content)
@@ -80,7 +80,7 @@ Many references that base and inspire this findings, are [summarized](./hypothes
     - MERS is genetically quite close to SARS-CoVs, indicating the natural hosts of SARS-like are quite close natural hosts of MERS both genetically and in lifestyle. 
 4. Insects play a role in the natural habitat and life cycle namely they close the cycle from feces to oral uptake by the mammalian hosts. Three possibilities:
     * The natural life cycle of SARS-like virus entities is alternating between mammals and insects i.e. a dual host life cycle. In this scenario it is even possible that insects are the hosts where the main virus evolution takes place (more likely) 
-      * SARS-like have some well preserved genetic sequence, which is only found in insects and insect viruses [Summary Tengs,Jonassen](1_biological/hypotheses_nidovirales.md#summary-tengs,jonassen)
+      * SARS-like have some well preserved genetic sequence, which is only found in insects and insect viruses [Summary Tengs,Jonassen](2_biological/hypotheses_nidovirales.md#summary-tengs,jonassen)
     * Insect act as mechanical vectors and transport the viruses but no replication takes place (less likely) [Summary Watson 2002](ideas_to_explore/hypotheses_nidovirales.md#summary-watson-2002)
     * Insect are the main hosts of SARS-like and mammals are side-hosts.
 

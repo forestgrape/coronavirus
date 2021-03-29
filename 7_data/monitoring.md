@@ -22,7 +22,7 @@
 
 ## Monitor Evolution
 [in work]
-From time to time full genome samples should be analyzed to monitor the evolution of Sars-CoV-2 and to deduce the international spread (e.g. done by [Hodcroft et al](../4_epidemiological/spread_analyses.md#summary-hodcroft)). Dense sampling even helps to reconstruct the local spread (e.g. done by [Brueningk et al](../4_epidemiological/spread_analyses.md#summary-brueningk)).
+From time to time full genome samples should be analyzed to monitor the evolution of Sars-CoV-2 and to deduce the international spread (e.g. done by [Hodcroft et al](../5_epidemiological/spread_analyses.md#summary-hodcroft)). Dense sampling even helps to reconstruct the local spread (e.g. done by [Brueningk et al](../5_epidemiological/spread_analyses.md#summary-brueningk)).
 
 ## Monitor Prevalence
 To adjust the measures and to communicate these, it is important to estimate and monitor different incidence rates.
@@ -56,10 +56,10 @@ If the estimation method didn't change the current actual infected can be estima
 
 
 ### On Estimates Out of Bounds
-A correction factor greater than 2 needs a redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](../6_social/controlling.md#strategy) and [On Numbers](#on-numbers)). How much worrying depends whether, when and how effective the measures have been adapted since. 
+A correction factor greater than 2 needs a redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](../7_social/controlling.md#strategy) and [On Numbers](#on-numbers)). How much worrying depends whether, when and how effective the measures have been adapted since. 
 Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/control/reduction can be necessary.
 
-1. Pausing infections especially everything super-spreading opportunities for a few days until testing and estimates are available. Do [outdoor days](../6_social/controlling.md#outdoor-days) and possibly some restrictions on indoor rooms: 
+1. Pausing infections especially everything super-spreading opportunities for a few days until testing and estimates are available. Do [outdoor days](../7_social/controlling.md#outdoor-days) and possibly some restrictions on indoor rooms: 
   * closure of non essential businesses
   * for somewhat essential businesses e.g. longer distance public transport: names can be recorded and people need to hand in some argumentation in the next weeks why it was essential to enter. This causes few immediate work/tumults but likely discourages most from unnecessarily entering. 
   * whitelist approach if doable e.g. negative test/no fever required
@@ -72,7 +72,7 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 
 ### What to Monitor
 1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
-    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](../6_social/controlling.md#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](../6_social/controlling.md#covid-19-cases-and-quarantine))
+    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](../7_social/controlling.md#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine))
 2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
 3. Other respiratory diseases: influenza and common colds should be monitored too:
   * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
@@ -113,7 +113,7 @@ Testing some for low and high incidence. Reasons are noted or already mentioned 
 ## On Numbers
 [in work]
 Assumptions: 
-* fatality rate of .25% i.e. 1 in 400 (The [death rate](../2_medical/covid19.md#fatality-rate) depends on many factors and varies considerably); 
+* fatality rate of .25% i.e. 1 in 400 (The [death rate](../3_medical/covid19.md#fatality-rate) depends on many factors and varies considerably); 
 * average disease duration 10 days; 
  
 Notations and Equivalences:
@@ -125,7 +125,7 @@ Notations and Equivalences:
 ### Numbers and Comments
 [in work and to be checked]
 * The **numbers vary** across regions and hospitals capacities, population structure and how the infections are distributed across the population. 
-* The **[fatality rate](../2_medical/covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). 
+* The **[fatality rate](../3_medical/covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). 
 * The case counts are the **actual infected** and not only the positive tested. 
 * The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
 [in work]

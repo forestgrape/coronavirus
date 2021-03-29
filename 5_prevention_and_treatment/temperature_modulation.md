@@ -53,7 +53,7 @@ Respiratory viruses have a two phase life-cycle. A virion phase and a metabolic 
 > In the following betacoronaviruses are considered but the argumentation holds for many respiratory viruses.
 
 #### Virion Phase
-In the virion phase coronaviruses are very delicate due to the spring loaded energy in their spike and nucleocapsid proteins. Varios environment changes including temperatures above 45 degrees induce structure loss in the spring loaded proteins ([Virion Viability Page](../1_biological/virion_viability.md)). 
+In the virion phase coronaviruses are very delicate due to the spring loaded energy in their spike and nucleocapsid proteins. Varios environment changes including temperatures above 45 degrees induce structure loss in the spring loaded proteins ([Virion Viability Page](../2_biological/virion_viability.md)). 
 
 ### Enhancing the Immune Response
 [in work]

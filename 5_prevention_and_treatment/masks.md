@@ -19,7 +19,7 @@
   * frequent changing/cleaning the masks is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
   * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
 * After coughing or sneezing into mask changing is needed (one should *not cough into a mask* but cough into the hand/handkerchief and downwards, then the hand should be washed or disinfected; moreover with heavy cough and without a negative Covid test, ideally one is out of public spaces). After speaking a lot into a mask, changing is appropriate. Especially for [low and mid filter models](#filter-performance).
-* Some mask have a big air resistance combined with a loose fit, in that case the air can bypasses the mask. There's still protection against droplets, but the bypassed air contains [aerosol](../4_epidemiological/transmission.md#aerosol). They are like wearable plexiglas. 
+* Some mask have a big air resistance combined with a loose fit, in that case the air can bypasses the mask. There's still protection against droplets, but the bypassed air contains [aerosol](../5_epidemiological/transmission.md#aerosol). They are like wearable plexiglas. 
 
 
 ## Mask Effectiveness
@@ -47,7 +47,7 @@ Mask can be classified either by
 
 ### Filter Performance
 The filtration performance specifies how much and which particles are filtered out of the air at some fixed airflows and pressures. 
-There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms, in the US N95/P95 (e.g. Wikipedia page on FFP standards). High filtration is the safe option in situations with [aerosol transmission](../4_epidemiological/transmission.md#summary-airborne-transmission). 
+There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms, in the US N95/P95 (e.g. Wikipedia page on FFP standards). High filtration is the safe option in situations with [aerosol transmission](../5_epidemiological/transmission.md#summary-airborne-transmission). 
 
 
 * #### Very High Filtration
@@ -70,7 +70,7 @@ There are various standards to classify mask by their filtration quality: E.g. i
   ##### Surgical Masks
 
 * #### Low-Intermediate Filtration 
-  Textile mask often have low filter performance. They prevent the [droplet exchange](../4_epidemiological/transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not prevent the spread of aerosols, which is important in indoor rooms if possibly infected. Indoors where aerosol transmission is likely low filtration masks shouldn't be used to protect others. 
+  Textile mask often have low filter performance. They prevent the [droplet exchange](../5_epidemiological/transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not prevent the spread of aerosols, which is important in indoor rooms if possibly infected. Indoors where aerosol transmission is likely low filtration masks shouldn't be used to protect others. 
 
 ### Usage Classes
 * #### Dust Protection Masks
@@ -82,7 +82,7 @@ There are various standards to classify mask by their filtration quality: E.g. i
   * ##### Medical protections masks 
     _Medical protections masks_ are constructed to protect medical staff against pathogens from infected patients. These masks are usually in a high [filtration category](#filter-performance) such as FFP2 and offer good protection for all pathogens including viruses.
 * #### Textile Masks
-  _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. A model with fitting comfort and style is usually available. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](../4_epidemiological/transmission.md#summary-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
+  _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. A model with fitting comfort and style is usually available. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](../5_epidemiological/transmission.md#summary-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
 
 
 ## Mask Cleaning

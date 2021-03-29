@@ -134,7 +134,7 @@ Many forms of life live in symbiotic relations with many other forms of life: ea
 
 
 ### Keeping the Metabolism Immune
-Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](../3_immunological/immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
+Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](../4_immunological/immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
 #### Cell Forming Life Forms
 **[in work]**
@@ -618,7 +618,7 @@ Remark: Mers-Cov has a different cell entry receptor (DPP4). However
 
 This is just a piece of evidence in the overall picture. 
 
-That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent [Disease Pattering](../2_medical/coronavirus_disease_patterns.md).
+That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent [Disease Pattering](../3_medical/coronavirus_disease_patterns.md).
 
 
 
