@@ -203,7 +203,7 @@ Coronaviruses have a two phase life cycle:
 > ###### Virion
 > A *virion* is the 'birth-form' of a virus. The genome and proteins required to infect a cell are usually packed into some form of protective shell. A virion has no active metabolism.
 
-Viruses while outdoors of cells are present always as virions. Virions are passively moved around. Most virions decay but some get matched to an infectable cell. Once activated, virions can [infect cells](#infected-cell) and transform to the [metabolic phase](#metabolic-phase).
+Viruses while outside of cells are present always as virions. Virions are passively moved around. Most virions decay but some get matched to an infectable cell. Once activated, virions can [infect cells](#infected-cell) and transform to the [metabolic phase](#metabolic-phase).
 
 > Virions are [similar to seeds of plants](#plant-seeds-to-virions): They are dormant and wait for activation. Virions don't have a metabolism running. They evolved to induce infection on the right circumstances. Once activated/primed cell fusion is initiated by using spring loaded energy stored in the structure of special proteins.
 
@@ -279,7 +279,7 @@ All forms of life on earth are water based. Both protein and RNA/DNA synthesis o
     - Water in lakes and rivers: These waters serve as an intermediate place for many virions. 
     - Fluid in an organism: Virions of viruses infecting multicellular life first start out in the fluids of the hosts and in many cases never leave the host fluids. 
     - Water droplets can be dissolved in air. 
-    - Air. Air contains reactive oxygen and most virions will be destroyed, since they expose activator proteins on the outdoor. Coronavirus virions are a rare exception staying infectious in dry form. 
+    - Air is challenging to use for viruses due to dilution and activation factors such as sunlight, washed out by rain ... 
 * __Material attached to__: These can be any solid material e.g. a part of living organism or any kind of non living matter. The movement of virions follows the movement of the materials attached to. These particles are in turn dissolved in fluids, mostly water, or attached to other particles. 
 
 
@@ -587,7 +587,7 @@ There are two common methods to measure tissue distribution of proteins:
 
 ##### Caveats of ACE2 Detection
 [in work, verification needed]
-For serving as an entry point, ACE2 needs to be built into the cell membrane as a receptor i.e. being useable from the outdoor. If _both_ of above methods are positive, this is very likely [antibody staining is likely enough, to check]. Since coronaviruses have a preference for [apical tissue sites](#tissue-tropism) ACE2 should be expressed on the apical sites. 
+For serving as an entry point, ACE2 needs to be built into the cell membrane as a receptor i.e. being useable from the outside. If _both_ of above methods are positive, this is very likely [antibody staining is likely enough, to check]. Since coronaviruses have a preference for [apical tissue sites](#tissue-tropism) ACE2 should be expressed on the apical sites. 
 * [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
 * [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
     - stay in the cell e.g. in the cytoplasm or move into the nucleus
