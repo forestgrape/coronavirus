@@ -35,14 +35,15 @@ All updates regarding the current Covid Situation here.
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
-- 24.3. Regrouping [content](#content) into (currently) 7 topics both as files on github and content on github pages:
-    1. Biological Topics
-    2. Medical Topics
-    3. Immunological Topics
-    4. Epidemiological Topics
-    5. Prevention and Treatment
-    6. Social Topics
-    7. Data Topics
+- 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages:
+    1. Introduction
+    2. Biological Topics
+    3. Medical Topics
+    4. Immunological Topics
+    5. Epidemiological Topics
+    6. Prevention and Treatment
+    7. Social Topics
+    8. Data Topics
 - 23.3. [Temperature and Humidity Modulation](5_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
 - 23.3. Proposal of [Local Treatments of the Respiratory Tract](5_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
 - 23.3. Clarified summary for [Virion Viability](1_biological/virion_viability.md). [A table with compiled data](./1_biological/virion_viability/viability_data.md) from viability experiments is online. 
@@ -154,12 +155,12 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 ## Content
 [**partly out of date, new sections are found in [updates](#updates)**]
 
-### 0 Introduction
+### 1 Introduction
 * [Updates](#updates)
 * [Public Suggestions and Tips](#public-suggestions-and-tips)
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 
-### 1 Biological Topics
+### 2 Biological Topics
 * [Coronaviruses with a Focus on Sars-CoV-2](./1_biological/coronavirus.md#top)
 Various aspects of coronaviruses are described with a focus on understanding. 
     - The starting point are first principles: life forms on earth. 
@@ -175,18 +176,18 @@ Various aspects of coronaviruses are described with a focus on understanding.
 - [Backtracing Sars-CoV-1/2](./1_biological/hypotheses_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
     The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
 
-### 2 Medical Topics
+### 3 Medical Topics
 * [Covid-19](2_medical/covid19.md)
     The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
 * [Diagnosis and Viral Load](2_medical/diagnosis_and_viral_load.md) How to diagnose Covid with a focus on methods detecting parts of viruses (virus RNA with PCR or virus proteins with antigen test) at different locations (e.g. in the nose, mouth, lungs).
 - [Infection Tropism and Disease Patterns](./2_medical/coronavirus_disease_patterns.md) (*explorative*)
 
-### 3 Immunological Topics
+### 4 Immunological Topics
 * [Immune System](3_immunological/immune_system.md)
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 * [Immune Evasion](3_immunological/immune_evasion.md) How coronaviruses circumvent immune system obstacles.
 
-### 4 Epidemiological Topics 
+### 5 Epidemiological Topics 
 * [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./4_epidemiological/transmission.md)
     Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible.
     - A summary of airborne transmission, 
@@ -197,17 +198,17 @@ Various aspects of coronaviruses are described with a focus on understanding.
 - [Spread Analyses](4_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs) (*explorative section*)
 
-### 5 Treatment and Prevention
+### 6 Treatment and Prevention
 * [Movement](5_prevention_and_treatment/movement.md) How movement helps to get a better immune reaction upon a Covid infection and to recover faster and better.
 - [Topical Treatments of the Respiratory Tract](5_prevention_and_treatment/topical_treatment.md) to prevent and cure respiratory infections including Covid. Coronaviruses (and other respiratory viruses) live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
   - [Temperature and Humidity Modulation](5_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
   - [Increase the mucus Flow by humidified air](./5_prevention_and_treatment/increasing_the_mucus_flow.md): Humidify inhaled air early on to increase the mucus flow and wash the virions out. The goal is a reduce viral load and better prognosis. (explorative)
 
-### 6 Social Topics
+### 7 Social Topics
 * [Thoughts about Controlling Sars-CoV-2](6_social/controlling.md)
     Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
 
-### 7 Data Topics
+### 8 Data Topics
 * [Monitoring](7_data/monitoring.md)
     About testing, monitoring, gathering and publishing data.
 
