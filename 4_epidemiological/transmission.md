@@ -103,7 +103,7 @@ Key aspects of the airborne transmission in table form; for details on Actions a
 
 Model    | Metaphor   | Actions | Source/Deposition | Situations/Clima|   Prevent              
 ---------|------------|------------------|-----------------|------|---
-[droplet](#droplet)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
+[droplets](#droplets)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
 [aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**
 [proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation e.g. no indoor sport
 
@@ -230,7 +230,7 @@ Usually many simplifications of [relevant factors](#particles-deposition) both f
 A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-CoV-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
-* [Droplets](#droplet)
+* [Droplets](#droplets)
 * [Aerosols](#aerosol)
 
 this new model is added:
