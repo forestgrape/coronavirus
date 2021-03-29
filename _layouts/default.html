@@ -15,11 +15,13 @@
 
 <body>
 
-  
+
   <nav class="side-nav">
-    <div id="hide-nav" style="font-size: .8rem; padding-left: 1rem;" onclick="navHide">&#10006</div>
+    <div class="toc-list" style="font-size: .8rem; cursor:pointer" onclick="hideNav()">&#10006</div>
     <hr>
-    <a class="toc-list" href="/index.html#content" style="color:white;padding-bottom:1em">Go to Root Index</a>
+    <a class="toc-list" href="/index.html#top" style="color:white">Home</a>
+    <hr>
+    <a class="toc-list" href="/index.html#content" style="color:white">Root Content</a>
     <hr>
     <p class="toc-list" style="font-size: 0.6em;">Current Page and its content:</p>
     <section class="nav-toc">
@@ -27,23 +29,30 @@
   </nav>
 
 
-
   <section class="main-content">
-  
-    <header>
-      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+    <!--on this page: header and footer are only visible when on top respectively bottom-->
+
+    <div id="menu-button" style="font-size:2.5rem;cursor:pointer"
+      onmouseover="document.getElementById('menu-button').innerHTML = '&#9776'"
+      onmouseout="document.getElementById('menu-button').innerHTML = '&nbsp&nbsp&nbsp';" onclick="showNav()">
+      &nbsp&nbsp&nbsp
+    </div>
+
+    <header style="text-align: center;">
+      <h1 class="project-name" style="color: azure;">{{ site.title | default: site.github.repository_name }}</h1>
       {% if page.home %}
-      <p class="project-tagline">{{ site.description | default: site.github.project_tagline }}</p>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
       <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
     </header>
+
 
     <section class="nav-content">
       {{ content }}
     </section>
 
 
-    <footer class="site-footer">
+    <footer class="site-footer" style="text-align: center;">
       {% if site.github.is_project_page %}
       <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
         is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
@@ -56,7 +65,7 @@
 
 
 
-  
+
   {% unless page.no_tocnav %}
   <link rel="stylesheet" href="../navbar/pos.css">
   <link rel="stylesheet" href="../navbar/tocstyle.css">
@@ -69,7 +78,7 @@
       // Where to grab the headings to build the table of contents.
       contentSelector: '.nav-content',
       // Which headings to grab inside of the contentSelector element.
-      headingSelector: 'h1, h2, h3',
+      headingSelector: 'h1, h2, h3,h4',
       // For headings inside relative or absolute positioned containers within content.
       hasInnerContainers: true,
       headingsOffset: 20,

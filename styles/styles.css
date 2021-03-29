@@ -1,7 +1,12 @@
 
 header {
-  background-image: linear-gradient(120deg, #1557996b, #15995757);
-  color:rgb(23, 70, 70);
+  background-image: linear-gradient(240deg, #155799dc, #159957dc);
+  
+}
+
+header > * {
+  align-content: center;
+  color:azure;
 }
 
 html {
