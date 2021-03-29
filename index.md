@@ -34,6 +34,7 @@ home: true
 All updates regarding the current Covid Situation here. 
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
+- 29.3. Navigation Bar added.
 - 24.3. Regrouping [content](#content) into (currently) 7 topics both as files on github and content on github pages:
     1. Biological Topics
     2. Medical Topics
