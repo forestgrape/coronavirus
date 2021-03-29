@@ -2,7 +2,7 @@ title: Betacoronavirus
 description: Thoughts, ideas and facts about betacoronaviruses, Covid and surroundings topics such as the immune system and life forms.
 
 
-theme: jekyll-theme-cayman
+theme: null
 
 plugins:
   - jekyll-relative-links
