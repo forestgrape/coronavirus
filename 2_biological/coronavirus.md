@@ -178,7 +178,7 @@ For many questions, organisms are considered as a whole and not the single cells
 * That it encodes and produces proteins distinguishes viruses from [viroids](#viroid).
 * That a virus cannot produces all the required enzymes distinguishes them from more self contained forms of life.
 
-Viruses integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](#cell-forming-life) [to check] and the metabolisms is inside the cells, viruses need to be within cells to replicate.
+Viruses integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](#cell-forming-life-forms) [to check] and the metabolisms is inside the cells, viruses need to be within cells to replicate.
 
 > ###### Infected Cell
 > A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism.
