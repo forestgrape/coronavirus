@@ -342,9 +342,9 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 
 ## Ideas to Explore
-* Backtracing Sars-CoV-1/2: moved to a chapter on the page [Hypotheses about Nidovirales](2_biological/hypotheses_nidovirales.md).
-* Infection Tropism and Disease Patterns: moved to separate page [Infection Tropism and Disease Patterns](./3_medical/coronavirus_disease_patterns.md)
-* [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs]: moved to separate page [Bovine Farming and Covid](5_epidemiological/reduce_covid_bovine_farming.md)
+* Backtracing Sars-CoV-1/2: on the page [Hypotheses about Nidovirales](2_biological/hypotheses_nidovirales.md).
+* [Infection Tropism and Disease Patterns](./3_medical/coronavirus_disease_patterns.md)
+* [Bovine Farming and Covid](5_epidemiological/reduce_covid_bovine_farming.md)
 * [Early On Prevent Mucus Accumulations](./6_prevention_and_treatment/increasing_the_mucus_flow.md)
 
 
