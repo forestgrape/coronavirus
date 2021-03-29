@@ -183,6 +183,9 @@ Viruses integrate enzymes produced by other forms of life into their metabolism.
 > ###### Infected Cell
 > A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism.
 
+> ###### Infected Object
+> An object is *infected* if it contains [infected cells](#infected-cell). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.
+
 These can mean that the virus is replicating inside the cell. A cell is also called infected if only some viral genes are translated and the resulting enzymes are active and thus influence the cells metabolism. To specify, cells in which replication takes place are called host cells.
 
 > ###### Host Cell
@@ -194,7 +197,7 @@ Most cells don't live forever. In multicellular organisms most cells live fare s
 
 ### Life Cycle
 Coronaviruses have a two phase life cycle:
-1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: [passive travel](#virion-travel), wait to be [activated](#virion-attachment-and-activation) by matched with an [infectable cell](#infectable-cell) in the right environment. Once activated virions try to enter the cell.
+1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: [passive travel](#virion-travel), wait to be [activated](#virion-activation) by matched with an [infectable cell](#infectable-cell) in the right environment. Once activated virions try to enter the cell.
 2. Metabolic phase: Once inside a cell, a virus uses the cells metabolism to produce proteins and other substances using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell. As for all forms of life the ultimate goal is to produce progeny = new virions.
 
 > ###### Virion
@@ -209,18 +212,19 @@ Once a virus infects cells, it changes metabolism of the cell.
 
 
 
-
-
 > ###### Virus Infection
 > An object is called *infected* by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an [organism](#organism).
 
 So an organism is infected if it has some [cells that are infected](#infected-cell).
 
 > ###### Infectable Cell
-> A *infectable cell* is a cell which can be infected. There are [constraints on a cell](#cell-tropism) to be infectable.
+> A *infectable cell* is a cell which can be [infected](#infected-cell). There are [constraints on a cell](#cell-tropism) to be infectable.
 
 > ###### Infectable Object
-> An object is *infectable* if it can become [infected](#infected-object). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.
+> An object is *infectable* if can become [infected](#infected-object). Necessary conditions are (1) [infectable cells](#infectable-cell) and this cell must also be reachable. An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.
+
+> ##### Infectable Organism
+> An *infectable organism* is an [infectable object](#infectable-object) where the object is an organism.
 
 There are [constraints on a object to be infectable](#tropism-of-viruses). A necessary condition for an object to become infected is the availability of [infectable cells](#infectable-cell). However this condition is not sufficient, reachability, priming factors and immune evasion are other conditions needed.
 
