@@ -97,7 +97,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     * Sections about observed spreading events in food production factories and airplanes.
 - 1.11. [Strategy](./7_social/controlling.md#strategy) and [On Numbers](./8_data/monitoring.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago.
-- 28.10. (only summaries available) Early results from [Spread Analyses](5_epidemiological/spread_analyses.md) show that the Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./5_epidemiological/transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outside with some distance is safe.
+- 28.10. (only summaries available) Early results from [Spread Analyses](5_epidemiological/spread_analyses.md) show that the Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./5_epidemiological/transmission.md#summary-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outdoors with some distance is safe.
     > During the summer droplet transmission seemed most important, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in October 2020 combined with extensive droplet preventions in place questioned the dominance of droplet transmission. Reconsideration and a detailed look show: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude:
     * Air-conditioning: Brazil, Middle East and Southern US (in California noteworthy is the difference between hot Los Angeles and temperate San Francisco)
     * High altitudes which means cold nights and increased breathing: La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
@@ -137,7 +137,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](./2_biological/coronavirus.md) page
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
 - 12.6. sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
-- 12.5. added note that [outside is safer](./monitor_and_control.md#outside-is-safer)
+- 12.5. added note that [outdoors is safer](./monitor_and_control.md#outdoors-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md)
 - 28.4. Short note to support public health in the data section
@@ -158,7 +158,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 ### Introduction
 * [Updates](#updates)
 * [Public Suggestions and Tips](#public-suggestions-and-tips)
-    Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
+    Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 
 ### Biological Topics
 * [Coronaviruses with a Focus on Sars-CoV-2](./2_biological/coronavirus.md#top)
@@ -234,8 +234,8 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
     - Distance
     - Side-a-side instead of face-to-face
     - Plexiglas
-* __Aerosols Transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outside the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
-    - being outside, ventilation, distance and less people inside 
+* __Aerosols Transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outdoors, the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
+    - being outdoors, ventilation, distance and less people inside 
     - masks, preferably with a good fit and [filter](./6_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently
     - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
 
@@ -249,8 +249,8 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
 
 In brief: Think ahead. To reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
 
-* #### Outside
-    [Outside is safe, if some distance is kept](./7_social/controlling.md#outside-is-safer). Ideally, walk or cycle directly from home. Outside most infection occur when close range face-to-face talking. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
+* #### outdoor
+    [outdoors with some distance is safe](./7_social/controlling.md#outdoor-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 * #### Ventilate
     [Ventilation](./7_social/controlling.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
@@ -259,7 +259,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
 
 * #### Masks
     Wear a [mask](./7_social/controlling.md#masks) 
-    - Outdoor and indoor: for close range face-to-face contact/talking. 
+    - outdoors and indoors: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
     The mask should be clean/fresh, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
