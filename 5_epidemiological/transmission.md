@@ -187,7 +187,7 @@ The physiology of the airways is evolved that particles are absorbed and cleared
   
 
 #### Factors Influencing Clearance
-* Well flowing mucus (see [factors increasing the mucus flow](./index.md#factors-influencing-the-mucus-flow))
+* Well flowing mucus (see [factors increasing the mucus flow](../6_prevention_and_treatment/increasing_the_mucus_flow.md#factors-influencing-the-mucus-flow))
 * The earlier deposited the better is the mucus clearance
 * Particle properties such as material (bad clearance for insoluble in the deep lungs), form, size
 
