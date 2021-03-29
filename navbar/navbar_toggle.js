@@ -1,11 +1,24 @@
-function navHide(){
+function hideNav(){
+    //hide side-nav
     const navs = document.getElementsByClassName('side-nav')
     navs[0].style.display = "none"
-
-    const main = document.getElementsByClassName('main-content')
-    main[0].setAttribute("style","margin-left:0%")
+    //expand main-content
+    const mains = document.getElementsByClassName('main-content')
+    mains[0].setAttribute("style","margin-left:0%")
+    //display menu
+    const menubutton = document.getElementById('menu-button')
+    menubutton.style.display = "block"
 }
 
-function navShow(){
-    //in work
+function showNav(){
+    //console.log('show')
+    const navs = document.getElementsByClassName('side-nav')
+    navs[0].style.display = "block"
+    //shrink main-content
+    const mains = document.getElementsByClassName('main-content')
+    //in this order : 9% + 9rem!!
+    mains[0].setAttribute("style",'margin-left:calc(9% + 9rem)')
+    //hide menu
+    const menubutton = document.getElementById('menu-button')
+    menubutton.style.display = "none"
 }
