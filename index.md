@@ -155,12 +155,12 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 ## Content
 [**partly out of date, new sections are found in [updates](#updates)**]
 
-### 1 Introduction
+### Introduction
 * [Updates](#updates)
 * [Public Suggestions and Tips](#public-suggestions-and-tips)
     Keep distance and hygiene. Then outside is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 
-### 2 Biological Topics
+### Biological Topics
 * [Coronaviruses with a Focus on Sars-CoV-2](./2_biological/coronavirus.md#top)
 Various aspects of coronaviruses are described with a focus on understanding. 
     - The starting point are first principles: life forms on earth. 
@@ -176,18 +176,18 @@ Various aspects of coronaviruses are described with a focus on understanding.
 - [Backtracing Sars-CoV-1/2](./2_biological/hypotheses_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
     The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
 
-### 3 Medical Topics
+### Medical Topics
 * [Covid-19](3_medical/covid19.md)
     The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
 * [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md) How to diagnose Covid with a focus on methods detecting parts of viruses (virus RNA with PCR or virus proteins with antigen test) at different locations (e.g. in the nose, mouth, lungs).
 - [Infection Tropism and Disease Patterns](./3_medical/coronavirus_disease_patterns.md) (*explorative*)
 
-### 4 Immunological Topics
+### Immunological Topics
 * [Immune System](4_immunological/immune_system.md)
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 * [Immune Evasion](4_immunological/immune_evasion.md) How coronaviruses circumvent immune system obstacles.
 
-### 5 Epidemiological Topics 
+### Epidemiological Topics 
 * [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./5_epidemiological/transmission.md)
     Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible.
     - A summary of airborne transmission, 
@@ -198,17 +198,17 @@ Various aspects of coronaviruses are described with a focus on understanding.
 - [Spread Analyses](5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs) (*explorative section*)
 
-### 6 Treatment and Prevention
-* [Movement](6_prevention_and_treatment/movement.md) How movement helps to get a better immune reaction upon a Covid infection and to recover faster and better.
+### Treatment and Prevention
+- [Movement](6_prevention_and_treatment/movement.md) How movement helps to get a better immune reaction upon a Covid infection and to recover faster and better.
 - [Topical Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to prevent and cure respiratory infections including Covid. Coronaviruses (and other respiratory viruses) live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
   - [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
   - [Increase the mucus Flow by humidified air](./6_prevention_and_treatment/increasing_the_mucus_flow.md): Humidify inhaled air early on to increase the mucus flow and wash the virions out. The goal is a reduce viral load and better prognosis. (explorative)
 
-### 7 Social Topics
+### Social Topics
 * [Thoughts about Controlling Sars-CoV-2](7_social/controlling.md)
     Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
 
-### 8 Data Topics
+### Data Topics
 * [Monitoring](8_data/monitoring.md)
     About testing, monitoring, gathering and publishing data.
 
@@ -341,24 +341,11 @@ and avoid anything that weakens the immune system:
 Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
-# Ideas to Explore
-* [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
-* [Infection Tropism and Disease Patterns](#infection-tropism-and-disease-patterns)
-* [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs)
+## Ideas to Explore
+* Backtracing Sars-CoV-1/2: moved to a chapter on the page [Hypotheses about Nidovirales](2_biological/hypotheses_nidovirales.md).
+* Infection Tropism and Disease Patterns: moved to separate page [Infection Tropism and Disease Patterns](./3_medical/coronavirus_disease_patterns.md)
+* [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs]: moved to separate page [Bovine Farming and Covid](5_epidemiological/reduce_covid_bovine_farming.md)
 * [Early On Prevent Mucus Accumulations](./6_prevention_and_treatment/increasing_the_mucus_flow.md)
-
-
-## Backtracing Sars-CoV-1/2
-moved to a chapter on the page [Hypotheses about Nidovirales](2_biological/hypotheses_nidovirales.md).
-
-## Infection Tropism and Disease Patterns
-moved to separate page [Infection Tropism and Disease Patterns](./3_medical/coronavirus_disease_patterns.md)
-
-## Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
-[Mostly written in April 2020, partly outdated]
-moved to separate page [Bovine Farming and Covid](5_epidemiological/reduce_covid_bovine_farming.md)
-
-    
 
 
 ## References
