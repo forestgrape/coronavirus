@@ -135,7 +135,7 @@ The page the following main chapters
 * [in work]
 * Risk assessment
   * The long survival of virions in cool environments without sunlight indicates a transmission risk in stairwell or garages/parkings of large buildings ([Precaution measures in Large Buildings](../7_social/controlling.md#large-buildings)). 
-  * The fast inactivation in sunlight is one reason [outside is safer](../7_social/controlling.md#outside-is-safer), especially on sunny days.
+  * The fast inactivation in sunlight is one reason [outdoors is safer](../7_social/controlling.md#outdoors-is-safer), especially on sunny days.
 
 
 <!--
@@ -356,7 +356,7 @@ Required Factor: UV Light
 
 ### Protein Decay
 Coronaviruses have the proteins N = nucleocapsid protein, M = membrane protein, E = envelope protein and S = spike protein (some e.g. bovine coronaviruses additionally HE protein). 
-* The spike proteins (and HE for coronaviruses where it is present) is most susceptible to loosing function since 1) the spikes point out from the envelope and thus is well accessible and exposed to substances on the outside. 2) The spikes are not in an energy minimized conformation since since they are spring loaded to initiate cell fusion (prefusion state). The tension makes them delicate and without metabolism once released the spike can't go back to the spring loaded state.
+* The spike proteins (and HE for coronaviruses where it is present) is most susceptible to loosing function since 1) the spikes point out from the envelope and thus is well accessible and exposed to substances. 2) The spikes are not in an energy minimized conformation since since they are spring loaded to initiate cell fusion (prefusion state). The tension makes them delicate and without metabolism once released the spike can't go back to the spring loaded state.
 * The N protein is not energy minimized thus at increased temperatures self decay occurs [to check and cite].
 * The M and E protein are generally more stable than the S protein, so if any of the proteins looses function, it is most likely the S protein [to check and cite].
 
@@ -377,7 +377,7 @@ The N protein is conformation is not very stable at high temperatures and underg
 
 #### Proteins E,M Decay
 * The E an M proteins are more stable regarding self decay than the spikes and the N protein. 
-* Regarding biochemicals, the spikes are more exposed to the outside, so the spikes loose functionality first [to confirm and cite].
+* Regarding biochemicals, the spikes are most exposed, so the spikes usually loose functionality first [to  cite].
 
 
 ### Lipid Envelope Decay
