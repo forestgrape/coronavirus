@@ -22,13 +22,13 @@ To support good health and Covid prognosis the [measures](../7_social/controllin
 In the __early phase__ of Covid, movement is important since the circulation in the lymphatic system is mostly passive and driven by body movement. With movement the immune response is better and faster since coronavirus infection 'signatures' reach the lymph nodes faster where capable immune cells are trained. Some of these cells migrate to protect other body location such as the lungs; extern movement makes them migrate faster. With healthy movement, for infections starting in the upper respiratory tract, protective immune cells (mainly T cells) are likely to reach the lungs before the viruses have time to replicate to high numbers.
 In the __convalescent phase__ movement is important since 
 1. Movement helps clearing the lymph and thus remnants of SARS-2 (antigens which can cause inflammation) are removed.
-2. Movement or even careful sport keep the immune system in check and prevent it from overshooting which is likely a major reason for [long covid](./../3_medical/covid19.md#long-term-adverse-effects).
+2. Movement or even careful sport keep the immune system in check and prevent it from overshooting which is likely a major reason for [long covid](./../3_medical/covid19.md#long-lasting-effects).
 
 
 ## Epidemiological Evidence
 There is epidemiological evidence supporting the above argumentation:
 * Countless athletes have caught Covid infections. Despite their fitness is thoroughly supervised and regularly competitively evaluated so that even a slight performance decrease is noticed - to my knowledge - no long term effects have been observed. Besides having a good health, adequate training likely helped to overcome Covid. 
-* In situations with strict stay-at-home orders the fatality rate (fatality rates in different locations shown in Table 4 in [Ioannidis](#ioannidis) including rates for those younger than 70) and the rates of severe cases are higher than in situations without stay-at-home orders (isolation rules can be mostly ignored, especially in spring 2020 since the case detection rates were below 5 %). [more precise analyses on todo]
+* In situations with strict stay-at-home orders the fatality rate (fatality rates in different locations shown in Table 4 in [Ioannidis](../3_medical/covid19.md#ioannidis) including rates for those younger than 70) and the rates of severe cases are higher than in situations without stay-at-home orders (isolation rules can be mostly ignored, especially in spring 2020 since the case detection rates were below 5 %). [more precise analyses on todo]
 * Important risk factors for severe Covid are well correlated with with few movements/sports e.g. obesity, arteriosclerosis and diabetes. Since behavior patters are often stable, it is possible that too few movement/sports is to some extent a confounding cause for the mentioned risk factors.
 
 
