@@ -406,9 +406,9 @@ Once released from a cell virions are moved (see [movement-of-virions](#movement
 A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination. 
 
 The infectable cell can be:
-* in the same host| another host 
-* in the same tissue| another tissue
-* of the same cell type| another cell type
+* in the same host or in another host 
+* in the same tissue or in another tissue
+* of the same cell type or of another cell type
 
 #### Virion Activation
 
