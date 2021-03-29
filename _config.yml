@@ -11,5 +11,6 @@ relative_links:
   collections: true
 
 
-url: "https://forestgrape.github.io/coronavirus"
+baseurl: "/coronavirus"
+url: "https://forestgrape.github.io"
 

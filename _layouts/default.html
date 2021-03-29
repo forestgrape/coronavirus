@@ -8,8 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
-  <link rel="stylesheet" href="{{site.url}}/styles/cayman-style.css">
-  <link rel="stylesheet" href="{{site.url}}/styles/styles.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/styles/cayman-style.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/styles/styles.css">
   
 </head>
 
@@ -19,9 +19,9 @@
   <nav class="side-nav">
     <div class="toc-list" style="font-size: .8rem; cursor:pointer" onclick="hideNav()">&#10006</div>
     <hr>
-    <a class="toc-list" href="{{site.url}}/index.html#top" style="color:white">Home</a>
+    <a class="toc-list" href="{{site.baseurl}}/index.html#top" style="color:white">Home</a>
     <hr>
-    <a class="toc-list" href="{{site.url}}/index.html#content" style="color:white">Root Content</a>
+    <a class="toc-list" href="{{site.baseurl}}/index.html#content" style="color:white">Root Content</a>
     <hr>
     <p class="toc-list" style="font-size: 0.6em;">Current Page and its content:</p>
     <section class="nav-toc">
@@ -67,10 +67,10 @@
 
 
   {% unless page.no_tocnav %}
-  <link rel="stylesheet" href="{{site.url}}/navbar/pos.css">
-  <link rel="stylesheet" href="{{site.url}}/navbar/tocstyle.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/navbar/pos.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/navbar/tocstyle.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.2/tocbot.min.js"></script>
-  <script src="{{site.url}}/navbar/navbar_toggle.js"></script>
+  <script src="{{site.baseurl}}/navbar/navbar_toggle.js"></script>
   <script>
     tocbot.init({
       // Where to render the table of contents.
