@@ -54,7 +54,7 @@ Observations showing that the transmission of severe Covid correlates to situati
 Situations with an **increased** spread:
 * [Geographical Analysis](#geographical-analysis): Covid-19 waves across the world are predated by uncomfortable climate conditions:
   * Cold temperatures below 15 degrees during the day and below 10 degrees at night => indoor heating
-  * Hot outside temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). 
+  * Hot outdoor air temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). 
 * [Large Scale Sporting Events](#large-scale-sporting-events) In sports clubs where spectators are/were allowed to the stadiums, the players have a much higher risks to get infected with Covid-19 than in regions without spectators. Moreover Covid-19 incidence rates seem to be higher in areas with large scale sport events (especially indoor). 
 * [Airplanes](#airplanes): High spread rates observed without adequate prevention measures (mask, ventilation). 
 * [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world.
@@ -79,7 +79,7 @@ The susceptibility and infectiousness are correlated and depend on factors such 
 [in work]
 
 ### Climate and Covid-19 Spread
-Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air:  Covid-19 waves across the world are predated by situations which favour time spent indoors and bad ventilation. Such situations are cold outside climate (Northern countries in Winter, high altitude), hot outside climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Arizona in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
+Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air:  Covid-19 waves across the world are predated by situations which favour time spent indoors and bad ventilation. Such situations are harsh climate (low temperature, Northern countries in Winter, high altitude), tropical climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Arizona in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
 
 
 <!--
@@ -198,7 +198,7 @@ It will be interesting to investigate the prevalence of Covid-19 in the spectato
 * Netherlands: up to 15 - 35% until 1.10. 
 * Switzerland:up to 2/3 of capacity [to check] allowed between 1.10.20 and 28.10.20 both for ice hockey (indoor) and football. All fans needed to wear a mask (of any type) but were allowed to drink (including alcoholic beverages).
 * Ukraine: allowed in mid October (exact dates to be checked)
-* Belgium: up to 400 outdoor and 200 indoor allowed from 23.9. to 23.10.
+* Belgium: up to 400 outdoors and 200 indoors allowed from 23.9. to 23.10.
 * Russia: still several thousand fans seem to be allowed in football [as indicated by stadium counts on 4.11.]
 * Turkey: several hundred fans seem to be allowed in football [as indicated by stadium counts on 4.11.] [to check]
 * UK: After a 4 week lockdown which ended on 2nd December 2020 until 5.1.2021 ([Appendix UK Sport Data](#data-uk-sport-events)):
