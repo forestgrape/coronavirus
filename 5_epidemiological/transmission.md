@@ -104,15 +104,15 @@ Key aspects of the airborne transmission in table form; for details on Actions a
 Model    | Metaphor   | Actions | Source/Deposition | Situations/Clima|   Prevent              
 ---------|------------|------------------|-----------------|------|---
 [droplets](#droplets)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**
-[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation e.g. no indoor sport
+[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
+[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
 
 
 #### Comments
 * In warm climates rooms can be ventilated well, so the aerosol spread can be prevented. Careless use of air-conditioning enables aerosol spread. 
 * Aerosol and dry form spread increases with the amount of indoor air exchanged. Especially when deep/heavy breathing.
 * The air humidity is relevant for droplet aerosol since the droplets can grow and shrink. Growing/shrinking change the osmotic pressure on the virions. Enveloped virions can get destroyed upon the pressure change. 
-* The absolute humidity in heated indoor rooms is lower, the lower the outside temperature is. 
+* The absolute humidity in heated indoor rooms is lower, the lower the outdoors temperature is. 
 * The dry form model is proposed here.
 
 
@@ -334,7 +334,7 @@ move to spread analyses
 	- Hospitals in Nothern Italy [LE](#le)
 
 * SARS-CoV-1:
-    - Hotel in Hong Kong, especially during cooler outside temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in close by rooms and not to the personal.
+    - Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in close by rooms and not to the personal.
 
 
 * SARS 1 & 2: 
@@ -347,7 +347,7 @@ move to spread analyses
 * Mers-Cov:
   Most superspreading events were observed in winter and often in hospitals [dudas2017](#dudas2017). 
 
-* The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outside temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 
+* The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outdoor air temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 
 
 * The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS has been infecting humans for some decades which was discovered by analyzing backup samples [to confirm and cite])
 
@@ -363,9 +363,11 @@ move to spread analyses
 ## Metaphor and Measures 
 Avoiding the droplet spread is like avoiding somebody’s reek of alcohol, avoiding aerosols/dry particulates on the other hand corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse around.
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close that the cloths start smelling. 
-Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. Outside no worry for Sars-CoV-2 however, it is diluted and sun light destroys virions. 
+Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. 
 
-This yields either avoiding 'Sars-CoV-2 smoke' entirely or filtering out  particulates above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but often several virions stick together or are attached to some organic material[to check and cite]). Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Measures in more detail are found in [Protection Measures](./monitor_and_control.md). 
+This yields either avoiding 'Sars-CoV-2 smoke' or filtering out  particulates. The filter filters ideally above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but often several virions stick together or are attached to some organic material[to check and cite]). 
+Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Outdoors is no worry for Sars-CoV-2 however, the air is diluted and sun light destroys virions (Chapter [Virion Viability](./../2_biological/virion_viability.md)). 
+Measures in more detail are found in [Protection Measures](./monitor_and_control.md). 
 
 
 
