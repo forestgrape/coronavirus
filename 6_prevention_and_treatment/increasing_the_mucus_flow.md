@@ -82,7 +82,7 @@ There isn't much evidence for an higher replication rate of Sars-CoV-2 in ARDS r
 
 #### Increased Distribution?
 likely NO, since:<br>
-The Sars-CoV-2 entry ACE2 is expressed in large quantities in alveolar type 2 cells. From these locations, many particles are exhaled upon deep breathing [[Larsson](#larsson)], which could yield increased spreading both inside and outside. Thus to some extent the virus distribution depends on breathing patterns and so active people would be more at risk. Overall evidence is not strong that the widespread virus spread is solely caused by increased distribution.  
+ACE2 is expressed in alveolar type 2 cells. From these locations, particles are exhaled upon deep breathing [[Larsson](#larsson)], which can yield spread both within the lungs and outside the lungs. Thus the virus distribution depends on breathing patterns and so active people would be more at risk. However this is not observed. So increased virus distribution alone, does not yield a bad prognosis. 
 
 #### Decreased Mucus Clearance?
 likely YES, since:
