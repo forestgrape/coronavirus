@@ -24,7 +24,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
   * [Corona Conform Schooling](#corona-conform-schooling)
 * [Risk Assessment](#risk-assessment)
   * [Balancing of Measures](#balancing-of-measures)
-  * [Outside is Safer](#outside-is-safer)
+  * [Outdoors is Safer](#outdoors-is-safer)
   * [Hospital Overwhelming](#hospital-overwhelming)
 * [References](#references)
   * [Laboratory Biosafety](#laboratory-biosafety)
@@ -66,7 +66,7 @@ Metaphor:
 Airborne transmissions can be thought [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
 => If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help.
-=> Outdoor activities reduce the overall Covid burden. Indoor activities and meetings can increase the Covid spread.
+=> outdoor activities reduce the overall Covid burden. Indoor activities and meetings can increase the Covid spread.
 
 
 ## Protection Measures
@@ -75,7 +75,7 @@ Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This i
 
 Proposals for good health:
 * providing settings that support good health
-    - allow people outside to move
+    - allow people outdoors to move
     - environmental protection including clean air
 * lessen stress 
     - secure and affordable life including basic health care
@@ -92,14 +92,14 @@ To prevent droplet transmission outdoors or in very well ventilated situations a
 
 
 ### Ventilation
-Ventilation reduces the indoor airborne spread, since the virion density in [outside air](#outside-is-safer) is much lower than in indoor air. There should be limits on the CO2 concentration and the concentration should be continuously monitored. 
+Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoor-is-safer) is much lower than in indoor air. There should be limits on the CO2 concentration and the concentration should be continuously monitored. 
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
 * [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. In the simulation, good ventilation is as effective as immunizing around half of the population. // in the paper vaccinate is used instead of immunize, however there's evidence vaccinating against influenza does not stop spreading.
 
 
 ### Distancing
-[Airborne transmission](../5_epidemiological/transmission.md#recap-airborne-transmission) - both droplets (reek of alcohol like spread) and aerosol/dry particulates (smoke-like) - can be reduced with distancing. Outside or with good ventilation, less distance is required. So if inside 2 meters is good, outside likely half a meter is enough. Wind direction should be considered outside. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air.
+[Airborne transmission](../5_epidemiological/transmission.md#recap-airborne-transmission) - both droplets (reek of alcohol like spread) and aerosol/dry particulates (smoke-like) - can be reduced with distancing. Outdoors or with good ventilation, less distance is required. So if inside 2 meters is good, outdoors likely half a meter is enough. Wind direction is relevant outdoors. Inside, the airflow can have a direction too: e.g. the kitchen hood and the toilet venting draw air.
 
 
 ### Large Buildings
@@ -157,7 +157,7 @@ as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
 To reduce spread isolation by home-lockdown is a radical measure. The more is known about Sars-CoV-2 and its spreading the more fine-grained the measures can be.
 * Isolation should be used with care since it can discourage people from testing and being transparent e.g. disclosing socials contacts and travel history.
 * There are good reasons against home isolation:
-    - Going outside is important for an intact immune system and good health. This is important for infected too.
+    - [Movement](../6_prevention_and_treatment/movement.md) and sunlight are important for an intact immune system and good health. This is important for infected too.
     - Indoor movement/light sports can produce a lot of exhaled breadth condensate/aerosols and thus put people in the same building at risk.
 
   Preventing spread opportunities e.g. avoiding indoor and/or crowded public spaces is important.
@@ -223,7 +223,7 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 
 ### Corona Conform Skiing
 [**in work**]
-__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outside the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoor like. Lowering the maximum crowd density is helps too, especially  indoors.
+__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outdoor the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoors like. Lowering the maximum crowd density is helps too, especially  indoors.
 
 > My memories of skiing date back to the early 90s, back then a ski day was mostly outdoors from open-sky lifts to outdoor lunch.
 
@@ -372,16 +372,16 @@ Measure regarding schools can reach from complete closure to mild measures such 
 * Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal, e.g. long-term prohibit visits is likely no solution.
 
 
-### Outside is Safer
-Outside the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation. However, outside infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md), outside the main transmission opportunity in face-to-face situations (however droplet infections don't directly and are less likely to induce deep lung infections (hypothesis stated in [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)). 
+### Outdoors is Safer
+outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation. However, the infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md) Outdoors, the main transmission opportunities is droplet transmission in face-to-face situations (however droplet infections are unlikely to cause deep lung infections ([Disease Pattering](../3_medical/coronavirus_disease_patterns.md)). 
 
-Outside there is safer because of:
+Outdoors is safer because of:
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
 - The [Virion Decay Rate](../2_biological/virion_viability.md) is high due to sunlight and temperature changes. 
 
 #### Dilution
-Outside there is much more air per person than inside:
+Outdoors there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
 * Even in the most densely populated cities the population density reaches at most 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, this yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
 * Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:
@@ -392,7 +392,7 @@ Virion are cleared from the air by the mechanism below and due to [virion decay]
 - [Virion Decay](./stability.md) in air: occurs mainly through sun light
 - Condensation 
 - Washed out by rain
-- Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outside the vast majority of surfaces are not infectable. 
+- Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outdoors, the vast majority of surfaces are not infectable. 
 
 
 ### Hospital Overwhelming
