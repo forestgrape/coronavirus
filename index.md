@@ -6,10 +6,8 @@ home: true
 
 # Understanding Betacoronaviruses and their Diseases
 
-* [Recent Updates](#recent-updates) and [Update History](#update-history) where all updates are listed. Most recent update:
-  * 1.4. [Propelling Spikes]: How coronaviruses use their spikes as propellors to fly around.
+* [Recent Updates](#recent-updates) and [Update History](#update-history) where all updates are listed. 
 * [Content](#content): The content section lists the topics discussed on this page. The topics focus on an understanding and how to life with coronaviruses.
-Topics discussed are 
   * [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
   * [Epidemiological Topics](#epidemiological-topics): E.g. How they spread (transmission paths) and where spread is observed.
   * [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
@@ -19,7 +17,8 @@ Topics discussed are
 
 ---
 
-## Recent Updates
+## Recent Update
+- 1.4.  Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special chapter consisting only of this two sentence). 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
 - 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
