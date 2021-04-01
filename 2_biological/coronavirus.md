@@ -666,11 +666,11 @@ So an interspecies infection denotes a transmission without spread in the new sp
 
 
 #### Observed Interspecies Infections
-* all occurrences where [interspecies jumps](#interspecies-jumps) occurred at least one [interspecies infection](#interspecies-infection) must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
+* all occurrences where [interspecies jumps](#interspecies-jump) occurred at least one [interspecies infection](#interspecies-infection) must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
 * Infections of Humans:
     - In the 70s and 80s there were a couple of reports that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
-    - The HECV-4408 coronavirus was isolated from a child having diarrhea [Zhang et al](#zhang94)
-    - Using RNA sequence data and evolution-models [Dudas et al](#dudas2017) conclude that there are likely hundred of infections per year from camel to humans. 
+    - The HECV-4408 coronavirus was isolated from a child having diarrhea [Zhang et al](../5_epidemiological/reduce_covid_bovine_farming.md#zhang-94)
+    - Using RNA sequence data and evolution-models [Dudas et al](../2_biological/hypotheses_nidovirales.md#summary-dudas-2017) conclude that there are likely hundred of infections per year from camel to humans. 
 #### Observed Interspecies Jumps
 * jumps: Bovine coronaviruses have jumped to a whole range of hosts: canine, human, wild ruminants, porcine [Bidokhti et al](#bidokhti).
 * jumps to humans, also called [zoonosis](#zoonosis): MERS, Sars-CoV-1 and OC43 are all jumped from animals to humans [refs in work]. 
