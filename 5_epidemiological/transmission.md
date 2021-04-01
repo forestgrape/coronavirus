@@ -1,28 +1,30 @@
 
-# Transmission of Betacoronaviruses with Focus on Sars-CoV-2 and a Proposed Dry Form Transmission 
+# Airborne Transmission Models
 
 * [Airborne Transmission](#airborne-transmission)
   * [Content](#content)
   * [Objects Moving in the Air](#objects-moving-in-the-air)
-  * [Summary Airborne Transmission](#summary-airborne-transmission)
+  * [Overview Airborne Transmission](#overview-airborne-transmission)
 * [Particle Dynamics in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract)
   * [Particles Sources](#particles-sources)
   * [Particles Deposition](#particles-deposition)
   * [Particles Clearance](#particles-clearance)
   * [Simulations and Experiments](#simulations-and-experiments)
 * [Proposal of a Dry Form Transmission Model](#proposal-of-a-dry-form-transmission-model)
-  * [Abstract Proposed Dry Form Transmission](#abstract-proposed-dry-form-transmission)
+  * [Summary Dry Form Transmission](#summary-dry-form-transmission)
   * [Dry Form Transmission Model](#dry-form-transmission-model)
   * [Evidence for the Dry Form Transmission Model](#evidence-for-the-dry-form-transmission-model)
-* [Metaphor and Measures](#metaphor-and-measures)
+  * [Metaphor and Measures](#metaphor-and-measures)
 * [References](#references)
+  * [Epidemiological Patterns](#epidemiological-patterns)
+  * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
+  * [Transmission Models](#transmission-models)
+  * [Particles in the Respiratory Tract](#particles-in-the-respiratory-tract)
   * [Particles in the Air](#particles-in-the-air)
   * [Airflow Theory](#airflow-theory)
   * [Sources of Exhaled Particles](#sources-of-exhaled-particles)
   * [Particle Deposition at In/Exhalation](#particle-deposition-at-inexhalation)
   * [Transmission and Infection of Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
-  * [Epidemiological Patterns](#epidemiological-patterns)
-  * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
 
 
 ## Airborne Transmission
@@ -30,7 +32,7 @@
 ### Content
 * [Objects Moving in the Air](#objects-moving-in-the-air)
     Low density or very small objects follow the airflow, while heavy object fly in trajectories. The underlying physics is sketched and and examples are given. Finally an aerosol is defined as a collection of very small particles that go with the air, droplet transmission on the other hand denotes transmission with droplets large enough they fly in trajectories. 
-* [Summary Airborne Transmission](#summary-airborne-transmission)
+* [Summary Airborne Transmission](#overview-airborne-transmission)
 
 
 ### Objects Moving in the Air
@@ -96,16 +98,16 @@ The larger droplets keep their name and are called droplets:
 
 
 
-### Summary Airborne Transmission
+### Overview Airborne Transmission
 Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls while aerosols mostly move with the air. Tiny and dry particles always go with the air. 
 
 Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md). [citations in work  ]
 
-Model    | Metaphor   | Actions | Source/Deposition | Situations/Clima|   Prevent              
+Model    | Metaphor   | Actions | Source/Deposition | Situations/Climate|   Prevent              
 ---------|------------|------------------|-----------------|------|---
 [droplets](#droplets)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
 [aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
-[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
+[proposed dry form aerosol](../5_epidemiological/dry_form_transmission.md) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
 
 
 #### Comments
@@ -225,13 +227,21 @@ Usually many simplifications of [relevant factors](#particles-deposition) both f
 
 ## Proposal of a Dry Form Transmission Model
 
-### Abstract Proposed Dry Form Transmission
-**[in rework]**
-A dry form transmission model for Betacoronaviruses is proposed. It is known that Sars-CoV-1 has the unusual ability for viruses to survive in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
+
+> Explorative
+
+> That's the chapter this page started.
+
+> Updates with evidence from spread patterns observed for SARS-CoV-2 in work.
+
+### Summary Dry Form Transmission
+
+A dry form transmission model for Betacoronaviruses is proposed. Betacoronaviruses survive best in dry form, this makes a dry form transmission possible and also likely to occur since evolutionary drive is needed to develop this ability.
+
 The transmission models described in the literature - a recent recommended review is [Herfst](#herfst) - for viruses are:
 * Contact (direct and indirect via fomites)
-* [Droplets](#droplets)
-* [Aerosols](#aerosol)
+* [Droplets](../5_epidemiological/transmission.md#droplets)
+* [Aerosols](../5_epidemiological/transmission.md#aerosol)
 
 this new model is added:
 * Dry form transmission 
@@ -258,7 +268,7 @@ Based on the aerosol and dry form transmission models, expected spread patterns 
   
 In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
 
-In their very illustrative paper [Chan et al.](#chan) show that the Sars-CoV-1 keeps its infectiousness in dry form, so dry form infection is possible in theory.
+Coronaviruses virions keep viability in dry form (and even survive longest: chapter [Virion Viability](../2_biological/virion_viability.md)), so dry form infection is possible in theory.
 
 The newly proposed infection:
 * Dry particulates in air -> Lung
@@ -278,7 +288,7 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [Yan
 
 The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
 
-Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](#particles-sources)).
+Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](../5_epidemiological/transmission.md#particles-sources)).
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
 
@@ -304,16 +314,19 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 ### Evidence for the Dry Form Transmission Model
 
-#### Evidence from Biological Properties
-As described in [particles deposition](#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. The [Tissue Tropism](../2_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1 [argumentation in work]. There are several [Disease Patterns](./index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
+#### Evidence from biological Properties
+For severe betacoronavirus diseases nearly always the lower respiratory tract is involved (always in ARDS) (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)):
+  
+As described in [particles deposition](../5_epidemiological/transmission.md#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. 
+The [Tissue Tropism](../2_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1. There are several [Disease Patterns](../index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
+
+That in swab tests there are viruses in the nose and the mouth can be either caused by local replication or by breathing them up. [Kleinstreuer et al](#kleinstreuer-2018) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)).
 
     
 #### Evidence from the observed Spread Patterns
 [in rework since **partly wrong**, December 2020]
-The droplet transmission explains well the observed spread patterns of influenza. Dust like spreading is explaining better following observations for the observed Betacoronaviruses spread patterns than the droplet models:
-
-[in work: correct that aerosol but not the droplet models could partly explain observed spread patterns]
-In confined settings without special protection reproduction numbers, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of droplets is affected by gravity and therefore their concentration in the air quite rapidly decreases (see [model](#model) section). The movement of dry dust, on the other hand, is less affected by gravity and therefore remains longer in the air. The majority of spreading has been observed in indoor spaces. In theses settings dry dust like spreading is possible.
+Close range droplet or aerosol transmissions explain well the observed spread patterns for upper respiratory tract infections, they are often spread between close contacts. However, the spread patterns of severe betacoronaviruses diseases are better explained by dust-like spreading:
+In confined settings without special protection reproduction numbers, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of droplets is affected by gravity and therefore their concentration in the air quite rapidly decreases (see [model](#dry-form-transmission-model) section). The movement of dry dust, on the other hand, is less affected by gravity and therefore remains longer in the air. The majority of spreading has been observed in indoor spaces. In theses settings dry dust like spreading is possible.
 
 <!--
 move to spread analyses
@@ -327,11 +340,11 @@ move to spread analyses
         
         The observations favour long range but same room transmission (aerosol and dry form transmission) over droplet transmission and slightly indicate dry form transmission:
         * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission.
-        * In the aerosol model about an equal spread would be expected. Experience from cooking smells teaches us, that aerosols tend to spread out locally.
-        * Smoke diffuses entire rooms and tends to stay quite long, so spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected since they spend the time in the same areas.
+        * In the aerosol model about an equal spread would be expected. Experience from cooking smells teach, that aerosols spread out locally.
+        * Smoke diffuses entire rooms and stays quite long => spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected (if the initial spread starts in the passengers) since they spend the time in the same areas.
 	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
 	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
-	- Hospitals in Nothern Italy [LE](#le)
+	- Hospitals in Northern Italy [LE](#le)
 
 * SARS-CoV-1:
     - Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in close by rooms and not to the personal.
@@ -345,22 +358,22 @@ move to spread analyses
 	Possible Explanation: The medical staff is used to protect against fomites and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
 
 * Mers-Cov:
-  Most superspreading events were observed in winter and often in hospitals [dudas2017](#dudas2017). 
+  Most superspreading events were observed in winter and often in hospitals ([Dudas et al 2017](#dudas-2017)). 
 
 * The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outdoor air temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 
 
-* The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS has been infecting humans for some decades which was discovered by analyzing backup samples [to confirm and cite])
+* The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS, discovered in 2012, has been infecting humans at least for decades, which is known from analyzing backup samples [to cite]).
 
     
 #### Further evidences
 
 [in work, March 2020]
 
-* In humid and warm temperature environments (above 30 degrees), there are no known events of a step increase in death numbers. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanation why in humid conditions around 33 degrees there no super-spreading events observed is: In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within aerosols which in turn often growth to droplets. In this case, a droplet like spreading pattern with no super-spreading events would be expected. 
+In humid and warm temperature environments (above 30 degrees), the death numbers increase less steep. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanations why in humid conditions around 33 degrees there less super-spreading events observed are:
+  * In warm climate zones good ventilation is easy and in settings with air-conditioner usage super spreading is likely.
+  * In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within growing droplets, which fall to the ground or get absorbed in the upper respiratory tract causing less virulent diseases.
 
-
-
-## Metaphor and Measures 
+### Metaphor and Measures 
 Avoiding the droplet spread is like avoiding somebody’s reek of alcohol, avoiding aerosols/dry particulates on the other hand corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse around.
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close that the cloths start smelling. 
 Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. 
@@ -372,6 +385,71 @@ Measures in more detail are found in [Protection Measures](./monitor_and_control
 
 
 ## References
+
+    
+### Epidemiological Patterns
+    
+*  ##### le
+	The Lancet Editoral
+	**COVID-19: protecting health-care workers**
+	www.thelancet.com Vol 395 March 21, 2020
+	https://doi.org/10.1016/S0140-6736(20)30644-9 
+
+*  ##### mizumoto 
+	Kenji Mizumoto, Gerardo Chowell
+    **Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
+	https://doi.org/10.1016/j.idm.2020.02.003
+    
+* ##### honein
+    Temet M. McMichael et al.
+    **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
+    This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+
+* ##### Dudas 2017
+    **MERS-CoV spillover at the camel-human interface** Gytis Dudas, Luiz Max Carvalho, Andrew Rambaut, Trevor Bedford; elifesciences.org
+    [Summary](../2_biological/hypotheses_nidovirales.md#summary-dudas-2017) in the chapter hypotheses about nidovirales.
+
+
+### Environmental Factors on Betacoronaviruses
+
+* ##### chan
+	K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
+	**The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus**
+	Hindawi Publishing Corporation
+	Advances in Virology
+	Volume 2011, Article ID 734690, 7 pages
+	https://doi.org/10.1155/2011/734690   
+    
+* ##### lin
+    LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
+    **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054   
+
+### Transmission Models
+
+* ##### tellier
+    Tellier R. (2006). 
+    **Review of aerosol transmission of influenza A virus.** 
+    Emerging infectious diseases, 12(11), 1657–1662. 
+    https://doi.org/10.3201/eid1211.060426 (seems broken)<br>
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372341/
+  
+* ##### herfst
+	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
+	**Transmission routes of respiratory viruses among humans.**
+	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
+
+* ##### Yang
+    Yang W, Marr LC (2011) 
+    **Dynamics of Airborne Influenza A Viruses Indoors and Dependence on Humidity.**
+    PLoS ONE 6(6): e21481. 
+    https://doi.org/10.1371/journal.pone.0021481
+
+
+### Particles in the Respiratory Tract
+* ##### kleinstreuer 2018
+    Arun V Kolanjiyil, Clement Kleinstreuer, Nicole C Kleinstreuer, Wellington Pham and Ruxana T Sadikot
+	**Mice-to-men comparison of inhaled drug-aerosol deposition and clearance.** Respiratory Physiology & Neurobiology. https://doi.org/10.1016/j.resp.2018.11.003
+
 
 ### Particles in the Air
 
@@ -526,17 +604,7 @@ Measures in more detail are found in [Protection Measures](./monitor_and_control
 	J Innate Immun 2020;12:4–20
 	https://doi.org/10.1159/000503030
 
-* ##### tellier
-    Tellier R. (2006). 
-    **Review of aerosol transmission of influenza A virus.** 
-    Emerging infectious diseases, 12(11), 1657–1662. 
-    https://doi.org/10.3201/eid1211.060426 (seems broken)<br>
-    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372341/
-  
-* ##### herfst
-	Kutter JS1, Spronken MI1, Fraaij PL2, Fouchier RA1, Herfst S3.
-	**Transmission routes of respiratory viruses among humans.**
-	Curr Opin Virol. 2018 Feb;28:142-151. https://doi.org/10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17.
+
     
     
 * ##### pierret
@@ -548,41 +616,10 @@ Measures in more detail are found in [Protection Measures](./monitor_and_control
     Myatt, T. A., Kaufman, M. H., Allen, J. G., MacIntosh, D. L., Fabian, M. P., & McDevitt, J. J. (2010).
     **Modeling the airborne survival of influenza virus in a residential setting: the impacts of home humidification.**
     Environmental health : a global access science source, 9, 55. https://doi.org/10.1186/1476-069X-9-55
-    
-    
-### Epidemiological Patterns
-    
-*  ##### le
-	The Lancet Editoral
-	**COVID-19: protecting health-care workers**
-	www.thelancet.com Vol 395 March 21, 2020
-	https://doi.org/10.1016/S0140-6736(20)30644-9 
-
-*  ##### mizumoto 
-	Kenji Mizumoto, Gerardo Chowell
-    **Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
-	https://doi.org/10.1016/j.idm.2020.02.003
-    
-* ##### honein
-    Temet M. McMichael et al.
-    **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
-    This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
 
 
-### Environmental Factors on Betacoronaviruses
 
-* ##### chan
-	K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
-	**The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus**
-	Hindawi Publishing Corporation
-	Advances in Virology
-	Volume 2011, Article ID 734690, 7 pages
-	https://doi.org/10.1155/2011/734690   
-    
-* ##### lin
-    LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
-    **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054   
-
+ 
 
 
 <!--
