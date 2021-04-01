@@ -71,7 +71,7 @@ Proteins are assembled by ribosomes:
 
 
 ### Lifetime Storage
-[in work] As noted above form of life have to ability to memorize environment interactions. 4 forms of lifetime storage are known to be used on todays earth. 
+[in work] Life forms have to ability to memorize environment interactions. Four kinds of lifetime storage are known to be used on todays earth. 
 
 * ##### ssRNA
     single stranded RNA:
@@ -557,7 +557,7 @@ The task determine to habitat of Sars-CoV-2 can be tackled either
 In the following the [tissue tropism](#tissue-tropism) of Sars-CoV-2 is deduced from the [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question. 
 
 #### SARS-2 Cell Entry
-[in rework/reorder]
+[**in rework/reorder**]
 The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
 
 #### Cell Tropism of Sars-Cov-2
@@ -610,31 +610,19 @@ ACE2 is apically available
 ### Empirical Deduction of the SARS-2 Tissue Tropism
 [in rework: update and a section for each strain]
 Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
-
-#### Betacoronavirus Viral Load
-[in rework]
-The viral loads observed in different parts of the body are consistent with airborne infection and the tissue distribution of ACE2:
-* The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
-* For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome.
-Remark: Mers-Cov has a different cell entry receptor (DPP4). However 
-* the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone. 
-* some and especially the severe SARS-2 infections show a similar pathogenesis as MERS
-
-This is just a piece of evidence in the overall picture. 
-
-That in swab tests there are viruses in the nose and the mouth can be either caused by replication there or by breathing them up. [Kleinstreuer et al](#kleinstreuer) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent [Disease Pattering](../3_medical/coronavirus_disease_patterns.md).
-
-
+[in work]
+* In the chapter [disease pattering](../3_medical/coronavirus_disease_patterns.md) it is described that coronaviruses infect different location throughout the respiratory tract.
+* The viral loads observed for SARS-CoV-2 for diagnostic purposes are described in the chapter [Diagnosis and Viral Load](./../3_medical/diagnosis_and_viral_load.md).
 
 ## Habitat
 [in rework]
 As outlined in the section [tropism](#tropism) there is a variety of conditions for a virus to start to metabolism and even more too successfully replicate. These environments form the habitat of a virus strain:
 
 > ###### Habitat
-> The *Habitat* of a virus are the locations which are frequently infected: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar type 2 epithelial cells. These are called a habitat as well as the surrounding organ: the human lungs and the host organism: us humans. 
+> The *Habitat* of a virus are the locations which are frequently infected: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar epithelial cells. These cells are in the lower lungs, so the lower lungs are a habitat for SARS-2 in the human host.
 
 ### Organisms Habitat aka Hosts
-The organisms forming the habitat are called hosts:
+The organisms forming the habitat are called hosts.
 
 > ###### Host
 > A *host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently and are relevant for the spread of the virus i.e. are part of the life cycle.
