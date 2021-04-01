@@ -47,7 +47,7 @@ Mask can be classified either by
 
 ### Filter Performance
 The filtration performance specifies how much and which particles are filtered out of the air at some fixed airflows and pressures. 
-There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms, in the US N95/P95 (e.g. Wikipedia page on FFP standards). High filtration is the safe option in situations with [aerosol transmission](../5_epidemiological/transmission.md#summary-airborne-transmission). 
+There are various standards to classify mask by their filtration quality: E.g. in Europe the FFP norms, in the US N95/P95 (e.g. Wikipedia page on FFP standards). High filtration is the safe option in situations with [aerosol transmission](../5_epidemiological/transmission.md#overview-airborne-transmission). 
 
 
 * #### Very High Filtration
@@ -82,7 +82,7 @@ There are various standards to classify mask by their filtration quality: E.g. i
   * ##### Medical protections masks 
     _Medical protections masks_ are constructed to protect medical staff against pathogens from infected patients. These masks are usually in a high [filtration category](#filter-performance) such as FFP2 and offer good protection for all pathogens including viruses.
 * #### Textile Masks
-  _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. A model with fitting comfort and style is usually available. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](../5_epidemiological/transmission.md#summary-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
+  _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. A model with fitting comfort and style is usually available. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](../5_epidemiological/transmission.md#overview-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
 
 
 ## Mask Cleaning
