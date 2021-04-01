@@ -565,10 +565,13 @@ The viability of SARS-CoV-1 is determined for the following conditions:
 
 #### Summary Chan 20
 **Factors affecting stability and infectivity of SARS-CoV-2**
+
 ##### Methods Summary
 "The residual virus in dried form or in solution was titrated on to Vero E6 cells on days 0, 1, 3, 5 and 7 after incubation at different temperatures. Viral viability was determined after treatment with various disinfectants and pH solutions at room temperature (20-25 C)."
+
 ##### Results
-* "When the virus was added to 90% FBS or MEM and was heated at 56C for 30 min, viability in both FBS and MEM was reduced by at least 3 logs (3.58, 0.29)."
+"When the virus was added to 90% FBS or MEM and was heated at 56C for 30 min, viability in both FBS and MEM was reduced by at least 3 logs (3.58, 0.29)."
+
 ##### Methods Details
 * Cells and Cell Medium: "Vero E6 cell line was cultured in minimal essential medium (MEM, Gibco, Gaithersburg, MD, USA) with 10% fetal bovine serum (FBS, Gibco), penicillin and streptomycin (Gibco)."
 * Virus Strains: SARS-CoV-2 HKU-001a and SARS-CoV HKU39849
@@ -584,10 +587,13 @@ The viability of SARS-CoV-1 is determined for the following conditions:
 
 #### Summary Riddell
 **The effect of temperature on persistence of SARS-CoV-2 on common surfaces**
+
 ##### Methods
 "This study measured the survival rates of infectious SARS-CoV-2, suspended in a standard ASTM E2197 matrix, on several common surface types. All experiments were carried out in the dark, to negate any effects of UV light. Inoculated surfaces were incubated at 20 °C, 30 °C and 40 °C and sampled at various time points."
+
 ##### Results
 "We obtained half lives of between 1.7 and 2.7 days at 20 °C, reducing to a few hours when temperature was elevated to 40 °C."
+
 ##### Methods Details
 * Virus Strain: SARS-CoV-2 (Betacoronavirus/Australia/ SA01/2020)
 * Virus Culture: "The virus was passaged four times through Vero E6 cells (ATCC CRL- 1586) in Dulbecco’s Modified Eagle Medium (DMEM) supplemented with Penicillin, Streptomycin, Fungizone and 10% fetal calf serum and pelleted via ultracentrifugation at 100,000×g for 90 min."
@@ -628,7 +634,7 @@ https://doi.org/10.1101/2020.10.16.341883
 #### Summary Laude
 **Thermal Inactivation Studies of a Coronavirus, Transmissible Gastroenteritis Virus**
 
-> Similar to [Fleming](#summary-fleming), recommended to read in parallel.
+> Inspired by [Fleming](#summary-fleming), recommended to read in parallel.
 ##### Methods
 The decay rate of the TGEV coronavirus at temperatures between 31 and 55 degrees at the pH values 7 and 8 is determined.
 ##### Methods Details
