@@ -45,7 +45,7 @@ The amount of exchanged air is high
   * being at low air pressure (either high altitude or airplane) 
   * activities such as singing, shouting or strains e.g. sports
   
-The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](../5_epidemiological/transmission.md#summary-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
+The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
 Regarding prevention measures relevant is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
 
 ### Observations supporting the Air Exchange Hypothesis
