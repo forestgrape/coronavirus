@@ -11,9 +11,9 @@
   * [Cascade of Influences](#cascade-of-influences)
   * [Causes for severe Outcome of Covid-19](#causes-for-severe-outcome-of-covid-19)
   * [Mucus Hypothesis](#mucus-hypothesis)
-* [Reverse Cascade - Backtracing ARDS to a Decreased Mucus Flow](#reverse-cascade---backtracing-ards-to-a-decreased-mucus-flow)
-  * [evidence for widespread virus distribution](#evidence-for-widespread-virus-distribution)
-  * [causes of widespread virus distribution](#causes-of-widespread-virus-distribution)
+* [Reverse Cascade - Backtracing ARDS to a High Viral Load Due to a Decreased Mucus Flow](#reverse-cascade---backtracing-ards-to-a-high-viral-load-due-to-a-decreased-mucus-flow)
+  * [Widespread Virus Distribution as an important Cause of ARDS](#widespread-virus-distribution-as-an-important-cause-of-ards)
+  * [Possible Causes of Widespread Virus Distribution](#possible-causes-of-widespread-virus-distribution)
 * [Ideas to Decrease Virus Distribution](#ideas-to-decrease-virus-distribution)
   * [Increase the Mucus Flow](#increase-the-mucus-flow)
   * [Reduce the Spread of Viruses](#reduce-the-spread-of-viruses)
@@ -26,8 +26,6 @@
   * [Clearance in the Respiratory Tract](#clearance-in-the-respiratory-tract)
   * [Clinical Observations](#clinical-observations)
 
-
-<p id='early-vents-overview'>---</p>
 
 ## Summary
 For the development of a virus-induced ARDS, a decreased mucus clearance seems to be a key factor; shown in the case of influenza induced ARDS by [Yuen et al](#yuen). The idea is to increase the clearance by increasing the mucus flow. The following observations suggest that the mucus flow is increased by humidified air:
@@ -49,20 +47,19 @@ A main complication of a severe Covid-19 and possible death cause is acute respi
 The reason for developing ADRS both for Covid-19 and influenza seems to be a delayed mucus clearance of viruses. This yields a high number of viruses distributed across the entire lungs.
 
 
-<p id='reverse-cascade'>---</p>
 
-## Reverse Cascade - Backtracing ARDS to a Decreased Mucus Flow
+## Reverse Cascade - Backtracing ARDS to a High Viral Load Due to a Decreased Mucus Flow
 In the following evidence is shown in reverse order for the [cascade of influences](#cascade-of-influences).  The cascade reversed:
 * ARDS is caused by widespread virus distribution [how: work in progress]
 * widespread virus distribution is caused by a decreased mucociliary clearance and increased distribution from locations of infected cells-
 * decreased mucus clearance is caused by dry air, hypertension, diabetes
 
-### evidence for widespread virus distribution
+### Widespread Virus Distribution as an important Cause of ARDS
 - In most severe cases (especially, where ADRS is observed and mechanical ventilation is needed) the images show _bilateral_ lung lesions/patches [Bhatraju et al.](#bhatraju),[Zhong et al.](#zhong).
 - [Yuen et al](#yuen) found high late viral load for patients with an ARDS . 
 
-### causes of widespread virus distribution
-For the widespread viral load distribution in the lower respiratory tract, possible reasons are:
+### Possible Causes of Widespread Virus Distribution
+For the widespread viral load distribution in the lower respiratory tract, possible causes are:
 
 - [increased replication](#increased-replication)
 - [increased distribution across the lungs](#increased-distribution) 
@@ -152,8 +149,6 @@ To be investigated:
 * it could mean that more viruses stay in the lungs since there is less clearance. *Unlikely*:  since the major clearance occurs through mucus. 
 
 
-
-<p id="appendix-vents">---</p>
 
 ## Appendix for Early On Ventilators
 Just indications are listened and no statistical testing has been done. Some times correlations have been determined in the papers given as sources. Ideally the statistics takes into account correlations between the various factors too; e.g. there is likely a correlation between age and chronic heart disease]. [todo: math, check dependence between observables][todo: add average for entire populations as comparison]
@@ -289,7 +284,6 @@ The following characteristics are observed by [Yuen et al.](#yuen):
     Environmental Health Perspectives, 66, 223-237. doi:10.2307/3430237
     
 
-
 ### Clinical Observations
 
 #### Covid-19
@@ -335,7 +329,6 @@ The following characteristics are observed by [Yuen et al.](#yuen):
 
 #### SARS
 
-    
 * ##### zaki
     Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,Jeannette Guarner MDa, Cynthia S. Goldsmith MSa, Kathleen Tatti PhDa, Michelle Packard MPHa, Laurie Mueller BA, BSa, Mu-Zong Wub, Pierre Rollin MDc, Ih-Jen Su MD, PhDd, Sherif R. Zaki MD, PhDa 
     **Immunohistochemical, in situ hybridization, and ultrastructural localization of SARS-associated coronavirus in lung of a fatal case of severe acute respiratory syndrome in Taiwan**
