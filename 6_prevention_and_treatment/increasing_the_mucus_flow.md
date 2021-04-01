@@ -335,12 +335,6 @@ The following characteristics are observed by [Yuen et al.](#yuen):
 
 #### SARS
 
-* ##### farcas
-    Farcas GA, Poutanen SM, Mazzulli T, Willey BM, Butany J,
-    Asa SL, Faure P, Akhavan P, Low DE, Kain KC: 
-    **Fatal severe acute respiratory syndrome is associated with multiorgan involvement by coronavirus.**
-    J Infect Dis 2005, 191:193-197
-    https://doi.org/10.1086/426870
     
 * ##### zaki
     Wun-Ju Shieh MD, MPH, PhDa, Cheng-Hsiang Hsiao MDb, Christopher D. Paddock MDa,Jeannette Guarner MDa, Cynthia S. Goldsmith MSa, Kathleen Tatti PhDa, Michelle Packard MPHa, Laurie Mueller BA, BSa, Mu-Zong Wub, Pierre Rollin MDc, Ih-Jen Su MD, PhDd, Sherif R. Zaki MD, PhDa 
