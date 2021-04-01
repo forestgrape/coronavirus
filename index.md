@@ -17,8 +17,8 @@ home: true
 
 ---
 
-## Recent Update
-- 1.4.  Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special chapter consisting only of this two sentence). 
+## Recent Updates
+- 1.4.  Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
 - 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
