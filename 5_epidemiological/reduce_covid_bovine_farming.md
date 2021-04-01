@@ -97,15 +97,15 @@ Examples of a successful jump from BCoV between humans and bovine:
 
 ## Mechanisms of Crossprotection
 [in rework]
-[local T cells](../4_immunological/immune_system.md#local-t-cell) distributed through the respiratory tract recognize viral infections and induce cell death to prevent viral replication [argumentation 22.10. on todo-list]. 
-* possibly by recognizing preserved parts of the initially translated ORFs
-* but more likely local T cells recognizing more general anomalies of virus infected cells [in work]
+[Local T cells](../4_immunological/immune_system.md#local-t-cell) distributed through the respiratory tract recognize viral infections and induce cell death to prevent viral replication [argumentation 22.10. on todo-list]. 
+* recognizing conserved parts the spikes or the N protein
+* T cells recognizing more general anomalies of virus infected cells [in work]
 
 
 ### Previous Guesses of Mechanisms likely False
 * ##### Antibodies
     Antibodies against some well preserved parts of proteins. 
-    - some extern proteins, which are preserved. The antibodies could either render the viruses uninfectious or acting as opsonin. Candidates:
+    - some extern proteins, which are preserved. The antibodies could either render the viruses noninfectious or acting as opsonin. Candidates:
         * S1
     - non extern proteins presented via MHC 1. The antibodies act as opsonin or are directly receptors of cytotoxic cells.
         * N
