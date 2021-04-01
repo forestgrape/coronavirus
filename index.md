@@ -25,7 +25,6 @@ home: true
 - 23.3. Proposal of [Local Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
 - 23.3. Clarified summary for [Virion Viability](2_biological/virion_viability.md). [A table with compiled data](./2_biological/virion_viability/viability_data.md) from viability experiments is online. 
 
-
 ---
 
 ## Notes on Reading
@@ -47,7 +46,6 @@ home: true
 * > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
 
 * Often references are summarized. Word-by-word extracts are in " ". The summarized are biased towards to results relevant for this page, even though it is tried to capture the essence of the research.
-
 
 ---
 
@@ -111,9 +109,8 @@ Various aspects of coronaviruses are described with a focus on understanding.
 * [Monitoring](8_data/monitoring.md)
     About testing, monitoring, gathering and publishing data.
 
-
-
 ---
+
 
 ## Update History
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
@@ -222,11 +219,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 27.3.-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
 
-
-
-
-
-
+---
 
 ## Public Suggestions and Tips
 
