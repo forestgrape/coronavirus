@@ -34,7 +34,7 @@ Coronavirus infections in humans can elicit immune protection (more precisely no
    - OC43 -protects-> HKU1 (only unidirectional)
    - NL63 -protects-> 229E (only unidirectional)
     
-A bovine coronavirus strain, namely HECV-4408,  was isolated from a child from a rural area in Texas suffering diarrhea [Zhang et al](#zhang94).
+A bovine coronavirus strain, namely HECV-4408,  was isolated from a child from a rural area in Texas suffering diarrhea [Zhang et al](#zhang-94).
 
 If a cross protection between BCoVs and Sars-CoV-2 exists and if yes how it works remains to be determined. Depending on the mechanism of action it could be used in many ways.
 
@@ -90,7 +90,7 @@ Similar patterns seem to be in the USA and France. For analysis, ideally the par
 ### Observed Interspecies Jumps
 There are many examples where BCoVs jumped species borders, for which at least [interspecies infection](../2_biological/coronavirus.md#infecting-new-species) is necessary but likely many occur until one yields a species jump. Frequent enteric coronavirus infections to humans occur(ed) likely, but they are not easy to prove [citation coming].
 Examples where they have PCR confirmed:
-* The HECV-4408 coronavirus was isolated from a child having diarrhea in 1994 as described in [Zhang et al](#zhang94)
+* The HECV-4408 coronavirus was isolated from a child having diarrhea in 1994 as described in [Zhang et al](#zhang-94)
 Examples of a successful jump from BCoV between humans and bovine:
 * OC43 likely was a BCoV jump to humans.
 
@@ -149,7 +149,7 @@ Examples of a successful jump from BCoV between humans and bovine:
     **Coronavirus diversity, phylogeny and interspecies jumping.** 
     Experimental biology and medicine (Maywood, N.J.), 234(10), 1117–1127. https://doi.org/10.3181/0903-MR-94
 
-* ##### zhang94
+* ##### Zhang 94
     Zhang, X.M., Herbst, W., Kousoulas, K.G. and Storz, J. (1994), 
     **Biological and genetic characterization of a hemagglutinating coronavirus isolated from a diarrhoeic child.**
     J. Med. Virol., 44: 152-161. https://doi.org/10.1002/jmv.1890440207
