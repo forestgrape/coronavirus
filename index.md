@@ -37,7 +37,7 @@ home: true
 * [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 
-* New content is announced in [Updates](#updates). 
+* New content is announced in [Updates](#recent-updates). 
 * A [Table of Content](#content) is provided. The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](https://forestgrape.github.io/coronavirus)
 
@@ -52,10 +52,10 @@ home: true
 ---
 
 ## Content
-[partly out of date, new sections are found in [updates](#updates)]
+[sometimes out of date, new sections are found in [updates](#recent-updates)]
 
 ### Introduction
-* [Updates](#updates)
+* [Recent Updates](#recent-updates) and [Update History](#update-history)
 * [Public Suggestions and Tips](#public-suggestions-and-tips)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 
@@ -94,7 +94,7 @@ Various aspects of coronaviruses are described with a focus on understanding.
     - describe how particles behave in the respiratory tract,
     - analyse spread pattern of Covid-19 which indicate aerosol transmission
     - and based on the discussions protection measures are suggested: smoke protection and masks.
-- [Spread Analyses](5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
+- [Spread Analyses](../5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs) (*explorative section*)
 
 ### Treatment and Prevention
@@ -157,22 +157,22 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
   - Making the economic system more fair in the sense that everyone has the opportunity to choose the economic way of life.
 - 9.11. Formulations corrected and improved.
   > I spend more time on reading and analyzing than on formulations and proof reading. Although I try, sometimes words are not weighted carefully and it can take a couple of days to discover & improve unworldly formulations.
-- 7.11. Updates in [Spread Analyses](5_epidemiological/spread_analyses.md) in work:
-  - [Infector Distribution](5_epidemiological/spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong.
-  - Section on [Pre-symptomatic Infectors](5_epidemiological/spread_analyses.md#pre-symptomatic-infectors) in work
+- 7.11. Updates in [Spread Analyses](../5_epidemiological/spread_analyses.md) in work:
+  - [Infector Distribution](../5_epidemiological/spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong.
+  - Section on [Pre-symptomatic Infectors](../5_epidemiological/spread_analyses.md#pre-symptomatic-infectors) in work
 - 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](./monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers and not estimates.
     > Mainly I was shocked by the very steep increase of deaths and still am [analyses in work]. Even though I spent/d a lot of time learning to analyse.
-- 5./6.11. Updates in [Spread Analyses](5_epidemiological/spread_analyses.md) in online work:
+- 5./6.11. Updates in [Spread Analyses](../5_epidemiological/spread_analyses.md) in online work:
     * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas.
       > Not proven yet but evidence strong enough that risk regions should **stop allowing large scale events** even with protection measures. As of 4./5.11. there still seem to be football matches with many thousand spectators.
     * Sections about observed spreading events in food production factories and airplanes.
 - 1.11. [Strategy](./7_social/controlling.md#strategy) and [On Numbers](./8_data/monitoring.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
 - 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago.
-- 28.10. (only summaries available) Early results from [Spread Analyses](5_epidemiological/spread_analyses.md) show that the Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./5_epidemiological/transmission.md#overview-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outdoors with some distance is safe.
+- 28.10. (only summaries available) Early results from [Spread Analyses](../5_epidemiological/spread_analyses.md) show that the Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./5_epidemiological/transmission.md#overview-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outdoors with some distance is safe.
     > During the summer droplet transmission seemed most important, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in October 2020 combined with extensive droplet preventions in place questioned the dominance of droplet transmission. Reconsideration and a detailed look show: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude:
     * Air-conditioning: Brazil, Middle East and Southern US (in California noteworthy is the difference between hot Los Angeles and temperate San Francisco)
     * High altitudes which means cold nights and increased breathing: La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
-- 25.10. New page [Spread Analyses](5_epidemiological/spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings.
+- 25.10. New page [Spread Analyses](../5_epidemiological/spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings.
 -  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which needed correction: Pupils are **not** likely to play a major role in the past and current Covid spread while protection measures are in place.
 -  15./16.10. Early Online Update for the sections [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./5_epidemiological/transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
@@ -357,7 +357,7 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 ## Ideas to Explore
 * Backtracing Sars-CoV-1/2: on the page [Hypotheses about Nidovirales](2_biological/hypotheses_nidovirales.md).
 * [Infection Tropism and Disease Patterns](./3_medical/coronavirus_disease_patterns.md)
-* [Bovine Farming and Covid](5_epidemiological/reduce_covid_bovine_farming.md)
+* [Bovine Farming and Covid](../5_epidemiological/reduce_covid_bovine_farming.md)
 * [Early On Prevent Mucus Accumulations](./6_prevention_and_treatment/increasing_the_mucus_flow.md)
 
 
