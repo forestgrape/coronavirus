@@ -37,7 +37,7 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 > * knowledge & research
 > * self responsibility, independent decisions combined with a circumspect lifestyle
 > * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements restrictions are an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
-> * Moderate measures preserving life quality.
+> * Measures preserving life quality and health of everybody.
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases.
 > * Monitor and estimate overall cases to do predictions and planning.
 > * Settings that those who want/need can protect, while those not needing/choosing can go on, go on circumspectly.
@@ -53,20 +53,20 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 
 
 ## Spread Assumptions
-The design of measures relies on transmission models. Here it as assumed that the main transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like as sketched in the following.
+The design of measures relies on transmission models. Here it as assumed that the main transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like.
 
 Observations:
 Evidence for aerosol transmission is described in [Spread Analyses](../5_epidemiological/spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](../5_epidemiological/transmission.md). In short: The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed.
 
 To keep in mind:
-* Dry Air: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](../5_epidemiological/transmission.md). The [viability of coronaviruses](../2_biological/virion_viability.md) is highest in dry and cool air without sunlight.
+* Environment Conditions: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](../5_epidemiological/transmission.md). The [viability of coronaviruses](../2_biological/virion_viability.md) is highest in dry and cool air without sunlight.
 * Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)). => (Encouraging) Transparency is important.
 
 Metaphor:
 Airborne transmissions can be thought [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
-=> If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help.
-=> outdoor activities reduce the overall Covid burden. Indoor activities and meetings can increase the Covid spread.
+=> If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help. For smoke protection outdoors helps, the same is true for Covid.
+=> Outdoor activities reduce the overall Covid burden. In most situations outdoor activities also reduce the overall spread, since less time is spent indoors. Indoor activities and meetings can increase the Covid spread. 
 
 
 ## Protection Measures
