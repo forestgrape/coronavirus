@@ -12,13 +12,13 @@ home: true
   * [Epidemiological Topics](#epidemiological-topics): E.g. How they spread (transmission paths) and where spread is observed.
   * [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
   * Ideas to prevent and treat virus diseases including Covid.
-* [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which need to be evaluated. Market as explorative.
+* [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which need to be evaluated. Hypotheses and not well established knowledge are marked as 'explorative'.
 * [Public Suggestions and Tips](#public-suggestions-and-tips). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
 
 ---
 
 ## Recent Updates
-- 1.4.  Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
+- 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
 - 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
