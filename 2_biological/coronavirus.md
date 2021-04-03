@@ -1,7 +1,7 @@
 
 # Coronaviruses with a Focus on Sars-CoV-2
 [**in (re)work**]
-Various aspects of coronaviruses are described with a focus on understanding. We start with first principles: life forms on earth. Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. Next we look at coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.
+Various aspects of coronaviruses are described with a focus on understanding. We start with first principles: life forms on earth. Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement are sketched. Next we look at coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.
 
 * [Introduction to Life](#introduction-to-life)
   * [Life Forms](#life-forms)
@@ -10,7 +10,7 @@ Various aspects of coronaviruses are described with a focus on understanding. We
   * [Interactions between Life Forms](#interactions-between-life-forms)
   * [Keeping the Metabolism Immune](#keeping-the-metabolism-immune)
 * [Introduction to Viruses](#introduction-to-viruses)
-  * [Life Cycle](#life-cycle)
+  * [Life Cycles of Viruses](#life-cycles-of-viruses)
   * [Virus Classification](#virus-classification)
   * [Virus Entities](#virus-entities)
   * [Movement of Virions](#movement-of-virions)
@@ -49,15 +49,18 @@ Various aspects of coronaviruses are described with a focus on understanding. We
 ### Life Forms
 
 > ###### Life Form
-> A *life form* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and thus have near the same interaction patterns. These are called *progeny* or *next generation*.
+> A *life form* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and accordingly have near the same interaction patterns. These are called *progeny* or *next generation*.
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
-All known forms of life on earth interact with the environment at the molecular level on the basis of enzymes made of RNA and proteins (only RNA in the case of [viroids](#viroid)), which catalyze interactions in watery solutions. 
+All known forms of life on earth use enzymes made of RNA and/or proteins to steer biochemical reactions.
+
+###### Enzyme
+> An organic substance made from proteins and/or RNA, which catalyzes reactions in watery solutions. 
 
 The simplest forms of life are viroids. 
 > ###### Viroid
-> *Viroids* are pieces of RNA able catalyze self reproduction. 
+> *Viroids* are pieces of RNA able to replicate. 
 
 All other known forms of life also encode enzymes made of proteins.
 > ###### Protein
@@ -68,6 +71,13 @@ Proteins are assembled by ribosomes:
 > ###### mRNA
 > ###### Translation
 > *Ribosomes* read positive sense RNA, called *messenger RNA* or just *mRNA*, and select a amino acid for each triple of RNA acids and chain these amino acids together to proteins. This process is called *translation* since the mRNA is translated to a protein.
+
+The storage piece encoding mRNA making up a functional protein or a functional RNA is called a gene:
+
+> ###### Gene
+> A *gene* denotes a piece of storage encoding a functional polypeptide or RNA strand.
+
+Genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA, which in turn can get translated by ribosomes to proteins. 
 
 
 ### Lifetime Storage
@@ -115,12 +125,8 @@ Proteins are assembled by ribosomes:
 * dsDNA-RT = gapped DNA
 * dsRNA = Double strand RNA
 * ssRNA-RT = DNA-RNA reverse transcribing
-* dsDNA = Double stranded DNA
+* dsDNA = Double stranded DNA (all cellular life forms)
 
-> ###### Gene
-> A *gene* denotes a piece of storage encoding a single protein. 
-
-Often genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA which in turn can be translated to proteins. 
 
 ### Interactions between Life Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
@@ -195,10 +201,19 @@ So a host cell is always an infected cell.
 
 Most cells don't live forever. In multicellular organisms most cells live fare shorter than the organism itself and even most cell lines don't survive and only few cells have the chance of being part of the cells giving raise to descendants [Organisms](#). If virus infected, cells often die even faster. Thus viruses need to jump to next cells. To achieve this, most viruses, including coronaviruses, have a 2 phase life cycle.
 
-### Life Cycle
-Coronaviruses have a two phase life cycle:
-1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: [passive travel](#virion-travel), wait to be [activated](#virion-activation) by matched with an [infectable cell](#infectable-cell) in the right environment. Once activated virions try to enter the cell.
-2. Metabolic phase: Once inside a cell, a virus uses the cells metabolism to produce proteins and other substances using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell. As for all forms of life the ultimate goal is to produce progeny = new virions.
+### Life Cycles of Viruses
+Different viruses have different life cycles:
+* 1 Phase Life Cycle: Some viruses live always within cells and accordingly are only transmitted vertically and not horizontally [to confirm and cite].
+* 2 Phase Life Cycle: Most viruses including coronaviruses, have a two phase life cycle.
+    Coronaviruses have a two phase life cycle:
+    1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: [passive travel](#virion-travel), wait to be [activated](#virion-activation) by matched with an [infectable cell](#infectable-cell) in the right environment. Once activated virions try to enter the cell.
+    2. Metabolic phase: Once inside a cell, a virus uses the cells metabolism to produce proteins and other substances using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell. As for all forms of life the ultimate goal is to produce progeny = new virions.
+* 4 Phase life cycle: Retroviruses have a four 4 phase cycle [to confirm and cite]:
+  1. Sleeping Phase A: Virion Phase (corresponds the virion phase of 2-phase viruses).
+  2. Metabolic Phase A: In the metabolic phase A the virion build their genome into the host cells genome.
+  3. Sleeping Phase B: The virus genome is part of the host cell DNA.
+  4. Metabolic Phase B: The virus genome is transcribed to RNA from the host cells genome. The virus RNA is translated to new virions (corresponds the metabolic phase of 2-phase viruses).
+
 
 > ###### Virion
 > A *virion* is the 'birth-form' of a virus. The genome and proteins required to infect a cell are usually packed into some form of protective shell. A virion has no active metabolism.
@@ -207,9 +222,7 @@ Viruses while outside of cells are present always as virions. Virions are passiv
 
 > Virions are [similar to seeds of plants](#plant-seeds-to-virions): They are dormant and wait for activation. Virions don't have a metabolism running. They evolved to induce infection on the right circumstances. Once activated/primed cell fusion is initiated by using spring loaded energy stored in the structure of special proteins.
 
-
 Once a virus infects cells, it changes metabolism of the cell.
-
 
 
 > ###### Virus Infection
@@ -232,9 +245,9 @@ Therefore viruses are dependent on the host cells. Long-term surviving virus str
 
 
 ### Virus Classification
-As defined a [life form](#life-form) encoding proteins but not all of them is called aj [virus](#virus). This definition is very broad so often further classifications/grouping are done. 
+By definition, a [virus](#virus) is a [life form](#life-form) encoding proteins but not all. This definition is very broad so often further classifications/grouping are done. 
 
-> The goal of classification is usually to group things together which are similar to some features of interest. 
+> The goal of classification is usually to group things together which are similar to some properties or behavior of interest. 
 
 Features of interest for viruses are:
 * Viruses can be classified by the hosts they infect. E.g. bacteriophages infect bacteria.
@@ -397,8 +410,8 @@ Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in
 
 
 ## Coronavirus Life Cycle 
-As mentioned in [Introduction to Viruses](#introduction-to-viruses) the viruses have a multiphase life cycle. Coronaviruses have a two phase life cycle:
-* [Virion Phase](#virion-phase)
+As mentioned in [Introduction to Viruses](#introduction-to-viruses) viruses have a multiphase life cycle consisting at least of a [virion]. Coronaviruses have a two phase life cycle:
+* [Virion Phase](#virion-phase):[Virion](#virion)
 * [Metabolic Phase](#metabolic-phase)
 
 ### Virion Phase
@@ -472,14 +485,17 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term.
 
-Questions relevant for the tropism of viruses in the virion state:
-* To which receptors under which conditions the virions attach? 
-* Factors inducing activation and cell entry of virions?
+The tropism of viruses with a two phase life cycle, such as coronaviruses or influenza viruses, can be considered in the metabolic phase and the virion phase.
 
-Questions relevant for the tropism of viruses in the metabolic state:
-* Do the cells support viral replication?
-* Is cell death induced upon infections?
-* Are the viruses neutralized once inside the cell?
+* Virion Phase:
+    Questions relevant for the tropism of viruses in the virion state:
+    * To which receptors under which conditions the virions attach? 
+    * Factors inducing activation and cell entry of virions?
+* Metabolic Phase:
+    Questions relevant for the tropism of viruses in the metabolic state:
+    * Do the cells support viral replication?
+    * Is cell death induced upon infections?
+    * Are the viruses neutralized once inside the cell?
 
 <!--
 in work ...
