@@ -21,10 +21,10 @@ Diagnosis and Viral Load
   * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
   * [Detection Rates](#detection-rates)
   * [Diagnosis in the Nose](#diagnosis-in-the-nose)
-  * [Saliva Diagnosis](#saliva-diagnosis)
+  * [Diagnosis in the Mouth](#diagnosis-in-the-mouth)
   * [Diagnosis in the Lungs](#diagnosis-in-the-lungs)
   * [Challenges regarding Viral Load and Diagnosis](#challenges-regarding-viral-load-and-diagnosis)
-* [Saliva Diagnosis](#saliva-diagnosis-1)
+* [Saliva Diagnosis](#saliva-diagnosis)
   * [Literature on Saliva Diagnosis](#literature-on-saliva-diagnosis)
   * [Saliva Sampling Methods](#saliva-sampling-methods)
   * [Notes](#notes)
@@ -215,17 +215,17 @@ The saliva is secreted from different glands in the mouth. How much each of thes
 
 
 
-
-
 ## Diagnosis and Viral Load at Different Locations
 * For accessibility reasons investigating the upper respiratory is preferred. The viruses cause few (detectable) tissue damage. Sensitive virus detection methods such as PCR test/Antigen tests are able to detect viruses in the URT e.g. in nose mucus or saliva.
 * The largest number of susceptible cells to SARS-CoV-2 are in the lower respiratory tract. 
   * Tissue damage can be observed there by imaging (CT/Xray). and t
   * The viral load measured by analyzing sputum, endotracheal aspirate or bronchoalveolar lavage.
 
+
 ### Literature for Viral Load and Diagnosis
 * A recommended review for the viral load in upper respiratory tract specimens is [Lee et al](#summarized-review-lee).
 * [Yang et al](#summary-yang) investigated the viral load across locations the respiratory tract.
+
 
 ### Detection Rates
 Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken). In first week of severe respectively mild symptoms.
@@ -243,7 +243,9 @@ Severe  | Mild  | Specimen
 
 Sources: Mainly the [recommended literature](#literature-for-viral-load-and-diagnosis) above but also from other [summarized references](#summarized-references).
 
+
 ### Diagnosis in the Nose
+
 #### Nasopharyngeal Swabs
 Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of December 2020, often used as 'gold standard' for Covid-19 diagnosis. NPS samples can be analyzed either by PCR or antigen tests.
 * quite easy to take but trained persons are needed
@@ -260,10 +262,11 @@ Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of 
 #### Nasal Swab
 The anterior or mid-turbinate mucus can be swabbed. Overall detection rates tend to about 10% lower than NPS (Figure 5 in [Lee et al](#summarized-review-lee)). [Hanson et al](#summary-hanson) observed about a 10% lower detection for anterior nasal swabs compared to NPS or saliva. 
 
-### Saliva Diagnosis
-The sensitivity depends on the timing and the exact protocol. Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Procedures](#saliva-sampling-procedures) in the section [saliva based Diagnosis](#saliva-diagnosis). 
 
-> Separate section since I consider saliva diagnosis as the best option for routine Covid diagnosis. 
+### Diagnosis in the Mouth
+The sensitivity depends on the timing (e.g. before or after eat), the location (e.g. back of the throat, normal spitting) and the exact protocol (e.g. gargling or coughing up sputum). Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Methods](#saliva-sampling-methods) in the section [Saliva Diagnosis Chapter](#saliva-diagnosis). 
+
+> Separate chapter since it is a good option for routine Covid diagnosis and thus discussed in more than detail than other diagnosis locations. 
 
 #### Oropharyngeal Swabs
 [Zhou et al](#summary-zhou) compared oropharyngeal swabs to NPS: OPS are more variables and have lower sensitivity. 
