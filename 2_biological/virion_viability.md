@@ -1,4 +1,4 @@
-# Virion Viability
+# Virion Viability with a Focus on Coronaviruses
 
 ## Content
 * [Content](#content)
@@ -40,7 +40,7 @@
 > * **some parts are explorative**
 > * **some data/values need additional checking**
 > * **pointing out mistakes is appreciated**
-> 
+
 
 
 ## Short Summary Virion Viability
