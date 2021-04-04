@@ -1,6 +1,7 @@
 
 # Life Forms with a Focus on Viruses
 
+* [Summary](#summary)
 * [Introduction to Life](#introduction-to-life)
   * [Life Forms](#life-forms)
   * [Lifetime Storage](#lifetime-storage)
@@ -12,6 +13,10 @@
   * [Virus Classification](#virus-classification)
   * [Virus Entities](#virus-entities)
   * [Movement of Virions](#movement-of-virions)
+
+
+## Summary
+First things first: life forms on earth. A life-forms has memorized environment interactions and is able to produce rough copies of itself, called progeny. Viruses are defined as life forms which can't produce all enzymes required for their metabolism. Aspects such as life cycle and movement of viruses are sketched. 
 
 ## Introduction to Life
 
@@ -25,17 +30,20 @@ In other words, a form of live has memorized environment interactions and passes
 All known forms of life on earth use enzymes made of RNA and/or proteins to steer biochemical reactions.
 
 ###### Enzyme
-> An organic substance made from proteins and/or RNA, which catalyzes reactions in watery solutions. 
+> An organic substance made from proteins and/or RNA, which catalyzes reactions in watery solutions.
 
-The simplest forms of life are viroids. 
+The simplest forms of life are viroids.
+
 > ###### Viroid
-> *Viroids* are pieces of RNA able to replicate. 
+> *Viroids* are pieces of RNA able to replicate.
 
 All other known forms of life also encode enzymes made of proteins.
+
 > ###### Protein
 > *Proteins* are amino acids chained together.
 
 Proteins are assembled by ribosomes:
+
 > ###### Ribosome
 > ###### mRNA
 > ###### Translation
@@ -46,28 +54,28 @@ The storage piece encoding mRNA making up a functional protein or a functional R
 > ###### Gene
 > A *gene* denotes a piece of storage encoding a functional polypeptide or RNA strand.
 
-Genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA, which in turn can get translated by ribosomes to proteins. 
+Genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA, which in turn can get translated by ribosomes to proteins.
 
 
 ### Lifetime Storage
-[in work] Life forms have to ability to memorize environment interactions. Four kinds of lifetime storage are known to be used on todays earth. 
+[in work] Life forms have to ability to memorize environment interactions. Four kinds of lifetime storage are known to be used on todays earth.
 
 * ##### ssRNA
     single stranded RNA:
-    - unstable 
+    - unstable
     - difficult to reliably duplicate, recombination possible
 * ##### dsRNA
-    double stranded RNA: 
+    double stranded RNA:
     - somewhat unstable
     - somewhat reliable duplication possible
 * ##### ssDNA
-    single stranded DNA: 
+    single stranded DNA:
     - difficult to reliable duplicate, recombination possible
     - mediocre stability
 * ##### dsDNA
-    double stranded DNA: 
+    double stranded DNA:
     - very stable
-    - reliable duplication possible 
+    - reliable duplication possible
 
 #### Notes on Storage
 * only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other life forms are dependent on some enzymes produced by dsDNA forms and are called [viruses](#virus).
@@ -79,8 +87,9 @@ Genes are sequences of single/double stranded DNA or RNA which are transcribed t
 
 #### 1 Form using RNA only
 
-> ##### Viroid
-> Viroids = single RNA strand which catalyzes its duplication
+* uRNA = untranslated RNA 
+  * single RNA strand which catalyzes its duplication
+  * only occurs in [Viroids](#viroid) [to check].
 
 #### 7 Forms using Proteins
 7 forms of combinations of lifetime storage and duplication/decode mechanisms are known to be in use on earth, known as Baltimore classification:
@@ -99,12 +108,12 @@ Genes are sequences of single/double stranded DNA or RNA which are transcribed t
 
 ### Interactions between Life Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
-* All forms of life except those who are able to do photosynthesis or use other inorganic energy sources (thermal, chemical) are dependent on organic energy sources i.e. forms of energy produced by other forms of life. 
+* All forms of life except those who are able to do photosynthesis or use other inorganic energy sources (thermal, chemical) are dependent on organic energy sources i.e. forms of energy produced by other forms of life.
 * Besides energy, mammals - including us humans - also need extern sources for vitamins, essential amino acids, essential fatty acids, ...
 
 Cell forming forms usually just need the ingredients (raw materials) and are able to produce the enzymes (machines). Where as [viruses](#virus) by definition don't produce all needed enzymes (machines).
 
-Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings. Sometimes the couplings are so strong that the combination is a new form of life: E.g. mitochondria as cell organelles. 
+Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings. Sometimes the couplings are so strong that the combination is a new form of life: E.g. mitochondria as cell organelles.
 
 
 
@@ -116,7 +125,7 @@ Most life forms have have some mechanisms to keep their metabolism immune i.e. r
 As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms have their metabolism inside semipermeable membranes [to check: all double layer lipid?]. Such a structure is called a cell. Some cells have just the outer membrane:
 
 > ##### Prokaryotes
-> Some forms of life have just this outer membrane but no inner membrane shielding the genome away from the main metabolism. These forms are called *prokaryotes* (from Greek: pro=before, karyo=kernel).
+> Life forms having an outer membrane but no inner membrane shielding the genome away from the main metabolism. These forms are called *prokaryotes* (from Greek: pro=before, karyo=kernel).
 
 Some cells are subdivided again by membranes into different compartments which are called cell organelles. If the genome is shielded by a kernel genome is shielded by a membrane this organelle is called nucleus. 
 

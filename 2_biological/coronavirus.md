@@ -1,7 +1,7 @@
 
 # Coronaviruses with a Focus on Sars-CoV-2
 [**in (re)work**]
-Various aspects of coronaviruses are described with a focus on understanding. We start with first principles: life forms on earth. Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement are sketched. Next we look at coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.
+ We look at coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.
 
 * [Introduction to Coronaviruses](#introduction-to-coronaviruses)
   * [Nidovirales](#nidovirales)
