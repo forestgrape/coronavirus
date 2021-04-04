@@ -1,13 +1,13 @@
 
-# Hypotheses about Nidovirales
+# Hosts of Nidovirales
 
 > EXPLORATIVE 
 
-Hypotheses about Nidovirales are discussed. They extend the [page coronaviruses](../2_biological/coronavirus.md#top). 
+Hypotheses about the host tropism of Nidovirales are discussed. They extend the [page coronaviruses](../2_biological/coronavirus.md#top). 
 
 ## Content 
 * [Content](#content)
-* [Hypotheses in Short](#hypotheses-in-short)
+* [Summary](#summary)
 * [Relevance](#relevance)
 * [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
   * [Relevance](#relevance-1)
@@ -24,8 +24,8 @@ Hypotheses about Nidovirales are discussed. They extend the [page coronaviruses]
 
 
 
-## Hypotheses in Short
-[in work]
+## Summary
+> [in work, goal April 2021]
 
 ## Relevance
 To know the evolutionary hosts helps to understand Nidovirales. Understanding in turn can enable us to steer coronaviruses infections, including SARS-CoV-2 infections.
@@ -96,8 +96,13 @@ Many references that base and inspire this findings, are [summarized](./hypothes
     
 5. Insectivores mammals could be intermediate hosts for the transmissions to humans. SARS-like infected mammals often have a respiratory disease and transmission can occur airborne from then on. Civets likely have been intermediate hosts responsible for some jumps to humans. 
 
-# Summaries and References
-[in work]
+
+
+
+## Summarized References
+
+> [in work]
+
 The focus of the summaries is in the following order:
 1. capture the findings used in the above argumentation
 2. capture the essence of the studies
@@ -106,11 +111,6 @@ Notes:
 * references like 'Figure 2' refer to 'Figure 2' in the corresponding paper. 
 * word by word extracts are between "..." and denoted as extracts
 
-
-
-## Summarized References
-
-> IN WORK
 
 ### Origin and Evolution of SARS-like
 
