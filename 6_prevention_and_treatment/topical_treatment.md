@@ -2,6 +2,7 @@
 
 [**in work and incomplete, only summary somewhat complete**]
 
+
 ## Summary Topical Treatment
 Infections on the surface of the upper and lower respiratory tract can be treated topically. For upper respiratory tract infections this is already common as it is common for other locations such as the skin. Advantages of topical treatments are 1. that the medications reach the pathogens directly and 2.relaxed tolerability constraints compared to systemic medications. Topical treatments of the lower respiratory tract can be by inhalation of the medications or other methods such as washings.
 
@@ -25,9 +26,10 @@ Summed up with topical treatment the removal of infectious virions seems possibl
 An example of a topical treatment is to [modulate the temperature and humidity](./temperature_modulation.md).
 
 
+
 ## Introduction
 [**in work**]
-On todays earth nearly all lifefroms life in an interplay with countless other lifeforms. Microbiota often live on epithelial tissues of multicellular lifeforms, the hosts. Mostly there is a balance and interplay between the host immune system and the microbiata. If the host immune is not prepared to keep the microbiota in check (e.g. because of injuries or new microbiata) a disease of the host can be caused. 
+On todays earth nearly all lifeforms life in an interplay with countless other lifeforms. Microbiota often live on epithelial tissues of multicellular lifeforms, the hosts. Mostly there is a balance and interplay between the host immune system and the microbiata. If the host immune is not prepared to keep the microbiota in check (e.g. because of injuries or new microbiata) a disease of the host can be caused. 
 Topical medication to prevent or treat such diseases are common for many locations:
 * If the protective function of the skin is not intact in case of a wound, it is common practice to reduce the microbiate at the location by washing or disinfecting.
 * In the intestine topical medications are common too e.g. nystatin. 
@@ -42,6 +44,8 @@ The treat lower respiratory tract infections topicals medications are less commo
     
 Nevertheless topical medication for the lower respiratory tract can be beneficial since higher concentrations and even different medicines can be used. Different topical treatment options and possible benefits and risks are discussed.
 
+
+
 ## Mode of Action to treat Virus Infections
 [**in work**]
 
@@ -49,6 +53,8 @@ Nevertheless topical medication for the lower respiratory tract can be beneficia
 Many viruses infecting the respiratory tract infects cells from the apical side and release the virions again from the apical side.
 * SARS-like coronaviruses: [in work]
 -->
+
+
 
 ## Topical Medications
 ### Temperature and Humidity Modulation
