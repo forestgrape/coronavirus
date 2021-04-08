@@ -11,16 +11,11 @@
   * [Metabolic Phase](#metabolic-phase)
 * [Tropism of Viruses](#tropism-of-viruses)
   * [Tropism Virion Phase](#tropism-virion-phase)
-  * [Metabolic Phase Tropism](#metabolic-phase-tropism)
-  * [Cell Tropism](#cell-tropism)
-  * [Tissue Tropism](#tissue-tropism)
-* [Tissue Tropism of Sars-CoV-2](#tissue-tropism-of-sars-cov-2)
-  * [Theoretical Deduction](#theoretical-deduction)
-  * [Empirical Deduction of the SARS-2 Tissue Tropism](#empirical-deduction-of-the-sars-2-tissue-tropism)
-* [Habitat](#habitat)
-  * [Organisms Habitat aka Hosts](#organisms-habitat-aka-hosts)
-  * [Conquering new Habitats](#conquering-new-habitats)
-  * [Infecting New Species](#infecting-new-species)
+  * [Metabolic Phase Taxis](#metabolic-phase-taxis)
+  * [Taxes in Cells](#taxes-in-cells)
+  * [Tissue Tropisms](#tissue-tropisms)
+  * [Taxes for Cells of Sars-Cov-2](#taxes-for-cells-of-sars-cov-2)
+  * [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
 * [Evolution and Adaption](#evolution-and-adaption)
   * [Conserved Patterns](#conserved-patterns)
   * [Changing Patterns](#changing-patterns)
@@ -29,6 +24,8 @@
   * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
   * [References Cell Entry](#references-cell-entry)
   * [Expression Locations of ACE2](#expression-locations-of-ace2)
+* [Appendix](#appendix)
+  * [ACE2 Receptor](#ace2-receptor)
 
 
 
@@ -76,32 +73,30 @@ Betacoronavirus identified causing MERS.
 * main spreading events observed in indoor settings
 
 ##### Bovine Coronaviruses
-Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle. 
+Abbreviated BCoV. Betacoronavirus causing diarrhea and respiratory infections in cattle.
+
 
 
 ## Coronavirus Life Cycle 
-As mentioned in [Introduction to Viruses](#introduction-to-viruses) viruses have a multiphase life cycle consisting at least of a [virion]. Coronaviruses have a two phase life cycle:
+As mentioned in [Introduction to Viruses](#introduction-to-viruses) viruses have a multiphase life cycle. Coronaviruses have a two phase life cycle:
 * [Virion Phase](#virion-phase):[Virion](#virion) birth form and no active metabolism.
-* [Metabolic Phase](#metabolic-phase): Inside a cell using the cell metabolism. 
+* [Metabolic Phase](#metabolic-phase): Inside a cell using the cell metabolism.
+
 
 ### Virion Phase
 Travel and Wait for Activation.
-Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase. 
+Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase.
 
 #### Virion Travel 
 Once released from a cell virions are moved by external forces ([movement-of-virions](../2_biological/life-forms.md#movement-of-virions)) until they are [activated](#tropism-virion-phase) to start the cell infection process.
-A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](../2_biological/life-forms.md#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination. 
+A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](../2_biological/life-forms.md#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination.
 
 The infectable cell can be:
-* in the same host or in another host 
+* in the same host or in another host
 * in the same tissue or in another tissue
 * of the same cell type or of another cell type
 
 #### Virion Activation
-
-##### Plant Seeds to Virions
-> Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells. Coronaviruses evolved to check biological conditions: receptors on cell membranes and proteases available in the environment around the cell.
-
 
 Coronaviruses virions usually need to be activated before they bind to cell or initiate cell fusion. Since:
 * The spike are like springs and have stored energy by which a coronavirus virion can induce cell fusion but without metabolism virions can't reload the spikes. 
@@ -111,16 +106,21 @@ Coronaviruses virions usually need to be activated before they bind to cell or i
 The spikes proteins are the only part by which coronavirus virions interact with the environment, so the spike need to be activated i.e. each activation step sets a spike to a different state. 
 
 > ##### Spike Priming
-> *Spike priming* means the spike is set to a state ready for the next step in the [cell entry process](#cell-entry). 
+> *Spike priming* means the spike is set to a state ready for the next step in the [cell entry process](#cell-entry).
+
+
+##### Plant Seeds to Virions
+> Plant seeds evolved first to travel and then to be activated under favorable conditions for growth, at least as far as the seeds are able to check the conditions. Similarly virions need to be activated to initiate cell entry and thereby start the [metabolic phase](#metabolic-phase). Plants mainly need and check the right physical and chemical conditions to growth. Correspondingly seeds are activated by their physical environmental factors such as temperature, humidity, light and minerals dissolved in the surrounding water to start their metabolism. Viruses need the right biological conditions inside the cells. Coronaviruses evolved to check biological conditions: receptors on cell membranes and proteases available in the environment around the cell.
+
 
 #### Cell Entry
-- the virus gets attached to the matching receptor on the target cell mostly via the spike protein
-- fusion of the viral envelope with host cell membranes once [primed](#priming): 
+1. the virus gets attached to the matching receptor on the target cell mostly via the spike protein
+2. fusion of the viral envelope with host cell membranes once [primed](#spike-priming): 
     * binding to a receptor on the cell membrane -> cleavage sites are exposed 
     * cleavage through proteases at specific cleavage sites enable a conformation change 
-    * the conformation change presses the fusion-peptides of the spike protein into the cell membrane 
+    * the conformation change push the fusion-peptides of the spike protein into the cell membrane 
     * with the fusion peptides anchored in the cell membrane a further conformation change of the spike protein presses the viral and cell membrane together which can result in membrane fusion. 
-- release and unpacking of genome and the structural proteins into the cytoplasm 
+3. release and unpacking of genome and the structural proteins into the cytoplasm 
 - once the viral RNA and the viral proteins are in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
 
 
@@ -140,27 +140,27 @@ The goal of the first phase in the metabolism is to produce RdRP (RNA dependent 
 The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the properties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template mediated by the polymerase protein:
 1. (+) RNA --transcription--> (-) RNA template
 2. (-) RNA template -- transcription-->
-   *  pieces of subgenomic mRNAs which get translated to mostly structural proteins (N, S, M, E, [HE])
+   *  pieces of subgenomic mRNAs which get translated to mostly structural proteins (N, S, M, E, HE)
    *  (+) RNA genomes to get packed together with the N proteins to form the nucleocapsids of new virions and thus building up new virions.
+
 
 
 ## Tropism of Viruses
 
+The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia]
+
+In virology tropism this is adapted to virus entities growing preferable at some locations. 
+
 ###### Tropism
+> A virus *has a tropism* for an object if the objects are well support 'growth' of the virus. Specifically: 
+> * Cells that support virus replication. 
+> * Tissues, organs or organisms that support the growth of virus entities.
 
-> *Tropism*: The word comes from Greek 'tropos' which means turning. For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances. Tropism of viruses describes how viruses behave in different biochemical or biological circumstances (e.g. on what conditions they enter a cell). 
-
-> In literature, the term tropism of viruses often used only in the context of tissues: in which tissues infections are observed, denoted here as [Tissue Tropism](#tissue-tropism).
-
-> The focus is on the tropism of coronaviruses. Many statements are true for most viruses. The more closely related the more: Coronaviruses < Nidovirales < positive sense RNA viruses < RNA viruses < viruses. 
-
-Both evolution and biological constraints yield the tropism of viruses. Evolution favours successful survival both short-term and long-term.
-
-The tropism of viruses with a two phase life cycle, such as coronaviruses or influenza viruses, can be considered in the metabolic phase and the virion phase.
+The tropism for a cell is called [Cell Tropism](#cell-tropism), [Tissue Tropism](#tissue-tropism) and [Organism or animal Tropism](#organisms-tropism).
 
 * Virion Phase:
     Questions relevant for the tropism of viruses in the virion state:
-    * To which receptors under which conditions the virions attach? 
+    * To which receptors under which conditions the virions attach?
     * Factors inducing activation and cell entry of virions?
 * Metabolic Phase:
     Questions relevant for the tropism of viruses in the metabolic state:
@@ -168,10 +168,11 @@ The tropism of viruses with a two phase life cycle, such as coronaviruses or inf
     * Is cell death induced upon infections?
     * Are the viruses neutralized once inside the cell?
 
+
 <!--
 in work ...
  Determinants for the tropism are:
-* cell types:   
+* cell types:
     - receptors expressed
     - biochemistry inside the cells
 * environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
@@ -179,11 +180,7 @@ in work ...
     - chemical environment: e.g. pH value
     - biological environment: e.g. Virions are primed for cell entry by specific proteins
     -->
-<!--
-<p id='tropism-of-coronaviruses'>-----</p>
 
-## Tropism of Coronaviruses
-The general concepts are outlined in the section [tropism of viruses](#tropism-of-viruses) in this section is about the [tropism](#tropism) of coronaviruses with a focus on Sars-CoV-2. As discussed there's a tropism in the virion phase and in the metabolic phase. These two yield the overall cell tropism. -->
 
 
 ### Tropism Virion Phase
@@ -195,60 +192,64 @@ As described in the section [virion activation](#virion-activation) the virions 
 * Matching Receptor on the target cell surface
 
 
-### Metabolic Phase Tropism
+### Metabolic Phase Taxis
 [in work: incomplete and citations/confirmation in work]
 
-> The tropism in the virion phase is better known than the tropism in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). The transfected cell however don't need to behave similar to the cells which are naturally infected. So to investigate the metabolic phase,  To investigate the metabolic phase, ideally one could look into the cells. 
+> The taxis in the virion phase is better known than the taxis in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). The transfected cell however don't need to behave similar to the cells which are naturally infected. So to investigate the metabolic phase,  To investigate the metabolic phase, ideally one could look into the cells.
 
-#### Cell Preferences
+#### Cell Tropism
 * The cell environment shouldn't deactivate the virus or alarming the immune system.
 * The cell should be able to produce many virions and thus should have a capable metabolism.
+  
 
-#### Metabolic Phase Tropism of Coronaviruses
+### Taxes in Cells
+
+##### Taxis in Cells
+> *Cell taxis* is used on this page to describe how a virus behaves upon match of a virion to a specific cell type i.e. the behavior in specific cells.
+
+The cell taxis is the combination of the [virion behavior](#tropism-virion-phase) which determines whether a cell infection takes place and the [taxis in the metabolic phase](#taxis-metabolic-phase) which determines the changes in the cells metabolism induced upon infection.
+
+#### Coronavirus Taxis for Cells
 [in work]
 * Ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
-* Immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place. 
+* Immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place.
 
-
-### Cell Tropism
-
-> *Cell tropism* describes how a virus behaves upon match of a virion to a specific cell type. 
-
-The cell tropism is the combination of the [virion tropism](#tropism-virion-phase) which determines cell entry and the [tropism in the metabolic phase](#tropism-metabolic-phase) which determines the changes in the cells metabolism induced upon viral entry. 
-
-Viruses optimized to their environment often infect only cells involved in the survival of the virus strain:
-* Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract. 
+Viruses optimized to their environment usually only infect cells involved in the survival of the virus strain:
+* Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract.
 * Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. For betacoronaviruses these are similar the entry cells i.e. secretory and ciliated cells in the epithelium of the respiratory tract.
 * Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
-    - Those coronaviruses having a [dual host life cycle](./hypotheses_nidovirales.md): Often cells in the intestine or the kidney. 
-    - For indoor living hosts these are often in the upper respiratory tract. 
-* Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis. 
+    - Coronaviruses entities infecting outdoor living hosts, usually leave the hosts by feces. So cells in the intestine are infected.
+    - For indoor living hosts (us humans and our domestic animals) these are often the same cells as entered i.e. cells in the respiratory tract.
+* Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis.
+
+
+###### Tissue Taxis
+> *Tissue taxis* denotes how a virus infection behaves in a specific tissues.
 
 
 
-### Tissue Tropism
+### Tissue Tropisms
+
+###### Tissue Tropism 
+> *Tissue tropism* describes whether a virus entity growths well in a certain tissue.
+
+Coronaviruses replicate well in the respiratory tract, thus they have a tropism for the respiratory tract.
+
 The tissue tropism depends on:
-* Susceptible Cells in the tissue 
-* Reachability of the Cells
-  * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#cell-orientation) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from  to the kidney and the intestine from where they can leave and infect the next host. 
+* Susceptible Cells in the tissue
+* Movement within the tissue i.e. reaching the next cell in the tissue
+  * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#apical-side-preference) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from the intestine from where they can leave and infect the next host. 
   * Coronaviruses are to big to diffuse efficiently inside most tissues.
-* Local Immune system
+* Immune defenses present locally in the tissue.
 
 
-## Tissue Tropism of Sars-CoV-2
-[in rework to remove errata and to clarify]
-The task determine to habitat of Sars-CoV-2 can be tackled either 
-* a [theoretical deduction](#theoretical-deduction) based on the cell tropism of SARS-CoV-2. The cell tropism in turn is based on in vivo and in vitro experiments and observations.
-* an [empirical deduction](#empirical-deduction) based on observations of Covid-19 cases.
+#### Tropism for the Apical Side
+*  The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the epithelial cell layer, the virions come mostly in contact with the apical sides of cells.
+* In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similar observations for the coronavirus 229E: It infects the cells, corresponding to its receptor (amino-peptidase N) expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
-### Theoretical Deduction
-In the following the [tissue tropism](#tissue-tropism) of Sars-CoV-2 is deduced from the [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question. 
 
-#### SARS-2 Cell Entry
-[**in rework/reorder**]
-The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
 
-#### Cell Tropism of Sars-Cov-2
+### Taxes for Cells of Sars-Cov-2
 [in work]
 * efficient replication
     - alveolar type 2 cells
@@ -256,104 +257,37 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 * infection but no replication
     - dendritic cells [check: if ACE2 expressed/other mechanism of phagocytosis]: aptosis induce
 * no entry
-    - Cells not expressing ACE2. 
-    - Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted (usually captured in an endosome). 
+    - Cells not expressing ACE2. Except if the cells phagocyte virions on their own and the virions are able to fuse the membranes once phagocyted (usually captured in an endosome). 
     E.g. antibody marked virions can get phagocyted by macrophages. 
     
         > This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
 
-#### Cell Orientation  
-*  The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the epithelial cell layer, the virions come mostly in contact with the apical sides of cells.
-* In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similarly was observed for the common cold causing coronavirus 229E: It infects the cells, corresponding to its receptor, amino-peptidase N, expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
 
-#### ACE2 Receptor Detection
-There are two common methods to measure tissue distribution of proteins:
-* ##### Antibody Staining
-    Proteins on cell surfaces can be visualized by using marked antibodies. Several groups have analyzed tissues with ACE2 antibodies: [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
-* ##### Measure mRNA
-    Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
-
-##### Caveats of ACE2 Detection
-[in work, verification needed]
-For serving as an entry point, ACE2 needs to be built into the cell membrane as a receptor i.e. being useable from the outside. If _both_ of above methods are positive, this is very likely [antibody staining is likely enough, to check]. Since coronaviruses have a preference for [apical tissue sites](#tissue-tropism) ACE2 should be expressed on the apical sites. 
-* [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
-* [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
-    - stay in the cell e.g. in the cytoplasm or move into the nucleus
-    - be released from the cell
-    - being built into the cell membrane on the basal side or on the apical side as a receptor <= needed by coronaviruses. 
-
-#### ACE2 Receptor Distribution
-[**incomplete and in rework**]
-[recommended read is [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]
-ACE2 is apically available 
-* in the lower respiratory tract
-    - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
-    - alveolar epithelial type 2 cells [to check/find citation].
-  
-* in the upper respiratory tract
-    - the basal layer of the non-keratinised squamous epithelium of the nasal and oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau). 
-    - goblet cells[todo: other cells (goblet) too in rework]
+#### SARS-2 Cell Entry
+The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
 
 
-### Empirical Deduction of the SARS-2 Tissue Tropism
+### Habitat of Sars-CoV-2
+[in rework to remove errata and to clarify]
+The task determine to habitat of Sars-CoV-2 can be tackled either 
+* a [theoretical deduction](#theoretical-deduction) based on the cell taxis and tropism, ability to reach new infectable cells within the tissue and the immune surveillance in place. The cell taxis and tropism in turn are based on in vivo and in vitro experiments and observations.
+* an [empirical deduction](#empirical-deduction) based on observations of Covid-19 cases. E.g. determine the viral load which corrected for the movement of virions corresponds to the infection locations.
+
+
+#### Theoretical Deduction
+In the following the [tissue habitat](#tissue-habitat) of Sars-CoV-2 is deduced from the [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question.
+
+#### Empirical Deduction
 [in rework: update and a section for each strain]
-Viral load in combination with the [movements of virions](#movement-of-virions) inside the body can be used to track tissue preferences of Sars-CoV-2. 
+The [viral loads](../3_medical/diagnosis_and_viral_load.md) measured in combination with the [movements of virions](#movement-of-virions) inside the body can be used to backtrack tissue habitats of Sars-CoV-2. 
 [in work]
 * In the chapter [disease pattering](../3_medical/coronavirus_disease_patterns.md) it is described that coronaviruses infect different location throughout the respiratory tract.
 * The viral loads observed for SARS-CoV-2 for diagnostic purposes are described in the chapter [Diagnosis and Viral Load](./../3_medical/diagnosis_and_viral_load.md).
 
-## Habitat
-[in rework]
-As outlined in the section [tropism](#tropism) there is a variety of conditions for a virus to start to metabolism and even more too successfully replicate. These environments form the habitat of a virus strain:
-
-> ###### Habitat
-> The *Habitat* of a virus are the locations which are frequently infected: [cells](#infected-cell), tissues, organs or [organism](#infectable-organism). E.g. Sars-CoV-2 frequently infects alveolar epithelial cells. These cells are in the lower lungs, so the lower lungs are a habitat for SARS-2 in the human host.
-
-### Organisms Habitat aka Hosts
-The organisms forming the habitat are called hosts.
-
-> ###### Host
-> A *host* of a virus is an [infectable organism](#infectable-organism) and these infections occur frequently and are relevant for the spread of the virus i.e. are part of the life cycle.
-
-> ###### Endemic
-> A virus strain is *endemic* in a collection of organisms if that collection is a habitat of the virus.
-
-Sometimes it is helpful to name frequently infected organism which play no role in the virus spread:
-
-> ###### Side Host
-> A *Side Host* or *Terminal Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot efficiently replicate or leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host.
-
-### Conquering new Habitats
-The virus can get attached to a cell types or hosts the given strain which are not part of its current habitat. Most likely the entity of viruses doesn't manage to adapt to the new target. However if a lineage of viruses manages to adapt to the new target, this becomes a new habitat. 
-The new habitat can be:
-- a new cell type
-- a new tissue type
-- a new organism type: [infecting new species](#infecting-new-species)
-
-Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
-
-### Infecting New Species
-With no metabolism running virions can not move on their own and so they can't steer their [movement](#movement-of-virions) to only reach their hosts. If a virus strain reaches organism of some species, there are several cases <!--[in programming languages: switch(animal)/animal match]-->:
-* the organism reached is a host -> continue life cycle 
-* the organism reached is not a host:
-    - it is not infectable -> break
-    - it is infectable. This yields an [*interspecies infection*](#interspecies-infection). Again two cases:
-        * the virus entity can *not* efficiently leave to keep up the chain of infections: on average less than one virion (i.e. reproduction factor is < 1)-> break i.e. the infection chain is a cul-de-sac and the organisms are [side hosts or terminal hosts](#side-host) 
-        * on average more than one virion of a virus entity can leave and infect another organism (i.e. the reproduction factor is > 1) -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happened. Since the evolutionary drive changes, this can give raise to a new virus strain. 
-    
-> ###### Interspecies Infection
-> An _interspecies infection_ is when an animal which is not an existing [host](#host) animal becomes infected by a virus strain. 
-
-> ###### Interspecies Jump
-> An *interspecies jump* denotes a transmission to a new species and the species becomes a new [host](#host) i.e. the new species becomes part of the habitat of the virus. The virus strain may evolve to an adapted new strain.
-
-> ###### Zoonosis
-> A *zoonosis* is an [interspecies jump](#interspecies-jump) where the new host species is human (homo sapiens).
-
-So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
 
 
-#### Observed Interspecies Infections
+
+#### Interspecies Infections of Coronaviruses
 * all occurrences where [interspecies jumps](#interspecies-jump) occurred at least one [interspecies infection](#interspecies-infection) must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
 * Infections of Humans:
     - In the 70s and 80s there were a couple of reports that BCoV regularly causes infections in the human intestines. Most of them are based on EM images and serological evidence. However, since most groups couldn't cultivate the viruses and there's some doubt [citations on the way]. 
@@ -491,5 +425,39 @@ Examples of well conserved proteins for coronaviruses are:
 
 
 
+## Appendix
 
-     
+### ACE2 Receptor
+#### ACE2 Receptor Detection
+There are two common methods to measure tissue distribution of proteins:
+* ##### Antibody Staining
+    Proteins on cell surfaces can be visualized by using marked antibodies. Several groups have analyzed tissues with ACE2 antibodies: [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
+* ##### Measure mRNA
+    Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
+
+##### Challenges for ACE2 Detection
+[in work, verification needed]
+For serving as an entry point, ACE2 needs to be built into the cell membrane as a receptor i.e. being useable from the outside. 
+
+Since coronaviruses have a preference for [apical tissue sites](#tissue-tropism) ACE2 should be expressed on the apical sites. 
+* [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
+* [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
+    - stay in the cell e.g. in the cytoplasm or move into the nucleus
+    - be released from the cell
+    - being built into the cell membrane on the basal side or on the apical side as a receptor <= needed by coronaviruses. 
+
+Receptor detection rules:
+* If _both_ [receptor detection methods](#ace2-receptor-detection) yield true, this is very likely. 
+* Antibody staining is likely enough if the 'receptor molecule' cannot be attached on the outside of a cell or if it can be cleaned away.
+* Measuring mRNA is enough if the 'receptor' is always exposed on the cell membrane if produced and thus not reside intracellular.
+
+#### ACE2 Receptor Distribution
+[**incomplete and in rework**]
+[recommended read is [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]
+ACE2 is apically available 
+* in the lower respiratory tract
+    - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
+    - alveolar epithelial type 2 cells [to check/find citation].
+* in the upper respiratory tract
+    - the basal layer of the non-keratinised squamous epithelium of the nasal, oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau) [in rework]. 
+    - goblet cells [in work]
