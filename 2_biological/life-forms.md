@@ -13,6 +13,10 @@
   * [Virus Classification](#virus-classification)
   * [Virus Entities](#virus-entities)
   * [Movement of Virions](#movement-of-virions)
+* [Habitats](#habitats)
+  * [Organisms Habitats](#organisms-habitats)
+  * [Conquering new Habitats](#conquering-new-habitats)
+  * [Infecting New Species](#infecting-new-species)
 
 
 ## Summary
@@ -341,3 +345,71 @@ The probability to reach a *next* exploitable host, is especially low, due to ma
 * heat
 * chemical environment
 <!--transmission bottleneck important for evolution-->
+
+
+
+
+
+## Habitats
+[in rework]
+As outlined in the chapter taxes of viruses there are a variety of conditions for a virus to start to metabolism and even more too successfully replicate. Environments satisfying the tropisms constraints and frequently reached by viruses, form a place of living. These places are called habitats. 
+
+> ###### Habitat
+> The *Habitat* of a virus are the locations which are frequently infected. The locations can be cells, tissues, organs, life forms or groups of life forms.
+
+E.g. Sars-CoV-2 frequently infects alveolar epithelial cells => 
+* the alveolar epithelial cells are a cell habitat
+* the alveolar epithelium a tissue habitat
+* the lower lungs - where these tissue is - are an organ habitat for SARS-2
+* humans are an organism habitat (called hosts) for SARS-2. 
+
+###### Core Habitat
+> The core habitat are habitat locations which are relevant for the survival of a virus line.
+
+###### Side Habitat
+> The side habitat denotes infected locations which are not relevant for the spread i.e. viruses lines in a side will not survive.
+
+### Organisms Habitats
+Organisms being a habitat are called hosts.
+
+> ###### Host
+> A *host* of a virus is an organisms habitat of a virus. 
+
+Organisms in the habitat of a virus are frequently infected.
+
+> ###### Endemic
+> A virus strain is *endemic* in a collection of organisms if that collection is a habitat of the virus.
+
+Sometimes it is helpful to name frequently infected organism which play no role in the virus spread:
+
+> ###### Side Host
+> A *Side Host* or *Terminal Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot efficiently replicate or leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host.
+
+### Conquering new Habitats
+The virus can get attached to a cell types or hosts the given strain which are not part of its current habitat. Most likely the entity of viruses doesn't manage to adapt to the new target. However if a lineage of viruses manages to adapt to the new target, this becomes a new habitat. 
+The new habitat can be:
+- a new cell type
+- a new tissue type
+- a new organism type: [infecting new species](#infecting-new-species)
+
+Since in new habitats there often is a different evolutionary drive, the line of viruses can give rise to a new virus strain.  
+
+### Infecting New Species
+With no metabolism running virions can not move on their own and so they can't steer their [movement](#movement-of-virions) to only reach their hosts. If a virus strain reaches organism of some species, there are several cases:
+* the organism reached is a host -> continue life cycle 
+* the organism reached is not a host:
+    - it is not infectable -> break
+    - it is infectable. This yields an [*interspecies infection*](#interspecies-infection). Again two cases:
+        * the virus entity can *not* efficiently leave to keep up the chain of infections: on average less than one virion (i.e. reproduction factor is < 1)-> break i.e. the infection chain is a cul-de-sac and the organisms are [side hosts or terminal hosts](#side-host) 
+        * on average more than one virion of a virus entity can leave and infect another organism (i.e. the reproduction factor is > 1) -> gives rise to a new life cycle: an [*interspecies jump*](#interspecies-jump) has happened. Since the evolutionary drive changes, this can give raise to a new virus strain. 
+    
+> ###### Interspecies Infection
+> An _interspecies infection_ is when an animal which is not an existing [host](#host) animal becomes infected by a virus strain. 
+
+> ###### Interspecies Jump
+> An *interspecies jump* denotes a transmission to a new species and the species becomes a new [host](#host) i.e. the new species becomes part of the habitat of the virus. The virus strain may evolve to an adapted new strain.
+
+> ###### Zoonosis
+> A *zoonosis* is an [interspecies jump](#interspecies-jump) where the new host species is human (homo sapiens).
+
+So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
