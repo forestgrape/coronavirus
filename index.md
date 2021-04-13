@@ -79,7 +79,7 @@ Various aspects of coronaviruses are described with a focus on understanding.
 * [Covid-19](3_medical/covid19.md)
     The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
 * [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md) How to diagnose Covid with a focus on methods detecting parts of viruses (virus RNA with PCR or virus proteins with antigen test) at different locations (e.g. in the nose, mouth, lungs).
-- [Infection Tropism and Disease Patterns](./3_medical/coronavirus_disease_patterns.md) (*explorative*)
+- [Infection Locations and Disease Patterns](./3_medical/coronavirus_disease_patterns.md) (*explorative*)
 
 ### Immunological Topics
 * [Immune System](4_immunological/immune_system.md)
