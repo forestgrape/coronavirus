@@ -68,14 +68,14 @@ The mass calculates as density multiplied volume so
 * #### large density => small S/m ratio
    E.g. shot puts, stones, snowballs
 * #### small density => large S/m ratio
-   E.g. table tennis ball, balloon 
+   E.g. table tennis ball, balloon, feathers
  
 #### Form Factor
 A spherical form yields the smallest surface for a fixed volume. Thus round objects have smaller ratios surface/volume than non round objects.
 * #### roundish => small S/m ratio 
     Watery particles tend to have a minimal surface and are roundish. Thus wet particles tend to fall more than dry particles. 
-* #### large surface/low density => large S/m ratio
-    Feathers or leaves have a large surface compared to their mass, so the S/m ratio is large. Therefore this objects tend to go with the air.
+* #### non roundish => large S/m ratio
+    Feathers or leaves are flat and thus have large surfaces compared to their mass, so the S/m ratio is large (Remark: feathers also have a [low density](#material-factor)). These objects tend to go with the air.
 
 #### Size Factor
 Since the volume increases in cubic and the surface only in square of the length/diameter. Tiny objects have very large ratios and thus go with the air. An example is flour: a whole pack of flour behaves ball like, while the single flour particles fly in the air. 
@@ -118,6 +118,8 @@ Model    | Metaphor   | Actions | Source/Deposition | Situations/Climate|   Prev
 * for details on Actions and Sources in [Particles in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md). [citations in work  ]
 
 
+
+
 ## Particle Dynamics in the Respiratory Tract
 
 > Conversational remarks about how I understand the behavior of particles in the respiratory tract. 
@@ -128,6 +130,7 @@ Particle deposition and clearance are relevant for Covid-19 in view of:
 * spread to the pharynx (swab test and transmission)
 * spread out of the body (transmission)
 * depositions of medicaments for the treatment
+
 
 ### Particles Sources
 [in rework]
@@ -184,7 +187,6 @@ The physiology of the airways is evolved that particles are absorbed and cleared
     * immune cells in the blood
     * clearance organs
   * Lymph system
-  
 
 #### Factors Influencing Clearance
 * Well flowing mucus (see [factors increasing the mucus flow](../6_prevention_and_treatment/increasing_the_mucus_flow.md#factors-influencing-the-mucus-flow))
@@ -202,16 +204,10 @@ Build an artificial lung and measure: [sznitman](#sznitman).
   * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
   * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volume is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [reference to be added].
   * Experimental data on the regional deposition of radio-labelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
-
 ##### In silico
-
-Theoretical simulations model the respiratory tract and mostly use the laws of fluid dynamics to calculate the airflow. 
-
-An often used model is the [ICRP Model](#bailey). 
-
-Traditional methods: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). Usually some differential equations are fitted and these equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods.
-
-Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics: [Kleinstreuer 18](#kleinstreuer-2018), [Qi](#qi), [Rahimi-Gorji](#rahimi-gorji), [Zhong18](#zhong18).
+Theoretical simulations model the respiratory tract and mostly use the laws of fluid dynamics to calculate the airflow. An often used model is the [ICRP Model](#bailey). 
+* Traditional methods: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). Usually some differential equations are fitted and these equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
+* Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics: [Kleinstreuer 18](#kleinstreuer-2018), [Qi](#qi), [Rahimi-Gorji](#rahimi-gorji), [Zhong18](#zhong18).
 
 #### Limitations of Experiments
 The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are achieved, however many parameters have to be estimated and thus overfitting could occur. 
@@ -261,11 +257,11 @@ Based on the aerosol and dry form transmission models, expected spread patterns 
 
 
 ### Dry Form Transmission Model
-**[in rework]**
+**[in rework]**  <!--group by infection, in air, sourcing=generation-->
   
-In the following, the proposed model of dry form transmission is explained. The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
+The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
 
-Coronaviruses virions keep viability in dry form (and even survive longest: chapter [Virion Viability](../2_biological/virion_viability.md)), so dry form infection is possible in theory.
+Coronaviruses virions keep viability in dry form and even survive longest (chapter [Virion Viability](../2_biological/virion_viability.md)), so dry form transmission is possible in theory.
 
 The newly proposed infection:
 * Dry particulates in air -> Lung
@@ -286,6 +282,7 @@ and smaller aerosol can convert to larger (see e.g. Figure 3 (C) and (D) in [Yan
 The larger tend to fall to the ground since their movement is driven more by gravity (described for example in [tellier](#tellier)). 
 
 Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](../5_epidemiological/transmission.md#particles-sources)).
+
 
 Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
 
@@ -308,6 +305,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 * source can also be indirect. However one has to keep in mind that for the probability to be in two digit percentages there need to be many infectious particulates in the air. 
 ---------------------------------------
 -->
+
 
 ### Evidence for the Dry Form Transmission Model
 
@@ -382,8 +380,8 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
 
 
 ## References
-
     
+
 ### Epidemiological Patterns
     
 *  ##### le
@@ -404,7 +402,7 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
 
 * ##### Dudas 2017
     **MERS-CoV spillover at the camel-human interface** Gytis Dudas, Luiz Max Carvalho, Andrew Rambaut, Trevor Bedford; elifesciences.org
-    [Summary](../2_biological/hypotheses_nidovirales.md#summary-dudas-2017) in the chapter hypotheses about nidovirales.
+    [Summary of Dudas et al](../2_biological/hypotheses_nidovirales.md#summary-dudas-2017) in the chapter hypotheses about nidovirales.
 
 
 ### Environmental Factors on Betacoronaviruses
