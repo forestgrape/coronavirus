@@ -295,6 +295,7 @@ Comparison with SARS-1 or MERS:
 
 
 ### References General Spread Patterns
+
 #### Summary Adam,Wu
 **Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
 Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs.3.rs-29548/v1]()
@@ -316,6 +317,11 @@ Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs
 "These findings take advantage of the quality of case ascertainment and contact tracing data in Hong Kong, although some incompleteness in links between cases could potentially bias our estimates of transmission heterogeneity."
 
 
+#### Summary Streeck
+**Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
+[in work]
+
+
 #### Summary Hodcroft
 **Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
 Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
@@ -327,6 +333,8 @@ The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequ
 [in work]
 * "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
 * "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
+
+
 
 ### References Covid Spread Children and Schools
 
@@ -398,6 +406,7 @@ Perez‐Lopez A, Hasan M, Iqbal M, Janahi M, Roscoe D, Tang P.; Pediatric Pulmon
 * "A proactive school closure was the first social distancing measure implemented by the State of Qatar on 10 March."
 * "Table 1 shows a comparison of the molecular detection of respiratory viruses other than SARS‐CoV‐2 on nasopharyngeal swabs from our PED per 1000 emergency visits before school closure, between 13 February and 14 March, assuming a maximum incubation period for influenza of 4 days, and after school closure, between 15 March and 11 April."
 ##### Results
+
 Virus tested| open schools|closed schools| RR (95% CI)
 ------------|-------------|-------------|-------------------
 Total tests | 75.1 (69.1‐81.6) | 64.1 (60.3‐77.6) | 0.9 (0.7‐1)
@@ -413,6 +422,7 @@ Parainfluenza | 3.1 (2‐4.6)| 3.6 (2.1‐6.4) | 1.2 (0.6‐2.3)
 ---
    
 ### References Living Conditions
+
 #### Summary Rader,Scarpino
 **Crowding and the shape of COVID-19 epidemics**
 Rader, B., Scarpino, S.V., Nande, A. et al.
@@ -481,6 +491,24 @@ People belonging to the thirds with the smallest living space per person have th
 * "We found that blocks with a higher median income (2% achieved significance), or higher living space per person (1% achieved significance), or lower share of 1-person households (2% achieved significance) had a significantly lower Ref f (< 1.7) relative to the maximum Ref f observed in the relevant partition."
 * "Serology information was used to estimate the fraction of unreported cases as follows: An estimated 1.88% (38/2,019) of the Basel-City population was infected with SARS-CoV-2. Of these 60% would be attributed to the B.1-C15324T strain, leading to a percentage of 88% of unreported/unsequenced cases to consider."
 
+
+#### Summary Dalziel
+[in work]
+**Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities**
+Benjamin D. Dalziel, Stephen Kissler, Julia R. Gog, Cecile Viboud, Ottar N. Bjørnstad, C. Jessica E. Metcalf and Bryan T. Grenfell
+Science 362 (6410), 75-79. [https://doi.org/10.1126/science.aat6030]()
+
+##### Methods
+* " However, the role of city size and structure in shaping transmission patterns of seasonal influenza is not well understood. We address this here using 6 years (2002 to 2008) of data on weekly incidence of influenza- like illness (ILI) in 603 three-digit postal (ZIP) codes across the United States, assembled from medical claims data (34)."
+##### Results
+* "We find that differences in nj among cities persist across years—some cities have consistently more intense epidemics than others, year after year. "
+* "Cities with higher mean intensity tend to be located in the east, have smaller population sizes, and have higher-amplitude seasonal fluctuations in specific humidity." (Fig 1 D-F)
+* "Increasing base transmission potential can decrease epidemic intensity in a seasonally forced compartmental epidemic model." (Fig 2)
+* Population size and crowding increase the base transmission potential. (Fig 3 F,G)
+
+
+
+
 ## References
 References with a summary are in the section [Summarized References](#summarized-references)
 
@@ -497,21 +525,6 @@ https://dx.doi.org/10.3201/eid2611.203254.
 #### Freedman
 Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
 https://doi.org/10.1093/jtm/taaa178                                                                                                            
-
-
-#### Summary Dalziel
-[in work]
-**Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities**
-Benjamin D. Dalziel, Stephen Kissler, Julia R. Gog, Cecile Viboud, Ottar N. Bjørnstad, C. Jessica E. Metcalf and Bryan T. Grenfell
-Science 362 (6410), 75-79. [https://doi.org/10.1126/science.aat6030]()
-
-##### Methods
-* " However, the role of city size and structure in shaping transmission patterns of seasonal influenza is not well understood. We address this here using 6 years (2002 to 2008) of data on weekly incidence of influenza- like illness (ILI) in 603 three-digit postal (ZIP) codes across the United States, assembled from medical claims data (34)."
-##### Results
-* "We find that differences in nj among cities persist across years—some cities have consistently more intense epidemics than others, year after year. "
-* "Cities with higher mean intensity tend to be located in the east, have smaller population sizes, and have higher-amplitude seasonal fluctuations in specific humidity." (Fig 1 D-F)
-* "Increasing base transmission potential can decrease epidemic intensity in a seasonally forced compartmental epidemic model." (Fig 2)
-* Population size and crowding increase the base transmission potential. (Fig 3 F,G)
 
 
 ### Epidemiological Patterns
