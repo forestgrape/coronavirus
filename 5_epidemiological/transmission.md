@@ -99,9 +99,8 @@ The larger droplets keep their name and are called droplets:
 
 
 ### Overview Airborne Transmission
-Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: droplet behave like heavy balls while aerosols mostly move with the air. Tiny and dry particles always go with the air. 
 
-Key aspects of the airborne transmission in table form; for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md). [citations in work  ]
+Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: Droplets behave like heavy balls while aerosols behave smoke-like i.e. they mostly move with the air. 
 
 Model    | Metaphor   | Actions | Source/Deposition | Situations/Climate|   Prevent              
 ---------|------------|------------------|-----------------|------|---
@@ -116,11 +115,12 @@ Model    | Metaphor   | Actions | Source/Deposition | Situations/Climate|   Prev
 * The air humidity is relevant for droplet aerosol since the droplets can grow and shrink. Growing/shrinking change the osmotic pressure on the virions. Enveloped virions can get destroyed upon the pressure change. 
 * The absolute humidity in heated indoor rooms is lower, the lower the outdoors temperature is. 
 * The dry form model is proposed here.
+* for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md). [citations in work  ]
 
 
 ## Particle Dynamics in the Respiratory Tract
 
-Conversational remarks about how I understand particle deposition models. 
+> Conversational remarks about how I understand the behavior of particles in the respiratory tract. 
 
 Particle deposition and clearance are relevant for Covid-19 in view of:
 * infection pathway
@@ -132,13 +132,11 @@ Particle deposition and clearance are relevant for Covid-19 in view of:
 ### Particles Sources
 [in rework]
 This section describes when particles are generated and how they spread within the respiratory tract and out of it. 
+
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
-
 * Small particles from the lower respiratory tract (<1 micro meter) are generated from breathing alone and their generation does not require speaking or coughing. [Larsson et al](#larsson) identified the origins by analyzing the lipid composition of the particles. 
-
 * [Fabian et al](#fabian) describes that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. Data indicate a  positive correlation with age. 
-
-* [Milton et al](#milton-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, without coughs, there are small infectious aerosols exhaled too. 
+* [Milton et al](#milton-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, with breathing and speaking alone, there are small infectious aerosols exhaled too. 
 
 That small particulates are exhaled upon breathing alone from the deep lungs, combined with the observations that in the deep lungs the SARS-CoV-2 receptor ACE2 is highly available, means that Covid-19 can be transmitted with breathing alone.
 
@@ -179,11 +177,11 @@ The physiology of the airways is evolved that particles are absorbed and cleared
 #### Methods of Clearance
 * Clearance by mucus flow towards the alimentary system
 * Coughing
-* Clearance by macrophages in the epithelium and in the mucus[to check]
+* Clearance by macrophages in the epithelium and in the mucus[to check and cite]
 * Absorption in the alveoli and clearance:
-  * Locally by immune cells mostly local macrophages
+  * Locally by immune cells (mostly local macrophages)
   * Release to the blood stream
-    * migrating immune system cells 
+    * immune cells in the blood
     * clearance organs
   * Lymph system
   
@@ -195,7 +193,7 @@ The physiology of the airways is evolved that particles are absorbed and cleared
 
 
 ### Simulations and Experiments
-Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described below.
+Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described in the section [Limitations](#limitations-of-experiments).
 
 #### Types of Experiments
 ##### In vitro
@@ -223,7 +221,6 @@ Usually many simplifications of [relevant factors](#particles-deposition) both f
 * Condensation and material (both considered in [Zhong18](#zhong18)).
 
     
-
 
 ## Proposal of a Dry Form Transmission Model
 
@@ -314,7 +311,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 
 ### Evidence for the Dry Form Transmission Model
 
-#### Evidence from biological Properties
+#### Evidence from Biological Properties
 For severe betacoronavirus diseases nearly always the lower respiratory tract is involved (always in ARDS) (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)):
   
 As described in [particles deposition](../5_epidemiological/transmission.md#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. 
@@ -323,9 +320,9 @@ The [Tissue Tropism](../2_biological/coronavirus.md#tissue-tropism) of MERS requ
 That in swab tests there are viruses in the nose and the mouth can be either caused by local replication or by breathing them up. [Kleinstreuer et al](#kleinstreuer-2018) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)).
 
     
-#### Evidence from the observed Spread Patterns
-[in rework since **partly wrong**, December 2020]
-Close range droplet or aerosol transmissions explain well the observed spread patterns for upper respiratory tract infections, they are often spread between close contacts. However, the spread patterns of severe betacoronaviruses diseases are better explained by dust-like spreading:
+#### Evidence from observed Spread Patterns
+
+Close range droplet or aerosol transmissions explain well the observed spread patterns for upper respiratory tract infections, they are often spread between close contacts. However, the spread patterns betacoronaviruses diseases involving the lungs are better explained by dust-like spreading:
 In confined settings without special protection reproduction numbers, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of droplets is affected by gravity and therefore their concentration in the air quite rapidly decreases (see [model](#dry-form-transmission-model) section). The movement of dry dust, on the other hand, is less affected by gravity and therefore remains longer in the air. The majority of spreading has been observed in indoor spaces. In theses settings dry dust like spreading is possible.
 
 <!--
@@ -347,7 +344,7 @@ move to spread analyses
 	- Hospitals in Northern Italy [LE](#le)
 
 * SARS-CoV-1:
-    - Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in close by rooms and not to the personal.
+    - Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in rooms on the same floor. Spread to personal was rarely observed.
 
 
 * SARS 1 & 2: 
@@ -379,8 +376,8 @@ Just smelling would be the theoretical possibility of an infection. But for the 
 Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. 
 
 This yields either avoiding 'Sars-CoV-2 smoke' or filtering out  particulates. The filter filters ideally above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but often several virions stick together or are attached to some organic material[to check and cite]). 
-Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Outdoors is no worry for Sars-CoV-2 however, the air is diluted and sun light destroys virions (Chapter [Virion Viability](./../2_biological/virion_viability.md)). 
-Measures in more detail are found in [Protection Measures](./monitor_and_control.md). 
+Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Outdoors is no worry for Sars-CoV-2 however, the air is diluted and sun light destroys virions (Chapter [Virion Viability](../2_biological/virion_viability.md)). 
+Measures in more detail are found in [Protection Measures](../7_social/controlling.md). 
 
 
 
@@ -413,6 +410,7 @@ Measures in more detail are found in [Protection Measures](./monitor_and_control
 ### Environmental Factors on Betacoronaviruses
 
 * ##### chan
+    ([summarized on the virion viability page](../2_biological/virion_viability.md#summary-chan-2011))
 	K. H. Chan, J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto
 	**The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus**
 	Hindawi Publishing Corporation
