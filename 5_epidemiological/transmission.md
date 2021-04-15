@@ -115,7 +115,7 @@ Model    | Metaphor   | Actions | Source/Deposition | Situations/Climate|   Prev
 * The air humidity is relevant for droplet aerosol since the droplets can grow and shrink. Growing/shrinking change the osmotic pressure on the virions. Enveloped virions can get destroyed upon the pressure change. 
 * The absolute humidity in heated indoor rooms is lower, the lower the outdoors temperature is. 
 * The dry form model is proposed here.
-* for details on Actions and Sources in [Particles in the Respiratory Tract](#intermezzo-particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md). [citations in work  ]
+* for details on Actions and Sources in [Particles in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md). [citations in work  ]
 
 
 ## Particle Dynamics in the Respiratory Tract
