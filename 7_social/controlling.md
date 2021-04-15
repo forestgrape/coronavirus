@@ -55,23 +55,34 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 ## Spread Assumptions
 The design of measures relies on transmission models. Here it as assumed that the main transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like.
 
-Observations:
-Evidence for aerosol transmission is described in [Spread Analyses](../5_epidemiological/spread_analyses.md) and the proposed dry form model in [Airborne Transmission Models](../5_epidemiological/transmission.md). In short: The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed.
+#### Indoor Air
+##### Observations
+* Indoor Air: The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed. Evidence for aerosol transmission is described in [Spread Analyses](../5_epidemiological/spread_analyses.md). 
 
-To keep in mind:
-* Environment Conditions: In dry air tiny aerosol form, which are most likely to enter the deep lungs [Airborne Transmission Models](../5_epidemiological/transmission.md). The [viability of coronaviruses](../2_biological/virion_viability.md) is highest in dry and cool air without sunlight.
+##### Biological Mechanism
+The observations are explained by: In dry air, tiny aerosol form. Tiny and dry particulates are most likely to be deposited in the deep lungs (chapter [Airborne Transmission](../5_epidemiological/transmission.md)). The [viability of coronaviruses](../2_biological/virion_viability.md) is also highest in dry particulates, especially without sunlight.
+
+##### Metaphor
+Airborne transmissions can be thought [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). 
+* For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+* If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help. Smoke is rarely an issue outdoors, the same is true for Covid.
+
+#### Differences between Individuals
 * Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)). => (Encouraging) Transparency is important.
+* Some people are super-spreaders while many people don't spread Covid.
+* Children get less infected and are less infectious. No super spreading events have been linked to children (to my knowledge).
 
-Metaphor:
-Airborne transmissions can be thought [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 
-=> If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help. For smoke protection outdoors helps, the same is true for Covid.
-=> Outdoor activities reduce the overall Covid burden. In most situations outdoor activities also reduce the overall spread, since less time is spent indoors. Indoor activities and meetings can increase the Covid spread. 
+#### Summed Up
+* Outdoor activities reduce the overall Covid burden. Outdoor activities even can reduce the overall Covid spread, since less time is spent indoors.
+* Most covid transmissions occur in not well ventilated indoor settings. Indoor air which many people breath is in large buildings: E.g. stairwells in residential blocks, supermarkets, indoor arenas, large offices, cruise ships, airplanes (high altitude) or crowded bars.
+* Appropriate spread precaution measures and good treatment is important for people with severe Covid.
+
 
 
 ## Protection Measures
 ### Support Immune Protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - if once available - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases, this should be the main focus (along with open windows and no air-conditioners if there are Covid-19 cases).
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - ~~if once available~~ available in 2021 - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases overall health should be the main focus - alongside open windows and no air-conditioners if there are Covid-19 cases.
 
 Proposals for good health:
 * providing settings that support good health
@@ -92,7 +103,7 @@ To prevent droplet transmission outdoors or in very well ventilated situations a
 
 
 ### Ventilation
-Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoor-is-safer) is much lower than in indoor air. There should be limits on the CO2 concentration and the concentration should be continuously monitored. 
+Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoor-is-safer) is much lower than in indoor air. In sensible locations limits on the CO2 concentration and continuous monitoring ensure good ventilation. 
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
 * [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. In the simulation, good ventilation is as effective as immunizing around half of the population. // in the paper vaccinate is used instead of immunize, however there's evidence vaccinating against influenza does not stop spreading.
@@ -119,6 +130,7 @@ The focus should be on monitoring cases both for disease progression and to figu
 Relaxed rules are important for the [health of the infected and the possibly infected](../3_medical/covid19.md#movement) and in many situations relaxed rules are more efficient in reducing the spread:
 
 #### Example Calculation of Spread
+
 * ##### Strict Instructions
   With strict quarantine measures, infection risk from known infected is more reduced but fewer people may do tests. Example: Out of 10 infected, 5 are known and 5 unknown/untested
   * the 5 known may infect on average 2 others (thus having a R value of 0.4)
@@ -146,11 +158,11 @@ Overall in the above scenario the relaxed instruction yield an overall lower spr
 * avoid indoor activities with heavy breathing/deep inhaling e.g. sport and singing/shouting
 
 #### Suggestions for Infected
-as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally
+as for [Possibly Infected](#suggestions-for-possibly-infected) and additionally:
 * [High-filtration mask](../6_prevention_and_treatment/masks.md#high-filtration) in all indoor spaces/rooms where people to protect are. Including the own building (stairwell e.g. for laundry/going outside) and the flat e.g. when living in flat sharing. The mask should be changed frequently.
 * No crowded places (outdoors and indoors)
 * Distance: 2 meters outdoors and 4 meters indoors.
-* No close range face-to-face talking
+* No close range face-to-face talking.
 * Ventilate the room and flat before opening extern doors ([Large Buildings](#large-buildings)). Ideally ventilate before opening the personal room and open the door reduced.
 
 #### Isolation by Home-Lockdown
