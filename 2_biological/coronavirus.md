@@ -1,7 +1,7 @@
 
 # Coronaviruses with a Focus on Sars-CoV-2
 [**in (re)work**]
- We look at coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.
+ Coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.
 
 * [Introduction to Coronaviruses](#introduction-to-coronaviruses)
   * [Nidovirales](#nidovirales)
