@@ -1,16 +1,14 @@
-## Introduction to Viruses
+# Viruses
 
-* [Introduction to Viruses](#introduction-to-viruses)
 * [Summary](#summary)
+* [Introduction to Viruses](#introduction-to-viruses)
 * [Life Cycles of Viruses](#life-cycles-of-viruses)
 * [Virus Classification](#virus-classification)
 * [Virus Entities](#virus-entities)
-* [Movement of Virions](#movement-of-virions)
-  * [Swim with the Tide](#swim-with-the-tide)
-  * [Movement within a Host](#movement-within-a-host)
-  * [Movement between hosts](#movement-between-hosts)
-  * [Travel Probabilities](#travel-probabilities)
-* [Taxes of Viruses](#taxes-of-viruses)
+* [Behavior of Viruses and Virus Entities](#behavior-of-viruses-and-virus-entities)
+  * [Behavior Virion Phase](#behavior-virion-phase)
+  * [Behavior Metabolic Phase](#behavior-metabolic-phase)
+  * [Cell Behaviors](#cell-behaviors)
 * [Tropism of Viruses](#tropism-of-viruses)
 * [Habitats](#habitats)
   * [Organisms Habitats](#organisms-habitats)
@@ -20,13 +18,18 @@
 
 > In rework
 
+
+
 ## Summary
 Viruses are defined as life forms which can't produce all enzymes required for their metabolism. Topics such as life cycle, movement options, different behaviors and places of living are sketched.
 
-> ###### Virus
-> A *virus* is a form of life, that encodes and has proteins produced but can't produce all necessary enzymes for its metabolism on its own.
 
-* That it encodes and produces proteins distinguishes viruses from [viroids](#viroid).
+## Introduction to Viruses
+
+> ###### Virus
+> A *virus* is a [life form](./life-forms.md#life-form), that can't produce all necessary enzymes for its metabolism on its own.
+
+* That it encodes and has enzymes produced distinguishes viruses from [viroids](./life-forms.md#viroid).
 * That a virus cannot produces all the required enzymes distinguishes them from more self contained forms of life such as eukaryotes and prokaryotes.
 * The definition of a virus is by that specific behavior alone (not able to produce all enzymes for its metabolism). Apart from this specific property viruses are very divers. From a molecular viewpoint as diverse as life itself.
   
@@ -46,6 +49,8 @@ These can mean that the virus is replicating inside the cell. A cell is also cal
 So a host cell is always an infected cell. 
 
 Most cells don't live forever. In multicellular organisms most cells live fare shorter than the organism itself and even most cell lines don't survive and only few cells have the chance of being part of the cells giving raise to descendants organisms. If virus infected, cells usually die even faster. Thus viruses need to jump to next cells. To switch between cells, most viruses, including coronaviruses, have a 2 phase life cycle.
+
+
 
 ## Life Cycles of Viruses
 Different viruses have different life cycles:
@@ -128,97 +133,106 @@ In outdoors living vertebrate hosts, the infection course of a coronavirus entit
 -->
 
 
-## Movement of Virions
-Once virions are released from a cell the virions are moved by whatever movements are in their surroundings.   
+## Behavior of Viruses and Virus Entities
+### Behavior Virion Phase
 
-### Swim with the Tide
-All forms of life on earth are water based. Both protein and RNA/DNA synthesis occur in water. So virions are pro therefore start out their journey in watery fluids, often the cytoplasm of a cell. Upon release they are exposed to whatever substances there are around. For most viruses their virions will always be dissolved in watery fluids and will not survive being dissolved in other fluids such as alcohol or air. 
-* __Fluid dissolved in__:
-    - Salty water in oceans: Water in the oceans is also likely where life and RNA viruses as an early form of life developed and still contains a huge number of virions. 
-    - Water in lakes and rivers: These waters serve as an intermediate place for many virions. 
-    - Fluid in an organism: Virions of viruses infecting multicellular life first start out in the fluids of the hosts and in many cases never leave the host fluids. 
-    - Water droplets can be dissolved in air. 
-    - Air is challenging to use for viruses due to dilution and activation factors such as sunlight, washed out by rain ... 
-* __Material attached to__: These can be any solid material e.g. a part of living organism or any kind of non living matter. The movement of virions follows the movement of the materials attached to. These particles are in turn dissolved in fluids, mostly water, or attached to other particles. 
+As described in the section [virion activation](#virion-activation) the virions need to be activated. The activation factors determine the behavior of virions:
 
+* Environment around the Cell
+    - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
+* Matching Receptor on the target cell surface
 
-### Movement within a Host
-Often virions get moved within a host. Some even evolved not to leave the host organism at all. Within a host the movement of virions depends on the location they are released and the kind of material they are attached to: 
-- movements with fluid flows:
-    * the blood flow if the virion is in the bloodstream
-    * the mucus flow 
-    * respiratory tract lining fluid
-    * the air breathed in and out and the [particle dynamics in the respiratory tract](./../5_epidemiological/transmission.md#particle-dynamics-in-the-respiratory-tract) associated.
-- solid movements within the host i.e. the virion is attached to a moveable part:
-    * inside cells by the centrosome. Especially important for viruses which need to enter the cell nucleus e.g. influenza viruses.
-    * attached to particles get moved around within a host. 
-    * the movement of body parts e.g. an extremity (hands and feet) or the lungs.  
-- Brownian Motion: The Brownian motion of viruses is slow and by Brownian motion alone a virion usually just moves a few micro meters to reach close by cells. However if given enough time virions can diffuse to many locations both within tissues or within cells. 
+in work ...
+ Determinants for the cell specific behavior are:
+* cell types:
+    - receptors expressed
+    - biochemistry inside the cells
+* environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
+    - physical environment: e.g. temperature
+    - chemical environment: e.g. pH value
+    - biological environment: e.g. Virions are primed for cell entry by specific proteins
 
 
-<!--td move in out-->
+### Behavior Metabolic Phase 
+[in work: incomplete and citations/confirmation in work]
+
+> The behavior in the virion phase is better known than the taxis in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). The transfected cell however don't need to behave similar to the cells which are naturally infected. So to investigate the metabolic phase,  To investigate the metabolic phase, ideally one could look into the cells.
 
 
-### Movement between hosts
+### Cell Behaviors
+
+##### Cell Behavior
+> *Cell behavior* is used on this page to describe how a virus behaves upon match of a virion to a specific cell type i.e. the behavior in specific cells.
+
+The cell behavior is the combination of the [virion behavior](#behavior-virion-phase) which determines whether a cell infection takes place and the [behavior in the metabolic phase](#behavior-metabolic-phase) which determines the changes in the cells metabolism induced upon infection.
+
+* The cell environment shouldn't deactivate the virus or alarming the immune system.
+* The cell should be able to produce many virions and thus should have a capable metabolism.
+
+
+
+
+
+### Specific Behavior
+
+
+
+
 [in work]
-Many forms of life cannot move well on their own: Plants, bacteria and fungi. In the oceans this is less a problem thanks to the currents. On land however, all forms of life with no ability to move have the challenge to spread and genetically interact. The main options are the same for them all: Being carried by wind, water or moving organisms. Virions have to rely on this options to spread through a host populations:
+* Ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
+* Immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place.
 
-* __Moveable Organism__: This is often the host where the virus was built but it can be an animal primarily transporting the virion called a transporter. 
-
-    > ###### Transporter
-    > A *transporter* for a virus is an organism which is important for its transport function in the life cycle of a virus.
-
-    When the transporter moves the virions move with it. The farther, faster and the more possible hosts at new location the better for the virus to distribute. Optimal transportation are migrating and/or fare flying animals: flying insects, birds and bats. The usage of horses and the inventions of trains, cars and airplanes made us humans new optimal hosts. Jetting around the world from city to city is optimal for viruses since: fast travel to a new set of hosts. 
-
-<!--
-- Movement induced by the organism:-->
-
-* __Wind__: Many plants rely on wind for spread. Some viruses too, but not many since wind driven movement has challenges:
-    - The movements induced by wind are random in the sense that evolutionary adaption to directional movement is hardly possible.
-      => Organisms relying on wind usually compensate this randomness often with huge numbers. As can be seen each season by the pollen powdering the landscape.  
-    - The air contains reactive oxygen and sunlight exposure is frequent. Therefore genetic material needs to be well protected.
-    - Particles need to have large surface in comparison to their mass, else gravity will ground them (explained in [Objects Moving in the Air](../5_epidemiological/transmission.md#objects-moving-in-the-air)). Except for very small particles only dry particles have a surface large enough to fly. 
-
-    Different life forms solved these challenges: 
-    * Many plants rely on wind both for genetic recombination and spread. 
-    * Viruses spread with the winds is quite rare, since 
-      * The large numbers needed to compensate the undirected movement with the wind, are hard to achieve for viruses.
-      * viruses since they don't encode their entire metabolism have fewer options to optimize for stability and survive the harsh life condition in the air.
-      * Viruses and especially RNA viruses aren't stable in sunlight.
-  
-      Exception: smallpox. Coronaviruses may do so in theory.    
-
-* __Water__: 
-    Water movement is directional to the oceans and particles need to be "fished out" not to end up there. One of the few escape options are drinking animals. 
-    * Land-plants rarely use water since ending up in the oceans is not the goal of land plants.
-    * Viruses infecting animals rely on water. Animals drinking brings them directly to possible hosts. 
+Viruses optimized to their environment usually only infect cells involved in the survival of the virus strain:
+* Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract.
+* Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. For betacoronaviruses these are similar the entry cells i.e. secretory and ciliated cells in the epithelium of the respiratory tract.
+* Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
+    - Coronaviruses entities infecting outdoor living hosts, usually leave the hosts by feces. So cells in the intestine are infected.
+    - For indoor living hosts (us humans and our domestic animals) these are often the same cells as entered i.e. cells in the respiratory tract.
+* Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis.
 
 
-### Travel Probabilities
-Getting matched to an infectable cell involves the following steps (steps in [...] are facultative):
-- [reach a host]  
-- [reach a tissue]
-- reach an infectable cell
 
-Each step has usually a low success rate. So the combined probability of reaching a target tends to be very small. 
-
-The probability to reach a *next* exploitable host, is especially low, due to many traps and hostile environment:
-* get attached to a wrong thing. High probability due to the random movement and usually the surface of non targets is fare greater than the target surface. Except confined indoor settings, in this case the surface of the combined lungs is the greatest surface - greater than the surface of all the walls.  
-* sunlight destroys virions. 
-* heat
-* chemical environment
-<!--transmission bottleneck important for evolution-->
-
-
-## Taxes of Viruses
 
 
 ## Tropism of Viruses
 
+The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia]
+
+In virology tropism this is used when virus entities growth preferable at some locations.
+
+###### Tropism
+> A virus *has a tropism* for an object if it is frequently detected in that object. Specifically: 
+> * Cells that support virus replication. 
+> * Tissues, organs or organisms that support the growth of virus entities.
+
+* Virion Phase:
+    Questions relevant for the tropism of viruses in the virion state:
+    * To which receptors under which conditions the virions attach?
+    * Factors inducing activation and cell entry of virions?
+* Metabolic Phase:
+    Questions relevant for the tropism of viruses in the metabolic state:
+    * Do the cells support viral replication?
+    * Is cell death induced upon infections?
+    * Are the viruses neutralized once inside the cell?
+
+The tropism for a cell is called [Cell Tropism](#cell-tropism), [Tissue Tropism](#tissue-tropism) and [Organism or animal Tropism](#organisms-tropism).
+
+
+
+
+###### Tissue Tropism 
+> *Tissue tropism* describes whether a virus entity growths well in a certain tissue.
+
+The tissue tropism depends on:
+* Susceptible Cells in the tissue
+* Movement within the tissue i.e. reaching the next cell in the tissue
+  * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#apical-side-preference) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from the intestine from where they can leave and infect the next host. 
+  * Coronaviruses are to big to diffuse efficiently inside most tissues.
+* Immune defenses present locally in the tissue.
 
 ## Habitats
 [in rework]
-As outlined in the chapter taxes of viruses there are a variety of conditions for a virus to start to metabolism and even more too successfully replicate. Environments satisfying the tropisms constraints and frequently reached by viruses, form a place of living. These places are called habitats. 
+As outlined in the chapter taxes of viruses there are a variety of conditions for a virus to start to metabolism and even more too successfully replicate. Environments satisfying the behavior constraints for replication and frequently reached by viruses, form a place of living. These places are called habitats. 
 
 > ###### Habitat
 > The *Habitat* of a virus are the locations which are frequently infected. The locations can be cells, tissues, organs, life forms or groups of life forms.
