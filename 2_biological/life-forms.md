@@ -7,8 +7,8 @@
   * [Storage Options](#storage-options)
   * [Storage Reading](#storage-reading)
 * [Ways of Life](#ways-of-life)
+  * [How Life Forms Respond and Behave depending on Situations](#how-life-forms-respond-and-behave-depending-on-situations)
   * [How Life Forms Growth](#how-life-forms-growth)
-  * [How Life Forms Behave](#how-life-forms-behave)
 * [Ecology](#ecology)
   * [Interactions between Life Forms](#interactions-between-life-forms)
   * [Mechanism to Control Interactions](#mechanism-to-control-interactions)
@@ -115,30 +115,57 @@ Genes are sequences of single/double stranded DNA or RNA which are transcribed t
 
 ## Ways of Life 
 > **in work and incomplete**
-> 
+
 > Explorative
+
+
+### How Life Forms Respond and Behave depending on Situations
+
+#### Mechanism for Specific Behavior
+Organisms behave different in different environmental situations.
+The different behaviors can be driven by:
+* Lifetime acquired knowledge. 
+* Inherited behavior and responses, stored in the genome. 
+* Extern stimulus induced a certain behavior which the life form itself cannot/does not control. E.g. certain physical or chemical stimulus.
+
+Storage form of behavior and responses:
+* Stored in neural nets. This is usually the case for lifetime acquired behavior in animals.
+* Genetically stored behavior i.e. hard coded in the genome.
+
+ 
+#### Responses to Stimuli
+> section in work and changes likely
+
+> ##### Taxis
+> *Taxis* denotes directed movement in response to a stimulus.
+
+> ##### Kinesis
+> *Kinesis* denotes undirected movement in response to a stimulus.
+
 
 ### How Life Forms Growth
 Plants adapt the environment by different growing patterns.
 
 ##### Tropism
-> *Tropism* denotes how organisms growth subject to environmental influences.
+> *Tropism* denotes here how organisms growth subject to environmental influences. When a life form growths preferable in some settings, the life life form has a tropism for that setting.
 
-### How Life Forms Behave
-Organisms behave different in different environmental situations.
-The different behaviors can be driven by:
-* Lifetime acquired knowledge e.g. neural nets in nearly all animals.
-* Genetically encoded behavior.
-* Extern stimulus induced a certain behavior which the life form itself cannot/does not control. E.g. certain physical or chemical stimulus.
- 
-#### Responses to Stimuli
+> Generalized here from the usages in virology and botany, given below.
 
-> ##### Taxis
-> *Taxis* denotes behavior of life forms which is directly=hard coded in the genome.
+In botany, tropism is used how plants growth subject to stimuli. 
+Examples: 
+* When a plant growths towards light this is called phototropism. 
+* When roots of a plants growth towards water it is hydrotropism.
+
+In virology, tropism is used to describe locations where viruses usually are. Described in the chapter [viruses](./viruses.md#tropism).
+Examples:
+* Coronaviruses replicate well in the respiratory tract, thus coronaviruses have a tropism for the respiratory tract.
+* SARS-CoV-2 infects type 1 pneumocytes cells, thus SARS-CoV-2 has a tropism for these cells.
 
 
 
 ## Ecology 
+
+
 ### Interactions between Life Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
 * All forms of life except those who are able to do photosynthesis or use other inorganic energy sources (thermal, chemical) are dependent on organic energy sources i.e. forms of energy produced by other forms of life.
@@ -149,18 +176,11 @@ Cell forming forms usually just need the ingredients (raw materials) and are abl
 Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings. Sometimes the couplings are so strong that the combination is a new form of life: E.g. mitochondria as cell organelles.
 
 
-
 ### Mechanism to Control Interactions
 Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](../4_immunological/immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
 
 ### Locations
-
-#### Distribution
-##### Static Distribution
-Current Locations
-##### Dynamic Distribution
-Kinesis
 
 #### Habitats
 > ##### Habitat
