@@ -9,12 +9,9 @@
 * [Coronavirus Life Cycle](#coronavirus-life-cycle)
   * [Virion Phase](#virion-phase)
   * [Metabolic Phase](#metabolic-phase)
-* [Tropism of Viruses](#tropism-of-viruses)
-  * [Tropism Virion Phase](#tropism-virion-phase)
-  * [Metabolic Phase Taxis](#metabolic-phase-taxis)
-  * [Taxes in Cells](#taxes-in-cells)
+* [Ecology](#ecology)
   * [Tissue Tropisms](#tissue-tropisms)
-  * [Taxes for Cells of Sars-Cov-2](#taxes-for-cells-of-sars-cov-2)
+  * [Cell Tropism of Sars-Cov-2](#cell-tropism-of-sars-cov-2)
   * [Habitat of Sars-CoV-2](#habitat-of-sars-cov-2)
 * [Evolution and Adaption](#evolution-and-adaption)
   * [Conserved Patterns](#conserved-patterns)
@@ -83,18 +80,21 @@ As mentioned in [Introduction to Viruses](#introduction-to-viruses) viruses have
 * [Metabolic Phase](#metabolic-phase): Inside a cell using the cell metabolism.
 
 
+
 ### Virion Phase
 Travel and Wait for Activation.
 Virions have behave similar as seeds of plants: Travel and wait for the right conditions to unleash their energy (spring loaded proteins for viruses and starch for seeds) to start the active phase.
 
+
 #### Virion Travel 
-Once released from a cell virions are moved by external forces ([movement-of-virions](../2_biological/life-forms.md#movement-of-virions)) until they are [activated](#tropism-virion-phase) to start the cell infection process.
+Once released from a cell virions are moved by external forces ([movement-of-virions](../2_biological/motility.md)) until they are [activated](#behavior-virion-phase) to start the cell infection process.
 A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](../2_biological/life-forms.md#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination.
 
 The infectable cell can be:
 * in the same host or in another host
 * in the same tissue or in another tissue
 * of the same cell type or of another cell type
+
 
 #### Virion Activation
 
@@ -145,102 +145,17 @@ The metabolism can produce new virions that are released from the cell. The prop
 
 
 
-## Tropism of Viruses
+## Ecology
 
-The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia]
-
-In virology tropism this is adapted to virus entities growing preferable at some locations. 
-
-###### Tropism
-> A virus *has a tropism* for an object if the objects are well support 'growth' of the virus. Specifically: 
-> * Cells that support virus replication. 
-> * Tissues, organs or organisms that support the growth of virus entities.
-
-The tropism for a cell is called [Cell Tropism](#cell-tropism), [Tissue Tropism](#tissue-tropism) and [Organism or animal Tropism](#organisms-tropism).
-
-* Virion Phase:
-    Questions relevant for the tropism of viruses in the virion state:
-    * To which receptors under which conditions the virions attach?
-    * Factors inducing activation and cell entry of virions?
-* Metabolic Phase:
-    Questions relevant for the tropism of viruses in the metabolic state:
-    * Do the cells support viral replication?
-    * Is cell death induced upon infections?
-    * Are the viruses neutralized once inside the cell?
-
-
-<!--
-in work ...
- Determinants for the tropism are:
-* cell types:
-    - receptors expressed
-    - biochemistry inside the cells
-* environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
-    - physical environment: e.g. temperature
-    - chemical environment: e.g. pH value
-    - biological environment: e.g. Virions are primed for cell entry by specific proteins
-    -->
-
-
-
-### Tropism Virion Phase
-
-As described in the section [virion activation](#virion-activation) the virions need to be activated. The activation factors determine the tropism of virions:
-
-* Environment around the Cell
-    - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
-* Matching Receptor on the target cell surface
-
-
-### Metabolic Phase Taxis
-[in work: incomplete and citations/confirmation in work]
-
-> The taxis in the virion phase is better known than the taxis in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). The transfected cell however don't need to behave similar to the cells which are naturally infected. So to investigate the metabolic phase,  To investigate the metabolic phase, ideally one could look into the cells.
-
-#### Cell Tropism
-* The cell environment shouldn't deactivate the virus or alarming the immune system.
-* The cell should be able to produce many virions and thus should have a capable metabolism.
-  
-
-### Taxes in Cells
-
-##### Taxis in Cells
-> *Cell taxis* is used on this page to describe how a virus behaves upon match of a virion to a specific cell type i.e. the behavior in specific cells.
-
-The cell taxis is the combination of the [virion behavior](#tropism-virion-phase) which determines whether a cell infection takes place and the [taxis in the metabolic phase](#taxis-metabolic-phase) which determines the changes in the cells metabolism induced upon infection.
-
-#### Coronavirus Taxis for Cells
-[in work]
-* Ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
-* Immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place.
-
-Viruses optimized to their environment usually only infect cells involved in the survival of the virus strain:
-* Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract.
-* Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. For betacoronaviruses these are similar the entry cells i.e. secretory and ciliated cells in the epithelium of the respiratory tract.
-* Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
-    - Coronaviruses entities infecting outdoor living hosts, usually leave the hosts by feces. So cells in the intestine are infected.
-    - For indoor living hosts (us humans and our domestic animals) these are often the same cells as entered i.e. cells in the respiratory tract.
-* Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis.
-
-
-###### Tissue Taxis
-> *Tissue taxis* denotes how a virus infection behaves in a specific tissues.
-
+#### Coronavirus Cell Tropisms
 
 
 ### Tissue Tropisms
 
-###### Tissue Tropism 
-> *Tissue tropism* describes whether a virus entity growths well in a certain tissue.
+
 
 Coronaviruses replicate well in the respiratory tract, thus they have a tropism for the respiratory tract.
 
-The tissue tropism depends on:
-* Susceptible Cells in the tissue
-* Movement within the tissue i.e. reaching the next cell in the tissue
-  * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#apical-side-preference) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from the intestine from where they can leave and infect the next host. 
-  * Coronaviruses are to big to diffuse efficiently inside most tissues.
-* Immune defenses present locally in the tissue.
 
 
 #### Tropism for the Apical Side
@@ -249,7 +164,7 @@ The tissue tropism depends on:
 
 
 
-### Taxes for Cells of Sars-Cov-2
+### Cell Tropism of Sars-Cov-2
 [in work]
 * efficient replication
     - alveolar type 2 cells
@@ -270,7 +185,7 @@ The cell entry receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[Li
 ### Habitat of Sars-CoV-2
 [in rework to remove errata and to clarify]
 The task determine to habitat of Sars-CoV-2 can be tackled either 
-* a [theoretical deduction](#theoretical-deduction) based on the cell taxis and tropism, ability to reach new infectable cells within the tissue and the immune surveillance in place. The cell taxis and tropism in turn are based on in vivo and in vitro experiments and observations.
+* a [theoretical deduction](#theoretical-deduction) based on the tropism, ability to reach new infectable cells within the tissue and the immune surveillance in place. The tropism in turn are based on in vivo and in vitro experiments and empirical observations.
 * an [empirical deduction](#empirical-deduction) based on observations of Covid-19 cases. E.g. determine the viral load which corrected for the movement of virions corresponds to the infection locations.
 
 
