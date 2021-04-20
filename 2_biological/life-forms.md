@@ -12,8 +12,8 @@
 * [Ecology](#ecology)
   * [Interactions between Life Forms](#interactions-between-life-forms)
   * [Mechanism to Control Interactions](#mechanism-to-control-interactions)
-  * [Locations](#locations)
-* [Life-Forms by Structure and Interactions](#life-forms-by-structure-and-interactions)
+  * [Locations of Living](#locations-of-living)
+* [Systematics](#systematics)
   * [Cell Forming Life Forms](#cell-forming-life-forms)
   * [Viruses](#viruses)
 
@@ -121,7 +121,7 @@ Genes are sequences of single/double stranded DNA or RNA which are transcribed t
 
 ### How Life Forms Respond and Behave depending on Situations
 
-#### Mechanism for Specific Behavior
+#### Mechanism for Situation Specific Behavior
 Organisms behave different in different environmental situations.
 The different behaviors can be driven by:
 * Lifetime acquired knowledge. 
@@ -180,13 +180,18 @@ Many forms of life live in symbiotic relations with many other forms of life: ea
 Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](../4_immunological/immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
 
-### Locations
+### Locations of Living
 
 #### Habitats
 > ##### Habitat
 > The places of living of an organism.
 
-## Life-Forms by Structure and Interactions
+
+
+
+## Systematics
+
+
 
 ### Cell Forming Life Forms
 **[in work]**
