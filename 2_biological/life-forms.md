@@ -18,10 +18,10 @@
   * [Viruses](#viruses)
 
 
-> Updates in work
+> **major (re)work in progress, April 2021**]
 
 ## Summary
-First things first: life forms on earth. A life-forms has memorized environment interactions, called genetic information, and is able to produce rough copies of itself, called progeny. The genetic information is stored in different single or double chains of ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). Life-forms differ in the way the interact with each other: some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
+First things first, we start by defining life on earth: A life-forms is memorized environment interactions, called genetic information, and is able to produce rough copies of itself, called progeny. The genetic information is stored in different single or double chains of ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). Life-forms differ in the way the interact with each other: some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
 
 
 ## Introduction to Life on Earth
@@ -146,18 +146,25 @@ Storage form of behavior and responses:
 ### How Life Forms Growth
 Plants adapt the environment by different growing patterns.
 
+> // The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia article on tropism]
+
+
 ##### Tropism
 > *Tropism* denotes here how organisms growth subject to environmental influences. When a life form growths preferable in some settings, the life life form has a tropism for that setting.
 
-> Generalized here from the usages in virology and botany, given below.
+> // Generalized here from the usages in virology and botany, given as examples.
 
+#### Tropism in Botany
 In botany, tropism is used how plants growth subject to stimuli. 
-Examples: 
 * When a plant growths towards light this is called phototropism. 
 * When roots of a plants growth towards water it is hydrotropism.
 
-In virology, tropism is used to describe locations where viruses usually are. Described in the chapter [viruses](./viruses.md#tropism).
-Examples:
+#### Tropism in Virology
+In virology, tropism is used to describe locations where viruses replicate well. Though the term is not precisely defined and so the usages vary. Mostly the term tropism is used as follows:
+* Cell tropism is used to describe cell which support viral replication.
+* Tissue tropism denotes the tissues which support viral replication which is often set equivalent to viral genome detection.
+
+On this page, a virus has a tropism for a object if the virus has a noticeable effect on that object. Defined in the [tropism section](./viruses.md#tropism) in the virus chapter.
 * Coronaviruses replicate well in the respiratory tract, thus coronaviruses have a tropism for the respiratory tract.
 * SARS-CoV-2 infects type 1 pneumocytes cells, thus SARS-CoV-2 has a tropism for these cells.
 
