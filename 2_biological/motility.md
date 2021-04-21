@@ -12,7 +12,7 @@
 
 ## Motility of Virions
 
-> in rework 
+> in work and to be extended, April 2021 
 
 
 Once virions are released from a cell the virions are moved by whatever movements are in their surroundings. 
