@@ -8,20 +8,20 @@
 * [Behavior of Viruses and Virus Entities](#behavior-of-viruses-and-virus-entities)
   * [Behavior Virion Phase](#behavior-virion-phase)
   * [Behavior Metabolic Phase](#behavior-metabolic-phase)
-  * [Cell Behaviors](#cell-behaviors)
-* [Tropism of Viruses](#tropism-of-viruses)
+  * [Situation Specific Behaviors](#situation-specific-behaviors)
+  * [Tropism of Viruses](#tropism-of-viruses)
 * [Habitats](#habitats)
   * [Organisms Habitats](#organisms-habitats)
   * [Conquering new Habitats](#conquering-new-habitats)
   * [Infecting New Species](#infecting-new-species)
 
 
-> In rework
 
+> **major (re)work in progress, April 2021**]
 
 
 ## Summary
-Viruses are defined as life forms which can't produce all enzymes required for their metabolism. Topics such as life cycle, movement options, different behaviors and places of living are sketched.
+Viruses are defined as life forms which can't produce all enzymes required for their metabolism. Topics such as life cycle, movement options, different behaviors and places of living are introduced.
 
 
 ## Introduction to Viruses
@@ -57,7 +57,7 @@ Different viruses have different life cycles:
 * 1 Phase Life Cycle: Some viruses live always within cells and accordingly are only transmitted vertically and not horizontally [to confirm and cite].
 * 2 Phase Life Cycle: Most viruses including coronaviruses, have a two phase life cycle.
     Coronaviruses have a two phase life cycle:
-    1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: [passive travel](#virion-travel), wait to be [activated](#virion-activation) by matched with an [infectable cell](#infectable-cell) in the right environment. Once activated virions try to enter the cell.
+    1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: [passive travel](#virion-travel), wait to be [activated](#virion-priming) by matched with an [infectable cell](#infectable-cell) in the right environment. Once activated virions try to enter the cell.
     2. Metabolic phase: Once inside a cell, a virus uses the cells metabolism to produce proteins and other substances using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell. As for all forms of life the ultimate goal is to produce progeny = new virions.
 * 4 Phase life cycle: Retroviruses have a four 4 phase cycle [to confirm and cite]:
   1. Sleeping Phase A: Virion Phase (corresponds the virion phase of 2-phase viruses).
@@ -106,6 +106,7 @@ Features of interest for viruses are:
 * Structural Similarity. E.g. viruses can be classified into enveloped and non-enveloped viruses.
 
 
+
 ## Virus Entities
 [in work and experimental]
 
@@ -114,7 +115,7 @@ Similarly for viruses infecting organisms, often to grasp the full picture it is
 * RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#taxis-of-viruses) in different situations. 
 
 > ###### Virus Entity
-> A *Virus Entity or Virus Organism* denotes all viruses in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*.
+> A *Virus Entity or Virus Organism* denotes all [infected cells](#infected-cell) in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*.
 
 Similar to the different cells in multicellular organism only few viruses in a virus entity are likely to infect new hosts and thereby form a new entity.
 
@@ -133,10 +134,11 @@ In outdoors living vertebrate hosts, the infection course of a coronavirus entit
 -->
 
 
+
 ## Behavior of Viruses and Virus Entities
 ### Behavior Virion Phase
 
-As described in the section [virion activation](#virion-activation) the virions need to be activated. The activation factors determine the behavior of virions:
+As described in the section [virion activation](#virion-priming) the virions need to be activated. The activation factors determine the behavior of virions:
 
 * Environment around the Cell
     - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
@@ -159,10 +161,22 @@ in work ...
 > The behavior in the virion phase is better known than the taxis in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). The transfected cell however don't need to behave similar to the cells which are naturally infected. So to investigate the metabolic phase,  To investigate the metabolic phase, ideally one could look into the cells.
 
 
-### Cell Behaviors
+### Situation Specific Behaviors
 
-##### Cell Behavior
+> I consider calling situation specific behavior at the 'micro'/'small-scale' level of life-forms as taxis. Generalizing the existing use of taxis of the movement of cellular life-forms.
+
+##### Cell Specific Behavior
 > *Cell behavior* is used on this page to describe how a virus behaves upon match of a virion to a specific cell type i.e. the behavior in specific cells.
+
+* Virion Phase:
+    Questions relevant for the behavior of viruses in the virion state:
+    * To which receptors under which conditions the virions attach?
+    * Factors inducing activation and cell entry of virions?
+* Metabolic Phase:
+    Questions relevant for the behavior of viruses in the metabolic state:
+    * Do the cells support viral replication?
+    * Is cell death induced upon infections?
+    * Are the viruses neutralized once inside the cell?
 
 The cell behavior is the combination of the [virion behavior](#behavior-virion-phase) which determines whether a cell infection takes place and the [behavior in the metabolic phase](#behavior-metabolic-phase) which determines the changes in the cells metabolism induced upon infection.
 
@@ -170,65 +184,38 @@ The cell behavior is the combination of the [virion behavior](#behavior-virion-p
 * The cell should be able to produce many virions and thus should have a capable metabolism.
 
 
-
-
-
-### Specific Behavior
-
-
-
-
-[in work]
-* Ciliated epithelia and secretory cells support well replication of coronaviruses both cells located in the airway and the intestine
-* Immune system cells are infected but usually cell death is induced in the early phase of the viral metabolism and before replication takes place.
-
-Viruses optimized to their environment usually only infect cells involved in the survival of the virus strain:
-* Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract.
-* Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. For betacoronaviruses these are similar the entry cells i.e. secretory and ciliated cells in the epithelium of the respiratory tract.
-* Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
-    - Coronaviruses entities infecting outdoor living hosts, usually leave the hosts by feces. So cells in the intestine are infected.
-    - For indoor living hosts (us humans and our domestic animals) these are often the same cells as entered i.e. cells in the respiratory tract.
-* Cells which are relevant for the host immune response. Coronaviruses infect immune system cells (dendritic and T cells) and induce aptosis.
-
-
-
-
-
-## Tropism of Viruses
-
-The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia]
-
-In virology tropism this is used when virus entities growth preferable at some locations.
-
-###### Tropism
-> A virus *has a tropism* for an object if it is frequently detected in that object. Specifically: 
-> * Cells that support virus replication. 
-> * Tissues, organs or organisms that support the growth of virus entities.
-
-* Virion Phase:
-    Questions relevant for the tropism of viruses in the virion state:
-    * To which receptors under which conditions the virions attach?
-    * Factors inducing activation and cell entry of virions?
-* Metabolic Phase:
-    Questions relevant for the tropism of viruses in the metabolic state:
-    * Do the cells support viral replication?
-    * Is cell death induced upon infections?
-    * Are the viruses neutralized once inside the cell?
-
-The tropism for a cell is called [Cell Tropism](#cell-tropism), [Tissue Tropism](#tissue-tropism) and [Organism or animal Tropism](#organisms-tropism).
-
-
-
-
-###### Tissue Tropism 
-> *Tissue tropism* describes whether a virus entity growths well in a certain tissue.
-
-The tissue tropism depends on:
-* Susceptible Cells in the tissue
+##### Tissue Specific Behavior
+ The tissue tropism depends on:
+* Infectable cells in the tissue
 * Movement within the tissue i.e. reaching the next cell in the tissue
   * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#apical-side-preference) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from the intestine from where they can leave and infect the next host. 
   * Coronaviruses are to big to diffuse efficiently inside most tissues.
 * Immune defenses present locally in the tissue.
+
+
+
+
+
+
+### Tropism of Viruses
+
+In virology tropism this is mostly used when virus are  growth found at some locations or replicate well in some cells (notes on [tropism usage](./life-forms.md#tropism-in-virology) in the chapter life form chapter). On this page, viral tropism is defined as follows:
+
+###### Tropism
+> A virus *has a tropism* for an object or a location if it is frequently detected in that object and it has a relevant effect. Specifically: 
+> * Cells which are frequently [infected](#infected-cell). 
+> * Tissues, organs or organisms that support the growth of virus entities or are influenced by infections by the virus.
+
+The tropism for a cell is called [Cell Tropism](#cell-tropism), [Tissue Tropism](#tissue-tropism) and [Organism or animal Tropism](#organisms-tropism).
+
+
+###### Cell Tropism
+> A virus has a *tropism* for a certain cell type if these cell are readily infected.
+
+###### Tissue Tropism 
+> *Tissue tropism* describes whether a virus entity noticeable infects a certain tissue.
+
+
 
 ## Habitats
 [in rework]
