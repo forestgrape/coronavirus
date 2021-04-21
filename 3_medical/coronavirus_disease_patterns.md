@@ -2,7 +2,25 @@
 # Infections Locations and Disease Patterns 
 **[in work]**
 
-## Abstract Disease Patterns
+* [Summary Disease Patterns](#summary-disease-patterns)
+* [Infections Locations of Human Coronaviruses](#infections-locations-of-human-coronaviruses)
+  * [Overview](#overview)
+  * [Observations](#observations)
+  * [Diseases caused by Bovine Coronavirus](#diseases-caused-by-bovine-coronavirus)
+* [Infection Locations of Sars-CoV-2](#infection-locations-of-sars-cov-2)
+  * [Determine Infection Locations of SARS-2](#determine-infection-locations-of-sars-2)
+  * [Infection Locations and Immune Responses](#infection-locations-and-immune-responses)
+* [References and Resources](#references-and-resources)
+  * [Describing the Viral Load at the Different Infection Locations](#describing-the-viral-load-at-the-different-infection-locations)
+  * [Pathogenesis and Viral Load](#pathogenesis-and-viral-load)
+  * [Covid-19 Symptoms and Spread Patterns](#covid-19-symptoms-and-spread-patterns)
+  * [Expression Locations of ACE2](#expression-locations-of-ace2)
+* [Appendix](#appendix)
+  * [On the Origin](#on-the-origin)
+  * [ACE2 Receptor](#ace2-receptor)
+
+
+## Summary Disease Patterns
 Coronaviruses cause infections at different locations and thus induce different diseases: 
 * The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
 * The coronaviruses directly emerging from zoonoses MERS-CoV and Sars-CoV-1 cause lower respiratory tract infections and frequently spread to the intestine. 
@@ -36,14 +54,18 @@ Regarding these questions the following hypotheses are state and argued:
 - URI = upper respiratory infection
 - EI = enteric infection
 
+### Overview 
+
 Infection Type| Coronavirus  | Symptoms | Immune_response | possible Complications| spread in body | Infection_Path | Notes/Particulars
 --|--|--|--|--|--|--|--
 URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Common cold: sore throat, upper cough, sneezing | often local T cells (Tissue resident T cells) which can migrate and protect the lungs, IgA antibodies | possibly longer lasting infection | LRI, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide.
 LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available and/else IgG antibodies, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death | EI, blood| aerosol, dry form | transmission increases when much air is shared; the lung surface is big => lots of space to spread
 EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhea|  specific immune cells, some of them capable of producing antibodies | - | feces |through alimentary either by URI/LRI infections since the respiratory fluids are cleared to the stomach; direct oral intake | Adequate immune response, direct oral infection unlikely since the stomach acid destroys most virions 
 
+> The coronaviruses directly emerging from zoonoses from outdoor living animals MERS-CoV and   Sars-CoV-1 infect the LRI and often spread to the intestine. The coronaviruses well adapted to our 'modern' way of life with dense population and in indoor rooms mainly infect to upper respiratory tract and ignore the intestine (Thoughts [on the origin](#on-the-origin)).
 
-### Founding Observations
+
+### Observations
 [**in work**]
 * __SARS-1__:The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
 * __MERS__: For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome.
@@ -52,8 +74,10 @@ EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhea|  specific immune cells, some
     * some and especially the severe SARS-2 infections show a similar pathogenesis as MERS
 
 
-### Comment
-The coronaviruses directly emerging from zoonoses from outdoor living animals MERS-CoV and   Sars-CoV-1 infect the LRI and often spread to the intestine. The coronaviruses well adapted to our 'modern' way of life with dense population and in indoor rooms mainly infect to upper respiratory tract and ignore the intestine (Thoughts [on the origin](#on-the-origin)).
+
+
+
+
 
 ### Diseases caused by Bovine Coronavirus
 [raw form is on todo-list]
@@ -63,6 +87,36 @@ The coronaviruses directly emerging from zoonoses from outdoor living animals ME
 [in work]
 Sars-CoV-2 has been observed to cause
 Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the locations.-->
+
+
+## Infection Locations of Sars-CoV-2
+
+> [in rework to streamline and to clarify]
+
+
+### Determine Infection Locations of SARS-2
+The task determine to habitat of Sars-CoV-2 can be tackled either 
+* a [theoretical deduction](#theoretical-deduction) taking into account the following topics:
+  * _Tropism_: the ability to infect different cells and tissues. The tropism in turn are based on in vivo and in vitro experiments and empirical observations.
+  * _Kinetics_: the ability to reach new infectable cells within the tissue 
+  * _Local Immune System_: the immune surveillance locally in place.  
+* an [empirical deduction](#empirical-deduction) based on observations of Covid-19 cases. 
+  * Measuring the viral load at different locations. Sometime the viral load needs to be corrected for the movement of virions.
+  * Detect tissue damage typical for viral infections and check e.g. by PCR the damage was indeed induced by a SARS-2 infection.
+
+
+#### Theoretical Deduction
+In the following the infections of Sars-CoV-2 are deduced from the [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question.
+
+[**in work, mostly empty**]
+
+#### Empirical Deduction
+[in rework: update and a section for each strain]
+The [viral loads](../3_medical/diagnosis_and_viral_load.md) measured in combination with the [movements of virions](#movement-of-virions) inside the body can be used to backtrack tissue habitats of Sars-CoV-2. 
+[in work]
+The viral loads observed for SARS-CoV-2 for diagnostic purposes are described in the chapter [Diagnosis and Viral Load](./../3_medical/diagnosis_and_viral_load.md).
+
+[**in work**]
 
 ### Infection Locations and Immune Responses
 [in work and partly **estimated/guessed**, citations coming/in search]
@@ -80,13 +134,15 @@ LRI | alveoli | strange feeling in the lungs, shortness of breath, fever, feelin
 #### Not Infectable Locations
 Not infectable since no ACE2 and thus the symptoms from the corresponding location indicate an **agent other** than Sars-2
 
+[todo: merge with infection locations and add 'infectable column' e.g. ace2 column]
+
 Infection Type  | Location | Symptoms | Immune response | Comments and Risks/ possible complications | Notes
 --------------|--------------|----------|---------------|------------------------|---------------
 MRI| Vocal folds | hoarse | - | no ACE2 cells thus no virus replication |
-LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](../2_biological/coronavirus.md#tissue-tropism-of-sars-cov-2) thus no replication| viral load in sputum due to deposition 
+LRI | trachea | cough  | irritation due to virions deposited| no ACE2 cells thus no replication| viral load in sputum due to deposition 
 
 
-## Resources and Readings
+## References and Resources
 
 * ##### Review Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses; S Su, Y Bi, G Gao et al
     - Table 1: comparison of the infection caused by the HCoVs 229E, OC43, Sars-CoV, NL63, HKU1, MERS-CoV 
@@ -127,6 +183,32 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](..
   **Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
   [Summarized on the Spread Analyses Page](../5_epidemiological/spread_analyses.md#summary-streeck)
 
+### Expression Locations of ACE2
+
+* ##### timens
+	I Hamming, W Timens,MLC Bulthuis, AT Lely, GJ Navis and H van Goor
+	**Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis**
+	Journal of Pathology
+	J Pathol 2004; 203: 631–637
+	Published online in Wiley InterScience
+	https://doi.org/10.1002/path.1570    
+        
+* ##### mccray05
+    Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray
+    **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
+    Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
+    
+* ##### li
+    Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., & Chen, Q. (2020). 
+    **High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.** 
+    International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
+
+
+* ##### soilleux,poehlmann
+    Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
+    **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
+    PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
+
 
 ## Appendix
 ### On the Origin
@@ -137,3 +219,40 @@ LRI | trachea | cough  | irritation due to virions deposited| [no ACE2 cells](..
 > Virus discovery is not easy and requires the right settings. Some of the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite both being endemic to human for a long time and virologists had the (theoretical) possibilities to discover coronaviruses since the 70's. MERS got discovered in 2012 but likely human infections have occurred long before. 
 
 > More on the origin is in the chapter [Backtracing SARS-like](../2_biological/_site/hosts_of_nidovirales.md#backtracing-sars-cov-1/2)
+
+
+
+### ACE2 Receptor
+#### ACE2 Receptor Detection
+There are two common methods to measure tissue distribution of proteins:
+* ##### Antibody Staining
+    Proteins on cell surfaces can be visualized by using marked antibodies. Several groups have analyzed tissues with ACE2 antibodies: [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
+* ##### Measure mRNA
+    Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
+
+##### Challenges for ACE2 Detection
+[in work, verification needed]
+For serving as an entry point, ACE2 needs to be built into the cell membrane as a receptor i.e. being useable from the outside. 
+
+Since coronaviruses have a preference for [apical tissue sites](#tissue-tropism) ACE2 should be expressed on the apical sites. 
+* [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
+* [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
+    - stay in the cell e.g. in the cytoplasm or move into the nucleus
+    - be released from the cell
+    - being built into the cell membrane on the basal side or on the apical side as a receptor <= needed by coronaviruses. 
+
+Receptor detection rules:
+* If _both_ [receptor detection methods](#ace2-receptor-detection) yield true, this is very likely. 
+* Antibody staining is likely enough if the 'receptor molecule' cannot be attached on the outside of a cell or if it can be cleaned away.
+* Measuring mRNA is enough if the 'receptor' is always exposed on the cell membrane if produced and thus not reside intracellular.
+
+#### ACE2 Receptor Distribution
+[**incomplete and in rework**]
+[recommended read is [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]
+ACE2 is apically available 
+* in the lower respiratory tract
+    - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
+    - alveolar epithelial type 2 cells [to check/find citation].
+* in the upper respiratory tract
+    - the basal layer of the non-keratinised squamous epithelium of the nasal, oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau) [in rework]. 
+    - goblet cells [in work]
