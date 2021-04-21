@@ -28,7 +28,7 @@ The only virion protein reliable accessible is the spike protein, so that's the 
   - glycans on the outside
   - variable regions on the outside which mutate/recombine often
 - Mask
-  - sensitive regions e.g. receptor binding domains are shielded until [primed](../2_biological/coronavirus.md#virion-activation). 
+  - sensitive regions e.g. receptor binding domains are shielded until [primed](../2_biological/coronavirus.md#virion-priming). 
   - different priming steps in different locations can give a different appearance at different locations in a host -> enabling intra-host spread [to check/confirm]
 - Exploit
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
