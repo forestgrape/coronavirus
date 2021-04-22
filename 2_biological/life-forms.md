@@ -11,17 +11,18 @@
   * [How Life Forms Growth](#how-life-forms-growth)
 * [Ecology](#ecology)
   * [Interactions between Life Forms](#interactions-between-life-forms)
+  * [Cooperations](#cooperations)
   * [Mechanism to Control Interactions](#mechanism-to-control-interactions)
   * [Locations of Living](#locations-of-living)
 * [Systematics](#systematics)
-  * [Cell Forming Life Forms](#cell-forming-life-forms)
+  * [Life Forms by Storage Organization](#life-forms-by-storage-organization)
   * [Viruses](#viruses)
 
 
 > **major (re)work in progress, April 2021**]
 
 ## Summary
-First things first, we start by defining life on earth: A life-forms is memorized environment interactions, called genetic information, and is able to produce rough copies of itself, called progeny. The genetic information is stored in different single or double chains of ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). Life-forms differ in the way the interact with each other: some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
+First things first, a life-forms is a thing with memorized environment interactions and is able to produce rough copies of itself, called progeny. The interactions are stored in genomes. All genomes are made from ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). Life-forms differ in the way they interact with the environment and with each other. Some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
 
 
 ## Introduction to Life on Earth
@@ -183,7 +184,15 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 
 Cell forming forms usually just need the ingredients (raw materials) and are able to produce the enzymes (machines). Where as [viruses](../2_biological/viruses.md#virus) by definition don't produce all needed enzymes (machines).
 
+### Cooperations
 Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings. Sometimes the couplings are so strong that the combination is a new form of life: E.g. mitochondria as cell organelles.
+
+<!--
+Often life forms specialize, organize and work together to form a more capable entity and thus the overall fitness is increased. Examples of cooperations are symbiosis and organisms. 
+
+ Symbiosis life forms keep independence for replication or can life Inside an organism the units communicate and share resources. Sometime the units keep the ability for separation and can go separate paths again. However many forms of life on todays earth e.g. plants, fungi and animals, are organisms:
+-->
+
 
 
 ### Mechanism to Control Interactions
@@ -201,9 +210,9 @@ Most life forms have have some mechanisms to keep their metabolism immune i.e. r
 
 ## Systematics
 
-
-
-### Cell Forming Life Forms
+### Life Forms by Storage Organization
+Life forms can be c
+#### Cell Forming Life Forms
 **[in work]**
 As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms have their metabolism inside semipermeable membranes [to check: all double layer lipid?]. Such a structure is called a cell. Some cells have just the outer membrane:
 
@@ -225,10 +234,6 @@ Some cells are subdivided again by membranes into different compartments which a
   * Plants, Animals and Fungi all belong to the eukaryotes. These eukaryotes form multicellular organisms. 
   * There are many more eukaryotes, many of them not forming multicellular organisms and thus living as single cells. Even though very divers, these are called *protozoa*. 
 
-Often life forms specialize, organize and work together to form a more capable entity and thus the overall fitness is increased. TExamples of cooperations are symbiosis and organisms. 
-
-<!-- Symbiosis life forms keep independence for replication or can life Inside an organism the units communicate and share resources. Sometime the units keep some independence and can go separate paths again. However many forms of life on todays earth e.g. plants, fungi and animals, are organisms:
--->
 
 > ###### Organism
 > Start out as a single cell with replicates. At some point the replicates differentiate into specialized cells having different appearances and tasks. 
