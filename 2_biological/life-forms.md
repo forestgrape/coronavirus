@@ -5,7 +5,7 @@
 * [Introduction to Life on Earth](#introduction-to-life-on-earth)
 * [Memorizing Interactions](#memorizing-interactions)
   * [Storage Options](#storage-options)
-  * [Storage Reading](#storage-reading)
+  * [Storage Organization](#storage-organization)
 * [Ways of Life](#ways-of-life)
   * [How Life Forms Respond and Behave depending on Situations](#how-life-forms-respond-and-behave-depending-on-situations)
   * [How Life Forms Growth](#how-life-forms-growth)
@@ -49,9 +49,8 @@ All other known forms of life also encode enzymes made of proteins.
 Proteins are assembled by ribosomes:
 
 > ###### Ribosome
-> ###### mRNA
 > ###### Translation
-> *Ribosomes* read positive sense RNA, called *messenger RNA* or just *mRNA*, and select a amino acid for each triple of RNA acids and chain these amino acids together to proteins. This process is called *translation* since the mRNA is translated to a protein.
+> *Ribosomes* read positive sense RNA and select a amino acid for each triple of RNA acids and chain these amino acids together to proteins. This process is called *translation* since the mRNA is translated to a protein.
 
 The storage piece encoding mRNA making up a functional protein or a functional RNA is called a gene:
 
@@ -60,12 +59,15 @@ The storage piece encoding mRNA making up a functional protein or a functional R
 
 Genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA, which in turn can get translated by ribosomes to proteins.
 
+> ###### mRNA
+> mRNA or messenger RNA is temporary RNA sent to the ribosomes for translation to proteins. 
+
 
 
 ## Memorizing Interactions
 
 ### Storage Options
-[in work] Life forms have to ability to memorize environment interactions. Four kinds of lifetime storage are known to be used on todays earth.
+Life forms memorize their machinery and structure, which in turn determine the environment interactions. Four kinds of lifetime storage are known to be used on todays earth.
 
 * ##### ssRNA
     single stranded RNA:
@@ -84,16 +86,12 @@ Genes are sequences of single/double stranded DNA or RNA which are transcribed t
     - very stable
     - reliable duplication possible
 
-#### Notes on Storage
-* only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other life forms are dependent on some enzymes produced by dsDNA forms and are called [viruses](../2_biological/viruses.md#virus).
-* Some forms of life alternate the storage formats through their life cycle: ssRNA-RT (retroviruses).
- 
 
-### Storage Reading
-[in work]
+ 
+### Storage Organization
+All life forms on earth use single stranded RNA at least as temporary storage for translation to proteins, since ribosomes only read single stranded RNA.  For permanent storage the four mentioned [storage options](#storage-options) are in use. In addition life forms use different access and duplication mechanisms.
 
 #### 1 Form using RNA only
-
 * uRNA = untranslated RNA 
   * single RNA strand which catalyzes its duplication
   * only occurs in [Viroids](#viroid) [to check].
@@ -111,6 +109,11 @@ Genes are sequences of single/double stranded DNA or RNA which are transcribed t
 * dsRNA = Double strand RNA
 * ssRNA-RT = DNA-RNA reverse transcribing
 * dsDNA = Double stranded DNA (all cellular life forms)
+
+
+#### Notes on Storage
+* only dsDNA forms are able to encode all enzymes for their entire metabolism and are able do photosynthesis on todays earth. All other life forms are dependent on some enzymes produced by dsDNA forms and are called [viruses](../2_biological/viruses.md#virus).
+* Some forms of life alternate the storage formats through their life cycle: ssRNA-RT (retroviruses).
 
 
 ## Ways of Life 
