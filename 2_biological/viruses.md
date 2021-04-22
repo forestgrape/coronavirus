@@ -102,7 +102,7 @@ By definition, a [virus](#virus) is a [life form](../2_biological/life-forms.md#
 
 Features of interest for viruses are:
 * Viruses can be classified by the hosts they infect. E.g. bacteriophages infect bacteria.
-* Genetic and metabolic similarity. Viruses exists across all the [different storage forms](#storage-and-duplication-options) used by life forms.
+* Genetic and metabolic similarity. Viruses exists across all the [different storage forms](../2_biological/life-forms.md#storage-organization) used by life forms.
 * Structural Similarity. E.g. viruses can be classified into enveloped and non-enveloped viruses.
 
 
