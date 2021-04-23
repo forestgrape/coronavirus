@@ -18,6 +18,11 @@ home: true
 ---
 
 ## Recent Updates
+- 23.4. Comment on formulations: For some time 
+- 23.4. Page coronaviruses separated into 3 pages:
+  - [Life Forms](2_biological/_site/life-forms.md)
+  - [Viruses](2_biological/viruses.md)
+  - [Coronaviruses](2_biological/coronavirus.md)
 - 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
 - 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
