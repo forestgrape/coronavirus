@@ -89,7 +89,7 @@ Life forms memorize their machinery and structure, which in turn determine the e
 
 
  
-### Storage Organization
+### Storage System
 All life forms on earth use single stranded RNA at least as temporary storage for translation to proteins, since ribosomes only read single stranded RNA.  For permanent storage the four mentioned [storage options](#storage-options) are in use. In addition life forms use different access and duplication mechanisms.
 
 #### 1 Form using RNA only
@@ -184,14 +184,49 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 
 Cell forming forms usually just need the ingredients (raw materials) and are able to produce the enzymes (machines). Where as [viruses](../2_biological/viruses.md#virus) by definition don't produce all needed enzymes (machines).
 
-### Cooperations
-Many forms of life live in symbiotic relations with many other forms of life: each form providing what it is best at providing at. Many interactions between life forms turned out to be beneficial and some of these even evolved into permanent couplings. Sometimes the couplings are so strong that the combination is a new form of life: E.g. mitochondria as cell organelles.
+### Forms of Cooperation
+Often life forms specialize, organize and work together to form a more capable entity and thus the overall fitness is increased. Examples of cooperations are symbiosis and organisms.
 
-<!--
-Often life forms specialize, organize and work together to form a more capable entity and thus the overall fitness is increased. Examples of cooperations are symbiosis and organisms. 
+* Symbiosis
+* Conglomerations
+  * Each member keeps some independence => Entity
+  * Originating from one unit => Organisms
 
- Symbiosis life forms keep independence for replication or can life Inside an organism the units communicate and share resources. Sometime the units keep the ability for separation and can go separate paths again. However many forms of life on todays earth e.g. plants, fungi and animals, are organisms:
--->
+#### Symbioses
+Many interactions between life forms turned out to be beneficial and reoccur frequently, some of these even evolved into permanent couplings.
+
+##### Symbiosis
+> Tight interaction of two different life forms.
+
+Each form providing what it is best at providing at. 
+
+The coupling strengths vary:
+* Sometimes the couplings are so strong that the coupling is permanent and the combination is a new form of life: E.g. mitochondria as cell organelles.
+* Sometime the units keep the ability for separation and can go separate paths again. 
+
+
+#### Entities
+> explorative term
+##### Entity
+> An entity is a conglomeration of organisms cooperating selflessly to increase the overall fitness. 
+
+###### Notes
+* Not all members may have good changes to produce progeny.
+* Members often communicate.
+
+###### Examples
+* Bacteria Entities
+* Virus Entities
+
+
+
+#### Organisms
+Many forms of life on todays earth e.g. plants, fungi and animals, are organisms.
+
+> ###### Organism
+> Start out as a single cell with replicates. At some point the replicates differentiate into specialized cells having different appearances and tasks. 
+
+For many questions, organisms are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
 
 
 
@@ -209,9 +244,27 @@ Most life forms have have some mechanisms to keep their metabolism immune i.e. r
 
 
 ## Systematics
+> in work, April 2021
 
-### Life Forms by Storage Organization
-Life forms can be c
+To group life forms different criteria can be used:
+* Storage Similarity
+  * storage organization: The 
+  * stored information = genetic similarity usually only comparable if the storage organization agrees.
+* Structural Similarity
+  * Structural Similarity in the Small
+  * Structural Similarity in the Large
+* Interactions with other life
+  * autotroph or heterotroph
+  * able to produce all enzymes or not (viruses)
+
+
+### Life Forms by Storage System
+Life forms can be classified by the storage system they use => Baltimore classification of viruses (all life form other than viruses on todays earth use double stranded DNA). Double stranded DNA forms in turn can be group how the DNA is organized (e.g. bacteria have plasmids) [extension in work]. 
+
+
+
+### Life Forms by Structure
+
 #### Cell Forming Life Forms
 **[in work]**
 As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms have their metabolism inside semipermeable membranes [to check: all double layer lipid?]. Such a structure is called a cell. Some cells have just the outer membrane:
@@ -235,14 +288,12 @@ Some cells are subdivided again by membranes into different compartments which a
   * There are many more eukaryotes, many of them not forming multicellular organisms and thus living as single cells. Even though very divers, these are called *protozoa*. 
 
 
-> ###### Organism
-> Start out as a single cell with replicates. At some point the replicates differentiate into specialized cells having different appearances and tasks. 
-
-For many questions, organisms are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
 
 
-### Viruses
-Viruses are life-forms which don't encode and can't produce all the proteins required for their metabolism. Discussed on the [viruses page](../2_biological/viruses.md).
+### Grouping by Interactions
+
+* #### Viruses
+  Viruses are life-forms which don't encode and can't produce all the proteins required for their metabolism. Discussed on the [viruses page](../2_biological/viruses.md).
 
 
 
