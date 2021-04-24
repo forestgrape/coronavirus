@@ -2,7 +2,7 @@
 # Airborne Transmission Models
 
 * [Airborne Transmission](#airborne-transmission)
-  * [Content](#content)
+  * [Content Airborne Transmission](#content-airborne-transmission)
   * [Objects Moving in the Air](#objects-moving-in-the-air)
   * [Overview Airborne Transmission](#overview-airborne-transmission)
 * [Particle Dynamics in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract)
@@ -29,10 +29,10 @@
 
 ## Airborne Transmission
 
-### Content
+### Content Airborne Transmission
 * [Objects Moving in the Air](#objects-moving-in-the-air)
     Low density or very small objects follow the airflow, while heavy object fly in trajectories. The underlying physics is sketched and and examples are given. Finally an aerosol is defined as a collection of very small particles that go with the air, droplet transmission on the other hand denotes transmission with droplets large enough they fly in trajectories. 
-* [Summary Airborne Transmission](#overview-airborne-transmission)
+* [Overview Airborne Transmission](#overview-airborne-transmission)
 
 
 ### Objects Moving in the Air
@@ -261,16 +261,16 @@ Based on the aerosol and dry form transmission models, expected spread patterns 
   
 The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
 
-Coronaviruses virions keep viability in dry form and even survive longest (chapter [Virion Viability](../2_biological/virion_viability.md)), so dry form transmission is possible in theory.
+Coronaviruses virions keep viability in dry form and the viability is even highest when dried (chapter [Virion Viability](../2_biological/virion_viability.md)), so dry form transmission is possible in theory.
 
 The newly proposed infection:
-* Dry particulates in air -> Lung
+* Dry particulates in air with virions -> Respiratory Tract (LRT including the lungs entry likely)
 
 where Dry Particulate is a small particulate with one or more viruses attached or possibly viruses attached to each other. 
 
 The above infection pathway is in addition to the known aerosol/droplet pathways:
-* Aerosol with virus in air -> Respiratory Tract
-* Droplet with virus in air -> Respiratory Tract
+* Aerosol with virus in air -> Respiratory Tract (lower or upper respiratory tract)
+* Droplet with virus in air -> Respiratory Tract (likely URT, LRT unlikely)
 
 Aerosols containing particulates and dry particulates can convert to each other in the air:
 * Dry Particulates -> Small Aerosol containing a Particulate (more likely in humid air, particulates act as condensation nuclei)
@@ -331,12 +331,16 @@ move to spread analyses
     - Long-Term Care Facility in Seattle [Honein et al](#honein)
 	- Diamond Princess Cruise Ship anchored in Japan, well analysed by [Mizumoto and colleagues](#mizumoto). Observations:
         * Covid-19 spread started between passengers and not equally between passengers and personal.
-        * very high peak values of the reproduction number are observed (over 10):  This is well above the number of close contacts a person usually has and so droplet transmission is unlikely.
+        * Very high peak values of the reproduction number are observed (over 10).
         
-        The observations favour long range but same room transmission (aerosol and dry form transmission) over droplet transmission and slightly indicate dry form transmission:
+        The observations indicate long range but same room transmission which favours aerosol over droplet transmission:
         * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission.
-        * In the aerosol model about an equal spread would be expected. Experience from cooking smells teach, that aerosols spread out locally.
         * Smoke diffuses entire rooms and stays quite long => spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected (if the initial spread starts in the passengers) since they spend the time in the same areas.
+        * The reproduction number peak values are well above the number of close contacts a person usually has and so droplet transmission is unlikely.
+        
+        The observed spread patter even favour a small or dry form aerosol over larger aerosol which stay more locally:
+        * For 'large' aerosol transmission about an equal spread would be expected. Experience from cooking smells teach, that aerosols spread out locally.
+
 	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
 	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
 	- Hospitals in Northern Italy [LE](#le)
