@@ -268,7 +268,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
 In brief: Think ahead. To reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
 
 * #### outdoor
-    [outdoors with some distance is safe](./7_social/controlling.md#outdoor-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
+    [outdoors with some distance is safe](./7_social/controlling.md#outdoors-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
 * #### Ventilate
     [Ventilation](./7_social/controlling.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
