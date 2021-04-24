@@ -106,7 +106,7 @@ To prevent droplet transmission outdoors or in very well ventilated situations a
 Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoor-is-safer) is much lower than in indoor air. In sensible locations limits on the CO2 concentration and continuous monitoring ensure good ventilation. 
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. In the simulation, good ventilation is as effective as immunizing around half of the population. // in the paper vaccinate is used instead of immunize, however there's evidence vaccinating against influenza does not stop spreading.
+* [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. In the simulation, good ventilation is as effective as reducing transmission of half of the population. // in the paper vaccinate is used instead of reducing transmission. Reducing transmission is used since there is evidence that influenza vaccines do not stop spreading influenza and transmission can be reduced in different ways e.g. by mask.
 
 
 ### Distancing
@@ -197,7 +197,7 @@ High filtration masks should be used in shared stairwells and the flats should b
 
 
 ### Outdoor Days
-Avoiding foreign and public indoor rooms. So either at home or being outdoors. Prevents aerosol transmission if care is taken in [buildings](#large-buildings) and [shops](#shops). To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.
+Avoiding foreign and public indoor rooms. Prevents aerosol transmission if care is taken in [buildings](#large-buildings), public transport and [shops](#shops). To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.
 
 
 ### Home-Lock Down
