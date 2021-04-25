@@ -25,8 +25,9 @@ home: true
   - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
   - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
 - 25.4. Subjective comment on [Government support](7_social/controlling.md#government-support) for closed businesses updated: For businesses closed for more than one month, support for the fix costs proportional to the reduction in turnover I consider fair.
- > - 25.4. Clarifications on Comments, Hints and Formulations: For conciseness all subjective, ambiguous or off topic remarks are formatted like this as [comment](#comments). I didn't always follow this, giving space to ambiguities, explicitly marked from now on. E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency. On the other hand a section was titled 'orientation matters' on the observation that the cell orientation is relevant for coronavirus infection, however there was no second meaning in this case as stated in [comment on comments](#comment-on-comments).
-- 1.4. - 25.4. Formulations across the pages. E.g. added note that allowing and promoting outdoor activities often not only reduces the burden of Covid measures but also can help reducing the severe Covid cases since less time is spent indoors and the lifestyles are healthier.
+- 25.4. Clarifications on Comments: For conciseness all subjective and off topic remarks are formatted like this as [comment](#comments). Since the beginning this scheme is mostly followed. Exception in context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency - marked as comment now. There was a section was titled 'orientation matters' - describing that the cell orientation is relevant for coronavirus infection - this was not marked as comment and accordingly there was no second meaning in this case as stated in [comment on comments](#comment-on-comments).
+  > Orientations in the sense of attitudes or group membership, I think *only* matter if relevant for the topic of interest. Often they are not relevant.
+- 1.4. - 25.4. Formulations across the pages. E.g. added note that allowing and promoting outdoor activities often not only reduces the burden of Covid measures but often also help reducing severe Covid cases since less time is spent indoors and the lifestyles are healthier.
 - 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
 - 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
@@ -59,9 +60,13 @@ home: true
     > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
 
     > ###### Comment on Comments
-    > // A section on the coronavirus page - with the content that Coronaviruses enter and leave cell preferable from the cell side pointing outwards (apical side) - was titled 'Orientation matters' for quite a long time and in the same section I had written McCray & Co instead of McCray et al. Both formulations I choose because of a 'cool' sound without further implications:
-    > * The word orientation was used only in the sense of positioning.  However, I acknowledge, that orientation is used in different contexts and depending on the background, what one thinks when reading 'orientation' can vary. Often orientation is used to denote attitudes or sexual orientation (Oxford dictionary). In my opinion, orientations in the sense of attitudes should *not* matter apart from the topic of interest (e.g. sexual orientation can matter for dating or sport preferences for sport friends). Similarly for a virus infecting a cell the orientation is usually not relevant, however it is relevant for coronaviruses infecting cell in the respiratory tract.
+    > // A section on the coronavirus page - with the content that Coronaviruses enter and leave cell preferable from the cell side pointing outwards (apical side) - was titled 'Orientation matters' for quite a long time and in the same section I had written McCray & Co instead of McCray et al. Both formulations I choose because of a 'cool' sound. The section is and was not marked as subjective accordingly I didn't intend any ambiguity.
+    > * The word orientation was used in the sense of positioning.  However, I acknowledge, that orientation is used in different contexts and depending on the background, what one thinks when reading 'orientation' can vary. Often orientation is used to denote attitudes or sexual orientation (Oxford dictionary).
     > * McCray & Co does *not* imply that the research is business like, it is outstanding and shows a basics principle of betacoronavirus, namely they mostly live on the surfaces and not within tissues.
+
+    > In my opinion, orientations in the sense of attitudes should *only* matter if important for the topic of interest (e.g. sexual orientation can matter for dating or sport preferences for sport friends). 
+    
+    > For a virus infecting a cell the orientation is usually not relevant, however it is relevant for coronaviruses infecting cell in the respiratory tract.
 
 
 
@@ -112,7 +117,7 @@ Various aspects of coronaviruses are described with a focus on understanding.
     - describe how particles behave in the respiratory tract,
     - analyse spread pattern of Covid-19 which indicate aerosol transmission
     - and based on the discussions protection measures are suggested: smoke protection and masks.
-- [Spread Analyses](../5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
+- [Spread Analyses](./5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs) (*explorative section*)
 
 ### Treatment and Prevention
@@ -175,37 +180,37 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
   - Making the economic system more fair in the sense that everyone has the opportunity to choose the economic way of life.
 - 9.11. Formulations corrected and improved.
   > I spend more time on reading and analyzing than on formulations and proof reading. Although I try, sometimes words are not weighted carefully and it can take a couple of days to discover & improve unworldly formulations.
-- 7.11. Updates in [Spread Analyses](../5_epidemiological/spread_analyses.md) in work:
-  - [Infector Distribution](../5_epidemiological/spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong.
-  - Section on [Pre-symptomatic Infectors](../5_epidemiological/spread_analyses.md#pre-symptomatic-infectors) in work
+- 7.11. Updates in [Spread Analyses](./5_epidemiological/spread_analyses.md) in work:
+  - [Infector Distribution](./5_epidemiological/spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong.
+  - Section on [Pre-symptomatic Infectors](./5_epidemiological/spread_analyses.md#pre-symptomatic-infectors) in work
 - 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](./monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers and not estimates.
     > Mainly I was shocked by the very steep increase of deaths and still am [analyses in work]. Even though I spent/d a lot of time learning to analyse.
-- 5./6.11. Updates in [Spread Analyses](../5_epidemiological/spread_analyses.md) in online work:
+- 5./6.11. Updates in [Spread Analyses](./5_epidemiological/spread_analyses.md) in online work:
     * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas.
       > Not proven yet but evidence strong enough that risk regions should **stop allowing large scale events** even with protection measures. As of 4./5.11. there still seem to be football matches with many thousand spectators.
     * Sections about observed spreading events in food production factories and airplanes.
 - 1.11. [Strategy](./7_social/controlling.md#strategy) and [On Numbers](./8_data/monitoring.md#on-numbers) sections, where I give my point of view how to tackle Covid and for actions at different incidence levels.
-- 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago.
-- 28.10. (only summaries available) Early results from [Spread Analyses](../5_epidemiological/spread_analyses.md) show that the Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./5_epidemiological/transmission.md#overview-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outdoors with some distance is safe.
+- 31.10. [Detect Monitor Out of Bounds](./monitor_and_control.md#detect-monitor-out-of-bounds) in the extended section [Monitor Prevalence](./8_data/monitoring.md#monitor-prevalence) describes how to check estimates in the past: The current death rate multiplied by 400 (inverse fatality) should be about the case estimated a few weeks ago.
+- 28.10. (only summaries available) Early results from [Spread Analyses](./5_epidemiological/spread_analyses.md) show that the Covid-19 transmission probability increases with the amount of air exchanged between people. Air exchange is high when indoors (either heated or air-conditioned) and at increased breathing (high altitude, sport, singing). This strongly indicates that [aerosol](./5_epidemiological/transmission.md#overview-airborne-transmission) transmission plays a key role. Thus good ventilation, less populated and good and clean mask help indoors and being outdoors with some distance is safe.
     > During the summer droplet transmission seemed most important, because of Covid-19 waves in regions where the sun was high combined with some research indicating that aerosol transmission is rare in humid and warm settings. Steep increase in Europa as climate cooled in October 2020 combined with extensive droplet preventions in place questioned the dominance of droplet transmission. Reconsideration and a detailed look show: The Covid waves, when the sun is high, occurred/occur either in hot areas and are well explained by air-conditioning or by high altitude:
     * Air-conditioning: Brazil, Middle East and Southern US (in California noteworthy is the difference between hot Los Angeles and temperate San Francisco)
     * High altitudes which means cold nights and increased breathing: La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
-- 25.10. New page [Spread Analyses](../5_epidemiological/spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings.
--  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./monitor_and_control.md#corona-conform-schooling) which needed correction: Pupils are **not** likely to play a major role in the past and current Covid spread while protection measures are in place.
+- 25.10. New page [Spread Analyses](./5_epidemiological/spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings.
+-  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./7_social/controlling.md#corona-conform-schooling) which needed correction: Pupils are **not** likely to play a major role in the past and current Covid spread while protection measures are in place.
 -  15./16.10. Early Online Update for the sections [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./5_epidemiological/transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
-  > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to manage and easier to make the topics as self-contained as possible.
-- 21.9. new section [Backtracing Sars-CoV-1/2](#backtracing-sars-cov-12)
+  > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to read & manage and helps to make the topics as self-contained as possible.
+- 21.9. new section [Backtracing Sars-CoV-1/2](2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
-	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](#infection-tropism-and-diseas-patterns)
+	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](3_medical/coronavirus_disease_patterns.md)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
-- 27.7. [Disease pattering](#infection-tropism-and-disease-patterns)
+- 27.7. [Disease pattering](3_medical/coronavirus_disease_patterns.md)
 - 29.4/3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' 
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
-- 9.4.20 Extended section [Prevent Early On Mucus Accumulations](./6_prevention_and_treatment/increasing_the_mucus_flow.md), previously named Early On Ventilators 
+- 9.4.20 Extended section [Prevent Early On Mucus Accumulations](6_prevention_and_treatment/increasing_the_mucus_flow.md), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
-    - starting with [Early On Ventilators](./6_prevention_and_treatment/increasing_the_mucus_flow.md): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
+    - starting with [Early On Ventilators](6_prevention_and_treatment/increasing_the_mucus_flow.md): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
 - 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](./5_epidemiological/transmission.md##particle-dynamics-in-the-respiratory-tract).
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ triple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as the lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
@@ -240,136 +245,6 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 27.3.-4.4.20: Public Advice extended and clarified. 
 - 2.4.20 Short notice about masks. 
 
-
-
-
-
-
-
-## Public Suggestions and Tips
-
-[in rework]
-Covid-19 can be serious in the short-term and such serious infections can damage organs. For less virulent Covid-19 sometimes longer lasting tiredness or immune system overreaction are observed. For a healthy recovery it is important to have a healthy lifestyle with movement. But experiences and research are still limited and so whether other effects cannot be excluded. Though long-term adverse effects are possible for many things including other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
-
-> Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
-
-> Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page.
- 
-Time to act mindfully, carefully and circumspectly & work together in an open, fair and honest way. 
-
-
-### Sars-CoV-2 Transmission 
-SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in water droplets flying like balls) or by aerosol (the virions move with the air). For Covid-19 aerosol transmission is more frequent and much more dangerous. A short overview below and a more in depth description is in the section [Airborne Transmission](./5_epidemiological/transmission.md#recap-airborne-transmission).
-* __Droplet Transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
-    - Masks
-    - Distance
-    - Side-a-side instead of face-to-face
-    - Plexiglas
-* __Aerosols Transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outdoors, the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
-    - being outdoors, ventilation, distance and less people inside 
-    - masks, preferably with a good fit and [filter](./6_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently
-    - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
-
-    Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
-    - Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
-    - A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. 
-
-
-### How to Reduce Covid-19 Infection Paths
-> Remark: The following advices were written mostly in early spring 2020 when Sars-Cov-2 induced ARDS/SARS disease patterns peaked in Europe. Updates in work.  
-
-In brief: Think ahead. To reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
-
-* #### outdoor
-    [outdoors with some distance is safe](./7_social/controlling.md#outdoors-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
-
-* #### Ventilate
-    [Ventilation](./7_social/controlling.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
-    * Open the windows. In cold climate: ventilate the rooms regularly by opening all windows for 5 minutes.  
-    * If possibly infected, ventilate before opening the door of your room or flat. 
-
-* #### Masks
-    Wear a [mask](./7_social/controlling.md#masks) 
-    - outdoors and indoors: for close range face-to-face contact/talking. 
-    - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
-
-    The mask should be clean/fresh, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
-
-    Masks can be reused if [cleaned](./6_prevention_and_treatment/masks.md#mask-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
-
-* #### Distancing
-    Distancing reduces infection risk.
-
-* #### No Dry Air
-     In dry air, both dust and viruses stay longer in the air. Dry air also reduces the defences of the respiratory tract against pathogens. In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. 
-
-* #### Hygiene
-    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap destroys coronaviruses. Hygiene is important because:
-    * Transmission pathways of Covid-19 are still unclear. So just avoid them all. 
-    * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
-    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](./4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.    
-
-    But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](./5_epidemiological/transmission.md).
-
-- #### Transport
-  * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
-  * Public transport: Masks, distance if possible and ventilation
-
-
-### Observe 
-Observe the body, write down the observations and if possible measure.
-The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
-
-* Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
-* The precaution measures against Covid-19 protect against all respiratory diseases, so all respiratory diseases are reduced. Common colds are not common right now. So respiratory symptoms means being careful and even can mean figuring out all the people one could have infected and informing them to watch for symptoms.
-* Every morning first smell and then taste your favorite breakfast drink.  
-* Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](./3_medical/covid19.md#symptoms). 
-Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
-
-    > It's time [for medicine] to move on from digitalization schemes to the continuous color-space of statistics. There's no hard border for fever at 37.5 or at 38 degrees.
-
-### Estimate and Adaptive Planning
-While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions don't move on their own and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to withdraw from social gatherings.
-
-Increased infection probability:
-* **Increased Exposure to Viruses**:being in a densely populated and poorly ventilated indoor spaces or close range face to face talking
-* **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air (e.g. sports, high altitude)
-
-Keeping benefits and risks in mind:
-* whether, when and what to do and care about
-* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to check] despite excessive sports diminishes the immune system. This likely because they were able to reduce exposure to viruses by being careful and overall a good organization.
-
-### Respect and Take Care 
-> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
-
-[*in rework: overall cases should be lower in cold season, since self protection is more difficult due to aerosol transmission (high filtration mask are possibly needed but these are (still) only limited available).*]
-Respecting others having a different view of Covid yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
-
-* Precautions/Protection measures in place in public spaces which everybody needs to use. 
-* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Depending on the epidemiological situation protections measures can be community/local decisions. E.g. universities provide both on campus and off campus studying.
-
-> Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
-
-Controlling SARS-CoV-2 is an individual, a local and global task. The better everybody helps to control it, the lesser the negative effects and the fewer rules and restrictions need to be put into place. 
-
-* Staying out of crowds and taking care even with mild respiratory disease symptoms, a runny nose is enough reason to stay home. E.g. home office/school (e.g. reading)
-  > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
-* Giving infections time to cure. It is known for various virus infections that they can become persistent.
-* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects seem to be rare but experiences are still limited. Keeping cases low is good for everybody and the more people help doing so the better.
-* Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is crucial, which detects infections early, induces symptoms and clears them. 
-
-
-### Live Healthily
-A good immune system goes hand in hand with a healthy lifestyle:
-* Sleep enough, eat healthily, relax and do some sport. 
-
-and avoid anything that weakens the immune system:
-* avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
-* avoid being cold or even freezing for a longer period. For this reason, in cold climates, windows shouldn't be open permanently. 
-* avoid immunosuppressants unless necessary for medical reasons. 
-* try reducing stress for yourself and others. Trying too hard won't help though. 
-    
-Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
 
 
 ## Ideas to Explore
