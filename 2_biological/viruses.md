@@ -21,7 +21,7 @@
 
 
 ## Summary
-Viruses are defined as life forms which can't produce all enzymes required for their metabolism. Topics such as life cycle, movement options, different behaviors and places of living are introduced.
+Viruses are defined as life forms which can't produce all enzymes required for their metabolism. Topics such as life cycle, capabilities, different behaviors and places of living are introduced.
 
 
 ## Introduction to Viruses
