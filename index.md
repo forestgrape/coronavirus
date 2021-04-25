@@ -18,12 +18,13 @@ home: true
 ---
 
 ## Recent Updates
-- 25.4. [Government support](7_social/controlling.md#government-support) for closed businesses updated: For businesses closed more than one or two month, I consider it appropriate for government to support  fix costs (including possibly capped salaries) proportional to the reduction in turnover.
+
 - 25.4. Page coronaviruses separated into the pages:
   - [Life Forms](2_biological/life-forms.md). 
   - [Viruses](2_biological/viruses.md)
   - [Coronaviruses](2_biological/coronavirus.md)
   - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
+- 25.4. [Government support](7_social/controlling.md#government-support) for closed businesses updated: For businesses closed more than one or two month, I consider it appropriate for government to support  fix costs (including possibly capped salaries) proportional to the reduction in turnover.
  > - 25.4. Clarifications on Comments, Hints and Formulations: For conciseness all subjective, ambiguous or off topic remarks are formatted like this as [comment](#comments). I didn't always follow this, giving space to ambiguities, explicitly marked from now on. E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency. On the other hand a section was titled 'orientation matters' on the observation that the cell orientation is relevant for coronavirus infection, however there was no second meaning in this case as stated in [comment on comments](#comment-on-comments).
 - 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
