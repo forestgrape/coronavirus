@@ -227,10 +227,11 @@ This sections discusses measures that can be put in place if Covid-19 increase r
   The points above are summarized to subjective rating/comments/recommendations. Subjective since they rely on subjective weighting and subjective rating of the single points. 
 
 
-#### Government Support 
-> * _Individuals_: Temporary support for individuals I consider necessary not to disrupt livelihoods. 
-> * _Closed Businesses_: For businesses closed longer than a few weeks I consider it appropriate to support the fixed costs (including rent, insurances, capped salaries if they are not yet covered by individual support). Temporarily credits are a solution until the exact amounts can be determined, then the credits can be transformed into a-fond-perdue support. The support for the fixed costs can be proportional to the turnover loss due closures (possibly averaged over some time period e.g. a year). For businesses which were not closed, I consider easy credit access as the option of choice.
-> * _Reorientation_: Additionally support for those who need/want to reorganize can be adequate. Long-term support and how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](./economics.md).
+#### Support for Individuals and Businesses
+> * _Individuals_: Temporary support for individuals I consider necessary not to disrupt livelihoods.
+> * _Closed Businesses_: For businesses closed longer than a few weeks I consider it appropriate to support the fixed costs: rent, insurances, capped salaries (if they are not yet covered by individual support). Temporarily credits are a solution until the exact amounts can be determined, then the credits can be transformed into a-fond-perdue support. Support for the fix costs proportional to the reduction in turnover is an option (possibly averaged over some time period e.g. a year).
+> For businesses which were not closed, easy credit access & realistic payback schemes combined with advices is an option.
+> * _Reorientation_: Additionally support for those who need/want to reorganize can be adequate. Long-term support and how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](../7_social/economics.md).
 > 
 > Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced or closed for the foreseeable future (long distance traveling, large scale events).
 > 
