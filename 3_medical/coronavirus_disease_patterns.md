@@ -218,7 +218,7 @@ LRI | trachea | cough  | irritation due to virions deposited| no ACE2 cells thus
 > 
 > Virus discovery is not easy and requires the right settings. Some of the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite both being endemic to human for a long time and virologists had the (theoretical) possibilities to discover coronaviruses since the 70's. MERS got discovered in 2012 but likely human infections have occurred long before. 
 
-> More on the origin is in the chapter [Backtracing SARS-like](../2_biological/_site/hosts_of_nidovirales.md#backtracing-sars-cov-1/2)
+> More on the origin is in the chapter [Backtracing SARS-like](../2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-1/2)
 
 
 
