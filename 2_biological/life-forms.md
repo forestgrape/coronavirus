@@ -5,18 +5,19 @@
 * [Introduction to Life on Earth](#introduction-to-life-on-earth)
 * [Memorizing Interactions](#memorizing-interactions)
   * [Storage Options](#storage-options)
-  * [Storage Organization](#storage-organization)
+  * [Storage System](#storage-system)
 * [Ways of Life](#ways-of-life)
   * [How Life Forms Respond and Behave depending on Situations](#how-life-forms-respond-and-behave-depending-on-situations)
   * [How Life Forms Growth](#how-life-forms-growth)
 * [Ecology](#ecology)
   * [Interactions between Life Forms](#interactions-between-life-forms)
-  * [Cooperations](#cooperations)
+  * [Forms of Cooperation](#forms-of-cooperation)
   * [Mechanism to Control Interactions](#mechanism-to-control-interactions)
   * [Locations of Living](#locations-of-living)
 * [Systematics](#systematics)
-  * [Life Forms by Storage Organization](#life-forms-by-storage-organization)
-  * [Viruses](#viruses)
+  * [Life Forms by Storage System](#life-forms-by-storage-system)
+  * [Life Forms by Structure](#life-forms-by-structure)
+  * [Grouping by Interactions](#grouping-by-interactions)
 
 
 > **major (re)work in progress, April 2021**]
@@ -117,10 +118,12 @@ All life forms on earth use single stranded RNA at least as temporary storage fo
 * Some forms of life alternate the storage formats through their life cycle: ssRNA-RT (retroviruses).
 
 
+
+
 ## Ways of Life 
 > **in work and incomplete**
 
-> Explorative
+> Explorative Chapter
 
 
 ### How Life Forms Respond and Behave depending on Situations
@@ -150,8 +153,9 @@ Storage form of behavior and responses:
 ### How Life Forms Growth
 Plants adapt the environment by different growing patterns.
 
-> // The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia article on tropism]
 
+#### Tropisms
+> // The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia article on tropism]
 
 ##### Tropism
 > *Tropism* denotes here how organisms growth subject to environmental influences. When a life form growths preferable in some settings, the life life form has a tropism for that setting.
@@ -174,8 +178,8 @@ On this page, a virus has a tropism for a object if the virus has a noticeable e
 
 
 
-## Ecology 
 
+## Ecology 
 
 ### Interactions between Life Forms
 Nearly all forms of life are dependent on other forms of life in one way or another. Mostly they need substances for their metabolism which are only produced by other forms of life:
@@ -184,6 +188,8 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 
 Cell forming forms usually just need the ingredients (raw materials) and are able to produce the enzymes (machines). Where as [viruses](../2_biological/viruses.md#virus) by definition don't produce all needed enzymes (machines).
 
+
+
 ### Forms of Cooperation
 Often life forms specialize, organize and work together to form a more capable entity and thus the overall fitness is increased. Examples of cooperations are symbiosis and organisms.
 
@@ -191,6 +197,7 @@ Often life forms specialize, organize and work together to form a more capable e
 * Conglomerations
   * Each member keeps some independence => Entity
   * Originating from one unit => Organisms
+
 
 #### Symbioses
 Many interactions between life forms turned out to be beneficial and reoccur frequently, some of these even evolved into permanent couplings.
@@ -203,7 +210,6 @@ Each form providing what it is best at providing at.
 The coupling strengths vary:
 * Sometimes the couplings are so strong that the coupling is permanent and the combination is a new form of life: E.g. mitochondria as cell organelles.
 * Sometime the units keep the ability for separation and can go separate paths again. 
-
 
 #### Entities
 > explorative term
@@ -219,7 +225,6 @@ The coupling strengths vary:
 * Virus Entities
 
 
-
 #### Organisms
 Many forms of life on todays earth e.g. plants, fungi and animals, are organisms.
 
@@ -232,6 +237,7 @@ For many questions, organisms are considered as a whole and not the single cells
 
 ### Mechanism to Control Interactions
 Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](../4_immunological/immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
+
 
 
 ### Locations of Living
