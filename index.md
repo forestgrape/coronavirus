@@ -18,11 +18,13 @@ home: true
 ---
 
 ## Recent Updates
-- 23.4. Comment on formulations: For some time 
-- 23.4. Page coronaviruses separated into 3 pages:
-  - [Life Forms](2_biological/_site/life-forms.md)
+- 25.4. Page coronaviruses separated into the pages:
+  - [Life Forms](2_biological/life-forms.md). 
   - [Viruses](2_biological/viruses.md)
   - [Coronaviruses](2_biological/coronavirus.md)
+  - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
+
+ > - 25.4. Clarifications on Comments, Hints and Formulations: For clarity all subjective , ambiguous or off topic remarks are formatted like this as [comment](#comments). I didn't always follow this giving space to unclarities, explicitly marked from now on. E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency. On the other hand I had titled I section orientation matters regarding the cell orientation, however there was no second meaning in this case [comment on comments](#comment-on-comments).
 - 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
 - 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
@@ -46,18 +48,27 @@ home: true
 * A [Table of Content](#content) is provided. The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
 * This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](https://forestgrape.github.io/coronavirus)
 
-* > ###### Definitions
+* Often references are summarized. Word-by-word extracts are in " ". The summarized are biased towards to results relevant for this page, even though it is tried to capture the essence of the research.
+
+*   > ###### Definitions
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
-* > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
+*   > ###### Comments
+    > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
 
-* Often references are summarized. Word-by-word extracts are in " ". The summarized are biased towards to results relevant for this page, even though it is tried to capture the essence of the research.
+    > ###### Comment on Comments
+    > // A section on the coronavirus page - with the content that Coronaviruses enter and leave cell preferable from the cell side pointing outwards (apical side) - was titled 'Orientation matters' for quite a long time and in the same section I had written McCray & Co instead of McCray et al. Both formulations I choose because of a 'cool' sound without further implications:
+    > * The word orientation was used only in the sense of positioning.  However, I acknowledge, that orientation is used in different contexts and depending on the background, what one thinks when reading 'orientation' can vary. Often orientation is used to denote attitudes or sexual orientation (Oxford dictionary). In my opinion, orientations in the sense of attitudes should *not* matter apart from the topic of interest (e.g. sexual orientation can matter for dating or sport preferences for sport friends). Similarly for a virus infecting a cell the orientation is usually not relevant, however it is relevant for coronaviruses infecting cell in the respiratory tract.
+    > * McCray & Co does *not* imply that the research is business like, it is outstanding and shows a basics principle of betacoronavirus, namely they mostly live on the surfaces and not within tissues.
+
+
 
 
 ---
 
 ## Content
-[sometimes out of date, new sections are found in [updates](#recent-updates)]
+
+> Sometimes out of date, newest sections are announced in [recent updates](#recent-updates)].
 
 ### Introduction
 * [Recent Updates](#recent-updates) and [Update History](#update-history)
