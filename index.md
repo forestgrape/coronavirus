@@ -20,11 +20,11 @@ home: true
 ## Recent Updates
 
 - 25.4. Page coronaviruses separated into the pages:
-  - [Life Forms](2_biological/life-forms.md). 
-  - [Viruses](2_biological/viruses.md)
-  - [Coronaviruses](2_biological/coronavirus.md)
+  - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
+  - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do.
+  - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
   - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
-- 25.4. [Government support](7_social/controlling.md#government-support) for closed businesses updated: For businesses closed more than one or two month, I consider it appropriate for government to support  fix costs (including possibly capped salaries) proportional to the reduction in turnover.
+- 25.4. Subjective comment on [Government support](7_social/controlling.md#government-support) for closed businesses updated: For businesses closed for more than one month, support for the fix costs proportional to the reduction in turnover I consider fair.
  > - 25.4. Clarifications on Comments, Hints and Formulations: For conciseness all subjective, ambiguous or off topic remarks are formatted like this as [comment](#comments). I didn't always follow this, giving space to ambiguities, explicitly marked from now on. E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency. On the other hand a section was titled 'orientation matters' on the observation that the cell orientation is relevant for coronavirus infection, however there was no second meaning in this case as stated in [comment on comments](#comment-on-comments).
 - 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
@@ -89,7 +89,7 @@ Various aspects of coronaviruses are described with a focus on understanding.
     * Above 45 degrees the decay fastens and is less dependent on the biochemical environment since the spring-loaded proteins loose their energy.
     * A fast decay seems to occur in the presence of osmotic pressure e.g. when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation.
 
-- [Backtracing Sars-CoV-1/2](./2_biological/hypotheses_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
+- [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
     The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
 
 ### Medical Topics
@@ -219,7 +219,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 18.10. Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./5_epidemiological/transmission.md#overview-airborne-transmission)). More on the topic in work. 
 - 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) and testing priorities
 - 15.10. moved [Covid section](./3_medical/covid19.md) to its own page
-- 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](2_biological/hypotheses_nidovirales.md)
+- 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](2_biological/hosts_of_nidovirales.md)
 - 8.-13. 10. Public Advice and Suggestions renamed to [Public/General Suggestions and Thoughts](#public-suggestions-and-thoughts) and adapted
 - 3.8. [Airborne Transmission](./5_epidemiological/transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](./2_biological/coronavirus.md) page
@@ -372,13 +372,14 @@ Stress is an important factor, who hasn't experienced falling sick after a stres
 
 
 ## Ideas to Explore
-* Backtracing Sars-CoV-1/2: on the page [Hypotheses about Nidovirales](2_biological/hypotheses_nidovirales.md).
-* [Infection Tropism and Disease Patterns](./3_medical/coronavirus_disease_patterns.md)
-* [Bovine Farming and Covid](../5_epidemiological/reduce_covid_bovine_farming.md)
-* [Early On Prevent Mucus Accumulations](./6_prevention_and_treatment/increasing_the_mucus_flow.md)
+
+* Backtracing Sars-CoV-1/2: on the page [Hypotheses about Nidovirales](2_biological/hosts_of_nidovirales.md).
+* [Infection Tropism and Disease Patterns](3_medical/coronavirus_disease_patterns.md)
+* [Bovine Farming and Covid](5_epidemiological/covid_and_bovine_farming.md)
+* [Early On Prevent Mucus Accumulations](6_prevention_and_treatment/increasing_the_mucus_flow.md)
 
 
-## References
+## Notes on References
 
 * References are grouped by topic. If several topics apply, one has been chosen. 
 * Sometimes reviews or remarks in introductions are referred which point further to the original work/articles. 
