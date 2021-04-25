@@ -26,7 +26,7 @@
   * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
   * [References Cell Entry](#references-cell-entry)
 
-> **major (re)work in progress, April 2021**]
+> **major (re)work in progress, April 2021**
 
 ## Summary
 Coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.
