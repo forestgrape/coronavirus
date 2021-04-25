@@ -72,9 +72,8 @@ Airborne transmissions can be thought [smoke like](../5_epidemiological/transmis
 * Some people are super-spreaders while many people don't spread Covid.
 * Children get less infected and are less infectious. No super spreading events have been linked to children (to my knowledge).
 
-
 #### Summed Up
-* Outdoor activities reduce the overall Covid burden. Outdoor activities even can reduce the overall Covid spread, since less time is spent indoors.
+* Outdoor activities reduce the overall Covid burden. Outdoor activities even can reduce the overall Covid spread and especially the number of severe cases, since less time is spent indoors and the lifestyles are healthier.
 * Most covid transmissions occur in not well ventilated indoor settings. Indoor air which many people breath is in large buildings: E.g. stairwells in residential blocks, supermarkets, indoor arenas, large offices, cruise ships, airplanes (high altitude) or crowded bars.
 * Appropriate spread precaution measures and good treatment is important for people with severe Covid.
 
