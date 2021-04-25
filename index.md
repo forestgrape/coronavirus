@@ -79,7 +79,7 @@ home: true
 
 ### Introduction
 * [Recent Updates](#recent-updates) and [Update History](#update-history)
-* [Public Suggestions and Tips](#public-suggestions-and-tips)
+* [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 
 ### Biological Topics
@@ -141,12 +141,13 @@ Various aspects of coronaviruses are described with a focus on understanding.
 ## Update History
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
+> Not all links work since the page structure has changed.
+
 - 22.3. [Spread Assumptions section](./7_social/controlling.md#spread-assumptions) on the [controlling page](./7_social/controlling.md) added. Formulations across the page.
 - 18.3. [Virion Viability Page](./2_biological/virion_viability.md) in online work (finally!). 
     * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
     * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees, especially at air humidities around 40%. In dry air or high but not very high humidity the decay is slower.
     * Above 45 degrees the decay fastens (doubling about every 2 degrees) due to the spring-loaded proteins (spikes and sometimes N) loosing their structure and thereby the stored energy.
-
 - 17.2. [Masks](./6_prevention_and_treatment/masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./6_prevention_and_treatment/masks.md#personal-mask-preferences)
 - 13.2. How Coronaviruses overcome Immune System obstacles moved to separate page [Immune Evasion](./4_immunological/immune_evasion.md).
 - 11.2. Corrected mistakes (T Cell Training) on the [Immune System page](./4_immunological/immune_system.md) and added/completed section how SARS-2 overcomes antibodies.
@@ -197,20 +198,20 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     * High altitudes which means cold nights and increased breathing: La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
 - 25.10. New page [Spread Analyses](./5_epidemiological/spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings.
 -  > 24.10. Part of the early-online-updates below (16.10.) is a note about [corona conform schooling](./7_social/controlling.md#corona-conform-schooling) which needed correction: Pupils are **not** likely to play a major role in the past and current Covid spread while protection measures are in place.
--  15./16.10. Early Online Update for the sections [Protection Measures](./monitor_and_control.md#thoughts-about-social-measures) and [Transmission](./5_epidemiological/transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
+-  15./16.10. Early Online Update for the sections [Protection Measures](./7_social/controlling.md#thoughts-about-social-measures) and [Transmission](./5_epidemiological/transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
 - 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to read & manage and helps to make the topics as self-contained as possible.
-- 21.9. new section [Backtracing Sars-CoV-1/2](2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12)
+- 21.9. new section [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
-	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](3_medical/coronavirus_disease_patterns.md)
+	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](./3_medical/coronavirus_disease_patterns.md)
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
-- 27.7. [Disease pattering](3_medical/coronavirus_disease_patterns.md)
+- 27.7. [Disease pattering](./3_medical/coronavirus_disease_patterns.md)
 - 29.4/3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' 
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
-- 9.4.20 Extended section [Prevent Early On Mucus Accumulations](6_prevention_and_treatment/increasing_the_mucus_flow.md), previously named Early On Ventilators 
+- 9.4.20 Extended section [Prevent Early On Mucus Accumulations](./6_prevention_and_treatment/increasing_the_mucus_flow.md), previously named Early On Ventilators 
 - 4.4.20 Added Section Ideas to Explore
-    - starting with [Early On Ventilators](6_prevention_and_treatment/increasing_the_mucus_flow.md): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
+    - starting with [Early On Ventilators](./6_prevention_and_treatment/increasing_the_mucus_flow.md): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
 - 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](./5_epidemiological/transmission.md##particle-dynamics-in-the-respiratory-tract).
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ triple wrong:
     1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as the lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
@@ -220,20 +221,20 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 ### Minor Updates
 - 22.12. split up the page monitor_and_control.md into two pages [monitoring.md](./8_data/monitoring.md) and [controlling.md](./7_social/controlling.md)
 - 22.12. section Coronavirus Disease Pattering moved from the section Ideas to Explore to its own page ideas_to_explore/[Coronavirus Disease Pattering](./3_medical/coronavirus_disease_patterns.md)
-- 24.10. Completed & added & linked summaries regarding insects for the section [Backtracing SARS-1/2](#backtracing-sars-cov-12)
+- 24.10. Completed & added & linked summaries regarding insects for the section [Backtracing SARS-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12)
 - 20-23.10. Clarifications and corrections across the page with a focus on the sections Transmission, Immune System and Coronaviruses.
-- 18.10. Reconsidering [Mask Types](./monitor_and_control.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./5_epidemiological/transmission.md#overview-airborne-transmission)). More on the topic in work. 
-- 16.10. [Monitor Prevalence](./monitor_and_control.md#monitor-prevalence) and testing priorities
+- 18.10. Reconsidering [Mask Types](./6_prevention_and_treatment/masks.md#mask-types) and aerosol protection: Only high filtration mask reliably prevent the spread of aerosols. Various sections are updated accordingly and existing comments emphasized ([Summary airborne transmission](./5_epidemiological/transmission.md#overview-airborne-transmission)). More on the topic in work. 
+- 16.10. [Monitor Prevalence](./8_data/monitoring.md#monitor-prevalence) and testing priorities
 - 15.10. moved [Covid section](./3_medical/covid19.md) to its own page
 - 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](2_biological/hosts_of_nidovirales.md)
-- 8.-13. 10. Public Advice and Suggestions renamed to [Public/General Suggestions and Thoughts](#public-suggestions-and-thoughts) and adapted
+- 8.-13. 10. Public Advice and Suggestions renamed to [Public/General Suggestions and Thoughts](./1_introduction/suggestions_and_tips.md#public-suggestions-and-thoughts) and adapted
 - 3.8. [Airborne Transmission](./5_epidemiological/transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](./2_biological/coronavirus.md) page
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
 - 12.6. sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
 - 12.5. added note that [outdoors is safer](./monitor_and_control.md#outdoors-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
-- 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](./monitor_and_control.md)
+- 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](./7_social/controlling.md)
 - 28.4. Short note to support public health in the data section
 - 25.4. Data availability section
 - 20.4.20 Section cross protections: Human infection by BCoVs has been observed.

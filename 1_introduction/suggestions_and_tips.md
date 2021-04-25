@@ -21,7 +21,7 @@ Time to act mindfully, carefully and circumspectly & work together in an open, f
 
 
 ## Sars-CoV-2 Transmission 
-SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in water droplets flying like balls) or by aerosol (the virions move with the air). For Covid-19 aerosol transmission is more frequent and much more dangerous. A short overview below and a more in depth description is in the section [Airborne Transmission](./5_epidemiological/transmission.md#recap-airborne-transmission).
+SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in water droplets flying like balls) or by aerosol (the virions move with the air). For Covid-19 aerosol transmission is more frequent and much more dangerous. A short overview below and a more in depth description is in the section [Airborne Transmission](../5_epidemiological/transmission.md#recap-airborne-transmission).
 * __Droplet Transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
     - Masks
     - Distance
@@ -29,7 +29,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
     - Plexiglas
 * __Aerosols Transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outdoors, the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
     - being outdoors, ventilation, distance and less people inside 
-    - masks, preferably with a good fit and [filter](./6_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently
+    - masks, preferably with a good fit and [filter](../6_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently
     - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
 
     Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
@@ -42,27 +42,27 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
 
 In brief: Think ahead. To reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
 
-* #### Outdoors
-    [outdoors with some distance is safe](./7_social/controlling.md#outdoors-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
+* ### Outdoors
+    [outdoors with some distance is safe](../7_social/controlling.md#outdoors-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
 
-* #### Ventilate
-    [Ventilation](./7_social/controlling.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
+* ### Ventilate
+    [Ventilation](../7_social/controlling.md#ventilation) has been shown to be effective to reduce airborne virus spread. 
     * Open the windows. In cold climate: ventilate the rooms regularly by opening all windows for 5 minutes.  
     * If possibly infected, ventilate before opening the door of your room or flat. 
 
-* #### Masks
-    Wear a [mask](./7_social/controlling.md#masks) 
+* ### Masks
+    Wear a [mask](../7_social/controlling.md#masks) 
     - outdoors and indoors: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be.  The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
     The mask should be clean/fresh, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
 
-    Masks can be reused if [cleaned](./6_prevention_and_treatment/masks.md#mask-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+    Masks can be reused if [cleaned](../6_prevention_and_treatment/masks.md#mask-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
-* #### Distancing
+* ### Distancing
     Distancing reduces infection risk.
 
-* #### No Dry Air
+* ### No Dry Air
   Dry air increases the transmission of coronaviruses since:
      * In dry air, both dust and viruses stay longer in the air. 
      * Viruses survive better in dry air. 
@@ -70,15 +70,15 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     
     In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. If the outside air is warm and dry the windows should be open always.
 
-* #### Hygiene
+* ### Hygiene
     Keep proper hygiene. Especially wash hands before eating and after toilet. Soap destroys coronaviruses. Hygiene is important because:
     * Transmission pathways of Covid-19 are still unclear. So just avoid them all. 
     * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
-    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](./4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.    
+    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.    
 
-    But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](./5_epidemiological/transmission.md).
+    But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](../5_epidemiological/transmission.md).
 
-- #### Transport
+* ### Transport
   * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
   * Public transport: Masks, distance if possible and ventilation
 
@@ -91,7 +91,7 @@ The more common Covid-19 in a region is, the more likely it is, that an observed
 * Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
 * The precaution measures against Covid-19 protect against all respiratory diseases, so all respiratory diseases are reduced. Common colds are not common right now. So respiratory symptoms means being careful and even can mean figuring out all the people one could have infected and informing them to watch for symptoms.
 * Every morning first smell and then taste your favorite breakfast drink.  
-* Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](./3_medical/covid19.md#symptoms). 
+* Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](../3_medical/covid19.md#symptoms). 
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
 
     > It's time [for medicine] to move on from digitalization schemes to the continuous color-space of statistics. There's no hard border for fever at 37.5 or at 38 degrees.
