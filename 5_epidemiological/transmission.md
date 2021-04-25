@@ -406,7 +406,7 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
 
 * ##### Dudas 2017
     **MERS-CoV spillover at the camel-human interface** Gytis Dudas, Luiz Max Carvalho, Andrew Rambaut, Trevor Bedford; elifesciences.org
-    [Summary of Dudas et al](../2_biological/hypotheses_nidovirales.md#summary-dudas-2017) in the chapter hypotheses about nidovirales.
+    [Summary of Dudas et al](../2_biological/hosts_of_nidovirales.md#summary-dudas-2017) in the chapter hypotheses about nidovirales.
 
 
 ### Environmental Factors on Betacoronaviruses
