@@ -77,7 +77,7 @@ Virions have behave similar as seeds of plants: Travel and wait for the right co
 
 #### Virion Travel 
 Once released from a cell virions are moved by external forces ([movement-of-virions](../2_biological/motility.md)) until they are [activated](#behavior-virion-phase) to start the cell infection process.
-A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](../2_biological/life-forms.md#movement-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination.
+A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](../2_biological/motion.md#motion-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination.
 
 The infectable cell can be:
 * in the same host or in another host
@@ -218,12 +218,12 @@ Coronaviruses replicate well in the respiratory tract, thus they have a tropism 
 
 Coronaviruses can adapt fast to changed or new environments if given time and opportunity. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome.
 
-The genetic evolution of coronaviruses is fast compared to other [forms of life](#life-form) because:
+The genetic evolution of coronaviruses is fast compared to other [forms of life](./life-forms.md) because:
 * a short average generation-time (only a few hours [to be confirmed]) 
 * properties of their genome copying. 
   * [single stranded RNA](../2_biological/life-forms.md#ssRNA) is copied by RNA-dependent RNA polymerase, which yields a higher rate of random point errors (mutations) compared to DNA polymerases
   * a homologous recombination mechanism [[Woo et al.](#woo)] , more refs coming]
-* Genome is [encoded in RNA and not in DNA](#lifetime-storage). RNA mutates more than DNA.
+* Genome is [encoded in RNA and not in DNA](./life-forms.md#lifetime-storage). RNA mutates more than DNA.
 * A large overall populations size = (within host population) * (number of infected hosts)
   * large population size both within hosts. 
   * the number of infected hosts can be large (for Sars-CoV-2)

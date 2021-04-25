@@ -280,5 +280,5 @@ Peter Lydyard, Alex Whelan, Michael Fanger
 > - ###### Chemistry
 >   *Chemistry* describes reactions of substances. *Chemical reaction* = changes in the electron arrangement of the outer electron shells.
 > - ###### Biology
->   Molecular biology which is essentially the chemistry of life forms: Reactions and participating substances occurring only in the context of [life forms](../2_biological/coronavirus.md#life-form) on earth. Mostly these are complex organic molecules and their reactions. 'Classical' biology
+>   Molecular biology which is essentially the chemistry of life forms: Reactions and participating substances occurring only in the context of [life forms](../2_biological/life-forms.md#life-form) on earth. Mostly these are complex organic molecules and their reactions. 'Classical' biology
 

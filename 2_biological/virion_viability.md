@@ -63,11 +63,11 @@ Selected situations grouped by the halflifetimes of the virion decay:
 
 ## Summary Virion Viability
 
-[Virions](../2_biological/coronavirus.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. Coronavirus virions decay fast compared to other forms of life. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
+[Virions](../2_biological/viruses.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. Coronavirus virions decay fast compared to other forms of life. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
 
 ### Reasons for the Fast Decay
 The principal reasons for the instability of virion are:
-* The genome is [stored in ssRNA](../2_biological/coronavirus.md#ssrna)
+* The genome is [stored in ssRNA](../2_biological/life-forms.md#ssrna)
 * The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out imbalances such as osmotic pressures, without metabolism virions do not.
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
 * Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
@@ -331,7 +331,7 @@ All of the building blocks of a virions are subject to decay. Under which circum
 ### RNA Decay
 
 #### RNA Self Decay
-The genome of coronaviruses is stored in single stranded RNA, which is the least stable of the 4 [storage forms](../2_biological/coronavirus.md#lifetime-storage) is not very stable and bases can mutate which yield unusable RNA
+The genome of coronaviruses is stored in single stranded RNA, which is the least stable of the 4 [storage forms](../2_biological/life-forms.md#lifetime-storage) is not very stable and bases can mutate which yield unusable RNA
 
 ##### Modifying Factors 
 * Temperature: The decay rate increases with the temperature (linear in Arrhenius plots).

@@ -41,7 +41,7 @@ Many of the symptoms are not specific to Covid-19, they may have other causes th
 A disease is often dynamic and an immune response is induced/involved. Chemical/biochemical damages such as dehydration, a poisoning or physical damage such as a fracture or an injury are not diseases themselves but chemical/physical damage can result from a disease.
 
 There are many different causes of diseases:
-* other [life forms](../2_biological/coronavirus.md#life-form) interfering with the metabolism, such an interference is called [infection as defined below](#virus-infection). 
+* other [life forms](../2_biological/life-forms.md#life-form) interfering with the metabolism, such an interference is called [infection as defined below](#virus-infection). 
   * outside of cells but inside multicellular organisms
     * most bacteria
     * fungi
@@ -53,12 +53,12 @@ There are many different causes of diseases:
 Virus diseases are cause by virus infections:
 
 > ##### Virus Infection
-> A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing/hijacking the cells metabolism to produce virus progeny - called virions. More about viruses and their infections in the chapter [Introduction to Viruses](../2_biological/coronavirus.md#introduction-to-viruses)
+> A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing/hijacking the cells metabolism to produce virus progeny - called virions. More about viruses and their infections in the chapter [Introduction to Viruses](../2_biological/viruses.md#introduction-to-viruses)
 
 If a virus infection causes lack of ease, one has a virus disease:
 
 > ##### Virus Disease
-> A *virus disease* is a [virus infection of an organism](../2_biological/coronavirus.md#virus-infection) causing adverse effects. 
+> A *virus disease* is a [virus infection of an organism](../2_biological/viruses.md#virus-infection) causing adverse effects. 
 
 Adverse effects result either directly through tissue damage caused by viruses or more frequent to keep the core parts of the body virus free (to prevent future cell/tissue damage) a strong immune response is induced causing effects on its own.
 

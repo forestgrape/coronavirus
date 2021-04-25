@@ -229,7 +229,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](2_biological/hosts_of_nidovirales.md)
 - 8.-13. 10. Public Advice and Suggestions renamed to [Public/General Suggestions and Thoughts](./1_introduction/suggestions_and_tips.md#public-suggestions-and-thoughts) and adapted
 - 3.8. [Airborne Transmission](./5_epidemiological/transmission.md#recap-airborne-transmission) section added 
-- 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](./2_biological/coronavirus.md) page
+- 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](./2_biological/life-forms.md) page
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
 - 12.6. sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
 - 12.5. added note that [outdoors is safer](./monitor_and_control.md#outdoors-is-safer)
