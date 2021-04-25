@@ -20,7 +20,7 @@
   * [Grouping by Interactions](#grouping-by-interactions)
 
 
-> **major (re)work in progress, April 2021**]
+> **major updates in progress, April 2021**]
 
 ## Summary
 First things first, a life-forms is a thing with memorized environment interactions and is able to produce rough copies of itself, called progeny. The interactions are stored in genomes. All genomes are made from ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). Life-forms differ in the way they interact with the environment and with each other. Some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
