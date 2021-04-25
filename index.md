@@ -18,7 +18,7 @@ home: true
 ---
 
 ## Recent Updates
-- 25.4. [Government support](7_social/controlling.md#government-support) for closed businesses updated: For businesses closed more than one or two month, I consider it appropriate for government to pay all fix costs (including possibly capped salaries).
+- 25.4. [Government support](7_social/controlling.md#government-support) for closed businesses updated: For businesses closed more than one or two month, I consider it appropriate for government to support  fix costs (including possibly capped salaries) proportional to the reduction in turnover.
 - 25.4. Page coronaviruses separated into the pages:
   - [Life Forms](2_biological/life-forms.md). 
   - [Viruses](2_biological/viruses.md)
