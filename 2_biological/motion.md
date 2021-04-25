@@ -1,7 +1,7 @@
 
-# Motility of Viruses
+# Motion of Viruses
 
-> in very early work
+> in early work
   
 
 * [Motility of Virions](#motility-of-virions)
