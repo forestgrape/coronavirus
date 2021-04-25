@@ -68,9 +68,11 @@ Airborne transmissions can be thought [smoke like](../5_epidemiological/transmis
 * If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help. Smoke is rarely an issue outdoors, the same is true for Covid.
 
 #### Differences between Individuals
-* Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)). => (Encouraging) Transparency is important.
 * Some people are super-spreaders while many people don't spread Covid.
 * Children get less infected and are less infectious. No super spreading events have been linked to children (to my knowledge).
+* Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)). => (Encouraging) Transparency is important.
+
+  > (Encouraging) Transparency is always important.
 
 #### Summed Up
 * Outdoor activities reduce the overall Covid burden. Outdoor activities even can reduce the overall Covid spread and especially the number of severe cases, since less time is spent indoors and the lifestyles are healthier.
