@@ -12,7 +12,7 @@ home: true
   * [Epidemiological Topics](#epidemiological-topics): E.g. How they spread (transmission paths) and where spread is observed.
   * [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
   * Ideas to prevent and treat virus diseases including Covid.
-* [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which need to be evaluated. Hypotheses and not well established knowledge are marked as 'explorative'.
+* [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
 * [Public Suggestions and Tips](#public-suggestions-and-tips). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
 
 ---
@@ -80,26 +80,26 @@ home: true
 
 > Sometimes out of date, newest sections are announced in [recent updates](#recent-updates)].
 
+
 ### Introduction
 * [Recent Updates](#recent-updates) and [Update History](./1_introduction/update_history.md)
 * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 
-### Biological Topics
-* [Coronaviruses with a Focus on Sars-CoV-2](./2_biological/coronavirus.md#top)
-Various aspects of coronaviruses are described with a focus on understanding. 
-    - The starting point are first principles: life forms on earth. 
-    - Viruses are defined as life forms which are dependent on extern enzymes and aspects such as life cycle and movement options are sketched. 
-    - We then look at coronaviruses with a focus on SARS-CoV-2.
 
-- [Virion Viability](./2_biological/virion_viability.md)
+### Biological Topics
+- [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
+  - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
+- [Viruses](2_biological/viruses.md). What viruses are and what they can do and do. Viruses are defined as life forms which are dependent on extern enzymes. Aspects such as life cycle and behavior are discussed.
+  - [Virion Viability](./2_biological/virion_viability.md)
     * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
     * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees.
     * Above 45 degrees the decay fastens and is less dependent on the biochemical environment since the spring-loaded proteins loose their energy.
     * A fast decay seems to occur in the presence of osmotic pressure e.g. when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation.
-
-- [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
+- [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
+  - [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
     The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
+
 
 ### Medical Topics
 * [Covid-19](3_medical/covid19.md)
@@ -107,10 +107,12 @@ Various aspects of coronaviruses are described with a focus on understanding.
 * [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md) How to diagnose Covid with a focus on methods detecting parts of viruses (virus RNA with PCR or virus proteins with antigen test) at different locations (e.g. in the nose, mouth, lungs).
 - [Infection Locations and Disease Patterns](./3_medical/coronavirus_disease_patterns.md) (*explorative*)
 
+
 ### Immunological Topics
 * [Immune System](4_immunological/immune_system.md)
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 * [Immune Evasion](4_immunological/immune_evasion.md) How coronaviruses circumvent immune system obstacles.
+
 
 ### Epidemiological Topics 
 * [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./5_epidemiological/transmission.md)
@@ -123,15 +125,18 @@ Various aspects of coronaviruses are described with a focus on understanding.
 - [Spread Analyses](./5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs) (*explorative section*)
 
+
 ### Treatment and Prevention
 - [Movement](6_prevention_and_treatment/movement.md) How movement helps to get a better immune reaction upon a Covid infection and to recover faster and better.
 - [Topical Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to prevent and cure respiratory infections including Covid. Coronaviruses (and other respiratory viruses) live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
   - [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
   - [Increase the mucus Flow by humidified air](./6_prevention_and_treatment/increasing_the_mucus_flow.md): Humidify inhaled air early on to increase the mucus flow and wash the virions out. The goal is a reduce viral load and better prognosis. (explorative)
 
+
 ### Social Topics
 * [Thoughts about Controlling Sars-CoV-2](7_social/controlling.md)
     Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
+
 
 ### Data Topics
 * [Monitoring](8_data/monitoring.md)
