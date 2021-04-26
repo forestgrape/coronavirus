@@ -6,22 +6,31 @@ home: true
 
 # Understanding Betacoronaviruses and their Diseases
 
-* [Recent Updates](#recent-updates) and [Update History](./1_introduction/update_history.md) where all updates are listed.
+* [Recent Topics Added](#recent-topics-added)
+* [Recent Updates](#recent-updates)
  
-* [Content](#content): The content section lists the topics discussed on this page. The topics focus on an understanding and how to life with coronaviruses.
-  1. [Introduction] 
-     * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
-     * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.
-  2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
-  3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
-  4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
-  5. [Epidemiological Topics](#epidemiological-topics): E.g. How they spread (transmission paths) and where spread is observed.
-  6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention is to live a healthily.
-  7. [Social Topics](#social-topics). Thoughts about measures 
-  8. [Data Topics](#data-topics).
-* [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
+## Content In Short
+The [content section](#content) lists the topics discussed in more detail and the links below point there.
 
-* 
+1. [Introduction](#introductory-topics)
+     * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
+     * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
+     * [Content](#content). Content overview and twittering summaries.
+     * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.
+  
+2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
+
+3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
+
+4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
+
+5. [Epidemiological Topics](#epidemiological-topics): E.g. How they spread (transmission paths) and where spread is observed.
+
+6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention is to live a healthily.
+
+7. [Social Topics](#social-topics). Thoughts about measures 
+
+8. [Data Topics](#data-topics).
 
 ---
 
@@ -53,15 +62,16 @@ home: true
 * Chapters with new or not well founded content are tagged with *(explorative)*.
 * This page often conversational and some parts aren't rigorous and just ideas in raw form. 
 * The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
-* The license is Creative Commons Attribution 4.0. with the following relaxations: For any use with the main purpose of public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
-* [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
-* Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
-
-* New content is announced in [Updates](#recent-updates). 
-* A [Table of Content](#content) is provided. The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
-* This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](https://forestgrape.github.io/coronavirus)
-
-* Often references are summarized. Word-by-word extracts are in " ". The summarized are biased towards to results relevant for this page, even though it is tried to capture the essence of the research.
+* _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
+* _Support_ [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
+* Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__ (witotraub@gmail.com, witotraub@runbox.com).
+* _[Table of Content](#content)_ The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
+* _Source_ This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](https://forestgrape.github.io/coronavirus)
+* _References_
+  * Often references are summarized. Word-by-word extracts are in "_ _ _". The summaries are biased towards to results relevant for this page. To capture the essence of the research is tried too.
+  * As much as possible original work is referred. Sometimes reviews or remarks in introductions are referred which point further to the original work/articles.
+  * The references are named by the first author. (In the beginning of this work sometimes references were named by the correspondence author or a descriptive tag).
+  * References are usually grouped by topic. If several topics apply, one is chosen.
 
 *   > ###### Definitions
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
@@ -89,7 +99,7 @@ home: true
 > Sometimes out of date, newest sections are announced in [recent updates](#recent-updates)].
 
 
-### Introduction
+### Introductory Topics
 * [Recent Updates](#recent-updates) and [Update History](./1_introduction/update_history.md)
 * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
@@ -165,11 +175,7 @@ home: true
 * [Early On Prevent Mucus Accumulations](6_prevention_and_treatment/increasing_the_mucus_flow.md)
 
 
-## Notes on References
 
-* References are grouped by topic. If several topics apply, one has been chosen. 
-* Sometimes reviews or remarks in introductions are referred which point further to the original work/articles. 
-* The references are named by the correspondence author, the primary authors or a descriptive tag. Studies carried out in 2020 are often named: first author followed by the correspondence authors. [todo more consistent naming]
 
 
     
