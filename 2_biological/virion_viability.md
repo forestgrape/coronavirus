@@ -13,8 +13,8 @@
 * [Decay Measures and Rates](#decay-measures-and-rates)
   * [Measuring Infectious Virions](#measuring-infectious-virions)
   * [Exponential Decay](#exponential-decay)
-* [Decay Factors](#decay-factors)
-  * [Introduction Decay Factors](#introduction-decay-factors)
+* [Decay Principles](#decay-principles)
+* [Important Decay Factors](#important-decay-factors)
   * [Radiation](#radiation)
   * [Biochemicals](#biochemicals)
   * [Environment Related](#environment-related)
@@ -116,6 +116,7 @@ The self decay rate can be approximated by a piecewise linear function:
 
 
 ## Introduction
+
 ### Overview
 The page the following main chapters
 * [Decay Measures and Rates](#decay-measures-and-rates) How to measure the decay and calculate log reductions and halflifetimes and so on.
@@ -132,7 +133,7 @@ The page the following main chapters
 * While old and new research show that the decay in ambient air is U-shaped respect to humidity ([Decay in Ambient Air](#viability-in-ambient-air): low at in dry air, high in intermediate, then again lower in humid air). It is added and emphasized here that at very high humidities (above 90%) the decay fastens. Likely due to [condensation](#evaporation-and-condensation) since the same is true in distilled water. 
 
 ### Relevance
-* [in work]
+* The knowledge of virion viability help to design treatment methods. Such treatments are promising for viruses infecting apical sides of epithelial tissues since these are often reachable from the outside. Among epithelial infections respiratory infections are suitable since the pathogens often spread through the respiratory tract and not through tissues or through the blood.
 * Risk assessment
   * The long survival of virions in cool environments without sunlight indicates a transmission risk in stairwell or garages/parkings of large buildings ([Precaution measures in Large Buildings](../7_social/controlling.md#large-buildings)). 
   * The fast inactivation in sunlight is one reason [outdoors is safer](../7_social/controlling.md#outdoors-is-safer), especially on sunny days.
@@ -158,11 +159,11 @@ The page the following main chapters
 To measure infectious viruses cell culture experiments are necessary. The methods detecting building blocks of viruses (PCR and antigen tests) yield positive if the parts of the building are present regardless whether the virions are intact and infectious (page [diagnosis and viral load](../3_medical/diagnosis_and_viral_load.md)).
 
 ### Exponential Decay
-When each member of a collection has some time independent chance to replicate or decay during a certain time span independent of the other members, the whole collection growths or decays exponentially. Examples:
+When each member of a collection has some time independent chance to replicate or decay during a certain time-span independent of the other members, the whole collection growths or decays exponentially. Examples:
 * The decay of radioactive material is exponential since each atom has some probability to decay during a fixed time span.
-* Change of prevalence of a disease in a homogenous  or at least time homogenous population (time homogenous is approximately true for SARS-2 strains at low numbers of infected throughout the population structure/groups).
+* Change of prevalence of a disease in a homogenous or at least time homogenous population (time homogenous is approximately true for SARS-2 strains at low numbers of infected throughout the population structure/groups).
 
-In most circumstances virions decay independently of each other with a fixed probability during a given time span. In these situations the decay is exponential:
+In most circumstances virions decay independently of each other with a fixed probability during a given time span. In these situations the decay is exponential.
 
 `N(t) = e^(-k*t) * N(0)`  where N(t) = viability count at time t; k = decay rate; N(0) initial viability i.e. at time 0
 
@@ -177,25 +178,26 @@ The following equations hold (by properties of the exp and the log functions):
 
 
 
-## Decay Factors
-
-### Introduction Decay Factors
-A virion can decay through by being exposed to a decay factor which directly damage virions (e.g. UV light directly destroys RNA) or a factor can just modify the the decay rate of another mechanism. Often many factors interplay to yield the overall decay rate.
+## Decay Principles
+A virion can decay through by being exposed to a decay factor which directly damage virions (e.g. UV light directly destroys RNA) or a factor can just modify the the decay rate of another mechanism. Often the decay rate depends on an interplay of many factors.
 
 > ##### Decay Factor
 > A _decay factor_ is anything that directly induces or modifies the decay of virions.
 
-Decay factors can be distinguished into inducing/modifying and intern/extern:
-*  A decay factor can induce or just modify a decay mechanism.
-    > ##### Modifying Decay Factor
-    > A modifying factor is a factor which mainly modifies the rate of a decay mechanism.
+Decay factors can be classified as inducing/modifying and intern/extern:
+* _Inducing/Modifying_
+  A decay factor can induce or just modify a decay mechanism.
+  > ##### Modifying Decay Factor
+  > A modifying factor is a factor which mainly modifies the rate of a decay mechanism.
 
-    > ##### Inducing Decay Factor
-    > An inducing decay factor is necessary for a certain decay mechanism.
+  > ##### Inducing Decay Factor
+  > An inducing decay factor is necessary for a certain decay mechanism.
 
-* The virions decay depends on the internal state and influences from the environment.
+* _Intern/Extern_
+  The virions decay depends on the internal state and influences from the environment.
+
   > ##### Intern Decay Factor
-  > An internal decay factor is given by the [Internal state](#internal-state) of the virion (e.g. the genome, the proteins and the host cell acquired envelope of a virion)
+  > An internal decay factor is a property of the virion itself i.e. its [internal state](#internal-state) (e.g. the genome, the proteins and the host cell acquired envelope of a virion).
 
   > ##### Extern Decay Factor
   > [Extern decay factors](#external-decay-factors) Influences from the environment are called external decay factors (e.g. UV light, biochemicals)
@@ -210,8 +212,11 @@ Some decay mechanisms depend only on the internal state and no extern factor is 
 > ##### Self Decay
 > The intrinsic/self decay depends only on the [internal state](#internal-state) of the virion and not on external factors. Temperature is both an internal state and extern factor i.e. the extern temperature yields the internal temperature.
 
-The self decay occurs always. However in the presence of extern factors often the self decay is comparatively low so just the decay caused by extern factors has to be taken into account.
+Self decay occurs always. In the presence of extern decay inducing factors, the self decay is much slower so just the decay caused by extern factors has to be taken into account.
 
+
+
+## Important Decay Factors
 
 ### Radiation
 #### UV Light
@@ -310,9 +315,12 @@ Besides external factors also the internal state of a virion influences its prob
 > The *internal state* denotes the physical and chemical characterization of a virion. 
 
 The internal state has constant and variable characteristics:
-- Mostly constant for virions of a given lineage and their lifespan: Virus produced [Building Blocks](#virion-building-blocks) (RNA genome, the structure of the proteins). However RNA viruses mutate fast, just a few generations can be enough to adapt e.g. to heat ([Laude](#summary-laude)).
-- Mostly constant throughout the lifespan of a virions: host-cell acquired building blocks(envelope), other host acquired substances such as fatty acids or salts and sometimes the number and the glycosylation of proteins. E.g. [Fleming and Beeson](#summary-fleming) show that the decay rate depends on the originating host cell.
-- Variable throughout the virion lifespan
+* #### Constant for a Strain
+  Mostly constant for virions belonging to a strain and throughout the lifespan: Virus produced [Building Blocks](#virion-building-blocks) (RNA genome, the structure of the proteins). However RNA viruses mutate fast, just a few generations can be enough to adapt e.g. to heat ([Laude](#summary-laude)).
+* #### Constant throughout Lifetime
+  Mostly constant throughout the lifespan of a virions: host-cell acquired building blocks(envelope), other host acquired substances such as fatty acids or salts and sometimes the number and the glycosylation of proteins. E.g. [Fleming and Beeson](#summary-fleming) show that the decay rate depends on the originating host cell.
+* #### Variable throughout Lifetime
+  Variable throughout the virion lifespan
   - internal temperature (which is mostly the same as the external temperature since virions are very small and not isolated. However in the air virions can absorb sunlight and have a temporarily increased temperature.)
   - internal pH value
   - biochemicals able to pass the envelope
@@ -455,7 +463,7 @@ The estimates are based on the experiments:
 * [Riddell](#summary-riddell): Temperatures (20,30,40), Humidities (50%)
 * [Morris](#summary-morris): Temperatures (10,22,27), Humidities (40%, 65%, 80%)
 * [Casanova](#casanova): Temperatures (4,20,40), Humidities (20%, 50%, 80%)
-* [Chan 11](#summary-chan-11): Temperatures (28,33,38), Humidities (85%,95%)
+* [Chan 11](#summary-chan-11): Temperatures (28,33,38), Humidities (85%, 95%)
 
 which are summarized in the table [Viability Data](./virion_viability/notes_on_viability_data.md).
 
