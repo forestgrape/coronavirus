@@ -13,15 +13,15 @@ Topical treatment is adequate to treat respiratory-tract-surface virus infection
 Betacoronaviruses including SARS-1/2 or RSV are examples of RTS viruses.
 
 Topical treatment is promising against RTS virus infections since:
-* It is possible to target the virions which are otherwise hard to reach both for systemic medications and the immune system.
+* To target the virions is often easier from the outside i.e. through the respiratory tract than from the inside e.g. via the blood. Since RTSV virions are not easily reached from the blood makes them difficult to target for systemic medications and the blood based immune system.
 * RTS viruses are usually enveloped and have fusion proteins to fuse with membranes. The fusion ability requires spring loaded energy which makes them unstable.
 * Without metabolism, virions can neither react to environment changes nor repair any damage.
     
 Topical medications against SARS-like are especially promising since:
-* Coronavirus virions are especially delicate due to their large RNA genome and their powerful but delicate spikes.
-* Inside cells (i.e. in the metabolic phase) coronaviruses are very hard to target both for systemic medications and the immune system since they shield their metabolism very well in membrane vehicles.
+* Coronavirus virions are especially delicate due to their large RNA genome and their powerful but unstable spikes.
+* Inside cells (i.e. in the metabolic phase) coronaviruses are hard to target both for systemic medications and the immune system since they shield their core metabolism in membrane vehicles.
 
-Summed up with topical treatment the removal of infectious virions seems possible. The reduced viral load should lessen inflammation and enable the immune system to clear the infection better and faster.
+Summed up with topical treatment the removal of infectious virions seems possible. The reduced viral load should enable the immune system to clear the infection better & faster and lessen the inflammation induced.
 
 An example of a topical treatment is to [modulate the temperature and humidity](./temperature_modulation.md).
 
