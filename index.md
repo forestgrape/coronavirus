@@ -24,11 +24,11 @@ The [content section](#content) lists the topics discussed in more detail and th
 
 4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
 
-5. [Epidemiological Topics](#epidemiological-topics): E.g. How they spread (transmission paths) and where spread is observed.
+5. [Epidemiological Topics](#epidemiological-topics): Where and when coronaviruses spread and how they spread (transmission paths).
 
-6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention is to live a healthily.
+6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A reliable prevention with positive 'side-effects' is a healthy lifestyle.
 
-7. [Social Topics](#social-topics). Thoughts about measures 
+7. [Social Topics](#social-topics). Thoughts about measures to reduce the spread.
 
 8. [Data Topics](#data-topics).
 
@@ -161,15 +161,12 @@ The [content section](#content) lists the topics discussed in more detail and th
     About testing, monitoring, gathering and publishing data.
 
 
-
-
 ---
 
-
-
-## Ideas to Explore
-
-* Backtracing Sars-CoV-1/2: on the page [Hypotheses about Nidovirales](2_biological/hosts_of_nidovirales.md).
+## Explorative Chapters
+* [Modifying Temperature and Humidity](./6_prevention_and_treatment/temperature_modulation.md)
+* [Topical Treatments for Respiratory Infections](./6_prevention_and_treatment/topical_treatment.md)
+* Backtracing Sars-CoV-1/2: on the page [Hosts of Nidovirales](2_biological/hosts_of_nidovirales.md).
 * [Infection Tropism and Disease Patterns](3_medical/coronavirus_disease_patterns.md)
 * [Bovine Farming and Covid](5_epidemiological/covid_and_bovine_farming.md)
 * [Early On Prevent Mucus Accumulations](6_prevention_and_treatment/increasing_the_mucus_flow.md)
