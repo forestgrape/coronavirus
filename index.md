@@ -6,14 +6,22 @@ home: true
 
 # Understanding Betacoronaviruses and their Diseases
 
-* [Recent Updates](#recent-updates) and [Update History](./1_introduction/update_history.md) where all updates are listed. 
+* [Recent Updates](#recent-updates) and [Update History](./1_introduction/update_history.md) where all updates are listed.
+ 
 * [Content](#content): The content section lists the topics discussed on this page. The topics focus on an understanding and how to life with coronaviruses.
-  * [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
-  * [Epidemiological Topics](#epidemiological-topics): E.g. How they spread (transmission paths) and where spread is observed.
-  * [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
-  * Ideas to prevent and treat virus diseases including Covid.
+  1. [Introduction] 
+     * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
+     * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.
+  2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
+  3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
+  4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
+  5. [Epidemiological Topics](#epidemiological-topics): E.g. How they spread (transmission paths) and where spread is observed.
+  6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention is to live a healthily.
+  7. [Social Topics](#social-topics). Thoughts about measures 
+  8. [Data Topics](#data-topics).
 * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
-* [Public Suggestions and Tips](#public-suggestions-and-tips). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
+
+* 
 
 ---
 
@@ -64,12 +72,12 @@ home: true
     > ###### Comment on Comments
     > Subjective or off topic remarks are formatted as comments, if not the formulations are about the topic alone.
     > A section on the coronavirus page - with the content that Coronaviruses enter and leave cell preferable from the cell side pointing outwards (apical side) - was titled 'Orientation matters' for quite a long time and in the same section I had written McCray & Co instead of McCray et al. Both formulations I choose because of a 'cool' sound. The section is and was not marked as subjective accordingly I didn't intend any ambiguity.
-    > * The word orientation was used in the sense of positioning  (google-scholar shows quite a few results with orientation matters and most are about physics and also the oxford dictionary lists position as the first meaning).  However, I acknowledge, that orientation is used in different contexts and depending on the background, what one thinks when reading 'orientation' can vary - often orientation is used to denote attitudes or sexual orientation. 
-    > * McCray & Co does *not* imply that the research is business like, it is outstanding and shows a basics principle of betacoronavirus, namely they mostly live on the surfaces and not within tissues.
+    > * The word orientation was used in the sense of positioning  (google-scholar shows quite a few results with 'orientation matters' and most are about physics and also the oxford dictionary lists 'position' as the first meaning).  However, I acknowledge, that orientation is used in different contexts and depending on the background, what one thinks when reading 'orientation' can vary - in social contexts, orientation is often used to denote attitudes or sexual orientation. 
+    > * McCray & Co does *not* imply that the research is business focussed (showing and interpreting the results to highlight the benefits of a product instead of an unbiased analysis of the topic), it is outstanding and shows a basics principle of betacoronavirus, namely they mostly live on the surfaces and not within tissues.
 
-    > In my opinion, orientations in the sense of attitudes should *only* matter if important for the topic of interest (e.g. sexual orientation can matter for dating or sport preferences for sport friends). 
+    > In my opinion, orientations in the sense of attitudes should *only* matter if important for the topic of interest (e.g. sexual orientation usually matters for dating or sport preferences for sport friends). 
     
-    > For a virus infecting a cell the orientation is usually not relevant, however it is relevant for coronaviruses infecting cell in the respiratory tract.
+    > For a virus infecting a cell the orientation is usually not relevant, however it is relevant for coronaviruses infecting cells in the respiratory tract.
 
 
 
