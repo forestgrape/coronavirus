@@ -18,6 +18,7 @@ This section overviews the content. The [full content section](#content) lists a
   * [Recent Updates](#recent-updates)
   * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
   * [Content](#content). Content overview and twittering summaries.
+  * [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
   
 1. [Introduction](#introductory-topics)
   * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
@@ -171,6 +172,7 @@ This section overviews the content. The [full content section](#content) lists a
 ## Explorative Chapters
 * [Modifying Temperature and Humidity](./6_prevention_and_treatment/temperature_modulation.md)
 * [Topical Treatments for Respiratory Infections](./6_prevention_and_treatment/topical_treatment.md)
+* [Infection Locations and Disease Pattering](3_medical/coronavirus_disease_patterns.md)
 * Backtracing Sars-CoV-1/2: on the page [Hosts of Nidovirales](2_biological/hosts_of_nidovirales.md).
 * [Infection Tropism and Disease Patterns](3_medical/coronavirus_disease_patterns.md)
 * [Bovine Farming and Covid](5_epidemiological/covid_and_bovine_farming.md)
