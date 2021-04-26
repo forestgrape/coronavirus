@@ -344,7 +344,7 @@ The history of prohibition dates back nearly as long, as history itself has been
 ### Corona Conform Schooling
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
 * Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](../5_epidemiological/spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
-  > The early-on update ([Updates 16.10](../index.md#update-history)) was too early, I didn't read and lookup the sources carefully enough. 
+  > The early-on update ([Updates 16.10](../1_introduction/update_history.md)) was too early, I didn't read and lookup the sources carefully enough. 
 * ThinkThrough:
   * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](../5_epidemiological/spread_analyses.md#schools-and-children).
   * Biological Background:
