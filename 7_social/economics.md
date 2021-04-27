@@ -32,7 +32,7 @@
 * [Summarized References](#summarized-references)
 * [References](#references)
 * [Appendix](#appendix)
-  * [Temporarily Hidden Off Topic Thoughts](#temporarily-hidden-off-topic-thoughts)
+  * [Temporarily Hidden Thoughts about Aspects of Economic Fairness](#temporarily-hidden-thoughts-about-aspects-of-economic-fairness)
 
 > ##### Economics
 > Science about the production, consumption, and transfer of goods and services.
@@ -243,7 +243,7 @@ The work is per credit and not per amount of credit. Therefore handing out small
 ### Comparison to Universal Basic Income
 The proposed Universal Capital Services are in some situations very similar to a Universal Basic Income, however they are much more flexible and participation is voluntary including paying the costs i.e. only those participating will pay the additional cost respect to existing social support measures. The exact difference depend on the concrete implementation.
 #### similar 
-* if continuously accessing the credits **and** not high future capital
+* when accessing the credits over a continuous time period **and** not high future capital (which would yield pay-back e.g. through taxes in the credit scheme)
 #### different
 * access can be all in one go e.g. for investments in a (new) business
 * those already having enough capital don't need to participate neither in taking nor in paying additional tax
@@ -278,8 +278,8 @@ More fairness for choosing job/work options.
 
 ## Appendix
 
-### Temporarily Hidden Off Topic Thoughts
-> The section here is temporarily commented out -  related but off topic thoughts on aspects of group related *economic* fairness (economics and to some extent education is considered but *not* other topics). I'd like to think more and invest more time to consider more view points and experiences, but for the moment the focus here is on coronaviruses. The drafts are still accessible  as comment on the markdown file or in the github history. Rethinking is planned for spring 2021. Feedback is appreciated.
+### Temporarily Hidden Thoughts about Aspects of Economic Fairness
+> The section here is temporarily commented out -  related but off topic thoughts on aspects of group related *economic* fairness (economics and to some extent education is considered but *not* other topics). I'd like to think more and invest more time to consider more view points and experiences. The draft is accessible as comment on the markdown file. Rethinking and discussing is helpful. ~~planned for spring 2021.~~ For the time being the thoughts are left as commented draft to emphasis that they are incomplete. Feedback is appreciated.
 
 
 <!--
