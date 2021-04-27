@@ -85,9 +85,14 @@ This section overviews the content. The [full content section](#content) lists a
     ##### Comment on Comments
     > Sometimes subjective comments and off topic comments are added. One reason for subjective comments is transparency and background for the mindset behind suggestions. 
     
-    ##### Mindset in short
-    > * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* ([Respect and Take Care](./1_introduction/suggestions_and_tips.md#respect-and-take-care) in the Suggestion and Tips chapter)
-    > * Attitudes or group memberships, - in my view - and as long as they respect others - *only* matter if relevant for the task of interest. ([Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) in the update history chapter)
+    > ##### Mindset in short
+    > * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.*
+    > * Fairness is important. Attitudes or group memberships - as long as they respect others - should *only* matter if directly relevant and really necessary for the task of interest.
+    >
+    > More notes in
+    > * [Respect and Take Care](./1_introduction/suggestions_and_tips.md#respect-and-take-care) on the Suggestion and Tips page
+    > * [Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) on the Update History page
+    > * [Baseline Principles](./7_social/economics.md#baseline-principles) on the Economic page.
 
 
 
