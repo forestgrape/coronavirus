@@ -46,18 +46,13 @@ This section overviews the content. The [full content section](#content) lists a
 
 
 ## Recent Updates
+- 27.4. Clarified Note [Comment on Comments](#comment-on-comments) and added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).
 - 25.4. Page coronaviruses separated into the pages:
   - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
   - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do.
   - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
   - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
-- 25.4. Clarifications on Comments: For conciseness all subjective and off topic remarks are formatted as [comment](#comments). Exception in context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency - marked as comment now. There was a section was titled 'orientation matters' - describing that the cell orientation is relevant for coronavirus infection - this was not marked as comment and accordingly there was no second meaning in this case as stated in [comment on comments](#comment-on-comments). 
-  > Orientations in the sense of attitudes or group membership, - in my view - *only* matter if relevant for the topic of interest. Often they are not relevant.
-- 1.4. - 25.4. Formulations across the pages. E.g. added note that allowing and promoting outdoor activities often not only reduces the burden of Covid measures but often also help reducing severe Covid cases since less time is spent indoors and the lifestyles are healthier. Specified [support for closed businesses](7_social/controlling.md#support-for-individuals-and-businesses). 
-- 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences). 
-- 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
-- 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
-- 23.3. Clarified summary for [Virion Viability](2_biological/virion_viability.md). [A table with compiled data](./2_biological/virion_viability/viability_data.md) from viability experiments is online. 
+* go to [full update history](./1_introduction/update_history.md)
 
 
 
@@ -70,7 +65,7 @@ This section overviews the content. The [full content section](#content) lists a
 * The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
 * _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
 * _Support_ [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
-* Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__ (witotraub@gmail.com, witotraub@runbox.com).
+* Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 * _[Table of Content](#content)_ The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
 * _Source_ This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](https://forestgrape.github.io/coronavirus)
 * _References_
@@ -78,6 +73,8 @@ This section overviews the content. The [full content section](#content) lists a
   * As much as possible original work is referred. Sometimes reviews or remarks in introductions are referred which point further to the original work/articles.
   * The references are named by the first author. (In the beginning of this work sometimes references were named by the correspondence author or a descriptive tag).
   * References are usually grouped by topic. If several topics apply, one is chosen.
+* _Formulations_
+   Sometimes words are not weighted carefully or formulations are unclear e.g. ambiguous. If not formatted as comment/subjective remark, ambiguity is unintentional. Upon discovery, unfitting formulations are improve. Feedback is appreciated and questions welcome.
 
 *   > ###### Definitions
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
@@ -85,15 +82,12 @@ This section overviews the content. The [full content section](#content) lists a
 *   > ###### Comments
     > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
 
-    > ###### Comment on Comments
-    > Subjective or off topic remarks are formatted as comments, if not the formulations are about the topic alone.
-    > A section on the coronavirus page - with the content that Coronaviruses enter and leave cell preferable from the cell side pointing outwards (apical side) - was titled 'Orientation matters' for quite a long time and in the same section I had written McCray & Co instead of McCray et al. Both formulations I choose because of a 'cool' sound. The section is and was not marked as subjective accordingly I didn't intend any ambiguity.
-    > * The word orientation was used in the sense of positioning  (google-scholar shows quite a few results with 'orientation matters' and most are about physics and also the oxford dictionary lists 'position' as the first meaning).  However, I acknowledge, that orientation is used in different contexts and depending on the background, what one thinks when reading 'orientation' can vary - in social contexts, orientation is often used to denote attitudes or sexual orientation. 
-    > * McCray & Co does *not* imply that the research is business focussed (showing and interpreting the results to highlight the benefits of a product instead of an unbiased analysis of the topic), it is outstanding and shows a basics principle of betacoronavirus, namely they mostly live on the surfaces and not within tissues.
-
-    > In my opinion, orientations in the sense of attitudes should *only* matter if important for the topic of interest (e.g. sexual orientation usually matters for dating or sport preferences for sport friends). 
+    ##### Comment on Comments
+    > Sometimes subjective comments and off topic comments are added. One reason for subjective comments is transparency and background for the mindset behind suggestions. 
     
-    > For a virus infecting a cell the orientation is usually not relevant, however it is relevant for coronaviruses infecting cells in the respiratory tract.
+    ##### Mindset in short
+    > * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* ([Respect and Take Care](./1_introduction/suggestions_and_tips.md#respect-and-take-care) in the Suggestion and Tips chapter)
+    > * *Attitudes or group memberships, - in my view - and as long as they respect others - *only* matter if relevant for the task of interest.* ([Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) in the update history chapter)
 
 
 

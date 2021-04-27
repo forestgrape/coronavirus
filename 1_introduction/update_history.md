@@ -8,21 +8,34 @@
 ## Major Updates
 Larger updates here, smaller updates are noted in the section [Minor Updates](#minor-updates) below.
 
-> Not all links work since the page structure has changed.
+> Note: Not all links work since the page structure has changed.
 
+- ### Clarifications on Comments
+  (25.4.21)
+  For conciseness all subjective and off topic remarks are formatted as [comment](../index.md#comments). 
+  Sometimes this marking gets forgotten: E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency - marked as comment now. 
+  A section on the coronavirus page - with the content that Coronaviruses enter and leave cell preferable from the cell side pointing outwards (apical side) - was titled 'Orientation matters' for quite a long time and in the same section I had written McCray & Co instead of McCray et al. Both formulations were because of a 'cool' sound and no ambiguity or hints were intended (accordingly the section was *not* marked as subjective). I acknowledge, that ambiguity was possibly.
+    > * The word orientation was used in the sense of positioning  (google-scholar shows quite a few results with 'orientation matters' and most are about physics and also the oxford dictionary lists 'position' as the first meaning).  However, orientation is used in different contexts and depending on the background, what one thinks when reading 'orientation' can vary - in social contexts, orientation is often used to denote attitudes or sexual orientation. 
+    > * McCray & Co does *not* imply that the research is business focussed (business focussed = showing and interpreting the results to highlight the benefits of a product instead of an unbiased analysis of the topic), it is outstanding and shows a basics principle of betacoronavirus, namely they mostly live on the surfaces and not within tissues.
 
-- 18.3. [Virion Viability Page](./2_biological/virion_viability.md) in online work (finally!). 
+    > In my opinion, orientations in the sense of attitudes should *only* matter if important for the topic of interest (e.g. sexual orientation usually matters for dating or sport preferences for sport friends).
+    
+    > For a virus infecting a cell the orientation is usually not relevant, however it is relevant for coronaviruses infecting cells in the respiratory tract.
+
+- 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences).
+- 18.3. [Virion Viability Page](./2_biological/virion_viability.md) in online work (finally!).
     * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
     * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees, especially at air humidities around 40%. In dry air or high but not very high humidity the decay is slower.
     * Above 45 degrees the decay fastens (doubling about every 2 degrees) due to the spring-loaded proteins (spikes and sometimes N) loosing their structure and thereby the stored energy.
 - 13.2. How Coronaviruses overcome Immune System obstacles moved to separate page [Immune Evasion](./4_immunological/immune_evasion.md).
 - 2.2. How [Movement](./3_medical/covid19.md#movement) helps to produce a good immune response and helps recovering from Covid on the [Covid-19 page](./3_medical/covid19.md).
 
-> ### A word of Caution regarding Vaccines (28.1., updated 14.2.)
+> ### A word of Caution regarding Vaccines 
+> (28.1., updated 14.2., checked 27.4.)
 > What worries me most at the moment is the vaccination rushes and races. It is great and an extraordinary achievement to have vaccines and vaccination programs are well organized. It increases the safety and life quality for people at risk for severe Covid-19. 
 > 
 > Regarding vaccine recommendations the known and the unknown are important:
-> * What has been shown for the approved vaccines is, that they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects). 
+> * What has been shown for the approved vaccines is, that they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects).
 > * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects. Especially in view of vaccinating young people, timely investigations/estimates (long-term) and publishing is needed. Both effects are less a concern for inactivated virus vaccines or other protein based vaccines as long as the adjuvants are harmless (which is not always sure e.g. the safety profile of aluminum is surprisingly unclear despite being in use for 90 years.). For other technologies the effects depend on the exact specifications. RNA vaccines are in general __not__ comparable to protein only vaccines (mRNA vaccines do produce proteins but they thereby often [likely always, to check] mess around with the depths of eukaryotic life. This induces a strong immune response with antibodies, stronger than for proteins alone).
 > * There are open questions how  SARS-CoV-2 infections are changed apart from reducing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution (both point mutations and recombination) and changed pathogenesis are mostly unknown/not investigated/unpublished.
 >  
@@ -61,6 +74,10 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.  
 
 ## Minor Updates
+- 1.4. - 25.4. Formulations across the pages. E.g. added note that allowing and promoting outdoor activities often not only reduces the burden of Covid measures but often also help reducing severe Covid cases since less time is spent indoors and the lifestyles are healthier. Specified [support for closed businesses](7_social/controlling.md#support-for-individuals-and-businesses).
+- 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
+- 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
+- 23.3. Clarified summary for [Virion Viability](2_biological/virion_viability.md). [A table with compiled data](./2_biological/virion_viability/viability_data.md) from viability experiments is online.  
 - 22.3. [Spread Assumptions section](./7_social/controlling.md#spread-assumptions) on the [controlling page](./7_social/controlling.md) added. Formulations across the page.
 - 17.2. [Masks](./6_prevention_and_treatment/masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](./6_prevention_and_treatment/masks.md#personal-mask-preferences)
 - 11.2. Corrected mistakes (T Cell Training) on the [Immune System page](./4_immunological/immune_system.md) and added/completed section how SARS-2 overcomes antibodies.
