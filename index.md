@@ -87,7 +87,7 @@ This section overviews the content. The [full content section](#content) lists a
     
     ##### Mindset in short
     > * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* ([Respect and Take Care](./1_introduction/suggestions_and_tips.md#respect-and-take-care) in the Suggestion and Tips chapter)
-    > * *Attitudes or group memberships, - in my view - and as long as they respect others - *only* matter if relevant for the task of interest.* ([Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) in the update history chapter)
+    > * Attitudes or group memberships, - in my view - and as long as they respect others - *only* matter if relevant for the task of interest. ([Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) in the update history chapter)
 
 
 
