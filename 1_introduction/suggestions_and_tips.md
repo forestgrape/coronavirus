@@ -119,6 +119,7 @@ Respecting others having a different view of Covid yields an intermediate approa
 * Precautions/Protection measures in place in public spaces which everybody needs to use. 
 * In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Depending on the epidemiological situation protections measures can be community/local decisions. E.g. universities provide both on campus and off campus studying.
 
+> ### Communities and Societies Rules
 > Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
 
 Controlling SARS-CoV-2 is an individual, a local and global task. The better everybody helps to control it, the lesser the negative effects and the fewer rules and restrictions need to be put into place. 
