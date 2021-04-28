@@ -1,4 +1,1 @@
-
-
-
-
+currently a chapter on the [transmission page](./transmission.md)
