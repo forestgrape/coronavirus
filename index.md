@@ -59,10 +59,9 @@ This section overviews the content. The [full content section](#content) lists a
 ---
 
 ## Notes on Reading
-* Many parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. 
-* Chapters with new or not well founded content are tagged with *(explorative)*.
-* This page often conversational and some parts aren't rigorous and just ideas in raw form. 
-* The page is in work. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
+* Some parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. The chapters with not well founded content are tagged with *(explorative)*.
+* The writing often is conversational and some parts aren't rigorous. 
+* This is work in progress. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
 * _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
 * _Support_ [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
@@ -80,7 +79,7 @@ This section overviews the content. The [full content section](#content) lists a
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
 *   > ###### Comments
-    > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
+    > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content. Some comments are general but ambiguity is not indented (in early versions some formulations were to some extent ambiguous but these are changed since errata can occur.)
 
     ##### Comment on Comments
     > Sometimes subjective comments and off topic comments are added. One reason for subjective comments is transparency and background for the mindset behind suggestions. 
@@ -118,7 +117,7 @@ This section overviews the content. The [full content section](#content) lists a
     * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
     * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees.
     * Above 45 degrees the decay fastens and is less dependent on the biochemical environment since the spring-loaded proteins loose their energy.
-    * A fast decay seems to occur in the presence of osmotic pressure e.g. when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation.
+    * A fast decay occurs when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation. Possible mechansims: osmotic pressure or increase of degrees of freedom of movement especially of the single stranded RNA/DNA.
 - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
   - [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
     The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
