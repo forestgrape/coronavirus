@@ -27,6 +27,7 @@
   * [Transmission and Infection of Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
 
 
+
 ## Airborne Transmission
 
 ### Content Airborne Transmission
@@ -52,16 +53,16 @@ where a=acceleration; g=gravity (9.81m/s^2); k=constant depending on form of obj
 
 
 * #### small S/m ratio => gravity and initial movement 
-    heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant. This results in projectile motions which are, as already Galileo knew, upside down parabolas. Examples are heavy balls in sports, rain droplets or snowballs. 
+    Heavy object and small surface: the acceleration is the gravity which points downwards and the horizontal movement stays constant. This results in projectile motions which are, as already Galileo knew, upside down parabolas. Examples are heavy balls in sports, rain droplets or snowballs. 
 * #### large S/m ratio => go with the air
-    light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the air. Feathers, dust particles and dry snowflakes are examples.
+    Light objects with large surfaces: the movement goes with the airflow since the air resistance is big compared to the weight i.e. they are carried by the air. Feathers, dust particles and dry snowflakes are examples.
 
 Examples and  movements in between: 
 * Feathers and balloon: Have large surface and low densities, so the S/m ratio is large and they go with the air.
 * Table tennis balls are both small and have a relatively low density, so they often go with the air. 
 * Footballs and tennis balls mostly fly with parabolas. But strong wind can influence their movements.
 * Golf balls on the other hand are less subject to the wind compared to table tennis balls. The size is similar but golf balls have a higher density. 
-* Shut pots have a high density and quite large too. They won't be blown by the wind.
+* Shut pots are round & large and have a high density which yields a small surface to mass ration. They won't be blown by the wind.
 
 #### Material Factor
 The mass calculates as density multiplied volume so
@@ -87,12 +88,18 @@ The [size factor](#size-factor) is the distinguishing point for aerosols versus 
 #### Droplet versus Aerosol
 
 > ###### Aerosol
-> An *aerosol* is a collection of tiny droplets with a diameter smaller than 5 micro meter. Aerosol comes from Greek aero=air and sol=solvent, since tiny droplet can't be seen and thus look like dissolved in the air. However an aerosol is a bunch of heaps of water molecules possibly including some other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding movement and visibility for our eyes.
+> An *aerosol* is air with a collection of tiny particulates which can't be seen and move with the air in the situation of interest. 
+
+> Aerosol comes from Greek aero=air and sol=solvent, since tiny particulates can't be seen and thus look like dissolved in the air. However an aerosol is air containing tiny particulates which in turn can contain other materials e.g. virions. Thus an aerosol is not actually dissolved but just behaves like regarding movement and visibility.
+
+> // 'Classically' an aerosol is defined as air with (watery) particulates smaller than 5 micro meters. The definition used here is more general and includes dry particulates and also larger droplets as long as they move with the air in the situation of interest.
 
 The larger droplets keep their name and are called droplets:
 
 > ###### Droplets
-> *Droplets* in the context of transmission models denote watery particles with a diameter greater equal 5 micro meter.
+> *Droplets* in the context of transmission models denote watery particles which don't go with air but move subject to gravity and the initial movement e.g. they behave like ordinary objects thrown into the air. 
+
+> // The 'classical' definition of droplets defines them as watery particulates with a diameter greater equal 5 micro meter.
 
 > // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. The behavior depends also on the situation: the respiratory tract has sharp turns and the humidity is very high so particles growth, so particles entering with a diameter of 5 micrometer don't necessarily follow the air. That water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence or at least there is no obvious causal connection.
 
@@ -105,15 +112,17 @@ Watery droplets in the air that cannot be seen, are called aerosol since it look
 Model    | Metaphor   | Actions | Source/Deposition | Situations/Climate|   Prevent              
 ---------|------------|------------------|-----------------|------|---
 [droplets](#droplets)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, scent of perfume, cooking smells | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
+[aerosol](#aerosol)  | reek of alcohol, smells during cooking | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
 [proposed dry form aerosol](../5_epidemiological/dry_form_transmission.md) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
 
 
 #### Comments
-* In warm climates rooms can be ventilated well, so the aerosol spread can be prevented. Careless use of air-conditioning enables aerosol spread. 
+* In warm climates rooms can be ventilated well, which reliably reduces and if done right mostly prevents aerosol spread. Careless use of air-conditioning enables and enhances aerosol spread. 
 * Aerosol and dry form spread increases with the amount of indoor air exchanged. Especially when deep/heavy breathing.
-* The air humidity is relevant for droplet aerosol since the droplets can grow and shrink. Growing/shrinking change the osmotic pressure on the virions. Enveloped virions can get destroyed upon the pressure change. 
-* The absolute humidity in heated indoor rooms is lower, the lower the outdoors temperature is. 
+* The air humidity is relevant since: 
+  * droplets grow or shrink depending on the relative humidity.
+  * The viability of coronaviruses is highest when dried ([Virion Viability](../2_biological/virion_viability.md)). 
+* The absolute humidity in the air is determined by the outside air temperature. Thus in heated indoor rooms the relative humidity is lower the cooler the outside temperature is.
 * The dry form model is proposed here.
 * for details on Actions and Sources in [Particles in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md). [citations in work  ]
 
@@ -237,29 +246,44 @@ The transmission models described in the literature - a recent recommended revie
 * [Aerosols](../5_epidemiological/transmission.md#aerosol)
 
 this new model is added:
-* Dry form transmission 
+* Dry form aerosol transmission 
 
-Compared to aerosols - which tend to spread local both in time and space, an example is the scent of a freshly cooked soup -, tiny dry particulates behave dust/smoke like - smoke is a collection of tiny dry particulates diffusing around - so they move with the air and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
+Larger droplets behave like balls and are transmitted only over short distances. Watery particles between 2 to 100 micrometers move with the air and can stay quite long in the air, however they still tend to spread local both in time and space - an example is the scent of a cooking soup - and less often reach the deep lungs. On the other hand tiny dry particulates behave dust/smoke like - smoke is a collection of tiny dry particulates diffusing around - so they move with the air and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
 
-It is argued 
-* the described properties of dry form transmission explain best the observed transmission patterns for Sars-CoV-1, MERS. Sars-Cov-2 has different forms to transmit and some are best explained by dry from transmission (while others are explained by droplet/droplet aerosol transmission. 
-* physiological properties make the lower respiratory tract particularly susceptible to  dry form infections:
-  * small and dry particles have the highest deposition in the lower respiratory tract
-  * the immune system protection against viruses is lowest in the deep lungs, since the immune system there is less trained to deal with viruses. 
-  * the absolute number of susceptible cells of the lower lungs is larger than in the upper respiratory tract: 
-      * __SARS-CoV-1/2__: susceptible cells for SARS-CoV-1/2 replication are found throughout the respiratory tract but the largest surface is in the lower respiratory tract.  
-      * __MERS__: the cells susceptible to MERS infections are in the lower respiratory tract lower respiratory tract as obligate entry point.
-  * the observed viral load in different organs indicate that MERS and SARS-1/2 infections are especially dangerous if they reach the lower respiratory tract
+#### Epidemiological Evidence
+Betacoronavirus clusters of severe cases are nearly always observed in settings with dry indoor air. 
+
+#### Biological Evidence
+
+##### Properties of the Respiratory Tract
+The described properties of dry form transmission explain best the transmission yielding to infections of the deep lungs which are a hallmark of severe diseases caused by the betacoronaviruses Sars-CoV-1, MERS and Sars-Cov-2. Remark: SARS-2 infecting the upper or middle respiratory tract can be transmitted with droplets/fomites ([Disease Pattering](../3_medical/coronavirus_disease_patterns.md)).
+
+* Small, not round and dry particulates have a high probability to deposit in the lower respiratory tract.
+* The immune system protection against viruses is lower in the deep lungs than at other locations in the respiratory tract, since the immune system there is less trained to deal with viruses.
+* the absolute number of cells infectable by betacoronaviruses is highest in the lungs: 
+  * __SARS-CoV-1/2__: susceptible cells for SARS-CoV-1/2 replication are found throughout the respiratory tract but the largest surface is in the lower respiratory tract.  
+  * __MERS__: the cells susceptible to MERS infections are in the lower respiratory tract lower respiratory tract as obligate entry point.
+
+##### Viability of Virions
+The viability of virions is highest when dried.
+
+##### Aerosol Science
+The larger the ratio of the surface to the mass, the more the particulates go with the air. For tiny dry particulates the ratio is larger than for roundish droplets. Roundish droplets if small enough still move with the air, but less than tiny dry particulates.
   
-Overall the argumentation provides evidence, that aerosol and the proposed dry form are relevant transmission pathways.  
+#### Medical Evidence
+Viral load and tissue damage indicate that MERS and SARS-1 infect primarily the lower respiratory tract. SARS-2 infections are especially dangerous if they reach the lower respiratory tract (and similar to MERS and SARS-1 infections).
+* the observed viral load in different tissue indicate that MERS and SARS-1 infect primarily the lower respiratory tract. The observed viral loads of severe SARS-2 infections are highest in the lower respiratory tract.
+* Tissue damage for SARS-1/2 and MERS infection is observed in the lower respiratory tract.
+  
+The pieces of evidence indicate that aerosol and the proposed dry form are relevant transmission pathways. 
 
-Based on the aerosol and dry form transmission models, expected spread patterns are discussed and the smoke-like transmission metaphor.  Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a mask in risky indoor spaces. 
+Smoke is a metaphor for the aerosol and dry form aerosol transmission. Based on smoke-like aerosol transmission expected spread situations are discussed. Measures for controlling the Sars-CoV-2 transmission are outlined. Key is ventilation of indoor spaces and wearing a suitable mask in risky indoor spaces. 
 
 
 ### Dry Form Transmission Model
 **[in rework]**  <!--group by infection, in air, sourcing=generation-->
   
-The virus is attached to dry particulates or even just as a single particle. These dry particles dust like fly around or in the case of tiny particulates diffuse smoke like around. 
+The virus is attached to dry particulates or even just as a single virion particle. These dry particles smoke like fly around or in the case of tiny particulates diffuse smoke like around. 
 
 Coronaviruses virions keep viability in dry form and the viability is even highest when dried (chapter [Virion Viability](../2_biological/virion_viability.md)), so dry form transmission is possible in theory.
 
@@ -284,7 +308,7 @@ The larger tend to fall to the ground since their movement is driven more by gra
 Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](../5_epidemiological/transmission.md#particles-sources)).
 
 
-Dry particulates get into the air either by the above conversion from aerosols, probably directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
+Dry particulates get into the air either by the above conversion from aerosols, directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
 
 <!--todo deposition of particles with dry form, short summary-->
 
@@ -313,14 +337,15 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 For severe betacoronavirus diseases nearly always the lower respiratory tract is involved (always in ARDS) (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)):
   
 As described in [particles deposition](../5_epidemiological/transmission.md#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. 
-The [Tissue Tropism](../2_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1. There are several [Disease Patterns](../index.md#infection-tropism-and-disease-patterns) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
+* The [Tissue Tropism](../2_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1. 
+* There are several [Disease Patterns](../3_medical/coronavirus_disease_patterns.md) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
 
 That in swab tests there are viruses in the nose and the mouth can be either caused by local replication or by breathing them up. [Kleinstreuer et al](#kleinstreuer-2018) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)).
 
     
 #### Evidence from observed Spread Patterns
 
-Close range droplet or aerosol transmissions explain well the observed spread patterns for upper respiratory tract infections, they are often spread between close contacts. However, the spread patterns betacoronaviruses diseases involving the lungs are better explained by dust-like spreading:
+Particles produced when speaking or coughing explain well the observed spread patterns for middle and upper respiratory tract infections, they are often spread between close contacts. However, the spread patterns betacoronaviruses diseases involving the lungs are better explained by dust-like spreading:
 In confined settings without special protection reproduction numbers, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of droplets is affected by gravity and therefore their concentration in the air quite rapidly decreases (see [model](#dry-form-transmission-model) section). The movement of dry dust, on the other hand, is less affected by gravity and therefore remains longer in the air. The majority of spreading has been observed in indoor spaces. In theses settings dry dust like spreading is possible.
 
 <!--
@@ -338,11 +363,11 @@ move to spread analyses
         * Smoke diffuses entire rooms and stays quite long => spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected (if the initial spread starts in the passengers) since they spend the time in the same areas.
         * The reproduction number peak values are well above the number of close contacts a person usually has and so droplet transmission is unlikely.
         
-        The observed spread patter even favour a small or dry form aerosol over larger aerosol which stay more locally:
-        * For 'large' aerosol transmission about an equal spread would be expected. Experience from cooking smells teach, that aerosols spread out locally.
+        The observed spread patter even favour small or dry particulates over larger aerosol particulates, since for larger particles are more local spread would be excepted:
+        * For 'large' aerosol transmission about an equal spread would be expected.
 
-	- Music Club in Japan (see Introduction [Mizumoto](#mizumoto))
-	- Church in Korea (see Introduction [Mizumoto](#mizumoto))
+	- Music Club in Japan (Introduction [Mizumoto](#mizumoto))
+	- Church in Korea (Introduction [Mizumoto](#mizumoto))
 	- Hospitals in Northern Italy [LE](#le)
 
 * SARS-CoV-1:
@@ -361,7 +386,7 @@ move to spread analyses
 
 * The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outdoor air temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 
 
-* The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS, discovered in 2012, has been infecting humans at least for decades, which is known from analyzing backup samples [to cite]).
+* The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS, discovered in 2012, has been infecting humans at least for several decades, which is known from analyzing backup samples [to cite]).
 
     
 #### Further evidences
@@ -369,7 +394,7 @@ move to spread analyses
 [in work, March 2020]
 
 In humid and warm temperature environments (above 30 degrees), the death numbers increase less steep. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanations why in humid conditions around 33 degrees there less super-spreading events observed are:
-  * In warm climate zones good ventilation is easy and in settings with air-conditioner usage super spreading is likely.
+  * In warm climate zones good ventilation is easy but settings with air-conditioner usage enable super spreading.
   * In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within growing droplets, which fall to the ground or get absorbed in the upper respiratory tract causing less virulent diseases.
 
 ### Metaphor and Measures 
