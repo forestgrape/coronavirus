@@ -5,21 +5,22 @@
   * [Covid Transmission happens when much Air is Exchanged between People](#covid-transmission-happens-when-much-air-is-exchanged-between-people)
   * [Observations supporting the Air Exchange Hypothesis](#observations-supporting-the-air-exchange-hypothesis)
   * [The Susceptibility and Infectiousness varies across People and depends on Biological Factors](#the-susceptibility-and-infectiousness-varies-across-people-and-depends-on-biological-factors)
-* [Geographical Analysis](#geographical-analysis)
-  * [Climate and Covid-19 Spread](#climate-and-covid-19-spread)
+* [Geographical Analyses](#geographical-analyses)
+  * [Situations which Favour Shared Indoor Air](#situations-which-favour-shared-indoor-air)
+  * [Dry Air](#dry-air)
+  * [Unhealthy Lifestyles in the last Decades](#unhealthy-lifestyles-in-the-last-decades)
   * [Cities versus Rural](#cities-versus-rural)
   * [Living Conditions](#living-conditions)
-* [Infectors](#infectors)
+* [Population Characteristics](#population-characteristics)
   * [Infector Distribution](#infector-distribution)
   * [Infectors and Symptom Status](#infectors-and-symptom-status)
-  * [Children](#children)
-* [Spread Situations](#spread-situations)
+  * [Schools and Children](#schools-and-children)
+* [Spread in Selected Situations](#spread-in-selected-situations)
   * [Spread Situations Summary](#spread-situations-summary)
   * [Indoor Social Settings](#indoor-social-settings)
   * [Airplanes](#airplanes)
   * [Large Scale Production Factories](#large-scale-production-factories)
   * [Large Scale Sporting Events](#large-scale-sporting-events)
-  * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
   * [Comments on Spread Analysis](#comments-on-spread-analysis)
   * [References Household Transmissions](#references-household-transmissions)
@@ -72,14 +73,56 @@ The susceptibility and infectiousness are correlated and depend on factors such 
 *  Women are less infectious than men (observed for influenza and the generation of aerosol) [refs coming]
 * [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections [**in work**]. 
   
-    
-**[in work]**
 
-## Geographical Analysis
-[in work]
 
-### Climate and Covid-19 Spread
-Observations indicating that the Covid-19 transmission correlates to inhaled and exhaled air:  Covid-19 waves across the world are predated by situations which favour time spent indoors and bad ventilation. Such situations are harsh climate (low temperature, Northern countries in Winter, high altitude), tropical climate (close to the  Tropics combined with prevalence of air-conditioning e.g. Los Angeles, Florida and Arizona in Southern US, Brazil), in some cases stay at home orders and sometimes spread is increased by cities at high altitude (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains) which increases the amount of air inhaled. 
+## Geographical Analyses
+
+> **in work**
+
+### Situations which Favour Shared Indoor Air
+Covid-19 waves across the world usually are predated by situations which favour time spent indoors and bad ventilation which are heating in harsh climates and air-conditioners in hot and humid climates.
+
+* #### Indoor Heated
+  Low temperature at least during the night
+  * Northern countries in Winter
+  * Southern in the Southern Hemisphere Winter
+  * high altitude
+
+* #### Indoor Air-Conditioned 
+  ACs are prevalent in:
+  * population groups with a high enough income/BIP
+  * regions inside or not fare away from the  tropics
+  
+  Examples are:
+  * Southern US: E.g. Los Angeles, Florida, Texas and Arizona
+  * South Americas: Brazil
+  * Region of Mexico (Mexico City?)
+  * Some parts of Southern Europe: regions of Spain, Portugal, Greece
+  * Most Countries in the Middle East
+  
+* #### Backfired Protection Measures
+  Stay at home orders or prohibition of outdoor activities, can backfire since they increase the time spend indoors. Additionally they can yield to unhealthy lifestyles and increase susceptibility for severe Covid. The risk of residential blocks and [small living spaces](#living-conditions) can be additionally increased.
+
+* #### High Altitude
+  Spread is increased by cities at high altitude since the volume of air breathed is increased (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains).
+
+
+### Dry Air
+Nearly all steep increases in severe cases and deaths have been observed in settings where the indoor air is very dry. The 
+* #### Increases with Dry Indoor Air
+* #### Increases with Humid Indoor Air
+  There have been increases in settings with humid outside air, but mostly in countries where air-conditioners are prevalent and ACs remove humidity.
+  * Some states in the souther US had Covid waves in quite humid air settingsf 
+  * Brazil November 2020 through March 2021
+
+### Unhealthy Lifestyles in the last Decades
+#### Air-pollution during the last Decades
+Examples Northern Italy, Northern India, Teheran
+#### Overweight
+Examples UK, US, Mexico, Brazil
+
+
+
 
 
 <!--
@@ -110,13 +153,13 @@ A main distinguishing feature between rural and cities is that in rural areas pe
 Infectious disease wave through the clusters until there's no more ground to nourish. 
 
 ##### Rural
-  * Segregated by mobility
-  * Life is often outdoors or distributed indoor rooms during the day but in the evening the society is tightly connected. 
+* Segregated by mobility
+* Life is often outdoors or distributed indoor rooms during the day but in the evening the society is tightly connected. 
 
 ##### Urban
-  * not segregated by mobility (but by social factors) which yields a different segmentation for each factor
-  * life is often indoors but distributed. 
-  * People belong to different clusters trough a day 
+* not segregated by mobility (but by social factors) which yields a different segmentation for each factor
+* life is often indoors but distributed. 
+* People belong to different clusters trough a day 
 
 #### Observations
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities. 
@@ -132,7 +175,7 @@ People in neighborhoods in cities with small living areas and a low incomes are 
 * [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
 * [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in). 
 
-## Infectors
+## Population Characteristics
 Knowing how infectors are distributed, can help to fine-tune control measures. 
 
 ### Infector Distribution
@@ -147,11 +190,25 @@ Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
 * The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
 * [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
 
-### Children
-Children are less likely to be infectees and less likely to be infectors [see section [Schools and Children](#schools-and-children)].
+
+### Schools and Children
+Children are less likely to be infectees and less likely to be infectors.
+
+A recommended review is [COVID-19 Transmission and Children: The Child Is Not to Blame](#leeraszka) by B. Lee and W. Raszka. Notable findings from the studies are below and summaries of most studies are in [Summarized References](#summarized-references).
+
+* [Dattner et al](#summary-dattner) observed that children are relative to adults
+  * less susceptible 45% [40%, 55%]) 
+  * somewhat less infectious 85% [65%, 110%])
+* [Madewell et al](#summary-madewell) find that children are only about half as likely to get infected in households compared to adults (spouses which are most likely to get infected)
+* [Vlachos, Hertegard and Svaleryd](#summary-vlachossvaleryd) found that parents children in the 9th school year (open schools)had about the same incidence rate for Covid-19 as parents children in the 10th school year (closed school). If adjusted for factors such as age and occupation the risk was about 15% higher for being diagnosed with Covid-19 when the child went to open schools. // Comment: this indicate that other factors are more important than whether the children go to school. 
+* Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by densely populated rooms and the permanent use of air-conditioning [Summary Stein-Zamir](#summary-stein-zamir). 
+* [Ehrhardt et al](#summary-ehrhardtbrockmann) observed in Baden-Wuertenberg between 19 May to 28 July:
+  * 6 of 137 infected pupils infected a total of 11 other pupils (an R value contribution of below .1)
+  * 3% of infections of children (0-19 year) could be traced back to schools. Where as 41% to families and 8% to festivals/events.
+* [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly in setting other than schools. This in turn indicates that for most viruses adults play the major role in the transmission.
  
 
-## Spread Situations
+## Spread in Selected Situations
 **[in work]**
 Spread situations and patterns of Covid-19 both observed and described in literature are discussed. 
 
@@ -195,7 +252,7 @@ It will be interesting to investigate the prevalence of Covid-19 in the spectato
 
 #### Settings in Sport Stadiums
 [**in work**]
-* Netherlands: up to 15 - 35% until 1.10. 
+* Netherlands: 15 - 35% of capacity until 1.10. 
 * Switzerland:up to 2/3 of capacity [to check] allowed between 1.10.20 and 28.10.20 both for ice hockey (indoor) and football. All fans needed to wear a mask (of any type) but were allowed to drink (including alcoholic beverages).
 * Ukraine: allowed in mid October (exact dates to be checked)
 * Belgium: up to 400 outdoors and 200 indoors allowed from 23.9. to 23.10.
@@ -239,20 +296,6 @@ Sources: [https://www.sofascore.com](), [https://www.bbc.com/sport/football/scor
 * UK (no spectators until 2.12.): between 21.10. and 4.11. all matches (16) have been played
 * Netherlands (allowed only until 1.10.): between 21.10. and 4.11. all matches (18) have been played
 * Germany: no matches cancelled [to confirm]
-
-### Schools and Children
-A recommended review is [COVID-19 Transmission and Children: The Child Is Not to Blame](#leeraszka) by B. Lee and W. Raszka. Notable findings from the studies are below and summaries of most studies are in [Summarized References](#summarized-references).
-
-* [Dattner et al](#summary-dattner) observed that children are relative to adults
-  * less susceptible 45% [40%, 55%]) 
-  * somewhat less infectious 85% [65%, 110%])
-* [Madewell et al](#summary-madewell) find that children are only about half as likely to get infected in households compared to adults (spouses which are most likely to get infected)
-* [Vlachos, Hertegard and Svaleryd](#summary-vlachossvaleryd) found that parents children in the 9th school year (open schools)had about the same incidence rate for Covid-19 as parents children in the 10th school year (closed school). If adjusted for factors such as age and occupation the risk was about 15% higher for being diagnosed with Covid-19 when the child went to open schools. // Comment: this indicate that other factors are more important than whether the children go to school. 
-* Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by densely populated rooms and the permanent use of air-conditioning [Summary Stein-Zamir](#summary-stein-zamir). 
-* [Ehrhardt et al](#summary-ehrhardtbrockmann) observed in Baden-Wuertenberg between 19 May to 28 July:
-  * 6 of 137 infected pupils infected a total of 11 other pupils (an R value contribution of below .1)
-  * 3% of infections of children (0-19 year) could be traced back to schools. Where as 41% to families and 8% to festivals/events.
-* [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly in setting other than schools. This in turn indicates that for most viruses adults play the major role in the transmission.
   
 
 ---
