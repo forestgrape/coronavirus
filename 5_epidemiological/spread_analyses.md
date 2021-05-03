@@ -2,25 +2,25 @@
 **[in work]**
 * [Short Summary](#short-summary)
 * [Summary](#summary)
-  * [Covid Transmission happens when much Air is Exchanged between People](#covid-transmission-happens-when-much-air-is-exchanged-between-people)
-  * [Observations supporting the Air Exchange Hypothesis](#observations-supporting-the-air-exchange-hypothesis)
+  * [Finding: Covid transmits through Breathed Air](#finding-covid-transmits-through-breathed-air)
+  * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
+  * [Summary Situation Analyses](#summary-situation-analyses)
   * [The Susceptibility and Infectiousness varies across People and depends on Biological Factors](#the-susceptibility-and-infectiousness-varies-across-people-and-depends-on-biological-factors)
-* [Geographical Analyses](#geographical-analyses)
+* [Spread in Geographical Analyses](#spread-in-geographical-analyses)
   * [Situations which Favour Shared Indoor Air](#situations-which-favour-shared-indoor-air)
   * [Dry Air](#dry-air)
   * [Unhealthy Lifestyles in the last Decades](#unhealthy-lifestyles-in-the-last-decades)
   * [Cities versus Rural](#cities-versus-rural)
   * [Living Conditions](#living-conditions)
-* [Population Characteristics](#population-characteristics)
-  * [Infector Distribution](#infector-distribution)
-  * [Infectors and Symptom Status](#infectors-and-symptom-status)
-  * [Schools and Children](#schools-and-children)
-* [Spread in Selected Situations](#spread-in-selected-situations)
-  * [Spread Situations Summary](#spread-situations-summary)
+* [Analyses o specific Settings](#analyses-o-specific-settings)
   * [Indoor Social Settings](#indoor-social-settings)
   * [Airplanes](#airplanes)
   * [Large Scale Production Factories](#large-scale-production-factories)
   * [Large Scale Sporting Events](#large-scale-sporting-events)
+* [Population Characteristics](#population-characteristics)
+  * [Infector Distribution](#infector-distribution)
+  * [Infectors and Symptom Status](#infectors-and-symptom-status)
+  * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
   * [Comments on Spread Analysis](#comments-on-spread-analysis)
   * [References Household Transmissions](#references-household-transmissions)
@@ -30,7 +30,7 @@
 * [References](#references)
   * [Epidemiological Patterns](#epidemiological-patterns)
 * [Appendix](#appendix)
-  * [Data UK Sport Events](#data-uk-sport-events)
+  * [Sport Events](#sport-events)
 
 ## Short Summary
 [Situations where high rates of Covid-19 transmission](#spread-situations) are observed or *not* observed are described. High transmission rates of severe Covid are observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without good ventilation, at crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing). 
@@ -38,60 +38,80 @@
 
 ## Summary
 
-### Covid Transmission happens when much Air is Exchanged between People
-Covid-19 transmission correlates to the amount of air people breadth from each other.
-The amount of exchanged air is high 
-* Indoors air with bad ventilation (either heated or air-conditioned) 
-* Increased inhaling
-  * being at low air pressure (either high altitude or airplane) 
-  * activities such as singing, shouting or strains e.g. sports
+### Finding: Covid transmits through Breathed Air
+1. Covid-19 transmission correlates to the amount of air people breadth from each other.
+The amount of exchanged air is high:
+   * Indoors air with bad ventilation (either heated or air-conditioned) 
+   * Increased inhaling
+     * being at low air pressure (either high altitude or airplane) 
+     * vocal activities such as singing or shouting
+     * strains e.g. sports. For people where ther air exchanged is lowered (e.g. arteriosclerosis) already going up a staircase can be enough.
+2. Severe Covid-19 transmission is nearly exclusively observed in settings with dry air. Which can be heated, air-conditioned or dry outdoor air.
+3. In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 seem not to occur.
+4. In settings where fomite transmission is likely e.g. no water to wash hands, there is no evidence for transmissions of symptomatic Covid, neither populations based nor through backtracing.
   
-The correlation to the amount of air exchanged is expected if the transmission model is a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most. 
+The observation strongly indicate a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most.
+
+
 Regarding prevention measures relevant is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
 
-### Observations supporting the Air Exchange Hypothesis
-Observations showing that the transmission of severe Covid correlates to situations with a lot of shared air but no to situations favoring fomite or droplet transmission.
 
-Situations with an **increased** spread:
-* [Geographical Analysis](#geographical-analysis): Covid-19 waves across the world are predated by uncomfortable climate conditions:
-  * Cold temperatures below 15 degrees during the day and below 10 degrees at night => indoor heating
-  * Hot outdoor air temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). 
+
+### Summary Geographical Observations and Analyses
+
+#### Geographical Settings with Increased Spread of Severe Covid
+Covid-19 waves across the world are predated by uncomfortable climate conditions:
+* Cold temperatures below 15 degrees during the day and below 10 degrees at night => indoor heating => dry indoor and often badly ventilated air
+* Hot outdoor air temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). => indoor air is recirculated and additionally ACs reduce the humidity (often below the )
+* Very dry outdoor air at moderate temperatures. Especially in setting when people stay indoors e.g. in cities and additionally with stay at home orders.
+
+#### Geographical Settings with Mainly Mild Covid
+* High absolute humidity of outdoor air but no air-conditioners and dense living conditions. Examples: Coastal india during seasons with winds from the sea, Lagos in Nigeria, Indonesia.
+
+#### Geographical Settings with Few Spread 
+* Climate with favour ventilation and being outdoors. E.g. rural regions around the world as long as the outdoor temperatures are don't motivate indoor heating.
+
+
+### Summary Situation Analyses
+Nearly all observed spread events are indoors or at least in semi-confined settings such as football matches in stadiums with visitors. On the other hand, for situations with crowded events during the day in unconfined settings (e.g. demonstrations or crowded swimming pools) no increased spread was observed (neither by contact tracing nor monitoring of the overall cases).
+
+#### Situations with an **increased** spread of severe Covid:
 * [Large Scale Sporting Events](#large-scale-sporting-events) In sports clubs where spectators are/were allowed to the stadiums, the players have a much higher risks to get infected with Covid-19 than in regions without spectators. Moreover Covid-19 incidence rates seem to be higher in areas with large scale sport events (especially indoor). 
 * [Airplanes](#airplanes): High spread rates observed without adequate prevention measures (mask, ventilation). 
 * [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world.
 * [Large Buildings](#living-conditions): In cold seasons small living spaces are associated with an increased spread.
 
-Situations where **no increased** spread of severe Covid is observed:
-* Dense living conditions in comfortable climate or in regions where air-conditioners are not widespread.
-* In regions with limited access to water for washing hands.
-* Crowded settings during the day in unconfined settings (e.g. demonstrations, crowded parks, beaches and swimming pools).
+#### Situations where no increased spread is observed:
+* In regions/settings with limited access to water for washing hands, which is mostly relevant before eating. E.g. for outdoor take away food no increased transmission has been observed even though hand washing is often waved.
+* Crowded settings during the day in unconfined settings: Neither superspreading nor steep increases in the populations for repeated events (e.g. demonstrations, crowded parks, beaches and swimming pools).
 
 
 ### The Susceptibility and Infectiousness varies across People and depends on Biological Factors
-The susceptibility and infectiousness are correlated and depend on factors such as age, BMI, sex ...
+The susceptibility and infectiousness are correlated and depend on factors such as age, BMI, sex ... Factors increasing the risk for severe infections tend to increase also infectiousness.
 * [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. 
-*  Women are less infectious than men (observed for influenza and the generation of aerosol) [refs coming]
+* Obesity, male sex and age increase the risk for severe Covid and infectiousness (observed for influenza and the generation of aerosol) [refs coming]
 * [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections [**in work**]. 
   
 
+---
 
-## Geographical Analyses
+## Spread in Geographical Analyses
 
 > **in work**
 
 ### Situations which Favour Shared Indoor Air
 Covid-19 waves across the world usually are predated by situations which favour time spent indoors and bad ventilation which are heating in harsh climates and air-conditioners in hot and humid climates.
 
-* #### Indoor Heated
+* #### Cold Outside => Indoor Heated
   Low temperature at least during the night
   * Northern countries in Winter
   * Southern in the Southern Hemisphere Winter
-  * high altitude
+  * High altitude, High altitude also increases the amount of air breathed.
 
-* #### Indoor Air-Conditioned 
-  ACs are prevalent in:
-  * population groups with a high enough income/BIP
-  * regions inside or not fare away from the  tropics
+* #### Hot & Rich => Indoor Air-Conditioned 
+  ACs are prevalent in when 1. AND 2.: 
+  1. Population groups with a high enough income. In countries with gdp above 12000$ widespread.
+  2. Regions with high temperatures over prolonged periods. Usually inside or not fare away from the  tropics.
   
   Examples are:
   * Southern US: E.g. Los Angeles, Florida, Texas and Arizona
@@ -100,11 +120,13 @@ Covid-19 waves across the world usually are predated by situations which favour 
   * Some parts of Southern Europe: regions of Spain, Portugal, Greece
   * Most Countries in the Middle East
   
-* #### Backfired Protection Measures
-  Stay at home orders or prohibition of outdoor activities, can backfire since they increase the time spend indoors. Additionally they can yield to unhealthy lifestyles and increase susceptibility for severe Covid. The risk of residential blocks and [small living spaces](#living-conditions) can be additionally increased.
+* #### Protection Measures can Backfire => Time Spent Indoors Increased
+  Stay at home orders or prohibition of outdoor activities, can backfire since they increase the time spend indoors. Additionally they can yield respectively enhance unhealthy lifestyles and thereby increase susceptibility for severe Covid. For people living in houses with large gardens stay at home orders and similar can work or at least not increase the spread (e.g. New Zealand). On the other hand in settings with [small living spaces](#living-conditions), where already an increased transmission is observed, measures which increase the time spend indoor or visiting indoor places can yield additional transmissions.
 
-* #### High Altitude
-  Spread is increased by cities at high altitude since the volume of air breathed is increased (above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia and winter sport locations in the Alps and Rocky Mountains).
+* #### High Altitude => Increased Volume of Air Breathed
+  Spread is increased by cities at high altitude since the volume of air breathed is increased 
+  * In Central and South America a couple of large cities are above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia
+  * Winter sport locations in the Alps and Rocky Mountains.
 
 
 ### Dry Air
@@ -120,8 +142,6 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 Examples Northern Italy, Northern India, Teheran
 #### Overweight
 Examples UK, US, Mexico, Brazil
-
-
 
 
 
@@ -173,7 +193,55 @@ Infectious disease wave through the clusters until there's no more ground to nou
 ### Living Conditions
 People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
 * [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
-* [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in). 
+* [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in).
+
+---
+
+
+## Analyses o specific Settings
+
+**[in work]**
+Spread situations and patterns of Covid-19 both observed and described in literature are discussed. 
+
+
+
+### Indoor Social Settings
+* [Contact Tracing in Hong Kong](#summary-adamwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
+
+
+### Airplanes
+[**in work**]
+[Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes all studies the studies they reviewed. 
+Key points:
+* "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
+* For SARS-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no strong protection measures were in place. Both index cases were symptomatic. 
+* Since strong protection measures are in place only few transmissions have been observed. 
+* Protection measures in airplanes:
+  * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
+  * masks (mostly permanent but often meals are served)
+  * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
+
+#### Ventilation in Airplanes
+Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air flow is from top to bottom (and not anymore from front to back) [citations in work].
+
+
+### Large Scale Production Factories
+Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work].
+
+> Noteworthy that often food production factories are concerned. [To check whether they reuse filtered air and what temperature/humidity settings]
+
+### Large Scale Sporting Events
+Large scale sporting events provided likely ground for ultra-spreading events. The evidence for this is currently based on:
+* Players and staff were very frequently infected yielding to many cancellations of matches. Infections are very rare in countries with fan bans. Sport events settings (number of spectator and protections measures) and infected players and populations in the appendix: [Sport Events](#sport-events).
+* The increase of Covid-19 cases seems to be steeper in regions where spectators of large scale sporting events live (steep increases in Switzerland regions where ice-hockey spectators are, increase in Nether) [to check and verify]
+* Sport events settings (number of spectator and protections measures) and infected players and populations in the appendix: [Sport Events](#sport-events).
+
+
+> There's no proof yet as fare as I know. But evidence strong enough to **not allow spectators** anymore in Covid risk regions. Clarify the picture: Prevalence of Covid-19 in the spectators either through antigen/PCR (PCR: ideally whole genome sequencing to backtrace the transmission pathways) or by studying seroprevalence rates. 
+
+> In epidemiology too: *Exploring and trying combined with measurements, consideration and analyses help* to understand SARS-CoV-2 including its transmission. 
+
+---
 
 ## Population Characteristics
 Knowing how infectors are distributed, can help to fine-tune control measures. 
@@ -208,95 +276,6 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 * [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly in setting other than schools. This in turn indicates that for most viruses adults play the major role in the transmission.
  
 
-## Spread in Selected Situations
-**[in work]**
-Spread situations and patterns of Covid-19 both observed and described in literature are discussed. 
-
-### Spread Situations Summary
-Nearly all observed spread events are indoors, except football matches with visitors. The reason is likely that many football stadiums are constructed to prevent draughts and the matches often took (take) place in the evening. On the other hand, in situations with crowded events during the day in unconfined settings (e.g. demonstrations or crowded swimming pools) no increased spread was observed.
-
-### Indoor Social Settings
-* [Contact Tracing in Hong Kong](#summary-adamwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
-
-### Airplanes
-[**in work**]
-[Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes all studies the studies they reviewed. 
-Key points:
-* "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
-* For SARS-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no strong protection measures were in place. Both index cases were symptomatic. 
-* Since strong protection measures are in place only few transmissions have been observed. 
-* Protection measures in airplanes:
-  * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
-  * masks (mostly permanent but often meals are served)
-  * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
-
-#### Ventilation in Airplanes
-Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air flow is from top to bottom (and not anymore from front to back) [citations in work].
-
-
-### Large Scale Production Factories
-Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work].
-
-> Noteworthy that often food production factories are concerned. [To check whether they reuse filtered air and what temperature/humidity settings]
-
-### Large Scale Sporting Events
-Large scale sporting events provided likely ground for ultra-spreading events. The evidence for this is currently based on:
-* Players and staff were very frequently infected yielding to many cancellations of matches. Infections are very rare in countries with fan bans. 
-* the increase of Covid-19 cases seems to be steeper in regions with spectators visiting large scale sporting events [to check and verify]
-
-It will be interesting to investigate the prevalence of Covid-19 in the spectators either through antigen/PCR (PCR: ideally whole genome sequencing to backtrace the transmission pathways) or by studying seroprevalence rates. 
-
-> There's no proof yet as fare as I know. But evidence strong enough to **not allow spectators** anymore in Covid risk regions. 
-
-> In epidemiology too: **Courageously exploring and trying combined with measurements, consideration and analyses help** to understand SARS-CoV-2 including its transmission. 
-
-#### Settings in Sport Stadiums
-[**in work**]
-* Netherlands: 15 - 35% of capacity until 1.10. 
-* Switzerland:up to 2/3 of capacity [to check] allowed between 1.10.20 and 28.10.20 both for ice hockey (indoor) and football. All fans needed to wear a mask (of any type) but were allowed to drink (including alcoholic beverages).
-* Ukraine: allowed in mid October (exact dates to be checked)
-* Belgium: up to 400 outdoors and 200 indoors allowed from 23.9. to 23.10.
-* Russia: still several thousand fans seem to be allowed in football [as indicated by stadium counts on 4.11.]
-* Turkey: several hundred fans seem to be allowed in football [as indicated by stadium counts on 4.11.] [to check]
-* UK: After a 4 week lockdown which ended on 2nd December 2020 until 5.1.2021 ([Appendix UK Sport Data](#data-uk-sport-events)):
-  4000 spectators in Tier 1 (about 10%-15% of capacity)
-  2000 spectators in Tier 2 (about 5%-7.5% of capacity)
-  0 spectators in Tier 3
-  until 5th of January 2021 when another shutdown/lockdown was started.
-
-
-#### Results from Leagues with Spectators
-Sources: [https://www.sofascore.com](), [https://www.bbc.com/sport/football/scores-fixtures](), [https://www.srf.ch/sports]() [accessed in early November]
-* Netherlands
-  * A very steep increase of Covid-19 cases in early October
-* Switzerland
-  * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams (multiple infected players and staff members). Some teams had most of their players and staff infected. 
-  * the regions with ice hockey stadiums most showed a steeper increase in Covid-19 cases than the regions without ice hockey stadiums. This indicates regular super-spreading events (as fare as I can judge by the data public available). 
-  * in late October the majority of hockey matches needed to be cancelled since many teams had multiple infected players.
-* Ukraine:
-  * Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members. [other teams to be checked]
-  * Some players of the Ukraine national football team had positive PCR tests in mid November 2020.
-* Belgium 
-  * 4 of 17 matches cancelled between 21.10. and 4.11., despite an increasing Covid prevalence throughout October most matches need to be cancelled until mid October when spectators still were allowed. Nevertheless the cancels can also be due to the overall very high Covid-19 prevalence in Belgium. 
-* Turkey 
-  regular cancellation of matches due to insufficient players 
-* Russia
-  [to check]
-* UK (Period 3.12. - 5.1.) ([Appendix UK Sport Data](#data-uk-sport-events))
-  * Multiple match cancellation.
-  * A steep increase in case counts. // before 3.12. there was a lockdown/shutdown and after pubs and restaurants were reopened in most regions but unlikely sport events played a role since only a couple of thousands spectators across the country
-  * An increase in infected players. However the increase in infected players is only slightly steeper than the general case count increase.
-    * 23.11. - 13.12:  30 (3 Weeks; 3 Rounds)
-    * 21.12 - 10.1.: 94 (3 Weeks; 4 Rounds; some matches cancelled and these high risk teams likely not tested)
-  * // Some evidence that spectators increased the number of infected players. Even though there were some matches cancelled, the increase in infected players was not much steeper than the general case count; however in september/october/november the correlation between case counts and infected players is rather low. 
-
-
-
-#### Results from Leagues without Fans
-* UK (no spectators until 2.12.): between 21.10. and 4.11. all matches (16) have been played
-* Netherlands (allowed only until 1.10.): between 21.10. and 4.11. all matches (18) have been played
-* Germany: no matches cancelled [to confirm]
-  
 
 ---
 
@@ -594,13 +573,63 @@ https://doi.org/10.1093/jtm/taaa178
 
 ## Appendix
 
-### Data UK Sport Events
+### Sport Events
 
-#### scott-bbc
+#### Settings in Sport Stadiums
+[**in work**]
+* Netherlands: 15 - 35% of capacity until 1.10. 
+* Switzerland:up to 2/3 of capacity [to check] allowed between 1.10.20 and 28.10.20 both for ice hockey (indoor) and football. All fans needed to wear a mask (of any type) but were allowed to drink (including alcoholic beverages).
+* Ukraine: allowed in mid October (exact dates to be checked)
+* Belgium: up to 400 outdoors and 200 indoors allowed from 23.9. to 23.10.
+* Russia: still several thousand fans seem to be allowed in football [as indicated by stadium counts on 4.11.]
+* Turkey: several hundred fans seem to be allowed in football [as indicated by stadium counts on 4.11.] [to check]
+* UK: After a 4 week lockdown which ended on 2nd December 2020 until 5.1.2021 ([Appendix UK Sport Data](#data-uk-sport-events)):
+  4000 spectators in Tier 1 (about 10%-15% of capacity)
+  2000 spectators in Tier 2 (about 5%-7.5% of capacity)
+  0 spectators in Tier 3
+  until 5th of January 2021 when another shutdown/lockdown was started.
+
+
+#### Results from Leagues with Spectators
+Sources: [https://www.sofascore.com](), [https://www.bbc.com/sport/football/scores-fixtures](), [https://www.srf.ch/sports]() [accessed in early November]
+* Netherlands
+  * A very steep increase of Covid-19 cases in early October
+* Switzerland
+  * only 6 out of 12 football games took place between 21.10 and 4.11. The other 6 needed to be cancel due to quarantine of whole teams (multiple infected players and staff members). Some teams had most of their players and staff infected. 
+  * many regions with ice hockey stadiums respectively where the spectators live showed a steeper increase in Covid-19 cases than the regions without ice hockey stadiums. This indicates regular super-spreading events (as fare as the public available data indicate). 
+  * in late October the majority of hockey matches needed to be cancelled since many teams had multiple infected players.
+* Ukraine:
+  * Shakhtar Donetsk had in early October 2020, 9 infected players and 9 infected staff members. [other teams to be checked]
+  * Some players of the Ukraine national football team had positive PCR tests in mid November 2020.
+* Belgium 
+  * 4 of 17 matches cancelled between 21.10. and 4.11., despite an increasing Covid prevalence throughout October most matches need to be cancelled until mid October when spectators still were allowed. Nevertheless the cancels can also be due to the overall very high Covid-19 prevalence in Belgium. 
+* Turkey 
+  regular cancellation of matches due to insufficient players 
+* Russia
+  [to check]
+* UK (Period 3.12. - 5.1.) ([Appendix UK Sport Data](#data-uk-sport-events))
+  * Multiple match cancellation.
+  * A steep increase in case counts. // before 3.12. there was a lockdown/shutdown and on the 3.12. pubs and restaurants were reopened in most regions. Considering that only a couple of thousands spectators were allowed in a couple of large stadiums, it seems unlikely sport events played aj major role in the increased overall spread.
+  * An increase in infected players. However the increase in infected players is only slightly steeper than the general case count increase.
+    * 23.11. - 13.12:  30 (3 Weeks; 3 Rounds)
+    * 21.12 - 10.1.: 94 (3 Weeks; 4 Rounds; some matches cancelled and these high risk teams likely not tested)
+  * // Some evidence that spectators increased the number of infected players. Even though there were some matches cancelled, the increase in infected players was not much steeper than the general case count; however in september/october/november the correlation between case counts and infected players is rather low. 
+
+
+
+#### Results from Leagues without Fans
+* UK (no spectators until 2.12.): between 21.10. and 4.11. all matches (16) have been played
+* Netherlands (allowed only until 1.10.): between 21.10. and 4.11. all matches (18) have been played
+* Germany: no matches cancelled [to confirm]
+  
+
+#### Data UK Sport Events
+
+##### scott-bbc
 **Fans at sporting events: Maximum of 4,000 to be allowed in England**
 By Laura Scott and Mandeep Sanghera
 
-#### Premier League Case Counts
+##### Premier League Case Counts
 Source: https://www.premierleague.com/news/1814863
 
 "
