@@ -5,30 +5,38 @@
 * [Short Summary Virion Viability](#short-summary-virion-viability)
 * [Summary Virion Viability](#summary-virion-viability)
   * [Reasons for the Fast Decay](#reasons-for-the-fast-decay)
-  * [Summarized Decay Mechanisms and Rates](#summarized-decay-mechanisms-and-rates)
+  * [Decay Mechanisms and Rates Summarized](#decay-mechanisms-and-rates-summarized)
+  * [Summary Decay in Respiratory Fluids](#summary-decay-in-respiratory-fluids)
 * [Introduction](#introduction)
   * [Overview](#overview)
   * [What's done and added here](#whats-done-and-added-here)
   * [Relevance](#relevance)
-* [Decay Measures and Rates](#decay-measures-and-rates)
+* [Measuring and Modelling the Viability of Virions](#measuring-and-modelling-the-viability-of-virions)
   * [Measuring Infectious Virions](#measuring-infectious-virions)
-  * [Exponential Decay](#exponential-decay)
-* [Decay Principles](#decay-principles)
-* [Important Decay Factors](#important-decay-factors)
+  * [Modelling the Viability](#modelling-the-viability)
+* [Viability Observations](#viability-observations)
+  * [Viability in Sunlight](#viability-in-sunlight)
+  * [Decay upon Exposure to Disinfectants](#decay-upon-exposure-to-disinfectants)
+  * [Viability in Ambient Air](#viability-in-ambient-air)
+  * [Self Decay](#self-decay)
+* [Decay Factors](#decay-factors)
+  * [Introducing Decay Factors](#introducing-decay-factors)
   * [Radiation](#radiation)
-  * [Biochemicals](#biochemicals)
-  * [Environment Related](#environment-related)
+  * [Chemicals and Biochemicals](#chemicals-and-biochemicals)
+  * [Concentration Changes](#concentration-changes)
+  * [Osmotic Pressure](#osmotic-pressure)
   * [Temperature](#temperature)
   * [Internal State](#internal-state)
-* [Decay Mechanisms by Building Blocks](#decay-mechanisms-by-building-blocks)
-  * [RNA Decay](#rna-decay)
+* [Theoretical Principles and Decay Mechanisms](#theoretical-principles-and-decay-mechanisms)
+  * [Break Points in Life Forms](#break-points-in-life-forms)
+  * [Causes of Decay](#causes-of-decay)
+  * [Introducing Decay Factors](#introducing-decay-factors-1)
+* [Decay  by Building Blocks](#decay--by-building-blocks)
+  * [RNA Stability](#rna-stability)
   * [Protein Decay](#protein-decay)
   * [Lipid Envelope Decay](#lipid-envelope-decay)
-* [Decay Rates and Mechanisms in concrete Situations](#decay-rates-and-mechanisms-in-concrete-situations)
-  * [Rates for UV Light](#rates-for-uv-light)
-  * [Rates for Disinfecting Biochemicals](#rates-for-disinfecting-biochemicals)
-  * [Viability in Ambient Air](#viability-in-ambient-air)
-  * [Self Decay Rates](#self-decay-rates)
+* [Appendix](#appendix)
+  * [Efflorescence](#efflorescence)
 * [References](#references)
   * [References Temperature Viability SARS-2](#references-temperature-viability-sars-2)
   * [References Temperature Viability of other Viruses](#references-temperature-viability-of-other-viruses)
@@ -72,40 +80,41 @@ The principal reasons for the instability of virion are:
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
 * Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
 
-### Summarized Decay Mechanisms and Rates
-#### Summarized Decay by UV Light
+### Decay Mechanisms and Rates Summarized
+#### Decay by UV Light Summarized
 Outdoors during the day the UV part of sunlight quickly breaks the RNA. Even on cloudy days and in the evening this decay is relevant although slower than at sunny noons.
 UV light yields the RNA unreadable. At low UV (e.g low sun in the fall) the halflife time is about 6 minutes and at intense UV (e.g. sun in summer) about 2 min. On cloudy days the UV is lower but still high enough to break the RNA.
 
-> Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV.
-
-#### Summarized Decay in Disinfecting Biochemicals
+#### Decay in Disinfecting Biochemicals Summarized
 Decay by biochemicals inactivate virions mainly from the outside by interacting with the spike protein or destroying the lipid envelope. Rates at room temperature (22 degree):
 * Common disinfectants (e.g. ethanol 70%, iodine 7.5%): a below a minute.
 * Soap: Below a minute.
 * Acids: In the stomach the acids induce a fast decay.
 
-#### Summarized Decay in Respiratory Fluids
-Virions exhaled in samples of respiratory fluids decay mostly due to interactions with biochemicals in the respiratory fluids. The rate depends on the air temperature and humidity since:
-* At an air humidity between about 40% to 70%: The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
-* At an air humidity between 70% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
-* At an air humidity above 95%: The droplet expand there size in humid environments. A faster decay rate is observed. 
-* At an air humidity below 40%: the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
+#### Summary Decay in Aerosols
+Virions exhaled in exhaled aerosol decay due to interactions with biochemicals in the respiratory fluids when the humidity is high enough the samples do *not* dry out. When the air is very dry the samples dry out and the decay is slower:
+* At an air humidity below the [efflorescence humidity](#efflorescent-humidity) (about 30% to 40%)): In dry air the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
+* At an air humidity just above the [efflorescence humidity](#efflorescent-humidity) (about 40% to 60%): The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
+* At an air humidity between 60% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
+* At an air humidity above the [condensation humidity] (about 95%): The droplet expand there size in humid environments. A faster decay rate is observed. 
 
+### Summary Decay in Respiratory Fluids
 Typical rates are:
 In sputum/nasal mucus/saliva/on the skin the rates are in a similar range. The decay rate doubles about every 10 degrees temperature increase. 
 * at 4 degrees: about 5 (around 50% humidity) up to 10 hours or more (dry air = around 20% humidity).
 * at 22 degrees: about 1 hour (around 50% relative humidity) to 4 hours or more (around 20% humidity).
 
-#### Summarized Decay without extern Factors (Self Decay)
-[**explorative section**]
-Self decay denotes the decay which always occurs even without extern factors. Extern factors can modify the decay rate, though. The self decay depends on the internal state of a virion. Self decay happens primarily by RNA self decay up to around 45 degrees. Above 45 degrees the proteins start loosing functionality.
+#### Summary Self Decay 
+
+> explorative
+
+Self decay denotes the decay mechanisms which are present even without radiation or decay inducing biochemicals. Self decay is a lower bound for the decay rate of virions.
 
 The self decay rate can be approximated by a piecewise linear function:
 * 4 to 45 degrees: Decay mainly due to RNA self decay. The rate doubles (the halftime halves) about every 5 degree temperature increase. 
-  * at 4 degrees: about   400 hours
-  * at 20 degrees: about   80 hours
-  * at 37 degrees: about   10 hours
+  * at fridge temperature (4 degrees): about   400 hours
+  * at room temperature (20degrees): about   80 hours
+  * at body temperature (37 degrees): about   10 hours
   * at 45 degrees: The rate of the RNA decay and the protein deactivation is about the same with a combined halflifetime of 2 hours.
 * 45 to 60 degrees: Decay mainly due to decay of the spring-loaded (metastable) proteins. The rate doubles (the halftime halves) roughly every 2 degrees.
   * at 45 degrees the halflifetime is about 180 minutes hours.
@@ -118,18 +127,25 @@ The self decay rate can be approximated by a piecewise linear function:
 ## Introduction
 
 ### Overview
-The page the following main chapters
-* [Decay Measures and Rates](#decay-measures-and-rates) How to measure the decay and calculate log reductions and halflifetimes and so on.
-* [Decay Factors](#decay-factors): 
+
+* [Measuring and Modelling the Viability of Virions](#measuring-and-modelling-the-viability-of-virions) How to measure the decay and calculate log reductions and halflifetimes and so on.
+
+* [Viability Experiments and Observations](#viability-experiments-and-observations) Experiments and observations of the viability of coronavirus virions in different situations. A focus is on situations of practical relevance such as decay upon UV light or disinfectant exposure and viability in aerosols. Situations where low decay rates are observed are described: Dry and cool air without sunlight.
+
+* [Decay Factors](#decay-factors)
+  From the decay observations, factors relevant for the decay of virions are extracted.
   * Which extern influences induce or increase the decay of virions. In practice these factors often interplay.
   * The viability depends on the [internal state](#internal-state) of a virions. The internal state in turn depends on the originating cell and the genome which can adapt in just a few generations.
-* [Decay Mechanisms by Building Blocks](#decay-mechanisms-by-building-blocks): The decay of the different building blocks (RNA-genome, proteins and envelope).
-* [Decay Rates and Mechanisms in concrete Situations](#decay-rates-and-mechanisms-in-concrete-situations) Decay patterns observed in experiments or relevant in practice are considered. Often several decay factors are present and the exact situation determines the virion decay mechanisms.
-* Measurements and data from many [references](#references) are compiled into a table: [Viability Data](./virion_viability/notes_on_viability_data.md).
+  
+* [Theoretical Principles and Decay Mechanisms](#theoretical-principles-and-decay-mechanisms)
+ 
+* [Decay  by Building Blocks](#decay--by-building-blocks) The decay of the different building blocks (RNA-genome, proteins and envelope).
+ 
+* Many [references are summarized](#references) and the results are compiled into a table [Viability Data](./virion_viability/notes_on_viability_data.md) (separate page).
 
 ### What's done and added here
-* Summary of knowledge of the various decay mechanisms, factors and situations. //at them moment parts of this page are rather an unordered collection than a concise summary
-* The decay situation and the decay mechanisms are associated to each other, some are rarely or not mentioned in literature. E.g. the decay in dry air is associated to RNA self decay. These associations are sometimes explorative and not confirmed.
+* Summary of knowledge about the virion viability in different situations and decay mechanisms. //at the moment parts of this page are rather an unordered collection than a concise summary
+* The decay situation and the decay mechanisms are associated to each other, some are rarely or not mentioned in literature. E.g. the decay in dry air is associated to RNA self decay. These associations are explorative.
 * While old and new research show that the decay in ambient air is U-shaped respect to humidity ([Decay in Ambient Air](#viability-in-ambient-air): low at in dry air, high in intermediate, then again lower in humid air). It is added and emphasized here that at very high humidities (above 90%) the decay fastens. Likely due to [condensation](#evaporation-and-condensation) since the same is true in distilled water. 
 
 ### Relevance
@@ -152,18 +168,17 @@ The page the following main chapters
 
 
 
-## Decay Measures and Rates
-[**in work**]
+## Measuring and Modelling the Viability of Virions
 
 ### Measuring Infectious Virions
 To measure infectious viruses cell culture experiments are necessary. The methods detecting building blocks of viruses (PCR and antigen tests) yield positive if the parts of the building are present regardless whether the virions are intact and infectious (page [diagnosis and viral load](../3_medical/diagnosis_and_viral_load.md)).
 
-### Exponential Decay
+### Modelling the Viability
 When each member of a collection has some time independent chance to replicate or decay during a certain time-span independent of the other members, the whole collection growths or decays exponentially. Examples:
 * The decay of radioactive material is exponential since each atom has some probability to decay during a fixed time span.
 * Change of prevalence of a disease in a homogenous or at least time homogenous population (time homogenous is approximately true for SARS-2 strains at low numbers of infected throughout the population structure/groups).
 
-In most circumstances virions decay independently of each other with a fixed probability during a given time span. In these situations the decay is exponential.
+In most circumstances virions decay independently of each other with a fixed probability during a given time span. In these situations the virion decay is exponential.
 
 `N(t) = e^(-k*t) * N(0)`  where N(t) = viability count at time t; k = decay rate; N(0) initial viability i.e. at time 0
 
@@ -178,20 +193,137 @@ The following equations hold (by properties of the exp and the log functions):
 
 
 
-## Decay Principles
+
+## Viability Observations
+
+
+### Viability in Sunlight
+The UVB part in sunlight is absorbed by DNA/RNA and can cause decay.
+The halflife time of UV light depends on the light intensity. 
+
+Intensity UVB (W/m^2)| Situation | Halflifetime in Minutes
+--|--|--
+1.5 - 2 | Summer Sun at 40 N | 2 - 4.5 
+.7 - 1  | Autumn Sun at 40 N | 5 - 6 
+0.3     | Winter Sun at 40 N | 15
+
+Remark:
+The matrix the virions are eluted is a modifying factor: [Schuit et al](#summary-schuit) observe that the decay in simulated saliva is near double as fast as in cell culture medium.
+
+Sources:
+* [Schuit](#summary-schuit)
+* [Ratnesar-Shumate](#summary-ratnesar-shumate)
+
+
+### Decay upon Exposure to Disinfectants
+[in work]
+The log10 reduction times are below a minute for commonly used disinfectants.
+
+Sources:
+* [Chan20](#summary-chan-20)
+* [Chin](#chin)
+
+
+### Viability in Ambient Air
+In ambient air exhaled particles change their size due to evaporation and condensation, which changes the environment enclosed virions are exposed to. 
+Evidence and explanation are provided, that the decay rates are highest in intermediate and extremely high humidities and low in dry air.
+
+#### Observations and Interpretation
+The following pattern of decay rates is observed:
+
+1. __Low Humidities (below the efflorescence-point ~ about 40%):__ The decay rate is lowest in very dry settings since the samples dry out (salts and proteins crystallize which is called efflorescence) => no chemical reactions =>spike and envelope decay reduced) => decay mainly through [RNA self decay](#rna-self-decay). 
+2. __Intermediate Humidity (about 40-60%):__ The decay rate is highest in intermediate humidities (between 40 - 60%) above the efflorescent point: The droplets shrink, so that the [concentrations of physiological biochemicals](#concentration-changes) increase but the substances don't crystallize. => high spike and envelope loss of functionality through interactions with biochemicals.
+3. __High Humidity (about 80-90%):__ The decay rate is lower than at intermediate humidities but higher than at very low humidities since the concentration of biochemicals is lower than at intermediate humidities but chemicals reaction take place and so higher than at dry settings.
+4. __Very High Humidity (above 90%):__ The decay rate increases. Likely because the particles starts to growth due to condensation which has the same effect as adding distilled water. Unlike influenza viruses, coronaviruses have an increased decay rate in distilled water [citations coming].
+
+Sources: 
+* (1) - (3) are described and observed by [Morris et al](#summary-morris)
+* (1) - (3) are observed by[Casanova et al](#summary-casanova) and [Cox et al](#summary-cox).
+* (4) is observed by [Chan et al, 2011](#summary-chan-11), [Cox et al](#summary-cox).
+
+
+Course estimates decay halflifetimes for different humidity combinations summarized:
+
+Temperature\Humidity|20| 50 | 80 | 95
+--|--|--|--|--
+ 5| 100 - 300 | 40 - 50   | 60 - 80 | 60 - 70
+20|10 - 100   | 4 - 40    | 10 - 20 | 8 - 15
+30| 3 - 25    | 1.5 - 10  | 2.5 - 10| 2 - 5
+40| 2- 8      | .5 - 2    | 0.5 - 4 | 0.5 - 2.5
+
+The estimates are based on the experiments:
+* [Riddell](#summary-riddell): Temperatures (20,30,40), Humidities (50%)
+* [Morris](#summary-morris): Temperatures (10,22,27), Humidities (40%, 65%, 80%)
+* [Casanova](#casanova): Temperatures (4,20,40), Humidities (20%, 50%, 80%)
+* [Chan 11](#summary-chan-11): Temperatures (28,33,38), Humidities (85%, 95%)
+
+which are summarized in the table [Viability Data](./virion_viability/notes_on_viability_data.md).
+
+
+### Self Decay
+
+> numbers to be checked/confirmed, explorative section
+
+Self decay is always observed, even without decay inducing extern factors. However, extern factors can modify the decay rate by changing the internal state e.g. the environment temperature strongly influences the temperature within a virion. Self decay rate yields a lower bound for the decay at a given temperature.
+
+#### Situations where Self Decay is Important
+In praxis self decay occurs: 
+* In dry air without UVB light. This is the case in indoor rooms which are not well ventilated and (heated or air-conditioned or the outside air is dry).
+* At temperatures above 45 degrees the self decay rate increases steeply. This can be exploited to treat virus infections by local warming of the infected tissues -> [Page Temperature and Humidity Modulation](../6_prevention_and_treatment/temperature_modulation.md). Works especially well coronaviruses, since they live mostly on the [apical sides of epithelial cell layers](../2_biological/coronavirus.md#tissue-tropism).
+
+#### Mechanisms and Rate
+Self decay happens primarily by RNA self decay up to around 45 degrees. Above 45 degrees the proteins start loosing functionality.
+
+The self decay rates are estimated from the settings with the lowest observed decay rates for a given temperature. The lowest rates are observed when the samples are either dried out (at relative humidities below the [efflorescent humidity](#efflorescent-humidity) or in favorable solvents (stabilizing media).
+
+##### Until about 45 degrees: RNA Self Decay
+The primary self decay mechanism is RNA self decay. The rate of the RNA decay is similar across different RNA viruses [to check and cite].
+
+The halflifetime halves roughly every 4 to 7 degrees temperature increase:
+* at  4 degrees: about 300 - 400 hours
+* at 20 degrees: about  80 - 120 hours
+* at 35 degrees: about  15 -  20 hours
+* at 39 degrees: about   7 -  11 hours
+* at 43 degrees: about   3 -   5 hours
+* at 45 degrees: about       2.5 hours
+
+##### From about 45 degrees: Protein Decay 
+At higher temperatures the proteins start to denature and loose their functionality (usually not reversible). 
+* The protein decay is varies across the coronavirus species  and even single strains can adapt to become more heat tolerable ([Laude](#summary-laude)). 
+* The halflifetime halves roughly every 2 degrees temperature increase.
+  * at 45 degrees: about  80 - 180 hours
+  * at 47 degrees: about  40 -  90 hours
+  * at 51 degrees: about  10 -  25 minutes
+  * at 55 degrees: about   2 -  10 minutes
+
+##### From about 70 degrees: Lipid Envelope and Protein Decay
+* at 70 degrees: about 10 seconds (lipid envelope and proteins)
+
+##### Sources
+* [Laude](#summary-laude): TGEV coronaviruses are solved in a PH buffer solution.
+* [Casanova](#summary-casanova): MHV and TGEV in MEM and at 20% relative humidity.
+* summarized in the table [Viability Data](./virion_viability/notes_on_viability_data.md)
+
+
+
+
+## Decay Factors
 A virion can decay through by being exposed to a decay factor which directly damage virions (e.g. UV light directly destroys RNA) or a factor can just modify the the decay rate of another mechanism. Often the decay rate depends on an interplay of many factors.
 
+
+### Introducing Decay Factors
+
 > ##### Decay Factor
-> A _decay factor_ is anything that directly induces or modifies the decay of virions.
+> A _decay factor_ denotes (on this page) anything that induces or modifies the decay of virions.
 
 Decay factors can be classified as inducing/modifying and intern/extern:
 * _Inducing/Modifying_
   A decay factor can induce or just modify a decay mechanism.
-  > ##### Modifying Decay Factor
+  ##### Decay Modifying Factor
   > A modifying factor is a factor which mainly modifies the rate of a decay mechanism.
 
-  > ##### Inducing Decay Factor
-  > An inducing decay factor is necessary for a certain decay mechanism.
+  ##### Decay Inducing Factor
+  > An inducing decay factor is necessary for a certain decay mechanism. An inducing decay factor is the cause of a decay mechanism.
 
 * _Intern/Extern_
   The virions decay depends on the internal state and influences from the environment.
@@ -203,92 +335,82 @@ Decay factors can be classified as inducing/modifying and intern/extern:
   > [Extern decay factors](#external-decay-factors) Influences from the environment are called external decay factors (e.g. UV light, biochemicals)
 
 
-Some decay mechanisms occur just in the presence of an decay-inducing extern factor:
-> ##### Extern Induced Decay
-> Extern induced/extrinsic decay is induced by external factors such as UV light or chemicals. Thus this decay mechanisms only occur if the factors are present.
-
-Some decay mechanisms depend only on the internal state and no extern factor is necessary.
-
-> ##### Self Decay
-> The intrinsic/self decay depends only on the [internal state](#internal-state) of the virion and not on external factors. Temperature is both an internal state and extern factor i.e. the extern temperature yields the internal temperature.
-
-Self decay occurs always. In the presence of extern decay inducing factors, the self decay is much slower so just the decay caused by extern factors has to be taken into account.
-
-
-
-## Important Decay Factors
-
 ### Radiation
+
 #### UV Light
 [in work]
-The UV part induces RNA changes => RNA decay
+
+##### UV Light Decay Mechanism
+UV light is absorbed by DNA/RNA the resulting excited state can result in changes of the molecule bindings => [RNA decay](#rna-decay-by-uv-light)
+
+
 #### Visible Light
-No active destruction but some spectra enhance the self decay by increasing the vibration of the RNA backbone [to check and cite].
+No active destruction but some spectra enhance the [self decay](#self-decay-rates) by increasing the vibrations of the RNA backbone [to check and cite].
 
 
-### Biochemicals
+### Chemicals and Biochemicals
 [in work]
-Extern biochemicals act on the spike or the envelope. Biochemicals entering the virion can act on intern or extern structures.
+Extern biochemicals act on the spike and the envelope. Biochemicals entering the virion can act on intern or extern components.
 
-#### Disinfectants and Detergents
-* __Soap__ destroys the lipid envelope.
-* __Disinfectants__ Alcohol, iodine, ... Usually very fast inactivation since disinfectants are chosen/constructed to neutralize life forms. 
+#### Disinfectants
+Disinfectants such as alcohol, iodine, hydrogen-peroxide... usually induce very fast inactivation since disinfectants are chosen/constructed/evolved to reduce the viability of life forms. 
 
-#### Immune System Biochemicals
-##### Localized Biochemicals by the Immune System
+* Some react with the proteins, some destroy the RNA and some the lipid envelope. 
+* Some enter the virions and some act on the envelope and the spikes.
+
+#### Surfactants
+Disintegrate the envelope which can directly destroy virions or make them more susceptible to other [chemicals](#chemicals-and-biochemicals).
+
+##### Soap and Detergents
+Soap and detergents mostly destroy the lipid envelope [to check and cite].
+
+#### Immune System Substances
+The immune system targets both virions and viruses in the metabolic phase. Here only immune system substances targeting virions are considered.
+
+##### Localized Immune System Substances
 These substances are only present in specialized locations (e.g. stomach acid in the stomach, hydrogen peroxide in special cell compartments) and are toxic. These biochemicals usually reduce the viability fast.
-* __Hydrogen Peroxide__: Denatures Proteins, RNA.
-* __Stomach Acid__
+Examples:
+* _Hydrogen Peroxide_: Denatures Proteins, RNA; -> [Disinfectants](#disinfectants).
+* _Stomach Acid_: Fast disintegration of coronaviruses. -> [ph-Values](#ph-values).
+* _Digestive enzymes_ from other organisms e.g. bacteria in water (sea, oceans, rivers). -> [Surfactants](#surfactants).
 
-##### On Demand Biochemicals
-Often produced on demand and usually with selective targeting. 
-* __Neutralizing antibodies__ bind to the spike proteins
-
-##### Physiological Immune System Biochemicals
+##### Secreted Immune System Biochemicals
 These substances are present in body fluids even without infection. Substances are not or very low toxic to the producing form of life but target microbes quite broadly. The toxicity towards coronaviruses usually is concentration dependent and often rather low.
-* __Lysozyme__ destroys the lipid envelope.
+Examples:
+* _Lysozyme_ destroys the lipid envelope.
 
+##### Systemic Immune System Substances
+These are substances in the blood so they should *not* be cytotoxic and usually are produced on demand and have selective targeting. 
+Examples:
+* _Neutralizing antibodies_ bind to the spike proteins and render them unusable.
 
-#### Physiological Biochemicals
-* __Proteins__  can interact with the spike protein and induce conformation changes whereby the spikes loose the ability to induce cell fusion (no enzymatic functions regarding virions is required). Proteins also can have a protective effect.
-* __Digestive enzymes__ from other organisms e.g. bacteria in water (sea, oceans, rivers) or in the alimentary tract disintegrate the envelope.
+#### Physiological Substances
+* _Proteins_  can interact with the spike protein and induce conformation changes whereby the spikes loose the ability to induce cell fusion (no enzymatic functions regarding virions is required). Proteins also can have a protective effect.
 
 #### Salts
-Salts can reduce or enhance the decay depending on the situation. Effect the [osmotic pressure](#osmotic-pressure).
+[in work]
+* Salts can reduce or enhance the decay depending on the situation. 
+* Change the [osmotic pressure](#osmotic-pressure) in the environment.
 
 #### PH Values
 [in work]
-pH value alters the state of biochemicals and the virions. These effects alters the decay rates (e.g. shown in [Laude](#summary-laude)).
+pH values alter the state of biochemicals and the virions. These effects in turn change the decay rates (e.g. shown in [Laude](#summary-laude)).
 
 
-### Environment Related
-
-#### Evaporation and Condensation
-Evaporation and condensation affect amount of water in samples. Which has the effects:
-* the [concentration](#concentration-changes) of chemical and biological substances is increased at evaporation respectively decreased at condensation.    
-* In the air the changed size affects the movement of the particles (described in [Objects Moving in the Air](../5_epidemiological/transmission.md#objects-moving-in-the-air) on the Transmission page)
-  * tendency to fall down at condensation
-  * tendency to fly at evaporation
-
-* How the particles sizes changes upon exposure to different humidities is described and measured by [Morris et al](#summary-morris). 
-* More general notes on the fate of particles in the air are illustrative paper by [Yang and Marr](../5_epidemiological/transmission.md#yang).
-
-
-#### Concentration Changes
+### Concentration Changes
 Concentration changes of [biochemicals](#biochemicals) in the environment (which can e.g. result from condensation or evaporation).
 
-
-##### Concentration Increase
+#### Concentration Increase
 Biochemicals can cause increased decay of the spike proteins or the lipid envelope and at low levels of 
 Increased concentration increases the decay through [biochemicals](#decay-by-biochemicals) if the decay is concentration dependent. E.g. in experiment simulating exhaled respiratory droplets, the fastest decay is observed just before the droplets dry out (which is around a relative humidity of 30 to 40%). Virions decay fastest since the concentration of the chemicals is highest then (Section [Decay in ambient Air](#decay-rates-in-ambient-air-at-different-humidities)).
 
-##### Concentration Decrease
+#### Concentration Decrease
 Very low concentrations of minerals and proteins ( distilled water or in condensation situations) result in an increased decay rate. Possible effects of a low levels of biochemicals in the water:
 - [Osmotic Pressure](#osmotic-pressure)
 - Influence the [internal state](#internal-states) due to osmosis more water inside virions, which possibly increases the [RNA self decay](#rna-self-decay) by increasing the degrees of freedom the RNA has to move.
 
 
-#### Osmotic Pressure
+### Osmotic Pressure
 [to check/confirm, explorative section]
 Different concentrations on the two sides of a semipermeable membrane induce osmotic forces on the membrane, especially since virions don't have ion pumps.
 
@@ -296,7 +418,7 @@ Different concentrations on the two sides of a semipermeable membrane induce osm
 ### Temperature
 [**in work, to check/confirm and cite**]
 
-The temperature denotes the average kinetic energy of the atoms a substance consists of. Temperature changes have enabling effects on mechanisms i.e.enable a certain mechanism or modifying effects i.e. change the speed of a mechanism.
+The temperature denotes the average kinetic energy of the atoms a substance consists of. Temperature changes have enabling effects on mechanisms (enable a certain mechanism) or modifying effects (change the speed of a mechanism).
 
 #### Effects of Temperature
 1. Higher temperatures enable and increase the probability of reactions upon collision due to higher kinetic energies of the atoms.
@@ -327,188 +449,172 @@ The internal state has constant and variable characteristics:
 
 
 
-## Decay Mechanisms by Building Blocks
-[**in work**]
+
+## Theoretical Principles and Decay Mechanisms
+
+> **in work**, in raw form and to be checked
+
+At the molecular level the decay mechanisms are the similar for all life forms since the fundamental build blocks - organic molecules - are common.
+
+### Break Points in Life Forms
+
+#### Changing Molecular Bonds
+The virions contains several large organic molecules. Molecules are atomic cores coupled together by bindings through electrons. These bindings can be broken by effects from the absorption of[High Energy Radiation](#decay-through-high-energy-radiation) or reactive [Chemicals](#decay-through-chemical-reactions). <!-- to look up/calc Molecular Movement](#decay-through-molecular-movement)-->
+
+#### Changing Intramolecular Bindings
+Intramolecular bonds are determine 
+* the binding between (bio)molecules which determines their arrangement and the arrangement of the structures they are part of.
+* the conformation (=3d-structure) of organic molecules. 
+
+There different types of intramolecular bindings, 
+* some got some movement flexibility and are called intramolecular forces e.g. Van der Waals forces.
+* some don't have movement flexibility and are called bonds. E.g. hydrogen bonds.
+
+
+### Causes of Decay
+
+#### Radiation
+* Effects of high energy radiation can change molecule bonds.
+* Increase the molecular movement.
+
+#### Chemicals and Biochemicals
+* Aggressive biochemicals can interfere with the electrons and cause rearrangement of the bindings i.e. a chemical reaction.
+* Biochemicals can cause structural changes in organic molecules.
+* Biochemicals can stick to the virions e.g. antibodies do so. With molecules adhesion on the outside the virions are 'dirty' and can loose viability.
+
+#### Molecular Movement
+At the molecular level everything moves and jitters around. The average kinetic energy of this movement and jittering is the temperature.
+* The jittering and movement can cause strains on the bindings (mostly intramolecular bonds).
+* Movement causes bumps. 
+  * Bumps can cause an excited states of molecules enabling chemical reactions.
+  * Without within reach substances can't react. The higher the movement the more bumps between molecules which can yield to reactions.
+
+
+### Introducing Decay Factors
+Some decay mechanisms occur just in the presence of an decay-inducing extern factor:
+> ##### Extern Induced Decay
+> Extern induced/extrinsic decay is induced by external factors such as UV light or chemicals. Thus this decay mechanisms only occur if the factors are present.
+
+Life forms always are subject to changes even under optimal conditions. 
+Some decay mechanisms depend only on the internal state and no extern factor is necessary.
+
+> ##### Self Decay
+> Self decay denotes decay depending only on the [internal state](#internal-state) which includes the temperature. 
+
+* Temperature is both an internal state and extern factor i.e. the extern temperature yields the internal temperature.
+* Self decay always takes place except at extremely low temperatures. In the presence of extern decay inducing factors, the self decay is often negligible so just the decay caused by extern factors has to be taken into account.
+
+
+## Decay  by Building Blocks
+
+> **in work** and **explorative**
+
 All of the building blocks of a virions are subject to decay. Under which circumstances the different building blocks decay is discussed in the following.
 
 
 > ##### Virion Building Blocks
-> Coronavirus virions are composed of three classes of building blocks: RNA, Proteins and a lipid envelope. From the outside well accessible is only the lipid envelope and the spikes protein.
+> Coronavirus virions are composed of three classes of building blocks: 
+> * RNA Genome (single stranded) 
+> * Proteins (N, M, E, S)
+> * Lipid envelope (host cell acquired). 
+> 
+> From the outside well accessible is only the lipid envelope and the spikes protein.
 
 
-### RNA Decay
+### RNA Stability
+The genome of coronaviruses is stored in single stranded RNA, which is the least stable of the 4 [storage forms](../2_biological/life-forms.md#lifetime-storage). 
+The primary decay mechanisms of the RNA are UV light and temperature dependent self decay. 
 
-#### RNA Self Decay
-The genome of coronaviruses is stored in single stranded RNA, which is the least stable of the 4 [storage forms](../2_biological/life-forms.md#lifetime-storage) is not very stable and bases can mutate which yield unusable RNA
+* #### RNA Decay by UV Light
+  UV light can cause structural changes in the RNA
+  Required Factor: UV Light
 
-##### Modifying Factors 
-* Temperature: The decay rate increases with the temperature (linear in Arrhenius plots).
-* Visible Light ([Summary Fleming](#summary-fleming))
-* Matrix the viruses are suspended in: 
-  * [Fleming and Beeson](#summary-fleming) found that the more the CS,199 medium was diluted, the faster the decay. The rate change respect to temperature remained constant, indicating that the mechanism didn't change, just occurred more frequently in higher dilutions at the same temperature. 
-  * In air humidities above 95% an increased decay is observed [Decay in Ambient Air](#viability-in-ambient-air).
+* #### RNA Self Decay
 
-<!--* An increased decay in distilled water is observed in-->
+  ##### Modifying Factors RNA Self Decay
+  * Temperature: The decay rate increases with the temperature (linear in Arrhenius plots).
+  * Visible Light ([Summary Fleming](#summary-fleming)): Seems to increase the self decay
+  * Matrix the viruses are suspended in: 
+    * [Fleming and Beeson](#summary-fleming) found that the more the CS,199 medium was diluted, the faster the decay. The rate change respect to temperature remained constant, indicating that the mechanism didn't change, just occurred more frequently in higher dilutions at the same temperature. 
+    * In solutions with very low concentrations e.g. distilled water and increased decay is observed:
+      * In air humidities above 95% an increased decay is observed [Decay in Ambient Air](#viability-in-ambient-air).
+      * An increased decay in distilled water is observed in-->
 
-##### Situations
-RNA self decay is the main decay mechanisms at temperatures below 40 degrees in absence of faster decay mechanisms such interacting biochemicals or light. 
-Evidence:
-* The rate is similar for single stranded RNA viruses 
-* (Some comments are in papers of [Fleming](#summary-fleming) and [Laude](#summary-laude)).
+  ##### Situations
+  RNA self decay is the main decay mechanisms at temperatures below 40 degrees in absence of faster decay mechanisms such interacting biochemicals (which is the case when dried) or light. 
+  
+  ##### Note
+  The rate is similar for all single stranded RNA viruses [citations and argumentation in work]. Some comments are in papers of [Fleming](#summary-fleming) and [Laude](#summary-laude)).
 
 
-#### RNA Decay by UV Light
-UV light can cause structural changes in the RNA
-Required Factor: UV Light
 
 
 ### Protein Decay
-Coronaviruses have the proteins N = nucleocapsid protein, M = membrane protein, E = envelope protein and S = spike protein (some e.g. bovine coronaviruses additionally HE protein). 
-* The spike proteins (and HE for coronaviruses where it is present) is most susceptible to loosing function since 1) the spikes point out from the envelope and thus is well accessible and exposed to substances. 2) The spikes are not in an energy minimized conformation since since they are spring loaded to initiate cell fusion (prefusion state). The tension makes them delicate and without metabolism once released the spike can't go back to the spring loaded state.
-* The N protein is not energy minimized thus at increased temperatures self decay occurs [to check and cite].
-* The M and E protein are generally more stable than the S protein, so if any of the proteins looses function, it is most likely the S protein [to check and cite].
+Coronavirus virions have the proteins N = nucleocapsid protein, M = membrane protein, E = envelope protein and S = spike protein (some e.g. bovine coronaviruses additionally HE protein). 
+* The S protein is most exposed and most unstable. => S most prone to decay.
+* The N protein is not energy minimized thus at increased temperatures self decay occurs.
+* The M and E protein are generally more stable than the S and N proteins
 
 
-#### Spikes Self Decay
-The spike protein of coronaviruses is temperature sensitive due to the spring loaded energy. Above 45 degree the spike can loose its structure e.g. by the transformation from pre- to post-fusion state.
 
+#### Spike Decay
+The spike proteins (and HE for coronaviruses where it is present) is most susceptible to loosing function since a) The spikes point out from the envelope and thus are exposed.
+b) The spikes are not in an energy minimized conformation since since they are spring loaded to initiate cell fusion. The tension makes them delicate and without metabolism once released the spike can't go back to the spring loaded state.
+    
+* ##### Spike Self Decay
+  The spike protein of coronaviruses is temperature sensitive due to the spring loaded energy. Above 45 degree the spike can loose its structure e.g. by the transformation from pre- to post-fusion state.
 
-#### Spike Decay by Biochemicals 
-[Biochemicals](#biochemicals) can induce direct changes or accelerate other mechanisms.
-* Proteins
-  * Can bind and block functional groups such as cleavage sites or the RBD (e.g. neutralizing antibodies do so)
-  * Induce conformational changes e.g. induce the transformation from pre- to post-fusion state. The spikes evolved do so if they are attached to an infectable cell, however they can be 'mistaken'.
-* Neutralizing antibodies can bind to the spikes.
+* ##### Spike Decay by Biochemicals 
+  Biochemicals can induce direct changes or accelerate other mechanisms. 
+  * Proteins
+    * Can bind and block functional groups such as cleavage sites or the RBD (e.g. neutralizing antibodies do so)
+    * Induce conformational changes e.g. induce the transformation from pre- to post-fusion state. The spikes evolved do so if they are attached to an infectable cell, however they can be 'mistaken'.
+  * Neutralizing antibodies can bind to the spikes.
 
-#### N Protein Self Decay
-The N protein is conformation is not very stable at high temperatures and undergoes irreversible conformation changes.
+#### Nucleocapsid Decay
+The N protein is only inside the virions and thus protected by the envelope and therefore less exposed to biochemicals.
 
-#### Proteins E,M Decay
-* The E an M proteins are more stable regarding self decay than the spikes and the N protein. 
-* Regarding biochemicals, the spikes are most exposed, so the spikes usually loose functionality first [to  cite].
+* ##### N Protein Self Decay
+  The N protein is conformation is not energy minimized and high temperatures induce irreversible conformation changes [to confirm and cite].
+
+#### E,M Decay
+The E an M proteins are more stable than the spikes and the N protein [to confirm and cite]. 
 
 
 ### Lipid Envelope Decay
-#### Factors Influencing Protein Decay
-* Temperature: The lipid envelope looses stability and becomes more permeable at temperatures above 65 degrees [to check and cite].
+The lipid envelope is exposed to biochemicals. Since the lipid envelope is host cell acquired its stability can vary.
+
+* ##### Envelope Self Decay
+  The lipid envelope looses stability and becomes more permeable at temperatures above 65 degrees [to check and cite].
+* ##### Biochemicals
+  Substance solving lipids can lyse the lipid envelope.
 * Osmotic Pressure: can explode the envelope [to confirm and cite]
-* Biochemicals: E.g. soap make holes into the lipid envelope.
+* Biochemicals: 
 
 
+## Appendix 
 
-## Decay Rates and Mechanisms in concrete Situations
+### Efflorescence
 
+##### Efflorescence Process
+> Efflorescence is the process when dissolved matter crystallizes. 
 
-### Rates for UV Light
-The halflife time of UV light depends on the light intensity. 
+Usually efflorescence happens because of evaporation of water out of a solution. E.g. when enough water evaporates from a sodium chloride (common salt) solution, the sodium chloride crystallizes into many tiny crystals which all reflect light (white color).
 
-Sources:
-* [Schuit](#summary-schuit)
-* [Ratnesar-Shumate](#summary-ratnesar-shumate)
-
-Intensity UVB (W/m^2)| Situation | Halflifetime in Minutes
---|--|--
-1.5 - 2 | Summer Sun at 40 N | 2 - 4.5 
-.7 - 1  | Autumn Sun at 40 N | 5 - 6 
-0.3     | Winter Sun at 40 N | 15 
-
-Remark:
-The matrix the virions are eluted is a modifying factor: [Schuit et al] observe that the decay in simulated saliva is near double as fast as in cell culture medium.
+##### Efflorescent Humidity
 
 
-### Rates for Disinfecting Biochemicals
-[in work]
-The log10 reduction times are below a minute for most common disinfectants.
+> The efflorescent humidity-point for a homogenous solution is the humidity at which the solute crystallizes.
 
-Sources:
-* [Chan20](#summary-chan-20)
-* [Chin](#chin)
+Notes:
+* The efflorescent humidity depends on the solution e.g. proteins, salts and fatty acids in a solution are determinants of its efflorescent humidity.
+* For a solution containing different solutes not all solutes may crystallize at the same humidity. Thus the efflorescent point is cannot be precisely given for the entire solution.
+* For respiratory tract fluids it is about 35 to 40%. 
 
+> // The efflorescent humidity is likely lower for upper respiratory tract fluids and higher for LRT fluids [to confirm and cite]. // Guess: about 40% for LRT fluids and about 25 for URT fluids.
 
-
-### Viability in Ambient Air
-
-In ambient air exhaled particles change their size due to evaporation and condensation, which changes the environment enclosed virions are exposed to. 
-Evidence and explanation are provided, that the decay rates are highest in intermediate and extremely high humidities and low in dry air.
-
-
-> ##### Effloresce
-> Effloresce is the process when so much water evaporates from a solution, that previously dissolved matter crystallizes. E.g. when enough water evaporates from a sodium chloride (common salt) solution, the sodium chloride crystallizes into many tiny crystals which all reflect light (white color).
-
-> ##### Efflorescent Humidity
-> Efflorescence occurs at the efflorescent humidity/point. The efflorescent point depends on the substances i.e. what proteins and salts the particles consists of. For respiratory tract fluids it is about 35 to 40% [to check and cite].
-
-The following pattern of decay rates is observed:
-//in order of increasing humidity
-1. __Low Humidities (below the efflorescence-point ~ 35%):__ The decay rate is lowest in very dry settings since the samples dry out (salts and proteins crystallize) => no chemical reactions between the spikes and proteins in the solution => nearly only decay through [RNA self decay](#rna-self-decay). 
-2. __Intermediate Humidity (about 40-60%):__ The decay rate is highest in intermediate humidities (between 40 - 60%) when the droplets shrink, so that the [concentrations of physiological biochemicals](#concentration-changes) increase.
-3. __High Humidity (about 80-90%):__ The decay rate is lower than at intermediate humidities but higher than at very low humidities since the concentration of biochemicals is lower than at intermediate humidities but chemicals reaction take place and so higher than at dry settings.
-4. __Very High Humidity (above 90%):__ The decay rate increases. Likely because the particles starts to growth due to condensation which has the same effect as adding distilled water. Unlike influenza viruses, coronaviruses have an increased decay rate in distilled water [citations coming].
-
-Sources: 
-* (1) - (3) are described and observed by [Morris et al](#summary-morris) and also observed by [Casanova et al](#summary-casanova) and [Cox et al](#summary-cox).
-* The increase in decay rate in (4) at humidities above 90% is observed by [Chan et al, 2011](#summary-chan-11) and by [Cox et al](#summary-cox).
-
-
-Course estimates decay halflifetimes for different humidity combinations summarized:
-
-Temperature\Humidity|20| 50 | 80 | 95
---|--|--|--|--
- 5| 100 - 300 | 40 - 50   | 60 - 80 | 60 - 70
-20|10 - 100   | 4 - 40    | 10 - 20 | 8 - 15
-30| 3 - 25    | 1.5 - 10  | 2.5 - 10| 2 - 5
-40| 2- 8      | .5 - 2    | 0.5 - 4 | 0.5 - 2.5
-
-The estimates are based on the experiments:
-* [Riddell](#summary-riddell): Temperatures (20,30,40), Humidities (50%)
-* [Morris](#summary-morris): Temperatures (10,22,27), Humidities (40%, 65%, 80%)
-* [Casanova](#casanova): Temperatures (4,20,40), Humidities (20%, 50%, 80%)
-* [Chan 11](#summary-chan-11): Temperatures (28,33,38), Humidities (85%, 95%)
-
-which are summarized in the table [Viability Data](./virion_viability/notes_on_viability_data.md).
-
-
-
-### Self Decay Rates
-[numbers to be checked/confirmed, explorative section]
-By definition [self decay](#self-decay) occurs in the absence of external factors. To know the self decay rate is useful to have a lower bound the decay rates at different temperatures. 
-
-The decay below about 40 degrees is due to RNA self decay and the decay above about 45 is due to protein denaturation.
-
-
-
-The self decay rates are estimated from environment with the lowest observed decay rates at a given temperature. The lowest rates are observed when the samples are either dried out (at relative humidities below 25%) or in favorable solvents.
-
-Sources:
-* [Laude](#summary-laude): TGEV coronaviruses are solved in a PH buffer solution.
-* [Casanova](#summary-casanova): MHV and TGEV in MEM and at 20% relative humidity.
-* summarized in the table [Viability Data](./virion_viability/notes_on_viability_data.md)
-
-#### Until about 45 degrees: RNA Self Decay
-The primary self decay mechanism is RNA self decay. The rate of the RNA decay is similar across different RNA viruses [to check and cite].
-
-
-The halflifetime halves roughly every 4 to 7 degrees temperature increase:
-  * at  4 degrees: about 300 - 400 hours
-  * at 20 degrees: about  80 - 120 hours
-  * at 35 degrees: about  15 -  20 hours
-  * at 39 degrees: about   7 -  11 hours
-  * at 43 degrees: about   3 -   5 hours
-  * at 45 degrees: about       2.5 hours
-
-#### From about 45 degrees: Protein Decay 
-
-At higher temperatures the proteins start to denature and loose their functionality (usually not reversible). 
-* The protein decay is varies across the coronavirus species  and even single strains can adapt to become more heat tolerable ([Laude](#summary-laude)). 
-* The halflifetime halves roughly every 2 degrees temperature increase.
-  * at 45 degrees: about  80 - 180 hours
-  * at 47 degrees: about  40 -  90 hours
-  * at 51 degrees: about  10 -  25 minutes
-  * at 55 degrees: about   2 -  10 minutes
-
-#### From about 70 degrees: Lipid Envelope and Protein Decay
-* at 70 degrees: about 10 seconds (lipid envelope and proteins)
-
+##### Condensation Humidity
+> The condensation humidity for a particle denotes the humidity at which the particle noticeable growths due to condensation.
 
 
 
@@ -636,6 +742,9 @@ https://doi.org/10.1101/2020.10.16.341883
 ##### Meta-analysis
 * Table summarizing several coronavirus viability studies (halflifetimes given).
 * "To test the validity of our model beyond the measured environmental conditions (i.e., beyond 10– 27 C and 40–85 % RH), we compiled data from 11 published studies on human coronaviruses, including SARS-CoV-2, SARS-CoV-1, MERS-CoV, HCoV-OC43 and HCoV-299E, under 17 temperature-RH conditions. We generated estimates of half-life and uncertainties (Extended Data Table 2) and compared those estimates to the half-lives predicted by the mechanistic model parametrized from our SARS-CoV-2 data."
+##### Discussion
+* "Our results highlight scenarios of particular transmission risk, and provide a mechanistic explanation for observed superspreading events in cool indoor environments such as food processing plants."
+* "Moreover, our model predicts observations from other human coronaviruses and other studies of SARS-CoV-2, suggesting the existence of shared mechanisms that determine environmental stability across a number of enveloped viruses."
 
 
 
@@ -643,6 +752,7 @@ https://doi.org/10.1101/2020.10.16.341883
 **Thermal Inactivation Studies of a Coronavirus, Transmissible Gastroenteritis Virus**
 
 > Inspired by [Fleming](#summary-fleming), recommended to read in parallel.
+
 ##### Methods
 The decay rate of the TGEV coronavirus at temperatures between 31 and 55 degrees at the pH values 7 and 8 is determined.
 ##### Methods Details
@@ -692,6 +802,9 @@ Semliki forest virus:
 
 #### Summary Fleming
 **Thermal Inactivation of Semliki Forest Virus**
+
+> Recommended to read [Laude](#summary-laude) which builds on this work.
+
 ##### Methods
 * First the influence of the originating cells and the surrounding matrix was determined to select a appropriate model for the thermal inactivation studies.
 * The inactivation of homogenous virions at temperatures between 2o° and 50° degrees in different dilution of stabilizing medium was determined.
@@ -720,7 +833,7 @@ J. R. Soc. Interface 16: 20180298. https://dx.doi.org/10.1098/rsif.2018.0298
 **Airborne SARS-CoV-2 Is Rapidly Inactivated by Simulated Sunlight**
 [in work]
 
-> Remark: similar and same research group as [Ratnesar-Shumate](#ratnesar-shumate)
+> Remark: similar and same research group as [Ratnesar-Shumate](#summary-ratnesar-shumate)
 ##### Methods
 "This study examined effect of simulated sunlight, relative humidity, and suspension matrix on stability of SARS-CoV-2 in aerosols."
 ##### Results
@@ -738,7 +851,7 @@ J. R. Soc. Interface 16: 20180298. https://dx.doi.org/10.1098/rsif.2018.0298
 **Simulated Sunlight Rapidly Inactivates SARS-CoV-2 on Surfaces**
 [in work]
 
-> Remark: similar and same research group as [Schuit](#schuit)
+> Remark: similar and same research group as [Schuit](#summary-schuit)
 ##### Methods
 "In the present study, simulated sunlight rapidly inactivated SARS-CoV-2 suspended in either simulated saliva or culture media and dried on stainless steel coupons."
 ##### Results
