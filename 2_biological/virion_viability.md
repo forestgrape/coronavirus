@@ -5,7 +5,7 @@
 * [Short Summary Virion Viability](#short-summary-virion-viability)
 * [Summary Virion Viability](#summary-virion-viability)
   * [Reasons for the Fast Decay](#reasons-for-the-fast-decay)
-  * [Decay Mechanisms and Rates Summarized](#decay-mechanisms-and-rates-summarized)
+  * [Summary Viability in different Situations](#summary-viability-in-different-situations)
   * [Summary Decay in Respiratory Fluids](#summary-decay-in-respiratory-fluids)
 * [Introduction](#introduction)
   * [Overview](#overview)
@@ -51,7 +51,7 @@
 
 
 ## Short Summary Virion Viability
-The decay of coronavirus virions is driven by different mechanisms in different situations. Usually one decay mechanism is much faster than all others, so only this fastest has to be accounted for.
+The decay of coronavirus virions is driven by different mechanisms in different situations. The halflife times ranges from seconds for disinfectants to weeks in dry and cool air:
 
 Selected situations grouped by the halflifetimes of the virion decay:
 * Halflifetime below a minute
@@ -70,21 +70,21 @@ Selected situations grouped by the halflifetimes of the virion decay:
 
 ## Summary Virion Viability
 
-[Virions](../2_biological/viruses.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Depending on the environment at different speeds and with different mechanisms. Coronavirus virions decay fast compared to other forms of life. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
+[Virions](../2_biological/viruses.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Coronavirus virions decay fast compared to other forms of life.
+Depending on the environment at different speeds and with different mechanisms. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
 
 ### Reasons for the Fast Decay
-The principal reasons for the instability of virion are:
+The principal reasons for the fast decay are:
 * The genome is [stored in ssRNA](../2_biological/life-forms.md#ssrna)
 * The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out imbalances such as osmotic pressures, without metabolism virions do not.
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
 * Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
 
-### Decay Mechanisms and Rates Summarized
-#### Decay by UV Light Summarized
-Outdoors during the day the UV part of sunlight quickly breaks the RNA. Even on cloudy days and in the evening this decay is relevant although slower than at sunny noons.
-UV light yields the RNA unreadable. At low UV (e.g low sun in the fall) the halflife time is about 6 minutes and at intense UV (e.g. sun in summer) about 2 min. On cloudy days the UV is lower but still high enough to break the RNA.
+### Summary Viability in different Situations
+#### Summary Decay by UV Light
 
-#### Decay in Disinfecting Biochemicals Summarized
+UV light renders the RNA unreadable. At low UV (low sun in the fall) the halflife time is about 6 minutes and at intense UV (sun at noon in the summer) about 2 min.
+#### Summary Decay in Disinfecting Biochemicals
 Decay by biochemicals inactivate virions mainly from the outside by interacting with the spike protein or destroying the lipid envelope. Rates at room temperature (22 degree):
 * Common disinfectants (e.g. ethanol 70%, iodine 7.5%): a below a minute.
 * Soap: Below a minute.
@@ -95,7 +95,7 @@ Virions exhaled in exhaled aerosol decay due to interactions with biochemicals i
 * At an air humidity below the [efflorescence humidity](#efflorescent-humidity) (about 30% to 40%)): In dry air the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
 * At an air humidity just above the [efflorescence humidity](#efflorescent-humidity) (about 40% to 60%): The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
 * At an air humidity between 60% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
-* At an air humidity above the [condensation humidity] (about 95%): The droplet expand there size in humid environments. A faster decay rate is observed. 
+* At an air humidity above the [condensation humidity] (about 95%): The droplet expand there size in humid environments. A faster decay rate is observed.
 
 ### Summary Decay in Respiratory Fluids
 Typical rates are:
