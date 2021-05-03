@@ -42,11 +42,12 @@
   * [References Droplets and Influenza](#references-droplets-and-influenza)
   * [References UV](#references-uv)
 
-> ## Note
-> * **the page is in work** 
-> * **some parts are explorative**
+
+> * **some parts are and marked as explorative**
+> * some parts of the page are in work
 > * **some data/values need additional checking**
-> * **pointing out mistakes is appreciated**
+> * pointing out mistakes is appreciated
+
 
 
 
