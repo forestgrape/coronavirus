@@ -18,7 +18,7 @@
   * [Viability in Sunlight](#viability-in-sunlight)
   * [Decay upon Exposure to Disinfectants](#decay-upon-exposure-to-disinfectants)
   * [Viability in Ambient Air](#viability-in-ambient-air)
-  * [Self Decay](#self-decay)
+  * [Self Decay Situations](#self-decay-situations)
 * [Decay Factors](#decay-factors)
   * [Introducing Decay Factors](#introducing-decay-factors)
   * [Radiation](#radiation)
@@ -30,7 +30,6 @@
 * [Theoretical Principles and Decay Mechanisms](#theoretical-principles-and-decay-mechanisms)
   * [Break Points in Life Forms](#break-points-in-life-forms)
   * [Causes of Decay](#causes-of-decay)
-  * [Introducing Decay Factors](#introducing-decay-factors-1)
 * [Decay  by Building Blocks](#decay--by-building-blocks)
   * [RNA Stability](#rna-stability)
   * [Protein Decay](#protein-decay)
@@ -260,11 +259,11 @@ The estimates are based on the experiments:
 which are summarized in the table [Viability Data](./virion_viability/notes_on_viability_data.md).
 
 
-### Self Decay
+### Self Decay Situations
 
 > numbers to be checked/confirmed, explorative section
 
-Self decay is always observed, even without decay inducing extern factors. However, extern factors can modify the decay rate by changing the internal state e.g. the environment temperature strongly influences the temperature within a virion. Self decay rate yields a lower bound for the decay at a given temperature.
+Self decay denotes the decay without inducing decay factors, therefore it is always observed. Extern factors can modify the decay rate by changing the internal state e.g. the environment temperature strongly influences the temperature within a virion. Self decay rate yields a lower bound for the decay at a given temperature.
 
 #### Situations where Self Decay is Important
 In praxis self decay occurs: 
@@ -317,7 +316,7 @@ A virion can decay through by being exposed to a decay factor which directly dam
 > A _decay factor_ denotes (on this page) anything that induces or modifies the decay of virions.
 
 Decay factors can be classified as inducing/modifying and intern/extern:
-* _Inducing/Modifying_
+* _Inducing <-> Modifying_
   A decay factor can induce or just modify a decay mechanism.
   ##### Decay Modifying Factor
   > A modifying factor is a factor which mainly modifies the rate of a decay mechanism.
@@ -325,7 +324,7 @@ Decay factors can be classified as inducing/modifying and intern/extern:
   ##### Decay Inducing Factor
   > An inducing decay factor is necessary for a certain decay mechanism. An inducing decay factor is the cause of a decay mechanism.
 
-* _Intern/Extern_
+* _Intern <-> Extern_
   The virions decay depends on the internal state and influences from the environment.
 
   > ##### Intern Decay Factor
@@ -334,6 +333,19 @@ Decay factors can be classified as inducing/modifying and intern/extern:
   > ##### Extern Decay Factor
   > [Extern decay factors](#external-decay-factors) Influences from the environment are called external decay factors (e.g. UV light, biochemicals)
 
+* _Factor Induced Decay <-> Self Decay_
+Some decay mechanisms occur just in the presence of an decay-inducing extern factor.
+> ##### Extern Induced Decay
+> Extern induced/extrinsic decay is induced by external factors such as UV light or chemicals. Thus this decay mechanisms only occur if the factors are present.
+
+Life forms always are subject to changes even under optimal conditions. 
+Some decay mechanisms depend only on the internal state and no extern factor is necessary.
+
+> ##### Self Decay
+> Self decay denotes decay depending only on the [internal state](#internal-state) which includes the temperature. 
+
+* Temperature is both an internal state and extern factor i.e. the extern temperature yields the internal temperature.
+* Self decay always takes place except at extremely low temperatures. In the presence of extern decay inducing factors, the self decay is often negligible so just the decay caused by extern factors has to be taken into account.
 
 ### Radiation
 
@@ -490,19 +502,7 @@ At the molecular level everything moves and jitters around. The average kinetic 
   * Without within reach substances can't react. The higher the movement the more bumps between molecules which can yield to reactions.
 
 
-### Introducing Decay Factors
-Some decay mechanisms occur just in the presence of an decay-inducing extern factor:
-> ##### Extern Induced Decay
-> Extern induced/extrinsic decay is induced by external factors such as UV light or chemicals. Thus this decay mechanisms only occur if the factors are present.
 
-Life forms always are subject to changes even under optimal conditions. 
-Some decay mechanisms depend only on the internal state and no extern factor is necessary.
-
-> ##### Self Decay
-> Self decay denotes decay depending only on the [internal state](#internal-state) which includes the temperature. 
-
-* Temperature is both an internal state and extern factor i.e. the extern temperature yields the internal temperature.
-* Self decay always takes place except at extremely low temperatures. In the presence of extern decay inducing factors, the self decay is often negligible so just the decay caused by extern factors has to be taken into account.
 
 
 ## Decay  by Building Blocks
