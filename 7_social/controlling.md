@@ -395,6 +395,7 @@ Outdoors is safer because of:
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
 - The [Virion Decay Rate](../2_biological/virion_viability.md) is high due to sunlight and temperature changes. 
+  > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV.
 
 #### Dilution
 Outdoors there is much more air per person than inside:
