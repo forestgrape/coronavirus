@@ -204,8 +204,10 @@ Viruses optimized to their environment usually only infect cells involved in the
 ### Tropism
 
 #### Tissue Tropism
+
 ##### Tropism for the Respiratory Tract
 Coronaviruses replicate well in the respiratory tract, thus they have a tropism for the respiratory tract.
+
 ##### Tropism for the Apical Side
 *  The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the epithelial cell layer, the virions come mostly in contact with the apical sides of cells.
 * In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similar observations for the coronavirus 229E: It infects the cells, corresponding to its receptor (amino-peptidase N) expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
