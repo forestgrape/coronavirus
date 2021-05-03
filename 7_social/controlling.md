@@ -394,8 +394,8 @@ outdoors the viruses get diluted and then either are cleared or decay. Due to de
 Outdoors is safer because of:
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
-- The [Virion Decay Rate](../2_biological/virion_viability.md) is high due to sunlight and temperature changes. 
-  > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV.
+- The [coronavirus decay rate](../2_biological/virion_viability.md) is fast compared to other forms of life and they can't repair any damage. Exposed to  disinfectants or soap most virions decay within a minute. Sunlight and high temperatures also render the virions un-infectious fast. The virions survive longest in dry air without sunlight. Even on cloudy days and towards the evening sunlight induce a quite fast decay.
+  > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. Unlike virions we also have an advanced repair mechanism which often can put things right again.
 
 #### Dilution
 Outdoors there is much more air per person than inside:
