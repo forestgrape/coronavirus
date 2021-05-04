@@ -162,17 +162,17 @@ This section describes how particles are deposited in the respiratory tract. The
 * [Park](#park) is a recent review. 
 * An often used model is the [ICRP Model](#bailey). 
 * This work often relies on the simulation from [Kleinstreuer](#kleinstreuer-2018).
+* [Varghese and Gangamma](#varghese) show that hygroscopic growth can increase alveoli deposition of particles.
 
 #### Deposition Factors
 How many particles are deposited/breath out in which region in/from the respiratory tract depends on various factors:
-- Particles properties such as 
-  - Diameter: the diameter determines the size of particles and thus how particles [move in the air](#objects-moving-in-the-air). 
-  - Form: constant for water droplets but dry particles can vary in form. [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25.
-  - Material: [Zhong](#zhong) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. Similarly observed by [Varghese and Gangamma, Figure 4](#varghese): The alveolar deposition of soluble matter (shown for salt NaCl) between 250 nm and 1000 nm is increased by the particle growth due to moistening in the lungs. In Figure 7 the simulated effect of particle growth on total deposition is compared to measurements in experiments. 
-- Breathing volume and frequency [hofemeier](#hofemeier)
-- Air humidity and how much the air is moistened in the lung. E.g. described in [zhong18](#zhong18), [varghese](#varghese)]
-- Orientation respect to gravity i.e. wether horizontal or vertical
-- [Qi et al](#qi) simulate that particle deposition is individual and may change in case of lung diseases. 
+- _Breathing Pattern_: Breathing volume and frequency [hofemeier](#hofemeier)
+- _Orientation_: Orientation respect to gravity i.e. wether horizontal or vertical
+- _Lung Diseases_: [Qi et al](#qi) simulate that particle deposition is individual and may change in case of lung diseases.
+- _Particles properties_ such as 
+  - _Diameter_: the diameter determines the size of particles and thus how particles [move in the air](#objects-moving-in-the-air). 
+  - _Form_: constant for water droplets but dry particles can vary in form. [Sturm](#sturm) simulated the deposition of  non-spherical particles particles. The form factor showed to matter most for larger particles in the size of 10 micro meter. Fibers in that size were deposited early on, where as disks showed the highest deposition rate in the airway generations 20 to 25.
+  - _Material and Hygroscopic Growth_: [Zhong](#zhong-2018) et al describe that the particles can be moistened upon inhale and this has an effect on depositions locations. Similarly observed by [Varghese and Gangamma, Figure 4](#varghese): The alveolar deposition of soluble matter (shown for salt NaCl) between 250 nm and 1000 nm is increased by the particle growth due to moistening in the lungs. In Figure 7 the simulated effect of particle growth on total deposition is compared to measurements in experiments.  
 
  
 #### Deposition Locations
@@ -216,14 +216,14 @@ Build an artificial lung and measure: [sznitman](#sznitman).
 ##### In silico
 Theoretical simulations model the respiratory tract and mostly use the laws of fluid dynamics to calculate the airflow. An often used model is the [ICRP Model](#bailey). 
 * Traditional methods: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). Usually some differential equations are fitted and these equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
-* Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics: [Kleinstreuer 18](#kleinstreuer-2018), [Qi](#qi), [Rahimi-Gorji](#rahimi-gorji), [Zhong18](#zhong18).
+* Recent approaches model the respiratory tract accurately in 3D and make use of advances in computational fluid dynamics: [Kleinstreuer 18](#kleinstreuer-2018), [Qi](#qi), [Rahimi-Gorji](#rahimi-gorji), [Zhong18](#zhong-2018).
 
 #### Limitations of Experiments
 The airflow in the lung has variations and is complicated [Tsuda](#tsuda), [Bailey](#bailey). Often good agreement for modeling methods compared to in vivo measurements are achieved, however many parameters have to be estimated and thus overfitting could occur. 
 Usually many simplifications of [relevant factors](#particles-deposition) both for respiratory tract and particles are taken i.e. the simulations are done for round constant size droplets and the respiratory tract is modelled as a static pipe system. Usually not modelled are:
 * The softness and dynamics of the respiratory system, modelled in [darquenne](#darquenne). 
 * Particle shape (taken into account in [sturm](#sturm)).
-* Condensation and material (both considered in [Zhong18](#zhong18)).
+* Condensation and material (both considered in [Zhong18](#zhong-2018)).
 
     
 
@@ -338,71 +338,31 @@ For severe betacoronavirus diseases nearly always the lower respiratory tract is
   
 As described in [particles deposition](../5_epidemiological/transmission.md#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. 
 * The [Tissue Tropism](../2_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1. 
-* There are several [Disease Patterns](../3_medical/coronavirus_disease_patterns.md) observed resulting from SARS-Cov-2 infections and some of them require an early lower respiratory tract infection.
+* There are several [Disease Patterns](../3_medical/coronavirus_disease_patterns.md) observed resulting from SARS-Cov-2 infections and severe Covid is mostly associated with an early lower respiratory tract involvement.
 
-That in swab tests there are viruses in the nose and the mouth can be either caused by local replication or by breathing them up. [Kleinstreuer et al](#kleinstreuer-2018) have shown that upon exhale particles are deposited in the nose. The upper respiratory tract is used to fight viruses and so infections are rarely virulent (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)).
+That in swab tests there are viruses in the nose and the mouth is caused by breathing them up and/or local replication. 
+* [Kleinstreuer et al](#kleinstreuer-2018) have shown that upon exhale particles are deposited in the nose. 
+* The upper respiratory tract is used to fight viruses and so infections limited to the upper respiratory tract are not virulent and infections starting in the upper respiratory tract rarely develop virulent (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)).
 
-    
+
 #### Evidence from observed Spread Patterns
 
 Particles produced when speaking or coughing explain well the observed spread patterns for middle and upper respiratory tract infections, they are often spread between close contacts. However, the spread patterns betacoronaviruses diseases involving the lungs are better explained by dust-like spreading:
 In confined settings without special protection reproduction numbers, have been observed [Mizumoto](#mizumoto). Which is not very likely to observe with the droplet transmission model. Since the movement of droplets is affected by gravity and therefore their concentration in the air quite rapidly decreases (see [model](#dry-form-transmission-model) section). The movement of dry dust, on the other hand, is less affected by gravity and therefore remains longer in the air. The majority of spreading has been observed in indoor spaces. In theses settings dry dust like spreading is possible.
 
-<!--
-move to spread analyses
---> 
-
-* Sars-CoV-2:
-    - Long-Term Care Facility in Seattle [Honein et al](#honein)
-	- Diamond Princess Cruise Ship anchored in Japan, well analysed by [Mizumoto and colleagues](#mizumoto). Observations:
-        * Covid-19 spread started between passengers and not equally between passengers and personal.
-        * Very high peak values of the reproduction number are observed (over 10).
-        
-        The observations indicate long range but same room transmission which favours aerosol over droplet transmission:
-        * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission.
-        * Smoke diffuses entire rooms and stays quite long => spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected (if the initial spread starts in the passengers) since they spend the time in the same areas.
-        * The reproduction number peak values are well above the number of close contacts a person usually has and so droplet transmission is unlikely.
-        
-        The observed spread patter even favour small or dry particulates over larger aerosol particulates, since for larger particles are more local spread would be excepted:
-        * For 'large' aerosol transmission about an equal spread would be expected.
-
-	- Music Club in Japan (Introduction [Mizumoto](#mizumoto))
-	- Church in Korea (Introduction [Mizumoto](#mizumoto))
-	- Hospitals in Northern Italy [LE](#le)
-
-* SARS-CoV-1:
-    - Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in rooms on the same floor. Spread to personal was rarely observed.
+The observed spread pattern for SARS-CoV-2 and other respiratory viruses are described on the page [Spread Analyses](../5_epidemiological/spread_analyses.md):
+* The transmission patterns observed for SARS-2, SARS-1 and MERS show that severe lung infections are primarily transmitted in dry air.
+* SARS-2 transmission are observed in setting with humid air but less than in dry air. Transmission in humid air yield mostly mild diseases and the fatality rate is much lower in situations with humid air than in settings with dry air. The latter is consistent with the observation that dry particulates likely have a higher alveoli deposition rate which 
 
 
-* SARS 1 & 2: 
-    In settings without prior SARS experience the infection rate in health care workers is very high:
-	* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
-	* 2019/2020 in Europe - Italy especially [LE](#le)
-	
-	Possible Explanation: The medical staff is used to protect against fomites and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
 
-* Mers-Cov:
-  Most superspreading events were observed in winter and often in hospitals ([Dudas et al 2017](#dudas-2017)). 
-
-* The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outdoor air temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The earliest observed Sars-Cov-1 cases are linked to a similar setting of a live animal market. 
-
-* The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS, discovered in 2012, has been infecting humans at least for several decades, which is known from analyzing backup samples [to cite]).
-
-    
-#### Further evidences
-
-[in work, March 2020]
-
-In humid and warm temperature environments (above 30 degrees), the death numbers increase less steep. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative don't yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanations why in humid conditions around 33 degrees there less super-spreading events observed are:
-  * In warm climate zones good ventilation is easy but settings with air-conditioner usage enable super spreading.
-  * In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within growing droplets, which fall to the ground or get absorbed in the upper respiratory tract causing less virulent diseases.
 
 ### Metaphor and Measures 
-Avoiding the droplet spread is like avoiding somebody’s reek of alcohol, avoiding aerosols/dry particulates on the other hand corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air for much longer and can diffuse around.
+Avoiding the droplet spread is like avoiding somebody’s reek of alcohol, avoiding aerosols/dry particulates on the other hand corresponds to avoiding a smoker's smoke. The latter is much more difficult since smoke remains in the air long and move around with the air stream.
 Just smelling would be the theoretical possibility of an infection. But for the odds to be in two digits percentages, one needs likely to be that close that the cloths start smelling. 
 Another form of dry particulates in air is dust. In dry air dust can stay in the very long and travel long distances. 
 
-This yields either avoiding 'Sars-CoV-2 smoke' or filtering out  particulates. The filter filters ideally above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm, but often several virions stick together or are attached to some organic material[to check and cite]). 
+This yields either avoiding 'Sars-CoV-2 smoke' or filtering out  particulates. The filter filters ideally above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm; but often several virions stick together or are attached to some organic material [to check and cite]). 
 Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Outdoors is no worry for Sars-CoV-2 however, the air is diluted and sun light destroys virions (Chapter [Virion Viability](../2_biological/virion_viability.md)). 
 Measures in more detail are found in [Protection Measures](../7_social/controlling.md). 
 
@@ -588,7 +548,7 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
     **Particle Disposition in the Realistic Airway Tree Models of Subjects with Tracheal Bronchus and COPD**
     Hindawi BioMed Research International Volume 2018, Article ID 7428609, 15 pages https://doi.org/10.1155/2018/7428609
     
-* ##### zhong18
+* ##### zhong 2018
     Xiaole Chen, Clement Kleinstreuer, Wenqi Zhong, Yu Feng & Xianguang Zhou (2018) **Effects of thermal airflow and mucus-layer interaction on hygroscopic droplet deposition in a simple mouth–throat model**, Aerosol Science and Technology, 52:8, 900-912, https://dx.doi.org/10.1080/02786826.2018.1476751
     
 * ##### rahimi-gorji
