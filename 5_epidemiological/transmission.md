@@ -4,6 +4,7 @@
 * [Airborne Transmission](#airborne-transmission)
   * [Content Airborne Transmission](#content-airborne-transmission)
   * [Objects Moving in the Air](#objects-moving-in-the-air)
+  * [The Fate of Particles in the Air](#the-fate-of-particles-in-the-air)
   * [Overview Airborne Transmission](#overview-airborne-transmission)
 * [Particle Dynamics in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract)
   * [Particles Sources](#particles-sources)
@@ -85,7 +86,7 @@ Since the volume increases in cubic and the surface only in square of the length
 
 The [size factor](#size-factor) is the distinguishing point for aerosols versus droplets since both have a spherical form and consist of water. Very small water droplets, that can't seen as single particles, move with airflow. 
 
-#### Droplet versus Aerosol
+#### Classifying based on Movement
 
 > ###### Aerosol
 > An *aerosol* is air with a collection of tiny particulates which can't be seen and move with the air in the situation of interest. 
@@ -104,13 +105,38 @@ The larger droplets keep their name and are called droplets:
 > // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. The behavior depends also on the situation: the respiratory tract has sharp turns and the humidity is very high so particles growth, so particles entering with a diameter of 5 micrometer don't necessarily follow the air. That water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence or at least there is no obvious causal connection.
 
 
+### The Fate of Particles in the Air
+
+> in work and in raw form. To be checked for correctness
+
+Those particles with a very small S/m ratio will just fall down. For particulates with a large or intermediate S/m ratio stay longer in the air and can be subject to condensation and evaporation.
+
+if S/m ratio small => fall down
+if S/m ratio intermediate or large -> stay in and move with the air =>
+    if the condeva equilibrium is on the condensation side =>  particles growth => fall down or reach condeva equilibrium
+    if in condeva equilibrium => size constant
+    if the condeva equilibrium is on the evaporation side => water evaporates and particles shrink => 
+        if water available => reach condeva equilibrium
+        if out of water =>  efflorescence
+
+In other words:
+The air humidity and the material a particles consists of determine whether 
+* particles shrink (evaporation is greater) or growth (condensation is greater)
+  * particles dry out below the efflorescence humidity
+  * particles growth that much they fall down
+  
+#### Comments
+* The humidity varies across the world and across the seasons
+* The material of an exhaled particle depends mainly on the source of the particle i.e. whether it is produced in the alveoli, bronchi, trachea, vocal folds, pharynx or mouth.
+
+
 
 ### Overview Airborne Transmission
 
 Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: Droplets behave like heavy balls while aerosols behave smoke-like i.e. they mostly move with the air. 
 
-Model    | Metaphor   | Actions | Source/Deposition | Situations/Climate|   Prevent              
----------|------------|------------------|-----------------|------|---
+Model | Metaphor   | Actions | Source/Deposition | Situations/Climate| Prevent              
+------|------------|---------|-------------------|-------------------|----------
 [droplets](#droplets)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
 [aerosol](#aerosol)  | reek of alcohol, smells during cooking | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
 [proposed dry form aerosol](../5_epidemiological/dry_form_transmission.md) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
