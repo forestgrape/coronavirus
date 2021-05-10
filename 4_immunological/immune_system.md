@@ -26,8 +26,6 @@
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
   * [Books](#books)
-* [Appendix](#appendix)
-  * [Biology, Chemistry and Physics](#biology-chemistry-and-physics)
 
 
 
@@ -261,24 +259,4 @@ Immunology, Third Edition
 Peter Lydyard, Alex Whelan, Michael Fanger
 
 
-
-## Appendix
-
-### Biology, Chemistry and Physics
-> [in work]
-> Historically biology, chemistry and physics evolved as separate scientific disciplines with the tasks:
-> - Biology: Observing and describing living organisms.
-> - Chemistry: the successor of alchemy (the transmutation of metals from greek al=the and khēmia=transmuting metals). Chemistry is about transmuting and disassembling substances.
-> - Physics: Movements and forces on solid objects. Early handed down descriptions and experiments were done by Archimedes and Galileo. Newton mathematically described the observed planetary motions as the movement of objects rotating around the sun subject to gravity. From that point on physics dealt with distance forces influencing the acceleration of objects. This approach turned out to describe many phenomena in nature.
-> 
-> Concepts from physics (movements of particles, behavior of waves, forces and related concepts) can be used to model/explain nearly every phenomena observed.
-> The underlying mechanism of chemical reactions can be explained by the behavior of the outer electron shells of atoms. Mostly these underlying mechanisms can be abstracted away however and chemistry describes how atoms react with each other. Molecular biology in turn is the chemistry of molecules only occurring in the context of life forms. The building block of life can be described by molecular biology. Life forms, which are complex constructs huge numbers of these building blocks, show phenomena that are often best described by abstracting away the building blocks. So physics, chemistry and biology describe different parts of nature.
-> 
-> Physical, chemical and biological are used here as follows:
-> - ##### Physics
->   Physics is about the behavior of particles and bodies and how they interact with each other to change their movements and states. The behavior of particle systems (many particles which interact) is often easier/only doable by considering the entity and not single particles.
-> - ###### Chemistry
->   *Chemistry* describes reactions of substances. *Chemical reaction* = changes in the electron arrangement of the outer electron shells.
-> - ###### Biology
->   Molecular biology which is essentially the chemistry of life forms: Reactions and participating substances occurring only in the context of [life forms](../2_biological/life-forms.md#life-form) on earth. Mostly these are complex organic molecules and their reactions. 'Classical' biology
 
