@@ -28,14 +28,13 @@
   * [Temperature](#temperature)
   * [Internal State](#internal-state)
 * [Theoretical Principles and Decay Mechanisms](#theoretical-principles-and-decay-mechanisms)
-  * [Break Points in Life Forms](#break-points-in-life-forms)
-  * [Causes of Decay](#causes-of-decay)
+  * [Radiation](#radiation-1)
+  * [Chemicals and Biochemicals](#chemicals-and-biochemicals-1)
+  * [Molecular Movement](#molecular-movement)
 * [Decay  by Building Blocks](#decay--by-building-blocks)
   * [RNA Stability](#rna-stability)
   * [Protein Decay](#protein-decay)
   * [Lipid Envelope Decay](#lipid-envelope-decay)
-* [Appendix](#appendix)
-  * [Efflorescence](#efflorescence)
 * [References](#references)
   * [References Temperature Viability SARS-2](#references-temperature-viability-sars-2)
   * [References Temperature Viability of other Viruses](#references-temperature-viability-of-other-viruses)
@@ -469,33 +468,16 @@ The internal state has constant and variable characteristics:
 
 At the molecular level the decay mechanisms are the similar for all life forms since the fundamental build blocks - organic molecules - are common.
 
-### Break Points in Life Forms
-
-#### Changing Molecular Bonds
-The virions contains several large organic molecules. Molecules are atomic cores coupled together by bindings through electrons. These bindings can be broken by effects from the absorption of[High Energy Radiation](#decay-through-high-energy-radiation) or reactive [Chemicals](#decay-through-chemical-reactions). <!-- to look up/calc Molecular Movement](#decay-through-molecular-movement)-->
-
-#### Changing Intramolecular Bindings
-Intramolecular bonds are determine 
-* the binding between (bio)molecules which determines their arrangement and the arrangement of the structures they are part of.
-* the conformation (=3d-structure) of organic molecules. 
-
-There different types of intramolecular bindings, 
-* some got some movement flexibility and are called intramolecular forces e.g. Van der Waals forces.
-* some don't have movement flexibility and are called bonds. E.g. hydrogen bonds.
-
-
-### Causes of Decay
-
-#### Radiation
+### Radiation
 * Effects of high energy radiation can change molecule bonds.
 * Increase the molecular movement.
 
-#### Chemicals and Biochemicals
+### Chemicals and Biochemicals
 * Aggressive biochemicals can interfere with the electrons and cause rearrangement of the bindings i.e. a chemical reaction.
 * Biochemicals can cause structural changes in organic molecules.
 * Biochemicals can stick to the virions e.g. antibodies do so. With molecules adhesion on the outside the virions are 'dirty' and can loose viability.
 
-#### Molecular Movement
+### Molecular Movement
 At the molecular level everything moves and jitters around. The average kinetic energy of this movement and jittering is the temperature.
 * The jittering and movement can cause strains on the bindings (mostly intramolecular bonds).
 * Movement causes bumps. 
@@ -593,29 +575,6 @@ The lipid envelope is exposed to biochemicals. Since the lipid envelope is host 
 * Biochemicals: 
 
 
-## Appendix 
-
-### Efflorescence
-
-##### Efflorescence Process
-> Efflorescence is the process when dissolved matter crystallizes. 
-
-Usually efflorescence happens because of evaporation of water out of a solution. E.g. when enough water evaporates from a sodium chloride (common salt) solution, the sodium chloride crystallizes into many tiny crystals which all reflect light (white color).
-
-##### Efflorescent Humidity
-
-
-> The efflorescent humidity-point for a homogenous solution is the humidity at which the solute crystallizes.
-
-Notes:
-* The efflorescent humidity depends on the solution e.g. proteins, salts and fatty acids in a solution are determinants of its efflorescent humidity.
-* For a solution containing different solutes not all solutes may crystallize at the same humidity. Thus the efflorescent point is cannot be precisely given for the entire solution.
-* For respiratory tract fluids it is about 35 to 40%. 
-
-> // The efflorescent humidity is likely lower for upper respiratory tract fluids and higher for LRT fluids [to confirm and cite]. // Guess: about 40% for LRT fluids and about 25 for URT fluids.
-
-##### Condensation Humidity
-> The condensation humidity for a particle denotes the humidity at which the particle noticeable growths due to condensation.
 
 
 
