@@ -6,23 +6,31 @@
   * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
   * [Summary Situation Analyses](#summary-situation-analyses)
   * [The Susceptibility and Infectiousness varies across People and depends on Biological Factors](#the-susceptibility-and-infectiousness-varies-across-people-and-depends-on-biological-factors)
-* [Spread in Geographical Analyses](#spread-in-geographical-analyses)
-  * [Situations which Favour Shared Indoor Air](#situations-which-favour-shared-indoor-air)
-  * [Dry Air](#dry-air)
-  * [Unhealthy Lifestyles in the last Decades](#unhealthy-lifestyles-in-the-last-decades)
+* [Geographical Observations and Analyses](#geographical-observations-and-analyses)
+  * [Conditions which Favour Shared Indoor Air](#conditions-which-favour-shared-indoor-air)
+  * [Air Humidity](#air-humidity)
+  * [Dirty Air Exposure](#dirty-air-exposure)
+  * [Lifestyles](#lifestyles)
   * [Cities versus Rural](#cities-versus-rural)
   * [Living Conditions](#living-conditions)
-* [Analyses o specific Settings](#analyses-o-specific-settings)
+  * [Income](#income)
+* [Analyses of Historical Transmissions](#analyses-of-historical-transmissions)
+* [Analyses of specific Settings](#analyses-of-specific-settings)
+  * [Medical and Care Facilities](#medical-and-care-facilities)
   * [Indoor Social Settings](#indoor-social-settings)
+  * [Cruise Ships](#cruise-ships)
   * [Airplanes](#airplanes)
-  * [Large Scale Production Factories](#large-scale-production-factories)
+  * [Factories](#factories)
   * [Large Scale Sporting Events](#large-scale-sporting-events)
+* [Other Viruses](#other-viruses)
+  * [Betacoronaviruses](#betacoronaviruses)
+  * [Alphacoronaviruses](#alphacoronaviruses)
+  * [Respiratory Viruses](#respiratory-viruses)
 * [Population Characteristics](#population-characteristics)
   * [Infector Distribution](#infector-distribution)
   * [Infectors and Symptom Status](#infectors-and-symptom-status)
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
-  * [Comments on Spread Analysis](#comments-on-spread-analysis)
   * [References Household Transmissions](#references-household-transmissions)
   * [References General Spread Patterns](#references-general-spread-patterns)
   * [References Covid Spread Children and Schools](#references-covid-spread-children-and-schools)
@@ -32,8 +40,14 @@
 * [Appendix](#appendix)
   * [Sport Events](#sport-events)
 
+
+
 ## Short Summary
-[Situations where high rates of Covid-19 transmission](#spread-situations) are observed or *not* observed are described. High transmission rates of severe Covid are observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without good ventilation, at crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing). 
+[Situations where high rates of Covid-19 transmission](#spread-situations) are observed or *not* observed are described. Key findings:
+* High transmission rates of severe Covid are observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without good ventilation, in crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing). 
+* Most severe cases and high fatality rates are observed in dry air. The air is dry when heating, air-conditioning or the outdoor air is dry.
+* High fatality rates are mostly in regions where many are obese and/or exposed to polluted air.
+
 
 
 ## Summary
@@ -54,7 +68,6 @@ The observation strongly indicate a generalized aerosol transmission model (eith
 
 
 Regarding prevention measures relevant is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
-
 
 
 ### Summary Geographical Observations and Analyses
@@ -95,53 +108,97 @@ The susceptibility and infectiousness are correlated and depend on factors such 
 
 ---
 
-## Spread in Geographical Analyses
+## Geographical Observations and Analyses
 
-> **in work**
+> **in rework**, May 2021
 
-### Situations which Favour Shared Indoor Air
+### Conditions which Favour Shared Indoor Air
 Covid-19 waves across the world usually are predated by situations which favour time spent indoors and bad ventilation which are heating in harsh climates and air-conditioners in hot and humid climates.
 
-* #### Cold Outside => Indoor Heated
-  Low temperature at least during the night
-  * Northern countries in Winter
-  * Southern in the Southern Hemisphere Winter
-  * High altitude, High altitude also increases the amount of air breathed.
+#### Low temperature => Indoor Heated
+When the temperatures are below the comfort zone, at least during the night, the time spend indoor increases and the windows tend to be closed.
 
-* #### Hot & Rich => Indoor Air-Conditioned 
-  ACs are prevalent in when 1. AND 2.: 
-  1. Population groups with a high enough income. In countries with gdp above 12000$ widespread.
-  2. Regions with high temperatures over prolonged periods. Usually inside or not fare away from the  tropics.
-  
-  Examples are:
-  * Southern US: E.g. Los Angeles, Florida, Texas and Arizona
-  * South Americas: Brazil
-  * Region of Mexico (Mexico City?)
-  * Some parts of Southern Europe: regions of Spain, Portugal, Greece
-  * Most Countries in the Middle East
-  
-* #### Protection Measures can Backfire => Time Spent Indoors Increased
-  Stay at home orders or prohibition of outdoor activities, can backfire since they increase the time spend indoors. Additionally they can yield respectively enhance unhealthy lifestyles and thereby increase susceptibility for severe Covid. For people living in houses with large gardens stay at home orders and similar can work or at least not increase the spread (e.g. New Zealand). On the other hand in settings with [small living spaces](#living-conditions), where already an increased transmission is observed, measures which increase the time spend indoor or visiting indoor places can yield additional transmissions.
+Situations with many severe Covid cases:
+* Northern countries in Winter
+* Southern in the Southern Hemisphere Winter
+* High altitude, High altitude also increases the amount of air breathed.
 
-* #### High Altitude => Increased Volume of Air Breathed
-  Spread is increased by cities at high altitude since the volume of air breathed is increased 
-  * In Central and South America a couple of large cities are above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia
-  * Winter sport locations in the Alps and Rocky Mountains.
+#### Hot & Rich => Air-Conditioned
+ACs are prevalent if 1) in Regions with high temperatures over prolonged periods. Usually inside latitudes of +/- 30 degrees and if the degree of mechanization is high (often associated with a median gdp/person above 10'000 $).
+
+Situations with many severe Covid cases:
+* Southern US in summer: E.g. Los Angeles, Florida, Texas and Arizona
+* South Americas: Brazil
+* Region of Mexico (Mexico City?)
+* Some parts of Southern Europe: regions of Spain, Portugal, Greece
+* Most Countries in the Middle East
+
+#### High Altitude => Low Pressure
+Spread is increased at high altitude since the volume of air breathed is increased.
+
+Situations with many severe Covid cases:
+* In Central and South America a couple of large cities are above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia
+* Winter sport locations in the Alps and Rocky Mountains.
+
+#### Settings which favour staying indoors => Indoors Air Breathed Increased
+* In large cities people tend to spend more time indoors than on the country side and with many residential blocks 
+* Measures that motivate to stay at home and avoid outdoor activities, not always are beneficial since they increase the time spend indoors. Additionally they can yield respectively enhance unhealthy lifestyles and thereby increase susceptibility for severe Covid. For people living in houses with  gardens (and regions where many people life in houses) staying home can work or at least not increase the spread. On the other hand in settings with [small living spaces](#living-conditions), where already an increased transmission is observed, measures which increase the time spend indoor or visiting indoor places can yield additional transmissions.
 
 
-### Dry Air
-Nearly all steep increases in severe cases and deaths have been observed in settings where the indoor air is very dry. The 
-* #### Increases with Dry Indoor Air
-* #### Increases with Humid Indoor Air
-  There have been increases in settings with humid outside air, but mostly in countries where air-conditioners are prevalent and ACs remove humidity.
-  * Some states in the souther US had Covid waves in quite humid air settingsf 
-  * Brazil November 2020 through March 2021
+### Air Humidity
 
-### Unhealthy Lifestyles in the last Decades
-#### Air-pollution during the last Decades
-Examples Northern Italy, Northern India, Teheran
+#### Observations
+##### Dry Indoor Air
+Nearly all steep increases in severe cases and deaths have been observed in settings where the indoor air is dry. 
+* [Indoor Heated](#indoor-heated): Warming the air increases the maximal absolute humidity.
+* [Air Conditioned](#air-conditioned): ACs remove humidity.
+* Dry Outdoor Air: Examples: Peru Spring 2020, Northern Central India Spring 2021
+
+##### Humid Indoor Air
+The indoor air is humid if the outdoor air is humid and no air-conditioners (or dehumidifiers)are used.
+* There have been increases in Covid deaths in settings where humid indoor is possible due to humid and warm outside air, but mostly in regions where air-conditioners are frequently used (e.g. Large cities in Brazil nearly year round, Cities in Southern US summer 2020).
+* In regions where AC are less prevalent and the air keeps humidity indoors combined with dense living conditions (e.g. Indonesia, Lagos in Nigeria, suburbs of coastal India): High prevalence of Covid-19 has been detected but mainly mild cases with very low fatality rates.
+
+#### Interpretations of Air Humidity
+Air humidity is relevant in theory since:
+* the viability of coronavirus virions is increased in dry air (below efflorescence humidity) (-> [Page Virion Viability](../2_biological/virion_viability.md))
+* In humid and warm temperature environments (above 30 degrees), the death numbers increase less steep. [Chan](#chan) shows that warm temperatures of 33 Celsius and high relative yield a much faster rate of inactivation; temperatures over 38 degrees do induce a much faster inactivation. A possible explanations why in humid conditions around 33 degrees there less super-spreading events observed are:
+* In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within growing droplets, which fall to the ground or get absorbed in the upper respiratory tract causing less virulent diseases.
+  * In warm climate zones good ventilation is easy but settings with air-conditioner usage enable super spreading.
+
+* The virions lung deposition locations can change. When dried particles have hygroscopic growth the dangerous alveoli deposition is possibly increased (-> [Particle Dynamics in the Respiratory Tract](../5_epidemiological/transmission.md#deposition-factors))
+
+
+
+
+
+### Dirty Air Exposure
+> in work
+#### Air Pollution
+_Through Air Pollution_: Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Teheran
+
+#### Smoking
+_Through Smoking_: Smokers and Ex-Smokers. 
+* Ex-smokers have a higher risk for severe risk than never smokers.
+
+> There is some evidence that current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be attributed possibly toxic environment changes in the lung caused by smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
+
+### Lifestyles
 #### Overweight
-Examples UK, US, Mexico, Brazil
+> in work
+
+##### Observations
+Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
+
+
+High rates of obesity (in decreasing order, source: obesity.procon.org):
+US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
+
+Few obesity: Viet Nam, Bangladesh, India, Nepal, Japan
+
+##### Interpretation
+> One reason is that obesity increases the risk for severe Covid. But the increases seems to occur also in people which are no obese [to check and cite/provide evidence].
+
 
 
 
@@ -182,8 +239,7 @@ Infectious disease wave through the clusters until there's no more ground to nou
 * People belong to different clusters trough a day 
 
 #### Observations
-* In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities. 
-  * Observed by [Rader,Scarpino et al](#summary-raderscarpino). 
+* In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities (Observation and simulations by [Rader,Scarpino et al](#summary-rader,scarpino)).
 
 > I also except that in rural settings: 
 > * the peak incidence will be much higher (double or more) and the wave passes through the entire society in one go. 
@@ -191,44 +247,107 @@ Infectious disease wave through the clusters until there's no more ground to nou
 
 
 ### Living Conditions
+
+
+#### Living Space
 People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
 * [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
 * [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in).
 
+#### Residential Blocks
+Across the world regions and communities with a large share of people living in residential blocks tend to have higher Covid infections rates:
+* Large cities in the UK which have high shares of residential blocks, had high severe Covid case rate. [to confirm and cite/source]
+* In Eastern Europa, where the share of residential blocks built in the 60s through 80s is high, Covid case rates where high during the winter 20/21.
+* In the Lombardy the share of people living in residential blocks is high. Severe Covid rate were very high in late Winter 2020 and still quite high in Winter 2021.
+
+### Income
+> in work and to cite/analyse.
+
+#### Income Effects within Cities
+In some cities in Western Europe (e.g. in Basel, Stockholm -> [References Living Space](#living-space)), a negative correlation between income and Covid cases is observed within 'commuting areas' i.e. analyzing only areas within commuting distances. Within commuting/catchment areas  the income usually is correlated to the [living space](#living-space), which is possibly a founding cause. Also jobs which require physical presence in large buildings (e.g. fabrics) tend to have low wages.
+
+#### Income Effects between Cities
+When comparing income in larger areas than commuting distances, there the negative correlation between income and Covid cases does not hold: 
+* rural areas with low incomes show no increased Covid case count compared to rich cities [to provide data/cite]
+
+#### Income Effects on the Country Level
+On the country level Covid cases and deaths are positively correlated to income.
+
+
+
 ---
 
+## Analyses of Historical Transmissions
 
-## Analyses o specific Settings
+> written March 2020, in rework May 2021
 
-**[in work]**
+* The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outdoor air temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The zoonoses of Sars-Cov-1 also are linked to a live animal market or civets kept inside restaurants.
+* The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS, discovered in 2012, has been infecting humans at least for several decades, which is known from analyzing backup samples [to cite]).
+
+---
+
+## Analyses of specific Settings
+
 Spread situations and patterns of Covid-19 both observed and described in literature are discussed. 
 
+### Medical and Care Facilities
 
+##### Hospitals
+> in rework May 21
+
+In settings without prior SARS experience the infection rate in health care workers is very high:
+* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
+* 2019/2020 in Europe - Italy especially [LE](#le)
+	
+Possible Explanation: The medical staff is used to protect against fomites and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
+
+##### Long Term Care Facilities
+Long-Term Care Facility in Seattle [Honein et al](#honein).
 
 ### Indoor Social Settings
-* [Contact Tracing in Hong Kong](#summary-adamwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
+* [Contact Tracing in Hong Kong](#summary-ada,mwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
+
+
+### Cruise Ships
+
+#### Diamond Princess
+Diamond Princess Cruise Ship anchored in Japan, well analysed by [Mizumoto and colleagues](#mizumoto).
+
+##### Observation
+* Covid-19 spread started between passengers and not equally between passengers and personal.
+* Very high peak values of the reproduction number are observed (over 10).
+##### Interpretation
+The observations indicate long range but same room transmission which favours aerosol over droplet transmission:
+* In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission.
+* Smoke diffuses entire rooms and stays quite long => spending much time in the same confined rooms is more relevant than interactions or being close but only for a short period. Therefor an initial spread in passengers is expected (if the initial spread starts in the passengers) since they spend the time in the same areas.
+* The reproduction number peak values are well above the number of close contacts a person usually has and so droplet transmission is unlikely.
+
+The observed spread patter even favour small or dry particulates over larger aerosol particulates, since for larger particles are more local spread would be excepted:
+* For 'large' aerosol transmission about an equal spread would be expected.
 
 
 ### Airplanes
 [**in work**]
-[Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes all studies the studies they reviewed. 
-Key points:
-* "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
-* For SARS-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no strong protection measures were in place. Both index cases were symptomatic. 
-* Since strong protection measures are in place only few transmissions have been observed. 
-* Protection measures in airplanes:
-  * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
-  * masks (mostly permanent but often meals are served)
-  * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
+* [Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes all studies the studies they reviewed. 
+  Key points:
+  * "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
+  * For SARS-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no adequate aerosol protection measures were in place. Both index cases were symptomatic. 
+  * Since strong protection measures are in place only few transmissions have been described. 
+  * Protection measures in airplanes:
+    * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
+    * Masks (mostly permanent but often meals are served)
+    * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
 
 #### Ventilation in Airplanes
 Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air flow is from top to bottom (and not anymore from front to back) [citations in work].
 
 
-### Large Scale Production Factories
+### Factories
 Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work].
 
-> Noteworthy that often food production factories are concerned. [To check whether they reuse filtered air and what temperature/humidity settings]
+#### Analysis Factories
+> Noteworthy that often food production factories are concerned. This could be due to low temperatures and no sunlight, in these settings the [virion survive long](../2_biological/_site/virion_viability.md).[To check whether they reuse filtered air and what temperature/humidity settings]
+
 
 ### Large Scale Sporting Events
 Large scale sporting events provided likely ground for ultra-spreading events. The evidence for this is currently based on:
@@ -237,24 +356,46 @@ Large scale sporting events provided likely ground for ultra-spreading events. T
 * Sport events settings (number of spectator and protections measures) and infected players and populations in the appendix: [Sport Events](#sport-events).
 
 
-> There's no proof yet as fare as I know. But evidence strong enough to **not allow spectators** anymore in Covid risk regions. Clarify the picture: Prevalence of Covid-19 in the spectators either through antigen/PCR (PCR: ideally whole genome sequencing to backtrace the transmission pathways) or by studying seroprevalence rates. 
+> October/November 2020: There's no proof yet as fare as I know. But evidence strong enough to **not allow spectators** anymore in Covid risk regions. Clarify the picture: Prevalence of Covid-19 in the spectators either through antigen/PCR (PCR: ideally whole genome sequencing to backtrace the transmission pathways) or by studying seroprevalence rates. 
 
 > In epidemiology too: *Exploring and trying combined with measurements, consideration and analyses help* to understand SARS-CoV-2 including its transmission. 
 
+
+## Other Viruses
+### Betacoronaviruses
+#### SARS-CoV-1
+* _Hotels_: Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in rooms on the same floor. Spread to personal was rarely observed.
+
+#### Mers-Cov:
+Most superspreading events were observed in winter and often in hospitals ([Dudas et al 2017](#dudas-2017)).
+
+### Alphacoronaviruses
+
+
+### Respiratory Viruses
+
+* Perez-Lopez et al analysed the effect of school closures on respiratory viruses. [Summary of Perez-Lopez et al](#summary-perez-lopez) and commented in the [Schools and children section](#schools-and-children).
+
 ---
+
+
 
 ## Population Characteristics
 Knowing how infectors are distributed, can help to fine-tune control measures. 
 
+
 ### Infector Distribution
-Contact tracing in Hong Kong revealed that [Adam et al](#summary-adamwu):
+Contact tracing in Hong Kong revealed that [Adam et al](#summary-adam,wu):
 * 20% of the cases induced 80% of infections
 * 10% of the cases induced 20% of infections
 * 70% of the cases induced no observed infections (despite most of them being not in 
 
+
 ### Infectors and Symptom Status
-> // Caveat: Most of the investigation were done early in 2020 when only few strains of SARS-CoV-2 may have been able to diminish the immune system enough to cause asymptomatic infections. Back then over 80% developed symptoms. 
-* [Adam et al](#summary-adamwu) found only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people.
+ Note: The strains prevalent during the time of investigation is relevant since coronaviruses can diminish or activate the immune system.
+ * In early 2020 over 80% developed symptoms.
+
+* [Adam et al](#summary-adam,wu) found in January through April in Hong Kong 2020 only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people.
 * The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
 * [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
 
@@ -267,7 +408,7 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 * [Dattner et al](#summary-dattner) observed that children are relative to adults
   * less susceptible 45% [40%, 55%]) 
   * somewhat less infectious 85% [65%, 110%])
-* [Madewell et al](#summary-madewell) find that children are only about half as likely to get infected in households compared to adults (spouses which are most likely to get infected)
+* [Madewell et al](#summary-madewell) find that children are only about half as likely to get infected in households compared to adults (spouses which are most likely to get infected and the adult infections are biased by relationship habits).
 * [Vlachos, Hertegard and Svaleryd](#summary-vlachossvaleryd) found that parents children in the 9th school year (open schools)had about the same incidence rate for Covid-19 as parents children in the 10th school year (closed school). If adjusted for factors such as age and occupation the risk was about 15% higher for being diagnosed with Covid-19 when the child went to open schools. // Comment: this indicate that other factors are more important than whether the children go to school. 
 * Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by densely populated rooms and the permanent use of air-conditioning [Summary Stein-Zamir](#summary-stein-zamir). 
 * [Ehrhardt et al](#summary-ehrhardtbrockmann) observed in Baden-Wuertenberg between 19 May to 28 July:
@@ -283,14 +424,20 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 [in work]
 References without a summary are in the section [References](#references). Copy & Paste citations are in "___". 
 
-### Comments on Spread Analysis
-* only when Covid prevalence is very low, infected household members directly indicate secondary attack rate [Comments at [Summary Madewell](#summary-madewell)]
+
+
+
 
 ### References Household Transmissions
+
+#### Comments on Household Transmissions
+* only when Covid prevalence is very low, infected household members directly indicate secondary attack rate. See also Comments at [Summary Madewell](#summary-madewell)].
+
 #### Summary Madewell
 **Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate**
 Zachary J. Madewell, Yang Yang, Ira M. Longini Jr, M. Elizabeth Halloran, Natalie E. Dean
 medRxiv preprint doi: [https://doi.org/10.1101/2020.07.29.20164590](), posted August 1, 2020.
+
 ##### Methods
 Meta-Analysis of studies regarding the transmission dynamics of Covid-19 in household settings. Many different kind of studies are included: * Covid diagnosis based on RT-PCR, whole-genome sequencing, nucleic acid tests, antibody tests and some studies included symptoms. 
 * The influence of the different factors (contact type, symptom status, adult/child contacts, contact sex, relationship to index case, index case sex, number of contacts in household, coronavirus) is analyzed.
@@ -311,7 +458,6 @@ Comparison with SARS-1 or MERS:
 * SARS-1: 0.06 (0.04)
 * MERS: 0.035 (0.035)
 
-
 > ##### Comment
 > Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for different household members are likely and thus inferring the secondary attack rate from the prevalence in household members overestimates the secondary attack rate. 
 
@@ -321,8 +467,10 @@ Comparison with SARS-1 or MERS:
 #### Summary Adam,Wu
 **Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
 Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs.3.rs-29548/v1]()
+
 ##### Methods
 "Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection."
+
 ##### Results
 * Distribution of Infectivity:
   * 20% of the cases induced 80% of infections
@@ -335,6 +483,7 @@ Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs
   * Government quarantine yielded no further infections (Fig.2)
 * "Of all cases confirmed in Hong Kong, 195 (18.8%, 195/1,038) were asymptomatic at confirmation (Supplementary Table 2) and, of these, most (83.1%, 162/195) were PCR-confirmed from 27 March onward" (Extended Data Fig.2)
 * Infections caused by pre-symptomatic infectors were rarely observed: "Seven instances of likely pre-symptomatic transmission were observed where onset of the infectee preceded that of the infector or occurred on the same day."
+
 ##### Limitations
 "These findings take advantage of the quality of case ascertainment and contact tracing data in Hong Kong, although some incompleteness in links between cases could potentially bias our estimates of transmission heterogeneity."
 
@@ -348,9 +497,11 @@ Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs
 **Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
 Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
 medRxiv preprint doi: https://doi.org/10.1101/2020.10.25.20219063
+
 ##### Methods
 [in work]
 The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
+
 ##### Findings
 [in work]
 * "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
@@ -363,10 +514,13 @@ The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequ
 #### Summary Ehrhardt,Brockmann
 **Transmission of SARS-CoV-2 in children aged 0 to 19 years in childcare facilities and schools after their reopening in May 2020**
 Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wagner-Wiening C , Eichner M , Brockmann SO . , Baden-Württemberg, Germany. Euro Surveill. 2020;25(36):pii=2001587. [https://doi.org/10.2807/1560-7917.ES.2020.25.36.2001587]()
+
 ##### Methods
-"We investigated data from severe acute respira- tory syndrome coronavirus 2 (SARS-CoV-2) infected 0–19year olds, who attended schools/childcare facili- ties, to assess their role in SARS-CoV-2 transmission after these establishments’ reopening in May 2020 in Baden-Württemberg, Germany."
+"We investigated data from severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infected 0–19year olds, who attended schools/childcare facilities, to assess their role in SARS-CoV-2 transmission after these establishments’ reopening in May 2020 in Baden-Württemberg, Germany."
+
 ##### School Setting
 50% Group Size: Yes, Cleaning of Surface: Yes, Regular Ventilation: Yes, Hygiene: Yes, Face Mask in Break: Some, Face Mask in Classroom: No, Physical Distancing: Some, No Singing: Most, Physical Education: No
+
 ##### Results
 * Infection by pupils
   1. Total of 557 Covid-19 cases in the age group 0-19 year out of a total of 3104 cases in Badenwuertenberg in the study period (19.5-25.7)
@@ -380,15 +534,18 @@ Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wag
 #### Summary Vlachos,Svaleryd
 **School closures and SARS-CoV-2. Evidence from Sweden’s partial school closure**
 Jonas Vlachos, Edvin Hertegard, Helena Svaleryd
+
 ##### Methods
 Remark: Working Paper
 * "Swedish upper secondary schools moved to online instruction while lower secondary school remained open. This allows for a comparison of parents and teachers differently exposed to open and closed schools, but otherwise facing similar conditions."
 * the incidence rates were adjusted using logistic regression for wage, sex, occupation, educational attainment, income, regions of residence and of origin. OLS was used too. 
+
 ##### Results
 * Comparison of Covid-19 incidences between parents with children in schools and homeschooling:
   * unadjusted the Covid incidence were near the same 5.67 versus 5.66 (Table 2)
   * adjusted the risk for parents with children in school was about 15% [OR 1.15; CI95 1.03–1.27] higher if adjusted with logistic regression(Table 1)
 * "Among lower secondary teachers the infection rate doubled relative to upper secondary teachers [OR 2.01; CI95 1.52–2.67]. This spilled over to the partners of lower secondary teachers who had a higher infection rate than their upper secondary counterparts [OR 1.30; CI95 1.00–1.68]."
+
 > ##### Comment
 > It is not clear that the observed slightly increased Covid incidence of parents/teachers of lower secondary school children results from transmission from the children, it could also be attributed to parents visiting the schools and a transmission between adults. 
 
@@ -396,14 +553,17 @@ Remark: Working Paper
 #### Summary Stein-Zamir
 **A large COVID-19 outbreak in a high school 10 days after schools’ reopening, Israel, May 2020.**
 Stein-Zamir Chen , Abramson Nitza , Shoob Hanna , Libal Erez , Bitan Menachem , Cardash Tanya , Cayam Refael , Miskin Ian .  Euro Surveill. 2020;25(29):pii=2001352. https://doi.org/10.2807/1560-7917.ES.2020.25.29.2001352
+
 ##### Methods
 Analyzing a large high school out break in Israel shortly after schools have been reopened. 
+
 ##### School Setting
 * From 13 March to 17 May Schools in Israel were closed (limited opening for small children on 3 May)
 * A heat wave with temperatures up to 40 degree from 19–21 May: 
   * "air-conditioning functioned continuously in all classes."
   * no face-masks
 * "crowded classes: 35–38 students per class, class area 39–49 m2, allowing 1.1–1.3 m2 per student"
+
 ##### Results
 * "Testing of the complete school community revealed 153 students (attack rate: 13.2%) and 25 staff members (attack rate: 16.6%) who were COVID-19 positive."
 * "COVID-19 rates were higher in junior grades (7–9) than in high grades (10–12) (Figure 1). The peak rates were observed in the 9th grade (20 cases in one class and 13 cases in two other classes) and the 7th grade (14 cases in one class). Of the cases in teachers, four taught all these four classes, two taught three of the four classes and one taught two of these four classes."
@@ -412,9 +572,11 @@ Analyzing a large high school out break in Israel shortly after schools have bee
 
 #### Summary Dattner
 **The role of children in the spread of COVID-19: Using household data from Bnei Brak, Israel, to estimate the relative susceptibility and infectivity of children**
+
 ##### Methods
 * "Data were collected from households in the city of Bnei Brak (City close to Tel Aviv), Israel, in which all household members were tested for COVID-19 using PCR."
-* The authors developed a model (discrete stochastic dynamic model) for the propagation of Covid within a household. With this model infectivity and susceptibility for children and adults can be estimated. 
+* The authors developed a model (discrete stochastic dynamic model) for the propagation of Covid within a household. With this model infectivity and susceptibility for children and adults can be estimated.
+ 
 ##### Findings
 * 44% of adults and 25% of children infected
 * infection risk increases with age (except children below 1 year compared to children between 1 and 4)
@@ -424,9 +586,11 @@ Analyzing a large high school out break in Israel shortly after schools have bee
 #### Summary Perez-Lopez
 **Dramatic decrease of laboratory‐ confirmed influenza A after school closure in response to COVID‐19**
 Perez‐Lopez A, Hasan M, Iqbal M, Janahi M, Roscoe D, Tang P.; Pediatric Pulmonology. 2020;1–2. [https://doi.org/10.1002/ppul.24933]()
+
 ##### Methods
 * "A proactive school closure was the first social distancing measure implemented by the State of Qatar on 10 March."
 * "Table 1 shows a comparison of the molecular detection of respiratory viruses other than SARS‐CoV‐2 on nasopharyngeal swabs from our PED per 1000 emergency visits before school closure, between 13 February and 14 March, assuming a maximum incubation period for influenza of 4 days, and after school closure, between 15 March and 11 April."
+
 ##### Results
 
 Virus tested| open schools|closed schools| RR (95% CI)
@@ -551,25 +715,25 @@ https://doi.org/10.1093/jtm/taaa178
 
 ### Epidemiological Patterns
     
-*  ##### le
-	The Lancet Editoral
-	**COVID-19: protecting health-care workers**
-	www.thelancet.com Vol 395 March 21, 2020
-	https://doi.org/10.1016/S0140-6736(20)30644-9 
+##### le
+The Lancet Editoral
+**COVID-19: protecting health-care workers**
+www.thelancet.com Vol 395 March 21, 2020
+https://doi.org/10.1016/S0140-6736(20)30644-9 
 
-*  ##### mizumoto 
-	Kenji Mizumoto, Gerardo Chowell
-    **Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
-	https://doi.org/10.1016/j.idm.2020.02.003
-    
-* ##### honein
-    Temet M. McMichael et al.
-    **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
-    This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+##### mizumoto 
+Kenji Mizumoto, Gerardo Chowell
+  **Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
+https://doi.org/10.1016/j.idm.2020.02.003
+  
+##### honein
+  Temet M. McMichael et al.
+  **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
+  This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
 
-* ##### lin
-    LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
-    **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054  
+##### lin
+  LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
+  **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054  
 
 ## Appendix
 
