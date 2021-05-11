@@ -62,7 +62,7 @@ The amount of exchanged air is high:
      * strains e.g. sports. For people where ther air exchanged is lowered (e.g. arteriosclerosis) already going up a staircase can be enough.
 2. Severe Covid-19 transmission is nearly exclusively observed in settings with dry air. Which can be heated, air-conditioned or dry outdoor air.
 3. In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 seem not to occur.
-4. In settings where fomite transmission is likely e.g. no water to wash hands, there is no evidence for transmissions of symptomatic Covid, neither populations based nor through backtracing.
+4. In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmissions of symptomatic Covid, neither populations based nor through contact-tracing (e.g. camping grounds, Take away food).
   
 The observation strongly indicate a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most.
 
