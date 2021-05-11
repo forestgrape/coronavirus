@@ -121,10 +121,12 @@ if S/m ratio intermediate or large -> stay in and move with the air =>
 
 In other words:
 The air humidity and the material a particles consists of determine whether 
-* particles shrink (evaporation is greater) or growth (condensation is greater)
+* particles 
+  * shrink (evaporation is greater) or growth (condensation is greater)
   * particles dry out below the efflorescence humidity
-  * particles growth that much they fall down
-  
+  * particles fall down if growth enough
+
+
 #### Comments
 * The humidity varies across the world and across the seasons
 * The material of an exhaled particle depends mainly on the source of the particle i.e. whether it is produced in the alveoli, bronchi, trachea, vocal folds, pharynx or mouth.
