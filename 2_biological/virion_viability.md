@@ -40,6 +40,8 @@
   * [References Temperature Viability of other Viruses](#references-temperature-viability-of-other-viruses)
   * [References Droplets and Influenza](#references-droplets-and-influenza)
   * [References UV](#references-uv)
+* [Appendix](#appendix)
+  * [Efflorescence Humidity](#efflorescence-humidity)
 
 
 > * **some parts are and marked as explorative**
@@ -92,8 +94,8 @@ Decay by biochemicals inactivate virions mainly from the outside by interacting 
 
 #### Summary Decay in Aerosols
 Virions exhaled in exhaled aerosol decay due to interactions with biochemicals in the respiratory fluids when the humidity is high enough the samples do *not* dry out. When the air is very dry the samples dry out and the decay is slower:
-* At an air humidity below the [efflorescence humidity](#efflorescent-humidity) (about 30% to 40%)): In dry air the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
-* At an air humidity just above the [efflorescence humidity](#efflorescent-humidity) (about 40% to 60%): The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
+* At an air humidity below the [efflorescence humidity](#efflorescence-humidity) (about 30% to 40%)): In dry air the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
+* At an air humidity just above the [efflorescence humidity](#efflorescence-humidity) (about 40% to 60%): The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
 * At an air humidity between 60% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
 * At an air humidity above the [condensation humidity] (about 95%): The droplet expand there size in humid environments. A faster decay rate is observed.
 
@@ -230,8 +232,8 @@ Evidence and explanation are provided, that the decay rates are highest in inter
 #### Observations and Interpretation
 The following pattern of decay rates is observed:
 
-1. __Low Humidities (below the efflorescence-point ~ about 40%):__ The decay rate is lowest in very dry settings since the samples dry out (salts and proteins crystallize which is called efflorescence) => no chemical reactions =>spike and envelope decay reduced) => decay mainly through [RNA self decay](#rna-self-decay). 
-2. __Intermediate Humidity (about 40-60%):__ The decay rate is highest in intermediate humidities (between 40 - 60%) above the efflorescent point: The droplets shrink, so that the [concentrations of physiological biochemicals](#concentration-changes) increase but the substances don't crystallize. => high spike and envelope loss of functionality through interactions with biochemicals.
+1. __Low Humidities (below the efflorescence humidity about 30% - 40%):__ The decay rate is lowest in very dry settings since the samples dry out (salts and proteins crystallize which is called efflorescence) => no chemical reactions =>spike and envelope decay reduced) => decay mainly through [RNA self decay](#rna-self-decay). 
+2. __Intermediate Humidity (about 40-60%):__ The decay rate is highest in intermediate humidities (between 40 - 60%) above the efflorescent humidity: The droplets shrink, so that the [concentrations of physiological biochemicals](#concentration-changes) increase but the substances don't crystallize. => high spike and envelope loss of functionality through interactions with biochemicals.
 3. __High Humidity (about 80-90%):__ The decay rate is lower than at intermediate humidities but higher than at very low humidities since the concentration of biochemicals is lower than at intermediate humidities but chemicals reaction take place and so higher than at dry settings.
 4. __Very High Humidity (above 90%):__ The decay rate increases. Likely because the particles starts to growth due to condensation which has the same effect as adding distilled water. Unlike influenza viruses, coronaviruses have an increased decay rate in distilled water [citations coming].
 
@@ -273,7 +275,7 @@ In praxis self decay occurs:
 #### Mechanisms and Rate
 Self decay happens primarily by RNA self decay up to around 45 degrees. Above 45 degrees the proteins start loosing functionality.
 
-The self decay rates are estimated from the settings with the lowest observed decay rates for a given temperature. The lowest rates are observed when the samples are either dried out (at relative humidities below the [efflorescent humidity](#efflorescent-humidity) or in favorable solvents (stabilizing media).
+The self decay rates are estimated from the settings with the lowest observed decay rates for a given temperature. The lowest rates are observed when the samples are either dried out (at relative humidities below the [efflorescence humidity](#efflorescence-humidity) or in favorable solvents (stabilizing media).
 
 ##### Until about 45 degrees: RNA Self Decay
 The primary self decay mechanism is RNA self decay. The rate of the RNA decay is similar across different RNA viruses [to check and cite].
@@ -828,3 +830,7 @@ J. R. Soc. Interface 16: 20180298. https://dx.doi.org/10.1098/rsif.2018.0298
 
 
 
+## Appendix
+
+### Efflorescence Humidity
+For a particle of a specific substance this is the humidity range where the substances (proteins and salts) crystallize out and are no longer solutes. Since the particles don't anymore move around within the solutions different reagents don't match which causes chemical reactions to reduce in speed and often to stop. -> [Efflorescence](../9_physics/aggregations_of_atoms.md#efflorescence) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md).
