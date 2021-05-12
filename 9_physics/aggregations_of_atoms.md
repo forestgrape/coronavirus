@@ -1,5 +1,5 @@
 
-# The Structure of Matter - Topics on Aggregations of Atoms
+# Topics on the Aggregations of Atoms -> Giving Matter Properties
 
 > in work, incomplete, some parts are explorative and need to be checked
 
