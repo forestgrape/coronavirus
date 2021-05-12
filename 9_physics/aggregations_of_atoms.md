@@ -1,5 +1,5 @@
 
-# Topics on the Aggregations of Atoms -> Giving Matter Properties
+# Aggregations of Atoms: Giving Matter Properties
 
 > in work, incomplete, some parts are explorative and need to be checked
 
