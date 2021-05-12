@@ -8,6 +8,9 @@
 ## Content
 * [Content](#content)
 * [Summary](#summary)
+  * [Summary Principles](#summary-principles)
+  * [Summary Evaporation and Condensation](#summary-evaporation-and-condensation)
+  * [Summary Efflorescence](#summary-efflorescence)
 * [Principles](#principles)
   * [Nuclear-Physical Topics](#nuclear-physical-topics)
   * [Chemical Topics](#chemical-topics)
@@ -19,13 +22,31 @@
 * [History and Relation of Biology, Chemistry and Physics](#history-and-relation-of-biology-chemistry-and-physics)
 
 ## Summary
+### Summary Principles
 Chemical elements achieve a stable electron configuration (octet rule (of thumb): usually 8 electrons on the outermost electron shell) by 
 * taking up electrons or giving electrons away => charged particles =: ions
 * sharing electrons => atoms coupled together by electron bonds =: chemical molecules
 
 Ions, chemical molecules and inert elements are denoted here as generalized molecules.
 
-Generalized molecules interact through intermolecular forces. These intermolecular forces determine how matter is arrange and what properties it has.
+Generalized molecules and particles built from them interact through intermolecular forces. These intermolecular forces determine how matter arranged and what properties it has.
+
+* Intermolecular forces inducing fixed positions give raise to solid bodies with a fixed shaped.
+* Intermolecular forces with constant distances give raise to fluids.
+* In absence of intermolecular forces matter is gaseous.
+
+Within a substance different intermolecular forces can act, especially when the substance consists of different materials. The intermolecular forces depend on the setting: temperature and all the substances present. 
+
+### Summary Evaporation and Condensation
+When the setting changes the intermolecular forces change, which results in transitions 
+* from solid<->liquid (freezing <- and melting ->)
+* liquid<->gaseous (condensation <- and evaporation ->)
+* solid<->gaseous (sublime ->). 
+
+### Summary Efflorescence
+For mixtures the different parts can be mixed in different ways or not mixed at all:
+* A is crystallized in liquid <-> A is a solute (crystallize = efflorescence <-, dissolve ->).
+* A is solid next to gas <-> A is gaseous in gas (sediment <-, -> aerosolize ->)
 
 ## Principles 
 ### Nuclear-Physical Topics
