@@ -158,9 +158,9 @@ Plants adapt the environment by different growing patterns.
 > // The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia article on tropism]
 
 ##### Tropism
-> *Tropism* denotes here how organisms growth subject to environmental influences. When a life form growths preferable in some settings, the life life form has a tropism for that setting.
+>> *Tropism* denotes here how organisms growth subject to environmental influences. When a life form growths preferable in some settings, the life life form has a tropism for that setting.
 
-> // Generalized here from the usages in virology and botany, given as examples.
+> Generalized from the usages in virology and botany, given as examples.
 
 #### Tropism in Botany
 In botany, tropism is used how plants growth subject to stimuli. 
@@ -174,7 +174,7 @@ In virology, tropism is used to describe locations where viruses replicate well.
 
 On this page, a virus has a tropism for a object if the virus has a noticeable effect on that object. Defined in the [tropism section](./viruses.md#tropism) in the virus chapter.
 * Coronaviruses replicate well in the respiratory tract, thus coronaviruses have a tropism for the respiratory tract.
-* SARS-CoV-2 infects type 1 pneumocytes cells, thus SARS-CoV-2 has a tropism for these cells.
+* SARS-CoV-2 infects type 1 pneumocytes, thus SARS-CoV-2 has a tropism for these cells.
 
 
 
