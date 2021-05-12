@@ -14,6 +14,8 @@
   * [Physical Topics](#physical-topics)
 * [Bindings give Matter Structure and State](#bindings-give-matter-structure-and-state)
 * [Changes in Binding Patterns](#changes-in-binding-patterns)
+  * [Condensation and Evaporation](#condensation-and-evaporation)
+  * [Efflorescence](#efflorescence)
 * [History and Relation of Biology, Chemistry and Physics](#history-and-relation-of-biology-chemistry-and-physics)
 
 ## Summary
@@ -127,7 +129,7 @@ Bindings can induce only locally constant positions which induces small solid pa
 
 ## Changes in Binding Patterns
 
-#### Evaporation
+### Condensation and Evaporation
 
 > ##### Evaporation Process
 > The process when molecules from a liquid escape the intramolecular binding to move into the gaseous phase.
@@ -149,7 +151,7 @@ At the condeva equilibrium the particles stay constant in size. For a given subs
 * If the relative humidity is above 100% the water condensates and near instant a relative humidity of 100% is reached.
 
 
-#### Efflorescence
+### Efflorescence
 
 > ##### Efflorescence Process
 > Efflorescence is the process when dissolved matter crystallizes. 
