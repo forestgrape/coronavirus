@@ -39,8 +39,8 @@ Generalized molecules interact through intermolecular forces. These intermolecul
 ### Chemical Topics
 > ##### Atom
 > An atomic core surrounded by electrons. 
-
-The number of protons determine how the forces on the electrons and thus the electron configurations. The arrangement of the electrons in turn determine how atoms interact, which is the core of chemistry. The electron number varies and in neutral charge it matches the number of protons. The atomic cores however can neither be broken nor be transformed by chemical reactions. Atoms with a specified proton number thus are the chemical elements:
+ 
+The number of electrons associated with an atom varies. In neutral charge it matches the number of protons. The atomic cores however can neither be broken nor be transformed through chemical reactions (by definition of chemical reactions). The number of protons determines how the forces on the electrons and thus the electron configurations. The possible electron configuration in turn determine how atoms react, which is the core of chemistry. Atoms with a specified proton number thus are called chemical elements:
 
 > ##### Chemical Element
 > An atom of a specified proton number or a aggregation of such atoms.
