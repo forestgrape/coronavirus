@@ -2,7 +2,7 @@
 **[in work]**
 * [Short Summary](#short-summary)
 * [Summary](#summary)
-  * [Finding: Covid transmits through Breathed Air](#finding-covid-transmits-through-breathed-air)
+  * [Summary Findings](#summary-findings)
   * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
   * [Summary Situation Analyses](#summary-situation-analyses)
   * [The Susceptibility and Infectiousness varies across People and depends on Biological Factors](#the-susceptibility-and-infectiousness-varies-across-people-and-depends-on-biological-factors)
@@ -52,7 +52,8 @@
 
 ## Summary
 
-### Finding: Covid transmits through Breathed Air
+### Summary Findings
+#### Covid transmits through Breathed Air
 1. Covid-19 transmission correlates to the amount of air people breadth from each other.
 The amount of exchanged air is high:
    * Indoors air with bad ventilation (either heated or air-conditioned) 
@@ -60,14 +61,26 @@ The amount of exchanged air is high:
      * being at low air pressure (either high altitude or airplane) 
      * vocal activities such as singing or shouting
      * strains e.g. sports. For people where ther air exchanged is lowered (e.g. arteriosclerosis) already going up a staircase can be enough.
-2. Severe Covid-19 transmission is nearly exclusively observed in settings with dry air. Which can be heated, air-conditioned or dry outdoor air.
 3. In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 seem not to occur.
 4. In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmissions of symptomatic Covid, neither populations based nor through contact-tracing (e.g. camping grounds, Take away food).
   
 The observation strongly indicate a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most.
 
-
 Regarding prevention measures relevant is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
+
+#### Dry Air => Many Severe Covid Cases
+* Many cases of severe Covid-19 are nearly exclusively observed in settings with dry air. Which can be heated, air-conditioned or dry outdoor air.
+* At relative air humidities above 50% indoors (and no air-conditioners running) severe Covid cases are rare but some cities such as Lagos in Nigeria have quite high seroprevalences. 
+
+Possible explanations: 
+* In dry air, the virion viability is higher and that dry particles stay longer in the air & have a higher lung deposition rate. 
+* In humid air the immune system in the respiratory tract works better and particles get deposited earlier in the respiratory tract where the immune system is better prepared to control SARS-2.
+
+#### Individual Differences and Immune System Preparedness
+* People with a adequate and in form immune system in the lung mostly get mild diseases and are much less infectious. These include young people and especially children for whom Covid is no more dangerous than common cold viruses and influenza.
+* People who been exposed to dirty air (smoking and/or air pollution), conducted unhealthy lifestyles such as few movement and severe obesity or just are of old age may fail to induce an adequate immune response and are thus at a much increased risk for severe Covid. 
+* Regarding transmission a failure of an adequate immune response together with a strong metabolism is especially risky.
+
 
 
 ### Summary Geographical Observations and Analyses
