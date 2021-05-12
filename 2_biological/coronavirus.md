@@ -12,7 +12,7 @@
   * [Coronavirus Proteins](#coronavirus-proteins)
 * [Capabilities](#capabilities)
   * [Enter Cells](#enter-cells)
-* [How Coronaviruses Behave and Growth](#how-coronaviruses-behave-and-growth)
+* [Behavior and Tropism of Coronaviruses](#behavior-and-tropism-of-coronaviruses)
   * [Cell Specific Behavior of Coronaviruses](#cell-specific-behavior-of-coronaviruses)
   * [Cell Specific Behavior of Sars-Cov-2](#cell-specific-behavior-of-sars-cov-2)
   * [Tropism](#tropism)
@@ -76,8 +76,8 @@ Virions have behave similar as seeds of plants: Travel and wait for the right co
 
 
 #### Virion Travel 
-Once released from a cell virions are moved by external forces ([movement-of-virions](../2_biological/motility.md)) until they are [activated](#behavior-virion-phase) to start the cell infection process.
-A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](../2_biological/motion.md#motion-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination.
+Once released from a cell virions are moved by external forces ([movement-of-virions](../2_biological/motility.md)) until they are [activated](#virion-priming) to start the cell infection process.
+A virion needs to reach possibly a host, the  location of the target cells (e.g. an organ), a specific cell and then it needs to be matched to a receptor on the cell membrane in the order of nanometers. All this without being able to move on its own and thus relying on [external movements](../2_biological/mobility.md#mobility-of-virions). The virion-target match can happen because the virion is moved to the target, the target is moved to the virion or a combination.
 
 The infectable cell can be:
 * in the same host or in another host
@@ -158,21 +158,16 @@ The spike proteins point spike-like out of the spherical virions. This gives cor
 
 
 
-
 ## Capabilities
 [in work]
+
 ### Enter Cells
 #### SARS-2 Cell Adhesion
 The cell adhesion receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
 
 
 
-## How Coronaviruses Behave and Growth
-
-> Behavior = Situation dependent metabolism including expression of proteins (possibly taxis is a suitable name -  generalizes the existing use of taxis as stiumulus induced movement)
-
-> Growth = How they growth as virus entity, where the [virus entity](../2_biological/viruses.md#virus-entity) is consists of the infected cells in an organism.
-<!--taxis and tropism-->
+## Behavior and Tropism of Coronaviruses
 
 ### Cell Specific Behavior of Coronaviruses
 
@@ -202,6 +197,8 @@ Viruses optimized to their environment usually only infect cells involved in the
 
 
 ### Tropism
+
+Tropism for viruses denotes the cells and tissues they preferable replicate i.e. when the population of viruses is viewed as a [virus entity](viruses.md#virus-entity) tropism denotes where the virus entity growths (-> defined on the [Viruses Page](viruses.md#tropism)).
 
 #### Tissue Tropism
 
