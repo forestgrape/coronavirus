@@ -136,6 +136,9 @@ In outdoors living vertebrate hosts, the infection course of a coronavirus entit
 
 
 ## Behavior of Viruses and Virus Entities
+
+> Behavior = Situation dependent metabolism including expression of proteins. Taxis is possibly a suitable name -  generalizes the existing use of taxis as stimulus induced movement)
+
 ### Behavior Virion Phase
 
 As described in the section [virion activation](#virion-priming) the virions need to be activated. The activation factors determine the behavior of virions:
@@ -199,14 +202,17 @@ The cell behavior is the combination of the [virion behavior](#behavior-virion-p
 
 ### Tropism of Viruses
 
-In virology tropism this is mostly used when virus are  growth found at some locations or replicate well in some cells (notes on [tropism usage](./life-forms.md#tropism-in-virology) in the chapter life form chapter). On this page, viral tropism is defined as follows:
+In virology, tropism is mostly used when viruses replicate well in some cells or tissues (notes on [tropism usage](./life-forms.md#tropism-in-virology) in the chapter life form chapter). On this page, viral tropism is defined as follows:
 
 ###### Tropism
-> A virus *has a tropism* for an object or a location if it is frequently detected in that object and it has a relevant effect. Specifically: 
-> * Cells which are frequently [infected](#infected-cell). 
-> * Tissues, organs or organisms that support the growth of virus entities or are influenced by infections by the virus.
+> A virus *has a tropism* for an object or a location if it is frequently infects an object. The tropism for a cell is called [Cell Tropism](#cell-tropism), [Tissue Tropism](#tissue-tropism) and [Organism or animal Tropism](#organisms-tropism).
 
-The tropism for a cell is called [Cell Tropism](#cell-tropism), [Tissue Tropism](#tissue-tropism) and [Organism or animal Tropism](#organisms-tropism).
+Examples:
+* Cells which are frequently [infected](#infected-cell). 
+* Tissues, organs or organisms that support the growth of virus entities or are influenced by infections by the virus.
+
+Tropism describes how virus entities growth, where the [virus entity](../2_biological/viruses.md#virus-entity) consists of the infected cells in an organism.
+
 
 
 ###### Cell Tropism
