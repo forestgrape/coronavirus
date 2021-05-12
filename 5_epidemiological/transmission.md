@@ -107,9 +107,11 @@ The larger droplets keep their name and are called droplets:
 
 ### The Fate of Particles in the Air
 
-> in work and in raw form. To be checked for correctness
+> in work and in raw form. To be checked for correctness.
 
-Those particles with a very small S/m ratio will just fall down. For particulates with a large or intermediate S/m ratio stay longer in the air and can be subject to condensation and evaporation.
+
+
+Those particles with a very small S/m ratio will just fall down. For particulates with a large or intermediate S/m ratio stay longer in the air and can be subject to condensation and evaporation. For a certain particle composition there exists a relative humidity at which the evaporation and condensation are in an equilibrium called condeva equilibrium (-> section [Evaporation and Condensation](../9_physics/aggregations_of_atoms.md#condensation-and-evaporation) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md))
 
 if S/m ratio small => fall down
 if S/m ratio intermediate or large -> stay in and move with the air =>
@@ -120,15 +122,13 @@ if S/m ratio intermediate or large -> stay in and move with the air =>
         if out of water =>  efflorescence
 
 In other words:
-The air humidity and the material a particles consists of determine whether 
-* particles 
-  * shrink (evaporation is greater) or growth (condensation is greater)
-  * particles dry out below the efflorescence humidity
-  * particles fall down if growth enough
+The air humidity and the material a particles consists of determine whether
+* particles shrink (evaporation is greater) or growth (condensation is greater)
+* particles dry out below the efflorescence humidity
+* particles fall down if growth enough
 
-
-#### Comments
-* The humidity varies across the world and across the seasons
+The particle composition depends on the source of exhaled particles while the air humidity depends on the locations/setting (e.g. whether heated or AC used):
+* The air humidity is related to the weather and (thus) varies across the world and across the seasons.
 * The material of an exhaled particle depends mainly on the source of the particle i.e. whether it is produced in the alveoli, bronchi, trachea, vocal folds, pharynx or mouth.
 
 
