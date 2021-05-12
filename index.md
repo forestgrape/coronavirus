@@ -8,35 +8,32 @@ home: true
 
 * [Recent Topics Added](#recent-topics-added)
 * [Recent Updates](#recent-updates)
+
+
+## Content (this page)
+* Content (this section)
+* [Bird View of Content](#bird-view-to-content): Content Overview
+* [Recent Topics Added](#recent-topics-added)
+* [Recent Updates](#recent-updates)
+* [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
+* [Content](#content). Content overview and twittering summaries.
+* [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
  
-## Bird View to Content
-This section overviews the content. The [full content section](#content) lists all the topics discussed and the links below point there.
+## Bird View of All Content
+This section overviews the content. The [full content section](#content) lists the topics discussed in more detail. The chapter links point there.
 
-0. Index (this page)
-  * Bird View of Content (this section)
-  * [Recent Topics Added](#recent-topics-added)
-  * [Recent Updates](#recent-updates)
-  * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
-  * [Content](#content). Content overview and twittering summaries.
-  * [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
-  
-1. [Introduction](#introductory-topics)
+1. Index (this page)
+2. [Introduction](#introductory-topics)
   * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
-  * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.
-  
+  * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.  
 2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
-
 3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
-
 4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
-
 5. [Epidemiological Topics](#epidemiological-topics): Where and when coronaviruses spread and how they spread (transmission paths).
-
 6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A reliable prevention with positive 'side-effects' is a healthy lifestyle.
-
 7. [Social Topics](#social-topics). Thoughts about measures to reduce the spread.
-
 8. [Data Topics](#data-topics).
+9. [Topics in Physics](#physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
 
 ---
 
@@ -47,7 +44,10 @@ This section overviews the content. The [full content section](#content) lists a
 
 
 ## Recent Updates
-- 12.5. (commits 27.4. through 12.5.) Bundling of spread analyses on the page [Spread Analyses](./5_epidemiological/spread_analyses.md). Previously partly scattered e.g. the Dry Form Model contained spread descriptions.
+- 12.5. (commits 27.4. through 12.5.) [Spread Analyses](./5_epidemiological/spread_analyses.md)
+  - Bundling of content (Previously spread analysis topics were partly scattered e.g. the Dry Form Model contained spread descriptions.) 
+  - Emphasized importance of good health (healthy lifestyles including sport and avoiding/reducing air pollution)
+  - Most severe Cases are observed in setting with dry air (heated, ACs or dry outdoor air).
 - 12.5. Many formulations and clarifications across the page. For clarity, all formulations (including comments) are not intended ambiguous and if they are it's by mistake. In face-to-face conversations ambiguity can work, but not on a page like this I realized. -> [Notes on Comments](#comments).
 - 27.4. Clarified Note [Comment on Comments](#comment-on-comments) and added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).
 - 25.4. Page coronaviruses separated into the pages:
@@ -77,6 +77,13 @@ This section overviews the content. The [full content section](#content) lists a
   * References are usually grouped by topic. If several topics apply, one is chosen.
 * _Formulations_
    Sometimes words are not weighted carefully or formulations are unclear e.g. ambiguous. Some formulation are general. Some are subjective and marked as [comments](#comments). Ambiguity is not intended (also commented in [comments](#comments)). Upon discovery, unfitting formulations are improve. Feedback is appreciated and questions welcome.
+* _Symbols_
+   '=' denotes equals or it has the meaning of
+   '=>' = implies; 
+   '->' = points to further content/explanations
+   'a := b' = a defines b
+   '&' := and <!--('&' has a higher precedence than 'and')-->
+
 
 *   > ###### Definitions
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
@@ -167,6 +174,10 @@ This section overviews the content. The [full content section](#content) lists a
 ### Data Topics
 * [Monitoring](8_data/monitoring.md)
     About testing, monitoring, gathering and publishing data.
+
+
+### Physical Topics
+* [Aggregation of Atoms](9_physics/aggregations_of_atoms.md). How atoms aggregate to form the different kinds of matter.
 
 
 ---
