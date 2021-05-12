@@ -171,9 +171,12 @@ Notes:
 
 
 <!--
+
 ## Biological Topics
 ### Break Points in Life Forms
-Life forms can loose viability either when the molecules themselves or their structure and arrangement are broken.-->
+Life forms can loose viability either when the molecules themselves or their structure and arrangement are broken.
+
+-->
 
 
 
