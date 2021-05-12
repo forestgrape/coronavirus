@@ -9,18 +9,18 @@ home: true
 
 ## Local Content (this page)
 * Local Content (this)
-* [Bird View of Content](#bird-view-of-all-content): Content Overview
+* [Bird View of Content](#bird-view-of-content): Content Overview
 * [Recent Topics Added](#recent-topics-added)
 * [Recent Updates](#recent-updates)
 * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
 * [Content](#content). Content overview and twittering summaries.
 * [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
  
-## Bird View of All Content
+## Bird View of Content
 This section overviews the content. The [full content section](#content) lists the topics discussed in more detail. The chapter links point there.
 
 * Index (this page)
-<!--formatting like this to number intro with 1.-->
+<!--formatting like this to number introduction with 1.-->
 
 1. [Introduction](#introductory-topics)
   * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
@@ -79,7 +79,7 @@ This section overviews the content. The [full content section](#content) lists t
    Sometimes words are not weighted carefully or formulations are unclear e.g. ambiguous. Some formulation are general. Some are subjective and marked as [comments](#comments). Ambiguity is not intended (also commented in [comments](#comments)). Upon discovery, unfitting formulations are improve. Feedback is appreciated and questions welcome.
 * _Symbols_
    '=' denotes equals or it has the meaning of
-   '=>' = implies; 
+   '=>' = implies
    '->' = points to further content/explanations
    'a := b' = a defines b
    '&' := and <!--('&' has a higher precedence than 'and')-->
