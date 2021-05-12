@@ -2,7 +2,7 @@
 
 # Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
 
-> Mostly written in April 2020, updates on todo since outdated and  sometimes wrong. Not all references correctly linked as of 24.3.21
+> Mostly written in April 2020, updates on todo since outdated and sometimes wrong. Not all references correctly linked as of 24.3.21
 
 > explorative section
 
