@@ -110,7 +110,6 @@ The larger droplets keep their name and are called droplets:
 > in work and in raw form. To be checked for correctness.
 
 
-
 Those particles with a very small S/m ratio will just fall down. For particulates with a large or intermediate S/m ratio stay longer in the air and can be subject to condensation and evaporation. For a certain particle composition there exists a relative humidity at which the evaporation and condensation are in an equilibrium called condeva equilibrium (-> section [Evaporation and Condensation](../9_physics/aggregations_of_atoms.md#condensation-and-evaporation) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md))
 
 if S/m ratio small => fall down
@@ -140,15 +139,15 @@ Watery droplets in the air that cannot be seen, are called aerosol since it look
 Model | Metaphor   | Actions | Source/Deposition | Situations/Climate| Prevent              
 ------|------------|---------|-------------------|-------------------|----------
 [droplets](#droplets)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, smells during cooking | Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
-[proposed dry form aerosol](../5_epidemiological/dry_form_transmission.md) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
+[aerosol](#aerosol)  | reek of alcohol, cooking steams| Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
+[proposed dry form aerosol](../5_epidemiological/dry_form_transmission.md) | soot of smoke, dust, smells   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
 
 
 #### Comments
 * In warm climates rooms can be ventilated well, which reliably reduces and if done right mostly prevents aerosol spread. Careless use of air-conditioning enables and enhances aerosol spread. 
-* Aerosol and dry form spread increases with the amount of indoor air exchanged. Especially when deep/heavy breathing.
+* Aerosol and dry form transmissions increase with the amount of indoor air exchanged. Especially when deep/heavy breathing.
 * The air humidity is relevant since: 
-  * droplets grow or shrink depending on the relative humidity.
+  * droplets grow or shrink depending on the relative humidity -> [Fate of Particles in the Air](#the-fate-of-particles-in-the-air)
   * The viability of coronaviruses is highest when dried ([Virion Viability](../2_biological/virion_viability.md)). 
 * The absolute humidity in the air is determined by the outside air temperature. Thus in heated indoor rooms the relative humidity is lower the cooler the outside temperature is.
 * The dry form model is proposed here.
