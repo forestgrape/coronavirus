@@ -6,13 +6,10 @@ home: true
 
 # Understanding Betacoronaviruses and their Diseases
 
-* [Recent Topics Added](#recent-topics-added)
-* [Recent Updates](#recent-updates)
 
-
-## Content (this page)
-* Content (this section)
-* [Bird View of Content](#bird-view-to-content): Content Overview
+## Local Content (this page)
+* Local Content (this)
+* [Bird View of Content](#bird-view-of-all-content): Content Overview
 * [Recent Topics Added](#recent-topics-added)
 * [Recent Updates](#recent-updates)
 * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
@@ -22,10 +19,13 @@ home: true
 ## Bird View of All Content
 This section overviews the content. The [full content section](#content) lists the topics discussed in more detail. The chapter links point there.
 
-1. Index (this page)
-2. [Introduction](#introductory-topics)
+* Index (this page)
+<!--formatting like this to number intro with 1.-->
+
+1. [Introduction](#introductory-topics)
   * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
-  * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.  
+  * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.
+
 2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
 3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
 4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
@@ -33,7 +33,7 @@ This section overviews the content. The [full content section](#content) lists t
 6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A reliable prevention with positive 'side-effects' is a healthy lifestyle.
 7. [Social Topics](#social-topics). Thoughts about measures to reduce the spread.
 8. [Data Topics](#data-topics).
-9. [Topics in Physics](#physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
+9.  [Topics in Physics](#physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
 
 ---
 
