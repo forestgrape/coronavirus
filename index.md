@@ -41,18 +41,21 @@ This section overviews the content. The [full content section](#content) lists a
 ---
 
 ## Recent Topics Added
+- 12.5. New page on the [aggregation of atoms](../coronavirus/9_physics/aggregations_of_atoms.md) in online work to provide context to topics such as condensation & evaporation and efflorescence.
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
 - 23.3. Proposal of [Local Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
 
 
 ## Recent Updates
+- 12.5. (commits 27.4. through 12.5.) Bundling of spread analyses on the page [Spread Analyses](./5_epidemiological/spread_analyses.md). Previously partly scattered e.g. the Dry Form Model contained spread descriptions.
+- 12.5. Many formulations and clarifications across the page. For clarity, all formulations (including comments) are not intended ambiguous and if they are it's by mistake. In face-to-face conversations ambiguity can work, but not on a page like this I realized. -> [Notes on Comments](#comments).
 - 27.4. Clarified Note [Comment on Comments](#comment-on-comments) and added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).
 - 25.4. Page coronaviruses separated into the pages:
   - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
   - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do.
   - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
   - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
-* go to [full update history](./1_introduction/update_history.md)
+* [-> Full Update History](./1_introduction/update_history.md)
 
 
 
@@ -73,16 +76,17 @@ This section overviews the content. The [full content section](#content) lists a
   * The references are named by the first author. (In the beginning of this work sometimes references were named by the correspondence author or a descriptive tag).
   * References are usually grouped by topic. If several topics apply, one is chosen.
 * _Formulations_
-   Sometimes words are not weighted carefully or formulations are unclear e.g. ambiguous. If not formatted as comment/subjective remark, ambiguity is unintentional. Upon discovery, unfitting formulations are improve. Feedback is appreciated and questions welcome.
+   Sometimes words are not weighted carefully or formulations are unclear e.g. ambiguous. Some formulation are general. Some are subjective and marked as [comments](#comments). Ambiguity is not intended (also commented in [comments](#comments)). Upon discovery, unfitting formulations are improve. Feedback is appreciated and questions welcome.
 
 *   > ###### Definitions
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
 *   > ###### Comments
-    > *Comments*, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content. Some comments are general but ambiguity is not indented (in early versions some formulations were to some extent ambiguous but these are changed since errata can occur.)
-
-    ##### Comment on Comments
-    > Sometimes subjective comments and off topic comments are added. One reason for subjective comments is transparency and background for the mindset behind suggestions. 
+    > * _Comments_, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
+    > 
+    > * _Off Topic Remarks:_ Sometimes subjective off topic remarks are added. One reason for subjective off-topic remarks is transparency and background for the mindset behind suggestions. 
+    >
+    > * _No ambiguity:_ Some comments are general but ambiguity is not indented. The reason is clarity. (In the beginning, a few comments were ambiguous but this is not intended anymore, since it possibly opened doors for unintended interpretations. I excuse for that.)
     
     > ##### Mindset in short
     > * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.*
