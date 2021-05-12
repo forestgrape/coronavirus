@@ -1,18 +1,18 @@
 
-# Motion of Life Forms
+# Mobility of Life Forms
 
 > in early work
 
 > currently only a section about virions
   
 
-* [Motion of Virions](#motion-of-virions)
+* [Mobility of Virions](#mobility-of-virions)
   * [Swim with the Tide](#swim-with-the-tide)
   * [Movement within a Host](#movement-within-a-host)
   * [Movement between hosts](#movement-between-hosts)
   * [Travel Probabilities](#travel-probabilities)
 
-## Motion of Virions
+## Mobility of Virions
 
 > in work and to be extended, April 2021 
 
