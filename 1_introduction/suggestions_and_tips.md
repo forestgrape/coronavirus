@@ -63,36 +63,37 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
     Distancing reduces infection risk.
 
 * ### No Dry Air
-  Dry air increases the transmission of coronaviruses since:
-     * In dry air, both dust and viruses stay longer in the air. 
-     * Viruses survive better in dry air. 
-     * Dry air reduces the defences of the respiratory tract against pathogens. 
+    Dry air increases the transmission of coronaviruses since:
+     * In dry air, both dust and particles with viruses stay longer in the air.
+     * Viruses survive better in dry air.
+     * Dry air increases the chance that a virus infection starts in the lungs, where it is most severe.
+     * Dry air reduces the defences of the respiratory tract against pathogens.
     
     In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. If the outside air is warm and dry the windows should be open always.
 
 * ### Hygiene
     Keep proper hygiene. Especially wash hands before eating and after toilet. Soap destroys coronaviruses. Hygiene is important because:
-    * Transmission pathways of Covid-19 are still unclear. So just avoid them all. 
-    * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet. 
-    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.    
+    * Transmission pathways of Covid-19 are still unclear. So just avoid them all.
+    * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet.
+    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.
 
     But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](../5_epidemiological/transmission.md).
 
 * ### Transport
   * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
-  * Public transport: Masks, distance if possible and ventilation
+  * Public transport: Masks, distance if possible and ventilation.
 
 
 
 ## Observing - helps to Detect Infections
 Observe the body, write down the observations and if possible measure.
-The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease. 
+The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease.
 
 * Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
 * The precaution measures against Covid-19 protect against all respiratory diseases, so all respiratory diseases are reduced. Common colds are not common right now. So respiratory symptoms means being careful and even can mean figuring out all the people one could have infected and informing them to watch for symptoms.
 * Every morning first smell and then taste your favorite breakfast drink.  
-* Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](../3_medical/covid19.md#symptoms). 
-Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements. 
+* Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](../3_medical/covid19.md#symptoms).
+Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements.
 
     > It's time [for medicine] to move on from digitalization schemes to the continuous color-space of statistics. There's no hard border for fever at 37.5 or at 38 degrees.
 
@@ -113,11 +114,12 @@ Keeping benefits and risks in mind:
 ## Respect and Take Care 
 > *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
 
-[*in rework: overall cases should be lower in cold season, since self protection is more difficult due to aerosol transmission (high filtration mask are possibly needed but these are (still) only limited available).*]
 Respecting others having a different view of Covid yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
 
 * Precautions/Protection measures in place in public spaces which everybody needs to use. 
 * In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Depending on the epidemiological situation protections measures can be community/local decisions. E.g. universities provide both on campus and off campus studying.
+
+Note: overall cases need to be kept lower in cold season, since self protection is more difficult due to aerosol transmission (good fitting high filtration mask are likely needed).
 
 > ### Communities and Societies Rules
 > Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
