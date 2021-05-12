@@ -54,7 +54,7 @@ This section overviews the content. The [full content section](#content) lists t
   - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
   - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do.
   - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
-  - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
+  - [Motion](./2_biological/mobility.md) How life form move or get moved to cross distances.
 * [-> Full Update History](./1_introduction/update_history.md)
 
 
@@ -122,7 +122,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 ### Biological Topics
 - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
-  - [Motion](./2_biological/motion.md) How life form move or get moved to cross distances.
+  - [Motion](./2_biological/mobility.md) How life form move or get moved to cross distances.
 - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do. Viruses are defined as life forms which are dependent on extern enzymes. Aspects such as life cycle and behavior are discussed.
   - [Virion Viability](./2_biological/virion_viability.md)
     * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
