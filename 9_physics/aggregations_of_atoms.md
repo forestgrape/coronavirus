@@ -23,13 +23,11 @@
 
 ## Summary
 ### Summary Principles
-Chemical elements achieve a stable electron configuration (octet rule (of thumb): usually 8 electrons on the outermost electron shell) by 
+Atoms are specified by their core called atomic core. The atomic core consists of protons and neutrons. The atomic cores can be changed through chemical reactions and the protons determine the electron configuration. Atoms achieve a stable electron configuration (octet rule [of thumb]: usually 8 electrons on the outermost electron shell) by 
 * taking up electrons or giving electrons away => charged particles =: ions
-* sharing electrons => atoms coupled together by electron bonds =: chemical molecules
+* sharing electrons => atoms coupled together by electron bonds =: molecules
 
-Ions, chemical molecules and inert elements are denoted here as generalized molecules.
-
-Generalized molecules and particles built from them interact through intermolecular forces. These intermolecular forces determine how matter arranged and what properties it has.
+Molecules, ions and inert elements are called here physical elements. These and tiny particles built from them interact through intermolecular forces. These intermolecular forces determine how matter arranged and what properties it has.
 
 * Intermolecular forces inducing fixed positions give raise to solid bodies with a fixed shaped.
 * Intermolecular forces with constant distances give raise to fluids.
@@ -38,17 +36,20 @@ Generalized molecules and particles built from them interact through intermolecu
 Within a substance different intermolecular forces can act, especially when the substance consists of different materials. The intermolecular forces depend on the setting: temperature and all the substances present. 
 
 ### Summary Evaporation and Condensation
-When the setting changes the intermolecular forces change, which results in transitions 
-* from solid<->liquid (freezing <- and melting ->)
-* liquid<->gaseous (condensation <- and evaporation ->)
-* solid<->gaseous (sublime ->). 
+Changes in the temperature or the mixture of substances influence the intermolecular forces, which can result in state transitions:
+* solid <---> liquid (freezing <- and melting ->)
+* liquid <---> gaseous (condensation <- and evaporation ->)
+* solid <---> gaseous (sublime ->)
 
 ### Summary Efflorescence
 For mixtures the different parts can be mixed in different ways or not mixed at all:
-* A is crystallized in liquid <-> A is a solute (crystallize = efflorescence <-, dissolve ->).
-* A is solid next to gas <-> A is gaseous in gas (sediment <-, -> aerosolize ->)
+* crystallized in liquid <---> solute in liquid (crystallize = become efflorescent <-, dissolve ->).
+* solid next to gas <---> gas-like in gas (sediment <-, -> aerosolize ->)
+
+
 
 ## Principles 
+
 ### Nuclear-Physical Topics
 
 > ##### Atomic Core
@@ -113,25 +114,20 @@ Generalized molecules can be charged in two ways:
 
 
 
-
-
 ## Bindings give Matter Structure and State
 
 > in work and incomplete and explorative
 
 #### Bindings induce Constant Positions
 The atoms can *not* move respect to each other without breaking the bindings.
-
 -> Solid matter
 
 #### Bindings induce Constant Distances
 Generalized molecules interact through intramolecular forces (which are minimized at a certain distance). The average distance between molecules is constant but the molecules move freely  with respect to each other.
-
 -> Liquid
 
 #### No Bindings
 Generalized molecules fly around freely and only interact upon collision.
-
 -> Gas
 
 #### Mixed Bindings
