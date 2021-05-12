@@ -33,7 +33,7 @@ This section overviews the content. The [full content section](#content) lists t
 6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A reliable prevention with positive 'side-effects' is a healthy lifestyle.
 7. [Social Topics](#social-topics). Thoughts about measures to reduce the spread.
 8. [Data Topics](#data-topics).
-9.  [Topics in Physics](#physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
+9. [Topics in Physics](#physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
 
 ---
 
