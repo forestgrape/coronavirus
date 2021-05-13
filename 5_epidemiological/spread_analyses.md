@@ -6,7 +6,12 @@
   * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
   * [Summary Situation Analyses](#summary-situation-analyses)
   * [The Susceptibility and Infectiousness varies across People and depends on Biological Factors](#the-susceptibility-and-infectiousness-varies-across-people-and-depends-on-biological-factors)
-* [Geographical Observations and Analyses](#geographical-observations-and-analyses)
+* [Geographical Observations](#geographical-observations)
+  * [South Americas](#south-americas)
+  * [USA](#usa)
+  * [Europe](#europe)
+  * [India](#india)
+* [Geographical Analyses](#geographical-analyses)
   * [Conditions which Favour Shared Indoor Air](#conditions-which-favour-shared-indoor-air)
   * [Air Humidity](#air-humidity)
   * [Dirty Air Exposure](#dirty-air-exposure)
@@ -87,12 +92,12 @@ Possible explanations:
 
 #### Geographical Settings with Increased Spread of Severe Covid
 Covid-19 waves across the world are predated by uncomfortable climate conditions:
-* Cold temperatures below 15 degrees during the day and below 10 degrees at night => indoor heating => dry indoor and often badly ventilated air
-* Hot outdoor air temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). => indoor air is recirculated and additionally ACs reduce the humidity (often below the )
-* Very dry outdoor air at moderate temperatures. Especially in setting when people stay indoors e.g. in cities and additionally with stay at home orders.
+* _Cold Outdoors:_ Cold temperatures below 15 degrees during the day and below 10 degrees at night => indoor heating => dry indoor and often badly ventilated air
+* _Hot & Rich:_ Hot outdoor air temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). => indoor air is recirculated and additionally ACs reduce the humidity (often below the )
+* _Very Dry Air:_ Very dry outdoor air at moderate temperatures or high temperatures: Middle East (where also MERS spreads in the dry air indoor air), Northern India close to the foothills of the Himalaya (e.g. Delhi, Uttarakhand, Chandigarh).
 
 #### Geographical Settings with Mainly Mild Covid
-* High absolute humidity of outdoor air but no air-conditioners and dense living conditions. Examples: Coastal india during seasons with winds from the sea, Lagos in Nigeria, Indonesia.
+* High absolute humidity of outdoor air but no air-conditioners and dense living conditions. Examples: Coastal india (except tourism regions in the South like Goa and Puducherry where ACs are likely widespread), Lagos in Nigeria, Indonesia.
 
 #### Geographical Settings with Few Spread 
 * Climate with favour ventilation and being outdoors. E.g. rural regions around the world as long as the outdoor temperatures are don't motivate indoor heating.
@@ -121,7 +126,43 @@ The susceptibility and infectiousness are correlated and depend on factors such 
 
 ---
 
-## Geographical Observations and Analyses
+## Geographical Observations
+> entire section in work and incomplete
+
+### South Americas
+#### Peru
+* Spring 2020:
+    Measures: General Curfew implemented quite early in Spring 2020.
+    Covid Cases: Very high number of severe cases and many deaths.
+
+#### Brazil
+Spring 2020:
+
+
+### USA
+* Spring 2020:
+  * Strict measures in many areas
+  * High number of severe cases in densely populated areas in the North (e.g. New York)
+* Summer 2020: Moderate to high number of severe cases in the urban centres of the Sun Belt.
+* Autumn 2020: High number of severe cases starting where the winter comes first: Central North and Colorado.
+* Winter 2020: High case numbers in many states (less severe cases where the winter is warmer)
+
+
+### Europe
+> in work
+
+
+### India
+> in work
+#### Spring 2021
+* High number of severe cases close to the foothills of the Himalaya in urban centres such as Delhi and Chandigarh. These cities have very dry air in the spring season due to katabatic winds from the Himalaya which is still snow covered in Spring (especially in the March, April).
+* High number of severe cases in the tourism regions in the South such as Goa or Puducherry.  These regions have warm and humid climate in the Spring often due to South winds. Due to tourism air-conditioning is likely widespread (tourism brings culture, technology and money).
+
+
+
+
+
+## Geographical Analyses
 
 > **in rework**, May 2021
 
@@ -169,8 +210,8 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 
 ##### Humid Indoor Air
 The indoor air is humid if the outdoor air is humid and no air-conditioners (or dehumidifiers)are used.
-* There have been increases in Covid deaths in settings where humid indoor is possible due to humid and warm outside air, but mostly in regions where air-conditioners are frequently used (e.g. Large cities in Brazil nearly year round, Cities in Southern US summer 2020).
-* In regions where AC are less prevalent and the air keeps humidity indoors combined with dense living conditions (e.g. Indonesia, Lagos in Nigeria, suburbs of coastal India): High prevalence of Covid-19 has been detected but mainly mild cases with very low fatality rates.
+* There have been increases in Covid deaths in settings where humid indoor is possible due to humid and warm outside air, but mostly in regions where air-conditioners are frequently used (e.g. Large cities in Northern Brazil nearly year round, South Brazil in Summer, Cities in Southern US summer 2020, Tourism Regions in Southern India Gao). Gao
+* In regions where AC are less prevalent and the air keeps humidity indoors combined with dense living conditions (e.g. Indonesia, Lagos in Nigeria, large cities (e.g. Mumbai) of coastal India): High prevalence of Covid-19 has been detected but mainly mild cases with very low fatality rates.
 
 #### Interpretations of Air Humidity
 Air humidity is relevant in theory since:
@@ -183,8 +224,6 @@ Air humidity is relevant in theory since:
 
 
 
-
-
 ### Dirty Air Exposure
 > in work
 #### Air Pollution
@@ -194,7 +233,7 @@ _Through Air Pollution_: Examples (in decreasing order, source: estimates from w
 _Through Smoking_: Smokers and Ex-Smokers. 
 * Ex-smokers have a higher risk for severe risk than never smokers.
 
-> There is some evidence that current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be attributed possibly toxic environment changes in the lung caused by smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
+> Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be attributed (possibly toxic) environment changes in the lung caused by smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
 
 ### Lifestyles
 #### Overweight
@@ -207,7 +246,7 @@ Countries with high rates of obesity tend to have much more severe cases than co
 High rates of obesity (in decreasing order, source: obesity.procon.org):
 US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
 
-Few obesity: Viet Nam, Bangladesh, India, Nepal, Japan
+Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
 
 ##### Interpretation
 > One reason is that obesity increases the risk for severe Covid. But the increases seems to occur also in people which are no obese [to check and cite/provide evidence].
@@ -261,7 +300,6 @@ Infectious disease wave through the clusters until there's no more ground to nou
 
 ### Living Conditions
 
-
 #### Living Space
 People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
 * [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
@@ -273,8 +311,8 @@ Across the world regions and communities with a large share of people living in 
 * In Eastern Europa, where the share of residential blocks built in the 60s through 80s is high, Covid case rates where high during the winter 20/21.
 * In the Lombardy the share of people living in residential blocks is high. Severe Covid rate were very high in late Winter 2020 and still quite high in Winter 2021.
 
+
 ### Income
-> in work and to cite/analyse.
 
 #### Income Effects within Cities
 In some cities in Western Europe (e.g. in Basel, Stockholm -> [References Living Space](#living-space)), a negative correlation between income and Covid cases is observed within 'commuting areas' i.e. analyzing only areas within commuting distances. Within commuting/catchment areas  the income usually is correlated to the [living space](#living-space), which is possibly a founding cause. Also jobs which require physical presence in large buildings (e.g. fabrics) tend to have low wages.
@@ -828,4 +866,9 @@ Round 19: 1-3 Jan - 984 tested, with 12 being positive.
 Round 20: 4-10 Jan - 2,593 tested, with 36 being positive. 
 Round 21: 11-17 Jan - 3,115 tested, with 16 being positive. 
 "
+
+
+
+
+
 
