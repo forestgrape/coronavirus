@@ -53,9 +53,9 @@
 
 
 ## Short Summary Virion Viability
-The decay of coronavirus virions is driven by different mechanisms in different situations. The halflife times ranges from seconds for disinfectants to weeks in dry and cool air:
+The decay of coronavirus virions is driven by different mechanisms in different situations. The halflife times ranges from seconds for disinfectants to weeks in dry and cool air.
 
-Selected situations grouped by the halflifetimes of the virion decay:
+Selected situations grouped by the halflifetimes:
 * Halflifetime below a minute
   * Disinfectants
   * Temperatures above 70 degrees
@@ -63,10 +63,14 @@ Selected situations grouped by the halflifetimes of the virion decay:
   * Sunlight
   * Temperatures above 50 degrees
 * Halflifetime a couple of  hours
-  * In respiratory tract fluids such as mucus/saliva or on the skin (which all have some antiviral activity) at room temperature or above as long as the samples are not dried out.
-  * Lower Respiratory Tract at 37 degrees
+  * In respiratory tract fluids such as mucus/saliva or on the skin (which all have some antiviral activity) at room temperature as long as the samples are not dried out.
+  * Lower Respiratory Tract at 37 degrees.
 * Halflifetime half a day or more
-  * Dried samples or single virions at or below room temperatures
+  * Dried samples or single virions at or below room temperatures.
+
+The halflifetimes are temperature dependent: 
+* Between 0 and 45 degrees the halflifetime halve with about every 5 degrees temperature increase. 
+* Above 45 degrees, the halflifetimes halve about every 2 degrees temperature increase.
 
 
 
