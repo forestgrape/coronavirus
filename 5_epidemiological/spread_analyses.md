@@ -6,12 +6,12 @@
   * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
   * [Summary Situation Analyses](#summary-situation-analyses)
   * [The Susceptibility and Infectiousness varies across People and depends on Biological Factors](#the-susceptibility-and-infectiousness-varies-across-people-and-depends-on-biological-factors)
-* [Geographical Observations](#geographical-observations)
+* [Geographical Observations and Analyses](#geographical-observations-and-analyses)
   * [South Americas](#south-americas)
   * [USA](#usa)
   * [Europe](#europe)
   * [India](#india)
-* [Geographical Analyses](#geographical-analyses)
+* [Findings from Geographical Analyses](#findings-from-geographical-analyses)
   * [Conditions which Favour Shared Indoor Air](#conditions-which-favour-shared-indoor-air)
   * [Air Humidity](#air-humidity)
   * [Dirty Air Exposure](#dirty-air-exposure)
@@ -126,17 +126,38 @@ The susceptibility and infectiousness are correlated and depend on factors such 
 
 ---
 
-## Geographical Observations
+## Geographical Observations and Analyses
 > entire section in work and incomplete
 
+For regions across the world the following is analysed:
+* Covid-19 cases and deaths to find Covid-waves i.e. time spans with increased spread
+* geographical, climate and social situations including measures to flatten/prevent Covid 
+  * while cases increase i.e. during the Covid-19 waves 
+  * while Covid-19 decrease or stay low despite having a relevant population of possible Covid spreaders (the spread in regions with very low case count where contact tracing can work, behave differently and will be analysed in future)
+
+
 ### South Americas
-#### Peru
-* Spring 2020:
-    Measures: General Curfew implemented quite early in Spring 2020.
-    Covid Cases: Very high number of severe cases and many deaths.
+#### Observations Spring 2020
+Most countries in South Americas recorded many cases, a notable exception is Uruguay with very few cases and only a couple of deaths. The geographic and social situation are hugely different across the Continent. 
+All countries provided programs for financial support and additionally:
+- Nationwide Quarantines: Argentina, Bolivia, Columbia, Ecuador, Peru, Chile[to Check]
+- Stay at home recommendation: Uruguay
+- No/few nationwide rules: Brazil
+
+#### Argentina
 
 #### Brazil
-Spring 2020:
+* High death rate in the district of the capital Brasilia.
+* Manaus in where the climate is year round tropical with hot and humid air, had
+
+#### Peru
+##### June-August 2020
+Measures: General Curfew implemented quite early in Spring 2020.
+Covid Cases: Very high number of severe cases and many deaths.
+Possible Causes: 
+* Many cities in central Peru have dry air due to katabatic winds from the Andes.
+* Dense living conditions including large residential blocks in the capital Lima.
+
 
 
 ### USA
@@ -155,14 +176,14 @@ Spring 2020:
 ### India
 > in work
 #### Spring 2021
-* High number of severe cases close to the foothills of the Himalaya in urban centres such as Delhi and Chandigarh. These cities have very dry air in the spring season due to katabatic winds from the Himalaya which is still snow covered in Spring (especially in the March, April).
+* High number of severe cases in urban centres close to the foothills of the Himalaya such as Delhi and Chandigarh. These cities have very dry air in the spring season due to katabatic winds from the Himalaya which is still snow covered in Spring (especially in the March, April).
 * High number of severe cases in the tourism regions in the South such as Goa or Puducherry.  These regions have warm and humid climate in the Spring often due to South winds. Due to tourism air-conditioning is likely widespread (tourism brings culture, technology and money).
 
 
 
 
 
-## Geographical Analyses
+## Findings from Geographical Analyses
 
 > **in rework**, May 2021
 
@@ -251,31 +272,6 @@ Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
 ##### Interpretation
 > One reason is that obesity increases the risk for severe Covid. But the increases seems to occur also in people which are no obese [to check and cite/provide evidence].
 
-
-
-
-<!--
-For regions across the world the following is analysed:
-* Covid-19 cases and deaths to find Covid-waves i.e. time spans with increased spread
-* geographical, climate and social situations including measures to flatten/prevent Covid 
-  * while cases increase i.e. during the Covid-19 waves 
-  * while Covid-19 decrease or stay low despite having a relevant population of possible Covid spreaders (the spread in regions with very low case count where contact tracing can work, behave differently and will be analysed in future)
-
-
-
-### Spread Analyses in South Americas
-Most countries in South Americas recorded many cases, a notable exception is Uruguay with very few cases and only a couple of deaths. The geographic and social situation are hugely different across the Continent. 
-All countries provided programs for financial support and additionally:
-- Nationwide Quarantines: Argentina, Bolivia, Columbia, Ecuador, Peru, Chile[to Check]
-- Stay at home recommendation: Uruguay
-- No/few nationwide rules: Brazil 
-
-### Argentina
-
-### Brazil
-* The Death Rate is highest in the gov district in capital Brasilia
-* the 
--->
 
 ### Cities versus Rural
 A main distinguishing feature between rural and cities is that in rural areas people are segregated by geographical distance (corresponding a lower population density over entire regions) and thus the time to travel while in cities people tend to be segregated by social factors such as interest/jobs/hobbies/age/world views. The distance separation induces well defined clusters (villages). Social factors yield clusters to but the borders are softer and the clusters are different for each social factor. 
