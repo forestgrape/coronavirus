@@ -50,10 +50,10 @@
 
 
 ## Short Summary
-[Situations where high rates of Covid-19 transmission](#spread-situations) are observed or *not* observed are described. Key findings:
+Situations where high rates of Covid-19 transmission are observed or *not* observed are described. Key findings:
 * High transmission rates of severe Covid are observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without good ventilation, in crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing). 
 * Most severe cases and high fatality rates are observed in dry air. The air is dry when heating, air-conditioning or the outdoor air is dry.
-* High fatality rates are mostly in regions where many are obese and/or exposed to polluted air.
+* High fatality rates are associated to unhealthy lifestyles (e.g. obesity and polluted air).
 
 
 
