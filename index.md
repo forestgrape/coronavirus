@@ -44,12 +44,21 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ## Recent Updates
+- 16.5. (commits 13.5. through 16.5.)
+  - [Spread analyses](./5_epidemiological/spread_analyses.md): Added per regions analyses e.g. in Europe, US, India.
+  - Masks: Added ['Tips & Tricks'](./6_prevention_and_treatment/masks.md#tips-&-tricks) section and added fold type mask to personal mask preferences.
+  - Clarified [controlling page](./7_social/controlling.md).
+  - Some notes about deliquescence and clarifications on the [atom aggregation page](./9_physics/aggregations_of_atoms.md).
+
 - 12.5. (commits 27.4. through 12.5.) [Spread Analyses](./5_epidemiological/spread_analyses.md)
   - Bundling of content (Previously spread analysis topics were partly scattered e.g. the Dry Form Model contained spread descriptions.) 
   - Emphasized importance of good health (healthy lifestyles including sport and avoiding/reducing air pollution)
   - Most severe Cases are observed in setting with dry air (heated, ACs or dry outdoor air).
+
 - 12.5. Many formulations and clarifications across the page. For clarity, all formulations (including comments) are not intended ambiguous and if they are it's by mistake. In face-to-face conversations ambiguity can work, but not on a page like this I realized. -> [Notes on Comments](#comments).
+
 - 27.4. Clarified Note [Comment on Comments](#comment-on-comments) and added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).
+
 - 25.4. Page coronaviruses separated into the pages:
   - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
   - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do.
