@@ -1,5 +1,5 @@
 
-# Public Suggestions and Tips
+# Public Suggestions, Advice and Tips
 
 * [Covid-19 and Virus Infections](#covid-19-and-virus-infections)
 * [Sars-CoV-2 Transmission](#sars-cov-2-transmission)
