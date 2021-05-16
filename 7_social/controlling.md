@@ -1,42 +1,50 @@
 
 # Thoughts on Controlling Sars-CoV-2
-This section extends and   [Public Advices and Suggestions](./index.md#public-advice) section. 
+This chapter extends and [Public Advices and Suggestions](../1_introduction/suggestions.md) chapter. 
 
-* [Strategy](#strategy)
+> This chapter is mostly written in spring and autumn 2020. A reordering and some updates in spring 2021.
+
+* [Mindset and Strategy to Tackle Covid](#mindset-and-strategy-to-tackle-covid)
 * [Spread Assumptions](#spread-assumptions)
-* [Protection Measures](#protection-measures)
+  * [Indoors](#indoors)
+  * [Outdoors is Safer](#outdoors-is-safer)
+  * [Spread Metaphor](#spread-metaphor)
+  * [Differences between Individuals](#differences-between-individuals)
+  * [Summed Up](#summed-up)
+* [Risk Management](#risk-management)
+  * [Balancing of Measures](#balancing-of-measures)
+  * [Hospital Overwhelming](#hospital-overwhelming)
+* [Individual Protection Measures](#individual-protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
   * [Ventilation](#ventilation)
   * [Distancing](#distancing)
   * [Large Buildings](#large-buildings)
   * [Covid-19 Cases and Quarantine](#covid-19-cases-and-quarantine)
-* [Control Measures](#control-measures)
+* [General Public Measures](#general-public-measures)
   * [Contact Tracing](#contact-tracing)
   * [Testing Benefits](#testing-benefits)
   * [Outdoor Days](#outdoor-days)
   * [Home-Lock Down](#home-lock-down)
-* [Thoughts about Social Measures](#thoughts-about-social-measures)
+  * [Financial Support](#financial-support)
+* [Specific Public Measures](#specific-public-measures)
   * [Corona Conform Skiing](#corona-conform-skiing)
   * [Reduction of Nightlife](#reduction-of-nightlife)
   * [Reduce Alcohol Consumption](#reduce-alcohol-consumption)
   * [Gastronomy](#gastronomy)
   * [Corona Conform Schooling](#corona-conform-schooling)
-* [Risk Assessment](#risk-assessment)
-  * [Balancing of Measures](#balancing-of-measures)
-  * [Outdoors is Safer](#outdoors-is-safer)
-  * [Hospital Overwhelming](#hospital-overwhelming)
 * [References](#references)
   * [Laboratory Biosafety](#laboratory-biosafety)
   * [Control and Containing Measures](#control-and-containing-measures)
 
 
-## Strategy 
+## Mindset and Strategy to Tackle Covid 
 > Mind set followed here to tackle SARS-CoV-2:
 > * communication and explanation
 > * knowledge & research
 > * self responsibility, independent decisions combined with a circumspect lifestyle
 > * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements restrictions are an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
+> ### Strategy
 > * Measures preserving life quality and health of everybody.
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases.
 > * Monitor and estimate overall cases to do predictions and planning.
@@ -55,33 +63,74 @@ This section extends and   [Public Advices and Suggestions](./index.md#public-ad
 ## Spread Assumptions
 The design of measures relies on transmission models. Here it as assumed that the main transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like.
 
-#### Indoor Air
-##### Observations
+### Indoors
+#### Observations
 * Indoor Air: The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed. Evidence for aerosol transmission is described in [Spread Analyses](../5_epidemiological/spread_analyses.md). 
 
-##### Biological Mechanism
+#### Biological Mechanism
 The observations are explained by: In dry air, tiny aerosol form. Tiny and dry particulates are most likely to be deposited in the deep lungs (chapter [Airborne Transmission](../5_epidemiological/transmission.md)). The [viability of coronaviruses](../2_biological/virion_viability.md) is also highest in dry particulates, especially without sunlight.
 
-##### Metaphor
+### Outdoors is Safer
+Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation. However, the infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md) Outdoors, the main transmission opportunities is droplet transmission in face-to-face situations (however droplet infections are unlikely to cause deep lung infections and the associated severe Covid ([Disease Pattering](../3_medical/coronavirus_disease_patterns.md)). 
+
+Outdoors is safer because of:
+- [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
+- [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
+- The [coronavirus decay rate](../2_biological/virion_viability.md) is fast compared to other forms of life and they can't repair any damage. Exposed to  disinfectants or soap most virions decay within a minute. Sunlight and high temperatures also render the virions un-infectious fast. The virions survive longest in dry air without sunlight. Even on cloudy days and towards the evening sunlight induce a quite fast decay.
+  > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. Unlike virions we also have an advanced repair mechanism which often can put things right again.
+
+#### Dilution
+Outdoors there is much more air per person than inside:
+* In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
+* Even in the most densely populated cities the population density reaches at most 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, this yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
+* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:
+(1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person.
+
+#### Virion Clearance
+Virion are cleared from the air by the mechanism below and due to [virion decay](#virion-decay) there's no accumulation.
+- [Virion Decay](./stability.md) in air: occurs mainly through sun light
+- Condensation 
+- Washed out by rain
+- Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outdoors, the vast majority of surfaces are not infectable. 
+
+### Spread Metaphor
 Airborne transmissions can be thought [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). 
 * For the first non-smokers protections measures are suitable and for the latter distancing is enough.
 * If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help. Smoke is rarely an issue outdoors, the same is true for Covid.
 
-#### Differences between Individuals
+### Differences between Individuals
 * Some people are super-spreaders while many people don't spread Covid.
 * Children get less infected and are less infectious. No super spreading events have been linked to children (to my knowledge).
 * Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)). => (Encouraging) Transparency is important.
 
   > (Encouraging) Transparency is always important.
 
-#### Summed Up
+### Summed Up
 * Outdoor activities reduce the overall Covid burden. Outdoor activities even can reduce the overall Covid spread and especially the number of severe cases, since less time is spent indoors and the lifestyles are healthier.
 * Most covid transmissions occur in not well ventilated indoor settings. Indoor air which many people breath is in large buildings: E.g. stairwells in residential blocks, supermarkets, indoor arenas, large offices, cruise ships, airplanes (high altitude) or crowded bars.
 * Appropriate spread precaution measures and good treatment is important for people with severe Covid.
 
 
+## Risk Management
 
-## Protection Measures
+### Balancing of Measures
+* Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
+* Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
+* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
+* Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal, e.g. long-term prohibit visits is likely no solution.
+
+
+### Hospital Overwhelming
+[**in work**]
+Reasons to avoid hospital overwhelming (with good planning some of the reasons can be overcome):
+* Everyone has has the right for a fair and good treatment. 
+* Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure, not overwhelmed hospitals are necessary. 
+* The overall process can get less efficient. E.g. patients need out of hospital treatment, which has additional challenges.
+* Can greatly increase the risk for additional spread since protection measures may not be in place. E.g. the provisional building may not have an appropriate ventilation and temporary personal can be more likely to forget about proper protection measures.
+
+
+
+## Individual Protection Measures
 ### Support Immune Protection
 Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - ~~if once available~~ available in 2021 - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases overall health should be the main focus - alongside open windows and no air-conditioners if there are Covid-19 cases.
 
@@ -104,7 +153,7 @@ To prevent droplet transmission outdoors or in very well ventilated situations a
 
 
 ### Ventilation
-Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoor-is-safer) is much lower than in indoor air. In sensible locations limits on the CO2 concentration and continuous monitoring ensure good ventilation. 
+Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoors-is-safer) is much lower than in indoor air. In sensible locations limits on the CO2 concentration and continuous monitoring ensure good ventilation. 
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
 * [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. In the simulation, good ventilation is as effective as reducing transmission of half of the population. // in the paper vaccinate is used instead of reducing transmission. Reducing transmission is used since there is evidence that influenza vaccines do not stop spreading influenza and transmission can be reduced in different ways e.g. by mask.
@@ -133,14 +182,14 @@ Relaxed rules are important for the [health of the infected and the possibly inf
 #### Example Calculation of Spread
 
 * ##### Strict Instructions
-  With strict quarantine measures, infection risk from known infected is more reduced but fewer people may do tests. Example: Out of 10 infected, 5 are known and 5 unknown/untested
+  With strict quarantine measures, infection risk from known infected is possibly lowered more but fewer people do tests. Example: Out of 10 infected, 5 are known and 5 unknown/untested
   * the 5 known may infect on average 2 others (thus having a R value of 0.4)
   * the 5 untested may infect 10 others (having a R value of 2.0)
   
   Overall the 10 infected people infect 12 others and so an overall R value of 1.2.
   
 * ##### Relaxed Instructions
-  With relaxed instructions the known infected may on average infect more people but the number of unknown infected is smaller.  Overall this yields a smaller R value. Example out of 10 infected 8 are known and 2 unknown:
+  With relaxed instructions the known infected may on average infect more people but the number of unknown infected is smaller. Overall this yields a smaller R value. Example out of 10 infected 8 are known and 2 unknown:
   * the 8 known infect 4 others (R value of 0.5 for known infected)
   * the 2 unknown infect 4 others (R value of 2.0)
   
@@ -178,11 +227,17 @@ To reduce spread isolation by home-lockdown is a radical measure. The more is kn
 Isolation by a stay-at-home-order may be working for people with own houses with gardens but for people living in flats in big buildings (and the majority of people do so in Covid risk regions), permanent home stay can increase transmission opportunities and has adverse health effects since movement is healthy.
 
 
-## Control Measures
-[in work]
+## General Public Measures
+
 
 ### Contact Tracing
-[in work]
+> to be written
+
+
+
+<!--
+### Guest Lists and Tracing
+-->
 
 ### Testing Benefits
 Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home [isolation rules](#covid-19-cases-and-quarantine) apply and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
@@ -194,7 +249,6 @@ Often turning up for test is not associated with any benefits, on the contrary i
     > A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms. 
 
 
-High filtration masks should be used in shared stairwells and the flats should be ventilated before opening the door. 
 
 
 ### Outdoor Days
@@ -210,8 +264,22 @@ A general curfew is a radical measure. It reduces contacts and makes it easier t
 A curfew at night has some use cases e.g. preventing private parties but in most situations softer measures are enough e.g. [Reduction of Nightlife](#reduction-of-nightlife).
 
 
+### Financial Support
+> Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced for the foreseeable future such as long distance traveling or large scale events.  For the first temporary support helps for the latter enabling better switching of business models is an option. Also not all temporarily closed businesses especially if closed for a longer time period may not be able to keep the business model e.g. because the customer behavior changed.
+> 
+> As noted restrictions are dependent on the local situation and on the weighting/prioritizing of the benefits and costs, so Covid measures vary a lot between different regions.
+> 
+#### Temporary Support
+> * _Individuals_: Temporary support for individuals I consider necessary not to disrupt livelihoods.
+> * _Closed Businesses_: For businesses closed longer than about 2 months, I consider it appropriate to support the fixed costs: rent, insurances, capped salaries (if they are not yet covered by individual support). Temporarily credits are an option until which then can be transformed into a-fond-perdue support. The support for the fix costs can be proportional to the reduction in turnover (possibly averaged over some time period e.g. a year).
+> *_OPEN Businesses_: Also businesses with out formal restriction can have difficult times e.g. travel agencies, however unlike closed businesses there are chances to adapt. Easy credit access & realistic payback schemes combined with advices.
 
-## Thoughts about Social Measures
+#### General Support
+> Additional to temporary support, general support and enabling for those who need or want to reorganize is adequate. How to take the corona-situation as an opportunity to reform the economical systems on the [economics page](../7_social/economics.md).
+> 
+
+
+## Specific Public Measures
 **(in work and currently more brainstorming)**
 
 This sections discusses measures that can be put in place if Covid-19 increase rapidly. For each measure 
@@ -222,30 +290,23 @@ This sections discusses measures that can be put in place if Covid-19 increase r
 * ###### Experiences
   Experiences with measures in place. Are there experiences and if so what are they?
 * ###### Costs/Narrowing
-  Narrowing of Life. How individuals experience the measures? Are indirect and/or future costs associated e.g. school children missing education. Financial costs (government support is assumed).
+  Narrowing of Life. How individuals experience the measures? Are indirect and/or future costs associated e.g. school children missing education. To cover financial costs of restricted businesses [financial support](#financial-support) is assumed.
 * ###### Comment
   The points above are summarized to subjective rating/comments/recommendations. Subjective since they rely on subjective weighting and subjective rating of the single points. 
 
 
-#### Support for Individuals and Businesses
-> * _Individuals_: Temporary support for individuals I consider necessary not to disrupt livelihoods.
-> * _Closed Businesses_: For businesses closed longer than a few weeks I consider it appropriate to support the fixed costs: rent, insurances, capped salaries (if they are not yet covered by individual support). Temporarily credits are a solution until the exact amounts can be determined, then the credits can be transformed into a-fond-perdue support. Support for the fix costs proportional to the reduction in turnover is an option (possibly averaged over some time period e.g. a year).
-> For businesses which were not closed, easy credit access & realistic payback schemes combined with advices is an option.
-> * _Reorientation_: Additionally support for those who need/want to reorganize can be adequate. Long-term support and how to take the corona-situation as an opportunity to reform the economical systems on the [economics page](../7_social/economics.md).
-> 
-> Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced or closed for the foreseeable future (long distance traveling, large scale events).
-> 
-> As noted restrictions are dependent on the local situation and on the weighting/prioritizing of the benefits and costs. 
 
 ### Corona Conform Skiing
-[**in work**]
-__In short__: Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outdoor the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoors like. Lowering the maximum crowd density is helps too, especially  indoors.
+
+#### Summary Corona Conform Skiing
+Nowadays (pre-corona) practiced cosy warm (après-)skiing is unsafe. The more outdoor the skiing-experience (including queuing & lifts & gastronomy) is the safer. Good ventilation can make the ski experience more outdoors like. Lowering the maximum crowd density is helps too, especially  indoors.
 
 > My memories of skiing date back to the early 90s, back then a ski day was mostly outdoors from open-sky lifts to outdoor lunch.
 
 > Allowing skiing in some regions first, I consider beneficial, since all can benefit from the experiences gathered. Ideally the situations are closely monitored (e.g. Covid-19 saliva-tests for travellers both on arrival and departure) and all experiences (concepts, monitoring results) are transparently published.
 
 > International travelling can be connected to skiing but mostly skiing and international travelling are independent. Generally for travelling I think in place staying in case of an infection is important i.e. test before leave/travel (as of 30.11. not further discussed on this page).
+
 
 __ThinkThrough__
 Two sides:
@@ -374,51 +435,6 @@ Measure regarding schools can reach from complete closure to mild measures such 
 
 
 
-<!--
-### Guest Lists and Tracing
--->
-
-
-## Risk Assessment
-
-### Balancing of Measures
-* Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
-* Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
-* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
-* Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal, e.g. long-term prohibit visits is likely no solution.
-
-
-### Outdoors is Safer
-outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation. However, the infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md) Outdoors, the main transmission opportunities is droplet transmission in face-to-face situations (however droplet infections are unlikely to cause deep lung infections ([Disease Pattering](../3_medical/coronavirus_disease_patterns.md)). 
-
-Outdoors is safer because of:
-- [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
-- [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
-- The [coronavirus decay rate](../2_biological/virion_viability.md) is fast compared to other forms of life and they can't repair any damage. Exposed to  disinfectants or soap most virions decay within a minute. Sunlight and high temperatures also render the virions un-infectious fast. The virions survive longest in dry air without sunlight. Even on cloudy days and towards the evening sunlight induce a quite fast decay.
-  > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. Unlike virions we also have an advanced repair mechanism which often can put things right again.
-
-#### Dilution
-Outdoors there is much more air per person than inside:
-* In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
-* Even in the most densely populated cities the population density reaches at most 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, this yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
-* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:
-(1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person.
-
-#### Virion Clearance
-Virion are cleared from the air by the mechanism below and due to [virion decay](#virion-decay) there's no accumulation.
-- [Virion Decay](./stability.md) in air: occurs mainly through sun light
-- Condensation 
-- Washed out by rain
-- Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outdoors, the vast majority of surfaces are not infectable. 
-
-
-### Hospital Overwhelming
-[**in work**]
-Reasons to avoid hospital overwhelming (with good planning some of the reasons can be overcome):
-* Everyone has has the right for a fair and good treatment. 
-* Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure, not overwhelmed hospitals are necessary. 
-* The overall process can get less efficient. E.g. patients need out of hospital treatment, which has additional challenges.
-* Can greatly increase the risk for additional spread since protection measures may not be in place. E.g. the provisional building may not have an appropriate ventilation and temporary personal can be more likely to forget about proper protection measures.
 
 
 ---
