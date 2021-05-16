@@ -158,7 +158,7 @@ For regions across the world the following is analysed:
 * Autumn 2020: High number of severe cases starting where the winter comes first: Central North and at high altitude e.g. in Colorado.
 * Early to Mid Winter 2020/2021: High case numbers in many states (less severe cases where the winter is warmer)
 * Mid to Late Winter 2021: Cases start decreasing. Likely due to adapting measures to airborne transmission. 
-  > There's a helpful [aerosol FAQ](#marr-aerosol-faq) from the advisors which I came across when reading a [CO2 sensor usage recommendation](#stocker) from the Swiss university advisors, which is a recommended read by itself.
+  > There's a helpful [aerosol FAQ](#marr-aerosol-faq) from the US advisors which I came across when reading a [CO2 sensor usage recommendation](#stocker) from the Swiss taskforce, which is itself a worthy read.
   
   In sensible indoor situations masks and ventilation and allowing outdoors gastronomy and shopping (e.g. New York) => people are and meet outdoors.
 * Spring 2020: 
