@@ -70,7 +70,7 @@ This section overviews the content. The [full content section](#content) lists t
 * Some parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. The chapters with not well founded content are tagged with *(explorative)*.
 * The writing often is conversational and some parts aren't rigorous. 
 * This is work in progress. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
-* _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is needed (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
+* _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is required (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
 * _Support_ [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 * _[Table of Content](#content)_ The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
