@@ -23,7 +23,7 @@ This section overviews the content. The [full content section](#content) lists t
 <!--formatting like this to number introduction with 1.-->
 
 1. [Introduction](#introductory-topics)
-  * [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
+  * [Public Suggestions and Tips](./1_introduction/suggestions.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
   * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.
 
 2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
@@ -103,7 +103,7 @@ This section overviews the content. The [full content section](#content) lists t
     > * Fairness is important. Attitudes or group memberships - as long as they respect others - should *only* matter if directly relevant and really necessary for the task of interest.
     >
     > More notes in
-    > * [Respect and Take Care](./1_introduction/suggestions_and_tips.md#respect-and-take-care) on the Suggestion and Tips page
+    > * [Respect and Take Care](./1_introduction/suggestions.md#respect-and-take-care) on the Suggestion and Tips page
     > * [Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) on the Update History page
     > * [Baseline Principles](./7_social/economics.md#baseline-principles) on the Economic page.
 
@@ -119,7 +119,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 ### Introductory Topics
 * [Recent Updates](#recent-updates) and [Update History](./1_introduction/update_history.md)
-* [Public Suggestions and Tips](./1_introduction/suggestions_and_tips.md)
+* [Public Suggestions and Tips](./1_introduction/suggestions.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 
 
