@@ -240,13 +240,13 @@ Trisha Greenhalgh, Matthew Knight
 #### Greenhalgh Aug2020
 **Management of post-acute covid-19 in primary care**
 Trisha Greenhalgh, Matthew Knight, Christine A’Court, Maria Buxton, Laiba Husain
-BMJ 2020;370:m3026 [http://dx.doi.org/10.1136/bmj.m3026]()
+BMJ 2020;370:m3026 <https://dx.doi.org/10.1136/bmj.m3026>
 [in work]
 
 #### Barker-Davies
 **The Stanford Hall consensus statement for post-COVID-19 rehabilitation**
 Barker-Davies RM, O’Sullivan O, Senaratne KPP, et al. Br J Sports Med 2020;54:949–959.
-[http://dx.doi.org/10.1136/ bjsports-2020-102596]()
+<https://dx.doi.org/10.1136/ bjsports-2020-102596>
 [in work]
 * "Beyond respiratory function a prospective cohort study of 171 SARS survivors demonstrated deficits in cardiorespiratory (6MWT) and musculoskeletal performance (handheld dynamometry for major muscle groups), as well as QoL compared with age-matched norms.25 A similar picture was reported following the 2009H1N1 influenza epidemic.26"
 * "Early mobilisation has shown to be practical and safe in an ICU setting.17 "

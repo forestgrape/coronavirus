@@ -515,7 +515,8 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
     JOURNAL OF AEROSOL MEDICINE AND PULMONARY DRUG DELIVERY Volume 24, Number 3, 2011 a Mary Ann Liebert, Inc. Pp. 137–147 https://doi.org/10.1089/jamp.2010.0815
     
 * ##### lindstedt
-    Broberg E, Andreasson J, Fakhro M, et al. **Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.** ERJ Open Res 2020; 6: 00198-2019 [https://doi.org/10.1183/23120541.00198-2019]().
+    Broberg E, Andreasson J, Fakhro M, et al. **Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients.** ERJ Open Res 2020; 6: 00198-2019 
+    <https://doi.org/10.1183/23120541.00198-2019>
     
 * ##### milton 2013
     Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). **Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.** PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205

@@ -383,7 +383,7 @@ As usually for summarized references:
 
 #### Summary Yang
 **Laboratory Diagnosis and Monitoring the Viral Shedding of SARS-CoV-2 Infection**
-[https://doi.org/10.1016/j.xinn.2020.100061]()
+<https://doi.org/10.1016/j.xinn.2020.100061>
 
 > An early version of this article with fewer patients has the title "Evaluating the accuracy of different respiratory specimens in the
 laboratory diagnosis and monitoring the viral shedding of
@@ -515,7 +515,7 @@ Different diagnostic tests for Covid-19 are reviewed and pro & contras discussed
 #### Summary Wong
 Sally Cheuk Ying Wong, Herman Tse, Hon Kei Siu, Tsz Shan Kwong, Man Yee Chu, Felix Yat Sun Yau, Ingrid Yu Ying Cheung, Cindy Wing Sze Tse, Kin Chiu Poon, Kwok Chi Cheung, Tak Chiu Wu, Johnny Wai Man Chan, Wah Cheuk, David Christopher Lung
 **Posterior Oropharyngeal Saliva for the Detection of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)**
-Clinical Infectious Diseases, Volume 71, Issue 11, 1 December 2020, Pages 2939–2946, [https://doi.org/10.1093/cid/ciaa797]()
+Clinical Infectious Diseases, Volume 71, Issue 11, 1 December 2020, Pages 2939–2946, <https://doi.org/10.1093/cid/ciaa797>
 
 ##### Abbreviations 
 POPS = posterior oropharyngeal Saliva = Deep throat saliva
@@ -562,7 +562,7 @@ Total         |  122 |   107  | 229
 
 
 #### Summary Hanson
-Hanson KE, Barker AP, Hillyard DR, Gilmore N, Barrett JW, Orlandi RR, Shakir SM. 2020. **Self-collected anterior nasal and saliva specimens versus health care worker-collected nasopharyngeal swabs for the molecular detection of SARS-CoV-2.** J Clin Microbiol 58:e01824-20. [https://doi.org/10.1128/JCM .01824-20.]()
+Hanson KE, Barker AP, Hillyard DR, Gilmore N, Barrett JW, Orlandi RR, Shakir SM. 2020. **Self-collected anterior nasal and saliva specimens versus health care worker-collected nasopharyngeal swabs for the molecular detection of SARS-CoV-2.** J Clin Microbiol 58:e01824-20. <https://doi.org/10.1128/JCM .01824-20.>
 ##### Methods
 * Participants: " Adult patients presenting to a drive-through test center with symptoms suggestive of coronavirus disease 2019 (COVID-19) were included. Criteria for testing included the presence of at least one of the following: fever, cough, shortness of breath, sore throat, malaise, chills, and/or a decreased sense of smell or taste."
 * Sample Collection: "Flocked minitip and foam swabs (Puritan Medical Products) were used for the nasopharyngeal and nasal swab collections, respectively. Swabs placed in 3 ml of sterile 1 phosphate-buffered saline (ARUP Laboratories) and straight saliva collected in a sterile empty 50-ml Falcon tube (without prealiquoted stabilization medium) were transported to the clinical laboratory at 4 degree."
@@ -892,7 +892,9 @@ Total      |    19 | 181   |  200
 #### Summary Procop
 Procop GW, Shrestha NK, Vogel S, Van Sickle K, Harrington S, Rhoads DD, Rubin BP, Terpeluk P. 2020. 
 **A direct comparison of enhanced saliva to nasopharyngeal swab for the detection of SARS-CoV-2 in symptomatic patients.** 
-J Clin Microbiol 58:e01946-20. [https:// doi.org/10.1128/JCM.01946-20]()
+J Clin Microbiol 58:e01946-20. 
+<https:// doi.org/10.1128/JCM.01946-20>
+
 ##### Methods
 * Location: Cleveland Clinic, Cleveland, Ohio, USA
 * Participants: "Patients with symptoms consistent with COVID-19, as determined by a licensed health care provider and reviewed by a second health care provider, were directed to a specimen collection location."
@@ -925,7 +927,8 @@ Notes:
 Rao M, Rashid FA, Sabri FSAH, et al. 
 **Comparing nasopharyngeal swab and early morning saliva for the identification of SARS-CoV-2.** 
 Clinical Infectious Diseases : an Official Publication of the Infectious Diseases Society of America. 2020 Aug. 
-DOI: [https://doi.org/10.1093/cid/ciaa1156]()
+<https://doi.org/10.1093/cid/ciaa1156>
+
 ##### Methods
 * Participants:
   "This prospective single center diagnostic study was conducted among 217 individuals who were tested positive for SARS- CoV-2 via NPS at a COVID-19 quarantine center, MAEPS. These selected individuals were on days 8–10 of isolation during the sampling."..."Individuals with respiratory aid were excluded."
