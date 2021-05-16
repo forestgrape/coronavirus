@@ -9,6 +9,8 @@
 * [Respect and Take Care](#respect-and-take-care)
 * [Live Healthily](#live-healthily)
 
+> Many parts date back to spring 2020 and some need updates.
+
 
 ## Covid-19 and Virus Infections
 Covid-19 can be serious in the short-term and such serious infections can damage organs. For less virulent Covid-19 sometimes longer lasting tiredness or immune system overreaction are observed. For a healthy recovery it is important to have a healthy lifestyle with movement. But experiences and research are still limited and so whether other effects cannot be excluded. Though long-term adverse effects are possible for many things including other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
@@ -57,7 +59,7 @@ In brief: Think ahead. To reduce the infection possibilities keep some distance 
 
     The mask should be clean/fresh, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
 
-    Masks can be reused if [cleaned](../6_prevention_and_treatment/masks.md#mask-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+    Masks can be reused if [cleaned](../6_prevention_and_treatment/masks.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
 * ### Distancing
     Distancing reduces infection risk.
