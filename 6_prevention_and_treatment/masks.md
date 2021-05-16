@@ -1,25 +1,33 @@
 # Masks
 * [Mask Usage](#mask-usage)
+* [Tips & Tricks](#tips--tricks)
 * [Mask Effectiveness](#mask-effectiveness)
 * [Mask Types](#mask-types)
   * [Filter Performance](#filter-performance)
   * [Usage Classes](#usage-classes)
-* [Mask Cleaning](#mask-cleaning)
+* [Mask Reuse and Cleaning](#mask-reuse-and-cleaning)
+  * [Cleaning Methods](#cleaning-methods)
   * [Reasons for Clean Masks](#reasons-for-clean-masks)
   * [Mask Recommendation](#mask-recommendation)
-* [Appendix](#appendix)
-  * [Personal Mask Preferences](#personal-mask-preferences)
+* [Personal Mask Preferences](#personal-mask-preferences)
+  * [Current Mask Preferences](#current-mask-preferences)
 * [References](#references)
 
 
 ## Mask Usage
-* For self protection good fit and a good outside-to-inside filter are important. 
-* To avoid person to person droplet transmission e.g. when speaking, consequent wearing in close distance face-to-face situations is necessary. 
+* For self protection, a good fit and a good outside-to-inside filter are important.  
 * In indoor rooms with aerosol transmission:
-  * frequent changing/cleaning the masks is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
+  * frequent [changing/cleaning the masks](#mask-reuse-and-cleaning) is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
   * [high filtration masks](#high-filtration) are needed to reliably filter aerosols
 * After coughing or sneezing into mask changing is needed (one should *not cough into a mask* but cough into the hand/handkerchief and downwards, then the hand should be washed or disinfected; moreover with heavy cough and without a negative Covid test, ideally one is out of public spaces). After speaking a lot into a mask, changing is appropriate. Especially for [low and mid filter models](#filter-performance).
-* Some mask have a big air resistance combined with a loose fit, in that case the air can bypasses the mask. There's still protection against droplets, but the bypassed air contains [aerosol](../5_epidemiological/transmission.md#aerosol). They are like wearable plexiglas. 
+* To avoid person to person droplet transmission e.g. when speaking, wearing in close distance face-to-face situations is necessary.
+* Some mask have a big air resistance combined with a loose fit, in that case the air bypasses the mask. These are like wearable plexiglas: There's still protection against droplets, but the bypassed air contains [aerosol](../5_epidemiological/transmission.md#aerosol). 
+
+
+## Tips & Tricks
+* Carefully rounding the wire above the nose helps to reduce the airstream to the eyes.
+* Putting the masks a couple of hours to the fresh air before wearing reduces smells. Fabric smells can indicate volatile substances which may not be healthy to inhale (although I don't think these substance are any more hazardous than other substances we are daily exposed e.g. micro-plastic from car wires).
+* FFP1 masks of fold type and surgical masks to my experience become more comfortable with use since they loose their stiffness. As noted mask shouldn't be continuously over many hours; better to switch masks and [reuse the next day](#mask-reuse-and-cleaning).
 
 
 ## Mask Effectiveness
@@ -85,41 +93,49 @@ There are various standards to classify mask by their filtration quality: E.g. i
   _Textile masks_ or _Community masks_ are available in a lot of sizes and styles. A model with fitting comfort and style is usually available. The [filtration performance](#filter-performance) is often [low](#low-filtration). The [droplet spread](../5_epidemiological/transmission.md#overview-airborne-transmission) is prevented but how relevant the droplet spread is, is unclear. 
 
 
-## Mask Cleaning
-* __wash__: wash with soap/hot water/machine-wash
+## Mask Reuse and Cleaning
+
+### Cleaning Methods
+The coronaviruses virions are not very stable especially if exposed to disinfectants, sunlight, soap and temperatures above 45 degrees (-> [Page Virion Viability](../2_biological/virion_viability.md)). So making a mask 'coronavirus clean' is easy:
+
+* __wash__: wash with soap/hot water/machine-wash.
 * __heat__: heat to around 70 degrees for 20 minutes e.g. hot water, steam or in the oven - all measures which have been scientifically proven to destroy the Sars-CoV-2 viruses and leave the mask intact [citation coming] [Chan et al.](#chan) have shown that Sars-CoV-1 is inactivated above 50 degrees.
-* __sunlight__: if washing or heating is not available (e.g. water saving in dry areas or camping), putting the mask to the bright sunlight is an alternative in areas with intense sunlight. 
-* __disinfect__: spray with *pure* alcohol (*not* alcohol with additives which some cleaning products have)
-* __waiting__: Usually half of the virions decay during several hours at room temperature (i.e. the halflife time is several hours). Thus the next day (or even better a few days) most virions are decayed. 
+* __sunlight__: if washing or heating is not available (e.g. water saving in dry areas or camping), putting the mask to the bright sunlight is an alternative in areas with intense sunlight.
+* __disinfect__: spray with *pure* alcohol (*not* alcohol with additives which some cleaning products have). Other disinfectants are not recommended since they may have health hazards if inhaled.
+* __waiting__: Usually half of the virions decay during several hours at room temperature (i.e. the halflife time is several hours). Thus the next day (or even better a few days) most virions are not infectious anymore.
 
 ### Reasons for Clean Masks
-The [mask effectiveness](#mask-effectiveness) is usually evaluated with fresh masks and not with mask worn for several hours. The problem if the mask is continuously worn for several hours is, that virions can be slowly breathed through the filter, which occurs more at exhalation than inhalation ([mask effectiveness](#mask-effectiveness)). Therefore masks should regularly be changed or [cleaned](#mask-cleaning). Even rotating a bunch masks through each day and reusing them the next day helps. Wearing the same mask as short as doable especially if its about protecting others.
+The [mask effectiveness](#mask-effectiveness) is usually evaluated with fresh masks and not with mask worn for several hours. The problem if the mask is continuously worn for several hours is, that virions can be slowly breathed through the filter, which occurs more at exhalation than inhalation ([mask effectiveness](#mask-effectiveness)). Therefore masks should regularly be changed or [cleaned](#mask-reuse-and-cleaning). Even rotating a bunch masks through each day and reusing them the next day helps. Wearing the same mask as short as doable especially if its about protecting others.
 
 ### Mask Recommendation
-Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable, since masks are protective. (written sometimes in spring 2020)
+> written in Spring 2020 and left for historical reasons.
 
-<!--  
+Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable, since masks are protective.
+
 Reasons against masks seem sometimes rather searched:
 * touching more often the face. 
-> Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this, masks are protective. 
+  > Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this, masks are protective. 
 * Reserve for healthcare workers is needed for the big wave. 
-> If masks help to prevent the big wave in its roots, then that's the better option.-->
+  > If masks help to prevent the big wave in its roots, then that's the better option.
 
 
-## Appendix
-### Personal Mask Preferences
+## Personal Mask Preferences
 
-#### Current Mask Preferences
-Currently (winter 20/21) I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). By specification, FFP1 masks filter less aerosol than FFP2 masks but still more than surgical masks (The 3M 8710 E model does protect others from very fine aerosol nearly as good as FFP2 models to my judgement however the FFP 1 norm has no requirement on very fine aerosol. If infected (tested or strong evidence) FFP2 models are recommended if it is not possible/doable to avoid situations with transmission opportunities).
+### Current Mask Preferences
+> Currently (winter 20/21 and spring 2021) 
+> * For short times (less than half an hour e.g. supermarket). I mainly use FFP1 masks of fold type. E.g. the model CX9501 (made by Jiangsu Sanfo Outdoor Products Co, Suqian, Jiangsu, China and sold for about 1$ at Migros) This model has some foam protection above the nose which reduces air into the eyes and provide comfort. Also behind-the-head clips supplemented. The masks are smelly when opened so open them ahead of the first use. Sometimes I also use surgical masks for day to day use.
+> * For longer time periods (more than about half an hour e.g. during train travel): I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). The filtration requirements for FFP1 masks is less than FFP2 masks but stricter than surgical masks. To my judgement the 3M 8710 E model does protect others from very fine aerosol as good as FFP2 models. Nevertheless I recommend FFP2 models if infected (tested or strong evidence) and ideally avoid situations with transmission opportunities.
 __Advantages__: As for most dust protection masks, the fit is dense thanks to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
+> * [Dense] masks are less important if severe cases go close to zero (e.g. in summer when not using AC).
 
 > #### Personal Mask History
 > 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a very good and dense fit. However, the fit came at the cost of a reduced comfort: very tight bands around the head and not really comfortable at the nose.
 > 2. In summer 2020 I bought some cloth mask but I didn't like the fit since there was no fixation above the nose. I went to the hardware store to get some other dust FFP2s, however these were sold out but instead they had cloth masks. These had a good fit and were comfortable and I used them during summer.
 > 3. In autumn when (evidence for) aerosol transmission increased combined with reports that many cloth mask were not dense enough, I went on to surgical masks. There are differences between the models of surgical masks: some are easier to breath through while others more air sidelines by the nose/eyes, which can be distracting.
-> 4. Over the winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters sometimes produces purpose defeating and uncomfortable sidelined air (but usually not more than surgical masks). Rounding the wire above the nose reduces the airstream to the eyes.
+> 4. Over the winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters sometimes produces purpose defeating and uncomfortable sidelined air. But usually no more than surgical masks, so overall the protection from FFP1 masks is better.
 > 5. Around christmas time I went once again to a hardware store to buy some dust FFP2. Sold out FFP2 dust masks again, but dust FFP1 were available. They fit and are in use since then(Introduction statement).
+> 6. In spring 2021 I started using FFP1 masks of fold type. They are widely available to ok prices (about 1$/SFR/Euro) and the breathing ability is good by now.
 
 
 ## References
