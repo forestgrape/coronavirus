@@ -542,7 +542,8 @@ Comparison with SARS-1 or MERS:
 
 #### Summary Adam,Wu
 **Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
-Adam D, Wu P, Wong J, et al. Research Square; 2020. <https://doi.org/10.21203/rs.3.rs-29548/v1>
+Adam D, Wu P, Wong J, et al. Research Square; 2020. 
+<https://doi.org/10.21203/rs.3.rs-29548/v1>
 
 ##### Methods
 "Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection."
@@ -572,7 +573,8 @@ Adam D, Wu P, Wong J, et al. Research Square; 2020. <https://doi.org/10.21203/rs
 #### Summary Hodcroft
 **Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
 Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
-medRxiv preprint doi: https://doi.org/10.1101/2020.10.25.20219063
+medRxiv preprint doi: 
+<https://doi.org/10.1101/2020.10.25.20219063>
 
 ##### Methods
 The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
@@ -627,7 +629,7 @@ Remark: Working Paper
 
 #### Summary Stein-Zamir
 **A large COVID-19 outbreak in a high school 10 days after schools’ reopening, Israel, May 2020.**
-Stein-Zamir Chen , Abramson Nitza , Shoob Hanna , Libal Erez , Bitan Menachem , Cardash Tanya , Cayam Refael , Miskin Ian .  Euro Surveill. 2020;25(29):pii=2001352. https://doi.org/10.2807/1560-7917.ES.2020.25.29.2001352
+Stein-Zamir Chen , Abramson Nitza , Shoob Hanna , Libal Erez , Bitan Menachem , Cardash Tanya , Cayam Refael , Miskin Ian .  Euro Surveill. 2020;25(29):pii=2001352. <https://doi.org/10.2807/1560-7917.ES.2020.25.29.2001352>
 
 ##### Methods
 Analyzing a large high school out break in Israel shortly after schools have been reopened. 
@@ -720,7 +722,9 @@ Their work consists of two parts:
 #### Lundkvist
 Åke Lundkvist, Stefan Hanson & Björn Olsen (2020) 
 **Pronounced difference in Covid-19 antibody prevalence indicates cluster transmission in Stockholm, Sweden**, 
-Infection Ecology & Epidemiology, 10:1, DOI: 10.1080/20008686.2020.1806505
+Infection Ecology & Epidemiology, 10:1, 
+DOI: 10.1080/20008686.2020.1806505
+
 ##### Methods
 "The prevalence of COVID-19 antibodies on June 17–18, 2020 was investigated in two residential areas of Stockholm, Sweden."
 ##### Results
@@ -731,7 +735,8 @@ In Norra Djurgårdsstaden, modern residential blocks in the upper price class, 
 #### Summary Brueningk
 **Determinants of SARS-CoV-2 transmission to guide vaccination strategy in a city**
 Sarah C. Brüningk, Juliane Klatt, Madlen Stange, Alfredo Mari, Myrta Brunner, Tim-Christoph Roloff, Helena M.B. Seth-Smith, Michael Schweitzer, Karoline Leuzinger, Kirstine K. Søgaard, Diana Albertos Torres, Alexander Gensch, Ann-Kathrin Schlotterbeck, Christian H. Nickel, Nicole Ritz, Ulrich Heininger, Julia Bielicki, Katharina Rentsch, Simon Fuchs, Roland Bingisser, Martin Siegemund, Hans Pargger, Diana Ciardo, Olivier Dubuis, Andreas Buser, Sarah Tschudin-Sutter, Manuel Battegay, Rita Schneider-Sliwa, Karsten M. Borgwardt, Hans H. Hirsch, Adrian Egli
-medRxiv 2020.12.15.20248130; doi: https://doi.org/10.1101/2020.12.15.20248130
+medRxiv 2020.12.15.20248130; 
+doi: <https://doi.org/10.1101/2020.12.15.20248130>
 
 ##### Methods
 The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed based on sequence data and a computer simulation. In a second step, the effect of reduced transmissibility of population subgroups on the spread of Covid is simulated. 
@@ -798,21 +803,23 @@ Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV
 The Lancet Editoral
 **COVID-19: protecting health-care workers**
 www.thelancet.com Vol 395 March 21, 2020
-https://doi.org/10.1016/S0140-6736(20)30644-9 
+<https://doi.org/10.1016/S0140-6736(20)30644-9>
 
 ##### mizumoto 
 Kenji Mizumoto, Gerardo Chowell
 **Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
-https://doi.org/10.1016/j.idm.2020.02.003
+<https://doi.org/10.1016/j.idm.2020.02.003>
   
 ##### honein
 Temet M. McMichael et al.
 **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
-This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+This article was published on March 27, 2020, at NEJM.org. 
+<https://doi.org/10.1056/NEJMoa2005412>
 
 ##### lin
 LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
-**Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054  
+**Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. 
+<https://doi.org/10.1017/S0950268805005054>
 
 ### Aerosol Transmission
 
@@ -884,7 +891,7 @@ Sources: <https://www.sofascore.com>, <https://www.bbc.com/sport/football/scores
 By Laura Scott and Mandeep Sanghera
 
 ##### Premier League Case Counts
-Source: https://www.premierleague.com/news/1814863
+Source: <https://www.premierleague.com/news/1814863>
 
 "
 Round 5: 28 Sep-4 Oct - 1,587 tested, with nine testing positive. 
