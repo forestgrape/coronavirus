@@ -7,9 +7,9 @@
   * [Summary Situation Analyses](#summary-situation-analyses)
   * [The Susceptibility and Infectiousness varies across People and depends on Biological Factors](#the-susceptibility-and-infectiousness-varies-across-people-and-depends-on-biological-factors)
 * [Geographical Observations and Analyses](#geographical-observations-and-analyses)
-  * [South Americas](#south-americas)
-  * [USA](#usa)
   * [Europe](#europe)
+  * [USA](#usa)
+  * [South Americas](#south-americas)
   * [India](#india)
   * [Nepal](#nepal)
 * [Findings from Geographical Analyses](#findings-from-geographical-analyses)
@@ -74,7 +74,7 @@ The observation strongly indicate a generalized aerosol transmission model (eith
 
 Regarding prevention measures relevant is, that the transmission increases with the amount of air exchanged. The exact transmission mechanism may provide additional insights and help fine-tuning but mostly it can be abstracted away.
 
-#### Dry Air => Many Severe Covid Cases
+#### Many Severe Covid Cases => Dry Air
 * Many cases of severe Covid-19 are nearly exclusively observed in settings with dry air. Which can be heated, air-conditioned or dry outdoor air.
 * At relative air humidities above 50% indoors (and no air-conditioners running) severe Covid cases are rare but some cities such as Lagos in Nigeria have quite high seroprevalences. 
 
@@ -137,7 +137,33 @@ For regions across the world the following is analysed:
   * while Covid-19 decrease or stay low despite having a relevant population of possible Covid spreaders (the spread in regions with very low case count where contact tracing can work, behave differently and will be analysed in future)
 
 
+
+### Europe
+* Spring 2020:
+  * Strict measures in countries but often focussed on contact/fomite transmission
+  * High number of cases: in the Lombardy (starting point and discovered late, many residential blocks, history of air pollution), central Spain (quite high altitude, dense living conditions), Belgium, UK (obesity rate quite high, residential blocks)
+* Summer and Autumn 2020:
+  * Focus on droplet prevention, Masks usage becomes common.
+  * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal). [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]. So the wave likely started in ACs rooms in Portugal moved to Spain and in late summer to France.
+  * [in work] In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In october when temperatures fell and in the population centers the heating season started, cases sharply increased.
+* Winter 2020 [in work]
+
+
+### USA
+* Spring 2020:
+  * Strict measures in many areas
+  * High number of severe cases in densely populated areas in the North (e.g. New York)
+* Summer 2020: Moderate to high number of severe cases in the urban centres of the Sun Belt.
+* Autumn 2020: High number of severe cases starting where the winter comes first: Central North and Colorado.
+* Early to Mid Winter 2020/2021: High case numbers in many states (less severe cases where the winter is warmer)
+* Mid to Late Winter 2021: Cases start decreasing. Likely due to adequate protection measures e.g. indoor ventilation and masks but not overly strict e.g. allowing outdoors gastronomy and shopping (e.g. New York) => people are and meet outdoors.
+* Spring 2020: 
+  * Restrictions are lessened in many states. 
+  * The vaccine program likely reduces the number of severe cases. 
+  * Especially in the Southern states, a key reason for low cases are likely the warming temperatures.
+
 ### South Americas
+<!--
 #### Observations Spring 2020
 Most countries in South Americas recorded many cases, a notable exception is Uruguay with very few cases and only a couple of deaths. The geographic and social situation are hugely different across the Continent. 
 All countries provided programs for financial support and additionally:
@@ -150,49 +176,29 @@ All countries provided programs for financial support and additionally:
 #### Brazil
 * High death rate in the district of the capital Brasilia.
 * Manaus in where the climate is year round tropical with hot and humid air, had
-
+-->
 #### Peru
-##### June-August 2020
-Measures: General Curfew implemented quite early in Spring 2020.
-Covid Cases: Very high number of severe cases and many deaths.
-Possible Causes: 
-* Many cities in central Peru have dry air due to katabatic winds from the Andes.
-* Dense living conditions including large residential blocks in the capital Lima.
-
-
-
-### USA
-* Spring 2020:
-  * Strict measures in many areas
-  * High number of severe cases in densely populated areas in the North (e.g. New York)
-* Summer 2020: Moderate to high number of severe cases in the urban centres of the Sun Belt.
-* Autumn 2020: High number of severe cases starting where the winter comes first: Central North and Colorado.
-* Winter 2020: High case numbers in many states (less severe cases where the winter is warmer)
-
-
-### Europe
-* Spring 2020:
-  * Strict measures in countries but often focussed on contact/fomite transmission
-  * High number of cases: in the Lombardy (starting point and discovered late, many residential blocks, history of air pollution), central Spain (quite high altitude, dense living conditions), Belgium, UK (obesity rate quite high, residential blocks)
-* Summer and Autumn 2020:
-  * Focus on droplet prevention, Masks usage becomes common.
-  * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal). [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]. So the wave likely started in ACs rooms in Portugal moved to Spain and in late summer to France.
-  * [in work] In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In october when temperatures fell and in the population centers the heating season started, cases sharply increased.
-  * [in work]
+* Summer 2020
+  * Measures: General Curfew implemented quite early in Spring 2020.
+  * Covid Cases: Very high number of severe cases and many deaths.
+  * Possible Causes: 
+    * Many cities in central Peru have dry air due to katabatic winds from the Andes.
+    * Dense living conditions including large residential blocks in the capital Lima.
 
 
 ### India
 > in work
-#### Summer 2020
-[in work]
-#### Autumn 2020
-[in work]
-#### Spring 2021
-* High number of severe cases in urban centres close to the foothills of the Himalaya such as Delhi and Chandigarh. These cities have very dry air in the spring season due to katabatic winds from the Himalaya which is still snow covered in Spring (especially in the March, April).
-* High number of severe cases in the tourism regions in the South such as Goa or Puducherry.  These regions have warm and humid climate in the Spring often due to South winds. Due to tourism air-conditioning is likely widespread (tourism brings culture, technology and money).
+
+* Spring 2021
+  * High number of severe cases in urban centres close to the foothills of the Himalaya such as Delhi and Chandigarh. These cities have very dry air in the spring season due to katabatic winds from the Himalaya which is still snow covered in Spring (especially in the March, April).
+  * High number of severe cases in the tourism regions in the South such as Goa or Puducherry.  These regions have warm and humid climate in the Spring often due to South winds. Due to tourism air-conditioning is likely widespread (tourism brings culture, technology and money).
+
 
 ### Nepal
-#### Spring 2021
+* Covid cases: In Spring 2021 Nepal is hit for the first time a wave with severe Covid cases. 
+* Possible causes:
+  * Similar to Northern India, at the foothills of the Himalaya there's dry air in the spring.
+  * Wave comes from Northern India.
 
 
 ## Findings from Geographical Analyses
