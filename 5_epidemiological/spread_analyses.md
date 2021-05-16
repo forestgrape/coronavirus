@@ -385,11 +385,12 @@ Long-Term Care Facility in Seattle [Honein et al](#honein).
 ### Cruise Ships
 
 #### Diamond Princess
-Diamond Princess Cruise Ship anchored in Japan, well analysed by [Mizumoto and colleagues](#mizumoto).
 
-##### Observation
+##### Observations
+Diamond Princess Cruise Ship anchored in Japan. The elucidative analysis by [Mizumoto and Chowell](#mizumoto) shows:
 * Covid-19 spread started between passengers and not equally between passengers and personal.
 * Very high peak values of the reproduction number are observed (over 10).
+
 ##### Interpretation
 The observations indicate long range but same room transmission which favours aerosol over droplet transmission:
 * In the droplet model, one would except the personal to be crucial for the junction of the different guest groups, since they have the most short range contacts, which enable droplet transmission.
@@ -401,16 +402,14 @@ The observed spread patter even favour small or dry particulates over larger aer
 
 
 ### Airplanes
-[**in work**]
-* [Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes all studies the studies they reviewed. 
-  Key points:
-  * "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
-  * For SARS-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no adequate aerosol protection measures were in place. Both index cases were symptomatic. 
-  * Since strong protection measures are in place only few transmissions have been described. 
-  * Protection measures in airplanes:
-    * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
-    * Masks (mostly permanent but often meals are served)
-    * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
+[Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes the studies reviewed. Key points from their summary:
+* "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
+* For SARS-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no adequate aerosol protection measures were in place. Both index cases were symptomatic. 
+* Since strong protection measures are in place only few transmissions have been described. 
+* Protection measures in airplanes:
+  * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
+  * Masks (mostly permanent but often meals are served)
+  * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
 
 #### Ventilation in Airplanes
 Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air flow is from top to bottom (and not anymore from front to back) [citations in work].
@@ -441,7 +440,7 @@ Large scale sporting events provided likely ground for ultra-spreading events. T
 * _Hotels_: Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in rooms on the same floor. Spread to personal was rarely observed.
 
 #### Mers-Cov
-Most superspreading events were observed in winter and often in hospitals ([Dudas et al 2017](#dudas-2017)).
+Most superspreading events were observed in winter and often in hospitals ([Dudas et al 2017](../2_biological/hosts_of_nidovirales.md#summary-dudas-2017)).
 
 <!--
 ### Alphacoronaviruses [in work]
@@ -793,7 +792,7 @@ Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-J
 
 #### Freedman
 Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
-<https://doi.org/10.1093/jtm/taaa178>                                                                                                          
+<https://doi.org/10.1093/jtm/taaa178>
 
 
 ### Epidemiological Patterns
