@@ -11,6 +11,7 @@
   * [USA](#usa)
   * [Europe](#europe)
   * [India](#india)
+  * [Nepal](#nepal)
 * [Findings from Geographical Analyses](#findings-from-geographical-analyses)
   * [Conditions which Favour Shared Indoor Air](#conditions-which-favour-shared-indoor-air)
   * [Air Humidity](#air-humidity)
@@ -97,10 +98,10 @@ Covid-19 waves across the world are predated by uncomfortable climate conditions
 * _Very Dry Air:_ Very dry outdoor air at moderate temperatures or high temperatures: Middle East (where also MERS spreads in the dry air indoor air), Northern India close to the foothills of the Himalaya (e.g. Delhi, Uttarakhand, Chandigarh).
 
 #### Geographical Settings with Mainly Mild Covid
-* High absolute humidity of outdoor air but no air-conditioners and dense living conditions. Examples: Coastal india (except tourism regions in the South like Goa and Puducherry where ACs are likely widespread), Lagos in Nigeria, Indonesia.
+High absolute humidity of outdoor air but no air-conditioners and dense living conditions. Examples: Coastal india (except tourism regions in the South like Goa and Puducherry where ACs are likely widespread), Lagos in Nigeria, Indonesia.
 
 #### Geographical Settings with Few Spread 
-* Climate with favour ventilation and being outdoors. E.g. rural regions around the world as long as the outdoor temperatures are don't motivate indoor heating.
+Climate with favour ventilation and being outdoors. E.g. rural regions around the world as long as the outdoor temperatures are don't motivate indoor heating.
 
 
 ### Summary Situation Analyses
@@ -170,17 +171,28 @@ Possible Causes:
 
 
 ### Europe
-> in work
+* Spring 2020:
+  * Strict measures in countries but often focussed on contact/fomite transmission
+  * High number of cases: in the Lombardy (starting point and discovered late, many residential blocks, history of air pollution), central Spain (quite high altitude, dense living conditions), Belgium, UK (obesity rate quite high, residential blocks)
+* Summer and Autumn 2020:
+  * Focus on droplet prevention, Masks usage becomes common.
+  * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal). [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]. So the wave likely started in ACs rooms in Portugal moved to Spain and in late summer to France.
+  * [in work] In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In october when temperatures fell and in the population centers the heating season started, cases sharply increased.
+  * [in work]
 
 
 ### India
 > in work
+#### Summer 2020
+[in work]
+#### Autumn 2020
+[in work]
 #### Spring 2021
 * High number of severe cases in urban centres close to the foothills of the Himalaya such as Delhi and Chandigarh. These cities have very dry air in the spring season due to katabatic winds from the Himalaya which is still snow covered in Spring (especially in the March, April).
 * High number of severe cases in the tourism regions in the South such as Goa or Puducherry.  These regions have warm and humid climate in the Spring often due to South winds. Due to tourism air-conditioning is likely widespread (tourism brings culture, technology and money).
 
-
-
+### Nepal
+#### Spring 2021
 
 
 ## Findings from Geographical Analyses
@@ -199,14 +211,15 @@ Situations with many severe Covid cases:
 * High altitude, High altitude also increases the amount of air breathed.
 
 #### Hot & Rich => Air-Conditioned
-ACs are prevalent if 1) in Regions with high temperatures over prolonged periods. Usually inside latitudes of +/- 30 degrees and if the degree of mechanization is high (often associated with a median gdp/person above 10'000 $).
+ACs are prevalent if 1) in Regions with high temperatures over prolonged periods. Usually latitudes between 30 degrees South and North and if the degree of mechanization is high (often associated with a median gdp/person above 10'000 $) or tourism.
 
 Situations with many severe Covid cases:
 * Southern US in summer: E.g. Los Angeles, Florida, Texas and Arizona
 * South Americas: Brazil
-* Region of Mexico (Mexico City?)
+* Coastal regions of Mexico (in Mexico City high altitude and dry air are probably the important factors)
 * Some parts of Southern Europe: regions of Spain, Portugal, Greece
 * Most Countries in the Middle East
+* Southern India e.g. the tourism region Goa
 
 #### High Altitude => Low Pressure
 Spread is increased at high altitude since the volume of air breathed is increased.
@@ -216,9 +229,14 @@ Situations with many severe Covid cases:
 * Winter sport locations in the Alps and Rocky Mountains.
 
 #### Settings which favour staying indoors => Indoors Air Breathed Increased
-* In large cities people tend to spend more time indoors than on the country side and with many residential blocks 
-* Measures that motivate to stay at home and avoid outdoor activities, not always are beneficial since they increase the time spend indoors. Additionally they can yield respectively enhance unhealthy lifestyles and thereby increase susceptibility for severe Covid. For people living in houses with  gardens (and regions where many people life in houses) staying home can work or at least not increase the spread. On the other hand in settings with [small living spaces](#living-conditions), where already an increased transmission is observed, measures which increase the time spend indoor or visiting indoor places can yield additional transmissions.
+* In large cities people tend to spend more time indoors than on the country side.
+* Measures that motivate to stay at home and avoid outdoor activities, not always are beneficial since they increase the time spend indoors. Additionally they can yield respectively enhance unhealthy lifestyles and thereby increase susceptibility for severe Covid. For people living in houses with  gardens (and regions where many people life in houses) staying home can work or at least not increase the spread. On the other hand in settings with [small living spaces](#living-conditions), where already an increased transmission is observed, measures which increase the time spend indoor or encourage meeting indoors can yield additional transmissions.
 
+#### Sharing Air
+* Large residential blocks if no good ventilation in the stairwells and/or flats. Nearly all places with many Covid cases have a high share of residential blocks: cities in the UK, US, Czech, Paris, Milano, ...
+* Densely populated indoor places where people from many places meet. E.g. crowded pubs & bars, public transport, cruise ships, ...
+
+Remark: Protection measures help to reduce shared air, which is reduced by ventilation or filtered to some extent by masks. E.g. in public transport with good ventilation and good fitting masks the infection risk is likely low.
 
 ### Air Humidity
 
@@ -546,11 +564,9 @@ Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez C
 medRxiv preprint doi: https://doi.org/10.1101/2020.10.25.20219063
 
 ##### Methods
-[in work]
 The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
 
 ##### Findings
-[in work]
 * "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
 * "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
 
