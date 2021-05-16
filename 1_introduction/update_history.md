@@ -12,8 +12,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 
 - ### Clarifications on Comments
   (25.4.21)
-  For conciseness all subjective and off topic remarks are formatted as [comment](../index.md#comments). 
-  Sometimes this marking gets forgotten: E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency - marked as comment now. 
+  For conciseness all subjective and off topic remarks are formatted as [comment](../index.md#comments). Sometimes this annotating got forgotten: E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency - marked as comment now. 
   A section on the coronavirus page - with the content that Coronaviruses enter and leave cell preferable from the cell side pointing outwards (apical side) - was titled 'Orientation matters' for quite a long time and in the same section I had written McCray & Co instead of McCray et al. Both formulations were because of a 'cool' sound and no ambiguity or hints were intended (accordingly the section was *not* marked as subjective). I acknowledge, that ambiguity was possibly.
     > * The word orientation was used in the sense of positioning  (google-scholar shows quite a few results with 'orientation matters' and most are about physics and also the oxford dictionary lists 'position' as the first meaning).  However, orientation is used in different contexts and depending on the background, what one thinks when reading 'orientation' can vary - in social contexts, orientation is often used to denote attitudes or sexual orientation. 
     > * McCray & Co does *not* imply that the research is business focussed (business focussed = showing and interpreting the results to highlight the benefits of a product instead of an unbiased analysis of the topic), it is outstanding and shows a basics principle of betacoronavirus, namely they mostly live on the surfaces and not within tissues.
@@ -108,7 +107,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 15./16.10. Early Online Update for the sections [Protection Measures](../7_social/controlling.md#thoughts-about-social-measures) and [Transmission](../5_epidemiological/transmission.md) in online work. Due to steep increase of cases in Europe and new pieces of evidence regarding transmission.
     > The steep increases despite protection measures in place is noteworthy, since it indicates many hidden/undetected cases.
 - 10./14.10. References to section 'Backtracing SARS-like' re-added. The references are found in the article [Hypotheses about Nidovirales](2_biological/hosts_of_nidovirales.md)
-- 8.-13. 10. Public Advice and Suggestions renamed to [Public/General Suggestions and Thoughts](../1_introduction/suggestions_and_tips.md#public-suggestions-and-thoughts) and adapted
+- 8.-13. 10. Public Advice and Suggestions renamed to [Public/General Suggestions and Thoughts](../1_introduction/suggestions.md#public-suggestions-and-thoughts) and adapted
 - 3.8. [Airborne Transmission](../5_epidemiological/transmission.md#recap-airborne-transmission) section added 
 - 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](../2_biological/life-forms.md) page
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
