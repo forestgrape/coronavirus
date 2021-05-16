@@ -9,17 +9,20 @@
 * [Content](#content)
 * [Summary](#summary)
   * [Summary Principles](#summary-principles)
-  * [Summary Evaporation and Condensation](#summary-evaporation-and-condensation)
-  * [Summary Efflorescence](#summary-efflorescence)
+  * [Summary Changes in Intermolecular Binding Patterns](#summary-changes-in-intermolecular-binding-patterns)
 * [Principles](#principles)
   * [Nuclear-Physical Topics](#nuclear-physical-topics)
   * [Chemical Topics](#chemical-topics)
   * [Physical Topics](#physical-topics)
 * [Bindings give Matter Structure and State](#bindings-give-matter-structure-and-state)
-* [Changes in Binding Patterns](#changes-in-binding-patterns)
+* [Changes in intermolecular Binding Patterns](#changes-in-intermolecular-binding-patterns)
   * [Condensation and Evaporation](#condensation-and-evaporation)
-  * [Efflorescence](#efflorescence)
+  * [Efflorescence and Deliquescence](#efflorescence-and-deliquescence)
+* [References](#references)
+  * [References Efflorescence and Deliquescence](#references-efflorescence-and-deliquescence)
 * [History and Relation of Biology, Chemistry and Physics](#history-and-relation-of-biology-chemistry-and-physics)
+
+
 
 ## Summary
 ### Summary Principles
@@ -35,17 +38,16 @@ Molecules, ions and inert elements are called here physical elements. These and 
 
 Within a substance different intermolecular forces can act, especially when the substance consists of different materials. The intermolecular forces depend on the setting: temperature and all the substances present. 
 
-### Summary Evaporation and Condensation
+### Summary Changes in Intermolecular Binding Patterns
 Changes in the temperature or the mixture of substances influence the intermolecular forces, which can result in state transitions:
 * solid <---> liquid (freezing <- and melting ->)
 * liquid <---> gaseous (condensation <- and evaporation ->)
 * solid <---> gaseous (sublime ->)
 
-### Summary Efflorescence
-For mixtures the different parts can be mixed in different ways or not mixed at all:
-* crystallized in liquid <---> solute in liquid (crystallize = become efflorescent <-, dissolve ->).
-* solid next to gas <---> gas-like in gas (sediment <-, -> aerosolize ->)
+Particles which can absorb water are called hygroscopic. These can growth or shrink in humid respectively in dry air.
 
+Evaporation can lead to over saturation of a solution and cause the organic or inorganic materials to crystallize. A process call efflorescence:
+crystallized next to liquid <---> solute in liquid (slowly crystallize due to over saturation usually due to evaporation = efflorescence <-, dissolve due to water uptake ->).
 
 
 ## Principles 
@@ -144,11 +146,11 @@ Bindings can induce only locally constant positions which induces small solid pa
 
 
 
-## Changes in Binding Patterns
+## Changes in intermolecular Binding Patterns
 
 ### Condensation and Evaporation
 
-> ##### Evaporation Process
+> ##### Evaporation
 > The process when molecules from a liquid escape the intramolecular binding to move into the gaseous phase.
 
 
@@ -157,6 +159,8 @@ Bindings can induce only locally constant positions which induces small solid pa
 
 >> ##### Condeva Equilibrium
 >> The condeva equilibrium is the state where the rates of evaporation and condensation are equal.
+
+> I haven't come across an official definition of the condeva equilibrium, so this is a definition used only here. Likely there is something like this under a different name.
 
 At the condeva equilibrium the particles stay constant in size. For a given substance there is specific relative humidity at which particles of the substance are in the condeva equilibrium:
 
@@ -168,31 +172,53 @@ At the condeva equilibrium the particles stay constant in size. For a given subs
 * If the relative humidity is above 100% the water condensates and near instant a relative humidity of 100% is reached.
 
 
-### Efflorescence
+### Efflorescence and Deliquescence
 
-> ##### Efflorescence Process
-> Efflorescence is the process when dissolved matter crystallizes. 
+> ##### Efflorescence
+> Efflorescence is the process dissolved matter falls out and crystallizes. 
 
-Usually efflorescence happens because of evaporation of water out of a solution. E.g. when enough water evaporates from a sodium chloride (common salt) solution, the sodium chloride crystallizes into many tiny crystals which all reflect light (white color).
+Usually efflorescence happens because of evaporation of water out of a solution but other mechanism to remove water are possible to such as other substances which absorb water. 
+
+Example: When enough water evaporates from a sodium chloride (common salt) solution, the sodium chloride crystallizes into many tiny crystals which all reflect light (white color).
 
 > ##### Efflorescent Humidity
-> The efflorescent humidity-point for a homogenous solution is the humidity at which the solute crystallizes.
+> The efflorescent humidity-point for a homogenous solution is the humidity at which the solute crystallizes due to evaporation of water.
 
 Notes:
 * The efflorescent humidity depends on the solution e.g. proteins, salts and fatty acids in a solution are determinants of its efflorescent humidity.
-* For a solution containing different solutes not all solutes may crystallize at the same humidity. Thus the efflorescent point is cannot be precisely given for the entire solution.
+* For a solution containing different solutes not all solutes may crystallize at the same humidity. Thus the efflorescent point is cannot be given as a single humidity value for the entire solution.
 * For respiratory tract fluids it is about 30 to 40%. 
-    > // The efflorescent humidity is likely lower for upper respiratory tract fluids and higher for LRT fluids [to confirm and cite]. // Guess: about 40% for LRT fluids and about 30% for URT fluids.
+    > // The efflorescent humidity is likely lower for upper respiratory tract fluids than for LRT fluids since URT fluids are more hydrophilic [to confirm and cite]. // Guess: about 40% for LRT fluids and about 30% for URT fluids.
+
+> ##### Deliquescence
+> *Deliquescence* is the process when solid matter goes into solution.
+
+1. Deliquescence is opposite to efflorescence.
+2. Deliquescence is for salts is usually due to absorption of water.
+3. For organic substance deliquescence is can be due to decay.
+4. Ice-blocks in the sea become deliquescent upon melting.
+
+> Note: In chemistry deliquescence usually only is used for 2. and not for 3. and 4..
+
+> ##### Deliquescence Humidity
+> The deliquescence humidity is the humidity at which a substance absorbs enough water such that it dissolves in the water.
+
+The deliquescence humidity is always greater equal than the efflorescence humidity. Usually much greater except if there are 'contact crystals'. Contact crystals can serve as a starting ground for crystals to build i.e. they seed crystal formation. Seeding crystals cause the efflorescence humidity to increase, even close to the deliquescence is possible. Typical values are 40% for the efflorescence humidity and 80% for the deliquescence humidity. With seeding crystals the efflorescence humidity can increase close to 80%. These behavior is shown and described in Fig. 3 in the work of [Davis et al](#summary-davis).
+
+> ##### Seed Crystal
+> A crystal which acts as nucleolus for crystallization.
 
 
 
-
+## References
+### References Efflorescence and Deliquescence
+#### Summary Davis
+**Contact efflorescence as a pathway for crystallization of atmospherically relevant particles**
+> in work
 <!--
-
 ## Biological Topics
 ### Break Points in Life Forms
 Life forms can loose viability either when the molecules themselves or their structure and arrangement are broken.
-
 -->
 
 
