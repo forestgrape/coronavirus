@@ -43,6 +43,7 @@
   * [References Living Conditions](#references-living-conditions)
 * [References](#references)
   * [Epidemiological Patterns](#epidemiological-patterns)
+  * [Aerosol Transmission](#aerosol-transmission)
 * [Appendix](#appendix)
   * [Sport Events](#sport-events)
 
@@ -144,7 +145,7 @@ For regions across the world the following is analysed:
   * High number of cases: in the Lombardy (starting point and discovered late, many residential blocks, history of air pollution), central Spain (quite high altitude, dense living conditions), Belgium, UK (obesity rate quite high, residential blocks)
 * Summer and Autumn 2020:
   * Focus on droplet prevention, Masks usage becomes common.
-  * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal). [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]. So the wave likely started in ACs rooms in Portugal moved to Spain and in late summer to France.
+  * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal). [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]. So the wave probably started in ACs rooms in Portugal moved to Spain and in late summer to France and UK. Next the wave hit Switzerland, Belgium and Netherlands.
   * [in work] In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In october when temperatures fell and in the population centers the heating season started, cases sharply increased.
 * Winter 2020 [in work]
 
@@ -154,12 +155,15 @@ For regions across the world the following is analysed:
   * Strict measures in many areas
   * High number of severe cases in densely populated areas in the North (e.g. New York)
 * Summer 2020: Moderate to high number of severe cases in the urban centres of the Sun Belt.
-* Autumn 2020: High number of severe cases starting where the winter comes first: Central North and Colorado.
+* Autumn 2020: High number of severe cases starting where the winter comes first: Central North and at high altitude e.g. in Colorado.
 * Early to Mid Winter 2020/2021: High case numbers in many states (less severe cases where the winter is warmer)
-* Mid to Late Winter 2021: Cases start decreasing. Likely due to adequate protection measures e.g. indoor ventilation and masks but not overly strict e.g. allowing outdoors gastronomy and shopping (e.g. New York) => people are and meet outdoors.
+* Mid to Late Winter 2021: Cases start decreasing. Likely due to adapting measures to airborne transmission. 
+  > There's a helpful [aerosol FAQ](#marr-aerosol-faq) from the advisors which I came across when reading a [CO2 sensor usage recommendation](#stocker) from the Swiss university advisors, which is a recommended read by itself.
+  
+  In sensible indoor situations masks and ventilation and allowing outdoors gastronomy and shopping (e.g. New York) => people are and meet outdoors.
 * Spring 2020: 
   * Restrictions are lessened in many states. 
-  * The vaccine program likely reduces the number of severe cases. 
+  * A large vaccination program which likely reduces the number of severe cases. 
   * Especially in the Southern states, a key reason for low cases are likely the warming temperatures.
 
 ### South Americas
@@ -507,7 +511,8 @@ References without a summary are in the section [References](#references). Copy 
 #### Summary Madewell
 **Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate**
 Zachary J. Madewell, Yang Yang, Ira M. Longini Jr, M. Elizabeth Halloran, Natalie E. Dean
-medRxiv preprint doi: [https://doi.org/10.1101/2020.07.29.20164590](), posted August 1, 2020.
+medRxiv preprint 
+<https://doi.org/10.1101/2020.07.29.20164590>, posted August 1, 2020.
 
 ##### Methods
 Meta-Analysis of studies regarding the transmission dynamics of Covid-19 in household settings. Many different kind of studies are included: * Covid diagnosis based on RT-PCR, whole-genome sequencing, nucleic acid tests, antibody tests and some studies included symptoms. 
@@ -537,7 +542,7 @@ Comparison with SARS-1 or MERS:
 
 #### Summary Adam,Wu
 **Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
-Adam D, Wu P, Wong J, et al. Research Square; 2020. [https://doi.org/10.21203/rs.3.rs-29548/v1]()
+Adam D, Wu P, Wong J, et al. Research Square; 2020. <https://doi.org/10.21203/rs.3.rs-29548/v1>
 
 ##### Methods
 "Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection."
@@ -582,7 +587,8 @@ The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequ
 
 #### Summary Ehrhardt,Brockmann
 **Transmission of SARS-CoV-2 in children aged 0 to 19 years in childcare facilities and schools after their reopening in May 2020**
-Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wagner-Wiening C , Eichner M , Brockmann SO . , Baden-Württemberg, Germany. Euro Surveill. 2020;25(36):pii=2001587. [https://doi.org/10.2807/1560-7917.ES.2020.25.36.2001587]()
+Ehrhardt J , Ekinci A , Krehl H , Meincke M , Finci I , Klein J , Geisel B , Wagner-Wiening C , Eichner M , Brockmann SO . , Baden-Württemberg, Germany. Euro Surveill. 2020;25(36):pii=2001587. 
+<https://doi.org/10.2807/1560-7917.ES.2020.25.36.2001587>
 
 ##### Methods
 "We investigated data from severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infected 0–19year olds, who attended schools/childcare facilities, to assess their role in SARS-CoV-2 transmission after these establishments’ reopening in May 2020 in Baden-Württemberg, Germany."
@@ -654,7 +660,8 @@ Analyzing a large high school out break in Israel shortly after schools have bee
 
 #### Summary Perez-Lopez
 **Dramatic decrease of laboratory‐ confirmed influenza A after school closure in response to COVID‐19**
-Perez‐Lopez A, Hasan M, Iqbal M, Janahi M, Roscoe D, Tang P.; Pediatric Pulmonology. 2020;1–2. [https://doi.org/10.1002/ppul.24933]()
+Perez‐Lopez A, Hasan M, Iqbal M, Janahi M, Roscoe D, Tang P.; Pediatric Pulmonology. 2020;1–2. 
+<https://doi.org/10.1002/ppul.24933>
 
 ##### Methods
 * "A proactive school closure was the first social distancing measure implemented by the State of Qatar on 10 March."
@@ -681,7 +688,8 @@ Parainfluenza | 3.1 (2‐4.6)| 3.6 (2.1‐6.4) | 1.2 (0.6‐2.3)
 #### Summary Rader,Scarpino
 **Crowding and the shape of COVID-19 epidemics**
 Rader, B., Scarpino, S.V., Nande, A. et al.
-Nat Med (2020). [https://doi.org/10.1038/s41591-020-1104-0]()
+Nat Med (2020). 
+<https://doi.org/10.1038/s41591-020-1104-0>
 
 ##### Goal
 Figure out the effect of population densities (crowding), mobility, humidity on the overall and the temporal distribution of Covid-19 incidences. 
@@ -751,7 +759,8 @@ People belonging to the thirds with the smallest living space per person have th
 [in work]
 **Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities**
 Benjamin D. Dalziel, Stephen Kissler, Julia R. Gog, Cecile Viboud, Ottar N. Bjørnstad, C. Jessica E. Metcalf and Bryan T. Grenfell
-Science 362 (6410), 75-79. [https://doi.org/10.1126/science.aat6030]()
+Science 362 (6410), 75-79. 
+<https://doi.org/10.1126/science.aat6030>
 
 ##### Methods
 * " However, the role of city size and structure in shaping transmission patterns of seasonal influenza is not well understood. We address this here using 6 years (2002 to 2008) of data on weekly incidence of influenza- like illness (ILI) in 603 three-digit postal (ZIP) codes across the United States, assembled from medical claims data (34)."
@@ -770,16 +779,17 @@ References with a summary are in the section [Summarized References](#summarized
 #### Lee,Raszka
 Lee B and Raszka WV. 
 **COVID-19 Transmission and Children: The Child Is Not to Blame.**
-Pediatrics. 2020;146(2):e2020004879 [https://doi.org/10.1542/peds.2020-004879]()
+Pediatrics. 2020;146(2):e2020004879 
+<https://doi.org/10.1542/peds.2020-004879>
 
 #### Choi
 Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). 
 **In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases**, 26(11), 2713-2716. 
-https://dx.doi.org/10.3201/eid2611.203254.
+<https://dx.doi.org/10.3201/eid2611.203254.>
 
 #### Freedman
 Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
-https://doi.org/10.1093/jtm/taaa178                                                                                                            
+<https://doi.org/10.1093/jtm/taaa178>                                                                                                          
 
 
 ### Epidemiological Patterns
@@ -792,17 +802,28 @@ https://doi.org/10.1016/S0140-6736(20)30644-9
 
 ##### mizumoto 
 Kenji Mizumoto, Gerardo Chowell
-  **Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
+**Transmission potential of the novel coronavirus(COVID-19) on board the diamond Princess Cruises Ship, 2020**
 https://doi.org/10.1016/j.idm.2020.02.003
   
 ##### honein
-  Temet M. McMichael et al.
-  **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
-  This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
+Temet M. McMichael et al.
+**Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
+This article was published on March 27, 2020, at NEJM.org. https://doi.org/10.1056/NEJMoa2005412
 
 ##### lin
-  LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
-  **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054  
+LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
+**Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. https://doi.org/10.1017/S0950268805005054  
+
+### Aerosol Transmission
+
+##### Marr-aerosol-faq
+**FAQs on Protecting Yourself from COVID-19 Aerosol Transmission**
+Shortcut to this page: <https://tinyurl.com/FAQ-aerosols>
+Version: 1.87, 9-Dec-2020
+
+##### Stocker
+**On the use of CO2 sensors in schools and other indoor environments**
+<https://sciencetaskforce.ch/wp-content/uploads/2021/04/CO2_sensors12Apr21-EN.pdf>
 
 ## Appendix
 
@@ -824,7 +845,7 @@ https://doi.org/10.1016/j.idm.2020.02.003
 
 
 #### Results from Leagues with Spectators
-Sources: [https://www.sofascore.com](), [https://www.bbc.com/sport/football/scores-fixtures](), [https://www.srf.ch/sports]() [accessed in early November]
+Sources: <https://www.sofascore.com>, <https://www.bbc.com/sport/football/scores-fixtures>, <https://www.srf.ch/sports> [accessed in early November]
 * Netherlands
   * A very steep increase of Covid-19 cases in early October
 * Switzerland
