@@ -94,7 +94,7 @@ This section overviews the content. The [full content section](#content) lists t
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
 *   >> ##### New Definition
-    >> *'New' definitions* are written like. 'New' means it is defined on this page and not a definition commonly used in literature (introduced on 15.5.21). Please point out if there is a definition already in use with the same meaning. 
+    >> *'New' definitions* are written like this. 'New' means it is defined on this page and not a definition commonly used in literature (introduced on 15.5.21). Please point out if there is a definition already in use with the same meaning. 
 
 *   > ##### Comments
     > * _Comments_, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
