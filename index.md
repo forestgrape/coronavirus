@@ -5,21 +5,17 @@ home: true
 
 
 # Understanding Betacoronaviruses and their Diseases
-
-
-## Local Content (this page)
-* Local Content (this)
-* [Bird View of Content](#bird-view-of-content): Content Overview
-* [Recent Topics Added](#recent-topics-added)
-* [Recent Updates](#recent-updates)
-* [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
-* [Content](#content). Content overview and twittering summaries.
-* [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
  
 ## Bird View of Content
 This section overviews the content. The [full content section](#content) lists the topics discussed in more detail. The chapter links point there.
 
 * Index (this page)
+  * [Bird View of Content](#bird-view-of-content): This section.
+  * [Recent Topics Added](#recent-topics-added)
+  * [Recent Updates](#recent-updates)
+  * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
+  * [Content](#content). Content overview and twittering summaries.
+  * [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
 <!--formatting like this to number introduction with 1.-->
 
 1. [Introduction](#introductory-topics)
@@ -97,8 +93,8 @@ This section overviews the content. The [full content section](#content) lists t
 *   > ##### Definitions
     > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
-*   >> ##### NEW Definition
-    >> *NEW definitions* are written like. NEW means it is defined on this page and not a definition commonly used in literature (introduced on 15.5.21). Please point out if there is a definition already in use with the same meaning. 
+*   >> ##### New Definition
+    >> *'New' definitions* are written like. 'New' means it is defined on this page and not a definition commonly used in literature (introduced on 15.5.21). Please point out if there is a definition already in use with the same meaning. 
 
 *   > ##### Comments
     > * _Comments_, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
