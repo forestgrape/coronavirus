@@ -30,7 +30,6 @@
   * [Large Scale Sporting Events](#large-scale-sporting-events)
 * [Other Viruses](#other-viruses)
   * [Betacoronaviruses](#betacoronaviruses)
-  * [Alphacoronaviruses](#alphacoronaviruses)
   * [Respiratory Viruses](#respiratory-viruses)
 * [Population Characteristics](#population-characteristics)
   * [Infector Distribution](#infector-distribution)
@@ -441,14 +440,14 @@ Large scale sporting events provided likely ground for ultra-spreading events. T
 #### SARS-CoV-1
 * _Hotels_: Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in rooms on the same floor. Spread to personal was rarely observed.
 
-#### Mers-Cov:
+#### Mers-Cov
 Most superspreading events were observed in winter and often in hospitals ([Dudas et al 2017](#dudas-2017)).
 
-### Alphacoronaviruses
-
+<!--
+### Alphacoronaviruses [in work]
+-->
 
 ### Respiratory Viruses
-
 * Perez-Lopez et al analysed the effect of school closures on respiratory viruses. [Summary of Perez-Lopez et al](#summary-perez-lopez) and commented in the [Schools and children section](#schools-and-children).
 
 ---
