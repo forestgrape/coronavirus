@@ -150,20 +150,25 @@ For regions across the world the following is analysed:
 
 
 ### USA
+#### Observations
 * Spring 2020:
   * Strict measures in many areas
-  * High number of severe cases in densely populated areas in the North (e.g. New York)
+  * High number of severe cases in densely populated areas mainly in the North (e.g. New York)
 * Summer 2020: Moderate to high number of severe cases in the urban centres of the Sun Belt.
 * Autumn 2020: High number of severe cases starting where the winter comes first: Central North and at high altitude e.g. in Colorado.
 * Early to Mid Winter 2020/2021: High case numbers in many states (less severe cases where the winter is warmer)
-* Mid to Late Winter 2021: Cases start decreasing. Likely due to adapting measures to airborne transmission. 
-  > There's a helpful [aerosol FAQ](#marr-aerosol-faq) from the US advisors which I came across when reading a [CO2 sensor usage recommendation](#stocker) from the Swiss taskforce, which is itself a worthy read.
-  
-  In sensible indoor situations masks and ventilation and allowing outdoors gastronomy and shopping (e.g. New York) => people are and meet outdoors.
+* Mid to Late Winter 2021: Cases start decreasing. 
 * Spring 2020: 
   * Restrictions are lessened in many states. 
   * A large vaccination program which likely reduces the number of severe cases. 
-  * Especially in the Southern states, a key reason for low cases are likely the warming temperatures.
+  * A key reason for low cases are likely the warming temperatures, especially in the Southern states.
+
+#### Possible causes
+* Decline starting early January 2021: Likely due to adapting the protection measures to airborne transmission after peaks around thanksgiving. E.g. masks and ventilation and allowing outdoors gastronomy and shopping (e.g. New York) => people are and meet outdoors. The measures were adapted to the local situations.
+  > There's a helpful [aerosol FAQ](#marr-aerosol-faq) from the US advisors which I came across when reading a [CO2 sensor usage recommendation](#stocker) from the Swiss taskforce, which is a worthy read in itself.
+  
+  
+
 
 ### South Americas
 <!--
