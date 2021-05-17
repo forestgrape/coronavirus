@@ -9,7 +9,7 @@
 * [Geographical Observations and Analyses](#geographical-observations-and-analyses)
   * [Europe](#europe)
   * [USA](#usa)
-  * [South Americas](#south-americas)
+  * [South America](#south-america)
   * [India](#india)
   * [Nepal](#nepal)
 * [Findings from Geographical Analyses](#findings-from-geographical-analyses)
@@ -170,7 +170,7 @@ For regions across the world the following is analysed:
   
 
 
-### South Americas
+### South America
 <!--
 #### Observations Spring 2020
 Most countries in South Americas recorded many cases, a notable exception is Uruguay with very few cases and only a couple of deaths. The geographic and social situation are hugely different across the Continent. 
