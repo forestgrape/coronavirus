@@ -126,8 +126,9 @@ Reasons against masks seem sometimes rather searched:
 > Currently (winter 20/21 and spring 2021) 
 > * For short times (less than half an hour e.g. supermarket). I mainly use FFP1 masks of fold type. E.g. the model CX9501 (made by Jiangsu Sanfo Outdoor Products Co, Suqian, Jiangsu, China and sold for about 1$ at Migros) This model has some foam protection above the nose which reduces air into the eyes and provide comfort. Also behind-the-head clips supplemented. The masks are smelly when opened so open them ahead of the first use. Sometimes I also use surgical masks for day to day use.
 > * For longer time periods (more than about half an hour e.g. during train travel): I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). The filtration requirements for FFP1 masks is less than FFP2 masks but stricter than surgical masks. To my judgement the 3M 8710 E model does protect others from very fine aerosol as good as FFP2 models. Nevertheless I recommend FFP2 models if infected (tested or strong evidence) and ideally avoid situations with transmission opportunities.
-__Advantages__: As for most dust protection masks, the fit is dense thanks to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
+__Advantages__: As for most dust protection masks, the fit is dense due to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
+
 > * [Dense] masks are less important if severe cases go close to zero (e.g. in summer when not using AC).
 
 ### Personal Mask History
