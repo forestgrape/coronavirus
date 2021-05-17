@@ -53,7 +53,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 - 12.5. Many formulations and clarifications across the page. For clarity, all formulations (including comments) are not intended ambiguous and if they are it's by mistake. In face-to-face conversations ambiguity can work, but not on a page like this I realized. -> [Notes on Comments](#comments).
 
-- 27.4. Clarified Note [Comment on Comments](#comment-on-comments) and added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).
+- 27.4. Clarified Note on [Comments](#comments). Added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).
 
 - 25.4. Page coronaviruses separated into the pages:
   - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
