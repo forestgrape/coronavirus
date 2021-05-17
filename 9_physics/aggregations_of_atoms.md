@@ -214,12 +214,9 @@ The deliquescence humidity is always greater equal than the efflorescence humidi
 ### References Efflorescence and Deliquescence
 #### Summary Davis
 **Contact efflorescence as a pathway for crystallization of atmospherically relevant particles**
+
 > in work
-<!--
-## Biological Topics
-### Break Points in Life Forms
-Life forms can loose viability either when the molecules themselves or their structure and arrangement are broken.
--->
+
 
 
 
