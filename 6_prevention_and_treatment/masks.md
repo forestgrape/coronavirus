@@ -1,6 +1,5 @@
 # Masks
 * [Mask Usage](#mask-usage)
-* [Tips & Tricks](#tips--tricks)
 * [Mask Effectiveness](#mask-effectiveness)
 * [Mask Types](#mask-types)
   * [Filter Performance](#filter-performance)
@@ -10,7 +9,9 @@
   * [Reasons for Clean Masks](#reasons-for-clean-masks)
   * [Mask Recommendation](#mask-recommendation)
 * [Personal Mask Preferences](#personal-mask-preferences)
+  * [Tips & Tricks](#tips--tricks)
   * [Current Mask Preferences](#current-mask-preferences)
+  * [Personal Mask History](#personal-mask-history)
 * [References](#references)
 
 
@@ -23,11 +24,6 @@
 * To avoid person to person droplet transmission e.g. when speaking, wearing in close distance face-to-face situations is necessary.
 * Some mask have a big air resistance combined with a loose fit, in that case the air bypasses the mask. These are like wearable plexiglas: There's still protection against droplets, but the bypassed air contains [aerosol](../5_epidemiological/transmission.md#aerosol). 
 
-
-## Tips & Tricks
-* Carefully rounding the wire above the nose helps to reduce the airstream to the eyes.
-* Putting the masks a couple of hours to the fresh air before wearing reduces smells. Fabric smells can indicate volatile substances which may not be healthy to inhale (although I don't think these substance are any more hazardous than other substances we are daily exposed e.g. micro-plastic from car wires).
-* FFP1 masks of fold type and surgical masks to my experience become more comfortable with use since they loose their stiffness. As noted mask shouldn't be continuously over many hours; better to switch masks and [reuse the next day](#mask-reuse-and-cleaning).
 
 
 ## Mask Effectiveness
@@ -121,6 +117,11 @@ Reasons against masks seem sometimes rather searched:
 
 ## Personal Mask Preferences
 
+### Tips & Tricks
+* Carefully rounding the wire above the nose helps to reduce the airstream to the eyes.
+* Putting the masks a couple of hours to the fresh air before wearing reduces smells. Fabric smells can indicate volatile substances which may not be healthy to inhale (although I don't think these substance are any more hazardous than other substances we are daily exposed e.g. micro-plastic from car wires).
+* FFP1 masks of fold type and surgical masks to my experience become more comfortable with use since they loose their stiffness. As noted mask shouldn't be continuously over many hours; better to switch masks and [reuse the next day](#mask-reuse-and-cleaning).
+
 ### Current Mask Preferences
 > Currently (winter 20/21 and spring 2021) 
 > * For short times (less than half an hour e.g. supermarket). I mainly use FFP1 masks of fold type. E.g. the model CX9501 (made by Jiangsu Sanfo Outdoor Products Co, Suqian, Jiangsu, China and sold for about 1$ at Migros) This model has some foam protection above the nose which reduces air into the eyes and provide comfort. Also behind-the-head clips supplemented. The masks are smelly when opened so open them ahead of the first use. Sometimes I also use surgical masks for day to day use.
@@ -129,7 +130,7 @@ __Advantages__: As for most dust protection masks, the fit is dense thanks to ba
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
 > * [Dense] masks are less important if severe cases go close to zero (e.g. in summer when not using AC).
 
-> #### Personal Mask History
+### Personal Mask History
 > 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a very good and dense fit. However, the fit came at the cost of a reduced comfort: very tight bands around the head and not really comfortable at the nose.
 > 2. In summer 2020 I bought some cloth mask but I didn't like the fit since there was no fixation above the nose. I went to the hardware store to get some other dust FFP2s, however these were sold out but instead they had cloth masks. These had a good fit and were comfortable and I used them during summer.
 > 3. In autumn when (evidence for) aerosol transmission increased combined with reports that many cloth mask were not dense enough, I went on to surgical masks. There are differences between the models of surgical masks: some are easier to breath through while others more air sidelines by the nose/eyes, which can be distracting.
