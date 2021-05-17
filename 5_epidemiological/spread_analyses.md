@@ -66,9 +66,9 @@ The amount of exchanged air is high:
    * Increased inhaling
      * being at low air pressure (either high altitude or airplane) 
      * vocal activities such as singing or shouting
-     * strains e.g. sports. For people where ther air exchanged is lowered (e.g. arteriosclerosis) already going up a staircase can be enough.
-3. In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 seem not to occur.
-4. In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmissions of symptomatic Covid, neither populations based nor through contact-tracing (e.g. camping grounds, Take away food).
+     * strains e.g. sports. For people where the oxygen uptake is lowered (e.g. arteriosclerosis or very unathletic) already going up a staircase can be enough for deep breathing.
+1. In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 seem not to occur.
+2. In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmissions of symptomatic Covid, neither populations based nor through contact-tracing (e.g. camping grounds, Take away food).
   
 The observation strongly indicate a generalized aerosol transmission model (either aerosol or dry form transmission [Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). For the droplet transmission model the distance and speaking method would be expected to matter most.
 
@@ -278,15 +278,14 @@ Air humidity is relevant in theory since:
 
 
 ### Dirty Air Exposure
-> in work
-#### Air Pollution
-_Through Air Pollution_: Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Teheran
 
-#### Smoking
-_Through Smoking_: Smokers and Ex-Smokers. 
-* Ex-smokers have a higher risk for severe risk than never smokers.
+* ##### Air Pollution
+  _Through Air Pollution_: Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Teheran
 
-> Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be attributed (possibly toxic) environment changes in the lung caused by smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
+* ##### Smoking
+  _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
+
+  > Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be attributed (possibly toxic) environment changes in the lung caused by smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
 
 ### Lifestyles
 #### Overweight
