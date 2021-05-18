@@ -448,7 +448,9 @@ BALF          | 22.5 (21-24) | -
 ##### Methods
 * "We collected serial upper respiratory tract samples (1 nasopharyngeal swab and 1 throat swab put in a single collection tube with 1 mL of transport medium) for real-time PCR of SARS-CoV-2 RNA for all patients."
 * " Severe/critical patients were defined as those requiring invasive mechanical ventilation or high-flow nasal oxygen and mild as those not requiring supplementary oxygen or hospitalization."
-* "Viral load, expressed as log10 of viral RNA per swab, was calculated as (47 – observed cycle threshold value) / 3.4. This formula applies the average of the parameters (slope and constant) that we observe when we quantify viruses in serum using quantitative PCR with serial dilution of quantification standards (plasmid carrying target sequence) and presumes a 10-μL sample volume in the reaction and a 97% efficiency in the PCR." 
+* "Viral load, expressed as log10 of viral RNA per swab, was calculated as (47 – observed cycle threshold value) / 3.4. This formula applies the average of the parameters (slope and constant) that we observe when we quantify viruses in serum using quantitative PCR with serial dilution of quantification standards (plasmid carrying target sequence) and presumes a 10-μL sample volume in the reaction and a 97% efficiency in the PCR."
+  > -> [Calculation of Viral Load from CT value](#calculation-of-viral-load-from-ct_value); 3.4 is about log2(10) = 3.322 and transforms from log2 to log10
+
 ##### Results
 * "The highest viral loads were observed early after onset of symptoms in both groups of participants (Figure 1A and 1B). At 7 days, mean viral load among virus-positive patients was 5.8 log10 copies/swab for those with mild disease (n = 37) and 5.5 log10 copies/swab for those with severe/critical disease (n = 12) (P = .53). At 14 days, mean viral load was 4.4 log10 copies/swab for those with mild disease (n = 38) and 4.2 log10 copies/swab for those with severe/critical disease (n = 14) (P = .56)."
 * "The median duration of viral RNA shedding was 24.0 days in patients with mild disease and 22.5 days in patients with severe/critical disease (Figure 1C)."
