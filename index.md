@@ -16,7 +16,7 @@ This section overviews the content. The [full content section](#content) lists t
   * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
   * [Content](#content). Content overview and twittering summaries.
   * [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
-<!--formatting like this to number introduction with 1.-->
+<!--formatting like this to number introduction with 1. && ensure ok presentation -->
 
 1. [Introduction](#introductory-topics)
   * [Public Suggestions and Tips](./1_introduction/suggestions.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
@@ -83,34 +83,37 @@ This section overviews the content. The [full content section](#content) lists t
 * _Formulations_
    Sometimes words are not weighted carefully or formulations are unclear e.g. ambiguous. Some formulation are general. Some are subjective and marked as [comments](#comments). Ambiguity is not intended (also commented in [comments](#comments)). Upon discovery, unfitting formulations are improve. Feedback is appreciated and questions welcome.
 * _Symbols_
-   '=' denotes equals or it has the meaning of
-   '=>' = implies
-   '->' = points to further content/explanations
-   'a := b' = a defines b
-   '&' := and <!--('&' has a higher precedence than 'and')-->
+   * '=' denotes 'equals' or 'has the meaning of' or 'set equal to'
+   * '=>' = implies
+   * '->' = points to further content/explanations
+   * 'a := b' = a defines b (to emphasize a definition or specify the order)
+   * '&' := and  <!--('&' has a higher precedence than 'and')-->
+   * {hello} = Repetition of hello e.g. hello, hello, hello
+   * [to check] = Annotation if something is in work or needs checking. 
+   * [good] morning = facultative word (same syntax as work annotations, distinction upon context)
 
 
-*   > ##### Definitions
-    > *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
+> ##### Definitions
+> *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
 
-*   >> ##### New Definition
-    >> *'New' definitions* are written like this. 'New' means it is defined on this page and not a definition commonly used in literature (introduced on 15.5.21). Please point out if there is a definition already in use with the same meaning. 
+>> ##### New Definition
+>> *'New' definitions* are written like this. 'New' means it is defined on this page and not a definition commonly used in literature (introduced on 15.5.21). Please point out if there is a definition already in use with the same meaning. 
 
-*   > ##### Comments
-    > * _Comments_, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
-    > 
-    > * _Off Topic Remarks:_ Sometimes subjective off topic remarks are added. One reason for subjective off-topic remarks is transparency and background for the mindset behind suggestions. 
-    >
-    > * _No ambiguity:_ Some comments are general but ambiguity is not indented. The reason is clarity. (In the beginning, a few comments were ambiguous but this is not intended anymore, since it possibly opened doors for unintended interpretations. I excuse for that.)
-    
-    > ##### Mindset in short
-    > * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.*
-    > * Fairness is important. Attitudes or group memberships - as long as they respect others - should *only* matter if directly relevant and really necessary for the task of interest.
-    >
-    > More notes in
-    > * [Respect and Take Care](./1_introduction/suggestions.md#respect-and-take-care) on the Suggestion and Tips page
-    > * [Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) on the Update History page
-    > * [Baseline Principles](./7_social/economics.md#baseline-principles) on the Economic page.
+> ##### Comments
+> * _Comments_, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
+> 
+> * _Off Topic Remarks:_ Sometimes subjective off topic remarks are added. One reason for subjective off-topic remarks is transparency and background for the mindset behind suggestions. 
+>
+> * _No ambiguity:_ Some comments are general but ambiguity is not indented. The reason is clarity. (In the beginning, a few comments were ambiguous but this is not intended anymore, since it possibly opened doors for unintended interpretations. I excuse for that.)
+
+> ##### Mindset in short
+> * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.*
+> * Fairness is important. Attitudes or group memberships - as long as they respect others - should *only* matter if directly relevant and really necessary for the task of interest.
+>
+> More on the mindset in the chapters:
+> * [Respect and Take Care](./1_introduction/suggestions.md#respect-and-take-care) on the Suggestion and Tips page
+> * [Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) on the Update History page
+> * [Baseline Principles](./7_social/economics.md#baseline-principles) on the Economic page.
 
 
 
