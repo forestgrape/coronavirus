@@ -215,12 +215,12 @@ Notes:
 > ##### Deliquescence
 > *Deliquescence* is the process when solid matter goes into solution.
 
-1. Deliquescence is opposite to efflorescence.
-2. Deliquescence is for salts is usually due to absorption of water.
-3. For organic substance deliquescence is can be due to decay.
+1. Deliquescence for salts is usually due to absorption of water.
+2. Deliquescence is opposite to efflorescence for the adsorption of water.
+3. For organic substance decay can yield deliquescence.
 4. Ice-blocks in the sea become deliquescent upon melting.
 
-> Note: In chemistry deliquescence usually only is used for 2. and not for 3. and 4..
+> In chemistry deliquescence usually only is used in the sense of 2. but not for 3. and 4.. 
 
 > ##### Deliquescence Humidity
 > The deliquescence humidity is the humidity at which a substance absorbs enough water such that it dissolves in the water.
@@ -236,6 +236,9 @@ The deliquescence humidity is always greater equal than the efflorescence humidi
 ### References Efflorescence and Deliquescence
 #### Summary Davis
 **Contact efflorescence as a pathway for crystallization of atmospherically relevant particles**
+Ryan D. Davis, Sara Lance, Joshua A. Gordon, Shuichi B. Ushijima, Margaret A. Tolbert
+Proceedings of the National Academy of Sciences Dec 2015, 112 (52) 15815-15820; 
+<https://doi.org/10.1073/pnas.1522860113>
 
 > in work
 
