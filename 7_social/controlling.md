@@ -7,7 +7,7 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 * [Mindset and Strategy to Tackle Covid](#mindset-and-strategy-to-tackle-covid)
 * [Spread Assumptions](#spread-assumptions)
   * [Indoors](#indoors)
-  * [Outdoors is Safer](#outdoors-is-safer)
+  * [Outdoors](#outdoors)
   * [Spread Metaphor](#spread-metaphor)
   * [Differences between Individuals](#differences-between-individuals)
   * [Summed Up](#summed-up)
@@ -36,6 +36,8 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 * [References](#references)
   * [Laboratory Biosafety](#laboratory-biosafety)
   * [Control and Containing Measures](#control-and-containing-measures)
+* [Appendix](#appendix)
+  * [Outdoor is Safer](#outdoor-is-safer)
 
 
 ## Mindset and Strategy to Tackle Covid 
@@ -64,34 +66,12 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 The design of measures relies on transmission models. Here it as assumed that the main transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like.
 
 ### Indoors
-#### Observations
-* Indoor Air: The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, which makes sense in sensible situations), no increased spreading has been noticed/observed. Evidence for aerosol transmission is described in [Spread Analyses](../5_epidemiological/spread_analyses.md). 
+The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of dry air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, sometimes without), no increased spreading has been noticed/observed. Evidence for aerosol transmission is described in [Spread Analyses](../5_epidemiological/spread_analyses.md).
 
-#### Biological Mechanism
-The observations are explained by: In dry air, tiny aerosol form. Tiny and dry particulates are most likely to be deposited in the deep lungs (chapter [Airborne Transmission](../5_epidemiological/transmission.md)). The [viability of coronaviruses](../2_biological/virion_viability.md) is also highest in dry particulates, especially without sunlight.
+The observations are explained by: In dry air, tiny aerosol form. Tiny and dry particulates are most likely to be deposited in the deep lungs (chapter [Airborne Transmission](../5_epidemiological/transmission.md)). The [viability of coronaviruses](../2_biological/virion_viability.md) is also highest in dry particulates.
 
-### Outdoors is Safer
-Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation. However, the infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md) Outdoors, the main transmission opportunities is droplet transmission in face-to-face situations (however droplet infections are unlikely to cause deep lung infections and the associated severe Covid ([Disease Pattering](../3_medical/coronavirus_disease_patterns.md)). 
-
-Outdoors is safer because of:
-- [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
-- [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
-- The [coronavirus decay rate](../2_biological/virion_viability.md) is fast compared to other forms of life and they can't repair any damage. Exposed to  disinfectants or soap most virions decay within a minute. Sunlight and high temperatures also render the virions un-infectious fast. The virions survive longest in dry air without sunlight. Even on cloudy days and towards the evening sunlight induce a quite fast decay.
-  > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. Unlike virions we also have an advanced repair mechanism which often can put things right again.
-
-#### Dilution
-Outdoors there is much more air per person than inside:
-* In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
-* Even in the most densely populated cities the population density reaches at most 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, this yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
-* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:
-(1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person.
-
-#### Virion Clearance
-Virion are cleared from the air by the mechanism below and due to [virion decay](#virion-decay) there's no accumulation.
-- [Virion Decay](./stability.md) in air: occurs mainly through sun light
-- Condensation 
-- Washed out by rain
-- Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outdoors, the vast majority of surfaces are not infectable. 
+### Outdoors
+Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoor-is-safer)). However, the infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md). 
 
 ### Spread Metaphor
 Airborne transmissions can be thought [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). 
@@ -101,13 +81,13 @@ Airborne transmissions can be thought [smoke like](../5_epidemiological/transmis
 ### Differences between Individuals
 * Some people are super-spreaders while many people don't spread Covid.
 * Children get less infected and are less infectious. No super spreading events have been linked to children (to my knowledge).
-* Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)). => (Encouraging) Transparency is important.
+* Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)).
 
-  > (Encouraging) Transparency is always important.
+  > => (Encouraging) Transparency is helpful and important.
 
 ### Summed Up
-* Outdoor activities reduce the overall Covid burden. Outdoor activities even can reduce the overall Covid spread and especially the number of severe cases, since less time is spent indoors and the lifestyles are healthier.
-* Most covid transmissions occur in not well ventilated indoor settings. Indoor air which many people breath is in large buildings: E.g. stairwells in residential blocks, supermarkets, indoor arenas, large offices, cruise ships, airplanes (high altitude) or crowded bars.
+* Outdoor activities reduce the overall Covid burden since: 1) the amount of 'covid-safe' activities increases. 2) Outdoor activities even can reduce the overall Covid spread and especially the number of severe cases, since less time is spent indoors and the lifestyles are healthier.
+* Most covid transmissions occur in not well ventilated indoor settings. Indoor air which many people breath is in large buildings: E.g. stairwells in residential blocks, shared bedrooms, supermarkets, indoor arenas, large offices, cruise ships, airplanes (high altitude) or crowded bars.
 * Appropriate spread precaution measures and good treatment is important for people with severe Covid.
 
 
@@ -485,3 +465,27 @@ Measure regarding schools can reach from complete closure to mild measures such 
     Smieszek, T., Lazzari, G., & Salathé, M. (2019). 
     **Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System.** 
     Scientific reports, 9(1), 2185. https://doi.org/10.1038/s41598-019-38825-
+
+
+## Appendix
+
+### Outdoor is Safer
+Outdoors is safer because of:
+- [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
+- [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
+- The [coronavirus decay rate](../2_biological/virion_viability.md) is fast compared to other forms of life and they can't repair any damage. Exposed to  disinfectants or soap most virions decay within a minute. Sunlight and high temperatures also render the virions un-infectious fast. The virions survive longest in dry air without sunlight. Even on cloudy days and towards the evening sunlight induce a quite fast decay.
+  > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. Unlike virions we also have an advanced repair mechanism which often can put things right again.
+
+#### Dilution
+Outdoors there is much more air per person than inside:
+* In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
+* Even in the most densely populated cities the population density reaches at most 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, this yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
+* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:
+(1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person.
+
+#### Virion Clearance
+Virion are cleared from the air by the mechanism below and due to [virion decay](#virion-decay) there's no accumulation.
+- [Virion Decay](./stability.md) in air: occurs mainly through sun light
+- Condensation 
+- Washed out by rain
+- Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outdoors, the vast majority of surfaces are not infectable. 
