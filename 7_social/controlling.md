@@ -125,7 +125,7 @@ Proposals for good health:
 * Healthy nutrition 
 * Providing information and tips to focus on health and the immune system
 
-There are many more reasons good health - including an intact immune system - is important.
+There are many more good reasons good health - including an intact immune system - is important.
 
 
 ### Masks
