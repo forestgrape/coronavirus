@@ -37,7 +37,7 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
   * [Laboratory Biosafety](#laboratory-biosafety)
   * [Control and Containing Measures](#control-and-containing-measures)
 * [Appendix](#appendix)
-  * [Outdoor is Safer](#outdoor-is-safer)
+  * [Outdoors is Safer](#outdoors-is-safer)
 
 
 ## Mindset and Strategy to Tackle Covid 
@@ -71,7 +71,7 @@ The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cas
 The observations are explained by: In dry air, tiny aerosol form. Tiny and dry particulates are most likely to be deposited in the deep lungs (chapter [Airborne Transmission](../5_epidemiological/transmission.md)). The [viability of coronaviruses](../2_biological/virion_viability.md) is also highest in dry particulates.
 
 ### Outdoors
-Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoor-is-safer)). However, the infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md). 
+Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoors-is-safer)). However, the infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md). 
 
 ### Spread Metaphor
 Airborne transmissions can be thought [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). 
@@ -470,7 +470,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
 
 ## Appendix
 
-### Outdoor is Safer
+### Outdoors is Safer
 Outdoors is safer because of:
 - [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
 - [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
