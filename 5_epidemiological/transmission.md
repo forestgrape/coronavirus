@@ -110,7 +110,7 @@ The larger droplets keep their name and are called droplets:
 > in work and in raw form. To be checked for correctness.
 
 
-Those particles with a very small S/m ratio will just fall down. For particulates with a large or intermediate S/m ratio stay longer in the air and can be subject to condensation and evaporation. For a certain particle composition there exists a relative humidity at which the evaporation and condensation are in an equilibrium called condeva equilibrium (-> section [Evaporation and Condensation](../9_physics/aggregations_of_atoms.md#condensation-and-evaporation) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md))
+Those particles with a very small S/m ratio will just fall down. For particulates with a large or intermediate S/m ratio stay longer in the air and can be subject to condensation and evaporation. For a certain particle composition there exists a relative humidity at which the evaporation and condensation are in an equilibrium named condeva equilibrium, at relative humidities below the particles evaporate and thus shrink and above water condensates and the particles growth (-> section [Evaporation and Condensation](../9_physics/aggregations_of_atoms.md#condensation-and-evaporation) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md)).
 
 if S/m ratio small => fall down
 if S/m ratio intermediate or large -> stay in and move with the air =>
