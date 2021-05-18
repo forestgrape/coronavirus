@@ -40,6 +40,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ## Recent Updates
+- 18.5. [Spread analyses](./5_epidemiological/spread_analyses.md) refined.
 - 16.5. (commits 13.5. through 16.5.)
   - [Spread analyses](./5_epidemiological/spread_analyses.md): Added per regions analyses e.g. in Europe, US, India.
   - Masks: Added ['Tips & Tricks'](./6_prevention_and_treatment/masks.md#tips-&-tricks) section and added fold type mask to personal mask preferences.
