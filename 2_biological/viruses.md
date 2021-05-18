@@ -161,12 +161,15 @@ in work ...
 ### Behavior Metabolic Phase 
 [in work: incomplete and citations/confirmation in work]
 
-> The behavior in the virion phase is better known than the taxis in the metabolic phase. One reason is the cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). The transfected cell however don't need to behave similar to the cells which are naturally infected. So to investigate the metabolic phase,  To investigate the metabolic phase, ideally one could look into the cells.
+> The behavior in the virion phase is better known than the taxis in the metabolic phase. 
+> * The cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). Neither the transfected cell need to behave similar to the cells which are naturally infected nor the reprogrammed viruses behave similar once inside the cell.
+> * To investigate the metabolic phase, ideally one could look into the cells. Often one observes the cells just from the outside e.g. observing cell damage. 
+> * Detecting virus 'metabolites'/virion building blocks such as RNA or produced proteins is suitable to get hints for the intracellular behavior.
 
 
 ### Situation Specific Behaviors
 
-> I consider calling situation specific behavior at the 'micro'/'small-scale' level of life-forms as taxis. Generalizing the existing use of taxis of the movement of cellular life-forms.
+> Possibly 'taxis' is a good name for situation specific behavior at the 'micro'/'small-scale' level of life-forms. Generalizing the existing use of taxis of the directional movement behavior of cellular life-forms.
 
 ##### Cell Specific Behavior
 > *Cell behavior* is used on this page to describe how a virus behaves upon match of a virion to a specific cell type i.e. the behavior in specific cells.
