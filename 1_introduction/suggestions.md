@@ -39,7 +39,7 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
 
 
 ## How to Reduce Covid-19 Infection Paths
-> Remark: Some of the following advices are when Sars-Cov-2 ARDS/SARS disease patterns peak (they were also written during a SARS-2 peak).
+> Remark: Some of the following advices are when Sars-Cov-2 ARDS/SARS disease patterns peak (they were also written during a SARS-2 wave peak).
 
 In brief: To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
 
