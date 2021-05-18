@@ -147,6 +147,7 @@ What is solid, liquid or gaseous can vary depending on the task of interest. Exa
 
 
 ### Binding Patterns
+
 #### Bindings inducing Constant Positions
 The units *cannot* move respect to each other without breaking the bindings. 
 -> Solid matter
