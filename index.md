@@ -134,15 +134,15 @@ This section overviews the content. The [full content section](#content) lists t
 
 ### Biological Topics
 - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
-  - [Motion](./2_biological/mobility.md) How life form move or get moved to cross distances.
+  - [Mobility of Life Forms](./2_biological/mobility.md) How life form move or get moved to cross distances.
 - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do. Viruses are defined as life forms which are dependent on extern enzymes. Aspects such as life cycle and behavior are discussed.
-  - [Virion Viability](./2_biological/virion_viability.md)
-    * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
-    * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees.
-    * Above 45 degrees the decay fastens and is less dependent on the biochemical environment since the spring-loaded proteins loose their energy.
-    * A fast decay occurs when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation. Possible mechansims: osmotic pressure or increase of degrees of freedom of movement especially of the single stranded RNA/DNA.
+- [Virion Viability](./2_biological/virion_viability.md)
+  * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
+  * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees.
+  * Above 45 degrees the decay fastens and is less dependent on the biochemical environment since the spring-loaded proteins loose their energy.
+  * A fast decay occurs when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation. Possible mechansims: osmotic pressure or increase of degrees of freedom of movement especially of the single stranded RNA/DNA.
 - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
-  - [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
+- [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
     The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
 
 
@@ -168,11 +168,12 @@ This section overviews the content. The [full content section](#content) lists t
     - analyse spread pattern of Covid-19 which indicate aerosol transmission
     - and based on the discussions protection measures are suggested: smoke protection and masks.
 - [Spread Analyses](./5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
-- [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](#evidence-for-increased-immune-protection-against-sars-cov-2-from-exposure-to-bcovs) (*explorative section*)
+- [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](../coronavirus/5_epidemiological/covid_and_bovine_farming.md) (*explorative section*)
 
 
 ### Treatment and Prevention
 - [Movement](6_prevention_and_treatment/movement.md) How movement helps to get a better immune reaction upon a Covid infection and to recover faster and better.
+- [Masks](6_prevention_and_treatment/masks.md). Mask both reduce the spread and prevent infections. Not only from SARS-2 but from all viruses which infect through the respiratory tract e.g. influenza.
 - [Topical Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to prevent and cure respiratory infections including Covid. Coronaviruses (and other respiratory viruses) live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
   - [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
   - [Increase the mucus Flow by humidified air](./6_prevention_and_treatment/increasing_the_mucus_flow.md): Humidify inhaled air early on to increase the mucus flow and wash the virions out. The goal is a reduce viral load and better prognosis. (explorative)
