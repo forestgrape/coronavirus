@@ -129,7 +129,9 @@ Reasons against masks seem sometimes rather searched:
 __Advantages__: As for most dust protection masks, the fit is dense due to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
 
-> * [Dense] masks are less important if severe cases go close to zero (e.g. in summer when not using AC). But currently - as of May 21 - in most regions in the Northern Hemisphere I think masks are still appropriate in public indoor rooms for Everybody (I am *not* aware of a scientific and statistically founded argumentation to release mask mandate for recovered or vaccinated if it's about protecting others).
+~~Dense masks are less important if severe cases go close to zero (e.g. in summer when not using AC). But currently - as of May 21 - in most regions in the Northern Hemisphere I think masks are still appropriate in public indoor rooms for Everybody~~ In my opinion, there are good reasons to continue using masks in certain indoor public spaces (e.g. supermarkets or trains) but not necessarily in facultative places (e.g. offices or libraries) until Spring 22, even when the Covid cases are close to zero. This since masks also reduce the spread of the other respiratory diseases: 
+> * when mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and reduce contacts (e.g. crowded pub) upon infection.
+> * respiratory pathogens sometimes are underestimated and to reduce the strains around I consider a nice [side] effect.
 
 ### Personal Mask History
 > 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a very good and dense fit. However, the fit came at the cost of a reduced comfort: very tight bands around the head and not really comfortable at the nose.
