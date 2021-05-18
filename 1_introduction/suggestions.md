@@ -9,7 +9,6 @@
 * [Respect and Take Care](#respect-and-take-care)
 * [Live Healthily](#live-healthily)
 
-> Many parts date back to spring 2020 and some need updates.
 
 
 ## Covid-19 and Virus Infections
@@ -40,9 +39,9 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
 
 
 ## How to Reduce Covid-19 Infection Paths
-> Remark: Many of the following advices were written in spring 2020 when Sars-Cov-2 induced ARDS/SARS disease patterns peaked in Europe.
+> Remark: Some of the following advices are when Sars-Cov-2 ARDS/SARS disease patterns peak (they were also written during a SARS-2 peak).
 
-In brief: Think ahead and reduce the infection possibilities keep some distance or wear a mask and prefer fresh air. 
+In brief: To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
 
 * ### Outdoors
     [outdoors with some distance is safe](../7_social/controlling.md#outdoors-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
@@ -54,7 +53,7 @@ In brief: Think ahead and reduce the infection possibilities keep some distance 
 
 * ### Masks
     Wear a [mask](../7_social/controlling.md#masks) 
-    - outdoors and indoors: for close range face-to-face contact/talking. 
+    - Outdoors and indoors: for close range face-to-face contact/talking. 
     - In indoor places where susceptible or infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
     The mask should be clean/fresh, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
