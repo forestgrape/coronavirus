@@ -129,12 +129,12 @@ Reasons against masks seem sometimes rather searched:
 __Advantages__: As for most dust protection masks, the fit is dense due to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
 
-~~Dense masks are less important if severe cases go close to zero (e.g. in summer when not using AC). But currently - as of May 21 - in most regions in the Northern Hemisphere I think masks are still appropriate in public indoor rooms for Everybody~~ 
-> [Dense] masks are less important if cases go towards zero (e.g. in summer). But there are also good reasons to continue using masks in certain situations indoor public spaces (e.g. large supermarkets, trains, airplanes) but not necessarily in facultative places (e.g. offices or libraries) until Spring 22, even when the Covid cases go close to zero. And also not necessarily a general mask mandate since there are mile between going to the next door supermarket or taking some international flight. One reason is masks also reduce the spread of the other respiratory diseases: 
-> * when mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and reduce contacts (e.g. crowded pub) upon infection.
-> * respiratory pathogens sometimes are underestimated and to reduce the strains around I consider a nice [side] effect.
+ 
+> [Dense] masks are less important if cases go towards zero (e.g. in summer). But there are also good reasons to continue using masks in certain indoor public spaces (e.g. large shopping centers, crowded public transport, airplanes). Not necessarily in facultative places (e.g. offices or libraries) and probably not a general mandate since there are miles between going to the next door shop/office and taking some international flight. One reason is, masks also reduce the spread of the other respiratory diseases: 
+> * When mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and reduce contacts (e.g. crowded pubs) upon infection.
+> * Respiratory pathogens sometimes are underestimated and to reduce the circulating strains, I consider a nice [side] effect.
 > 
-> For infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable and useful protection against transmission, there's no reason to make exceptions for them if it's about protecting others (both past infections and vaccination do reliably protect against severe Covid however).
+> Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable and future proof protection against transmission, there's no reason to make exceptions if it's about protecting others (both past infections and vaccination do reliably protect against severe Covid however).
 
 ### Personal Mask History
 > 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a very good and dense fit. However, the fit came at the cost of a reduced comfort: very tight bands around the head and not really comfortable at the nose.
