@@ -140,7 +140,7 @@ Model | Metaphor   | Actions | Source/Deposition | Situations/Climate| Prevent
 ------|------------|---------|-------------------|-------------------|----------
 [droplets](#droplets)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
 [aerosol](#aerosol)  | reek of alcohol, cooking steams| Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
-[proposed dry form aerosol](../5_epidemiological/dry_form_transmission.md) | soot of smoke, dust, smells   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
+[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust, smells   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
 
 
 #### Comments
