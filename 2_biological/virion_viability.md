@@ -4,9 +4,11 @@
 * [Content](#content)
 * [Short Summary Virion Viability](#short-summary-virion-viability)
 * [Summary Virion Viability](#summary-virion-viability)
-  * [Reasons for the Fast Decay](#reasons-for-the-fast-decay)
-  * [Summary Viability in different Situations](#summary-viability-in-different-situations)
+  * [Summary Decay by UV Light](#summary-decay-by-uv-light)
+  * [Summary Decay in Disinfecting Biochemicals](#summary-decay-in-disinfecting-biochemicals)
+  * [Summary Decay in Aerosols](#summary-decay-in-aerosols)
   * [Summary Decay in Respiratory Fluids](#summary-decay-in-respiratory-fluids)
+  * [Summary Self Decay](#summary-self-decay)
 * [Introduction](#introduction)
   * [Overview](#overview)
   * [What's done and added here](#whats-done-and-added-here)
@@ -26,7 +28,7 @@
   * [Concentration Changes](#concentration-changes)
   * [Osmotic Pressure](#osmotic-pressure)
   * [Temperature](#temperature)
-  * [Internal State](#internal-state)
+  * [Virion Properties](#virion-properties)
 * [Theoretical Principles and Decay Mechanisms](#theoretical-principles-and-decay-mechanisms)
   * [Radiation](#radiation-1)
   * [Chemicals and Biochemicals](#chemicals-and-biochemicals-1)
@@ -79,24 +81,23 @@ The halflifetimes are temperature dependent:
 [Virions](../2_biological/viruses.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Coronavirus virions decay fast compared to other forms of life.
 Depending on the environment at different speeds and with different mechanisms. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
 
-### Reasons for the Fast Decay
 The principal reasons for the fast decay are:
 * The genome is [stored in ssRNA](../2_biological/life-forms.md#ssrna)
 * The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out imbalances such as osmotic pressures, without metabolism virions do not.
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
 * Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
 
-### Summary Viability in different Situations
-#### Summary Decay by UV Light
 
+### Summary Decay by UV Light
 UV light renders the RNA unreadable. At low UV (low sun in the fall) the halflife time is about 6 minutes and at intense UV (sun at noon in the summer) about 2 min.
-#### Summary Decay in Disinfecting Biochemicals
+
+### Summary Decay in Disinfecting Biochemicals
 Decay by biochemicals inactivate virions mainly from the outside by interacting with the spike protein or destroying the lipid envelope. Rates at room temperature (22 degree):
 * Common disinfectants (e.g. ethanol 70%, iodine 7.5%): a below a minute.
 * Soap: Below a minute.
 * Acids: In the stomach the acids induce a fast decay.
 
-#### Summary Decay in Aerosols
+### Summary Decay in Aerosols
 Virions exhaled in exhaled aerosol decay due to interactions with biochemicals in the respiratory fluids when the humidity is high enough the samples do *not* dry out. When the air is very dry the samples dry out and the decay is slower:
 * At an air humidity below the [efflorescence humidity](#efflorescence-humidity) (about 30% to 40%)): In dry air the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
 * At an air humidity just above the [efflorescence humidity](#efflorescence-humidity) (about 40% to 60%): The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
@@ -109,7 +110,7 @@ In sputum/nasal mucus/saliva/on the skin the rates are in a similar range. The d
 * at 4 degrees: about 5 (around 50% humidity) up to 10 hours or more (dry air = around 20% humidity).
 * at 22 degrees: about 1 hour (around 50% relative humidity) to 4 hours or more (around 20% humidity).
 
-#### Summary Self Decay 
+### Summary Self Decay 
 
 > explorative
 
@@ -140,7 +141,7 @@ The self decay rate can be approximated by a piecewise linear function:
 * [Decay Factors](#decay-factors)
   From the decay observations, factors relevant for the decay of virions are extracted.
   * Which extern influences induce or increase the decay of virions. In practice these factors often interplay.
-  * The viability depends on the [internal state](#internal-state) of a virions. The internal state in turn depends on the originating cell and the genome which can adapt in just a few generations.
+  * The viability depends on the [properties of a virion](#virion-properties). The virion properties in turn depend on the originating cell and the genome which can adapt in just a few generations.
   
 * [Theoretical Principles and Decay Mechanisms](#theoretical-principles-and-decay-mechanisms)
  
@@ -334,7 +335,7 @@ Decay factors can be classified as inducing/modifying and intern/extern:
   The virions decay depends on the internal state and influences from the environment.
 
   > ##### Intern Decay Factor
-  > An internal decay factor is a property of the virion itself i.e. its [internal state](#internal-state) (e.g. the genome, the proteins and the host cell acquired envelope of a virion).
+  > An internal decay factor is a [property of the virion itself](#virion-property): Its building blocks (the genome, the proteins and the host cell acquired envelope of a virion) and the temperature.
 
   > ##### Extern Decay Factor
   > [Extern decay factors](#external-decay-factors) Influences from the environment are called external decay factors (e.g. UV light, biochemicals)
@@ -348,7 +349,7 @@ Life forms always are subject to changes even under optimal conditions.
 Some decay mechanisms depend only on the internal state and no extern factor is necessary.
 
 > ##### Self Decay
-> Self decay denotes decay depending only on the [internal state](#internal-state) which includes the temperature. 
+> Self decay denotes decay depending only on the [properties of a virion](#virion-properties). The temperature is also a property of a virions, though it is usually determined by the environment temperature.
 
 * Temperature is both an internal state and extern factor i.e. the extern temperature yields the internal temperature.
 * Self decay always takes place except at extremely low temperatures. In the presence of extern decay inducing factors, the self decay is often negligible so just the decay caused by extern factors has to be taken into account.
@@ -425,7 +426,7 @@ Increased concentration increases the decay through [biochemicals](#decay-by-bio
 #### Concentration Decrease
 Very low concentrations of minerals and proteins ( distilled water or in condensation situations) result in an increased decay rate. Possible effects of a low levels of biochemicals in the water:
 - [Osmotic Pressure](#osmotic-pressure)
-- Influence the [internal state](#internal-states) due to osmosis more water inside virions, which possibly increases the [RNA self decay](#rna-self-decay) by increasing the degrees of freedom the RNA has to move.
+- Influence the [internal properties](#virion-properties): Osmosis yields more water inside virions, which possibly increases the [RNA self decay](#rna-self-decay) by increasing the degrees of freedom the RNA has to move.
 
 
 ### Osmotic Pressure
@@ -434,9 +435,8 @@ Different concentrations on the two sides of a semipermeable membrane induce osm
 
 
 ### Temperature
-[**in work, to check/confirm and cite**]
 
-The temperature denotes the average kinetic energy of the atoms a substance consists of. Temperature changes have enabling effects on mechanisms (enable a certain mechanism) or modifying effects (change the speed of a mechanism).
+The temperature is a measure for the average kinetic energy of the atoms a substance consists of. Temperature changes have enabling effects on mechanisms (enable a certain mechanism) or modifying effects (change the speed of a mechanism).
 
 #### Effects of Temperature
 1. Higher temperatures enable and increase the probability of reactions upon collision due to higher kinetic energies of the atoms.
@@ -448,13 +448,13 @@ The temperature denotes the average kinetic energy of the atoms a substance cons
 4. Large molecules oscillate more at higher temperatures. This increases the chances for decay of large molecules which drive the [self decay](#self-decay) of virions.
 
 
-### Internal State
-Besides external factors also the internal state of a virion influences its probability to decay.
+### Virion Properties
+Besides external factors also the internal properties of a virion influence its probability to decay.
 
-> ##### The Internal State
-> The *internal state* denotes the physical and chemical characterization of a virion. 
+> ##### Virion Property
+> A *virion property denotes a physical and chemical characterization of a virion. 
 
-The internal state has constant and variable characteristics:
+The virion properties can be constant or vary both for strains or throughout lifetime:
 * #### Constant for a Strain
   Mostly constant for virions belonging to a strain and throughout the lifespan: Virus produced [Building Blocks](#virion-building-blocks) (RNA genome, the structure of the proteins). However RNA viruses mutate fast, just a few generations can be enough to adapt e.g. to heat ([Laude](#summary-laude)).
 * #### Constant throughout Lifetime
@@ -778,6 +778,7 @@ Semliki forest virus:
 * Influence of originating cells:
   * At 35°, the rate of inactivation was independent of the originating cell lines (Figure 2 a).
   * At 50°, only virions originating from a stable cell line (mouse embryo cells) showed a 1 step log-linear inactivation. For other cells lines a 2 step log-linear inactivation is observed (Figure 2 b).
+  > Stable cell line means likely a homogenous cell line. In a homogenous cell line, the virions have the same lipid envelope unlike in mixed cell lines where each cell type can yield slightly different appearances of the virions -> [Virion Properties](#virion-properties).
 * At 22° the more the stabilizing medium 199, CS was diluted by a phosphate buffer solution, the greater was the loss viability (Figure 1 and 3). The loss of viability was shifted to higher dilutions in the dark (Figure 1).
 * The arrhenius plots in Figure 3 and the corresponding values in Table 1 show:
   * There's a switch of the inactivation mechanism between 40 and 45 degrees.
@@ -837,4 +838,4 @@ J. R. Soc. Interface 16: 20180298. https://dx.doi.org/10.1098/rsif.2018.0298
 ## Appendix
 
 ### Efflorescence Humidity
-For a particle of a specific substance this is the humidity range where the substances (proteins and salts) crystallize out and are no longer solutes. Since the particles don't anymore move around within the solutions different reagents don't match which causes chemical reactions to reduce in speed and often to stop. -> [Efflorescence](../9_physics/aggregations_of_atoms.md#efflorescence) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md).
+For a particle of a specific substance this is the humidity range where the substances (proteins and salts) crystallize out and are no longer solutes. Since when crystallized the particles don't anymore move around, different reagents don't match which causes chemical reactions to cease. -> [Efflorescence](../9_physics/aggregations_of_atoms.md#efflorescence) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md).
