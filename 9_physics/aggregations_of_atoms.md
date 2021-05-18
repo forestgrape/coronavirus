@@ -14,8 +14,11 @@
   * [Nuclear-Physical Topics](#nuclear-physical-topics)
   * [Chemical Topics](#chemical-topics)
   * [Physical Topics](#physical-topics)
-* [Bindings give Matter Structure and State](#bindings-give-matter-structure-and-state)
-* [Changes in intermolecular Binding Patterns](#changes-in-intermolecular-binding-patterns)
+* [Intermolecular Bindings give Matter Structure and State](#intermolecular-bindings-give-matter-structure-and-state)
+  * [States of Matter](#states-of-matter)
+  * [Units for States of Matter](#units-for-states-of-matter)
+  * [Binding Patterns](#binding-patterns)
+* [Changes in intermolecular Bindings](#changes-in-intermolecular-bindings)
   * [Condensation and Evaporation](#condensation-and-evaporation)
   * [Efflorescence and Deliquescence](#efflorescence-and-deliquescence)
 * [References](#references)
@@ -46,8 +49,7 @@ Changes in the temperature or the mixture of substances influence the intermolec
 
 Particles which can absorb water are called hygroscopic. These can growth or shrink in humid respectively in dry air.
 
-Evaporation can lead to over saturation of a solution and cause the organic or inorganic materials to crystallize. A process call efflorescence:
-crystallized next to liquid <---> solute in liquid (slowly crystallize due to over saturation usually due to evaporation = efflorescence <-, dissolve due to water uptake ->).
+Evaporation can lead to over saturation of a solution and cause the organic or inorganic materials to crystallize. This process is called efflorescence and is reverse to deliquescence. Deliquescence is when particles absorb water and become solute therein.
 
 
 ## Principles 
@@ -112,64 +114,83 @@ Generalized molecules can be charged in two ways:
   * Ions -> Ion binding
   * Dipoles and Ions -> Dipole Forces
 * Dynamically charged particles
-  * Mainly large molecules (All generalized molecules but the induced forces at naturally occurring temperatures are only relevant for large molecules). -> Van der Waals Forces
+  * Mainly large molecules (generalized molecules but the induced forces at naturally occurring temperatures are only relevant for large molecules). -> Van der Waals Forces
 
 
 
-## Bindings give Matter Structure and State
+## Intermolecular Bindings give Matter Structure and State
 
-> in work and incomplete and explorative
+> in work and incomplete and partly explorative
 
-#### Bindings induce Constant Positions
-The atoms can *not* move respect to each other without breaking the bindings.
+### States of Matter
+
+> Solid = stable in shape
+
+> Liquid = changeable shape but constant volume
+
+> Gas = changeable shape and upon pressure the volume changes
+
+
+### Units for States of Matter
+What is solid, liquid or gaseous can vary depending on the task of interest. Examples:
+* Millet, salt or sugar can measured - using the changeable shape - in measure jug or a spoon and thus behave fluid like for this task. Although solid at small scale, when considered at large scale the small particles are free to move respect to each other giving them a liquid behavior for the measuring quantities used for cooking. To measure very small amounts (in the order of a single grain) however, the behavior becomes that of a solid: the single grains have a constant shape and are indivisible. Similarly for sieves, it depends on the how fine grained the sieve is whether substances flow through as liquids or are hold back as solids. 
+* Water between 0 and 100 degrees behaves fluid. However if zooming down to recognize single molecules, 'fluid' water is a collection of tiny 'sort of ice' particles which move freely respect to each other.
+* An [aerosol](../5_epidemiological/transmission.md#aerosol) behaves like a gas mixture. However the particles, which are 'dissolved' in the air, are not gaseous at the microscopic level but fluid (tiny water droplets in the air) or solid (e.g. dust, soot particles). 
+
+=> For macroscopic states, the *interactions* of microscopic particles are important and not the microscopic structure of the particles. 
+
+> ##### State Defining Units
+> *State defining units* or just *state-units* are particles whose interacting patters determine the state of matter.
+
+* The smallest state defining units are generalized molecules which determine the microscopic structure of matter.
+* The matter of interest should consists of many units such that the behavior of the unit particles behave stochastically for the task of interest.
+
+
+### Binding Patterns
+#### Bindings inducing Constant Positions
+The units *cannot* move respect to each other without breaking the bindings. 
 -> Solid matter
 
-#### Bindings induce Constant Distances
-Generalized molecules interact through intramolecular forces (which are minimized at a certain distance). The average distance between molecules is constant but the molecules move freely  with respect to each other.
+Examples: Salts (ion bindings), Ice (hydrogen bonds)
+
+#### Bindings inducing Constant Distances
+The units move freely but at constant distance respect to each other.
 -> Liquid
 
+Example:
+* Generalized molecules interact through intramolecular forces (which are minimized at a certain distance). The average distance between molecules is constant but the molecules move freely  with respect to each other.
+
 #### No Bindings
-Generalized molecules fly around freely and only interact upon collision.
+The units fly around freely and only interact upon collision. 
 -> Gas
 
-#### Mixed Bindings
-Bindings can induce only locally constant positions which induces small solid particles. These solid particles in turn can be bound with the binding patterns above:
-* bindings inducing constant positions -> solid
-* bindings inducing constant distances -> liquid
-* no bindings -> gas (called aerosol if within another gas)
-
-
-#### States of Matter
-* Solid = stable in shape
-* Liquid = changeable shape but constant volume
-* Gas = changeable shape and upon pressure the volume changes
+Examples: Air (mixture of different generalized molecules flying around. The molecules are N2, O2, H2O, CO2, ...)
 
 
 
-## Changes in intermolecular Binding Patterns
+## Changes in intermolecular Bindings
 
 ### Condensation and Evaporation
 
 > ##### Evaporation
 > The process when molecules from a liquid escape the intramolecular binding to move into the gaseous phase.
 
-
 > ##### Condensation
 > The process when particles move from gaseous to liquid.
 
->> ##### Condeva Equilibrium
->> The condeva equilibrium is the state where the rates of evaporation and condensation are equal.
+>> ##### Condeva Equilibrium of a Particle
+>> The condeva equilibrium is the state where the rates of evaporation and condensation are equal for particles consisting of specific substances.
 
-> I haven't come across an official definition of the condeva equilibrium, so this is a definition used only here. Likely there is something like this under a different name.
+> The condeva equilibrium is used on this page only. There may exist a concept like this under a different name in literature.
 
 At the condeva equilibrium the particles stay constant in size. For a given substance there is specific relative humidity at which particles of the substance are in the condeva equilibrium:
 
->> ##### Condeva Humidity
->> The condeva humidity for a substance is the humidity (can be given relative or absolute) at which particles at which the particles of the substance are in the condeva equilibrium.
+>> ##### Condeva Humidity of a Particle
+>> The condeva humidity for a particle of a given substance is the humidity (can be given relative or absolute) at which the particles of the substance are in the condeva equilibrium.
 
-* by definition the condensation and evaporation rates are equal at the condeva humidity thus the particles neither growth nor shrink.
-* If the droplets consist of pure water, the condeva humidity is a relative humidity of 100%. 
-* If the relative humidity is above 100% the water condensates and near instant a relative humidity of 100% is reached.
+* The condeva humidity of particle depends on its substances and their arrangement.  
+* By definition the condensation and evaporation rates are equal at the condeva humidity thus the particles neither growth nor shrink.
+* If the droplets consist of pure water, the condeva humidity is a relative humidity of 100% which is called the critical point. If the relative humidity is above 100% the water condensates and near instant a relative humidity of 100% is reached => pure water particles either are evaporating or they are the critical point = condeva equilibrium of pure water.
 
 
 ### Efflorescence and Deliquescence
@@ -221,9 +242,8 @@ The deliquescence humidity is always greater equal than the efflorescence humidi
 
 
 # Appendix
-## History and Relation of Biology, Chemistry and Physics
-> in work
 
+## History and Relation of Biology, Chemistry and Physics
 Historically biology, chemistry and physics evolved as separate scientific disciplines with the tasks:
 - Biology: Observing and describing living organisms.
 - Chemistry: the successor of alchemy (the transmutation of metals from greek al=the and khēmia=transmuting metals). Chemistry is about transmuting and disassembling substances.
@@ -239,4 +259,4 @@ Physical, chemical and biological are used here as follows:
   *Chemistry* describes reactions of substances. *Chemical reaction* = changes in the electron arrangement of the outer electron shells.
 - ### Biology
   - Classical Biology studies life-forms including their relations, their behavior and habitats.
-  - Molecular biology is essentially the chemistry occurring in the context of life forms: Reactions and participating substances occurring only in the context of [life forms](../2_biological/life-forms.md#life-form) on earth. Mostly these are complex organic molecules and their reactions.
+  - Molecular biology is essentially the chemistry occurring in the context of life forms: Reactions and participating substances occurring only in the context of [life forms](../2_biological/life-forms.md#life-form) on earth e.g. complex organic molecules and their reactions.
