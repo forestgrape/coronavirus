@@ -112,7 +112,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](../2_biological/life-forms.md) page
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
 - 12.6. sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
-- 12.5. added note that [outdoors is safer](../monitor_and_control.md#outdoors-is-safer)
+- 12.5. added note that [outdoors is safer](../controlling.md#outdoors-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](../7_social/controlling.md)
 - 28.4. Short note to support public health in the data section
