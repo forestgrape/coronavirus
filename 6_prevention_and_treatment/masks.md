@@ -40,7 +40,9 @@
     - Overall: Surgical masks significantly reduced the overall number of RNA copies by 3.4 fold.
     
    
-    Assuming a reduction of exhaled particles by a factor of 2 (50% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 4 = (2 times fewer particles inhaled) * (2 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
+    Assuming a reduction of exhaled particles by a factor of 2 (50% reduction) and a reduction by a factor 2 (50% reduction) for inhaling: everybody wearing a mask yields a total reduction factor of 4 = (2 times fewer particles inhaled) * (2 times fewer particles in the air since fewer exhaled) for aerosol transmission. This can yield a significant reduction of transmission in public indoor rooms (e.g. Supermarkets or Public Transport). 
+    
+    <!--This would be a greater reduction in the reproduction factor than  observed for other measures. A factor 5 reduction would be enough to reduce the reproduction factor below 1 if an initial value of 4 is estimated (an estimate from the imperial college in London by Ferguson, Bhatt et al](#ferguson-bhatt).[in work]-->
 
 
 ## Mask Types
@@ -140,7 +142,7 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
 
  
 > [Dense] masks are less important if cases go towards zero (e.g. in summer). But there are also good reasons to continue using masks in certain indoor public spaces (e.g. large shopping centers, crowded public transport, airplanes). Not necessarily in facultative places (e.g. offices or libraries) and probably not a general mandate since there are miles between going to the next door shop/office and taking some international flight. One reason is, masks also reduce the spread of the other respiratory diseases: 
-> * When mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and reduce contacts (e.g. crowded pubs) upon infection.
+> * When mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and take adequate precaution steps upon infection.
 > * Respiratory pathogens sometimes are underestimated and to reduce the circulating strains, I consider a nice [side] effect.
 
 <!-- 
