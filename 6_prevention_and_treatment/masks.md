@@ -8,11 +8,11 @@
   * [Cleaning Methods](#cleaning-methods)
   * [Reasons for Clean Masks](#reasons-for-clean-masks)
   * [Mask Recommendation](#mask-recommendation)
-* [Personal Mask Preferences](#personal-mask-preferences)
+* [References](#references)
+* [Appendix: Personal Mask Preferences](#appendix-personal-mask-preferences)
   * [Tips & Tricks](#tips--tricks)
   * [Current Mask Preferences](#current-mask-preferences)
   * [Personal Mask History](#personal-mask-history)
-* [References](#references)
 
 
 ## Mask Usage
@@ -115,7 +115,16 @@ Reasons against masks seem sometimes rather searched:
   > If masks help to prevent the big wave in its roots, then that's the better option.
 
 
-## Personal Mask Preferences
+## References
+
+* ##### milton2013
+    Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). 
+    **Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.** PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
+
+---
+
+
+## Appendix: Personal Mask Preferences
 
 ### Tips & Tricks
 * Carefully rounding the wire above the nose helps to reduce the airstream to the eyes.
@@ -148,9 +157,5 @@ vaccines are a sensible topic. I want to do/finish some thorough up-to-date chec
 > 6. In spring 2021 I started using FFP1 masks of fold type. They are widely available to ok prices (about 1$/SFR/Euro) and the breathing ability is good by now.
 
 
-## References
 
-* ##### milton2013
-    Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). 
-    **Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.** PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
 
