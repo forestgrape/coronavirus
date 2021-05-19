@@ -147,7 +147,7 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
 
 <!-- 
 vaccines are a sensible topic. I want to do/finish some thorough up-to-date checking. Timing to early.
-> Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable and future proof protection against transmission, there's no reason to make exceptions if it's about protecting others (both past infections and vaccination do reliably protect against severe Covid however).
+> Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable and future proof protection against transmissions, therefore there is no reason to make exceptions if it's about protecting others (However past infections reliably prevent severe Covid and vaccination also do a decent job at preventing severe Covid).
 -->
 
 ### Personal Mask History
