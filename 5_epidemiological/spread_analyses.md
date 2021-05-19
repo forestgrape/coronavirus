@@ -3,10 +3,10 @@
 * [Short Summary](#short-summary)
 * [Summary](#summary)
   * [Summary Findings regarding Transmission Paths](#summary-findings-regarding-transmission-paths)
-  * [Summary Findings regarding Individual Susceptibility](#summary-findings-regarding-individual-susceptibility)
+  * [Summary Findings Population Characteristics](#summary-findings-population-characteristics)
   * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
   * [Summary Situation Analyses and Contact Tracing](#summary-situation-analyses-and-contact-tracing)
-  * [Summary Observations regarding Individual Susceptibility](#summary-observations-regarding-individual-susceptibility)
+  * [Summary Observations Population Characteristics](#summary-observations-population-characteristics)
 * [Findings from Geographical Observations and Analyses](#findings-from-geographical-observations-and-analyses)
   * [Exchanged Air is associated to Covid Spread](#exchanged-air-is-associated-to-covid-spread)
   * [Dry Indoor Air is associated to the Spread of severe Covid](#dry-indoor-air-is-associated-to-the-spread-of-severe-covid)
@@ -68,11 +68,11 @@ Findings:
 
 ### Summary Findings regarding Transmission Paths
 * *Exchanged Air is associated to Covid Spread:* Covid-19 transmissions correlate to the amount of air people breadth from each other. The amount of exchanged air is high:
-   * Confined air = Indoors with bad ventilation (often either heated or air-conditioned) 
-   * Increased inhaling
+   * Confined air: Indoors with bad ventilation (often either heated or air-conditioned) 
+   * Increased inhaling 
      * being at low air pressure (either high altitude or airplane) 
      * vocal activities such as singing or shouting
-     * strains e.g. sports. For people who have a low oxygen uptake (e.g. arteriosclerosis or very unathletic) already going up a staircase can be enough for deep breathing.
+     * strains e.g. sports. Already going up a staircase can be enough when: the oxygen uptake is low (e.g. arteriosclerosis) or unathletic or going up fast.
 * *Dry Indoor Air is associated to the Spread of severe Covid:* Nearly all waves of severe Covid occur in settings with dry air: heated, ACs or dry outdoor air. Likely since the lung deposition rate is increased when the exhaled virions dry out. Also the virions have a higher viability in dry air and the immune system clearance of the respiratory tract is reduced in dry air.
 * *Droplet Transmission is likely Not important for the spread of symptomatic Covid:* In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 is not noticed.
 * *Fomite Transmission is likely Not important for the spread of symptomatic Covid:* In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmissions of symptomatic Covid neither at the population level (regions where water to wash hands is scarce) nor through contact-tracing (e.g. on camping grounds, take away food).
@@ -81,8 +81,9 @@ The observations strongly indicate a generalized aerosol transmission model: eit
 
 Regarding prevention measures relevant is, that the transmission correlates to the amount of air exchanged. The exact transmission mechanism provides additional insights and helps fine-tuning but mostly it can be abstracted away. One of the most important prevention measure is Ventilation, especially in warm environments.
 
-### Summary Findings regarding Individual Susceptibility
-People with an adequate and in form immune system in the lungs mostly get mild diseases and are likely less infectious. These include young people and especially children for whom Covid is no more or even less dangerous than common cold viruses or influenza. On the other hand people who have been exposed to dirty air (smoking and/or air pollution), have risk factors such as few movement and/or severe obesity or just are of old age may fail to produce an adequate and timely immune response.
+### Summary Findings Population Characteristics
+* Population groups with an adequate and in form immune system in the lungs mostly get mild diseases and seem to be less infectious. These includes young people and especially children for whom Covid is no more or even less dangerous than common cold viruses or influenza. 
+* On the other hand populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement and/or severe obesity tend to have more Covid cases and higher fatality rates.
 
 
 
@@ -116,11 +117,12 @@ For crowded events during the day in unconfined settings (e.g. demonstrations or
 * Crowded settings during the day in unconfined settings: Neither superspreading nor steep increases in the populations for repeated events (e.g. demonstrations, crowded parks, beaches and swimming pools).
 
 
-### Summary Observations regarding Individual Susceptibility
-The susceptibility and infectiousness depend on factors such as age, BMI, sex ... Factors increasing the risk for severe infections, also tend to increase infectiousness.
+### Summary Observations Population Characteristics
 * [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. In schools if there were many infected this is likely due to super spreading teachers and not children.
-* Obesity, male sex and age increase the risk for severe Covid and infectiousness (observed for influenza and the generation of aerosol) [todo] [refs coming]
-* [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections. 
+* [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections.
+* [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades seem to have many more cases and have higher death rates.
+* [Overweight](#overweight): Regions where overweight tend to have more cases and higher fatality rates.
+
   
 
 ---
@@ -187,7 +189,7 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 
 ### Life Circumstances: Can increase Susceptibility and Exposure
 
-#### Dirty Air Exposure => Increased Susceptibility
+#### Dirty Air Exposure
 * ##### Air Pollution
   _Through Air Pollution_: Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Teheran
 
@@ -197,7 +199,7 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
   > Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be attributed (possibly toxic) environment changes in the lung caused by smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
 
 
-#### Overweight => Increased Susceptibility
+#### Overweight
 > in work
 
 ##### Observations
