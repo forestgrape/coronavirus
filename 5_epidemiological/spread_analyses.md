@@ -51,8 +51,7 @@
 
 
 ## Short Summary
-Methods: 
-Situations where high rates of Covid-19 transmission are observed or *not* observed are described and analysed.
+Methods: Situations where high rates of Covid-19 transmission are observed or *not* observed are described and analysed.
 
 Observations: 
 * High transmission rates of severe Covid are observed in situations where much air is exchanged between people. Much air is exchanged when spending much time in shared indoor rooms without good ventilation, in crowded confined settings. Deep breathing (High altitude or activities such as sports, singing) increases the air inhaled and thereby greatly increases the amount of particles deposited to the lungs. 
@@ -61,7 +60,7 @@ Observations:
 
 Findings:
 * Covid transmits mainly through Breathed Air but not Trough Droplets or Fomites. Severe Covid transmits mainly through dry air.
-* The individual differences regarding susceptibility and infectiousness are large and the risk factors for severe Covid (except high age) also tend to increase transmissions. Children can catch mild infections but are hardly infectious.
+* The individual differences regarding susceptibility and infectiousness are large and the risk factors for severe Covid (except high age) also tend to increase transmissions. Children can catch mild infections but are much less infectious compared to adults.
 
 
 
@@ -78,14 +77,13 @@ Findings:
 * *Droplet Transmission is likely Not important for the spread of symptomatic Covid:* In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 is not noticed.
 * *Fomite Transmission is likely Not important for the spread of symptomatic Covid:* In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmissions of symptomatic Covid neither at the population level (regions where water to wash hands is scarce) nor through contact-tracing (e.g. on camping grounds, take away food).
   
-The observations strongly indicate a generalized aerosol transmission model. That severe cases are mainly observed in dry air indicates that these are mainly transmitted by dry form transmission [Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). Droplet or contact transmission may yield asymptomatic infections but don't cause symptomatic or severe Covid.
+The observations strongly indicate a generalized aerosol transmission model: either droplet or dry form aerosol ([Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). Since severe cases are mainly observed in settings with dry indoor air, indicates dry form transmission need a special focus. Droplet or contact transmission may yield asymptomatic infections but don't cause symptomatic or severe Covid.
 
 Regarding prevention measures relevant is, that the transmission correlates to the amount of air exchanged. The exact transmission mechanism provides additional insights and helps fine-tuning but mostly it can be abstracted away. One of the most important prevention measure is Ventilation, especially in warm environments.
 
 ### Summary Findings regarding Individual Susceptibility
-* People with an adequate and in form immune system in the lungs mostly get mild diseases and are much less infectious. These include young people and especially children for whom Covid is no more or even less dangerous than common cold viruses or influenza.
-* People who have been exposed to dirty air (smoking and/or air pollution), conducted unhealthy lifestyles such as few movement and severe obesity or just are of old age may fail to induce an adequate immune response and are thus at a much increased risk for severe Covid. 
-* Regarding transmission a failure of an adequate immune response together with a strong metabolism is especially risky.
+People with an adequate and in form immune system in the lungs mostly get mild diseases and are likely less infectious. These include young people and especially children for whom Covid is no more or even less dangerous than common cold viruses or influenza. On the other hand people who have been exposed to dirty air (smoking and/or air pollution), have risk factors such as few movement and/or severe obesity or just are of old age may fail to produce an adequate and timely immune response.
+
 
 
 ### Summary Geographical Observations and Analyses
