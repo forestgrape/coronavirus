@@ -133,8 +133,11 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
 > [Dense] masks are less important if cases go towards zero (e.g. in summer). But there are also good reasons to continue using masks in certain indoor public spaces (e.g. large shopping centers, crowded public transport, airplanes). Not necessarily in facultative places (e.g. offices or libraries) and probably not a general mandate since there are miles between going to the next door shop/office and taking some international flight. One reason is, masks also reduce the spread of the other respiratory diseases: 
 > * When mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and reduce contacts (e.g. crowded pubs) upon infection.
 > * Respiratory pathogens sometimes are underestimated and to reduce the circulating strains, I consider a nice [side] effect.
-> 
+
+<!-- 
+vaccines are a sensible topic. I want to do/finish some thorough up-to-date checking. Timing to early.
 > Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable and future proof protection against transmission, there's no reason to make exceptions if it's about protecting others (both past infections and vaccination do reliably protect against severe Covid however).
+-->
 
 ### Personal Mask History
 > 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a very good and dense fit. However, the fit came at the cost of a reduced comfort: very tight bands around the head and not really comfortable at the nose.
