@@ -253,7 +253,7 @@ For regions across the world the following is analysed:
   * High number of severe cases starting where the winter comes first: Central North and at high altitude e.g. in Colorado.
   * Early to Mid Winter 2020/2021: High case numbers in many states (less severe cases where the winter is warmer)
   * Mid to Late Winter 2021: Cases start decreasing. 
-* Possible Causes: Decline starting early January 2021: Likely due to adapting the protection measures to airborne transmission after peaks around thanksgiving. E.g. masks and ventilation and allowing outdoors gastronomy and shopping (e.g. New York) => people are and meet outdoors. The measures were adapted to the local situations.
+* Possible Causes: Decline starting early January 2021: Likely due a combination of some built up immunity in mobile groups, alert and awareness of the population after peaks around thanksgiving, refraining from overly strict measures such as general curfews and shifting the protection focus to airborne transmission (outdoor gastronomy and shopping was often allowed e.g. in New York) => people are and meet outdoors. Additionally the measures were adapted to the local situations.
   > There's a helpful [aerosol FAQ](#marr-aerosol-faq) from the US advisors which I came across when reading a [CO2 sensor usage recommendation](#stocker) from the Swiss taskforce, which is a worthy read in itself.
 
 #### Spring 2020
