@@ -8,6 +8,7 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 * [Spread Assumptions](#spread-assumptions)
   * [Indoors](#indoors)
   * [Outdoors](#outdoors)
+  * [Seasonality](#seasonality)
   * [Spread Metaphor](#spread-metaphor)
   * [Differences between Individuals](#differences-between-individuals)
   * [Summed Up](#summed-up)
@@ -63,31 +64,38 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 
 
 ## Spread Assumptions
-The design of measures relies on transmission models. Here it as assumed that the main transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like.
+The design of measures relies on transmission models. The main transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like.
 
 ### Indoors
-The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of dry air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round). On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, sometimes without), no increased spreading has been noticed/observed. Evidence for aerosol transmission is described in [Spread Analyses](../5_epidemiological/spread_analyses.md).
+*Observations:* The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of dry air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round).
 
-The observations are explained by: In dry air, tiny aerosol form. Tiny and dry particulates are most likely to be deposited in the deep lungs (chapter [Airborne Transmission](../5_epidemiological/transmission.md)). The [viability of coronaviruses](../2_biological/virion_viability.md) is also highest in dry particulates.
+*Explanations:* In the air circulates around one breaths each others air. When heating, air-conditioning or the outdoor air is dry, the indoor air is dry. In dry air, tiny aerosol form. Tiny and dry particulates are most likely to be deposited in the deep lungs (chapter [Airborne Transmission](../5_epidemiological/transmission.md)). The [viability of coronaviruses](../2_biological/virion_viability.md) is also highest in dry particulates.
 
 ### Outdoors
-Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoors-is-safer)). However, the infection probability is not zero just much smaller than inside - as described in the [transmission section](../5_epidemiological/transmission.md). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md). 
+*Observations:* On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, sometimes without), no increased spread has been observed (->[Spread Analyses](../5_epidemiological/spread_analyses.md)).
+*Explanations:* Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoors-is-safer)). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md).
+
+### Seasonality
+The spread in dry indoor air of coronaviruses and many other respiratory viruses yields a seasonality: Spread in the winter in moderate and Northern climate regions. Spread in the summer in hot & humid regions when air-conditioning is used. 
+Adequate prevention measures take the the seasonality into account. In moderate climate zones, prevention measures are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken.
 
 ### Spread Metaphor
-Airborne transmissions can be thought [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures) or like the reek of alcohol in the case of droplet transmission (which is less relevant regarding severe Covid). 
-* For the first non-smokers protections measures are suitable and for the latter distancing is enough.
+*Aerosol transmission* behaves [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures). 
+* For aerosol transmission prevention non-smokers protections measures are suitable and necessary.
 * If a smokers smoke can *not* be smelled the risk is low; else ventilation and good masks help. Smoke is rarely an issue outdoors, the same is true for Covid.
 
+*Droplet transmissions* are micro spites and only happens when spitting into each others mouth is possible (droplet transmission is *not important* for the transmission of severe Covid). For droplet prevention distancing or plexiglas are enough.
+
 ### Differences between Individuals
-* Some people are super-spreaders while many people don't spread Covid.
+* Some people are super-spreaders while many people don't spread Covid. 
 * Children get less infected and are less infectious. No super spreading events have been linked to children (to my knowledge).
 * Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)).
 
   > => (Encouraging) Transparency is helpful and important.
 
 ### Summed Up
-* Outdoor activities reduce the overall Covid burden since: 1) the amount of 'covid-safe' activities increases. 2) Outdoor activities even can reduce the overall Covid spread and especially the number of severe cases, since less time is spent indoors and the lifestyles are healthier.
 * Most covid transmissions occur in not well ventilated indoor settings. Indoor air which many people breath is in large buildings: E.g. stairwells in residential blocks, shared bedrooms, supermarkets, indoor arenas, large offices, cruise ships, airplanes (high altitude) or crowded bars.
+* Outdoor activities reduce the overall Covid burden since: 1) More activities allowed. 2) Outdoor activities even can reduce the overall Covid spread and especially the number of severe cases, since less time is spent indoors and the lifestyles are healthier.
 * Appropriate spread precaution measures and good treatment is important for people with severe Covid.
 
 
