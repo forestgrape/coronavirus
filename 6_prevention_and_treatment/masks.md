@@ -145,10 +145,9 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
 > * When mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and take adequate precaution steps upon infection.
 > * Respiratory pathogens sometimes are underestimated and to reduce the circulating strains, I consider a nice [side] effect.
 
-<!-- 
-vaccines are a sensible topic. I want to do/finish some thorough up-to-date checking. Timing to early.
-> Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable and future proof protection against transmissions, therefore there is no reason to make exceptions if it's about protecting others (However past infections reliably prevent severe Covid and vaccination also do a decent job at preventing severe Covid).
--->
+
+> Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable future proof protection against transmissions, there is no reason to make masks exceptions when it's about protecting others (However past infections reliably prevent severe Covid and vaccination also do a decent job at preventing severe Covid).
+
 
 ### Personal Mask History
 > 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a dense fit. However, the fit came at the cost of a reduced comfort: very tight bands around the head and not really comfortable at the nose. // I am not sure anymore if these were good masks, a very similar/even the same model was shown to have incorrect declarations and to fail the specifications. Also a direct  (subjective and not scientific) comparison to the FFP2 masks of 2021, the 2021 models seem to have the better filters.
