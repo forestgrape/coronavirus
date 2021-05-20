@@ -50,6 +50,15 @@ In brief: To reduce the infection possibilities keep some distance or wear a mas
     * Open the windows. In cold climates: ventilate the rooms regularly by opening all windows for 5 minutes.  
     * If possibly infected, ventilate before opening the door of your room or flat. 
 
+* ### No Dry Air
+    Dry air increases the transmission of coronaviruses since:
+    * In dry air, both dust and particles with viruses stay longer in the air.
+    * Viruses survive better in dry air.
+    * Dry air increases the chance that a virus infection starts in the lungs, where it is more likely to cause a symptomatic or even severe disease.
+    * Dry air reduces the defences of the respiratory tract against pathogens.
+    
+    In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. If the outside air is warm and dry the windows should be open always. If the air outside is humid and warm air-conditioning should not be used.
+
 * ### Masks
     Wear a [mask](../7_social/controlling.md#masks) 
     - Outdoors and indoors: for close range face-to-face contact/talking. 
@@ -62,23 +71,10 @@ In brief: To reduce the infection possibilities keep some distance or wear a mas
 * ### Distancing
     Distancing reduces infection risk.
 
-* ### No Dry Air
-    Dry air increases the transmission of coronaviruses since:
-     * In dry air, both dust and particles with viruses stay longer in the air.
-     * Viruses survive better in dry air.
-     * Dry air increases the chance that a virus infection starts in the lungs, where it is more likely to cause a symptomatic or even severe disease.
-     * Dry air reduces the defences of the respiratory tract against pathogens.
-    
-    In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. If the outside air is warm and dry the windows should be open always.
-
 * ### Hygiene
     Keep proper hygiene. Especially wash hands before eating and after toilet. Soap cleans most pathogens and usually destroys enveloped viruses such as coronaviruses or influenza. Hygiene is important because many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk. Additionally many infections can burden or even be harmful (as harmful as Covid) and even if harmless it is often hard to distinguish them from mild SARS-2 infections.
 
     But do NOT rely on hygiene alone, since the majority of severe Covid [transmissions occur through air](../5_epidemiological/transmission.md).
-
-* ### Transport
-  * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. (written during shutdown in Spring 2020)
-  * Public transport: Ventilation, masks and distance if possible (in that order).
 
 
 
@@ -118,7 +114,7 @@ Respecting others having a different view of Covid yields an intermediate approa
 
 Note: overall cases need to be kept lower in cold season, since self protection is more difficult due to aerosol transmission (good fitting high filtration mask are likely needed).
 
-> ### Communities and Societies Rules
+> ### Communities and Societies
 > Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
 
 Controlling SARS-CoV-2 is an individual, a local and global task. The better everybody helps to control it, the lesser the negative effects and the fewer rules and restrictions need to be put into place. 
@@ -127,6 +123,7 @@ Controlling SARS-CoV-2 is an individual, a local and global task. The better eve
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
 * Giving infections time to cure. It is known for various virus infections that they can become persistent.
 * Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects seem to be rare but experiences are still limited. Keeping cases low is good for everybody and the more people help doing so the better.
+* Transport: Ventilation, masks and distance if possible (in that order) are important in public transport. Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. // written during shutdown in Spring 2020
 * Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is crucial, which detects infections early, induces symptoms and clears them. 
 
 
