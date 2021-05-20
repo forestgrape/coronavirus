@@ -22,7 +22,11 @@ For coronaviruses waiting until acquired wanes or even jumping generations is us
 
 #### Overcoming Neutralizing Antibodies
 [in work, to check and cite]
-The only virion protein reliable accessible is the spike protein, so that's the target. If a sufficient number of spikes have antibodies attached a virion cannot infect cells on its own anymore, since working spike proteins are needed for active cell entry. Antibodies that block virions from infecting cells are called neutralizing antibodies. Coronaviruses have a variety of mechanisms to circumvent neutralizing antibodies. But circumventing neutralizing antibodies is not free for coronaviruses, so neutralizing antibodies slows them down, the immune system has more time and neutralizing antibodies also act
+The only virion protein well accessible from the outside is the spike protein, so that's the target. If a sufficient number of spikes have antibodies attached: 
+* a virion cannot infect cells on its own anymore, since working spike proteins are needed for active cell entry.
+* virions are marked for phagocytosis by immune cells which often destroys virions.
+
+Antibodies that block virions from infecting cells are called neutralizing antibodies. Coronaviruses have a variety of mechanisms to circumvent neutralizing antibodies. But circumventing neutralizing antibodies is not free for coronaviruses, so neutralizing antibodies slows them down.
 - Mutate
 - Shield
   - glycans on the outside
@@ -33,7 +37,7 @@ The only virion protein reliable accessible is the spike protein, so that's the 
 - Exploit
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
   
-> Neutralizing antibodies act also as non-neutralizing antibodies (cells show what they produce on the outside. An infected cell usually produces coronavirus spikes and this spikes get presented on the cell membrane. Immune cells such as T cells can detect this and induce cell death. So the cell is stopped from producing many virions.
+> Neutralizing antibodies may also act also as non-neutralizing antibodies. Generally natural infections and vaccines also produce antibodies targeting no exposed substances, these helps to fight infections since cells show what they produce on the outside. An infected cell usually produces coronavirus proteins and part of these proteins get presented on the cell membrane. Immune cells such as T cells can detect this especially if antibody marked and induce cell death. So the cell is stopped from producing many virions.
 
 > Besides antibodies, natural infections and to some extent vaccines induce also specific immune cells such as memory T cells targeting different antigens of viruses. These T cells are especially effective at recognizing the presented antigens mentioned above.
 
