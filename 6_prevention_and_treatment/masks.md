@@ -143,10 +143,10 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
  
 > [Dense] masks are less important if cases go towards zero (e.g. in summer). But there are also good reasons to continue using masks in certain indoor public spaces (e.g. large shopping centers, crowded public transport, airplanes). Not necessarily in facultative places (e.g. offices or libraries) and probably not a general mandate since there are miles between going to the next door shop/office and taking some international flight. One reason is, masks also reduce the spread of the other respiratory diseases: 
 > * When mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and take adequate precaution steps upon infection.
-> * Respiratory pathogens sometimes are underestimated and to reduce the circulating strains, I consider a nice [side] effect.
+> * Respiratory pathogens are sometimes underestimated so reducing the circulating strains, is a nice [side] effect.
 
 
-> Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable future proof protection against transmissions, there is no reason to make masks exceptions when it's about protecting others (However past infections reliably prevent severe Covid and vaccination also do a decent job at preventing severe Covid).
+> Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable future proof protection against transmissions, there is no reason to make masks exceptions when it's about protecting others (However past infections reliably prevent severe Covid and vaccination also do a good job at preventing severe Covid).
 
 
 ### Personal Mask History
