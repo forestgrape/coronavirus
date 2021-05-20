@@ -10,7 +10,6 @@
 * [Live Healthily](#live-healthily)
 
 
-
 ## Covid-19 and Virus Infections
 Covid-19 can be serious in the short-term and such serious infections can damage organs. For less virulent Covid-19 sometimes longer lasting tiredness or immune system overreaction are observed. For a healthy recovery it is important to have a healthy lifestyle with movement. But experiences and research are still limited and so whether other effects cannot be excluded. Though long-term adverse effects are possible for many things including other viruses causing subtle infections e.g. common colds. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
 
@@ -67,27 +66,24 @@ In brief: To reduce the infection possibilities keep some distance or wear a mas
     Dry air increases the transmission of coronaviruses since:
      * In dry air, both dust and particles with viruses stay longer in the air.
      * Viruses survive better in dry air.
-     * Dry air increases the chance that a virus infection starts in the lungs, where it is most severe.
+     * Dry air increases the chance that a virus infection starts in the lungs, where it is more likely to cause a symptomatic or even severe disease.
      * Dry air reduces the defences of the respiratory tract against pathogens.
     
     In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. If the outside air is warm and dry the windows should be open always.
 
 * ### Hygiene
-    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap destroys coronaviruses. Hygiene is important because:
-    * Transmission pathways of Covid-19 are still unclear. So just avoid them all.
-    * Large numbers of coronaviruses can be in the shit (besides many other pathogens). This even when the respiratory infection is over. Wash hands well with a lot of soap and ventilate the toilet.
-    * Many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.
+    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap clean and destroys coronaviruses and many other pathogens. Hygiene is important because many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.
 
-    But do NOT rely on hygiene alone, since there is strong evidence, that the majority of [transmissions occur through air](../5_epidemiological/transmission.md).
+    But do NOT rely on hygiene alone, since the majority of [transmissions occur through air](../5_epidemiological/transmission.md).
 
 * ### Transport
-  * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
+  * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. (written during shutdown)
   * Public transport: Masks, distance if possible and ventilation.
 
 
 
 ## Observing - helps to Detect Infections
-Observe the body, write down the observations and if possible measure.
+Notify the well being and possible disease symptoms. Writing down and measuring support diagnosis.
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease.
 
 * Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
@@ -96,7 +92,7 @@ The more common Covid-19 in a region is, the more likely it is, that an observed
 * Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](../3_medical/covid19.md#symptoms).
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements.
 
-    > It's time [for medicine] to move on from digitalization schemes to the continuous color-space of statistics. There's no hard border for fever at 37.5 or at 38 degrees.
+    > It's time [for medicine] to move on from digitalization schemes to a continuous color-space. There's no hard border for fever at 37.5 or at 38 degrees.
 
 
 ## Estimate and Adaptive Planning
