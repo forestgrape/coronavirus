@@ -72,9 +72,9 @@ In brief: To reduce the infection possibilities keep some distance or wear a mas
     In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. If the outside air is warm and dry the windows should be open always.
 
 * ### Hygiene
-    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap clean and destroys coronaviruses and many other pathogens. Hygiene is important because many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk.
+    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap clean and destroys coronaviruses and many other pathogens. Hygiene is important because many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk. Additionally many infections can burden or even be harmful (as harmful as Covid) and even if harmless it is often hard to distinguish them from mild SARS-2 infections.
 
-    But do NOT rely on hygiene alone, since the majority of [transmissions occur through air](../5_epidemiological/transmission.md).
+    But do NOT rely on hygiene alone, since the majority of severe Covid [transmissions occur through air](../5_epidemiological/transmission.md).
 
 * ### Transport
   * Cars: Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. (written during shutdown)
