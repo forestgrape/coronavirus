@@ -846,10 +846,16 @@ George CE, Inbaraj LR, Chandrasingh S, de Witte LP (2021).
 
 
 #### Summary Malani
-> in work
+Malani, A., Shah, D., Kang, G., Lobo, G. N., Shastri, J., Mohanan, M., Jain, R., Agrawal, S., Juneja, S., Imad, S., & Kolthur-Seetharam, U. (2021). 
+**Seroprevalence of SARS-CoV-2 in slums versus non-slums in Mumbai, India.** 
+The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X(20)30467-8
+
 ##### Background
 * "To address these issues, we estimated prevalence in six slum and non-slum communities across three wards (one each from the three zones) of Mumbai, India."
-* "At the Kasturba Hospital laboratory, plasma was separated and used to test for IgG antibodies via chemiluminescence (CLIA) using Abbott Diagnostics ArchitectTM N-protein based SARS-CoV-2 tests. According to the manufacturer, sensitivity was 96.77% (95% CI: 90.86 to 99.33) and specificity was 99.63% (95% CI: 99.05 to 99.90). Manufacturer validation results are consistent with 3, finding a sensitivity of 96.9% (89.5% to 99.5%) and specificity of 99.90% at ≥14 days after symptom onset. However, according to 4, sensitivity was 92.7% (95% CI: 90.2, 94.7) and specificity of 99.9% (95% CI: 99.4, 100) at ≥14 days after symptom onset."(from supplemented appendix, therein are also references 3 and 4)
+##### Methods
+* Date: June 29-July 19, 2020
+* Location: Slums and non-slums in Mumbai, India
+* Antibody-testing: "At the Kasturba Hospital laboratory, plasma was separated and used to test for IgG antibodies via chemiluminescence (CLIA) using Abbott Diagnostics ArchitectTM N-protein based SARS-CoV-2 tests. According to the manufacturer, sensitivity was 96.77% (95% CI: 90.86 to 99.33) and specificity was 99.63% (95% CI: 99.05 to 99.90). Manufacturer validation results are consistent with 3, finding a sensitivity of 96.9% (89.5% to 99.5%) and specificity of 99.90% at ≥14 days after symptom onset. However, according to 4, sensitivity was 92.7% (95% CI: 90.2, 94.7) and specificity of 99.9% (95% CI: 99.4, 100) at ≥14 days after symptom onset."(from supplemented appendix, therein are also references 3 and 4)
 
 ##### Results 
 * "Our estimates of adjusted seroprevalence are higher in slums (means ranging from 55·1% to 61·4%) than in non- slums (mean ranging from 12·0% to 18·9%) across wards (appendix p 8)."
