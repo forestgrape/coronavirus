@@ -199,7 +199,7 @@ The numbers in parenthesis are
     * 24 (6.8%) had dementia
     * 34 (9.6%) had a history of stroke
 
-* The Covid-19 fatality rates are higher in cities and especially in cities which are not known for very clean air. Many Covid-19 related deaths are recorded in: Madrid, Milano, Teheran, New York and Wuhan [citation to be added]. According to findings from [Wolff](#wolff) dirty air can reduce the mucus clearance in various ways. 
+* The Covid-19 fatality rates are higher in cities and especially in cities which are not known for very clean air. Many Covid-19 related deaths are recorded in: Madrid, Milano, Tehran, New York and Wuhan [citation to be added]. According to findings from [Wolff](#wolff) dirty air can reduce the mucus clearance in various ways. 
 
 
 <p id='influenza'></p>
