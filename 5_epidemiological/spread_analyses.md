@@ -42,7 +42,9 @@
   * [References General Spread Patterns](#references-general-spread-patterns)
   * [References Covid Spread Children and Schools](#references-covid-spread-children-and-schools)
   * [References Living Conditions](#references-living-conditions)
+  * [Seroprevalence India](#seroprevalence-india)
 * [References](#references)
+  * [Seroprevalence Africa](#seroprevalence-africa)
   * [Epidemiological Patterns](#epidemiological-patterns)
   * [Aerosol Transmission](#aerosol-transmission)
 * [Appendix](#appendix)
@@ -191,7 +193,7 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 
 #### Dirty Air Exposure
 * ##### Air Pollution
-  _Through Air Pollution_: Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Teheran
+  _Through Air Pollution_: Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Tehran
 
 * ##### Smoking
   _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
@@ -507,9 +509,6 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 References without a summary are in the section [References](#references). Copy & Paste citations are in "___". 
 
 
-
-
-
 ### References Household Transmissions
 
 #### Comments on Household Transmissions
@@ -575,6 +574,7 @@ Adam D, Wu P, Wong J, et al. Research Square; 2020.
 #### Summary Streeck
 **Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
 <https://doi.org/10.1038/s41467-020-19509-y>
+
 ##### Methods
 * "A SARS-CoV2 super-spreading event occurred during carnival in a small town in Germany. Due to the rapidly imposed lockdown and its relatively closed community, this town was seen as an ideal model to investigate the infection fatality rate (IFR)."
 * "Anti-SARS-CoV-2 IgA and Anti-SARS-CoV-2 IgG were determined with enzyme-linked immunosorbent assays (ELISA) on the EUROIMMUN Analyzer I platform (most recent CE version for IgG ELISA as of April 2020, specificity 99.1%, sensitivity 90.9%,..."
@@ -788,6 +788,75 @@ Science 362 (6410), 75-79.
 * Population size and crowding increase the base transmission potential. (Fig 3 F,G)
 
 
+### Seroprevalence India
+
+#### Summary Inbaraj
+Inbaraj LR, George CE, Chandrasingh S (2021) 
+**Seroprevalence of COVID-19 infection in a rural district of South India: A population-based seroepidemiological study.** 
+PLoS ONE 16(3): e0249247. <https://doi.org/10.1371/journal.pone.0249247>
+##### Methods
+Study Population:
+* 509 individuals over 18 years.
+* "Hypertension (20.2%) and diabetes (16.9%) were reported as the most common comorbidities."
+Seroprevalence Testing:
+* "The serum was separated and used to test for antibodies using the Elecsys Anti SARS CoV2 assay, an electro chemiluminescent immunoassay using a recombinant protein representing the nucleocapsid (N) antigen for the determination of high-affinity antibodies (including IgG) against SARS CoV2 [15]"
+* ". The assay sensitivity and specificity were reported to be 97.2% (95.4–98.4) and 99.8% (99.3–100) respectively, in samples taken 30 days or more post symptom onset [16]."
+##### Results
+* "The overall seroprevalence of COVID-19 was 12.4% (95% CI 9.6–15.6) (Table 2) The age- and gender-adjusted seroprevalence was 8.5% (95% CI 6.9%- 10.8%) (S1 Table)."
+* "We estimated an IFR of 12.8 per 10000 infections or 0.13% ..."
+
+Unadjusted seroprevalence (shown Table 2):
+* overall 12.4%
+* hypertension 16.3%
+* diabetes 10.7%
+* more than 8 years education 15.6%
+* age >40 12.1%
+[in work]
+
+#### Summary George
+George CE, Inbaraj LR, Chandrasingh S, de Witte LP (2021). 
+**High seroprevalence of COVID-19 infection in a large slum in South India; what does it tell us about managing a pandemic and beyond?** Epidemiology and Infection 149, e39, 1–6. 
+<https://doi.org/10.1017/S0950268821000273>
+
+##### Background
+* "Devarajeevanahalli (DJ Halli), also known as the ‘Dharavi of Bangalore’ is one of the largest governments notified slums in Bangalore, extending over 1.15 km2 with an estimated popula- tion of 100 000 people [3–5] (Fig. 1)."
+* " Because DJ Halli is a typical slum with a likelihood of rapid contagion, the official data of less than 295 cases and 17 deaths, 5 months past the first case, sounded unrealistic [8, 9]."
+* "Further, screening and testing efforts were hindered by communal violence which claimed three lives in this area [12]."
+* "The objective of the current study was to estimate the sero- prevalence of COVID-19 infection in a dense slum of South India. We hypothesised a high prevalence of infection, considering the density of the population and the impossibility of preventive measures in this setting."
+* "This is no surprise, as the hazardous physical environment, overcrowding, poor sanitation and the impracticability of social distancing, hand washing and face covers in slums, are conducive for the rapid spread of infection [18–22]."
+
+##### Methods
+* "The serum was separated and used to test for antibodies using the Elecsys Anti SARS CoV2 assay, an electrochemiluminescent immunoassay using a recombinant protein representing the nucleocapsid (N) antigen for the determination of high-affinity antibodies including IgG against SARS CoV2 [15]."
+* "The assay sensitivity and specificity were reported to be 97.2% (95.4–98.4) and 99.8% (99.3–100), respectively, in samples taken 30 days or more post-symptom onset [16]."
+
+##### Results
+* Seroprevalence by IgG:
+  * overall, unadjusted: 57.9% (95% CI 53.4–62.3)
+  * with hypertension: 66.6%
+  * with diabetes: 62.3%
+* IFR: 2.94 per 10'000 = 0.03%
+* "The majority (95.2%) of the seropositive individuals, did not report any symptom related to COVID-19 infection at the time of the study nor in the past."
+
+##### Discussion
+* "A recent survey done in all 30 districts of Karnataka state, conducted from 16 September 2020 among all adults aged 18 years and above, reported adjusted IgG seroprevalence of 16.4% [23]. Though low (pregnant women attending the antenatal clinic), moderate (persons moving in the community) and high risk (eld- erly and persons with comorbid conditions) population group were covered, the survey did not include population from slums, a possible explanation for low prevalence."
+* Limitations:
+  1. Pragmatic sampling due to violence 2 weeks before.
+  2. No adjustment of seroprevalence to age but seroprevalence similar across age groups anyways.
+  3. Less men than women, since men were not home  during day time. //Possibly field work which would could explain the lower seroprevalence of men.
+
+
+#### Summary Malani
+> in work
+##### Background
+* "To address these issues, we estimated prevalence in six slum and non-slum communities across three wards (one each from the three zones) of Mumbai, India."
+* "At the Kasturba Hospital laboratory, plasma was separated and used to test for IgG antibodies via chemiluminescence (CLIA) using Abbott Diagnostics ArchitectTM N-protein based SARS-CoV-2 tests. According to the manufacturer, sensitivity was 96.77% (95% CI: 90.86 to 99.33) and specificity was 99.63% (95% CI: 99.05 to 99.90). Manufacturer validation results are consistent with 3, finding a sensitivity of 96.9% (89.5% to 99.5%) and specificity of 99.90% at ≥14 days after symptom onset. However, according to 4, sensitivity was 92.7% (95% CI: 90.2, 94.7) and specificity of 99.9% (95% CI: 99.4, 100) at ≥14 days after symptom onset."(from supplemented appendix, therein are also references 3 and 4)
+
+##### Results 
+* "Our estimates of adjusted seroprevalence are higher in slums (means ranging from 55·1% to 61·4%) than in non- slums (mean ranging from 12·0% to 18·9%) across wards (appendix p 8)."
+* "Combined with reported COVID-19 cases and numbers of death in sampled wards, our findings suggest a high asymptomatic spread of the infection and an infection fatality rate of 0·076% in slums and 0·263% in non-slums."
+* In slums at age>60 the seroprevalence was highest with about 60%. While in non-slums it was lowest for those over 60, with about 12% (Table e5) 
+
+> in slums likely is not possible for the older to avoid infection and they may also spend more time indoor.
 
 
 ## References
@@ -807,6 +876,9 @@ Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-J
 #### Freedman
 Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
 <https://doi.org/10.1093/jtm/taaa178>
+
+
+### Seroprevalence Africa
 
 
 ### Epidemiological Patterns
@@ -833,6 +905,7 @@ LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006).
 **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. 
 <https://doi.org/10.1017/S0950268805005054>
 
+
 ### Aerosol Transmission
 
 ##### Marr-aerosol-faq
@@ -843,6 +916,9 @@ Version: 1.87, 9-Dec-2020
 ##### Stocker
 **On the use of CO2 sensors in schools and other indoor environments**
 <https://sciencetaskforce.ch/wp-content/uploads/2021/04/CO2_sensors12Apr21-EN.pdf>
+
+
+
 
 ## Appendix
 
