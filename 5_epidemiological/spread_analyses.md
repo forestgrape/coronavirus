@@ -42,9 +42,11 @@
   * [References General Spread Patterns](#references-general-spread-patterns)
   * [References Covid Spread Children and Schools](#references-covid-spread-children-and-schools)
   * [References Living Conditions](#references-living-conditions)
-  * [Seroprevalence India](#seroprevalence-india)
+  * [References SARS-CoV-2 in India](#references-sars-cov-2-in-india)
+  * [References SARS-CoV-2 in Africa](#references-sars-cov-2-in-africa)
+  * [References SARS-CoV-2 in Europe](#references-sars-cov-2-in-europe)
+  * [References SARS-CoV-2 in South East Asia](#references-sars-cov-2-in-south-east-asia)
 * [References](#references)
-  * [Seroprevalence Africa](#seroprevalence-africa)
   * [Epidemiological Patterns](#epidemiological-patterns)
   * [Aerosol Transmission](#aerosol-transmission)
 * [Appendix](#appendix)
@@ -336,7 +338,7 @@ Infectious disease wave through the clusters until there's no more ground to nou
 
 ### Living Space
 People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
-* [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
+* [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-CoV-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
 * [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in).
 
 #### Residential Blocks
@@ -415,7 +417,7 @@ The observed spread patter even favour small or dry particulates over larger aer
 ### Airplanes
 [Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes the studies reviewed. Key points from their summary:
 * "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
-* For SARS-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no adequate aerosol protection measures were in place. Both index cases were symptomatic. 
+* For SARS-CoV-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no adequate aerosol protection measures were in place. Both index cases were symptomatic. 
 * Since strong protection measures are in place only few transmissions have been described. 
 * Protection measures in airplanes:
   * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
@@ -569,31 +571,6 @@ Adam D, Wu P, Wong J, et al. Research Square; 2020.
 
 ##### Limitations
 "These findings take advantage of the quality of case ascertainment and contact tracing data in Hong Kong, although some incompleteness in links between cases could potentially bias our estimates of transmission heterogeneity."
-
-
-#### Summary Streeck
-**Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
-<https://doi.org/10.1038/s41467-020-19509-y>
-
-##### Methods
-* "A SARS-CoV2 super-spreading event occurred during carnival in a small town in Germany. Due to the rapidly imposed lockdown and its relatively closed community, this town was seen as an ideal model to investigate the infection fatality rate (IFR)."
-* "Anti-SARS-CoV-2 IgA and Anti-SARS-CoV-2 IgG were determined with enzyme-linked immunosorbent assays (ELISA) on the EUROIMMUN Analyzer I platform (most recent CE version for IgG ELISA as of April 2020, specificity 99.1%, sensitivity 90.9%,..."
-##### Results
-"We found that of the 919 individuals with evaluable infection status, 15.5% (95% CI:[12.3%; 19.0%]) were infected. This is a fivefold higher rate than the reported cases for this community (3.1%). 22.2% of all infected individuals were asymptomatic. The estimated IFR was 0.36% (95% CI:[0.29%; 0.45%]) for the community and 0.35% [0.28%; 0.45%] when age-standardized to the population of the community. Participation in carnival increased both infection rate (21.3% versus 9.5%, p < 0.001) and number of symptoms (estimated relative mean increase 1.6, p = 0.007)."
-
-
-#### Summary Hodcroft
-**Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
-Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
-medRxiv preprint doi: 
-<https://doi.org/10.1101/2020.10.25.20219063>
-
-##### Methods
-The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
-
-##### Findings
-* "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
-* "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
 
 
 
@@ -788,7 +765,7 @@ Science 362 (6410), 75-79.
 * Population size and crowding increase the base transmission potential. (Fig 3 F,G)
 
 
-### Seroprevalence India
+### References SARS-CoV-2 in India
 
 #### Summary Inbaraj
 Inbaraj LR, George CE, Chandrasingh S (2021) 
@@ -865,6 +842,105 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 > in slums likely is not possible for the older to avoid infection and they may also spend more time indoor.
 
 
+
+### References SARS-CoV-2 in Africa
+
+#### Summary Abdella
+ S. Abdella et al., Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Randomized household serosurveys reveal level of spread during the first wave of the pandemic, EClinicalMedicine (2021), 
+ <https://doi.org/10.1016/j.eclinm.2021.100880>
+
+##### Methods
+* "We undertook a population-based household seroprevalence serosurvey based on 1856 partici- pants in Ethiopia, in the capital city Addis Ababa, and in Jimma, a middle-sized town in the Oromia region, and its rural surroundings (districts of Seka and Mana), between 22 July and 02 September 2020."
+* 1856 Participants
+* "We tested one random participant per household for anti-SARS-CoV-2 antibodies using a high specificity rapid diagnos- tic tests (RDTs) and evaluated population seroprevalence using a Bayesian logistic regression model taking into account test performance as well as age and sex of the participants."
+##### Results
+"IgG prevalence was estimated at 1.9% (95% CI 0.43.7%), and combined IgM/IgG prevalence at 3.5% (95% CI 1.75.4%) for Addis Ababa in early August 2020, with higher prevalence in central sub-cities. Prevalence in Jimma town was lower at 0.5% (95% CI 01.8%) for IgG and 1.6% (95%CI 04.1%) for IgM/IgG, while in rural Jimma IgG prevalence was 0.2% and IgM/IgG 0.4% in early September."
+
+
+#### Elimian
+Elimian KO et al (2020). 
+**Descriptive epidemiology of coronavirus disease 2019 in Nigeria, 27 February–6 June 2020.** 
+Epidemiology and Infection 148, e208, 1–16. <https://doi.org/10.1017/S095026882000206X>
+
+##### Methods
+" A national surveil- lance dataset between 27 February and 6 June 2020 was retrospectively analysed, with con- firmatory testing for COVID-19 done by real-time polymerase chain reaction (RT-PCR)."
+##### Results
+* Cumulative incidence (CI): 5.6 per 100 000 population
+* Case fatality (CF): 2.8%
+
+Selected Symptom of Non Cases and Confirmed Cases:
+
+Symptoms| - | + 
+--|--|--
+Cough|52|56
+Chest pain|3|4
+Difficult Breathing | 20|19
+Fatigue |3|5
+Fever| 42|56
+Runny Nose|26|24
+Sore Throat|28|20
+Loss of Smell|0.5|4
+Loss of Taste|.5| 3.1
+
+// The symptoms seem to suggest mainly infection in the middle respiratory tract ( bronchi) but not in the lower lungs. The low rate of loss of smell/taste speaks against primarily oral/nose infections.
+
+
+
+#### Ndaye
+Nkuba Ndaye, A., Hoxha, A., Madinga, J., Mariën, J., Peeters, M., Leendertz, F. H., Ahuka Mundeke, S., Ariën, K. K., Muyembe Tanfumu, J. J., Mbala Kingebeni, P., & Vanlerberghe, V. (2021). Challenges in interpreting SARS-CoV-2 serological results in African countries. The Lancet. Global health, 9(5), e588–e589. 
+<https://doi.org/10.1016/S2214-109X(21)00060-7>
+
+
+
+#### Olayanju
+Olayanju, O., Bamidele, O., Edem, F., Eseile, B., Amoo, A., Nwaokenye, J., Udeh, C., Oluwole, G., Odok, G., & Awah, N. (2021). SARS-CoV-2 Seropositivity in Asymptomatic Frontline Health Workers in Ibadan, Nigeria. The American journal of tropical medicine and hygiene, 104(1), 91–94. 
+<https://doi.org/10.4269/ajtmh.20-1235>
+
+
+
+#### Wiens
+Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Juba, South Sudan: a population-based study
+Kirsten E. Wiens, Pinyi Nyimol Mawien, John Rumunu, Damien Slater, Forrest K. Jones, Serina Moheed, Andrea Caflish, Bior K. Bior, Iboyi Amanya Jacob, Richard Lino Loro Lako, Argata Guracha Guyo, Olushayo Oluseun Olu, Sylvester Maleghemi, Andrew Baguma, Juma John Hassen, Sheila K. Baya, Lul Deng, Justin Lessler, Maya N. Demby, Vanessa Sanchez, Rachel Mills, Clare Fraser, Richelle C. Charles, Jason B. Harris, Andrew S. Azman, Joseph F. Wamala
+medRxiv 2021.03.08.21253009; 
+<https://doi.org/10.1101/2021.03.08.21253009>
+
+
+#### Quashie
+Trends of SARS-CoV-2 antibody prevalence in selected regions across Ghana
+Peter Kojo Quashie, Joe Kimanthi Mutungi, Francis Dzabeng, Daniel Oduro-Mensah, Precious C. Opurum, Kesego Tapela, Aniefiok John Udoakang, WACCBIP COVID-19 Team, Ivy Asante, Lily Paemka, Frederick Kumi-Ansah, Osbourne Quaye, Emmanuella Amoako, Ralph Armah, Charlyne Kilba, Nana Afia Boateng, Michael Ofori, George B. Kyei, Yaw Bediako, Nicaise Ndam, James Abugri, Patrick Ansah, William K. Ampofo, Francisca Mutapi, Gordon A. Awandare
+medRxiv 2021.04.25.21256067; 
+<https://doi.org/10.1101/2021.04.25.21256067>
+
+
+### References SARS-CoV-2 in Europe
+
+#### Summary Streeck
+**Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
+<https://doi.org/10.1038/s41467-020-19509-y>
+
+##### Methods
+* "A SARS-CoV2 super-spreading event occurred during carnival in a small town in Germany. Due to the rapidly imposed lockdown and its relatively closed community, this town was seen as an ideal model to investigate the infection fatality rate (IFR)."
+* "Anti-SARS-CoV-2 IgA and Anti-SARS-CoV-2 IgG were determined with enzyme-linked immunosorbent assays (ELISA) on the EUROIMMUN Analyzer I platform (most recent CE version for IgG ELISA as of April 2020, specificity 99.1%, sensitivity 90.9%,..."
+##### Results
+"We found that of the 919 individuals with evaluable infection status, 15.5% (95% CI:[12.3%; 19.0%]) were infected. This is a fivefold higher rate than the reported cases for this community (3.1%). 22.2% of all infected individuals were asymptomatic. The estimated IFR was 0.36% (95% CI:[0.29%; 0.45%]) for the community and 0.35% [0.28%; 0.45%] when age-standardized to the population of the community. Participation in carnival increased both infection rate (21.3% versus 9.5%, p < 0.001) and number of symptoms (estimated relative mean increase 1.6, p = 0.007)."
+
+
+#### Summary Hodcroft
+**Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
+Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
+medRxiv preprint doi: 
+<https://doi.org/10.1101/2020.10.25.20219063>
+
+##### Methods
+The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
+
+##### Findings
+* "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
+* "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
+
+### References SARS-CoV-2 in South East Asia
+
+
 ## References
 References with a summary are in the section [Summarized References](#summarized-references)
 
@@ -882,9 +958,6 @@ Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-J
 #### Freedman
 Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
 <https://doi.org/10.1093/jtm/taaa178>
-
-
-### Seroprevalence Africa
 
 
 ### Epidemiological Patterns
