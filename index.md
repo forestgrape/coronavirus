@@ -40,6 +40,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ## Recent Updates
+- 22.5. Added note that English wikipedia, encyclopedia britannica and the oxford dictionary are frequently consulted but not specially cited (currently) (Comment on References in [Notes on Reading](#notes-on-reading)).
 - 18.5. [Spread analyses](./5_epidemiological/spread_analyses.md) refined.
 - 16.5. (commits 13.5. through 16.5.)
   - [Spread analyses](./5_epidemiological/spread_analyses.md): Added per regions analyses e.g. in Europe, US, India.
@@ -81,6 +82,7 @@ This section overviews the content. The [full content section](#content) lists t
   * As much as possible original work is referred. Sometimes reviews or remarks in introductions are referred which point further to the original work/articles.
   * The references are named by the first author. (In the beginning of this work sometimes references were named by the correspondence author or a descriptive tag).
   * References are usually grouped by topic. If several topics apply, one is chosen.
+  * For term definitions and general topics the English wikipedia, encyclopedia britannica and the oxford dictionary are frequently consulted. Currently they are only referenced here and not at the specific terms. It is planned to improve this.
 * _Formulations_
    Sometimes words are not weighted carefully or formulations are unclear e.g. ambiguous. Some formulation are general. Some are subjective and marked as [comments](#comments). Ambiguity is not intended (also commented in [comments](#comments)). Upon discovery, unfitting formulations are improve. Feedback is appreciated and questions welcome.
 * _Symbols_
