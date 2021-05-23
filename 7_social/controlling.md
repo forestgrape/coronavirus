@@ -64,7 +64,7 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 
 
 ## Spread Assumptions
-The design of measures relies on transmission models. The main transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) and can be metaphored as smoke-like.
+The design of measures relies on transmission models. The dangerous transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) in dry air and can be metaphored as smoke-like.
 
 ### Indoors
 *Observations:* The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of dry air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round).
@@ -80,17 +80,6 @@ The [transmission in dry indoor air](./transmission.md) of coronaviruses and man
 Adequate prevention measures take the the seasonality into account. In moderate climate zones, prevention measures are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken. 
 
 > I don't except strict measures to be necessary (-> [Looking Ahead](#looking-ahead)).
-
-> ### Looking Ahead
-> Shutdowns or even lockdown I don't except anymore. Suitable tools for prevention and treatment are known: ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. These immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for elderly).
-> #### Southern Hemisphere
-> Moderate measures are likely needed in Winter 2021 in the Southern Hemisphere since the risks groups are not vaccinated yet. E.g. capacity reduction and moving businesses to outdoors.
-> #### Northern Hemisphere
-> Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and possibly some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
-> 
-> In fact think if the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people, I think only very few other measures will be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
-> 
->   Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
 
 ### Spread Metaphor
 *Aerosol transmission* behaves [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures). 
@@ -113,6 +102,21 @@ Adequate prevention measures take the the seasonality into account. In moderate 
 
 
 ## Risk Management
+
+
+> ### Looking Ahead
+> 23. May 2021
+> Shutdowns or even lockdown I don't except anymore. Suitable tools for prevention and treatment are known: ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. These immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for elderly). It is known that most severe causes occur through transmission in dry indoor air, so that's to prevent.
+> #### Southern Hemisphere
+> Moderate measures are likely needed in Winter 2021 in the Southern Hemisphere since the risks groups are not vaccinated yet. E.g. capacity reduction and moving businesses to outdoors.
+> #### Northern Hemisphere
+> Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and possibly some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
+> 
+> In fact think if the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people, I think only very few other measures will be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
+> 
+>   Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
+
+
 
 ### Balancing of Measures
 * Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
