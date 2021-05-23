@@ -106,15 +106,15 @@ Adequate prevention measures take the the seasonality into account. In moderate 
 
 > ### Looking Ahead
 > 23. May 2021, subjective remarks, currently in work
-> Shutdowns or even lockdown I don't except anymore. It is known that most severe causes occur through transmission in dry indoor air, so that's to prevent. Suitable tools for prevention and treatment are known: ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. The immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for risk groups).
+> Shutdowns or even lockdown I don't except anymore. The transmission pathways clearify and suitable tools for prevention and treatment are known and the knowledge continuously increases. Aerosol transmission in dry indoor air is especially risky to cause severe Covid, so that's to prevent. Ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. The immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for risk groups).
 > 
 > #### Southern Hemisphere
 > Moderate measures are likely needed in Winter 2021 in the Southern Hemisphere since the risks groups are not vaccinated yet. E.g. capacity reduction and moving businesses to outdoors.
 > 
 > #### Northern Hemisphere
-> Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and possibly some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
+> Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
 > 
-> In fact think if the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people, I think only very few other measures will be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
+> If the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people: Only very few other measures may be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
 > 
 >   Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
 
