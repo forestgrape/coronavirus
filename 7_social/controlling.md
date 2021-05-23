@@ -13,6 +13,7 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
   * [Differences between Individuals](#differences-between-individuals)
   * [Summed Up](#summed-up)
 * [Risk Management](#risk-management)
+  * [Looking Ahead](#looking-ahead)
   * [Balancing of Measures](#balancing-of-measures)
   * [Hospital Overwhelming](#hospital-overwhelming)
 * [Individual Protection Measures](#individual-protection-measures)
@@ -54,7 +55,8 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 > * Settings that those who want/need can protect, while those not needing/choosing can go on, go on circumspectly.
 > * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. *Everybody has to right for a good treatment.*
 >
-> ### Reconsidering Strategy
+> ### Reconsidering Strategy 
+> Autumn 2020
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent at least if good masks are scarce. In warm areas windows should be open all the time and air-conditioning should *never* be used.
 > 
 > Three more points
@@ -104,7 +106,7 @@ Adequate prevention measures take the the seasonality into account. In moderate 
 ## Risk Management
 
 
-> ### Looking Ahead
+### Looking Ahead
 > 23. May 2021, subjective remarks, currently in work
 > Shutdowns or even lockdown I don't except anymore. The transmission pathways clearify and suitable tools for prevention and treatment are known and the knowledge continuously increases. Aerosol transmission in dry indoor air is especially risky to cause severe Covid, so that's to prevent. Ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. The immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for risk groups).
 > 
