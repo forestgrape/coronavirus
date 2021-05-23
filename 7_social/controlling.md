@@ -8,7 +8,7 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 * [Spread Assumptions](#spread-assumptions)
   * [Indoors](#indoors)
   * [Outdoors](#outdoors)
-  * [Seasonality](#seasonality)
+  * [Seasonality of Transmission](#seasonality-of-transmission)
   * [Spread Metaphor](#spread-metaphor)
   * [Differences between Individuals](#differences-between-individuals)
   * [Summed Up](#summed-up)
@@ -75,9 +75,22 @@ The design of measures relies on transmission models. The main transmission of S
 *Observations:* On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, sometimes without), no increased spread has been observed (->[Spread Analyses](../5_epidemiological/spread_analyses.md)).
 *Explanations:* Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoors-is-safer)). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md).
 
-### Seasonality
-The spread in dry indoor air of coronaviruses and many other respiratory viruses yields a seasonality: Spread in the winter in moderate and Northern climate regions. Spread in the summer in hot & humid regions when air-conditioning is used. 
-Adequate prevention measures take the the seasonality into account. In moderate climate zones, prevention measures are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken.
+### Seasonality of Transmission
+The [transmission in dry indoor air](./transmission.md) of coronaviruses and many other respiratory viruses yields a seasonality: Spread in the winter in moderate and Northern climate regions. Spread in the summer in hot & humid regions when air-conditioning is used. 
+Adequate prevention measures take the the seasonality into account. In moderate climate zones, prevention measures are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken. 
+
+> I don't except strict measures to be necessary (-> [Looking Ahead](#looking-ahead)).
+
+> ### Looking Ahead
+> Shutdowns or even lockdown I don't except anymore. Suitable tools for prevention and treatment are known: ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. These immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for elderly).
+> #### Southern Hemisphere
+> Moderate measures are likely needed in Winter 2021 in the Southern Hemisphere since the risks groups are not vaccinated yet. E.g. capacity reduction and moving businesses to outdoors.
+> #### Northern Hemisphere
+> Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and possibly some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
+> 
+> In fact think if the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people, I think only very few other measures will be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
+> 
+>   Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
 
 ### Spread Metaphor
 *Aerosol transmission* behaves [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures). 
