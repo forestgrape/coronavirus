@@ -846,11 +846,13 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 ### References SARS-CoV-2 in Africa
 
 #### Summary Abdella
- S. Abdella et al., Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Randomized household serosurveys reveal level of spread during the first wave of the pandemic, EClinicalMedicine (2021), 
+ S. Abdella et al., 
+ **Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Randomized household serosurveys reveal level of spread during the first wave of the pandemic** EClinicalMedicine (2021), 
  <https://doi.org/10.1016/j.eclinm.2021.100880>
-
 ##### Methods
-* "We undertook a population-based household seroprevalence serosurvey based on 1856 partici- pants in Ethiopia, in the capital city Addis Ababa, and in Jimma, a middle-sized town in the Oromia region, and its rural surroundings (districts of Seka and Mana), between 22 July and 02 September 2020."
+* *Type*: Seroprevalence
+* *Investigation Period:* 22. July - 2. September 2020
+* "We undertook a population-based household seroprevalence serosurvey based on 1856 participants in Ethiopia, in the capital city Addis Ababa, and in Jimma, a middle-sized town in the Oromia region, and its rural surroundings (districts of Seka and Mana), between 22 July and 02 September 2020."
 * 1856 Participants
 * "We tested one random participant per household for anti-SARS-CoV-2 antibodies using a high specificity rapid diagnos- tic tests (RDTs) and evaluated population seroprevalence using a Bayesian logistic regression model taking into account test performance as well as age and sex of the participants."
 ##### Results
@@ -861,9 +863,9 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 Elimian KO et al (2020). 
 **Descriptive epidemiology of coronavirus disease 2019 in Nigeria, 27 February–6 June 2020.** 
 Epidemiology and Infection 148, e208, 1–16. <https://doi.org/10.1017/S095026882000206X>
-
 ##### Methods
-" A national surveil- lance dataset between 27 February and 6 June 2020 was retrospectively analysed, with con- firmatory testing for COVID-19 done by real-time polymerase chain reaction (RT-PCR)."
+* *Investigation period*: 27.2.20 - 6.6.20
+* *Type*: PCR tests, Symptoms
 ##### Results
 * Cumulative incidence (CI): 5.6 per 100 000 population
 * Case fatality (CF): 2.8%
@@ -882,8 +884,21 @@ Sore Throat|28|20
 Loss of Smell|0.5|4
 Loss of Taste|.5| 3.1
 
-// The symptoms seem to suggest mainly infection in the middle respiratory tract ( bronchi) but not in the lower lungs. The low rate of loss of smell/taste speaks against primarily oral/nose infections.
+// The symptoms tend to indicate infections in the middle respiratory tract (e.g. the bronchi; cough fever) but less in the lower lungs(not much fatigue and very few ADRS). The low rate of loss of smell/taste speaks against primarily oral/nose infections.
 
+
+#### Sagara
+**Prevalence of SARS-CoV-2 in six districts in Zambia in July, 2020: a cross-sectional cluster sample survey**
+<https://doi.org/10.1016/ S2214-109X(21)00053-X>
+
+##### Methods
+* *Investigation Period*: 4. July - 27. July 2020
+* *Type*: Seroprevalence, PCR testing, Symptoms
+* Seroprevalence: "Sera separated from blood samples collected at each visit were tested for the presence of IgG antibodies to SARS-CoV-2 spike protein and receptor binding domain (RBD) at the MRTC/DEAP Immunology Laboratory using a reference ELISA adapted for optimized performance in the local population [6, 14]. Seropositivity was defined as spike protein and RBD assay absorbance values (optical density, OD) above antigen cutoffs. The estimated sensitivity and specificity of these cutoffs was 73.9% (51.6 to 89.8) and 99.4% (97.7 to 99.9) respectively [6]."
+* Symptoms: "Symptom history included systemic symptoms: fever, chills, fatigue, myalgia, and headache; respiratory symptoms: sore throat, cough, rhinorrhea, shortness of breath, wheeze, anosmia/loss of taste, and respiratory symptoms not otherwise specified; and gastrointestinal symptoms: nausea/vomiting, abdominal pain, and diarrhea. Symptom severity was estimated based on self-reported school or work absenteeism, presentation for medical attention, and hospitalization."
+* Adjustments: "Seroprevalence estimates were adjusted using two methods. Firstly, results for each site were stratified by age group (<10 years, 10-17 years, 318 years) and weighted for community age structure and size using available census data. Secondly, results were adjusted for test sensitivity and specificity [15]."
+##### Results
+* Symptoms: "Among seropositive participants, 48.6% (352/724) reported a history of any symptoms, compared to 49.3% (803/1629) in seronegative participants. As a result of increased background illness rates, it is difficult to establish which symptoms are associated with COVID-19 in the study population. Chills (3.7% (27/724) vs 2.1% (34/1619), p=0.0250) and fatigue (4.3% (31/724) vs 2.5% (41/1619), p=0.0275) were more frequently reported by seropositive participants compared to seronegative participants." ... "In participants reporting symptoms at visit 2, seropositive individuals were more likely to have sought medical attention for symptoms compared to seronegative individuals (63.4% (223/352) vs 45.9% (366/797), p<0.0001, Supplementary Table 4)."
 
 
 #### Ndaye
