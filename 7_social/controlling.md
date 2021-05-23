@@ -107,8 +107,10 @@ Adequate prevention measures take the the seasonality into account. In moderate 
 > ### Looking Ahead
 > 23. May 2021, subjective remarks, currently in work
 > Shutdowns or even lockdown I don't except anymore. It is known that most severe causes occur through transmission in dry indoor air, so that's to prevent. Suitable tools for prevention and treatment are known: ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. The immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for risk groups).
+> 
 > #### Southern Hemisphere
 > Moderate measures are likely needed in Winter 2021 in the Southern Hemisphere since the risks groups are not vaccinated yet. E.g. capacity reduction and moving businesses to outdoors.
+> 
 > #### Northern Hemisphere
 > Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and possibly some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
 > 
