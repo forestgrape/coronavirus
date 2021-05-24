@@ -851,7 +851,7 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
  <https://doi.org/10.1016/j.eclinm.2021.100880>
 ##### Methods
 * *Type*: Seroprevalence
-* *Investigation Period:* 22. July - 2. September 2020
+* *Testing Dates:* 22. July - 2. September 2020
 * "We undertook a population-based household seroprevalence serosurvey based on 1856 participants in Ethiopia, in the capital city Addis Ababa, and in Jimma, a middle-sized town in the Oromia region, and its rural surroundings (districts of Seka and Mana), between 22 July and 02 September 2020."
 * 1856 Participants
 * "We tested one random participant per household for anti-SARS-CoV-2 antibodies using a high specificity rapid diagnos- tic tests (RDTs) and evaluated population seroprevalence using a Bayesian logistic regression model taking into account test performance as well as age and sex of the participants."
@@ -864,7 +864,7 @@ Elimian KO et al (2020).
 **Descriptive epidemiology of coronavirus disease 2019 in Nigeria, 27 February–6 June 2020.** 
 Epidemiology and Infection 148, e208, 1–16. <https://doi.org/10.1017/S095026882000206X>
 ##### Methods
-* *Investigation period*: 27.2.20 - 6.6.20
+* *Testing Dates*: 27.2.20 - 6.6.20
 * *Type*: PCR tests, Symptoms
 ##### Results
 * Cumulative incidence (CI): 5.6 per 100 000 population
@@ -888,28 +888,76 @@ Loss of Taste|.5| 3.1
 
 
 #### Sagara
-**Prevalence of SARS-CoV-2 in six districts in Zambia in July, 2020: a cross-sectional cluster sample survey**
-<https://doi.org/10.1016/ S2214-109X(21)00053-X>
+Sagara, I., Woodford, J., Kone, M., Assadou, M. H., Katile, A., Attaher, O., Zeguime, A., Doucoure, M., Higbee, E., Lane, J., Doritchamou, J., Zaidi, I., Esposito, D., Kwan, J., Sadtler, K., Dicko, A., & Duffy, P. (2021). 
+**Rapidly increasing SARS-CoV-2 seroprevalence and limited clinical disease in three Malian communities: a prospective cohort study.** 
+medRxiv : the preprint server for health sciences, 2021.04.26.21256016. https://doi.org/10.1101/2021.04.26.2125601
 
 ##### Methods
-* *Investigation Period*: 4. July - 27. July 2020
-* *Type*: Seroprevalence, PCR testing, Symptoms
-* Seroprevalence: "Sera separated from blood samples collected at each visit were tested for the presence of IgG antibodies to SARS-CoV-2 spike protein and receptor binding domain (RBD) at the MRTC/DEAP Immunology Laboratory using a reference ELISA adapted for optimized performance in the local population [6, 14]. Seropositivity was defined as spike protein and RBD assay absorbance values (optical density, OD) above antigen cutoffs. The estimated sensitivity and specificity of these cutoffs was 73.9% (51.6 to 89.8) and 99.4% (97.7 to 99.9) respectively [6]."
-* Symptoms: "Symptom history included systemic symptoms: fever, chills, fatigue, myalgia, and headache; respiratory symptoms: sore throat, cough, rhinorrhea, shortness of breath, wheeze, anosmia/loss of taste, and respiratory symptoms not otherwise specified; and gastrointestinal symptoms: nausea/vomiting, abdominal pain, and diarrhea. Symptom severity was estimated based on self-reported school or work absenteeism, presentation for medical attention, and hospitalization."
-* Adjustments: "Seroprevalence estimates were adjusted using two methods. Firstly, results for each site were stratified by age group (<10 years, 10-17 years, 318 years) and weighted for community age structure and size using available census data. Secondly, results were adjusted for test sensitivity and specificity [15]."
+The seroprevalence in a couple urban and rural communities was investigated both in July and in December. The rainy season is between July and December, so the sampling visits are at the beginning and at the end of the rainy season. The rainy season is also mosquito season and thus malaria season. 
+* *Investigated:* Seroprevalence, demographic, social, medical and self-reported symptoms
+* *Testing Dates:* 
+  * Visit 1: 27 July and following weeks
+  * Visit 2: 14 December and following weeks
+* *Study Population:* "Overall, 94.8% (2533/2672) of participants completed both study visits. A total of 50.3% (1343/2672) of participants were male, and 31.3% (837/2672) were aged <10 years, 27.6% (737/2672) were aged 10-17 years, and 41.1% (1098/2572) were aged over 18 years."
 ##### Results
+* "The cumulative SARS-CoV-2 exposure rate was 58.5% (95% CI: 47.5 to 69.4). This varied between sites and was 73.4% (95% CI: 59.2 to 87.5) in the urban community of Sotuba, 53.2% (95% CI: 42.8 to 63.6) in the rural town of Bancoumana, and 37.1% (95% CI: 29.6 to 44.5) in the rural village of Donéguébougou."
+* Regardless whether seropositive or seronegative about half experienced some disease symptoms. The seropositive were a little likelier to search medical advice (63% to 46%).
+##### Methods Details
+* *Seroprevalence:* "Sera separated from blood samples collected at each visit were tested for the presence of IgG antibodies to SARS-CoV-2 spike protein and receptor binding domain (RBD) at the MRTC/DEAP Immunology Laboratory using a reference ELISA adapted for optimized performance in the local population [6, 14]. Seropositivity was defined as spike protein and RBD assay absorbance values (optical density, OD) above antigen cutoffs. The estimated sensitivity and specificity of these cutoffs was 73.9% (51.6 to 89.8) and 99.4% (97.7 to 99.9) respectively [6]."
+* *Symptoms:* "Symptom history included systemic symptoms: fever, chills, fatigue, myalgia, and headache; respiratory symptoms: sore throat, cough, rhinorrhea, shortness of breath, wheeze, anosmia/loss of taste, and respiratory symptoms not otherwise specified; and gastrointestinal symptoms: nausea/vomiting, abdominal pain, and diarrhea. Symptom severity was estimated based on self-reported school or work absenteeism, presentation for medical attention, and hospitalization."
+##### Results Details
 * Symptoms: "Among seropositive participants, 48.6% (352/724) reported a history of any symptoms, compared to 49.3% (803/1629) in seronegative participants. As a result of increased background illness rates, it is difficult to establish which symptoms are associated with COVID-19 in the study population. Chills (3.7% (27/724) vs 2.1% (34/1619), p=0.0250) and fatigue (4.3% (31/724) vs 2.5% (41/1619), p=0.0275) were more frequently reported by seropositive participants compared to seronegative participants." ... "In participants reporting symptoms at visit 2, seropositive individuals were more likely to have sought medical attention for symptoms compared to seronegative individuals (63.4% (223/352) vs 45.9% (366/797), p<0.0001, Supplementary Table 4)."
 
+
+#### Mulenga
+**Prevalence of SARS-CoV-2 in six districts in Zambia in July, 2020: a cross-sectional cluster sample survey**
+<https://doi.org/10.1016/ S2214-109X(21)00053-X>
+##### Methods
+* *Testing Dates*: 4. July - 27. July 2020
+* *Type*: Seroprevalence, PCR testing, Symptoms
+* *Study Population:* "Overall, 4258 people from 1866 households participated in the study. The median age of participants was 18·2 years (IQR 7·7–31·4) and 50·6% of participants were female."
+##### Results
+* Prevalence: 
+  * The rtPCR-positive prevalence was 7.6%  and the seroprevalence was 2.1%. The national testing data indicate that the first wave in Zambia started in July, which is consistent with a low seroprevalence but high PCR values.
+  * The prevalence in rural regions was about 3% compared to 10% in cities.
+  * Prevalence tends to be higher for people with a higher educations level.
+
+##### Discussion
+* "Only a small proportion of people with SARS-CoV-2 infection were aware of their infection."
 
 #### Ndaye
 Nkuba Ndaye, A., Hoxha, A., Madinga, J., Mariën, J., Peeters, M., Leendertz, F. H., Ahuka Mundeke, S., Ariën, K. K., Muyembe Tanfumu, J. J., Mbala Kingebeni, P., & Vanlerberghe, V. (2021). Challenges in interpreting SARS-CoV-2 serological results in African countries. The Lancet. Global health, 9(5), e588–e589. 
 <https://doi.org/10.1016/S2214-109X(21)00060-7>
-
+##### Methods
+* *Testing Dates:* 17 July to 13 August
+* *Type:* Seroprevalence
+* *Study Population:* 
+  * The median age of participants was 42 years; 242 (43%) of 562 participants were male and 320 (57%) were female.
+  * Healthcare staff working in Kinshasa (capital of the Democratic Republic of Congo)
+##### Results
+* Prevalence: 
+    * "202 samples (36%) were seropositive using the EUROIMMUN IgG, 171 (30%) using the Quickzen IgM and 72 (13%) using the Quickzen IgG."
+    * "Two of eight participants who had previously tested positive by SARS-CoV-2 PCR were seronegative by all three commercial serology tests."
+    * "89 (16%) samples were positive for malaria by microscopy."
+##### Method Details
+* *Seroprevalence:* "These three commercial assays were the EUROIMMUN IgG ELISA (EUROIMMUN, Lübeck, Germany)—a widely used assay in Europe, with sensitivity of 94·6% and specificity of 99·8%—and Quickzen IgG and IgM (Zentech, Belgium), a lateral flow test that detects IgG and IgM antibodies on a single device with a specificity of 100% and sensitivity of 68·8% for IgM and 49·2% for IgG.1"
 
 
 #### Olayanju
-Olayanju, O., Bamidele, O., Edem, F., Eseile, B., Amoo, A., Nwaokenye, J., Udeh, C., Oluwole, G., Odok, G., & Awah, N. (2021). SARS-CoV-2 Seropositivity in Asymptomatic Frontline Health Workers in Ibadan, Nigeria. The American journal of tropical medicine and hygiene, 104(1), 91–94. 
+Olayanju, O., Bamidele, O., Edem, F., Eseile, B., Amoo, A., Nwaokenye, J., Udeh, C., Oluwole, G., Odok, G., & Awah, N. (2021). 
+**SARS-CoV-2 Seropositivity in Asymptomatic Frontline Health Workers in Ibadan, Nigeria.** 
+The American journal of tropical medicine and hygiene, 104(1), 91–94. 
 <https://doi.org/10.4269/ajtmh.20-1235>
+##### Methods
+* *Study Population:* 
+  * "This is a hospital-based cross-sectional study; healthcare workers who had not taken the COVID-19 test and had no COVID-19–related symptoms were randomly selected from different departments of the hospital." 
+  * 133 participants
+* *Location:* Ibadan, Nigeria
+* *Test Dates:* May, June 2020 ? [to check]
+* 
+##### Results
+* "Sixty participants were positive for SARS-CoV-2 IgG, in- dicating a seroprevalence of 45.1% in the study population (Table 1)."
+* "Grouping of study participants by department where they work showed that 90% of O&G staff, 60% of emergency staff, 59% of medicine staff, 33% of micro- biology staff, 32% of chemical pathology staff, 23% of surgery staff, and 21% of private suite staff recruited for this study were seropositive for SARS-CoV-2, whereas none of the study par- ticipants recruited from hematology was seropositive."
 
 
 
@@ -918,13 +966,35 @@ Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Juba, South Sudan: a populat
 Kirsten E. Wiens, Pinyi Nyimol Mawien, John Rumunu, Damien Slater, Forrest K. Jones, Serina Moheed, Andrea Caflish, Bior K. Bior, Iboyi Amanya Jacob, Richard Lino Loro Lako, Argata Guracha Guyo, Olushayo Oluseun Olu, Sylvester Maleghemi, Andrew Baguma, Juma John Hassen, Sheila K. Baya, Lul Deng, Justin Lessler, Maya N. Demby, Vanessa Sanchez, Rachel Mills, Clare Fraser, Richelle C. Charles, Jason B. Harris, Andrew S. Azman, Joseph F. Wamala
 medRxiv 2021.03.08.21253009; 
 <https://doi.org/10.1101/2021.03.08.21253009>
+##### Methods
+During August 10–September 11, 2020, we recruited 2,214 participants for a representative household-based cross-sectional serosurvey in Juba, South Sudan.*
+* *Study Population:* 2214, from 1840 interview data available
+##### Results
+* "We found 22.3% of participants had severe acute respiratory syndrome coronavirus 2 (SARS- CoV-2) receptor binding domain IgG titers above prepandemic levels. After accounting for waning antibody levels, age, and sex, we estimated that 38.3% (95% credible interval 31.8%–46.5%) of the population had been infected with SARS-CoV-2."
+* Those having experienced a respiratory illness, which 6% had, had seroprevalence of 19.5%; those who had no respiratory illness had a seroprevalence of 22.5%. //=> Covid is not associated with respiratory symptoms for the majority
 
 
 #### Quashie
-Trends of SARS-CoV-2 antibody prevalence in selected regions across Ghana
+**Trends of SARS-CoV-2 antibody prevalence in selected regions across Ghana**
 Peter Kojo Quashie, Joe Kimanthi Mutungi, Francis Dzabeng, Daniel Oduro-Mensah, Precious C. Opurum, Kesego Tapela, Aniefiok John Udoakang, WACCBIP COVID-19 Team, Ivy Asante, Lily Paemka, Frederick Kumi-Ansah, Osbourne Quaye, Emmanuella Amoako, Ralph Armah, Charlyne Kilba, Nana Afia Boateng, Michael Ofori, George B. Kyei, Yaw Bediako, Nicaise Ndam, James Abugri, Patrick Ansah, William K. Ampofo, Francisca Mutapi, Gordon A. Awandare
 medRxiv 2021.04.25.21256067; 
 <https://doi.org/10.1101/2021.04.25.21256067>
+
+##### Methods
+* "To estimate the level of community exposure to SARS-CoV-2 in Ghana, we conducted
+37 phased seroprevalence studies of 2729 participants in selected locations across Ghana." 
+* *Test Dates:* Phase 1 in August, Phase 2 in October, Phase 3 in December and Phase 4 in February.
+* *Study Population:* 1305 in Phase 1, 395 Phase 2, 393 Phase 3, 636 Phase 4 (Table 2)
+
+##### Results
+* The socio-demographic characteristics of participants are shown in Table 1. The corresponding serostata are tabled in Table 2. Key findings:
+  * Phase 1: "In Phase I, 252/1305 (19%) tested positive for IgM or IgG or both. Exposure rate was significantly higher among individuals tested at markets/lorry stations (26.9%) compared to those at Shopping Malls (9.4%)."
+  * Phase 2 and 3: "Phases II and III screening activities in October and December 2020,
+  49 respectively, showed no evidence of increased seroprevalence, indicating either a reduced
+  50 transmission rate or loss of antibody expression in a subset of the participants."
+  * Phase 4: The seroprevalence in shopping mall staff now increased to 25% from 9.4% in phase 1. The seroprevalence in heath care related settings increase to 22.2% from 13.4% in phase 1.sy
+* "Additionally, the high exposure levels seen in the communities suggest that COVID-19 in Ghana still predominantly presents with none-to-mild symptoms. "
+
 
 
 ### References SARS-CoV-2 in Europe
