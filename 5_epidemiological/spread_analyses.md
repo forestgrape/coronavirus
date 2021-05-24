@@ -15,6 +15,7 @@
   * [Methods](#methods)
   * [Europe](#europe)
   * [USA](#usa)
+  * [Tropical Africa](#tropical-africa)
   * [South America](#south-america)
   * [India](#india)
   * [Nepal](#nepal)
@@ -43,7 +44,7 @@
   * [References Covid Spread Children and Schools](#references-covid-spread-children-and-schools)
   * [References Living Conditions](#references-living-conditions)
   * [References SARS-CoV-2 in India](#references-sars-cov-2-in-india)
-  * [References SARS-CoV-2 in Africa](#references-sars-cov-2-in-africa)
+  * [References SARS-CoV-2 in Tropical Africa](#references-sars-cov-2-in-tropical-africa)
   * [References SARS-CoV-2 in Europe](#references-sars-cov-2-in-europe)
   * [References SARS-CoV-2 in South East Asia](#references-sars-cov-2-in-south-east-asia)
 * [References](#references)
@@ -81,9 +82,9 @@ Findings:
 * *Droplet Transmission is likely Not important for the spread of symptomatic Covid:* In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 is not noticed.
 * *Fomite Transmission is likely Not important for the spread of symptomatic Covid:* In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmissions of symptomatic Covid neither at the population level (regions where water to wash hands is scarce) nor through contact-tracing (e.g. on camping grounds, take away food).
   
-The observations strongly indicate a generalized aerosol transmission model: either droplet or dry form aerosol ([Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). Since severe cases are mainly observed in settings with dry indoor air, indicates dry form transmission need a special focus. Droplet or contact transmission may yield asymptomatic infections but don't cause symptomatic or severe Covid.
+The observations strongly indicate a generalized aerosol transmission model for symptomatic Covid: either droplet or dry form aerosol ([Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). Since severe cases are mainly observed in settings with dry indoor air, indicates dry form transmission need a special focus. Droplet or contact transmission may yield asymptomatic infections but don't cause symptomatic or severe Covid.
 
-Regarding prevention measures relevant is, that the transmission correlates to the amount of air exchanged. The exact transmission mechanism provides additional insights and helps fine-tuning but mostly it can be abstracted away. One of the most important prevention measure is Ventilation, especially in warm environments.
+Regarding prevention measures relevant is, that the transmission of symptomatic Covid correlates to the amount of air exchanged. The exact transmission mechanism provides additional insights and helps fine-tuning but mostly it can be abstracted away. One of the most important prevention measure is Ventilation, especially in warm environments.
 
 ### Summary Findings Population Characteristics
 * Population groups with an adequate and in form immune system in the lungs mostly get mild diseases and seem to be less infectious. These includes young people and especially children for whom Covid is no more or even less dangerous than common cold viruses or influenza. 
@@ -100,7 +101,7 @@ Covid-19 waves across the world are predated certain climates:
 * _Very Dry Air:_ Very dry outdoor air at moderate temperatures or high temperatures: Middle East (where also MERS spreads in the dry indoor air), Northern India (e.g. Delhi, Uttarakhand, Chandigarh) and Nepal at the foothills of the Himalaya.
 
 #### Geographical Settings with Mainly Mild Covid
-High absolute humidity of outdoor air but no air-conditioners and dense living conditions. Examples: Coastal india (except tourism regions in the South like Goa and Puducherry where ACs are likely widespread), Lagos in Nigeria, Indonesia.
+High absolute humidity of outdoor air but no air-conditioners and dense living conditions. Examples: Coastal india (except tourism regions in the South like Goa and Puducherry where ACs are likely widespread), tropical Africa (spread data from Lagos in Mali, Nigeria, Gambia, South Sudan, Zambia), Indonesia.
 
 #### Geographical Settings with Few Spread 
 Situations which favour ventilation and being outdoors. E.g. rural regions around the world as long as the temperatures are not much below the comfort zone (heating when cold is common around the world).
@@ -267,6 +268,16 @@ For regions across the world the following is analysed:
 * Possible Causes: A key reason for low cases are likely the warming temperatures, especially in the Southern states. The vaccination program reduces the number of severe cases [to check if fatality rate lowered]. 
 
 
+### Tropical Africa
+Especially in urban settings where living conditions are likely dense, very high rates of asymptomatic/mild SARS-2 spread are observed:
+* [Sagara et al](#summary-sagara) observed measured the seroprevalence in July and December in rural and urban regions of Mali:
+  * In urban settings the seroprevalence increased from about 20% to 70%.
+  * In rural settings from about 5% to 35 - 55%.
+  * Seroconversion was not associated to experienced symptoms, however seroconversion was slightly associated to as for medical advice.
+* In Zambia during the first Covid wave [Mulenga et al](#summary-mulenga) observed a PCR positive rate of about 10% in urban settings and 3% in rural settings.
+* [Quashie et al](#summary-quashie) observe seroprevalences of ranging from 10-15% (shopping malls, formal employees, higher education) to 25% (markets, informal employees) in August 2020. In February the pattern changes: The seroprevalences is now higher in the formal sector with about 25% compared to about 20% in the informal sector. //=> possibly indicates droplet transmission in the early spread since with aerosol spread on would except shopping malls to be hit first. But with dense crowds and (semi-)confined aerosol spread is also possible.
+
+
 ### South America
 
 <!--
@@ -311,6 +322,7 @@ All countries provided programs for financial support and additionally:
 ##### Spring 2021
 * Covid cases: Nepal is confronted for the first time with many severe Covid cases.
 * Possible causes: Similar to Northern India, at the foothills of the Himalaya there's dry air in the spring. The wave swept over from Northern India.
+
 
 
 ## Living Conditions
@@ -843,7 +855,7 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 
 
 
-### References SARS-CoV-2 in Africa
+### References SARS-CoV-2 in Tropical Africa
 
 #### Summary Abdella
  S. Abdella et al., 
@@ -887,7 +899,7 @@ Loss of Taste|.5| 3.1
 // The symptoms tend to indicate infections in the middle respiratory tract (e.g. the bronchi; cough fever) but less in the lower lungs(not much fatigue and very few ADRS). The low rate of loss of smell/taste speaks against primarily oral/nose infections.
 
 
-#### Sagara
+#### Summary Sagara
 Sagara, I., Woodford, J., Kone, M., Assadou, M. H., Katile, A., Attaher, O., Zeguime, A., Doucoure, M., Higbee, E., Lane, J., Doritchamou, J., Zaidi, I., Esposito, D., Kwan, J., Sadtler, K., Dicko, A., & Duffy, P. (2021). 
 **Rapidly increasing SARS-CoV-2 seroprevalence and limited clinical disease in three Malian communities: a prospective cohort study.** 
 medRxiv : the preprint server for health sciences, 2021.04.26.21256016. https://doi.org/10.1101/2021.04.26.2125601
@@ -895,11 +907,17 @@ medRxiv : the preprint server for health sciences, 2021.04.26.21256016. https://
 ##### Methods
 The seroprevalence in a couple urban and rural communities was investigated both in July and in December. The rainy season is between July and December, so the sampling visits are at the beginning and at the end of the rainy season. The rainy season is also mosquito season and thus malaria season. 
 * *Investigated:* Seroprevalence, demographic, social, medical and self-reported symptoms
-* *Testing Dates:* 
+* *Testing Dates:*
   * Visit 1: 27 July and following weeks
   * Visit 2: 14 December and following weeks
 * *Study Population:* "Overall, 94.8% (2533/2672) of participants completed both study visits. A total of 50.3% (1343/2672) of participants were male, and 31.3% (837/2672) were aged <10 years, 27.6% (737/2672) were aged 10-17 years, and 41.1% (1098/2572) were aged over 18 years."
 ##### Results
+The seroprevalences for visit 1 and visit 2 are summarized in Figure 2:
+* Urban Sotuba has the highest prevalence both times: 20% at the first visit and about 70% at the second visit.
+* Rural Bancoumana has the second highest prevalence with with about 7% for visit 1 and 53% for visit 2. 
+* Rural Doneguebougou has the lowest prevalence with about 5% at visit 1 and 37% at visit 2.
+
+The overall findings are:
 * "The cumulative SARS-CoV-2 exposure rate was 58.5% (95% CI: 47.5 to 69.4). This varied between sites and was 73.4% (95% CI: 59.2 to 87.5) in the urban community of Sotuba, 53.2% (95% CI: 42.8 to 63.6) in the rural town of Bancoumana, and 37.1% (95% CI: 29.6 to 44.5) in the rural village of Donéguébougou."
 * Regardless whether seropositive or seronegative about half experienced some disease symptoms. The seropositive were a little likelier to search medical advice (63% to 46%).
 ##### Methods Details
@@ -909,7 +927,7 @@ The seroprevalence in a couple urban and rural communities was investigated both
 * Symptoms: "Among seropositive participants, 48.6% (352/724) reported a history of any symptoms, compared to 49.3% (803/1629) in seronegative participants. As a result of increased background illness rates, it is difficult to establish which symptoms are associated with COVID-19 in the study population. Chills (3.7% (27/724) vs 2.1% (34/1619), p=0.0250) and fatigue (4.3% (31/724) vs 2.5% (41/1619), p=0.0275) were more frequently reported by seropositive participants compared to seronegative participants." ... "In participants reporting symptoms at visit 2, seropositive individuals were more likely to have sought medical attention for symptoms compared to seronegative individuals (63.4% (223/352) vs 45.9% (366/797), p<0.0001, Supplementary Table 4)."
 
 
-#### Mulenga
+#### Summary Mulenga
 **Prevalence of SARS-CoV-2 in six districts in Zambia in July, 2020: a cross-sectional cluster sample survey**
 <https://doi.org/10.1016/ S2214-109X(21)00053-X>
 ##### Methods
@@ -974,7 +992,7 @@ During August 10–September 11, 2020, we recruited 2,214 participants for a rep
 * Those having experienced a respiratory illness, which 6% had, had seroprevalence of 19.5%; those who had no respiratory illness had a seroprevalence of 22.5%. //=> Covid is not associated with respiratory symptoms for the majority
 
 
-#### Quashie
+#### Summary Quashie
 **Trends of SARS-CoV-2 antibody prevalence in selected regions across Ghana**
 Peter Kojo Quashie, Joe Kimanthi Mutungi, Francis Dzabeng, Daniel Oduro-Mensah, Precious C. Opurum, Kesego Tapela, Aniefiok John Udoakang, WACCBIP COVID-19 Team, Ivy Asante, Lily Paemka, Frederick Kumi-Ansah, Osbourne Quaye, Emmanuella Amoako, Ralph Armah, Charlyne Kilba, Nana Afia Boateng, Michael Ofori, George B. Kyei, Yaw Bediako, Nicaise Ndam, James Abugri, Patrick Ansah, William K. Ampofo, Francisca Mutapi, Gordon A. Awandare
 medRxiv 2021.04.25.21256067; 
