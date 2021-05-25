@@ -15,7 +15,7 @@
   * [Methods](#methods)
   * [Europe](#europe)
   * [USA](#usa)
-  * [Tropical Africa](#tropical-africa)
+  * [Africa](#africa)
   * [South America](#south-america)
   * [India](#india)
   * [Nepal](#nepal)
@@ -44,13 +44,16 @@
   * [References Covid Spread Children and Schools](#references-covid-spread-children-and-schools)
   * [References Living Conditions](#references-living-conditions)
   * [References SARS-CoV-2 in India](#references-sars-cov-2-in-india)
+  * [References SARS-CoV-2 in Eastern Africa](#references-sars-cov-2-in-eastern-africa)
   * [References SARS-CoV-2 in Tropical Africa](#references-sars-cov-2-in-tropical-africa)
+  * [References SARS-CoV-2 in Southern Africa](#references-sars-cov-2-in-southern-africa)
   * [References SARS-CoV-2 in Europe](#references-sars-cov-2-in-europe)
   * [References SARS-CoV-2 in South East Asia](#references-sars-cov-2-in-south-east-asia)
 * [References](#references)
   * [Epidemiological Patterns](#epidemiological-patterns)
   * [Aerosol Transmission](#aerosol-transmission)
 * [Appendix](#appendix)
+  * [Terminology](#terminology)
   * [Sport Events](#sport-events)
 
 
@@ -267,15 +270,33 @@ For regions across the world the following is analysed:
   * A large vaccination program.
 * Possible Causes: A key reason for low cases are likely the warming temperatures, especially in the Southern states. The vaccination program reduces the number of severe cases [to check if fatality rate lowered]. 
 
+### Africa
+#### Tropical Africa
+Especially in urban settings where living conditions are likely dense, very high spread rates were/are observed: up to 70% of the population and over 7% PCR positive at the same time. The wast majority of cases are very mild: often those with positive seroprevalence experienced nearly the same symptoms as those with negative seroprevalence (however those with negative seroprevalence may still have been infected since often the antibody titers are often set quite high for a positive test). The death rate per million inhabitants generally is very low. The high infection rates combined with the few number of deaths yield very low infection fatality rates, mostly below 0.01%.
 
-### Tropical Africa
-Especially in urban settings where living conditions are likely dense, very high rates of asymptomatic/mild SARS-2 spread are observed:
+Observations in tropical Africa:
 * [Sagara et al](#summary-sagara) observed measured the seroprevalence in July and December in rural and urban regions of Mali:
   * In urban settings the seroprevalence increased from about 20% to 70%.
   * In rural settings from about 5% to 35 - 55%.
-  * Seroconversion was not associated to experienced symptoms, however seroconversion was slightly associated to as for medical advice.
-* In Zambia during the first Covid wave [Mulenga et al](#summary-mulenga) observed a PCR positive rate of about 10% in urban settings and 3% in rural settings.
+  * Seroconversion was not associated to experienced symptoms, however seroconversion was slightly associated with searching medical advice.
+* In Zambia during the first Covid wave [Mulenga et al](#summary-mulenga) observed a PCR positive rate of about 10% in urban settings and 3% in rural settings yielding an average of 7% positive. The seroprevalence at the early phase of the wave was about 2%. 
 * [Quashie et al](#summary-quashie) observe seroprevalences of ranging from 10-15% (shopping malls, formal employees, higher education) to 25% (markets, informal employees) in August 2020. In February the pattern changes: The seroprevalences is now higher in the formal sector with about 25% compared to about 20% in the informal sector. //=> possibly indicates droplet transmission in the early spread since with aerosol spread on would except shopping malls to be hit first. But with dense crowds and (semi-)confined aerosol spread is also possible.
+* [Wiens et al](#summary-wiens) found that in South Sudan at least 22% had been infected by SARS-2 in the first wave (May to August; Seroprevalence was done in September). After adjustment for age, waning antibodies and sex about 40% seem to have been infected by September 2020. 
+
+#### Southern Africa
+##### South Africa
+The spread is similar to Europe and North America (The similarity to Europe/US is likely du to similar climate, culture and economic conditions) but different from tropical africa: 
+* There are summer and winter peaks.
+* Many cases have typical symptoms of a respiratory disease and also a share of severe cases is observed ([Shaw et al](#summary-shaw)).
+* Informal housing and lower earning were significantly associated with seropositivity ([Shaw et al](#summary-shaw)).
+
+#### Northern Africa
+[in work]
+
+#### Eastern Africa
+[in work]
+
+
 
 
 ### South America
@@ -854,8 +875,7 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 > in slums likely is not possible for the older to avoid infection and they may also spend more time indoor.
 
 
-
-### References SARS-CoV-2 in Tropical Africa
+### References SARS-CoV-2 in Eastern Africa
 
 #### Summary Abdella
  S. Abdella et al., 
@@ -870,8 +890,12 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 ##### Results
 "IgG prevalence was estimated at 1.9% (95% CI 0.43.7%), and combined IgM/IgG prevalence at 3.5% (95% CI 1.75.4%) for Addis Ababa in early August 2020, with higher prevalence in central sub-cities. Prevalence in Jimma town was lower at 0.5% (95% CI 01.8%) for IgG and 1.6% (95%CI 04.1%) for IgM/IgG, while in rural Jimma IgG prevalence was 0.2% and IgM/IgG 0.4% in early September."
 
+### References SARS-CoV-2 in Tropical Africa
 
-#### Elimian
+#### Halatoko
+Halatoko WA, Konu YR, Gbeasor- Komlanvi FA, Sadio AJ, Tchankoni MK, Komlanvi KS, et al. (2020) Prevalence of SARS-CoV-2 among high-risk populations in Lome ́ (Togo) in 2020. PLoS ONE 15(11): e0242124. https://doi.org/ 10.1371/journal.pone.0242124
+
+#### Summary Elimian
 Elimian KO et al (2020). 
 **Descriptive epidemiology of coronavirus disease 2019 in Nigeria, 27 February–6 June 2020.** 
 Epidemiology and Infection 148, e208, 1–16. <https://doi.org/10.1017/S095026882000206X>
@@ -978,9 +1002,8 @@ The American journal of tropical medicine and hygiene, 104(1), 91–94.
 * "Grouping of study participants by department where they work showed that 90% of O&G staff, 60% of emergency staff, 59% of medicine staff, 33% of micro- biology staff, 32% of chemical pathology staff, 23% of surgery staff, and 21% of private suite staff recruited for this study were seropositive for SARS-CoV-2, whereas none of the study par- ticipants recruited from hematology was seropositive."
 
 
-
-#### Wiens
-Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Juba, South Sudan: a population-based study
+#### Summary Wiens
+**Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Juba, South Sudan: a population-based study**
 Kirsten E. Wiens, Pinyi Nyimol Mawien, John Rumunu, Damien Slater, Forrest K. Jones, Serina Moheed, Andrea Caflish, Bior K. Bior, Iboyi Amanya Jacob, Richard Lino Loro Lako, Argata Guracha Guyo, Olushayo Oluseun Olu, Sylvester Maleghemi, Andrew Baguma, Juma John Hassen, Sheila K. Baya, Lul Deng, Justin Lessler, Maya N. Demby, Vanessa Sanchez, Rachel Mills, Clare Fraser, Richelle C. Charles, Jason B. Harris, Andrew S. Azman, Joseph F. Wamala
 medRxiv 2021.03.08.21253009; 
 <https://doi.org/10.1101/2021.03.08.21253009>
@@ -989,7 +1012,7 @@ During August 10–September 11, 2020, we recruited 2,214 participants for a rep
 * *Study Population:* 2214, from 1840 interview data available
 ##### Results
 * "We found 22.3% of participants had severe acute respiratory syndrome coronavirus 2 (SARS- CoV-2) receptor binding domain IgG titers above prepandemic levels. After accounting for waning antibody levels, age, and sex, we estimated that 38.3% (95% credible interval 31.8%–46.5%) of the population had been infected with SARS-CoV-2."
-* Those having experienced a respiratory illness, which 6% had, had seroprevalence of 19.5%; those who had no respiratory illness had a seroprevalence of 22.5%. //=> Covid is not associated with respiratory symptoms for the majority
+* Those having experienced a respiratory illness, which 6% had, had seroprevalence of 19.5%; those who had no respiratory illness had a seroprevalence of 22.5%. //=> Covid is not associated with respiratory symptoms for most.
 
 
 #### Summary Quashie
@@ -1012,6 +1035,53 @@ medRxiv 2021.04.25.21256067;
   50 transmission rate or loss of antibody expression in a subset of the participants."
   * Phase 4: The seroprevalence in shopping mall staff now increased to 25% from 9.4% in phase 1. The seroprevalence in heath care related settings increase to 22.2% from 13.4% in phase 1.sy
 * "Additionally, the high exposure levels seen in the communities suggest that COVID-19 in Ghana still predominantly presents with none-to-mild symptoms. "
+
+
+
+### References SARS-CoV-2 in Southern Africa
+#### Summary Hsiao
+
+##### Methods
+##### Results
+
+#### Summary Shaw
+Shaw JA, Meiring M, Cummins T, Chegou NN, Claassen C, Du Plessis N, et al. (2021) 
+**Higher SARS-CoV-2 seroprevalence in workers with lower socioeconomic status in Cape Town, South Africa.** 
+PLoS ONE 16(2): e0247852. https://doi.org/ 10.1371/journal.pone.0247852
+##### Methods
+* *Study Population:* "We tested 405 volunteers representing all socioeconomic strata from the workforce of a popular shopping and tourist complex in central Cape Town with the Abbott SARS-CoV-2 IgG assay."
+* *Type:* " We assessed the association between antibody positivity and COVID-19 symptom status, medical history, and sociodemographic variables."
+* *Investigation Dates:* 17.8.20 to 4.9.20
+* *Seroprevalence Testing:* "The specificity of the assay was 98.54% (95%CI 94.82%-99.82%) in the pre-COVID controls."
+##### Results
+* "Of the 405 volunteers tested one month after the first peak of the epidemic in Cape Town, 96(23.7%) were SARS-CoV-2 IgG positive." 
+* "Seropositivity was significantly associated with living in informal housing, residing in a subdistrict with low income-per household, and having a low-earning occupation."
+  
+###### Demographic Data
+
+Demographic Data|positive|negative
+--|--|--
+BP>140/90mmHg| 37.5%|22%
+Diabetes|10%|4%
+Asthma|3%|8%
+Ever Smoker| 26%|41%
+
+###### Symptoms 
+(full list in Table 1 in the paper)
+
+Symptoms| positive|negative
+--|--|--
+New Cough|26%|20%
+Fever or chills|29%|13%
+Sore Throat|17%|19%
+Loss of Smell|24%|2%
+Loss of Taste|22%|4%
+Diarrhoea|7%|9%
+Nausea/vomit|1%|3%
+
+=>
+* Loss of smell and taste are specific and experienced by about 20% of the infected
+* Fever or chills is experienced by about 20% of the infected
 
 
 
@@ -1090,6 +1160,8 @@ LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006).
 
 ### Aerosol Transmission
 
+<!--move to fitting pages-->
+
 ##### Marr-aerosol-faq
 **FAQs on Protecting Yourself from COVID-19 Aerosol Transmission**
 Shortcut to this page: <https://tinyurl.com/FAQ-aerosols>
@@ -1103,6 +1175,10 @@ Version: 1.87, 9-Dec-2020
 
 
 ## Appendix
+
+### Terminology
+#### Attack Rate
+The *attack rate* is the percentage of exposed-to-infection population that contracts the disease.
 
 ### Sport Events
 
