@@ -276,8 +276,8 @@ Especially in urban settings where living conditions are likely dense, very high
 
 Observations in tropical Africa:
 * [Sagara et al](#summary-sagara) observed measured the seroprevalence in July and December in rural and urban regions of Mali:
-  * In urban settings the seroprevalence increased from about 20% to 70%.
-  * In rural settings from about 5% to 35 - 55%.
+  * In urban regions the seroprevalence increased from 20% to 70%.
+  * In rural regions from roughly 5% to 35 - 55%.
   * Seroconversion was not associated to experienced symptoms, however seroconversion was slightly associated with searching medical advice.
 * In Zambia during the first Covid wave [Mulenga et al](#summary-mulenga) observed a PCR positive rate of about 10% in urban settings and 3% in rural settings yielding an average of 7% positive. The seroprevalence at the early phase of the wave was about 2%. 
 * [Quashie et al](#summary-quashie) observe seroprevalences of ranging from 10-15% (shopping malls, formal employees, higher education) to 25% (markets, informal employees) in August 2020. In February the pattern changes: The seroprevalences is now higher in the formal sector with about 25% compared to about 20% in the informal sector. //=> possibly indicates droplet transmission in the early spread since with aerosol spread on would except shopping malls to be hit first. But with dense crowds and (semi-)confined aerosol spread is also possible.
@@ -893,7 +893,10 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 ### References SARS-CoV-2 in Tropical Africa
 
 #### Halatoko
-Halatoko WA, Konu YR, Gbeasor- Komlanvi FA, Sadio AJ, Tchankoni MK, Komlanvi KS, et al. (2020) Prevalence of SARS-CoV-2 among high-risk populations in Lome ́ (Togo) in 2020. PLoS ONE 15(11): e0242124. https://doi.org/ 10.1371/journal.pone.0242124
+Halatoko WA, Konu YR, Gbeasor- Komlanvi FA, Sadio AJ, Tchankoni MK, Komlanvi KS, et al. (2020) 
+**Prevalence of SARS-CoV-2 among high-risk populations in Lome ́ (Togo) in 2020.** 
+PLoS ONE 15(11): e0242124. 
+https://doi.org/10.1371/journal.pone.0242124
 
 #### Summary Elimian
 Elimian KO et al (2020). 
