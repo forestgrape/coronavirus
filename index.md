@@ -40,6 +40,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ## Recent Updates
+- 25.5. [Spread Analysis for Africa](../coronavirus/5_epidemiological/spread_analyses.md#africa) in online work.
 - 23.5. Controlling Page: Notes about the [Seasonability of Transmission](./7_social/controlling.md#seasonability) and [Looking Ahead](./7_social/controlling.md#looking-ahead) in online work.
 - 23.5. Added note that English wikipedia, encyclopedia britannica and the oxford dictionary are frequently consulted but not specially cited (currently) ( -> Comment on References in [Notes on Reading](#notes-on-reading)).
 - 18.5. [Spread analyses](./5_epidemiological/spread_analyses.md) refined.
