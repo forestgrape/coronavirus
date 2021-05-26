@@ -272,7 +272,11 @@ For regions across the world the following is analysed:
 
 ### Africa
 #### Tropical Africa
-Especially in urban settings where living conditions are likely dense, very high spread rates were/are observed: up to 70% of the population and over 7% PCR positive at the same time. The wast majority of cases are very mild: often those with positive seroprevalence experienced nearly the same symptoms as those with negative seroprevalence (however those with negative seroprevalence may still have been infected since often the antibody titers are often set quite high for a positive test). The death rate per million inhabitants generally is very low. The high infection rates combined with the few number of deaths yield very low infection fatality rates, mostly below 0.01%.
+* *High Prevalence* In urban settings where living conditions are dense, very high spread rates were/are observed: up to 70% of the population and over 7% PCR positive at the same time. 
+* *Mainly Asymptomatic* The wast majority of cases are unnoticed and mild: often those with positive seroprevalence experienced didn't experience more disease symptoms than those with negative seroprevalence. 
+* *Very low fatality rates* The death rate per million inhabitants generally is very low. The high infection rates combined with the few number of deaths yield very low infection fatality rates, mostly below 0.01%.
+
+> Remark: The seroprevalence test kits have sensitivity/specificity tradeoffs and often the sensitivity is quite low, so  those with negative seroprevalence may still have been infected or those with positive seroprevalence may cross-react with antibodies targeted at non-SARS-2 antigens.
 
 Observations in tropical Africa:
 * [Sagara et al](#summary-sagara) observed measured the seroprevalence in July and December in rural and urban regions of Mali:
@@ -285,10 +289,10 @@ Observations in tropical Africa:
 
 #### Southern Africa
 ##### South Africa
-The spread is similar to Europe and North America (The similarity to Europe/US is likely du to similar climate, culture and economic conditions) but different from tropical africa: 
+The spread is in-between the observations from Europe/North America and tropical africa/coastal india: 
 * There are summer and winter peaks.
-* Many cases have typical symptoms of a respiratory disease and also a share of severe cases is observed ([Shaw et al](#summary-shaw)).
-* Informal housing and lower earning were significantly associated with seropositivity ([Shaw et al](#summary-shaw)).
+* The seroprevalence after the first Covid wave which was in Winter (June-Aug) 2020 was high and ranged from 15% to 50% depends likely on the living conditions: ([Shaw et al](#summary-shaw)) find that: Informal housing and lower earning were significantly associated with seropositivity. All testees worked at the same shopping complex but the prevalence varies greatly among the different types of employees which indicates that transmissions occurred at home and not at the workplace.
+* About 20% of the cases have typical symptoms of a respiratory disease and also a share of severe cases is observed ([Shaw et al](#summary-shaw)).
 
 #### Northern Africa
 [in work]
@@ -896,34 +900,43 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 Halatoko WA, Konu YR, Gbeasor- Komlanvi FA, Sadio AJ, Tchankoni MK, Komlanvi KS, et al. (2020) 
 **Prevalence of SARS-CoV-2 among high-risk populations in Lome ́ (Togo) in 2020.** 
 PLoS ONE 15(11): e0242124. 
-https://doi.org/10.1371/journal.pone.0242124
+<https://doi.org/10.1371/journal.pone.0242124>
 
 #### Summary Elimian
 Elimian KO et al (2020). 
 **Descriptive epidemiology of coronavirus disease 2019 in Nigeria, 27 February–6 June 2020.** 
-Epidemiology and Infection 148, e208, 1–16. <https://doi.org/10.1017/S095026882000206X>
+Epidemiology and Infection 148, e208, 1–16. 
+<https://doi.org/10.1017/S095026882000206X>
 ##### Methods
-* *Testing Dates*: 27.2.20 - 6.6.20
+* *Investigation Period*: 27.2.20 - 6.6.20
 * *Type*: PCR tests, Symptoms
 ##### Results
 * Cumulative incidence (CI): 5.6 per 100 000 population
 * Case fatality (CF): 2.8%
 
-Selected Symptom of Non Cases and Confirmed Cases:
+###### Symptoms
+Overall the disease symptoms were not associated to seropositivity: symptomatic non-cases 9307 (32.5%) of 28637 non-cases, symptomatic confirmed cases 4139 (30.8%) of total confirmed cases 13 446.
+
+The following table shows selected symptom of Non Cases and Confirmed Cases (summarized from Table 2 in the paper). Percentages in the table refer to individuals with the symptom among symptomatic individuals (total is 9307 for non cases and 4139 for cases).
 
 Symptoms| - | + 
 --|--|--
 Cough|52|56
 Chest pain|3|4
 Difficult Breathing | 20|19
+Rapid Breathing|1.2|1.5
 Fatigue |3|5
 Fever| 42|56
+Headache|9|14
 Runny Nose|26|24
 Sore Throat|28|20
 Loss of Smell|0.5|4
 Loss of Taste|.5| 3.1
+Diarrhea(Table 3)|-|8
 
-// The symptoms tend to indicate infections in the middle respiratory tract (e.g. the bronchi; cough fever) but less in the lower lungs(not much fatigue and very few ADRS). The low rate of loss of smell/taste speaks against primarily oral/nose infections.
+<!--Comparing the survivors and non-survivors -->
+
+// The symptoms tend to indicate infections in the middle respiratory tract (e.g. bronchi since cough fever) but less in the lower lungs(not much fatigue and very few ARDS). The low rate of loss of smell/taste and sore throat don't indicate primarily upper respiratory tract infections.
 
 
 #### Summary Sagara
@@ -999,7 +1012,6 @@ The American journal of tropical medicine and hygiene, 104(1), 91–94.
   * 133 participants
 * *Location:* Ibadan, Nigeria
 * *Test Dates:* May, June 2020 ? [to check]
-* 
 ##### Results
 * "Sixty participants were positive for SARS-CoV-2 IgG, in- dicating a seroprevalence of 45.1% in the study population (Table 1)."
 * "Grouping of study participants by department where they work showed that 90% of O&G staff, 60% of emergency staff, 59% of medicine staff, 33% of micro- biology staff, 32% of chemical pathology staff, 23% of surgery staff, and 21% of private suite staff recruited for this study were seropositive for SARS-CoV-2, whereas none of the study par- ticipants recruited from hematology was seropositive."
@@ -1043,9 +1055,16 @@ medRxiv 2021.04.25.21256067;
 
 ### References SARS-CoV-2 in Southern Africa
 #### Summary Hsiao
+**SARS-COV-2 SEROPREVALENCE IN THE CAPE TOWN METROPOLITAN SUB-DISTRICTS AFTER THE PEAK OF INFECTIONS**
 
 ##### Methods
+* *Testing Dates:* "15 July and 7 August 2020" //right after the peak of the first Covid wave in South Africa. The cases were still quite high and winter was ongoing.
+* *Study Population:* Public sector patients in Cape Town Metropolitan: "The source of the residual samples was pregnant women who required blood grouping as part of standard antenatal care, and persons living with HIV (PLWHIV) who underwent routine annual viral load monitoring at public sector clinics."
+* *Seroprevalence Testing:* "SARS-CoV-2 total antibody (IgG and IgM) testing was performed on the Roche Cobas e601 platform using the ElecsysTM anti-SARS-CoV-2 assay (Roche, Geneva, Switzerland) according to manufacturer’s instructions."
 ##### Results
+* *Seroprevalence:* "The seroprevalence varied between subdistricts (range 31%-46%), males and females (33% and 42%, respectively), and source populations (42% in PLWHIV and 38% in antenatal women)."
+* *Seroprevalence Accuracy:* "From a local assay validation prior to the study using local RT-PCR positive symptomatic individuals and stored negative sera taken prior to December 2019, we established a sensitivity of 91.2% and specificity of 99,7% (Dr M Naidoo, personal communication). This performance is similar to findings in independent evaluations in Germany12, Iceland7 and an evaluation by Public Health England that found a sensitivity of 86.1% (95% confidence interval (CI) 74.8-90.7%) and specificity of 100% (95% CI 99.1-100%) using the same assay."
+
 
 #### Summary Shaw
 Shaw JA, Meiring M, Cummins T, Chegou NN, Claassen C, Du Plessis N, et al. (2021) 
@@ -1054,15 +1073,19 @@ PLoS ONE 16(2): e0247852. https://doi.org/ 10.1371/journal.pone.0247852
 ##### Methods
 * *Study Population:* "We tested 405 volunteers representing all socioeconomic strata from the workforce of a popular shopping and tourist complex in central Cape Town with the Abbott SARS-CoV-2 IgG assay."
 * *Type:* " We assessed the association between antibody positivity and COVID-19 symptom status, medical history, and sociodemographic variables."
-* *Investigation Dates:* 17.8.20 to 4.9.20
-* *Seroprevalence Testing:* "The specificity of the assay was 98.54% (95%CI 94.82%-99.82%) in the pre-COVID controls."
+* *Investigation Dates:* 17.8.20 to 4.9.20 //after first wave
+* *Seroprevalence Testing:* "Samples were analysed after a single freeze-thaw cycle with the Abbott SARS- CoV-2 IgG assay (Abbott Laboratories, South Africa, Pty Ltd) on the Architect i System (Abbott Laboratories, Illinois, USA), a chemiluminescent microparticle immunoassay (CMIA), for the qualitative detection of IgG antibodies to the SARS-CoV-2 nucleocapsid protein. An index of 1.4 was considered positive according to the manufacturer’s specifications."
 ##### Results
-* "Of the 405 volunteers tested one month after the first peak of the epidemic in Cape Town, 96(23.7%) were SARS-CoV-2 IgG positive." 
-* "Seropositivity was significantly associated with living in informal housing, residing in a subdistrict with low income-per household, and having a low-earning occupation."
+* "Of the 405 volunteers tested one month after the first peak of the epidemic in Cape Town, 96(23.7%) were SARS-CoV-2 IgG positive." The positivity varied across the jobs and living conditions/locations and ranged from 10% to 50% (-> [sociodemographic part](#sociodemographic-data)).
+* "The specificity of the assay was 98.54% (95%CI 94.82%-99.82%) in the pre-COVID controls."
+* Assuming the absence of SARS-CoV-2 from the local population at the time of sample collection (before November 2019), this implies a specificity of 98.54% (95% CI 94.82%-99.82%, p<0.05) for the Abbott SARS-CoV-2 IgG Assay in this population when using the manufacturer’s recommended cut-off of 1.4. Compared to the
+
+###### Sociodemographic Data
+Seropositivity is associated with living in a low income district, informal housing and house keeping jobs (in the mall). These factors are themselves associated with each other (Fig 2.). Considering [observations for dense living conditions otherwhere](#living-space) and the in the investigated setting all are employees from the same shopping complex there is strong evidence that the relevant factor are the living circumstances. So the transmissions happen at home and not at work.
   
 ###### Demographic Data
 
-Demographic Data|positive|negative
+Medical Data|positive|negative
 --|--|--
 BP>140/90mmHg| 37.5%|22%
 Diabetes|10%|4%
@@ -1076,16 +1099,19 @@ Symptoms| positive|negative
 --|--|--
 New Cough|26%|20%
 Fever or chills|29%|13%
+Muscle Aches|22%|12%
 Sore Throat|17%|19%
 Loss of Smell|24%|2%
 Loss of Taste|22%|4%
-Diarrhoea|7%|9%
+Diarrhea|7%|9%
 Nausea/vomit|1%|3%
 
 =>
-* Loss of smell and taste are specific and experienced by about 20% of the infected
-* Fever or chills is experienced by about 20% of the infected
-
+Symptoms are similar to those observed in Europe/US/China but are less frequently observed.
+* associated:
+  * Significantly associated to seropositivity are loss of smell & taste and fever/chills.
+  * There was some increase in muscle aches and new cough in the seropositive.
+* not associated: nausea/vomit, diarrhea, sore throat
 
 
 ### References SARS-CoV-2 in Europe
