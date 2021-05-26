@@ -16,9 +16,9 @@
   * [Europe](#europe)
   * [USA](#usa)
   * [Africa](#africa)
-  * [South America](#south-america)
   * [India](#india)
   * [Nepal](#nepal)
+  * [South America](#south-america)
 * [Living Conditions](#living-conditions)
   * [Cities versus Rural](#cities-versus-rural)
   * [Living Space](#living-space)
@@ -270,15 +270,16 @@ For regions across the world the following is analysed:
   * A large vaccination program.
 * Possible Causes: A key reason for low cases are likely the warming temperatures, especially in the Southern states. The vaccination program reduces the number of severe cases [to check if fatality rate lowered]. 
 
+
 ### Africa
-#### Tropical Africa
+#### Summarized Observations in Tropical Africa
 * *High Prevalence* In urban settings where living conditions are dense, very high spread rates were/are observed: up to 70% of the population and over 7% PCR positive at the same time. 
 * *Mainly Asymptomatic* The wast majority of cases are unnoticed and mild: often those with positive seroprevalence experienced didn't experience more disease symptoms than those with negative seroprevalence. 
 * *Very low fatality rates* The death rate per million inhabitants generally is very low. The high infection rates combined with the few number of deaths yield very low infection fatality rates, mostly below 0.01%.
 
-> Remark: The seroprevalence test kits have sensitivity/specificity tradeoffs and often the sensitivity is quite low, so  those with negative seroprevalence may still have been infected or those with positive seroprevalence may cross-react with antibodies targeted at non-SARS-2 antigens.
+> Remark: The seroprevalence test kits have sensitivity/specificity tradeoffs and when designed and calibrated in one region, they may not work as well in an other region/setting. The cut off values can be adjusted to correct the specificity but influencing the sensitivity: So those with negative seroprevalence may still have been infected or those with positive seroprevalence may cross-react with antibodies targeted at non-SARS-2 antigens.
 
-Observations in tropical Africa:
+#### Literature on the Epidemiology of SARS-2 in tropical Africa
 * [Sagara et al](#summary-sagara) observed measured the seroprevalence in July and December in rural and urban regions of Mali:
   * In urban regions the seroprevalence increased from 20% to 70%.
   * In rural regions from roughly 5% to 35 - 55%.
@@ -289,7 +290,7 @@ Observations in tropical Africa:
 
 #### Southern Africa
 ##### South Africa
-The spread is in-between the observations from Europe/North America and tropical africa/coastal india: 
+The spread patterns are in-between the observations from Europe/North America and  tropical africa:
 * There are summer and winter peaks.
 * The seroprevalence after the first Covid wave which was in Winter (June-Aug) 2020 was high and ranged from 15% to 50% depends likely on the living conditions: ([Shaw et al](#summary-shaw)) find that: Informal housing and lower earning were significantly associated with seropositivity. All testees worked at the same shopping complex but the prevalence varies greatly among the different types of employees which indicates that transmissions occurred at home and not at the workplace.
 * About 20% of the cases have typical symptoms of a respiratory disease and also a share of severe cases is observed ([Shaw et al](#summary-shaw)).
@@ -299,6 +300,32 @@ The spread is in-between the observations from Europe/North America and tropical
 
 #### Eastern Africa
 [in work]
+
+
+### India
+> in work
+
+#### Northern States
+##### Spring 2021
+* Observations: High number of severe cases in urban centres close to the foothills of the Himalaya such as Delhi and Chandigarh. 
+* Possible Causes: These cities have very dry air in the spring season due to katabatic winds from the Himalaya which is still snow covered in Spring (especially in the March, April).
+
+#### Coastal and Southern States
+
+##### Summer 2020
+##### Spring 2021
+* Observations: High number of severe cases in the tourism regions in the South such as Goa or Puducherry.  
+* Possible Causes: These regions have warm and humid climate in the Spring often due to South winds. Due to tourism air-conditioning is likely widespread (tourism brings culture, technology and money).
+
+> Tourism and travelling play an important role in culture and technological exchange across the world. Historic examples are numerous:
+> * Marco Polo brought back many things from his journey along the silk road.
+> * The first trams in Switzerland were not in the urban centres but up in mountainous and rural Engadin brought by British tourists.
+
+
+### Nepal
+##### Spring 2021
+* Covid cases: Nepal is confronted for the first time with many severe Covid cases.
+* Possible causes: Similar to Northern India, at the foothills of the Himalaya there's dry air in the spring. The wave swept over from Northern India.
 
 
 
@@ -329,25 +356,6 @@ All countries provided programs for financial support and additionally:
   * Dense living conditions including large residential blocks in the capital Lima.
 
 
-### India
-> in work
-
-#### Northern States
-##### Spring 2021
-* Observations: High number of severe cases in urban centres close to the foothills of the Himalaya such as Delhi and Chandigarh. 
-* Possible Causes: These cities have very dry air in the spring season due to katabatic winds from the Himalaya which is still snow covered in Spring (especially in the March, April).
-
-#### Coastal and Southern States
-##### Spring 2021
-* Observations: High number of severe cases in the tourism regions in the South such as Goa or Puducherry.  
-* Possible Causes: These regions have warm and humid climate in the Spring often due to South winds. Due to tourism air-conditioning is likely widespread (tourism brings culture, technology and money).
-
-
-### Nepal
-##### Spring 2021
-* Covid cases: Nepal is confronted for the first time with many severe Covid cases.
-* Possible causes: Similar to Northern India, at the foothills of the Himalaya there's dry air in the spring. The wave swept over from Northern India.
-
 
 
 ## Living Conditions
@@ -369,7 +377,7 @@ Infectious disease wave through the clusters until there's no more ground to nou
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities (Observation and simulations by [Rader,Scarpino et al](#summary-rader,scarpino)).
 
 > I also except that in rural settings: 
-> * the peak incidence will be much higher (double or more) and the wave passes through the entire society in one go. 
+> * at the peak incidence a large share of the population is infected at the same time and the wave passes through the entire community in one go. 
 > * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
 
 
