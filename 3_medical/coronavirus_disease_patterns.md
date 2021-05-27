@@ -2,7 +2,7 @@
 # Infections Locations and Disease Patterns 
 **[in work]**
 
-* [Summary Disease Patterns](#summary-disease-patterns)
+* [Introduction to Coronavirus Disease Patterns](#introduction-to-coronavirus-disease-patterns)
 * [Infections Locations of Human Coronaviruses](#infections-locations-of-human-coronaviruses)
   * [Overview](#overview)
   * [Observations](#observations)
@@ -20,24 +20,24 @@
   * [ACE2 Receptor](#ace2-receptor)
 
 
-## Summary Disease Patterns
+## Introduction to Coronavirus Disease Patterns
 Coronaviruses cause infections at different locations and thus induce different diseases: 
-* The human endemic coronaviruses (OC43, HKU1, NL63 and E229) cause mainly upper respiratory tract infections.
-* The coronaviruses directly emerging from zoonoses MERS-CoV and Sars-CoV-1 cause lower respiratory tract infections and frequently spread to the intestine. 
+* The human endemic coronaviruses (OC43, HKU1, NL63 and E229) infect mainly the middle or upper respiratory tract.
+* The coronaviruses directly emerging from zoonoses MERS-CoV and Sars-CoV-1 mainly infect the lower respiratory tract and sometimes the intestine. 
 
-In the case of bovine coronaviruses it is known that the same strains show different tropisms depending on the outbreak. So different that the infections are recognized as different diseases and until the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent:
+In the case of bovine coronaviruses it is known that the same strains show different tropisms depending on the outbreak. So different that the infections are recognized as different diseases and until the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent and usually do not transform into each other.
 * Enteric disease (neonatal calf diarrhea, winter dysentery) 
 * Respiratory disease (shipping fever and general pneumonia). 
 
 Similarly to the bovine coronavirus, the human coronavirus NL63, which usually causes upper respiratory tract infections, from time to time is involved in an outbreak cascade of lower respiratory tract infections. E.g. observed in old care homes [citation in work].
 
-For Sars-CoV-2 too, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and MERS-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs:
+For Sars-CoV-2, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and MERS-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs:
 * What drives and causes the different infection location patterns?
 * How to prevent and treat depending on locations?
 * Which are complications and risks?
 * What immune protections are raised under which circumstances. 
 
-Regarding these questions the following hypotheses are state and argued:
+Regarding these questions the following hypotheses are stated and argued:
 * Coronavirus can induce distinct infection patterns 
 * The infection patterns are the result of and can be predicted by the factors:
     - the virus strain
