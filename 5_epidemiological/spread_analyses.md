@@ -822,7 +822,7 @@ Study Population:
 * "Hypertension (20.2%) and diabetes (16.9%) were reported as the most common comorbidities."
 Seroprevalence Testing:
 * "The serum was separated and used to test for antibodies using the Elecsys Anti SARS CoV2 assay, an electro chemiluminescent immunoassay using a recombinant protein representing the nucleocapsid (N) antigen for the determination of high-affinity antibodies (including IgG) against SARS CoV2 [15]"
-* ". The assay sensitivity and specificity were reported to be 97.2% (95.4–98.4) and 99.8% (99.3–100) respectively, in samples taken 30 days or more post symptom onset [16]."
+* ". The assay sensitivity and specificity were reported to be 97.2% (95.4–98.4) and 99.8% (99.3–100) respectively, in samples taken 30 days or more post symptom onset [16]." //assay used according to standard specifications 
 ##### Results
 * "The overall seroprevalence of COVID-19 was 12.4% (95% CI 9.6–15.6) (Table 2) The age- and gender-adjusted seroprevalence was 8.5% (95% CI 6.9%- 10.8%) (S1 Table)."
 * "We estimated an IFR of 12.8 per 10000 infections or 0.13% ..."
@@ -840,12 +840,10 @@ George CE, Inbaraj LR, Chandrasingh S, de Witte LP (2021).
 **High seroprevalence of COVID-19 infection in a large slum in South India; what does it tell us about managing a pandemic and beyond?** Epidemiology and Infection 149, e39, 1–6. 
 <https://doi.org/10.1017/S0950268821000273>
 
-##### Background
+##### Objective
+* "The objective of the current study was to estimate the seroprevalence of COVID-19 infection in a dense slum of South India. We hypothesised a high prevalence of infection, considering the density of the population and the impossibility of preventive measures in this setting."
 * "Devarajeevanahalli (DJ Halli), also known as the ‘Dharavi of Bangalore’ is one of the largest governments notified slums in Bangalore, extending over 1.15 km2 with an estimated popula- tion of 100 000 people [3–5] (Fig. 1)."
-* " Because DJ Halli is a typical slum with a likelihood of rapid contagion, the official data of less than 295 cases and 17 deaths, 5 months past the first case, sounded unrealistic [8, 9]."
 * "Further, screening and testing efforts were hindered by communal violence which claimed three lives in this area [12]."
-* "The objective of the current study was to estimate the sero- prevalence of COVID-19 infection in a dense slum of South India. We hypothesised a high prevalence of infection, considering the density of the population and the impossibility of preventive measures in this setting."
-* "This is no surprise, as the hazardous physical environment, overcrowding, poor sanitation and the impracticability of social distancing, hand washing and face covers in slums, are conducive for the rapid spread of infection [18–22]."
 
 ##### Methods
 * "The serum was separated and used to test for antibodies using the Elecsys Anti SARS CoV2 assay, an electrochemiluminescent immunoassay using a recombinant protein representing the nucleocapsid (N) antigen for the determination of high-affinity antibodies including IgG against SARS CoV2 [15]."
@@ -860,7 +858,7 @@ George CE, Inbaraj LR, Chandrasingh S, de Witte LP (2021).
 * "The majority (95.2%) of the seropositive individuals, did not report any symptom related to COVID-19 infection at the time of the study nor in the past."
 
 ##### Discussion
-* "A recent survey done in all 30 districts of Karnataka state, conducted from 16 September 2020 among all adults aged 18 years and above, reported adjusted IgG seroprevalence of 16.4% [23]. Though low (pregnant women attending the antenatal clinic), moderate (persons moving in the community) and high risk (eld- erly and persons with comorbid conditions) population group were covered, the survey did not include population from slums, a possible explanation for low prevalence."
+* "A recent survey done in all 30 districts of Karnataka state, conducted from 16 September 2020 among all adults aged 18 years and above, reported adjusted IgG seroprevalence of 16.4% [23]. Though low (pregnant women attending the antenatal clinic), moderate (persons moving in the community) and high risk (elderly and persons with comorbid conditions) population group were covered, the survey did not include population from slums, a possible explanation for low prevalence."
 * Limitations:
   1. Pragmatic sampling due to violence 2 weeks before.
   2. No adjustment of seroprevalence to age but seroprevalence similar across age groups anyways.
@@ -872,8 +870,8 @@ Malani, A., Shah, D., Kang, G., Lobo, G. N., Shastri, J., Mohanan, M., Jain, R.,
 **Seroprevalence of SARS-CoV-2 in slums versus non-slums in Mumbai, India.** 
 The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X(20)30467-8
 
-##### Background
-* "To address these issues, we estimated prevalence in six slum and non-slum communities across three wards (one each from the three zones) of Mumbai, India."
+##### Objective
+Seroprevalence in six slum and non-slum communities across three wards (one each from the three zones) of Mumbai, India.
 ##### Methods
 * Date: June 29-July 19, 2020
 * Location: Slums and non-slums in Mumbai, India
@@ -890,9 +888,7 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 ### References SARS-CoV-2 in Eastern Africa
 
 #### Summary Abdella
- S. Abdella et al., 
- **Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Randomized household serosurveys reveal level of spread during the first wave of the pandemic** EClinicalMedicine (2021), 
- <https://doi.org/10.1016/j.eclinm.2021.100880>
+ S. Abdella et al., **Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Randomized household serosurveys reveal level of spread during the first wave of the pandemic** EClinicalMedicine (2021), <https://doi.org/10.1016/j.eclinm.2021.100880>
 ##### Methods
 * *Type*: Seroprevalence
 * *Testing Dates:* 22. July - 2. September 2020
@@ -907,14 +903,11 @@ The Lancet. Global health, 9(2), e110–e111. https://doi.org/10.1016/S2214-109X
 #### Halatoko
 Halatoko WA, Konu YR, Gbeasor- Komlanvi FA, Sadio AJ, Tchankoni MK, Komlanvi KS, et al. (2020) 
 **Prevalence of SARS-CoV-2 among high-risk populations in Lome ́ (Togo) in 2020.** 
-PLoS ONE 15(11): e0242124. 
-<https://doi.org/10.1371/journal.pone.0242124>
+PLoS ONE 15(11): e0242124. <https://doi.org/10.1371/journal.pone.0242124>
 
 #### Summary Elimian
-Elimian KO et al (2020). 
-**Descriptive epidemiology of coronavirus disease 2019 in Nigeria, 27 February–6 June 2020.** 
-Epidemiology and Infection 148, e208, 1–16. 
-<https://doi.org/10.1017/S095026882000206X>
+Elimian KO et al (2020). **Descriptive epidemiology of coronavirus disease 2019 in Nigeria, 27 February–6 June 2020.** 
+Epidemiology and Infection 148, e208, 1–16.  <https://doi.org/10.1017/S095026882000206X>
 ##### Methods
 * *Investigation Period*: 27.2.20 - 6.6.20
 * *Type*: PCR tests, Symptoms
@@ -942,7 +935,6 @@ Loss of Smell|0.5|4
 Loss of Taste|.5| 3.1
 Diarrhea(Table 3)|-|8
 
-<!--Comparing the survivors and non-survivors -->
 
 // The symptoms tend to indicate infections in the middle respiratory tract (e.g. bronchi since cough fever) but less in the lower lungs(not much fatigue and very few ARDS). The low rate of loss of smell/taste and sore throat don't indicate primarily upper respiratory tract infections.
 
@@ -992,8 +984,8 @@ The overall findings are:
 * "Only a small proportion of people with SARS-CoV-2 infection were aware of their infection."
 
 #### Ndaye
-Nkuba Ndaye, A., Hoxha, A., Madinga, J., Mariën, J., Peeters, M., Leendertz, F. H., Ahuka Mundeke, S., Ariën, K. K., Muyembe Tanfumu, J. J., Mbala Kingebeni, P., & Vanlerberghe, V. (2021). Challenges in interpreting SARS-CoV-2 serological results in African countries. The Lancet. Global health, 9(5), e588–e589. 
-<https://doi.org/10.1016/S2214-109X(21)00060-7>
+Nkuba Ndaye, A., Hoxha, A., Madinga, J., Mariën, J., Peeters, M., Leendertz, F. H., Ahuka Mundeke, S., Ariën, K. K., Muyembe Tanfumu, J. J., Mbala Kingebeni, P., & Vanlerberghe, V. (2021). **Challenges in interpreting SARS-CoV-2 serological results in African countries.**
+The Lancet. Global health, 9(5), e588–e589. <https://doi.org/10.1016/S2214-109X(21)00060-7>
 ##### Methods
 * *Testing Dates:* 17 July to 13 August
 * *Type:* Seroprevalence
@@ -1012,8 +1004,7 @@ Nkuba Ndaye, A., Hoxha, A., Madinga, J., Mariën, J., Peeters, M., Leendertz, F.
 #### Olayanju
 Olayanju, O., Bamidele, O., Edem, F., Eseile, B., Amoo, A., Nwaokenye, J., Udeh, C., Oluwole, G., Odok, G., & Awah, N. (2021). 
 **SARS-CoV-2 Seropositivity in Asymptomatic Frontline Health Workers in Ibadan, Nigeria.** 
-The American journal of tropical medicine and hygiene, 104(1), 91–94. 
-<https://doi.org/10.4269/ajtmh.20-1235>
+The American journal of tropical medicine and hygiene, 104(1), 91–94. <https://doi.org/10.4269/ajtmh.20-1235>
 ##### Methods
 * *Study Population:* 
   * "This is a hospital-based cross-sectional study; healthcare workers who had not taken the COVID-19 test and had no COVID-19–related symptoms were randomly selected from different departments of the hospital." 
@@ -1027,9 +1018,7 @@ The American journal of tropical medicine and hygiene, 104(1), 91–94.
 
 #### Summary Wiens
 **Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Juba, South Sudan: a population-based study**
-Kirsten E. Wiens, Pinyi Nyimol Mawien, John Rumunu, Damien Slater, Forrest K. Jones, Serina Moheed, Andrea Caflish, Bior K. Bior, Iboyi Amanya Jacob, Richard Lino Loro Lako, Argata Guracha Guyo, Olushayo Oluseun Olu, Sylvester Maleghemi, Andrew Baguma, Juma John Hassen, Sheila K. Baya, Lul Deng, Justin Lessler, Maya N. Demby, Vanessa Sanchez, Rachel Mills, Clare Fraser, Richelle C. Charles, Jason B. Harris, Andrew S. Azman, Joseph F. Wamala
-medRxiv 2021.03.08.21253009; 
-<https://doi.org/10.1101/2021.03.08.21253009>
+Kirsten E. Wiens, Pinyi Nyimol Mawien, John Rumunu, Damien Slater, Forrest K. Jones, Serina Moheed, Andrea Caflish, Bior K. Bior, Iboyi Amanya Jacob, Richard Lino Loro Lako, Argata Guracha Guyo, Olushayo Oluseun Olu, Sylvester Maleghemi, Andrew Baguma, Juma John Hassen, Sheila K. Baya, Lul Deng, Justin Lessler, Maya N. Demby, Vanessa Sanchez, Rachel Mills, Clare Fraser, Richelle C. Charles, Jason B. Harris, Andrew S. Azman, Joseph F. Wamala medRxiv 2021.03.08.21253009; <https://doi.org/10.1101/2021.03.08.21253009>
 ##### Methods
 During August 10–September 11, 2020, we recruited 2,214 participants for a representative household-based cross-sectional serosurvey in Juba, South Sudan.*
 * *Study Population:* 2214, from 1840 interview data available
@@ -1041,8 +1030,7 @@ During August 10–September 11, 2020, we recruited 2,214 participants for a rep
 #### Summary Quashie
 **Trends of SARS-CoV-2 antibody prevalence in selected regions across Ghana**
 Peter Kojo Quashie, Joe Kimanthi Mutungi, Francis Dzabeng, Daniel Oduro-Mensah, Precious C. Opurum, Kesego Tapela, Aniefiok John Udoakang, WACCBIP COVID-19 Team, Ivy Asante, Lily Paemka, Frederick Kumi-Ansah, Osbourne Quaye, Emmanuella Amoako, Ralph Armah, Charlyne Kilba, Nana Afia Boateng, Michael Ofori, George B. Kyei, Yaw Bediako, Nicaise Ndam, James Abugri, Patrick Ansah, William K. Ampofo, Francisca Mutapi, Gordon A. Awandare
-medRxiv 2021.04.25.21256067; 
-<https://doi.org/10.1101/2021.04.25.21256067>
+medRxiv 2021.04.25.21256067; <https://doi.org/10.1101/2021.04.25.21256067>
 
 ##### Methods
 * "To estimate the level of community exposure to SARS-CoV-2 in Ghana, we conducted
@@ -1138,8 +1126,7 @@ Symptoms are similar to those observed in Europe/US/China but are less frequentl
 #### Summary Hodcroft
 **Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020**
 Emma B. Hodcroft, Moira Zuber, Sarah Nadeau, In ̃aki Comas, Fernando Gonzalez Candelas, SeqCOVID-SPAIN consortium, Tanja Stadler  and Richard A. Neher
-medRxiv preprint doi: 
-<https://doi.org/10.1101/2020.10.25.20219063>
+medRxiv preprint doi: <https://doi.org/10.1101/2020.10.25.20219063>
 
 ##### Methods
 The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequences. The cluster 20A.EU1 is defined as "The cluster was initially identified as a monophyletic group of sequences stemming from the larger 20A clade with amino acid substitutions at positions S:A222V, ORF10:V30L, and N:A220V or ORF14:L67F (overlapping reading frame with N), corresponding to nucleotide mutations C22227T, C28932T, and G29645T. In addition, sequences in 20A.EU1 differ from their ancestors by the synonymous mutations T445C, C6286T, and C26801G. There are currently 19,695 sequences in the cluster by this definition."
@@ -1157,13 +1144,12 @@ References with a summary are in the section [Summarized References](#summarized
 #### Lee,Raszka
 Lee B and Raszka WV. 
 **COVID-19 Transmission and Children: The Child Is Not to Blame.**
-Pediatrics. 2020;146(2):e2020004879 
-<https://doi.org/10.1542/peds.2020-004879>
+Pediatrics. 2020;146(2):e2020004879 <https://doi.org/10.1542/peds.2020-004879>
 
 #### Choi
 Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). 
-**In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases**, 26(11), 2713-2716. 
-<https://dx.doi.org/10.3201/eid2611.203254.>
+**In-Flight Transmission of SARS-CoV-2. Emerging Infectious Diseases**, 
+26(11), 2713-2716. <https://dx.doi.org/10.3201/eid2611.203254.>
 
 #### Freedman
 Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks. Journal of travel medicine, taaa178. Advance online publication.** 
@@ -1175,8 +1161,7 @@ Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV
 ##### le
 The Lancet Editoral
 **COVID-19: protecting health-care workers**
-www.thelancet.com Vol 395 March 21, 2020
-<https://doi.org/10.1016/S0140-6736(20)30644-9>
+www.thelancet.com Vol 395 March 21, 2020 <https://doi.org/10.1016/S0140-6736(20)30644-9>
 
 ##### mizumoto 
 Kenji Mizumoto, Gerardo Chowell
@@ -1186,13 +1171,12 @@ Kenji Mizumoto, Gerardo Chowell
 ##### honein
 Temet M. McMichael et al.
 **Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington**
-This article was published on March 27, 2020, at NEJM.org. 
-<https://doi.org/10.1056/NEJMoa2005412>
+This article was published on March 27, 2020, at NEJM.org. <https://doi.org/10.1056/NEJMoa2005412>
 
 ##### lin
 LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006). 
-**Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** Epidemiology and Infection, 134(2), 223-230. 
-<https://doi.org/10.1017/S0950268805005054>
+**Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** 
+Epidemiology and Infection, 134(2), 223-230. <https://doi.org/10.1017/S0950268805005054>
 
 
 ### Aerosol Transmission
@@ -1201,8 +1185,7 @@ LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006).
 
 ##### Marr-aerosol-faq
 **FAQs on Protecting Yourself from COVID-19 Aerosol Transmission**
-Shortcut to this page: <https://tinyurl.com/FAQ-aerosols>
-Version: 1.87, 9-Dec-2020
+Shortcut to this page: <https://tinyurl.com/FAQ-aerosols> Version: 1.87, 9-Dec-2020
 
 ##### Stocker
 **On the use of CO2 sensors in schools and other indoor environments**
