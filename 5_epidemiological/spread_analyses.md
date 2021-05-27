@@ -969,7 +969,7 @@ The overall findings are:
 
 
 #### Summary Mulenga
-Lloyd B Mulenga, Jonas Z Hines, Sombo Fwoloshi, Lameck Chirwa, Mpanji Siwingwa, Samuel Yingst, Adam Wolkon, Danielle T Barradas, Jennifer Favaloro, James E Zulu, Dabwitso Banda, Kotey I Nikoi, Davies Kampamba, Ngawo Banda, Batista Chilopa, Brave Hanunka, Thomas L Stevens, Aaron Shibemba, Consity Mwale, Suilanji Sivile, Khozya D Zyambo, Alex Makupe, Muzala Kapina, Aggrey Mweemba, Nyambe Sinyange, Nathan Kapata, Paul M Zulu, Duncan Chanda, Francis Mupeta, Chitalu Chilufya, Victor Mukonka, Simon Agolory, Kennedy Malama,
+Lloyd B Mulenga, Jonas Z Hines, Sombo Fwoloshi,et al
 **Prevalence of SARS-CoV-2 in six districts in Zambia in July, 2020: a cross-sectional cluster sample survey,**
 The Lancet Global Health, Volume 9, Issue 6, 2021,Pages e773-e781,ISSN 2214-109X, <https://doi.org/10.1016/S2214-109X(21)00053-X.>
 ##### Methods
@@ -1020,7 +1020,8 @@ The American journal of tropical medicine and hygiene, 104(1), 91–94. <https:/
 
 #### Summary Wiens
 **Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Juba, South Sudan: a population-based study**
-Kirsten E. Wiens, Pinyi Nyimol Mawien, John Rumunu, Damien Slater, Forrest K. Jones, Serina Moheed, Andrea Caflish, Bior K. Bior, Iboyi Amanya Jacob, Richard Lino Loro Lako, Argata Guracha Guyo, Olushayo Oluseun Olu, Sylvester Maleghemi, Andrew Baguma, Juma John Hassen, Sheila K. Baya, Lul Deng, Justin Lessler, Maya N. Demby, Vanessa Sanchez, Rachel Mills, Clare Fraser, Richelle C. Charles, Jason B. Harris, Andrew S. Azman, Joseph F. Wamala medRxiv 2021.03.08.21253009; <https://doi.org/10.1101/2021.03.08.21253009>
+Kirsten E. Wiens, Pinyi Nyimol Mawien, John Rumunu, et al 
+medRxiv 2021.03.08.21253009; <https://doi.org/10.1101/2021.03.08.21253009>
 ##### Methods
 During August 10–September 11, 2020, we recruited 2,214 participants for a representative household-based cross-sectional serosurvey in Juba, South Sudan.*
 * *Study Population:* 2214, from 1840 interview data available
@@ -1118,7 +1119,8 @@ Sykes, Wendy et al. **Prevalence of anti-SARS-CoV-2 antibodies among blood donor
 ### References SARS-CoV-2 in South Americas
 
 #### Filho
-Amorim Filho, Luiz et al. “Seroprevalence of anti-SARS-CoV-2 among blood donors in Rio de Janeiro, Brazil.” Revista de saude publica vol. 54 (2020): 69. doi:10.11606/s1518-8787.2020054002643
+Amorim Filho, Luiz et al. “Seroprevalence of anti-SARS-CoV-2 among blood donors in Rio de Janeiro, Brazil.” 
+Revista de saude publica vol. 54 (2020): 69. <https://doi.org/10.11606/s1518-8787.2020054002643>
 
 ### References SARS-CoV-2 in Europe
 
