@@ -32,13 +32,12 @@
 ## Airborne Transmission
 
 ### Content Airborne Transmission
-* [Objects Moving in the Air](#objects-moving-in-the-air)
+* *[Objects Moving in the Air](#objects-moving-in-the-air)*
     Low density or very small objects follow the airflow, while heavy object fly in trajectories. The underlying physics is sketched and and examples are given. Finally an aerosol is defined as a collection of very small particles that go with the air, droplet transmission on the other hand denotes transmission with droplets large enough they fly in trajectories. 
-* [Overview Airborne Transmission](#overview-airborne-transmission)
+* *[Overview Airborne Transmission](#overview-airborne-transmission)* Properties of droplet, aerosol and dry form aerosol transmission in table form.
 
 
 ### Objects Moving in the Air
-[in work]
 The movement of an object in the air depends on the ratio of its surface divided by its mass. The mass is turn is the volume times the density of the material. 
 
 > S/m ratio = surface of a particle divided by its 
