@@ -16,6 +16,8 @@
   * [Dry Form Transmission Model](#dry-form-transmission-model)
   * [Evidence for the Dry Form Transmission Model](#evidence-for-the-dry-form-transmission-model)
   * [Metaphor and Measures](#metaphor-and-measures)
+* [Appendix](#appendix)
+  * [Non Airborne Transmission](#non-airborne-transmission)
 * [References](#references)
   * [Epidemiological Patterns](#epidemiological-patterns)
   * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
@@ -109,11 +111,17 @@ The change both of movement and visibility is continuos and not digital as the c
 
 ### The Fate of Particles in the Air
 
-> in work and in raw form. To be checked for correctness.
+#### Stay in the Air?
+Particles which are large and heavy enough, have a small S/m ratio, so they will just fall down. Small and/or light particles have a large or intermediate S/m ratio and stay longer in the air. 
 
+#### Growth or Shrink?
+Particles staying in the air a long time, can be subject to condensation and evaporation. Whether a particles growths due to condensation or shrinks due to evaporation depends on the material the particle consists of. For a certain particle composition there exists a relative humidity at which the evaporation and condensation are in an equilibrium named condeva equilibrium, at relative humidities below the particles evaporate and thus shrink and above water condensates and the particles growth (-> section [Evaporation and Condensation](../9_physics/aggregations_of_atoms.md#condensation-and-evaporation) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md)).
 
-Those particles with a very small S/m ratio will just fall down. For particulates with a large or intermediate S/m ratio stay longer in the air and can be subject to condensation and evaporation. For a certain particle composition there exists a relative humidity at which the evaporation and condensation are in an equilibrium named condeva equilibrium, at relative humidities below the particles evaporate and thus shrink and above water condensates and the particles growth (-> section [Evaporation and Condensation](../9_physics/aggregations_of_atoms.md#condensation-and-evaporation) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md)).
+The particle composition depends on the source of exhaled particles while the air humidity depends on the locations/setting (e.g. whether heated or AC used):
+* The air humidity is related to the weather and (thus) varies across the world and across the seasons.
+* The material of an exhaled particle depends mainly on the source of the particle i.e. whether it is produced in the alveoli, bronchi, trachea, vocal folds, pharynx or mouth.
 
+#### Behavior in Programming Style
 if S/m ratio small => fall down
 if S/m ratio intermediate or large -> stay in and move with the air =>
     if the condeva equilibrium is on the condensation side =>  particles growth => fall down or reach condeva equilibrium
@@ -123,27 +131,21 @@ if S/m ratio intermediate or large -> stay in and move with the air =>
         if out of water =>  efflorescence
 
 In other words:
-The air humidity and the material a particles consists of determine whether
+The air humidity and the particle-composition/material determine whether
 * particles shrink (evaporation is greater) or growth (condensation is greater)
 * particles dry out below the efflorescence humidity
 * particles fall down if growth enough
-
-The particle composition depends on the source of exhaled particles while the air humidity depends on the locations/setting (e.g. whether heated or AC used):
-* The air humidity is related to the weather and (thus) varies across the world and across the seasons.
-* The material of an exhaled particle depends mainly on the source of the particle i.e. whether it is produced in the alveoli, bronchi, trachea, vocal folds, pharynx or mouth.
-
 
 
 ### Overview Airborne Transmission
 
 Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: Droplets behave like heavy balls while aerosols behave smoke-like i.e. they mostly move with the air. 
 
-Model | Metaphor   | Actions | Source/Deposition | Situations/Climate| Prevent              
+Model | Metaphor   | Generating Actions | Source/Deposition | Situations/Climate| Prevent              
 ------|------------|---------|-------------------|-------------------|----------
-[droplets](#droplets)  | bad breath, cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | reek of alcohol, cooking steams| Speaking, breathing, droplets shrinking by drying | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
-[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust, smells   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
-
+[droplets](#droplets)  | cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
+[aerosol](#aerosol)  | bad breath, reek of alcohol, cooking steams| coughing, peaking, breathing | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
+[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
 
 #### Comments
 * In warm climates rooms can be ventilated well, which reliably reduces and if done right mostly prevents aerosol spread. Careless use of air-conditioning enables and enhances aerosol spread. 
@@ -153,9 +155,7 @@ Model | Metaphor   | Actions | Source/Deposition | Situations/Climate| Prevent
   * The viability of coronaviruses is highest when dried ([Virion Viability](../2_biological/virion_viability.md)). 
 * The absolute humidity in the air is determined by the outside air temperature. Thus in heated indoor rooms the relative humidity is lower the cooler the outside temperature is.
 * The dry form model is proposed here.
-* for details on Actions and Sources in [Particles in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md). [citations in work  ]
-
-
+* for details on Actions and Sources in [Particles in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md).
 
 
 ## Particle Dynamics in the Respiratory Tract
@@ -394,6 +394,30 @@ Another form of dry particulates in air is dust. In dry air dust can stay in the
 This yields either avoiding 'Sars-CoV-2 smoke' or filtering out  particulates. The filter filters ideally above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm; but often several virions stick together or are attached to some organic material [to check and cite]). 
 Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Outdoors is no worry for Sars-CoV-2 however, the air is diluted and sun light destroys virions (Chapter [Virion Viability](../2_biological/virion_viability.md)). 
 Measures in more detail are found in [Protection Measures](../7_social/controlling.md). 
+
+## Appendix
+
+### Non Airborne Transmission 
+
+For the time being only respiratory tract and oral pathogens are considered.
+
+Model |  Actions | Source | Deposition | Prevent | Life Forms             
+---|---|---|---|---|---
+Direct contact| Kissing| Mouth, sometimes throat/larynx |Mouth, sometimes gullet  | not kissing | all
+Indirect contact| Mouth, respiratory tract when coughing | Spitting/coughing onto something| Taking contaminated object into the mouth | wash or disinfect the hands before eating by hand; no taking dirty objects into the mouth or wash/disinfect before | mostly DNA based life forms especially bacteria
+
+Indirect contact transmission can occur: 
+* through the hands e.g. shaking dirty hands and then eating by hand. 
+* through objects e.g. coughing onto something which somebody else takes into the mouth. 
+
+Objects mediating transmission are called fomites:
+
+> ##### Fomite
+> Fomite are objects through which indirect contact transmission occurs.
+
+Fomite transmission is mostly an issue for bacteria since unlike viruses bacteria don't need a host to replicate. So when cooking eggs which sometimes can contain salmonella and then spilling eggs or touching some object with dirty hands, some object can become salmonella contaminated. The salmonella may happily replicate on the object in question
+
+
 
 
 
