@@ -47,6 +47,7 @@
   * [References SARS-CoV-2 in Eastern Africa](#references-sars-cov-2-in-eastern-africa)
   * [References SARS-CoV-2 in Tropical Africa](#references-sars-cov-2-in-tropical-africa)
   * [References SARS-CoV-2 in Southern Africa](#references-sars-cov-2-in-southern-africa)
+  * [References SARS-CoV-2 in South Americas](#references-sars-cov-2-in-south-americas)
   * [References SARS-CoV-2 in Europe](#references-sars-cov-2-in-europe)
   * [References SARS-CoV-2 in South East Asia](#references-sars-cov-2-in-south-east-asia)
 * [References](#references)
@@ -292,8 +293,9 @@ For regions across the world the following is analysed:
 ##### South Africa
 The spread patterns are in-between the observations from Europe/North America and  tropical africa:
 * There are summer and winter peaks.
-* The seroprevalence after the first Covid wave which was in Winter (June-Aug) 2020 was high and ranged from 15% to 50% depends likely on the living conditions: ([Shaw et al](#summary-shaw)) find that: Informal housing and lower earning were significantly associated with seropositivity. All testees worked at the same shopping complex but the prevalence varies greatly among the different types of employees which indicates that transmissions occurred at home and not at the workplace.
+* The seroprevalence after the first Covid wave which was in Winter (June-Aug) 2020 was high and ranged from 15% to 50% depending  on the socioeconomic background ([Shaw et al](#summary-shaw), [Hsiao et al](#summary-hsiao)). Informal housing and lower earning were significantly associated with seropositivity. All testees worked at the same shopping complex but the prevalence varies greatly among the different types of employees which indicates that transmissions occurred at home and not at the workplace ([Shaw et al](#summary-shaw)).
 * About 20% of the cases have typical symptoms of a respiratory disease and also a share of severe cases is observed ([Shaw et al](#summary-shaw)).
+* The performance of seroprevalence test-kits tends to be similar as in European and North American continents ([Hsiao et al](#summary-hsiao))).
 
 #### Northern Africa
 [in work]
@@ -795,7 +797,6 @@ People belonging to the thirds with the smallest living space per person have th
 
 
 #### Summary Dalziel
-[in work]
 **Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities**
 Benjamin D. Dalziel, Stephen Kissler, Julia R. Gog, Cecile Viboud, Ottar N. Bjørnstad, C. Jessica E. Metcalf and Bryan T. Grenfell
 Science 362 (6410), 75-79. 
@@ -888,7 +889,7 @@ Seroprevalence in six slum and non-slum communities across three wards (one each
 ### References SARS-CoV-2 in Eastern Africa
 
 #### Summary Abdella
- S. Abdella et al., **Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Randomized household serosurveys reveal level of spread during the first wave of the pandemic** EClinicalMedicine (2021), <https://doi.org/10.1016/j.eclinm.2021.100880>
+S. Abdella et al., **Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Randomized household serosurveys reveal level of spread during the first wave of the pandemic** EClinicalMedicine (2021), <https://doi.org/10.1016/j.eclinm.2021.100880>
 ##### Methods
 * *Type*: Seroprevalence
 * *Testing Dates:* 22. July - 2. September 2020
@@ -968,8 +969,9 @@ The overall findings are:
 
 
 #### Summary Mulenga
-**Prevalence of SARS-CoV-2 in six districts in Zambia in July, 2020: a cross-sectional cluster sample survey**
-<https://doi.org/10.1016/ S2214-109X(21)00053-X>
+Lloyd B Mulenga, Jonas Z Hines, Sombo Fwoloshi, Lameck Chirwa, Mpanji Siwingwa, Samuel Yingst, Adam Wolkon, Danielle T Barradas, Jennifer Favaloro, James E Zulu, Dabwitso Banda, Kotey I Nikoi, Davies Kampamba, Ngawo Banda, Batista Chilopa, Brave Hanunka, Thomas L Stevens, Aaron Shibemba, Consity Mwale, Suilanji Sivile, Khozya D Zyambo, Alex Makupe, Muzala Kapina, Aggrey Mweemba, Nyambe Sinyange, Nathan Kapata, Paul M Zulu, Duncan Chanda, Francis Mupeta, Chitalu Chilufya, Victor Mukonka, Simon Agolory, Kennedy Malama,
+**Prevalence of SARS-CoV-2 in six districts in Zambia in July, 2020: a cross-sectional cluster sample survey,**
+The Lancet Global Health, Volume 9, Issue 6, 2021,Pages e773-e781,ISSN 2214-109X, <https://doi.org/10.1016/S2214-109X(21)00053-X.>
 ##### Methods
 * *Testing Dates*: 4. July - 27. July 2020
 * *Type*: Seroprevalence, PCR testing, Symptoms
@@ -1109,6 +1111,14 @@ Symptoms are similar to those observed in Europe/US/China but are less frequentl
   * There was some increase in muscle aches and new cough in the seropositive.
 * not associated: nausea/vomit, diarrhea, sore throat
 
+#### Summary Sykes
+Sykes, Wendy et al. **Prevalence of anti-SARS-CoV-2 antibodies among blood donors in Northern Cape, KwaZulu-Natal, Eastern Cape, and Free State provinces of South Africa in January 2021.** Research square rs.3.rs-233375. 12 Feb. 2021, <https://doi.org/10.21203/rs.3.rs-233375/v1.> Preprint.
+
+
+### References SARS-CoV-2 in South Americas
+
+#### Filho
+Amorim Filho, Luiz et al. “Seroprevalence of anti-SARS-CoV-2 among blood donors in Rio de Janeiro, Brazil.” Revista de saude publica vol. 54 (2020): 69. doi:10.11606/s1518-8787.2020054002643
 
 ### References SARS-CoV-2 in Europe
 
