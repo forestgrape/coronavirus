@@ -94,14 +94,17 @@ The [size factor](#size-factor) is the distinguishing point for aerosols versus 
 
 > // 'Classically' an aerosol is defined as air with (watery) particulates smaller than 5 micro meters. The definition used here is more general and includes dry particulates and also larger droplets as long as they move with the air in the situation of interest.
 
-The larger droplets keep their name and are called droplets:
+The watery particles which are larger in size such that their movement is driven by gravity  droplets keep their name and are called droplets:
 
 > ###### Droplets
 > *Droplets* in the context of transmission models denote watery particles which don't go with air but move subject to gravity and the initial movement e.g. they behave like ordinary objects thrown into the air. 
 
 > // The 'classical' definition of droplets defines them as watery particulates with a diameter greater equal 5 micro meter.
 
-> // The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. The behavior depends also on the situation: the respiratory tract has sharp turns and the humidity is very high so particles growth, so particles entering with a diameter of 5 micrometer don't necessarily follow the air. That water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence or at least there is no obvious causal connection.
+The change both of movement and visibility is continuos and not digital as the classification border of 5 micro meter suggests. The behavior depends also on the situation: 
+* the respiratory tract has sharp turns and the humidity is very high so particles growth, so particles entering with a diameter of 5 micrometer don't necessarily follow the air.
+* In indoor air also particles with diameters several factors larger than 5 micro meter often stay in the air for more than half an hour.
+* That water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence or at least there is no obvious causal connection.
 
 
 ### The Fate of Particles in the Air
