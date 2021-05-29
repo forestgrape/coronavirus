@@ -268,9 +268,9 @@ Avoiding foreign and public indoor rooms. Prevents aerosol transmission if care 
 
 ### Home-Lock Down
 A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was more limited and transmission less known. It has very severe drawbacks compared to [outdoor days](#outdoor-days):
-* few or no movement for a longer time is not good for health. 
-* a lot of aerosol is exhaled when doing indoor sports and this puts fellow occupants and neighbors in the same building at risk.
-* being lock indoors can have negative psychological effects.
+* few or no movement for a longer time is not good for health and also increases the risk for severe Covid.
+* it may increase Covid-19 transmission within residential blocks since most are forced to stay indoors. Especially when doing indoor sports a lot of air is in- and exhaled and so possibly infectious aerosol which puts fellow occupants and neighbors in the same building at risk. It's loose loose.
+* being locked at home often has negative psychological effects.
 
 A curfew at night has some use cases e.g. preventing private parties but in most situations softer measures are enough e.g. [Reduction of Nightlife](#reduction-of-nightlife).
 
@@ -281,13 +281,12 @@ A curfew at night has some use cases e.g. preventing private parties but in most
 > As noted restrictions are dependent on the local situation and on the weighting/prioritizing of the benefits and costs, so Covid measures vary a lot between different regions.
 > 
 #### Temporary Support
-> * _Individuals_: Temporary support for individuals I consider necessary not to disrupt livelihoods.
-> * _Closed Businesses_: For businesses closed longer than about 2 months, I consider it appropriate to support the fixed costs: rent, insurances, capped salaries (if they are not yet covered by individual support). Temporarily credits are an option until which then can be transformed into a-fond-perdue support. The support for the fix costs can be proportional to the reduction in turnover (possibly averaged over some time period e.g. a year).
-> *_OPEN Businesses_: Also businesses with out formal restriction can have difficult times e.g. travel agencies, however unlike closed businesses there are chances to adapt. Easy credit access & realistic payback schemes combined with advices.
+> * _Individuals:_ Temporary support for individuals I consider necessary not to disrupt livelihoods.
+> * _Closed Businesses:_ For businesses closed longer than about 2 months, I consider it appropriate to support the fixed costs: rent, insurances, capped salaries (if they are not yet covered by individual support). Temporarily credits are an option until which then can be transformed into a-fond-perdue support. The support for the fix costs can be proportional to the reduction in turnover (possibly averaged over some time period e.g. a year).
+> * _OPEN Businesses:_ Also businesses with out formal restriction can have difficult times e.g. travel agencies, however unlike closed businesses there are chances to adapt. Easy credit access & realistic payback schemes combined with advices.
 
 #### General Support
 > Additional to temporary support, general support and enabling for those who need or want to reorganize is adequate. How to take the corona-situation as an opportunity to reform the economical systems on the [economics page](../7_social/economics.md).
-> 
 
 
 ## Specific Public Measures
@@ -357,7 +356,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
     * __indoor__: very high risk often dense crowds and a lot of alcohol (see also indoor gastronomy)
     * __outdoor__: low to medium risk with some distance and limits on alcohol
 * __masks__:
-  * __outdoor__: any mask including cloths masks and scarf-like to prevent droplet transmission e.g. for staff/ski teachers. 
+  * __outdoor__: any mask including cloths masks and scarf-like to prevent droplet transmission e.g. for staff. 
   * __indoor__: surgical masks or above ([Mask Types](#mask-types)) since:
     *  __Increased Aerosol Transmission__: At high altitude combined with sports, the aerosol transmission is increased.
     *  __Good filter__: Cloths masks, scarfs and so on are hard to distinguish and some of them don't hold back virions in aerosol efficiently. Even good cloths masks offer less [filter performance](#filter-performance) than most surgical masks. 
@@ -371,9 +370,9 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
   
 
 ### Reduction of Nightlife
-A slow down of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
+A reduction of nightlife can reach from an early closure of clubs to a complete stay at home order at night. 
 * Evidence:
-  * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife [citations coming]. 
+  * Many anecdote-like Covid-19 spreading events including super spreading events have been linked to nightlife ([[Indoor Social Settings in Spread Analyses](../5_epidemiological/spread_analyses.md#indoor-social-settings)). 
   * That in many countries only few infections can be traced back to nightlife in comparison to transmissions in family settings or private parties can be attributed to trace and test schemes: Contact tracing and testing just works better in family settings. For a club with infected attendees, one week later every attendee should be tested, to my knowledge this is hardly done. In regions with low case counts and extensive contact tracing (e.g. South Korea and Hong Kong) many infections have been traced to nightlife [citations in work].  
 * ThinkThrough: Nightlife is about socializing. With loud music distancing is hardly doable. Drinking is common, a risk factor by itself, also prevents mask usage. 
 * Experiences:
