@@ -5,10 +5,13 @@
 * [Introduction to Coronavirus Disease Patterns](#introduction-to-coronavirus-disease-patterns)
 * [Infections Locations of Human Coronaviruses](#infections-locations-of-human-coronaviruses)
   * [Overview](#overview)
-  * [Observations](#observations)
+* [Infection Locations by Coronavirus Species](#infection-locations-by-coronavirus-species)
+  * [Infection Locations of SARS-1](#infection-locations-of-sars-1)
+  * [Infection Locations of MERS](#infection-locations-of-mers)
+  * [Infection Locations of SARS-2](#infection-locations-of-sars-2)
+  * [Empirical Deduction](#empirical-deduction)
   * [Diseases caused by Bovine Coronavirus](#diseases-caused-by-bovine-coronavirus)
-* [Infection Locations of Sars-CoV-2](#infection-locations-of-sars-cov-2)
-  * [Determine Infection Locations of SARS-2](#determine-infection-locations-of-sars-2)
+* [How to Determine Infection Locations of Coronaviruses](#how-to-determine-infection-locations-of-coronaviruses)
   * [Infection Locations and Immune Responses](#infection-locations-and-immune-responses)
 * [References and Resources](#references-and-resources)
   * [Describing the Viral Load at the Different Infection Locations](#describing-the-viral-load-at-the-different-infection-locations)
@@ -21,27 +24,30 @@
 
 
 ## Introduction to Coronavirus Disease Patterns
-Coronaviruses cause infections at different locations and thus induce different diseases: 
-* The human endemic coronaviruses (OC43, HKU1, NL63 and E229) infect mainly the middle or upper respiratory tract.
+Coronaviruses cause infections and thereby induce induce different diseases: 
+* The human endemic coronaviruses (OC43, HKU1, NL63 and E229) usually infect the middle or upper respiratory tract.
 * The coronaviruses directly emerging from zoonoses MERS-CoV and Sars-CoV-1 mainly infect the lower respiratory tract and sometimes the intestine. 
 
-In the case of bovine coronaviruses it is known that the same strains show different tropisms depending on the outbreak. So different that the infections are recognized as different diseases and until the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent and usually do not transform into each other.
+In the case of bovine coronaviruses it is even observed that the same strains cause different diseases depending on the outbreak:
 * Enteric disease (neonatal calf diarrhea, winter dysentery) 
 * Respiratory disease (shipping fever and general pneumonia). 
 
-Similarly to the bovine coronavirus, the human coronavirus NL63, which usually causes upper respiratory tract infections, from time to time is involved in an outbreak cascade of lower respiratory tract infections. E.g. observed in old care homes [citation in work].
+Till the 90's it hasn't even been clear that both are cause by the same coronavirus since they occur often independent and usually do not transform into each other.
 
-For Sars-CoV-2, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and MERS-CoV and more subtle upper respiratory tract infections similar to the human endemic coronaviruses. These yields the question how these infection are related and under which circumstance which infection pattern occurs:
+
+Similarly to bovine coronaviruses, the human coronavirus NL63, which usually causes upper respiratory tract infections, from time to time is involved in an outbreak cascade of lower respiratory tract infections. E.g. observed in old care homes [citation in work].
+
+For Sars-CoV-2, different infection patterns are observed:  Virulent lower respiratory tract infections, similar to Sars-CoV-1 and MERS-CoV and subtle and often mild middle or upper respiratory tract infections similar to the four endemic coronaviruses. This yields the questions:
 * What drives and causes the different infection location patterns?
 * How to prevent and treat depending on locations?
 * Which are complications and risks?
-* What immune protections are raised under which circumstances. 
+* What immune protections are raised in which circumstances. 
 
 Regarding these questions the following hypotheses are stated and argued:
 * Coronavirus can induce distinct infection patterns 
 * The infection patterns are the result of and can be predicted by the factors:
-    - the virus strain
-    - the history of the initial virion[s] i.e. the cell and location they got produced and the physical, chemical and biological factors they have been exposed on their travel
+    - the RNA sequence
+    - the exact building blocks (mainly envelope lipids) and state of the virions (spike priming) which depend on the history of the initial virion[s] i.e. the cell and location they got produced and the physical, chemical and biological factors they have been exposed on their travel
     - the initial infection location
     - the host immune system and its experience with the virus strain
 * The pathogenesis, possible complications and the optimal treatment depend on the infection patterns. 
@@ -50,29 +56,45 @@ Regarding these questions the following hypotheses are stated and argued:
 ## Infections Locations of Human Coronaviruses
 
 ##### Abbreviations
-- LRI = lower respiratory infection
-- URI = upper respiratory infection
-- EI = enteric infection
+- LRI = lower respiratory tract infection (bronchioles, alveoli)
+- MRI = middle respiratory tract infection (bronchi, trachea)
+- URI = upper respiratory tract infection (pharynx = throat, mouth, nose)
+- EI = enteric infection (intestine)
 
 ### Overview 
 
-Infection Type| Coronavirus  | Symptoms | Immune_response | possible Complications| spread in body | Infection_Path | Notes/Particulars
+Infection Type| Coronavirus  | Symptoms | Immune_response | possible Complications| spread in body | Infection_Path | Immune_System_Preparedness and Particulars
 --|--|--|--|--|--|--|--
-URI | NL63, OC43, HKU1, E229, Sars-CoV-2  | Common cold: sore throat, upper cough, sneezing | often local T cells (Tissue resident T cells) which can migrate and protect the lungs, IgA antibodies | possibly longer lasting infection | LRI, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide.
-LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available and/else IgG antibodies, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death | EI, blood| aerosol, dry form | transmission increases when much air is shared; the lung surface is big => lots of space to spread
-EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV| diarrhea|  specific immune cells, some of them capable of producing antibodies | - | feces |through alimentary either by URI/LRI infections since the respiratory fluids are cleared to the stomach; direct oral intake | Adequate immune response, direct oral infection unlikely since the stomach acid destroys most virions 
+URI | NL63, OC43, HKU1, E229, (Sars-CoV-2) | Common cold: sore throat, upper cough, sneezing | often local T cells (Tissue resident T cells) which can migrate and protect the lungs, IgA antibodies | possibly longer lasting infection | LRI, local spread | droplet, aerosol | Immune system in the pharynx is used to viruses => milder symptoms and viruses need capabilities to evade/hide.
+MRI | NL63, OC43, (HKU1), (E229), Sars-CoV-2| cough, enhanced temperature|IgA, local T cells (which can migrate to protect the lungs)|spread to LRI| LRI | coarse aerosol| immune system mostly prepared for viruses
+LRI | MERS-CoV, Sars-CoV-1, Sars-CoV-2, (NL63), (OC43) | shortness of breath, fever, dry cough | local T cells if available and/else IgG antibodies, fever, inflammation of lung areas | ARDS which can cause death, viraemia which can cause death | EI, blood| aerosol, dry form;transmission increases when much air is inhaled | immune system not well adapted to viruses and especially not to new viruses; the lung surface is big => lots of space to spread
+EI  | Sars-CoV-1, (Sars-CoV-2), MERS-CoV, other?| diarrhea|  specific immune cells, some of them capable of producing antibodies | - | feces |through alimentary either by URI/LRI infections since the respiratory fluids are cleared to the stomach; direct oral intake | Adequate immune response, direct oral infection unlikely since the stomach acid destroys most virions 
 
 > The coronaviruses directly emerging from zoonoses from outdoor living animals MERS-CoV and   Sars-CoV-1 infect the LRI and often spread to the intestine. The coronaviruses well adapted to our 'modern' way of life with dense population and in indoor rooms mainly infect to upper respiratory tract and ignore the intestine (Thoughts [on the origin](#on-the-origin)).
 
 
-### Observations
-[**in work**]
-* __SARS-1__:The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
-* __MERS__: For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome.
-  Remark: Mers-Cov has a different cell entry receptor (DPP4). However 
-    * the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone. 
-    * some and especially the severe SARS-2 infections show a similar pathogenesis as MERS
+## Infection Locations by Coronavirus Species
 
+### Infection Locations of SARS-1
+The only location where _all_ patients had viral Sars-CoV-1 load are the lungs [Farcas et al](#farcas). 
+
+### Infection Locations of MERS
+For MERS-Cov [Memish et al.](#memish) found that both the viral load and the Genome Fraction obtained was higher in the lower respiratory tract (broncho-alveolar lavage fluid, tracheal fluid) than in the upper respiratory tract (nasopharyngeal swab, sputum). The three broncho-alveolar lavage fluid samples investigated, showed the highest average viral load and contained the most complete genome.
+Remark: Mers-Cov has a different cell entry receptor (DPP4). However 
+* the ability of a virus to efficiently takeover a cell depends not on the cell entry receptor alone. 
+* some and especially the severe SARS-2 infections show a similar pathogenesis as MERS
+
+### Infection Locations of SARS-2
+
+#### Theoretical Deduction
+* _Entry Point:_ Depending on the [transmission form](./../5_epidemiological/transmission.md#overview-transmission-models) of SARS-2.Virions enter through the respiratory tract
+In the following the infections of Sars-CoV-2 are deduced from the [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question.
+
+
+### Empirical Deduction
+[in rework: update and a section for each strain]
+The [viral loads](../3_medical/diagnosis_and_viral_load.md) measured in combination with the [movements of virions](#movement-of-virions) inside the body can be used to backtrack tissue habitats of Sars-CoV-2. 
+[in work]
 
 
 
@@ -89,32 +111,19 @@ Sars-CoV-2 has been observed to cause
 Revisiting the infection types table with focusing on Sars-Cov-2 and zooming the locations.-->
 
 
-## Infection Locations of Sars-CoV-2
 
-> [in rework to streamline and to clarify]
-
-
-### Determine Infection Locations of SARS-2
+## How to Determine Infection Locations of Coronaviruses
 The task determine to habitat of Sars-CoV-2 can be tackled either 
-* a [theoretical deduction](#theoretical-deduction) taking into account the following topics:
-  * _Tropism_: the ability to infect different cells and tissues. The tropism in turn are based on in vivo and in vitro experiments and empirical observations.
-  * _Kinetics_: the ability to reach new infectable cells within the tissue 
-  * _Local Immune System_: the immune surveillance locally in place.  
-* an [empirical deduction](#empirical-deduction) based on observations of Covid-19 cases. 
-  * Measuring the viral load at different locations. Sometime the viral load needs to be corrected for the movement of virions.
+* [Theoretical Deduction](#theoretical-deduction) taking into account the following topics:
+  * _Entry Point:_ Where to virions enter initially.
+  * _Tropism_: The ability of the entered virions to infect different cells and tissues. The tropism in turn are based on in vivo and in vitro experiments and empirical observations.
+  * _Kinetics_: How produced virions are moved to reach new infectable cells and tissues. 
+  * _Local Immune System_: the local immune surveillance.
+* [Empirical Deduction](#empirical-deduction) based on observations of Covid-19 cases by [diagnostic methods](../3_medical/diagnosis_and_viral_load.md):
+  * Measuring the viral load at different locations (Sometime the viral load needs to be corrected for the movement of virions.)
   * Detect tissue damage typical for viral infections and check e.g. by PCR the damage was indeed induced by a SARS-2 infection.
 
 
-#### Theoretical Deduction
-In the following the infections of Sars-CoV-2 are deduced from the [cell tropism](#cell-tropism-of-sars-cov-2) and the reachability of the tissue in question.
-
-[**in work, mostly empty**]
-
-#### Empirical Deduction
-[in rework: update and a section for each strain]
-The [viral loads](../3_medical/diagnosis_and_viral_load.md) measured in combination with the [movements of virions](#movement-of-virions) inside the body can be used to backtrack tissue habitats of Sars-CoV-2. 
-[in work]
-The viral loads observed for SARS-CoV-2 for diagnostic purposes are described in the chapter [Diagnosis and Viral Load](./../3_medical/diagnosis_and_viral_load.md).
 
 [**in work**]
 
