@@ -3,7 +3,7 @@
 
 * [Covid-19 and Virus Infections](#covid-19-and-virus-infections)
 * [Sars-CoV-2 Transmission](#sars-cov-2-transmission)
-* [How to Reduce Covid-19 Infection Paths](#how-to-reduce-covid-19-infection-paths)
+* [How to Reduce Covid-19 Transmissions](#how-to-reduce-covid-19-transmissions)
 * [Observing - helps to Detect Infections](#observing---helps-to-detect-infections)
 * [Estimate and Adaptive Planning](#estimate-and-adaptive-planning)
 * [Respect and Take Care](#respect-and-take-care)
@@ -13,6 +13,7 @@
 
 ## Covid-19 and Virus Infections
 For risk groups, Covid-19 can be serious short-term and severe infections can damage organs. For people with a good immune system and without risk factors Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with movement. This helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
+
 Many viruses live temporarily or reside permanently in our body - all together called virome. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
 
 > Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
@@ -34,15 +35,13 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
     - masks, preferably with a good fit and [filter](../6_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently
     - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
 
-    Keeping the smoke model in mind makes it easier to detect and avoid situations with aerosol transmission: 
-    - Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected.  
-    - A neighbors candle won't harm through doors, but in a place with an indoor barbecue, smoke travels to the next floor. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. 
+    The smoke model makes it simple to detect and avoid situations with aerosol transmission: Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. A neighbors candle won't be smelled through doors, but in a place with an indoor barbecue, smoke is smelled in the stairways. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. Also it is important to ventilate regularly especially before opening doors.
 
 
-## How to Reduce Covid-19 Infection Paths
+## How to Reduce Covid-19 Transmissions
 > Remark: Some of the following advices are when Sars-Cov-2 ARDS/SARS disease patterns peak (they were also written during a SARS-2 wave peak).
 
-In brief: To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
+In brief: Think aerosol transmission as smoke like. To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
 
 * ### Outdoors
     [outdoors with some distance is safe](../7_social/controlling.md#outdoors-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
@@ -62,19 +61,17 @@ In brief: To reduce the infection possibilities keep some distance or wear a mas
     In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. If the outside air is warm and dry the windows should be open always. If the air outside is humid and warm air-conditioning should not be used.
 
 * ### Masks
-    Wear a [mask](../7_social/controlling.md#masks) 
-    - Outdoors and indoors: for close range face-to-face contact/talking. 
-    - In indoor places where susceptible or infectious people can be. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
+    Wear a [mask](../7_social/controlling.md#masks) in indoor places where susceptible or infectious people are. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    The mask should be clean/fresh, have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks may reduce spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
-
-    Masks can be reused if [cleaned](../6_prevention_and_treatment/masks.md#mask-reuse-and-cleaning) regularly. From time to time it should changed or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+    The mask should have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks just reduce the spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
+    
+    Especially to protect others, masks should be switched frequently (e.g. each 2 hours). However coronaviruses are not stable and after two days waiting, putting into the sunlight or washed with soap/warm water nearly all [viruses are decayed](../2_biological/virion_viability.md)). So masks can be reused if [cleaned](../6_prevention_and_treatment/masks.md#mask-reuse-and-cleaning). From time to time it should replaced or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
 * ### Distancing
     Distancing reduces infection risk.
 
 * ### Hygiene
-    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap cleans most pathogens and usually destroys enveloped viruses such as coronaviruses or influenza. Hygiene is important because many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk. Additionally many infections can burden or even be harmful (as harmful as Covid) and even if harmless it is often hard to distinguish them from mild SARS-2 infections.
+    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap cleans most pathogens and usually destroys enveloped viruses such as coronaviruses or influenza. Hygiene is important because many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk. Additionally many infections can burden and even if not it is hard to distinguish them from mild SARS-2 infections.
 
     But do NOT rely on hygiene alone, since the majority of severe Covid [transmissions occur through air](../5_epidemiological/transmission.md).
 
