@@ -1,11 +1,14 @@
 
 # Airborne Transmission Models
 
-* [Airborne Transmission](#airborne-transmission)
-  * [Content Airborne Transmission](#content-airborne-transmission)
-  * [Objects Moving in the Air](#objects-moving-in-the-air)
-  * [The Fate of Particles in the Air](#the-fate-of-particles-in-the-air)
+* [Overview Transmission Models](#overview-transmission-models)
   * [Overview Airborne Transmission](#overview-airborne-transmission)
+  * [Non Airborne Transmission of Respiratory Tract Infections](#non-airborne-transmission-of-respiratory-tract-infections)
+* [Airborne Transmission](#airborne-transmission)
+  * [Summary Airborne Transmission](#summary-airborne-transmission)
+  * [Objects Moving in the Air](#objects-moving-in-the-air)
+  * [Objects Transforming in the Air](#objects-transforming-in-the-air)
+  * [The Fate of Particles in the Air](#the-fate-of-particles-in-the-air)
 * [Particle Dynamics in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract)
   * [Particles Sources](#particles-sources)
   * [Particles Deposition](#particles-deposition)
@@ -16,8 +19,6 @@
   * [Dry Form Transmission Model](#dry-form-transmission-model)
   * [Evidence for the Dry Form Transmission Model](#evidence-for-the-dry-form-transmission-model)
   * [Metaphor and Measures](#metaphor-and-measures)
-* [Appendix](#appendix)
-  * [Non Airborne Transmission](#non-airborne-transmission)
 * [References](#references)
   * [Epidemiological Patterns](#epidemiological-patterns)
   * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
@@ -30,13 +31,53 @@
   * [Transmission and Infection of Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
 
 
+## Overview Transmission Models
+
+### Overview Airborne Transmission
+Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: Droplets behave like heavy balls while aerosols behave smoke-like i.e. they mostly move with the air. 
+
+Model | Metaphor   | Generating Actions | Source/Deposition | Situations/Climate| Prevent              
+------|------------|---------|-------------------|-------------------|----------
+[droplets](#droplets)  | cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
+[aerosol](#aerosol)  | bad breath, cooking steams| coughing, peaking, breathing | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
+[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
+
+#### Comments
+* In warm climates rooms can be ventilated well, which reliably reduces and if done right mostly prevents aerosol spread. Careless use of air-conditioning enables and enhances aerosol spread. 
+* Aerosol and dry form transmissions increase with the amount of indoor air exchanged. Especially when deep/heavy breathing.
+* The air humidity is relevant since: 
+  * droplets grow or shrink depending on the relative humidity -> [Fate of Particles in the Air](#the-fate-of-particles-in-the-air)
+  * The viability of coronaviruses is highest when dried ([Virion Viability](../2_biological/virion_viability.md)). 
+* The absolute humidity in the air is determined by the outside air temperature. Thus in heated indoor rooms the relative humidity is lower the cooler the outside temperature is.
+* The dry form model is proposed here.
+* for details on Actions and Sources in [Particles in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md).
+
+
+### Non Airborne Transmission of Respiratory Tract Infections
+
+> For the time being only respiratory tract and oral pathogens are considered.
+
+Model |  Actions | Source | Deposition | Prevention_Methods   
+---|---|---|---|---
+Direct contact| Kissing| Mouth, sometimes throat/larynx |Mouth, sometimes gullet  | not kissing 
+Indirect contact| Mouth, respiratory tract when coughing | Spitting/coughing onto something| Taking contaminated object into the mouth | wash or disinfect the hands and objects before taking them into the mouth 
+
+Indirect contact transmission can occur: 
+* through the hands e.g. shaking dirty hands and then eating by hand. 
+* through objects e.g. coughing onto something which somebody else takes into the mouth. 
+* mostly DNA based life forms especially bacteria (RNA viruses only survive a couple of hours)
+
+Objects mediating transmission are called fomites:
+
+> ##### Fomite
+> Fomite are objects through which indirect contact transmission occurs.
+
+Fomite transmission is mostly an issue for bacteria since unlike viruses bacteria don't need a host to replicate. So when cooking eggs which sometimes can contain salmonella and then spilling eggs or touching some object with dirty hands, some object can become salmonella contaminated. The salmonella may happily replicate on the object in question.
 
 ## Airborne Transmission
 
-### Content Airborne Transmission
-* *[Objects Moving in the Air](#objects-moving-in-the-air)*
-    Low density or very small objects follow the airflow, while heavy object fly in trajectories. The underlying physics is sketched and and examples are given. Finally an aerosol is defined as a collection of very small particles that go with the air, droplet transmission on the other hand denotes transmission with droplets large enough they fly in trajectories. 
-* *[Overview Airborne Transmission](#overview-airborne-transmission)* Properties of droplet, aerosol and dry form aerosol transmission in table form.
+### Summary Airborne Transmission
+Low density or very small objects follow the airflow, while heavy object fly in trajectories. The underlying physics is sketched and and examples are given. An aerosol is defined as a collection of very small particles that go with the air, droplet transmission on the other hand denotes transmission with droplets large enough they fly in trajectories. The particulates staying in the air can shrink by evaporation and growth by condensation. In dry air, evaporation can even cause particles to dry out.
 
 
 ### Objects Moving in the Air
@@ -109,53 +150,30 @@ The change both of movement and visibility is continuos and not digital as the c
 * That water droplets fade from visibility and start flying when getting as small as a couple of micrometers is a coincidence or at least there is no obvious causal connection.
 
 
-### The Fate of Particles in the Air
-
-#### Stay in the Air?
-Particles which are large and heavy enough, have a small S/m ratio, so they will just fall down. Small and/or light particles have a large or intermediate S/m ratio and stay longer in the air. 
-
-#### Growth or Shrink?
-Particles staying in the air a long time, can be subject to condensation and evaporation. Whether a particles growths due to condensation or shrinks due to evaporation depends on the material the particle consists of. For a certain particle composition there exists a relative humidity at which the evaporation and condensation are in an equilibrium named condeva equilibrium, at relative humidities below the particles evaporate and thus shrink and above water condensates and the particles growth (-> section [Evaporation and Condensation](../9_physics/aggregations_of_atoms.md#condensation-and-evaporation) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md)).
+### Objects Transforming in the Air
+Particles staying in the air a long time, are subject to condensation and evaporation. Whether a particles growths due to condensation or shrinks due to evaporation depends on the material the particle consists of. For a certain particle composition there exists a relative humidity at which the evaporation and condensation are in an equilibrium named condeva equilibrium, at relative humidities below the particles evaporate and thus shrink and above water condensates and the particles growth (-> section [Evaporation and Condensation](../9_physics/aggregations_of_atoms.md#condensation-and-evaporation) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md)).
 
 The particle composition depends on the source of exhaled particles while the air humidity depends on the locations/setting (e.g. whether heated or AC used):
 * The air humidity is related to the weather and (thus) varies across the world and across the seasons.
 * The material of an exhaled particle depends mainly on the source of the particle i.e. whether it is produced in the alveoli, bronchi, trachea, vocal folds, pharynx or mouth.
 
-#### Behavior in Programming Style
-if S/m ratio small => fall down
-if S/m ratio intermediate or large -> stay in and move with the air =>
-    if the condeva equilibrium is on the condensation side =>  particles growth => fall down or reach condeva equilibrium
-    if in condeva equilibrium => size constant
-    if the condeva equilibrium is on the evaporation side => water evaporates and particles shrink => 
-        if water available => reach condeva equilibrium
-        if out of water =>  efflorescence
+### The Fate of Particles in the Air
 
-In other words:
-The air humidity and the particle-composition/material determine whether
-* particles shrink (evaporation is greater) or growth (condensation is greater)
-* particles dry out below the efflorescence humidity
-* particles fall down if growth enough
+#### Stay in the Air?
+Particles which are large and heavy enough, have a small S/m ratio, so they will just fall down. Small and/or light particles have a large or intermediate S/m ratio and stay longer in the air. 
+#### Growth or Shrink?
+The air humidity and the particle-composition/material determine whether particles growth (condensation) or shrink (evaporation), and if they shrink whether all water evaporates such that they dry out (efflorescence).
+  
+#### The Fate in Programming Style
+* if S/m ratio small => fall down
+* if S/m ratio intermediate or large -> stay in and move with the air =>
+    * if the condeva equilibrium is on the condensation side =>  particles growth => fall down or reach condeva equilibrium
+    * if in condeva equilibrium => size constant
+    * if the condeva equilibrium is on the evaporation side => water evaporates and particles shrink => 
+        * if water available => reach condeva equilibrium
+        * if out of water =>  efflorescence
 
 
-### Overview Airborne Transmission
-
-Watery droplets in the air that cannot be seen, are called aerosol since it looks dissolved in the air. The main reason the distinction between droplets and aerosols is driving forces of their movement: Droplets behave like heavy balls while aerosols behave smoke-like i.e. they mostly move with the air. 
-
-Model | Metaphor   | Generating Actions | Source/Deposition | Situations/Climate| Prevent              
-------|------------|---------|-------------------|-------------------|----------
-[droplets](#droplets)  | cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | bad breath, reek of alcohol, cooking steams| coughing, peaking, breathing | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
-[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
-
-#### Comments
-* In warm climates rooms can be ventilated well, which reliably reduces and if done right mostly prevents aerosol spread. Careless use of air-conditioning enables and enhances aerosol spread. 
-* Aerosol and dry form transmissions increase with the amount of indoor air exchanged. Especially when deep/heavy breathing.
-* The air humidity is relevant since: 
-  * droplets grow or shrink depending on the relative humidity -> [Fate of Particles in the Air](#the-fate-of-particles-in-the-air)
-  * The viability of coronaviruses is highest when dried ([Virion Viability](../2_biological/virion_viability.md)). 
-* The absolute humidity in the air is determined by the outside air temperature. Thus in heated indoor rooms the relative humidity is lower the cooler the outside temperature is.
-* The dry form model is proposed here.
-* for details on Actions and Sources in [Particles in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md).
 
 
 ## Particle Dynamics in the Respiratory Tract
@@ -163,11 +181,12 @@ Model | Metaphor   | Generating Actions | Source/Deposition | Situations/Climate
 > Conversational remarks about how I understand the behavior of particles in the respiratory tract. 
 
 Particle deposition and clearance are relevant for Covid-19 in view of:
-* infection pathway
-* spread within the lower respiratory tract (pathogenesis)
-* spread to the pharynx (swab test and transmission)
-* spread out of the body (transmission)
-* depositions of medicaments for the treatment
+* infection pathway -> [Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)
+* spread within the body:
+  * spread in the lower respiratory tract -> Pathogenesis and [infection locations](../3_medical/coronavirus_disease_patterns.md)
+  * spread to the pharynx -> [Diagnosis](../3_medical/diagnosis_and_viral_load.md) (swab test) and transmission
+* spread out of the body -> [Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)
+* depositions of medicaments for treatments -> [topical treatments](../6_prevention_and_treatment/topical_treatment.md)
 
 
 ### Particles Sources
@@ -394,30 +413,6 @@ Another form of dry particulates in air is dust. In dry air dust can stay in the
 This yields either avoiding 'Sars-CoV-2 smoke' or filtering out  particulates. The filter filters ideally above a few hundreds nanometers (Sars-CoV-2 is about between 80-150 nm; but often several virions stick together or are attached to some organic material [to check and cite]). 
 Keeping the smoke metaphor in mind, then indoor ventilation and indoor wearing a mask are key. Outdoors is no worry for Sars-CoV-2 however, the air is diluted and sun light destroys virions (Chapter [Virion Viability](../2_biological/virion_viability.md)). 
 Measures in more detail are found in [Protection Measures](../7_social/controlling.md). 
-
-## Appendix
-
-### Non Airborne Transmission 
-
-For the time being only respiratory tract and oral pathogens are considered.
-
-Model |  Actions | Source | Deposition | Prevent | Life Forms             
----|---|---|---|---|---
-Direct contact| Kissing| Mouth, sometimes throat/larynx |Mouth, sometimes gullet  | not kissing | all
-Indirect contact| Mouth, respiratory tract when coughing | Spitting/coughing onto something| Taking contaminated object into the mouth | wash or disinfect the hands before eating by hand; no taking dirty objects into the mouth or wash/disinfect before | mostly DNA based life forms especially bacteria
-
-Indirect contact transmission can occur: 
-* through the hands e.g. shaking dirty hands and then eating by hand. 
-* through objects e.g. coughing onto something which somebody else takes into the mouth. 
-
-Objects mediating transmission are called fomites:
-
-> ##### Fomite
-> Fomite are objects through which indirect contact transmission occurs.
-
-Fomite transmission is mostly an issue for bacteria since unlike viruses bacteria don't need a host to replicate. So when cooking eggs which sometimes can contain salmonella and then spilling eggs or touching some object with dirty hands, some object can become salmonella contaminated. The salmonella may happily replicate on the object in question
-
-
 
 
 
