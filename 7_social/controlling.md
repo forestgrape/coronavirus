@@ -401,10 +401,10 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 
 ### Gastronomy
-* Evidence: Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that in gastronomy, especially in the evening, many transmissions of Covid occur.
-* ThinkThrough:
+* _Evidence:_ Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that in gastronomy, especially in the evening, many transmissions of Covid occur.
+* _ThinkThrough:_
   * Many people from different backgrounds and regions sit often densely in the same room, there for SARS-Cov-2 to spread.
-* Comment:
+* _Comment:_
   * Good ventilation and not overly crowded
   * In regions where the death rate is above 2.5 per million and cases are increasing, gastronomy can be reduced at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)).
   * If the epidemiological situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy dispensable for a few weeks.
@@ -414,9 +414,9 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 ### Corona Conform Schooling
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
-* Evidence:  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](../5_epidemiological/spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
+* _Evidence:_  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](../5_epidemiological/spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
   > The early-on update ([Updates 16.10](../1_introduction/update_history.md)) was too early, I didn't read and lookup the sources carefully enough. 
-* ThinkThrough:
+* _ThinkThrough:_
   * Children are **not** main spreaders in the sense that there R value is low [Observations for Schools and Children](../5_epidemiological/spread_analyses.md#schools-and-children).
   * Biological Background:
     * The SARS-2 receptor ACE2 is not expressed on the vocal folds unlike the influenza A receptor. Therefore aerosol produced when talking are less infectious compared to influenza. 
@@ -424,7 +424,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * However:
     * Even with a low R value children can contribute to the overall spread.
     * Many people in the same room and classrooms are not always ventilated well.
-    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with droplets.
+    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with particulates produced when speaking. This is different from influenza virus transmission which infect the vocal folds.
     * Children all come from different families and inside families protection is not easy but doable if the infection known (children are not super-spreaders).
 * Experiences: 
   * School closures were part of lock/shut-downs in spring 2020 in many countries. Mainly due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
@@ -445,8 +445,6 @@ Measure regarding schools can reach from complete closure to mild measures such 
 
 
 
-
-
 ---
 
 ## References
@@ -457,26 +455,26 @@ Measure regarding schools can reach from complete closure to mild measures such 
 * ##### orellana
     Orellana C. (2004). 
     **Laboratory-acquired SARS raises worries on biosafety.** 
-    The Lancet. Infectious diseases, 4(2), 64. https://doi.org/10.1016/s1473-3099(04)00911-9
+    The Lancet. Infectious diseases, 4(2), 64. <https://doi.org/10.1016/s1473-3099(04)00911-9>
 
 * ##### raoult
     Wurtz, N., Papa, A., Hukic, M., Di Caro, A., Leparc-Goffart, I., Leroy, E., Landini, M. P., Sekeyova, Z., Dumler, J. S., Bădescu, D., Busquets, N., Calistri, A., Parolin, C., Palù, G., Christova, I., Maurin, M., La Scola, B., & Raoult, D. (2016). 
-    **Survey of laboratory-acquired infections around the world in biosafety level 3 and 4 laboratories.** European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology, 35(8), 1247–1258. https://doi.org/10.1007/s10096-016-2657-1
+    **Survey of laboratory-acquired infections around the world in biosafety level 3 and 4 laboratories.** European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology, 35(8), 1247–1258. <https://doi.org/10.1007/s10096-016-2657-1>
 
 * ##### lim 
     Poh Lian Lim, M.D., M.P.H., Asok Kurup, M.B., B.S., Gowri Gopalakrishna, M.Sc., Kwai Peng Chan, M.B., B.S., Christopher W. Wong, Ph.D., Lee Ching Ng, Ph.D., Su Yun Se-Thoe, Ph.D., Lynette Oon, M.B., B.S., Xinlai Bai, M.Sc., Lawrence W. Stanton, Ph.D., Yijun Ruan, Ph.D., Lance D. Miller, Ph.D., et al.
     **Laboratory-Acquired Severe Acute Respiratory Syndrome**
-    April 22, 2004 N Engl J Med 2004; 350:1740-1745 https://doi.org/10.1056/NEJMoa032565
+    April 22, 2004 N Engl J Med 2004; 350:1740-1745 <https://doi.org/10.1056/NEJMoa032565>
 
 * ##### finegan
     Oran Finegan, Stephen Fonseca, Pierre Guyomarc’h, Maria Dolores Morcillo Mendez, Jacqueline Rodriguez Gonzalez, Morris Tidball-Binz, Kristy A. Winter,
     **International Committee of the Red Cross (ICRC): General guidance for the management of the dead related to COVID-19,**
-    Forensic Science International: Synergy, Volume 2, 2020, Pages 129-137, ISSN 2589-871X, https://doi.org/10.1016/j.fsisyn.2020.03.007.
+    Forensic Science International: Synergy, Volume 2, 2020, Pages 129-137, ISSN 2589-871X, <https://doi.org/10.1016/j.fsisyn.2020.03.007.>
 
 * ##### artika
     Artika, I. M., & Ma'roef, C. N. (2017). 
     **Laboratory biosafety for handling emerging viruses.** 
-    Asian Pacific journal of tropical biomedicine, 7(5), 483–491. https://doi.org/10.1016/j.apjtb.2017.01.020
+    Asian Pacific journal of tropical biomedicine, 7(5), 483–491. <https://doi.org/10.1016/j.apjtb.2017.01.020>
 
 
 ### Control and Containing Measures
@@ -484,17 +482,17 @@ Measure regarding schools can reach from complete closure to mild measures such 
 * ##### noakes
     Gilkeson, CA, Camargo-Valero, MA, Pickin, LE and Noakes, CJ (2013)
     **Measurement of ventilation and airborne infection risk in large naturally ventilated hospital wards.** 
-    Building and Environment, 65. 35 – 48. https://dx.doi.org/10.1016/j.buildenv.2013.03.006
+    Building and Environment, 65. 35 – 48. <https://dx.doi.org/10.1016/j.buildenv.2013.03.006>
     
 * ##### escombe
     Escombe, A. R., Oeser, C. C., Gilman, R. H., Navincopa, M., Ticona, E., Pan, W., Martínez, C., Chacaltana, J., Rodríguez, R., Moore, D. A., Friedland, J. S., & Evans, C. A. (2007). 
     **Natural ventilation for the prevention of airborne contagion.** 
-    PLoS medicine, 4(2), e68. https://doi.org/10.1371/journal.pmed.0040068
+    PLoS medicine, 4(2), e68. <https://doi.org/10.1371/journal.pmed.0040068>
     
 * ##### salathe
     Smieszek, T., Lazzari, G., & Salathé, M. (2019). 
     **Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System.** 
-    Scientific reports, 9(1), 2185. https://doi.org/10.1038/s41598-019-38825-
+    Scientific reports, 9(1), 2185. <https://doi.org/10.1038/s41598-019-38825->
 
 
 ## Appendix
