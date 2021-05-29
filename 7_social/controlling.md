@@ -424,10 +424,12 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * However:
     * Even with a low R value children can contribute to the overall spread.
     * Many people in the same room and classrooms are not always ventilated well.
-    * Many face-to-face talking situations with many different people. Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with particulates produced when speaking. This is different from influenza virus transmission which infect the vocal folds.
+    * Many face-to-face talking situations with many different people. 
+      > Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with particulates produced when speaking. 
+      > Comment 29.5.21: The SARS-2 spread is different from influenza spread which infect the vocal folds.
     * Children all come from different families and inside families protection is not easy but doable if the infection known (children are not super-spreaders).
 * Experiences: 
-  * School closures were part of lock/shut-downs in spring 2020 in many countries. Mainly due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 there's evidence, that school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
+  * School closures were part of lock/shut-downs in spring 2020 in many countries. Mainly due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 ~~there's evidence, that~~ school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
   * In some schools mask wearing is common, negative comments are few
   * Project based and individual learning are common teaching approaches and known to work. 
 * Comment: Children [spread Covid-19](../5_epidemiological/spread_analyses.md) less since they produce less aerosol and have better immune responses. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even prevented by:
