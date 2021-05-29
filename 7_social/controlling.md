@@ -389,7 +389,7 @@ A reduction of nightlife can reach from an early closure of clubs to a complete 
 > I recently (Mid October 2020) read in the news, that people clubbing at 6 am in the morning had to go to quarantine because of a positive guest combined with a faulty guest list.
 > 
 > Partying until 6 am and likely drinking a lot is not wanted, since protection measures are hardly followed and the immune system is burdened the next day repairing party-damage and may not fight viruses. This is double bad:
->   1. Disease progression: Longer asymptomatic phase and higher viral loads
+>   1. Disease progression: Longer asymptomatic phase and higher viral load.
 >   2. Feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore are not recognized.
 
 ### Reduce Alcohol Consumption
