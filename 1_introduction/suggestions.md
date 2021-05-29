@@ -12,7 +12,7 @@
 
 ## Covid-19 and Virus Infections
 For risk groups, Covid-19 can be serious short-term and severe infections can damage organs. For people with a good immune system and without risk factors Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with movement. This helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
-Many viruses live temporarily or permanent in our body and called virome in their entirety. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
+Many viruses live temporarily or reside permanently in our body - all together called virome. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
 
 > Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
 
