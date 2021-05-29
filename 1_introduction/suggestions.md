@@ -9,6 +9,7 @@
 * [Respect and Take Care](#respect-and-take-care)
 * [Live Healthily](#live-healthily)
 
+> partly written in Spring 2020, updates in work
 
 ## Covid-19 and Virus Infections
 For risk groups, Covid-19 can be serious short-term and severe infections can damage organs. For people with a good immune system and without risk factors Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with movement. This helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
