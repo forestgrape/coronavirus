@@ -1,5 +1,5 @@
 # Spread Analyses
-**[in work]**
+
 * [Short Summary](#short-summary)
 * [Summary](#summary)
   * [Summary Findings regarding Transmission Paths](#summary-findings-regarding-transmission-paths)
@@ -43,13 +43,13 @@
   * [References General Spread Patterns](#references-general-spread-patterns)
   * [References Covid Spread Children and Schools](#references-covid-spread-children-and-schools)
   * [References Living Conditions](#references-living-conditions)
-  * [References SARS-CoV-2 in India](#references-sars-cov-2-in-india)
-  * [References SARS-CoV-2 in Eastern Africa](#references-sars-cov-2-in-eastern-africa)
-  * [References SARS-CoV-2 in Tropical Africa](#references-sars-cov-2-in-tropical-africa)
-  * [References SARS-CoV-2 in Southern Africa](#references-sars-cov-2-in-southern-africa)
-  * [References SARS-CoV-2 in South Americas](#references-sars-cov-2-in-south-americas)
-  * [References SARS-CoV-2 in Europe](#references-sars-cov-2-in-europe)
-  * [References SARS-CoV-2 in South East Asia](#references-sars-cov-2-in-south-east-asia)
+  * [References SARS-2 in India](#references-sars-2-in-india)
+  * [References SARS-2 in Eastern Africa](#references-sars-2-in-eastern-africa)
+  * [References SARS-2 in Tropical Africa](#references-sars-2-in-tropical-africa)
+  * [References SARS-2 in Southern Africa](#references-sars-2-in-southern-africa)
+  * [References SARS-2 in South America](#references-sars-2-in-south-america)
+  * [References SARS-2 in Europe](#references-sars-2-in-europe)
+  * [References Sars-2 in South East Asia](#references-sars-2-in-south-east-asia)
 * [References](#references)
   * [Epidemiological Patterns](#epidemiological-patterns)
   * [Aerosol Transmission](#aerosol-transmission)
@@ -288,6 +288,7 @@ For regions across the world the following is analysed:
 * In Zambia during the first Covid wave [Mulenga et al](#summary-mulenga) observed a PCR positive rate of about 10% in urban settings and 3% in rural settings yielding an average of 7% positive. The seroprevalence at the early phase of the wave was about 2%. 
 * [Quashie et al](#summary-quashie) observe seroprevalences of ranging from 10-15% (shopping malls, formal employees, higher education) to 25% (markets, informal employees) in August 2020. In February the pattern changes: The seroprevalences is now higher in the formal sector with about 25% compared to about 20% in the informal sector. //=> possibly indicates droplet transmission in the early spread since with aerosol spread on would except shopping malls to be hit first. But with dense crowds and (semi-)confined aerosol spread is also possible.
 * [Wiens et al](#summary-wiens) found that in South Sudan at least 22% had been infected by SARS-2 in the first wave (May to August; Seroprevalence was done in September). After adjustment for age, waning antibodies and sex about 40% seem to have been infected by September 2020. 
+* By September 2020, in Ibadan (Nigeria) around 45% of the hospital staff had detectable antibodies ([Olayanju](#summary-olayanju)) and over 30% in Kinshasa (Kongo) ([Ndaye](#summary-ndaye)).
 
 #### Southern Africa
 ##### South Africa
@@ -518,7 +519,7 @@ Knowing how infectors are distributed, can help to fine-tune control measures.
 
 
 ### Infector Distribution
-Contact tracing in Hong Kong revealed that [Adam et al](#summary-adam,wu):
+Contact tracing in Hong Kong revealed that [Adam et al](#summary-adam):
 * 20% of the cases induced 80% of infections
 * 10% of the cases induced 20% of infections
 * 70% of the cases induced no observed infections (despite most of them being not in 
@@ -528,7 +529,7 @@ Contact tracing in Hong Kong revealed that [Adam et al](#summary-adam,wu):
  Note: The strains prevalent during the time of investigation is relevant since coronaviruses can diminish or activate the immune system.
  * In early 2020 over 80% developed symptoms.
 
-* [Adam et al](#summary-adam,wu) found in January through April in Hong Kong 2020 only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people.
+* [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people.
 * The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
 * [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
 
@@ -595,7 +596,7 @@ Comparison with SARS-1 or MERS:
 
 ### References General Spread Patterns
 
-#### Summary Adam,Wu
+#### Summary Adam
 **Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
 Adam D, Wu P, Wong J, et al. Research Square; 2020. 
 <https://doi.org/10.21203/rs.3.rs-29548/v1>
@@ -811,7 +812,7 @@ Science 362 (6410), 75-79.
 * Population size and crowding increase the base transmission potential. (Fig 3 F,G)
 
 
-### References SARS-CoV-2 in India
+### References SARS-2 in India
 
 #### Summary Inbaraj
 Inbaraj LR, George CE, Chandrasingh S (2021) 
@@ -886,7 +887,7 @@ Seroprevalence in six slum and non-slum communities across three wards (one each
 > in slums likely is not possible for the older to avoid infection and they may also spend more time indoor.
 
 
-### References SARS-CoV-2 in Eastern Africa
+### References SARS-2 in Eastern Africa
 
 #### Summary Abdella
 S. Abdella et al., **Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Randomized household serosurveys reveal level of spread during the first wave of the pandemic** EClinicalMedicine (2021), <https://doi.org/10.1016/j.eclinm.2021.100880>
@@ -899,7 +900,7 @@ S. Abdella et al., **Prevalence of SARS-CoV-2 in urban and rural Ethiopia: Rando
 ##### Results
 "IgG prevalence was estimated at 1.9% (95% CI 0.43.7%), and combined IgM/IgG prevalence at 3.5% (95% CI 1.75.4%) for Addis Ababa in early August 2020, with higher prevalence in central sub-cities. Prevalence in Jimma town was lower at 0.5% (95% CI 01.8%) for IgG and 1.6% (95%CI 04.1%) for IgM/IgG, while in rural Jimma IgG prevalence was 0.2% and IgM/IgG 0.4% in early September."
 
-### References SARS-CoV-2 in Tropical Africa
+### References SARS-2 in Tropical Africa
 
 #### Halatoko
 Halatoko WA, Konu YR, Gbeasor- Komlanvi FA, Sadio AJ, Tchankoni MK, Komlanvi KS, et al. (2020) 
@@ -985,25 +986,29 @@ The Lancet Global Health, Volume 9, Issue 6, 2021,Pages e773-e781,ISSN 2214-109X
 ##### Discussion
 * "Only a small proportion of people with SARS-CoV-2 infection were aware of their infection."
 
-#### Ndaye
-Nkuba Ndaye, A., Hoxha, A., Madinga, J., Mariën, J., Peeters, M., Leendertz, F. H., Ahuka Mundeke, S., Ariën, K. K., Muyembe Tanfumu, J. J., Mbala Kingebeni, P., & Vanlerberghe, V. (2021). **Challenges in interpreting SARS-CoV-2 serological results in African countries.**
+#### Summary Ndaye
+Nkuba Ndaye, A., Hoxha, A., Madinga, J., Mariën, J., Peeters, M., Leendertz, F. H., Ahuka Mundeke, S., Ariën, K. K., Muyembe Tanfumu, J. J., Mbala Kingebeni, P., & Vanlerberghe, V. (2021). 
+**Challenges in interpreting SARS-CoV-2 serological results in African countries.**
 The Lancet. Global health, 9(5), e588–e589. <https://doi.org/10.1016/S2214-109X(21)00060-7>
 ##### Methods
 * *Testing Dates:* 17 July to 13 August
 * *Type:* Seroprevalence
 * *Study Population:* 
   * The median age of participants was 42 years; 242 (43%) of 562 participants were male and 320 (57%) were female.
-  * Healthcare staff working in Kinshasa (capital of the Democratic Republic of Congo)
-##### Results
-* Prevalence: 
-    * "202 samples (36%) were seropositive using the EUROIMMUN IgG, 171 (30%) using the Quickzen IgM and 72 (13%) using the Quickzen IgG."
-    * "Two of eight participants who had previously tested positive by SARS-CoV-2 PCR were seronegative by all three commercial serology tests."
-    * "89 (16%) samples were positive for malaria by microscopy."
+  * Healthcare staff
+* *Location:* Kinshasa (capital of the Democratic Republic of Congo)
+##### Results 
+* "202 samples (36%) were seropositive using the EUROIMMUN IgG, 171 (30%) using the Quickzen IgM and 72 (13%) using the Quickzen IgG. Only 46 (8%) of 562 samples were positive by all three tests."
+* "Two of eight participants who had previously tested positive by SARS-CoV-2 PCR were seronegative by all three commercial serology tests."
+* "89 (16%) samples were positive for malaria by microscopy."
+
+> The seroprevalence is likely 40% or more since the PCR testees suggest a low sensitivity of the immune assays.
+  
 ##### Method Details
 * *Seroprevalence:* "These three commercial assays were the EUROIMMUN IgG ELISA (EUROIMMUN, Lübeck, Germany)—a widely used assay in Europe, with sensitivity of 94·6% and specificity of 99·8%—and Quickzen IgG and IgM (Zentech, Belgium), a lateral flow test that detects IgG and IgM antibodies on a single device with a specificity of 100% and sensitivity of 68·8% for IgM and 49·2% for IgG.1"
 
 
-#### Olayanju
+#### Summary Olayanju
 Olayanju, O., Bamidele, O., Edem, F., Eseile, B., Amoo, A., Nwaokenye, J., Udeh, C., Oluwole, G., Odok, G., & Awah, N. (2021). 
 **SARS-CoV-2 Seropositivity in Asymptomatic Frontline Health Workers in Ibadan, Nigeria.** 
 The American journal of tropical medicine and hygiene, 104(1), 91–94. <https://doi.org/10.4269/ajtmh.20-1235>
@@ -1014,8 +1019,8 @@ The American journal of tropical medicine and hygiene, 104(1), 91–94. <https:/
 * *Location:* Ibadan, Nigeria
 * *Test Dates:* May, June 2020 ? [to check]
 ##### Results
-* "Sixty participants were positive for SARS-CoV-2 IgG, in- dicating a seroprevalence of 45.1% in the study population (Table 1)."
-* "Grouping of study participants by department where they work showed that 90% of O&G staff, 60% of emergency staff, 59% of medicine staff, 33% of micro- biology staff, 32% of chemical pathology staff, 23% of surgery staff, and 21% of private suite staff recruited for this study were seropositive for SARS-CoV-2, whereas none of the study par- ticipants recruited from hematology was seropositive."
+* "Sixty participants were positive for SARS-CoV-2 IgG, indicating a seroprevalence of 45.1% in the study population (Table 1)."
+* "Grouping of study participants by department where they work showed that 90% of O&G staff, 60% of emergency staff, 59% of medicine staff, 33% of micro- biology staff, 32% of chemical pathology staff, 23% of surgery staff, and 21% of private suite staff recruited for this study were seropositive for SARS-CoV-2, whereas none of the study participants recruited from hematology was seropositive."
 
 
 #### Summary Wiens
@@ -1052,7 +1057,7 @@ medRxiv 2021.04.25.21256067; <https://doi.org/10.1101/2021.04.25.21256067>
 
 
 
-### References SARS-CoV-2 in Southern Africa
+### References SARS-2 in Southern Africa
 #### Summary Hsiao
 **SARS-COV-2 SEROPREVALENCE IN THE CAPE TOWN METROPOLITAN SUB-DISTRICTS AFTER THE PEAK OF INFECTIONS**
 
@@ -1116,13 +1121,13 @@ Symptoms are similar to those observed in Europe/US/China but are less frequentl
 Sykes, Wendy et al. **Prevalence of anti-SARS-CoV-2 antibodies among blood donors in Northern Cape, KwaZulu-Natal, Eastern Cape, and Free State provinces of South Africa in January 2021.** Research square rs.3.rs-233375. 12 Feb. 2021, <https://doi.org/10.21203/rs.3.rs-233375/v1.> Preprint.
 
 
-### References SARS-CoV-2 in South Americas
+### References SARS-2 in South America
 
 #### Filho
 Amorim Filho, Luiz et al. “Seroprevalence of anti-SARS-CoV-2 among blood donors in Rio de Janeiro, Brazil.” 
 Revista de saude publica vol. 54 (2020): 69. <https://doi.org/10.11606/s1518-8787.2020054002643>
 
-### References SARS-CoV-2 in Europe
+### References SARS-2 in Europe
 
 #### Summary Streeck
 **Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
@@ -1147,7 +1152,7 @@ The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequ
 * "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
 * "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
 
-### References SARS-CoV-2 in South East Asia
+### References Sars-2 in South East Asia
 
 
 ## References
