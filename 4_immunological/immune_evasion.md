@@ -1,5 +1,12 @@
 # Coronaviruses Immune Evasion
 
+* [Overcome Physical Barriers](#overcome-physical-barriers)
+* [Overcome Chemical Barriers](#overcome-chemical-barriers)
+* [Overcome Biological Barriers](#overcome-biological-barriers)
+  * [Overcome Phagocytosis](#overcome-phagocytosis)
+  * [Overcome Acquired Immunity](#overcome-acquired-immunity)
+* [References](#references)
+
 ## Overcome Physical Barriers
 - skin <- circumvented by human coronaviruses by entering via breathing
 - mucus <- less mucus in the lungs and nasal cavity
@@ -13,7 +20,7 @@
 ## Overcome Biological Barriers
 ### Overcome Phagocytosis
 Phagocyte <- exploit phagocytosis by infecting the cell
-- SARS-2 can replicate in macrophages (in vitro; in vivo likely only macrophages when the local and global immune system is diminished will support replication)
+- SARS-2 can replicate in macrophages (in vitro and in vivo detected by biopsies of severe cases. In vivo likely only macrophages when the local and global immune system is diminished support replication)
 - In most immune cells no replication takes place (e.g. T cells) since cell death is induced. But by cell death the immune cell is still knocked out, though usually at the cost of triggering immune system alarms. 
 
 ### Overcome Acquired Immunity
@@ -37,9 +44,9 @@ Antibodies that block virions from infecting cells are called neutralizing antib
 - Exploit
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
   
-> Neutralizing antibodies may also act also as non-neutralizing antibodies. Generally natural infections and vaccines also produce antibodies targeting no exposed substances, these helps to fight infections since cells show what they produce on the outside. An infected cell usually produces coronavirus proteins and part of these proteins get presented on the cell membrane. Immune cells such as T cells can detect this especially if antibody marked and induce cell death. So the cell is stopped from producing many virions.
+> Natural infections and vaccines also produce antibodies targeting no exposed substances, these helps to fight infections: during the intracellular assembling process, the virion proteins can get antibody-marked.
 
-> Besides antibodies, natural infections and to some extent vaccines induce also specific immune cells such as memory T cells targeting different antigens of viruses. These T cells are especially effective at recognizing the presented antigens mentioned above.
+> Besides antibodies, natural infections and some (all?) vaccines induce also specific immune cells such as memory T cells targeting different antigens of viruses. T cells are effective at recognizing infected cells since the cell externally show pieces of the proteins they produce.
 
 
 ## References
