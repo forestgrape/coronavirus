@@ -2,7 +2,8 @@
 # Life Forms with a Focus on Viruses
 
 * [Summary](#summary)
-* [Introduction to Life on Earth](#introduction-to-life-on-earth)
+* [Introduction to Life](#introduction-to-life)
+* [Life on Earth](#life-on-earth)
 * [Memorizing Interactions](#memorizing-interactions)
   * [Storage Options](#storage-options)
   * [Storage System](#storage-system)
@@ -26,14 +27,17 @@
 First things first, a life-forms is a thing with memorized environment interactions and is able to produce rough copies of itself, called progeny. The interactions are stored in genomes. All genomes are made from ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). Life-forms differ in the way they interact with the environment and with each other. Some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
 
 
-## Introduction to Life on Earth
+## Introduction to Life
 
 > ###### Life Form
-> A *life form* in a given environment is an identifiable thing that can interact and influence parts of its environment and thereby produce things which are near the same and accordingly have near the same interaction patterns. These are called *progeny* or *next generation*.
+> A *life form* in a given environment is an identifiable thing which is able to initiate re-production of itself giving rise to things which are near the same. These are called *progeny* or *next generation*. 
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
-All known forms of life on earth use enzymes made of RNA and/or proteins to steer biochemical reactions.
+
+## Life on Earth
+
+All known forms of life on earth use enzymes made of RNA and most also enzymes of proteins to live. The enzymes catalyze specific chemical reactions giving rise to molecules and structures occurring only in the context of life forms. 
 
 ###### Enzyme
 > An organic substance made from proteins and/or RNA, which catalyzes reactions in watery solutions.
@@ -51,10 +55,12 @@ All other known forms of life also encode enzymes made of proteins.
 Proteins are assembled by ribosomes:
 
 > ###### Ribosome
-> ###### Translation
-> *Ribosomes* read positive sense RNA and select a amino acid for each triple of RNA acids and chain these amino acids together to proteins. This process is called *translation* since the mRNA is translated to a protein.
+> *Ribosomes* read RNA in positive sense and select a amino acid for each triple of RNA acids and chain these amino acids together to proteins. 
 
-The storage piece encoding mRNA making up a functional protein or a functional RNA is called a gene:
+> ###### Translation
+> The process of building a protein from RNA instructions is called *translation* since the mRNA is translated to a protein.
+
+The storage piece encoding RNA making up a functional protein or a functional RNA is called a gene:
 
 > ###### Gene
 > A *gene* denotes a piece of storage encoding a functional polypeptide or RNA strand.
@@ -187,7 +193,6 @@ Nearly all forms of life are dependent on other forms of life in one way or anot
 * Besides energy, mammals - including us humans - also need extern sources for vitamins, essential amino acids, essential fatty acids, ...
 
 Cell forming forms usually just need the ingredients (raw materials) and are able to produce the enzymes (machines). Where as [viruses](../2_biological/viruses.md#virus) by definition don't produce all needed enzymes (machines).
-
 
 
 ### Forms of Cooperation

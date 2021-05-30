@@ -3,14 +3,9 @@
 # Sketching the Immune System
 
 * [Summary](#summary)
-* [Immune System Goals](#immune-system-goals)
-  * [Prevent Entry](#prevent-entry)
-  * [Detect and Eliminate Unwanted Things](#detect-and-eliminate-unwanted-things)
-  * [Prevent Unwanted Metabolisms](#prevent-unwanted-metabolisms)
-* [Immune System Mechanisms](#immune-system-mechanisms)
-  * [Physical Mechanisms](#physical-mechanisms)
-  * [Chemical Mechanisms](#chemical-mechanisms)
-  * [Biological Mechanisms](#biological-mechanisms)
+* [Tools of the Immune System](#tools-of-the-immune-system)
+  * [Tasks of the Immune System Tools](#tasks-of-the-immune-system-tools)
+  * [Mode of Action of the Immune System Tools](#mode-of-action-of-the-immune-system-tools)
 * [Immune System Members](#immune-system-members)
   * [T Cells](#t-cells)
 * [Protection Locations](#protection-locations)
@@ -32,73 +27,70 @@
 ## Summary
 [**in work and incomplete and to be checked**]
 
-Selected topics of the immune protection with a focus protection versus coronaviruses are discussed.
+"Selected topics of the immune protection with a focus on protection versus coronaviruses."
 
 ###### Immune System
-> The *immune system* denotes organs and processes that keep the body and metabolism free of unwanted things either by preventing entry or getting rid of them.
+> The *immune system* denotes organs and processes that survey the metabolism & balance of an organism and if necessary remove or prevent entry of unwanted things. 
 
-Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host from interfering with their metabolism: The host immune system tries to stop the virus metabolism and the the virus immune system in turn tries the stop the host immune system.
+Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host from interfering with their metabolism. It's a two way interaction: The host immune system tries to stop the virus metabolism and the virus immune system in turn tries the stop the host immune system.
 
-Immune mechanism can be classified according to various criteria:
+Immune mechanism can be viewed from different perspectives and accordingly classified to various criteria:
 - [Immune System Goals](#immune-system-goals): Prevent entry | eliminate unwanted | supervise metabolism.
-- [Immune System Mechanism](#immune-system-mechanisms): Physical, chemical and biological mechanism are in use.
+- [Immune System Tools](#immune-system-tools): Physical, chemical and biological mechanism are in use.
 - [Immune System Specificity](#immune-system-specificity): Which substances are recognized and targeted. Substances that are ignored.
 - [Protection Locations](#protection-locations): Local or global. At frequent foreign substances entry points many local protection mechanism are in place.
 
 
 
-## Immune System Goals
+## Tools of the Immune System
+
+### Tasks of the Immune System Tools
 [in work and incomplete]
-As [defined](#immune-system) the immune system task is to keep the metabolism free of unwanted things. Different part of the immune system have different goals/tasks:
+As [defined](#immune-system) the immune system task is to keep the metabolism free of unwanted things. The different tools of the immune system have different goals/tasks:
 * [Prevent Entry](#prevent-entry)
 * [Detect and Eliminate Unwanted Things](#detect-and-eliminate-unwanted-things)
 * [Prevent Unwanted Metabolisms](#prevent-unwanted-metabolisms)
 
-
-### Prevent Entry
-Against many pathogens a physical barrier is the most effective line of defence. Where possible this defense mechanism is in place. However where a an exchange of chemical and biological substance is needed no complete physical barrier is possible but other obstacles are in place:
+#### Prevent Entry
+Against many pathogens a physical barrier is the first and most effective line of defence. Where possible this defense mechanism is in place. However where a an exchange of chemical and biological substance is needed no complete physical barrier is possible but other obstacles are in place:
 * alveoli in the lung: exchange of oxygen => the respiratory tract evolved such that most particles don't reach the alveoli, described in [Particle Dynamics in the Respiratory Tract](../5_epidemiological/transmission.md#particle-dynamics-in-the-respiratory-tract).
 * Intestine in the alimentary => To take up nutrients the intestine needs to  be permeable to chemical and biological substance and the substance also need to reach it. To reduce the amount of pathogens reaching the intestine, the acidic stomach is in front of the alkaline intestine.
 
-
-### Detect and Eliminate Unwanted Things
+#### Detect and Eliminate Unwanted Things
 Unwanted can mean:
 - foreign substances
 - cells considered out of order
 - things classified as being harmful. These are often specific parts of proteins.
 
-
-### Prevent Unwanted Metabolisms
+#### Prevent Unwanted Metabolisms
 In some cases preventing unwanted metabolism is done by eliminating whole cells, in that case preventing unwanted metabolism yields eliminating unwanted cells and so is a special case of [eliminating unwanted things](#detect-and-eliminate-unwanted-things). But often the immune response is more fine-grained e.g. silencing foreign RNAs.
 
-#### Self-checks
+##### Self Check of the Cells
 [in work]
 Self checks of the cells: inside the cells there are various systems to keep to cells metabolism immune.
 * RNA silencing
 * Detect foreign RNA e.g. double stranded
 * Detect stress e.g. Ribosome permanently producing. 
 
-#### Extern-checks
+##### Extern-checks
 Cells present what they produce on the outside: Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
 
-
-
-## Immune System Mechanisms
+### Mode of Action of the Immune System Tools
 The mechanisms can be classified by the mode of action either physical, chemical or biological. The relations between Physics, Chemistry and Biology are sketched in [Biology, Chemistry and Physics](#biology-chemistry-and-physics).
 
-### Physical Mechanisms
+#### Physical Mechanisms
 * protecting layers: dead cells on the epithelium (e.g. skin)(The outer layer of the body = the surface of the body = anything that can be reached while the body) is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) 
 * mucus clearance:
   * middle and upper respiratory tract
   * many parts of the alimentary tract
 * [Immune System Goals](#immune-system-goals): mainly used to prevent entry, sometime to eliminate substances.
 
-### Chemical Mechanisms
+#### Chemical Mechanisms
  * change of pH e.g. acidic fluids (e.g. stomach acid) or alkaline environment (e.g. small intestine)
  * degradation of substances by hydrogen peroxide
  * [Immune System Goals](#immune-system-goals): often used to prevent entry (stomach) or eliminate substances.
 
-### Biological Mechanisms
+#### Biological Mechanisms
 Recognizing biological substances as unwanted and eliminate them. Unlike chemical and physical mechanisms biological mechanism can specifically recognize substances and thereby distinguish different life forms and even self and non self. 
 [Immune System Goals](#immune-system-goals): Often the recognizing part is carried out by biological mechanism which allow specific targeting and the elimination part is then chemical or physical. 
 
@@ -166,7 +158,7 @@ Examples
 
 > ###### Antibody
 > The elements by which the immune system can bind to antigens are called *antibodies*.
--->
+
 
 
 <!--
@@ -183,11 +175,11 @@ Examples
 
 The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
 * lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#trained-immune-system))
-* generational adaption: personal and ancestral exposures are memorized and cause both the innate and adaptable immune system to adapt
+* generational adaption: personal and ancestral exposures are memorized and cause both the innate and acquired immune system to adapt
 
 
 ### Innate Immune System
-[in work] The targets don't vary throughout the lifespan of a life form and the information is usually stored in [lifetime storage])
+[in work] The targets don't vary throughout the lifespan of a life form and the information is usually stored in [lifetime storage](../2_biological/life-forms.md#lifetime-storage))
 
 
 ### Trained Immune System
