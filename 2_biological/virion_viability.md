@@ -98,7 +98,7 @@ Decay by biochemicals inactivate virions mainly from the outside by interacting 
 * Acids: In the stomach the acids induce a fast decay.
 
 ### Summary Decay in Aerosols
-Virions exhaled in exhaled aerosol decay due to interactions with biochemicals in the respiratory fluids when the humidity is high enough the samples do *not* dry out. When the air is very dry the samples dry out and the decay is slower:
+As long as solute, virions exhaled in aerosol decay quite fast and mainly due to interactions with other solutes (respiratory tract fluids contain some antiviral substances). When the air is very dry the samples dry out, which causes biochemical reactions to stop.
 * At an air humidity below the [efflorescence humidity](#efflorescence-humidity) (about 30% to 40%)): In dry air the droplets dry out the substances crystallize. The decay rate is lower since biochemicals do not interact with the virions.
 * At an air humidity just above the [efflorescence humidity](#efflorescence-humidity) (about 40% to 60%): The samples shrink but do not dry out. The shrinking increases the concentration of biochemicals and thus the decay rate increases.
 * At an air humidity between 60% and 95%: The droplets shrink less and the decay rates are similar as for the virions in a solution.
@@ -838,4 +838,4 @@ J. R. Soc. Interface 16: 20180298. https://dx.doi.org/10.1098/rsif.2018.0298
 ## Appendix
 
 ### Efflorescence Humidity
-For a particle of a specific substance this is the humidity range where the substances (proteins and salts) crystallize out and are no longer solutes. Since when crystallized the particles don't anymore move around, different reagents don't match which causes chemical reactions to cease. -> [Efflorescence](../9_physics/aggregations_of_atoms.md#efflorescence) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md).
+For a particle of a specific substance this is the humidity point/range where the substances (proteins and salts) crystallize out. When crystallized the particles don't anymore move around, different reagents don't match which causes chemical reactions to cease. -> [Efflorescence](../9_physics/aggregations_of_atoms.md#efflorescence) on the page [Aggregation of Atoms](../9_physics/aggregations_of_atoms.md).
