@@ -43,9 +43,10 @@ Within a substance different intermolecular forces can act, especially when the 
 
 ### Summary Changes in Intermolecular Binding Patterns
 Changes in the temperature or the mixture of substances influence the intermolecular forces, which can result in state transitions:
-* solid <---> liquid (freezing <- and melting ->)
-* liquid <---> gaseous (condensation <- and evaporation ->)
-* solid <---> gaseous (sublime ->)
+
+* solid <=> liquid (freezing <= and melting =>)
+* liquid <=> gaseous (condensation <= and evaporation =>)
+* solid <=> gaseous (sublime =>)
 
 Particles which can absorb water are called hygroscopic. These can growth or shrink in humid respectively in dry air.
 
@@ -76,8 +77,8 @@ Chemical elements are grouped into metallic and non-metallic. The metallic usual
 > ##### Chemical Reaction
 > A chemical reaction is when atoms change their electron configuration. 
 
-* Electrons can move between atoms -> Change of charge = Ionization
-* Electrons can be shared between specific atoms -> Molecules
+* Electrons can move between atoms => Change of charge = Ionization
+* Electrons can be shared between specific atoms => Molecules
 
 
 Two or more atoms which are bound together by sharing electrons in an electron bond are called molecule:
@@ -110,11 +111,11 @@ Generalized molecules interact through intermolecular forces.
 
 Generalized molecules can be charged in two ways:
 * Statically charged particles:
-  * Dipoles -> Dipole force (H-Bridge in the case of dipoles involving H)
-  * Ions -> Ion binding
-  * Dipoles and Ions -> Dipole Forces
+  * Dipoles => Dipole force (H-Bridge in the case of dipoles involving H)
+  * Ions => Ion binding
+  * Dipoles and Ions => Dipole Forces
 * Dynamically charged particles
-  * Mainly large molecules (generalized molecules but the induced forces at naturally occurring temperatures are only relevant for large molecules). -> Van der Waals Forces
+  * Mainly large molecules (generalized molecules but the induced forces at naturally occurring temperatures are only relevant for large molecules). => Van der Waals Forces
 
 
 
@@ -162,8 +163,7 @@ Example:
 * Generalized molecules interact through intramolecular forces (which are minimized at a certain distance). The average distance between molecules is constant but the molecules move freely  with respect to each other.
 
 #### No Bindings
-The units fly around freely and only interact upon collision. 
--> Gas
+The units fly around freely and only interact upon collision. => Gas
 
 Examples: Air (mixture of different generalized molecules flying around. The molecules are N2, O2, H2O, CO2, ...)
 
@@ -210,7 +210,7 @@ Notes:
 * The efflorescent humidity depends on the solution e.g. proteins, salts and fatty acids in a solution are determinants of its efflorescent humidity.
 * For a solution containing different solutes not all solutes may crystallize at the same humidity. Thus the efflorescent point is cannot be given as a single humidity value for the entire solution.
 * For respiratory tract fluids it is about 30 to 40%. 
-    > // The efflorescent humidity is likely lower for upper respiratory tract fluids than for LRT fluids since URT fluids are more hydrophilic [to confirm and cite]. // Guess: about 40% for LRT fluids and about 30% for URT fluids.
+    >  The efflorescent humidity is likely lower for upper respiratory tract fluids than for LRT fluids since URT fluids are more hydrophilic [to confirm and cite]. Guess: about 40% for LRT fluids and about 30% for URT fluids.
 
 > ##### Deliquescence
 > *Deliquescence* is the process when solid matter goes into solution.
