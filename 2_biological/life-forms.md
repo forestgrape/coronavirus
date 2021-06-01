@@ -1,6 +1,8 @@
 
 # Life Forms with a Focus on Viruses
 
+> **Major rework in progress, early June 2021**
+
 * [Summary](#summary)
 * [Introduction to Life on Earth](#introduction-to-life-on-earth)
 * [Memorizing Interactions](#memorizing-interactions)
@@ -51,17 +53,33 @@ All life forms on earth use RNA.
 ###### RNA
 > RNA (= RiboNucleic Acid) are chains of nucleotides.
 
-###### Nucleotide
-> A nucleotide is a nucleoside linked with a phosphate.
+* ... -> nucleotide -> nucleotide -> nucleotide -> nucleotide -> ...
 
+The nucleotides are have 3 parts a ribose sugar, a phosphate and base.
+###### Nucleotide
+> A nucleotide is a triplet of a ribose, phosphate and a purine or pyrimidine base. The ribose is both bound to the phosphate and the base.
+
+The ribose-base unit has a separate name and is called nucleoside:
 ###### Nucleoside
 > Nucleoside is a purine or pyrimidine base linked to a ribose sugar.
 
 The backbone of RNA is always:
 * ... -> phosphate -> ribose -> phosphate -> ribose -> ...
 
-To the riboses one of 4 bases is attached giving an RNA strand a specific sequence, which in turn gives the RNA strand a specific structure and the structure in turn give the RNA strand different functional properties. As noted the triplet phosphate-ribose-base is called nucleotide. So a RNA strand looks:
-* ... -> nucleotide -> nucleotide -> nucleotide -> nucleotide -> ...
+And the bases attached to the riboses determine binding properties. The preferred binding patterns of RNA strands is to other RNA strands with matching nucleotides. The binding properties are relevant for:
+* The matching RNA pieces which a RNA binds to:
+  * matching RNA can be of the same RNA strand which results e.g. in circles. This binding patterns determine the 3-d structure of the RNA
+  * the matching RNA pieces are independent. Which is used for:
+    * RNA silencing
+    * RNA duplication
+    * building of proteins by
+* The structure combine with the binding properties determine which reactions and RNA enzyme catalyzes additional to the reactions relying of RNA-RNA interactions mentioned above.
+
+
+
+
+
+
 
 
 The simplest life forms on todays earth are viroids.
