@@ -3,6 +3,7 @@
 # Sketching the Immune System
 
 > **Major rework in progress, early June 2021**
+> **in work, incomplete and to be checked**
 
 * [Summary](#summary)
 * [Tools of the Immune System](#tools-of-the-immune-system)
@@ -27,9 +28,9 @@
 
 
 ## Summary
-[**in work and incomplete and to be checked**]
 
-"Selected topics of the immune protection with a focus on protection versus coronaviruses."
+
+"Selected topics of the immune system with a focus on protection versus coronaviruses."
 
 ###### Immune System
 > The *immune system* denotes organs and processes that survey the metabolism & balance of an organism and if necessary remove or prevent entry of unwanted things. 
