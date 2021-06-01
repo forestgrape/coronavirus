@@ -4,16 +4,16 @@
 
 * [Summary](#summary)
 * [Tools of the Immune System](#tools-of-the-immune-system)
-  * [Tasks of the Immune System Tools](#tasks-of-the-immune-system-tools)
-  * [Mode of Action of the Immune System Tools](#mode-of-action-of-the-immune-system-tools)
+  * [A Task for each Tool](#a-task-for-each-tool)
+  * [How the Tools Work](#how-the-tools-work)
+* [Assign Tasks to Tools: Immune System Targeting](#assign-tasks-to-tools-immune-system-targeting)
+  * [Immune System Target Specificity](#immune-system-target-specificity)
+  * [Target Mechanisms](#target-mechanisms)
+* [Protection Locations](#protection-locations)
 * [Immune System Members](#immune-system-members)
   * [T Cells](#t-cells)
-* [Protection Locations](#protection-locations)
-* [Immune System Targeting](#immune-system-targeting)
-  * [Immune System Specificity](#immune-system-specificity)
-  * [Target Mechanisms](#target-mechanisms)
-* [Adaption of the Immune System](#adaption-of-the-immune-system)
-  * [Innate Immune System](#innate-immune-system)
+* [Adaption and Learning](#adaption-and-learning)
+  * [Innate Immune Systems](#innate-immune-systems)
   * [Trained Immune System](#trained-immune-system)
   * [Redistribution of Immune Cells](#redistribution-of-immune-cells)
 * [Cross Immune Protections](#cross-immune-protections)
@@ -44,7 +44,7 @@ Immune mechanism can be viewed from different perspectives and accordingly class
 
 ## Tools of the Immune System
 
-### Tasks of the Immune System Tools
+### A Task for each Tool
 [in work and incomplete]
 As [defined](#immune-system) the immune system task is to keep the metabolism free of unwanted things. The different tools of the immune system have different goals/tasks:
 * [Prevent Entry](#prevent-entry)
@@ -75,7 +75,7 @@ Self checks of the cells: inside the cells there are various systems to keep to 
 ##### Extern-checks
 Cells present what they produce on the outside: Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
 
-### Mode of Action of the Immune System Tools
+### How the Tools Work
 The mechanisms can be classified by the mode of action either physical, chemical or biological. The relations between Physics, Chemistry and Biology are sketched in [Biology, Chemistry and Physics](#biology-chemistry-and-physics).
 
 #### Physical Mechanisms
@@ -96,63 +96,35 @@ Recognizing biological substances as unwanted and eliminate them. Unlike chemica
 
 
 
-## Immune System Members
-
-### T Cells
-* T cells are in the blood and locally in tissues. 
-* T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism since they produce proteins encoded by the viruses. [T cells can detect](#extern-checks) the virus proteins exposed.
-* To control coronaviruses infections T cells are key [citation coming].
-
-> ###### Local T cell
-> *Tissue resident T cells* in literature, often shortened to *local T cells* on this page, are T cells which survey the tissues cells integrity. They move within tissues and and do not circulate with the blood. //previously shortened here as *local* T cells
-
-#### Distribution
-T cells are in the blood, in lymph nodes and resident T cells in tissues. Lymph nodes and tissue resident T cells are often at entry points for pathogens e.g. the mouth is a common entry point for viruses, so close to the mouth there are many T cells [in work].
-
-##### T Cell Training
-[in work, to be completed and to be checked]
-1. In the __bone marrow__ continuously new immune cell arise from stem cells. Some differentiation occurs. A certain class of immune cells moves to the thymus. 
-2. In the __thymus__ it is checked if the cells have the right binding capabilities: Binding MHC neither to weak nor to strong. Don't attack self substances. 
-   * Fail (wrong MHC binding strength or self substances attacked) => trigger cell death (if goes wrong, an autoimmune disease can result)
-   * Succeed (right MHC binding strength If the cell does *not* bind self) => send the cell to the lymph nodes. 
-3. In the __lymph nodes__ the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful.
 
 
 
-## Protection Locations
-Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
-* entire body (e.g. fever, circulating antibodies or the skin)
-* tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
-* cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
+## Assign Tasks to Tools: Immune System Targeting
 
+### Immune System Target Specificity
+The range of specificity is large, the following categories are just a coarse approximation.
 
-## Immune System Targeting
+* #### Unspecific
+  Examples  
+  - skin: keep everything out
+  - some immune cells such as neutrophil granulocytes: local shutdown of all living things
+  - stomach acid
+* #### Semi Specific
+  Examples
+  - Receptors from double stranded DNA based lifeforms targeting single stranded DNA
+  - Membranes (e.g. Cell membranes, nucleus membrane, blood brain barrier): only permeable for specific substances
 
-### Immune System Specificity
-[in work]
-There are many degrees of specificity, the following categories are just a coarse approximation.
-
-#### Unspecific
-Examples  
-- skin: keep everything out
-- some immune cells such as neutrophil granulocytes: local shutdown of all living things
-- stomach acid
-
-#### Semi Specific
-Examples
-- Receptors from double stranded DNA based lifeforms targeting single stranded DNA
-- Membranes (e.g. Cell membranes, nucleus membrane, blood brain barrier): only permeable for specific substances
-
-#### Highly Specific  
-Examples
-* RNA pieces silencing mRNAs / other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
-* Antibodies target specific biological substances (mostly proteins). Antibodies are an example of the[Trained Immune System](#trained-immune-system). 
+* #### Highly Specific  
+  Examples
+  * RNA pieces silencing other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
+  * Antibodies target specific biological substances (mostly proteins). Antibodies are an example of the[Trained Immune System](#trained-immune-system). 
 
 
 
 ### Target Mechanisms
-[**in work**]
+
+#### Detecting Protein Structures
 > ###### Antigen
  Particles classified as unwanted to which the immune system is able  particles they bind are called *antigens*.
 
@@ -169,17 +141,48 @@ Examples
  [in work]   
  -->
 
+## Protection Locations
+Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
+* entire body (e.g. fever, circulating antibodies or the skin)
+* tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
+* cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
 
-## Adaption of the Immune System
+## Immune System Members
+
+### T Cells
+* T cells are in the blood and locally in tissues. 
+* T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism since they produce proteins encoded by the viruses. [T cells can detect](#extern-checks) the virus proteins exposed.
+* To control coronaviruses infections T cells are key [citation coming].
+
+> ###### Local T cell
+> *Tissue resident T cells* in literature, often shortened to *local T cells* on this page, are T cells which survey the tissues cells integrity. They move within tissues and and do not circulate with the blood. //previously shortened here as *local* T cells
+
+#### Distribution
+T cells are in the blood, in lymph nodes and resident T cells in tissues. Lymph nodes and tissue resident T cells are often at entry points for pathogens e.g. the mouth is a common entry point for viruses, so close to the mouth there are many T cells [in work].
+
+##### T Cell Training
+[in work, to be completed and to be checked]
+1. In the __bone marrow__ new immune cells are produced by somantic recombination. Some differentiation occurs. A certain class of immune cells moves to the thymus. [to check and clarify]
+2. In the __thymus__ it is checked if the cells have the right binding capabilities: Binding MHC neither to weak nor to strong. Don't attack self substances. 
+   * Fail (wrong MHC binding strength or self substances attacked) => trigger cell death (if goes wrong, an autoimmune disease can result)
+   * Succeed (right MHC binding strength If the cell does *not* bind self) => send the cell to the lymph nodes. 
+3. In the __lymph nodes__ the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful.
+
+
+## Adaption and Learning
 
 The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
 * lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#trained-immune-system))
 * generational adaption: personal and ancestral exposures are memorized and cause both the innate and acquired immune system to adapt
 
 
-### Innate Immune System
-[in work] The targets don't vary throughout the lifespan of a life form and the information is usually stored in [lifetime storage](../2_biological/life-forms.md#lifetime-storage))
+### Innate Immune Systems
+
+###### Innate Immune System
+> There is no special mechanism to change the targets throughout the life time.
+
+Since targets stay constant, the information is stored in [lifetime storage](../2_biological/life-forms.md#lifetime-storage)).
 
 
 ### Trained Immune System
