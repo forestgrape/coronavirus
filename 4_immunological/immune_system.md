@@ -2,6 +2,8 @@
 
 # Sketching the Immune System
 
+> **Major rework in progress, early June 2021**
+
 * [Summary](#summary)
 * [Tools of the Immune System](#tools-of-the-immune-system)
   * [A Task for each Tool](#a-task-for-each-tool)
