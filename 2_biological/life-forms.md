@@ -2,9 +2,9 @@
 # Life Forms with a Focus on Viruses
 
 * [Summary](#summary)
-* [Introduction to Life](#introduction-to-life)
-* [Life on Earth](#life-on-earth)
+* [Introduction to Life on Earth](#introduction-to-life-on-earth)
 * [Memorizing Interactions](#memorizing-interactions)
+  * [Temporary and Permanent](#temporary-and-permanent)
   * [Storage Options](#storage-options)
   * [Storage System](#storage-system)
 * [Ways of Life](#ways-of-life)
@@ -24,55 +24,89 @@
 > **major updates in progress, April 2021**]
 
 ## Summary
-First things first, a life-forms is a thing with memorized environment interactions and is able to produce rough copies of itself, called progeny. The interactions are stored in genomes. All genomes are made from ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). Life-forms differ in the way they interact with the environment and with each other. Some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
+First things first, a life-forms is a thing with memorized environment interactions and is able to produce rough copies of itself, called progeny. The interactions are stored in genomes. All genomes are made from ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). RNA is common to all life forms on earth and RNA is used to store information, as enzyme and as structural units. Life-forms differ in the way they interact with the environment and with each other. Some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
 
 
-## Introduction to Life
+## Introduction to Life on Earth
 
 > ###### Life Form
-> A *life form* in a given environment is an identifiable thing which is able to initiate re-production of itself giving rise to things which are near the same. These are called *progeny* or *next generation*. 
+> A *life form* in a given environment is an identifiable thing which is able to initiate re-production of itself giving rise to things which are near the same. These are called *progeny* or *next generation*.
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
 
+To have specific environment interactions, life forms rely on the property that chemical reactions behave different in different contexts. A context can be radiation, temperature and/or other substances present. A substance enabling or enhancing a certain chemical reaction is called a catalyst:
 
-## Life on Earth
+###### Catalyst
+> A substance which increases the rate of a chemical reaction without being permanently changed itself.
 
-All known forms of life on earth use enzymes made of RNA and most also enzymes of proteins to live. The enzymes catalyze specific chemical reactions giving rise to molecules and structures occurring only in the context of life forms. 
+Catalysts in the context of lifeforms are called enzymes:
 
 ###### Enzyme
-> An organic substance made from proteins and/or RNA, which catalyzes reactions in watery solutions.
+An enzyme is a catalyst in produced by a life form.
 
-The simplest forms of life are viroids.
+The enzymes catalyze specific chemical reactions giving rise to molecules and structures occurring only in the context of life forms. Most enzymes made of RNA or proteins.
+
+All life forms on earth use RNA.
+
+###### RNA
+> RNA (= RiboNucleic Acid) are chains of nucleotides.
+
+###### Nucleotide
+> A nucleotide is a nucleoside linked with a phosphate.
+
+###### Nucleoside
+> Nucleoside is a purine or pyrimidine base linked to a ribose sugar.
+
+The backbone of RNA is always:
+* ... -> phosphate -> ribose -> phosphate -> ribose -> ...
+
+To the riboses one of 4 bases is attached giving an RNA strand a specific sequence, which in turn gives the RNA strand a specific structure and the structure in turn give the RNA strand different functional properties. As noted the triplet phosphate-ribose-base is called nucleotide. So a RNA strand looks:
+* ... -> nucleotide -> nucleotide -> nucleotide -> nucleotide -> ...
+
+
+The simplest life forms on todays earth are viroids.
 
 > ###### Viroid
 > *Viroids* are pieces of RNA able to replicate.
 
-All other known forms of life also encode enzymes made of proteins.
+All other known forms of life also encode enzymes made of proteins. The base units of proteins are polypeptides:
+
+> ###### Polypeptides
+> A *polypeptide* consists of amino acids chained together.
 
 > ###### Protein
-> *Proteins* are amino acids chained together.
+> A *Protein* consists of one or more polypeptides. 
 
-Proteins are assembled by ribosomes:
+Polypeptides are assembled by ribosomes:
 
 > ###### Ribosome
-> *Ribosomes* read RNA in positive sense and select a amino acid for each triple of RNA acids and chain these amino acids together to proteins. 
+> *Ribosomes* read RNA in positive sense and select a amino acid for each triple of RNA acids and chain these amino acids together to polypeptides.
 
 > ###### Translation
-> The process of building a protein from RNA instructions is called *translation* since the mRNA is translated to a protein.
+> Translations is the process when from an RNA sequence a amino acid sequence is constructed.
+
+As noted RNA is able to have nearly all functions related to live e.g. as enzyme. So ribosomes want only to translate very specific RNA and not any RNA molecule lying around. There are special sequences which are recognized by ribosomes to initiate translation.
+
+>> ###### Translatable RNA
+>> Translatable RNA denotes RNA which is marked to be translated and thus is read by ribosomes.
+
+Translatable RNA is ribosome and life form specific.
+
+One or more polypeptides are structured to form a protein:
+
 
 The storage piece encoding RNA making up a functional protein or a functional RNA is called a gene:
 
 > ###### Gene
 > A *gene* denotes a piece of storage encoding a functional polypeptide or RNA strand.
 
-Genes are sequences of single/double stranded DNA or RNA which are transcribed to positive stranded RNA, which in turn can get translated by ribosomes to proteins.
-
-> ###### mRNA
-> mRNA or messenger RNA is temporary RNA sent to the ribosomes for translation to proteins. 
-
 
 
 ## Memorizing Interactions
+
+
+### Temporary and Permanent
+
 
 ### Storage Options
 Life forms memorize their machinery and structure, which in turn determine the environment interactions. Four kinds of lifetime storage are known to be used on todays earth.
