@@ -21,7 +21,6 @@
 
 #side-nav {
     height: 100%;
-    /* Full-height: remove this if you want "auto" height */
     position: fixed;
     width: calc(9% + 9rem);
     z-index: 1;
