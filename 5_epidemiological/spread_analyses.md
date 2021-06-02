@@ -127,8 +127,8 @@ For crowded events during the day in unconfined settings (e.g. demonstrations or
 
 
 ### Summary Observations Population Characteristics
-* [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. In schools if there were many infected this is likely due to super spreading teachers and not children.
-* [Population](#population): Analyzing the spread across people: 20% are responsible for 80% of the infections.
+* [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. In schools if there were many infected this is mostly due to super spreading teachers and not children infecting each other. [argumentation in work]
+* [Population](#population-characteristics): Analyzing the spread across people: 20% are responsible for 80% of the infections.
 * [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades seem to have many more cases and have higher death rates.
 * [Overweight](#overweight): Regions where overweight tend to have more cases and higher fatality rates.
 
@@ -252,14 +252,14 @@ For regions across the world the following is analysed:
 ### USA
 #### Spring 2020
 * Measures: Strict measures in many areas
-* Observations: High number of severe cases in densely populated areas mainly in the North (e.g. New York)
+* Observations: High number of severe cases in densely populated areas, mainly large urban centers in the North (e.g. New York).
 
 #### Summer 2020
 * Observations: Moderate to high number of severe cases in the urban centres of the Sun Belt.
 
 #### Autumn and Winter 2020
 * Observations: 
-  * High number of severe cases starting where the winter comes first: Central North and at high altitude e.g. in Colorado.
+  * High number of severe cases starting where the winter comes first: Central North and at high altitude (Colorado).
   * Early to Mid Winter 2020/2021: High case numbers in many states (less severe cases where the winter is warmer)
   * Mid to Late Winter 2021: Cases start decreasing. 
 * Possible Causes: The decline starting early January 2021 is likely due a combination of factors such as 1) some built up immunity 2) awareness and caution of the population and the government after peaks around thanksgiving but no overly strict measures such as general curfews and 3) shifting the protection focus to airborne transmission (outdoor gastronomy and shopping was often allowed e.g. in New York) => people are and meet outdoors. Additionally the measures were adapted to the local situations.
@@ -269,14 +269,16 @@ For regions across the world the following is analysed:
 * Measures:
   * Non pharmaceutical interventions lessened in many states. 
   * A large vaccination program.
-* Possible Causes: A key reason for low cases are likely the warming temperatures, especially in the Southern states. The vaccination program reduces the number of severe cases [to check if fatality rate lowered]. 
+* Possible Causes: A key reason for low cases are likely the warming temperatures, especially in the Southern states. The vaccination program is excepted to reduce the number of severe cases [to check if fatality rate lowered]. 
 
 
 ### Africa
 #### Summarized Observations in Tropical Africa
-* *High Prevalence* In urban settings where living conditions are dense, very high spread rates were/are observed: up to 70% of the population and over 7% PCR positive at the same time. 
-* *Mainly Asymptomatic* The wast majority of cases are unnoticed and mild: often those with positive seroprevalence experienced didn't experience more disease symptoms than those with negative seroprevalence. 
-* *Very low fatality rates* The death rate per million inhabitants generally is very low. The high infection rates combined with the few number of deaths yield very low infection fatality rates, mostly below 0.01%.
+* *High Prevalence* In urban settings where living conditions are dense, very high spread rates were/are observed: 
+  * up to 70% of the population seropositive
+  * over 7% PCR positive at the same time. Accounting that nasal swabs usually have detection rate of less than 70%, an estimated 10% of the population are infected simultaneously.
+* *Mainly Asymptomatic* The wast majority of cases are unnoticed and mild: often those with positive seroprevalence experienced didn't experience more disease symptoms than those with negative seroprevalence (which is different from Europe/Americas or South Africa).
+* *Very low fatality rates* The death rate per million inhabitants is very low. The high infection rates combined with the few number of deaths yield very low infection fatality rates, mostly below 0.01%.
 
 > Remark: The seroprevalence test kits have sensitivity/specificity tradeoffs and when designed and calibrated in one region, they may not work as well in an other region/setting. The cut off values can be adjusted to correct the specificity but influencing the sensitivity: So those with negative seroprevalence may still have been infected or those with positive seroprevalence may cross-react with antibodies targeted at non-SARS-2 antigens.
 
@@ -685,16 +687,15 @@ Analyzing a large high school out break in Israel shortly after schools have bee
 
 
 #### Summary Dattner
-**The role of children in the spread of COVID-19: Using household data from Bnei Brak, Israel, to estimate the relative susceptibility and infectivity of children**
-
+Dattner I, Goldberg Y, Katriel G, Yaari R, Gal N, Miron Y, et al. (2021) **The role of children in the spread of COVID-19: Using household data from Bnei Brak, Israel, to estimate the relative susceptibility and infectivity of children.** 
+PLoS Comput Biol 17(2): e1008559. <https://doi.org/ 10.1371/journal.pcbi.1008559>
 ##### Methods
 * "Data were collected from households in the city of Bnei Brak (City close to Tel Aviv), Israel, in which all household members were tested for COVID-19 using PCR."
-* The authors developed a model (discrete stochastic dynamic model) for the propagation of Covid within a household. With this model infectivity and susceptibility for children and adults can be estimated.
+* The authors developed a model (discrete, stochastic and dynamic) for the propagation of Covid within a households. With this model infectivity and susceptibility of children and adults can be estimated and compared.
  
 ##### Findings
-* 44% of adults and 25% of children infected
-* infection risk increases with age (except children below 1 year compared to children between 1 and 4)
-* For children the susceptibility was 45% [40%, 55%] and the infectivity 85% [65%, 110%] in comparison to adults. 
+* "Inspection of the PCR data shows that children are less likely to be tested positive compared to adults (25% of children positive over all households, 44% of adults positive over all households, excluding index cases), and the chance of being positive increases with age."
+* "We estimate that the susceptibility of children (under 20 years old) is 43% (95% CI: [31%, 55%]) of the susceptibility of adults. The infectivity of children was estimated to be 63% (95% CI: [37%, 88%]) relative to that of adults."
 
 
 #### Summary Perez-Lopez
@@ -771,9 +772,8 @@ In Norra Djurgårdsstaden, modern residential blocks in the upper price class, 
 
 #### Summary Brueningk
 **Determinants of SARS-CoV-2 transmission to guide vaccination strategy in a city**
-Sarah C. Brüningk, Juliane Klatt, Madlen Stange, Alfredo Mari, Myrta Brunner, Tim-Christoph Roloff, Helena M.B. Seth-Smith, Michael Schweitzer, Karoline Leuzinger, Kirstine K. Søgaard, Diana Albertos Torres, Alexander Gensch, Ann-Kathrin Schlotterbeck, Christian H. Nickel, Nicole Ritz, Ulrich Heininger, Julia Bielicki, Katharina Rentsch, Simon Fuchs, Roland Bingisser, Martin Siegemund, Hans Pargger, Diana Ciardo, Olivier Dubuis, Andreas Buser, Sarah Tschudin-Sutter, Manuel Battegay, Rita Schneider-Sliwa, Karsten M. Borgwardt, Hans H. Hirsch, Adrian Egli
-medRxiv 2020.12.15.20248130; 
-doi: <https://doi.org/10.1101/2020.12.15.20248130>
+Sarah C. Brüningk, Juliane Klatt, Madlen Stange, ..., Adrian Egli
+medRxiv 2020.12.15.20248130; doi: <https://doi.org/10.1101/2020.12.15.20248130>
 
 ##### Methods
 The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed based on sequence data and a computer simulation. In a second step, the effect of reduced transmissibility of population subgroups on the spread of Covid is simulated. 
@@ -835,7 +835,8 @@ Unadjusted seroprevalence (shown Table 2):
 * diabetes 10.7%
 * more than 8 years education 15.6%
 * age >40 12.1%
-[in work]
+
+//the increased seroprevalence with over 8 educations suggest a correlation to income which may be correlated to AC usage.
 
 #### Summary George
 George CE, Inbaraj LR, Chandrasingh S, de Witte LP (2021). 
