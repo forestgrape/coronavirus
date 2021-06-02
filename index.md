@@ -71,7 +71,7 @@ This section overviews the content. The [full content section](#content) lists t
 ---
 
 ## Notes on Reading
-* Some parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. The chapters with not well founded content are tagged with *(explorative)*.
+* Many parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. The chapters with not well founded content are tagged with *(explorative)*.
 * The writing often is conversational and some parts aren't rigorous. 
 * This is work in progress. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
 * _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is required (as long as its not copy & paste). <!-- in science citing/Referencing is a good and helpful practice.-->
@@ -82,11 +82,12 @@ This section overviews the content. The [full content section](#content) lists t
 * _References_
   * Often references are summarized. Word-by-word extracts are in "_ _ _". The summaries are biased towards to results relevant for this page. To capture the essence of the research is tried too.
   * As much as possible original work is referred. Sometimes reviews or remarks in introductions are referred which point further to the original work/articles.
-  * The references are named by the first author. (In the beginning of this work sometimes references were named by the correspondence author or a descriptive tag).
+  * The references are named by the first author. (In the beginning of this work sometimes references were named by the correspondence author or a descriptive tag. Some sections still have this naming scheme).
   * References are usually grouped by topic. If several topics apply, one is chosen.
-  * For term definitions and general topics the English wikipedia, encyclopedia britannica and the oxford dictionary are frequently consulted. Currently they are only referenced here and not at the specific terms. It is planned to improve this.
+  * For term definitions and general topics, wikipedia (English), encyclopedia britannica and the oxford dictionary are frequently consulted. Currently they are referenced for each specific term. It is planned to improve this.
 * _Formulations_
-   Sometimes words are not weighted carefully or formulations are unclear e.g. ambiguous. Some formulation are general. Some are subjective and marked as [comments](#comments). Ambiguity is not intended (also commented in [comments](#comments)). Upon discovery, unfitting formulations are improve. Feedback is appreciated and questions welcome.
+   Some are subjective and marked as [comments](#comments). Sometimes words are not weighted carefully or formulations are unclear/ambiguous. Upon discovery, unfitting formulations are improved. Feedback is appreciated and questions welcome.
+> * _No Ambiguity:_ Some formulations especially in comments are general but ambiguity is not indented. The reason is clarity. (In the beginning, a few comments were ambiguous but this is not intended anymore, since this neither works nor fits a project like this.)
 * _Symbols_
    * '=' denotes 'equals' or 'has the meaning of' or 'set equal to'
    * '=>' = implies
@@ -106,10 +107,8 @@ This section overviews the content. The [full content section](#content) lists t
 
 > ##### Comments
 > * _Comments_, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
-> 
-> * _Off Topic Remarks:_ Sometimes subjective off topic remarks are added. One reason for subjective off-topic remarks is transparency and background for the mindset behind suggestions. 
->
-> * _No ambiguity:_ Some comments are general but ambiguity is not indented. The reason is clarity. (In the beginning, a few comments were ambiguous but this is not intended anymore, since it possibly opened doors for unintended interpretations. I excuse for that.)
+> * _Off Topic Remarks:_ Sometimes subjective off topic remarks are added. One reason for subjective off-topic remarks is transparency and background for the mindset behind suggestions.
+
 
 > ##### Mindset in short
 > * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.*
