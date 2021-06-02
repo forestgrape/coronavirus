@@ -26,7 +26,8 @@
   * [Particles in the Respiratory Tract](#particles-in-the-respiratory-tract)
   * [Particles in the Air](#particles-in-the-air)
   * [Airflow Theory](#airflow-theory)
-  * [Sources of Exhaled Particles](#sources-of-exhaled-particles)
+  * [Summarized References Sources of Exhaled Particles](#summarized-references-sources-of-exhaled-particles)
+  * [References Sources of Exhaled Particles](#references-sources-of-exhaled-particles)
   * [Particle Deposition at In/Exhalation](#particle-deposition-at-inexhalation)
   * [Transmission and Infection of Respiratory Viruses](#transmission-and-infection-of-respiratory-viruses)
 
@@ -195,8 +196,8 @@ This section describes when particles are generated and how they spread within t
 
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
 * Small particles from the lower respiratory tract (<1 micro meter) are generated from breathing alone and their generation does not require speaking or coughing. [Larsson et al](#larsson) identified the origins by analyzing the lipid composition of the particles. 
-* [Fabian et al](#fabian) describes that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. Data indicate a  positive correlation with age. 
-* [Milton et al](#milton-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, with breathing and speaking alone, there are small infectious aerosols exhaled too. 
+* [Fabian et al](#fabian) describes that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. Data indicate a  positive correlation with age. 24% of participants exhaled 81% of all measured exhaled particles.
+* [Milton et al](#yan-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, with breathing and speaking alone, there are small infectious aerosols exhaled too. 
 
 That small particulates are exhaled upon breathing alone from the deep lungs, combined with the observations that in the deep lungs the SARS-CoV-2 receptor ACE2 is highly available, means that Covid-19 can be transmitted with breathing alone.
 
@@ -518,7 +519,34 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
 	Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10173-8. Epub 2002 Jul 15. https://doi.org/10.1073/pnas.102318299
 
 
-### Sources of Exhaled Particles
+### Summarized References Sources of Exhaled Particles
+##### Yan 2018
+Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
+**Aerosol shedding of infectious influenza virus**
+Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
+##### Methods
+* Participants: 142 students with PCR confirmed influenza who filled a questionary with additional information such as BMI, vaccination status, ...
+* Investigation:
+  * "... 218 paired nasopharyngeal (NP) and 30-minute breath samples (coarse >5-μm and fine ≤5-μm fractions) on days 1–3 after symptom onset.
+  * "We assessed viral RNA copy number for all samples and cultured NP swabs and fine aerosols."
+##### Findings
+"We recovered infectious virus from 52 (39%) of the fine aerosols and 150 (89%) of the NP swabs with valid cultures."
+
+*Predictors of viral RNA shedding:* (Table 3 and Table S4 in the paper)
+* "Fine- and coarse-aerosol viral RNA were positively associated with body mass index and number of coughs and negatively associated with increasing days since symptom onset in adjusted models." 
+* Fine-aerosol viral RNA shedding was positively associated with influenza vaccination in the current and/or prior season for influenza A (Table S4.).
+* "NP swab viral RNA was positively associated with upper respiratory symptoms and negatively associated with age but was not significantly associated with fine- or coarse-aerosol viral RNA or their predictors." 
+* "Sneezing was rare, and sneezing and coughing were not necessary for infectious aerosol generation."
+
+##### Discussion
+"Our findings, that upper and lower airway infection are independent and that fine-particle exhaled aerosols reflect infection in the lung, opened a pathway for a deeper understanding of the human biology of influenza infection and transmission."
+
+##### Methods Details
+* Participants: 
+  * "We recruited volunteers with acute respiratory illness on the University of Maryland–College Park campus and surrounding community from December 2012 through March 2013."
+  * 355 volunteers with respiratory disease symptoms were tested for influenza. 156 were tested positive for influenza (4 with aerosol only). Finally 142 cases completed the questions.
+
+### References Sources of Exhaled Particles
     
 * ##### olin 
     Bake, B., Larsson, P., Ljungkvist, G. et al. 
@@ -541,11 +569,6 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
     
 * ##### milton 2013
     Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). **Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.** PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
-
-* ##### milton 2018
-    Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
-    **Aerosol shedding of infectious influenza virus**
-    Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
     
 * ##### morawska
     Johnson, Graham & Morawska, Lidia & Ristovski, Zoran & Hargreaves, M. & Mengersen, K. & Chao, Christopher & Wan, Man-Pun & Li, Yuguo & Xie, Xiaojian & Katoshevski, David & Corbett, Shay. (2011). **Modality of human expired aerosol size distributions.** Journal of Aerosol Science - J AEROSOL SCI. 42. 839-851. https://doi.org/10.1016/j.jaerosci.2011.07.009. 
@@ -628,7 +651,6 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
 	https://doi.org/10.1186/s12989-017-0190-8
     
 
-
   
 ### Transmission and Infection of Respiratory Viruses
 
@@ -638,8 +660,6 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
 	J Innate Immun 2020;12:4–20
 	https://doi.org/10.1159/000503030
 
-
-    
     
 * ##### pierret
     Reiman JM, Das B, Sindberg GM, Urban MD, Hammerlund MEM, et al. (2018) 
