@@ -6,7 +6,7 @@ function hideNav() {
     const content = document.getElementById('central-content')
     content.setAttribute("style", "margin-left:0%")
 
-    //display menu
+    //display menu button (without mouseover only whitespace are displayed)
     document.getElementById('menu-button').style.display = "block"
 }
 
@@ -19,7 +19,7 @@ function showNav() {
     //in this order : 9% + 9rem!!
     content.setAttribute("style", 'margin-left:calc(9% + 9rem)')
 
-    //hide menu
+    //disable menu button
     document.getElementById('menu-button').style.display = "none"
 }
 
