@@ -23,11 +23,11 @@ function showNav() {
     document.getElementById('menu-button').style.display = "none"
 }
 
-const side_nav = document.getElementById('side-nav')
+
 function mouseOverSideNav() {
     /*show the the nav scroll bar if necessary*/
     const TITLE_OFFSET = 170;
-    
+    const side_nav = document.getElementById('side-nav')
     if (side_nav.offsetHeight < document.getElementById('nav-toc').offsetHeight + TITLE_OFFSET) {
         //console.log('show overflow')
         side_nav.setAttribute("style", "overflow-y:auto")
@@ -40,7 +40,8 @@ function mouseOverContent() {
     * scrolls the nav element if necessary
     * hide the nav scroll bar //would be only necessary on desktop on mobile usually auto hidden
     */
-
+    const side_nav = document.getElementById('side-nav')
+    
     if (side_nav.style.display != "none") {
         const draw_height = side_nav.offsetHeight - 60
         //console.log('over content')
