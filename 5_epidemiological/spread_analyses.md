@@ -1060,7 +1060,9 @@ medRxiv 2021.04.25.21256067; <https://doi.org/10.1101/2021.04.25.21256067>
 
 ### References SARS-2 in Southern Africa
 #### Summary Hsiao
+Hsiao M et al,
 **SARS-COV-2 SEROPREVALENCE IN THE CAPE TOWN METROPOLITAN SUB-DISTRICTS AFTER THE PEAK OF INFECTIONS**
+COVID-19 Special Public Health Surveillance Bulletin, 18 (S5)
 
 ##### Methods
 * *Testing Dates:* "15 July and 7 August 2020" //right after the peak of the first Covid wave in South Africa. The cases were still quite high and winter was ongoing.
@@ -1131,8 +1133,9 @@ Revista de saude publica vol. 54 (2020): 69. <https://doi.org/10.11606/s1518-878
 ### References SARS-2 in Europe
 
 #### Summary Streeck
-**Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
-<https://doi.org/10.1038/s41467-020-19509-y>
+Streeck, H., Schulte, B., Kümmerer, B.M. et al. 
+**Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany.** 
+Nat Commun 11, 5829 (2020).  <https://doi.org/10.1038/s41467-020-19509-y>
 
 ##### Methods
 * "A SARS-CoV2 super-spreading event occurred during carnival in a small town in Germany. Due to the rapidly imposed lockdown and its relatively closed community, this town was seen as an ideal model to investigate the infection fatality rate (IFR)."
@@ -1199,7 +1202,7 @@ Epidemiology and Infection, 134(2), 223-230. <https://doi.org/10.1017/S095026880
 
 ### Aerosol Transmission
 
-<!--move to fitting pages-->
+<!--move to corresponding pages-->
 
 ##### Marr-aerosol-faq
 **FAQs on Protecting Yourself from COVID-19 Aerosol Transmission**
