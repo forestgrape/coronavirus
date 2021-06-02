@@ -17,7 +17,7 @@ function showNav() {
     //shrink content 
     const content = document.getElementById('central-content')
     //in this order : 9% + 9rem!!
-    content.setAttribute("style", 'margin-left:calc(8% + 11rem)')
+    content.setAttribute("style", 'margin-left:calc(9% + 9rem)')
 
     //disable menu button
     document.getElementById('menu-button').style.display = "none"

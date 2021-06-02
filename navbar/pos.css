@@ -9,15 +9,17 @@
 }
 
 
-#side-nav {display: block;}
-#central-content { margin-left:calc(8% + 11rem)}
-#menu-button {display: none}
+@media screen {
+    #side-nav {display: block;}
+    #central-content { margin-left:calc(9% + 9rem)}
+    #menu-button {display: none}
+}
 
 
 #side-nav {
     height: 100%;
     position: fixed;
-    width: calc(8% + 11rem);
+    width: calc(9% + 9rem);
     z-index: 1;
     top: 0;
     left: 0;

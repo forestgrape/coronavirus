@@ -27,6 +27,9 @@ nav {
     color:azure;
 }
 
+@media (max-width: 600px){
+  nav {font-size: 0.7rem;}
+}
 
 
 /*
