@@ -11,24 +11,21 @@
 
 @media screen and (min-width: 600px) {
     #side-nav {display: block;}
-    #central-content { margin-left:calc(9% + 9rem)}
+    #central-content { margin-left:calc(8% + 11rem)}
     #menu-button {display: none}
 }
 
-@media (min-width: 800px) and (min-height: 400px){
-    #side-nav {overflow-y: hidden;}
-}
 
 #side-nav {
     height: 100%;
     position: fixed;
-    width: calc(9% + 9rem);
+    width: calc(8% + 11rem);
     z-index: 1;
     top: 0;
     left: 0;
     background-image: linear-gradient(90deg, #155799, #159957);
     overflow-x: hidden;
-    /*overflow-y: hidden;*/
+    overflow-y: hidden;
     padding-top: 1rem;
     padding-left:0.1rem;
 }

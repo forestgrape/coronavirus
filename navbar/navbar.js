@@ -17,7 +17,7 @@ function showNav() {
     //shrink content 
     const content = document.getElementById('central-content')
     //in this order : 9% + 9rem!!
-    content.setAttribute("style", 'margin-left:calc(9% + 9rem)')
+    content.setAttribute("style", 'margin-left:calc(8% + 11rem)')
 
     //disable menu button
     document.getElementById('menu-button').style.display = "none"
@@ -50,7 +50,7 @@ function mouseOverContent() {
         const active_elem = document.getElementsByClassName('is-active-link')[0]
         const active_top = active_elem.offsetTop      //alternative would be: getBoundingClientRect().top //gets position respect to view port
         //console.log('top:'+active_elem + parseInt(active_top))
-        /*usually works*/
+        /*usually works; smooths seems disabled in safari*/
         side_nav.scrollTo({ top: Math.max(0, active_top - draw_height), 'behavior': 'smooth' })
     }
 }
