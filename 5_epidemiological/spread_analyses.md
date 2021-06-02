@@ -1038,7 +1038,7 @@ During August 10–September 11, 2020, we recruited 2,214 participants for a rep
 
 #### Summary Quashie
 **Trends of SARS-CoV-2 antibody prevalence in selected regions across Ghana**
-Peter Kojo Quashie, Joe Kimanthi Mutungi, Francis Dzabeng, Daniel Oduro-Mensah, Precious C. Opurum, Kesego Tapela, Aniefiok John Udoakang, WACCBIP COVID-19 Team, Ivy Asante, Lily Paemka, Frederick Kumi-Ansah, Osbourne Quaye, Emmanuella Amoako, Ralph Armah, Charlyne Kilba, Nana Afia Boateng, Michael Ofori, George B. Kyei, Yaw Bediako, Nicaise Ndam, James Abugri, Patrick Ansah, William K. Ampofo, Francisca Mutapi, Gordon A. Awandare
+Peter Kojo Quashie, Joe Kimanthi Mutungi, Francis Dzabeng, Daniel Oduro-Mensah, ..., Patrick Ansah, William K. Ampofo, Francisca Mutapi, Gordon A. Awandare
 medRxiv 2021.04.25.21256067; <https://doi.org/10.1101/2021.04.25.21256067>
 
 ##### Methods
