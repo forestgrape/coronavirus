@@ -14,10 +14,11 @@
 * [How to Determine Infection Locations of Coronaviruses](#how-to-determine-infection-locations-of-coronaviruses)
   * [Infection Locations and Immune Responses](#infection-locations-and-immune-responses)
 * [References and Resources](#references-and-resources)
-  * [Describing the Viral Load at the Different Infection Locations](#describing-the-viral-load-at-the-different-infection-locations)
-  * [Pathogenesis and Viral Load](#pathogenesis-and-viral-load)
-  * [Covid-19 Symptoms and Spread Patterns](#covid-19-symptoms-and-spread-patterns)
+  * [Viral Load at the Different Infection Locations for SARS-2](#viral-load-at-the-different-infection-locations-for-sars-2)
+  * [Pathogenesis and Viral Load for Coronaviruses](#pathogenesis-and-viral-load-for-coronaviruses)
+  * [Covid-19 Symptoms depending on Infection Pathway](#covid-19-symptoms-depending-on-infection-pathway)
   * [Expression Locations of ACE2](#expression-locations-of-ace2)
+  * [Disease Pattering for Influenza](#disease-pattering-for-influenza)
 * [Appendix](#appendix)
   * [On the Origin](#on-the-origin)
   * [ACE2 Receptor](#ace2-receptor)
@@ -153,70 +154,75 @@ LRI | trachea | cough  | irritation due to virions deposited| no ACE2 cells thus
 
 ## References and Resources
 
-* ##### Review Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses; S Su, Y Bi, G Gao et al
-    - Table 1: comparison of the infection caused by the HCoVs 229E, OC43, Sars-CoV, NL63, HKU1, MERS-CoV 
-    
+### Viral Load at the Different Infection Locations for SARS-2
 
-### Describing the Viral Load at the Different Infection Locations
+##### Yang
+**Laboratory Diagnosis and Monitoring the Viral Shedding of SARS-CoV-2 Infection**
+[Summary of Yang et al](../3_medical/diagnosis_and_viral_load.md#summary-yang) on the page [diagnosis_and_viral_load.md](../3_medical/diagnosis_and_viral_load.md)
 
-* ##### Yang
-  **Laboratory Diagnosis and Monitoring the Viral Shedding of SARS-CoV-2 Infection**
-  [Summary Yang](../3_medical/diagnosis_and_viral_load.md#summary-yang) on the page [diagnosis_and_viral_load.md](../3_medical/diagnosis_and_viral_load.md)
+##### Mazumder
+[Summarized Review Mazumder](../3_medical/diagnosis_and_viral_load.md#summarized-review-mazumder) on the page [diagnosis_and_viral_load.md](../3_medical/diagnosis_and_viral_load.md)
 
-* ##### Mazumder
-  [Summarized Review Mazumder](../3_medical/diagnosis_and_viral_load.md#summarized-review-mazumder) on the page [diagnosis_and_viral_load.md](../3_medical/diagnosis_and_viral_load.md)
-
-
-* ##### Woelfel
-  **Virological assessment of hospitalized patients with COVID-2019**
-  - Figure 2: Viral load kinetics in Swab, Sputum and Stool and seroconversions
+##### Woelfel
+**Virological assessment of hospitalized patients with COVID-2019**
+- Figure 2: Viral load kinetics in Swab, Sputum and Stool and seroconversions
 
 
-### Pathogenesis and Viral Load
-* ##### memish
-    Ziad A. Memish, Jaffar A. Al-Tawfiq, Hatem Q. Makhdoom, Abdullah Assiri, Raafat F. Alhakeem, Ali Albarrak, Sarah Alsubaie, Abdullah A. Al-Rabeeah, Waleed H. Hajomar, Raheela Hussain, Ali M. Kheyami, Abdullah Almutairi, Esam I. Azhar, Christian Drosten, Simon J. Watson, Paul Kellam, Matthew Cotten, Alimuddin Zumla, 
-    **Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome**
-    The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
+### Pathogenesis and Viral Load for Coronaviruses
 
-* ##### farcas
-    Farcas GA, Poutanen SM, Mazzulli T, Willey BM, Butany J,
-    Asa SL, Faure P, Akhavan P, Low DE, Kain KC: 
-    **Fatal severe acute respiratory syndrome is associated with multiorgan involvement by coronavirus.**
-    J Infect Dis 2005, 191:193-197
-    https://doi.org/10.1086/426870
+##### Su,Bi,Gao
+**Review Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses;** 
+S Su, Y Bi, G Gao et al
+- Table 1: comparison of the infection caused by the HCoVs 229E, OC43, Sars-CoV, NL63, HKU1, MERS-CoV 
+
+##### memish
+Ziad A. Memish, Jaffar A. Al-Tawfiq, Hatem Q. Makhdoom, Abdullah Assiri, Raafat F. Alhakeem, Ali Albarrak, Sarah Alsubaie, Abdullah A. Al-Rabeeah, Waleed H. Hajomar, Raheela Hussain, Ali M. Kheyami, Abdullah Almutairi, Esam I. Azhar, Christian Drosten, Simon J. Watson, Paul Kellam, Matthew Cotten, Alimuddin Zumla, 
+**Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome**
+The Journal of Infectious Diseases, Volume 210, Issue 10, 15 November 2014, Pages 1590–1594, https://doi.org/10.1093/infdis/jiu292
+
+##### farcas
+Farcas GA, Poutanen SM, Mazzulli T, Willey BM, Butany J,
+Asa SL, Faure P, Akhavan P, Low DE, Kain KC: 
+**Fatal severe acute respiratory syndrome is associated with multiorgan involvement by coronavirus.**
+J Infect Dis 2005, 191:193-197
+https://doi.org/10.1086/426870
 
 
-### Covid-19 Symptoms and Spread Patterns
+### Covid-19 Symptoms depending on Infection Pathway
 
-* ##### Streeck
-  **Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
-  [Summarized on the Spread Analyses Page](../5_epidemiological/spread_analyses.md#summary-streeck)
+##### Streeck
+**Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
+[Summarized on the Spread Analyses Page](../5_epidemiological/spread_analyses.md#summary-streeck)
 
 ### Expression Locations of ACE2
 
-* ##### timens
-	I Hamming, W Timens,MLC Bulthuis, AT Lely, GJ Navis and H van Goor
-	**Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis**
-	Journal of Pathology
-	J Pathol 2004; 203: 631–637
-	Published online in Wiley InterScience
-	https://doi.org/10.1002/path.1570    
+##### timens
+I Hamming, W Timens,MLC Bulthuis, AT Lely, GJ Navis and H van Goor
+**Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis**
+Journal of Pathology
+J Pathol 2004; 203: 631–637
+Published online in Wiley InterScience
+https://doi.org/10.1002/path.1570    
         
-* ##### mccray05
-    Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray
-    **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
-    Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
+##### mccray05
+Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray
+**ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
+Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
     
-* ##### li
-    Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., & Chen, Q. (2020). 
-    **High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.** 
-    International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
+##### li
+Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., & Chen, Q. (2020). 
+**High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.** 
+International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
 
 
-* ##### soilleux,poehlmann
-    Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
-    **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
-    PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
+##### soilleux,poehlmann
+Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
+**Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
+PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
+
+
+### Disease Pattering for Influenza
+
 
 
 ## Appendix
