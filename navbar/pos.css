@@ -1,4 +1,3 @@
-#side-nav { display: none;}
 
 #central-content {
     padding: 0.2rem 1rem;
@@ -9,11 +8,10 @@
     position: fixed;
 }
 
-@media screen and (min-width: 600px) {
-    #side-nav {display: block;}
-    #central-content { margin-left:calc(8% + 11rem)}
-    #menu-button {display: none}
-}
+
+#side-nav {display: block;}
+#central-content { margin-left:calc(8% + 11rem)}
+#menu-button {display: none}
 
 
 #side-nav {
