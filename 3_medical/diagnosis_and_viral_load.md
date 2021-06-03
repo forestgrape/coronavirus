@@ -216,8 +216,8 @@ The saliva is secreted from different glands in the mouth. How much each of thes
 
 
 ## Diagnosis and Viral Load at Different Locations
-* For accessibility reasons investigating the upper respiratory is preferred. The viruses cause few (detectable) tissue damage. Sensitive virus detection methods such as PCR test/Antigen tests are able to detect viruses in the URT e.g. in nose mucus or saliva.
-* The largest number of susceptible cells to SARS-CoV-2 are in the lower respiratory tract. 
+* *Upper Respiratory Tract:* For accessibility reasons investigating the upper respiratory is preferred. The viruses cause few (detectable) tissue damage. Sensitive virus detection methods such as PCR test/Antigen tests are able to detect viruses in the URT e.g. in nose mucus or saliva.
+* *Lower Respiratory Tract:* The largest number of susceptible cells to SARS-CoV-2 are in the lower respiratory tract. 
   * Tissue damage can be observed there by imaging (CT/Xray).
   * The viral load can be estimated by analyzing sputum, endotracheal aspirate or bronchoalveolar lavage. To some extent back of throat early morning saliva works too (since the lower respiratory tract fluids are cleared via the laryngopharynx towards the stomach. In lying positions these fluids can flow up to the back of the throat).
 
