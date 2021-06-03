@@ -16,7 +16,7 @@ This section overviews the content. The [full content section](#content) lists t
   * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
   * [Content](#content). Content overview and twittering summaries.
   * [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
-<!--formatting like this to number introduction with 1. && ensure ok presentation -->
+<!--formatting like this to number introduction with 1. & ensure ok presentation -->
 
 1. [Introduction](#introductory-topics)
   * [Public Suggestions and Tips](./1_introduction/suggestions.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
@@ -40,6 +40,9 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ## Recent Updates
+- 28.5.- 3.6. 
+  - Formulations and clarifications across the page. 
+  - Chapter [Life on Earth](2_biological/life-forms.md) in rework.
 - 25.5. [Spread Analysis for Africa](./5_epidemiological/spread_analyses.md#africa) in online work.
 - 23.5. Controlling Page: Notes about the [Seasonability of Transmission](./7_social/controlling.md#seasonality) and [Looking Ahead](./7_social/controlling.md#looking-ahead) in online work.
 - 23.5. Added note that English wikipedia, encyclopedia britannica and the oxford dictionary are frequently consulted but not specially cited (currently) ( -> Comment on References in [Notes on Reading](#notes-on-reading)).
