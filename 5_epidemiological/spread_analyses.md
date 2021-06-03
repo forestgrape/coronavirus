@@ -782,7 +782,7 @@ The influence of 4 socioeconomic factors (Living space per person, Median Income
 
 ##### Methods Details
 * Sequence Information: "In total 247 cases within the time period from the 25th of February until the 22nd of April were included in this analysis. For all data a seven day moving window average was taken to account for reporting bias on weekends, and cumulative numbers of infected cases (compartment I) were calculated."
-* Simulation: "SEIR-model. Similar to previous work [20, 52, 53] the spread of the epidemic within the city of Basel was described using a compartmental two-arm SEIR model including both sequenced, and unsequencend/unreported cases."
+* Simulation: "SEIR-model. Similar to previous work [20, 52, 53] the spread of the epidemic within the city of Basel was described using a compartmental two-arm SEIR model including both sequenced, and un-sequenced/unreported cases."
 * Serology: "We determined SARS-CoV-2 antibody responses in a total of 2,019 serum samples collected from individuals between 25th of February and 22nd of May, 2020, to account for sero-conversion. The cohorts included healthy blood donors and patients from the University Hospital Basel with residency in Basel-City, and Viollier AG Zurich, a lab medicine provider contracted for the SARS-CoV-2 PCR testing."
 
 ##### Results
