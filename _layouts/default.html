@@ -16,7 +16,7 @@
 <body onscroll="onContentMove()">
 
 
-  <nav id="side-nav" onmouseover="mouseOverSideNav()" >
+  <nav id="side-nav" onmouseover="showSideNavScrollbar()" >
     <span class="toc-list" style="font-size: .8rem; cursor:pointer; padding-left: 1em; padding-right: 1em;" onclick="hideNav()">&#10006</span>
     <hr>
     <a class="toc-list" href="{{site.baseurl}}/index.html#top" style="color:white">Home</a>
@@ -29,7 +29,7 @@
   </nav>
 
 
-  <section id='central-content' class="main-content">
+  <section id='central-content' class="main-content" onmouseover="hideSideNavScrollbar()">
     <!--on this page: header and footer are only visible when on top respectively bottom-->
 
     <div id="menu-button" style="font-size:2.5rem;cursor:pointer"
