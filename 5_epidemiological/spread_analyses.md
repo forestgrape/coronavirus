@@ -60,15 +60,15 @@
 
 
 ## Short Summary
-Methods: Situations where high rates of Covid-19 transmission are observed or *not* observed are described and analysed.
+Methods: The spread behavior of Covid is analysed in geographical and social settings.
 
 Observations: 
-* High transmission rates of severe Covid are observed in situations where much air is exchanged between people. Much air is exchanged when spending much time in shared indoor rooms without good ventilation, in crowded confined settings. Deep breathing (High altitude or activities such as sports, singing) increases the air inhaled and thereby greatly increases the amount of particles deposited to the lungs. 
+* High transmission rates of severe Covid are nearly only observed in situations where much air is exchanged between people. Much air is exchanged when spending much time in shared indoor rooms without good ventilation, in crowded confined settings. Deep breathing (High altitude or activities such as sports, singing) increases the air inhaled and thereby greatly increases the amount of particles deposited to the lungs. 
 * Most severe cases and high fatality rates are observed in dry air. The indoor air is dry when heating, air-conditioning or when the outdoor air is dry.
 * High fatality rates are associated to unhealthy lifestyles (e.g. obesity and polluted air).
 
 Findings:
-* Covid transmits mainly through Breathed Air but not Trough Droplets or Fomites. Severe Covid transmits mainly through dry air.
+* Covid transmits mainly through breathed air but not trough droplets or fomites. Severe Covid transmits mainly through dry air.
 * The individual differences regarding susceptibility and infectiousness are large and the risk factors for severe Covid (except high age) also tend to increase transmissions. Children can catch mild infections but are much less infectious compared to adults.
 
 
