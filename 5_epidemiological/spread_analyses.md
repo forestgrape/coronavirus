@@ -776,7 +776,7 @@ Sarah C. Brüningk, Juliane Klatt, Madlen Stange, ..., Adrian Egli
 medRxiv 2020.12.15.20248130; doi: <https://doi.org/10.1101/2020.12.15.20248130>
 
 ##### Methods
-The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed with a spread simulation (SEIR-model) constructed  from cases, sequenced cases and serology. In a second step the overall spread of Covid and the ICU occupancy is simulated when certain subgroups are given a reduced transmissibility or increased resistance to severe Covid.
+The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed with a spread simulation model constructed  from cases, sequenced cases and serology. In a second step the overall spread of Covid and the ICU occupancy is simulated when certain subgroups are given a reduced transmissibility or increased resistance to severe Covid.
 
 >  The term vaccinated is used in the paper but since it is unknown (as of 27.1.2021) whether the available vaccines produce a useful immunity regarding transmission and there are other methods (e.g. testing, masks, natural immunity) to reduce transmissibility the term reduced transmissibility is used here.
 
