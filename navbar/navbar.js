@@ -1,5 +1,5 @@
 function hideNav() {
-    //hide side-nav
+    //console.log("hide side-nav")
     document.getElementById('side-nav').style.display = "none"
 
     //expand content
@@ -35,7 +35,10 @@ function showSideNavScrollbar() {
 }
 
 function hideSideNavScrollbar() {
-    side_nav.setAttribute("style", "overflow-y:hidden")
+    //without if sets display=block
+    if (side_nav.style.display != "none") {
+        side_nav.setAttribute("style", "overflow-y:hidden")
+    }
 }
 
 function onContentMove() {
@@ -43,7 +46,7 @@ function onContentMove() {
     * scrolls the nav element if necessary
     * hide the nav scroll bar //would be only necessary on desktop on mobile usually auto hidden
     */
-    
+
     if (side_nav.style.display != "none") {
         const lowest_placement = parseInt(.8 * side_nav.offsetHeight)
         const active_elem = document.getElementsByClassName('is-active-link')[0]
