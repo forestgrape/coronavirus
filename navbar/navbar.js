@@ -35,16 +35,17 @@ function mouseOverSideNav() {
 
 }
 
-function mouseOverContent() {
+function onContentMove() {
     /* 
     * scrolls the nav element if necessary
     * hide the nav scroll bar //would be only necessary on desktop on mobile usually auto hidden
     */
     const side_nav = document.getElementById('side-nav')
+    console.log('content move')
     
     if (side_nav.style.display != "none") {
         const lowest_placement = parseInt(.8 * side_nav.offsetHeight)
-        //console.log('over content')
+        
 
         side_nav.setAttribute("style", "overflow-y:hidden")
         const active_elem = document.getElementsByClassName('is-active-link')[0]
