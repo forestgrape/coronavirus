@@ -8,14 +8,6 @@
     position: fixed;
 }
 
-
-@media screen {
-    #side-nav {display: block;}
-    #central-content { margin-left:calc(9% + 9rem)}
-    #menu-button {display: none}
-}
-
-
 #side-nav {
     height: 100%;
     position: fixed;
@@ -30,3 +22,8 @@
     padding-left:0.1rem;
 }
 
+@media screen {
+    #side-nav {display: block;}
+    #central-content { margin-left:calc(9% + 9rem)}
+    #menu-button {display: none}
+}
