@@ -27,15 +27,5 @@ nav {
     color:azure;
 }
 
-@media (max-width: 600px){
-  nav {font-size: 0.7rem;}
-}
-
-
-/*
-blockquote {
-  background-color: rgba(193, 217, 224, 0.178);
-}
-*/
 
 
