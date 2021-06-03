@@ -776,7 +776,7 @@ Sarah C. Brüningk, Juliane Klatt, Madlen Stange, ..., Adrian Egli
 medRxiv 2020.12.15.20248130; doi: <https://doi.org/10.1101/2020.12.15.20248130>
 
 ##### Methods
-The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed based on sequence data and a computer simulation. In a second step, the effect of reduced transmissibility of population subgroups on the spread of Covid is simulated. 
+The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed with a spread simulation (SEIR-model) constructed  from cases, sequenced cases and serology. In a second step the overall spread of Covid and the ICU occupancy is simulated when certain subgroups are given a reduced transmissibility or increased resistance to severe Covid.
 
 >  The term vaccinated is used in the paper but since it is unknown (as of 27.1.2021) whether the available vaccines produce a useful immunity regarding transmission and there are other methods (e.g. testing, masks, natural immunity) to reduce transmissibility the term reduced transmissibility is used here.
 
@@ -804,9 +804,9 @@ Science 362 (6410), 75-79.
 <https://doi.org/10.1126/science.aat6030>
 
 ##### Methods
-* " However, the role of city size and structure in shaping transmission patterns of seasonal influenza is not well understood. We address this here using 6 years (2002 to 2008) of data on weekly incidence of influenza- like illness (ILI) in 603 three-digit postal (ZIP) codes across the United States, assembled from medical claims data (34)."
+* "However, the role of city size and structure in shaping transmission patterns of seasonal influenza is not well understood. We address this here using 6 years (2002 to 2008) of data on weekly incidence of influenza- like illness (ILI) in 603 three-digit postal (ZIP) codes across the United States, assembled from medical claims data (34)."
 ##### Results
-* "We find that differences in nj among cities persist across years—some cities have consistently more intense epidemics than others, year after year. "
+* "We find that differences in v-j among cities persist across years—some cities have consistently more intense epidemics than others, year after year. " //v-j is defined as the normalized inverse of the Shannon entropy of incidence distribution in  a given city and year // higher v-j means 'peakier' influenza waves
 * "Cities with higher mean intensity tend to be located in the east, have smaller population sizes, and have higher-amplitude seasonal fluctuations in specific humidity." (Fig 1 D-F)
 * "Increasing base transmission potential can decrease epidemic intensity in a seasonally forced compartmental epidemic model." (Fig 2)
 * Population size and crowding increase the base transmission potential. (Fig 3 F,G)
