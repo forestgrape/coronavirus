@@ -43,14 +43,14 @@ function mouseOverContent() {
     const side_nav = document.getElementById('side-nav')
     
     if (side_nav.style.display != "none") {
-        const draw_height = side_nav.offsetHeight - 60
+        const lowest_placement = parseInt(.8 * side_nav.offsetHeight)
         //console.log('over content')
 
         side_nav.setAttribute("style", "overflow-y:hidden")
         const active_elem = document.getElementsByClassName('is-active-link')[0]
-        const active_top = active_elem.offsetTop      //alternative would be: getBoundingClientRect().top //gets position respect to view port
-        //console.log('top:'+active_elem + parseInt(active_top))
+        const loc_of_active = active_elem.offsetTop      //alternative would be: getBoundingClientRect().top //gets position respect to view port
+        //console.log('top:'+active_elem + parseInt(loc_of_active))
         /*usually works; smooths seems disabled in safari*/
-        side_nav.scrollTo({ top: Math.max(0, active_top - draw_height), 'behavior': 'smooth' })
+        side_nav.scrollTo({ top: Math.max(0, loc_of_active - lowest_placement), 'behavior': 'smooth' })
     }
 }
