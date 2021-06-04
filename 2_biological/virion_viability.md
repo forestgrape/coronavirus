@@ -30,9 +30,9 @@
   * [Temperature](#temperature)
   * [Virion Properties](#virion-properties)
 * [Theoretical Principles and Decay Mechanisms](#theoretical-principles-and-decay-mechanisms)
-  * [Radiation](#radiation-1)
-  * [Chemicals and Biochemicals](#chemicals-and-biochemicals-1)
-  * [Molecular Movement](#molecular-movement)
+  * [Mechanism of Radiation](#mechanism-of-radiation)
+  * [Mechanism of Chemicals and Biochemicals](#mechanism-of-chemicals-and-biochemicals)
+  * [Mechanism of Temperature](#mechanism-of-temperature)
 * [Decay  by Building Blocks](#decay--by-building-blocks)
   * [RNA Stability](#rna-stability)
   * [Protein Decay](#protein-decay)
@@ -417,11 +417,10 @@ pH values alter the state of biochemicals and the virions. These effects in turn
 
 
 ### Concentration Changes
-Concentration changes of [biochemicals](#biochemicals) in the environment (which can e.g. result from condensation or evaporation).
+Concentration changes in the environment can alter the decay rate. Concentration changes can e.g. result from condensation or evaporation.
 
 #### Concentration Increase
-Biochemicals can cause increased decay of the spike proteins or the lipid envelope and at low levels of 
-Increased concentration increases the decay through [biochemicals](#decay-by-biochemicals) if the decay is concentration dependent. E.g. in experiment simulating exhaled respiratory droplets, the fastest decay is observed just before the droplets dry out (which is around a relative humidity of 30 to 40%). Virions decay fastest since the concentration of the chemicals is highest then (Section [Decay in ambient Air](#decay-rates-in-ambient-air-at-different-humidities)).
+Increased concentrations usually increase the decay through [chemicals and biochemicals](#chemicals-and-biochemicals). E.g. in experiment simulating exhaled respiratory droplets, the fastest decay is observed just before the droplets dry out (which is around a relative humidity of 30 to 40%) since the concentration of the chemicals peaks (Section [Decay in ambient Air](#decay-rates-in-ambient-air-at-different-humidities)).
 
 #### Concentration Decrease
 Very low concentrations of minerals and proteins ( distilled water or in condensation situations) result in an increased decay rate. Possible effects of a low levels of biochemicals in the water:
@@ -474,16 +473,16 @@ The virion properties can be constant or vary both for strains or throughout lif
 
 At the molecular level the decay mechanisms are the similar for all life forms since the fundamental build blocks - organic molecules - are common.
 
-### Radiation
+### Mechanism of Radiation
 * Effects of high energy radiation can change molecule bonds.
 * Increase the molecular movement.
 
-### Chemicals and Biochemicals
+### Mechanism of Chemicals and Biochemicals
 * Aggressive biochemicals can interfere with the electrons and cause rearrangement of the bindings i.e. a chemical reaction.
 * Biochemicals can cause structural changes in organic molecules.
 * Biochemicals can stick to the virions e.g. antibodies do so. With molecules adhesion on the outside the virions are 'dirty' and can loose viability.
 
-### Molecular Movement
+### Mechanism of Temperature
 At the molecular level everything moves and jitters around. The average kinetic energy of this movement and jittering is the temperature.
 * The jittering and movement can cause strains on the bindings (mostly intramolecular bonds).
 * Movement causes bumps. 
