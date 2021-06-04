@@ -76,15 +76,16 @@ Findings:
 ## Summary
 
 ### Summary Findings regarding Transmission Paths
-* *Exchanged Air is associated to Covid Spread:* Covid-19 transmissions correlate to the amount of air people breadth from each other. The amount of exchanged air is high:
+* *Exchanged Air is associated to the Spread of Covid:* Covid-19 transmissions correlate to the amount of air people breadth from each other. The amount of exchanged air is high:
    * Confined air: Indoors with bad ventilation (often either heated or air-conditioned) 
    * Increased inhaling 
      * being at low air pressure (either high altitude or airplane) 
      * vocal activities such as singing or shouting
      * strains e.g. sports. Already going up a staircase can be enough when: the oxygen uptake is low (e.g. arteriosclerosis) or unathletic or going up fast.
 * *Dry Indoor Air is associated to the Spread of severe Covid:* Nearly all waves of severe Covid occur in settings with dry air: heated, ACs or dry outdoor air. Likely since the lung deposition rate is increased when the exhaled virions dry out. Also the virions have a higher viability in dry air and the immune system clearance of the respiratory tract is reduced in dry air.
-* *Droplet Transmission is likely Not important for the spread of symptomatic Covid:* In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 is not noticed.
-* *Fomite Transmission is likely Not important for the spread of symptomatic Covid:* In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmissions of symptomatic Covid neither at the population level (regions where water to wash hands is scarce) nor through contact-tracing (e.g. on camping grounds, take away food).
+* *Droplet Transmission is Not important for the Spread of severe Covid:* In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 is not noticed.
+* *Contact Transmission is possibly associated to the Spread of mild Covid but not of severe Covid* [arguments in work]
+* *Fomite Transmission is Not important for the Spread of Covid:* In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmission of Covid neither at the population level (regions where water to wash hands is scarce) nor through contact-tracing (e.g. on camping grounds, take away food).
   
 The observations strongly indicate a generalized aerosol transmission model for symptomatic Covid: either droplet or dry form aerosol ([Summary Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)). Since severe cases are mainly observed in settings with dry indoor air, indicates dry form transmission need a special focus. Droplet or contact transmission may yield asymptomatic infections but don't cause symptomatic or severe Covid.
 
