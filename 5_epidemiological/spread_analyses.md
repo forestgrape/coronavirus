@@ -90,11 +90,11 @@ The observations strongly indicate a generalized aerosol transmission model for 
 
 Regarding prevention measures relevant is, that the transmission of symptomatic Covid correlates to the amount of air exchanged. The exact transmission mechanism provides additional insights and helps fine-tuning but mostly it can be abstracted away. One of the most important prevention measure is Ventilation, especially in warm environments.
 
+
 ### Summary Findings Population Characteristics
 * Population groups with an adequate and in form immune system in the lungs mostly get mild diseases and seem to be less infectious. These includes young people and especially children for whom Covid is no more or even less dangerous than common cold viruses or influenza. 
 * On the other hand populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement and/or severe obesity tend to have more Covid cases and higher fatality rates.
-
-
+  
 
 ### Summary Geographical Observations and Analyses
 
@@ -177,6 +177,7 @@ Situations with many severe Covid cases:
 
 Remark: Protection measures help to reduce shared air, which is reduced by ventilation or filtered to some extent by masks. E.g. in public transport with good ventilation and good fitting masks the infection risk is likely low.
 
+
 ### Dry Indoor Air is associated to the Spread of severe Covid
 
 #### Heated, ACs, Dry Outdoors => Dry Indoor Air
@@ -205,27 +206,25 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 * ##### Smoking
   _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
 
-  > Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be attributed (possibly toxic) environment changes in the lung caused by smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
-
+  > Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be caused by (possibly toxic) environment changes in the lung when smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
 
 #### Overweight
-> in work
+* *Observations:*
+    Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
 
-##### Observations
-Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
+    Selected countries with high rates of obesity (in decreasing order, source: obesity.procon.org):
+    US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
 
-High rates of obesity (in decreasing order, source: obesity.procon.org):
-US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
+    Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
 
-Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
-
-##### Interpretation
-> One reason is that obesity increases the risk for severe Covid. But the increases seems to occur also in people which are no obese [to check and cite/provide evidence].
+* *Possible Explanation:*
+    * One reason is that obesity increases the risk for severe Covid. But the case counts seem to increase overall i.e. also in people which are not obese [to check and cite/provide evidence]. 
+    * It is observed that the number of exhaled particles is correlated to the BMI, so obesity may increase transmission.
 
 
 
 ## Geographical Observations and Analyses
-> entire section in work and incomplete
+> entire section in work and incomplete, May/June 2021
 
 ### Methods
 For regions across the world the following is analysed:
@@ -280,7 +279,7 @@ For regions across the world the following is analysed:
 * *Mainly Asymptomatic* The wast majority of cases are unnoticed and mild: often those with positive seroprevalence experienced didn't experience more disease symptoms than those with negative seroprevalence (which is different from Europe/Americas or South Africa).
 * *Very low fatality rates* The death rate per million inhabitants is very low. The high infection rates combined with the few number of deaths yield very low infection fatality rates, mostly below 0.01%.
 
-> Remark: The seroprevalence test kits have sensitivity/specificity tradeoffs and when designed and calibrated in one region, they may not work as well in an other region/setting. The cut off values can be adjusted to correct the specificity but influencing the sensitivity: So those with negative seroprevalence may still have been infected or those with positive seroprevalence may cross-react with antibodies targeted at non-SARS-2 antigens.
+> Interpreting Seroprevalences: The seroprevalence test kits have sensitivity/specificity tradeoffs and when designed and calibrated in one region, they may not work as well in an other region/setting. The cut off values can be adjusted to correct the specificity but influencing the sensitivity: So those with negative seroprevalence may still have been infected or those with positive seroprevalence may cross-react with antibodies targeted at non-SARS-2 antigens.
 
 #### Literature on the Epidemiology of SARS-2 in tropical Africa
 * [Sagara et al](#summary-sagara) observed measured the seroprevalence in July and December in rural and urban regions of Mali:
@@ -308,7 +307,6 @@ The spread patterns are in-between the observations from Europe/North America an
 
 
 ### India
-> in work
 
 #### Northern States
 ##### Spring 2021
@@ -322,9 +320,9 @@ The spread patterns are in-between the observations from Europe/North America an
 * Observations: High number of severe cases in the tourism regions in the South such as Goa or Puducherry.  
 * Possible Causes: These regions have warm and humid climate in the Spring often due to South winds. Due to tourism air-conditioning is likely widespread (tourism brings culture, technology and money).
 
-> Tourism and travelling play an important role in culture and technological exchange across the world. Historic examples are numerous:
-> * Marco Polo brought back many things from his journey along the silk road.
-> * The first trams in Switzerland were not in the urban centres but up in mountainous and rural Engadin brought by British tourists.
+  > Tourism and travelling play an important role in culture and technological exchange across the world. Historic examples are numerous:
+  > * Marco Polo brought back many things from his journey along the silk road.
+  > * The first trams in Switzerland were not in the urban centres but up in mountainous and rural Engadin brought by British tourists [to confirm].
 
 
 ### Nepal
@@ -382,7 +380,7 @@ Infectious disease wave through the clusters until there's no more ground to nou
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities (Observation and simulations by [Rader,Scarpino et al](#summary-rader,scarpino)).
 
 > I also except that in rural settings: 
-> * at the peak incidence a large share of the population is infected at the same time and the wave passes through the entire community in one go. 
+> * at the peak incidence a large share of the population is infected at the same time and the wave passes through the entire community in one go (e.g. observed by [Dalziel et al](#summary-dalziel) for influenza).
 > * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
 
 
@@ -415,9 +413,6 @@ On the country level Covid cases and deaths are positively correlated to income.
 ---
 
 ## Analyses of Historical Transmissions
-
-> written March 2020, in rework May 2021
-
 * The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outdoor air temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The zoonoses of Sars-Cov-1 also are linked to a live animal market or civets kept inside restaurants.
 * The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS, discovered in 2012, has been infecting humans at least for several decades, which is known from analyzing backup samples [to cite]).
 
@@ -433,8 +428,8 @@ Spread situations and patterns of Covid-19 both observed and described in litera
 > in rework May 21
 
 In settings without prior SARS experience the infection rate in health care workers is very high:
-* 2003 in South East Asia  (see Introduction [Mizumoto](#mizumoto))
-* 2019/2020 in Europe - Italy especially [LE](#le)
+* 2003 in South East Asia  (Introduction [Mizumoto](#mizumoto))
+* 2019/2020 in Europe - Italy especially ([Lancet Editorial](#lancet-editorial))
 	
 Possible Explanation: The medical staff is used to protect against fomites and droplet transmission and to some extent versus aerosol transmission and know to handle them. However, they are not yet used to the new spreading pattern. Consequently in all rooms of the building wearing a mask likely is key in reducing the infection rates (many cities in China reported few infections in hospitals [citations to be added]).
 
@@ -885,7 +880,7 @@ Seroprevalence in six slum and non-slum communities across three wards (one each
 * "Combined with reported COVID-19 cases and numbers of death in sampled wards, our findings suggest a high asymptomatic spread of the infection and an infection fatality rate of 0·076% in slums and 0·263% in non-slums."
 * In slums at age>60 the seroprevalence was highest with about 60%. While in non-slums it was lowest for those over 60, with about 12% (Table e5) 
 
-> in slums likely is not possible for the older to avoid infection and they may also spend more time indoor.
+  > In slums likely is not possible for the older to avoid infection and they may also spend more time indoor.
 
 
 ### References SARS-2 in Eastern Africa
@@ -999,11 +994,11 @@ The Lancet. Global health, 9(5), e588–e589. <https://doi.org/10.1016/S2214-109
   * Healthcare staff
 * *Location:* Kinshasa (capital of the Democratic Republic of Congo)
 ##### Results 
-* "202 samples (36%) were seropositive using the EUROIMMUN IgG, 171 (30%) using the Quickzen IgM and 72 (13%) using the Quickzen IgG. Only 46 (8%) of 562 samples were positive by all three tests."
-* "Two of eight participants who had previously tested positive by SARS-CoV-2 PCR were seronegative by all three commercial serology tests."
-* "89 (16%) samples were positive for malaria by microscopy."
+1. "202 samples (36%) were seropositive using the EUROIMMUN IgG, 171 (30%) using the Quickzen IgM and 72 (13%) using the Quickzen IgG. Only 46 (8%) of 562 samples were positive by all three tests."
+2. "Two of eight participants who had previously tested positive by SARS-CoV-2 PCR were seronegative by all three commercial serology tests."
+3. "89 (16%) samples were positive for malaria by microscopy."
 
-> The seroprevalence is likely 40% or more since the PCR testees suggest a low sensitivity of the immune assays.
+> The seroprevalence (1.) is likely over 40% since low seroprevalence of those with a positive PCR test (2.) suggest a low sensitivity of the immune assays.
   
 ##### Method Details
 * *Seroprevalence:* "These three commercial assays were the EUROIMMUN IgG ELISA (EUROIMMUN, Lübeck, Germany)—a widely used assay in Europe, with sensitivity of 94·6% and specificity of 99·8%—and Quickzen IgG and IgM (Zentech, Belgium), a lateral flow test that detects IgG and IgM antibodies on a single device with a specificity of 100% and sensitivity of 68·8% for IgM and 49·2% for IgG.1"
@@ -1179,8 +1174,8 @@ Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV
 
 ### Epidemiological Patterns
     
-##### le
-The Lancet Editoral
+##### Lancet Editorial
+The Lancet Editorial
 **COVID-19: protecting health-care workers**
 www.thelancet.com Vol 395 March 21, 2020 <https://doi.org/10.1016/S0140-6736(20)30644-9>
 
