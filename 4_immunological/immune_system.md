@@ -2,7 +2,7 @@
 
 # Sketching the Immune System
 
-> **Major rework in progress, early June 2021**
+> **Major rework in progress, June 2021**
 > **in work, incomplete and to be checked**
 
 * [Summary](#summary)
@@ -32,8 +32,8 @@
 
 "Selected topics of the immune system with a focus on protection versus coronaviruses."
 
-###### Immune System
-> The *immune system* denotes organs and processes that survey the metabolism & balance of an organism and if necessary remove or prevent entry of unwanted things. 
+> ###### Immune System
+> The *immune system* denotes organs and processes that ensure correct functioning of a life form. Which involves controlling interactions both within life forms and with the environment. Things disrupting the balance are stopped interfering, removed or kept out.
 
 Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host from interfering with their metabolism. It's a two way interaction: The host immune system tries to stop the virus metabolism and the virus immune system in turn tries the stop the host immune system.
 
