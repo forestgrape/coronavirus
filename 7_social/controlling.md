@@ -413,6 +413,9 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 
 ### Corona Conform Schooling
+
+> mostly written in October 2020 during a Corona wave peak in Europe. As of 6.6. with risk groups vaccinated in Europe protections can be relaxed. Children get only mild Covid anyways. Vaccination for children is strongly discouraged here, the mRNA vaccines are magnitudes more risky for children than Covid.
+
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
 * _Evidence:_  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](../5_epidemiological/spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
   > The early-on update ([Updates 16.10](../1_introduction/update_history.md)) was too early, I didn't read and lookup the sources carefully enough. 
@@ -424,7 +427,8 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * However:
     * Even with a low R value children can contribute to the overall spread.
     * Many people in the same room and classrooms are not always ventilated well.
-    * Many face-to-face talking situations with many different people. 
+    * ##### Close Talking
+      Many face-to-face talking situations with many different people. 
       > Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with particulates produced when speaking. 
       > Comment 29.5.21: The SARS-2 spread is different from influenza spread which infect the vocal folds.
     * Children all come from different families and inside families protection is not easy but doable if the infection known (children are not super-spreaders).
@@ -433,7 +437,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
   * In some schools mask wearing is common, negative comments are few
   * Project based and individual learning are common teaching approaches and known to work. 
 * Comment: Children [spread Covid-19](../5_epidemiological/spread_analyses.md) less since they produce less aerosol and have better immune responses. So in areas which struggle with severe Covid situations, instead of complete closures, transmission can be efficiently reduced or even prevented by:
-  * Masks when face-to-face talking e.g. in breaks
+  * Masks when face-to-face talking e.g. in breaks //6.6. may not be necessary for Covid see comment [close talking above](#close-talking)
   * Fewer Exams, Projects can be graded
     * Exams can cause stress. With stress, coronaviruses get forgotten both by the immune system and the behavior.  
     * With common cold like symptoms, one  usually doesn't skip an exam. In Covid times it is important to stay home. On the other hand, skipping an exam on purpose is also easy, some respiratory symptom will pop up. 
