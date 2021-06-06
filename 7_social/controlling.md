@@ -414,7 +414,9 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 ### Corona Conform Schooling
 
-> mostly written in October 2020 during a Corona wave peak in Europe. As of 6.6. with risk groups vaccinated in Europe protections can be relaxed. Children get only mild Covid anyways. Vaccination for children is strongly discouraged here, the mRNA vaccines are magnitudes more risky for children than Covid.
+> mostly written in October 2020 during a Corona wave peak in Europe.
+ 
+> As of 6.6. with risk groups vaccinated in Europe protections can be relaxed. Children get only mild Covid anyways. Vaccination for children is strongly discouraged here, the mRNA vaccines are magnitudes more risky for children than Covid.
 
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
 * _Evidence:_  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](../5_epidemiological/spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
