@@ -190,13 +190,13 @@ https://doi.org/10.1086/426870
 
 ### Covid-19 Symptoms depending on Infection Pathway
 
-##### Streeck
+#### Streeck
 **Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany**
 [Summarized on the Spread Analyses Page](../5_epidemiological/spread_analyses.md#summary-streeck)
 
 ### Expression Locations of ACE2
 
-##### timens
+#### timens
 I Hamming, W Timens,MLC Bulthuis, AT Lely, GJ Navis and H van Goor
 **Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis**
 Journal of Pathology
@@ -204,24 +204,31 @@ J Pathol 2004; 203: 631–637
 Published online in Wiley InterScience
 https://doi.org/10.1002/path.1570    
         
-##### mccray05
+#### Jia 2005
 Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray
 **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
-Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; https://doi.org/10.1128/JVI.79.23.14614-14621.2005
-    
-##### li
+Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; <https://doi.org/10.1128/JVI.79.23.14614-14621.2005>
+[Summary Jia 2005](../2_biological/coronavirus.md#summary-jia-2005) on the coronavirus page.
+
+
+#### li
 Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., & Chen, Q. (2020). 
 **High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.** 
 International journal of oral science, 12(1), 8. https://doi.org/10.1038/s41368-020-0074-x
 
 
-##### soilleux,poehlmann
-Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, et al. (2012) 
+### Disease Pattering for Influenza
+
+#### Summary Bertram 2012
+Bertram S, Heurich A, Lavender H, Gierer S, Danisch S, ..., Soilleux,Poehlmann (2012) 
 **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.**
 PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
+##### Findings
+* Table 1 in the paper gives a concise summary of the availability of the receptors and proteases across the respiratory tract.
+* "Here, we show that both HAT and TMPRSS2 are coexpressed with 2,6-linked sialic acids, the major receptor determinant of human influenza viruses, throughout the human respiratory tract. Similarly, coexpression of ACE2, the SARS-coronavirus receptor, and TMPRSS2 was frequently found in the upper and lower aerodigestive tract, with the exception of the vocal folds, epiglottis and trachea. Finally, activation of influenza virus was conserved between human, avian and porcine TMPRSS2, suggesting that this protease might activate influenza virus in reservoir-, intermediate- and human hosts."
 
 
-### Disease Pattering for Influenza
+
 
 
 
@@ -241,7 +248,7 @@ PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
 #### ACE2 Receptor Detection
 There are two common methods to measure tissue distribution of proteins:
 * ##### Antibody Staining
-    Proteins on cell surfaces can be visualized by using marked antibodies. Several groups have analyzed tissues with ACE2 antibodies: [Timens](#timens), [McCray](#mccray05), [soilleux, poehlmann](#soilleux,poehlmann)
+    Proteins on cell surfaces can be visualized by using marked antibodies. Several groups have analyzed tissues with ACE2 antibodies: [Timens](#timens), [McCray](#jia-2005), [soilleux, poehlmann](#summary-Bertram-2012)
 * ##### Measure mRNA
     Measure ACE2 [mRNA](#mrna) expression. Necessary condition for a cell to produce a protein. However not sufficient for ACE2 on apical cell surface [to confirm]. The mRNA expression across the human body is shown in  [Li et al](#li).
 
@@ -263,10 +270,10 @@ Receptor detection rules:
 
 #### ACE2 Receptor Distribution
 [**incomplete and in rework**]
-[recommended read is [soilleux, poehlmann 2012](#soilleux,poehlmann) where ACE2 receptor distribution obtained from tissue staining is described]
+[recommended read is [Bertram 2012](#summary-Bertram-2012) where ACE2 receptor distribution obtained from tissue staining is described]
 ACE2 is apically available 
 * in the lower respiratory tract
-    - well-differentiated and ciliated airway epithelia [[mcray05](#mccray05)] 
+    - well-differentiated and ciliated airway epithelia ([mcray05](#jia-2005))
     - alveolar epithelial type 2 cells [to check/find citation].
 * in the upper respiratory tract
     - the basal layer of the non-keratinised squamous epithelium of the nasal, oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau) [in rework]. 
