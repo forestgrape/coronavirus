@@ -197,7 +197,7 @@ This section describes when particles are generated and how they spread within t
 * Larger particles i.e. droplet are mostly spread at coughing and speaking. Coughing yields mostly particles from the upper respiratory tract. 
 * Small particles from the lower respiratory tract (<1 micro meter) are generated from breathing alone and their generation does not require speaking or coughing. [Larsson et al](#larsson) identified the origins by analyzing the lipid composition of the particles. 
 * [Fabian et al](#fabian) describes that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. Data indicate a  positive correlation with age. 24% of participants exhaled 81% of all measured exhaled particles.
-* [Milton et al](#yan-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, with breathing and speaking alone, there are small infectious aerosols exhaled too. 
+* [Milton et al](#summary-yan-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, with breathing and speaking alone, there are small infectious aerosols exhaled too. 
 
 That small particulates are exhaled upon breathing alone from the deep lungs, combined with the observations that in the deep lungs the SARS-CoV-2 receptor ACE2 is highly available, means that Covid-19 can be transmitted with breathing alone.
 
@@ -520,7 +520,7 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
 
 
 ### Summarized References Sources of Exhaled Particles
-##### Yan 2018
+##### Summary Yan 2018
 Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
 **Aerosol shedding of infectious influenza virus**
 Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
