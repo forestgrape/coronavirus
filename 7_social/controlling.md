@@ -114,13 +114,15 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 
 > Regarding overall health, I my opinion, many countries should take measures towards clean air. It causes so many years of life lost and is nearly impossible to self prevent. Many countries have unhealthy levels of air pollution. There are countries - mainly in the Americas and in Africa - that do quite *well*.
 
+> In regions with high air pollution the are more severe Covid cases ([Air Pollution](../5_epidemiological/spread_analyses.md#air-pollution) in Spread Analyses).
+
 The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#numbers-and-comments) for all infection rates on the [Monitoring Page](../8_data/monitoring.md))
 
 CD/M/day | Stringency
 --|--
 ~.5   | if less or not increasing: loose rules, self responsibility
 ~1    | if greater and increasing: Prefer outdoors to indoors, **monitoring** needed. 
-~2.5  | worrisome if greater and case count increases => tighten the rules, infection risk is increased due to many infected. 
+~2.5  | worrisome if greater and case count increases => tighten the rules, infection risk is increased due to many infected.
 
 C-D/M/day = number of Covid-19 deaths per million inhabitants per day.
 
