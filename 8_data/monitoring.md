@@ -138,10 +138,10 @@ total current infected in percent  | total current infected per million | case c
 0.2%   |2 K     | 200  |  ~.5   | if less or not increasing or mainly young infected: loose rules, self responsibility
 0.4%   |4 K     | 400  |  ~1    | if greater and increasing: **monitoring** needed. Prefer outdoors to indoors
 1 %    |10 K    | 1000 |  ~2.5  | worrisome if greater and case count increases => tighten the rules, infection risk is increased due to many infected. 
-4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR)
+4 %    |40 K    | 4000 |  ~10   | roughly the maximum death count reached in Sweden and France in Spring 2020, death count reached in autumn (15.10 - 31.10.) in heavy hit regions of Switzerland (VS, SZ, FR) //to update
 5%     |50 K    | 5000 | ~12.5  | **prevent**, infection risk high for everybody, temporary hospitals may be needed
 10%    |100 K   |10'000| ~25+   | **prevent even at very high costs**, **hospitals can get overwhelmed**, reached in regions caught on the wrong foot
-15%    |150_K   |15'000| ~50++  | hospitals overwhelmed and chaotic situations likely. Death rate doubles or more, reached in heaviest hit regions.
+15%    |150_K   |15'000| ~50++  | Hospitals overwhelmed and chaotic situations likely. Death rate doubles or more, reached in heaviest hit regions.
 
 
 ## Data 
