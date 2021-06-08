@@ -4,7 +4,7 @@
 > **Major rework in progress, early June 2021**
 
 * [Summary](#summary)
-* [Introduction to Life on Earth](#introduction-to-life-on-earth)
+* [Introduction to Life](#introduction-to-life)
 * [Memorizing Interactions](#memorizing-interactions)
   * [Temporary and Permanent](#temporary-and-permanent)
   * [Storage Options](#storage-options)
@@ -29,7 +29,7 @@
 First things first, a life-forms is a thing with memorized environment interactions and is able to produce rough copies of itself, called progeny. The interactions are stored in genomes. All genomes are made from ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). RNA is common to all life forms on earth and RNA is used to store information, as enzyme and as structural units. Life-forms differ in the way they interact with the environment and with each other. Some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
 
 
-## Introduction to Life on Earth
+## Introduction to Life
 
 > ###### Life Form
 > A *life form* in a given environment is an identifiable thing which is able to initiate re-production of itself giving rise to things which are near the same. These are called *progeny* or *next generation*.
@@ -55,25 +55,27 @@ All life forms on earth use RNA.
 
 * ... -> nucleotide -> nucleotide -> nucleotide -> nucleotide -> ...
 
-The nucleotides are have 3 parts a ribose sugar, a phosphate and base.
+The nucleotides are made from three elementary molecules.
+
 ###### Nucleotide
 > A nucleotide is a triplet of a ribose, phosphate and a purine or pyrimidine base. The ribose is both bound to the phosphate and the base.
 
-The ribose-base unit has a separate name and is called nucleoside:
+The subunit of the base bound to the ribose has a separate name and is called nucleoside:
+
 ###### Nucleoside
 > Nucleoside is a purine or pyrimidine base linked to a ribose sugar.
 
 The backbone of RNA is always:
 * ... -> phosphate -> ribose -> phosphate -> ribose -> ...
 
-And the bases attached to the riboses determine binding properties. The preferred binding patterns of RNA strands is to other RNA strands with matching nucleotides. The binding properties are relevant for:
+To the riboses the bases are attached. These attached bases determine binding properties. The preferred binding patterns of RNA strands is to a RNA strands with matching nucleotides. The binding properties are relevant for:
 * The matching RNA pieces which a RNA binds to:
   * matching RNA can be of the same RNA strand which results e.g. in circles. This binding patterns determine the 3-d structure of the RNA
-  * the matching RNA pieces are independent. Which is used for:
+  * the matching RNA pieces belong to another RNA strand. Which is used for:
     * RNA silencing
     * RNA duplication
-    * building of proteins by
-* The structure combine with the binding properties determine which reactions and RNA enzyme catalyzes additional to the reactions relying of RNA-RNA interactions mentioned above.
+    * building of proteins by tRNAs in ribosomes.
+* The structure combined with the binding properties determines which reactions and RNA enzyme catalyzes.
 
 
 
@@ -230,9 +232,9 @@ In virology, tropism is used to describe locations where viruses replicate well.
 * Cell tropism is used to describe cell which support viral replication.
 * Tissue tropism denotes the tissues which support viral replication which is often set equivalent to viral genome detection.
 
-On this page, a virus has a tropism for a object if the virus has a noticeable effect on that object. Defined in the [tropism section](./viruses.md#tropism) in the virus chapter.
+On this page, a virus has a tropism for a object if the virus is frequently found in the object and has a noticeable effect on that object. Defined in the [tropism section](./viruses.md#tropism) in the virus chapter.
 * Coronaviruses replicate well in the respiratory tract, thus coronaviruses have a tropism for the respiratory tract.
-* SARS-CoV-2 infects type 1 pneumocytes, thus SARS-CoV-2 has a tropism for these cells.
+* SARS-CoV-2 infects ciliated polarized epithelia, thus SARS-CoV-2 has a tropism for these cells.
 
 
 
@@ -269,9 +271,8 @@ The coupling strengths vary:
 * Sometime the units keep the ability for separation and can go separate paths again. 
 
 #### Entities
-> explorative term
-##### Entity
-> An entity is a conglomeration of organisms cooperating selflessly to increase the overall fitness. 
+>> ##### Entity
+>> An entity is a conglomeration of life forms cooperating selflessly to increase the overall fitness. 
 
 ###### Notes
 * Not all members may have good changes to produce progeny.
@@ -280,10 +281,11 @@ The coupling strengths vary:
 ###### Examples
 * Bacteria Entities
 * Virus Entities
+* An [organism](#organism) is a special form of an entity, arising from a single cell by cloning.
 
 
 #### Organisms
-Many forms of life on todays earth e.g. plants, fungi and animals, are organisms.
+Many forms of life in the realm of eukaryotes on todays earth e.g. plants, fungi and animals, consists of different looking cells all clones from the same starting cell. These life forms are called organisms:
 
 > ###### Organism
 > Start out as a single cell with replicates. At some point the replicates differentiate into specialized cells having different appearances and tasks. 
@@ -291,10 +293,10 @@ Many forms of life on todays earth e.g. plants, fungi and animals, are organisms
 For many questions, organisms are considered as a whole and not the single cells. E.g. we usually are more interested in how fast an organism moves forward/runs and not how fast some single muscle cell contracts.
 
 
-
 ### Mechanism to Control Interactions
-Most life forms have have some mechanisms to keep their metabolism immune i.e. reducing interactions and thus making it more self contained and controllable. These mechanisms are called [immune system](../4_immunological/immune_system.md). A simple and effective way of doing so, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
+Most life forms have have some mechanisms to keep their metabolism balance and control their environment interactions. These mechanisms form the [balance and control system](../4_immunological/immune_system.md). One part of the balance system is the immune system. 
 
+A simple and effective way to control environment interactions, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
 
 ### Locations of Living
@@ -304,15 +306,13 @@ Most life forms have have some mechanisms to keep their metabolism immune i.e. r
 > The places of living of an organism.
 
 
-
-
 ## Systematics
-> in work, April 2021
+> in raw work, April 2021
 
 To group life forms different criteria can be used:
 * Storage Similarity
-  * storage organization: The 
-  * stored information = genetic similarity usually only comparable if the storage organization agrees.
+  * storage organization 
+  * stored information = denoted as genetic similarity.
 * Structural Similarity
   * Structural Similarity in the Small
   * Structural Similarity in the Large
@@ -329,8 +329,10 @@ Life forms can be classified by the storage system they use => Baltimore classif
 ### Life Forms by Structure
 
 #### Cell Forming Life Forms
-**[in work]**
-As noted all forms of life which encode their entire metabolism are dsDNA based. Many [to check if all] of these forms have their metabolism inside semipermeable membranes [to check: all double layer lipid?]. Such a structure is called a cell. Some cells have just the outer membrane:
+
+> **in work**
+
+As noted all forms of life which encode their entire metabolism are dsDNA based. Many [all ?] of these forms have their metabolism inside semipermeable membranes [all double layer lipid?]. Such a structure is called a cell. Some cells have just the outer membrane:
 
 > ##### Prokaryotes
 > Life forms having an outer membrane but no inner membrane shielding the genome away from the main metabolism. These forms are called *prokaryotes* (from Greek: pro=before, karyo=kernel).
@@ -340,7 +342,6 @@ Some cells are subdivided again by membranes into different compartments which a
 > ##### Eukaryotes
 > Cell forming life forms shielding their genome by an inner membrane are called *eukaryotes* (naming done in the 60's eukaryote = with-a-well-formed-kernel; eu=well and karyo=kernel). This inner structure is called nucleus.
 
-
 * Prokaryotes
   - Eubacteria
     * Cyanobacteria 
@@ -349,8 +350,6 @@ Some cells are subdivided again by membranes into different compartments which a
 * Eukaryotes
   * Plants, Animals and Fungi all belong to the eukaryotes. These eukaryotes form multicellular organisms. 
   * There are many more eukaryotes, many of them not forming multicellular organisms and thus living as single cells. Even though very divers, these are called *protozoa*. 
-
-
 
 
 ### Grouping by Interactions
