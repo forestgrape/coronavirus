@@ -3,7 +3,7 @@
 
 * [Overview Transmission Models](#overview-transmission-models)
   * [Overview Airborne Transmission](#overview-airborne-transmission)
-  * [Non Airborne Transmission of Respiratory Tract Infections](#non-airborne-transmission-of-respiratory-tract-infections)
+  * [Non Airborne Transmission of Respiratory Tract Pathogens](#non-airborne-transmission-of-respiratory-tract-pathogens)
 * [Airborne Transmission](#airborne-transmission)
   * [Summary Airborne Transmission](#summary-airborne-transmission)
   * [Objects Moving in the Air](#objects-moving-in-the-air)
@@ -54,19 +54,18 @@ Model | Metaphor   | Generating Actions | Source/Deposition | Situations/Climate
 * for details on Actions and Sources in [Particles in the Respiratory Tract](#particle-dynamics-in-the-respiratory-tract) and [masks](../6_prevention_and_treatment/masks.md).
 
 
-### Non Airborne Transmission of Respiratory Tract Infections
+### Non Airborne Transmission of Respiratory Tract Pathogens
 
 > For the time being only respiratory tract and oral pathogens are considered.
 
-Model |  Actions | Source | Deposition | Prevention_Methods   
----|---|---|---|---
-Direct contact| Kissing| Mouth, sometimes throat/larynx |Mouth, sometimes gullet  | not kissing 
-Indirect contact| Mouth, respiratory tract when coughing | Spitting/coughing onto something| Taking contaminated object into the mouth | wash or disinfect the hands and objects before taking them into the mouth 
+Model |  Actions | Source | Deposition    
+---|---|---|---
+Direct contact| Kissing| Mouth, sometimes throat/larynx |Mouth, sometimes gullet 
+Indirect contact/object| Mouth, respiratory tract when coughing | Spitting/coughing onto something| Taking contaminated object into the mouth
 
-Indirect contact transmission can occur: 
-* through the hands e.g. shaking dirty hands and then eating by hand. 
-* through objects e.g. coughing onto something which somebody else takes into the mouth. 
-* mostly DNA based life forms especially bacteria (RNA viruses only survive a couple of hours)
+* Indirect contact transmission can occur through multiple steps: e.g. shaking dirty hands.
+* Indirect contact is not very frequent for RNA viruses (RNA viruses usually don't survive long) but to consider for DNA based life forms especially bacteria.
+* Indirect contact is prevented by washing or disinfecting the hands and objects before taking them into the mouth.
 
 Objects mediating transmission are called fomites:
 
