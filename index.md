@@ -40,6 +40,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ## Recent Updates
+- 8.6. Clarifications and reordering on the [Controlling Page]. Section [Balancing of Measures](../coronavirus/7_social/controlling.md#balancing-of-measures) new and previous Balance section renamed to [On Balancing of Measures](../coronavirus/7_social/controlling.md#on-balancing-of-measures).
 - 28.5.- 3.6. 
   - Formulations and clarifications across the page. 
   - Chapter [Life on Earth](2_biological/life-forms.md) in rework.
