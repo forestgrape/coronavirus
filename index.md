@@ -104,10 +104,12 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 > ##### Definitions
-> *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. Redefinition of existing terms is not done on purpose, unless explicitly noted. Please point out!
+> *Definitions* are written like this and are valid throughout this page; sometimes only throughout this page. 
 
 >> ##### New Definition
->> *'New' definitions* are written like this. 'New' means it is defined on this page and not a definition commonly used in literature (introduced on 15.5.21). Please point out if there is a definition already in use with the same meaning. 
+>> *'New' definitions* are written like this. 'New' means it is defined on this page and not a definition commonly used in literature (introduced on 15.5.21). 
+
+> Redefinition of an existing terms is not done on purpose, unless explicitly noted. Please point out!
 
 > ##### Comments
 > * _Comments_, often subjective, are formatted the same as [definitions](#definitions) and sometimes additionally marked with programming style '//'. Otherwise distinction is done by context/content.
@@ -134,20 +136,20 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ### Introductory Topics
-* [Recent Updates](#recent-updates) and [Update History](./1_introduction/update_history.md)
-* [Public Suggestions and Tips](./1_introduction/suggestions.md)
+* [Recent Updates](#recent-updates) and [Update History](1_introduction/update_history.md)
+* [Public Suggestions and Tips](1_introduction/suggestions.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 
 
 ### Biological Topics
 - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
-  - [Mobility of Life Forms](./2_biological/mobility.md) How life form move or get moved to cross distances.
+  - [Mobility of Life Forms](2_biological/mobility.md) How life form move or get moved to cross distances.
 - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do. Viruses are defined as life forms which are dependent on extern enzymes. Aspects such as life cycle and behavior are discussed.
-- [Virion Viability](./2_biological/virion_viability.md)
+- [Virion Viability](2_biological/virion_viability.md)
   * Virions decay fast in sunlight, soap and disinfectants (the halflife time is a few minutes).
   * From 0 to 40 degrees the decay is faster at increased temperature and depends on the biochemical environment. In saliva, nasal mucus and sputum the halflife time is about 8 hours at 4 degrees and about 2 hours at a room-temperature of 22 degrees.
   * Above 45 degrees the decay fastens and is less dependent on the biochemical environment since the spring-loaded proteins loose their energy.
-  * A fast decay occurs when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation. Possible mechansims: osmotic pressure or increase of degrees of freedom of movement especially of the single stranded RNA/DNA.
+  * A fast decay occurs when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation. Possible mechanisms: osmotic pressure or increase of degrees of freedom of movement especially of the single stranded RNA/DNA.
 - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
 - [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
     The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
@@ -157,7 +159,7 @@ This section overviews the content. The [full content section](#content) lists t
 * [Covid-19](3_medical/covid19.md)
     The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
 * [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md) How to diagnose Covid with a focus on methods detecting parts of viruses (virus RNA with PCR or virus proteins with antigen test) at different locations (e.g. in the nose, mouth, lungs).
-- [Infection Locations and Disease Patterns](./3_medical/coronavirus_disease_patterns.md) (*explorative*)
+- [Infection Locations and Disease Patterns](3_medical/coronavirus_disease_patterns.md) (*explorative*)
 
 
 ### Immunological Topics
@@ -167,14 +169,14 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ### Epidemiological Topics 
-* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](./5_epidemiological/transmission.md)
+* [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](5_epidemiological/transmission.md)
     Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible.
-    - A summary of airborne transmission, 
-    - Proposal of a new dry from transmission model,
-    - describe how particles behave in the respiratory tract,
-    - analyse spread pattern of Covid-19 which indicate aerosol transmission
-    - and based on the discussions protection measures are suggested: smoke protection and masks.
-- [Spread Analyses](./5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
+  - A summary of airborne transmission, 
+  - Proposal of a new dry from transmission model,
+  - describe how particles behave in the respiratory tract,
+  - analyse spread pattern of Covid-19 which indicate aerosol transmission
+  - and based on the discussed transmission pathways, protection measures are suggested: smoke protection and masks.
+- [Spread Analyses](5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](5_epidemiological/covid_and_bovine_farming.md) (*explorative section*)
 
 
