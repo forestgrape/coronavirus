@@ -112,7 +112,7 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 ### Balancing of Measures
 > Here the goal is to minimize overall adverse health effects but *not* a zero-Covid. This includes unhealthy lifestyles motivated by overly strict measures or putting children at risk through vaccination and the unknown long term effects. However a very important goal is the avoid hospital overwhelming. 
 
-> Regarding overall health, I my opinion, many countries should take measures towards clean air. It causes so many years of life lost and is nearly impossible to self prevent. Many countries have unhealthy levels of air pollution. There are countries - mainly in the Americas and in Africa - that do *well*.
+> Regarding overall health, I my opinion, many countries should take measures towards clean air. It causes so many years of life lost and is nearly impossible to self prevent. Many countries have unhealthy levels of air pollution. There are countries - mainly in the Americas and in Africa - that do quite *well*.
 
 The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#numbers-and-comments) for all infection rates on the [Monitoring Page](../8_data/monitoring.md))
 
