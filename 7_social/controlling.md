@@ -12,8 +12,8 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
 * [Mindset and Strategy to Tackle Covid](#mindset-and-strategy-to-tackle-covid)
 * [Risk Management](#risk-management)
   * [Balancing of Measures](#balancing-of-measures)
+  * [On Balancing of Measures](#on-balancing-of-measures)
   * [Looking Ahead](#looking-ahead)
-  * [Adaption of Measures](#adaption-of-measures)
 * [Individual Protection Measures](#individual-protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
@@ -110,17 +110,27 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 > The transmission pathways are clear and suitable tools for prevention are known and available: Aerosol transmission in dry indoor air is especially risky to cause severe Covid, so that's to prevent. Ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. The immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for risk groups). Additionally treatment options and the general knowledge advances fast, thanks to world wide research efforts.
 
 ### Balancing of Measures
-> Here not a no Covid strategy is followed but a strategy to minimize overall adverse health effects. This includes unhealthy lifestyles motivated by overly strict measures or putting children at risk through vaccination and the unknown long term effects. However a very important goal is the avoid hospital overwhelming.
+> Here the goal is to minimize overall adverse health effects but *not* a zero-Covid. This includes unhealthy lifestyles motivated by overly strict measures or putting children at risk through vaccination and the unknown long term effects. However a very important goal is the avoid hospital overwhelming. 
 
-The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#numbers-and-comments) for all infection rates on the [Monitoring Page](./../8_data/monitoring.md))
+> Regarding overall health, I my opinion, many countries should take measures towards clean air. It causes so many years of life lost and is nearly impossible to self prevent. Many countries have unhealthy levels of air pollution. There are countries - mainly in the Americas and in Africa - that do *well*.
+
+The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#numbers-and-comments) for all infection rates on the [Monitoring Page](../8_data/monitoring.md))
 
 CD/M/day | Stringency
 --|--
-~.5   | if less or not increasing or mainly young infected: loose rules, self responsibility
-~1    | if greater and increasing: **monitoring** needed. Prefer outdoors to indoors
+~.5   | if less or not increasing: loose rules, self responsibility
+~1    | if greater and increasing: Prefer outdoors to indoors, **monitoring** needed. 
 ~2.5  | worrisome if greater and case count increases => tighten the rules, infection risk is increased due to many infected. 
 
 C-D/M/day = number of Covid-19 deaths per million inhabitants per day.
+
+### On Balancing of Measures
+> written in May to July 2020, updates to be done
+
+* Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
+* Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
+* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
+* Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal, e.g. long-term prohibit visits is likely no solution.
 
 #### Hospital Overwhelming
 Reasons to avoid hospital overwhelming (with good planning some of the reasons can be overcome):
@@ -142,15 +152,6 @@ If the Summer 2021 is used to ensure adequate ventilation in sensible settings s
 
 > Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
 
-
-### Adaption of Measures
-
-> written in May to July 2020, updates to be done
-
-* Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
-* Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
-* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
-* Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal, e.g. long-term prohibit visits is likely no solution.
 
 
 
