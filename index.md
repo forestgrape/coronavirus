@@ -175,7 +175,7 @@ This section overviews the content. The [full content section](#content) lists t
     - analyse spread pattern of Covid-19 which indicate aerosol transmission
     - and based on the discussions protection measures are suggested: smoke protection and masks.
 - [Spread Analyses](./5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
-- [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](../coronavirus/5_epidemiological/covid_and_bovine_farming.md) (*explorative section*)
+- [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](5_epidemiological/covid_and_bovine_farming.md) (*explorative section*)
 
 
 ### Treatment and Prevention
