@@ -202,7 +202,7 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 
 #### Dirty Air Exposure
 * ##### Air Pollution
-  _Through Air Pollution_: Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Tehran
+  _Through Air Pollution_: High rates of air pollution occur frequently in industrialized densely populated regions which have inversion weather situations (usually in the winter). Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Tehran
 
 * ##### Smoking
   _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
