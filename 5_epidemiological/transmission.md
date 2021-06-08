@@ -525,21 +525,20 @@ Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara 
 **Aerosol shedding of infectious influenza virus**
 Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
 ##### Methods
-* Participants: 142 students with PCR confirmed influenza who filled a questionary with additional information such as BMI, vaccination status, ...
+* Participants: 142 students with PCR confirmed influenza and who filled a questionary (age, BMI, vaccination status, ...)
 * Investigation:
   * "... 218 paired nasopharyngeal (NP) and 30-minute breath samples (coarse >5-μm and fine ≤5-μm fractions) on days 1–3 after symptom onset.
   * "We assessed viral RNA copy number for all samples and cultured NP swabs and fine aerosols."
 ##### Findings
-"We recovered infectious virus from 52 (39%) of the fine aerosols and 150 (89%) of the NP swabs with valid cultures."
-
-*Predictors of viral RNA shedding:* (Table 3 and Table S4 in the paper)
-* "Fine- and coarse-aerosol viral RNA were positively associated with body mass index and number of coughs and negatively associated with increasing days since symptom onset in adjusted models." 
-* Fine-aerosol viral RNA shedding was positively associated with influenza vaccination in the current and/or prior season for influenza A (Table S4.).
-* "NP swab viral RNA was positively associated with upper respiratory symptoms and negatively associated with age but was not significantly associated with fine- or coarse-aerosol viral RNA or their predictors." 
-* "Sneezing was rare, and sneezing and coughing were not necessary for infectious aerosol generation."
-
+* "We recovered infectious virus from 52 (39%) of the fine aerosols and 150 (89%) of the NP swabs with valid cultures."
+* _Predictors of viral RNA shedding:_ (Table 3 and Table S4 in the paper)
+  * "Fine- and coarse-aerosol viral RNA were positively associated with body mass index and number of coughs and negatively associated with increasing days since symptom onset in adjusted models." 
+  * Fine-aerosol viral RNA shedding was positively associated with influenza vaccination in the current and/or prior season for influenza A (Table S4.).
+  * "NP swab viral RNA was positively associated with upper respiratory symptoms and negatively associated with age but was not significantly associated with fine- or coarse-aerosol viral RNA or their predictors." 
+  * "Sneezing was rare, and sneezing and coughing were not necessary for infectious aerosol generation."
 ##### Discussion
-"Our findings, that upper and lower airway infection are independent and that fine-particle exhaled aerosols reflect infection in the lung, opened a pathway for a deeper understanding of the human biology of influenza infection and transmission."
+* "We defined symptoms as upper respiratory (runny nose, stuffy nose, sneezing, sore throat, and earache), lower respiratory (chest tightness, shortness of breath, and cough), and systemic (malaise, headache, muscle/joint ache, fever/sweats/ chills, and swollen lymph nodes)."
+* "Our findings, that upper and lower airway infection are independent and that fine-particle exhaled aerosols reflect infection in the lung, opened a pathway for a deeper understanding of the human biology of influenza infection and transmission."
 
 ##### Methods Details
 * Participants: 
