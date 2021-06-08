@@ -5,13 +5,13 @@
 * [Life Cycles of Viruses](#life-cycles-of-viruses)
 * [Virus Classification](#virus-classification)
 * [Virus Entities](#virus-entities)
-* [Behavior of Viruses and Virus Entities](#behavior-of-viruses-and-virus-entities)
+* [Behavior of Viruses](#behavior-of-viruses)
   * [Behavior Virion Phase](#behavior-virion-phase)
   * [Behavior Metabolic Phase](#behavior-metabolic-phase)
   * [Situation Specific Behaviors](#situation-specific-behaviors)
   * [Tropism of Viruses](#tropism-of-viruses)
 * [Habitats](#habitats)
-  * [Organisms Habitats](#organisms-habitats)
+  * [Life form Habitats](#life-form-habitats)
   * [Conquering new Habitats](#conquering-new-habitats)
   * [Infecting New Species](#infecting-new-species)
 
@@ -135,27 +135,28 @@ In outdoors living vertebrate hosts, the infection course of a coronavirus entit
 
 
 
-## Behavior of Viruses and Virus Entities
+## Behavior of Viruses
 
 > Behavior = Situation dependent metabolism including expression of proteins. Taxis is possibly a suitable name -  generalizes the existing use of taxis as stimulus induced movement)
 
 ### Behavior Virion Phase
 
+> in rework, June 2021
+
 As described in the section [virion activation](#virion-priming) the virions need to be activated. The activation factors determine the behavior of virions:
 
-* Environment around the Cell
-    - E.g. the spike proteins of coronaviruses needs to be primed which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work]<!--[Holmes](#holmes)-->.
-* Matching Receptor on the target cell surface
+  
+- <!--[Holmes](#holmes)-->.
 
-in work ...
- Determinants for the cell specific behavior are:
-* cell types:
-    - receptors expressed
-    - biochemistry inside the cells
-* environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
-    - physical environment: e.g. temperature
-    - chemical environment: e.g. pH value
-    - biological environment: e.g. Virions are primed for cell entry by specific proteins
+* Environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
+  - physical environment: e.g. temperature
+  - chemical environment: e.g. pH value
+  - biological environment: e.g. Virions are primed for cell entry by specific proteins
+  The spike proteins of coronaviruses need one or more priming steps. which usually means cleaved by proteases for cell entry. This cleaving can require proteases and the right physiological conditions [citations in work] 
+* Cell Type
+  - Matching Receptor on the target cell membrane
+  - biochemistry inside the cells
+
 
 
 ### Behavior Metabolic Phase 
@@ -208,7 +209,7 @@ The cell behavior is the combination of the [virion behavior](#behavior-virion-p
 In virology, tropism is mostly used when viruses replicate well in some cells or tissues (notes on [tropism usage](./life-forms.md#tropism-in-virology) in the chapter life form chapter). On this page, viral tropism is defined as follows:
 
 ###### Tropism
-> A virus *has a tropism* for an object or a location if it is frequently infects an object. The tropism for a cell is called [Cell Tropism](#cell-tropism), [Tissue Tropism](#tissue-tropism) and [Organism or animal Tropism](#organisms-tropism).
+> A virus *has a tropism* for an object or a location if it is frequently infects an object. The tropism for a cell is called [Cell Tropism](#cell-tropism) and accordingly for tissues/organs/animals [Tissue Tropism](#tissue-tropism)/[Animals](#animals-tropism).
 
 Examples:
 * Cells which are frequently [infected](#infected-cell). 
@@ -228,7 +229,7 @@ Tropism describes how virus entities growth, where the [virus entity](../2_biolo
 
 ## Habitats
 [in rework]
-As outlined in the chapter taxes of viruses there are a variety of conditions for a virus to start to metabolism and even more too successfully replicate. Environments satisfying the behavior constraints for replication and frequently reached by viruses, form a place of living. These places are called habitats. 
+As outlined in the chapter [behavior of viruses](#behavior-of-viruses) there are a variety of conditions for a virus to start to metabolism and even more too successfully replicate. Environments satisfying the behavior constraints for replication and frequently reached by viruses, form a place of living. These places are called habitats. 
 
 > ###### Habitat
 > The *Habitat* of a virus are the locations which are frequently infected. The locations can be cells, tissues, organs, life forms or groups of life forms.
@@ -240,16 +241,16 @@ E.g. Sars-CoV-2 frequently infects alveolar epithelial cells =>
 * humans are an organism habitat (called hosts) for SARS-2. 
 
 ###### Core Habitat
-> The core habitat are habitat locations which are relevant for the survival of a virus line.
+> The core habitat are habitat locations which are relevant for the survival of a virus lineage.
 
 ###### Side Habitat
 > The side habitat denotes infected locations which are not relevant for the spread i.e. viruses lines in a side will not survive.
 
-### Organisms Habitats
-Organisms being a habitat are called hosts.
+### Life form Habitats
+Life forms which serve as habitats are called hosts.
 
 > ###### Host
-> A *host* of a virus is an organisms habitat of a virus. 
+> A *host* of a virus is life form which is part of the life cycle of a virus lineage.
 
 Organisms in the habitat of a virus are frequently infected.
 
