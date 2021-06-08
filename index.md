@@ -34,7 +34,7 @@ This section overviews the content. The [full content section](#content) lists t
 ---
 
 ## Recent Topics Added
-- 12.5. New page on the [aggregation of atoms](../coronavirus/9_physics/aggregations_of_atoms.md) in online work to provide context to topics such as condensation & evaporation and efflorescence.
+- 12.5. New page on the [aggregation of atoms](9_physics/aggregations_of_atoms.md) in online work to provide context to topics such as condensation & evaporation and efflorescence.
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment. It reduces the number of infectious virions and optimize the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
 - 23.3. Proposal of [Local Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
 
