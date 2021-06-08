@@ -2,8 +2,6 @@
 # Thoughts on Controlling Sars-CoV-2
 This chapter extends and [Public Advices and Suggestions](../1_introduction/suggestions.md) chapter. 
 
-> This chapter is mostly written in spring and autumn 2020. A reordering and some updates in spring 2021.
-
 * [Spread Assumptions](#spread-assumptions)
   * [Indoors](#indoors)
   * [Outdoors](#outdoors)
@@ -13,9 +11,9 @@ This chapter extends and [Public Advices and Suggestions](../1_introduction/sugg
   * [Summed Up](#summed-up)
 * [Mindset and Strategy to Tackle Covid](#mindset-and-strategy-to-tackle-covid)
 * [Risk Management](#risk-management)
-  * [Looking Ahead](#looking-ahead)
   * [Balancing of Measures](#balancing-of-measures)
-  * [Hospital Overwhelming](#hospital-overwhelming)
+  * [Looking Ahead](#looking-ahead)
+  * [Adaption of Measures](#adaption-of-measures)
 * [Individual Protection Measures](#individual-protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
@@ -79,6 +77,8 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 * Outdoor activities reduce the overall Covid burden since: 1) More activities allowed. 2) Outdoor activities even can reduce the overall Covid spread and especially the number of severe cases, since less time is spent indoors and the lifestyles are healthier.
 * Appropriate spread precaution measures and good treatment is important for people with severe Covid.
 
+  > The stringency of measures needed is discussed in the section [Balancing of measures](#balancing-of-measures).
+
 
 
 ## Mindset and Strategy to Tackle Covid 
@@ -94,8 +94,7 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 > * Settings that those who want/need can protect, while those not needing/choosing can go on, go on circumspectly.
 > * Avoiding hospital overwhelming. Since it is hard for all the affected: the relatives, the medical staff and the patients. At times when shops, restaurants and bars are open and crowded, risking with a high probability or considering *not* to admit elderly to hospitals I think is not nice. *Everybody has to right for a good treatment.*
 >
-> ### Reconsidering Strategy 
-> Autumn 2020
+> ### Reconsidering Strategy, Autumn 2020
 > In cold areas/times rules need to be tighter, since aerosol transmission is hard to (self-)prevent at least if good masks are scarce. In warm areas windows should be open all the time and air-conditioning should *never* be used.
 > 
 > Three more points
@@ -107,36 +106,52 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 
 ## Risk Management
 
-### Looking Ahead
-> 23. May 2021, subjective remarks, currently in work
-> Shutdowns or even lockdown I don't except anymore. The transmission pathways clearify and suitable tools for prevention and treatment are known and the knowledge continuously increases. Aerosol transmission in dry indoor air is especially risky to cause severe Covid, so that's to prevent. Ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. The immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for risk groups).
-> 
-> #### Southern Hemisphere
-> Moderate measures are likely needed in Winter 2021 in the Southern Hemisphere since the risks groups are not vaccinated yet. E.g. capacity reduction and moving businesses to outdoors.
-> 
-> #### Northern Hemisphere
-> Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
-> 
-> If the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people: Only very few other measures may be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
-> 
->   Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
-
-
+> ### Situation Assessment June 2021
+> The transmission pathways are clear and suitable tools for prevention are known and available: Aerosol transmission in dry indoor air is especially risky to cause severe Covid, so that's to prevent. Ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. The immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for risk groups). Additionally treatment options and the general knowledge advances fast, thanks to world wide research efforts.
 
 ### Balancing of Measures
-* Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
-* Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
-* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
-* Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal, e.g. long-term prohibit visits is likely no solution.
+> Here not a no Covid strategy is followed but a strategy to minimize overall adverse health effects. This includes unhealthy lifestyles motivated by overly strict measures or putting children at risk through vaccination and the unknown long term effects. However a very important goal is the avoid hospital overwhelming.
 
+The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#numbers-and-comments) for all infection rates on the [Monitoring Page](./../8_data/monitoring.md))
 
-### Hospital Overwhelming
-[**in work**]
+CD/M/day | Stringency
+--|--
+~.5   | if less or not increasing or mainly young infected: loose rules, self responsibility
+~1    | if greater and increasing: **monitoring** needed. Prefer outdoors to indoors
+~2.5  | worrisome if greater and case count increases => tighten the rules, infection risk is increased due to many infected. 
+
+C-D/M/day = number of Covid-19 deaths per million inhabitants per day.
+
+#### Hospital Overwhelming
 Reasons to avoid hospital overwhelming (with good planning some of the reasons can be overcome):
 * Everyone has has the right for a fair and good treatment. 
 * Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure, not overwhelmed hospitals are necessary. 
 * The overall process can get less efficient. E.g. patients need out of hospital treatment, which has additional challenges.
 * Can greatly increase the risk for additional spread since protection measures may not be in place. E.g. the provisional building may not have an appropriate ventilation and temporary personal can be more likely to forget about proper protection measures.
+
+### Looking Ahead
+> 23. May 2021, subjective remarks, currently in work
+
+#### Southern Hemisphere
+Moderate measures are likely needed in Winter 2021 in the Southern Hemisphere since the risks groups are not vaccinated yet. E.g. capacity reduction and moving businesses to outdoors.
+
+#### Northern Hemisphere
+Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
+
+If the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people: Only very few other measures will be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
+
+> Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
+
+
+### Adaption of Measures
+
+> written in May to July 2020, updates to be done
+
+* Monitoring the personal/frequent customers of open(ed) businesses can help to discover a new/increased Sars-CoV-2 spread. Representative samples twice per week should do the job.
+* Step by Step adjusting helps to find a balance without many sudden/abrupt changes.
+* All people belonging to a risk group for severe Covid-19 should be eligible to obtain free masks from pharmacies and doctors. The health care professionals should evaluate the model for a good fit and instruct the usage.
+* Staff and patients of old-age homes, hospitals and similar institutions should monitor their health closely, watch for early Covid-19 signs and have easy access to Covid-19 PCR tests. Tests can also be used to do sampling to have an overview. Early action is important in these settings. Overall good life quality should be the goal, e.g. long-term prohibit visits is likely no solution.
+
 
 
 
