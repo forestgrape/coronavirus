@@ -155,7 +155,7 @@ The self decay rate can be approximated by a piecewise linear function:
 * While old and new research show that the decay in ambient air is U-shaped respect to humidity ([Decay in Ambient Air](#viability-in-ambient-air): low at in dry air, high in intermediate, then again lower in humid air). It is added and emphasized here that at very high humidities (above 90%) the decay fastens. Likely due to [condensation](#evaporation-and-condensation) since the same is true in distilled water. 
 
 ### Relevance
-* The knowledge of virion viability help to design treatment methods. Such treatments are promising for viruses infecting apical sides of epithelial tissues since these are often reachable from the outside. Among epithelial infections respiratory infections are suitable since the pathogens often spread through the respiratory tract and not through tissues or through the blood.
+* The knowledge of virion viability help to design treatment methods. Such treatments are promising for viruses infecting [apical sides of epithelial tissues](../2_biological/coronavirus.md#tissue-tropism) since these are often reachable from the outside. Among epithelial infections respiratory infections are suitable since the pathogens often spread through the respiratory tract and not through tissues or through the blood.
 * Risk assessment
   * The long survival of virions in cool environments without sunlight indicates a transmission risk in stairwell or garages/parkings of large buildings ([Precaution measures in Large Buildings](../7_social/controlling.md#large-buildings)). 
   * The fast inactivation in sunlight is one reason [outdoors is safer](../7_social/controlling.md#outdoors-is-safer), especially on sunny days.
