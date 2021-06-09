@@ -12,10 +12,12 @@
   * [Coronavirus Proteins](#coronavirus-proteins)
 * [Capabilities](#capabilities)
   * [Enter Cells](#enter-cells)
-* [Behavior and Tropism of Coronaviruses](#behavior-and-tropism-of-coronaviruses)
-  * [Cell Specific Behavior of Coronaviruses](#cell-specific-behavior-of-coronaviruses)
+* [Behavior of Coronaviruses](#behavior-of-coronaviruses)
+  * [Introduction to the Behavior of Coronaviruses](#introduction-to-the-behavior-of-coronaviruses)
+  * [Cell Behavior of Coronaviruses](#cell-behavior-of-coronaviruses)
   * [Cell Specific Behavior of Sars-Cov-2](#cell-specific-behavior-of-sars-cov-2)
-  * [Tropism](#tropism)
+* [Tropism of Coronaviruses](#tropism-of-coronaviruses)
+  * [Respiratory Tract Tropism](#respiratory-tract-tropism)
 * [Evolution](#evolution)
   * [Conserved Patters](#conserved-patters)
   * [Changing Patterns](#changing-patterns)
@@ -55,8 +57,8 @@ Betacoronavirus identified causing the current Covid-19 pandemics. A focus of th
 
 ##### MERS-CoV
 Betacoronavirus identified causing MERS. 
-* infects cells in the deep lungs (bronchi and alveolis) 
-* the natural hosts are dromedary camels
+* infects cells in the deep lungs (bronchi and alveolis) where its adhesion receptor DPP4 is mainly expressed [to check and cite]
+* the natural hosts are dromedary camels; close relatives are found in bats and hedgehogs ([Hosts of Nidovirales](../2_biological/hosts_of_nidovirales.md).
 * main spreading events observed in indoor settings
 
 ##### Bovine Coronaviruses
@@ -116,7 +118,10 @@ The spikes proteins are the only part by which coronavirus virions interact with
 ### Metabolic Phase
 The viral metabolism starts once the genetic material of a virion is processed by a cell and thus the virus changes the cells metabolism. This happens in a foreign cell and cells have mechanism in place to prevent its metabolism being changed i.e. keeping the metabolism immune. For that reason, each of the following steps has a noteworthy probability of failing. 
 
-#### Metabolism Phase 1: Preparation
+#### Metabolism Phase 1: Build the Factory Hall and incorporate Host Machines (Ribosomes)
+> in work
+
+#### Metabolism Phase 2: Build the Machines = Build the RdRP Protein
 [in work]
 The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Additionally let the ribosomes produce some proteins that diminish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:
 1. Release RNA -- let the host ribosomes translate two ORFs of the viral genome with frame-shifting---> two large proteins
@@ -125,7 +130,7 @@ The goal of the first phase in the metabolism is to produce RdRP (RNA dependent 
    * proteins providing the right setting for the phase 2 metabolism e.g. prevent the cells protection mechanisms working
    * polymerase protein (protein capable of transcription of RNA to RNA) 
 
-#### Metabolism Phase 2: Replication
+#### Metabolism Phase 3: Produce Self Copies = Replicate
 The metabolism can produce new virions that are released from the cell. The properties and and the environment of the cell influence the properties of the virions produced. This phase is initiated by the transcription of the (+) strand RNA to a (-) strand RNA template mediated by the polymerase protein:
 1. (+) RNA --transcription--> (-) RNA template
 2. (-) RNA template -- transcription-->
@@ -142,14 +147,24 @@ The metabolism can produce new virions that are released from the cell. The prop
 RNA viruses have small but highly optimized genomes. Each protein is often - like a swiss army knife - capable of different functions.
 
 #### Virion Proteins
+
+> **in work and incomplete June 2021**
+
 Virion proteins = structural proteins: used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N. Besides their function in virions these proteins may have functions in the metabolic phase.
 - stabilize the RNA: N, E
+- stabilize the Envelope:
 - diminish host defence: N
-
-##### Spike Protein
-The spike proteins point spike-like out of the spherical virions. This gives coronaviruses virions a corona (latin for crown or solar corona) like appearance under the electron microscope and therefore their name. Functions:
+##### N Protein
+N stand for Nucleocapsid protein
+* diminish host defense
+##### M Protein
+M stand for Membrane protein
+* M helps to build the membrane around the nucleocapsid
+##### E Protein
+E stand for Envelop protein
+##### S Protein
+S stand for Spike protein. The spike proteins point spike-like out of the spherical virions. This gives coronaviruses virions a corona (latin for crown or solar corona) like appearance under the electron microscope and therefore their name. Functions:
 * RBD: The RBDs are located in the S1 part of the spike protein and binds to the ACE2 receptor. 
-* [in work]
 
 
 #### Metabolic Phase only Proteins
@@ -167,9 +182,9 @@ The cell adhesion receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [
 
 
 
-## Behavior and Tropism of Coronaviruses
+## Behavior of Coronaviruses
 
-### Cell Specific Behavior of Coronaviruses
+### Introduction to the Behavior of Coronaviruses
 
 Viruses optimized to their environment usually only infect cells involved in the survival of the virus strain:
 * Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract.
@@ -177,7 +192,13 @@ Viruses optimized to their environment usually only infect cells involved in the
 * Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
     - Coronaviruses entities infecting outdoor living hosts, usually leave the hosts by feces. So cells in the intestine are infected.
     - For indoor living hosts (us humans and our domestic animals) these are often the same cells as entered i.e. cells in the respiratory tract.
-* Cells which are relevant for the host immune response. Coronaviruses can infect immune system cells (dendritic and T cells) and induce aptosis.
+* Cells which are relevant for the host immune response. Coronaviruses can infect immune system cells (dendritic and T cells) and induce apoptosis.
+
+
+### Cell Behavior of Coronaviruses
+#### Polarized Cells
+* In vitro [cell culture to check] experiments from [McCray & Co](#summary-jia-2005) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#summary-jia-2005) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. 
+* Similar observations for the coronavirus 229E [[McCray](#mccray)]: It infects the cells, corresponding to its receptor (amino-peptidase N) expression, preferably from the apical surface. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) even for basal entry.  
 
 
 ### Cell Specific Behavior of Sars-Cov-2
@@ -185,8 +206,9 @@ Viruses optimized to their environment usually only infect cells involved in the
 * infection and efficient replication
     - alveolar type 2 cells
     - alveolar macrophages
+    - ciliated epithelial cells in the bronchi
 * infection but no replication
-    - dendritic cells [to check entry mechanism]: usually aptosis induced
+    - dendritic cells [to check entry mechanism]: usually apoptosis induced
 * no entry and thus no infection
     - Cells neither expressing ACE2 nor phagocyting virions on their own and the virions are able to fuse the membranes once phagocyted (usually captured in an endosome). 
     E.g. antibody marked virions can get phagocyted by macrophages. 
@@ -196,18 +218,20 @@ Viruses optimized to their environment usually only infect cells involved in the
 
 
 
-### Tropism
+## Tropism of Coronaviruses
+Tropism for viruses denotes the cells and tissues they preferable replicate (defined on the [Viruses Page](viruses.md#virus-tropism)).
 
-Tropism for viruses denotes the cells and tissues they preferable replicate i.e. when the population of viruses is viewed as a [virus entity](viruses.md#virus-entity) tropism denotes where the virus entity growths (-> defined on the [Viruses Page](viruses.md#tropism)).
+### Respiratory Tract Tropism
+Coronaviruses are initially deposited and replicate well in the respiratory tract, thus they have a tropism for the respiratory tract.
+However if large number of coronaviruses infect the single cell layer in the alveoli, a fraction of them can be released into the blood stream and spread with the blood.
 
-#### Tissue Tropism
+#### Apical Side Tropism
+* The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the epithelial cell layer, the virions come mostly in contact with the apical sides of cells.
+* Since coronaviruses preferable infect and leave cell on the apical side ([Cell Behavior](#cell-behavior-of-coronaviruses)), they remain on the apical side and spread through the respiratory tract lining fluid. 
 
-##### Tropism for the Respiratory Tract
-Coronaviruses replicate well in the respiratory tract, thus they have a tropism for the respiratory tract.
+> Unlike other viruses, betacoronaviruses usually don't enter tissues. 
 
-##### Tropism for the Apical Side
-*  The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the epithelial cell layer, the virions come mostly in contact with the apical sides of cells.
-* In vitro [cell culture to check] experiments from [McCray & Co](#mccray05) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#mccray05) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. Similar observations for the coronavirus 229E: It infects the cells, corresponding to its receptor (amino-peptidase N) expression, preferably from the apical surface [[McCray](#mccray)]. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) for a basal entry.    
+ 
 
 
 
@@ -324,7 +348,8 @@ Examples of well conserved proteins for coronaviruses are:
 	AND PAUL B. MCCRAY, JR.1
 	**Human Coronavirus 229E Infects Polarized Airway Epithelia from the Apical Surface**
 	JOURNAL OF VIROLOGY, Oct. 2000, p. 9234–9239
-	https://doi.org/10.1128/jvi.74.19.9234-9239.2000
+	<https://doi.org/10.1128/jvi.74.19.9234-9239.2000>
+
  
 * ##### hoffmann
 	Markus Hoffmann, Hannah Kleine-Weber,
@@ -334,5 +359,19 @@ Examples of well conserved proteins for coronaviruses are:
 	Hoffmann et al., 2020, Cell 181, 1–10
 	April 16, 2020 a 2020 Elsevier Inc.
 	https://doi.org/10.1016/j.cell.2020.02.052
-      
 
+
+#### Summary Jia 2005
+Hong Peng Jia, Dwight C. Look, Lei Shi, Melissa Hickey, Lecia Pewe, Jason Netland, Michael Farzan, Christine Wohlford-Lenane, Stanley Perlman, Paul B. McCray
+**ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
+Jr Journal of Virology Nov 2005, 79 (23) 14614-14621; <https://doi.org/10.1128/JVI.79.23.14614-14621.2005>
+##### Methods
+"We studied host-pathogen interactions using native lung tissue and a model of well-differentiated cultures of primary human airway epithelia."
+##### Findings
+* _ACE2 Expression:_ 
+  * "ACE2 protein was more abundantly expressed on the apical than the basolateral surface of polarized airway epithelia. Interestingly, ACE2 expression positively correlated with the differentiation state of epithelia." ... 
+  * "Of note, submersion of the apical surfaces of primary cells caused loss of cilia (Fig. 2A). Loss of this important marker of cell differentiation with resubmersion was associated with markedly diminished expression of ACE2 mRNA and protein (Fig. 2B and C)."
+* _Cell Tropism:_ "Consistent with the expression pattern of ACE2, the entry of SARS-CoV or a lentivirus pseudotyped with SARS-CoV S protein in differentiated epithelia was more efficient when applied to the apical surface. Furthermore, SARS-CoV replicated in polarized epithelia and preferentially exited via the apical surface."
+##### Discussion
+* "The apical expression of ACE2 on epithelia indicates that this coronavirus receptor is accessible for topical application of receptor antagonists or inhibitors."
+* " This pattern of apical infection and release of virus in polarized epithelia is reminiscent of transmissible porcine gastroenteritis virus (36) and HCoV-229E (44). In contrast, mouse hepatitis virus-A59 enters polarized cells from the apical surfaces and exits from the basolateral side (35)." 
