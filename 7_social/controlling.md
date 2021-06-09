@@ -78,7 +78,7 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 * Appropriate spread precaution measures and good treatment is important for people with severe Covid.
 
   > The stringency of measures needed is discussed in the section [Balancing of measures](#balancing-of-measures).
-
+  > There's a helpful [aerosol FAQ](../1_introduction/illustrative_literature.md#aerosol-faq) from advisors in the US which I came across when reading the references of a [CO2 sensor usage recommendation](../7_social/controlling.md#stocker) from the Swiss Covid taskforce, which is a worthy read in itself.
 
 
 ## Mindset and Strategy to Tackle Covid 
@@ -182,7 +182,7 @@ To prevent droplet transmission outdoors or in very well ventilated situations a
 
 
 ### Ventilation
-Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoors-is-safer) is much lower than in indoor air. In sensible locations limits on the CO2 concentration and continuous monitoring ensure good ventilation. 
+Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoors-is-safer) is much lower than in indoor air. In sensible locations limits on the CO2 concentration and continuous monitoring ensure good ventilation (the indoor CO2 is e.g. described in [Stocker](#stocker)). 
 
 * [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
 * [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. In the simulation, good ventilation is as effective as reducing transmission of half of the population. // in the paper vaccinate is used instead of reducing transmission. Reducing transmission is used since there is evidence that influenza vaccines do not stop spreading influenza and transmission can be reduced in different ways e.g. by mask.
@@ -519,6 +519,10 @@ Measure regarding schools can reach from complete closure to mild measures such 
     Smieszek, T., Lazzari, G., & Salathé, M. (2019). 
     **Assessing the Dynamics and Control of Droplet- and Aerosol-Transmitted Influenza Using an Indoor Positioning System.** 
     Scientific reports, 9(1), 2185. <https://doi.org/10.1038/s41598-019-38825->
+
+* ##### Stocker
+  **On the use of CO2 sensors in schools and other indoor environments**
+  <https://sciencetaskforce.ch/wp-content/uploads/2021/04/CO2_sensors12Apr21-EN.pdf>
 
 
 ## Appendix
