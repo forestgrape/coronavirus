@@ -92,7 +92,7 @@ A virus disease is an interplay of host factors including the host immune system
     - Cells susceptible to infection and capable of producing viruses (not all cells are susceptible e.g. red blood cells are not susceptible to virus infections ).
     - Host [immune response](#immune-response-and-symptoms).
 * __Capabilities and Behavior of the Virus__
-  Viruses behave different under different environmental factors (called tropism of viruses), described in the section [Tropism of viruses](../2_biological/coronavirus.md#tropism). E.g. SARS-2 virions can initiate cell entry only for cells containing a matching receptor. To infect a tissue several conditions must be met as described in the chapter [Tissue Tropism of SARS-CoV-2](../2_biological/coronavirus.md/#tissue-tropism-of-sars-cov-2).
+  Viruses behave different under different environmental factors (called tropism of viruses), described in the section [Tropism of viruses](../2_biological/coronavirus.md#tropism). E.g. SARS-2 virions can initiate cell entry only for cells containing a matching receptor. To infect a tissue several conditions must be met as described in [coronavirus behavior](../2_biological/coronavirus.md#behaviors-of-coronaviruses).
 * __Environmental Factors__
     - the travel of virions between hosts and thus the mode of the initial infection. E.g. in dry air exhaled droplets dry out and these are more likely to be deposited deep in the lungs.
     - Environmental factors can influence the host factors as well as the virus tropism and thus indirectly the course of the disease. E.g.:
@@ -107,7 +107,7 @@ SARS-CoV-2 infects different tissues in humans. The effects from the virus infec
 Different topics related to the infection locations are described in the sections:
 * The chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md) describes in which body fluids and tissues how many virions are observed. This indicates an infected tissues close by.
 * The [Immune Response and Symptoms](#immune-response-and-symptoms) section gives an overview of the different symptoms induced by the infection location.
-* In the [coronavirus chapter](../2_biological/coronavirus.md), the section [tissue tropism](../2_biological/coronavirus.md#tissue-tropism-of-sars-cov-2) describes how and which tissues are infected by coronaviruses and SARS-2 especially.
+* In the [coronavirus chapter](../2_biological/coronavirus.md), the section [tissue tropism](../2_biological/coronavirus.md#tropsims-of-coronaviruses) describes how and which tissues are infected by coronaviruses and SARS-2 especially.
 * The experimental chapter [Coronavirus Disease Pattering](../3_medical/coronavirus_disease_patterns.md) describes that coronavirus infections at different locations can be experienced/observed as different diseases.
 
 
