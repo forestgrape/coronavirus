@@ -9,7 +9,7 @@
   * [Behavior Virion Phase](#behavior-virion-phase)
   * [Behavior Metabolic Phase](#behavior-metabolic-phase)
   * [Situation Specific Behaviors](#situation-specific-behaviors)
-  * [Tropism of Viruses](#tropism-of-viruses)
+* [Tropism of Viruses](#tropism-of-viruses)
 * [Habitats](#habitats)
   * [Life form Habitats](#life-form-habitats)
   * [Conquering new Habitats](#conquering-new-habitats)
@@ -173,7 +173,7 @@ As described in the section [virion activation](#virion-priming) the virions nee
 > Possibly 'taxis' is a good name for situation specific behavior at the 'micro'/'small-scale' level of life-forms. Generalizing the existing use of taxis of the directional movement behavior of cellular life-forms.
 
 ##### Cell Specific Behavior
-> *Cell behavior* is used on this page to describe how a virus behaves upon match of a virion to a specific cell type i.e. the behavior in specific cells.
+> *Cell specific behavior* is used on this page to describe how a virus behaves upon match of a virion to a specific cell type i.e. the behavior in specific cells.
 
 * Virion Phase:
     Questions relevant for the behavior of viruses in the virion state:
@@ -204,18 +204,20 @@ The cell behavior is the combination of the [virion behavior](#behavior-virion-p
 
 
 
-### Tropism of Viruses
+## Tropism of Viruses
 
 In virology, tropism is mostly used when viruses replicate well in some cells or tissues (notes on [tropism usage](./life-forms.md#tropism-in-virology) in the chapter life form chapter). On this page, viral tropism is defined as follows:
 
-###### Tropism
-> A virus *has a tropism* for an object or a location if it is frequently infects an object. The tropism for a cell is called [Cell Tropism](#cell-tropism) and accordingly for tissues/organs/animals [Tissue Tropism](#tissue-tropism)/[Animals](#animals-tropism).
+###### Virus Tropism
+> A virus *has a tropism* for an object or a location if it is frequently infects an object. The tropism for a cell is called [Cell Tropism](#cell-tropism) and accordingly for tissues/organs [Tissue Tropism](#apical-side-tropism). 
+
+> For animals one speaks usually of hosts and not animal tropism.
 
 Examples:
 * Cells which are frequently [infected](#infected-cell). 
 * Tissues, organs or organisms that support the growth of virus entities or are influenced by infections by the virus.
 
-Tropism describes how virus entities growth, where the [virus entity](../2_biological/viruses.md#virus-entity) consists of the infected cells in an organism.
+Tropism describes how virus entities growth, where the [virus entity](#virus-entity) consists of the infected cells in an organism i.e. when the population of viruses is viewed as a [virus entity](viruses.md#virus-entity) tropism denotes the growth preferences of a virus entity.
 
 
 
@@ -223,7 +225,7 @@ Tropism describes how virus entities growth, where the [virus entity](../2_biolo
 > A virus has a *tropism* for a certain cell type if these cell are readily infected.
 
 ###### Tissue Tropism 
-> *Tissue tropism* describes whether a virus entity noticeable infects a certain tissue.
+> *Tissue tropism* denotes tissues which are frequently by a virus [entity].
 
 
 
