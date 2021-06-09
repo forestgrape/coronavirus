@@ -30,8 +30,8 @@ To adjust the measures and to communicate these, it is important to estimate and
 ### Different Counts
 There are several counts to distinguish [not very clear on this page yet, in work]:
 * Number of people getting currently infected. This number predicts how many people may need hospital treatment starting in roughly 1 to 3 weeks and being there in 1 to 4 weeks so they may need a place in the next 1 to 7 weeks. This number can only be **estimated**. The numbers depends on the protection measures and the count of currently infected (mostly those not knowing).
-* Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get **tested** through sampling or contact tracing. They may or may not develop symptoms, about 80% develop symptoms.
-* Number of people with **symptoms**. Likely a fraction of these are most often detected in case counts. Symptoms usually come between 1 and 10 days after the infection occurred.
+* Number of people with viruses detectable with PCR/Antigen tests. They may not yet be symptomatic but may get **tested** through sampling or contact tracing. They may or may not develop symptoms.
+* Number of people with **symptoms**. Symptoms usually come between 1 and 10 days after the infection occurred.
 * Number of people admitted to **hospitals**. (This number can be lowered in absolute emergencies with triage.)
 * End of disease. Often about 10 days after symptom onset for a mild disease. The disease lasts usually much longer in severe cases and is fatal in about [1 of 400 cases](#on-numbers) which yields the **death count**.
 
