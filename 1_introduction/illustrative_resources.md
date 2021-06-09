@@ -1,4 +1,4 @@
-# Especially Illustrative, Insightful, Helpful and/or Extraordinary Literature
+# Especially Illustrative, Insightful, Helpful and,or Extraordinary Literature
 
 #### Content
 * [Notes on Reading](#notes-on-reading)
@@ -19,7 +19,8 @@ This page is a subjective collection of literature which provides insights to un
 ## Respiratory Viruses
 
 ### Jia 2005
-H Jia, et al **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  <https://doi.org/10.1128/JVI.79.23.14614-14621.2005> 
+H Jia, et al **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia**  
+<https://doi.org/10.1128/JVI.79.23.14614-14621.2005> 
 #### Highlights
 * The ACE2 receptor is expressed on ciliated epithelial cells. This differentiation is dynamic and is lost when submerged.
 * According to the ACE2 expression, Sars-Cov-1 infects mainly well differentiated ciliated airway epithelia cells. // Differentiated cells in the airways have a fast renewal time which makes longer lasting adverse effects or even permanent damage very unlikely (except for severe cases and/or when the immune system fails other cells can get infected)
@@ -44,6 +45,7 @@ The chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md) re
 ### Aerosol-FAQ
 **FAQs on Protecting Yourself from COVID-19 Aerosol Transmission**
 <https://tinyurl.com/FAQ-aerosols> Version: 1.87, 9-Dec-2020
+
 * A illustrative and readable description of aerosol transmission.
 * Practical measures and tips how to protect from aerosol transmission.
 * Written by renowned aerosol experts to inform and design protection measures in the US.
@@ -53,7 +55,9 @@ Similar tips are in the chapter [Suggestions and Tips](../1_introduction/suggest
 
 
 ### Yan 2018
-Jing Yan, et al **Aerosol shedding of infectious influenza virus**  <https://doi.org/10.1073/pnas.1716561115>
+Jing Yan, et al **Aerosol shedding of infectious influenza virus**  
+<https://doi.org/10.1073/pnas.1716561115>
+
 #### Highlights
 * "Our observations suggest that influenza infection in the upper and lower airways are compartmentalized and independent."
   * Nasal swabs are not very predictive for aerosol shedding.
@@ -66,17 +70,18 @@ Jing Yan, et al **Aerosol shedding of infectious influenza virus**  <https://doi
 
 #### Usage Here
 * The chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md) hypotheses the same for compartmentalization for coronavirus infections.
-* A [Summary and Reference](../5_epidemiological/transmission.md#summary-yan-2018) on the [transmission page](./../5_epidemiological/transmission.md).
+* A [Summary and Reference](../5_epidemiological/transmission.md#summary-yan-2018) on the [transmission page](../5_epidemiological/transmission.md).
 
 
 
 ### Boast 2020-2021
-Boast A, Munro A, Goldstein H. **An evidence summary of Paediatric COVID-19 literature, Don't Forget the Bubbles, 2020.** <https://doi.org/10.31440/DFTB.24063>
+Boast A, Munro A, Goldstein H. **An evidence summary of Paediatric COVID-19 literature, Don't Forget the Bubbles, 2020.** 
+<https://doi.org/10.31440/DFTB.24063>
 * An overview of the Covid spread in schools and children which has rolling updates.
 * Concise summaries of many investigations of the spread in schools.
 
 #### Usage Here
-* [Spread Analyses of Children and Schools](../5_epidemiological/spread_analyses.md#schools-and-children) 
+[Spread Analyses of Children and Schools](../5_epidemiological/spread_analyses.md#schools-and-children) 
 
 
 
