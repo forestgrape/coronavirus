@@ -385,7 +385,7 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 For severe betacoronavirus diseases nearly always the lower respiratory tract is involved (always in ARDS) (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)):
   
 As described in [particles deposition](../5_epidemiological/transmission.md#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. 
-* The [Tissue Tropism](../2_biological/coronavirus.md#tissue-tropism) of MERS requires lower respiratory tract entry to successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1. 
+* [MERS](../2_biological/coronavirus.md#mers-cov) likely requires lower respiratory tract entry for successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1. 
 * There are several [Disease Patterns](../3_medical/coronavirus_disease_patterns.md) observed resulting from SARS-Cov-2 infections and severe Covid is mostly associated with an early lower respiratory tract involvement.
 
 That in swab tests there are viruses in the nose and the mouth is caused by breathing them up and/or local replication. 
