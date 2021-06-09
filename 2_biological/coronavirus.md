@@ -12,11 +12,11 @@
   * [Coronavirus Proteins](#coronavirus-proteins)
 * [Capabilities](#capabilities)
   * [Enter Cells](#enter-cells)
-* [Behavior of Coronaviruses](#behavior-of-coronaviruses)
+* [Behaviors of Coronaviruses](#behaviors-of-coronaviruses)
   * [Introduction to the Behavior of Coronaviruses](#introduction-to-the-behavior-of-coronaviruses)
   * [Cell Behavior of Coronaviruses](#cell-behavior-of-coronaviruses)
   * [Cell Specific Behavior of Sars-Cov-2](#cell-specific-behavior-of-sars-cov-2)
-* [Tropism of Coronaviruses](#tropism-of-coronaviruses)
+* [Tropisms of Coronaviruses](#tropisms-of-coronaviruses)
   * [Respiratory Tract Tropism](#respiratory-tract-tropism)
 * [Evolution](#evolution)
   * [Conserved Patters](#conserved-patters)
@@ -182,7 +182,7 @@ The cell adhesion receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [
 
 
 
-## Behavior of Coronaviruses
+## Behaviors of Coronaviruses
 
 ### Introduction to the Behavior of Coronaviruses
 
@@ -218,7 +218,7 @@ Viruses optimized to their environment usually only infect cells involved in the
 
 
 
-## Tropism of Coronaviruses
+## Tropisms of Coronaviruses
 Tropism for viruses denotes the cells and tissues they preferable replicate (defined on the [Viruses Page](viruses.md#virus-tropism)).
 
 ### Respiratory Tract Tropism
