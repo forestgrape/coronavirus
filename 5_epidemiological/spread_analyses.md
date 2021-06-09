@@ -52,7 +52,6 @@
   * [References Sars-2 in South East Asia](#references-sars-2-in-south-east-asia)
 * [References](#references)
   * [Epidemiological Patterns](#epidemiological-patterns)
-  * [Aerosol Transmission](#aerosol-transmission)
 * [Appendix](#appendix)
   * [Terminology](#terminology)
   * [Sport Events](#sport-events)
@@ -262,8 +261,8 @@ For regions across the world the following is analysed:
   * High number of severe cases starting where the winter comes first: Central North and at high altitude (Colorado).
   * Early to Mid Winter 2020/2021: High case numbers in many states (less severe cases where the winter is warmer)
   * Mid to Late Winter 2021: Cases start decreasing. 
-* Possible Causes: The decline starting early January 2021 is likely due a combination of factors such as 1) some built up immunity 2) awareness and caution of the population and the government after peaks around thanksgiving but no overly strict measures such as general curfews and 3) shifting the protection focus to airborne transmission (outdoor gastronomy and shopping was often allowed e.g. in New York) => people are and meet outdoors. Additionally the measures were adapted to the local situations.
-  > There's a helpful [aerosol FAQ](#marr-aerosol-faq) from advisors in the US which I came across when reading the references of a [CO2 sensor usage recommendation](#stocker) from the Swiss Covid taskforce, which is a worthy read in itself.
+* Possible Causes: The decline starting early January 2021 is likely due a combination of factors such as 1) some built up immunity 2) awareness and caution of the population and the government after peaks around thanksgiving but no overly strict measures such as general curfews and 3) shifting the [protection focus to aerosol transmission](../7_social/controlling.md) (outdoor gastronomy and shopping was often allowed e.g. in New York) => people are and meet outdoors. Additionally the measures were adapted to the local situations.
+  
 
 #### Spring 2020
 * Measures:
@@ -1195,18 +1194,6 @@ LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006).
 **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** 
 Epidemiology and Infection, 134(2), 223-230. <https://doi.org/10.1017/S0950268805005054>
 
-
-### Aerosol Transmission
-
-<!--move to corresponding pages-->
-
-##### Marr-aerosol-faq
-**FAQs on Protecting Yourself from COVID-19 Aerosol Transmission**
-Shortcut to this page: <https://tinyurl.com/FAQ-aerosols> Version: 1.87, 9-Dec-2020
-
-##### Stocker
-**On the use of CO2 sensors in schools and other indoor environments**
-<https://sciencetaskforce.ch/wp-content/uploads/2021/04/CO2_sensors12Apr21-EN.pdf>
 
 
 
