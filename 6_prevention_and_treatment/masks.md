@@ -11,7 +11,7 @@
 * [References](#references)
 * [Appendix: Personal Mask Preferences](#appendix-personal-mask-preferences)
   * [Tips & Tricks](#tips--tricks)
-  * [Current Mask Preferences](#current-mask-preferences)
+  * [Personal Mask Preferences](#personal-mask-preferences)
   * [Personal Mask History](#personal-mask-history)
 
 
@@ -133,10 +133,10 @@ Reasons against masks seem sometimes rather searched:
 * Putting the masks a couple of hours to the fresh air before wearing reduces smells. Fabric smells can indicate volatile substances which may not be healthy to inhale (although I don't think these substance are any more hazardous than other substances we are daily exposed e.g. micro-plastic from car wires).
 * FFP1 masks of fold type and surgical masks to my experience become more comfortable with use since they loose their stiffness. As noted mask shouldn't be continuously over many hours; better to switch masks and [reuse the next day](#mask-reuse-and-cleaning).
 
-### Current Mask Preferences
-> Currently (winter 20/21 and spring 2021) 
-> * For day to day use (less than half an hour e.g. supermarket). I mainly use FFP1 masks of fold type, currently the model CX9501 (made by Jiangsu Sanfo Outdoor Products Co, Suqian, Jiangsu, China and sold for about 1$ at Migros). This mask has some foam protection above the nose which prevents an airstream into the eyes and provides comfort. Also behind-the-head clips are supplemented. The masks have a fabric when opened, open ahead of usage helps. Sometimes I also use surgical masks for day to day use.
-> * For longer time periods (more than about half an hour e.g. during train travel): I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). The filtration requirements for FFP1 masks is less than FFP2 masks but stricter than surgical masks. To my judgement the 3M 8710 E model does protect others from very fine aerosol as good as FFP2 models. Nevertheless I recommend FFP2 models if infected (tested or strong evidence) if transmission opportunities can't be avoided.
+### Personal Mask Preferences
+(December 2020 through May 2021)
+* April to June 2021: Often FFP1 masks of fold type, currently the model CX9501 (made by Jiangsu Sanfo Outdoor Products Co, Suqian, Jiangsu, China and sold for about 1$ at Migros). This mask has some foam protection above the nose which prevents an airstream into the eyes and provides comfort. Also behind-the-head clips are supplemented. The masks have a fabric when opened, open ahead of usage helps. Sometimes I also use surgical masks for day to day use.
+* December 20 to May 21: Especially longer time periods (more than about half an hour e.g. during train travel): I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). The filtration requirements for FFP1 masks is less than FFP2 masks but stricter than surgical masks. To my judgement the 3M 8710 E model does protect others from very fine aerosol as good as FFP2 models. Nevertheless I recommend FFP2 models if infected (tested or strong evidence) if transmission opportunities can't be avoided.
 __Advantages__: As for most dust protection masks, the fit is dense due to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
 
@@ -150,13 +150,15 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
 
 
 ### Personal Mask History
-> 1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a dense fit. However, the fit came at the cost of a reduced comfort: very tight bands around the head and not really comfortable at the nose. // I am not sure anymore if these were good masks, a very similar/even the same model was shown to have incorrect declarations and to fail the specifications. Also a direct  (subjective and not scientific) comparison to the FFP2 masks of 2021, the 2021 models seem to have the better filters.
-> 2. In summer 2020 I bought some cloth mask but I didn't like the fit since there was no fixation above the nose. I went to the hardware store to get some other dust FFP2s, however these were sold out but instead they had cloth masks. These had a good fit and were comfortable and I used them during summer.
-> 3. In autumn when (evidence for) aerosol transmission increased combined with reports that many cloth mask were not dense enough, I went on to surgical masks. There are differences between the models of surgical masks: some are easier to breath through while others more air sidelines by the nose/eyes, which can be distracting.
-> 4. Over the winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters sometimes produces purpose defeating and uncomfortable sidelined air. But usually no more than surgical masks, so overall the protection from FFP1 masks is better.
-> 5. Around christmas time I went once again to a hardware store to buy some dust FFP2. Sold out FFP2 dust masks again, but dust FFP1 were available. They fit and are in use since then(Introduction statement).
-> 6. In spring 2021 I started using FFP1 masks of fold type. They are widely available to ok prices (about 1$/SFR/Euro) and the breathing ability is good by now.
-
+1. Started with FFP2 dust protection masks from a hardware store. Even though they weren't made from cloth they felt like. Officially these masks weren't washable but hand-washing with soap worked. The masks had a dense fit. However, the fit came at the cost of a reduced comfort: very tight bands around the head and not really comfortable at the nose. // Looking back this masks were bad (back then I didn't know much about masks):
+   * a very similar/even the same model was shown to have incorrect declarations and to fail both tests and specifications. 
+   * a direct (subjective and not scientific) comparison to the FFP2 masks of 2021, the 2021 models have much better filters.
+2. In summer 2020 I bought some cloth mask but I didn't like the fit since there was no fixation above the nose. I went to the hardware store to get some other dust FFP2s, however these were sold out but instead they had cloth masks. These had a good fit and were comfortable and I used them during summer.
+3. In autumn when (evidence for) aerosol transmission increased combined with reports that many cloth mask were not dense enough, I went on to surgical masks. There are differences between the models of surgical masks: some are easier to breath through while others more air sidelines by the nose/eyes, which can be distracting.
+4. Over the winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters sometimes produces purpose defeating and uncomfortable sidelined air. But usually no more than surgical masks, so overall the protection from FFP1 masks is better.
+5. Around christmas time I went once again to a hardware store to buy some dust FFP2. Sold out FFP2 dust masks again, but dust FFP1 were available. They fit and are in use since then(Introduction statement).
+6. In spring 2021 I started using FFP1 masks of fold type. They are widely available to ok prices (about 1$/SFR/Euro) and the breathing ability is good by now.
+7. In summer 2021 I moved to (colorful) surgical masks since transmission of severe Covid is very low.
 
 
 
