@@ -8,7 +8,7 @@
 * [Transmission](#transmission)
   * [Aerosol-FAQ](#aerosol-faq)
   * [Yan 2018](#yan-2018)
-* [Boast 2020-2021](#boast-2020-2021)
+  * [Boast 2020-2021](#boast-2020-2021)
 
 ## Notes on Reading
 This page is a subjective collection of literature which provides insights to understand coronaviruses and their diseases and/or is extraordinary and investigates topics few others do. 
@@ -70,7 +70,7 @@ Jing Yan, et al **Aerosol shedding of infectious influenza virus**  <https://doi
 
 
 
-## Boast 2020-2021
+### Boast 2020-2021
 Boast A, Munro A, Goldstein H. **An evidence summary of Paediatric COVID-19 literature, Don't Forget the Bubbles, 2020.** <https://doi.org/10.31440/DFTB.24063>
 * An overview of the Covid spread in schools and children which has rolling updates.
 * Concise summaries of many investigations of the spread in schools.
