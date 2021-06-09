@@ -256,7 +256,7 @@ There are two common methods to measure tissue distribution of proteins:
 [in work, verification needed]
 For serving as an entry point, ACE2 needs to be built into the cell membrane as a receptor i.e. being useable from the outside. 
 
-Since coronaviruses have a preference for [apical tissue sites](#tissue-tropism) ACE2 should be expressed on the apical sites. 
+Since coronaviruses have a preference for [apical tissue sites](#apical-side-tropism) ACE2 should be expressed on the apical sites. 
 * [Antibody staining](antibody-staining) alone can yield false positives if the cells are not properly cleaned and ACE2 is just attached to the cell without being built into the cell membrane. 
 * [Measuring mRNA](#measure-mrna) just detects if the cells produces ace2. But proteins produced by a cell can  
     - stay in the cell e.g. in the cytoplasm or move into the nucleus
