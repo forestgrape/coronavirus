@@ -61,9 +61,9 @@ Jing Yan, et al **Aerosol shedding of infectious influenza virus**
 
 #### Highlighted
 * "Our observations suggest that influenza infection in the upper and lower airways are compartmentalized and independent."
-  * Nasal swabs are not very predictive for aerosol shedding.
+  * Nasal swabs are not a good predicator for aerosol shedding.
   * Lower respiratory tract symptoms tend to indicate higher RNA shedding via aerosol.
-* Symptomatic patients infected with influenza A, have about the same nasal viral load as unvaccinated but the vaccinated shed several times more viral RNA with fine aerosol than unvaccinated.
+* Intriguingly symptomatic patients infected with influenza A, have about the same nasal viral load as unvaccinated but the vaccinated shed several times more viral RNA with fine aerosol than unvaccinated. On the other hand for influenza B nasal viral load and the shedding are not much different between vaccinated and unvaccinated.
 
   > Similar investigations (more than one and with different strains!) would be very helpful for Covid.
   > * To better understand viral shedding and transmission.
@@ -77,11 +77,15 @@ Jing Yan, et al **Aerosol shedding of infectious influenza virus**
 ### Boast 2020-2021
 Boast A, Munro A, Goldstein H. **An evidence summary of Paediatric COVID-19 literature, Don't Forget the Bubbles, 2020.** 
 <https://doi.org/10.31440/DFTB.24063>
+#### Highlighted
 * An overview of the Covid spread in schools and children which has rolling updates.
 * Concise summaries of many investigations of the spread in schools.
+* Children are less infectious than adults and no super spreading is observed for children
+  * adults in school settings yield more secondary cases than children (despite children tend to have closer contact)
+  * hardly any clusters among pupils are observed
 
 #### Usage Here
-[Spread Analyses of Children and Schools](../5_epidemiological/spread_analyses.md#schools-and-children) 
+Not yet, but will be included to [Spread Analyses of Children and Schools](../5_epidemiological/spread_analyses.md#schools-and-children) 
 
 
 
