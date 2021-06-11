@@ -1,4 +1,6 @@
 # Masks
+Effectiveness, Types, Usage and Use Cases of Masks
+
 * [Mask Usage](#mask-usage)
 * [Mask Effectiveness](#mask-effectiveness)
 * [Mask Types](#mask-types)
