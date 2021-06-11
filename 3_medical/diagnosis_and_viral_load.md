@@ -1,6 +1,5 @@
 
-Diagnosis and Viral Load
-========================
+# Diagnosis and Viral Load
 
 * [Summary](#summary)
 * [Introduction to Diagnosis](#introduction-to-diagnosis)
