@@ -1,4 +1,7 @@
-# Especially Illustrative, Insightful, Helpful and,or Extraordinary Literature
+
+Illustrative Resources
+======================
+Especially Illustrative, Insightful, Helpful and,or Extraordinary Literature
 
 #### Content
 * [Notes on Reading](#notes-on-reading)
