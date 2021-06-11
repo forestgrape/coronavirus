@@ -1,5 +1,6 @@
-# Spread Analyses
 
+# Spread Analyses
+Spread Analyses across the World and across different Settings
 * [Short Summary](#short-summary)
 * [Summary](#summary)
   * [Summary Findings regarding Transmission Paths](#summary-findings-regarding-transmission-paths)
