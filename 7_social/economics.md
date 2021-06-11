@@ -1,6 +1,9 @@
-# Economics
 
----
+
+Economics
+=========
+Thoughts about Economical Systems and their Credit Systems, Economic Fairness and Modern Infrastructure
+
 
 ### Remark
 * **in work** 
@@ -32,7 +35,7 @@
 * [Summarized References](#summarized-references)
 * [References](#references)
 * [Appendix](#appendix)
-  * [Temporarily Hidden Thoughts about Aspects of Economic Fairness](#temporarily-hidden-thoughts-about-aspects-of-economic-fairness)
+  * [Aspects of Economic Fairness](#aspects-of-economic-fairness)
 
 > ##### Economics
 > Science about the production, consumption, and transfer of goods and services.
@@ -278,7 +281,7 @@ More fairness for choosing job/work options.
 
 ## Appendix
 
-### Temporarily Hidden Thoughts about Aspects of Economic Fairness
+### Aspects of Economic Fairness
 > The section here is temporarily commented out -  related but off topic thoughts on aspects *economic* fairness (economics and to some extent education is considered but *not* other topics). I'd like to think more and invest more time to consider more view points and experiences. The draft is accessible as comment on the markdown file. Rethinking and discussing is helpful. ~~planned for spring 2021.~~ For the time being the thoughts are left as commented draft to emphasis that they are incomplete. Feedback is appreciated.
 
 
