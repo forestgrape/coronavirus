@@ -3,7 +3,8 @@ title: Coronaviruses
 ---
 
 # Coronaviruses with a Focus on Sars-CoV-2
-Coronaviruses: The species and various properties such as 
+Topics on Coronaviruses helpful to understand the infections they cause.
+
 * [Summary](#summary)
 * [Systematics of Coronaviruses](#systematics-of-coronaviruses)
   * [Nidovirales](#nidovirales)
