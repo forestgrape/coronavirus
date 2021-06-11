@@ -1,6 +1,9 @@
+---
+title: Coronaviruses
+---
 
 # Coronaviruses with a Focus on Sars-CoV-2
-
+Coronaviruses: The species and various properties such as 
 * [Summary](#summary)
 * [Systematics of Coronaviruses](#systematics-of-coronaviruses)
   * [Nidovirales](#nidovirales)
@@ -21,7 +24,6 @@
 * [Evolution](#evolution)
   * [Conserved Patters](#conserved-patters)
   * [Changing Patterns](#changing-patterns)
-* [Adaption](#adaption)
   * [Adaption to New Hosts](#adaption-to-new-hosts)
 * [References](#references)
   * [RNA Viruses](#rna-viruses)
@@ -269,9 +271,6 @@ Examples of well conserved proteins for coronaviruses are:
 * The N terminal part of the spike protein mutates frequently. By such mutations coronaviruses can evade neutralizing antibodies (described on the page [Immune Evasion](./../4_immunological/immune_evasion.md)).
 
 > the description of more changing patters is in work.
-
-
-## Adaption
 
 
 ### Adaption to New Hosts
