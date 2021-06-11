@@ -20,6 +20,7 @@ html {
     html { font-size: 80%; }
   }
 
+#nav-content>h1 {display: none;}
 
   
 nav {
