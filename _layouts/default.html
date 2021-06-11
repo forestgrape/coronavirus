@@ -16,38 +16,41 @@
 <body onscroll="onContentMove()">
 
 
-  <nav id="side-nav" onmouseover="showSideNavScrollbar()" >
-    <span class="toc-list" style="font-size: .8rem; cursor:pointer; padding-left: 1em; padding-right: 1em;" onclick="hideNav()">&#10006</span>
+  <nav  class="toc-list" id="side-nav" onmouseover="showSideNavScrollbar()" >
+    <span style="font-size: .8rem; cursor:pointer; padding-left: 1em; padding-right: 1em;" onclick="hideNav()">&#10006</span>
     <hr>
-    <a class="toc-list" href="{{site.baseurl}}/index.html#top" style="color:white">Home</a>
+    <a " href="{{site.baseurl}}/index.html#top" style="color:white">Home</a>
     <hr>
-    <a class="toc-list" href="{{site.baseurl}}/index.html#content" style="color:white">Content Overview</a>
+    <a  href="{{site.baseurl}}/index.html#content" style="color:white">Overall Content</a>
     <hr>
-    <p class="toc-list" style="font-size: 0.6em;">Current Page and its content:</p>
-    <section id="nav-toc">
-    </section>
+    <hr>
+    <p style="font-size: 0.5em;">Current Page:</p>
+    <p class="is-active-link">{{page.title}}</p>
+    <p style="font-size: 0.5em;">Current Location:</p>
+    <section id="nav-toc"> </section>
   </nav>
 
 
   <section id='central-content' class="main-content" onmouseover="hideSideNavScrollbar()">
     <!--on this page: header and footer are only visible when on top respectively bottom-->
 
-    <div id="menu-button" style="font-size:2.5rem;cursor:pointer"
+    <div 
+      id="menu-button" style="font-size:2.5rem; cursor:pointer"
       onmouseover="document.getElementById('menu-button').innerHTML = '&#9776'"
       onmouseout="document.getElementById('menu-button').innerHTML = '&nbsp&nbsp&nbsp'" onclick="showNav()">
       &nbsp&nbsp&nbsp
     </div>
 
     <header style="text-align: center;">
-      <h1 class="project-name" style="color: azure;">{{ site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name" style="color: azure;">{{ page.title | default: site.github.repository_name }}</h1>
       {% if page.home %}
-      <p>{{ site.description | default: site.github.project_tagline }}</p>
-      <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
     </header>
 
 
-    <section class="nav-content">
+    <section id="nav-content">
       {{ content }}
     </section>
 
@@ -75,9 +78,9 @@
       // Where to render the table of contents.
       tocSelector: '#nav-toc',
       // Where to grab the headings to build the table of contents.
-      contentSelector: '.nav-content',
+      contentSelector: '#nav-content',
       // Which headings to grab inside of the contentSelector element.
-      headingSelector: 'h1, h2, h3, h4',
+      headingSelector: 'h2, h3, h4',
       // For headings inside relative or absolute positioned containers within content.
       hasInnerContainers: true,
       headingsOffset: 20,
