@@ -27,8 +27,8 @@ const side_nav = document.getElementById('side-nav')
 
 function showSideNavScrollbar() {
     /*show the the nav scroll bar if necessary*/
-    const TITLE_OFFSET = 170;
-    if (side_nav.offsetHeight < document.getElementById('nav-toc').offsetHeight + TITLE_OFFSET) {
+    const OPTIONS_SPACE = 170;
+    if (side_nav.offsetHeight < document.getElementById('nav-toc').offsetHeight + OPTIONS_SPACE) {
         //console.log('show overflow')
         side_nav.setAttribute("style", "overflow-y:auto")
     }
