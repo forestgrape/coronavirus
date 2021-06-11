@@ -1,6 +1,9 @@
 
-# Thoughts on Controlling Sars-CoV-2
-This chapter extends and [Public Advices and Suggestions](../1_introduction/suggestions.md) chapter. 
+# Controlling SARS-CoV-2
+
+Thoughts on Controlling Sars-CoV-2
+
+> This chapter extends and [Public Advices and Suggestions](../1_introduction/suggestions.md) chapter. 
 
 * [Spread Assumptions](#spread-assumptions)
   * [Indoors](#indoors)
