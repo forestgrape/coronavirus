@@ -207,7 +207,8 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 * ##### Smoking
   _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
 
-  > Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be caused by (possibly toxic) environment changes in the lung when smoking. However [local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the health hazards of smoke.
+  > However the overall health benefits of a smoke stop outweigh by fare a possible increased Covid incidence: Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be caused by (possibly toxic) environment changes in the lung when smoking.[Local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the possibility of health hazards which smoke has.
+
 
 #### Overweight
 * *Observations:*
@@ -438,7 +439,7 @@ Possible Explanation: The medical staff is used to protect against fomites and d
 Long-Term Care Facility in Seattle [Honein et al](#honein).
 
 ### Indoor Social Settings
-* [Contact Tracing in Hong Kong](#summary-ada,mwu) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
+* [Contact Tracing in Hong Kong](#summary-adam) revealed that transmission in social settings (bars, weddings, temples) was associated with more secondary cases than households.
 
 
 ### Cruise Ships
