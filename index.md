@@ -34,6 +34,12 @@ This section overviews the content. The [full content section](#content) lists t
 ---
 
 ## Recent Topics Added
+- 12.6. [Vaccine Questions](10_vaccines/vaccine_questions.md): Open question and a critical assessment of vaccines safety. Reasons why symptom watching is not not enough to ensure safety.
+  > The section is RUSHED out since healthy and young people and even children are motivated or even pressured to get highly experimental and poorly disclosed/understood 'mRNA' vaccines.
+
+  > In temperate climates on the Northern hemisphere, there is no need to rush vaccinating the healthy and young. 
+  
+  > Risk groups in risk regions (e.g. countries in the Southern hemisphere) will thank for vaccines.
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 - 12.5. [Aggregation of Atoms](9_physics/aggregations_of_atoms.md) page to provide context to topics such as condensation & evaporation and efflorescence.
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment. It reduces the number of infectious virions and optimize the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
@@ -60,16 +66,6 @@ This section overviews the content. The [full content section](#content) lists t
   - Bundling of content (Previously spread analysis topics were partly scattered e.g. the Dry Form Model contained spread descriptions.) 
   - Emphasized importance of good health (healthy lifestyles including sport and avoiding/reducing air pollution)
   - Most severe Cases are observed in setting with dry air (heated, ACs or dry outdoor air).
-
-- 12.5. Many formulations and clarifications across the page. For clarity, all formulations (including comments) are not intended ambiguous and if they are it's by mistake. In face-to-face conversations ambiguity can work, but not on a page like this I realized. -> [Notes on Comments](#comments).
-
-- 27.4. Clarified Note on [Comments](#comments). Added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).
-
-- 25.4. Page coronaviruses separated into the pages:
-  - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
-  - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do.
-  - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
-  - [Motion](./2_biological/mobility.md) How life form move or get moved to cross distances.
 * [-> Full Update History](./1_introduction/update_history.md)
 
 

@@ -35,7 +35,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 > 
 > Regarding vaccine recommendations the known and the unknown are important:
 > * What has been shown for the approved vaccines is, that they efficiently prevent Covid-19 with typical symptoms combined with positive NPS PCR test and severe Covid-19 at tolerable reactogenicity (typical vaccine side effects).
-> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects. Especially in view of vaccinating young people, timely investigations/estimates (long-term) and publishing is needed. Both effects are less a concern for inactivated virus vaccines or other protein based vaccines as long as the adjuvants are harmless (which is not always sure e.g. the safety profile of aluminum is surprisingly unclear despite being in use for 90 years.). For other technologies the effects depend on the exact specifications. RNA vaccines are in general __not__ comparable to protein only vaccines (mRNA vaccines do produce proteins but they thereby often [likely always, to check] mess around with the depths of eukaryotic life. This induces a strong immune response with antibodies, stronger than for proteins alone).
+> * What is mostly unknown/not investigated/not published are adverse effects such as immune system disorders or long-term effects. Especially in view of vaccinating young people, timely investigations/estimates (long-term) and publishing is needed. Both effects are less a concern for inactivated virus vaccines or other protein based vaccines as long as the adjuvants are harmless (which is not always clear e.g. the safety profile of aluminum is surprisingly unclear despite being in use for 90 years.). For other technologies the effects depend on the exact specifications. RNA vaccines are in general __not__ comparable to protein only vaccines (mRNA vaccines do produce proteins but they thereby often [likely always, to check] mess around with the depths of eukaryotic life. This induces a strong immune response with antibodies, stronger than for proteins alone).
 > * There are open questions how  SARS-CoV-2 infections are changed apart from reducing typical/severe Covid-19: The effects of vaccines on virus shedding, virus evolution (both point mutations and recombination) and changed pathogenesis are mostly unknown/not investigated/unpublished.
 >  
 > An unbiased discussion is missing since many risks ignored and unknown risks are dismissed as not possible. 
@@ -73,6 +73,15 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.  
 
 ## Minor Updates
+- 12.5. Many formulations and clarifications across the page. For clarity, all formulations (including comments) are not intended ambiguous and if they are it's by mistake. In face-to-face conversations ambiguity can work, but not on a page like this I realized. -> [Notes on Comments](#comments).
+
+- 27.4. Clarified Note on [Comments](#comments). Added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).
+
+- 25.4. Page coronaviruses separated into the pages:
+  - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
+  - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do.
+  - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
+  - [Motion](./2_biological/mobility.md) How life form move or get moved to cross distances.
 - 1.4. - 25.4. Formulations across the pages. E.g. added note that allowing and promoting outdoor activities often not only reduces the burden of Covid measures but often also help reducing severe Covid cases since less time is spent indoors and the lifestyles are healthier. Specified [support for closed businesses](7_social/controlling.md#support-for-individuals-and-businesses).
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
 - 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
