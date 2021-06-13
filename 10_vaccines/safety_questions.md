@@ -8,11 +8,11 @@
 
 > This section is partly subjective. My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However, I am not sure whether anybody understands RNA. RNA can do a lot. In public discussions about 'mRNA' vaccine safety, views, outdated for decades are widespread e.g. that RNA is always degraded fast and its only used to message protein-encodings:
 > * RNA is always degraded fast? This is *wrong*. 
-> * RNA is  just a messenger for protein translation? A few percentage true, since a tiny fraction of all RNA is indeed used to message proteins.
+> * RNA is  just a messenger for protein translation? Not completely wrong, since a small fraction of all RNA is indeed used to message proteins.
 
 > I am thankful to be informed when and which of the points below are wrong or the safety regarding them is known.
 
-> __entire page is in work and to be checked__
+> __entire page is in work__
 
 
 * [Summary](#summary)
