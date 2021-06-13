@@ -1,6 +1,7 @@
 # Critical Assessment of Vaccine Trials and (open?) Questions
 
-> __RUSHED OUT__ since children and young and healthy people are not only allowed but often pressured to take vaccines deemed as safe. This even though just symptoms but not the safety has been accessed as it is outlined. Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy, especially since epidemiological benefits are unclear.
+> __RUSHED OUT__ since children and young and healthy people are not only allowed but often pressured to take vaccines deemed as safe. This even though 
+symptoms are tolerable the safety is unclear as argued. Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy.
 
 > Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be proven and proven independently and not just be likely.
 
