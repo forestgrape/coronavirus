@@ -34,12 +34,13 @@ This section overviews the content. The [full content section](#content) lists t
 ---
 
 ## Recent Topics Added
-- 12.6. [Vaccine Questions](10_vaccines/vaccine_questions.md): Open question and a critical assessment of vaccines safety. Reasons why symptom watching is not not enough to ensure safety.
-  > The section is RUSHED out since healthy and young people and even children are motivated or even pressured to get highly experimental and poorly disclosed/understood 'mRNA' vaccines.
+- 12.6. [Vaccine Questions](10_vaccines/vaccine_questions.md): Open question and a critical assessment of vaccines safety. It is argued that symptom watching is not not enough to ensure safety.
+  > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
 
-  > In temperate climates on the Northern hemisphere, there is no need to rush vaccinating the healthy and young. 
+  > In temperate climates on the Northern hemisphere, there is no need to rush vaccinating the healthy and young.
   
-  > Risk groups in risk regions (e.g. countries in the Southern hemisphere) will thank for vaccines.
+  > Risk groups in risk regions (e.g. countries in the Southern hemisphere) will thank for vaccines now. Later can be to late.
+
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 - 12.5. [Aggregation of Atoms](9_physics/aggregations_of_atoms.md) page to provide context to topics such as condensation & evaporation and efflorescence.
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment. It reduces the number of infectious virions and optimize the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
