@@ -5,21 +5,20 @@ home: true
 
 
 # Understanding Betacoronaviruses and their Diseases
+
+This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses tagged as 'explorative'. 
+* [Bird View of Content](#bird-view-of-content): Gives a short overview of the different topics.
+* [Notes on Reading](#notes-on-reading): Notations used and how the page is written.
+* [Updates](#updates): Lists the most recent topics added and changes of content:
+  * [Recent Topics Added](#recent-topics-added)
+  * [Recent Updates](#recent-updates)
+* [Content](#content). Detailed content overview including twittering summaries.
  
 ## Bird View of Content
 This section overviews the content. The [full content section](#content) lists the topics discussed in more detail. The chapter links point there.
 
-* Index (this page)
-  * [Bird View of Content](#bird-view-of-content): This section.
-  * [Recent Topics Added](#recent-topics-added)
-  * [Recent Updates](#recent-updates)
-  * [Notes on Reading](#notes-on-reading): This page contains both old and new knowledge. Sometimes hypotheses are stated which are not (yet) evaluated. Hypotheses and not well established knowledge are marked with a tag 'explorative'.
-  * [Content](#content). Content overview and twittering summaries.
-  * [Explorative Chapters](#explorative-chapters). Highlights explorative chapters.
-<!--formatting like this to number introduction with 1. & ensure ok presentation -->
-
 1. [Introduction](#introductory-topics)
-  * [Public Suggestions and Tips](./1_introduction/suggestions.md). Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important.
+  * [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important. 
   * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.
 
 2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
@@ -33,7 +32,8 @@ This section overviews the content. The [full content section](#content) lists t
 
 ---
 
-## Recent Topics Added
+## Updates
+### Recent Topics Added
 - 12.6. [Vaccine Questions](10_vaccines/vaccine_questions.md): Open question and a critical assessment of vaccines safety. It is argued that symptom watching is not not enough to ensure safety.
   > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
 
@@ -47,7 +47,7 @@ This section overviews the content. The [full content section](#content) lists t
 - 23.3. Proposal of [Local Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
 
 
-## Recent Updates
+### Recent Updates
 - 10.6. Added in [notes on reading](#notes-on-reading) that referencing is always welcome.
 - 8.6./9.6. Clarifications and reordering across the page.  On the [Controlling Page](7_social/controlling.md) added a section [Balancing of Measures](7_social/controlling.md#balancing-of-measures) and the previous Balance section renamed to [On Balancing of Measures](7_social/controlling.md#on-balancing-of-measures).
 - 28.5.- 3.6. 
