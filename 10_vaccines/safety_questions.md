@@ -2,13 +2,13 @@
 
 > __Rolling publication_ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. 
 
-> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be proven  and not just be likely or unknown.  Innocent people may have life-long adverse effects or even die for supposed considerate and safe action.
+> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be proven and not just be likely or unknown. Innocent people may have life-long adverse effects or even die for a supposed considerate and safe actions. // I just read yesterday (12.6.21) about a young woman who died in Italy.
 
 > Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy.
 
-> This section is partly subjective. My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However, I am not sure whether anybody understands RNA. RNA can do a lot. In public discussions of 'mRNA' vaccine safety, views, outdated for decades are widespread e.g. that RNA is always degraded fast and its only used to message protein-encodings:
+> This section is partly subjective. My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However, I am not sure whether anybody understands RNA. RNA can do a lot. In public discussions about 'mRNA' vaccine safety, views, outdated for decades are widespread e.g. that RNA is always degraded fast and its only used to message protein-encodings:
 > * RNA is always degraded fast? This is *wrong*. 
-> * Encodes proteins? Partly true, since a tiny fraction of all RNA is indeed used to encode proteins.
+> * RNA is  just a messenger for protein translation? A few percentage true, since a tiny fraction of all RNA is indeed used to message proteins.
 
 > I am thankful to be informed when and which of the points below are wrong or the safety regarding them is known.
 
@@ -30,11 +30,12 @@
 
 
 ## Summary
-Symptom watching and surveillance and ensure tolerable symptoms is mostly enough for attenuated live pathogen vaccines since it is known what to except. However tolerable symptoms are not enough to ensure the safety of new vaccines technologies such as transfected RNA or viral vectors. These new technologies require a thorough understanding of their behavior in the body to assess their safety. E.g. transfected RNA may enter arbitrary tissues and cells: Transfection of the wrong cells such as long-lived neurones, stem cells or immune cells can have bad effects. Upon transfection many things can happen e.g. cell death can be caused. So in theory adverse effects can include a permanent loss of neurones - how many if at all is hard to say: comparable to a few hours of missing sleep or comparable to one or several MDMA (ecstasy) trip?
-
-Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine:
-* For adenovirus based vaccines the adenovirus species and its characterization is needed e.g. have they a haemoglutinating activity, how they distribute and when and how they are cleared.
-* For mRNA vaccines the tissue and cell kinetics and the exact sequence and nucleoside modification are needed.
+Symptom watching and surveillance is usually enough for attenuated live pathogen vaccines since it is known what to except. When the symptoms are tolerable and limited the disease is not caused and so the vaccine is much than having the disease. However this method of tolerable symptoms watching is not enough to ensure the safety of other vaccines technologies. Vaccines require a thorough understanding of their behavior in the body to assess their safety by symptoms alone. Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine:
+* Even tolerable disease symptoms watching can be tricky. E.g. AIDS vaccines based on the normal AIDS virus will pass a short term tolerable symptom test and antibodies will be detected. =>  the kinetics of the pathogen is needed and for some pathogens short term watching is not enough
+* For vaccines with adjuvants symptom watching is also not enough. E.g. mercury would easily pass a symptom test, however mercury can cause long term damage. Aluminum is often used even though its safety profile is surprisingly unclear. => the kinetics and behaviour of the adjuvants needs to be known.
+* Transfected RNA may enter arbitrary tissues and cells: Transfection of the wrong cells such as long-lived neurones, stem cells or immune cells can have bad and life long effects. Upon transfection many things can happen e.g. cell death can be caused. So in theory adverse effects can include a loss of neurones - how many if at all is hard to say: comparable to a few hours of missing sleep or comparable to one or several MDMA (ecstasy) trips? If the bone marrow is infiltrated pluripotent stem cells can be knocked off which can in theory yield a reduced life expectancy. => For mRNA vaccines at least the tissue and cell kinetics and the exact sequence and nucleoside modification are needed.
+* For adenovirus based vaccines the adenovirus species and its characterization is needed e.g. have they a haemoglutinating activity, how they distribute and when and how they are cleared. Haemoglutinating causes blood cells to clump which is possibly the cause of the observed thrombosis events.
+* 
 
 
 ## Introduction
@@ -63,14 +64,15 @@ Symptom surveillance is only enough in the cases where the kinetics is known and
 * Substance where the kinetics or the pattern of damage is unknown.
 
 ### Covid Vaccine Trials
-Regarding the current mRNA and vector technologies long term and subtle health hazards are possible to. The trials only looked for symptoms and relevant data such as the tissue tropism and the exact sequences are/seem  withhold by the companies and possibly even by health authorities. Possibly for economic reasons, possibly to prevent an open discussion about side effects. 
+Regarding the current mRNA and vector technologies long term and subtle health hazards are possible too. The trials only looked for symptoms and relevant data such as the tissue tropism and the exact sequences are/seem  withhold by the companies and possibly even by health authorities. Possibly for economic reasons, possibly to prevent an open discussion about side effects. 
 
-> It is unclear whether vaccines companies spend time and resources to ensure the safety since they are rumoured to have contracts which frees them from liability.
+> It is unclear whether vaccines companies spend time and resources to ensure the safety. Especially if the rumoured contracts are true which frees them from liability.
 
+> In my opinion such contracts should be waved immediately unless the companies go open source with the entire vaccine technology stack such that an independent safety assessment is possible.
 
 
 ## Kinetics of the Vaccines
-An important property to estimate possible effects of things is their kinetics. Kinetics denotes here, the distribution and clearance or accumulation pathways. It is a generalisation of pharmacokinetics to things: not just pharmaceutical drugs but anything which can distribute in the body such as pathogens which include viruses.
+An important property to estimate possible effects of things is their kinetics. Kinetics denotes here, the distribution and clearance or accumulation pathways. It is a generalisation of pharmacokinetics to things: not just pharmaceutical drugs but any-thing which can distribute in the body such as pathogens which include viruses.
 
 
 Some points relevant for Covid vaccines are:
@@ -109,20 +111,4 @@ Many adenoviruses have haemoglutinating properties i.e. they act as glue to clum
 > * using a nasal or oral spray formulation as it is done in farming for decades.
 
 
-
-## Covid Infection and Immune Responses in Vaccinated People
-
-### Immune Responses upon Infection
-Mostly it has been published that the admitted vaccinations produces some (or a lot of) IgG. Some show that also T cells are primed. By independent research groups it is shown that most vaccines fail to produce IgA. 
-
-However few is published about what happens upon infection. 
-* Are the IgG globulins up-scaled? Stay they constant because they are already high enough or the body judges them as not adequate against respiratory infections?
-* Are the IgA globulins up-scaled? More quickly than at SARS-2 unexposed people?  // It can be that the main protection of the vaccines results from the knowledge of the antibodies to target SARS-2 and not from the IgG levels in the blood. If that's the case much lower doses of vaccines could be sufficient - offering near the same protection at lower risks for unwanted effects.
-
-### Disease Progression and Pattering
-How the vaccination primed immune system alters SARS-CoV-2 infections is unclear:
-* Which locations are infected? Or concretely in which specimens SARS-2 RNA is detected? In NPS samples, saliva samples, endotracheal lavage fluid, bronchealveolar lavage fluid? E.g. it could be that mainly the bronchi are infected but not the alveoli. This is possible since the bronchial epithelium is less protected by IgG, but the alveolar cells are protected by IgG.
-* Is the clearance faster or slower. Longer infection durations or even persistent infections are possible if the only the bronchial epithelium but not the alveolar macrophages are infected, in this case there may be no strong immune response.
-
-Background: For vaccinated people at baseline there's much IgG but few IgA. The viruses may be mainly prevented from infecting the alveoli (which corresponds to the observations that vaccines reduce the frequency of ARDS).
 
