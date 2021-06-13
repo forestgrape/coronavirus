@@ -1,4 +1,4 @@
-# Critical Assessment of Vaccine Trials and (open?) Questions
+# Vaccine Safety and (open?) Questions
 
 > __Rolling publication_ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. 
 
@@ -24,9 +24,6 @@
 * [Kinetics of the Vaccines](#kinetics-of-the-vaccines)
 	* [Kinetics of mRNA Vaccines](#kinetics-of-mrna-vaccines)
 	* [Kinetics of Adenovirus Vaccines](#kinetics-of-adenovirus-vaccines)
-* [Covid Infection and Immune Responses in Vaccinated People](#covid-infection-and-immune-responses-in-vaccinated-people)
-	* [Immune Responses upon Infection](#immune-responses-upon-infection)
-	* [Disease Progression and Pattering](#disease-progression-and-pattering)
 
 
 ## Summary
