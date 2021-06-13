@@ -32,9 +32,10 @@ This section overviews the content. The [full content section](#content) lists t
 
 ---
 
+
 ## Updates
 ### Recent Topics Added
-- 12.6. [Vaccine Questions](10_vaccines/vaccine_questions.md): Open question and a critical assessment of vaccines safety. It is argued that symptom watching is not not enough to ensure safety.
+- 12.6. [Vaccine Safety Questions](10_vaccines/safety_questions.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
   > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
 
   > In temperate climates on the Northern hemisphere, there is no need to rush vaccinating the healthy and young.
@@ -48,6 +49,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ### Recent Updates
+- 13.6. Split up Questions on Vaccines into [Safety Questions](./10_vaccines/safety_questions.md) and [Vaccination Effects on Infection](./10_vaccines/effects_on_covii.md)
 - 10.6. Added in [notes on reading](#notes-on-reading) that referencing is always welcome.
 - 8.6./9.6. Clarifications and reordering across the page.  On the [Controlling Page](7_social/controlling.md) added a section [Balancing of Measures](7_social/controlling.md#balancing-of-measures) and the previous Balance section renamed to [On Balancing of Measures](7_social/controlling.md#on-balancing-of-measures).
 - 28.5.- 3.6. 
