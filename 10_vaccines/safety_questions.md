@@ -2,7 +2,7 @@
 
 > __Rolling publication_ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. 
 
-> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be proven and not just be likely or unknown. Innocent people may have life-long adverse effects or even die for a supposed considerate and safe actions. // I just read yesterday (12.6.21) about a young woman who died in Italy.
+> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be proven and not just be suspected. Innocent people may have life-long adverse effects or even die for a supposed considerate and safe action. // I just read yesterday (12.6.21) about a 18 year old person who died.
 
 > Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy.
 
