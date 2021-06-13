@@ -1,9 +1,10 @@
 # Critical Assessment of Vaccine Trials and (open?) Questions
 
-> __RUSHED OUT__ since children and young and healthy people are not only allowed but often pressured to take vaccines deemed as safe. This even though 
-symptoms are tolerable the safety is unclear as argued. Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy.
+> __Rolling publication_ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. 
 
-> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be proven and proven independently and not just be likely.
+> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be proven  and not just be likely or unknown.  Innocent people may have life-long adverse effects or even die for supposed considerate and safe action.
+
+> Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy.
 
 > This section is partly subjective. My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However, I am not sure whether anybody understands RNA. RNA can do a lot. In public discussions of 'mRNA' vaccine safety, views, outdated for decades are widespread e.g. that RNA is always degraded fast and its only used to message protein-encodings:
 > * RNA is always degraded fast? This is *wrong*. 
