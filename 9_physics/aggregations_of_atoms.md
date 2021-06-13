@@ -29,12 +29,11 @@
 
 ## Summary
 ### Summary Principles
-Atoms are specified by their core called atomic core. The atomic core consists of protons and neutrons. The atomic cores can be changed through chemical reactions and the protons determine the electron configuration. Atoms achieve a stable electron configuration (octet rule [of thumb]: usually 8 electrons on the outermost electron shell) by 
+Atoms are specified by their atomic core which consists of protons and neutrons. Changing of atomic cores is a topic of nuclear physics. In chemistry atomic cores and so the number of protons and neutrons is constant. The charged protons determine the possible electron configurations which in turn determine the chemical properties of an atom. Under normal conditions atoms have a stable electron configuration. Stable electron configuration usually follow the octet rule [of thumb]: 8 electrons on the outermost electron shell. The electron configuration can change by:
 * taking up electrons or giving electrons away => charged particles =: ions
 * sharing electrons => atoms coupled together by electron bonds =: molecules
 
-Molecules, ions and inert elements are called here physical elements. These and tiny particles built from them interact through intermolecular forces. These intermolecular forces determine how matter arranged and what properties it has.
-
+Molecules, ions and inert elements are called generalized molecules. These and tiny particles built from them interact through intermolecular forces. These intermolecular forces determine how matter arranged and what properties it has:
 * Intermolecular forces inducing fixed positions give raise to solid bodies with a fixed shaped.
 * Intermolecular forces with constant distances give raise to fluids.
 * In absence of intermolecular forces matter is gaseous.
