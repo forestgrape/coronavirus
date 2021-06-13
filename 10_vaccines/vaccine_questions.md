@@ -28,10 +28,9 @@
 
 
 ## Summary
-Symptom watching and surveillance and ensure tolerable symptoms is mostly enough for attenuated live pathogen vaccines since it is known what to except. However tolerable symptoms are not enough to ensure the safety of new vaccines technologies such as transfected RNA or viral vectors. These new technologies require a thorough understanding of their behavior in the body to assess their safety. E.g. transfected RNA may enter arbitrary tissues and cells: Transfection of the wrong cells such as long-lived neurones, stem cells or immune cells can have bad effects. Upon transfection many things can happen e.g. cell death can be caused. So in theory adverse effects can include a permanent loss of neurones - possibly comparable to one or several MDMA (ecstasy) trip.
+Symptom watching and surveillance and ensure tolerable symptoms is mostly enough for attenuated live pathogen vaccines since it is known what to except. However tolerable symptoms are not enough to ensure the safety of new vaccines technologies such as transfected RNA or viral vectors. These new technologies require a thorough understanding of their behavior in the body to assess their safety. E.g. transfected RNA may enter arbitrary tissues and cells: Transfection of the wrong cells such as long-lived neurones, stem cells or immune cells can have bad effects. Upon transfection many things can happen e.g. cell death can be caused. So in theory adverse effects can include a permanent loss of neurones - how many if at all is hard to say: comparable to a few hours of missing sleep or comparable to one or several MDMA (ecstasy) trip?
 
-Whether tolerable symptoms is equivalent to vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine:
-
+Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine:
 * For adenovirus based vaccines the adenovirus species and its characterization is needed e.g. have they a haemoglutinating activity, how they distribute and when and how they are cleared.
 * For mRNA vaccines the tissue and cell kinetics and the exact sequence and nucleoside modification are needed.
 
@@ -58,7 +57,7 @@ Symptom surveillance is only enough in the cases where the kinetics is known and
 	* Even tough low doses of mercury pass a symptom test, it enriches in the human body and can be neurotoxic. The latter is known for mercury therefore it is not used anymore as medicine.
 	* The safety of aluminum as adjuvant is still unclear despite being in use for 90 year, there are studies suggesting aluminum is involved in the development of Alzheimer but such long term effects are not accessed by the trials. Nevertheless, it may be worth risking Alzheimer to avoid smallpox or polio.
 	* Wild type aids viruses easily pass the symptom test. The problem is however they build their genome into long-lived immune cells and therefore AIDS infections are usually life long.
-* Substances which cause subtle and hard to diagnose damage. E.g. MDMA commonly known ecstasy can damage neurone in the brain. A each heavy ecstasy trip one gets looses a little bit of mental performance. Such effects are hard to detect and not detected in simple symptom tests.
+* Substances which cause subtle and hard to diagnose damage. E.g. MDMA (ecstasy) can damage neurone in the brain and cause a slight loss in mental performance. Such effects are hard to detect and not detected in simple symptom tests.
 * Substance where the kinetics or the pattern of damage is unknown.
 
 ### Covid Vaccine Trials
@@ -91,9 +90,11 @@ Some points relevant for Covid vaccines are:
 
 ### Kinetics of mRNA Vaccines
 The side effects observed for the Pfizer/Biontech vaccine possibly hint some lymphotropism (swollen lymph nodes and herpes zooster) and neurotropism (bell's palsy, headache) for both Moderna and Pfizer.
-* Neuron infections are a main cause of the dangers resulting from mumps and polio. Such severe effects do not occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited but noticeable death of neurones similar as it occurs in one or more MDMA trips could occur. 
+* Neuron infections are a main cause of the dangers resulting from mumps and polio. Such severe effects do not occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited death of neurones could occur: in the range from a sleepless night to one or more MDMA trips ...
 	> Bell's palsy then could be attributed that by chance neurones involved in the facial nerve were knocked off.
-* Lympho-tropism can be bad. If the wrong lymphocytes die, an weakening of the immune system can occur: For some this may be herpes zooster which is easy diagnosable from visible changes on the skin for others it may be anything else e.g. some cancer cells may pass undetected and yield cancer in the coming months or years.
+* Lympho-tropism can be bad. If the wrong lymphocytes die, an weakening of the immune system can occur: For some this may be herpes zooster which is easy diagnosable from visible changes on the skin for others it may be anything else. In theory some cancer cells may remain undetected and cause cancer in the coming months or years.
+
+> The above effects may or may not occur but predictions can only be done when the effects on cells and the tissue tropism is published.
 
 
 ### Kinetics of Adenovirus Vaccines 
