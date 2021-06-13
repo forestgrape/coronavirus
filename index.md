@@ -35,7 +35,8 @@ This section overviews the content. The [full content section](#content) lists t
 
 ## Updates
 ### Recent Topics Added
-- 12.6. [Vaccine Safety Questions](10_vaccines/safety_questions.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
+- 13./14.6. [General Chapter on Vaccination](./10_vaccines/vaccines.md)
+- 12./13.6. [Vaccine Safety Questions](10_vaccines/safety_questions.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
   > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
 
   > In temperate climates on the Northern hemisphere, there is no need to rush vaccinating the healthy and young.
