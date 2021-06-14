@@ -27,15 +27,17 @@
 
 
 ## Summary
-Symptom watching and surveillance is usually enough for attenuated live pathogen vaccines since it is known what to except. When the symptoms are tolerable and limited the disease is not caused and so the vaccine is much than having the disease. However this method of tolerable symptoms watching is not enough to ensure the safety of other vaccines technologies. Vaccines require a thorough understanding of their behavior in the body to assess their safety by symptoms alone. Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine:
-* Even tolerable disease symptoms watching can be tricky. E.g. AIDS vaccines based on the normal AIDS virus will pass a short term tolerable symptom test and antibodies will be detected. =>  the kinetics of the pathogen is needed and for some pathogens short term watching is not enough
-* For vaccines with adjuvants symptom watching depends on the composition including the adjuvants. => the kinetics and behaviour of the adjuvants needs to be known.
-* Transfected RNA may enter arbitrary tissues and cells: Transfection of the wrong cells such as long-lived neurones, stem cells or immune cells can have bad and long lasting effects. Upon transfection many things can happen e.g. cell death can be caused. => For mRNA vaccines at least the tissue and cell kinetics and the exact sequence and nucleoside modification are needed.
-* For adenovirus based vaccines the adenovirus species and its characterization is needed e.g.  how they distribute and when and how they are cleared. Haemagglutination is observed for many adenoviruses, which is possibly the cause of the observed thrombosis events.
+Symptom watching and surveillance is usually enough for attenuated live pathogen [vaccines](./vaccines.md#vaccine) since it is known what to except: the disease intended to prevent. When the symptoms are tolerable and limited the disease is not caused and so the vaccine is much safer than natural infection. However this method of tolerable symptoms watching is often not enough to ensure the safety of other vaccines technologies. Only the safety of vaccines where a thorough understanding of their behaviour in the body can be assess by symptoms alone. Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine:
+* Even for live pathogen vaccines tolerable disease symptoms watching can be tricky. E.g. an AIDS vaccine based on the wild type AIDS virus will pass a short term tolerable symptom test and antibodies will be detected. =>  the kinetics of the pathogen is needed and for some pathogens short term watching is not enough.
+* For vaccines with adjuvants, safety depends both on the antigens inoculated and the adjuvant. => The safety of the adjuvants needs to be ensured.
+* Transfected RNA ('mRNA' vaccines) may enter arbitrary tissues and cells: Transfection of the wrong cells such as long-lived neurones, stem cells or immune cells can have bad and long lasting effects. Upon transfection many things can happen e.g. cell death can be caused. => For mRNA vaccines it is mandatory to know the tissue and cell kinetics and the exact sequence and nucleoside modifications.
+* For adenovirus based vaccines the adenovirus species and its characterization is needed e.g.  how they distribute, which cells they attach or infect and the clearance kinetics. Haemagglutination is observed for many adenoviruses, which is possibly the cause of the observed thrombosis events. Which could be prevented e.g. by doses adaption.
+
 
 
 ## Introduction
 There are different definitions of immunisation and vaccination around. Here a general definition is used: *Immunisation* prepares the immune system to something. *Vaccination* teaches the immune system to recognize something and thereby provide prevent disease. 
+
 
 
 ## Why Symptom Surveillance is often Not enough for Safety
@@ -67,8 +69,10 @@ Regarding the current mRNA and vector technologies long term and subtle health h
 > In my opinion such contracts should be waved unless the companies go open source with the entire vaccine technology stack such that an independent safety assessment is possible.
 
 
+
 ## Kinetics of the Vaccines
-An important property to estimate possible effects of things is their kinetics. Kinetics denotes here, the distribution and clearance or accumulation pathways. It is a generalisation of pharmacokinetics to things: not just pharmaceutical drugs but any-thing which can distribute in the body such as pathogens which include viruses.
+An important property to estimate possible effects of things is their kinetics. Kinetics denotes here the temporal and spacial behavior of things i.e. the distribution, clearance and clearance paths. It is a generalisation of pharmacokinetics to things: not just pharmaceutical drugs but any-thing which can distribute in the body such as pathogens including viruses.
+As for viruses tropism for cells or tissues, is used to denote which the cells or tissues are frequently subject to infection.
 
 
 Some points relevant for Covid vaccines are:
@@ -81,7 +85,7 @@ Some points relevant for Covid vaccines are:
 
 	> Most cells are subject to the cell turnover which means die and replaced by new ones. So these cells don't live throughout one lifetime but shorter, usually much shorter. E.g. the cells in the respiratory tract epithelium are replaced within weeks. For this reason Covid-19 unlikely causes long lasting adverse effects as long as only the respiratory tract is infected (in rare cases, mostly severe infections and when the immune system is not good, the SARS-2 viruses can spread via the blood to other organs). 
 	
-	> On the other hand it is usually bad if long-lived neurones or stem cells are infected.
+	> On the other hand it is usually bad if long-lived neurones or stem cells are infected. These cell are usually well protected by the body: deep within tissues or even within the bones and additionally these cell usually don't express many receptors so virus can't easily enter.
 	
 	
 * How long the the vaccines reside within the body? 
@@ -93,22 +97,32 @@ Some points relevant for Covid vaccines are:
 ### Kinetics of mRNA Vaccines
 The kinetics is especially needed for "mRNA vaccines" since these small capsules could enter arbitrary tissues and cells. Killing or altering long lived cells can have the same effects as ageing e.g. reduce the life expectancy, cause early infertility or reduce the mental performance.
 
-> Analyzing competitive athletes could help detecting even slight performance losses.
+#### Cell Tropism
+Which cell are entered and what is the effect?
+* Are stem cell entered? As noted viruses mostly infect differentiated cells. However lipid enveloped particulates are taken up by stem cells too, since cell communication for differentiation mostly relies on lipid encapsulated RNA.
+* What happens upon cell entry? Well sometimes the RNA is translated to proteins, is this always the case? Has the RNA other effects within the cells? Is cell death caused and if yes orderly through apoptosis?
 
-The side effects observed for the Pfizer/Biontech vaccine possibly hint some lymphotropism (swollen lymph nodes and herpes zooster) and neurotropism (bell's palsy, headache) for both Moderna and Pfizer.
-* *Neurotropism:* Neuron infections are a main cause of the dangers resulting from mumps and polio. Such severe effects do not occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited death of neurones could occur: in the range from a sleepless night to one or more MDMA trips ...
+> These are fundamental properties mandatory to estimate possible adverse effects. However nearly nothing is linked in the trials and also very few detailed experiments are published.
+
+#### Tissue Tropism
+The side effects observed for the Pfizer/Biontech vaccine hint a lymphotropism (swollen lymph nodes and herpes zooster) and neurotropism (bell's palsy, headache) for both Moderna and Pfizer.
+* *Neurotropism:* Neuron infections are a main cause of the dangers resulting from mumps and polio. Severe effects do not occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited death of neurones could occur: in the range from a sleepless night to one or a couple of MDMA trips ...
 	> Bell's palsy then could be attributed that by chance neurones involved in the facial nerve were knocked off.
+	
+	> Analyzing competitive athletes could help detecting even slight performance losses.
 
-* *Lympho-tropism:* If the wrong lymphocytes die, an weakening of the immune system can occur: For some this may be herpes zooster which is easy diagnosable from visible changes on the skin for others it may be anything else. In theory some cancer cells may remain undetected and cause cancer in the coming months or years.
-* *Bone Marrow:* If the bone marrow is infiltrated pluripotent stem cells can be knocked off which can in theory yield a reduced life expectancy.
+* *Lympho-tropism:* If the wrong lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else. In theory, some cancer cells may remain undetected and cause cancer in the coming months or years.
+* *Bone Marrow:* If the bone marrow is infiltrated, pluripotent stem cells can be knocked off which can in theory yield a reduced life expectancy.
 
-> The above effects may or may not occur but predictions can only be done when  all cells and tissue tropism experiments are published (including experiments which failed).
+> The above effects may or may not occur but predictions can only be done when the cells and tissue tropism experiments are published (including experiments which failed).
 
 
 ### Kinetics of Adenovirus Vaccines 
-Many adenoviruses can cause haemagglutination i.e. they act as glue to clump red blood cells. When the vaccine is now overdosed and/or not accurately administrated into the muscle, a large number of adenoviruses can be released into the bloodstream which may cause the blood cells to clump. 
+Many adenoviruses can cause haemagglutination i.e. they act as glue to clump red blood cells.
 
-> The deaths of young women observed would agree with this theory of overdosing. In the trials possibly the personal was more careful at administrating the vaccines.
+> When the vaccine is now overdosed and/or not accurately administrated into the muscle, a large number of adenoviruses can be released into the bloodstream which may cause the blood cells to clump. 
+
+> The deaths of young women observed would agree with the theory of overdosing. In the trials possibly the personal was better able to accurately administer the dose into the muscle.
 
 > This can be prevented by 
 > * weight adjusted dosage or much better 
