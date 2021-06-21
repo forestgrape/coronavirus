@@ -1,9 +1,11 @@
 
 
-# Sketching the Immune System
+# Sketching the Life-form Homeostasis aka Immune System
 
 > **Major rework in progress, June 2021**
-> **in work, incomplete and to be checked**
+> **in work and to be checked**
+
+> 19.6.21: Redefined Immune System: The goals is to keep homeostasis regarding life-form interactions and *not* to eliminate pathogens or harmful substances. Previously defined as targeting things recognized to be harmful. An often given definition is fighting pathogens or even more specific producing antibodies against pathogens. Immunity is immunity to prevent damage and *not* avoiding interactions/infections.
 
 * [Summary](#summary)
 * [Tools of the Immune System](#tools-of-the-immune-system)
@@ -33,9 +35,22 @@
 "Selected topics of the immune system with a focus on protection versus coronaviruses."
 
 > ###### Immune System
-> The *immune system* denotes organs and processes that ensure correct functioning of a life form. Which involves controlling interactions both within life forms and with the environment. Things disrupting the balance are stopped interfering, removed or kept out.
+> The *immune system* denotes organs and processes which keep the homeostasis regarding life forms interactions. This is achieved by watching interactions within or between life forms and if necessary reducing the interactions usually just as much they are no harmful anymore.
 
-Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to stop the host from interfering with their metabolism. It's a two way interaction: The host immune system tries to stop the virus metabolism and the virus immune system in turn tries the stop the host immune system.
+* *The immune system is pragmatic and efficiency focused*:
+  * the immune system usually is minimalist and does just as much to prevent harm but no more.
+  * often tries to redirect interactions to mutual benefits. 
+  
+  > Else life forms on todays earth would be busy fighting pathogens. 
+  
+  > Most life forms on todays earth create and cooperate, which indicates an evolutionary advantage of these behaviors.
+  
+* The immune system just prevents damage from interactions. The immune system does not prevent interactions. E.g. regarding pathogen infections the immune system reduce the pathogens just enough they don't do damage but no more. There are some rare pathogens which nearly always do damage, but the vast majority of live forms interactions are only rarely harmful and often life forms find ways to work together for mutual benefit.
+
+> Life is all about homeostasis. Provide a good and constant environment for the cells and the core parts of a life form to live and replicate regardless whatever the out environment is, exemplary are: If there's to much salt, we get thirsty, if it's too hot we sweat and if it's too cold some specialized cells warm the body. 
+
+
+Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to reduce the hosts from interfering with their metabolism. It's a two way interaction: The host immune system tries to reduce the virus metabolism and the virus immune system in turn tries the reduce the host immune system. Usually a balance is reached and both life side a side or even in symbiosis.
 
 Immune mechanism can be viewed from different perspectives and accordingly classified to various criteria:
 - [Immune System Goals](#immune-system-goals): Prevent entry | eliminate unwanted | supervise metabolism.
