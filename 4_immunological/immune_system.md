@@ -44,7 +44,7 @@
   
   > Nearly all life forms on todays earth create and cooperate in a variety of forms, which indicates an evolutionary advantage of these behaviors.
   
-* The immune system just prevents damage from interactions. The immune system does not prevent interactions. E.g. regarding pathogen infections the immune system reduce the pathogens just enough they don't do damage but no more. There are some rare pathogens which nearly always do damage, but the vast majority of live forms interactions are only harmful in specific situations and often life forms find ways to work together for mutual benefit.
+* The immune system gives 'immunity' to damage from interactions but usually does not prevent interactions. E.g. regarding pathogen infections the immune system reduce the pathogens just enough they don't do damage but no more or are even beneficial. There are some rare pathogens which nearly always do damage, but the vast majority of live forms interactions are only harmful in specific situations and often life forms find ways to work together for mutual benefit.
 
 > At some point the immune system definition here involved "targeting things recognized to be unwanted", however this definition falls since the immune system usually adapts the interactions. An often given definition is fighting pathogens or even more specific producing antibodies against pathogens. These actions are subsets of the mechanisms of the immune system as defined here.
 
