@@ -34,7 +34,9 @@
 "Selected topics of the immune system with a focus on protection versus coronaviruses."
 
 > ###### Immune System
-> The *immune system* denotes organs and processes which keep the homeostasis regarding life forms interactions. This is achieved by watching interactions within or between life forms and if necessary adapt or reduce the interactions such that they are advantageous or at least not adverse.
+> The *immune system* denotes organs and processes which watch and regulate life forms interactions. This is achieved by watching interactions within or between life forms and if necessary adapt or reduce the interactions such that they are advantageous or at least not adverse.
+
+* The immune system can be viewed as the homeostasis regulation regarding interaction with life-forms at the molecular and cellular level.
 
 * *The immune system is pragmatic and efficiency focused*:
   * the immune system usually is minimalist and does just as much to prevent harm but no more.
