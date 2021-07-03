@@ -42,7 +42,7 @@
   * the immune system usually is minimalist and does just as much to prevent harm but no more.
   * often tries to redirect interactions to mutual benefits. 
   
-  > Else life forms on todays earth would be busy fighting pathogens.  
+  > Else life forms on todays earth would be busy fighting pathogens and couldn't spend time on creating. Also interactions are often beneficial to learn and evolve.
   
   > Nearly all life forms on todays earth create and cooperate in a variety of forms, which indicates an evolutionary advantage of these behaviors.
   
