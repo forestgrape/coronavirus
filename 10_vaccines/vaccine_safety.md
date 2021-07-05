@@ -106,15 +106,15 @@ Which cell are entered and what is the effect?
 
 #### Tissue Tropism
 The side effects observed for the Pfizer/Biontech vaccine hint a lymphotropism (swollen lymph nodes and herpes zooster) and neurotropism (bell's palsy, headache) for both Moderna and Pfizer.
-* *Neurotropism:* Neuron infections are a main cause of the dangers resulting from mumps and polio. Severe effects do not occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited death of neurones could occur: in the range from a sleepless night to one or a couple of MDMA trips ...
+* *Neuro-Tropism:* Neuron infections are a main cause of the dangers resulting from mumps and polio. Severe effects do not occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited death of neurones could occur: in the range from a sleepless night to one or a couple of MDMA trips ...
 	> Bell's palsy then could be attributed that by chance neurones involved in the facial nerve were knocked off.
 	
 	> Analyzing competitive athletes could help detecting even slight performance losses.
 
-* *Lympho-tropism:* If the wrong lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else. In theory, some cancer cells may remain undetected and cause cancer in the coming months or years.
-* *Bone Marrow:* If the bone marrow is infiltrated, pluripotent stem cells can be knocked off which can in theory yield a reduced life expectancy.
+* *Lympho-Tropism:* If the wrong lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else. In theory, some cancer cells may remain undetected and cause cancer in the coming months or years.
+* *Bone Marrow:* If the bone marrow is infiltrated, pluripotent stem cells can be altered or knocked off. The stem cell niches in the bone marrow are some of the best protected cells for good reason. Messing around with these stem cells niches is risky and in theory can cause many adverse effects e.g. increased aging.
 
-> The above effects may or may not occur but predictions can only be done when the cells and tissue tropism experiments are published (including experiments which failed).
+> The above effects may or may not occur but predictions can only be done when ALL the cells and tissue tropism experiments are published (including the failed experiments).
 
 
 ### Kinetics of Adenovirus Vaccines 
