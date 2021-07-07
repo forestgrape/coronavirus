@@ -93,14 +93,13 @@ The infectable cell can be:
 #### Virion Priming
 
 Coronaviruses virions usually need to be primed before they bind to cell or initiate cell fusion. Since:
-* The spike are like springs and have stored energy by which a coronavirus virion can induce cell fusion but without metabolism virions can't reload the spikes. 
-* For survival of the virus line it is important that most virions infect useful cells. 
-* The targeting cell is ideally a little away from the originating cell to make targeting for the immune system more difficult.
+* Target Cell Selection:
+  *  Without metabolism virions can't reload the spikes (The spike are like springs and have stored energy by which a coronavirus virion can induce cell fusion) -> release the energy only on infectable cells.
+  * For survival of the virus entity it is best if virions infect useful cells i.e. cells which support virus replication or cells otherwise useful to infect e.g. immune cells can be infected such they don't fight the viruses infecting other cells.
+  * The target cell to infect is ideally not next to the originating cell to make targeting for the immune system more difficult.
+* Masking: Priming enables coronaviruses to hide functional parts e.g. the receptor binding or the fusion domains, just become exposed once primed. This protects this parts from damage and recognition by the immune system.
 
-The spikes proteins are the only part by which coronavirus virions interact with the environment, so the spike need to be primed. There can be several priming steps, each setting the spike to a next state. 
-
-> ##### Spike Priming
-> *Spike priming* means the spike is set to a state ready for the next step in the [cell entry process](#cell-entry).
+Coronavirus virions interact with the environment mainly though the spikes, so the spike need to be primed. There can be several priming steps ahead or during the [cell entry process](#cell-entry).
 
 
 ##### Plant Seeds to Virions
@@ -108,15 +107,16 @@ The spikes proteins are the only part by which coronavirus virions interact with
 
 
 #### Cell Entry
-1. the virus gets attached to the matching receptor on the target cell mostly via the spike protein
-2. fusion of the viral envelope with host cell membranes once [primed](#spike-priming): 
-    * binding to a receptor on the cell membrane -> cleavage sites are exposed 
-    * cleavage through proteases at specific cleavage sites enable a conformation change 
-    * the conformation change push the fusion-peptides of the spike protein into the cell membrane 
-    * with the fusion peptides anchored in the cell membrane a further conformation change of the spike protein presses the viral and cell membrane together which can result in membrane fusion. 
-3. release and unpacking of genome and the structural proteins into the cytoplasm 
-- once the viral RNA and the viral proteins are in the cytoplasm of a cell the [metabolism](#metabolic-phase) can start
-
+1. The virus gets attached to a matching receptor on the target cell mostly via the spike protein
+    * The virions may slide along the cell surface or travel with the cell.
+    * The virions may enter directly via fusion with the outer cell membrane or the virions may first be taken up into a cell internal vesicle and fuse with the surrounding internal membrane.
+2. Fusion of the viral envelope with host cell membrane once [primed](#virion-priming): 
+    1. binding to a receptor on the cell membrane -> cleavage sites are exposed 
+    2. cleavage through proteases at specific cleavage sites enable a conformation change 
+    3. the conformation change push the fusion-peptides of the spike protein into the cell membrane 
+    4. with the fusion peptides anchored in the cell membrane a further conformation change of the spike protein presses the viral and cell membrane together which can result in membrane fusion.
+3. Release and unpacking of genome and the structural proteins
+4. Start the [metabolism](#metabolic-phase)
 
 ### Metabolic Phase
 The viral metabolism starts once the genetic material of a virion is processed by a cell and thus the virus changes the cells metabolism. This happens in a foreign cell and cells have mechanism in place to prevent its metabolism being changed i.e. keeping the metabolism immune. For that reason, each of the following steps has a noteworthy probability of failing. 
