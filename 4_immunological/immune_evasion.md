@@ -1,46 +1,84 @@
 # Coronaviruses Immune Evasion
 
-* [Overcome Physical Barriers](#overcome-physical-barriers)
-* [Overcome Chemical Barriers](#overcome-chemical-barriers)
-* [Overcome Biological Barriers](#overcome-biological-barriers)
+* [Adaption of Immune Evasion](#adaption-of-immune-evasion)
+  * [Genetic Adaption](#genetic-adaption)
+  * [Change the Way of Life](#change-the-way-of-life)
+  * [Adapt Immune Evasion Mechanisms](#adapt-immune-evasion-mechanisms)
+* [Immune Evasion Mechanisms](#immune-evasion-mechanisms)
   * [Overcome Phagocytosis](#overcome-phagocytosis)
-  * [Avoid Being Recognized](#avoid-being-recognized)
+  * [Avoid Being Targeted](#avoid-being-targeted)
+* [Immune Evasion in Specific Situations](#immune-evasion-in-specific-situations)
+  * [Overcome Physical Barriers](#overcome-physical-barriers)
+  * [Overcome Chemical Barriers](#overcome-chemical-barriers)
   * [Overcome Acquired Immunity](#overcome-acquired-immunity)
 * [References](#references)
 
-## Overcome Physical Barriers
-- skin <- circumvented by human coronaviruses by entering via breathing
-- mucus <- less mucus in the lungs and nasal cavity
-- cell membranes <- bind to receptor and fuse membranes using the spikes
 
-## Overcome Chemical Barriers
-- stomach acid <- circumvented by coronaviruses 
-  - replicate to high numbers in the lungs and pass through the thin alveolar single cell epithel layer to the blood
-  - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
 
-## Overcome Biological Barriers
+## Adaption of Immune Evasion
+
+### Genetic Adaption
+Mutating the genome permanently changes properties of a linage. This can be the way of life or just the appearance:
+Costs: Most mutations reduce the fitness.
+
+1. [Change the Way of Life](#change-the-way-of-life): A profound and very effective change to escape a certain immune mechanisms.
+2. [Adapt Immune Evasion Mechanisms]: Use a new or increase an existing immune escape mechanisms.
+3. [Change the Appearance](#change-the-appearance): Escape host recognition mechanisms.
+
+
+
+### Change the Way of Life
+Changing the way of life to circumvent certain immune mechanisms. For RNA viruses changing the way of life is often achieved by [genetic adaption](#genetic-adaption) since their genome mutates fast and is very close to enzymes.
+
+E.g. coronaviruses infect in some animals the intestine but upon species jumps they infect the respiratory tract. Thereby they circumvent the stomach acids.
+
+### Adapt Immune Evasion Mechanisms
+Existing evasion mechanisms can be strengthened or new mechanisms can be used. Especially if a host has a single sided immune response, mechanisms to escape this response are strengthened.
+
+
+
+## Immune Evasion Mechanisms
 
 ### Overcome Phagocytosis
 Phagocyte <- exploit phagocytosis by infecting the cell
 - SARS-2 can replicate in macrophages (in vitro and in vivo detected by biopsies of severe cases. In vivo likely only macrophages when the local and global immune system is diminished support replication)
 - In most immune cells no replication takes place (e.g. T cells) since cell death is induced. But by cell death the immune cell is still knocked out, though usually at the cost of triggering immune system alarms.
 
-### Avoid Being Recognized
+Costs: Phagocytes upon infection usually induce apoptosis and thereby ring the bells (e.g. by releasing cytokines).
 
-#### Change Appearance
-Changing the appearance requires the hosts frequently need to learn new targets.
-A common way of the changing appearance is mutating.
+### Avoid Being Targeted
+
+#### Change the Appearance
+Changing the appearance escapes host recognition mechanisms. This requires the hosts frequently need to learn new targets.   
 
 #### Shield
 Most life forms place their core parts in the center shielded from other life forms and the environment. There are different methods to shield:
-* [Parts with variable appearance](#change-appearance) e.g. by mutating/recombining often.
+* Parts with variable appearance e.g. by [mutating](#mutate-the-genome) often.
 * Regions which are hard to recognize: E.g. unpolarized substances such as glycans or fatty acids. 
 * Host acquired substances: 
   * The host cell acquired envelope.
   * During the metabolic phase the coronaviruses not only use the hosts ribosomes but also other substance e.g. they rearrange the membranes of the ectoplasmatic reticulum to have a protected space for genome expression and replication [to check and cite].
+  
+Costs: Building shields requires time and resources which usually decreases replication time. 
+
 
 #### Mask
-Functional regions are usually [shielded](#shield) until used: The receptor binding domains are buried within the spike trimers until [primed](../2_biological/coronavirus.md#virion-priming). Different priming steps in different locations can give different appearances at different locations in a host -> enabling intra-host spread [to check/confirm]
+Functional regions are often [shielded](#shield) until used: The receptor binding domains are buried within the spike until [primed](../2_biological/coronavirus.md#virion-priming). Different priming steps in different locations can give different appearances at different locations in a host -> enabling intra-host spread [to check/confirm]
+
+Costs: Masking requires unmasking at the right time. Which restrict coronavirus infections to specialized settings. //This is good since it prevents coronaviruses from entering arbitrary cells.
+
+## Immune Evasion in Specific Situations
+
+### Overcome Physical Barriers
+- skin <- circumvented by human coronaviruses by entering via breathing
+- mucus <- less mucus in the lungs and nasal cavity
+- cell membranes <- bind to receptor and fuse membranes using the spikes
+
+### Overcome Chemical Barriers
+- stomach acid <- circumvented by coronaviruses 
+  - replicate to high numbers in the lungs and pass through the thin alveolar single cell epithel layer to the blood
+  - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
+
 
 
 ### Overcome Acquired Immunity
@@ -48,17 +86,24 @@ Functional regions are usually [shielded](#shield) until used: The receptor bind
 For coronaviruses waiting until acquired wanes or even jumping generations is usually not an option, thus circumventing acquired immunity is an essential skill. 
 
 #### Overcoming Neutralizing Antibodies
-[in work, to check and cite]
-The only virion protein well accessible from the outside is the spike protein, so that's the target. If a sufficient number of spikes have antibodies attached: 
-* a virion cannot infect cells on its own anymore, since working spike proteins are needed for active cell entry.
-* virions are marked for phagocytosis which often destroys virions.
 
 > ##### Neutralizing Antibodies
 > Antibodies that block virions from infecting cells are called neutralizing antibodies. 
 
-Coronaviruses use nearly all the mechanisms to [avoid recognition](#avoid-being-recognized) to circumvent neutralizing antibodies.
-- Mutate
-  Mutating prevents recognition by [changing appearance](#change-appearance). Mutations are not free though, since most mutations reduce the biological fitness, so neutralizing antibodies slow them down.
+[in work, to check and cite]
+The only virion protein well accessible from the outside is the spike protein, so that's the target for neutralizing antibodies. If a sufficient number of spikes have antibodies attached: 
+* a virion cannot infect cells on its own anymore, since working spike proteins are needed for active cell entry.
+* virions are marked for phagocytosis.
+
+
+Coronaviruses escape neutralizing antibodies by 
+* [avoid recognition](#avoid-being-recognized) 
+* exploit phagocytosis by infecting the phagocyte. 
+
+However overcoming neutralizing antibodies is often not free, so neutralizing antibodies can slow them down.
+
+- Change Appearance
+  Methods to change appearance are [mutating](#mutate-the-genome) or [masking].
 - Shield
   [Shields](#shield) often protects key functional parts.
   - glycans on the outside
@@ -68,6 +113,11 @@ Coronaviruses use nearly all the mechanisms to [avoid recognition](#avoid-being-
   - different priming steps in different locations can give a different appearance at different locations in a host -> enabling intra-host spread [to check/confirm]
 - Exploit
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
+- Reduce Exposure Time
+  * Coronavirus virions can adapt to infect cells quicker. 
+    * This comes at the cost of more localized infections.
+    * Infecting cells quicker usually means the priming steps are less elaborate and so more cells are infected. This can cause more damage to the hosts which is not beneficial for viruses since they rely on their hosts.
+  * Coronaviruses can induce cells fusion. Thereby they circumvent the virion phase and thus they cannot be classically neutralized. To induce cell fusion the spikes are used, so antibodies targeting the spikes can prevent cell fusion, but cell fusion can be initiated quickly and between the cells the antibody concentration can be low [to confirm and cite].
   
 > Natural infections and vaccines also produce antibodies targeting no exposed substances, these helps to fight infections: during the intracellular assembling process, the virion proteins can get antibody-marked.
 
