@@ -716,20 +716,23 @@ https://doi.org/10.1101/2020.10.16.341883
 #### Summary Laude
 **Thermal Inactivation Studies of a Coronavirus, Transmissible Gastroenteritis Virus**
 
-> Inspired by [Fleming](#summary-fleming), recommended to read in parallel.
+> Partly inspired by [Fleming](#summary-fleming) where the decay of the Semliki Forest Virus is investigated. Laude and investigate the decay of TGEV and confirm/reach groundbreaking findings: Showing a that two different decay rate increases below respectively above 40 to 45 degrees celsius. It is demonstrated that TGEV can evolve to increase the survival at higher temperatures (55 degrees), but not at lower temperatures (38).
 
 ##### Methods
-The decay rate of the TGEV coronavirus at temperatures between 31 and 55 degrees at the pH values 7 and 8 is determined.
+* The decay rate of the TGEV coronavirus at temperatures between 31 and 55 degrees with 4 degree steps at the pH values 7 and 8 is determined.
+* 4 respectively 8 rounds of survivor selection were carried out at 38 and 54 degrees.
+##### Results
+1. _Inactivation of infectivity_
+   * "An exponential decrease of infectivity, without an initial shoulder, could be observed between 31 and 51 °C. Thus, the inactivation proceeded as a first-order reaction, implying that the virus preparations were homogeneous." // Figure 1 a and b
+   * "At a higher temperature (55 °C) a two component curve was observed (omitted for clarity), a finding which has been occasionally recognized with some other RNA viruses (see Ginoza, 1968)."
+   * "Thermal inactivation of the virus at pH 8 showed that the half-life at any temperature is markedly reduced (Fig. 1 b)."
+   * "Thermal inactivation of a coronavirus essentially resembles that observed previously with several other RNA viruses. TGEV thermal inactivation is mediated by two thermodynamically distinct reactions below and above 45 °C."
+2. _Selection of thermal-resistant (tr) mutants_
+  "Using four independent stocks of mutagenized virus, we failed to select thermal-resistant mutants by survivor selection at 38 °C. In contrast, thermal-resistant mutants were consistently obtained at 54 °C. However, the latter did not show any increased stability at 38 °C, confirming the fact that a different inactivation process takes place at high and at physiological temperatures." // Figure 3
 ##### Methods Details
 * Virus Strain: "Purdue and the D52 strains were used as the source of transmissible gastroenteritis virus (TGEV)"
 * Cell and Virus Cultures: "The virus was propagated in the pig kidney cell line RP_D, and maintained in Eagle's minimum essential medium (MEM) containing 2% calf serum; the cultures were frozen at -70 °C at the first signs of c.p.e."
 * Sample Preparation and Medium: "Supernatant fluids from infected cultures were thawed and then clarified by low-speed centrifugation before dilution 1:10 in a 50 mM-HEPES solution (Sigma) buffered at pH 7 or 8, and supplemented with antibiotics. For short incubations this solution was preheated before adding the virus. One ml amounts in glass tubes were placed in well-stirred water baths in the dark. Duplicate aliquots were removed at given times and stored at -70 °C until titration of infectivity."
-##### Results
-* "An exponential decrease of infectivity, without an initial shoulder, could be observed between 31 and 51 °C. Thus, the inactivation proceeded as a first-order reaction, implying that the virus preparations were homogeneous." // Figure 1 a and b
-* "At a higher temperature (55 °C) a two component curve was observed (omitted for clarity), a finding which has been occasionally recognized with some other RNA viruses (see Ginoza, 1968)."
-* "Thermal inactivation of the virus at pH 8 showed that the half-life at any temperature is markedly reduced (Fig. 1 b)."
-* "Thermal inactivation of a coronavirus essentially resembles that observed previously with several other RNA viruses. TGEV thermal inactivation is mediated by two thermodynamically distinct reactions below and above 45 °C."
-
 
 #### Biryukov
 Biryukov J, Boydston JA, Dunning RA, Yeager JJ, Wood S, Reese AL, Ferris A, Miller D, Weaver W, Zeitouni NE, Phillips A, Freeburger D, Hooper I, Ratnesar-Shumate S, Yolitz J, Krause M, Williams G, Dawson DG, Herzog A, Dabisch P, Wahl V, Hevey MC, Altamura LA. 2020. **Increasing temperature and relative humidity accelerates inactivation of SARS-CoV- 2 on surfaces.** 
@@ -768,7 +771,7 @@ Semliki forest virus:
 #### Summary Fleming
 **Thermal Inactivation of Semliki Forest Virus**
 
-> Recommended to read [Laude](#summary-laude) which builds on this work.
+> Recommended to read [Laude](#summary-laude) as follow up.
 
 ##### Methods
 * First the influence of the originating cells and the surrounding matrix was determined to select a appropriate model for the thermal inactivation studies.
@@ -778,6 +781,7 @@ Semliki forest virus:
   * At 35°, the rate of inactivation was independent of the originating cell lines (Figure 2 a).
   * At 50°, only virions originating from a stable cell line (mouse embryo cells) showed a 1 step log-linear inactivation. For other cells lines a 2 step log-linear inactivation is observed (Figure 2 b).
   > Stable cell line means likely a homogenous cell line. In a homogenous cell line, the virions have the same lipid envelope unlike in mixed cell lines where each cell type can yield slightly different appearances of the virions -> [Virion Properties](#virion-properties).
+
 * At 22° the more the stabilizing medium 199, CS was diluted by a phosphate buffer solution, the greater was the loss viability (Figure 1 and 3). The loss of viability was shifted to higher dilutions in the dark (Figure 1).
 * The arrhenius plots in Figure 3 and the corresponding values in Table 1 show:
   * There's a switch of the inactivation mechanism between 40 and 45 degrees.
