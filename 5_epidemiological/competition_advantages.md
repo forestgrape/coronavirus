@@ -88,6 +88,7 @@ Fast strains have been observed in situations when the measures are lessened (ei
 
 
 ## Biological Explanations
+[in work and incomplete]
 
 ### Why usually only One Variant Succeeds
 Most respiratory tract virus infections yield cross immunity since the  immune system is alert to viruses: Usually only one virus at the time can infect the respiratory tract and the alertness of the immune system prevents other virus infections in the coming weeks (this is only true for virus infections and not bacteria or fungal infections since they require different immune responses. It is also not true if the immune system is out of shape). 
