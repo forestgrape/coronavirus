@@ -37,23 +37,24 @@ Epidemiological and experimental observations show that:
 
 
 ## Hypothesis 2: Faster Infections Cycle can yield a Competition Advantage
-Coronaviruses can evolve to infect faster i.e. once infected a high viral loads builds up faster  (=faster growth as a virus entity). The faster infection yields competition advantage when two strains compete for hosts to infects. The faster variant wins even if it is not more transmissible since a follow up infection is unlikely due to crossimmuuity and alertness of the respiratory tract immune system.
+Coronaviruses can evolve to infect faster i.e. once infected a high viral loads builds up faster  (=faster growth as a virus entity). The faster infection yields competition advantage when two strains compete for hosts to infects. The faster variant wins even if it is not more transmissible since a follow up infection is unlikely due to cross-immunity and alertness of the respiratory tract immune system.
 
-All strains of SARS-2 are already faster than SARS-1 and MERS, however there are variations among the SARS-2 strains. Even for people with a good immune system, a fast infecting variant may transmit before immune protections are in place. So when a strain is able to infect fast, an increased spread through immune-competent people is thinkable. Which could mean that the spread becomes more evenly distributed.  
 
 ### Spread Advantages by faster Infections
-#### 1. Advantages in Direct Competition
-* Super spreading situations contribute to the spread of Covid. If in a single super spreading situation a fast and a slow strain super-spread, the fast strain will outcompete the slow variant. 
-* Situations supporting high spreading are not equally distributed, in the sense they often occur clustered e.g. in times when protection measures are changed. Similar to a single super-spreading event, during short periods of high spread, the faster spreading variant will conquer more ground than a slow spreading variant.
-#### 2. Advantages in Circumventing Precaution Measures
-* Often some time is needed to acknowledge feeling unwell. A fast strain is more likely to spread ahead of precaution steps: Avoiding crowded indoor space is important to reduce the spread. 
-* Contact tracing needs some time, which may work less well if the variant infects really fast.
-#### 3. Advantages in Competent Immune Systems
-Slow infecting coronaviruses such as SARS-1 and MERS take long to built up a high viral load: 
-* which is mostly possible when the immune system is (temporary) reduced
-* the patients at the time of peak infectiousness are usually symptomatic and often very sick. 
+1. *Advantages in Direct Competition*
+   * Super spreading situations contribute to the spread of Covid. If in a single super spreading situation a fast and a slow strain super-spread, the fast strain will out-compete the slow variant. 
+   * Situations supporting high spreading are not equally distributed, in the sense they often occur clustered e.g. in times when protection measures are changed. Similar to a single super-spreading event, during short periods of high spread, the faster spreading variant will conquer more ground than a slow spreading variant.
+2. *Advantages in Circumventing Precaution Measures*
+   * Often some time is needed to acknowledge feeling unwell. A fast strain is more likely to spread ahead of precaution steps: Avoiding crowded indoor space is important to reduce the spread. 
+   * Contact tracing needs some time, which may work less well if the variant infects really fast.
+3. *Advantages in Competent Immune Systems*
+  Slow infecting coronaviruses such as SARS-1 and MERS take long to built up a high viral load: 
+  * which is mostly possible when the immune system is (temporary) reduced
+  * the patients at the time of peak infectiousness are usually symptomatic and often very sick. 
+  
+  All strains of SARS-2 are already faster than SARS-1 and MERS, however there are variations among the SARS-2 strains. Even for people with a good immune system, a fast infecting variant may transmit before immune protections are in place. So when a strain is able to infect fast, an increased spread through immune-competent people is thinkable. Which could mean that the spread becomes more evenly distributed.  
 
-> 2. and 3. can yield effectively higher transmissibility and increase the average R value compared to previous variants. The effects of 2. can be reduced by informations campaigns. The effects of 3. by increased testing of contacts from risk groups.
+> 2. and 3. can yield effectively higher transmissibility and increase the average R value compared to previous variants. The effects of 2. can be reduced by information. The effects of 3. by pr testing of contacts from risk groups.
 
 
 ### Biological Mechanism for faster Growth
@@ -71,10 +72,13 @@ One way coronaviruses can evolve to infect faster, is to have the spikes primed 
 Observations for the spread of the new variants: At low prevalence new variants usually spread quickly and faster than existing variants (e.g. 20AEU1 or B.1.1.7 out-competed the previous variants). However once a certain level is reached and/or the measures are tightened, the spread of the new variants stabilises or reduces.
 
 ### Evidence for Competition Advantages due to Immune Escape
+
 #### Observations for SARS-CoV-2
 Variants with increased immune escape are observed in regions with high seroprevalences e.g. P1 in tropical Brazil. There this variants quickly replace existing variants.
+
 #### Observations for other Coronaviruses
-Both for the human endemic human coronaviruses (HKU1, NL63, OC43 and E229) and coronaviruses of domestic animals (e.g. bovine coronaviruses) it is observed that new strains replace old strains. But the new strains which outcompeted the old strains usually don't yield increased waves or otherwise show higher transmissibility. New waves areoo caused by a single strain [citations on the way] and the new strains at least partly escapes the previously acquired immune protection [to confirm and cite]
+Both for the human endemic human coronaviruses (HKU1, NL63, OC43 and E229) and coronaviruses of domestic animals (e.g. bovine coronaviruses) it is observed that new strains replace old strains. The new strains which out-competed the old strains usually do not yield increased waves or otherwise show higher transmissibility. However the new strains escape the previously acquired immune protections [citations coming].
+
 #### Observed for other Respiratory Viruses
 Influenza strains vary each season. 
 
