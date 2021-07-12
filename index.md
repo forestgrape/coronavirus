@@ -35,7 +35,8 @@ This section overviews the content. The [full content section](#content) lists t
 
 ## Updates
 ### Recent Topics Added
-- 13./14.6. [General Chapter on Vaccination](./10_vaccines/vaccines.md)
+- 12.7. How Competition Advantages of SARS-2 variants can result from faster infection rates or immune evasion even when the transmissibility (defined as the average R value) stays constant:[Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
+- 13./14.6. [General Chapter on Vaccination](10_vaccines/vaccines.md)
 - 12./13.6. [Vaccine Safety Questions](10_vaccines/safety_questions.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
   > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
 
@@ -50,6 +51,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ### Recent Updates
+- 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
 - 21.6.: Redefined [Immune System](4_immunological/immune_system.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
 - 13.6. Split up Questions on Vaccines into [Safety Questions](./10_vaccines/safety_questions.md) and [Vaccination Effects on Infection](./10_vaccines/effects_on_covii.md)
 - 10.6. Added in [notes on reading](#notes-on-reading) that referencing is always welcome.
