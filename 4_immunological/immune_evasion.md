@@ -11,7 +11,7 @@
   * [Overcome Physical Barriers](#overcome-physical-barriers)
   * [Overcome Chemical Barriers](#overcome-chemical-barriers)
 * [Overcome Acquired Immunity](#overcome-acquired-immunity)
-  * [Overcoming Neutralizing Antibodies](#overcoming-neutralizing-antibodies)
+  * [Overcome Neutralizing Antibodies](#overcome-neutralizing-antibodies)
 * [References](#references)
 
 
@@ -28,7 +28,9 @@ Costs: Phagocytes upon infection usually induce apoptosis and thereby ring the b
 ### Avoid Being Targeted
 
 #### Change the Appearance
-Changing the appearance escapes host recognition mechanisms. This requires the hosts frequently need to learn new targets.   
+Changing the appearance escapes host recognition mechanisms. 
+* By mutation: This requires the hosts frequently need to learn new targets.   
+* By masking: 
 
 #### Shield
 Most life forms place their core parts in the center shielded from other life forms and the environment. There are different methods to shield:
@@ -42,9 +44,13 @@ Costs: Building shields requires time and resources which usually decreases repl
 
 
 #### Mask
-Functional regions are often [shielded](#shield) until used: The receptor binding domains are buried within the spike until [primed](../2_biological/coronavirus.md#virion-priming). Different priming steps in different locations can give different appearances at different locations in a host -> enabling intra-host spread [to check/confirm]
+Functional regions are often [shielded](#shield) until used: The receptor binding domains are buried within the spike until [primed](../2_biological/coronavirus.md#virion-priming). 
 
-Costs: Masking requires unmasking at the right time. Which restrict coronavirus infections to specialized settings. //This is good since it prevents coronaviruses from entering arbitrary cells.
+Benefits:
+* Different priming steps in different locations can give different appearances at different locations in a host -> enabling intra-host spread [to check/confirm]
+* Immunogenic parts have only a short exposure time
+Costs: 
+Masking requires unmasking at the right time. Which restrict coronavirus infections to specialized settings.
 
 
 
@@ -85,7 +91,7 @@ Existing evasion mechanisms can be strengthened or new mechanisms can be used. E
 [in work, citations coming]
 For coronaviruses waiting until acquired wanes or even jumping generations is usually not an option, thus circumventing acquired immunity is an essential skill. 
 
-### Overcoming Neutralizing Antibodies
+### Overcome Neutralizing Antibodies
 
 > ##### Neutralizing Antibodies
 > Antibodies that block virions from infecting cells are called neutralizing antibodies. 
@@ -103,7 +109,7 @@ Coronaviruses escape neutralizing antibodies by
 However overcoming neutralizing antibodies is often not free, so neutralizing antibodies can slow them down.
 
 - Change Appearance
-  Methods to change appearance are [mutating](#mutate-the-genome) or [masking].
+  Methods to change appearance are [mutating](#mutate-the-genome) or [masking](#mask).
 - Shield
   [Shields](#shield) often protects key functional parts.
   - glycans on the outside
