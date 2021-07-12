@@ -15,19 +15,11 @@ Coronaviruses are well known for the ability to cross species borders and adapt 
 * Bovine coronaviruses spread from cattle to many ungulates both domestic and wild.
 * In cell cultures coronavirus can adapt within a couple of generations. E.g. they can adapt such that the virions tolerate high temperature (55 degrees) better [Laude](../)
 
-Regarding SARS-CoV-2 many mutations have been observed and some lineages show a competition advantage. 
+Regarding SARS-CoV-2, new lineages emerged with a competition advantage. The underlying mechanisms for the competition advantages are often unclear however. Some times higher overall R values are concluded from a competition advantage. The goal of this chapter is to outline that a competition advantage can have several causes:
+* higher transmissibility in the sense of an overall higher R value
+* faster spread and thus outpacing lineages spreading at the same time
+* immune escape which enables reinfection. Since the individual R value distribution is skewed this can yield a higher spread.
 
-> ##### Virus Lineage
-> A lineage of viruses denotes all viruses originating from a single virus. In the case of recombination, viruses are associated with the virus
-
->> ##### Virus Variant
->> A virus variant is a virus lineage. The member viruses differ only in a couple of point mutations. These point mutation don't fundamentally change the behaviour of the viruses
-
->> ##### Virus Strain
->> A virus strain is a virus lineage which are closely related but differ in their behaviour.
-
-
-The question is now whether this variants and strains are
 
 
 ## Hypothesis 1: Immune Escape can result in a Significant Competition Advantage even at low Seroprevalence
