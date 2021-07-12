@@ -27,11 +27,11 @@
 
 
 ## Summary
-Symptom watching and surveillance is usually enough for attenuated live pathogen [vaccines](./vaccines.md#vaccine) since it is known what to except: the disease intended to prevent. When the symptoms are tolerable and limited the disease is not caused and so the vaccine is much safer than natural infection. However this method of tolerable symptoms watching is often not enough to ensure the safety of other vaccines technologies. Only the safety of vaccines where a thorough understanding of their behaviour in the body can be assess by symptoms alone. Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine:
-* Even for live pathogen vaccines tolerable disease symptoms watching can be tricky. E.g. an AIDS vaccine based on the wild type AIDS virus will pass a short term tolerable symptom test and antibodies will be detected. =>  the kinetics of the pathogen is needed and for some pathogens short term watching is not enough.
+Symptom watching and surveillance is usually enough for attenuated live pathogen [vaccines](./vaccines.md#vaccine) since it is known what to except: the disease intended to prevent. When the symptoms are tolerable and limited the disease is not caused and so the vaccine is much safer than natural infection. However this method of tolerable symptoms watching is often not enough to ensure the safety of other vaccines technologies. Only the safety of vaccines where a thorough understanding of their behavior in the body can be assess by symptoms alone. Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine:
+* Even for live pathogen vaccines tolerable disease symptoms watching can be tricky. E.g. an AIDS vaccine based on the wild type AIDS virus will pass a short term tolerable symptom test and antibodies will be detected. =>  the kinetics of the pathogen is needed since *not* for all pathogens short term watching is enough.
 * For vaccines with adjuvants, safety depends both on the antigens inoculated and the adjuvant. => The safety of the adjuvants needs to be ensured.
 * Transfected RNA ('mRNA' vaccines) may enter arbitrary tissues and cells: Transfection of the wrong cells such as long-lived neurones, stem cells or immune cells can have bad and long lasting effects. Upon transfection many things can happen e.g. cell death can be caused. => For mRNA vaccines it is mandatory to know the tissue and cell kinetics and the exact sequence and nucleoside modifications.
-* For adenovirus based vaccines the adenovirus species and its characterization is needed e.g.  how they distribute, which cells they attach or infect and the clearance kinetics. Haemagglutination is observed for many adenoviruses, which is possibly the cause of the observed thrombosis events. Which could be prevented e.g. by doses adaption.
+* For adenovirus based vaccines the adenovirus species and its characterization is needed e.g.  how they distribute, which cells they attach or infect and the clearance kinetics. Haemagglutination is observed for many adenoviruses, which is possibly the cause of the observed thrombosis events. Which could be prevented e.g. by dosage or administration adaption.
 
 
 
@@ -53,20 +53,27 @@ Symptom surveillance is enough when one knows what to except including possible 
 	* It is known that the medication is cleared during the surveillance period.
 	
 ### Symptom Surveillance is NOT Enough If
-Symptom surveillance is only enough in the cases where the kinetics is known and such that the medication is degraded with the symptom surveillance period known and favorable. In _all other_ cases symptom surveillance is _not_ enough. Examples are:
+Symptom surveillance is *not* enough when 
+* the excepted symptoms are unknown or hard to diagnose: e.g. detecting an immune disorder can require years of careful investigations.
+* the kinetics is *not* known or *not* favorable: If the kinetics is not known the surveillance period needs to be set to lifetime to exclude unwanted effects.
+
+Examples where symptoms surveillance alone is difficult or not doable:
 * Substance or pathogens with a bad kinetics: 
 	* Even tough low doses of mercury pass a symptom test, it enriches in the human body and can be neurotoxic. The latter is known for mercury therefore it is not used anymore as medicine.
-	* The safety of aluminum as adjuvant is still unclear despite being in use for 90 years. Nevertheless, some adverse effects can worth it to avoid smallpox or polio.
-	* Wild type aids viruses easily pass the symptom test. The problem is however they build their genome into long-lived immune cells and therefore AIDS infections are usually life long.
+	* The safety of aluminum as adjuvant is still unclear despite being in use for 90 years. Nevertheless, some risks of adverse effects can worth it to avoid smallpox or polio.
+	* Wild type aids viruses easily pass a short time symptom test. The problem is however they build their genome into long-lived immune cells and therefore AIDS infections are usually life long.
 * Substances which cause subtle and hard to diagnose damage. E.g. MDMA (ecstasy) can damage neurone in the brain and cause a slight loss in mental performance. Such effects are hard to detect and not detected in simple symptom tests.
-* Substance where the kinetics or the pattern of damage is unknown.
+* Substance where the kinetics or the pattern of damage is unknown. E.g. it lasted years until aids was discovered since to causally link the observed disease, namely an increased to susceptibility to secondary infections, to the AIDS virus was and is difficult.
+ 
 
 ### Covid Vaccine Trials
-Regarding the current mRNA and vector technologies long term and subtle health hazards are possible too. The trials only looked for symptoms and relevant data such as the tissue tropism and the exact sequences are/seem  withhold by the companies and possibly even by health authorities. Possibly for economic reasons, possibly to prevent an open discussion about side effects. 
+Regarding the current mRNA and vector technologies long term and subtle health hazards are possible too. The published trials only discuss symptoms. Relevant considerations such as the tissue tropism and the exact sequences are not mentioned. To me this is strange and not understandable.
 
-> It is unclear whether vaccines companies spend time and resources to ensure the safety. Especially if the rumoured contracts are true which frees them from liability.
+> Subtle damage (e.g. brain damage similar to MDMA or stem cell damage) are especially relevant when vaccinating children or repeated vaccination.
 
-> In my opinion such contracts should be waved unless the companies go open source with the entire vaccine technology stack such that an independent safety assessment is possible.
+> It is unclear whether vaccines companies spend enough time and resources to ensure the safety. Especially if the rumoured contracts are true which frees them from liability.
+
+> In my opinion such contracts should be waved unless the companies go open source with the entire vaccine technology stack such that an independent safety assessment is possible. If they don't want the vaccine companies can buy insurances, at least the 'mRNA' vaccines are sold with margin large enough that insurances can be paid if severe adverse effects are unlikely.
 
 
 
@@ -81,12 +88,11 @@ Some points relevant for Covid vaccines are:
 	
 	> Also there tissues like the bone marrow or the brain where damage is not wanted.
 
-* *Cells:* What's the cell tropism of the vaccines i.e.which cells they preferably attach and enter?
+* *Cells:* What's the cell tropism of the vaccines i.e. which cells they preferably attach and enter?
 
 	> Most cells are subject to the cell turnover which means die and replaced by new ones. So these cells don't live throughout one lifetime but shorter, usually much shorter. E.g. the cells in the respiratory tract epithelium are replaced within weeks. For this reason Covid-19 unlikely causes long lasting adverse effects as long as only the respiratory tract is infected (in rare cases, mostly severe infections and when the immune system is not good, the SARS-2 viruses can spread via the blood to other organs). 
 	
 	> On the other hand it is usually bad if long-lived neurones or stem cells are infected. These cell are usually well protected by the body: deep within tissues or even within the bones and additionally these cell usually don't express many receptors so virus can't easily enter.
-	
 	
 * How long the the vaccines reside within the body? 
 	Knowing the decay is mandatory to know the timescales of possible side effects. 
