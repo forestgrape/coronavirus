@@ -1,39 +1,18 @@
 # Coronaviruses Immune Evasion
 
+* [Immune Evasion Mechanisms](#immune-evasion-mechanisms)
+  * [Overcome Phagocytosis](#overcome-phagocytosis)
+  * [Avoid Being Targeted](#avoid-being-targeted)
 * [Adaption of Immune Evasion](#adaption-of-immune-evasion)
   * [Genetic Adaption](#genetic-adaption)
   * [Change the Way of Life](#change-the-way-of-life)
   * [Adapt Immune Evasion Mechanisms](#adapt-immune-evasion-mechanisms)
-* [Immune Evasion Mechanisms](#immune-evasion-mechanisms)
-  * [Overcome Phagocytosis](#overcome-phagocytosis)
-  * [Avoid Being Targeted](#avoid-being-targeted)
-* [Immune Evasion in Specific Situations](#immune-evasion-in-specific-situations)
+* [Overcome Innate Immunity](#overcome-innate-immunity)
   * [Overcome Physical Barriers](#overcome-physical-barriers)
   * [Overcome Chemical Barriers](#overcome-chemical-barriers)
-  * [Overcome Acquired Immunity](#overcome-acquired-immunity)
+* [Overcome Acquired Immunity](#overcome-acquired-immunity)
+  * [Overcoming Neutralizing Antibodies](#overcoming-neutralizing-antibodies)
 * [References](#references)
-
-
-
-## Adaption of Immune Evasion
-
-### Genetic Adaption
-Mutating the genome permanently changes properties of a linage. This can be the way of life or just the appearance:
-Costs: Most mutations reduce the fitness.
-
-1. [Change the Way of Life](#change-the-way-of-life): A profound and very effective change to escape a certain immune mechanisms.
-2. [Adapt Immune Evasion Mechanisms]: Use a new or increase an existing immune escape mechanisms.
-3. [Change the Appearance](#change-the-appearance): Escape host recognition mechanisms.
-
-
-
-### Change the Way of Life
-Changing the way of life to circumvent certain immune mechanisms. For RNA viruses changing the way of life is often achieved by [genetic adaption](#genetic-adaption) since their genome mutates fast and is very close to enzymes.
-
-E.g. coronaviruses infect in some animals the intestine but upon species jumps they infect the respiratory tract. Thereby they circumvent the stomach acids.
-
-### Adapt Immune Evasion Mechanisms
-Existing evasion mechanisms can be strengthened or new mechanisms can be used. Especially if a host has a single sided immune response, mechanisms to escape this response are strengthened.
 
 
 
@@ -53,7 +32,7 @@ Changing the appearance escapes host recognition mechanisms. This requires the h
 
 #### Shield
 Most life forms place their core parts in the center shielded from other life forms and the environment. There are different methods to shield:
-* Parts with variable appearance e.g. by [mutating](#mutate-the-genome) often.
+* Parts with variable appearance e.g. by [mutating](#genetic-adaption) often.
 * Regions which are hard to recognize: E.g. unpolarized substances such as glycans or fatty acids. 
 * Host acquired substances: 
   * The host cell acquired envelope.
@@ -67,7 +46,29 @@ Functional regions are often [shielded](#shield) until used: The receptor bindin
 
 Costs: Masking requires unmasking at the right time. Which restrict coronavirus infections to specialized settings. //This is good since it prevents coronaviruses from entering arbitrary cells.
 
-## Immune Evasion in Specific Situations
+
+
+## Adaption of Immune Evasion
+
+### Genetic Adaption
+Mutating the genome permanently changes properties of a linage. This can be the way of life or just the appearance:
+1. [Change the Way of Life](#change-the-way-of-life): A profound and very effective change to escape a certain immune mechanisms.
+2. Adapt [Immune Evasion Mechanisms](#immune-evasion-mechanisms): Use a new or increase an existing immune escape mechanisms.
+3. [Change the Appearance](#change-the-appearance): Escape host recognition mechanisms.
+
+Costs: Most mutations reduce the fitness.
+
+### Change the Way of Life
+Changing the way of life to circumvent certain immune mechanisms. For RNA viruses changing the way of life is often achieved by [genetic adaption](#genetic-adaption) since their genome mutates fast and is very close to enzymes.
+
+### Adapt Immune Evasion Mechanisms
+Existing evasion mechanisms can be strengthened or new mechanisms can be used. Especially if a host has a single sided immune response, mechanisms to escape this response can evolve.
+
+
+
+
+
+## Overcome Innate Immunity
 
 ### Overcome Physical Barriers
 - skin <- circumvented by human coronaviruses by entering via breathing
@@ -80,12 +81,11 @@ Costs: Masking requires unmasking at the right time. Which restrict coronavirus 
   - replicate to high numbers in the upper respiratory tract and hope some virion sneak through when drinking (when drinking fluids usually don't rest in the stomach)
 
 
-
-### Overcome Acquired Immunity
+## Overcome Acquired Immunity
 [in work, citations coming]
 For coronaviruses waiting until acquired wanes or even jumping generations is usually not an option, thus circumventing acquired immunity is an essential skill. 
 
-#### Overcoming Neutralizing Antibodies
+### Overcoming Neutralizing Antibodies
 
 > ##### Neutralizing Antibodies
 > Antibodies that block virions from infecting cells are called neutralizing antibodies. 
@@ -113,11 +113,17 @@ However overcoming neutralizing antibodies is often not free, so neutralizing an
   - different priming steps in different locations can give a different appearance at different locations in a host -> enabling intra-host spread [to check/confirm]
 - Exploit
   Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
-- Reduce Exposure Time
-  * Coronavirus virions can adapt to infect cells quicker. 
-    * This comes at the cost of more localized infections.
-    * Infecting cells quicker usually means the priming steps are less elaborate and so more cells are infected. This can cause more damage to the hosts which is not beneficial for viruses since they rely on their hosts.
-  * Coronaviruses can induce cells fusion. Thereby they circumvent the virion phase and thus they cannot be classically neutralized. To induce cell fusion the spikes are used, so antibodies targeting the spikes can prevent cell fusion, but cell fusion can be initiated quickly and between the cells the antibody concentration can be low [to confirm and cite].
+- Reduce Exposure Time by shortening the Virion Phase
+  * Coronavirus virions can adapt to infect cells quicker by having the spikes primed faster
+    * Shortening the virion phase can yield more localized infections.
+    * Infecting cells quicker usually means the priming steps are less elaborate and so more cells are infected. 
+    
+    > This can cause more damage to the hosts which is not beneficial for viruses since they rely on their hosts.
+
+- Bypass the Virion Phase
+  Coronaviruses can induce cell-cell fusion with their spikes. Thereby they circumvent the virion phase and thus they cannot be classically neutralized. 
+
+  > To induce cell-cell fusion the spikes are still used, so antibodies targeting the spikes can prevent cell fusion in theory, but cell fusion can be initiated quickly and between the cells the antibody concentration can be low [to confirm and cite].
   
 > Natural infections and vaccines also produce antibodies targeting no exposed substances, these helps to fight infections: during the intracellular assembling process, the virion proteins can get antibody-marked.
 
