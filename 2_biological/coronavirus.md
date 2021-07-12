@@ -23,9 +23,7 @@ Topics on Coronaviruses helpful to understand the infections they cause.
 * [Tropisms of Coronaviruses](#tropisms-of-coronaviruses)
   * [Respiratory Tract Tropism](#respiratory-tract-tropism)
 * [Evolution](#evolution)
-  * [Conserved Patters](#conserved-patters)
-  * [Changing Patterns](#changing-patterns)
-  * [Adaption to New Hosts](#adaption-to-new-hosts)
+  * [Conquering to New Hosts](#conquering-to-new-hosts)
 * [References](#references)
   * [RNA Viruses](#rna-viruses)
   * [Environmental Factors on Betacoronaviruses](#environmental-factors-on-betacoronaviruses)
@@ -242,39 +240,11 @@ However if large number of coronaviruses infect the single cell layer in the alv
 ## Evolution
 [in work]
 
-Coronaviruses can adapt fast to changed or new environments if given time and opportunity. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome.
-
-The genetic evolution of coronaviruses is fast compared to other [forms of life](./life-forms.md) because:
-* a short average generation-time (only a few hours [to be confirmed]) 
-* properties of their genome copying. 
-  * [single stranded RNA](../2_biological/life-forms.md#ssRNA) is copied by RNA-dependent RNA polymerase, which yields a higher rate of random point errors (mutations) compared to DNA polymerases
-  * a homologous recombination mechanism [[Woo et al.](#woo)] , more refs coming]
-* Genome is [encoded in RNA and not in DNA](./life-forms.md#lifetime-storage). RNA mutates more than DNA.
-* A large overall populations size = (within host population) * (number of infected hosts)
-  * large population size both within hosts. 
-  * the number of infected hosts can be large (for Sars-CoV-2)
-* Coronaviruses have large genomes (in comparison to other RNA viruses or messenger RNAs) which both back the recombination and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occurring on todays earth, possibly even the largest [to check].  
+Coronaviruses can adapt fast to changed or new environments if given time and opportunity. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome. Measured in mutations per time unit coronaviruses are among the fastest evolving life forms on earth. More in the [Evolution Chapter](./coronavirus_evolution.md).
 
 
-### Conserved Patters
-[in work]
-Some parts of the coronavirus genome 
-* Functional units of proteins. The more fundamental there function is, the more conserved they tend to be.
-* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to adapt.
-* For coronaviruses, the replication mechanism is well conserved and thus the proteins involved.
 
-Examples of well conserved proteins for coronaviruses are:
-* RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. Core parts of this protein are well conserved [to check and cite]. 
-* The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
-
-### Changing Patterns
-[in work]
-* The N terminal part of the spike protein mutates frequently. By such mutations coronaviruses can evade neutralizing antibodies (described on the page [Immune Evasion](./../4_immunological/immune_evasion.md)).
-
-> the description of more changing patters is in work.
-
-
-### Adaption to New Hosts
+### Conquering to New Hosts
 
 #### Interspecies Infections of Coronaviruses
 * all occurrences where [interspecies jumps](../2_biological/viruses.md#interspecies-jump) occurred at least one [interspecies infection](#interspecies-infection) must have occurred. But it is likely that many interspecies infections occurred before the jump happened. 
