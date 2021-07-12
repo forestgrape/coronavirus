@@ -66,15 +66,16 @@ One way coronaviruses can evolve to infect faster, is to have the spikes primed 
 
 
 ## Evidence for Competition Advantages without Increased Transmissibility
-[in work and to be checked]
 
-### Observations against an Overall Increased Transmissibility
+> **in work and to be checked**
+
+### Observations indicating No Overall Increased Transmissibility
 Observations for the spread of the new variants: At low prevalence new variants usually spread quickly and faster than existing variants (e.g. 20AEU1 or B.1.1.7 out-competed the previous variants). However once a certain level is reached and/or the measures are tightened, the spread of the new variants stabilises or reduces.
 
 ### Evidence for Competition Advantages due to Immune Escape
 
 #### Observations for SARS-CoV-2
-Variants with increased immune escape are observed in regions with high seroprevalences e.g. P1 in tropical Brazil. There this variants quickly replace existing variants.
+Variants with increased immune escape are observed in regions with high seroprevalences e.g. P1 in tropical Brazil. There this variants quickly replace existing variants. In other parts of the world P1 didn't spread that quickly.
 
 #### Observations for other Coronaviruses
 Both for the human endemic human coronaviruses (HKU1, NL63, OC43 and E229) and coronaviruses of domestic animals (e.g. bovine coronaviruses) it is observed that new strains replace old strains. The new strains which out-competed the old strains usually do not yield increased waves or otherwise show higher transmissibility. However the new strains escape the previously acquired immune protections [citations coming].
@@ -88,7 +89,8 @@ Fast strains have been observed in situations when the measures are lessened (ei
 
 
 ## Biological Explanations
-[in work and incomplete]
+
+> **in work and incomplete**
 
 ### Why usually only One Variant Succeeds
 Most respiratory tract virus infections yield cross immunity since the  immune system is alert to viruses: Usually only one virus at the time can infect the respiratory tract and the alertness of the immune system prevents other virus infections in the coming weeks (this is only true for virus infections and not bacteria or fungal infections since they require different immune responses. It is also not true if the immune system is out of shape). 
