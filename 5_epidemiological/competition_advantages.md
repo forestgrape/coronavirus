@@ -1,12 +1,36 @@
 # Thoughts on Competition Advantages and Transmissibility
 > explorative chapter
 
+* [Summary](#summary)
+* [Introduction](#introduction)
+* [Hypothesis 1: Immune Escape can result in a Significant Competition Advantage even at low Seroprevalence](#hypothesis-1-immune-escape-can-result-in-a-significant-competition-advantage-even-at-low-seroprevalence)
+  * [Model: The Overall R value of a Variant is the Average of the R Values of the Individuals Susceptible to a Variant](#model-the-overall-r-value-of-a-variant-is-the-average-of-the-r-values-of-the-individuals-susceptible-to-a-variant)
+  * [Skewed Spreader Distribution](#skewed-spreader-distribution)
+* [Hypothesis 2: Faster Infections Cycle can yield a Competition Advantage](#hypothesis-2-faster-infections-cycle-can-yield-a-competition-advantage)
+  * [Spread Advantages by faster Infections](#spread-advantages-by-faster-infections)
+  * [Biological Mechanism for faster Growth](#biological-mechanism-for-faster-growth)
+* [Evidence for Competition Advantages without Increased Transmissibility](#evidence-for-competition-advantages-without-increased-transmissibility)
+  * [Observations indicating No Overall Increased Transmissibility](#observations-indicating-no-overall-increased-transmissibility)
+  * [Evidence for Competition Advantages due to Immune Escape](#evidence-for-competition-advantages-due-to-immune-escape)
+  * [Evidence for Competition Advantages due to Faster Infections Cycles](#evidence-for-competition-advantages-due-to-faster-infections-cycles)
+* [Biological Explanations](#biological-explanations)
+  * [Why usually only One Variant Succeeds](#why-usually-only-one-variant-succeeds)
+  * [How Mutations directly effect Immune Evasion](#how-mutations-directly-effect-immune-evasion)
+  * [How Mutations increase the Infection Speed](#how-mutations-increase-the-infection-speed)
+
 ## Summary
 Since early in the SARS-2 pandemics new variants are observed. Sometimes a competitive advantage against existing variants is observed, from which a higher transmissibility then is inferred. In the following it is argued that a competitive advantage is not necessarily the result of a higher transmissibility but can also result from immune evasion (even at quite low seroprevalence) or from strains spreading faster (not necessarily more efficient).
+
+#### Hypotheses
 * *Hypothesis 1: Immune Evasion even at low Seroprevalence yields a Competition Advantage*: The Covid spread is highly uneven, in the sense that some individuals have many secondary cases while most individuals have no secondary cases, this motivates to define individual R values. The distribution of the individual R values is uneven: While many individuals having low R values, a few have very high R values. If a Covid variant can now reinfect people with high R values, it has a competition advantage over the other variants.
 * *Hypothesis 2: Faster Infection yields a Competition Advantage*: Some variants infect faster which makes their waves peakier. Such variants have competitions advantages over slower variants even without a higher transmissibility. The fast variants rush through the most susceptible hosts and leave only few hosts for slow variants. This because those recently infected, have an alert and well prepared immune system generally to respiratory viruses infections and closely related strains where cross immunity is strong especially.
-* *Epidemiological Evidences:* The hypotheses above explain patterns observed for the spread of new variants: fast strains such as B.1.1.7 are observed to spread especially when Covid-spread-favorable situation are there (e.g. release of measures or spread-friendly climate situations) and immune evasion variants are often observed when there's preexisting immunity.
-* *Biological Explanations:* The effects of mutations on immune evasion and faster infections are discussed. Point mutations often yield neutralising antibody escape targeting the receptor binding domain or mutations can increase the priming through proteases which yields a shorter virion time which results in faster infections.
+
+
+#### Epidemiological Evidences
+The hypotheses above explain patterns observed for the spread of new variants: fast strains such as B.1.1.7 are observed to spread especially when Covid-spread-favorable situation are there (e.g. release of measures or spread-friendly climate situations) and immune evasion variants are often observed when there's preexisting immunity.
+
+#### Biological Explanations
+The effects of mutations on immune evasion and faster infections are discussed. Point mutations often yield neutralising antibody escape targeting the receptor binding domain or mutations can increase the priming through proteases which yields a shorter virion time which results in faster infections.
 
 ## Introduction
 Coronaviruses are well known for the ability to cross species borders and adapt to new situations:
@@ -93,14 +117,16 @@ Fast strains have been observed in situations when the measures are lessened (ei
 > **in work and incomplete**
 
 ### Why usually only One Variant Succeeds
-Most respiratory tract virus infections yield cross immunity since the  immune system is alert to viruses: Usually only one virus at the time can infect the respiratory tract and the alertness of the immune system prevents other virus infections in the coming weeks (this is only true for virus infections and not bacteria or fungal infections since they require different immune responses. It is also not true if the immune system is out of shape). 
+1. A respiratory disease sets the respiratory immune system into an alert state for this reason usually only one respiratory virus can cause a disease at a time and the alertness of the immune system prevents further virus infections in the coming weeks (this is only true for virus infections and not bacteria or fungal infections since they require different immune responses. It is also not true if the immune system is out of shape).
+2. The closer pathogens either genetically or in the way of life the more cross immunity there is.Even between genetically unrelated RNA viruses there is cross immunity since the immune system can detect double stranded RNA which occurs during genome duplication. Different strains of SARS-CoV-2 may have slightly different spikes, but most parts still are very similar enabling the immune system to recognize them as similar.
+
 => Only the first infecting variant is successful at infecting regardless whether a new SARS-2 variant manages to escape the acquired immunity, it most likely will fail to infect due to alertness.
 
 ### How Mutations directly effect Immune Evasion
 Non synonymous mutations by definition alter the protein sequence. An altered protein sequence within antibody or T cell epitops can weaken or break the bindings and which weakens or break the associated immune response.
 
 ### How Mutations increase the Infection Speed
-The spike proteins of coronaviruses usually need to be [primed] in one or several steps until the spikes under go the conformation change to induce membrane fusion.
+The spike proteins of coronaviruses need to be [primed](../2_biological/coronavirus.md#virion-priming) in one or several steps until the spikes under go the conformation change to induce membrane fusion. The spikes can mutate such the existing proteases can better prime or new proteases can prime the spikes, both have the effect that the spikes and thus the virions are primed faster.
 
 
 
