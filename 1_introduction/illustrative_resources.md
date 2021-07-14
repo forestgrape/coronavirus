@@ -4,7 +4,7 @@ Illustrative Resources
 Especially Illustrative, Insightful, Helpful and,or Extraordinary Literature
 
 #### Content
-* [Notes on Reading](#notes-on-reading)
+* [Introduction](#introduction)
 * [Respiratory Viruses](#respiratory-viruses)
   * [Jia 2005](#jia-2005)
   * [Bertram 2012](#bertram-2012)
@@ -13,7 +13,7 @@ Especially Illustrative, Insightful, Helpful and,or Extraordinary Literature
   * [Yan 2018](#yan-2018)
   * [Boast 2020-2021](#boast-2020-2021)
 
-## Notes on Reading
+## Introduction
 A subjective collection of literature which provides insights to understand coronaviruses and their diseases.
 * "Highlighted" is a subjective picking of topics discussed in the paper.
 * "Usage Here" denotes where on this betacoronavirus page the references are used.
