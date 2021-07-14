@@ -1,6 +1,6 @@
 
 # Suggestions and Tips
-Public Suggestions, Advice and Tips how the live in Covid Times
+General notes on virus diseases and the transmission of coronaviruses. Public Suggestions, Advice and Tips how the live and behave in Covid times.
 
 * [Covid-19 and Virus Infections](#covid-19-and-virus-infections)
 * [Sars-CoV-2 Transmission](#sars-cov-2-transmission)
@@ -40,7 +40,8 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
 
 
 ## How to Reduce Covid-19 Transmissions
-> Remark: Some of the following advices are when Sars-Cov-2 ARDS/SARS disease patterns peak (they were also written during a SARS-2 wave peak).
+
+> Remark: Some of the following advices are meant when Sars-Cov-2 ARDS/SARS disease patterns peak.
 
 In brief: Think aerosol transmission as smoke like. To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
 
@@ -128,7 +129,7 @@ Controlling SARS-CoV-2 is an individual, a local and global task. The better eve
 
 
 ## Live Healthily
-A good immune system goes hand in hand with a healthy lifestyle:
+A good immune system goes hand in hand with a healthy lifestyle.
 * Sleep enough, eat healthily, relax and do some sport. 
 
 and avoid anything that weakens the immune system:
