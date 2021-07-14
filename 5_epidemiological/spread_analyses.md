@@ -529,16 +529,10 @@ The infector distribution is highly skewed:
 
 Possible reasons for the skewed distribution are:
 * *Socioeconomic conditions:*
-  [Living Conditions](#living-conditions) yield an increased risk for infection and spread.
-* *Physiological Properties:*
-  * *Individuality of Virus Shedding.*
-  Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is and physiology of the respiratory tract. The virions need to be breath or coughed out. How many small particulates persons exhale is highly individual and tends to increase with age, male sex and BMI (described on in the section [particle source](../5_epidemiological/transmission.md#particle-sources) on the transmission page. A key reference is [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018) who measure the aerosol shedding for symptomatic influenza A and B.
-  * *The immune system preparedness to new viruses vary and some clear the viruses faster and earlier.*
-  The immune systems vary between individuals. E.g. younger people tend to have a much stronger innate immunity which can handle and control new pathogens quickly. Essentially SARS-CoV-2 is as new to them as other pathogens. With increasing age to immune system becomes less adaptable (e.g. the number of naive T cells decrease) and relies much more on acquired immunity, in this case an adequate immune response is often delayed [citations coming]. Vaccination may provide preparedness which reduces spread, however whether Covid vaccines (admitted as of 30 June 21 are just intramuscular vaccines which do not produce IgA) have a reducing effect on viral shedding given the symptom status is currently unclear (many investigations are heavily biased since vaccinated people have less reason to get a Covid test. Some investigations do uniform screening but often NPS swabs are taken which are not necessarily predictive for aerosol shedding).
-* *Behavior:* When one is infected how much the transmission paths are reduced is highly individual: 
-  * some may notice symptoms and/or get tested
-  * some are more and some are less careful
-  * some have obligations such that staying home or out of public space is less doable, for others it's doable (e.g. in jobs where remote work is easy one can work from home at the slightest feel of uneasiness.)
+  [Living Conditions](#living-conditions) influence transmission chains.
+* *Individuality of Virus Shedding.*
+  Viral shedding is highly individual. Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is and physiology of the respiratory tract. How many small particulates persons produce is highly individual and tends to increase with age, male sex and BMI. Described on in [particle sources](../5_epidemiological/transmission.md#particle-sources). Other factors such as immune system preparedness and behavior are also important. The [individuality of viral shedding](../3_medical/individual_covid.md#virion-shedding) is discussed on the page [Individual Covid](../3_medical/individual_covid.md).
+
 
 
 ### Infectors and Symptom Status
