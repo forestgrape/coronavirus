@@ -54,10 +54,14 @@ The Covid spread is uneven: with a few yielding many secondary cases while many 
 Remark: The immune escape does not necessarily be an escape from neutralizing antibodies but can also result from other immune evasion mechanisms such as from T cell or non-neutralizing antibody epitopes. 
 
 ### Skewed Spreader Distribution
-Epidemiological and experimental observations show that: 
-* Few people infect many others while most infected have no secondary cases.
-* Some people exhale much more aerosol than others.
-* People with live in dense living conditions are much more likely to get infected and to spread Covid.
+Epidemiological and experimental observations show that: A few percent of people infect many others while most infected have no secondary cases.
+
+Possible reasons are:
+* Physiological: Some people exhale much more aerosol than others.
+* Living Situation: People with live in dense living conditions are much more likely to get infected and to spread Covid.
+* Behavior: How people behave is different. Some might notice symptoms, some note. Symptoms can be wrongly attributed to something else.
+
+(Section [Infector Distribution](../5_epidemiological/spread_analyses.md#infector-distribution) on the spread analyses page)
 
 
 ## Hypothesis 2: Faster Infections Cycle can yield a Competition Advantage
@@ -82,9 +86,9 @@ Coronaviruses can evolve to infect faster i.e. once infected a high viral loads 
 
 
 ### Biological Mechanism for faster Growth
-One way coronaviruses can evolve to infect faster, is to have the spikes primed faster. Spike priming is increased by cleavage sites better optimised to existing cleavage proteases or that the cleavage sites can be cleaved by more proteases. A faster spike priming induces a shorter virion phase and a faster cell cell fusion. The shortened virion phase yields faster infection cycles and possibly a faster increase in viral load.
+One way coronaviruses can evolve to infect faster, is to have the spikes primed faster. Spike priming is increased by cleavage sites better optimized to existing cleavage proteases or that the cleavage sites can be cleaved by more proteases. A faster spike priming induces a shorter virion phase and a faster cell cell fusion. The shortened virion phase yields faster infection cycles and possibly a faster increase in viral load.
 
-> The final viral load is not necessarily higher since a faster spike priming usually causes an infection to be more localised which is easier for the immune system to recognise and to eliminate.
+> The final viral load is not necessarily higher since a faster spike priming usually causes an infection to be more localized which is easier for the immune system to recognize and to eliminate.
 
 > A broader spike activation can increase the tropism of coronaviruses. An increased tropism can cause different disease patterns which can be more serious.
 
