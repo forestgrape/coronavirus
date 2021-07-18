@@ -5,10 +5,13 @@
 * [Infections and Diseases](#infections-and-diseases)
 * [Disease Factors](#disease-factors)
 * [Infection Locations](#infection-locations)
+* [Pathology](#pathology)
 * [Immune Response and Symptoms](#immune-response-and-symptoms)
   * [Causes of Symptoms](#causes-of-symptoms)
   * [Symptoms at different Locations](#symptoms-at-different-locations)
+  * [Individual Immune System Adequateness](#individual-immune-system-adequateness)
 * [Disease Stages](#disease-stages)
+* [Virion Shedding](#virion-shedding)
 * [Prevention and Treatment](#prevention-and-treatment)
   * [Movement](#movement)
 * [Recovery and Long Lasting Effects](#recovery-and-long-lasting-effects)
@@ -24,6 +27,7 @@
   * [References Rehabilitation](#references-rehabilitation)
   * [Pathogenesis and Viral Loads Sars-Cov-1](#pathogenesis-and-viral-loads-sars-cov-1)
   * [Pathogenesis and Viral Loads Sars-Cov-2](#pathogenesis-and-viral-loads-sars-cov-2)
+  * [References Pathology](#references-pathology)
 * [Appendix](#appendix)
 
 
@@ -67,11 +71,11 @@ The definition of a virus disease is not strict:
 * For viruses which can be highly pathogenic usually one speaks of a disease if there is an infection diagnosed regardless whether there are symptoms or adverse effects.
 
 > ##### Covid-19
-> *Covid-19* stands for COronaVIrus Disease 2019. As of December 2020, all SARS-CoV-2 infections are called Covid-19. 
+> *Covid-19* stands for COronaVIrus Disease 2019. From early 2020 on, all SARS-CoV-2 infections are called Covid-19. Thus Covid-19 is *not* used to denote a disease but it is used to denote an infection with the SARS-CoV-2 coronavirus. 
 
-In colloquial language, "Covid-19" is often used synonymously with having SARS-CoV-2 viruses detected in the upper respiratory tract, often tested by nasopharyngeal sampling and PCR testing. However the situation is not that simple:  
+In colloquial language, "Covid-19" is often used synonymously with detecting parts of SARS-CoV-2 viruses in the upper respiratory tract, often tested by nasopharyngeal sampling and PCR testing. However the situation is not that simple:  
 * Not all persons infected with SARS-CoV-2 have a detectable amount of viruses in the nose since SARS-CoV-2 can infect the lower respiratory tract only. Especially people with a sensible immune system may experience symptoms without having a detectable viral load in the upper respiratory tract. But it is also possible to have severe Covid-19 without having detectable viruses by nose swabs [citation in work].  
-* On the contrary some people have a detectable viral load in the upper respiratory tract but no symptoms. 
+* Detectable SARS-2 parts (either RNA by PCR or proteins by antigens test) can result from a past infection and thus not equivalent to an ongoing infection and shedding infectious virions.
 
 More about in the chapter [Diagnosis](../3_medical/diagnosis_and_viral_load.md) and [Infections Locations](#infection-locations).
 
@@ -92,12 +96,13 @@ A virus disease is an interplay of host factors including the host immune system
     - Cells susceptible to infection and capable of producing viruses (not all cells are susceptible e.g. red blood cells are not susceptible to virus infections ).
     - Host [immune response](#immune-response-and-symptoms).
 * __Capabilities and Behavior of the Virus__
-  Viruses behave different under different environmental factors (called tropism of viruses), described in the section [Tropism of viruses](../2_biological/coronavirus.md#tropism). E.g. SARS-2 virions can initiate cell entry only for cells containing a matching receptor. To infect a tissue several conditions must be met as described in [coronavirus behavior](../2_biological/coronavirus.md#behaviors-of-coronaviruses).
+  Viruses growth differently under different environmental factors called tropism (-> [Tropism of viruses](../2_biological/coronavirus.md#tropism). E.g. SARS-2 virions can initiate cell entry only for cells containing a matching receptor. To infect a tissue several conditions must be met as described in [coronavirus behavior](../2_biological/coronavirus.md#behaviors-of-coronaviruses).
 * __Environmental Factors__
     - the travel of virions between hosts and thus the mode of the initial infection. E.g. in dry air exhaled droplets dry out and these are more likely to be deposited deep in the lungs.
     - Environmental factors can influence the host factors as well as the virus tropism and thus indirectly the course of the disease. E.g.:
       - Very dry air can weaken the immune system of the mucous membrane in the respiratory tract.
-      - Dirty air can weaken defence mechanisms against viruses e.g. ciliated cells are damaged and thereby the clearance of particles in the respiratory tract is reduced.
+      - Dirty air can weaken defence mechanisms against viruses e.g. ciliated cells are damaged and thereby the clearance of particles in the respiratory tract is reduced. 
+
 
 
 
@@ -109,6 +114,11 @@ Different topics related to the infection locations are described in the section
 * The [Immune Response and Symptoms](#immune-response-and-symptoms) section gives an overview of the different symptoms induced by the infection location.
 * In the [coronavirus chapter](../2_biological/coronavirus.md), the section [tissue tropism](../2_biological/coronavirus.md#tropsims-of-coronaviruses) describes how and which tissues are infected by coronaviruses and SARS-2 especially.
 * The experimental chapter [Coronavirus Disease Pattering](../3_medical/coronavirus_disease_patterns.md) describes that coronavirus infections at different locations can be experienced/observed as different diseases.
+
+
+## Pathology
+* Lung damage (described in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md))
+* Endothelial tissue damage in the case of severe Covid [Varga](#varga)
 
 
 
@@ -131,10 +141,18 @@ Infection symptoms depend on the infected locations. SARS-CoV-2 infects differen
 * Deep Lungs i.e. in the alveoli => The lungs can get inflamed. Strange feeling in the chest. Shortness of breath. Early on virions are released into the blood.
 * Blood i.e. viraemia => This feels like it is starting from within. Symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less. 
 *  Intestine => Diarrhea can both start early and later on and often outlasts the respiratory infection by days or even weeks.
-
+### Individual Immune System Adequateness
+The immune system preparedness to new viruses vary and some clear the viruses faster and earlier. E.g. younger people tend to have an immune system which better and faster learns new pathogens and the the innate immune is stronger (the acquired immunity has the learn new pathogens by definition, so it needs to be learnable and the immune system needs backups to handle unknown pathogens since each pathogen is new on the first encounter) which can handle and control new pathogens quickly. Essentially SARS-CoV-2 is as new to them as any other pathogens. With increasing age to immune system becomes less adaptable (e.g. the number of naive T cells decrease) and relies much more on acquired immunity, in this case the immune response is often delayed and/or not adequate [citations coming].
 
 ## Disease Stages
 [in work]
+
+
+
+
+
+## Virion Shedding
+Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is and physiology of the respiratory tract. The virions need to be breath or coughed out. How many small particulates persons exhale is highly individual and tends to increase with age, male sex and BMI (described on in the section [particle source](../5_epidemiological/transmission.md#particle-sources) on the transmission page. 
 
 
 ## Prevention and Treatment
@@ -158,6 +176,11 @@ The benefits of sports founded by biological mechanisms and epidemiological evid
 Recommended articles regarding movement and exercise are:
 * [Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.](../6_prevention_and_treatment/movement.md#zhu) by Zhu
 * [COVID-19: A pandemic that threatens physical and mental health by promoting physical inactivity](../6_prevention_and_treatment/movement.md#ali) by Ali and Kunugi 
+
+
+
+
+
 
 
 
@@ -200,7 +223,7 @@ Once agreed upon a uniform way to measure the fatality rate, the rate still vari
 ### Comparing Case and Infection Fatality
 The official Covid-19 case counts are in most countries fare to low and thus the cfr fare to high. 
 The resulting mismatch between cfr and ifr can be used to estimate the `detection rate = #(case count)/#(all infected) = [#(deaths)/#(all infected)] / [#(deaths)/#(cases count)] = ifr / cfr `
-(more in the section [Detect Estimates Out of Bounds](../8_data/monitoring.md#detect-estimates-out-of-bounds) in the [Monitoring chapter](../8_data/monitoring.md)).
+(more in the section [Validate Estimates](../8_data/monitoring.md#validate-estimates) in the [Monitoring chapter](../8_data/monitoring.md)).
 
 ### Estimates
 [in work]
@@ -256,37 +279,45 @@ Barker-Davies RM, O’Sullivan O, Senaratne KPP, et al. Br J Sports Med 2020;54:
 
 ### Pathogenesis and Viral Loads Sars-Cov-1
 
-* ##### lau
-	Yu Lung Lau and JS Malik Peiris 
-    **Pathogenesis of severe acute respiratory syndrome**
-	Current Opinion in Immunology 2005, 17:404–410
-	https://doi.org/10.1016/j.coi.2005.05.009
+#### Lau
+Yu Lung Lau and JS Malik Peiris 
+**Pathogenesis of severe acute respiratory syndrome**
+Current Opinion in Immunology 2005, 17:404–410
+https://doi.org/10.1016/j.coi.2005.05.009
 
-* ##### peiris
-    J S M Peiris, Y Guan, K-Y Yuen
-    **Severe acute respiratory syndrom**
-    nature medicine, 30 November 2004
-    https://doi.org/10.1038/nm1143
+##### Peiris
+J S M Peiris, Y Guan, K-Y Yuen
+**Severe acute respiratory syndrom**
+nature medicine, 30 November 2004
+https://doi.org/10.1038/nm1143
 
 
 ### Pathogenesis and Viral Loads Sars-Cov-2
-* ##### case-series-france
-    Francois-Xavier Lescure, Lila Bouadma, Bruno Lina, Sylvie van-der-Werf, Yazdan Yazdanpanah et al.
-    **Clinical and virological data of the first cases of COVID-19 in Europe: a case series**
-    Lancet Infect Dis 2020
-    PublishedOnline
-    March 27, 2020 https://doi.org/10.1016/ S1473-3099(20)30200-0
-    See Online/Comment https://doi.org/10.1016/ S1473-3099(20)30237-1
+Further references in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)
 
-* ##### To
-    Kelvin Kai-Wang To, Owen Tak-Yin Tsang, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng, Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen 
-    **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
-    Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
+##### case-series-france
+Francois-Xavier Lescure, Lila Bouadma, Bruno Lina, Sylvie van-der-Werf, Yazdan Yazdanpanah et al.
+**Clinical and virological data of the first cases of COVID-19 in Europe: a case series**
+Lancet Infect Dis 2020
+PublishedOnline
+March 27, 2020 https://doi.org/10.1016/ S1473-3099(20)30200-0
+See Online/Comment https://doi.org/10.1016/ S1473-3099(20)30237-1
+
+##### To
+Kelvin Kai-Wang To, Owen Tak-Yin Tsang, Wai-Shing Leung, Anthony Raymond Tam, Tak-Chiu Wu, David Christopher Lung, Cyril Chik-Yan Yip, Jian-Piao Cai, Jacky Man-Chun Chan, Thomas Shiu-Hong Chik, Daphne Pui-Ling Lau, Chris Yau-Chung Choi, Lin-Lei Chen, Wan-Mui Chan, Kwok-Hung Chan, Jonathan Daniel Ip, Anthony Chin-Ki Ng, Rosana Wing-Shan Poon, Cui-Ting Luo, Vincent Chi-Chung Cheng, Jasper Fuk-Woo Chan, Ivan Fan-Ngai Hung, Zhiwei Chen, Honglin Chen, Kwok-Yung Yuen 
+**Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
+Lancet Infect Dis 2020 Published Online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30196-1 SeeOnline/Comment https://doi.org/10.1016/S1473-3099(20)30235-8
+
+
+### References Pathology
+#### Varga
+**Endothelial cell infection and endotheliitis in COVID-19**
+Published Online April 17, 2020 <https://doi.org/10.1016/ S0140-6736(20)30937-5>
 
 
 
 
 ## Appendix
 > #### Personal Covid Experience
-> I likely had Covid-19 myself in early to mid March 2020 when temperatures were freezing cold in my living place at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious, at least back then: 1) lack of respiratory symptoms - not a single cough if I recall correctly, 2) the supposed low prior probability according to the official prevalence and 3) I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon the initial symptoms faded and I felt fit again. I went for some cross country skiing and much more intense than planned since three quarters were through deep snow. The sport session went well by itself, but it turned out to have been a bad idea: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
+> I likely had Covid-19 myself in early to mid March 2020 when temperatures were freezing cold in my living place back then at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious: 1) lack of respiratory symptoms - not a single cough if I recall correctly, 2) the supposed low prior probability according to the official prevalence and 3) I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon the initial symptoms faded and I felt fit again. I went for some cross country skiing and much more intense than planned since three quarters were through deep snow. The sport session went well by itself, but it turned out to have been a bad idea: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
 > Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. Immune response was still timely though: Less than twelve hours after the likely infection event (someone repeatedly coughing about 4 meters away in the same room and I was there about an hour and a half) the initial strange feeling started.
