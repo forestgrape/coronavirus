@@ -141,13 +141,12 @@ Infection symptoms depend on the infected locations. SARS-CoV-2 infects differen
 * Deep Lungs i.e. in the alveoli => The lungs can get inflamed. Strange feeling in the chest. Shortness of breath. Early on virions are released into the blood.
 * Blood i.e. viraemia => This feels like it is starting from within. Symptoms can be chills (because the body is increasing the temperature to fight the viruses) or just strange feeling, similar to a weak poisoning when having eaten something rotten or drunken too much. Feeling tired, energy-less. 
 *  Intestine => Diarrhea can both start early and later on and often outlasts the respiratory infection by days or even weeks.
+
 ### Individual Immune System Adequateness
 The immune system preparedness to new viruses vary and some clear the viruses faster and earlier. E.g. younger people tend to have an immune system which better and faster learns new pathogens and the the innate immune is stronger (the acquired immunity has the learn new pathogens by definition, so it needs to be learnable and the immune system needs backups to handle unknown pathogens since each pathogen is new on the first encounter) which can handle and control new pathogens quickly. Essentially SARS-CoV-2 is as new to them as any other pathogens. With increasing age to immune system becomes less adaptable (e.g. the number of naive T cells decrease) and relies much more on acquired immunity, in this case the immune response is often delayed and/or not adequate [citations coming].
 
 ## Disease Stages
 [in work]
-
-
 
 
 
