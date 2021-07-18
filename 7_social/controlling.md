@@ -119,7 +119,7 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 
 > In regions with high air pollution the are more severe Covid cases ([Air Pollution](../5_epidemiological/spread_analyses.md#air-pollution) in Spread Analyses).
 
-The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#numbers-and-comments) for all infection rates on the [Monitoring Page](../8_data/monitoring.md))
+The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#from-numbers-to-measures) for all infection rates on the [Monitoring Page](../8_data/monitoring.md))
 
 CD/M/day | Stringency
 --|--
