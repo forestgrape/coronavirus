@@ -2,8 +2,12 @@
 # Diagnosis and Viral Load
 
 * [Summary](#summary)
-* [Introduction to Diagnosis](#introduction-to-diagnosis)
-* [History of Covid-19 Diagnosis](#history-of-covid-19-diagnosis)
+* [Introduction](#introduction)
+  * [Introducing Diagnosis](#introducing-diagnosis)
+  * [History of Covid-19 Diagnosis](#history-of-covid-19-diagnosis)
+  * [Overview Diagnosis Methods](#overview-diagnosis-methods)
+  * [Overview Diagnosis Locations](#overview-diagnosis-locations)
+  * [Diagnosis Suggestions by Test Goal](#diagnosis-suggestions-by-test-goal)
 * [Directly Detect Viruses](#directly-detect-viruses)
   * [Measure Virus Building Blocks](#measure-virus-building-blocks)
   * [Detect Infectious Virions](#detect-infectious-virions)
@@ -11,12 +15,11 @@
 * [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)
   * [Detect Tissue damage](#detect-tissue-damage)
   * [Detect Immune Response](#detect-immune-response)
-* [Introduction to Viral Load](#introduction-to-viral-load)
+* [Introducing Viral Load](#introducing-viral-load)
   * [Causes for Viral Loads](#causes-for-viral-loads)
   * [Specimens with Viral Load](#specimens-with-viral-load)
-  * [Specimen Collection](#specimen-collection)
   * [Temporal Variation of the Viral Load](#temporal-variation-of-the-viral-load)
-* [Diagnosis and Viral Load at Different Locations](#diagnosis-and-viral-load-at-different-locations)
+* [Diagnosis at Different Locations with a Focus on Viral Load](#diagnosis-at-different-locations-with-a-focus-on-viral-load)
   * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
   * [Detection Rates](#detection-rates)
   * [Diagnosis in the Nose](#diagnosis-in-the-nose)
@@ -38,11 +41,12 @@
   * [References RNA Detection Stability](#references-rna-detection-stability)
   * [Time Series of Viral Load in URT Samples](#time-series-of-viral-load-in-urt-samples)
   * [Timing Specimen Collection](#timing-specimen-collection)
+  * [Diagnosis in different Situations](#diagnosis-in-different-situations)
 * [Appendix](#appendix)
   * [Calculation of Viral Load from CT_Value](#calculation-of-viral-load-from-ct_value)
+  * [Specimen Collection](#specimen-collection)
 
 
-**entire page is in work**
 
 ## Summary
 Different methods to diagnose Covid-19 are discussed. A focus is on methods measuring the amount of viruses (viral load) at different locations. For this reason the topics diagnosis and viral load are discussed in the same chapter.
@@ -61,26 +65,63 @@ Common locations and fluids the viral load is measured are:
 * Morning sputum and nasopharyngeal aspirate have high viral load and good detection rates. 
 * The viral load in the sputum and in saliva is an indication for disease progression. The viral load in NPS samples is not an indicator. 
 
-#### Take Away
+#### Recommendations
 * __Recommended Diagnosis__: Repeated morning saliva specimens yield reliable viral loads which even predict the course of the disease. Morning saliva has shown is effectiveness in the surveillance system in Hong Kong. Sputum helps to diagnose lower respiratory tract infections and the viral load is a predictor for the prognosis. 
 * __With Reservation__: The standard methods nasopharyngeal swabs (NPS) has a mediocre detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation. Serum antibodies detect 
 * __To keep in mind__: The viral load and the immune responses depend on the infection location, infection severity and the individual immune systems. Therefore there's no all catching diagnose location or method. Not to every infection in the upper respiratory tract the body responds with serum antibodies. On the other hand a lower respiratory tract infection one can be infectious and the infection induces an antibody response, but a single virus test in the upper respiratory tract can be negative.
 
-## Introduction to Diagnosis
 
+
+## Introduction
+
+### Introducing Diagnosis
 A defined in the [Covid-19 chapter](../3_medical/covid19.md) a [disease](../3_medical/covid19.md#disease) is a disordering of the body which can be caused by pathogens. For a virus disease, the cause (the viruses) can be detected directly section [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)). Possible disordering/damage caused (e.g. tissue damage) and possible induced immune responses can be inspected and indicate indirectly a virus infection (section [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)).
 
 > ###### Diagnosis
 > Diagnosis comes from dia ‘apart’ + gignōskein ‘recognize, know’ (British English Thesaurus). Diagnose an illness is to figure out the causes i.e. determine which disease causes the illness. 
 
-## History of Covid-19 Diagnosis
+### History of Covid-19 Diagnosis
 * In late 2019 and January 2020 Covid-19 was mostly diagnosed based on lung CT findings.
 * In February 2020 PCR test became more widely available and often specimens from the lower respiratory tract such as BALF or sputum were used. 
 * From February/March 2020 to December 2020 the standard SARS-CoV-2 tests are nasopharyngeal swabs in most locations of the world. The viral load is detected either by [PCR-Test](#pcr-test) or [Antigen-Tests](#antigen-test).
 
   > In the very early phase of the Covid-19 pandemics PCR test were scarce and antigen tests not available so the work for BALF/sputum sampling was not the bottleneck. In the next months PCR test became more widely available but still limited, nasopharyngeal swabs were used: NPS sampling was doable since testing capacity was still limited. Then one just kept on doing NPS even though there have been early studies pointing to the benefits of other methods such as self collected saliva. 
 * Late 2020 antigen tests are getting more common.
-* 2021? Alternate Locations? Rethink [Diagnosis Locations and Methods](#diagnosis-and-viral-load-at-different-locations) and a chapter is devoted to [saliva based diagnosis](#saliva-diagnosis).
+* 2021? Alternate Locations? Rethink [Diagnosis Locations and Methods](#viral-load-at-different-locations-with-a-focus-on-diagnosis) and a chapter is devoted to [saliva based diagnosis](#saliva-diagnosis).
+
+
+### Overview Diagnosis Methods
+
+* [Directly Detect Viruses](#directly-detect-viruses)
+  * [Measure Virus Building Blocks](#measure-virus-building-blocks): The viral RNA is measured by PCR tests and the viral proteins are detected by antigen tests.
+  * [Detect Infectious Virions](#detect-infectious-virions): Infecting virions can be measured by tissue or cell cultures tests. However this is tricky since coronavirus can be picky which cells they infect. This may even depend on the originating cell and tissue.
+  * [Detect Metabolism of Viruses](#detect-metabolism-of-viruses):
+* [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)
+  * [Detect Tissue damage](#detect-tissue-damage): In the upper respiratory tract, tissue damage is hardly above the (visual) detection level. In the lower respiratory tract there's much more tissue damage and it can be even observed by X-ray or multiple x-ray images to construct a CT image.
+  * [Detect Immune Response](#detect-immune-response): The immune system is sensible at detecting strange things going on. Once it detects cells inducing apoptosis and tissue damage, the immune system tries to figure out the causal agents and initiates immune responses. Against coronavirus infection this response includes antibodies which can be detected, however the immune system needs some days to produce antibodies in detectable amounts.
+
+
+### Overview Diagnosis Locations
+SARS-CoV-2 infections can diagnosed at the different locations they infect: [Diagnosis at Different Locations with a Focus on Viral Load](#diagnosis-at-different-locations-with-a-focus-on-viral-load). Important and frequently infected locations are:
+* [Diagnosis in the Nose](#diagnosis-in-the-nose)
+* [Diagnosis in the Mouth](#diagnosis-in-the-mouth)
+* [Diagnosis in the Lungs](#diagnosis-in-the-lungs)
+
+
+### Diagnosis Suggestions by Test Goal
+> partly subjective
+The optimal diagnosis method depends on the purpose of diagnosis:
+* Diagnosis of at risk for severe Covid individuals: Multiple early morning salvia. Possibly combined with sputum or x-ray (for patients of high age) to check lung involvement.
+* Routine screening of health/care home personal: Twice per week early morning saliva analyzed with pooled PCR.
+* Routine screening of personal in public settings such as supermarkets/public offices: Early morning saliva combined with do it yourself antigen tests once a week during moderate to high incidence of hospitalized cases. Confirmation with PCR.
+* Schools: Pooled saliva to have an overview. 
+  > Since children rarely transmit, quarantine can be especially hard for them and quarantine can contribute to long Covid and possibly even to PIMS, quarantine should be waved or reduced.
+
+
+Further reading: The diagnosis methods to use in different situations is addressed by [Mina and Anderson](#mina).
+
+
+
 
 
 
@@ -147,12 +188,7 @@ For infections triggering certain alarms, the immune response involves antibodie
 
 
 
-
-
-
-
-
-## Introduction to Viral Load 
+## Introducing Viral Load 
 [**in work and unfinished**]
 
 > ##### Viral Load
@@ -171,7 +207,7 @@ A viral load can be observed at a specific location for the following reasons:
 * __Deposit only locations__: Virions are deposited but do *not* replicate: They are either inactivated or there are no susceptible cells. E.g. fluids from the respiratory tract are cleared towards the stomach where the virions are destroyed by the stomach acid. Therefore in the stomach, respiratory parasites can be detected but usually they do not infect the stomach. Often the viral load in deposit only location is not detectable.
 
 ### Specimens with Viral Load
-Sampling the surfaces of tissues is usually enough and sampling the tissues itself is not necessary (So for [Specimen Collection](#specimen-collection, swabs or aspirate are enough).
+Since coronaviruses including SARS-CoV-2 mostly release their virions on the apical side, the virions end up on the apical surfaces. The apical surfaces can be either sampled directly with swabs or aspirates of washing or covering fluids can be taken ([Specimen Collection](#specimen-collection).
 * __Viral Load on Tissue Surfaces:__ Coronaviruses usually release their virions on the apical side of cells in epithelium tissues ([ Cell Orientation](../2_biological/coronavirus.md#apical-side-tropism)). If the tissue surfaces are not naturally covered by collectable fluids, the surfaces can be washed with an appropriate fluid and collected by aspiration.
 * __Viral Load in Body Fluids__
   Fluid specimens can be collected either by [swabs](#swab) or by [aspiration](#aspirate).
@@ -181,26 +217,6 @@ Sampling the surfaces of tissues is usually enough and sampling the tissues itse
   * Body fluids often contain cells supporting virus replication. Macrophages are susceptible to SARS-2 replication and are present in some body fluids. Even though the blood contain macrophages, SARS-2 replication rarely occurs in the blood since there are strong immune mechanisms.
 * __Viral Load in Tissues__ Tissues biopsies/autopsies show the replication of viruses inside tissues and organs and how much the viruses penetrate to tissues. 
 
-### Specimen Collection
-
-Tissues can be sampled in two ways for diagnosis: 
-* Tissues with active viral replication. The tissues can either be sampled by a biopsy or by washing them and sucking the cleaning water (called aspiration) or just by swabbing the outer cell layer.
-* Viral Load in body fluids. Sampled by swab or aspiration. 
-
-> ###### Aspirate
-> An *aspirate* is a fluid that is collected by suction (aspirare is latin for 'to breath').
-
-> ###### Swab
-> A *swab* is an absorbent pad or piece of material used in medicine e.g. to collect mucus specimens.
-
-> ###### Biopsy
-> A *biopsy* is a tissue sample taken for diagnostic purposes.
-
-> ###### Autopsy
-> *Autopsies* are tissue specimens taken post mortem. They are useful for the analysis of the viral load in different organs.
-
-> ###### Sputum Collection
-> *Sputum collection* is a special method exploiting the tickling sensitivity of the throat: A saline solution is inhaled provoking a cough (in most individuals) which is captured. 
 
 
 ### Temporal Variation of the Viral Load
@@ -214,7 +230,7 @@ The saliva is secreted from different glands in the mouth. How much each of thes
 
 
 
-## Diagnosis and Viral Load at Different Locations
+## Diagnosis at Different Locations with a Focus on Viral Load
 * *Upper Respiratory Tract:* For accessibility reasons investigating the upper respiratory is preferred. The viruses cause few (detectable) tissue damage. Sensitive virus detection methods such as PCR test/Antigen tests are able to detect viruses in the URT e.g. in nose mucus or saliva.
 * *Lower Respiratory Tract:* The largest number of susceptible cells to SARS-CoV-2 are in the lower respiratory tract. 
   * Tissue damage can be observed there by imaging (CT/Xray).
@@ -368,7 +384,8 @@ Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield differ
   > One reason more to relax the often overly strict [quarantine and isolation rules](../7_social/controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](../3_medical/covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected. With a positive test, most are likely careful (even without requirements).
 
   To determine useful sampling/cheating an option is: Detection of members of the oral flora, since not only coronaviruses but also most other bacteria and viruses peak after sleep ([Carlson-Jones](#summary-carlson-jones)). RNaseP likely does not help: Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP does not decrease much on an increased flow rate [to check].
-  
+
+
 
 ## Summarized References
 As usually for summarized references:
@@ -1248,6 +1265,12 @@ __In-patients compared to Healthcare workers:__
 * "There was an overall trend of lower Ct values from specimens collected in the early morning, with a gradual decrease of viral load towards nighttime, but reaching statistical significance only when compared with the specimens collected at bedtime. Eight out of 13 subjects had a higher viral load in the early morning than the rest of the 4 time points (before lunch, before teatime at 3 pm, before dinner, before bedtime)."
 * "The distribution of Ct values at 5 different time points is shown in Figure 1. The medians (IQRs) at early morning, before lunch, before teatime at 3 pm, before dinner, and before bedtime were 34.5 (32.5–41), 38.2 (33.9–41), 36.3 (34.5–41), 41 (34.7–41), and 41 (34.7–41), respectively."
 
+
+### Diagnosis in different Situations
+#### Mina
+M. J. Mina and K. G. Andersen, Science 10.1126/science.abe9187 (2020).
+
+
 ## Appendix
 
 ### Calculation of Viral Load from CT_Value
@@ -1260,3 +1283,30 @@ Detection limit:
 `PCR_detection_limit * 2^max_cycles = helper_method_detection_limit`
 
 An example formula for their apparatus is in [Yilmaz et al](#summary-yilmaz).
+
+
+
+### Specimen Collection
+
+Tissues can be sampled in two ways for diagnosis: 
+* Tissues with active viral replication. The tissues can either be sampled by a biopsy or by washing them and sucking the cleaning water (called aspiration) or just by swabbing the outer cell layer.
+* Viral Load in body fluids. Sampled by swab or aspiration. 
+
+> ###### Aspirate
+> An *aspirate* is a fluid that is collected by suction (aspirare is latin for 'to breath').
+
+> ###### Swab
+> A *swab* is an absorbent pad or piece of material used in medicine e.g. to collect mucus specimens.
+
+> ###### Biopsy
+> A *biopsy* is a tissue sample taken for diagnostic purposes.
+
+> ###### Autopsy
+> *Autopsies* are tissue specimens taken post mortem. They are useful for the analysis of the viral load in different organs.
+
+> ###### Sputum Collection
+> *Sputum collection* is a special method exploiting the tickling sensitivity of the throat: A saline solution is inhaled provoking a cough (in most individuals) which is captured. 
+
+
+
+
