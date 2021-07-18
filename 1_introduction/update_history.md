@@ -101,7 +101,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 7.11. Updates in [Spread Analyses](../5_epidemiological/spread_analyses.md) in work:
   - [Infector Distribution](../5_epidemiological/spread_analyses.md#infector-distribution): 20% of infected were responsible for 80% of the transmissions detected by the contact tracing in Hong Kong.
   - Section on [Pre-symptomatic Infectors](../5_epidemiological/spread_analyses.md#pre-symptomatic-infectors) in work
-- 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](../monitor_and_control.md#detect-estimates-out-of-bounds). Case numbers are case numbers and not estimates.
+- 6.11. Renamed ~~"Monitor Failure"~~ to [Estimates Out of Bounds](../8_data/monitoring.md#validate-estimates). Case numbers are case numbers and not estimates.
     > Mainly I was shocked by the very steep increase of deaths and still am [analyses in work]. Even though I spent/d a lot of time learning to analyse.
 - 5./6.11. Updates in [Spread Analyses](../5_epidemiological/spread_analyses.md) in online work:
     * Evidence for super-spreader events at large scale sporting events with spectators. Evidence: 1) players are more frequently infected in regions with spectators and 2) there seem to be increased infection rates in the stadiums catchment areas.
