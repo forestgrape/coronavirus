@@ -7,6 +7,7 @@
 
 
 * [Summary](#summary)
+* [Introduction](#introduction)
 * [Tools of the Immune System](#tools-of-the-immune-system)
   * [A Task for each Tool](#a-task-for-each-tool)
   * [How the Tools Work](#how-the-tools-work)
@@ -24,14 +25,16 @@
   * [Cross Protections Observed](#cross-protections-observed)
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
+  * [Adaption of the Innate Immune System](#adaption-of-the-innate-immune-system)
   * [Books](#books)
 
 
 
 ## Summary
-
-
 "Selected topics of the immune system with a focus on protection versus coronaviruses."
+
+
+## Introduction
 
 > ###### Immune System
 > The *immune system* denotes organs and processes which watch and regulate life forms interactions. This is achieved by watching interactions within or between life forms and if necessary adapt or reduce the interactions such that they are advantageous or at least not adverse.
@@ -262,7 +265,14 @@ All form of life on earth share common molecular patterns. The more genetically 
 Dijkman, R., Jebbink, M. F., Gaunt, E., Rossen, J. W., Templeton, K. E., Kuijpers, T. W., & van der Hoek, L. (2012).
 **The dominance of human coronavirus OC43 and NL63 infections in infants.**
 Journal of clinical virology: the official publication of the Pan American Society for Clinical Virology, 53(2), 135–139. 
-https://doi.org/10.1016/j.jcv.2011.11.011
+<https://doi.org/10.1016/j.jcv.2011.11.011>
+
+### Adaption of the Innate Immune System
+##### Netea
+Netea MG, Joosten LAB. 
+**Trained Immunity and Local Innate Immune Memory in the Lung.** 
+Cell. 2018;175(6):1463–1465. 
+<https://doi.org/10.1016/j.cell.2018.11.007>
 
 <!--* ##### han2006-->
 
