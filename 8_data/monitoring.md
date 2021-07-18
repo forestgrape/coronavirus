@@ -6,15 +6,13 @@
 * [Monitor Prevalence](#monitor-prevalence)
   * [Different Counts](#different-counts)
   * [Motivation to Monitor](#motivation-to-monitor)
-  * [Detect Estimates Out of Bounds](#detect-estimates-out-of-bounds)
-  * [On Estimates Out of Bounds](#on-estimates-out-of-bounds)
-  * [What to Monitor](#what-to-monitor)
+  * [Numbers to Monitor](#numbers-to-monitor)
   * [How to Monitor](#how-to-monitor)
-* [Testing Schemes](#testing-schemes)
-  * [Testing Priorities at High Incidence](#testing-priorities-at-high-incidence)
-  * [Testing Priorities at Low Incidence](#testing-priorities-at-low-incidence)
-* [On Numbers](#on-numbers)
-  * [Numbers and Comments](#numbers-and-comments)
+  * [Estimating Prevalence](#estimating-prevalence)
+* [Testing Schemes for different Situations](#testing-schemes-for-different-situations)
+  * [Testing Priorities](#testing-priorities)
+  * [Practical Testing Methods](#practical-testing-methods)
+* [From Numbers to Measures](#from-numbers-to-measures)
 * [Data](#data)
   * [Distributed Handling](#distributed-handling)
   * [Data Specifications](#data-specifications)
@@ -23,6 +21,8 @@
 ## Monitor Evolution
 [in work]
 From time to time full genome samples should be analyzed to monitor the evolution of Sars-CoV-2 and to deduce the international spread (e.g. done by [Hodcroft et al](../5_epidemiological/spread_analyses.md#summary-hodcroft)). Dense sampling even helps to reconstruct the local spread (e.g. done by [Brueningk et al](../5_epidemiological/spread_analyses.md#summary-brueningk)).
+
+
 
 ## Monitor Prevalence
 To adjust the measures and to communicate these, it is important to estimate and monitor different incidence rates.
@@ -44,7 +44,34 @@ There are several counts to distinguish [not very clear on this page yet, in wor
 * Communication: Knowing the cases helps on decision for everybody such if to avoid crowded spaces or staying home when having respiratory symptoms.
 
 
-### Detect Estimates Out of Bounds
+### Numbers to Monitor
+1. How many people have mild, severe, hospitalization requiring Covid or even deadly Covid.
+2. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
+    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](../7_social/controlling.md#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine))
+3. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
+4. Other respiratory diseases: influenza and common colds should be monitored too:
+  * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
+  * long term adverse effects of some common cold viruses are likely underestimated. This is a good opportunity to diminish there prevalence and reduce the number of strains circulating. 
+
+
+### How to Monitor
+* **Frequency:** Ideally these are taken near daily, else at least weekly. Though this depends
+* **Communication:** Often (as of 16.10.20) only the positive tests and the positive test rate are communicated. However more complete data would allow more accurate interpretations: 
+  * many of the tested often are health care professionals (who know how to protect or have an increased immunity and incidence is thus underestimated), 
+  * how many of the tested are healthy and just need some clean sheet to travel, 
+  * how many who are tested have symptoms, 
+  * how many are tested because of company monitoring.
+* **Methods:**
+  see also [testing priorities](#suggested-testing-priorities)
+  * **very low to low incidence:** case counts 
+  * **low to mid incidence:** case counts people turn up for testing can be used. The contact tracing yields then additional cases which can be used to scale counts from those who asked for tests. 
+  * **mid to high incidence:** sampling
+  
+
+### Estimating Prevalence
+For practical reasons the overall prevalence has to be estimated.
+
+#### Validate Estimates
 The equation 
 `current_death_count = estimated_past_case_count * fatality_rate` 
 can be used to detect if the estimation methods worked in the past. How fare in the past depends how long on average the patients survive and whether takes the date of infection or the date of going for a test ([Different Counts](#different-counts)). Assuming a fatality rate of 0.25% is equal to one in 400  Covid infectees dies. So the 
@@ -55,7 +82,7 @@ If the estimation method didn't change the current actual infected can be estima
 `new_estimated_case_count = correction_factor * estimated_case_count`.
 
 
-### On Estimates Out of Bounds
+#### On Estimates Out of Bounds
 A correction factor greater than 2 needs a redesign of the case estimates. A correction factor larger than 5 combined with a death count greater than 2.5 per million per day I consider worrying (Sections [Strategy](../7_social/controlling.md#strategy) and [On Numbers](#on-numbers)). How much worrying depends whether, when and how effective the measures have been adapted since. 
 Transmissions should be reduced or even prevented until a clear view is available. In serious situations (possible hospital overflow), a tactics uniform across movement areas and between them movement monitoring/control/reduction can be necessary.
 
@@ -70,30 +97,13 @@ Transmissions should be reduced or even prevented until a clear view is availabl
 3. Choosing a tactics suiting the strategy given the situation
  
 
-### What to Monitor
-1. How many of the people, which have respiratory diseases have Covid-19. In many areas likely the most common respiratory disease is Covid-19 and so one should stay home with any respiratory symptoms. 
-    > Personal guess, 16.10.20: In many regions of Europe, the most common respiratory disease is Covid-19. Moreover the steep increases in cases despite protection measures in place including strict quarantine of known infected, indicate that across Europe the majority of cases are undetected and carry the spread. ([Example Calculation of Spread](../7_social/controlling.md#example-calculation-of-spread) in the section [Handling Covid-19 Cases and Quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine))
-2. The incidence of Covid-19 in different population groups (e.g. hospital workers, young people: students and school children)
-3. Other respiratory diseases: influenza and common colds should be monitored too:
-  * knowing what is around makes diagnosis easier, especially if it turns out there is 'only' Covid-19
-  * long term adverse effects of some common cold viruses are likely underestimated. This is a good opportunity to diminish there prevalence and reduce the number of strains circulating. 
+## Testing Schemes for different Situations
 
-### How to Monitor
-* **Frequency:** Ideally these are taken near daily, else at least weekly. 
-* **Communicate:** Often (as of 16.10.20) only the positive tests and the positive test rate are communicated. However more complete data would allow more accurate interpretations: 
-  * many of the tested often are health care professionals (who know how to protect or have an increased immunity and incidence is thus underestimated), 
-  * how many of the tested are healthy and just need some clean sheet to travel, 
-  * how many who are tested have symptoms, 
-  * how many are tested because of company monitoring.
-* **Methods:**
-  see also [testing schemes](#testing-schemes)
-  * **very low to low incidence:** case counts 
-  * **low to mid incidence:** case counts people turn up for testing can be used. The contact tracing yields then additional cases which can be used to scale counts from those who asked for tests. 
-  * **mid to high incidence:** sampling
+### Testing Priorities
+> partly subjective section
 
-## Testing Schemes
-Testing some for low and high incidence. Reasons are noted or already mentioned in the section [What to Monitor](#what-to-monitor).
-### Testing Priorities at High Incidence 
+Testing some for low and high incidence. Reasons are noted or already mentioned in the section [Numbers to Monitor](#numbers-to-monitor).
+#### Testing Priorities at High Incidence 
 1. Testing of risk patients. Reason: Appropriate treatment and prevention of spread (to other risk persons). 
 2. Health care workers and other groups with contact to risk groups. Reason: Shield risk groups. 
 3. How many people with respiratory disease symptoms have Covid-19. Reason: Appropriate advices for those experiencing respiratory symptoms.
@@ -102,37 +112,52 @@ Testing some for low and high incidence. Reasons are noted or already mentioned 
 6. Monitoring respiratory diseases: influenza and common colds. 
 7. Tests for travel permissions, quarantine cancel and so on.
     
-### Testing Priorities at Low Incidence 
+#### Testing Priorities at Low Incidence 
 1. Testing of risk patients. Reason: An appropriate treatment from early on.
 2. Health care workers and other groups with contact to risk groups
 3. Tests to do contact tracing and quarantine cancel
 4. Tests to estimate the overall incidence (travel test below can give an indication). Reason: When the incidence is high, a different tactics for controlling can be appropriate.
 5. Tests for travel permissions and so on. 
 
+### Practical Testing Methods
+Depending on the situation different testing methods are adequate.
+Early morning saliva has a good detection rate of about 70% (high specificity with PCR; slightly lower sensitivity and lower specificity with antigen test.) and is easy to sample. So for most situations early morning saliva is recommended. Further discussed in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md) section [Diagnosis Suggestions by Test Goal](../3_medical/diagnosis_and_viral_load.md#diagnosis-suggestions-by-test-goal).
 
-## On Numbers
+
+
+## From Numbers to Measures
 [in work]
-Assumptions: 
-* fatality rate of .25% i.e. 1 in 400 (The [death rate](../3_medical/covid19.md#fatality-rate) depends on many factors and varies considerably); 
-* average disease duration 10 days; 
- 
-Notations and Equivalences:
+
+##### Assumptions and Comments
+* _Fatality Rate:_ Fatality rate of .25% i.e. 1 in 400 (The [death rate](../3_medical/covid19.md#fatality-rate) depends on many factors and varies considerably); 
+  * The **[fatality rate](../3_medical/covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups.
+  * The numbers below are for a __population without immunity in risk groups__ (mainly people without a good immune system). Increased resistance can be increased 
+    * via the acquired immune system by previous infections or vaccines
+    * via the overall immune system by a healthy living including daily movement. 
+    * As it is known by summer 21, overly strict measures can diminish the immune defense against covid.
+
+* _Numbers:_ 
+  * The **numbers vary** across regions and hospitals capacities, population structure and how the infections are distributed across the population. 
+  * The current numbers need to be estimated. The death count detects infections happened about 20 days in the past. The counts from contact tracing or testing symptomatic are a few days in the past.
+
+* _Covid Cases:_
+  * average disease duration 10 days; 
+  * The case counts are the **actual infected** and not only the positive tested. 
+  * The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
+  * the Covid cases should be **lower in dry air settings** (e.g.during cold seasons), since aerosol transmission yields more severe cases and is hard to control and prevent. Immune protection can be built up in humid-air seasons (e.g. summer in moderate climate zones) but not in dry-air seasons. 
+
+
+
+##### Notations and Equivalences
 * all counts are day counts unless noted otherwise
 * case count per million inhabitants per day = 400 * death count per million inhabitants per day (assuming 1 death in 400)
 * total current infected per million = 10 * case count per million per day (assuming 10 day infection duration)
 * K = 1000 e.g. 10 K = 10'000
 
-### Numbers and Comments
-[in work and to be checked]
-* The **numbers vary** across regions and hospitals capacities, population structure and how the infections are distributed across the population. 
-* The **[fatality rate](../3_medical/covid19.md#fatality-rate) depends on many factors and varies considerably** for different regions and population groups. Extends the [strategy section](#strategy). 
-* The case counts are the **actual infected** and not only the positive tested. 
-* The case counts/incidence can be higher for young people without directly affecting the death counts/hospital beds, so the case counts/incidences are averages for the population groups with the **possibility for severe Covid**. 
-[in work]
-* the numbers should be **lower during cold seasons**, since aerosol transmission is very hard to control. Some immune protection can be built up in warm seasons but not in cold season. 
-* The current numbers need to be estimated. The death count detects infections happened about 20 days in the past. The counts from contact tracing or testing symptomatic are a few days in the past.
-* The numbers below are for a __population without immunity in risk groups__ (mainly people without a good immune system). Immunity can be acquired by previous infections or vaccines.
-  
+##### On Numbers
+
+> written for autumn/winter 2020; as of summer 2021 the goal is with appropriate preparations such as healthy living and vaccination of high risk groups and early diagnosis combined with early adequate treatments to reduce Covid deaths while keeping overall health in mind (Following the [Strategy](../7_social/controlling.md#strategy) discussed on the controlling page). Most measures (including vaccines) have their costs and risks 
+
 total current infected in percent  | total current infected per million | case count per million inhabitants per day | death count per million inhabitants per day | comment if the estimated values are for several days greater and *no* adequate measures in place
 --------|--------|------|--------|---
 0.2%   |2 K     | 200  |  ~.5   | if less or not increasing or mainly young infected: loose rules, self responsibility
