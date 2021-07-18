@@ -1,5 +1,12 @@
 # Coronavirus Evolution
 
+* [Evolution Speed](#evolution-speed)
+* [Terminology](#terminology)
+* [Evolution Mechanisms](#evolution-mechanisms)
+* [Evolution Variations across the Genome](#evolution-variations-across-the-genome)
+  * [Slow Mutating Regions](#slow-mutating-regions)
+  * [Fast Mutating Regions](#fast-mutating-regions)
+
 
 ## Evolution Speed
 The genetic evolution of coronaviruses is fast compared to other [forms of life](./life-forms.md) because:
@@ -16,7 +23,11 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 
 * Coronaviruses have large genomes (in comparison to other RNA viruses or messenger RNAs) which both back the recombination and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occurring on todays earth, possibly even the largest [to check].  
 
+
+
 ## Terminology
+
+> **in work and subject to changes**
 
 ##### Virus Lineage
 > A lineage of viruses denotes all viruses originating from a single virus. In the case of recombination, the recombined virus belongs to both lineages.
@@ -25,6 +36,9 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 
 ##### Coronavirus Species
 > A coronavirus species denotes a collection of lineages of coronaviruses which readily undergo recombination.
+
+* The above definition is analog to the definition of species for animals with sexual recombination, where a species denotes a set of lineages with can recombine.
+* The above definition means the viruses draw from the same gene pool.
 
 ##### Virus Variant
 >> A virus variant is a collection of virus lineages which are closely related but differ in their behavior.
@@ -36,28 +50,33 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 
 
 
-
-## Factors Influencing Evolution
-### Factors favouring Conservation
-* Functional units of proteins. The more conserved the function is, the more conserved they tend to be.
-  * The replication mechanism of coronaviruses is well conserved and thus the proteins involved.
-### Factors favouring Change
-* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to mutate.
+## Evolution Mechanisms
+* Spontaneous Mutation
+* Duplication Error
+* Recombination
 
 
 
-### Conserved Patters
-[in work]
-Some parts of the coronavirus genome 
+## Evolution Variations across the Genome
 
 
+### Slow Mutating Regions
 
-Examples of well conserved proteins for coronaviruses are:
+> in raw work and incomplete
+
+#### Reason for Conservation
+Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to mutate.
+Functional units of proteins. The more conserved the function is, the more conserved they tend to be.
+* The replication mechanism of coronaviruses is well conserved and thus the proteins involved.
+
+#### Examples of Conserved Parts
+Examples of well conserved genes of coronaviruses are:
 * RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. Core parts of this protein are well conserved [to check and cite]. 
 * The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
 
-### Changing Patterns
-[in work]
+### Fast Mutating Regions
+
+> in raw work and incomplete
+
 * The N terminal part of the spike protein mutates frequently. By such mutations coronaviruses can evade neutralizing antibodies (described on the page [Immune Evasion](./../4_immunological/immune_evasion.md)).
 
-> the description of more changing patters is in work.
