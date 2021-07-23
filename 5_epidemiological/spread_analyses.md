@@ -4,10 +4,10 @@ Spread Analyses across the World and across different Settings
 * [Short Summary](#short-summary)
 * [Summary](#summary)
   * [Summary Findings regarding Transmission Paths](#summary-findings-regarding-transmission-paths)
-  * [Summary Findings Population Characteristics](#summary-findings-population-characteristics)
+  * [Summary Findings Population Susceptibility](#summary-findings-population-susceptibility)
   * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
   * [Summary Situation Analyses and Contact Tracing](#summary-situation-analyses-and-contact-tracing)
-  * [Summary Observations Population Characteristics](#summary-observations-population-characteristics)
+  * [Summary Observations Population Susceptibility](#summary-observations-population-susceptibility)
 * [Findings from Geographical Observations and Analyses](#findings-from-geographical-observations-and-analyses)
   * [Exchanged Air is associated to Covid Spread](#exchanged-air-is-associated-to-covid-spread)
   * [Dry Indoor Air is associated to the Spread of severe Covid](#dry-indoor-air-is-associated-to-the-spread-of-severe-covid)
@@ -24,7 +24,7 @@ Spread Analyses across the World and across different Settings
   * [Cities versus Rural](#cities-versus-rural)
   * [Living Space](#living-space)
   * [Income](#income)
-* [Analyses of Historical Transmissions](#analyses-of-historical-transmissions)
+* [Settings of where Zoonotic Jumps of Betacoronaviruses were observed](#settings-of-where-zoonotic-jumps-of-betacoronaviruses-were-observed)
 * [Analyses of specific Settings](#analyses-of-specific-settings)
   * [Medical and Care Facilities](#medical-and-care-facilities)
   * [Indoor Social Settings](#indoor-social-settings)
@@ -35,7 +35,7 @@ Spread Analyses across the World and across different Settings
 * [Other Viruses](#other-viruses)
   * [Betacoronaviruses](#betacoronaviruses)
   * [Respiratory Viruses](#respiratory-viruses)
-* [Population Characteristics](#population-characteristics)
+* [Population Specific Transmission](#population-specific-transmission)
   * [Infector Distribution](#infector-distribution)
   * [Infectors and Symptom Status](#infectors-and-symptom-status)
   * [Schools and Children](#schools-and-children)
@@ -50,9 +50,10 @@ Spread Analyses across the World and across different Settings
   * [References SARS-2 in Southern Africa](#references-sars-2-in-southern-africa)
   * [References SARS-2 in South America](#references-sars-2-in-south-america)
   * [References SARS-2 in Europe](#references-sars-2-in-europe)
+  * [References Spread Inferred from Sequences](#references-spread-inferred-from-sequences)
   * [References Sars-2 in South East Asia](#references-sars-2-in-south-east-asia)
 * [References](#references)
-  * [Epidemiological Patterns](#epidemiological-patterns)
+  * [References Specific Settings](#references-specific-settings)
 * [Appendix](#appendix)
   * [Terminology](#terminology)
   * [Sport Events](#sport-events)
@@ -92,7 +93,8 @@ The observations strongly indicate a generalized aerosol transmission model for 
 Regarding prevention measures relevant is, that the transmission of symptomatic Covid correlates to the amount of air exchanged. The exact transmission mechanism provides additional insights and helps fine-tuning but mostly it can be abstracted away. One of the most important prevention measure is Ventilation, especially in warm environments.
 
 
-### Summary Findings Population Characteristics
+### Summary Findings Population Susceptibility
+Founded by [observations of transmission within populations](#summary-observations-population-susceptibility):
 * Population groups with an adequate and in form immune system in the lungs mostly get mild diseases and seem to be less infectious. These includes young people and especially children for whom Covid is no more or even less dangerous than common cold viruses or influenza. 
 * On the other hand populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement and/or severe obesity tend to have more Covid cases and higher fatality rates.
   
@@ -127,9 +129,9 @@ For crowded events during the day in unconfined settings (e.g. demonstrations or
 * Crowded settings during the day in unconfined settings: Neither superspreading nor steep increases in the populations for repeated events (e.g. demonstrations, crowded parks, beaches and swimming pools).
 
 
-### Summary Observations Population Characteristics
+### Summary Observations Population Susceptibility
 * [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. In schools if there were many infected this is mostly due to super spreading teachers and not children infecting each other. [argumentation in work]
-* [Population](#population-characteristics): Analyzing the spread across people: 20% are responsible for 80% of the infections.
+* [Population](#population-specific-transmission): Analyzing the spread across people: 20% are responsible for 80% of the infections.
 * [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades seem to have many more cases and have higher death rates.
 * [Overweight](#overweight): Regions where overweight tend to have more cases and higher fatality rates.
 
@@ -240,17 +242,23 @@ For regions across the world the following is analysed:
 
 ### Europe
 
-#### Spring 2020
+#### General Patterns
+##### Spring 2020
 * Measures: Strict measures in countries but often focussed on contact/fomite transmission
 * Observations: High number of cases: in the Lombardy (starting point and discovered late, many residential blocks, history of air pollution), central Spain (quite high altitude, dense living conditions), Belgium, UK (obesity rate quite high, residential blocks)
 
-#### Summer and Autumn 2020
+##### Summer and Autumn 2020
 * Measures: Focus on droplet prevention, Masks usage becomes common.
 * Observations: 
   * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal). [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]. So the wave probably started in ACs rooms in Portugal moved to Spain and in late summer to France and UK. Next the wave hit Switzerland, Belgium and Netherlands.
   * [in work] In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In october when temperatures felt and the heating season started, cases sharply increased.
 
-
+#### UK
+##### Summer 2020
+Overall quite low case numbers, though the numbers are higher in the Northern regions than in the warmer Southern regions (citation in work, noted in [Hall et al](#summary-hall)]). In parallel the secondary attack rate in households is higher in the Northern parts as observed by ([Hall et al](#summary-hall)). The higher secondary attack rate indicates a higher (transmission rate which would explain the higher case rates .
+##### Autumn 2020
+##### December 2020 - January 2021
+##### February - May 2021
 
 ### USA
 #### Spring 2020
@@ -416,7 +424,7 @@ On the country level Covid cases and deaths are positively correlated to income.
 
 ---
 
-## Analyses of Historical Transmissions
+## Settings of where Zoonotic Jumps of Betacoronaviruses were observed
 * The initial cases that led to the discovery of Sars-CoV-2 occurred  during cold outdoor air temperature and therefore dry indoor air in the Wuhan Sea Food market. Pictures of the market suggest that the market is partly indoor and therefore likely heated. The zoonoses of Sars-Cov-1 also are linked to a live animal market or civets kept inside restaurants.
 * The primary spreading indoors can be a reason  this new betacoronavirus diseases occurred recently, even though overall hygiene increased. There are other possible explanations however: One is that the diagnostic tooling improved enabling the discovery of these diseases (MERS, discovered in 2012, has been infecting humans at least for several decades, which is known from analyzing backup samples [to cite]).
 
@@ -515,8 +523,8 @@ Most superspreading events were observed in winter and often in hospitals ([Duda
 
 
 
-## Population Characteristics
-Knowing how infectors are distributed, can help to fine-tune control measures. 
+## Population Specific Transmission
+Knowing how transmissions and infectors are distributed, can help to adjust control measures. 
 
 
 ### Infector Distribution
@@ -525,14 +533,19 @@ The infector distribution is highly skewed:
   * 20% of the cases induced 80% of infections
   * 10% of the cases induced 20% of infections
   * 70% of the cases induced no observed infections (despite most of them being not in quarantine)
-* A genetic epidemiological investigation in Israel shows that less than 10% of the population may contribute for more than 80% of the spread [citation coming].
+* A spread analysis (SEIR model based on sequencing and epidemiological data) in Israel in spring 2020 shows that between 2% and 5% of the population contribute for 80% of the spread ([Miller et al](#summary-miller)). Comment: The simulation show that if the actual cases were several fold higher than the actual cases, 2% of the population are responsible for 80% of the spread. This is likely the case since experience shows that even the best detection schemes miss the majority of cases.
+* [Hall et al](#summary-hall) reveal by analyzing "Household Transmission Evaluation Data" in England:
+  * people between 5 and 29 years have much lower household transmission rates than the other groups. 
+  * The household transmission is high between people over 40 years of approximately the same age.
+  * Very young children (0 to 4 years) transmit Covid frequently to their parents or grandparents. 
+    > Their immune system in the lungs is early in the training phase and additionally they may not have had contact with any coronaviruses and so they lack the cross immunity most older have acquired from the human endemic CoVs.
 
+#### Possibly Causes for skewed Infector Distribution
 Possible reasons for the skewed distribution are:
 * *Socioeconomic conditions:*
   [Living Conditions](#living-conditions) influence transmission chains.
 * *Individuality of Virus Shedding.*
-  Viral shedding is highly individual. Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is and physiology of the respiratory tract. How many small particulates persons produce is highly individual and tends to increase with age, male sex and BMI. Described on in [particle sources](../5_epidemiological/transmission.md#particle-sources). Other factors such as immune system preparedness and behavior are also important. The [individuality of viral shedding](../3_medical/individual_covid.md#virion-shedding) is discussed on the page [Individual Covid](../3_medical/individual_covid.md).
-
+  Viral shedding is highly individual. Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is, the respiratory behavior (e.g. breathing pattern, coughing, sneezing) and the physiology of the respiratory tract. How many small particulates persons produce is highly individual and tends to increase with age, male sex and BMI. Described on in [particle sources](../5_epidemiological/transmission.md#particle-sources). Other factors such as immune system preparedness and behavior are also important.
 
 
 ### Infectors and Symptom Status
@@ -571,8 +584,34 @@ References without a summary are in the section [References](#references). Copy 
 
 ### References Household Transmissions
 
-#### Comments on Household Transmissions
-* only when Covid prevalence is very low, infected household members directly indicate secondary attack rate. See also Comments at [Summary Madewell](#summary-madewell)].
+> #### Comments on Household Transmissions
+> * Even if the Covid prevalence is low, infected household members may community acquire the infection at the same event since the transmission is super-spreading-event driven and the disease onset can be hard to determine due to asymptomatic/low symptomatic cases and varying incubation times. Sensitivity analyses with varying the cut-off dates between symptom onsets help for symptomatic cases.
+>  * If the community transmissions are high, the secondary attack rates needs correction for community acquired infections. Also commented at [Summary Madewell](#summary-madewell)].
+
+
+#### Summary Hall
+**HOSTED—England’s Household Transmission Evaluation Dataset: preliminary findings from a novel passive surveillance system of COVID-19**
+##### Methods
+"The Household Transmission Evaluation Dataset (HOSTED) is a passive surveillance system linking laboratory-confirmed COVID-19 cases to individuals living in the same household in England. We explored the risk of household transmission according to: age of case and contact, sex, region, deprivation, month and household composition between April and September 2020, building a multivariate model."
+##### Results
+The heat map below (Figure 3 in the paper) shows the secondary cases by age of the index case and age of the contact:
+* _Few Spread:_ People younger than 30 year but older than 4 have few secondary cases (left third of the image).
+* _Much Spread:_ 
+  * For index cases above 40 years the transmissions are high. The transmission rates peak at an age of about 65 years.
+  * Very young children 0 to 4 of age transmit Covid well and mainly to their parents and their grand parents (left most column).
+  * Parents between 40 and 59 transmit to older children (15-24) but the children not to them (hotspot at middle right, missing hotspot on the mirrored)
+
+![Heat map of secondary cases by age](images/hall_age_transmission.jpeg)
+
+The graphs below show the secondary attack rate in the different administration division in the UK. The Southern regions should lower secondary attack rates likely due to the more comfortable climate in the summer months.
+![Transmission by regions](images/transmission_by_region.jpeg)
+
+
+
+##### Methods Details
+"As the incubation period for SAR-CoV-2 is thought to be 2–14 days [16],  we chose a threshold of 2 days between the specimen dates of the index and secondary cases as a pragmatic decision to offset the risks of misclassifying cases as either co-primary or as secondary. A sensitivity analysis using a cut-off of 4 days found to have little effect on any of the results or on the multivariable model. We have also made the implicit assumption that two (or more) cases oc- curring in a household within 2–14 days represents house- hold transmission when it also plausible that they are two independent community-acquired infections. However, given the timing of this study, when the number of cases was at its lowest, this risk is probably small." 
+
+> // Considering the asymptomatic/low symptomatic cases, simultaneous community acquired infection (e.g. at a super spreading event) cannot be ruled out even with the sensitivity analysis by varying the incubation cut-offs.
 
 #### Summary Madewell
 **Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate**
@@ -581,8 +620,9 @@ medRxiv preprint
 <https://doi.org/10.1101/2020.07.29.20164590>, posted August 1, 2020.
 
 ##### Methods
-Meta-Analysis of studies regarding the transmission dynamics of Covid-19 in household settings. Many different kind of studies are included: * Covid diagnosis based on RT-PCR, whole-genome sequencing, nucleic acid tests, antibody tests and some studies included symptoms. 
-* The influence of the different factors (contact type, symptom status, adult/child contacts, contact sex, relationship to index case, index case sex, number of contacts in household, coronavirus) is analyzed.
+Meta-Analysis of studies regarding the transmission dynamics of Covid-19 in household settings. Many different kind of studies are included: 
+* Covid diagnosis based on live tests (RT-PCR) or past infections with antibody tests, some studies included symptoms, a few studies do whole-genome sequencing, some studies are in settings (area and times) of high prevalence.
+* The influence of the different factors (contact type, symptom status, adult/child contacts, sex, relationship to index case, number of contacts in household, ...) is analyzed.
 
 ##### Findings
 Secondary Attach Rates with different groups as **infectors**. The error rate is in brackets. 
@@ -601,7 +641,7 @@ Comparison with SARS-1 or MERS:
 * MERS: 0.035 (0.035)
 
 > ##### Comment
-> Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for different household members are likely and thus inferring the secondary attack rate from the prevalence in household members overestimates the secondary attack rate. 
+> Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for different household members are very likely and thus inferring the secondary attack rate from the prevalence in household members overestimates the secondary attack rate. 
 
 
 ### References General Spread Patterns
@@ -1140,6 +1180,9 @@ Revista de saude publica vol. 54 (2020): 69. <https://doi.org/10.11606/s1518-878
 
 ### References SARS-2 in Europe
 
+
+**HOSTED—England’s Household Transmission Evaluation Dataset: preliminary findings from a novel passive surveillance system of COVID-19**
+
 #### Summary Streeck
 Streeck, H., Schulte, B., Kümmerer, B.M. et al. 
 **Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany.** 
@@ -1150,6 +1193,26 @@ Nat Commun 11, 5829 (2020).  <https://doi.org/10.1038/s41467-020-19509-y>
 * "Anti-SARS-CoV-2 IgA and Anti-SARS-CoV-2 IgG were determined with enzyme-linked immunosorbent assays (ELISA) on the EUROIMMUN Analyzer I platform (most recent CE version for IgG ELISA as of April 2020, specificity 99.1%, sensitivity 90.9%,..."
 ##### Results
 "We found that of the 919 individuals with evaluable infection status, 15.5% (95% CI:[12.3%; 19.0%]) were infected. This is a fivefold higher rate than the reported cases for this community (3.1%). 22.2% of all infected individuals were asymptomatic. The estimated IFR was 0.36% (95% CI:[0.29%; 0.45%]) for the community and 0.35% [0.28%; 0.45%] when age-standardized to the population of the community. Participation in carnival increased both infection rate (21.3% versus 9.5%, p < 0.001) and number of symptoms (estimated relative mean increase 1.6, p = 0.007)."
+
+
+### References Spread Inferred from Sequences
+
+#### Summary Miller
+**Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel**
+##### Methods
+212 SARS-CoV-2 sequences in combination with "high-resolution epidemiological data" are used to deduce the spread into and within Israel.
+##### Results
+* "We find that travelers returning from the United States of America significantly contributed to viral spread in Israel, more than their proportion in incoming infected travelers."
+* "We further report high levels of transmission heterogeneity in SARS-CoV-2 spread, with between 2-10% of infected individuals resulting in 80% of secondary infections."
+  * "Specifically, if we assume almost complete case reporting, our phylodynamic analysis indicates that between 5% and 10% of infections are responsible for 80% of secondary infections. With lower assumed levels of case reporting, less than 5% of infections would be responsible for 80% of secondary infections." // considering that SARS-CoV-2 tests have a detection rate of about 50% and many cases are missed by contact tracing, an upper bound of 1/3 for the case reporting seem reasonable in the Spring 2020 in Israel => the model predicts that about 2% are responsible for 80% of the infections (p_h = 0.02 in Fig 6)
+##### Conclusions
+* "Our results indicate that superspreading events drive the transmission dynamics of SARS-CoV-2, suggesting that focused measures to reduce contacts of select individuals/social events could mitigate viral spread."
+* The global connectivity allows for massive introductions which suggests the importance of border controls. //The authors als conclude shelter-in-place restriction for halting viral spread but as of July 2021 it is known that shelter-in-place likely increases and not decreases the spread due to indoor aerosol transmissions.
+##### Method Details
+* "We obtained RNA extracted from nasopharyngeal samples. Sequencing was performed based on the V3 Artic protocol (https://artic.network/ncov-2019)."
+* "Instead of assuming a given level of transmission heterogeneity for Israel, we instead performed phylodynamic inference for the SEIR model across a range of transmission heterogeneities. Specifically, the SEIR-type model implemented two classes of infectious individuals, corresponding to a highly infectious subset of individuals (Ih) and a less
+infectious subset of individuals (Il)." // Detail description in Methods>Phylodynamic analysis> Equation (1) - (5).
+
 
 
 #### Summary Hodcroft
@@ -1185,7 +1248,7 @@ Freedman, D. O., & Wilder-Smith, A. (2020). **In-flight Transmission of SARS-CoV
 <https://doi.org/10.1093/jtm/taaa178>
 
 
-### Epidemiological Patterns
+### References Specific Settings
     
 ##### Lancet Editorial
 The Lancet Editorial
