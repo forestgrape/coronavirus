@@ -12,14 +12,14 @@
 Immunisation and vaccination are used here as follows:
 
 > ##### Immunisation
-> Immunisation prepares the immune system to something.
+> *Immunisation* prepares the immune system to recognize something and prevent disease. 
 
 > ##### Vaccination
-> *Vaccination* teaches the immune system to recognize something and prevent disease. 
+> *Vaccination* teaches the immune system how to handle something.
 
 In literature vaccination is often used more specific e.g. "stimulating antibodies production against something harmful or the agent of a disease". Here the more general usage, given above, is used since:
-* _Immune Response:_ The immune system is more than antibodies. Many vaccines (e.g. the useful oral polio vaccine) induce a broad immune response e.g. including T cells supervising the right locations.
-* _Specify the target:_ Some definitions use 'something harmful' or 'something which can be harmful' or 'the agent of a disease'. But many living organisms are part of the biome of healthy people and are just pathogens or agents of a disease in special situations. E.g. many viruses live in our respiratory tract or intestine and help to train the immune system. Just under specific circumstances they can become pathogenic e.g. when the immune system is suppressed. Are they know harmful or agent of a disease?
+* _Immune Response:_ The immune system is more than antibodies. Many vaccines (especially live pathogen vaccines e.g. the oral polio vaccine) induce a broad immune response e.g. including immune cells supervising the right locations.
+* _Specify the target:_ Some definitions use 'something harmful' or 'the agent of a disease'. But many living organisms are part of the biome of healthy people and are just pathogens or agents of a disease in special situations. E.g. many viruses live in our respiratory tract or intestine and help to train the immune system. Just under specific circumstances they can become pathogenic e.g. when the immune system is suppressed. Are they know harmful or agent of a disease?
 
 
 
