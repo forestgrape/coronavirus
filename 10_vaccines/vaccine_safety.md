@@ -1,10 +1,10 @@
 # Vaccine Safety and (open?) Questions
 
-> __Rolling publication_ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. Safety is relative: for high risk persons of old age, no short term adverse effects is enough for vaccines to be much safer than an actual Covid infection for them. However for young for whom Covid is mostly similar to common cold or a flu infection, just no knowing there are no serious vaccines side effects in the next months, does not at all mean a vaccine is safe.
+> __Rolling publication__ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. Safety is relative: for risk persons of old age, no short term adverse effects is enough for vaccines to be much safer than to catch Covid. However for young for whom Covid is mostly similar to common cold flu, just knowing there are no serious adverse and diagnoseable effects in the next months, does not at all mean a vaccine is safe.
 
-> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be proven and not just be presumed. People may have life-long adverse effects or even die for a supposed considerate and safe action. // I just read yesterday (12.6.21) about a 18 year old person who died likely because of vaccination.
+> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. People may have life-long adverse effects or even die for a supposed considerate and safe action. // I just read yesterday (12.6.21) about a 18 year old person who died likely because of vaccination.
 
-> Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy persons: in most regions the air will not be very dry and so severe cases will be low anyways.
+> Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy persons: in most regions the indoor air will not be very dry and so severe cases will be low anyways.
 
 > My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However, I am not sure whether anybody understands RNA. RNA can do a lot. In public discussions about 'mRNA' vaccine safety, views, outdated for decades are widespread e.g. that RNA is always degraded fast and that it is only used to message protein-encodings:
 > * RNA is always degraded fast? This is *wrong*. E.g. ribosomes largely consists of RNA. Many viruses including coronaviruses encode their genome in RNA, when RNA would be degraded fast, there wouldn't be many RNA viruses.
@@ -16,6 +16,7 @@
 
 
 * [Summary](#summary)
+* [Recent Updates](#recent-updates)
 * [Introduction](#introduction)
 * [Why Symptom Surveillance is often Not enough for Safety](#why-symptom-surveillance-is-often-not-enough-for-safety)
 	* [The Setting Vaccine Trials were developed](#the-setting-vaccine-trials-were-developed)
@@ -42,7 +43,10 @@ The method of tolerable symptoms watching is often not enough to ensure the safe
 
 In conclusion, the safety of vaccines can only be ensured by symptoms if a thorough understanding of their behavior in the body is known.
 
-
+## Recent Updates
+* 23.7 Extended list of speculative adverse effects: 
+	- Intramuscular administrated Adenovirus vaccine may increase the cancer risk (depends on the adenovirus strain, mainly whether they enter replication capable cells).
+	- 'mRNA vaccines' if they have a tropism for the ovaries, they may damage some follicles. Effect could be similar to some years of smoking, which also can damage the follicles.
 
 ## Introduction
 There are different definitions of immunisation and vaccination around. Here a general definition is used: *Immunisation* prepares the immune system to something and thereby provide prevents a disease. *Vaccination* teaches the immune system to recognize something. 
