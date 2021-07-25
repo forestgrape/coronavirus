@@ -57,7 +57,7 @@ The design of measures relies on transmission models. The dangerous transmission
 *Explanations:* Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoors-is-safer)). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md).
 
 ### Seasonality
-The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coronaviruses (in fact most respiratory viruses) makes the spread seasonal: Spread in the winter in moderate and Northern climate regions. Spread in the summer in hot & humid regions when air-conditioning is used. In moderate climate zones, prevention measures (doing Sauna, pay attention to ventilation, vaccinate risk groups) are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken. 
+The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coronaviruses (in fact most respiratory viruses) makes the spread seasonal: Spread in the winter in moderate and northern climate regions. Spread in the summer in hot & humid regions when air-conditioning is used. In moderate climate zones, prevention measures (doing Sauna, pay attention to ventilation, vaccinate risk groups) are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken. 
 
 > I don't except strict measures to be necessary (-> [Looking Ahead](../7_social/controlling.md#looking-ahead)).
 
