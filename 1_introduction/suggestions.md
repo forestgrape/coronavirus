@@ -81,7 +81,9 @@ In brief: Think aerosol transmission as smoke like. To reduce the infection poss
 
 ## Observing - helps to Detect Infections
 Notify the well being and possible disease symptoms. Writing down and measuring support diagnosis.
-The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. In my case - South East Switzerland, a day hike away from Northern-Italy - Covid-19 is/was (as of March 2020) the most prevalent disease.
+The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. 
+
+> In my case - South East Switzerland, a day hike away from northern Italy - Covid-19 is/was (as of March 2020) the most prevalent disease.
 
 * Sars-CoV-2 can infect most locations in the respiratory tract except the vocal folds and the trachea. So all respiratory symptoms except a hoarse voice can indicate a SARS-CoV-2 infection.
 * The precaution measures against Covid-19 protect against all respiratory diseases, so all respiratory diseases are reduced. Common colds are not common right now. So respiratory symptoms means being careful and even can mean figuring out all the people one could have infected and informing them to watch for symptoms.
