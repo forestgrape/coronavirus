@@ -4,7 +4,7 @@
 
 > Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. People may have life-long adverse effects or even die for a supposed considerate and safe action. // I just read yesterday (12.6.21) about a 18 year old person who died likely because of vaccination.
 
-> Additionally it is summer for the coming months on the Northern hemisphere and so no need to rush vaccinating the young and healthy persons: in most regions the indoor air will not be very dry and so severe cases will be low anyways.
+> Additionally it is summer for the coming months on the northern hemisphere and so no need to rush vaccinating the young and healthy persons: in most regions the indoor air will not be very dry and so severe cases will be low anyways.
 
 > My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However, I am not sure whether anybody understands RNA. RNA can do a lot. In public discussions about 'mRNA' vaccine safety, views, outdated for decades are widespread e.g. that RNA is always degraded fast and that it is only used to message protein-encodings:
 > * RNA is always degraded fast? This is *wrong*. E.g. ribosomes largely consists of RNA. Many viruses including coronaviruses encode their genome in RNA, when RNA would be degraded fast, there wouldn't be many RNA viruses.
