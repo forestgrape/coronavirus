@@ -527,10 +527,10 @@ Most superspreading events were observed in winter and often in hospitals ([Duda
 ---
 
 
-
 ## Transmission Distribution
-Knowing how transmissions are distributed, can help to set control measures and importantly which not to set. E.g. children are not the carriers of the Covid spread and thus measures should not target them. 
-
+Knowing how transmissions are distributed, helps to set and fine-tune control measures if the measures are  needed:
+* Measures can few for those contributing few to the spread: children are not the carriers of the Covid spread and thus measures should not target them. 
+* People who contribute more to the spread can be offered better control measures: E.g. test access combined with [relaxed but adequate quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine), optimal masks (e.g. custom fit FFP2 including advice) and better education how to handle covid.
 
 ### Infector Distribution
 The infector distribution is highly skewed:
