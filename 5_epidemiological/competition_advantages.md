@@ -56,7 +56,7 @@ The Covid transmission [distribution is skewed](#skewed-spreader-distribution). 
 > Remark: The immune escape is not necessarily an escape from neutralizing antibodies but can also result from other immune evasion mechanisms e.g. from T cell epitopes or non-neutralizing antibody epitopes. 
 
 ### Skewed Spreader Distribution
-Epidemiological and experimental observations show that: A few percent of people infect many others while most infected have no secondary cases as described in the [Transmission Distribution](./spread_analyses.md#transmission-distribution-across-individuals) on the spread analyses page.
+Epidemiological and experimental observations show that: A few percent of people infect many others while most infected have no secondary cases as described in the [Transmission Distribution](./spread_analyses.md#transmission-distribution) on the spread analyses page.
 
 ### Biological Mechanism: How Mutations directly effect Immune Evasion
 Non synonymous mutations by definition alter the protein sequence. An altered protein sequence within antibody or T cell epitopes can weaken or break the bindings and which weakens or break the associated immune response.
