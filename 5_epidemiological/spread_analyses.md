@@ -14,15 +14,15 @@ Spread Analyses across the World and across different Settings
   * [Life Circumstances: Can increase Susceptibility and Exposure](#life-circumstances-can-increase-susceptibility-and-exposure)
 * [Geographical Observations and Analyses](#geographical-observations-and-analyses)
   * [Methods](#methods)
-  * [Europe](#europe)
-  * [USA](#usa)
-  * [Africa](#africa)
-  * [India](#india)
-  * [Nepal](#nepal)
-  * [South America](#south-america)
-* [Living Conditions](#living-conditions)
+  * [Transmissions in Europe](#transmissions-in-europe)
+  * [Transmissions in the USA](#transmissions-in-the-usa)
+  * [Transmissions in Africa](#transmissions-in-africa)
+  * [Transmissions in India](#transmissions-in-india)
+  * [Transmissions in Nepal](#transmissions-in-nepal)
+  * [Transmissions in South America](#transmissions-in-south-america)
+* [Local Geographical Influences](#local-geographical-influences)
   * [Cities versus Rural](#cities-versus-rural)
-  * [Living Space](#living-space)
+  * [Living Conditions](#living-conditions)
   * [Income](#income)
 * [Settings of where Zoonotic Jumps of Betacoronaviruses were observed](#settings-of-where-zoonotic-jumps-of-betacoronaviruses-were-observed)
 * [Analyses of specific Settings](#analyses-of-specific-settings)
@@ -35,8 +35,9 @@ Spread Analyses across the World and across different Settings
 * [Other Viruses](#other-viruses)
   * [Betacoronaviruses](#betacoronaviruses)
   * [Respiratory Viruses](#respiratory-viruses)
-* [Population Specific Transmission](#population-specific-transmission)
-  * [Infector Distribution](#infector-distribution)
+* [Individuality of Transmission](#individuality-of-transmission)
+  * [Infector and Transmission Distribution](#infector-and-transmission-distribution)
+  * [Observed Transmission Rates](#observed-transmission-rates)
   * [Infectors and Symptom Status](#infectors-and-symptom-status)
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
@@ -105,7 +106,7 @@ Founded by [observations of transmission within populations](#summary-observatio
 Covid-19 waves across the world are predated certain climates:
 * _Cold Outdoors:_ Cold temperatures below 15 degrees during the day and below 10 degrees at night => indoor heating => dry indoor and often badly ventilated air
 * _Hot and Humid:_ Hot outdoor air temperatures above 30 degrees or above 25 degrees combined with intense sun. But only in countries where air-conditioners are widespread (mostly wealthier, industrialized countries). => indoor air is recirculated and additionally ACs reduce the humidity.
-* _Very Dry Air:_ Very dry outdoor air at moderate temperatures or high temperatures: Middle East (where also MERS spreads in the dry indoor air), Northern India (e.g. Delhi, Uttarakhand, Chandigarh) and Nepal at the foothills of the Himalaya.
+* _Very Dry Air:_ Very dry outdoor air at moderate temperatures or high temperatures: Middle East (where also MERS spreads in the dry indoor air), northern India (e.g. Delhi, Uttarakhand, Chandigarh) and Nepal at the foothills of the Himalaya.
 
 #### Geographical Settings with Mainly Mild Covid
 High absolute humidity of outdoor air but no air-conditioners and dense living conditions. Examples: Coastal india (except tourism regions in the South like Goa and Puducherry where ACs are likely widespread), tropical Africa (spread data from Lagos in Mali, Nigeria, Gambia, South Sudan, Zambia), Indonesia.
@@ -149,7 +150,7 @@ Covid-19 waves across the world usually are predated by situations which favour 
 When the temperatures are below the comfort zone, at least during the night, the time spend indoor increases and the windows tend to be closed.
 
 Situations with many severe Covid cases:
-* In the respective winter times of the Northern and Southern Hemispheres.
+* In the respective winter times of the northern and southern hemispheres.
 * At high altitude the winter starts earlier (high altitude also increases the amount of air breathed).
 
 #### Hot & Rich => Air-Conditioned
@@ -186,8 +187,8 @@ Remark: Protection measures help to reduce shared air, which is reduced by venti
 #### Heated, ACs, Dry Outdoors => Dry Indoor Air
 Nearly all steep increases in severe cases and deaths have been observed in settings where the indoor air is dry. 
 * Indoor Heated: Heating reduces the relative humidity. Observed in regions with cold Winters across the world.
-* Air Conditioned: ACs remove humidity. Many covid deaths when the outdoor air is humid are only observed in regions where air-conditioners are frequently used (e.g. Large cities in Northern Brazil nearly year round, South Brazil in Summer, Cities in Southern US summer 2020, Tourism Regions in Southern India Gao).
-* Dry Outdoor Air: Examples: Peru Spring 2020, Northern Central India Spring 2021
+* Air Conditioned: ACs remove humidity. Many covid deaths when the outdoor air is humid are only observed in regions where air-conditioners are frequently used (e.g. Large cities in northern Brazil nearly year round, South Brazil in Summer, Cities in Southern US summer 2020, Tourism Regions in Southern India Gao).
+* Dry Outdoor Air: Examples: Peru Spring 2020, northern Central India Spring 2021
 
 #### No ACs & No Heating and Humid Outdoor => Humid Indoor Air
 * The indoor air is humid if the outdoor air is humid and neither heated nor air-conditioned (or otherwise dehumidified). Heating is less optional than air-conditioning.
@@ -204,7 +205,7 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 
 #### Dirty Air Exposure
 * ##### Air Pollution
-  _Through Air Pollution_: High rates of air pollution occur frequently in industrialized densely populated regions which have inversion weather situations (usually in the winter). Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): Northern India, Central and Northern China (including Wuhan), Northern Italy, Tehran
+  _Through Air Pollution_: High rates of air pollution occur frequently in industrialized densely populated regions which have inversion weather situations (usually in the winter). Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): northern India, central and northern China (including Wuhan), northern Italy, Tehran
 
 * ##### Smoking
   _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
@@ -240,7 +241,7 @@ For regions across the world the following is analysed:
  
 
 
-### Europe
+### Transmissions in Europe
 
 #### General Patterns
 ##### Spring 2020
@@ -253,14 +254,14 @@ For regions across the world the following is analysed:
   * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal). [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]. So the wave probably started in ACs rooms in Portugal moved to Spain and in late summer to France and UK. Next the wave hit Switzerland, Belgium and Netherlands.
   * [in work] In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In october when temperatures felt and the heating season started, cases sharply increased.
 
-#### UK
+#### Transmissions in the UK
 ##### Summer 2020
 Overall quite low case numbers, though the numbers are higher in the Northern regions than in the warmer Southern regions (citation in work, noted in [Hall et al](#summary-hall)]). In parallel the secondary attack rate in households is higher in the Northern parts as observed by ([Hall et al](#summary-hall)). The higher secondary attack rate indicates a higher (transmission rate which would explain the higher case rates .
 ##### Autumn 2020
 ##### December 2020 - January 2021
 ##### February - May 2021
 
-### USA
+### Transmissions in the USA
 #### Spring 2020
 * Measures: Strict measures in many areas
 * Observations: High number of severe cases in densely populated areas, mainly large urban centers in the North (e.g. New York).
@@ -283,7 +284,7 @@ Overall quite low case numbers, though the numbers are higher in the Northern re
 * Possible Causes: A key reason for low cases are likely the warming temperatures, especially in the Southern states. The vaccination program is excepted to reduce the number of severe cases [to check if fatality rate lowered]. 
 
 
-### Africa
+### Transmissions in Africa
 #### Summarized Observations in Tropical Africa
 * *High Prevalence* In urban settings where living conditions are dense, very high spread rates were/are observed: 
   * up to 70% of the population seropositive
@@ -303,7 +304,7 @@ Overall quite low case numbers, though the numbers are higher in the Northern re
 * [Wiens et al](#summary-wiens) found that in South Sudan at least 22% had been infected by SARS-2 in the first wave (May to August; Seroprevalence was done in September). After adjustment for age, waning antibodies and sex about 40% seem to have been infected by September 2020. 
 * By September 2020, in Ibadan (Nigeria) around 45% of the hospital staff had detectable antibodies ([Olayanju](#summary-olayanju)) and over 30% in Kinshasa (Kongo) ([Ndaye](#summary-ndaye)).
 
-#### Southern Africa
+#### Transmissions in Southern Africa
 ##### South Africa
 The spread patterns are in-between the observations from Europe/North America and  tropical africa:
 * There are summer and winter peaks.
@@ -318,7 +319,7 @@ The spread patterns are in-between the observations from Europe/North America an
 [in work]
 
 
-### India
+### Transmissions in India
 
 #### Northern States
 ##### Spring 2021
@@ -337,15 +338,15 @@ The spread patterns are in-between the observations from Europe/North America an
   > * The first trams in Switzerland were not in the urban centres but up in mountainous and rural Engadin brought by British tourists [to confirm].
 
 
-### Nepal
+### Transmissions in Nepal
 ##### Spring 2021
 * Covid cases: Nepal is confronted for the first time with many severe Covid cases.
-* Possible causes: Similar to Northern India, at the foothills of the Himalaya there's dry air in the spring. The wave swept over from Northern India.
+* Possible causes: Similar to northern India, at the foothills of the Himalaya there's dry air in the spring. The wave swept over from northern India.
 
 
 
 
-### South America
+### Transmissions in South America
 
 <!--
 #### Observations Spring 2020
@@ -362,7 +363,7 @@ All countries provided programs for financial support and additionally:
 * Manaus in where the climate is year round tropical with hot and humid air, had
 -->
 
-#### Peru
+#### Transmissions in Peru
 ##### Summer 2020
 * Measures: General Curfew implemented quite early in Spring 2020.
 * Covid Cases: Very high number of severe cases and many deaths.
@@ -373,7 +374,7 @@ All countries provided programs for financial support and additionally:
 
 
 
-## Living Conditions
+## Local Geographical Influences
 
 ### Cities versus Rural
 A main distinguishing feature between rural and cities is that in rural areas people are segregated by geographical distance (corresponding a lower population density over entire regions) and thus the time to travel while in cities people tend to be segregated by social factors such as interest/jobs/hobbies/age/world views. The distance separation induces well defined clusters (villages). Social factors yield clusters to but the borders are softer and the clusters are different for each social factor. 
@@ -386,7 +387,8 @@ Infectious disease wave through the clusters until there's no more ground to nou
 ##### Urban
 * not segregated by mobility (but by social factors) which yields a different segmentation for each factor
 * life is often indoors but distributed. 
-* People belong to different clusters trough a day 
+* People belong to different clusters trough a day
+* High population densities which are often associated with dense [living conditions](#living-conditions) are common.
 
 #### Observations
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities (Observation and simulations by [Rader,Scarpino et al](#summary-rader,scarpino)).
@@ -396,16 +398,18 @@ Infectious disease wave through the clusters until there's no more ground to nou
 > * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
 
 
-### Living Space
+### Living Conditions
+
+#### Observations from Literature
 People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
-* [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-CoV-2 genome sequencing: Small living space (and low incomes) are key factors for increased spread. 
+* [Brueningk et al](#summary-brueningk) deduce the Covid-19 spread from SARS-CoV- 2 genome sequencing: Small living space and low incomes are associated with increased spread (effective R values are higher for the tertiles with the lowest living space/lowest income).
 * [Lundkvist et al](#lundkvist) observe that in Stockholm people living in suburbs with large buildings built in the 60s have a seroprevalence of 30%, compared to a seroprevalence of 4% for people living in modern building (likely some form of ventilation is built in).
 
-#### Residential Blocks
+#### Share of Residential Blocks
 Across the world regions and communities with a large share of people living in residential blocks tend to have higher Covid infections rates:
-* Large cities in the UK which have high shares of residential blocks, had high severe Covid case rate. [to confirm and cite/source]
+* Large cities in the UK and the US which have high shares of residential blocks, had high severe Covid case rate. [to confirm and cite/source]
 * In Eastern Europa, where the share of residential blocks built in the 60s through 80s is high, Covid case rates where high during the winter 20/21.
-* In the Lombardy the share of people living in residential blocks is high. Severe Covid rate were very high in late Winter 2020 and still quite high in Winter 2021.
+* The Lombardy in northern Italy was a Covid hot-spot in winter 2020 and had high cases in Winter 2021. The share of people living in residential blocks is higher than in the neighboring regions: Ticino (Switzerland) and regions in northern Italy such as the South Tirol. Severe Covid rate were very high in late Winter 2020 and still quite high in Winter 2021.
 
 
 ### Income
@@ -523,24 +527,28 @@ Most superspreading events were observed in winter and often in hospitals ([Duda
 
 
 
-## Population Specific Transmission
-Knowing how transmissions and infectors are distributed, can help to adjust control measures. 
+## Individuality of Transmission
+> Knowing how transmissions and infectors are distributed, can help to adjust control measures. 
 
 
-### Infector Distribution
+### Infector and Transmission Distribution
 The infector distribution is highly skewed:
 * Contact tracing in Hong Kong revealed that [Adam et al](#summary-adam):
   * 20% of the cases induced 80% of infections
   * 10% of the cases induced 20% of infections
   * 70% of the cases induced no observed infections (despite most of them being not in quarantine)
 * A spread analysis (SEIR model based on sequencing and epidemiological data) in Israel in spring 2020 shows that between 2% and 5% of the population contribute for 80% of the spread ([Miller et al](#summary-miller)). Comment: The simulation show that if the actual cases were several fold higher than the actual cases, 2% of the population are responsible for 80% of the spread. This is likely the case since experience shows that even the best detection schemes miss the majority of cases.
+
+### Observed Transmission Rates
 * [Hall et al](#summary-hall) reveal by analyzing "Household Transmission Evaluation Data" in England:
   * people between 5 and 29 years have much lower household transmission rates than the other groups. 
   * The household transmission is high between people over 40 years of approximately the same age.
   * Very young children (0 to 4 years) transmit Covid frequently to their parents or grandparents. 
     > Their immune system in the lungs is early in the training phase and additionally they may not have had contact with any coronaviruses and so they lack the cross immunity most older have acquired from the human endemic CoVs.
+* [Brueningk et al](#summary-brueningk): As noted in the section [living conditions](#living-conditions), people with small living space or small income have higher average R values.
+* Children are less susceptible and transmit Covid less than adults as discussed in the section [schools and children](#schools-and-children). Children also do not super spread since in school settings no super spreading can be traced back to children.
 
-#### Possibly Causes for skewed Infector Distribution
+#### Possibly Causes for different Transmission Rates
 Possible reasons for the skewed distribution are:
 * *Socioeconomic conditions:*
   [Living Conditions](#living-conditions) influence transmission chains.
@@ -590,7 +598,11 @@ References without a summary are in the section [References](#references). Copy 
 
 
 #### Summary Hall
-**HOSTED—England’s Household Transmission Evaluation Dataset: preliminary findings from a novel passive surveillance system of COVID-19**
+JA Hall, RJ Harris, A Zaidi, SC Woodhall, G Dabrera, JK Dunbar, 
+**HOSTED—England’s Household Transmission Evaluation Dataset: preliminary findings from a novel passive surveillance system of COVID-19**, 
+International Journal of Epidemiology, Volume 50, Issue 3, June 2021, Pages 743–752, 
+<https://doi.org/10.1093/ije/dyab057>
+
 ##### Methods
 "The Household Transmission Evaluation Dataset (HOSTED) is a passive surveillance system linking laboratory-confirmed COVID-19 cases to individuals living in the same household in England. We explored the risk of household transmission according to: age of case and contact, sex, region, deprivation, month and household composition between April and September 2020, building a multivariate model."
 ##### Results
@@ -601,10 +613,13 @@ The heat map below (Figure 3 in the paper) shows the secondary cases by age of t
   * Very young children 0 to 4 of age transmit Covid well and mainly to their parents and their grand parents (left most column).
   * Parents between 40 and 59 transmit to older children (15-24) but the children not to them (hotspot at middle right, missing hotspot on the mirrored)
 
-![Heat map of secondary cases by age](images/hall_age_transmission.jpeg)
+![Heat map of secondary cases by age](images/hall_transmission_by_age.jpg)
 
-The graphs below show the secondary attack rate in the different administration division in the UK. The Southern regions should lower secondary attack rates likely due to the more comfortable climate in the summer months.
-![Transmission by regions](images/transmission_by_region.jpeg)
+The graphs below show the secondary attack rate in the different administration division in the UK. 
+
+> // The Southern regions have lower secondary attack rates likely due to the more comfortable climate in the summer months.
+
+![Transmission by regions](images/hall_secondary_cases_by_region.jpg)
 
 
 
@@ -820,22 +835,23 @@ In Norra Djurgårdsstaden, modern residential blocks in the upper price class, 
 
 #### Summary Brueningk
 **Determinants of SARS-CoV-2 transmission to guide vaccination strategy in a city**
-Sarah C. Brüningk, Juliane Klatt, Madlen Stange, ..., Adrian Egli
-medRxiv 2020.12.15.20248130; doi: <https://doi.org/10.1101/2020.12.15.20248130>
+Sarah C. Brüningk, Juliane Klatt, Madlen Stange, et al; medRxiv 
+<https://doi.org/10.1101/2020.12.15.20248130>
+
+> An updated version is online (June 2021), however the summary below is not yet updated and is based on the version online in January 2021
 
 ##### Methods
-The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed with a spread simulation model constructed  from cases, sequenced cases and serology. In a second step the overall spread of Covid and the ICU occupancy is simulated when certain subgroups are given a reduced transmissibility or increased resistance to severe Covid.
+The influence of 4 socioeconomic factors (Living space per person, Median Income, 1-person households, Seniority) on the spread of SARS-CoV-2 is analysed with a spread simulation model constructed  from cases, sequenced cases and serology. In a second step the overall spread of Covid and the ICU occupancy is simulated when high spreading subgroups are given a reduced transmissibility respectively vulnerable subgroups have an increased resistance to severe Covid.
 
 >  The term vaccinated is used in the paper but since it is unknown (as of 27.1.2021) whether the available vaccines produce a useful immunity regarding transmission and there are other methods (e.g. testing, masks, natural immunity) to reduce transmissibility the term reduced transmissibility is used here.
+
+##### Results
+People belonging to the thirds with the smallest living space per person have the largest pre-lockdown effective reproductive number (shown in Figure 3). Similarly people in the lowest income (which is likely well correlated to the living space) have a high reproductive number. Reducing the transmissibility of the people belonging to the lowest living space third or the lowest income third reduces and delays the maximal icu occupancy (Figure 7).
 
 ##### Methods Details
 * Sequence Information: "In total 247 cases within the time period from the 25th of February until the 22nd of April were included in this analysis. For all data a seven day moving window average was taken to account for reporting bias on weekends, and cumulative numbers of infected cases (compartment I) were calculated."
 * Simulation: "SEIR-model. Similar to previous work [20, 52, 53] the spread of the epidemic within the city of Basel was described using a compartmental two-arm SEIR model including both sequenced, and un-sequenced/unreported cases."
 * Serology: "We determined SARS-CoV-2 antibody responses in a total of 2,019 serum samples collected from individuals between 25th of February and 22nd of May, 2020, to account for sero-conversion. The cohorts included healthy blood donors and patients from the University Hospital Basel with residency in Basel-City, and Viollier AG Zurich, a lab medicine provider contracted for the SARS-CoV-2 PCR testing."
-
-##### Results
-People belonging to the thirds with the smallest living space per person have the largest pre-lockdown effective reproductive number (shown in Figure 3). Similarly people in the lowest income (which is likely well correlated to the living space) have a high reproductive number. Reducing the transmissibility of the people belonging to the lowest living space third or the lowest income third reduces and delays the maximal icu occupancy (Figure 7).
-
 ##### Results Details
 * Mobility:
   * "We observe that low and median income populations are more mobile than their wealthier counterparts. Moreover, there is little mobility within areas with a low share of 1-person households, a result of the predominantly peripheral location of the relevant statistical blocks (see Figure S5). For living space per person or percentage of senior citizens, mobility was comparable between tertiles with a trend towards higher mobility within the younger population groups."
