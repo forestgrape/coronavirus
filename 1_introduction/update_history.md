@@ -10,6 +10,11 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 
 > Note: Not all links work since the page structure has changed.
 
+
+- 12.5. [Aggregation of Atoms](9_physics/aggregations_of_atoms.md) page to provide context to topics such as condensation & evaporation and efflorescence.
+- 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment. It reduces the number of infectious virions and optimize the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
+- 23.3. Proposal of [Local Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
+
 - ### Clarifications on Comments
   (25.4.21)
   For conciseness all subjective and off topic remarks are formatted as [comment](../index.md#comments). Sometimes this annotating got forgotten: E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency - marked as comment now. 
@@ -73,6 +78,25 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.  
 
 ## Minor Updates
+- 13.6. Split up Questions on Vaccines into [Safety Questions](./10_vaccines/safety_questions.md) and [Vaccination Effects on Infection](./10_vaccines/effects_on_covii.md)
+- 10.6. Added in [notes on reading](#notes-on-reading) that referencing is always welcome.
+- 8.6./9.6. Clarifications and reordering across the page.  On the [Controlling Page](7_social/controlling.md) added a section [Balancing of Measures](7_social/controlling.md#balancing-of-measures) and the previous Balance section renamed to [On Balancing of Measures](7_social/controlling.md#on-balancing-of-measures).
+- 28.5.- 3.6. 
+  - Formulations and clarifications across the page. 
+  - Chapter [Life on Earth](2_biological/life-forms.md) in rework.
+- 25.5. [Spread Analysis for Africa](./5_epidemiological/spread_analyses.md#africa) in online work.
+- 23.5. Controlling Page: Notes about the [Seasonability of Transmission](./7_social/controlling.md#seasonality) and [Looking Ahead](./7_social/controlling.md#looking-ahead) in online work.
+- 23.5. Added note that English wikipedia, encyclopedia britannica and the oxford dictionary are frequently consulted but not specially cited (currently) ( -> Comment on References in [Notes on Reading](#notes-on-reading)).
+- 18.5. [Spread analyses](./5_epidemiological/spread_analyses.md) refined.
+- 16.5. (commits 13.5. through 16.5.)
+  - [Spread analyses](./5_epidemiological/spread_analyses.md): Added per regions analyses e.g. in Europe, US, India.
+  - Masks: Added ['Tips & Tricks'](./6_prevention_and_treatment/masks.md#tips-&-tricks) section and added fold type mask to personal mask preferences.
+  - Clarified [controlling page](./7_social/controlling.md).
+  - Some notes about deliquescence and clarifications on the [atom aggregation page](./9_physics/aggregations_of_atoms.md).
+- 12.5. (commits 27.4. through 12.5.) [Spread Analyses](./5_epidemiological/spread_analyses.md)
+  - Bundling of content (Previously spread analysis topics were partly scattered e.g. the Dry Form Model contained spread descriptions.) 
+  - Emphasized importance of good health (healthy lifestyles including sport and avoiding/reducing air pollution)
+  - Most severe Cases are observed in setting with dry air (heated, ACs or dry outdoor air).
 - 12.5. Many formulations and clarifications across the page. For clarity, all formulations (including comments) are not intended ambiguous and if they are it's by mistake. In face-to-face conversations ambiguity can work, but not on a page like this I realized. -> [Notes on Comments](#comments).
 
 - 27.4. Clarified Note on [Comments](#comments). Added note that unfitting formulations occur and are improved upon discovery in the section [Notes on Reading](#notes-on-reading).

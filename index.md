@@ -45,10 +45,6 @@ This section overviews the content. The [full content section](#content) lists t
   > Risk groups in risk regions (e.g. countries in the Southern hemisphere) will thank for vaccines now. Later can be to late.
 
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
-- 12.5. [Aggregation of Atoms](9_physics/aggregations_of_atoms.md) page to provide context to topics such as condensation & evaporation and efflorescence.
-- 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment. It reduces the number of infectious virions and optimize the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
-- 23.3. Proposal of [Local Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
-
 
 ### Recent Updates
 - 25.7.: [Section Transmission Distribution](./5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](./5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
@@ -56,26 +52,6 @@ This section overviews the content. The [full content section](#content) lists t
 - 25.7.: Formulations and clarifications across the page e.g. the section [Immune Evasion](4_immunological/immune_evasion.md).
 - 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
 - 21.6.: Redefined [Immune System](4_immunological/immune_system.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
-- 13.6. Split up Questions on Vaccines into [Safety Questions](./10_vaccines/safety_questions.md) and [Vaccination Effects on Infection](./10_vaccines/effects_on_covii.md)
-- 10.6. Added in [notes on reading](#notes-on-reading) that referencing is always welcome.
-- 8.6./9.6. Clarifications and reordering across the page.  On the [Controlling Page](7_social/controlling.md) added a section [Balancing of Measures](7_social/controlling.md#balancing-of-measures) and the previous Balance section renamed to [On Balancing of Measures](7_social/controlling.md#on-balancing-of-measures).
-- 28.5.- 3.6. 
-  - Formulations and clarifications across the page. 
-  - Chapter [Life on Earth](2_biological/life-forms.md) in rework.
-- 25.5. [Spread Analysis for Africa](./5_epidemiological/spread_analyses.md#africa) in online work.
-- 23.5. Controlling Page: Notes about the [Seasonability of Transmission](./7_social/controlling.md#seasonality) and [Looking Ahead](./7_social/controlling.md#looking-ahead) in online work.
-- 23.5. Added note that English wikipedia, encyclopedia britannica and the oxford dictionary are frequently consulted but not specially cited (currently) ( -> Comment on References in [Notes on Reading](#notes-on-reading)).
-- 18.5. [Spread analyses](./5_epidemiological/spread_analyses.md) refined.
-- 16.5. (commits 13.5. through 16.5.)
-  - [Spread analyses](./5_epidemiological/spread_analyses.md): Added per regions analyses e.g. in Europe, US, India.
-  - Masks: Added ['Tips & Tricks'](./6_prevention_and_treatment/masks.md#tips-&-tricks) section and added fold type mask to personal mask preferences.
-  - Clarified [controlling page](./7_social/controlling.md).
-  - Some notes about deliquescence and clarifications on the [atom aggregation page](./9_physics/aggregations_of_atoms.md).
-
-- 12.5. (commits 27.4. through 12.5.) [Spread Analyses](./5_epidemiological/spread_analyses.md)
-  - Bundling of content (Previously spread analysis topics were partly scattered e.g. the Dry Form Model contained spread descriptions.) 
-  - Emphasized importance of good health (healthy lifestyles including sport and avoiding/reducing air pollution)
-  - Most severe Cases are observed in setting with dry air (heated, ACs or dry outdoor air).
 * [-> Full Update History](./1_introduction/update_history.md)
 
 
