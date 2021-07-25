@@ -49,7 +49,7 @@ This section overviews the content. The [full content section](#content) lists t
 ### Recent Updates
 - 25.7.: [Section Transmission Distribution](./5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](./5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
 - 25.7.: [Vaccine Safety](10_vaccines/vaccine_safety.md) chapter updated, clarified and extended.
-- 25.7.: Formulations and clarifications across the page e.g. the section [Immune Evasion](4_immunological/immune_evasion.md).
+- 25.7.: Formulations and clarifications across the page e.g. the section [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
 - 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
 - 21.6.: Redefined [Immune System](4_immunological/immune_system.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
 * [-> Full Update History](./1_introduction/update_history.md)
