@@ -35,9 +35,10 @@ Spread Analyses across the World and across different Settings
 * [Other Viruses](#other-viruses)
   * [Betacoronaviruses](#betacoronaviruses)
   * [Respiratory Viruses](#respiratory-viruses)
-* [Individuality of Transmission](#individuality-of-transmission)
-  * [Infector and Transmission Distribution](#infector-and-transmission-distribution)
+* [Transmission Distribution](#transmission-distribution)
+  * [Infector Distribution](#infector-distribution)
   * [Observed Transmission Rates](#observed-transmission-rates)
+  * [Possible Causes for varying Transmissions](#possible-causes-for-varying-transmissions)
   * [Infectors and Symptom Status](#infectors-and-symptom-status)
   * [Schools and Children](#schools-and-children)
 * [Summarized References](#summarized-references)
@@ -527,11 +528,11 @@ Most superspreading events were observed in winter and often in hospitals ([Duda
 
 
 
-## Individuality of Transmission
-> Knowing how transmissions and infectors are distributed, can help to adjust control measures. 
+## Transmission Distribution
+Knowing how transmissions are distributed, can help to set control measures and importantly which not to set. E.g. children are not the carriers of the Covid spread and thus measures should not target them. 
 
 
-### Infector and Transmission Distribution
+### Infector Distribution
 The infector distribution is highly skewed:
 * Contact tracing in Hong Kong revealed that [Adam et al](#summary-adam):
   * 20% of the cases induced 80% of infections
@@ -545,20 +546,24 @@ The infector distribution is highly skewed:
   * The household transmission is high between people over 40 years of approximately the same age.
   * Very young children (0 to 4 years) transmit Covid frequently to their parents or grandparents. 
     > Their immune system in the lungs is early in the training phase and additionally they may not have had contact with any coronaviruses and so they lack the cross immunity most older have acquired from the human endemic CoVs.
-* [Brueningk et al](#summary-brueningk): As noted in the section [living conditions](#living-conditions), people with small living space or small income have higher average R values.
 * Children are less susceptible and transmit Covid less than adults as discussed in the section [schools and children](#schools-and-children). Children also do not super spread since in school settings no super spreading can be traced back to children.
 
-#### Possibly Causes for different Transmission Rates
+### Possible Causes for varying Transmissions
 Possible reasons for the skewed distribution are:
 * *Socioeconomic conditions:*
-  [Living Conditions](#living-conditions) influence transmission chains.
-* *Individuality of Virus Shedding.*
+  [Living Conditions](#living-conditions) influence transmission chains: People with small living space or small income have higher average R values.
+* *Individuality of Virus Shedding:*
   Viral shedding is highly individual. Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is, the respiratory behavior (e.g. breathing pattern, coughing, sneezing) and the physiology of the respiratory tract. How many small particulates persons produce is highly individual and tends to increase with age, male sex and BMI. Described on in [particle sources](../5_epidemiological/transmission.md#particle-sources). Other factors such as immune system preparedness and behavior are also important.
-
+* *Behavior:* How people behave is different.
+  * Some might notice symptoms, some not. 
+  * Symptoms can be wrongly attributed to something else.
+  * Some care or can care about symptoms and some not.
+  
 
 ### Infectors and Symptom Status
- Note: The strains prevalent during the time of investigation is relevant since coronaviruses can diminish or activate the immune system.
- * In early 2020 over 80% developed symptoms.
+Note: The strains prevalent during the time of investigation is relevant since strains can induce varying immune responses e.g. coronaviruses can diminish or activate the immune system.
+* In early 2020 over 80% developed symptoms [to check and cite]
+* In late 2020 many people had no symptoms [to check and cite]
 
 * [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% (7 in 309) of the infections were caused by pre-symptomatic people.
 * The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](#freedman). 
@@ -620,6 +625,8 @@ The graphs below show the secondary attack rate in the different administration 
 > // The Southern regions have lower secondary attack rates likely due to the more comfortable climate in the summer months.
 
 ![Transmission by regions](images/hall_secondary_cases_by_region.jpg)
+
+![Map England](images/england_map.svg)
 
 
 
