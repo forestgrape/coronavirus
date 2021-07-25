@@ -8,10 +8,10 @@ home: true
 
 This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses tagged as 'explorative'. 
 * [Bird View of Content](#bird-view-of-content): Gives a short overview of the different topics.
-* [Notes on Reading](#notes-on-reading): Notations used and how the page is written.
 * [Updates](#updates): Lists the most recent topics added and changes of content:
   * [Recent Topics Added](#recent-topics-added)
   * [Recent Updates](#recent-updates)
+* [Notes on Reading](#notes-on-reading): Notations used and how the page is written.
 * [Content](#content). Detailed content overview including twittering summaries.
  
 ## Bird View of Content
@@ -40,7 +40,7 @@ This section overviews the content. The [full content section](#content) lists t
 - 12./13.6. [Vaccine Safety Questions](10_vaccines/safety_questions.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
   > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
 
-  > In temperate climates on the Northern hemisphere, there is no need to rush vaccinating the healthy and young.
+  > In temperate climates on the northern hemisphere, there is no need to rush vaccinating the healthy and young.
   
   > Risk groups in risk regions (e.g. countries in the Southern hemisphere) will thank for vaccines now. Later can be to late.
 
@@ -51,6 +51,9 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ### Recent Updates
+- 25.7.: [Section Transmission Distribution](./5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](./5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
+- 25.7.: [Vaccine Safety](10_vaccines/vaccine_safety.md) chapter updated, clarified and extended.
+- 25.7.: Formulations and clarifications across the page e.g. the section [Immune Evasion](4_immunological/immune_evasion.md).
 - 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
 - 21.6.: Redefined [Immune System](4_immunological/immune_system.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
 - 13.6. Split up Questions on Vaccines into [Safety Questions](./10_vaccines/safety_questions.md) and [Vaccination Effects on Infection](./10_vaccines/effects_on_covii.md)
@@ -157,7 +160,7 @@ This section overviews the content. The [full content section](#content) lists t
   * A fast decay occurs when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation. Possible mechanisms: osmotic pressure or increase of degrees of freedom of movement especially of the single stranded RNA/DNA.
 - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
 - [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
-    The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region Northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
+    The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
 
 
 ### Medical Topics
