@@ -78,7 +78,7 @@ Incidence rates of both cases and deaths varies a lot between the different regi
   - GE is a city canton and surrounded by Lac Lemon and France (less subventions there).
   - BS is a city canton which has a long urban and trade tradition. In the south there are some forested hills, and in the west France and North-East is Germany.
   - TI has a few cattle farming but mostly close to the mountains and away from the cities. The largest city Lugano is surrounded by the Lago di Lugano and forests.
-  - VD has cattle farming but majority of the population lives on Northern cost of the Lac Lemon, where the largest city Lausanne is located. Lausanne  has mainly vineyards and forests to the North and Lac Lemon in the South.  
+  - VD has cattle farming but majority of the population lives on northern cost of the Lac Lemon, where the largest city Lausanne is located. Lausanne  has mainly vineyards and forests to the North and Lac Lemon in the South.  
 
 
 The observation holds when considering only cantons with large cities or when considering only uniform language regions. Areas with a lot of cattle farming have lower death rates (both positive tested cases and deaths per capita):
