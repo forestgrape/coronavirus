@@ -553,7 +553,7 @@ Possible reasons for the skewed distribution are:
 * *Socioeconomic conditions:*
   [Living Conditions](#living-conditions) influence transmission chains: People with small living space or small income have higher average R values.
 * *Individuality of Virus Shedding:*
-  Viral shedding is highly individual. Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is, the respiratory behavior (e.g. breathing pattern, coughing, sneezing) and the physiology of the respiratory tract. How many small particulates persons produce is highly individual and tends to increase with age, male sex and BMI. Described on in [particle sources](../5_epidemiological/transmission.md#particle-sources). Other factors such as immune system preparedness and behavior are also important.
+  Viral shedding is highly individual. Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is, the respiratory behavior (e.g. breathing pattern, coughing, sneezing) and the physiology of the respiratory tract. How many small particulates persons produce is highly individual and tends to increase with age, male sex and BMI. Described on in [particle sources](../5_epidemiological/transmission.md#particles-sources). Other factors such as immune system preparedness and behavior are also important.
 * *Behavior:* How people behave is different.
   * Some might notice symptoms, some not. 
   * Symptoms can be wrongly attributed to something else.
