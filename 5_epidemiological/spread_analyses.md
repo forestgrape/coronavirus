@@ -636,7 +636,7 @@ The graphs below show the secondary attack rate in the different administration 
 
 ![Transmission by regions](images/hall_secondary_cases_by_region.jpg)
 
-![Map England](images/england_map.svg)
+
 
 
 
