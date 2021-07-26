@@ -37,7 +37,7 @@ This section overviews the content. The [full content section](#content) lists t
 ### Recent Topics Added
 - 12.7. How Competition Advantages of SARS-2 variants can result from faster infection rates or immune evasion even when the transmissibility (defined as the average R value) stays constant:[Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
 - 13./14.6. [General Chapter on Vaccination](10_vaccines/vaccines.md)
-- 12./13.6. [Vaccine Safety Questions](10_vaccines/safety_questions.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
+- 12./13.6. [Vaccine Safety Questions](10_vaccines/vaccine_safety.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
   > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
 
   > In temperate climates on the northern hemisphere, there is no need to rush vaccinating the healthy and young.
