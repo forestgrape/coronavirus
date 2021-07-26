@@ -534,7 +534,7 @@ Knowing how transmissions are distributed, helps to set and fine-tune control me
 
 > The actions for people with higher R values should always be options to take and *NEVER be any restrictions* on human rights or any other any restrictions with outcast effects.
 
-> I am aware of the fact that many governments around the world assume that vaccinated people have lower R values and take this as a reason to restrict human rights in varying degrees of those not vaccinated.
+> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume vaccination is a risk free action similar to wearing a mask and that vaccination provides a useful protection against transmission. This is taken as a reason to restrict human rights in varying degrees of those not vaccinated. For the time being no further comments here.
 
 
 ### Infector Distribution
