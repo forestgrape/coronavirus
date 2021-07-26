@@ -512,7 +512,7 @@ Large scale sporting events provided likely ground for ultra-spreading events. T
 ## Other Viruses
 ### Betacoronaviruses
 #### SARS-CoV-1
-* _Hotels_: Hotel in Hong Kong, especially during cooler outdoor air temperatures [Lin](#lin), [Chan](#chan). The virus spread to guests in rooms on the same floor. Spread to personal was rarely observed.
+* _Hotels_: Hotel in Hong Kong, especially during cooler outdoor air temperatures ([Lin](#lin)). The virus spread to guests in rooms on the same floor. Spread to personal was rarely observed.
 
 #### Mers-Cov
 Most superspreading events were observed in winter and often in hospitals ([Dudas et al 2017](../2_biological/hosts_of_nidovirales.md#summary-dudas-2017)).
@@ -530,7 +530,12 @@ Most superspreading events were observed in winter and often in hospitals ([Duda
 ## Transmission Distribution
 Knowing how transmissions are distributed, helps to set and fine-tune control measures if the measures are  needed:
 * Measures can few for those contributing few to the spread: children are not the carriers of the Covid spread and thus measures should not target them. 
-* People who contribute more to the spread can be offered better control measures: E.g. test access combined with [relaxed but adequate quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine), optimal masks (e.g. custom fit FFP2 including advice) and better education how to handle covid.
+* People with higher R values can be offered better control measures: E.g. test access combined with [relaxed but adequate quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine), optimal masks (e.g. custom fit FFP2 including advice) and better education how to handle covid.
+
+> The actions for people with higher R values should always be options to take and *NEVER be any restrictions* on human rights or any other any restrictions with outcast effects.
+
+> I am aware of the fact that many governments around the world assume that vaccinated people have lower R values and take this as a reason to restrict human rights in varying degrees of those not vaccinated.
+
 
 ### Infector Distribution
 The infector distribution is highly skewed:
