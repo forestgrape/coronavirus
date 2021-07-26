@@ -536,10 +536,11 @@ Knowing how transmissions are distributed, helps to set and fine-tune control me
 
 > I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume vaccination is a risk free action similar to wearing a mask and that vaccination provides a useful protection against transmission. This is taken as a reason to restrict human rights in varying degrees of those not vaccinated. 
 > * Scientific questions are whether vaccination is safe and provides a useful protection against transmission.
-> * Moral questions are: 
+> * Relevant moral questions are (some go fare beyond the above statement):
 >   * The relations between opening the windows  / wearing a mask / living healthily or unhealthily / being young or old / getting vaccinated.
 >   * Who can say or has the right to say  something is safe, good or useful for somebody.
 >   * How and by who, how fast and which risks are estimated and weighted.
+>   * On different beliefs and world views.
 
 ### Infector Distribution
 The infector distribution is highly skewed:
