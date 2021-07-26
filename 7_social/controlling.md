@@ -284,7 +284,7 @@ Often turning up for test is not associated with any benefits, on the contrary i
 
 
 ### Outdoor Days
-Avoiding foreign and public indoor rooms. Prevents aerosol transmission if care is taken in [buildings](#large-buildings), public transport and [shops](#shops). To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.
+Avoiding foreign and public indoor rooms. Prevents aerosol transmission if care is taken in essential [buildings](#large-buildings) (e.g. shops and residential blocks) and public transport. ~~To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.~~ outdoor transmission does rarely cause severe Covid
 
 
 ### Home-Lock Down
