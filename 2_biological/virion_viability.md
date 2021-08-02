@@ -716,7 +716,7 @@ https://doi.org/10.1101/2020.10.16.341883
 #### Summary Laude
 **Thermal Inactivation Studies of a Coronavirus, Transmissible Gastroenteritis Virus**
 
-> Partly inspired by [Fleming](#summary-fleming) where the decay of the Semliki Forest Virus is investigated. Laude and investigate the decay of TGEV and confirm/reach groundbreaking findings: Showing a that two different decay rate increases below respectively above 40 to 45 degrees celsius. It is demonstrated that TGEV can evolve to increase the survival at higher temperatures (55 degrees), but not at lower temperatures (38).
+> Extending the research-path started by [Fleming](#summary-fleming) where the decay of the Semliki Forest Virus is investigated, Laude and Gelfi investigate the decay of TGEV. They confirm/reach groundbreaking findings: Showing a that two different decay rate increases below respectively above 40 to 45 degrees celsius. It is demonstrated that TGEV can evolve to increase the survival at higher temperatures (55 degrees), but not at lower temperatures (38).
 
 ##### Methods
 * The decay rate of the TGEV coronavirus at temperatures between 31 and 55 degrees with 4 degree steps at the pH values 7 and 8 is determined.
@@ -737,11 +737,11 @@ https://doi.org/10.1101/2020.10.16.341883
 #### Biryukov
 Biryukov J, Boydston JA, Dunning RA, Yeager JJ, Wood S, Reese AL, Ferris A, Miller D, Weaver W, Zeitouni NE, Phillips A, Freeburger D, Hooper I, Ratnesar-Shumate S, Yolitz J, Krause M, Williams G, Dawson DG, Herzog A, Dabisch P, Wahl V, Hevey MC, Altamura LA. 2020. **Increasing temperature and relative humidity accelerates inactivation of SARS-CoV- 2 on surfaces.** 
 mSphere 5:e00441-20. 
-https://doi.org/10.1128/mSphere.00441-20
+<https://doi.org/10.1128/mSphere.00441-20>
+
 #### Methods
 * "Vero (ATCC CCL-81) cells were used to propagate SARS-CoV-2 and in virus microtitration assays. Cells were cultured at 37°C and 5% CO2 in complete growth medium (gMEM) as previously described (16)."
-* Experiment: 
-  * "Virus stability was measured using multiple RH and temperature combinations ranging from approximately 20 to 80% RH and 24 to 35°C." 
+* *Experiment:* The virus viability was measured for RH and temperature combinations in the range 20 to 80% RH and 24 to 35°C. 
 
 
 ### References Temperature Viability of other Viruses
@@ -749,17 +749,19 @@ https://doi.org/10.1128/mSphere.00441-20
 #### Summary Cox
 **Inactivation Kinetics of Some Microorganisms Subjected to a Variety of Stresses**
 ##### Methods
-"Loss of viability in aerosols of Escherichia coli B, E. coli commune, E. coli Jepp(in nitrogen atmospheres),and Semliki forest virus(in air) was determined as a function of relative humidity at 26.5 C."
-##### Methods Details
-Escherichia coli:
-* For the coli bacteria B and Jepp the humidities 40, 86 and 94 % were accessed.
-* For the coli bacteria commune the humidities 40, 80 and 90 % were accessed.
-Semliki forest virus:
-* Matrix: medium 199 + 10%
-* Humidities: 30, 40, 50, 60, 70, 80, 85, 90%
+The loss of viability in aerosols of Escherichia coli B, E. coli commune and E. coli Jepp and Semliki forest virus was determined at 26.5 C as a function of relative humiditiy.
+
+* Escherichia coli (in nitrogen atmospheres):
+  * For the coli bacteria B and Jepp the humidities 40, 86 and 94 % were accessed.
+  * For the coli bacteria commune the humidities 40, 80 and 90 % were accessed.
+
+* Semliki forest virus (in air):
+  * Matrix: medium 199 + 10%
+  * Humidities: 30, 40, 50, 60, 70, 80, 85, 90%
+
 ##### Results
-* The coli bacteria survived best at 40% humidity (Figure 1,2,3). The survival was slightly greater at 90/94% than at 80/86% (Figures 1,2,3).
-* The semliki forest virus survived best at 30% humidity. The viability was low between 40% - 60%, it started to increase around 70% to reach a local maximum (lower than at 30%) at 85%. The viability at 90% was slightly lower than at 80%. 
+* *E Coli:* The coli bacteria survived best at 40% humidity (Figure 1,2,3). The survival was slightly greater at 90/94% than at 80/86% (Figures 1,2,3).
+* *Semliki Forest Virus:* The semliki forest virus survived best at 30% humidity. The viability was low between 40% - 60%, it started to increase around 70% to reach a local maximum (lower than at 30%) at 85%. The viability at 90% was slightly lower than at 80%. 
 
 #### Summary DiGoia
 **Thermal Inactivation of Newcastle Disease Virus**
@@ -771,22 +773,23 @@ Semliki forest virus:
 #### Summary Fleming
 **Thermal Inactivation of Semliki Forest Virus**
 
-> Recommended to read [Laude](#summary-laude) as follow up.
+> Recommended to read [Laude](#summary-laude) as follow up where the research path is continued.
 
 ##### Methods
 * First the influence of the originating cells and the surrounding matrix was determined to select a appropriate model for the thermal inactivation studies.
 * The inactivation of homogenous virions at temperatures between 2o° and 50° degrees in different dilution of stabilizing medium was determined.
 ##### Results
-* Influence of originating cells:
-  * At 35°, the rate of inactivation was independent of the originating cell lines (Figure 2 a).
-  * At 50°, only virions originating from a stable cell line (mouse embryo cells) showed a 1 step log-linear inactivation. For other cells lines a 2 step log-linear inactivation is observed (Figure 2 b).
-  > Stable cell line means likely a homogenous cell line. In a homogenous cell line, the virions have the same lipid envelope unlike in mixed cell lines where each cell type can yield slightly different appearances of the virions -> [Virion Properties](#virion-properties).
+* *Primarily Experiments*
+  * *Influence of originating cells:*
+    * At 35°, the rate of inactivation was independent of the originating cell lines (Figure 2 a).
+    * At 50°, only virions originating from a stable cell line (mouse embryo cells) showed a 1 step log-linear inactivation. For other cells lines a 2 step log-linear inactivation is observed (Figure 2 b).
+    > Stable cell line means likely a homogenous cell line. In a homogenous cell line, the virions have the same lipid envelope unlike in mixed cell lines where each cell type can yield slightly different appearances of the virions -> [Virion Properties](#virion-properties).
+  * *Influence of Medium:* At 22° the more the stabilizing medium 199, CS was diluted by a phosphate buffer solution, the greater was the loss viability (Figure 1 and 3). The loss of viability was shifted to higher dilutions in the dark (Figure 1).
 
-* At 22° the more the stabilizing medium 199, CS was diluted by a phosphate buffer solution, the greater was the loss viability (Figure 1 and 3). The loss of viability was shifted to higher dilutions in the dark (Figure 1).
-* The arrhenius plots in Figure 3 and the corresponding values in Table 1 show:
+* *Decay Mechanisms at different Temperatures:* The arrhenius plots in Figure 3 and the corresponding values in Table 1 show:
   * There's a switch of the inactivation mechanism between 40 and 45 degrees.
-  * The dilution-ratio and the pH value (6.5 vs 7.5) change the decay rate but leave the mechanisms unchanged.
-* The decay at 50° (but not the decay at 35° or by UV radiation) induces a reduced neutralization by antibodies, which indicates changes of the surface proteins. However since the neutralizing tests were done by an excess of antibodies which makes the neutralization independent of the virus concentration, this change was faster than the reduction of viability.
+  * The dilution-ratio and the pH value (6.5 vs 7.5) change the decay rate but leave the mechanism unchanged.
+  * The decay at 50° (but not the decay at 35° or by UV radiation) induces a reduced neutralization by antibodies, which indicates changes of the surface proteins. However since the neutralizing tests were done by an excess of antibodies which makes the neutralization independent of the virus concentration, this change was faster than the reduction of viability.
 
 
 ### References Droplets and Influenza
