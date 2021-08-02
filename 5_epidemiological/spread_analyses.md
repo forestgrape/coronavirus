@@ -4,10 +4,9 @@ Spread Analyses across the World and across different Settings
 * [Short Summary](#short-summary)
 * [Summary](#summary)
   * [Summary Findings regarding Transmission Paths](#summary-findings-regarding-transmission-paths)
-  * [Summary Findings Population Susceptibility](#summary-findings-population-susceptibility)
   * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
   * [Summary Situation Analyses and Contact Tracing](#summary-situation-analyses-and-contact-tracing)
-  * [Summary Observations Population Susceptibility](#summary-observations-population-susceptibility)
+  * [Summary Population Susceptibility and Transmission Rates](#summary-population-susceptibility-and-transmission-rates)
 * [Findings from Geographical Observations and Analyses](#findings-from-geographical-observations-and-analyses)
   * [Exchanged Air is associated to Covid Spread](#exchanged-air-is-associated-to-covid-spread)
   * [Dry Indoor Air is associated to the Spread of severe Covid](#dry-indoor-air-is-associated-to-the-spread-of-severe-covid)
@@ -95,12 +94,6 @@ The observations strongly indicate a generalized aerosol transmission model for 
 Regarding prevention measures relevant is, that the transmission of symptomatic Covid correlates to the amount of air exchanged. The exact transmission mechanism provides additional insights and helps fine-tuning but mostly it can be abstracted away. One of the most important prevention measure is Ventilation, especially in warm environments.
 
 
-### Summary Findings Population Susceptibility
-Founded by [observations of transmission within populations](#summary-observations-population-susceptibility):
-* Population groups with an adequate and in form immune system in the lungs mostly get mild diseases and seem to be less infectious. These includes young people and especially children for whom Covid is no more or even less dangerous than common cold viruses or influenza. 
-* On the other hand populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement and/or severe obesity tend to have more Covid cases and higher fatality rates.
-  
-
 ### Summary Geographical Observations and Analyses
 
 #### Geographical Settings with Increased Spread of Severe Covid
@@ -131,13 +124,16 @@ For crowded events during the day in unconfined settings (e.g. demonstrations or
 * Crowded settings during the day in unconfined settings: Neither superspreading nor steep increases in the populations for repeated events (e.g. demonstrations, crowded parks, beaches and swimming pools).
 
 
-### Summary Observations Population Susceptibility
-* [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. In schools if there were many infected this is mostly due to super spreading teachers and not children infecting each other. [argumentation in work]
-* [Population](#population-specific-transmission): Analyzing the spread across people: 20% are responsible for 80% of the infections.
-* [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades seem to have many more cases and have higher death rates.
-* [Overweight](#overweight): Regions where overweight tend to have more cases and higher fatality rates.
+### Summary Population Susceptibility and Transmission Rates
+* Population groups with an adequate and in form immune system in the lungs mostly get mild diseases and are less infectious, these includes young people and especially children. For children Covid is no more or even less dangerous than other respiratory viruses. 
+  * [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. In schools if there were many infected this is mostly due to super spreading teachers and not children infecting each other. [argumentation in work]
+  * [Transmission Distribution](#transmission-distribution): The transmission and spread varies across people: 20% are responsible for 80% of the infections. People from 5 to 29 years are less likely to get severely sick and transmit Covid less.
+* On the other hand populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement and/or severe obesity tend to have more Covid cases and higher fatality rates.
+  * [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades seem to have many more cases and have higher death rates.
+  * [Overweight](#overweight): Regions where overweight tend to have more cases and higher fatality rates.
 
-  
+
+
 
 ---
 
@@ -534,13 +530,16 @@ Knowing how transmissions are distributed, helps to set and fine-tune control me
 
 > In my opinion, the actions for people with inherently higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects.
 
-> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume vaccination is a risk free action similar to wearing a mask and that vaccination provides a useful protection against transmission. This is taken as a reason to restrict human rights in varying degrees of those not vaccinated. 
+> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume vaccination is a risk free action similar to wearing a mask and that vaccination provides a useful protection against transmission. This is taken as a reason to restrict elementary rights and the freedom in varying degrees of those not vaccinated. 
 > * Scientific questions are whether vaccination is safe and provides a useful protection against transmission.
 > * Relevant moral questions are (some go fare beyond the above considerations):
->   * The relations between opening the windows  / wearing a mask / living healthily or unhealthily / being young or old / getting vaccinated.
+>   * The relations between opening the windows  / keeping distance / wearing a mask / living healthily or unhealthily / getting a chip implanted to measure antibodies / getting vaccinated / being young or old.
 >   * Who can say or has the right to say  something is safe, good or useful for somebody.
 >   * How and by who, how fast and which risks are estimated and weighted.
->   * On different beliefs and world views.
+>   * On different beliefs and world views. 
+
+> This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I do think they fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences and medicine especially was less and causal connections and a fundamental understanding was often missing. Situations around the fascist regimes in the 30s and 40s were also fundamentally different.
+
 
 ### Infector Distribution
 The infector distribution is highly skewed:
@@ -621,29 +620,27 @@ International Journal of Epidemiology, Volume 50, Issue 3, June 2021, Pages 743�
 ##### Methods
 "The Household Transmission Evaluation Dataset (HOSTED) is a passive surveillance system linking laboratory-confirmed COVID-19 cases to individuals living in the same household in England. We explored the risk of household transmission according to: age of case and contact, sex, region, deprivation, month and household composition between April and September 2020, building a multivariate model."
 ##### Results
-The heat map below (Figure 3 in the paper) shows the secondary cases by age of the index case and age of the contact:
+The heat map (Figure 3 in the paper) shows the secondary cases by age of the index case and age of the contact:
+
+![Heat map of secondary cases by age](images/hall_transmission_by_age.jpg)
+
 * _Few Spread:_ People younger than 30 year but older than 4 have few secondary cases (left third of the image).
 * _Much Spread:_ 
   * For index cases above 40 years the transmissions are high. The transmission rates peak at an age of about 65 years.
   * Very young children 0 to 4 of age transmit Covid well and mainly to their parents and their grand parents (left most column).
   * Parents between 40 and 59 transmit to older children (15-24) but the children not to them (hotspot at middle right, missing hotspot on the mirrored)
 
-![Heat map of secondary cases by age](images/hall_transmission_by_age.jpg)
-
 The graphs below show the secondary attack rate in the different administration division in the UK. 
-
-> // The Southern regions have lower secondary attack rates likely due to the more comfortable climate in the summer months.
-
 ![Transmission by regions](images/hall_secondary_cases_by_region.jpg)
 
-
-
+The Southern regions have lower secondary attack rates likely due to the more comfortable climate in the summer months.
 
 
 ##### Methods Details
 "As the incubation period for SAR-CoV-2 is thought to be 2–14 days [16],  we chose a threshold of 2 days between the specimen dates of the index and secondary cases as a pragmatic decision to offset the risks of misclassifying cases as either co-primary or as secondary. A sensitivity analysis using a cut-off of 4 days found to have little effect on any of the results or on the multivariable model. We have also made the implicit assumption that two (or more) cases oc- curring in a household within 2–14 days represents house- hold transmission when it also plausible that they are two independent community-acquired infections. However, given the timing of this study, when the number of cases was at its lowest, this risk is probably small." 
 
 > // Considering the asymptomatic/low symptomatic cases, simultaneous community acquired infection (e.g. at a super spreading event) cannot be ruled out even with the sensitivity analysis by varying the incubation cut-offs.
+
 
 #### Summary Madewell
 **Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate**
