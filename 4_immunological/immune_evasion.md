@@ -151,9 +151,14 @@ Coronaviruses can adapt to increase the resistance towards neutralizing antibodi
 ## References
 [in work]
 
-
 ##### kikkert
 Marjolein Kikkert
 **Innate Immune Evasion by Human Respiratory RNA Viruses**
 J Innate Immun 2020;12:4–20
 https://doi.org/10.1159/000503030
+
+#### Bachmann
+Bachmann, M.F., Mohsen, M.O., Zha, L. et al. 
+**SARS-CoV-2 structural features may explain limited neutralizing-antibody responses.**
+npj Vaccines 6, 2 (2021). 
+<https://doi.org/10.1038/s41541-020-00264-6>
