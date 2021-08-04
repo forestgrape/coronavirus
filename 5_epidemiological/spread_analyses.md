@@ -530,15 +530,15 @@ Knowing how transmissions are distributed, helps to set and fine-tune control me
 
 > In my opinion, the actions for people with inherently higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects.
 
-> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume vaccination is a risk free action similar to wearing a mask and that vaccination provides a useful protection against transmission. This is taken as a reason to restrict elementary rights and the freedom in varying degrees of those not vaccinated. 
+> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume vaccination is a risk free action which provides a useful protection against transmission. This is taken as a reason to restrict elementary rights and the freedom in varying degrees of those not vaccinated.
 > * Scientific questions are whether vaccination is safe and provides a useful protection against transmission.
 > * Relevant moral questions are (some go fare beyond the above considerations):
->   * The relations between opening the windows  / keeping distance / wearing a mask / living healthily or unhealthily / getting a chip implanted to measure antibodies / getting vaccinated / being young or old.
+>   * The relations between opening the windows  / keeping distance / wearing a mask / living healthily or unhealthily / getting vaccinated / removable chip implant /being young or old.
 >   * Who can say or has the right to say  something is safe, good or useful for somebody.
 >   * How and by who, how fast and which risks are estimated and weighted.
->   * On different beliefs and world views. 
+>   * On different beliefs and world views.
 
-> This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I do think they fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences and medicine especially was less and causal connections and a fundamental understanding was often missing. Situations around the fascist regimes in the 30s and 40s were also fundamentally different.
+> This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I think comparisons fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences and medicine especially was less and causal connections and a fundamental understanding was often missing. Situations around the fascist regimes in Europe in the 30s and 40s were also fundamentally different.
 
 
 ### Infector Distribution
