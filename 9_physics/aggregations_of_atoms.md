@@ -1,7 +1,9 @@
 
 # Aggregations of Atoms: Giving Matter Properties
 
-> in work, incomplete, some parts are explorative and need to be checked
+> in work
+
+> some parts are explorative and need to be checked
 
 > Currently (May 2021) collection of topics of atoms arrangement relevant for other part of this page. The topics are sketchy and incomplete. Long-term goal: Description how atomic elements arrange to form inorganic or organic matter.
 
