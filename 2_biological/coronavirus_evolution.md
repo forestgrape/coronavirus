@@ -2,10 +2,10 @@
 
 * [Evolution Speed](#evolution-speed)
 * [Terminology](#terminology)
-* [Evolution Mechanisms](#evolution-mechanisms)
+* [Evolution Occurrence and Mechanisms](#evolution-occurrence-and-mechanisms)
 * [Evolution Variations across the Genome](#evolution-variations-across-the-genome)
-  * [Slow Mutating Regions](#slow-mutating-regions)
-  * [Fast Mutating Regions](#fast-mutating-regions)
+  * [Effects of Genome Evolution](#effects-of-genome-evolution)
+  * [Determinants of Evolutionary Rate](#determinants-of-evolutionary-rate)
 
 
 ## Evolution Speed
@@ -50,7 +50,7 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 
 
 
-## Evolution Mechanisms
+## Evolution Occurrence and Mechanisms
 * Spontaneous Mutation
 * Duplication Error
 * Recombination
@@ -59,24 +59,46 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 
 ## Evolution Variations across the Genome
 
+> This section is written generally and valid for most life forms
 
-### Slow Mutating Regions
+### Effects of Genome Evolution
+
+#### Change the Molecular Appearance
+Changing the appearance can yield escape from immune system recognition. 
+
++: Escaping the immune system is often beneficial or even required for a virus lineage to survive.
+
+#### Change the Functioning
+Change the function which is beneficial if the previous functioning was suboptimal and the new function does better.
+
++/-: Most mutations do *not* improve the function. However if they do the advantage can be significant. 
+  * If the life-form is not well adapted to the environment, function improvement upon function change is more likely.
+  * If the life-form is in an environment with relaxed fitness constraints, delirious  mutations are better tolerated.
+
+#### Change the Evolutionary Stability
+Changing the RNA or protein structure even without immediate effects on the function can influence future mutations. This can yield more mutative or more stable progeny.
+
++/-: 
+  * In a changing environment with relaxed survival constraints, a mutative state is advantageous regarding the change of functions.
+  * Exposed to immune responses targeting molecular patterns, change of molecular appearance is beneficial.
+
+
+
+### Determinants of Evolutionary Rate
 
 > in raw work and incomplete
 
-#### Reason for Conservation
-Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to mutate.
-Functional units of proteins. The more conserved the function is, the more conserved they tend to be.
-* The replication mechanism of coronaviruses is well conserved and thus the proteins involved.
+#### Immune Evasion Drive
+* Exposure:* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to mutate.
+  * The N terminal part of the spike protein mutates frequently. By such mutations coronaviruses can evade neutralizing antibodies (described on the page [Immune Evasion](./../4_immunological/immune_evasion.md)).
+* *Expression Level:* Proteins with low expression levels: The immune system learning system comes more in contact with frequent proteins and thus learns them more likely.
+  * For coronaviruses (for most other viruses too) the non structural proteins have much lower expression levels than the structural proteins.
+  * The share of proteins mass is as follows: 1. N protein, 2. S protein, 3. E Protein, 4. M Membrane Protein [to finish, check and cite]
 
-#### Examples of Conserved Parts
-Examples of well conserved genes of coronaviruses are:
-* RNA viruses need to duplicate their RNA for replication, which requires an RNA-dependent RNA polymerase protein. Core parts of this protein are well conserved [to check and cite]. 
-* The coronavirus RNA is packaged with the help of a nucleocapsid protein, usually denoted by N. 
+#### Functional Drive
+* *Conserved Function:* Functional units of proteins. The more conserved the function is, the more conserved they tend to be.
+  * The replication mechanism of coronaviruses is well conserved and thus the proteins involved e.g. functional parts of the RNA-dependent RNA polymerase protein [to check and cite]. 
+* *Adapted Function:*
+  * The receptor binding 
 
-### Fast Mutating Regions
-
-> in raw work and incomplete
-
-* The N terminal part of the spike protein mutates frequently. By such mutations coronaviruses can evade neutralizing antibodies (described on the page [Immune Evasion](./../4_immunological/immune_evasion.md)).
 
