@@ -6,20 +6,21 @@
   * [History of Vaccination](#history-of-vaccination-1)
   * [History of Vaccine Trials](#history-of-vaccine-trials)
 
-> **in work**
+> **in work and incomplete**
 
 ## Defining Vaccination
 Immunisation and vaccination are used here as follows:
 
 > ##### Immunisation
-> *Immunisation* prepares the immune system to recognize something and prevent disease. 
+> *Immunisation* prepares the immune system  prevents a disease but not necessarily infection.
 
 > ##### Vaccination
-> *Vaccination* teaches the immune system how to handle something.
+> *Vaccination* teaches the immune system how to handle something. Even though the goal of vaccination usually is to prevent a disease, this is not specified.
 
-In literature vaccination is often used more specific e.g. "stimulating antibodies production against something harmful or the agent of a disease". Here the more general usage, given above, is used since:
-* _Immune Response:_ The immune system is more than antibodies. Many vaccines (especially live pathogen vaccines e.g. the oral polio vaccine) induce a broad immune response e.g. including immune cells supervising the right locations.
-* _Specify the target:_ Some definitions use 'something harmful' or 'the agent of a disease'. But many living organisms are part of the biome of healthy people and are just pathogens or agents of a disease in special situations. E.g. many viruses live in our respiratory tract or intestine and help to train the immune system. Just under specific circumstances they can become pathogenic e.g. when the immune system is suppressed. Are they know harmful or agent of a disease?
+* Vaccination can provide immunization i.e. to prevent a disease.
+* In literature vaccination is often used more specific e.g. "stimulating antibodies production against something harmful or the agent of a disease". Here the more general usage, given above, is used since:
+  * _Immune Response:_ The immune system is more than antibodies. Many vaccines (especially live pathogen vaccines e.g. the oral polio vaccine) induce a broad immune response e.g. including immune cells supervising the right locations.
+  * _Specify the target:_ Some definitions use 'something harmful' or 'the agent of a disease'. But many living organisms are part of the biome of healthy people and are just pathogens or agents of a disease in special situations. E.g. many viruses live in our respiratory tract or intestine and help to train the immune system. Just under specific circumstances they can become pathogenic e.g. when the immune system is suppressed. Are they know harmful or agent of a disease?
 
 
 
