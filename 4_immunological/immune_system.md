@@ -2,18 +2,23 @@
 
 # Sketching the Life-form Homeostasis aka Immune System
 
-> **Major rework in progress, June 2021**
-> **in work and to be checked**
+> **Major rework in progress, June/August 2021**
 
 
 * [Summary](#summary)
 * [Introduction](#introduction)
-* [Tools of the Immune System](#tools-of-the-immune-system)
-  * [A Task for each Tool](#a-task-for-each-tool)
-  * [How the Tools Work](#how-the-tools-work)
-* [Assign Tasks to Tools: Immune System Targeting](#assign-tasks-to-tools-immune-system-targeting)
-  * [Immune System Target Specificity](#immune-system-target-specificity)
-  * [Target Mechanisms](#target-mechanisms)
+* [Immune System Goals](#immune-system-goals)
+* [Immune System Surveillance](#immune-system-surveillance)
+  * [Entry Controls](#entry-controls)
+  * [Inspect the Transport Systems](#inspect-the-transport-systems)
+  * [Supervise the Production of Enzymes](#supervise-the-production-of-enzymes)
+* [Mechanisms of the Immune System](#mechanisms-of-the-immune-system)
+  * [Physical Mechanisms](#physical-mechanisms)
+  * [Chemical Mechanisms](#chemical-mechanisms)
+  * [Biological Mechanisms](#biological-mechanisms)
+* [Immune System Targeting](#immune-system-targeting)
+  * [Feature Recognition Specificity](#feature-recognition-specificity)
+  * [Feature Recognition Mechanisms](#feature-recognition-mechanisms)
 * [Protection Locations](#protection-locations)
 * [Immune System Members](#immune-system-members)
   * [T Cells](#t-cells)
@@ -31,15 +36,25 @@
 
 
 ## Summary
-"Selected topics of the immune system with a focus on protection versus coronaviruses."
+"Selected topics of the immune system with a focus on the principles."
 
 
 ## Introduction
 
 > ###### Immune System
-> The *immune system* denotes organs and processes which watch and regulate life forms interactions. This is achieved by watching interactions within or between life forms and if necessary adapt or reduce the interactions such that they are advantageous or at least not adverse.
+> The *immune system* denotes organs and processes which watch and regulate life forms interactions such that the interaction are not adverse. 
+> * The life form interaction are at the cellular level or below and competitive. 
+> * Prevention of damage is achieved by watching interactions within or between life forms and if necessary adapt or reduce the interactions such that the interactions not adverse or even advantageous.
 
-* The immune system can be viewed as the homeostasis regulation regarding interactions with life-forms at the molecular and cellular level.
+* The immune system can be viewed as part of the homeostasis regulation regarding interactions of life-forms. 
+
+* The life form interaction are of the following forms:
+  * The interactions are competitively and if out of balance with negative fitness effects.
+  * Only interactions at the molecular and cellular level (as always life is not discrete, so the border is not always clear). Trained neural network interaction are usually considered as not part of the immune system.
+    * Worms infecting mammals are fought by stomach acid and antibodies (mainly IgE), so this interaction is part of the immune system.
+  * In organisms the immune system includes the interactions between different cells of the organism. Examples:
+    * Cancer cells within an organism can be viewed as selfish cells that don't respect the 'rules of an organism', therefore the immune system targets them.
+    * If an organism is physically damaged an the cells are out of order, the immune system handles the displaced cells and sends signals to repair the injury.
 
 * *The immune system is pragmatic and efficiency focused*:
   * the immune system usually is minimalist and does just as much to prevent harm but no more.
@@ -56,77 +71,102 @@
 > Life is all about homeostasis. Provide a good and constant environment for the core parts of a life form to live and replicate regardless whatever the environment is. Homeostasis is a constant and ubiquitous task, also in day to day life: If there's not enough water in the blood we get thirsty, if it's too hot we sweat and if it's too cold some specialized cells warm the body.
 
 
-Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to reduce the hosts from interfering with their metabolism. It's a two way interaction: The host immune system tries to reduce the virus metabolism and the virus immune system in turn tries the reduce the host immune system. Usually a balance is reached and both life side a side or even in symbiosis.
+Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to reduce the hosts from interfering with their metabolism. It's an interplay: The host immune system tries to reduce the virus metabolism and the virus immune system in turn tries the reduce the host immune system. Usually a balance is reached and both life side a side or even in symbiosis.
 
 Immune mechanism can be viewed from different perspectives and accordingly classified to various criteria:
-- [Immune System Goals](#immune-system-goals): Prevent entry | eliminate unwanted | supervise metabolism.
-- [Immune System Tools](#immune-system-tools): Physical, chemical and biological mechanism are in use.
-- [Immune System Specificity](#immune-system-specificity): Which substances are recognized and targeted. Substances that are ignored.
+- [Immune System Methods](#immune-system-methods): Entry Control | Supervise | Recognize and Classify| Fight Class Dangerous
+- [Immune System Mechanisms](#immune-system-mechanisms): Physical, chemical and biological mechanism are in use.
+- [Immune System Specificity](#immune-system-target-specificity): Which substances are recognized and targeted. Substances that are ignored.
 - [Protection Locations](#protection-locations): Local or global. At frequent foreign substances entry points many local protection mechanism are in place.
 
 
 
-## Tools of the Immune System
+## Immune System Goals
+The goal of homeostasis is to provide optimal conditions for the core parts of a life form. The immune system viewed as part of the overall homeostasis system has the task to prevent damage resulting from life form interactions. The main focus of the immune system is the core part of a life form. Keep the helper parts working is important too since these have functions for homeostasis.
 
-### A Task for each Tool
-[in work and incomplete]
-As [defined](#immune-system) the immune system task is to keep the metabolism free of unwanted things. The different tools of the immune system have different goals/tasks:
-* [Prevent Entry](#prevent-entry)
-* [Detect and Eliminate Unwanted Things](#detect-and-eliminate-unwanted-things)
-* [Prevent Unwanted Metabolisms](#prevent-unwanted-metabolisms)
+> In multicellular organism the entire homeostasis including the immune system does everything to prevent damage to the core of the organism. Most animals have a hierarchical cell organization: In the case of vertebrates, the best protected cell populations are stem cells, the germ-line cells and the neurons. So the immune system protects these cell populations with a high priority.
 
-#### Prevent Entry
+
+## Immune System Surveillance
+
+> **in work and incomplete**
+
+
+### Entry Controls
 Against many pathogens a physical barrier is the first and most effective line of defence. Where possible this defense mechanism is in place. However where a an exchange of chemical and biological substance is needed no complete physical barrier is possible but other obstacles are in place:
 * alveoli in the lung: exchange of oxygen => the respiratory tract evolved such that most particles don't reach the alveoli, described in [Particle Dynamics in the Respiratory Tract](../5_epidemiological/transmission.md#particle-dynamics-in-the-respiratory-tract).
 * Intestine in the alimentary => To take up nutrients the intestine needs to  be permeable to chemical and biological substance and the substance also need to reach it. To reduce the amount of pathogens reaching the intestine, the acidic stomach is in front of the alkaline intestine.
 
-#### Detect and Eliminate Unwanted Things
-Unwanted can mean:
-- foreign substances
-- cells considered out of order
-- things classified as being harmful. These are often specific parts of proteins.
 
-#### Prevent Unwanted Metabolisms
-In some cases preventing unwanted metabolism is done by eliminating whole cells, in that case preventing unwanted metabolism yields eliminating unwanted cells and so is a special case of [eliminating unwanted things](#detect-and-eliminate-unwanted-things). But often the immune response is more fine-grained e.g. silencing foreign RNAs.
+### Inspect the Transport Systems
+Both the blood and the lymph are inspected.
+* The blood has an army of circulating immune cells and humoral substances (e.g. antibodies).
+* In the lymph nodes the body wast is inspected. If there are signs of damage the causal agents are identified and termed as dangerous.
 
-##### Self Check of the Cells
+
+### Supervise the Production of Enzymes
+The immune system tightly supervises the production of enzymes. Enzymes are mostly either proteins, a combinations of proteins and RNA and sometimes RNA only.
+
+#### Self Checks of Cells
 [in work]
-Self checks of the cells: inside the cells there are various systems to keep to cells metabolism immune.
-* RNA silencing
+Self checks of the cells:
+* RNA sequence inspection and possibly silencing
 * Detect foreign RNA e.g. double stranded
 * Detect stress e.g. Ribosome permanently producing. 
 
-##### Extern-checks
-Cells present what they produce on the outside: Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
+Upon detection of anomalies, the cells can go into an alert state, ring the bells or even induce apoptosis.
 
-### How the Tools Work
-The mechanisms can be classified by the mode of action either physical, chemical or biological. The relations between Physics, Chemistry and Biology are sketched in [Biology, Chemistry and Physics](#biology-chemistry-and-physics).
+#### Extern Checks of Cells
+Cells present what they produce on the outside (via MHC 1 proteins): Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
 
-#### Physical Mechanisms
+#### Prevent Unwanted Metabolism
+[in work]
+Unwanted can mean:
+- cells not considered self
+- cells considered out of order
+- Specific substances associated to damage. These are often specific parts of proteins.
+  
+In some cases preventing unwanted metabolism is done by eliminating whole cells, in that case preventing unwanted metabolism yields eliminating unwanted cells. But often the immune response is more fine-grained e.g. silencing foreign RNAs.
+
+
+## Mechanisms of the Immune System
+At a broad level, the immune system can be view to use physical, chemical or biological mechanisms. However the classification as often falls short: e.g. fever = rising the temperature is a physical mechanisms though it effects chemical and biological reactions and fever is accompanied by chemical and biological mechanisms.
+
+> Some notes on the relations between Physics, Chemistry and Biology are in [Biology, Chemistry and Physics](../9_physics/aggregations_of_atoms.md#history-and-relation-of-biology-chemistry-and-physics).
+
+### Physical Mechanisms
+Physical mechanisms are mainly used as entry control.
 * protecting layers: dead cells on the epithelium (e.g. skin)(The outer layer of the body = the surface of the body = anything that can be reached while the body) is not injured - is called epithelial layer and the cells epithelial cells i.e. the cells on the surface. This layer has often various protections e.g. dead cells (which is the case for the skin) 
-* mucus clearance:
+* Mucus clearance:
   * middle and upper respiratory tract
   * many parts of the alimentary tract
-* [Immune System Goals](#immune-system-goals): mainly used to prevent entry, sometime to eliminate substances.
-
-#### Chemical Mechanisms
- * change of pH e.g. acidic fluids (e.g. stomach acid) or alkaline environment (e.g. small intestine)
- * degradation of substances by hydrogen peroxide
- * [Immune System Goals](#immune-system-goals): often used to prevent entry (stomach) or eliminate substances.
-
-#### Biological Mechanisms
-Recognizing biological substances as unwanted and eliminate them. Unlike chemical and physical mechanisms biological mechanism can specifically recognize substances and thereby distinguish different life forms and even self and non self. 
-[Immune System Goals](#immune-system-goals): Often the recognizing part is carried out by biological mechanism which allow specific targeting and the elimination part is then chemical or physical. 
 
 
+### Chemical Mechanisms
+Chemical mechanisms are often used to disinfect fluids e.g. the stomach content or the content of vacuoles within cells.
+
+Examples of chemical mechanisms in use are:
+* change of pH e.g. acidic fluids (e.g. stomach acid) or alkaline environment (e.g. small intestine)
+* degradation of substances by hydrogen peroxide
 
 
+### Biological Mechanisms
+Unlike chemical and physical mechanisms, biological mechanism can specifically recognize substances and thereby distinguish different life forms and even self and non self. Often the recognizing part is carried out by biological mechanisms which allow specific target recognition and the elimination part is then chemical or physical. 
 
 
 
-## Assign Tasks to Tools: Immune System Targeting
+## Immune System Targeting
+The immune system targeting is mainly based on the locality or feature recognition:
+* Target by Locations
+  * Stomach acid in the stomach.
+  * The respiratory tract has evolved to block most particles except small molecules (02, CO2, H2O) from reaching/leaving the lungs.
+* Target by Feature Recognition. 
+  * Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else.
+  * Default Deny = Deny unless Allowed: Allow only items *with* a specific feature = Target all other items (*without* the specific feature)
 
-### Immune System Target Specificity
+  > Default allow is also called blacklist (blacklist = items to block) and default deny whitelist (whitelist = items to allow).
+
+### Feature Recognition Specificity
 The range of specificity is large, the following categories are just a coarse approximation.
 
 * #### Unspecific
@@ -146,7 +186,7 @@ The range of specificity is large, the following categories are just a coarse ap
 
 
 
-### Target Mechanisms
+### Feature Recognition Mechanisms
 
 #### Detecting Protein Structures
 > ###### Antigen
@@ -165,11 +205,13 @@ The range of specificity is large, the following categories are just a coarse ap
  [in work]   
  -->
 
+
 ## Protection Locations
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
 * entire body (e.g. fever, circulating antibodies or the skin)
 * tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
 * cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
+
 
 
 ## Immune System Members
