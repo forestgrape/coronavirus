@@ -1,7 +1,8 @@
 # Masks
-Effectiveness, Types, Usage and Use Cases of Masks
 
-* [Mask Usage](#mask-usage)
+* [Summary](#summary)
+* [Masks Use Cases](#masks-use-cases)
+* [Mask Handling for different Use Cases](#mask-handling-for-different-use-cases)
 * [Mask Effectiveness](#mask-effectiveness)
 * [Mask Types](#mask-types)
   * [Filter Performance](#filter-performance)
@@ -16,8 +17,18 @@ Effectiveness, Types, Usage and Use Cases of Masks
   * [Personal Mask Preferences](#personal-mask-preferences)
   * [Personal Mask History](#personal-mask-history)
 
+## Summary
+* *Effectiveness:* Mask reduce the transmission by half or more.
+* *Types:* For reliable self protection dense mask with a good fit are important and sufficient in most situations.
+* *Use cases:* Mask in general used public settings reduce the transmissions enable a more individual handling in private/voluntary settings.
+* *Handling:* To protect others it is important to change the mask frequently (each 2 hours). Masks can be reused later.
 
-## Mask Usage
+## Masks Use Cases
+* Wearing masks in confined spaces helps to reduce overall transmission during waves. 
+* Wearing masks in public spaces helps to keep transmission rates low in these settings, so in private settings the handling of Covid can be individual.
+* Dense masks with a good fit offer reliable self protection.
+
+## Mask Handling for different Use Cases
 * For self protection, a good fit and a good outside-to-inside filter are important.  
 * In indoor rooms with aerosol transmission:
   * frequent [changing/cleaning the masks](#mask-reuse-and-cleaning) is necessary to prevent the spread of aerosols, especially for [low and mid filtration masks](#filter-performance)
@@ -30,11 +41,8 @@ Effectiveness, Types, Usage and Use Cases of Masks
 
 ## Mask Effectiveness
 
-> **Reduction upon exhalation is likely low for many masks** (especially if the mask is used long without changing what many do). Reasons:
-> * Most lab experiments are done with fresh masks and not with masks used for several hours.
-> * The effectiveness is likely better for inhalation than for exhalation:
-   The air is exhaled often at higher speeds than inhaled and the air exhaled is directed => higher air pressure difference upon exhalation on the filter (The filter performance in turn decreases with higher pressure differences).
-> * long worn (cloths) mask could have a **spray effect for the aerosol** spread: accumulation of exhaled breadth condensate in the inner side/layers of the mask and then spray like release upon strong exhales such as shouting.
+> * *Reduction upon exhalation is likely lower than in experiments* Reasons: Most lab experiments are done with fresh masks and not with masks used for several hours. Long worn (cloths) mask even could have a *spray effect for the aerosol* spread: accumulation of exhaled breadth condensate in the inner side/layers of the mask and then spray like release upon strong exhales such as shouting.
+> * *The effectiveness is likely better for inhalation than for exhalation.* The air is exhaled often at higher speeds than inhaled and the air exhaled is directed => higher air pressure difference upon exhalation on the filter (The filter performance in turn decreases with higher pressure differences).
 
 * [Milton et al.](#milton2013) measured the influenza viruses spread from patients with and without wearing a surgical mask. They found:
     - Particles greater than 5 micro meter: Surgical masks nearly eliminated viral RNA detection in the coarse aerosol fraction: resulting in a 25 fold reduction in the number of viral copies 
