@@ -1,6 +1,6 @@
 
 # Suggestions and Tips
-General notes on virus diseases and the transmission of coronaviruses. Public Suggestions, Advice and Tips how the live and behave in Covid times.
+General notes on virus diseases and the transmission of coronaviruses. Suggestions how to handle Covid waves and times.
 
 * [Covid-19 and Virus Infections](#covid-19-and-virus-infections)
 * [Sars-CoV-2 Transmission](#sars-cov-2-transmission)
@@ -10,14 +10,14 @@ General notes on virus diseases and the transmission of coronaviruses. Public Su
 * [Respect and Take Care](#respect-and-take-care)
 * [Live Healthily](#live-healthily)
 
-> written at the peak of the first Covid wave in Europe, actualized in Spring 2021
+> written at the peak of the first Covid wave in Europe, actualized in Autumn 2020 and Spring 2021
 
 ## Covid-19 and Virus Infections
-For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with moderate and situation adapted movement. A healthy lifestyle helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
+For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with moderate and situation adapted [movement](../6_prevention_and_treatment/movement.md). A healthy lifestyle helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
 
-Many viruses live temporarily or reside permanently in our body - all together forming the virome of our body. *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
+*Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Many viruses live temporarily or reside permanently in our body - all together forming the virome of our body. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
 
-> Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can be contributing to decisions. 
+> Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can contributing to decisions. 
 
 > Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page.
  
@@ -25,8 +25,11 @@ Time to act mindfully, carefully and circumspectly & work together in an open, f
 
 
 ## Sars-CoV-2 Transmission 
-SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in water droplets flying like balls) or by aerosol (the virions move with the air). For Covid-19 aerosol transmission is more frequent and much more dangerous. A short overview below and a more in depth description is in the section [Airborne Transmission](../5_epidemiological/transmission.md#recap-airborne-transmission).
-* __Droplet Transmission__: Droplets fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
+SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in water droplets flying like balls) or by aerosol (tiny droplets or dust like particulates with virions that move with the air). For Covid-19 aerosol transmission is more frequent and much more dangerous.
+
+Covid transmission paths and prevention:
+
+* __Droplet Transmission__: Water droplets larger than fly in trajectories similar to balls thrown. How fare they fly depends on the initial movement: when coughing or sneezing they fly farther than when talking. Transmission risk is in situation when bad breath/reek of alcohol is smelled. Droplet can be exchanged when close range face-to-face talking and this gives a transmission opportunity. Prevent
     - Masks
     - Distance
     - Side-a-side instead of face-to-face
@@ -36,12 +39,14 @@ SARS-CoV-2 is mostly transmitted through the air, either by droplets (virions in
     - masks, preferably with a good fit and [filter](../6_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently
     - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
 
-    The smoke model makes it simple to detect and avoid situations with aerosol transmission: Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. A neighbors candle won't be smelled through doors, but in a place with an indoor barbecue, smoke is smelled in the stairways. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. Also it is important to ventilate regularly especially before opening doors.
+    To think of aerosol transmission as smoke, makes it easier to detect and avoid situations with aerosol transmission: Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. A neighbors candle won't be smelled through doors, but in a place with an indoor barbecue, smoke is smelled in the stairways. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. Also it is important to ventilate regularly especially before opening doors.
+
+A more in depth description is in the section [Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)
 
 
 ## How to Reduce Covid-19 Transmissions
 
-> Remark: Some of the following advices are meant when Sars-Cov-2 ARDS/SARS disease patterns peak.
+> Remark: Some of the following advices are meant when Sars-Cov-2 ARDS/SARS disease patterns peak (which is usually associated to setting with dry air e.g. indoor heated or air-conditioned).
 
 In brief: Think aerosol transmission as smoke like. To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
 
@@ -91,31 +96,31 @@ The more common Covid-19 in a region is, the more likely it is, that an observed
 * Measure the temperature several times every day and best in the same situations and record the values. An increased temperature can be an early sign of a possible Sars-CoV-2 infection. However many people have only a slight increase, which doesn't "meet the definition of fever", see [Covid-19 symptoms](../3_medical/covid19.md#symptoms).
 Keep in mind that the temperature varies during a day and with the activities performed. That's why several measurements.
 
-    > It's time [for medicine] to move on from digitalization schemes to a continuous color-space. There's no hard border for fever at 37.5 or at 38 degrees.
+    > It's time [for medicine] to move on from digitalization schemes to a continuous color-space and individuality. There's no hard border for fever at 37.5 or at 38 degrees.
 
 
 ## Estimate and Adaptive Planning
-While we often prefer straight plans, adaptive planning is more suitable here. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions don't move on their own and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick, in that case it is important to withdraw from social gatherings.
+While we often prefer straight plans, adaptive planning can be needed in Covid times. Like a game plan where one starts with a plan but needs to adapt depending on the moves of the adversary players. Viruses behave like adversary players and unpredictability/randomness is involved. One reason is that virions don't move on their own and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick before the visit, in this case the right step is possibly to withdraw from social gatherings.
 
 > For larger communities (above a few thousand people) planning works better since there is less randomness than for individuals.
 
 Increased infection probability:
-* **Increased Exposure to Viruses**:being in a densely populated and poorly ventilated indoor spaces or close range face to face talking
-* **Increased Susceptibility to Viruses**: diminished immune system and increased inhalation of air (e.g. sports, high altitude)
+* *Increased Exposure to Viruses:* Being in a densely populated and poorly ventilated indoor spaces.
+* *Increased Susceptibility to Viruses:* Diminished immune system (long party nights) and increased inhalation of air (e.g. sports, high altitude)
 
 Keeping benefits and risks in mind:
-* whether, when and what to do and care about
-* whether to take additional carefulness otherwhere. E.g. in the Tour the France not a single cyclist has caught Covid-19 [to check] despite excessive sports diminishes the immune system. This likely because they were able to reduce exposure to viruses by being careful and overall a good organization.
+* Whether, when and what to do and care about
+* Whether to take additional carefulness otherwhere. E.g. in the Tour the France 2020 not a single cyclist has caught Covid-19 [to confirm] despite excessive sports diminishes the immune system. Likely they were able to reduce exposure to viruses by being careful and a good overall organization.
 
 ## Respect and Take Care 
 > *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
 
-Respecting others having a different view of Covid yields an intermediate approach: base protections enabling people to avoid it, but not narrowing others much. 
+Respecting others to handle and view Covid differently yields an approach with base protections: enabling people to avoid it, but not narrowing others much. 
 
 * Precautions/Protection measures in place in public spaces which everybody needs to use. 
 * In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Depending on the epidemiological situation protections measures can be community/local decisions. E.g. universities provide both on campus and off campus studying.
 
-Note: overall cases need to be kept lower in cold season, since self protection is more difficult due to aerosol transmission (good fitting high filtration mask are likely needed).
+Note: In cold seasons, overall cases need to be kept lower, since self protection is more difficult due to aerosol transmission (e.g. good fit high filtration masks) and severe Covid is much more likely in indoor dry air (heated or air-conditioned).
 
 > ### Communities and Societies
 > Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
@@ -135,9 +140,9 @@ A good immune system goes hand in hand with a healthy lifestyle.
 * Sleep enough, eat healthily, relax and do some sport. 
 
 and avoid anything that weakens the immune system:
-* avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
-* avoid being cold or even freezing for a longer period. For this reason, in cold climates, windows shouldn't be open permanently. 
-* avoid immunosuppressants unless necessary for medical reasons. 
+* Avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
+* avoid being cold or even freezing for a longer period. For this reason, in cold climates, windows shouldn't be kept open permanently. 
+* avoid immunosuppressants unless necessary for medical reasons. Immunosuppressants are not a major risk factor for Covid though so no reason to be afraid if they are necessary for medical reasons. 
 * try reducing stress for yourself and others. Trying too hard won't help though. 
     
 Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
