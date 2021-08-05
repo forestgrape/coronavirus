@@ -101,14 +101,13 @@ This section overviews the content. The [full content section](#content) lists t
 > * _Off Topic Remarks:_ Sometimes subjective off topic remarks are added. One reason for subjective off-topic remarks is transparency and background for the mindset behind suggestions.
 
 
-> ##### Mindset in short
+> ##### Mindset in Short
 > * *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.*
 > * Fairness is important. Attitudes or group memberships - as long as they respect others - should *only* matter if directly relevant and really necessary for the task of interest.
 >
-> More on the mindset in the chapters:
-> * [Respect and Take Care](./1_introduction/suggestions.md#respect-and-take-care) on the Suggestion and Tips page
-> * [Clarification on Comments](./1_introduction/update_history.md#clarifications-on-comments) on the Update History page
-> * [Baseline Principles](./7_social/economics.md#baseline-principles) on the Economic page.
+> More on the mindset follow on this page in the chapters:
+> * [Respect and Take Care](./1_introduction/suggestions.md#respect-and-take-care) on the Suggestion and Tips page.
+> * [Baseline Principles to design an Economic System](./7_social/economics.md#baseline-principles) on the Economic page.
 
 
 
