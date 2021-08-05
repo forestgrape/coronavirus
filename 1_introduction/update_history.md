@@ -15,7 +15,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment. It reduces the number of infectious virions and optimize the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
 - 23.3. Proposal of [Local Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
 
-- ### Clarifications on Comments
+- ### Clarifications on Comments and Formulations
   (25.4.21)
   For conciseness all subjective and off topic remarks are formatted as [comment](../index.md#comments). Sometimes this annotating got forgotten: E.g. in the context of Covid symptoms I mentioned transparency is important, but I also meant overall transparency - marked as comment now. 
   A section on the coronavirus page - with the content that Coronaviruses enter and leave cell preferable from the cell side pointing outwards (apical side) - was titled 'Orientation matters' for quite a long time and in the same section I had written McCray & Co instead of McCray et al. Both formulations were because of a 'cool' sound and no ambiguity or hints were intended (accordingly the section was *not* marked as subjective). I acknowledge, that ambiguity was possibly.
@@ -24,7 +24,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 
     > In my opinion, orientations in the sense of attitudes should *only* matter if important for the topic of interest (e.g. sexual orientation usually matters for dating or sport preferences for sport friends).
     
-    > For a virus infecting a cell the orientation is usually not relevant, however it is relevant for coronaviruses infecting cells in the respiratory tract.
+    > For a virus the orientation of a cell is usually not relevant, however it is relevant for coronaviruses infecting the polarized cells in the respiratory tract.
 
 - 1.4. Propelling Spikes: How coronaviruses use their spike proteins as propellors to fly around. Anytime they can move in all directions since their spikes are around the spherical virions. (special note consisting only of this two sentences).
 - 18.3. [Virion Viability Page](../2_biological/virion_viability.md) in online work (finally!).
