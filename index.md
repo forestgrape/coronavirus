@@ -1,6 +1,7 @@
 ---
 title: Home of Betacoronavirus
 home: true
+flavour: general
 ---
 
 
@@ -178,6 +179,7 @@ This section overviews the content. The [full content section](#content) lists t
 ### Social Topics
 * [Thoughts about Controlling Sars-CoV-2](7_social/controlling.md)
     Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
+* [Thoughts on Economical Systems](7_social/economics.md): How to design an economical system which enables free choice for the economic life.
 
 
 ### Data Topics
