@@ -188,6 +188,8 @@ This section overviews the content. The [full content section](#content) lists t
 ### Physical Topics
 * [Aggregation of Atoms](9_physics/aggregations_of_atoms.md). How atoms aggregate to form the different kinds of matter.
 
+### Vaccines
+* [Vaccine Safety Considerations](10_vaccines/vaccine_safety.md)
 
 ---
 
