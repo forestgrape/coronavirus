@@ -10,10 +10,6 @@
   * [Introducing the Immune System](#introducing-the-immune-system)
   * [Immune System Goals](#immune-system-goals)
   * [The Immune System from different View Points](#the-immune-system-from-different-view-points)
-* [Immune System Surveillance Methods](#immune-system-surveillance-methods)
-  * [Entry Controls](#entry-controls)
-  * [Inspect the Transport Systems](#inspect-the-transport-systems)
-  * [Supervise the Production of Enzymes](#supervise-the-production-of-enzymes)
 * [Mechanisms of the Immune System](#mechanisms-of-the-immune-system)
   * [Physical Mechanisms](#physical-mechanisms)
   * [Chemical Mechanisms](#chemical-mechanisms)
@@ -21,7 +17,17 @@
 * [Immune System Specificity](#immune-system-specificity)
   * [Protection Locations](#protection-locations)
   * [Feature Recognition](#feature-recognition)
-* [Adaption and Learning](#adaption-and-learning)
+* [Immune System Surveillance Methods](#immune-system-surveillance-methods)
+  * [Entry Controls](#entry-controls)
+  * [Inspect the Transport Systems](#inspect-the-transport-systems)
+  * [Supervise the Production of Enzymes](#supervise-the-production-of-enzymes)
+* [Immune System in Action: From Surveillance to Alarms to Learning to an Effector Response](#immune-system-in-action-from-surveillance-to-alarms-to-learning-to-an-effector-response)
+  * [Surveillance State](#surveillance-state)
+  * [Alarm State](#alarm-state)
+  * [Learning Phase](#learning-phase)
+  * [Effector Response State](#effector-response-state)
+  * [Immune Responses](#immune-responses)
+* [Inherited, Adapted and Learned Immunity](#inherited-adapted-and-learned-immunity)
   * [Innate Immune Systems](#innate-immune-systems)
   * [Acquired Immune Systems](#acquired-immune-systems)
   * [Redistribution of Immune Cells](#redistribution-of-immune-cells)
@@ -54,8 +60,8 @@ Selected topics of the immune system with a focus on the principles. The immune 
 * The life form interactions under the realm of the immune system are of the following forms:
   * The interactions are competitively and if out of balance with fitness costs.
   * Only regulations at the molecular or cellular level are considered to be part of the immune system. Trained neural network interaction are usually considered as not part of the immune system.
-    * Worms infecting mammals are fought by stomach acid and antibodies (mainly IgE), so this interaction is part of the immune system.
-    * Predator-prey are competitive interaction unless at the molecular or cellular level, they are usually not considered as part of the immune system. Micro live forms hunting often are considered immune related, e.g. cells phagocyting bacteria or viruses. Also venoms are often handled by organs of the immune system. 
+    * Worms infecting mammals are targeted by antibodies. So, even though both are multicellular organisms, the response involves a 'classical' immune response.
+    * Predator-prey are competitive interaction unless at the molecular or cellular level, they are usually not considered as part of the immune system. Micro live forms hunting often are considered immune related, e.g. cells phagocyting bacteria or viruses. Also venoms are often handled by organs of the immune system.
   
     > As often discrete classifications in biology are approximations.
   
@@ -64,13 +70,13 @@ Selected topics of the immune system with a focus on the principles. The immune 
     * If an organism is physically damaged, the immune system handles the displaced cells and initiates repair mechanisms.
 
 
-> *On Defining the Immune System:* Earlier the immune system definition was  "targeting things recognized to be unwanted", however this definition falls short since the immune system usually adapts the interactions. An often given definition is fighting pathogens or even more specific producing antibodies against pathogens. These actions are subsets of the mechanisms of the immune system as defined here.
+> *On Definitions of the Immune System:* Earlier the immune system was defined as "targeting things recognized to be unwanted". To goal was to generalize the often given definition: The immune system fights pathogens or even more specific producing antibodies against pathogens. However all these definition fall short since the immune system usually adapts and redirects the interactions and the goal is to prevent damage not to limit interactions. The latter two definitions also fall short since e.g. fighting cancer is a task of the immune system, though cancer cells are not (classical) pathogens.
 
 * The immune system gives 'immunity' to damage from interactions but usually does not prevent interactions. E.g. regarding pathogen infections the immune system reduce the pathogens just enough they don't do damage but no more or are even beneficial. There are some rare pathogens which nearly always do damage, but the vast majority of live forms interactions are only harmful in specific situations and often life forms find ways to work together for mutual benefit.
 
 * *The immune system is pragmatic and efficiency focused*:
   * the immune system usually is minimalist and does just as much to prevent harm but no more.
-  * the immune system can redirect interactions to mutual benefits. 
+  * the immune system can redirect interactions to mutual benefits.
   
   > Else life forms on todays earth would be busy fighting and couldn't spend time on cooperating and creating.
   
@@ -82,7 +88,7 @@ Selected topics of the immune system with a focus on the principles. The immune 
 ### Immune System Goals
 The goal of homeostasis is to provide optimal conditions for the core parts of a life form. The immune system viewed as part of the overall homeostasis system has the task to prevent damage resulting from life form interactions. The main focus of the immune system is the core part of a life form. Keep the helper parts working is important too since these have functions for homeostasis.
 
-> In multicellular organism the entire homeostasis including the immune system does everything to prevent damage to the core of the organism. Most animals have a hierarchical cell organization: In the case of vertebrates, the best protected cell populations are stem cells, the germ-line cells and the neurons. So the immune system protects these cell populations with a high priority.
+> In multicellular organism the entire homeostasis including the immune system does everything to prevent damage to the core of the organism. Most animals have a hierarchical cell organization. In the case of vertebrates, the best protected cell populations are within the bones: stem cells and neurons.  germ-line cells and the neurons. So the immune system protects these cell populations with a high priority.
 
 > Life is all about homeostasis. Provide a good and constant environment for the core parts of a life form to live and replicate regardless whatever the environment is. Homeostasis is a constant and ubiquitous task, also in day to day life: If there's not enough water in the blood we get thirsty, if it's too hot we sweat and if it's too cold some specialized cells warm the body.
 
@@ -97,48 +103,6 @@ Immune mechanism can be viewed from different perspectives and accordingly class
 - [Immune System Specificity](#immune-system-target-selection): Which substances are recognized and targeted. Substances that are ignored.
 - [Protection Locations](#protection-locations): Local or global. At frequent foreign substances entry points many local protection mechanism are in place.
 
-
-
-## Immune System Surveillance Methods
-
-> **in work and incomplete**
-
-
-### Entry Controls
-Against many pathogens a physical barrier is the first and most effective line of defence. Where possible this defense mechanism is in place. However where a an exchange of chemical and biological substance is needed no complete physical barrier is possible but other obstacles are in place:
-* alveoli in the lung: exchange of oxygen => the respiratory tract evolved such that most particles don't reach the alveoli, described in [Particle Dynamics in the Respiratory Tract](../5_epidemiological/transmission.md#particle-dynamics-in-the-respiratory-tract).
-* Intestine in the alimentary => To take up nutrients the intestine needs to  be permeable to chemical and biological substance and the substance also need to reach it. To reduce the amount of pathogens reaching the intestine, the acidic stomach is in front of the alkaline intestine.
-
-
-### Inspect the Transport Systems
-Both the blood and the lymph are inspected.
-* The blood has an army of circulating immune cells and humoral substances (e.g. antibodies).
-* In the lymph nodes the body wast is inspected. If there are signs of damage the causal agents are identified and termed as dangerous.
-
-
-### Supervise the Production of Enzymes
-The immune system tightly supervises the production of enzymes. Enzymes are mostly either proteins, a combinations of proteins and RNA and sometimes RNA only.
-
-#### Self Checks of Cells
-[in work]
-Self checks of the cells:
-* RNA sequence inspection and possibly silencing
-* Detect foreign RNA e.g. double stranded
-* Detect stress e.g. Ribosome permanently producing. 
-
-Upon detection of anomalies, the cells can go into an alert state, ring the bells or even induce apoptosis.
-
-#### Extern Checks of Cells
-Cells present what they produce on the outside (via MHC 1 proteins): Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
-
-#### Prevent Unwanted Metabolism
-[in work]
-Unwanted can mean:
-- cells not considered self
-- cells considered out of order
-- Specific substances associated to damage. These are often specific parts of proteins.
-  
-In some cases preventing unwanted metabolism is done by eliminating whole cells, in that case preventing unwanted metabolism yields eliminating unwanted cells. But often the immune response is more fine-grained e.g. silencing foreign RNAs.
 
 
 ## Mechanisms of the Immune System
@@ -232,8 +196,61 @@ The range of specificity is huge and not discrete, so the following categories a
  -->
 
 
+## Immune System Surveillance Methods
+> **in work and incomplete**
 
-## Adaption and Learning
+### Entry Controls
+Against many pathogens a physical barrier is the first and most effective line of defence. Where possible this defense mechanism is in place. However where a an exchange of chemical and biological substance is needed no complete physical barrier is possible but other obstacles are in place:
+* alveoli in the lung: exchange of oxygen => the respiratory tract evolved such that most particles don't reach the alveoli, described in [Particle Dynamics in the Respiratory Tract](../5_epidemiological/transmission.md#particle-dynamics-in-the-respiratory-tract).
+* Intestine in the alimentary => To take up nutrients the intestine needs to  be permeable to chemical and biological substance and the substance also need to reach it. To reduce the amount of pathogens reaching the intestine, the acidic stomach is in front of the alkaline intestine.
+
+
+### Inspect the Transport Systems
+Both the blood and the lymph are inspected.
+* The blood has an army of circulating immune cells and humoral substances (e.g. antibodies).
+* In the lymph nodes the body wast is inspected. If there are signs of damage the causal agents are identified and termed as dangerous.
+
+
+### Supervise the Production of Enzymes
+The immune system tightly supervises the production of enzymes. Enzymes are mostly either proteins, a combinations of proteins and RNA and sometimes RNA only.
+
+#### Self Checks of Cells
+[in work]
+Self checks of the cells:
+* RNA sequence inspection and possibly silencing
+* Detect foreign RNA e.g. double stranded
+* Detect stress e.g. Ribosome permanently producing. 
+
+Upon detection of anomalies, the cells can go into an alert state, ring the bells or even induce apoptosis.
+
+#### Extern Checks of Cells
+Cells present what they produce on the outside (via MHC 1 proteins): Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
+
+#### Prevent Unwanted Metabolism
+[in work]
+Unwanted can mean:
+- cells not considered self
+- cells considered out of order
+- Specific substances associated to damage. These are often specific parts of proteins.
+  
+In some cases preventing unwanted metabolism is done by eliminating whole cells, in that case preventing unwanted metabolism yields eliminating unwanted cells. But often the immune response is more fine-grained e.g. silencing foreign RNAs.
+
+
+## Immune System in Action: From Surveillance to Alarms to Learning to an Effector Response
+> in work 5.8.
+### Surveillance State
+Any of the [surveillance methods](#immune-system-surveillance-methods) can ring the bells or directly initiate an effector immune response.
+### Alarm State
+### Learning Phase
+### Effector Response State
+
+### Immune Responses
+The surveillance part can ring the bells once if strange or dangerous things happen. 
+
+
+
+
+## Inherited, Adapted and Learned Immunity
 
 The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
 * lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#acquired-immunity))
@@ -245,7 +262,7 @@ The entire immune system adapts the way and strength of protection provided at e
 ###### Innate Immunity
 > The innate immunity are mechanisms that have constant recognition patterns throughout lifetime.
 
-Since targets stay constant, the information is stored in [lifetime storage](../2_biological/life-forms.md#lifetime-storage)).
+Since targets stay constant, the information is stored in [lifetime storage](../2_biological/life-forms.md#lifetime-storage)) and is inherited.
 
 
 ### Acquired Immune Systems
