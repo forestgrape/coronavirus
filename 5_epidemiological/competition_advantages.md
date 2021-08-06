@@ -21,7 +21,7 @@ Since early in the SARS-2 pandemics new variants are observed. Sometimes new var
 
 #### Hypotheses 1
 * *Model: Immune Evasion even at low Seroprevalence yields a Competition Advantage*: The Covid spread is highly uneven, in the sense that some individuals have many secondary cases while most individuals have no secondary cases. Thus the distribution of the individual R values is skewed: Many individuals have low R values, while a few have high R values. If a Covid variant now is able to reinfect and spread through people with high R values, it has a competition advantage.
-* *Biological Mechanisms:* * Immune escapes can arise through points mutations in antigen epitopes.
+* *Biological Mechanisms:* One way immune escapes arise is through points mutations in antigen epitopes.
 
 
 #### Hypothesis 2
@@ -61,7 +61,8 @@ The Covid transmission [distribution is skewed](#skewed-spreader-distribution). 
 Epidemiological and experimental observations show that: A few percent of people infect many others while most infected have no secondary cases as described in the [Transmission Distribution](./spread_analyses.md#transmission-distribution) on the spread analyses page.
 
 ### Biological Mechanism: How Mutations directly effect Immune Evasion
-Non synonymous mutations by definition alter the protein sequence. An altered protein sequence within antibody or T cell epitopes can weaken or break the bindings and which in turn weakens or breaks the associated immune response. 
+Coronaviruses have evolved to escape immune responses and have a variety of mechanisms to evade immune response ([Immune Evasion](../4_immunological/immune_evasion.md)). 
+One way is to avoid protein based recognition via non synonymous mutations. By definition non synonymous mutations alter the protein sequence. An altered protein sequence within antibody or T cell epitopes can weaken or break the bindings and which in turn weakens or breaks the associated immune response. 
 
 > Remark: One sort of immune escape mutations are escapes from neutralizing antibodies. Neutralizing antibody escapes are the easiest to discover since infectious virions or pseudo-virions assays can be used. Escapes from neutralizing antibodies are frequently observed in the S1 domain of the spike protein. The immune escape is not necessarily an escape from neutralizing antibodies but can also result from other immune evasion mechanisms e.g. from T cell epitopes or non-neutralizing antibody epitopes. 
 
