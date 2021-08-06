@@ -27,7 +27,7 @@ This section overviews the content. The [full content section](#content) lists t
 3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
 4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
 5. [Epidemiological Topics](#epidemiological-topics): Where and when coronaviruses spread and how they spread (transmission paths).
-6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A reliable prevention with positive 'side-effects' is a healthy lifestyle.
+6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention with positive 'side-effects' is a healthy lifestyle. For young and healthy people this is a reliable and the recommended prevention from severe Covid infections.
 7. [Social Topics](#social-topics). Thoughts about measures to reduce the spread.
 8. [Data Topics](#data-topics).
 9. [Topics in Physics](#physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
