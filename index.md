@@ -6,7 +6,8 @@ home: true
 
 # Understanding Betacoronaviruses and their Diseases
 
-This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses tagged as 'explorative'. 
+This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses (tagged as 'explorative').
+
 * [Bird View of Content](#bird-view-of-content): Gives a short overview of the different topics.
 * [Updates](#updates): Lists the most recent topics added and changes of content:
   * [Recent Topics Added](#recent-topics-added)
@@ -29,6 +30,7 @@ This section overviews the content. The [full content section](#content) lists t
 7. [Social Topics](#social-topics). Thoughts about measures to reduce the spread.
 8. [Data Topics](#data-topics).
 9. [Topics in Physics](#physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
+10. [Vaccines](#vaccines): Safety considerations.
 
 ---
 
