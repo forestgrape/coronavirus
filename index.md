@@ -47,7 +47,8 @@ This section overviews the content. The [full content section](#content) lists t
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
-- 4.8.: [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md): Clarifications and added examples of faster (alpha, delta)/immune evasion variants (beta, delta).
+- 6.8.: [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md): Clarifications and added examples of faster (alpha, delta)/immune evasion variants (beta, delta).
+- 6.8.: Various updates across the page
 - 26.7.: [Section Transmission Distribution](./5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](./5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
 - 26.7.: [Vaccine Safety](10_vaccines/vaccine_safety.md) chapter updated, clarified and extended.
 - 26.7.: Formulations and clarifications across the page e.g. the sections [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md), [Monitoring](8_data/monitoring.md) and [Immune Evasion](../coronavirus/4_immunological/immune_evasion.md)
