@@ -1,6 +1,6 @@
 
-# Suggestions and Tips
-General notes on virus diseases and the transmission of coronaviruses. Suggestions how to handle Covid waves and times.
+# Public Suggestions and Tips
+Notes on Covid as a virus diseases. How Covid is transmitted and how to prevent it. Suggestions on how to handle Covid waves and times.
 
 * [Covid-19 and Virus Infections](#covid-19-and-virus-infections)
 * [Sars-CoV-2 Transmission](#sars-cov-2-transmission)
@@ -11,6 +11,7 @@ General notes on virus diseases and the transmission of coronaviruses. Suggestio
 * [Live Healthily](#live-healthily)
 
 > written at the peak of the first Covid wave in Europe, actualized in Autumn 2020 and Spring 2021
+
 
 ## Covid-19 and Virus Infections
 For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with moderate and situation adapted [movement](../6_prevention_and_treatment/movement.md). A healthy lifestyle helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
@@ -83,7 +84,6 @@ In brief: Think aerosol transmission as smoke like. To reduce the infection poss
     But do NOT rely on hygiene alone, since the majority of severe Covid [transmissions occur through air](../5_epidemiological/transmission.md).
 
 
-
 ## Observing - helps to Detect Infections
 Notify the well being and possible disease symptoms. Writing down and measuring support diagnosis.
 The more common Covid-19 in a region is, the more likely it is, that an observed infection is Covid-19 and not flu/common cold. 
@@ -139,7 +139,7 @@ Controlling SARS-CoV-2 is an individual, a local and global task. The better eve
 A good immune system goes hand in hand with a healthy lifestyle.
 * Sleep enough, eat healthily, relax and do some sport. 
 
-and avoid anything that weakens the immune system:
+and avoid weakening the immune system:
 * Avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
 * avoid being cold or even freezing for a longer period. For this reason, in cold climates, windows shouldn't be kept open permanently. 
 * avoid immunosuppressants unless necessary for medical reasons. Immunosuppressants are not a major risk factor for Covid though so no reason to be afraid if they are necessary for medical reasons. 
