@@ -1,6 +1,6 @@
 
 
-# On the Immune System
+# A Conceptual View of Immunology
 
 > **Major rework in progress, June/August 2021**
 
@@ -15,21 +15,21 @@
   * [Chemical Mechanisms](#chemical-mechanisms)
   * [Biological Mechanisms](#biological-mechanisms)
 * [Immune System Specificity](#immune-system-specificity)
-  * [Protection Locations](#protection-locations)
-  * [Feature Recognition](#feature-recognition)
+  * [Specificity by Locations](#specificity-by-locations)
+  * [Specificity by Feature Recognition](#specificity-by-feature-recognition)
 * [Immune System Surveillance Methods](#immune-system-surveillance-methods)
   * [Entry Controls](#entry-controls)
   * [Inspect the Transport Systems](#inspect-the-transport-systems)
-  * [Supervise the Production of Enzymes](#supervise-the-production-of-enzymes)
+  * [Supervise the Production](#supervise-the-production)
 * [Immune System in Action: From Surveillance to Alarms to Learning to an Effector Response](#immune-system-in-action-from-surveillance-to-alarms-to-learning-to-an-effector-response)
   * [Surveillance State](#surveillance-state)
   * [Alarm State](#alarm-state)
   * [Learning Phase](#learning-phase)
   * [Effector Response State](#effector-response-state)
   * [Immune Responses](#immune-responses)
-* [Inherited, Adapted and Learned Immunity](#inherited-adapted-and-learned-immunity)
-  * [Innate Immune Systems](#innate-immune-systems)
-  * [Acquired Immune Systems](#acquired-immune-systems)
+* [Variability of the Immune System](#variability-of-the-immune-system)
+  * [Innate Immune System](#innate-immune-system)
+  * [Acquired Immune System](#acquired-immune-system)
   * [Redistribution of Immune Cells](#redistribution-of-immune-cells)
 * [Immune System Members](#immune-system-members)
   * [T Cells](#t-cells)
@@ -133,52 +133,74 @@ Unlike chemical and physical mechanisms, biological mechanism can specifically r
 
 ## Immune System Specificity
 
-To specify the targets the locality and feature recognition are used:
-* Target by Locations
-  * Stomach acid in the stomach.
-  * The respiratory tract has evolved to block most particles except small molecules (02, CO2, H2O) from reaching/leaving the lungs.
-* Target by Feature Recognition. 
+To some extent all parts of the immune system are specific:
+* wanted things: Healthy self cells in healthy tissues shouldn't be attacked by the immune system since this would disrupt the homeostasis.
+* possible dangers: things learned or associated to disruption of the homeostasis e.g. pathogens doing damage.
+
+To specify the targets the location, feature recognition and mostly a combination of location and features are used:
+* Specificity by Locations
+  * Most life forms have an outer shell (e.g. skin, fur, chitin) to mechanically shield large of their bodies.
+  * Most life forms have different shells. Examples
+    * In vertebrate the bone marrow and the brain are shielded by bones.
+    * In eukaryotes the DNA is within a nucleus inside the cells. 
+  * The sites of frequent interaction with outside are especially well supervised by the immune system.
+    * Stomach acid in the stomach.
+    * Mucus layer, particle filtering and strong immune cells in the respiratory tract.
+  
+  
+* Specificity by Feature Recognition
+  * Antibodies target very specific molecule structures
+  * RNAi silences RNAs with a specific sequence
+
+* Specificity by Feature Recognition and Location. 
+  * Filter by Size: The respiratory tract has evolved to block most particles except small molecules (02, CO2, H2O) from reaching/leaving the lungs.  
+  * Sites where the immune surveillance sounds an alarm (e.g. pathogen entry is detected) are put into an alert state by inflammation. At these sites the immune system acts much more aggressive.
 
 
-### Protection Locations
+### Specificity by Locations
 Immune responses can be global (affecting the entire body), local for some tissue or even inside single cells:
 * entire body (e.g. fever, circulating antibodies or the skin)
 * tissue specific (e.g. local inflammation, Tissue resident cells e.g. T cells)
 * cell intern (intra cellular processes). The oldest form of protection that developed already in prokaryotes.
 
+### Specificity by Feature Recognition
 
-### Feature Recognition
-
-#### Feature Recognition Specificity
 The range of specificity is huge and not discrete, so the following categories are just a coarse approximation.
 
-* #### Unspecific
-  Examples  
-  - skin: keep everything out
-  - some immune cells such as neutrophil granulocytes: local shutdown of all living things
-  - stomach acid
+#### No or very Broad Recognition
+Mechanisms relying mostly and the location often lack a fine grained feature recognition. Examples:
+- skin: keep everything out
+- some immune cells such as neutrophil granulocytes can induce a local shutdown of all living things
+- stomach acid
 
-* #### Semi Specific
-  Examples
-  - Receptors from double stranded DNA based lifeforms targeting single stranded DNA
-  - Membranes (e.g. Cell membranes, nucleus membrane, blood brain barrier): only permeable for specific substances
+#### Semi Specific Recognition
+Examples
+- Receptors from double stranded DNA based lifeforms targeting single stranded DNA
+- Semipermeable-Membranes (e.g. Cell membranes, nucleus membrane, blood brain barrier): only permeable for specific substances
 
-* #### Highly Specific  
-  Examples
-  * RNA pieces silencing other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
-  * Antibodies target specific biological substances (mostly proteins). Antibodies are an example of the[Trained Immune System](#trained-immune-system). 
+#### Highly Specific Recognition
+These mechanism target usually exactly one molecular structure. The recognition is so specific that often only a single species or even individual of a species is targeted.
+
+Examples:
+* RNA pieces silencing other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
+* Antibodies target specific biological substances (mostly proteins). Antibodies are an example of the[Lifetime Acquired Immune System](#acquired-immune-systems). 
 
 
 
 #### Feature Recognition Mechanisms
 
 ##### Detecting Protein Structures
-> ###### Antigen
- Particles classified as unwanted to which the immune system is able  particles they bind are called *antigens*.
+
 
 > ###### Antibody
-> The elements by which the immune system can bind to antigens are called *antibodies*.
+> *Antibodies* are molecules produced by the immune system (by plasma cells = activated B cells) which bind to specific substances are called antibodies.
 
+> Mostly antibody target foreign things e.g. worms. Likely this inspired the name anti-(foreign)-bodies.
+
+> ###### Antigen
+> Particles for which the immune system can produce antibodies are called *antigens*.
+
+> Most antigens are foreign substances. Antigens first were observed against such foreign substances, this may have inspired the name: Not belonging to the gene pool of the life form.
 
 #### Feature Recognition Policy
 * Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else.
@@ -211,7 +233,7 @@ Both the blood and the lymph are inspected.
 * In the lymph nodes the body wast is inspected. If there are signs of damage the causal agents are identified and termed as dangerous.
 
 
-### Supervise the Production of Enzymes
+### Supervise the Production
 The immune system tightly supervises the production of enzymes. Enzymes are mostly either proteins, a combinations of proteins and RNA and sometimes RNA only.
 
 #### Self Checks of Cells
@@ -226,14 +248,6 @@ Upon detection of anomalies, the cells can go into an alert state, ring the bell
 #### Extern Checks of Cells
 Cells present what they produce on the outside (via MHC 1 proteins): Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
 
-#### Prevent Unwanted Metabolism
-[in work]
-Unwanted can mean:
-- cells not considered self
-- cells considered out of order
-- Specific substances associated to damage. These are often specific parts of proteins.
-  
-In some cases preventing unwanted metabolism is done by eliminating whole cells, in that case preventing unwanted metabolism yields eliminating unwanted cells. But often the immune response is more fine-grained e.g. silencing foreign RNAs.
 
 
 ## Immune System in Action: From Surveillance to Alarms to Learning to an Effector Response
@@ -249,15 +263,24 @@ The surveillance part can ring the bells once if strange or dangerous things hap
 
 
 
+## Variability of the Immune System
 
-## Inherited, Adapted and Learned Immunity
+The entire immune system varies both during lifetime and from generation to generation:
+1. the way and strength of protection provided at each location in the body.
+2. the mechanisms targets are handled
+3. the targets recognized and handled.
 
-The entire immune system adapts the way and strength of protection provided at each location in the body. The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
+(1.) and (2.) don't involve a change of the targets throughout the lifetime. The part of the immune system which vary only through 1. and 2. are called [innate immunity](#innate-immune-system), since the target capabilities are present upon birth. The parts of the immunity which can acquire new target capabilities upon encounter with new things are called [acquired immunity](#acquired-immunity).
+
+
+#### Factors Influencing Changes
+The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
 * lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#acquired-immunity))
 * generational adaption: personal and ancestral exposures are memorized and cause both the innate and acquired immune system to adapt
 
 
-### Innate Immune Systems
+
+### Innate Immune System
 
 ###### Innate Immunity
 > The innate immunity are mechanisms that have constant recognition patterns throughout lifetime.
@@ -265,18 +288,16 @@ The entire immune system adapts the way and strength of protection provided at e
 Since targets stay constant, the information is stored in [lifetime storage](../2_biological/life-forms.md#lifetime-storage)) and is inherited.
 
 
-### Acquired Immune Systems
+### Acquired Immune System
 
-The life spans of life forms and the evolutionary rate of the germ lines of life forms vary. Life forms evolving slow at the molecular level need to handle interactions with life forms evolving much faster at the molecular level. To achieve this most 'slow evolving' life forms have mechanisms to learn to handle new molecular patterns during lifetime.
+The life spans of life forms and the evolutionary rate of life forms vary. Life forms evolving slow at the molecular level need to handle interactions with life forms evolving much faster at the molecular level e.g. viruses infecting mammals evolve magnitudes of orders faster than the mammalian hosts. To keep up with fast evolving pathogens, most 'slow evolving' life forms have mechanisms to learn to handle new molecular patterns during lifetime.
 
 ##### Acquired Immunity
 > Mechanisms of the immune system which are able to acquire new skills upon encounters with pathogenic life forms or substances. This acquiring of of new skills is done during the lifetime.
 
-* The immune system is able to learn new molecular targets from encounters with new targets. 
-
 #### Recognize Proteins
-* Antibodies: bind to specific proteins and thereby inactivate or mark them.
-* Trained T cells ([T cell Training](#t-cell-training))
+* Some cells (called plasma cells = activated B cells) can produce antibodies. Antibodies bind to specific substances (called antigens) and thereby inactivate or mark them.
+* Trained T cells ([T cell Training](#t-cell-training)) can inspect which proteins cells produce since all protein producing cells present  fragments of the proteins translated (the cell surface receptor MHC 1).
 
 ###### Allergy
 Sometimes proteins parts not associated to pathogens are classified as being harmful. This yields allergies. 
