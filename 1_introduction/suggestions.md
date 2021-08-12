@@ -10,17 +10,17 @@ Notes on Covid as a virus diseases. How Covid is transmitted and how to prevent 
 * [Respect and Take Care](#respect-and-take-care)
 * [Live Healthily](#live-healthily)
 
-> written at the peak of the first Covid wave in Europe, actualized in Autumn 2020 and Spring 2021
-
 
 ## Covid-19 and Virus Infections
-For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with moderate and situation adapted [movement](../6_prevention_and_treatment/movement.md). A healthy lifestyle helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
+For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with moderate and situation adapted [movement](../6_prevention_and_treatment/movement.md). A healthy lifestyle reliably helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
 
-*Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Many viruses live temporarily or reside permanently in our body - all together forming the virome of our body. Viruses can be harmful, but mostly the immune system handles them and they even can support us evolving.
+*Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Many viruses live temporarily or permanently in our body and form the our virome and some literally became part of our DNA. Viruses can be harmful, but mostly the immune system controls and if necessary limits the virus interactions. Viruses helped us evolving and still can do so.
 
 > Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can contributing to decisions. 
 
-> Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page.
+> Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page. 
+
+> The page started in March 2020. Content has been added, updated and corrected since. Though statements such as the note below are timeless. 
  
 Time to act mindfully, carefully and circumspectly & work together in an open, fair and honest way. 
 
@@ -36,11 +36,11 @@ Covid transmission paths and prevention:
     - Side-a-side instead of face-to-face
     - Plexiglas
 * __Aerosols Transmission__: Aerosols behave soot/dust-like. Aerosol transmission occurs mainly in heated indoor rooms: the cooler outdoors, the drier in heated indoor rooms and the likelier aerosol transmission. Aerosol transmission is hard to completely prevent, but it can be efficiently reduced:
-    - being outdoors, ventilation, distance and less people inside 
-    - masks, preferably with a good fit and [filter](../6_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently
+    - being outdoors and when indoors: ventilation, distance and less people
+    - masks, preferably with a good fit and [filter](../6_prevention_and_treatment/masks.md#mask-types) and changed/cleaned frequently.
     - if possibly infected (e.g. having any kind of respiratory symptoms) staying home and *out* of foreign indoor rooms 
 
-    To think of aerosol transmission as smoke, makes it easier to detect and avoid situations with aerosol transmission: Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. A neighbors candle won't be smelled through doors, but in a place with an indoor barbecue, smoke is smelled in the stairways. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. Also it is important to ventilate regularly especially before opening doors.
+    The smoke-model makes it easier to detect and avoid situations with aerosol transmission: Just smelling smoke is the theoretical possibility of infection. Being that exposed to smoke that the cloth start smelling, likely corresponds to a probability of a few percentages to get infected. A neighbors candle won't be smelled through doors, but in a place with an indoor barbecue, smoke is smelled in the stairways. For Covid-19 this means: A single neighbor being infected is no risk, but in place with possibly many infected people e.g. a hospital treating Covid-19 patients, wearing a mask in _all_ rooms is important. Also it is important to ventilate regularly especially before opening doors.
 
 A more in depth description is in the section [Airborne Transmission](../5_epidemiological/transmission.md#overview-airborne-transmission)
 
