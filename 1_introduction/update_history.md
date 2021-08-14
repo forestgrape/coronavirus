@@ -112,7 +112,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 23.3. Clarified summary for [Virion Viability](2_biological/virion_viability.md). [A table with compiled data](../2_biological/virion_viability/viability_data.md) from viability experiments is online.  
 - 22.3. [Spread Assumptions section](../7_social/controlling.md#spread-assumptions) on the [controlling page](../7_social/controlling.md) added. Formulations across the page.
 - 17.2. [Masks](../6_prevention_and_treatment/masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](../6_prevention_and_treatment/masks.md#personal-mask-preferences)
-- 11.2. Corrected mistakes (T Cell Training) on the [Immune System page](../4_immunological/immune_system.md) and added/completed section how SARS-2 overcomes antibodies.
+- 11.2. Corrected mistakes (T Cell Training) on the [Immune System page](../4_immunological/concepts_of_immunology.md) and added/completed section how SARS-2 overcomes antibodies.
 - 2.2. Many small updates and clarifications across the page. E.g. added the importance of ventilation of stairwells in [large buildings](../7_social/controlling.md#large-buildings) on the Controlling page.
 - 17.1. Respelled Salvia to Saliva. 
 - 22.12. [Covid-19](../3_medical/covid19.md) redone. New sections about Diagnosis and Viral Load in online work - ~~salvia~~ saliva has a similar sensitivity as nose samples.

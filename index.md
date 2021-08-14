@@ -56,7 +56,7 @@ This section overviews the content. The [full content section](#content) lists t
 - 26.7.: [Vaccine Safety](10_vaccines/vaccine_safety.md) chapter updated, clarified and extended.
 - 26.7.: Formulations and clarifications across the page e.g. the sections [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md), [Monitoring](8_data/monitoring.md) and [Immune Evasion](../coronavirus/4_immunological/immune_evasion.md)
 - 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
-- 21.6.: Redefined [Immune System](4_immunological/immune_system.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
+- 21.6.: Redefined [Immune System](4_immunological/concepts_of_immunology.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
 * [-> Full Update History](./1_introduction/update_history.md)
 
 
@@ -151,7 +151,7 @@ This section overviews the content. The [full content section](#content) lists t
 
 
 ### Immunological Topics
-* [Immune System](4_immunological/immune_system.md)
+* [A conceptual View of Immunology](4_immunological/concepts_of_immunology.md)
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 * [Immune Evasion](4_immunological/immune_evasion.md) How coronaviruses circumvent immune system obstacles.
 

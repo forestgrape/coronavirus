@@ -52,7 +52,7 @@ There are many different causes of diseases:
   * inside cells
     * some bacteria
     * all viruses
-* immune disease in which the immune system overreacts to substances without need (notes on the immune system in the [Immune System chapter](../4_immunological/immune_system.md))
+* immune disease in which the immune system overreacts to substances without need (notes on the immune system in the [Immune System chapter](../4_immunological/concepts_of_immunology.md))
 
 Virus diseases are cause by virus infections:
 
@@ -128,7 +128,7 @@ Different topics related to the infection locations are described in the section
 ### Causes of Symptoms
 The symptoms of a [virus disease](#virus-disease) are caused:
 1. Direct symptoms through cell damage. Only in severe cases. 
-2. Indirect symptoms through the induced immune response([Sketching of the Immune System](../4_immunological/immune_system.md).
+2. Indirect symptoms through the induced immune response([Sketching of the Immune System](../4_immunological/concepts_of_immunology.md).
 
 ### Symptoms at different Locations
 > A similar section is in the chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md), a merge is planned.

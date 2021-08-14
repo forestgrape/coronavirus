@@ -349,7 +349,7 @@ For many questions, organisms are considered as a whole and not the single cells
 
 
 #### Mechanism to Control Interactions
-Most life forms have have some mechanisms to keep their metabolism balance and control their environment interactions. These mechanisms form the [balance and control system](../4_immunological/immune_system.md). One part of the balance system is the immune system. 
+Most life forms have have some mechanisms to keep their metabolism balance and control their environment interactions. These mechanisms form the [balance and control system](../4_immunological/concepts_of_immunology.md). One part of the balance system is the immune system. 
 
 A simple and effective way to control environment interactions, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
 

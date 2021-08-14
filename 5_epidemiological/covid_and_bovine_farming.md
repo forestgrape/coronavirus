@@ -109,7 +109,7 @@ Examples of a successful jump from BCoV between humans and bovine:
 ## Mechanisms of Crossprotection
 
 ### Current Guesses
-[Local T cells](../4_immunological/immune_system.md#local-t-cell) distributed through the respiratory tract recognize viral infections and induce cell death to prevent viral replication [argumentation 22.10. on todo-list]. 
+[Local T cells](../4_immunological/concepts_of_immunology.md#local-t-cell) distributed through the respiratory tract recognize viral infections and induce cell death to prevent viral replication [argumentation 22.10. on todo-list]. 
 * recognizing conserved parts the spikes or the N protein
 * T cells recognizing more general anomalies of virus infected cells [in work]
 
