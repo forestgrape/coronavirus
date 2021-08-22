@@ -253,35 +253,59 @@ For regions across the world the following is analysed:
 
 #### Transmissions in the UK
 ##### Summer 2020
-Overall quite low case numbers, though the numbers are higher in the Northern regions than in the warmer Southern regions (citation in work, noted in [Hall et al](#summary-hall)]). In parallel the secondary attack rate in households is higher in the Northern parts as observed by ([Hall et al](#summary-hall)). The higher secondary attack rate indicates a higher (transmission rate which would explain the higher case rates .
+Overall quite low case numbers, though the numbers are higher in the Northern regions than in the warmer Southern regions (citation in work, e.g. visible in [Hall et al](#summary-hall)]). In parallel the secondary attack rate in households is higher in the Northern parts as observed by ([Hall et al](#summary-hall)). The higher secondary attack rate indicates a higher (transmission rate which would explain the higher case rates .
 ##### Autumn 2020
-##### December 2020 - January 2021
-##### February - May 2021
+##### November 2020 - Mid January 2021
+* *Situation and Measures:* Relaxing of measures in indoor rooms provided spread opportunities from November to December. 
+* *Observations:* The fast spreading alpha variant took advantage which resulted in a large and steep Covid wave.
+##### Mid January - May 2021
+* Observations: Steep decrease in cases numbers.
+* Measures: A lockdown including measures to prevent spread in indoor rooms.
+* *Possible Causes*: 
+  * A large share of the carrier groups immunized by natural infection.
+  * The alpha variant seems to infect faster and causes steeper waves ([Hypotheses on Competition Advantages](../5_epidemiological/competition_advantages.md)).
+  * Measures to prevent spread in indoor rooms.
+##### June - August 2021
+* *Situation and Measures:* 
+  * Relaxed of measures: Indoor rooms mostly open including nightlife.
+  * Football EM: Crowded public viewing, fully open stadiums (the transmissions are likely to happen during travel, local transport and in the stairwells).
+  * Delta variant: which not only infects faster but also circumvents acquired immunity (especially if acquired trough the prevalent vaccines) by infecting faster, escaping some antibody epitopes and increased cell cell fusion.
+* *Observations:* 
+  * Peaky wave starting in the North of England. 
+  * Low death counts likely due to a high immunization of risk groups due to vaccination and natural infections.
+
 
 ### Transmissions in the USA
+
 #### Spring 2020
 * Measures: Strict measures in many areas
 * Observations: High number of severe cases in densely populated areas, mainly large urban centers in the North (e.g. New York).
 
-#### Summer 2020
+#### US Summer 2020
 * Observations: Moderate to high number of severe cases in the urban centres of the Sun Belt.
+* Possible Causes: Widespread use of air-conditioning results in dry indoor air which is ventilated around indoors.
 
-#### Autumn and Winter 2020
+#### US Autumn and Winter 2020
 * Observations: 
   * High number of severe cases starting where the winter comes first: Central North and at high altitude (Colorado).
   * Early to Mid Winter 2020/2021: High case numbers in many states (less severe cases where the winter is warmer)
   * Mid to Late Winter 2021: Cases start decreasing. 
 * Possible Causes: The decline starting early January 2021 is likely due a combination of factors such as 1) some built up immunity 2) awareness and caution of the population and the government after peaks around thanksgiving but no overly strict measures such as general curfews and 3) shifting the [protection focus to aerosol transmission](../7_social/controlling.md) (outdoor gastronomy and shopping was often allowed e.g. in New York) => people are and meet outdoors. Additionally the measures were adapted to the local situations.
   
-
-#### Spring 2020
+#### US Spring 2020
 * Measures:
   * Non pharmaceutical interventions lessened in many states. 
   * A large vaccination program.
+* Observations: Decrease in case counts
 * Possible Causes: A key reason for low cases are likely the warming temperatures, especially in the Southern states. The vaccination program is excepted to reduce the number of severe cases [to check if fatality rate lowered]. 
+
+#### US Summer 2021
+* Observations: Cases steeply increase. The case increase is more pronounced in the Sun Belt states similarly to the spread patterns in [summer 2020](#us-summer-2020).
+
 
 
 ### Transmissions in Africa
+
 #### Summarized Observations in Tropical Africa
 * *High Prevalence* In urban settings where living conditions are dense, very high spread rates were/are observed: 
   * up to 70% of the population seropositive
@@ -624,7 +648,7 @@ The heat map (Figure 3 in the paper) shows the secondary cases by age of the ind
 
 ![Heat map of secondary cases by age](images/hall_transmission_by_age.jpg)
 
-* _Few Spread:_ People younger than 30 year but older than 4 have few secondary cases (left third of the image).
+* _Few Spread:_ People younger than 30 year but older than 4 have few secondary cases (left third of the image except left most column).
 * _Much Spread:_ 
   * For index cases above 40 years the transmissions are high. The transmission rates peak at an age of about 65 years.
   * Very young children 0 to 4 of age transmit Covid well and mainly to their parents and their grand parents (left most column).
