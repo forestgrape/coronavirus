@@ -5,7 +5,7 @@ Thoughts on Controlling the Spread of Sars-CoV-2
 
 > This chapter extends and [Public Advices and Suggestions](../1_introduction/suggestions.md) chapter. 
 
-* [Spread Assumptions](#spread-assumptions)
+* [Spread Assumptions](transmission-summary-for-measures)
   * [Indoors](#indoors)
   * [Outdoors](#outdoors)
   * [Seasonality](#seasonality)
@@ -44,19 +44,19 @@ Thoughts on Controlling the Spread of Sars-CoV-2
 
 
 
-## Spread Assumptions
+## Summarized Transmission to Design Measures
 The design of measures relies on transmission models. The dangerous transmission of Sars-CoV-2 is [airborne](../5_epidemiological/transmission.md#recap-airborne-transmission) in dry air. A metaphor is to think of the transmission as smoke-like and those heavily infected release a lot of smokes.
 
-### Indoors
+### Indoor Transmission
 *Observations:* The [spread pattern](../5_epidemiological/spread_analyses.md) shows that the cases of severe SARS-2 lung infections are high when a lot of dry air is exchanged between people which is the case in badly ventilated indoor rooms either heated (cold climates e.g. winters in Europe) or air-conditioned (very warm/sultry climates e.g. observed in Southern US in summer or regions of Brazil year round).
 
 *Explanations:* In the air circulates around one breaths each others air. When heating, air-conditioning or the outdoor air is dry, the indoor air is dry. In dry air, tiny aerosol form. Tiny and dry particulates are most likely to be deposited in the deep lungs (chapter [Airborne Transmission](../5_epidemiological/transmission.md)). The [viability of coronaviruses](../2_biological/virion_viability.md) is also highest in dry particulates.
 
-### Outdoors
+### Outdoor Transmission
 *Observations:* On the other hand outdoors during the day, even in many crowded settings around the world (sometimes with masks, sometimes without), no increased spread has been observed (->[Spread Analyses](../5_epidemiological/spread_analyses.md)).
 *Explanations:* Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoors-is-safer)). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md).
 
-### Seasonality
+### Seasonality of Transmission
 The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coronaviruses (in fact most respiratory viruses) makes the spread seasonal: Spread in the winter in moderate and northern climate regions. Spread in the summer in hot & humid regions when air-conditioning is used. In moderate climate zones, prevention measures (doing Sauna, pay attention to ventilation, vaccinate risk groups) are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken. 
 
 > I don't except strict measures to be necessary (-> [Looking Ahead](../7_social/controlling.md#looking-ahead)).
@@ -70,7 +70,8 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 
 ### Differences between Individuals
 * Some people are super-spreaders while many people don't spread Covid. 
-* Children get less infected and are less infectious. No super spreading events have been linked to children (to my knowledge).
+* Children get less infected and are less infectious. No super spreading events have been linked to children.
+* Vaccination does not prevent transmission once infected. While the current in use vaccines which are all administrated intramuscularly provide a good protection against severe Covid, these vaccines do *not* reliably reduce infection (likely not at all against the strains prevalent in Mid 2021).
 * Symptomatic and severely sick patients are more infectious (The section [Infectors and Symptom Status](../5_epidemiological/spread_analyses.md#infectors-and-symptom-status) on the page [Spread Patterns](../5_epidemiological/spread_analyses.md)).
 
   > => (Encouraging) Transparency is helpful and important.
@@ -81,8 +82,34 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 * Appropriate spread precaution measures and good treatment is important for people with severe Covid.
 
   > The stringency of measures needed is discussed in the section [Balancing of measures](#balancing-of-measures).
-  > There's a helpful [aerosol FAQ](../1_introduction/illustrative_literature.md#aerosol-faq) from advisors in the US which I came across when reading the references of a [CO2 sensor usage recommendation](../7_social/controlling.md#stocker) from the Swiss Covid taskforce, which is a worthy read in itself.
+  > There's a helpful [aerosol FAQ](../1_introduction/illustrative_literature.md#aerosol-faq) from advisors in the US.
 
+## Summary Measure Recommendation
+Here a short summary of recommended and not recommended measures to reduce the Covid spread is given. 
+
+> The recommendations are partly subjective, even though adequate measures to reduce Covid transmissions can be obtained by statistical analyses weighting the society costs is subjective.
+
+### Year Round Measures
+To prevent high rates of hospitalizations, some base measures are adequate in risk regions.
+* Nightlife e.g. an early closure at 2 AM.
+* Reducing Superspreading by capacity limits for large scale settings: These include large stadium, large shopping malls.
+* Slowing down transmission associated with inter continental travelling: For intercontinental airplane travelling one Covid test one or two days ahead of travel and one Covid test one or two days after arrival.
+  > It is crucial that 
+  * the test are done by everybody including those vaccinate else the spread of variants circumventing vaccination is promoted.
+  * Men in their 40 to 70 can be especially infectious, therefore it is important that there is no exception for business travelers.
+
+### Summer Measures
+* [Ventilation](#ventilation) maxed: Either keep the windows open or put the built in ventilation to max level. 
+  > CO2 sensors or the like are good for winter when ventilation can not be maxed.
+* No Air-Conditioning: Air conditioning dries the air which increases transmission.
+
+### Winter Measures
+> in work
+
+* Appropriate [ventilation](#ventilation) either by a well adjusted and designed mechanical ventilation system or by opening the windows each hour.
+* Humidification of indoor air in sensible settings:
+  * Prevents that aerosol dry out (dried virions stay longer in the air, have a better survival and infect more severely)
+  * The immune mechanisms in the respiratory tract (e.g. mucus clearance) work better if the air is not very dry.
 
 ## Mindset and Strategy to Tackle Covid 
 > Mind set followed here to tackle SARS-CoV-2:
@@ -121,13 +148,13 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 
 The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#from-numbers-to-measures) for all infection rates on the [Monitoring Page](../8_data/monitoring.md))
 
-CD/M/day | Stringency
+C-Deaths/Million/day | Stringency
 --|--
 ~.5   | if less or not increasing: loose rules, self responsibility
 ~1    | if greater and increasing: Prefer outdoors to indoors, **monitoring** needed. 
 ~2.5  | worrisome if greater and case count increases => tighten the rules, infection risk is increased due to many infected.
 
-C-D/M/day = number of Covid-19 deaths per million inhabitants per day.
+C-Deaths/Million/day = number of Covid-19 deaths per million inhabitants per day.
 
 ### On Balancing of Measures
 > written in May to July 2020, updates to be done
@@ -156,8 +183,6 @@ Mild measures (but no closures) such as ventilation and masks in sensible indoor
 If the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people: Only very few other measures will be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
 
 > Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
-
-
 
 
 
@@ -281,8 +306,6 @@ Often turning up for test is not associated with any benefits, on the contrary i
     > A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms. 
 
 
-
-
 ### Outdoor Days
 Avoiding foreign and public indoor rooms. Prevents aerosol transmission if care is taken in essential [buildings](#large-buildings) (e.g. shops and residential blocks) and public transport. ~~To prevent (the likely less relevant) droplet transmission, masks can be used for face to face talking outdoors.~~ outdoor transmission does rarely cause severe Covid
 
@@ -361,17 +384,18 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
 
 * __cableways__: best unconfined=outdoors and if confined=indoor permanent open/removed windows.
 * __tourism buildings__: 
-  Good [ventilation](#ventilation) is important.
+  Transmission possibilities depend on [ventilation](#ventilation), since good ventilation prevents transmissions.
   * __with jackets__: In building where jackets are worn (e.g. cableway buildings, some sport-shops, self service restaurant where guests sit outside), ventilation can be permanent: Doors and windows are open allowing some draught. Aerosol transmission is efficiently reduced.
   * __without jackets__: In buildings where jackets are not worn (e.g. restaurants, tourist information). Regular ventilation e.g. each hour. Ideally there is a ventilation system or at least an adequate air-cleaning system installed. 
 * __queuing__: 
-  * Outdoors preferable 
-  * Indoor queuing ideally avoided and if then very well ventilated.
-  * Ticketing system. Tricky since needs to be working all the time. When everybody waits indoors when the weather is bad, the transmission risk high too. 
-  > Yesterday (29.11.) I was on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity, some ventilation in the cableways however not nearly as much ventilation as there could be. Concepts mostly worked until everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon: a large crowd lined up indoors and in the beginning with no appropriate ventilation, some even started feeling unwell. The situation improved when doors and windows were opened.
-* __gastronomy__: as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a short time (often days).  
+  * Outdoors preferably; Indoor is queuing ideally avoided and if then very well ventilated.
+  * Ticketing systems are tricky since they need to be working all the time: When everybody waits in the next indoor place when the weather is bad, effects can turn negative.
+
+  > Yesterday (29.11.) on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity, some ventilation in the cableways however not nearly as much ventilation as there could be. Concepts mostly worked until: Everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon. A large crowd lined up indoors. In the beginning an appropriate ventilation completely lacked, some even started feeling unwell. The air improved when doors and windows were opened.
+
+* __Gastronomy__: Risks as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a short time (often days).  
   * __indoor gastronomy__: High risk. Guests from the same villages/hotels going only to a limited number of restaurants helps to prevents chains of (super)spreading and helps contact tracing. 
-    > Indoor gastronomy is the highest risk in my opinion. In cableway(-building) ventilation by draught can be used since people can wear warm jackets (sport shops will cheer) and wear clean masks with good filters. But for indoor gastronomy masks, draught & jackets fit less. Ideally some ventilation system is in place.
+    > Transmission risk is higher in indoor gastronomy/hotels than in cableway(-building) since in the latter ventilation by draught is possible since people can wear warm jackets (sport shops will cheer) and wear masks. But for indoor gastronomy masks, draught, jackets & masks fit less. Ideally some ventilation system is in place.
   * __outdoor gastronomy__: Low risk. Ideally masks are used when getting/bringing food/drinks or going to toilets. 
   * __apres ski__:
     * __indoor__: very high risk often dense crowds and a lot of alcohol (see also indoor gastronomy)
@@ -416,20 +440,27 @@ A reduction of nightlife can reach from an early closure of clubs to a complete 
 ### Reduce Alcohol Consumption
 The history of prohibition dates back nearly as long, as history itself has been handed down. Full prohibition never really worked. Today many countries have increased taxes. The taxes mostly are high enough to reduce consumption but low enough that smuggling doesn't pay off. 
 * ThinkThrough:
-  * Drinking a lot of alcohol diminishes the immune system. Alcohol concentration is higher in the pharynx while drinking and can prevent recognizing symptoms.
-  * Alcohol reduces the ability to concentrate and rashly action are more common, that's why no driving. Permanent following of corona prevention measures needs concentration.
-* Comment: In restaurants non alcoholic drinks should be noticeable cheaper than alcoholic ones.
+  * Drinking a lot of alcohol diminishes the immune system. Alcohol can prevent recognizing symptoms either by reduced sensitivity or wrong attribution.
+  * Alcohol reduces the ability to concentrate and rashly actions are more common, that's why no driving. Permanent following of corona prevention measures needs concentration.
+* Comment: 
+  * Non alcoholic drinks cheaper than alcoholic ones.
+  * Depending on the situation a selling stop in the late evening/night can help.
 
 
 ### Gastronomy
-* _Evidence:_ Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea)[citation in work] it has been shown that in gastronomy, especially in the evening, many transmissions of Covid occur.
+* _Evidence:_ Where the transmission chains have been analyzed (e.g. Hong Kong, South Korea) [citations in work], transmissions have been backtraced to gastronomy (usually bars in the evening, see also [nightlife](#reduction-of-nightlife)).
 * _ThinkThrough:_
-  * Many people from different backgrounds and regions sit often densely in the same room, there for SARS-Cov-2 to spread.
+  * Many people from different backgrounds and regions sit often densely in the same room. Especially in bars, the ventilation tends to have a lot of space for improvement.
 * _Comment:_
   * Good ventilation and not overly crowded
-  * In regions where the death rate is above 2.5 per million and cases are increasing, gastronomy can be reduced at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)).
-  * If the epidemiological situation permits, some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy dispensable for a few weeks.
-  * People working in large groups (e.g. open-plan office) or living in large groups (e.g. families) should take special care regarding Covid-19 transmission, including in gastronomy, since they already are possible angle points for transmission.
+  * In regions where the death rate is above 2.5 per million and cases are increasing, reduction of gastronomy at least in the later evening (section [Reduction of Nightlife](#reduction-of-nightlife)) can help to reduce the case counts.
+  * Outdoor gastronomy is no risk and may even reduce transmissions since more time is spent outdoors (also commented in [Corona Conform Skiing](#corona-conform-skiing) and [Transmission Summary](#summarized-transmission-to-design-measures)).
+  
+  > Gastronomy likely contributes much less to the spread than large scale events, business travelling or nightlife. With good ventilation concepts, transmission risk is likely similar to supermarkets, stairwells, underground car parks or public transport.
+  
+  > In emergency situations closures can be adequate, but even then some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy dispensable for a few weeks. // as of 20.8.2021 emergency situations are not excepted any more.
+
+  > People working in large groups (e.g. open-plan office) or living in large groups (e.g. families) should take special care regarding Covid-19 transmission in gastronomy since they already are possible angle points for transmissions.
 
 
 
@@ -437,7 +468,9 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 > mostly written in October 2020 during a Corona wave peak in Europe.
  
-> As of 6.6. with risk groups vaccinated in Europe protections can be relaxed. Children get only mild Covid anyways. Vaccination for children is strongly discouraged here, the mRNA vaccines are magnitudes more risky for children than Covid.
+> As of 6.6.21 in Europe with risk groups vaccinated, protections can be relaxed. Children get only mild Covid anyways. Vaccination for children is strongly discouraged here, the mRNA vaccines are magnitudes of order more risky for children than Covid.
+
+> As of 20.8.2021 I consider good regular as appropriate but I don't think any other measures are necessary in school settings. Possibly regular testing of teachers.
 
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
 * _Evidence:_  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](../5_epidemiological/spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
@@ -453,7 +486,7 @@ Measure regarding schools can reach from complete closure to mild measures such 
     * ##### Close Talking
       Many face-to-face talking situations with many different people. 
       > Comment, 4.11.20: all evidence points SARS-CoV-2 is mostly transmitted through aerosols from the lung and *not* with particulates produced when speaking. 
-      > Comment 29.5.21: The SARS-2 spread is different from influenza spread which infect the vocal folds.
+      > Comment 29.5.21: The SARS-2 spread is different from influenza spread which infects the vocal folds.
     * Children all come from different families and inside families protection is not easy but doable if the infection known (children are not super-spreaders).
 * Experiences: 
   * School closures were part of lock/shut-downs in spring 2020 in many countries. Mainly due to experiences with influenza, but influenza transmission is different. For SARS-CoV-2 ~~there's evidence, that~~ school closures have little effect. What has been clearly observed however are negative impacts: on the learning experience, on the pupils and the parents/families.
