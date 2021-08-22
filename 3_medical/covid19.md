@@ -40,9 +40,12 @@ Many of the symptoms are not specific to Covid-19, they may have other causes th
 ## Infections and Diseases
 
 > ##### Disease
-> A *disease* is a biological disorder of structure or function in an organism causing inconvenience and/or unwanted effects. Literally disease means without-ease (dis=without, separated from). 
+> A *disease* is a biological disorder of structure or function in an organism causing inconvenience and/or unwanted effects. 
 
-A disease is often dynamic and an immune response is induced/involved. Chemical/biochemical damages such as dehydration, a poisoning or physical damage such as a fracture or an injury are not diseases themselves but chemical/physical damage can result from a disease.
+* Literally disease means without-ease (dis=without, separated from).
+* A disease is often caused by molecular life form interactions (e.g. pathogens infecting a host). Being out of balance due to lack of vitamins (e.g. scurvy caused by a shortage of vitamin C) is also considered a disease. 
+* Short term disturbances of the homeostasis e.g. by shortage of water is usually not considered a disease despite dis-ease is caused.
+* A disease is often dynamic and an immune response is induced/involved. Chemical/biochemical damages such as dehydration, a poisoning or physical damage such as a fracture or an injury are not diseases themselves but chemical/physical damage can result from a disease.
 
 There are many different causes of diseases:
 * other [life forms](../2_biological/life-forms.md#life-form) interfering with the metabolism, such an interference is called [infection as defined below](#virus-infection). 
@@ -53,8 +56,9 @@ There are many different causes of diseases:
     * some bacteria
     * all viruses
 * immune disease in which the immune system overreacts to substances without need (notes on the immune system in the [Immune System chapter](../4_immunological/concepts_of_immunology.md))
+* shortage of necessary biological substances e.g. vitamins.
 
-Virus diseases are cause by virus infections:
+Virus diseases are caused by virus infections:
 
 > ##### Virus Infection
 > A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing/hijacking the cells metabolism to produce virus progeny - called virions. More about viruses and their infections in the chapter [Introduction to Viruses](../2_biological/viruses.md#introduction-to-viruses)
