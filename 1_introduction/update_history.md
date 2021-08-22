@@ -85,7 +85,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
   - Formulations and clarifications across the page. 
   - Chapter [Life on Earth](2_biological/life-forms.md) in rework.
 - 25.5. [Spread Analysis for Africa](./5_epidemiological/spread_analyses.md#africa) in online work.
-- 23.5. Controlling Page: Notes about the [Seasonability of Transmission](./7_social/controlling.md#seasonality) and [Looking Ahead](./7_social/controlling.md#looking-ahead) in online work.
+- 23.5. Controlling Page: Notes about the [Seasonability of Transmission](./7_social/controlling.md#seasonality-of-transmission) and [Looking Ahead](./7_social/controlling.md#looking-ahead) in online work.
 - 23.5. Added note that English wikipedia, encyclopedia britannica and the oxford dictionary are frequently consulted but not specially cited (currently) ( -> Comment on References in [Notes on Reading](#notes-on-reading)).
 - 18.5. [Spread analyses](./5_epidemiological/spread_analyses.md) refined.
 - 16.5. (commits 13.5. through 16.5.)
@@ -110,7 +110,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 29.3. Navigation bar with table of contents added. Layout adaptions to place the navbar.
 - 24.3. Regrouping [content](#content) into (currently) 8 topics both as files on github and content on github pages.
 - 23.3. Clarified summary for [Virion Viability](2_biological/virion_viability.md). [A table with compiled data](../2_biological/virion_viability/viability_data.md) from viability experiments is online.  
-- 22.3. [Spread Assumptions section](../7_social/controlling.md#spread-assumptions) on the [controlling page](../7_social/controlling.md) added. Formulations across the page.
+- 22.3. [Spread Assumptions section](../7_social/controlling.mdtransmission-summary-for-measures) on the [controlling page](../7_social/controlling.md) added. Formulations across the page.
 - 17.2. [Masks](../6_prevention_and_treatment/masks.md) now on separate page (moved from controlling). Added section about [Personal Mask Preferences](../6_prevention_and_treatment/masks.md#personal-mask-preferences)
 - 11.2. Corrected mistakes (T Cell Training) on the [Immune System page](../4_immunological/concepts_of_immunology.md) and added/completed section how SARS-2 overcomes antibodies.
 - 2.2. Many small updates and clarifications across the page. E.g. added the importance of ventilation of stairwells in [large buildings](../7_social/controlling.md#large-buildings) on the Controlling page.
