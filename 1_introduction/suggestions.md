@@ -1,6 +1,6 @@
 
 # Public Suggestions and Tips
-Notes on Covid as a virus diseases. How Covid is transmitted and how to prevent it. Suggestions on how to handle Covid waves and times.
+Notes on Covid as a virus diseases. How Covid is transmitted and how to prevent it.
 
 * [Covid-19 and Virus Infections](#covid-19-and-virus-infections)
 * [Sars-CoV-2 Transmission](#sars-cov-2-transmission)
