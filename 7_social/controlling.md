@@ -5,13 +5,17 @@ Thoughts on Controlling the Spread of Sars-CoV-2
 
 > This chapter extends and [Public Advices and Suggestions](../1_introduction/suggestions.md) chapter. 
 
-* [Spread Assumptions](transmission-summary-for-measures)
-  * [Indoors](#indoors)
-  * [Outdoors](#outdoors)
-  * [Seasonality](#seasonality)
+* [Summarized Transmission to Design Measures](#summarized-transmission-to-design-measures)
+  * [Indoor Transmission](#indoor-transmission)
+  * [Outdoor Transmission](#outdoor-transmission)
+  * [Seasonality of Transmission](#seasonality-of-transmission)
   * [Spread Metaphor](#spread-metaphor)
   * [Differences between Individuals](#differences-between-individuals)
   * [Summed Up](#summed-up)
+* [Measure Recommendations](#measure-recommendations)
+  * [Year Round Measures](#year-round-measures)
+  * [Summer Measures](#summer-measures)
+  * [Winter Measures](#winter-measures)
 * [Mindset and Strategy to Tackle Covid](#mindset-and-strategy-to-tackle-covid)
 * [Risk Management](#risk-management)
   * [Balancing of Measures](#balancing-of-measures)
@@ -82,21 +86,24 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 * Appropriate spread precaution measures and good treatment is important for people with severe Covid.
 
   > The stringency of measures needed is discussed in the section [Balancing of measures](#balancing-of-measures).
-  > There's a helpful [aerosol FAQ](../1_introduction/illustrative_literature.md#aerosol-faq) from advisors in the US.
 
-## Summary Measure Recommendation
+  > There's a helpful [aerosol FAQ](../1_introduction/illustrative_literature.md#aerosol-faq) from advisors in the US which is much more detailed than the notes above.
+
+
+## Measure Recommendations
 Here a short summary of recommended and not recommended measures to reduce the Covid spread is given. 
 
-> The recommendations are partly subjective, even though adequate measures to reduce Covid transmissions can be obtained by statistical analyses weighting the society costs is subjective.
+> in work 22.8.
+
+> Overall the recommendations are subjective. Measures to reduce Covid transmissions can be statistically analysed. The weighting of the society costs is nearly always subjective.
 
 ### Year Round Measures
-To prevent high rates of hospitalizations, some base measures are adequate in risk regions.
+To prevent high rates of hospitalizations, some base measures can be adequate in risk regions.
 * Nightlife e.g. an early closure at 2 AM.
-* Reducing Superspreading by capacity limits for large scale settings: These include large stadium, large shopping malls.
-* Slowing down transmission associated with inter continental travelling: For intercontinental airplane travelling one Covid test one or two days ahead of travel and one Covid test one or two days after arrival.
-  > It is crucial that 
-  * the test are done by everybody including those vaccinate else the spread of variants circumventing vaccination is promoted.
-  * Men in their 40 to 70 can be especially infectious, therefore it is important that there is no exception for business travelers.
+* Reducing Superspreading by capacity and/or CO2 limits for large scale settings: These include large stadium, large shopping malls.
+* Slowing down transmission associated with travelling, especially airplane travel: For intercontinental airplane travelling one Covid test one or two days ahead of travel and one Covid test one or two days after arrival.
+  * The tests should be done by everybody including those vaccinated else the spread of variants circumventing vaccination is promoted.
+  * Business travelling is risky, no exception for tests.
 
 ### Summer Measures
 * [Ventilation](#ventilation) maxed: Either keep the windows open or put the built in ventilation to max level. 
@@ -104,6 +111,7 @@ To prevent high rates of hospitalizations, some base measures are adequate in ri
 * No Air-Conditioning: Air conditioning dries the air which increases transmission.
 
 ### Winter Measures
+
 > in work
 
 * Appropriate [ventilation](#ventilation) either by a well adjusted and designed mechanical ventilation system or by opening the windows each hour.
