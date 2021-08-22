@@ -32,7 +32,7 @@
   * [Acquired Immune System](#acquired-immune-system)
   * [Redistribution of Immune Cells](#redistribution-of-immune-cells)
 * [Immune System Members](#immune-system-members)
-  * [T Cells](#t-cells)
+  * [Specific Immune Cells](#specific-immune-cells)
 * [Cross Immune Protections](#cross-immune-protections)
   * [Cross Protections Observed](#cross-protections-observed)
 * [References](#references)
@@ -50,27 +50,36 @@ Selected topics of the immune system with a focus on the principles. The immune 
 
 ## Introduction
 
-### Introducing the Immune System
+### Defining the Immune System
+
+Defining the immune system is not straight forward. One approach is to define the immune system as the mechanisms which prevent a disease. [A disease](../3_medical/covid19.md#disease) is often the loss of ease due to life form interactions but not necessarily. Here the immune system is defined general as mechanisms which handle life form interactions.
+
 
 > ###### Immune System
-> The *immune system* denotes organs and processes which watch and regulate competitive life forms interactions to prevent damage. The interactions are at the cellular level or below. Prevention of damage is achieved by watching interactions within or between life forms and if necessary adapt or reduce the interactions such that the interactions not adverse or even advantageous.
+> The *immune system* denotes mechanisms which watch and regulate competitive life forms interactions to prevent damage. The interactions are at the cellular level or below. Prevention of damage is achieved by watching interactions within or between life forms and if necessary adapt or reduce the interactions such that the interactions not adverse or even advantageous.
 
-* The immune system can be viewed as part of the homeostasis regulation regarding interactions of life-forms. 
+> *On Definitions of the Immune System:*
+> * Earlier the immune system was defined as "targeting things recognized to be unwanted". To goal was to generalize the often given definition: The immune system fights pathogens or even more specific producing antibodies against pathogens. 
+> * Sometimes the immune system was and is equivalent to antibodies. The reason is, the vertebrate respond to infections often involves antibodies which can easily be measured.
 
-* The life form interactions under the realm of the immune system are of the following forms:
-  * The interactions are competitively and if out of balance with fitness costs.
-  * Only regulations at the molecular or cellular level are considered to be part of the immune system. Trained neural network interaction are usually considered as not part of the immune system.
-    * Worms infecting mammals are targeted by antibodies. So, even though both are multicellular organisms, the response involves a 'classical' immune response.
-    * Predator-prey are competitive interaction unless at the molecular or cellular level, they are usually not considered as part of the immune system. Micro live forms hunting often are considered immune related, e.g. cells phagocyting bacteria or viruses. Also venoms are often handled by organs of the immune system.
+* The immune system can be viewed as part of the homeostasis. The immune system handles life form interactions.
+* Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to reduce the hosts from interfering with their metabolism. It's an interplay: The host immune system tries to reduce the virus metabolism and the virus immune system in turn tries the reduce the host immune system.
+
+
+Competitive life form interactions are of the following forms:
+* The interactions are competitively and if out of balance with fitness costs.
+* Only regulations at the molecular or cellular level are considered to be part of the immune system. Trained neural network interaction are usually considered as not part of the immune system.
+  * *Molecular Interaction:* Worms infecting mammals are targeted by antibodies. So, even though both are multicellular organisms, the response involves a 'classical' and molecular immune response.
+  * *Non molecular Interaction:* 'Classical' predator-prey are competitive interactions but at the macro level. Such interaction are not considered as part of the immune system. Molecular level predator are considered immune related, e.g. cells phagocyting bacteria or viruses. Also venoms are often handled by organs of the immune system.
   
-    > As often discrete classifications in biology are approximations.
+  > As often discrete classifications in biology are approximations.
   
-  * In organisms the immune system includes the interactions between different cells of the organism. Examples:
-    * Cancer cells within an organism can be viewed as selfish cells that don't respect the 'rules of an organism', therefore the immune system targets them.
-    * If an organism is physically damaged, the immune system handles the displaced cells and initiates repair mechanisms.
+In organisms the immune system includes the interactions within a life form. The transition from cellular regulation mechanisms to immune mechanisms is fluent. Examples:
+* Cancer cells within an organism can be viewed as selfish cells that don't respect the 'rules of an organism', therefore the immune system targets them. Cancer cells can be viewed as a life form within a host: They replicate without being integrated in the cellular communication of the host.
+* If an organism is physically damaged, the immune system handles the displaced cells and initiates repair mechanisms.
 
 
-> *On Definitions of the Immune System:* Earlier the immune system was defined as "targeting things recognized to be unwanted". To goal was to generalize the often given definition: The immune system fights pathogens or even more specific producing antibodies against pathogens. However all these definition fall short since the immune system usually adapts and redirects the interactions and the goal is to prevent damage not to limit interactions. The latter two definitions also fall short since e.g. fighting cancer is a task of the immune system, though cancer cells are not (classical) pathogens.
+
 
 * The immune system gives 'immunity' to damage from interactions but usually does not prevent interactions. E.g. regarding pathogen infections the immune system reduce the pathogens just enough they don't do damage but no more or are even beneficial. There are some rare pathogens which nearly always do damage, but the vast majority of live forms interactions are only harmful in specific situations and often life forms find ways to work together for mutual benefit.
 
@@ -86,22 +95,26 @@ Selected topics of the immune system with a focus on the principles. The immune 
   
 
 ### Immune System Goals
-The goal of homeostasis is to provide optimal conditions for the core parts of a life form. The immune system viewed as part of the overall homeostasis system has the task to prevent damage resulting from life form interactions. The main focus of the immune system is the core part of a life form. Keep the helper parts working is important too since these have functions for homeostasis.
+Homeostasis provides optimal conditions for in the different compartments of a life form. The immune system viewed as part of the overall homeostasis system has the task to prevent damage resulting from interactions with life forms.
+* Some compartments of a life form are more susceptible than others, the immune protects these compartments especially well.
+* Keep all parts working is important too since these all parts of a life form have their functions.
 
-> In multicellular organism the entire homeostasis including the immune system does everything to prevent damage to the core of the organism. Most animals have a hierarchical cell organization. In the case of vertebrates, the best protected cell populations are within the bones: stem cells and neurons.  germ-line cells and the neurons. So the immune system protects these cell populations with a high priority.
+> In organisms are grouped into different compartments and they have different cell populations. The cell populations vary in function and susceptibility to homeostasis changes including infections. In the case of vertebrates, the most susceptible cell populations are within the bones: stem cells and neurons. The immune system protects these cell populations with a high priority.
 
-> Life is all about homeostasis. Provide a good and constant environment for the core parts of a life form to live and replicate regardless whatever the environment is. Homeostasis is a constant and ubiquitous task, also in day to day life: If there's not enough water in the blood we get thirsty, if it's too hot we sweat and if it's too cold some specialized cells warm the body.
+> Life is all about homeostasis. Provide a good and suitable environment to live and replicate regardless whatever the environment is. Homeostasis is a constant and ubiquitous task, also in day to day life: If there's not enough water in the blood we get thirsty, if it's too hot we sweat and if it's too cold some specialized cells warm the body.
 
-
+## Classifying the Immune System into Branches
 ### The Immune System from different View Points
+Immune mechanism can be viewed from different perspectives and accordingly be classified:
+- [Immune System Mechanisms](#mechanisms-of-the-immune-system): Physical, chemical and biological mechanism are used.
+- [Immune System Specificity](#immune-system-target-selection): Is the targeting broad or narrow? Which substances are recognized and targeted. Substances that are ignored.
+- [Variability of the Immune System](#variability-of-the-immune-system). How and which capabilities of the immune system adapt. Sometimes only the strength of a response is changed, sometimes the mode of response and sometimes the target capabilities. Changing the target capabilities throughout lifetime is known as [acquired immunity](#acquired-immunity)
+- [Protection Locations](#protection-locations): Local or systemic (global). At frequent foreign substances entry points many local protection mechanism are in place.
 
-Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to reduce the hosts from interfering with their metabolism. It's an interplay: The host immune system tries to reduce the virus metabolism and the virus immune system in turn tries the reduce the host immune system. Usually a balance is reached and both life side a side or even in symbiosis.
-
-Immune mechanism can be viewed from different perspectives and accordingly classified to various criteria:
-- [Immune System Surveillance Methods](#immune-system-surveillance)
-- [Immune System Mechanisms](#immune-system-mechanisms): Physical, chemical and biological mechanism are used.
-- [Immune System Specificity](#immune-system-target-selection): Which substances are recognized and targeted. Substances that are ignored.
-- [Protection Locations](#protection-locations): Local or global. At frequent foreign substances entry points many local protection mechanism are in place.
+### Traditional Classification: Acquired and Innate Immunity
+Historically the immune system was divided into two arms, the first arm being antibody related and the second arm all other cellular responses. The antibody related arm turned out to be very specific and lifetime acquired. Lifetime acquired was termed adaptive, acquired or learned. So the traditional classifications is as follows:
+* Specific Immunity = Acquired Immunity = Adaptive Immunity in the sense only one species is targeted = Acquired Immunity/Adaptive Immunity: Very specific and lifetime acquired: Antibody: Humoral = systemic
+* Unspecific Immunity in the sense multiple species are targeted = Innate Immunity: Anything except Antibodies/ T Cells
 
 
 
@@ -178,13 +191,22 @@ Examples
 - Receptors from double stranded DNA based lifeforms targeting single stranded DNA
 - Semipermeable-Membranes (e.g. Cell membranes, nucleus membrane, blood brain barrier): only permeable for specific substances
 
-#### Highly Specific Recognition
+#### Specific Recognition
 These mechanism target usually exactly one molecular structure. The recognition is so specific that often only a single species or even individual of a species is targeted.
 
 Examples:
 * RNA pieces silencing other RNAs [to check whether this can't be adapted, probably unused DNA is used produce some silence RNA so the overall possibilities would be constant but what is in used would be adaptable]
 * Antibodies target specific biological substances (mostly proteins). Antibodies are an example of the[Lifetime Acquired Immune System](#acquired-immune-systems). 
 
+
+### Cross Immune Protections
+All form of life on earth share common molecular patterns. The more genetically related the forms, the more genes and corresponding proteins are similar. Some elements are more conserved and are possible targets to develop cross protections either by the immune system or artificial medications. 
+
+#### Cross Immune Protection by the Specific Immunity
+*  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
+    - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
+    - NL63 -protects-> 229E (only unidirectional)
+* [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](../2_biological/coronavirus.md#observed-interspecies-infections).
 
 
 #### Feature Recognition Mechanisms
@@ -273,39 +295,40 @@ The entire immune system varies both during lifetime and from generation to gene
 (1.) and (2.) don't involve a change of the targets throughout the lifetime. The part of the immune system which vary only through 1. and 2. are called [innate immunity](#innate-immune-system), since the target capabilities are present upon birth. The parts of the immunity which can acquire new target capabilities upon encounter with new things are called [acquired immunity](#acquired-immunity).
 
 
-#### Factors Influencing Changes
+### Factors Influencing Variability
 The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
 * lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#acquired-immunity))
 * generational adaption: personal and ancestral exposures are memorized and cause both the innate and acquired immune system to adapt
 
 
-
-### Innate Immune System
+### Target Variability
+#### Innate Immune System
 
 ###### Innate Immunity
-> The innate immunity are mechanisms that have constant recognition patterns throughout lifetime.
+> The innate immunity are mechanisms that target the same  recognition patterns throughout lifetime.
 
-Since targets stay constant, the information is stored in [lifetime storage](../2_biological/life-forms.md#lifetime-storage)) and is inherited.
+Since targets stay constant throughout lifetime, the information is usually stored in [lifetime storage](../2_biological/life-forms.md#lifetime-storage)) and is inherited.
 
 
-### Acquired Immune System
+#### Acquired Immune System
 
-The life spans of life forms and the evolutionary rate of life forms vary. Life forms evolving slow at the molecular level need to handle interactions with life forms evolving much faster at the molecular level e.g. viruses infecting mammals evolve magnitudes of orders faster than the mammalian hosts. To keep up with fast evolving pathogens, most 'slow evolving' life forms have mechanisms to learn to handle new molecular patterns during lifetime.
+The life spans of life forms and the evolutionary rate of life forms vary. Life forms evolving slow at the molecular level need to handle interactions with life forms evolving much faster at the molecular level e.g. viruses infecting vertebrates evolve magnitudes of orders faster than their vertebrate hosts. To keep up with fast evolving pathogens, the 'slow evolving' hosts life forms have mechanisms to learn new molecular patterns during lifetime.
 
-##### Acquired Immunity
+> ##### Acquired Immunity
 > Mechanisms of the immune system which are able to acquire new skills upon encounters with pathogenic life forms or substances. This acquiring of of new skills is done during the lifetime.
 
-#### Recognize Proteins
-* Some cells (called plasma cells = activated B cells) can produce antibodies. Antibodies bind to specific substances (called antigens) and thereby inactivate or mark them.
-* Trained T cells ([T cell Training](#t-cell-training)) can inspect which proteins cells produce since all protein producing cells present  fragments of the proteins translated (the cell surface receptor MHC 1).
+##### Acquiring of Specific Target Capabilities
+* B cells (called plasma cells = activated B cells) can produce antibodies. Antibodies bind to specific substances (called antigens) and thereby inactivate or mark them.
+* T cells ([T cell Training](#t-cell-training)) can inspect substances including proteins . 
+  * CD8 T cells inspect the proteins cells produces: Fragments of the proteins translated inside a cell are presented via the surface receptor MHC 1 which is inspected by CD8 T cells.
 
 ###### Allergy
 Sometimes proteins parts not associated to pathogens are classified as being harmful. This yields allergies. 
 
-##### Mechanisms to Produce Different Binding Capabilities
-One mechanisms to produce different cells able to bind to different substances is, that the binding parts of these cell are randomized i.e. the genes coding these binding parts are generated by a process which produces random sequences. Now the immune system needs to check that: 
-1. these randomized binding sites don't bind to something useful e.g. healthy cells belonging from the same organism (self).
-2. these randomized binding sites are useful i.e. they bind to something harmful. 
+##### Mechanisms to Acquire Different Target Capabilities
+One mechanisms to acquire specific targeting is to produce different cells able to bind to different substances. This is done by rearrangements of the DNA which encodes the binding parts. Now the immune system needs to check that: 
+1. *Be Nice:* these randomized binding sites don't bind to something useful e.g. healthy cells belonging from the same organism (self). 
+2. *Be Useful:* these randomized binding sites are useful i.e. they bind to something harmful. 
 
 Checking these conditions is called training (described for T cells in [T Cell Training](#t-cell-training)).
 
@@ -321,14 +344,16 @@ Checking these conditions is called training (described for T cells in [T Cell T
  --> 
 
 
+## Immune Cells
+
 ### Redistribution of Immune Cells
 [in work]
 
 
+### Immune Cell Types
+#### B Cells
 
-## Immune System Members
-
-### T Cells
+#### T Cells
 * T cells are in the blood and locally in tissues. 
 * T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism since they produce proteins encoded by the viruses. [T cells can detect](#extern-checks) the virus proteins exposed.
 * To control coronaviruses infections T cells are key [citation coming].
@@ -336,27 +361,20 @@ Checking these conditions is called training (described for T cells in [T Cell T
 > ###### Local T cell
 > *Tissue resident T cells* in literature, often shortened to *local T cells* on this page, are T cells which survey the tissues cells integrity. They move within tissues and and do not circulate with the blood. //previously shortened here as *local* T cells
 
-#### Distribution
+##### Distribution
 T cells are in the blood, in lymph nodes and resident T cells in tissues. Lymph nodes and tissue resident T cells are often at entry points for pathogens e.g. the mouth is a common entry point for viruses, so close to the mouth there are many T cells [in work].
 
 ##### T Cell Training
 [in work, to be completed and to be checked]
-1. _Bone Marrow:_ In the bone marrow new immune cells are produced by somantic recombination. Some T cells  differentiate to move to the thymus. [to check and clarify]
-2. _Thymus:_ In the thymus it is checked if the cells have the right binding capabilities: Binding MHC neither to weak nor to strong. Don't attack self substances. 
+1. _Bone Marrow:_ In the bone marrow new immune cells are produced. Some of the immune cells differentiate into T cells and move to the thymus. [to check and clarify]. The genes encoding the T cell receptor (TCR) undergo somatic recombination => the TCRs differ from T cell to T cell.
+2. _Thymus:_ In the thymus it is checked if the cells have the right binding capabilities: The TCR should bind the MHC 1 receptors neither to weak nor to strong. Don't attack self substances. 
    * Fail (wrong MHC binding strength or self substances attacked) => trigger cell death (if goes wrong, an autoimmune disease can result)
    * Succeed (right MHC binding strength If the cell does *not* bind self) => send the cell to the lymph nodes. 
 3. _Lymph Nodes:_ In the lymph nodes the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful. If the cells is useful often replication is triggered.
 
 
 
-## Cross Immune Protections
-All form of life on earth share common molecular patterns. The more genetically related the forms, the more genes and corresponding proteins are similar. Some elements are more conserved and are possible targets to develop cross protections either by the immune system or artificial medications. 
 
-### Cross Protections Observed
-*  [Van der Hoek et al.](#vanderhoek2012) observed that some serum conversions against one coronaviruses are not followed by serum conversion against another coronavirus as follows:
-    - OC43 -protects-> HKU1 (only unidirectional, both OC43 and HKU1 are betacoronaviruses)
-    - NL63 -protects-> 229E (only unidirectional)
-* [Han et al](#han) showed that calves innoculated with HECV-4408 get immune protection against the BCoV strain DB2. HECV-4408 is a BCoV strain that has been observed to cause [diarrhea in humans](../2_biological/coronavirus.md#observed-interspecies-infections).
 
 
 
