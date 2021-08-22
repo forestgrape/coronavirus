@@ -9,6 +9,7 @@ flavour: general
 
 This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses (tagged as 'explorative').
 
+## Sections of this Page (index)
 * [Bird View of Content](#bird-view-of-content): Gives a short overview of the different topics.
 * [Updates](#updates): Lists the most recent topics added and changes of content:
   * [Recent Topics Added](#recent-topics-added)
@@ -17,11 +18,12 @@ This page contains topics around Covid and Coronaviruses. The content discussed 
 * [Content](#content). Detailed content overview including twittering summaries.
  
 ## Bird View of Content
-This section overviews the content. The [full content section](#content) lists the topics discussed in more detail. The chapter links point there.
+
+This section overviews the entire content. The [content section](#content) lists the topics discussed in more detail. The links point there.
 
 1. [Introduction](#introductory-topics)
-  * [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. To prevent and overcome an infection good health is important. 
-  * [Update History](./1_introduction/update_history.md) topics discussed in chronological order.
+  * [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. A healthy lifestyle helps to prevent and overcome Covid.
+  * [Update History](./1_introduction/update_history.md): Content and updates as published in chronological order.
 
 2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
 3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
@@ -67,11 +69,11 @@ This section overviews the content. The [full content section](#content) lists t
 * Many parts are __hypothesis__ and __ideas__ but __not__ [double] checked facts. They are put here as ideas to be checked and evaluated. The chapters with not well founded content are tagged with *(explorative)*.
 * The writing often is conversational and some parts aren't rigorous. 
 * This is work in progress. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
-* _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is required (as long as its not copy & paste) but __referencing is always welcome__ (most content is founded enough by now). <!-- in science citing/Referencing is a good and helpful practice.-->
 * _Support_ [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
+* _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is required (as long as its not copy & paste) but __referencing is always welcome__ (most content is founded enough by now). <!-- in science citing/Referencing is a good and helpful practice.-->
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 * _[Table of Content](#content)_ The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
-* _Source_ This page is open source on GitHub: [https://github.com/forestgrape/coronavirus/blob/master/index.md](https://github.com/forestgrape/coronavirus/blob/master/index.md), where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: [https://forestgrape.github.io/coronavirus](https://forestgrape.github.io/coronavirus)
+* _Source_ This page is open source on GitHub: <https://github.com/forestgrape/coronavirus/blob/master/index.md>, where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: <https://forestgrape.github.io/coronavirus>
 * _References_
   * Often references are summarized. Word-by-word extracts are in "_ _ _". The summaries are biased towards to results relevant for this page. To capture the essence of the research is tried too.
   * As much as possible original work is referred. Sometimes reviews or remarks in introductions are referred which point further to the original work/articles.
@@ -120,16 +122,20 @@ This section overviews the content. The [full content section](#content) lists t
 
 ## Content
 
-> Sometimes out of date, newest sections are announced in [recent updates](#recent-updates)].
+> Sometimes out of date, newest sections are announced in [recent topics](#recent-topics-added) and [recent updates](#recent-updates)].
 
+> In the [source on github](https://github.com/forestgrape/coronavirus/blob/master/index.md) the topics correspond to folders and the chapters correspond to files.
 
-### Introductory Topics
-* [Recent Updates](#recent-updates) and [Update History](1_introduction/update_history.md)
+* Index (this page): Which has the sections 
+
+### 1 Introductory Topics
+
 * [Public Suggestions and Tips](1_introduction/suggestions.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
+* [Update History](1_introduction/update_history.md)
 
 
-### Biological Topics
+### 2 Biological Topics
 - [Life Forms](2_biological/life-forms.md). Principles and concepts of life on earth.
   - [Mobility of Life Forms](2_biological/mobility.md) How life form move or get moved to cross distances.
 - [Viruses](2_biological/viruses.md). What viruses are and what they can do and do. Viruses are defined as life forms which are dependent on extern enzymes. Aspects such as life cycle and behavior are discussed.
@@ -143,20 +149,20 @@ This section overviews the content. The [full content section](#content) lists t
     The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
 
 
-### Medical Topics
+### 3 Medical Topics
 * [Covid-19](3_medical/covid19.md)
     The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
 * [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md) How to diagnose Covid with a focus on methods detecting parts of viruses (virus RNA with PCR or virus proteins with antigen test) at different locations (e.g. in the nose, mouth, lungs).
 - [Infection Locations and Disease Patterns](3_medical/coronavirus_disease_patterns.md) (*explorative*)
 
 
-### Immunological Topics
+### 4 Immunological Topics
 * [A conceptual View of Immunology](4_immunological/concepts_of_immunology.md)
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
 * [Immune Evasion](4_immunological/immune_evasion.md) How coronaviruses circumvent immune system obstacles.
 
 
-### Epidemiological Topics 
+### 5 Epidemiological Topics 
 * [Transmission of Sars-CoV-2 with Focus on a Proposed Dry Form Transmission](5_epidemiological/transmission.md)
     Sars-CoV-2 is mostly transmitted airborne and even a Dry Form aerosol infection is possible.
   - A summary of airborne transmission, 
@@ -168,7 +174,7 @@ This section overviews the content. The [full content section](#content) lists t
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](5_epidemiological/covid_and_bovine_farming.md) (*explorative section*)
 
 
-### Treatment and Prevention
+### 6 Treatment and Prevention
 - [Movement](6_prevention_and_treatment/movement.md) How movement helps to get a better immune reaction upon a Covid infection and to recover faster and better.
 - [Masks](6_prevention_and_treatment/masks.md). Mask both reduce the spread and prevent infections. Not only from SARS-2 but from all viruses which infect through the respiratory tract e.g. influenza.
 - [Topical Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to prevent and cure respiratory infections including Covid. Coronaviruses (and other respiratory viruses) live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
@@ -176,21 +182,21 @@ This section overviews the content. The [full content section](#content) lists t
   - [Increase the mucus Flow by humidified air](./6_prevention_and_treatment/increasing_the_mucus_flow.md): Humidify inhaled air early on to increase the mucus flow and wash the virions out. The goal is a reduce viral load and better prognosis. (explorative)
 
 
-### Social Topics
+### 7 Social Topics
 * [Thoughts about Controlling Sars-CoV-2](7_social/controlling.md)
     Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
 * [Thoughts on Economical Systems](7_social/economics.md): How to design an economical system which enables free choice for the economic life.
 
 
-### Data Topics
+### 8 Data Topics
 * [Monitoring](8_data/monitoring.md)
     About testing, monitoring, gathering and publishing data.
 
 
-### Physical Topics
+### 9 Topics in Physics, Chemistry and Biology 
 * [Aggregation of Atoms](9_physics/aggregations_of_atoms.md). How atoms aggregate to form the different kinds of matter.
 
-### Vaccines
+### 10 Vaccines
 * [Vaccine Safety Considerations](10_vaccines/vaccine_safety.md)
 
 ---
