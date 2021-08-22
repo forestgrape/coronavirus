@@ -56,10 +56,11 @@ There are different definitions of immunisation and vaccination around. Here a g
 ## Why Symptom Surveillance is often Not enough for Safety
 
 ### The Setting Vaccine Trials were developed
-Early vaccines were based on live pathogens. Usually related life-forms providing cross immunity or the same pathogen but attenuated. For such vaccines the main concern is to cause the disease which is intended to be prevented and this happens from time to time. Many (but not all) infections cause immediate symptoms. For many infections symptoms are a good indication how much damage an infection causes and as long as the symptoms are few, serious damage is unlikely. Thus for most attenuated pathogen vaccines, it is enough to watch for symptoms and detect whether the disease is prevented or at least attenuated enough.
-Later on one started to use adjuvants (substances increasing the immune response) for such the trials already may fail e.g. aluminum or mercury can be used and pass symptom tests.
+The first vaccines were based on live pathogens (and nearly all of the most successful vaccines still are). First related life-forms providing cross immunity and later also the same pathogen but attenuated ([Vaccine history](./vaccines.md#history-of-vaccination)). For such vaccines the main concern is to cause the disease which is intended to be prevented and this happens from time to time. Many (but not all) infections cause immediate symptoms. For most infections symptoms are a good indication how much damage an infection causes and as long as the symptoms are few, serious damage is unlikely. Thus for live pathogen vaccines, it is usually enough to watch for symptoms and detect whether the disease is prevented or at least attenuated enough.
 
-> Similar symptom test were and are common practice for medications and mercury once passed them (its kinetics and behavior within the body were unknown) and was is as medication. Since today the subtle damages of mercury and enrichment with the body are known it is not used anymore.
+Later on one started to use adjuvants (substances increasing the immune response). If these substances remain long-term in the body or the effects are diffuse and hard to diagnose  symptom watching is not enough.
+
+> Similarly, symptom test were and are common practice for treatment medications. Mercury once passed such symptom tests (its kinetics and behavior within the body were unknown) and was as medication. Since today the subtle damages of mercury and enrichment with the body are known it is not used anymore.
 
 ### Symptom Surveillance is Enough If
 Symptom surveillance is enough if one knows what to except including possible adverse effects can be predicted. All the following points should be true:
