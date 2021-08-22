@@ -52,11 +52,14 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
+- 22.8.: Many updates and clarifications across the page. E.g. 
+  - updated and extend the Immune System Page and renamed it to [Concepts of Immunology](4_immunological/concepts_of_immunology.md).
+  - updates on the [Controlling Page](./7_social/controlling.md) and added section with [measures recommendations](./7_social/controlling.md#measure-recommendations)
 - 6.8.: [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md): Clarifications and added examples of faster (alpha, delta)/immune evasion variants (beta, delta).
 - 6.8.: Various updates across the page
 - 26.7.: [Section Transmission Distribution](./5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](./5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
 - 26.7.: [Vaccine Safety](10_vaccines/vaccine_safety.md) chapter updated, clarified and extended.
-- 26.7.: Formulations and clarifications across the page e.g. the sections [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md), [Monitoring](8_data/monitoring.md) and [Immune Evasion](../coronavirus/4_immunological/immune_evasion.md)
+- 26.7.: Formulations and clarifications across the page e.g. the sections [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md), [Monitoring](8_data/monitoring.md) and [Immune Evasion](4_immunological/immune_evasion.md)
 - 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
 - 21.6.: Redefined [Immune System](4_immunological/concepts_of_immunology.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
 * [-> Full Update History](./1_introduction/update_history.md)
