@@ -39,7 +39,7 @@ H Jia, et al **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Co
 Bertram S, et al. (2012) **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.** <https://doi.org/10.1371/journal.pone.0035876>
 
 #### Highlighted
-The paper describes and compares infectable locations for the SARS coronavirus and influenza. It shows the distribution of the  entry receptors (influenza: 2,6-linked sialic acids and SARS: ACE2) and the required proteases (influenza: HAT, TMPRSS2 and SARS: TMPRSS2).
+The paper describes and compares infectable locations for the SARS coronavirus and influenza. It shows the distribution of the  entry receptors (influenza: 2,6-linked sialic acids and SARS: ACE2) and the required proteases (influenza: HAT, TMPRSS2 and SARS: TMPRSS2). E.g. influenza can infect the vocal folds and thus can cause horse voice while SARS-CoV-1/2 do not.
 
 #### Usage Here
 [Referenced](../3_medical/coronavirus_disease_patterns.md#summary-bertram-2012) in the chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md) which relies on the possible infection locations of SARS-like.
@@ -55,7 +55,9 @@ The paper describes and compares infectable locations for the SARS coronavirus a
 * Written by renowned aerosol experts to inform and design protection measures in the US.
 
 #### Usage Here
-Similar tips are in the chapter [Suggestions and Tips](../1_introduction/suggestions.md) and in the [spread assumptions](../7_social/controlling.md#spread-assumptions) on the controlling page.
+Similar tips are in the chapter [Suggestions and Tips](../1_introduction/suggestions.md) and in the [spread assumptions](../7_social/controlling.mdtransmission-summary-for-measures) on the controlling page.
+
+> I came across the faq when reading the references of a [CO2 sensor usage recommendation](../7_social/controlling.md#stocker) from the Swiss Covid taskforce.
 
 
 ### Yan 2018
