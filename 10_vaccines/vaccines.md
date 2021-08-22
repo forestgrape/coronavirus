@@ -12,10 +12,10 @@
 Immunisation and vaccination are used here as follows:
 
 > ##### Immunisation
-> *Immunisation* prepares the immune system  prevents a disease but not necessarily infection.
+> *Immunisation* prepares the immune system  prevents a disease and possible damage but not necessarily infection.
 
 > ##### Vaccination
-> *Vaccination* teaches the immune system how to handle something. Even though the goal of vaccination usually is to prevent a disease, this is not specified.
+> *Vaccination* teaches the immune system how to handle something. 
 
 * Vaccination can provide immunization i.e. to prevent a disease.
 * In literature vaccination is often used more specific e.g. "stimulating antibodies production against something harmful or the agent of a disease". Here the more general usage, given above, is used since:
@@ -27,7 +27,7 @@ Immunisation and vaccination are used here as follows:
 ## History of Vaccination
 
 ### Relevance
-The history of vaccination helps to understand vaccines and their design and success. The history also helps to understand the design of vaccine trial schemes geared towards live pathogen vaccines. The early vaccines just were live pathogens, while new vaccines methods were invented, the trials were and are largely unchanged.
+The history of vaccination helps to understand vaccines and their design and success. The history also helps to understand the design of vaccine trial schemes geared towards live pathogen vaccines. The early vaccines just were live pathogens, while new vaccines methods were invented, the trial schemes remained largely unchanged - it is just "THE" way to check vaccines.
 
 ### History of Vaccination
 * *Change of Infection Pathway:* Purposeful immunisation is handed down from ancient China and India (likely densely populated regions) where smallpox was inoculated to the skin. This administration path still was quite risky though lower than inhalation to the lungs.
