@@ -36,7 +36,7 @@ Remark: As of 1.5.20 more people are allowed to test.
 Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub repository or REST API) and are annotated e.g. contain a readme with the specifications what and how is measured. 
 
 
-## Permission Policy
+## Permission Policies
 * #### Default Allow
   Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else.
 * #### Default Deny
