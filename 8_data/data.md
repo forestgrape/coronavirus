@@ -37,8 +37,10 @@ Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub rep
 
 
 ## Permission Policy
-* Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else.
-* Default Deny = Deny unless Allowed: Allow only items *with* a specific feature = Target all other items (*without* the specific feature)
+* #### Default Allow
+  Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else.
+* #### Default Deny
+  Default Deny = Deny unless Allowed: Allow only items *with* a specific feature = Target all other items (*without* the specific feature)
 
-> Default allow is also called blacklist (blacklist = items to block) and default deny whitelist (whitelist = items to allow).
+> Default allow is also called blacklist approach (blacklist = items to block) and default deny is called whitelist (whitelist = items to allow).
 

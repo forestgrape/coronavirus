@@ -7,9 +7,11 @@
 
 * [Summary](#summary)
 * [Introduction](#introduction)
-  * [Introducing the Immune System](#introducing-the-immune-system)
+  * [Defining the Immune System](#defining-the-immune-system)
   * [Immune System Goals](#immune-system-goals)
+* [Classifying the Immune System into Branches](#classifying-the-immune-system-into-branches)
   * [The Immune System from different View Points](#the-immune-system-from-different-view-points)
+  * [Traditional Classification: Acquired and Innate Immunity](#traditional-classification-acquired-and-innate-immunity)
 * [Mechanisms of the Immune System](#mechanisms-of-the-immune-system)
   * [Physical Mechanisms](#physical-mechanisms)
   * [Chemical Mechanisms](#chemical-mechanisms)
@@ -17,6 +19,7 @@
 * [Immune System Specificity](#immune-system-specificity)
   * [Specificity by Locations](#specificity-by-locations)
   * [Specificity by Feature Recognition](#specificity-by-feature-recognition)
+  * [Cross Immune Protections](#cross-immune-protections)
 * [Immune System Surveillance Methods](#immune-system-surveillance-methods)
   * [Entry Controls](#entry-controls)
   * [Inspect the Transport Systems](#inspect-the-transport-systems)
@@ -28,13 +31,11 @@
   * [Effector Response State](#effector-response-state)
   * [Immune Responses](#immune-responses)
 * [Variability of the Immune System](#variability-of-the-immune-system)
-  * [Innate Immune System](#innate-immune-system)
-  * [Acquired Immune System](#acquired-immune-system)
+  * [Factors Influencing Variability](#factors-influencing-variability)
+  * [Target Variability](#target-variability)
+* [Immune Cells](#immune-cells)
   * [Redistribution of Immune Cells](#redistribution-of-immune-cells)
-* [Immune System Members](#immune-system-members)
-  * [Specific Immune Cells](#specific-immune-cells)
-* [Cross Immune Protections](#cross-immune-protections)
-  * [Cross Protections Observed](#cross-protections-observed)
+  * [Immune Cell Types](#immune-cell-types)
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
   * [Adaption of the Innate Immune System](#adaption-of-the-innate-immune-system)
@@ -224,11 +225,6 @@ All form of life on earth share common molecular patterns. The more genetically 
 
 > Most antigens are foreign substances. Antigens first were observed against such foreign substances, this may have inspired the name: Not belonging to the gene pool of the life form.
 
-#### Feature Recognition Policy
-* Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else.
-* Default Deny = Deny unless Allowed: Allow only items *with* a specific feature = Target all other items (*without* the specific feature)
-
-> Default allow is also called blacklist (blacklist = items to block) and default deny whitelist (whitelist = items to allow).
 
 
 <!--
