@@ -12,7 +12,7 @@ Thoughts on Controlling the Spread of Sars-CoV-2
   * [Spread Metaphor](#spread-metaphor)
   * [Differences between Individuals](#differences-between-individuals)
   * [Summed Up](#summed-up)
-* [Measure Recommendations](#measure-recommendations)
+* [Recommended Measure Packages](#recommended-measure-packages)
   * [Year Round Measures](#year-round-measures)
   * [Summer Measures](#summer-measures)
   * [Winter Measures](#winter-measures)
@@ -20,7 +20,6 @@ Thoughts on Controlling the Spread of Sars-CoV-2
 * [Risk Management](#risk-management)
   * [Balancing of Measures](#balancing-of-measures)
   * [On Balancing of Measures](#on-balancing-of-measures)
-  * [Looking Ahead](#looking-ahead)
 * [Individual Protection Measures](#individual-protection-measures)
   * [Support Immune Protection](#support-immune-protection)
   * [Masks](#masks)
@@ -87,15 +86,15 @@ The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coron
 
   > The stringency of measures needed is discussed in the section [Balancing of measures](#balancing-of-measures).
 
-  > There's a helpful [aerosol FAQ](../1_introduction/illustrative_literature.md#aerosol-faq) from advisors in the US which is much more detailed than the notes above.
+  > There's a helpful [aerosol FAQ](../1_introduction/illustrative_literature.md#aerosol-faq) from advisors in the US.
 
 
-## Measure Recommendations
-Here a short summary of recommended and not recommended measures to reduce the Covid spread is given. 
+## Recommended Measure Packages
+A short summary of recommended measure packages to reduce the Covid. 
 
 > in work 22.8.
 
-> Overall the recommendations are subjective. Measures to reduce Covid transmissions can be statistically analysed. The weighting of the society costs is nearly always subjective.
+> The recommended packages are subjective. While measures to reduce Covid transmissions can be statistically analysed, the weighting of the society costs is mostly subjective.
 
 ### Year Round Measures
 To prevent high rates of hospitalizations, some base measures can be adequate in risk regions.
@@ -103,7 +102,8 @@ To prevent high rates of hospitalizations, some base measures can be adequate in
 * Reducing Superspreading by capacity and/or CO2 limits for large scale settings: These include large stadium, large shopping malls.
 * Slowing down transmission associated with travelling, especially airplane travel: For intercontinental airplane travelling one Covid test one or two days ahead of travel and one Covid test one or two days after arrival.
   * The tests should be done by everybody including those vaccinated else the spread of variants circumventing vaccination is promoted.
-  * Business travelling is risky, no exception for tests.
+  * (Short-term) Business travelling is risky, no exception for tests.
+* Schools: Regular ventilation and education on viruses and their transmission. 
 
 ### Summer Measures
 * [Ventilation](#ventilation) maxed: Either keep the windows open or put the built in ventilation to max level. 
@@ -111,9 +111,6 @@ To prevent high rates of hospitalizations, some base measures can be adequate in
 * No Air-Conditioning: Air conditioning dries the air which increases transmission.
 
 ### Winter Measures
-
-> in work
-
 * Appropriate [ventilation](#ventilation) either by a well adjusted and designed mechanical ventilation system or by opening the windows each hour.
 * Humidification of indoor air in sensible settings:
   * Prevents that aerosol dry out (dried virions stay longer in the air, have a better survival and infect more severely)
@@ -125,6 +122,7 @@ To prevent high rates of hospitalizations, some base measures can be adequate in
 > * knowledge & research
 > * self responsibility, independent decisions combined with a circumspect lifestyle
 > * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements restrictions are an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
+> 
 > ### Strategy
 > * Measures preserving life quality and health of everybody.
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases.
@@ -143,9 +141,6 @@ To prevent high rates of hospitalizations, some base measures can be adequate in
 
 
 ## Risk Management
-
-> ### Situation Assessment June 2021
-> The transmission pathways are clear and suitable tools for prevention are known and available: Aerosol transmission in dry indoor air is especially risky to cause severe Covid, so that's to prevent. Ventilation and masks help to reduce transmissions and severe disease can be prevented by well prepared immune systems. The immune system can be prepared by healthy lifestyles and possibly combined with vaccination (especially for risk groups). Additionally treatment options and the general knowledge advances fast, thanks to world wide research efforts.
 
 ### Balancing of Measures
 > Here the goal is to minimize overall adverse health effects but *not* a zero-Covid. This includes unhealthy lifestyles motivated by overly strict measures or putting children at risk through vaccination and the unknown long term effects. However a very important goal is the avoid hospital overwhelming. 
@@ -178,19 +173,6 @@ Reasons to avoid hospital overwhelming (with good planning some of the reasons c
 * Opting out of (some) treatments on free will and without any pressure I consider a right too, but for doing so without any pressure, not overwhelmed hospitals are necessary. 
 * The overall process can get less efficient. E.g. patients need out of hospital treatment, which has additional challenges.
 * Can greatly increase the risk for additional spread since protection measures may not be in place. E.g. the provisional building may not have an appropriate ventilation and temporary personal can be more likely to forget about proper protection measures.
-
-### Looking Ahead
-> 23. May 2021, subjective remarks, currently in work
-
-#### Southern Hemisphere
-Moderate measures are likely needed in Winter 2021 in the Southern Hemisphere since the risks groups are not vaccinated yet. E.g. capacity reduction and moving businesses to outdoors.
-
-#### Northern Hemisphere
-Mild measures (but no closures) such as ventilation and masks in sensible indoor environments (crowded indoor public rooms) and some restriction on indoor mass events (in indoor rooms with more than a few hundred persons) e.g. ensuring ventilation (possibly by CO2 or capacity constraints) can be necessary. 
-
-If the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people: Only very few other measures will be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
-
-> Well not quite, the evolution of directed flying is possible, but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Like all higher life forms, these flying life forms likely evolved from [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. But this evolution took place during billions of years.
 
 
 
@@ -294,7 +276,6 @@ Isolation by a stay-at-home-order may be working for people with own houses with
 
 ## General Public Measures
 
-
 ### Contact Tracing
 > to be written
 
@@ -355,7 +336,6 @@ This sections discusses measures that can be put in place if Covid-19 increase r
   Narrowing of Life. How individuals experience the measures? Are indirect and/or future costs associated e.g. school children missing education. To cover financial costs of restricted businesses [financial support](#financial-support) is assumed.
 * ###### Comment
   The points above are summarized to subjective rating/comments/recommendations. Subjective since they rely on subjective weighting and subjective rating of the single points. 
-
 
 
 ### Corona Conform Skiing
