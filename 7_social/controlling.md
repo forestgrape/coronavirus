@@ -286,6 +286,13 @@ Isolation by a stay-at-home-order may be working for people with own houses with
 -->
 
 ### Testing Benefits
+
+> **To be redone** (23.8.21). I opted here back in 2020 for benefit associated testing, it is widespread now in 2021. However not in the sense this was once intended and written back in November 2020:
+> * The idea was to have easy accessible tests without 'punishment' upon a positive test result and some motivation to take tests in *sensible* situations and not required testing for day-to-day life.
+  >> In Switzerland antigen test are free to obtain in pharmacies (limited number per month). I consider this a good solution in sensible situations one can do two times a morning before breakfast test and if both are negative, changes are low for a Covid infection ([Covid Diagnosis](../3_medical/diagnosis_and_viral_load.md)).
+> * In November 2020 the situation was different than now in than in August 2021: [Immunisation options](../10_vaccines/immunization.md) for risk groups are available and   promising treatments options are proposed (citations in work; on this page there is 'only' a brainstorming chapter on [Topical Treatments](../6_prevention_and_treatment/topical_treatment.md)).
+
+
 Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home [isolation rules](#covid-19-cases-and-quarantine) apply and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
 * Experiences: 
   * Many countries require negative tests for entry. 
@@ -454,11 +461,13 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 ### Corona Conform Schooling
 
-> mostly written in October 2020 during a Corona wave peak in Europe.
- 
+
 > As of 6.6.21 in Europe with risk groups vaccinated, protections can be relaxed. Children get only mild Covid anyways. Vaccination for children is strongly discouraged here, the mRNA vaccines are magnitudes of order more risky for children than Covid.
 
-> As of 20.8.2021 I consider good regular as appropriate but I don't think any other measures are necessary in school settings. Possibly regular testing of teachers.
+> As of 23.8.2021: Good ventilation is the basis. Additional measures depending on the epidemiological and regional situation: Possibly masks. Possibly regular testing with a focus on teachers. Measures tailored to the local situation should work fine since students and teachers normally attend only one (or sometimes two) schools. Continuity in time (at least a few weeks) helps acceptance and clarity. Schools are  places to communicate & explain.
+
+#### School Measures
+> mostly written in October 2020 during a Corona wave peak in Europe.
 
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
 * _Evidence:_  ~~In Israel the reopening of schools seems to have contributed to increased spread~~ **Correction, 24.10.20**: There have been infection clusters in high schools (which have been probably caused by infected teachers, see [Summary Stein-Zamir](../5_epidemiological/spread_analyses.md#summary-stein-zamir)). But I could *not* find any evidence that the rise in cases after reopening the entire country (not only schools) can be causally linked to schools, neither in Israel nor in any other country. 
