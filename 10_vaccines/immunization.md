@@ -1,6 +1,6 @@
 # Vaccines
 
-* [Defining Vaccination](#defining-vaccination)
+* [Defining Immunisation and Vaccination](#defining-immunisation-and-vaccination)
 * [History of Vaccination](#history-of-vaccination)
   * [Relevance](#relevance)
   * [History of Vaccination](#history-of-vaccination-1)
@@ -8,7 +8,7 @@
 
 > **in work and incomplete**
 
-## Defining Vaccination
+## Defining Immunisation and Vaccination
 Immunisation and vaccination are used here as follows:
 
 > ##### Immunisation
@@ -18,6 +18,7 @@ Immunisation and vaccination are used here as follows:
 > *Vaccination* teaches the immune system how to handle something. 
 
 * Vaccination can provide immunization i.e. to prevent a disease.
+* Vaccination can also teach the immune system how to handle something in a 'bad' way in the sense that those vaccinated are at increased risk. The immune system is complicated, e.g. what may work for young can fail for old and vice versa.
 * In literature vaccination is often used more specific e.g. "stimulating antibodies production against something harmful or the agent of a disease". Here the more general usage, given above, is used since:
   * _Immune Response:_ The immune system is more than antibodies. Many vaccines (especially live pathogen vaccines e.g. the oral polio vaccine) induce a broad immune response e.g. including immune cells supervising the right locations.
   * _Specify the target:_ Some definitions use 'something harmful' or 'the agent of a disease'. But many living organisms are part of the biome of healthy people and are just pathogens or agents of a disease in special situations. E.g. many viruses live in our respiratory tract or intestine and help to train the immune system. Just under specific circumstances they can become pathogenic e.g. when the immune system is suppressed. Are they know harmful or agent of a disease?
