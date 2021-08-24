@@ -50,14 +50,14 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
-- 24.8.: General notes on data handling moved to its own page [Data](./8_data/data.md) (previously section on monitoring.md or scattered remarks).
+- 24.8.: General notes on data handling moved to its own page [Data](8_data/data.md) (previously section on monitoring.md or scattered remarks).
 - 24.8.: A new page [Situation Assessments](1_introduction/situation_assessments.md) grouping the previously scattered situation assessments.
 - 22.8.: Many updates and clarifications across the page. E.g. 
   - updated and extend the Immune System Page and renamed it to [Concepts of Immunology](4_immunological/concepts_of_immunology.md).
-  - updates on the [Controlling Page](./7_social/controlling.md) and added section with [measures recommendations](./7_social/controlling.md#measure-recommendations)
+  - updates on the [Controlling Page](7_social/controlling.md) and added section with [measures recommendations](7_social/controlling.md#measure-recommendations)
 - 6.8.: [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md): Clarifications and added examples of faster (alpha, delta)/immune evasion variants (beta, delta).
 - 6.8.: Various updates across the page
-- 26.7.: [Section Transmission Distribution](./5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](./5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
+- 26.7.: [Section Transmission Distribution](5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
 - 26.7.: [Vaccine Safety](10_vaccines/vaccine_safety.md) chapter updated, clarified and extended.
 - 26.7.: Formulations and clarifications across the page e.g. the sections [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md), [Monitoring](8_data/monitoring.md) and [Immune Evasion](4_immunological/immune_evasion.md)
 - 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
@@ -129,13 +129,12 @@ This section overviews the entire content. The [content section](#content) lists
 
 > In the [source on github](https://github.com/forestgrape/coronavirus/blob/master/index.md) the topics correspond to folders and the chapters correspond to files.
 
-* Index (this page): Which has the sections 
-
 ### 1 Introductory Topics
 
 * [Public Suggestions and Tips](1_introduction/suggestions.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
-* [Update History](1_introduction/update_history.md): Content and updates as published in chronological order.
+* [Update History](1_introduction/update_history.md): Content and updates as published in reverse chronological order.
+* [Situation Assessments](1_introduction/situation_assessments.md).
 
 
 ### 2 Biological Topics
