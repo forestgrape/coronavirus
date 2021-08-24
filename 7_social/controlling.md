@@ -420,6 +420,7 @@ A reduction of nightlife can reach from an early closure of clubs to a complete 
     * Greece, 11.8.20: closing between 12 pm and 7 am, in risk regions: Athens [to check])
     * Denmark, 15.9.20: closing at 10 pm in risk regions, recommendation to reduce social contact and ending private parties at 10 pm
     * Spain, 14.8.20: closing of nightclubs, bars and restaurants close at 1 am, no drinking on the streets
+    * Netherlands, Summer 2021: Netherlands opened (accompanied with test/vaccinated entry only) and then closed back again the nightlife after observed superspreading. In the following the hospital cases stop increasing [to confirm and cite].
   
     Two weeks after this measures the incidence of Covid cases flattened in all the above countries. 
     ##### Remark
