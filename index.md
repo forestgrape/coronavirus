@@ -21,16 +21,16 @@ This page contains topics around Covid and Coronaviruses. The content discussed 
 
 This section overviews the entire content. The [content section](#content) lists the topics discussed in more detail. The links point there.
 
-1. [Introductory Topics](#introductory-topics). [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. A healthy lifestyle helps to prevent and overcome Covid. Additionally chronological updates and situations assessments are grouped here.
-2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
-3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
-4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
-5. [Epidemiological Topics](#epidemiological-topics): Where and when coronaviruses spread and how they spread (transmission paths).
-6. [Treatment and Prevention](#treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention with positive 'side-effects' is a healthy lifestyle. For young and healthy people this is a reliable and the recommended prevention from severe Covid infections.
-7. [Social Topics](#social-topics). Thoughts about measures to reduce the spread.
-8. [Data Topics](#data-topics).
-9. [Topics in Physics](#physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
-10. [Vaccines](#vaccines): Safety considerations.
+1. [Introductory Topics](#1-introductory-topics). [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. A healthy lifestyle helps to prevent and overcome Covid. Additionally chronological updates and situations assessments are grouped here.
+2. [Biological Topics](#2-biological-topics). Forms of life and how coronaviruses compare and interact with them.
+3. [Medical Topics](#3-medical-topics). What Covid-19 is and how to diagnose it.
+4. [Immunological Topics](#4-immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
+5. [Epidemiological Topics](#5-epidemiological-topics): Where and when coronaviruses spread and how they spread (transmission paths).
+6. [Treatment and Prevention](#6-treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention with positive 'side-effects' is a healthy lifestyle. For young and healthy people this is a reliable and the recommended prevention from severe Covid infections.
+7. [Social Topics](#7-social-topics). Thoughts about measures to reduce the spread.
+8. [Data Topics](#8-data-topics).
+9. [Topics in Physics](#9-physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
+10. [Vaccines](#10-vaccines): Safety considerations.
 
 ---
 
