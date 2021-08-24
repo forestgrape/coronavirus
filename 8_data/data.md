@@ -38,13 +38,12 @@ Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub rep
 
 ## Permission Policies
 * #### Default Allow
-  Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else.
+  Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else. Also called blacklist (=items to block) approach in computer science)
 * #### Default Deny
-  Default Deny = Deny unless Allowed: Allow only items *with* a specific feature = Target all other items (*without* the specific feature)
+  Default Deny = Deny unless Allowed: Allow only items *with* a specific feature = block all other items i.e. those *without* the specific feature. Also called whitelist (=items to allow) approach in computer science.
 
-> Default allow is also called blacklist approach (blacklist = items to block) and default deny is called whitelist (whitelist = items to allow).
 
 Permission policies are relevant for:
 * Individual Measures and Covid Apps [page currently in work]
-* The immune system: Some parts of the immune system work by default allow (e.g. T cells, pathogen recognition by conserved patterns) and some parts of the immune system work by default deny (e.g. natural killer cells except MHC expression or the blood brain barrier).
+* The immune system: Some parts of the immune system work by default allow (e.g. T cells, pathogen recognition by conserved patterns) and some parts of the immune system work by default deny (e.g. natural killer cells check for MHC expression and target all other cells; the blood brain barrier blocks by default).
 
