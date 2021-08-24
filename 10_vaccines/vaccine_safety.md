@@ -31,7 +31,7 @@
 
 
 ## Summary
-Surveillance of symptoms is often enough for attenuated live pathogen [vaccines](./vaccines.md#vaccine) since it is known what to except: the possibly severe disease intended to prevent. When the symptoms are tolerable and mild, the (severe) disease is not caused and so the controlled infection by vaccination is safer than the natural infection.
+Surveillance of symptoms is often enough for attenuated live pathogen [vaccines](./immunization.md#vaccine) since it is known what to except: the possibly severe disease intended to prevent. When the symptoms are tolerable and mild, the (severe) disease is not caused and so the controlled infection by vaccination is safer than the natural infection.
 
 The method of tolerable symptoms watching is not necessarily enough to ensure the safety of other vaccines technologies. Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine. Examples where symptom watching is not enough:
 * Pathogen causing subtle and/or long lasting infections, live vaccines safety by symptoms watching is tricky. E.g. an AIDS vaccine based on the wild type AIDS virus will pass a short term tolerable symptom test and antibodies will be detected. =>  the kinetics of the pathogen is needed to ensure watching is done over the entire period.
@@ -56,7 +56,7 @@ There are different definitions of immunisation and vaccination around. Here a g
 ## Why Symptom Surveillance is often Not enough for Safety
 
 ### The Setting Vaccine Trials were developed
-The first vaccines were based on live pathogens (and nearly all of the most successful vaccines still are). First related life-forms providing cross immunity and later also the same pathogen but attenuated ([Vaccine history](./vaccines.md#history-of-vaccination)). For such vaccines the main concern is to cause the disease which is intended to be prevented and this happens from time to time. Many (but not all) infections cause immediate symptoms. For most infections symptoms are a good indication how much damage an infection causes and as long as the symptoms are few, serious damage is unlikely. Thus for live pathogen vaccines, it is usually enough to watch for symptoms and detect whether the disease is prevented or at least attenuated enough.
+The first vaccines were based on live pathogens (and nearly all of the most successful vaccines still are). First related life-forms providing cross immunity and later also the same pathogen but attenuated ([Vaccine history](./immunization.md#history-of-vaccination)). For such vaccines the main concern is to cause the disease which is intended to be prevented and this happens from time to time. Many (but not all) infections cause immediate symptoms. For most infections symptoms are a good indication how much damage an infection causes and as long as the symptoms are few, serious damage is unlikely. Thus for live pathogen vaccines, it is usually enough to watch for symptoms and detect whether the disease is prevented or at least attenuated enough.
 
 Later on one started to use adjuvants (substances increasing the immune response). If these substances remain long-term in the body or the effects are diffuse and hard to diagnose  symptom watching is not enough.
 
