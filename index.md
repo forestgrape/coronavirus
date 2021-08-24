@@ -21,10 +21,7 @@ This page contains topics around Covid and Coronaviruses. The content discussed 
 
 This section overviews the entire content. The [content section](#content) lists the topics discussed in more detail. The links point there.
 
-1. [Introduction](#introductory-topics)
-  * [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. A healthy lifestyle helps to prevent and overcome Covid.
-  * [Update History](./1_introduction/update_history.md): Content and updates as published in chronological order.
-
+1. [Introductory Topics](#introductory-topics). [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. A healthy lifestyle helps to prevent and overcome Covid. Additionally chronological updates and situations assessments are grouped here.
 2. [Biological Topics](#biological-topics). Forms of life and how coronaviruses compare and interact with them.
 3. [Medical Topics](#medical-topics). What Covid-19 is and how to diagnose it.
 4. [Immunological Topics](#immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
@@ -137,7 +134,7 @@ This section overviews the entire content. The [content section](#content) lists
 
 * [Public Suggestions and Tips](1_introduction/suggestions.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
-* [Update History](1_introduction/update_history.md)
+* [Update History](1_introduction/update_history.md): Content and updates as published in chronological order.
 
 
 ### 2 Biological Topics
