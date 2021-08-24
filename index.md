@@ -41,7 +41,7 @@ This section overviews the entire content. The [content section](#content) lists
 ## Updates
 ### Recent Topics Added
 - 12.7. How a SARS-CoV-2 variant can have a competition advantage by infecting faster or by immune evasion even without having a higher transmissibility (defined as the average R value): [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
-- 13./14.6. [General Chapter on Vaccination](10_vaccines/vaccines.md)
+- 13./14.6. [General Chapter on Vaccination](10_vaccines/immunization.md)
 - 12./13.6. [Vaccine Safety Questions](10_vaccines/vaccine_safety.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
   > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
 
@@ -52,6 +52,8 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
+- 24.8.: General notes on data handling moved to its own page [Data](./8_data/data.md) (previously section on monitoring.md or scattered remarks).
+- 24.8.: New page [Situation Assessments](1_introduction/situation_assessments.md) where previously scattered situation assessments are grouped and new situation assessment will be published.
 - 22.8.: Many updates and clarifications across the page. E.g. 
   - updated and extend the Immune System Page and renamed it to [Concepts of Immunology](4_immunological/concepts_of_immunology.md).
   - updates on the [Controlling Page](./7_social/controlling.md) and added section with [measures recommendations](./7_social/controlling.md#measure-recommendations)
