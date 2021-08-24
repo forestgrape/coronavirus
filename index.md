@@ -53,7 +53,7 @@ This section overviews the entire content. The [content section](#content) lists
 
 ### Recent Updates
 - 24.8.: General notes on data handling moved to its own page [Data](./8_data/data.md) (previously section on monitoring.md or scattered remarks).
-- 24.8.: New page [Situation Assessments](1_introduction/situation_assessments.md) where previously scattered situation assessments are grouped and new situation assessment will be published.
+- 24.8.: A new page [Situation Assessments](1_introduction/situation_assessments.md) grouping the previously scattered situation assessments.
 - 22.8.: Many updates and clarifications across the page. E.g. 
   - updated and extend the Immune System Page and renamed it to [Concepts of Immunology](4_immunological/concepts_of_immunology.md).
   - updates on the [Controlling Page](./7_social/controlling.md) and added section with [measures recommendations](./7_social/controlling.md#measure-recommendations)
