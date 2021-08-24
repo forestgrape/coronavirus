@@ -60,9 +60,13 @@ The design of measures relies on transmission models. The dangerous transmission
 *Explanations:* Outdoors the viruses get diluted and then either are cleared or decay. Due to decay and clearance there's no accumulation (->[Outdoor is Safer](#outdoors-is-safer)). Outdoors, the main transmission opportunity is droplet transmission in face-to-face situations. Droplet infections are unlikely to cause deep lung infections and therefore severe Covid is less likely (-> [Disease Pattering](../3_medical/coronavirus_disease_patterns.md).
 
 ### Seasonality of Transmission
-The [spread in dry indoor air](../5_epidemiological/spread_analyses.md) of coronaviruses (in fact most respiratory viruses) makes the spread seasonal: Spread in the winter in moderate and northern climate regions. Spread in the summer in hot & humid regions when air-conditioning is used. In moderate climate zones, prevention measures (doing Sauna, pay attention to ventilation, vaccinate risk groups) are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken. 
+The [spread in dry indoor air](../5_epidemiological/spread_analyses.md#summary) of coronaviruses (in fact most respiratory viruses) makes the spread seasonal: 
+* Spread in the winter in moderate and northern climate regions. 
+* Spread in the summer in hot & humid regions when air-conditioning is used. 
 
-> I don't except strict measures to be necessary (-> [Looking Ahead](../7_social/controlling.md#looking-ahead)).
+In moderate climate zones, prevention measures (doing Sauna, pay attention to ventilation, vaccinate risk groups) are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken. 
+
+> I don't except strict measures to be necessary during Winter 2021 (-> [Looking Ahead](../1_introduction/situation_assessments.md#looking-ahead-may-2021)).
 
 ### Spread Metaphor
 *Aerosol transmission* behaves [smoke like](../5_epidemiological/transmission.md#metaphor-and-measures). 
@@ -98,12 +102,17 @@ A short summary of recommended measure packages to reduce the Covid.
 
 ### Year Round Measures
 To prevent high rates of hospitalizations, some base measures can be adequate in risk regions.
-* Nightlife e.g. an early closure at 2 AM.
+
+#### Base Year Round Measures
+* [Schools and Universities](#corona-conform-schooling): Regular ventilation and education on viruses and their transmission.
+* Regular [ventilation](#ventilation) of residential blocks and education of caretakers how to ventilate.
+
+#### Optional Year Round Measures
+* [Nightlife](#reduction-of-nightlife) e.g. an early closure at 2 AM.
 * Reducing Superspreading by capacity and/or CO2 limits for large scale settings: These include large stadium, large shopping malls.
 * Slowing down transmission associated with travelling, especially airplane travel: For intercontinental airplane travelling one Covid test one or two days ahead of travel and one Covid test one or two days after arrival.
   * The tests should be done by everybody including those vaccinated else the spread of variants circumventing vaccination is promoted.
   * (Short-term) Business travelling is risky, no exception for tests.
-* Schools: Regular ventilation and education on viruses and their transmission. 
 
 ### Summer Measures
 * [Ventilation](#ventilation) maxed: Either keep the windows open or put the built in ventilation to max level. 
@@ -288,9 +297,9 @@ Isolation by a stay-at-home-order may be working for people with own houses with
 ### Testing Benefits
 
 > **To be redone** (23.8.21). I opted here back in 2020 for benefit associated testing, it is widespread now in 2021. However not in the sense this was once intended and written back in November 2020:
-> * The idea was to have easy accessible tests without 'punishment' upon a positive test result and some motivation to take tests in *sensible* situations and not required testing for day-to-day life.
-  >> In Switzerland antigen test are free to obtain in pharmacies (limited number per month). I consider this a good solution in sensible situations one can do two times a morning before breakfast test and if both are negative, changes are low for a Covid infection ([Covid Diagnosis](../3_medical/diagnosis_and_viral_load.md)).
-> * In November 2020 the situation was different than now in than in August 2021: [Immunisation options](../10_vaccines/immunization.md) for risk groups are available and   promising treatments options are proposed (citations in work; on this page there is 'only' a brainstorming chapter on [Topical Treatments](../6_prevention_and_treatment/topical_treatment.md)).
+> * The idea was to have easy accessible tests without 'punishment' upon a positive test result and motivation to take tests in *sensible* situations and not required testing for day-to-day life.
+  >> In Switzerland antigen test are free to obtain in pharmacies (limited number per month). I consider this a good solution in sensible situations one can do a morning before breakfast test and if both are negative, changes are low for a Covid infection ([Covid Diagnosis](../3_medical/diagnosis_and_viral_load.md)).
+> * In November 2020 the situation was different than now in than in August 2021: [Immunisation options](../10_vaccines/immunization.md) for risk groups is available and   promising treatments options are proposed (citations in work; on this page there is 'only' a brainstorming chapter on [Topical Treatments](../6_prevention_and_treatment/topical_treatment.md)).
 
 
 Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home [isolation rules](#covid-19-cases-and-quarantine) apply and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
@@ -299,7 +308,7 @@ Often turning up for test is not associated with any benefits, on the contrary i
   * In Slovakia in early November 2020 a nationwide testing campaign and only those with negative tests were excluded from a general curfew. 
     > A new tactics and it will be interesting to analyze it. A general curfew I consider to strict in any situation including this. Only allowing people with negative tests to enter foreign indoor settings (e.g. gastronomy/offices) should be enough.
 
-    > A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms. 
+    ~~> A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms.~~ this was to prevent home lockdown and is mostly obsolete as of August 2021.
 
 
 ### Outdoor Days
@@ -467,7 +476,6 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 > As of 23.8.2021: Good ventilation is the basis. Additional measures depending on the epidemiological and regional situation: Possibly masks. Possibly regular testing with a focus on teachers. Measures tailored to the local situation should work fine since students and teachers normally attend only one (or sometimes two) schools. Continuity in time (at least a few weeks) helps acceptance and clarity. Schools are  places to communicate & explain.
 
-#### School Measures
 > mostly written in October 2020 during a Corona wave peak in Europe.
 
 Measure regarding schools can reach from complete closure to mild measures such as wearing face-masks in breaks.
