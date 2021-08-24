@@ -308,7 +308,7 @@ Often turning up for test is not associated with any benefits, on the contrary i
   * In Slovakia in early November 2020 a nationwide testing campaign and only those with negative tests were excluded from a general curfew. 
     > A new tactics and it will be interesting to analyze it. A general curfew I consider to strict in any situation including this. Only allowing people with negative tests to enter foreign indoor settings (e.g. gastronomy/offices) should be enough.
 
-    ~~> A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms.~~ this was to prevent home lockdown and is mostly obsolete as of August 2021.
+    ~~> A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms.~~ this was to prevent home lockdown, long shutdowns and chaotic hospital overflows. This is obsolete as of August 2021.
 
 
 ### Outdoor Days
@@ -316,12 +316,12 @@ Avoiding foreign and public indoor rooms. Prevents aerosol transmission if care 
 
 
 ### Home-Lock Down
-A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was more limited and transmission less known. It has very severe drawbacks compared to [outdoor days](#outdoor-days):
+A general curfew is a radical measure. It reduces contacts and makes it easier to enforce a ban on entering foreign indoor rooms. This measure was mainly used in Winter/Spring 2020 when the information about SARS-CoV-2 was limited and transmission unclear. It has very severe drawbacks compared to [outdoor days](#outdoor-days):
 * few or no movement for a longer time is not good for health and also increases the risk for severe Covid.
 * it may increase Covid-19 transmission within residential blocks since most are forced to stay indoors. Especially when doing indoor sports a lot of air is in- and exhaled and so possibly infectious aerosol which puts fellow occupants and neighbors in the same building at risk. It's loose loose.
 * being locked at home often has negative psychological effects.
 
-A curfew at night has some use cases e.g. preventing private parties but in most situations softer measures are enough e.g. [Reduction of Nightlife](#reduction-of-nightlife).
+A curfew at night is less radical and was sometimes used e.g. to prevent private parties but in nearly all situations softer measures are more adequate e.g. [Reduction of Nightlife](#reduction-of-nightlife).
 
 
 ### Financial Support
