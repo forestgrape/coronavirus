@@ -44,3 +44,7 @@ Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub rep
 
 > Default allow is also called blacklist approach (blacklist = items to block) and default deny is called whitelist (whitelist = items to allow).
 
+Permission policies are relevant for:
+* Individual Measures and Covid Apps [page currently in work]
+* The immune system: Some parts of the immune system work by default allow (e.g. T cells, pathogen recognition by conserved patterns) and some parts of the immune system work by default deny (e.g. natural killer cells except MHC expression or the blood brain barrier).
+
