@@ -1,7 +1,8 @@
 ---
 title: Home of Betacoronavirus
 home: true
-flavour: general
+technicality: 1
+explorative: 1
 ---
 
 
