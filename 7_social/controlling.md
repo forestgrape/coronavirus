@@ -98,19 +98,19 @@ A short summary of recommended measure packages to reduce the Covid.
 
 > in work 22.8.
 
-> The recommended packages are subjective. While measures to reduce Covid transmissions can be statistically analysed, the weighting of the society costs is mostly subjective.
+> Overall the recommended packages is subjective. While measures to reduce Covid transmissions can be statistically analysed, the weighting of the society costs is subjective.
 
 ### Year Round Measures
 To prevent high rates of hospitalizations, some base measures can be adequate in risk regions.
 
 #### Base Year Round Measures
 * [Schools and Universities](#corona-conform-schooling): Regular ventilation and education on viruses and their transmission.
-* Regular [ventilation](#ventilation) of residential blocks and education of caretakers how to ventilate.
+* Education on ventilation: Regular [ventilation](#ventilation) of residential blocks and education of caretakers how to ventilate.
 
 #### Optional Year Round Measures
 * [Nightlife](#reduction-of-nightlife) e.g. an early closure at 2 AM.
-* Reducing Superspreading by capacity and/or CO2 limits for large scale settings: These include large stadium, large shopping malls.
-* Slowing down transmission associated with travelling, especially airplane travel: For intercontinental airplane travelling one Covid test one or two days ahead of travel and one Covid test one or two days after arrival.
+* Reducing Superspreading by capacity and/or CO2 limits for large scale settings: These include large stadiums and shopping malls.
+* Slowing down transmission associated with travelling, especially airplane travel: For airplane travelling one Covid test one or two days ahead of travel and one Covid test one or two days after arrival.
   * The tests should be done by everybody including those vaccinated else the spread of variants circumventing vaccination is promoted.
   * (Short-term) Business travelling is risky, no exception for tests.
 
@@ -209,10 +209,10 @@ To prevent droplet transmission outdoors or in very well ventilated situations a
 
 
 ### Ventilation
-Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoors-is-safer) is much lower than in indoor air. In sensible locations limits on the CO2 concentration and continuous monitoring ensure good ventilation (the indoor CO2 is e.g. described in [Stocker](#stocker)). 
+Ventilation reduces the indoor airborne spread, since the virion density in [outdoor air](#outdoors-is-safer) is much lower than in indoor air. In sensible locations limits on the CO2 concentration and continuous monitoring ensure good ventilation (the indoor CO2 concentration is e.g. described in [Stocker](#stocker)). 
 
-* [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged ([escombe: Figure 1](#https://doi.org/10.1371/journal.pmed.0040068.g001)).
-* [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza, based on observed contact patters of high school students. In the simulation, good ventilation is as effective as reducing transmission of half of the population. // in the paper vaccinate is used instead of reducing transmission. Reducing transmission is used since there is evidence that influenza vaccines do not stop spreading influenza and transmission can be reduced in different ways e.g. by mask.
+* [Escombe et al](#escombe) show natural ventilation is a valid measure and that in the first few minutes of opening the windows a major part of air is exchanged (Escombe: Figure 1:<https://doi.org/10.1371/journal.pmed.0040068.g001>).
+* [Salathe et al](#salathe) simulate the airborne (aerosol) and droplet spread of influenza based on observed contact patters of high school students. In the simulation, good ventilation is as effective as reducing transmission of half of the population. // in the paper vaccinate is used instead of reducing transmission. Reducing transmission is used here since there is evidence that influenza vaccines do not stop spreading influenza. Additionally transmission can be reduced in different ways e.g. by mask.
 
 
 ### Distancing
@@ -474,7 +474,7 @@ The history of prohibition dates back nearly as long, as history itself has been
 
 > As of 6.6.21 in Europe with risk groups vaccinated, protections can be relaxed. Children get only mild Covid anyways. Vaccination for children is strongly discouraged here, the mRNA vaccines are magnitudes of order more risky for children than Covid.
 
-> As of 23.8.2021: Good ventilation is the basis. Additional measures depending on the epidemiological and regional situation: Possibly masks. Possibly regular testing with a focus on teachers. Measures tailored to the local situation should work fine since students and teachers normally attend only one (or sometimes two) schools. Continuity in time (at least a few weeks) helps acceptance and clarity. Schools are  places to communicate & explain.
+> As of 23.8.2021: Good ventilation is the basis. Additional measures depending on the epidemiological and regional situation: Possibly masks. Possibly regular testing with a focus on teachers. Measures tailored to the local situation should work fine since students and teachers normally attend only one (or sometimes two) school(s). Continuity in time (at least a few weeks) helps acceptance and clarity. Schools are  places to communicate & explain.
 
 > mostly written in October 2020 during a Corona wave peak in Europe.
 
@@ -571,12 +571,18 @@ Measure regarding schools can reach from complete closure to mild measures such 
 
 ### Outdoors is Safer
 Outdoors is safer because of:
-- [Dilution](#dilution): The virion density decreases rapidly due to the air exchange that is present outdoors. 
+- [Virion Decay](#virion-decay): Virions decay fast since sunlight, high temperatures and a variety of chemicals and biochemicals damage the virions and without metabolism they can't repair themselves.
+- [Dilution](#virion-dilution): The virion density decreases rapidly due to the air exchange. 
 - [Virion Clearance](#virion-clearance): Humidity, rainfall and abundant attachment surfaces clear the air from virions. Once attached to natural surfaces, there are countless microorganisms nourishing from anything digestible.
-- The [coronavirus decay rate](../2_biological/virion_viability.md) is fast compared to other forms of life and they can't repair any damage. Exposed to  disinfectants or soap most virions decay within a minute. Sunlight and high temperatures also render the virions un-infectious fast. The virions survive longest in dry air without sunlight. Even on cloudy days and towards the evening sunlight induce a quite fast decay.
-  > Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. Unlike virions we also have an advanced repair mechanism which often can put things right again.
 
-#### Dilution
+#### Virion Decay
+The virion decay is fast compared to other forms of life since they are fragile and can't repair any damage. Exposed to  disinfectants or soap most virions decay within a minute. Sunlight and high temperatures also render the virions un-infectious with a halflife time of a few minutes. The virions survive longest in dry air without sunlight. Even on cloudy days and towards the evening the virion halflife time is about 10 minutes.
+
+> Even our stable DNA in the inner layer of the skin, protected by outer layer of the skin which contains light absorbing melanin (the more light absorbing melanin the less sunlight reaches the inner layer of the skin), a cell membrane and inside the cell nucleus takes damage from exposure to UV. Unlike virions we also have an advanced repair mechanism which often can put things right again.
+
+> A detailed description of the coronavirus decay is on the page [virion viability](../2_biological/virion_viability.md). 
+
+#### Virion Dilution
 Outdoors there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
 * Even in the most densely populated cities the population density reaches at most 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, this yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
