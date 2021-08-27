@@ -50,6 +50,8 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
+- 27.8.: New Accompanying Page which contains situations estimates/analyses for Switzerland: <https://forestgrape.github.io/corona-ch/> (Page in German)
+- 27.8.: Section [Outdoors is Safer](7_social/controlling.md#outdoors-is-safer) on the controlling page clarified.
 - 24.8.: General notes on data handling moved to its own page [Data](8_data/data.md) (previously section on monitoring.md or scattered remarks).
 - 24.8.: A new page [Situation Assessments](1_introduction/situation_assessments.md) grouping the previously scattered situation assessments.
 - 22.8.: Many updates and clarifications across the page. E.g. 
