@@ -84,7 +84,7 @@ Findings:
      * being at low air pressure (either high altitude or airplane) 
      * vocal activities such as singing or shouting
      * strains e.g. sports. Already going up a staircase can be enough when: the oxygen uptake is low (e.g. arteriosclerosis) or unathletic or going up fast.
-* *Dry Indoor Air is associated to the Spread of severe Covid:* Nearly all waves of severe Covid occur in settings with dry air: heated, ACs or dry outdoor air. Likely since the lung deposition rate is increased when the exhaled virions dry out. Also the virions have a higher viability in dry air and the immune system clearance of the respiratory tract is reduced in dry air.
+* *Dry Indoor Air is associated to the Spread of severe Covid:* Nearly all waves of severe Covid occur in settings with dry air: heated, ACs or dry outdoor air. Likely since the lung deposition rate is increased when the aerosolized virions dry out. Also the virions have a higher viability in dry air and the immune system clearance of the respiratory tract is reduced in dry air.
 * *Droplet Transmission is Not important for the Spread of severe Covid:* In settings where droplet transmission but no aerosol transmission is likely, namely in crowded outdoor settings such as demonstrations or swimming pools, transmissions of symptomatic Covid-19 is not noticed.
 * *Contact Transmission is possibly associated to the Spread of mild Covid but not of severe Covid* [arguments in work]
 * *Fomite Transmission is Not important for the Spread of Covid:* In settings where contact and fomite transmission is likely (e.g. no water to wash , eating with hands), there is no evidence for transmission of Covid neither at the population level (regions where water to wash hands is scarce) nor through contact-tracing (e.g. on camping grounds, take away food).
@@ -497,17 +497,18 @@ The observed spread patter even favour small or dry particulates over larger aer
 
 
 ### Airplanes
+Airplanes are major risk location for Covid-19 transmission since:
+* The low air pressure induces deep breathing, which in turn increases the number of in- and exhaled particles (-> [Particle Dynamics in the Respiratory Tract](transmission.md#particle-dynamics-in-the-respiratory-tract))
+* Unless humidified, the air inside airplanes is very dry.
+ 
 [Freedman and Wilder-Smith](#freedman) is a concise review about the knowledge on airplane transmission as of September 2020. Table 1 in their paper summarizes the studies reviewed. Key points from their summary:
-* "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single f light from a single index case;1 conversely, several other carefully stud- ied flights resulted in no transmission."
+* "In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness. In 2003, up to 22 transmissions occurred on a single flight from a single index case;1 conversely, several other carefully studied flights resulted in no transmission."
 * For SARS-CoV-2 two super-spreading events (more than 10 transmissions) have been observed. Both in March when no adequate aerosol protection measures were in place. Both index cases were symptomatic. 
-* Since strong protection measures are in place only few transmissions have been described. 
-* Protection measures in airplanes:
-  * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
-  * Masks (mostly permanent but often meals are served)
-  * Ventilation is not mentioned in the paper from [Freedman and Wilder-Smith](#freedman), see [Ventilation in Airplanes](#ventilation-in-airplanes)
 
-#### Ventilation in Airplanes
-Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air flow is from top to bottom (and not anymore from front to back) [citations in work].
+Protection measures in airplanes (mostly based on [Freedman and Wilder-Smith](#freedman)):
+  * Screens for symptoms at boarding time (asymptomatic patients have been frequently overlooked but they rarely caused transmissions.
+  * Masks (sometimes permanent but often meals are served)
+  * Ventilation:  Airlines seem to have optimized ventilation to have a high air exchange (20 times per hour) and the air flow is from top to bottom (and not anymore from front to back) [citations in work].
 
 
 ### Factories
