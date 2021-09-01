@@ -1,6 +1,11 @@
 # Movement and Exercise
 
-**in work**
+> The entire page is **in work and incomplete**
+
+> sometime citations and/or confirmations is missing 
+
+> Explorative
+
 ## Summary 
 Movement is in the early phase of Covid-19 helps to produce a good immune response. In the convalescent phase movement speeds up recovery and reduces the probability of long term effects.
 
@@ -18,25 +23,38 @@ Movement is in the early phase of Covid-19 helps to produce a good immune respon
 To support good health and Covid prognosis the [measures](../7_social/controlling.md) and the [isolation and quarantine rules](../7_social/controlling.md#covid-19-cases-and-quarantine)) should take the benefits of movement into account.
 
 ## Biological Mechanisms
-[simplified, a more detailed argumentation in work]
-In the __early phase__ of Covid, movement is important since the circulation in the lymphatic system is mostly passive and driven by body movement. With movement the immune response is better and faster since coronavirus infection 'signatures' reach the lymph nodes faster where capable immune cells are trained. Some of these cells migrate to protect other body location such as the lungs; extern movement makes them migrate faster. With healthy movement, for infections starting in the upper respiratory tract, protective immune cells (mainly T cells) are likely to reach the lungs before the viruses have time to replicate to high numbers.
-In the __convalescent phase__ movement is important since 
+> [simplified, a more detailed argumentation to be done]
+
+
+### Pre Covid-19
+> in work
+
+### Early Phase of Covid-19
+One reason movement is important in the early phase of Covid, is that the circulation of the lymph is better since the circulation is partly passive and driven by body movement [to confirm and cite]. With movement the virus 'signatures' reach the lymph nodes faster where capable immune cells can be recruited. Some of these cells migrate to protect other body locations: e.g. when infected in the upper respiratory tract some cells migrate to protect lower the lungs. Extern movement makes them migrate faster. With healthy movement, for infections starting in the upper respiratory tract, protective immune cells (mainly T cells) are likely to reach the lungs before the viruses have time to replicate to high numbers.
+
+### Convalescent Phase of Covid-19
+In the convalescent phase movement is important since 
 1. Movement helps clearing the lymph and thus remnants of SARS-2 (antigens which can cause inflammation) are removed.
 2. Movement or even careful sport keep the immune system in check and prevent it from overshooting which is likely a major reason for [long covid](./../3_medical/covid19.md#long-lasting-effects).
 
 
 ## Epidemiological Evidence
+### Epidemiological Evidence a Lifestyle with Movement is beneficial to the Covid-19 Prognosis
 There is epidemiological evidence supporting the above argumentation:
 * Countless athletes have caught Covid infections. Despite their fitness is thoroughly supervised and regularly competitively evaluated so that even a slight performance decrease is noticed - to my knowledge - no long term effects have been observed. Besides having a good health, adequate training likely helped to overcome Covid. 
-* In situations with strict stay-at-home orders the fatality rate (fatality rates in different locations shown in Table 4 in [Ioannidis](../3_medical/covid19.md#ioannidis) including rates for those younger than 70) and the rates of severe cases are higher than in situations without stay-at-home orders (isolation rules can be mostly ignored, especially in spring 2020 since the case detection rates were below 5 %). [more precise analyses on todo]
 * Important risk factors for severe Covid are well correlated with with few movements/sports e.g. obesity, arteriosclerosis and diabetes. Since behavior patters are often stable, it is possible that too few movement/sports is to some extent a confounding cause for the mentioned risk factors.
+* [Bielik et al](#bielik) observe that physically active people tend to have more often an asymptomatic Covid infection compared to less active controls. When additionally to physical activity, cold water swimming is practice to chance of being asymptomatic is even higher. Furthermore the cold water swimmers often have about double the chance to have *no* acute respiratory infection in a year. //all results shown in Table 3 in the paper.
+* [de Souza et al](#de-souza) Performing at least 150 min of moderate or 75 min intense  physical activity per week reduces the probability of hospitalization by about a third. The reduction is significant with 0.028 even when adjusted for age, sex and BMI. //Results are shown in Table 3 in the paper.
+* [Yates et al](#yates) find that the risk for severe Covid and death is lowered for people with a self reported brisk walking speed. Overweight and obesity also increase the risk for severe Covid and especially for death. //Fig. 1 in the paper
+* [Rowlands et al](#rowlands) find that increased physical activity measured by accelerometers in 2013-2015 is associated to less severe Covid is especially in women. The chances to catch Covid are more or less the same. // Odds ratios in Figure S2 and S3 with adjustments and in Figure S4 for unadjusted models.
 
 
-## References 
-[in work]
+### Epidemiological Evidence that NO Movement before and during Covid-19 is bad for the Prognosis
+* In situations with strict stay-at-home orders the fatality rate (fatality rates in different locations shown in Table 4 in [Ioannidis](../3_medical/covid19.md#ioannidis) including rates for those younger than 70) and the rates of severe cases are higher than in situations without stay-at-home orders (isolation rules can be mostly ignored, especially in spring 2020 since the case detection rates were below 5 %). [more precise analyses on todo]
 
 
-### References Exercise and Inactivity
+
+### References Exercise During Covid Times
 
 #### Ali
 Amira Mohammed Ali, Hiroshi Kunugi
@@ -46,3 +64,34 @@ Amira Mohammed Ali, Hiroshi Kunugi
 #### Zhu
 Zhu W. **Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.** J Sport Health Sci 2020;9:1057. (http://creativecommons.org/licenses/by-nc-nd/4.0/)
 <https://doi.org/10.1016/j.jshs.2020.01.005>
+
+### References Movements as Covid Factor
+
+#### Bielik
+Bielik,V.;Grendar,M.; Kolisek, M. A Possible Preventive Role of Physically Active Lifestyle during the SARS-CoV-2 Pandemic; Might Regular Cold-Water Swimming and Exercise Reduce the Symptom Severity of COVID-19? Int. J. Environ. Res. Public Health 2021, 18, 7158. 
+<https://doi.org/10.3390/ijerph18137158>
+
+#### de Souza
+**Association of physical activity levels and the prevalence of COVID-19-associated hospitalization**
+<https://doi.org/10.1016/j.jsams.2021.05.011>
+
+#### Yates
+Yates, T., Razieh, C., Zaccardi, F. et al. **Obesity, walking pace and risk of severe COVID-19 and mortality: analysis of UK Biobank.** Int J Obes 45, 1155–1159 (2021). 
+<https://doi.org/10.1038/s41366-021-00771-z>
+
+#### Summary af Geijerstam
+af Geijerstam A, Mehlig K, Börjesson M, et al. **Fitness, strength and severity of COVID-19: a prospective register study of 1 559 187 Swedish conscripts.** BMJ Open 2021;11:e051316. 
+<doi:10.1136/bmjopen-2021-051316>
+
+In this interesting prospective cohort study the authors find that a high CRF at the time of military conscription (about 20 of age) reduces the chances of hospitalization, ICU and death from Covid-19 later in life. //Results shown in Figure 2.
+
+#### Rowlands
+Rowlands AV, Dempsey PC, Gillies C, Kloecker DE, Razieh C, Chudasama Y, Islam N, Zaccardi F, Lawson C, Norris T, Davies MJ, Khunti K, Yates T, 
+**Association between accelerometer-assessed physical activity and severity of COVID-19 in UK Biobank,**
+Mayo Clinic Proceedings: Innovations, Quality & Outcomes (2021), doi: 
+<https://doi.org/10.1016/j.mayocpiqo.2021.08.011.>
+
+
+#### Chastin
+Chastin, S., Abaraogu, U., Bourgois, J. G., Dall, P. M., Darnborough, J., Duncan, E., Dumortier, J., Pavón, D. J., McParland, J., Roberts, N. J., & Hamer, M. (2021). Effects of Regular Physical Activity on the Immune System, Vaccination and Risk of Community-Acquired Infectious Disease in the General Population: Systematic Review and Meta-Analysis. Sports medicine (Auckland, N.Z.), 51(8), 1673–1686. 
+<https://doi.org/10.1007/s40279-021-01466-1>
