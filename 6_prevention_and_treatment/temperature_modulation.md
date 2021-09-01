@@ -92,7 +92,7 @@ https://doi.org/10.12688/f1000research.23299.2
 
 
 #### Khaltaev
-Balneotherapy and hydrotherapy in chronic respiratory disease
+**Balneotherapy and hydrotherapy in chronic respiratory disease**
 
 
 ### References Sauna
