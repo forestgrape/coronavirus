@@ -87,11 +87,13 @@ More about in the chapter [Diagnosis](../3_medical/diagnosis_and_viral_load.md) 
 The following terms describe the symptom stage of a person.
 
 > ##### Symptomatic
-> A person experiencing/notifying/showing symptoms of a disease is called symptomatic. 
+> A person experiencing/notifying/showing symptoms of a disease is called symptomatic.
+
 > ##### Asymptomatic
 > A person *not* experiencing/notifying/showing symptoms while having an infection is called asymptomatic.
+
 > ##### Presymptomatic
-> Even those person developing symptoms are asymptomatic in the early phase of a disease during these phase a person is called presymptomatic. 
+> Even those developing symptoms are asymptomatic in the early phase of a disease. This asymptomatic stage is called presymptomatic. 
 
 ## Disease Factors
 A virus disease is an interplay of host factors including the host immune system, the behavior of the virus and of environmental factors.
@@ -214,10 +216,10 @@ Sometime long lasting symptoms such as fatigue and decreased physical fitness ca
 > *Fatality rate* on this page is used synonymously to [infection fatality rate](#infection-fatality-rate).
 
 The fatality rate depends on the definition of a SARS-CoV-2 infection and a death cause by SARS-CoV-2. Both are not straight forward to define: 
-* SARS-CoV-2 infections and diseases are described in the chapter [Diseases and Infections](#infections-and-diseases). Acute [Covid-19](#covid-19) are usually diagnosed by PCR tests and past infections detecting antibodies by serology. These methods don't agree in all cases: One can have a positive PCR test but no antibody in the blood or an antibody response in the blood without a negative PCR test in the nose (especially if measured only at a single time point) ([Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)). 
+* SARS-CoV-2 infections and diseases are described in the chapter [Diseases and Infections](#infections-and-diseases). Acute [Covid-19](#covid-19) is usually diagnosed by PCR tests and past infections detecting antibodies by serology. These methods don't agree in all cases: One can have a positive PCR test but no antibody in the blood or an antibody response in the blood without a negative PCR test in the nose (especially if measured only at a single time point) ([Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)). 
 * For many Covid associated deaths Covid is the main death cause. But for some cases the patients have other severe illnesses and to finally single out a death cause is difficult. Hard to estimate is also how many life years Covid takes.
 
-Once agreed upon a uniform way to measure the fatality rate, the rate still varies considerably due to different populations structures (e.g. age, exposed air pollution, overall health, ...), medical systems, environmental factors and living conditions such as climate and air pollution. 
+Once agreed upon a uniform way to measure the fatality rate, the rate still varies considerably due to different populations structures (e.g. age, overall health, ...), medical systems, environmental factors and living conditions such as climate and air pollution. 
 
 
 > ###### Case Fatality Rate
@@ -322,5 +324,5 @@ Published Online April 17, 2020 <https://doi.org/10.1016/ S0140-6736(20)30937-5>
 
 ## Appendix
 > #### Personal Covid Experience
-> I likely had Covid-19 myself in early to mid March 2020 when temperatures were freezing cold in my living place back then at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious: 1) lack of respiratory symptoms - not a single cough if I recall correctly, 2) the supposed low prior probability according to the official prevalence and 3) I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon the initial symptoms faded and I felt fit again. I went for some cross country skiing and much more intense than planned since three quarters were through deep snow. The sport session went well by itself, but it turned out to have been a bad idea: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
-> Counting everything up it likely was Covid-19 and the sports session likely gave the viruses the opportunity to spread within the lungs. Noteworthy too: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. Immune response was still timely though: Less than twelve hours after the likely infection event (someone repeatedly coughing about 4 meters away in the same room and I was there about an hour and a half) the initial strange feeling started.
+> I likely had Covid-19 myself in early to mid March 2020 when temperatures were freezing cold in my living place back then at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious: 1) lack of respiratory symptoms - not a single cough if I recall correctly, 2) the supposed low prior probability according to the official prevalence and 3) I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon the initial symptoms faded and I felt fit again. I went for some cross country ski session which was more intense than planned since three quarters were through deep snow. The sport session went well by itself, but the coronaviruses likely used the opportunity: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
+> Counting everything up it likely was Covid-19. Noteworthy: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. Immune response was still timely though: Less than twelve hours after the likely infection event (someone repeatedly coughing about 4 meters away in the same room and I was there about an hour and a half) the initial strange feeling started.
