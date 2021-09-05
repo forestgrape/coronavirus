@@ -1,6 +1,6 @@
 # Good Air - Quality, Measurement and Certification
 
-> brainstorming chapter just put here as ideas.
+> Explorative chapter. Brainstorming ideas how to provide and ensure good air. The associated health benefits including reduced Covid spread are sketched.
 
 > A main goal of this chapter is to propose 'Good Air Certification'. Background: Sometimes indoor room entry is only allowed with a 'Covid certificate' with the intention to allow only the entry of people who presumably exhale less infectious SARS-2 aerosol. Often it is assumed, that this is the case for tested/vaccinated or sometimes vaccinated only persons. An alternative is to certificate the air quality directly without the detour of entry restrictions.
 
