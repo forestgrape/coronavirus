@@ -1,6 +1,11 @@
 
 # Data 
 
+* [Distributed Handling](#distributed-handling)
+* [Data Specifications](#data-specifications)
+* [Analyse Measures](#analyse-measures)
+* [Permission Policies](#permission-policies)
+
 ## Distributed Handling
 Data production / collection, data description and data analysis can be done separate today. 
 
@@ -36,6 +41,10 @@ Remark: As of 1.5.20 more people are allowed to test.
 Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub repository or REST API) and are annotated e.g. contain a readme with the specifications what and how is measured. 
 
 
+## Analyse Measures
+> in work
+
+
 ## Permission Policies
 * #### Default Allow
   Default Allow = Allow unless Denied: Target everything *with* a specific feature and allow everything else. Also called blacklist (=items to block) approach in computer science)
@@ -45,5 +54,5 @@ Data ideally are in a common format (e.g. CSV), on a public API (e.g. GitHub rep
 
 Permission policies are relevant for:
 * Individual Measures and Covid Apps [page currently in work]
-* The immune system: Some parts of the immune system work by default allow (e.g. T cells, pathogen recognition by conserved patterns) and some parts of the immune system work by default deny (e.g. natural killer cells check for MHC expression and target all other cells; the blood brain barrier blocks by default).
+* The immune system: Some parts of the immune system work by default allow (e.g. T cells: pathogen recognition by pathogens specific patterns) and some parts of the immune system work by default deny (e.g. natural killer cells check for MHC expression and target all other cells; the blood brain barrier blocks by default).
 
