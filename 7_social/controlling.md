@@ -62,7 +62,8 @@ The design of measures relies on transmission models. The dangerous transmission
 ### Seasonality of Transmission
 The [spread in dry indoor air](../5_epidemiological/spread_analyses.md#summary) of coronaviruses (in fact most respiratory viruses) makes the spread seasonal: 
 * Spread in the winter in moderate and northern climate regions. 
-* Spread in the summer in hot & humid regions when air-conditioning is used. 
+* Spread in the summer in hot & humid regions when air-conditioning is used.
+* Spread during dry seasons in regions with extremely low air humidities (below 30%).
 
 In moderate climate zones, prevention measures (doing Sauna, pay attention to ventilation, vaccinate risk groups) are important in the winter, can be relaxed during the spring, in the summer the risk is low and in autumn care needs to be taken. 
 
@@ -98,7 +99,7 @@ A short summary of recommended measure packages to reduce the Covid.
 
 > in work 22.8.
 
-> Overall the recommended packages is subjective. While measures to reduce Covid transmissions can be statistically analysed, the weighting of the society costs is subjective.
+> Overall the recommended packages is subjective. While measures to reduce Covid transmissions can be [statistically analysed](../8_data/data.md#analyse-measures) to some extent, the weighting of the society costs is subjective.
 
 ### Year Round Measures
 To prevent high rates of hospitalizations, some base measures can be adequate in risk regions.
