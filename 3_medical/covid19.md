@@ -14,6 +14,7 @@
 * [Virion Shedding](#virion-shedding)
 * [Prevention and Treatment](#prevention-and-treatment)
   * [Movement](#movement)
+  * [Quarantine-Healthy Recovery Contradiction](#quarantine-healthy-recovery-contradiction)
 * [Recovery and Long Lasting Effects](#recovery-and-long-lasting-effects)
   * [Literature Recovery](#literature-recovery)
   * [How to Recover](#how-to-recover)
@@ -166,42 +167,39 @@ Being infected does not imply one sheds infectious virions. The viral shedding d
 ### Movement
 Movement is import for optimal functioning of the immune system. A good working immune system in turn is important regarding the prevention, the treatment and recovering of/from Covid-19. Moderate movement (e.g. a walk or home stretching. For home sports ventilation of the room before and afterwards is important) is recommended even when infected, while exercise is only recommended when fit and healthy.
 
-> In some regions if tested positive a walk outdoors is  only allowed for people in house with a garden. Though the detection rate of mild cases is usually very low, so many will have no formal restrictions.
-
-> Movement can be associated with deep breathing which is aerosol generating. Therefore when possibly infected and with people to protect in the same flat, it is important to be in a separate room and ventilate the room even after stretching and light exercise. Regarding aerosol transmission outdoors is still way safer.
-
-> The strict isolation rules were designed with SARS-1 and it's prevalence in mind: a few sporadic and severely sick cases. Additionally a droplet and fomites transmission model was assumed, which makes isolation in an indoor room effective.
-
-> In my opinion, in the case of targeted testing, those living in flats with small living spaces, which already have a greater infection risk, should not have additional constraints possibly hindering a healthy recovery and putting fellow occupants at risk.
-
- 
-
-The benefits of sports founded by biological mechanisms and epidemiological evidence are described on the [Movement page](../6_prevention_and_treatment/movement.md).
-
 Recommended articles regarding movement and exercise are:
 * [Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.](../6_prevention_and_treatment/movement.md#zhu) by Zhu
 * [COVID-19: A pandemic that threatens physical and mental health by promoting physical inactivity](../6_prevention_and_treatment/movement.md#ali) by Ali and Kunugi 
 
+The articles are found on a chapter dedicated to the benefits of movements regarding Covid: [Movement Chapter](../6_prevention_and_treatment/movement.md). In the Movement chapter possible mechanisms and epidemiological evidences are discussed.
 
+### Quarantine-Healthy Recovery Contradiction
+> The strict [quarantine and isolation rules](../7_social/controlling.md#covid-19-cases-and-quarantine) contradict a healthy recovery and therefore this rules should be relaxed.
 
+> In some regions if tested positive a walk outdoors is  only allowed for people in house with a garden. Though the detection rate of mild cases is usually very low, so many will have no formal restrictions.
+
+> Movement can be associated with deep breathing which is aerosol generating. Therefore when possibly infected and with people to protect in the same flat, it is important to be in a separate room and ventilate the room even after stretching and light exercise. Regarding aerosol transmission outdoors is still way safer.
 
 
 
 
 
 ## Recovery and Long Lasting Effects
-[to be done]
+
 Over 90 % of people are adverse effects free a couple of weeks after a SARS-CoV-2 infection. Regarding athletes, countless have been diagnosed with Covid-19: Many of them competed in professional sports just a few weeks later and - to my knowledge - long-term adverse effects haven't been observed for any athlete. Athletes often have good fitness, do regular exercise and eat healthily . A healthy lifestyle including [movement](#movement) helps everybody to be in good health.
 
 Nevertheless for some people a healthy life-style is not enough and some experience [long lasting effects](#long-lasting-effects). 
+
 
 ### Literature Recovery
 * A recommended read is [Long COVID: A Primer for Family Physicians](#greenhalgh-nov2020) by Greenhalgh and Knight
 * More detailed reads are [Management of post-acute covid-19 in primary care](#greenhalgh-aug2020) by Greenhalgh et al and [The Stanford Hall consensus statement for post-COVID-19 rehabilitation](#barker-davies) by Barker-Davies et al
 
+
 ### How to Recover
 [in work]
 How to optimally recover is addressed in papers listed in [Literature Recovery](#literature-recovery).
+
 
 ### Long Lasting Effects
 Sometime long lasting symptoms such as fatigue and decreased physical fitness can occur, called long Covid/long-haulers. Tissues damage which needs some time to repair can be a cause ([Marshall](#marshall)). Another cause for long covid can be that immune system overshoots. To prevent the latter moderate [movement](#movement) can help.
@@ -324,5 +322,5 @@ Published Online April 17, 2020 <https://doi.org/10.1016/ S0140-6736(20)30937-5>
 
 ## Appendix
 > #### Personal Covid Experience
-> I likely had Covid-19 myself in early to mid March 2020 when temperatures were freezing cold in my living place back then at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious: 1) lack of respiratory symptoms - not a single cough if I recall correctly, 2) the supposed low prior probability according to the official prevalence and 3) I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon the initial symptoms faded and I felt fit again. I went for some cross country ski session which was more intense than planned since three quarters were through deep snow. The sport session went well by itself, but the coronaviruses likely used the opportunity: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperature further increased to 37.x accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
-> Counting everything up it likely was Covid-19. Noteworthy: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. Immune response was still timely though: Less than twelve hours after the likely infection event (someone repeatedly coughing about 4 meters away in the same room and I was there about an hour and a half) the initial strange feeling started.
+> I likely had Covid-19 myself around mid March 2020 when temperatures were freezing cold in my living place back then at 1400 meters altitude. The initial experience was very different from a common respiratory disease and so diagnosis was not obvious: 1) lack of respiratory symptoms - not a single cough if I recall correctly, 2) the supposed low prior probability according to the official prevalence and 3) I didn't want to have it and so was satisfied with not experiencing known and obvious symptoms. It first felt like a minor food poisoning but no vomiting or the like. Just felt strange for about two days. Soon the initial symptoms faded and I felt fit again. I went for some cross country ski session which was more intense than planned since three quarters were through deep snow. The sport session went well by itself, but was bad for the disease progression since the coronaviruses took the opportunity: The following days some chills started and accompanied by a temperature increase, up to 36.x from my normal 35 degrees. But since I didn't record the temperature systematically before, the temperature measurements of 36.x degrees were calming instead of ringing the bells. Later the temperatures further increased to 37.x and scratched 38 accompanied by a strange sticky feeling in the chest; at this point I started to consider Covid as likely.
+> Counting everything up it likely was Covid-19. Noteworthy: The day before the first symptoms was long and rather stressful, so the immune system likely wasn't prepared well to control the viruses initially. The immune response was still timely though: Less than twelve hours after the likely infection event (someone repeatedly coughing about 4 meters away in the same room and I was there for about 2 hours) the initial strange feeling started.

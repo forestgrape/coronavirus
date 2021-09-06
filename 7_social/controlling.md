@@ -32,7 +32,7 @@ Thoughts on Controlling the Spread of Sars-CoV-2
   * [Testing Benefits](#testing-benefits)
   * [Outdoor Days](#outdoor-days)
   * [Home-Lock Down](#home-lock-down)
-  * [Financial Support](#financial-support)
+  * [Temporary Financial Support](#temporary-financial-support)
 * [Specific Public Measures](#specific-public-measures)
   * [Corona Conform Skiing](#corona-conform-skiing)
   * [Reduction of Nightlife](#reduction-of-nightlife)
@@ -233,8 +233,14 @@ Suggested precaution measures:
 
 
 ### Covid-19 Cases and Quarantine
-The focus should be on monitoring cases both for disease progression and to figure out and break infection paths. 
-Relaxed rules are important for the [health of the infected and the possibly infected](../3_medical/covid19.md#movement) and in many situations relaxed rules are more efficient in reducing the spread:
+The focus should be on monitoring cases both for disease progression and to figure out and break chains of severe infections. 
+
+> The strict isolation rules were designed with SARS-1 and it's prevalence in mind: a few sporadic and severely sick cases. Additionally a droplet and fomites transmission model was assumed, which makes isolation in an indoor room effective. However regarding the [aerosol transmission](../5_epidemiological/transmission.md) indoor isolation can backfire unless one lives in a single person house.
+
+> In my opinion, especially in the case of targeted testing, those living in flats with small living spaces, which already have a greater infection risk, should not have additional penalties, which possibly hinder a healthy recovery and put fellow occupants at risk.
+
+
+Relaxed rules are important for the [health of the infected and the possibly infected](../3_medical/covid19.md#movement) and in many situations relaxed rules are more efficient in reducing the spread.
 
 #### Example Calculation of Spread
 
@@ -300,7 +306,7 @@ Isolation by a stay-at-home-order may be working for people with own houses with
 > **To be redone** (23.8.21). I opted here back in 2020 for benefit associated testing, it is widespread now in 2021. However not in the sense this was once intended and written back in November 2020:
 > * The idea was to have easy accessible tests without 'punishment' upon a positive test result and motivation to take tests in *sensible* situations and not required testing for day-to-day life.
   >> In Switzerland antigen test are free to obtain in pharmacies (limited number per month). I consider this a good solution in sensible situations one can do a morning before breakfast test and if both are negative, changes are low for a Covid infection ([Covid Diagnosis](../3_medical/diagnosis_and_viral_load.md)).
-> * In November 2020 the situation was different than now in than in August 2021: [Immunisation options](../10_vaccines/immunization.md) for risk groups is available and   promising treatments options are proposed (citations in work; on this page there is 'only' a brainstorming chapter on [Topical Treatments](../6_prevention_and_treatment/topical_treatment.md)).
+> * In November 2020 the situation was different than now in than in August 2021: [Suitable immunisation options](../10_vaccines/immunization.md) for risk groups is available and   promising treatments options are proposed (citations in work; on this page there is 'only' a brainstorming chapter on [Topical Treatments](../6_prevention_and_treatment/topical_treatment.md)).
 
 
 Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home [isolation rules](#covid-19-cases-and-quarantine) apply and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
@@ -325,18 +331,20 @@ A general curfew is a radical measure. It reduces contacts and makes it easier t
 A curfew at night is less radical and was sometimes used e.g. to prevent private parties but in nearly all situations softer measures are more adequate e.g. [Reduction of Nightlife](#reduction-of-nightlife).
 
 
-### Financial Support
-> Some businesses will mainly be closed to break waves (e.g. gastronomy) while other businesses likely are reduced for the foreseeable future such as long distance traveling or large scale events.  For the first temporary support helps for the latter enabling better switching of business models is an option. Also not all temporarily closed businesses especially if closed for a longer time period may not be able to keep the business model e.g. because the customer behavior changed.
-> 
-> As noted restrictions are dependent on the local situation and on the weighting/prioritizing of the benefits and costs, so Covid measures vary a lot between different regions.
-> 
-#### Temporary Support
-> * _Individuals:_ Temporary support for individuals I consider necessary not to disrupt livelihoods.
-> * _Closed Businesses:_ For businesses closed longer than about 2 months, I consider it appropriate to support the fixed costs: rent, insurances, capped salaries (if they are not yet covered by individual support). Temporarily credits are an option until which then can be transformed into a-fond-perdue support. The support for the fix costs can be proportional to the reduction in turnover (possibly averaged over some time period e.g. a year).
-> * _OPEN Businesses:_ Also businesses with out formal restriction can have difficult times e.g. travel agencies, however unlike closed businesses there are chances to adapt. Easy credit access & realistic payback schemes combined with advices.
+### Temporary Financial Support
+> written in autumn 2020, as of September 2021 I think closures are hardly ever adequate or necessary.
+
+~~Some businesses will mainly be closed to break waves (e.g. gastronomy)~~ while other businesses likely are reduced for the foreseeable future such as long distance traveling or large scale events. For the first temporary support helps for the latter enabling better switching of business models is an option. Also some temporarily closed businesses, especially if closed for a longer time period, may not be able to return to the business model e.g.  the customer behavior can change.
+
+As noted restrictions are dependent on the local situation and on the weighting/prioritizing of the benefits and costs, so Covid measures vary a lot between different regions.
+ 
+
+* _Individuals:_ Temporary support for individuals I consider necessary not to disrupt livelihoods.
+* _Closed Businesses:_ For businesses closed longer than about 2 months, I consider it appropriate to support the fixed costs: rent, insurances, capped salaries (if they are not yet covered by individual support). Temporarily credits are an option until which then can be transformed into a-fond-perdue support. The support for the fix costs can be proportional to the reduction in turnover (possibly averaged over some time period e.g. a year).
+* _OPEN Businesses:_ Also businesses without formal restriction can struggle e.g. travel agencies. However unlike closed businesses there are chances to adapt. Easy credit access & realistic payback schemes combined with advices.
 
 #### General Support
-> Additional to temporary support, general support and enabling for those who need or want to reorganize is adequate. How to take the corona-situation as an opportunity to reform the economical systems on the [economics page](../7_social/economics.md).
+Additional to temporary support, general support and enabling for those who need or want to reorganize is adequate. How to take the corona-situation as an opportunity to reform the economical systems on the [economics page](../7_social/economics.md).
 
 
 ## Specific Public Measures
@@ -396,7 +404,7 @@ Skiing itself is safe but there need to be restrictions on the high risk skiing 
   * Outdoors preferably; Indoor is queuing ideally avoided and if then very well ventilated.
   * Ticketing systems are tricky since they need to be working all the time: When everybody waits in the next indoor place when the weather is bad, effects can turn negative.
 
-  > Yesterday (29.11.) on a mountain in the pre-alps. Common protection concepts were in place: mask indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity, some ventilation in the cableways however not nearly as much ventilation as there could be. Concepts mostly worked until: Everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon. A large crowd lined up indoors. In the beginning an appropriate ventilation completely lacked, some even started feeling unwell. The air improved when doors and windows were opened.
+  > Yesterday (29.11.) on a mountain in the pre-alps: Common protection concepts were in place such as masks indoors (good: very well followed and mostly surgical masks), some (partly decorative) disinfectants and plexiglas, a 30% reduction in capacity, some ventilation in the cableways however not nearly as much ventilation as there could be. Concepts mostly worked until: Everybody - and there were many people since since only the mountains were out of fog - wanted to go down at the same time in the late afternoon. A large crowd lined up indoors. In the beginning an appropriate ventilation completely lacked, some even started feeling unwell. The air improved when doors and windows were opened.
 
 * __Gastronomy__: Risks as described in the section [Gastronomy](#gastronomy). In ski resorts there are additional risk because of high altitude, guests from different regions and guests tend to go to many different gastronomy locations during a short time (often days).  
   * __indoor gastronomy__: High risk. Guests from the same villages/hotels going only to a limited number of restaurants helps to prevents chains of (super)spreading and helps contact tracing. 
@@ -444,12 +452,12 @@ A reduction of nightlife can reach from an early closure of clubs to a complete 
 >   2. Feeling unwell the next day(s) is common and so possible Covid symptoms may be attributed to the party night and therefore are not recognized.
 
 ### Reduce Alcohol Consumption
-The history of prohibition dates back nearly as long, as history itself has been handed down. Full prohibition never really worked. Today many countries have increased taxes. The taxes mostly are high enough to reduce consumption but low enough that smuggling doesn't pay off. 
+The history of prohibition dates back nearly as long, as history has been handed down. Full prohibition never really worked. Today many countries have increased taxes. The taxes mostly are high enough to reduce consumption but low enough such that smuggling doesn't pay off. 
 * ThinkThrough:
   * Drinking a lot of alcohol diminishes the immune system. Alcohol can prevent recognizing symptoms either by reduced sensitivity or wrong attribution.
   * Alcohol reduces the ability to concentrate and rashly actions are more common, that's why no driving. Permanent following of corona prevention measures needs concentration.
 * Comment: 
-  * Non alcoholic drinks cheaper than alcoholic ones.
+  * Non alcoholic drinks should be noticeable cheaper than alcoholic ones.
   * Depending on the situation a selling stop in the late evening/night can help.
 
 
@@ -464,14 +472,13 @@ The history of prohibition dates back nearly as long, as history itself has been
   
   > Gastronomy likely contributes much less to the spread than large scale events, business travelling or nightlife. With good ventilation concepts, transmission risk is likely similar to supermarkets, stairwells, underground car parks or public transport.
   
-  > In emergency situations closures can be adequate, but even then some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy dispensable for a few weeks. // as of 20.8.2021 emergency situations are not excepted any more.
+  > In emergency situations closures can be adequate, but even then some gastronomy can be left often for those needing them (e.g. living/working alone/not working (e.g. due to Covid)/needing for other reasons), but for most gastronomy dispensable for a few weeks. // as of 20.8.2021 emergency situations are not excepted any more. One reason is the transmission pathways are known and with adequate measures such as good ventilation most transmission risk can be prevented. Emergency measures have been sometimes necessary as a last fall-back in 2020 when the recommended protection measures not adequate such as disinfectants.
 
   > People working in large groups (e.g. open-plan office) or living in large groups (e.g. families) should take special care regarding Covid-19 transmission in gastronomy since they already are possible angle points for transmissions.
 
 
 
 ### Corona Conform Schooling
-
 
 > As of 6.6.21 in Europe with risk groups vaccinated, protections can be relaxed. Children get only mild Covid anyways. Vaccination for children is strongly discouraged here, the mRNA vaccines are magnitudes of order more risky for children than Covid.
 
