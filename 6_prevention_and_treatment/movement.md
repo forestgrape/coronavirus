@@ -2,34 +2,61 @@
 
 > The entire page is **in work and incomplete**
 
-> sometime citations and/or confirmations is missing 
+> sometimes citations and/or confirmations is missing 
 
 > Explorative
 
+* [Summary](#summary)
+* [Relevance](#relevance)
+* [Movement to Increase Health and Resistance to Respiratory Infections](#movement-to-increase-health-and-resistance-to-respiratory-infections)
+  * [Literature on Movement during Covid Times](#literature-on-movement-during-covid-times)
+  * [Biological Mechanisms](#biological-mechanisms)
+* [Biological Mechanisms](#biological-mechanisms-1)
+  * [How Movement increases the Resilience to Infections](#how-movement-increases-the-resilience-to-infections)
+  * [Light Movement During a Respiratory Infection including a SARS-2 Infections](#light-movement-during-a-respiratory-infection-including-a-sars-2-infections)
+  * [Convalescent Phase of Covid-19](#convalescent-phase-of-covid-19)
+* [Epidemiological Evidence](#epidemiological-evidence)
+  * [Epidemiological Evidence a Lifestyle with Movement is beneficial to the Covid-19 Prognosis](#epidemiological-evidence-a-lifestyle-with-movement-is-beneficial-to-the-covid-19-prognosis)
+  * [Epidemiological Evidence that NO Movement before and during Covid-19 is bad for the Prognosis](#epidemiological-evidence-that-no-movement-before-and-during-covid-19-is-bad-for-the-prognosis)
+* [References](#references)
+  * [References Exercise During Covid Times](#references-exercise-during-covid-times)
+  * [References Movements as Covid Factor](#references-movements-as-covid-factor)
+
 ## Summary 
-Movement is in the early phase of Covid-19 helps to produce a good immune response. In the convalescent phase movement speeds up recovery and reduces the probability of long term effects.
+Movement has many health benefits including increased resistance against symptomatic and severe respiratory infections. Movement is also helpful in the early phase of Covid-19 helps to produce a good immune response. In the convalescent phase movement speeds up recovery and reduces the probability of long term effects.
 
-> **Moderate movement** (e.g. a walk) and **not** intense exercise is generally recommended. Exercise is adequate in some situations but not in others because of risks such as heart muscles inflammations. Since exercise involves movement, some citations are about exercise but often the findings hold for any form of movement.
+During a Covid only adequate and **moderate movement** (e.g. a walk) and **not** intense exercise is recommended. Exercise during Covid has risks such as heart muscles inflammations.
 
-> In many countries it is not allowed leaving the private ground upon infection. Circumvention: owning/buying a large garden and owning/building a personal fitness studio (importantly with a built in ventilation unless used alone!). Also commented in [in the movement summary on the Covid19 page](../3_medical/covid19.md#movement).
-
-## Literature on Movement
-* In his readable interview [Zhu](#zhu) asks precise question to Dr. Woods about the effects of exercising on virus infections and the immune response.
-* [Ali and Kunugi](#ali) describe several adverse consequences of reduced/no movement.
-* Movement and adequate exercise is recommended in many [recommendations regarding rehabilitation](../3_medical/covid19.md#references-rehabilitation). 
-* more refs on the way
+> In many countries it is not allowed leaving the private ground upon infection. Circumvention: owning/buying a large garden and owning/building a personal fitness studio (importantly with a built in ventilation unless used alone!). Also commented in [in the movement summary on the Covid19 page](../3_medical/covid19.md#quarantine-movement-contradiction).
 
 ## Relevance
 To support good health and Covid prognosis the [measures](../7_social/controlling.md) and the [isolation and quarantine rules](../7_social/controlling.md#covid-19-cases-and-quarantine)) should take the benefits of movement into account.
+
+## Movement to Increase Health and Resistance to Respiratory Infections
+Movement ahead of an infection increases the overall fitness level. 
+
+### Literature on Movement during Covid Times
+ Since exercise involves movement, some citations are about exercise but often the findings hold for any form of movement. 
+* In his readable interview [Zhu](#zhu) asks precise question to Dr. Woods about the effects of exercising on virus infections and the immune response.
+* [Ali and Kunugi](#ali) describe several adverse consequences of reduced/no movement.
+* Movement and adequate exercise is recommended in many [recommendations regarding rehabilitation](../3_medical/covid19.md#references-rehabilitation). 
+
+### Biological Mechanisms
+> in work
+
+
 
 ## Biological Mechanisms
 > [simplified, a more detailed argumentation to be done]
 
 
-### Pre Covid-19
+### How Movement increases the Resilience to Infections
 > in work
 
-### Early Phase of Covid-19
+### Light Movement During a Respiratory Infection including a SARS-2 Infections
+> Only light movement is recommended. Intense movement is discourage due to various risks such as heart muscle inflammations.
+
+#### Early Phase of Covid-19
 One reason movement is important in the early phase of Covid, is that the circulation of the lymph is better since the circulation is partly passive and driven by body movement [to confirm and cite]. With movement the virus 'signatures' reach the lymph nodes faster where capable immune cells can be recruited. Some of these cells migrate to protect other body locations: e.g. when infected in the upper respiratory tract some cells migrate to protect lower the lungs. Extern movement makes them migrate faster. With healthy movement, for infections starting in the upper respiratory tract, protective immune cells (mainly T cells) are likely to reach the lungs before the viruses have time to replicate to high numbers.
 
 ### Convalescent Phase of Covid-19
@@ -53,7 +80,7 @@ There is epidemiological evidence supporting the above argumentation:
 * In situations with strict stay-at-home orders the fatality rate (fatality rates in different locations shown in Table 4 in [Ioannidis](../3_medical/covid19.md#ioannidis) including rates for those younger than 70) and the rates of severe cases are higher than in situations without stay-at-home orders (isolation rules can be mostly ignored, especially in spring 2020 since the case detection rates were below 5 %). [more precise analyses on todo]
 
 
-
+## References
 ### References Exercise During Covid Times
 
 #### Ali
