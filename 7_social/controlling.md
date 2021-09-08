@@ -222,7 +222,7 @@ Ventilation reduces the indoor airborne spread, since the virion density in [out
 
 ### Large Buildings
 Large residential block and office buildings special care needs to be taken, since the transmission risk is increased: 
-* Epidemiological evidence: [Living Conditions](../5_epidemiological/spread_analyses.md#living-conditions) in the chapter [Spread Analyses](../5_epidemiological/spread_analyses.md)
+* Epidemiological evidence: [Living Conditions](../5_epidemiological/spread_analyses.md#living-space-and-income) in the chapter [Spread Analyses](../5_epidemiological/spread_analyses.md)
 * Biological evidence: viruses can survive quite long at lower air temperatures without sunlight such as stairwells (chapter [Virion Viability](../2_biological/virion_viability.md)). 
 
 Suggested precaution measures:
