@@ -1,6 +1,6 @@
 # Good Air - Quality, Measurement and Certification
 
-> brainstorming chapter - ideas put here at pre-alpha stage.
+> Explorative chapter. Brainstorming ideas how to provide and ensure good air. The associated health benefits including reduced Covid spread are sketched.
 
 * [Introduction](#introduction)
 * [Indoor Air Humidity and Temperature](#indoor-air-humidity-and-temperature)
@@ -25,11 +25,11 @@ In this chapter methods to supervise the air quality and tools to achieve good a
 3. 'Good Air Certification' which helps to achieve (1.) & (2.). Background: Sometimes indoor room entry is only allowed with a 'Covid certificate' with the intention to allow only the entry of people who presumably exhale less infectious SARS-2 aerosol. Often it is assumed, that this is the case for tested/vaccinated or sometimes vaccinated only persons. An alternative is to certificate the air quality directly without the detour of entry restrictions. 
 
 ## Indoor Air Humidity and Temperature
-Regarding the transmission of Covid the air is ideally above 25 degrees and has a high humidity and a CO2 value close to the outdoor air value. However there are tradeoffs between these transmission constraints themselves and the comfort feeling (air at around 22 degrees and 45% humidity is often assumed as comfortable) and the 'weathering' of buildings (e.g. humid air -> condensation -> walls get mold).
+To reduce the transmission of Covid the air is ideally above 25 degrees and has a high humidity and a CO2 value close to the outdoor air value. However there are tradeoffs between these transmission constraints themselves, the comfort (air at around 22 degrees and 45% humidity is often assumed as comfortable) and the 'weathering' of buildings (e.g. humid air -> condensation -> walls get mold).
 
 * *Warm Settings:* The prevention of the spread of severe Covid is simple when the air is warm and humid: Opening the windows and turning off air-conditioners. The comfort can be decreased however. So a compromise would be to adjust the air to a temperature of around 27 degrees to a humidity of around 60%. 
 
-* *Cold Settings:* In cold climates it is tricky to achieve a good balance between comfort (comfortable temperature), ventilation (low CO2) and humidity (much H2O): permanently opening the windows is usually not an option for comfort reasons. Even if the temperature comfort is reached with good ventilation combined with heating, heating dries the air. So there is a tradeoff between low CO2 values and not very dry air indoors assuming the air is heated to a comfort level. Solutions are: humidification with ventilating or cleaning the air to reduce the need for ventilation.
+* *Cold Settings:* In cold climates it is tricky to achieve a good balance between a comfortable temperature (around 22 degrees), high ventilation (low CO2) and high humidity (much H2O): permanently opening the windows is usually not an option for comfort reasons. Even if the temperature comfort is reached with good ventilation combined with heating, heating reduces the relative humidity - in other words the air dries when heated. So there is a tradeoff between low CO2 values and not very dry air indoors, if the air is heated to a comfort level. Solutions are: ventilation combined with humidification or cleaning the air to reduce the need for ventilation.
 
 ## Exposure to Air Pollutants
 The short and long term exposure to air pollutants is relevant for the susceptibility to severe Covid and also influences the overall health:
@@ -37,7 +37,7 @@ The short and long term exposure to air pollutants is relevant for the susceptib
 * Air pollution is generally relevant for susceptibility to respiratory infections.
 * Air pollution can affect health in many ways e.g. increase the risk of arteriosclerosis.
 
-    > This page about betacoronaviruses is mostly written in settings with clean air: In regions of Swiss Alps and pre alps and some parts - in the summer 2020 - also in the Austrian and Italian alps. Subjectively, I can better concentrate and have a better endurance in settings with clean air.
+    > This page about betacoronaviruses is mostly written in settings with clean air: In regions of Swiss Alps and pre alps and some parts - in 2020 - also in the Austrian and Italian alps. Subjectively, I can better concentrate and have a better endurance in settings with clean air.
 
 
 ## Air Quality Certification
