@@ -7,10 +7,6 @@ Spread Analyses across the World and across different Settings
   * [Summary Geographical Observations and Analyses](#summary-geographical-observations-and-analyses)
   * [Summary Situation Analyses and Contact Tracing](#summary-situation-analyses-and-contact-tracing)
   * [Summary Population Susceptibility and Transmission Rates](#summary-population-susceptibility-and-transmission-rates)
-* [Findings from Geographical Observations and Analyses](#findings-from-geographical-observations-and-analyses)
-  * [Exchanged Air is associated to Covid Spread](#exchanged-air-is-associated-to-covid-spread)
-  * [Dry Indoor Air is associated to the Spread of severe Covid](#dry-indoor-air-is-associated-to-the-spread-of-severe-covid)
-  * [Life Circumstances: Can increase Susceptibility and Exposure](#life-circumstances-can-increase-susceptibility-and-exposure)
 * [Geographical Observations and Analyses](#geographical-observations-and-analyses)
   * [Methods](#methods)
   * [Transmissions in Europe](#transmissions-in-europe)
@@ -19,9 +15,14 @@ Spread Analyses across the World and across different Settings
   * [Transmissions in India](#transmissions-in-india)
   * [Transmissions in Nepal](#transmissions-in-nepal)
   * [Transmissions in South America](#transmissions-in-south-america)
-* [Local Geographical Influences](#local-geographical-influences)
+* [Findings from Geographical Observations and Analyses](#findings-from-geographical-observations-and-analyses)
+  * [Exchanged Air is associated to the Covid Spread](#exchanged-air-is-associated-to-the-covid-spread)
+  * [Dry Indoor Air is associated to the Spread of severe Covid](#dry-indoor-air-is-associated-to-the-spread-of-severe-covid)
+* [Social Geography](#social-geography)
+  * [Dirty Air Exposure Increases is associated to a high Prevalence of Severe Covid](#dirty-air-exposure-increases-is-associated-to-a-high-prevalence-of-severe-covid)
+  * [High Overweight Prevalence is associated to High Covid Prevalence and Death Rates](#high-overweight-prevalence-is-associated-to-high-covid-prevalence-and-death-rates)
   * [Cities versus Rural](#cities-versus-rural)
-  * [Living Conditions](#living-conditions)
+  * [Living Space and Income](#living-space-and-income)
   * [Income](#income)
 * [Settings of where Zoonotic Jumps of Betacoronaviruses were observed](#settings-of-where-zoonotic-jumps-of-betacoronaviruses-were-observed)
 * [Analyses of specific Settings](#analyses-of-specific-settings)
@@ -53,6 +54,7 @@ Spread Analyses across the World and across different Settings
   * [References SARS-2 in Europe](#references-sars-2-in-europe)
   * [References Spread Inferred from Sequences](#references-spread-inferred-from-sequences)
   * [References Sars-2 in South East Asia](#references-sars-2-in-south-east-asia)
+  * [References Spread and Air Pollution](#references-spread-and-air-pollution)
 * [References](#references)
   * [References Specific Settings](#references-specific-settings)
 * [Appendix](#appendix)
@@ -116,7 +118,7 @@ Spread events are observed indoors or sometimes in semi-confined settings such a
   * [Large Scale Sporting Events](#large-scale-sporting-events) In sports clubs where spectators are/were allowed to the stadiums, the players have a much higher risks to get infected with Covid-19 than in regions without spectators. Moreover Covid-19 incidence rates seem to be higher in areas with large scale sport events (especially indoor). 
   * [Airplanes](#airplanes): High spread rates observed without adequate prevention measures (mask, ventilation). 
   * [Large Scale Production Factories](#large-scale-production-factories): Multiple large outbreaks observed mainly in food production factories around the world.
-  * [Large Buildings](#living-conditions): In cold seasons small living spaces are associated with an increased spread.
+  * [Large Buildings](#living-space-and-income): In cold seasons small living spaces are associated with an increased spread.
 
 #### Situations with NO increased Spread 
 For crowded events during the day in unconfined settings (e.g. demonstrations or crowded swimming pools) no increased spread is observed (neither by contact tracing nor monitoring of the overall cases).
@@ -136,95 +138,6 @@ For crowded events during the day in unconfined settings (e.g. demonstrations or
 
 
 ---
-
-## Findings from Geographical Observations and Analyses
-
-
-### Exchanged Air is associated to Covid Spread
-Covid-19 waves across the world usually are predated by situations which favour time spent indoors and bad ventilation which are heating in harsh climates and air-conditioners in hot and humid climates.
-
-#### Low temperature => Indoor Heated
-When the temperatures are below the comfort zone, at least during the night, the time spend indoor increases and the windows tend to be closed.
-
-Situations with many severe Covid cases:
-* In the respective winter times of the northern and southern hemispheres.
-* At high altitude the winter starts earlier (high altitude also increases the amount of air breathed).
-
-#### Hot & Rich => Air-Conditioned
-ACs are prevalent in Regions with high temperatures over prolonged periods (mostly latitudes between 30 degrees South and North) if the degree of mechanization is high (often associated with a median gdp/person above 10'000 $) or tourism.
-
-Situations with many severe Covid cases:
-* Southern US in summer: E.g. Los Angeles, Florida, Texas and Arizona
-* South Americas: Brazil
-* Coastal regions of Mexico (in Mexico City high altitude and dry air are probably the important factors)
-* Some parts of Southern Europe: regions of Spain, Portugal, Greece
-* Most Countries in the Middle East
-* Southern and coastal India e.g. the tourism region Goa
-
-#### High Altitude => Low Pressure
-Spread is increased at high altitude since the volume of air breathed is increased.
-
-Situations with many severe Covid cases:
-* In Central and South America a couple of large cities are above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia
-* Winter sport locations in the Alps and Rocky Mountains.
-
-#### Settings which favour staying indoors => Indoors Air Breathed Increased
-* In large cities people tend to spend more time indoors than on the country side.
-* Measures that motivate to stay at home and avoid outdoor activities, not always are beneficial since they increase the time spend indoors. Additionally they can yield respectively enhance unhealthy lifestyles and thereby increase susceptibility for severe Covid. For people living in houses with  gardens (and regions where many people life in houses) staying home can work or at least not increase the spread. On the other hand in settings with [small living spaces](#living-conditions), where already an increased transmission is observed, measures which increase the time spend indoor or encourage meeting indoors can yield additional transmissions.
-
-#### Many People in the Same Building => Indoor Air Exchanged in the Stairwells
-* Large residential blocks if no good ventilation in the stairwells and/or flats. Nearly all places with many Covid cases have a high share of residential blocks: cities in the Wuhan, Tehran, Milan, Spain, UK, US, Czech, Paris, ...
-* Densely populated indoor places where people from many places meet. E.g. crowded pubs & bars, public transport, cruise ships, ...
-
-Remark: Protection measures help to reduce shared air, which is reduced by ventilation or filtered to some extent by masks. E.g. in public transport with good ventilation and good fitting masks the infection risk is likely low.
-
-
-### Dry Indoor Air is associated to the Spread of severe Covid
-
-#### Heated, ACs, Dry Outdoors => Dry Indoor Air
-Nearly all steep increases in severe cases and deaths have been observed in settings where the indoor air is dry. 
-* Indoor Heated: Heating reduces the relative humidity. Observed in regions with cold Winters across the world.
-* Air Conditioned: ACs remove humidity. Many covid deaths when the outdoor air is humid are only observed in regions where air-conditioners are frequently used (e.g. Large cities in northern Brazil nearly year round, South Brazil in Summer, Cities in Southern US summer 2020, Tourism Regions in Southern India Gao).
-* Dry Outdoor Air: Examples: Peru Spring 2020, northern Central India Spring 2021
-
-#### No ACs & No Heating and Humid Outdoor => Humid Indoor Air
-* The indoor air is humid if the outdoor air is humid and neither heated nor air-conditioned (or otherwise dehumidified). Heating is less optional than air-conditioning.
-* In humid air settings combined with dense living conditions (e.g. Indonesia, Lagos in Nigeria, large cities of coastal India e.g. suburbs of Mumbai): High seroprevalence for Covid-19 has been detected but mainly asymptomatic or mild cases with very low fatality rates. But in humid air (above 50% relative humidity) Covid-19 deaths seem rare.
-
-#### Explanation of the Air Humidity Effects
-* The viability of coronavirus virions is highest in dry air (below efflorescence humidity) (-> [Page Virion Viability](../2_biological/virion_viability.md))
-* In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within growing droplets, which fall to the ground. On the other hand in dry air particles stay in the air long (-> [Fate of Particles in the Air](../5_epidemiological/transmission.md#the-fate-of-particles-in-the-air)).
-* Particles get deposited earlier in the respiratory tract (-> [Particle Dynamics in the Respiratory Tract](../5_epidemiological/transmission.md#deposition-factors)) where the immune system is better prepared to control viruses and therefore only mild diseases are caused (-> [Infection Locations and Disease Patterns](../3_medical/coronavirus_disease_patterns.md)).
-* The immune system clearance in the respiratory tract works better (-> [Humidify Inhaled Air](../6_prevention_and_treatment/increasing_the_mucus_flow.md))
-  
-
-### Life Circumstances: Can increase Susceptibility and Exposure
-
-#### Dirty Air Exposure
-* ##### Air Pollution
-  _Through Air Pollution_: High rates of air pollution occur frequently in industrialized densely populated regions which have inversion weather situations (usually in the winter). Examples (in decreasing order, source: estimates from watching the maps at ventusky.com): northern India, central and northern China (including Wuhan), northern Italy, Tehran
-
-* ##### Smoking
-  _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
-
-  > However the overall health benefits of a smoke stop outweigh by fare a possible increased Covid incidence: Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be caused by (possibly toxic) environment changes in the lung when smoking.[Local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the possibility of health hazards which smoke has. 
-  
-  > 12.6.21: It's not about smoke-free - Everyone should judge the risks to take in life on his own. But since smoking is addictive, I consider restrictions on advertisement as adequate.
-
-
-#### Overweight
-* *Observations:*
-    Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
-
-    Selected countries with high rates of obesity (in decreasing order, source: obesity.procon.org):
-    US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
-
-    Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
-
-* *Possible Explanation:*
-    * One reason is that obesity increases the risk for severe Covid. But the case counts seem to increase overall i.e. also in people which are not obese [to check and cite/provide evidence]. 
-    * It is observed that the number of exhaled particles is correlated to the BMI, so obesity may increase transmission.
-
 
 
 ## Geographical Observations and Analyses
@@ -395,7 +308,98 @@ All countries provided programs for financial support and additionally:
 
 
 
-## Local Geographical Influences
+## Findings from Geographical Observations and Analyses
+
+
+### Exchanged Air is associated to the Covid Spread
+Covid-19 waves across the world usually are predated by situations which favour time spent indoors and bad ventilation which are heating in harsh climates and air-conditioners in hot and humid climates.
+
+#### Low temperature => Indoor Heated
+When the temperatures are below the comfort zone, at least during the night, the time spend indoor increases and the windows tend to be closed.
+
+Situations with many severe Covid cases:
+* In the respective winter times of the northern and southern hemispheres.
+* At high altitude the winter starts earlier (high altitude also increases the amount of air breathed).
+
+#### Hot & Rich => Air-Conditioned
+ACs are prevalent in Regions with high temperatures over prolonged periods (mostly latitudes between 30 degrees South and North) if the degree of mechanization is high (often associated with a median gdp/person above 10'000 $) or tourism.
+
+Situations with many severe Covid cases:
+* Southern US in summer: E.g. Los Angeles, Florida, Texas and Arizona
+* South Americas: Brazil
+* Coastal regions of Mexico (in Mexico City high altitude and dry air are probably the important factors)
+* Some parts of Southern Europe: regions of Spain, Portugal, Greece
+* Most Countries in the Middle East
+* Southern and coastal India e.g. the tourism region Goa
+
+#### High Altitude => Low Pressure
+Spread is increased at high altitude since the volume of air breathed is increased.
+
+Situations with many severe Covid cases:
+* In Central and South America a couple of large cities are above 2000 meters: Mexico City, La Paz in Bolivia, Quito in Ecuador, Bogota in Colombia
+* Winter sport locations in the Alps and Rocky Mountains.
+
+#### Settings which favour staying indoors => Indoors Air Breathed Increased
+* In large cities people tend to spend more time indoors than on the country side.
+* Measures that motivate to stay at home and avoid outdoor activities, not always are beneficial since they increase the time spend indoors. Additionally they can yield respectively enhance unhealthy lifestyles and thereby increase susceptibility for severe Covid. For people living in houses with  gardens (and regions where many people life in houses) staying home can work or at least not increase the spread. On the other hand in settings with [small living spaces](#living-space-and-income), where already an increased transmission is observed, measures which increase the time spend indoor or encourage meeting indoors can yield additional transmissions.
+
+#### Many People in the Same Building => Indoor Air Exchanged in the Stairwells
+* Large residential blocks if no good ventilation in the stairwells and/or flats. Nearly all places with many Covid cases have a high share of residential blocks: cities in the Wuhan, Tehran, Milan, Spain, UK, US, Czech, Paris, ...
+* Densely populated indoor places where people from many places meet. E.g. crowded pubs & bars, public transport, cruise ships, ...
+
+Remark: Protection measures help to reduce shared air, which is reduced by ventilation or filtered to some extent by masks. E.g. in public transport with good ventilation and good fitting masks the infection risk is likely low.
+
+
+### Dry Indoor Air is associated to the Spread of severe Covid
+
+#### Heated, ACs, Dry Outdoors => Dry Indoor Air
+Nearly all steep increases in severe cases and deaths have been observed in settings where the indoor air is dry. 
+* Indoor Heated: Heating reduces the relative humidity. Observed in regions with cold Winters across the world.
+* Air Conditioned: ACs remove humidity. Many covid deaths when the outdoor air is humid are only observed in regions where air-conditioners are frequently used (e.g. Large cities in northern Brazil nearly year round, South Brazil in Summer, Cities in Southern US summer 2020, Tourism Regions in Southern India Gao).
+* Dry Outdoor Air: Examples: Peru Spring 2020, northern Central India Spring 2021
+
+#### No ACs & No Heating and Humid Outdoor => Humid Indoor Air
+* The indoor air is humid if the outdoor air is humid and neither heated nor air-conditioned (or otherwise dehumidified). Heating is less optional than air-conditioning.
+* In humid air settings combined with dense living conditions (e.g. Indonesia, Lagos in Nigeria, large cities of coastal India e.g. suburbs of Mumbai): High seroprevalence for Covid-19 has been detected but mainly asymptomatic or mild cases with very low fatality rates. But in humid air (above 50% relative humidity) Covid-19 deaths seem rare.
+
+#### Explanation of the Air Humidity Effects
+* The viability of coronavirus virions is highest in dry air (below efflorescence humidity) (-> [Page Virion Viability](../2_biological/virion_viability.md))
+* In humid environments, organic particles act as condensation nuclei and therefore loose their dry form. So viruses "find" themselves within growing droplets, which fall to the ground. On the other hand in dry air particles stay in the air long (-> [Fate of Particles in the Air](../5_epidemiological/transmission.md#the-fate-of-particles-in-the-air)).
+* Particles get deposited earlier in the respiratory tract (-> [Particle Dynamics in the Respiratory Tract](../5_epidemiological/transmission.md#deposition-factors)) where the immune system is better prepared to control viruses and therefore only mild diseases are caused (-> [Infection Locations and Disease Patterns](../3_medical/coronavirus_disease_patterns.md)).
+* The immune system clearance in the respiratory tract works better (-> [Humidify Inhaled Air](../6_prevention_and_treatment/increasing_the_mucus_flow.md))
+  
+
+
+
+
+## Social Geography
+
+### Dirty Air Exposure Increases is associated to a high Prevalence of Severe Covid
+#### Air Pollution
+_Through Air Pollution_: High rates of air pollution occur frequently in industrialized densely populated regions which have inversion weather situations (usually in the winter). Examples (order: most polluted air first, source: estimates from watching the maps at ventusky.com): northern India, central and northern China (including Wuhan), northern Italy, Tehran
+
+Specifically for Italy a correlation between Covid and air pollution is shown by [Kotsiou et al](#kotsiou).
+
+#### Smoking
+_Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
+
+> However the overall health benefits of a smoke stop outweigh by fare a possible increased Covid incidence: Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be caused by (possibly toxic) environment changes in the lung when smoking.[Local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the possibility of health hazards which smoke has. 
+
+> 12.6.21: It's not about smoke-free - Everyone should judge the risks to take in life on his own. But since smoking is addictive, I consider restrictions on advertisement as adequate.
+
+
+### High Overweight Prevalence is associated to High Covid Prevalence and Death Rates
+* *Observations:*
+    Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
+
+    Selected countries with high rates of obesity (in decreasing order, source: obesity.procon.org):
+    US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
+
+    Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
+
+* *Possible Explanation:*
+    * One reason is that obesity increases the risk for severe Covid. But the case counts seem to increase overall i.e. also in people which are not obese [to check and cite/provide evidence]. 
+    * It is observed that the number of exhaled particles is correlated to the BMI, so obesity may increase transmission.
 
 ### Cities versus Rural
 A main distinguishing feature between rural and cities is that in rural areas people are segregated by geographical distance (corresponding a lower population density over entire regions) and thus the time to travel while in cities people tend to be segregated by social factors such as interest/jobs/hobbies/age/world views. The distance separation induces well defined clusters (villages). Social factors yield clusters to but the borders are softer and the clusters are different for each social factor. 
@@ -409,7 +413,7 @@ Infectious disease wave through the clusters until there's no more ground to nou
 * not segregated by mobility (but by social factors) which yields a different segmentation for each factor
 * life is often indoors but distributed. 
 * People belong to different clusters trough a day
-* High population densities which are often associated with dense [living conditions](#living-conditions) are common.
+* High population densities which are often associated with dense [living conditions](#living-space-and-income) are common.
 
 #### Observations
 * In less densely populated provinces (more rural and smaller cities) the Covid-waves are more steep and shorter i.e. the incidence curve is more peaked compared to the incidence curves in large cities (Observation and simulations by [Rader,Scarpino et al](#summary-rader,scarpino)).
@@ -419,7 +423,7 @@ Infectious disease wave through the clusters until there's no more ground to nou
 > * lower death rates (probably 2/3) due to immune systems better adapted to viruses. 
 
 
-### Living Conditions
+### Living Space and Income
 
 #### Observations from Literature
 People in neighborhoods in cities with small living areas and a low incomes are more frequently infected and contribute above average to the spread of Covid. Small living space is correlated to low income which in turn is correlated to jobs where home office is less possible (e.g. service)  
@@ -555,13 +559,17 @@ Knowing how transmissions are distributed, helps to set and fine-tune control me
 
 > In my opinion, the actions for people with inherently higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects.
 
-> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume vaccination is a risk free action which provides a useful protection against transmission. This is taken as a reason to restrict elementary rights and the freedom in varying degrees of those not vaccinated.
-> * Scientific questions are whether vaccination is safe and provides a useful protection against transmission.
-> * Relevant moral questions are (some go fare beyond the above considerations):
->   * The relations between opening the windows  / keeping distance / wearing a mask / living healthily or unhealthily / getting vaccinated / removable chip implant /being young or old.
->   * Who can say or has the right to say  something is safe, good or useful for somebody.
->   * How and by who, how fast and which risks are estimated and weighted.
->   * On different beliefs and world views.
+> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume that currently available 'mRNA' and 'Adeno-virus-with-spike' vaccines are risk free and provide a useful protection against transmission. The latter is assumed to be true and is taken as a reason to restrict elementary rights and the freedom in varying degrees of those not vaccinated.
+> It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated.
+  >> whether it provides a useful protection against transmission is unclear (to my judgement).
+> Another scientific question is, which vaccines are safe. 
+> 
+> Relevant moral questions are (some go fare beyond the above considerations):
+> * Whether there should be restrictions for those being more likely infectious.
+> * The relations between opening the windows  / keeping distance / wearing a mask / living healthily or unhealthily / getting vaccinated / removable chip implant /being young or old.
+> * Who can say or has the right to say  something is safe, good or useful for somebody.
+> * How and by who, how fast and which risks are estimated and weighted.
+> * On different beliefs and world views.
 
 > This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I think comparisons fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences and medicine especially was less and causal connections and a fundamental understanding was often missing. Situations around the fascist regimes in Europe in the 30s and 40s were also fundamentally different.
 
@@ -585,7 +593,7 @@ The infector distribution is highly skewed:
 ### Possible Causes for varying Transmissions
 Possible reasons for the skewed distribution are:
 * *Socioeconomic conditions:*
-  [Living Conditions](#living-conditions) influence transmission chains: People with small living space or small income have higher average R values.
+  [Living Conditions](#living-space-and-income) influence transmission chains: People with small living space or small income have higher average R values.
 * *Individuality of Virus Shedding:*
   Viral shedding is highly individual. Being infected does not imply one sheds infectious virions. The viral shedding depends on where the infection is, the respiratory behavior (e.g. breathing pattern, coughing, sneezing) and the physiology of the respiratory tract. How many small particulates persons produce is highly individual and tends to increase with age, male sex and BMI. Described on in [particle sources](../5_epidemiological/transmission.md#particles-sources). Other factors such as immune system preparedness and behavior are also important.
 * *Behavior:* How people behave is different.
@@ -1282,6 +1290,15 @@ The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequ
 * "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
 
 ### References Sars-2 in South East Asia
+
+
+### References Spread and Air Pollution
+
+#### Kotsiou
+Kotsiou,O.S.;Kotsios,V.S.; Lampropoulos, I.; Zidros, T.; Zarogiannis, S.G.; Gourgoulianis, K.I. 
+**PM2.5 Pollution Strongly Predicted COVID-19 Incidence in Four High-Polluted Urbanized Italian Cities during the Pre-Lockdown and Lockdown Periods.** 
+Int. J. Environ. Res. Public Health 2021, 18, 5088. 
+<https://doi.org/10.3390/ijerph18105088>
 
 
 ## References
