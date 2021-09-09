@@ -56,7 +56,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
-- 9.9. new chapters added: [Recent Topics added](#recent-topics-added).
+- 9.9. Many small changes across the page and a new chapter added: [Recent Topics added](#recent-topics-added).
 - 5.9.: New brainstorming [Chapter on Air Quality](7_social/good_air.md). How to measure, achieve and certify the air quality. 
 - 1.9.: Added some references that a lifestyle [movement](6_prevention_and_treatment/movement.md) helps to prevent severe Covid.
 - 27.8.: New Accompanying Page which contains situations estimates/analyses for Switzerland: <https://forestgrape.github.io/corona-ch/> (Page in German)
