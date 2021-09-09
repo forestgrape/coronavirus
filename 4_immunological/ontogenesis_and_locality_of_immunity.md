@@ -44,14 +44,14 @@ At young age the immune system is built to encounter new pathogens and handle th
 
   > SARS-CoV-2 lineages are becoming better at evading innate immune mechanisms but only slowly. I except it will take many years until SARS-CoV-2 comes close to the capabilities of the endemic coronaviruses at avoiding the innate immune system. One reason is, that many parts of coronaviruses are multifunctional, so improving one function often diminishes another function.
 
-* For adolescents and younger adults SARS-CoV-2 is not dangerous neither since while being a new virus, it is not a completely new virus since SARS-CoV-2 is not that fare of the endemic human coronaviruses. Both innate and cross reactive acquired (mainly tissue resident T cells) immunity recognizes the infection. The pool of naive immune cells, which is still large enough and even shaped to recognize coronaviruses, gives rise to a good and timely enough virus clearing immune response.
+* For adolescents and younger adults SARS-CoV-2 is not dangerous neither, since while being a new virus, it is not a completely new virus since SARS-CoV-2 is close to the endemic human coronaviruses. Both innate and cross reactive acquired (mainly tissue resident T cells) immunity recognize the infection. The pool of naive immune cells, which is still large enough and even shaped to recognize coronaviruses, gives rise to a good virus clearing immune response. Usually the acquired immune response is timely enough to prevent the viruses spreading throughout the lungs and thus severe is prevented.
 
-* With increasing age the recognition of new viruses and the capabilities to handle them decrease. Additionally the body in general works slower which delays a timely immune response.
+* With increasing age the recognition of new viruses and the capabilities to handle them decreases. Additionally the body in general works slower which delays a timely immune response.
 
 
 
 ## Key Literature and recommended Readings
-* [Lloyd and Marsland](#lloyd) in a readable review describe several aspects how the lung immune system is developes and highlight the importance of the exposure to microbes.
+* [Lloyd and Marsland](#lloyd) - in a readable review - describe several aspects how the lung immune system developes and highlight the importance of the exposure to microbes.
 * [Kumar, Conners and Farber](#kumar) review how:
   * How the immune system is developes at the different locations throughout life (e.g. Figure 3) and is associated with pathogens encountered at the different sites. A focus is the compartmentalization and tissue residency, a topic in which the research group from Mrs. Farber does pioneering work.
   * Differences between the immune system development in mice and human are pointed out: E.g. in human the generation of naive T occurs often locally in tissues where as in mice it occurs mainly in the thymus. Also the lifespan of naive T cells is much longer in human with 5 to 10 year compared to a few weeks in mice.
