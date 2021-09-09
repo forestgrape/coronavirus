@@ -125,8 +125,8 @@ Early in life the majority of T cells are in the naive state. A naive cells able
 
 ### References Immunity Upper Respiratory Tract
 #### Loske
-Pre-activated antiviral innate immunity in the upper airways controls early SARS-CoV-2 infection in children
-
+Loske, J., Röhmel, J., Lukassen, S. et al. Pre-activated antiviral innate immunity in the upper airways controls early SARS-CoV-2 infection in children. Nat Biotechnol (2021). 
+<https://doi.org/10.1038/s41587-021-01037-9>
 
 ### References Ontogenesis of the Lung Immunity
 
@@ -135,7 +135,8 @@ Lambert L and Culley FJ (2017) Innate Immunity to Respiratory Infection in Early
 <https://doi.org/10.3389/fimmu.2017.01570>
 
 #### Lloyd
-Lung Homeostasis: Influence of Age, Microbes, and the Immune System
+Lloyd, C. M., & Marsland, B. J. (2017). Lung Homeostasis: Influence of Age, Microbes, and the Immune System. Immunity, 46(4), 549–561. 
+<https://doi.org/10.1016/j.immuni.2017.04.005>
 
 
 
@@ -146,7 +147,8 @@ Kumar, B. V., Connors, T. J., & Farber, D. L. (2018). Human T Cell Development, 
 <https://doi.org/10.1016/j.immuni.2018.01.007>
 
 #### Selva
-Systems serology detects functionally distinct coronavirus antibody features in children and elderly
+Selva, K.J., van de Sandt, C.E., Lemke, M.M. et al. Systems serology detects functionally distinct coronavirus antibody features in children and elderly. Nat Commun 12, 2037 (2021). 
+<https://doi.org/10.1038/s41467-021-22236-7>
 
 #### Summary Zhao
 Zhao, J., Zhao, J., Legge, K., & Perlman, S. (2011). Age-related increases in PGD(2) expression impair respiratory DC migration, resulting in diminished T cell responses upon respiratory virus infection in mice. The Journal of clinical investigation, 121(12), 4921–4930. 
@@ -159,11 +161,13 @@ T cell recruitment works less well in old mice compared to young mice (after MA1
 
 
 #### Wong
-**Aging Impairs Alveolar Macrophage Phagocytosis and Increases Influenza-Induced Mortality in Mice**
+Wong, C. K., Smith, C. A., Sakamoto, K., Kaminski, N., Koff, J. L., & Goldstein, D. R. (2017). Aging Impairs Alveolar Macrophage Phagocytosis and Increases Influenza-Induced Mortality in Mice. Journal of immunology (Baltimore, Md. : 1950), 199(3), 1060–1068. 
+<https://doi.org/10.4049/jimmunol.1700397>
 
 
 #### Zheng
-A human circulating immune cell landscape in aging and COVID-19
+Zheng, Y., Liu, X., Le, W., Xie, L., Li, H., Wen, W., Wang, S., Ma, S., Huang, Z., Ye, J., Shi, W., Ye, Y., Liu, Z., Song, M., Zhang, W., Han, J. J., Belmonte, J., Xiao, C., Qu, J., Wang, H., … Su, W. (2020). A human circulating immune cell landscape in aging and COVID-19. Protein & cell, 11(10), 740–770. 
+<https://doi.org/10.1007/s13238-020-00762-2>
 
 
 
