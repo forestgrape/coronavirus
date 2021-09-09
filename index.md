@@ -38,6 +38,12 @@ This section overviews the entire content. The [content section](#content) lists
 
 ## Updates
 ### Recent Topics Added
+- 9.9. [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md): How the immune system developes during lifetime and how the pathogen exposures induce immune adaptions which are often localized. During childhood SARS-CoV-2 is just another new virus as each virus is encountered once for the first time. With increasing age the immune system increasingly relies on the previously seen pathogens and looses capabilities to handle new viruses.
+
+  > Early online due to its relevance for acute questions such as whether to vaccinate children or to close schools.
+
+  > The chapter is part of a bundle of chapters considering the immunity regarding virus infections with a focus on SARS-CoV-2 infections (other chapters in work are Acquired Immunity SARS-CoV-2 Infections and the Effects of the currently used vaccines). One goal is to contribute to the scientific foundations - which are urgently required - to estimate for whom the currently available vaccines are adequate and useful. 
+
 - 12.7. How a SARS-CoV-2 variant can have a competition advantage by infecting faster or by immune evasion even without having a higher transmissibility (defined as the average R value): [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
 - 13./14.6. [General Chapter on Vaccination](10_vaccines/immunization.md)
 - 12./13.6. [Vaccine Safety Questions](10_vaccines/vaccine_safety.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
@@ -50,6 +56,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
+- 9.9. new chapters added: [Recent Topics added](#recent-topics-added).
 - 5.9.: New brainstorming [Chapter on Air Quality](7_social/good_air.md). How to measure, achieve and certify the air quality. 
 - 1.9.: Added some references that a lifestyle [movement](6_prevention_and_treatment/movement.md) helps to prevent severe Covid.
 - 27.8.: New Accompanying Page which contains situations estimates/analyses for Switzerland: <https://forestgrape.github.io/corona-ch/> (Page in German)
