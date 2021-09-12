@@ -2,9 +2,11 @@
 
 How the immune system develops during lifetime and the protection at frequent pathogen entry locations is strengthened. In other words the ontogenesis and the generated compartmentalization of the immune system.
 
-> Entire page is **in work, incomplete and needs to be checked**. A main reason for the early publishing is the [literature list](#key-literature-and-recommended-readings) on which inspires and founds this chapter. 
+> Entire page is **in work, incomplete and needs to be checked**. 
 
 > Early publishing due to the urgently needed rational discussion whether to vaccinate young people including children.
+
+> A main reason for the early publishing is the [literature list](#key-literature-and-recommended-readings) which inspires and founds this chapter.
 
 > References to figures refer to the figures in the corresponding papers.
 
