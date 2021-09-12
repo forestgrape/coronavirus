@@ -68,7 +68,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
 - 27.7. [Disease pattering](../3_medical/coronavirus_disease_patterns.md)
 - 29.4/3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' 
-- 17.4.20 00:04 GMT  New section online: Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs
+- 17.4.20 00:04 GMT  New section online: Evidence for Increased [Immune Protection against Sars-CoV-2 from Exposure to BCoVs](../5_epidemiological/covid_and_bovine_farming.md)
 - 4.4.20 Added Section Ideas to Explore
     - starting with [Early On Ventilators](../6_prevention_and_treatment/increasing_the_mucus_flow.md): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
 - 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](../5_epidemiological/transmission.md##particle-dynamics-in-the-respiratory-tract).
@@ -78,6 +78,18 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.  
 
 ## Minor Updates
+- 24.8.: General notes on data handling moved to its own page [Data](8_data/data.md) (previously section on monitoring.md or scattered remarks).
+- 24.8.: A new page [Situation Assessments](1_introduction/situation_assessments.md) grouping the previously scattered situation assessments.
+- 22.8.: Many updates and clarifications across the page. E.g. 
+  - updated and extend the Immune System Page and renamed it to [Concepts of Immunology](4_immunological/concepts_of_immunology.md).
+  - updates on the [Controlling Page](7_social/controlling.md) and added section with [measures recommendations](7_social/controlling.md#measure-recommendations)
+- 6.8.: [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md): Clarifications and added examples of faster (alpha, delta)/immune evasion variants (beta, delta).
+- 6.8.: Various updates across the page
+- 26.7.: [Section Transmission Distribution](5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
+- 26.7.: [Vaccine Safety](10_vaccines/vaccine_safety.md) chapter updated, clarified and extended.
+- 26.7.: Formulations and clarifications across the page e.g. the sections [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md), [Monitoring](8_data/monitoring.md) and [Immune Evasion](4_immunological/immune_evasion.md)
+- 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
+- 21.6.: Redefined [Immune System](4_immunological/concepts_of_immunology.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
 - 13.6. Split up Questions on Vaccines into [Safety Questions](./10_vaccines/safety_questions.md) and [Vaccination Effects on Infection](./10_vaccines/effects_on_covii.md)
 - 10.6. Added in [notes on reading](#notes-on-reading) that referencing is always welcome.
 - 8.6./9.6. Clarifications and reordering across the page.  On the [Controlling Page](7_social/controlling.md) added a section [Balancing of Measures](7_social/controlling.md#balancing-of-measures) and the previous Balance section renamed to [On Balancing of Measures](7_social/controlling.md#on-balancing-of-measures).
@@ -145,7 +157,7 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 - 7.7. 7 Storage options to memorize metabolism on the [Coronaviruses](../2_biological/life-forms.md) page
 - 2.7. Mask section redone and grouped into it mask related comments scattered throughout the page
 - 12.6. sections in *online work* on the tropism of Covid-19 and Sars-Cov-2 (github branch)
-- 12.5. added note that [outdoors is safer](../controlling.md#outdoors-is-safer)
+- 12.5. added note that [outdoors is safer](../7_social/controlling.md#outdoors-is-safer)
 - 1.5.- 9.5. Formulations in Monitor, Exposure to BCoVs and Coronavirus sections
 - 30.4. Regrouped and extended topic on measures and data into a new section [Thoughts on Monitor and Controlling Sars-CoV-2](../7_social/controlling.md)
 - 28.4. Short note to support public health in the data section

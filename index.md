@@ -42,7 +42,7 @@ This section overviews the entire content. The [content section](#content) lists
 
   > Early online due to its relevance for acute questions such as whether to vaccinate children or to close schools.
 
-  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity SARS-CoV-2 Infections and the Effects of the currently used vaccines). One goal is to contribute to the scientific foundations to estimate for whom the currently available vaccines are adequate and useful. 
+  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity upon SARS-CoV-2 Infections and the wanted and unwanted Effects of the currently available/used vaccines). One goal is to contribute to the scientific foundations to estimate for whom the currently available vaccines are adequate and useful. 
 
 - 12.7. How a SARS-CoV-2 variant can have a competition advantage by infecting faster or by immune evasion even without having a higher transmissibility (defined as the average R value): [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
 - 13./14.6. [General Chapter on Vaccination](10_vaccines/immunization.md)
@@ -62,18 +62,6 @@ This section overviews the entire content. The [content section](#content) lists
 - 1.9.: Added some references that a lifestyle [movement](6_prevention_and_treatment/movement.md) helps to prevent severe Covid.
 - 27.8.: New Accompanying Page which contains situations estimates/analyses for Switzerland: <https://forestgrape.github.io/corona-ch/> (Page in German)
 - 27.8.: Section [Outdoors is Safer](7_social/controlling.md#outdoors-is-safer) on the controlling page clarified.
-- 24.8.: General notes on data handling moved to its own page [Data](8_data/data.md) (previously section on monitoring.md or scattered remarks).
-- 24.8.: A new page [Situation Assessments](1_introduction/situation_assessments.md) grouping the previously scattered situation assessments.
-- 22.8.: Many updates and clarifications across the page. E.g. 
-  - updated and extend the Immune System Page and renamed it to [Concepts of Immunology](4_immunological/concepts_of_immunology.md).
-  - updates on the [Controlling Page](7_social/controlling.md) and added section with [measures recommendations](7_social/controlling.md#measure-recommendations)
-- 6.8.: [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md): Clarifications and added examples of faster (alpha, delta)/immune evasion variants (beta, delta).
-- 6.8.: Various updates across the page
-- 26.7.: [Section Transmission Distribution](5_epidemiological/spread_analyses.md#transmission-distribution) on the [Spread Analyses Page](5_epidemiological/spread_analyses.md) extended: The SARS-CoV-2 spread is highly individual and depends on the behavior, physiological factors and socioeconomic conditions.
-- 26.7.: [Vaccine Safety](10_vaccines/vaccine_safety.md) chapter updated, clarified and extended.
-- 26.7.: Formulations and clarifications across the page e.g. the sections [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md), [Monitoring](8_data/monitoring.md) and [Immune Evasion](4_immunological/immune_evasion.md)
-- 12.7.: [Immune Evasion](4_immunological/immune_evasion.md) generalized and added how coronaviruses can evade neutralizing antibodies by reducing the exposure time (virions spikes primed faster) or entirely circumvent the virions phase by cell-cell fusion ([Escape Neutralizing Antibodies](4_immunological/immune_evasion.md#overcome-neutralizing-antibodies))
-- 21.6.: Redefined [Immune System](4_immunological/concepts_of_immunology.md#immune-system): The immune system is now defined as controlling life-forms interactions such they agree with the homeostasis (body balance). Usually the interactions are adapted or sometimes reduced such that the interactions are favorable or at least not relevantly adverse.
 * [-> Full Update History](./1_introduction/update_history.md)
 
 
