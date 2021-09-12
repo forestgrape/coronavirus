@@ -42,7 +42,7 @@ This section overviews the entire content. The [content section](#content) lists
 
   > Early online due to its relevance for acute questions such as whether to vaccinate children or to close schools.
 
-  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity SARS-CoV-2 Infections and the Effects of the currently used vaccines). One goal is to contribute to the scientific foundations - which are urgently required - to estimate for whom the currently available vaccines are adequate and useful. 
+  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity SARS-CoV-2 Infections and the Effects of the currently used vaccines). One goal is to contribute to the scientific foundations to estimate for whom the currently available vaccines are adequate and useful. 
 
 - 12.7. How a SARS-CoV-2 variant can have a competition advantage by infecting faster or by immune evasion even without having a higher transmissibility (defined as the average R value): [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
 - 13./14.6. [General Chapter on Vaccination](10_vaccines/immunization.md)
