@@ -42,7 +42,7 @@ This section overviews the entire content. The [content section](#content) lists
 
   > Early online due to its relevance for acute questions such as whether to vaccinate children or to close schools.
 
-  > The chapter is part of a bundle of chapters considering the immunity regarding virus infections with a focus on SARS-CoV-2 infections (other chapters in work are Acquired Immunity SARS-CoV-2 Infections and the Effects of the currently used vaccines). One goal is to contribute to the scientific foundations - which are urgently required - to estimate for whom the currently available vaccines are adequate and useful. 
+  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity SARS-CoV-2 Infections and the Effects of the currently used vaccines). One goal is to contribute to the scientific foundations - which are urgently required - to estimate for whom the currently available vaccines are adequate and useful. 
 
 - 12.7. How a SARS-CoV-2 variant can have a competition advantage by infecting faster or by immune evasion even without having a higher transmissibility (defined as the average R value): [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
 - 13./14.6. [General Chapter on Vaccination](10_vaccines/immunization.md)
@@ -56,6 +56,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
+- 12.9.: [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md) clarified and extended.
 - 9.9. Many small changes across the page and a new chapter added: [Recent Topics added](#recent-topics-added).
 - 5.9.: New brainstorming [Chapter on Air Quality](7_social/good_air.md). How to measure, achieve and certify the air quality. 
 - 1.9.: Added some references that a lifestyle [movement](6_prevention_and_treatment/movement.md) helps to prevent severe Covid.
