@@ -10,8 +10,9 @@
 * [Overcome Innate Immunity](#overcome-innate-immunity)
   * [Overcome Physical Barriers](#overcome-physical-barriers)
   * [Overcome Chemical Barriers](#overcome-chemical-barriers)
+  * [Overcome Intra Cellular Immunity](#overcome-intra-cellular-immunity)
 * [Overcome Acquired Immunity](#overcome-acquired-immunity)
-  * [Overcome Neutralizing Antibodies](#overcome-neutralizing-antibodies)
+  * [Overcome Spike Binding Antibodies](#overcome-spike-binding-antibodies)
 * [References](#references)
 
 
@@ -68,12 +69,14 @@ Mutating the genome changes the characteristics of the coming generations. This 
 Costs: Most mutations reduce the fitness.
 
 ### Change the Way of Life
-Changing the way of life to circumvent certain immune mechanisms. For RNA viruses changing the way of life is often achieved by [genetic adaption](#genetic-adaption) since their genome mutates fast and is very close to enzymes.
+Changing the way of life to circumvent certain immune mechanisms. 
+* For RNA viruses changing the way of life is often achieved by [genetic adaption](#genetic-adaption) since their genome mutates fast and is very close to enzymes.
+* Changing the habitat both within a host or to other hosts. In many larger organisms the immune system is localized, so if the protection is strong in place is still can be low in another.
 
 ### Adaption of Immune Evasion Mechanisms
 Existing evasion mechanisms can be strengthened or new mechanisms can be used. Especially if a host has a single sided immune response, mechanisms to escape this response can evolve.
 
-> This is a concern for the current Covid vaccines. All available vaccines produce a single sided immune response, namely targeting only spike epitopes: Mainly through IgG antibodies. To some extent also spike targeting T cells.
+> This is a concern for the current Covid vaccines. All available vaccines produce a single sided immune response, namely targeting only spike epitopes: Mainly through IgG antibodies and systemic T cells.
 
 
 
@@ -89,25 +92,44 @@ Existing evasion mechanisms can be strengthened or new mechanisms can be used. E
   - replicate to high numbers in the lungs and pass through the thin alveolar single cell layer to the blood
   - replicate to high numbers in the upper respiratory tract and hope some virions sneak through when drinking (fluids usually don't stay long in the stomach)
 
+### Overcome Intra Cellular Immunity
+A common way the over come intracellular immunity is by letting the cells produce replication sites which [shield](#shield) the viral metabolism from the cell intern immune mechanisms.
+
+
 
 ## Overcome Acquired Immunity
 For coronaviruses waiting until immunity wanes or even jumping generations is usually not an option, thus circumventing acquired immunity is an essential skill. 
 
 However overcoming immunity can be costly for coronaviruses, so immune mechanisms slow the down.
 
-### Overcome Neutralizing Antibodies
+### Overcome Spike Binding Antibodies
 
-#### Introducing Neutralizing Antibodies
+
+#### Spike Antibodies Effector Mechanisms
+
+<!--move to immune mechanisms -->
+
+Spike binding antibodies can opsonize the virions for phagocytosis, neutralize the virions or mark the virions as dangerous. Often antibodies act by all three mechanisms, however the effectiveness of the mechanisms vary.
+
 > ##### Neutralizing Antibody
-> An antibody that block virions from infecting cells are called neutralizing antibodies. 
+> *Neutralizing* antibodies block virions from entering cells. 
 
-In the case of coronaviruses, neutralizing antibodies target the spikes:
-The only virion protein well accessible from the outside is the spike protein, so that's the target. If a sufficient number of spikes have antibodies attached: 
-* a virion cannot infect cells on its own anymore, since working spike proteins are needed for active cell entry.
-* virions are marked for phagocytosis.
+The only coronavirus protein well accessible from the outside is the spike protein, so that's the target. If a sufficient number of spikes have antibodies attached a virion cannot infect cells on its own anymore, since working spike proteins are needed for active cell entry. 
 
-#### Neutralizing Antibody Escape Mechanisms
-Coronaviruses are good at escaping neutralizing antibodies and they use nearly the entire arsenal of [immune evasion mechanisms](#immune-evasion-mechanisms) to do so:
+> Neutralizing antibodies are a useful tools to do in vitro experiments. In vivo the neutralizing effect seems to be not really relevant [argumentation in work].
+
+> ##### Opsonizing Antibody
+> An antibody can *opsonize* a virion for phagocytosis.
+
+Upon phagocytosis, mostly the virions are digested but sometimes the virions infect the phagocyting cell (especially if the intracellular detection mechanisms are reduced).
+
+> ##### Marking Antibodies
+> An antibody can mark a virions. Upon infecting or phagocytosis the cell detect the danger and starts an antiviral program e.g. by producing interferons.
+
+
+
+#### Spike Binding Antibody Escape Mechanisms
+Coronaviruses - like many enveloped viruses - are good at escaping neutralizing antibodies and they use nearly the entire arsenal of [immune evasion mechanisms](#immune-evasion-mechanisms) to do so:
 
 ##### AB circumvention by Change of Appearance
 Methods to change appearance are [mutating](#mutate-the-genome) or [masking](#mask). 
@@ -149,7 +171,8 @@ Coronaviruses can adapt to increase the resistance towards neutralizing antibodi
 
 
 ## References
-[in work]
+
+> [in work], the above text is not yet complete and many sections have missing citations. Additionally not all refs are used 
 
 ##### kikkert
 Marjolein Kikkert
