@@ -2,7 +2,7 @@
 
 # A Conceptual View of Immunology
 
-> **Major rework in progress, June/August 2021**
+> **Major rework in progress, June/August/September 2021**
 
 
 * [Summary](#summary)
@@ -27,18 +27,19 @@
 * [Immune System in Action: From Surveillance to Alarms to Learning to an Effector Response](#immune-system-in-action-from-surveillance-to-alarms-to-learning-to-an-effector-response)
   * [Surveillance State](#surveillance-state)
   * [Alarm State](#alarm-state)
-  * [Learning Phase](#learning-phase)
+  * [Learning State](#learning-state)
   * [Effector Response State](#effector-response-state)
   * [Immune Responses](#immune-responses)
 * [Variability of the Immune System](#variability-of-the-immune-system)
   * [Factors Influencing Variability](#factors-influencing-variability)
   * [Target Variability](#target-variability)
-* [Immune Cells](#immune-cells)
-  * [Redistribution of Immune Cells](#redistribution-of-immune-cells)
-  * [Immune Cell Types](#immune-cell-types)
+* [Immune System Members](#immune-system-members)
+  * [Intra Cellular Immunity](#intra-cellular-immunity)
+  * [Immune Cells](#immune-cells)
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
   * [Adaption of the Innate Immune System](#adaption-of-the-innate-immune-system)
+  * [Acquired Immunity](#acquired-immunity)
   * [Books](#books)
 
 
@@ -252,19 +253,8 @@ Both the blood and the lymph are inspected.
 
 
 ### Supervise the Production
-The immune system tightly supervises the production of enzymes. Enzymes are mostly either proteins, a combinations of proteins and RNA and sometimes RNA only.
+The immune system tightly supervises the production of substances especially enzymes. Enzymes are mostly either proteins, a combinations of proteins and RNA and sometimes RNA only. Since nearly all enzymes are produced within cells, the [intracellular controls](#intra-cellular-immunity) are crucial.
 
-#### Self Checks of Cells
-[in work]
-Self checks of the cells:
-* RNA sequence inspection and possibly silencing
-* Detect foreign RNA e.g. double stranded
-* Detect stress e.g. Ribosome permanently producing. 
-
-Upon detection of anomalies, the cells can go into an alert state, ring the bells or even induce apoptosis.
-
-#### Extern Checks of Cells
-Cells present what they produce on the outside (via MHC 1 proteins): Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
 
 
 
@@ -273,7 +263,7 @@ Cells present what they produce on the outside (via MHC 1 proteins): Immune cell
 ### Surveillance State
 Any of the [surveillance methods](#immune-system-surveillance-methods) can ring the bells or directly initiate an effector immune response.
 ### Alarm State
-### Learning Phase
+### Learning State
 ### Effector Response State
 
 ### Immune Responses
@@ -340,35 +330,56 @@ Checking these conditions is called training (described for T cells in [T Cell T
  --> 
 
 
-## Immune Cells
+## Immune System Members
 
-### Redistribution of Immune Cells
+### Intra Cellular Immunity
+The intracellular immunity is cell type dependent and varies much, even within an organism. Most cells a surveillance system of different receptors supervise in a [default allow scheme](../8_data/data.md#default-allow) and the cell intern RNA is strictly monitored often by a [default deny scheme](../8_data/data.md#default-deny) i.e. only RNA which looks good is translated to proteins.
+
+#### Self Checks of Cells
 [in work]
+Self checks of the cells:
+* RNA sequence inspection and possibly silencing
+* Detect foreign RNA e.g. double stranded
+* Detect stress e.g. Ribosome permanently producing. 
+
+Upon detection of anomalies, the cells can go into an alert state, ring the bells or even induce apoptosis.
+
+#### Extern Checks of Cells
+Cells present what they produce on the outside (via MHC 1 proteins): Immune cells (e.g. T cells) inspect these substances and can induce cell death and/or ring the bells.
 
 
-### Immune Cell Types
+
+### Immune Cells
+Immune cells are cells which have a direct immune function.
+
+
+> **In work and incomplete and inaccurate.**
+
 #### B Cells
+B cells can produce antibodies.
 
 #### T Cells
 * T cells are in the blood and locally in tissues. 
 * T cells can check if cells do what they are supposed to do. Virus infected cells have a changed metabolism since they produce proteins encoded by the viruses. [T cells can detect](#extern-checks) the virus proteins exposed.
-* To control coronaviruses infections T cells are key [citation coming].
+* To control coronaviruses infections CD8 T cells are key [citation coming].
+* T cells can prime [B cells](#b-cells).
 
-> ###### Local T cell
-> *Tissue resident T cells* in literature, often shortened to *local T cells* on this page, are T cells which survey the tissues cells integrity. They move within tissues and and do not circulate with the blood. //previously shortened here as *local* T cells
 
-##### Distribution
-T cells are in the blood, in lymph nodes and resident T cells in tissues. Lymph nodes and tissue resident T cells are often at entry points for pathogens e.g. the mouth is a common entry point for viruses, so close to the mouth there are many T cells [in work].
+##### Locality of T Cells
+T cells are in the blood, in lymph nodes and resident T cells in tissues. Lymph nodes and the mucosal sites are the places where pathogens arrival is most likely e.g. the mouth is a common entry point for viruses, so close to the mouth there are many T cells [in work].
+
+> ##### Tissue Resident T Cell
+> ##### Local T cell
+> *Tissue resident T cells* in literature, often shortened to *local T cells* on this page, are T cells which survey the tissues integrity. They reside and sometimes move within tissues but do not circulate with the blood. 
+
 
 ##### T Cell Training
 [in work, to be completed and to be checked]
-1. _Bone Marrow:_ In the bone marrow new immune cells are produced. Some of the immune cells differentiate into T cells and move to the thymus. [to check and clarify]. The genes encoding the T cell receptor (TCR) undergo somatic recombination => the TCRs differ from T cell to T cell.
-2. _Thymus:_ In the thymus it is checked if the cells have the right binding capabilities: The TCR should bind the MHC 1 receptors neither to weak nor to strong. Don't attack self substances. 
+1. _Bone Marrow:_ In the bone marrow new immune cells are produced. Some of the immune cells differentiate into T cells and move to the thymus. [to check and clarify]. 
+2. _Thymus:_ The genes encoding the T cell receptor (TCR) undergo somatic recombination => the TCRs differ from T cell to T cell. In the thymus it is checked if the cells have the right binding capabilities: The TCR should bind the MHC 1 receptors neither to weak nor to strong. Don't attack self substances. 
    * Fail (wrong MHC binding strength or self substances attacked) => trigger cell death (if goes wrong, an autoimmune disease can result)
    * Succeed (right MHC binding strength If the cell does *not* bind self) => send the cell to the lymph nodes. 
 3. _Lymph Nodes:_ In the lymph nodes the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful. If the cells is useful often replication is triggered.
-
-
 
 
 
@@ -394,6 +405,9 @@ Cell. 2018;175(6):1463–1465.
 <https://doi.org/10.1016/j.cell.2018.11.007>
 
 <!--* ##### han2006-->
+
+
+### Acquired Immunity
 
 
 ### Books
