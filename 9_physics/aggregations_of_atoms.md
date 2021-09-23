@@ -5,7 +5,7 @@
 
 > some parts are explorative and need to be checked
 
-> Currently (May 2021) collection of topics of atoms arrangement relevant for other part of this page. The topics are sketchy and incomplete. Long-term goal: Description how atomic elements arrange to form inorganic or organic matter.
+> Currently (May 2021) a loose collection of topics, how atoms arrange to form matter. Mainly topics relevant for other part of this page are discussed. The topics are sketchy and incomplete. Long-term goal: Description how atomic elements arrange to form inorganic or organic matter.
 
 ## Content
 * [Content](#content)
