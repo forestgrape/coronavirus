@@ -72,7 +72,7 @@ Jing Yan, et al **Aerosol shedding of infectious influenza virus**
 
   > Similar investigations (more than one and with different strains!) would be very helpful for Covid.
   > * To better understand viral shedding and transmission.
-  > * Whether to motivate healthy and young to get vaccinated i.e. whether and how aerosol shedding is reduced in vaccinated people.
+  > * Whether to motivate healthy and young to get vaccinated i.e. whether aerosol shedding is reduced or increased (!) in vaccinated people.
 
 #### Usage Here
 * The chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md) hypotheses the same for compartmentalization for coronavirus infections.
