@@ -1,6 +1,9 @@
 
 # Spread Analyses
-Spread Analyses across the World and across different Settings
+Spread Analyses across the World and across different settings. 
+
+> The individual spread is analysed on the page [individual spread](./individual_susceptibility_and_transmission.md).
+
 * [Short Summary](#short-summary)
 * [Summary](#summary)
   * [Summary Findings regarding Transmission Paths](#summary-findings-regarding-transmission-paths)
@@ -36,8 +39,6 @@ Spread Analyses across the World and across different Settings
   * [Betacoronaviruses](#betacoronaviruses)
   * [Respiratory Viruses](#respiratory-viruses)
 * [Summarized References](#summarized-references)
-  * [References Household Transmissions](#references-household-transmissions)
-  * [References General Spread Patterns](#references-general-spread-patterns)
   * [References Living Conditions](#references-living-conditions)
   * [References SARS-2 in India](#references-sars-2-in-india)
   * [References SARS-2 in Eastern Africa](#references-sars-2-in-eastern-africa)
@@ -45,7 +46,6 @@ Spread Analyses across the World and across different Settings
   * [References SARS-2 in Southern Africa](#references-sars-2-in-southern-africa)
   * [References SARS-2 in South America](#references-sars-2-in-south-america)
   * [References SARS-2 in Europe](#references-sars-2-in-europe)
-  * [References Spread Inferred from Sequences](#references-spread-inferred-from-sequences)
   * [References Sars-2 in South East Asia](#references-sars-2-in-south-east-asia)
   * [References Spread and Air Pollution](#references-spread-and-air-pollution)
 * [References](#references)
@@ -62,11 +62,11 @@ Methods: The spread behavior of Covid is analysed in geographical and social set
 Observations: 
 * High transmission rates of severe Covid are nearly only observed in situations where much air is exchanged between people. Much air is exchanged when spending much time in shared indoor rooms without good ventilation, in crowded confined settings. Deep breathing (High altitude or activities such as sports, singing) increases the air inhaled and thereby greatly increases the amount of particles deposited to the lungs. 
 * Most severe cases and high fatality rates are observed in dry air. The indoor air is dry when heating, air-conditioning or when the outdoor air is dry.
-* High fatality rates are associated to unhealthy lifestyles (e.g. obesity and polluted air).
+* High fatality rates and high rates of severe cases are associated to unhealthy lifestyles (e.g. obesity and polluted air).
 
 Findings:
 * Covid transmits mainly through breathed air but not trough droplets or fomites. Severe Covid transmits mainly through dry air.
-* The individual differences regarding susceptibility and infectiousness are large and the risk factors for severe Covid (except high age) also tend to increase transmissions. Children can catch mild infections but are much less infectious compared to adults.
+* The individual differences regarding susceptibility and infectiousness are large and the risk factors for severe Covid (except high age) also tend to increase transmissions. Children nearly only get mild infections and are much less infectious compared to adults.
 
 
 
@@ -120,12 +120,10 @@ For crowded events during the day in unconfined settings (e.g. demonstrations or
 
 
 ### Summary Population Susceptibility and Transmission Rates
-* Population groups with an adequate and in form immune system in the lungs mostly get mild diseases and are less infectious, these includes young people and especially children. For children Covid is no more or even less dangerous than other respiratory viruses. 
-  * [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. In schools if there were many infected this is mostly due to super spreading teachers and not children infecting each other. [argumentation in work]
-  * [Transmission Distribution](#transmission-distribution): The transmission and spread varies across people: 20% are responsible for 80% of the infections. People from 5 to 29 years are less likely to get severely sick and transmit Covid less.
-* On the other hand populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement and/or severe obesity tend to have more Covid cases and higher fatality rates.
-  * [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades seem to have many more cases and have higher death rates.
-  * [Overweight](#overweight): Regions where overweight tend to have more cases and higher fatality rates.
+
+Populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement and/or severe obesity tend to have more Covid cases and higher fatality rates.
+* [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades have more cases and have higher death rates.
+* [Overweight](#overweight): Regions where overweight have more cases and higher fatality rates.
 
 
 
@@ -378,7 +376,7 @@ _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for sev
 
 > However the overall health benefits of a smoke stop outweigh by fare a possible increased Covid incidence: Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be caused by (possibly toxic) environment changes in the lung when smoking.[Local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the possibility of health hazards which smoke has. 
 
-> 12.6.21: It's not about smoke-free - Everyone should judge the risks to take in life on his own. But since smoking is addictive, I consider restrictions on advertisement as adequate.
+> 12.6.21: It's not about smoke-free - Everyone should judge the risks to take in life on his own. Add restrictions for addictives, I consider as adequate however.
 
 
 ### High Overweight Prevalence is associated to High Covid Prevalence and Death Rates
@@ -540,143 +538,15 @@ Most superspreading events were observed in winter and often in hospitals ([Duda
 -->
 
 ### Respiratory Viruses
-* Perez-Lopez et al analysed the effect of school closures on respiratory viruses. [Summary of Perez-Lopez et al](#summary-perez-lopez) and commented in the [Schools and children section](#schools-and-children).
-
----
+* Perez-Lopez et al analysed the effect of school closures on respiratory viruses. [Summary of Perez-Lopez et al](./individual_susceptibility_and_transmission.md#summary-perez-lopez) and commented in the [Schools and children section](./individual_susceptibility_and_transmission.md#schools-and-children).
 
 
-
-
----
 
 ## Summarized References
 [in work]
 References without a summary are in the section [References](#references). Copy & Paste citations are in "___". 
 
 
-### References Household Transmissions
-
-> #### Comments on Household Transmissions
-> * Even if the Covid prevalence is low, infected household members may community acquire the infection at the same event since the transmission is super-spreading-event driven and the disease onset can be hard to determine due to asymptomatic/low symptomatic cases and varying incubation times. Sensitivity analyses with varying the cut-off dates between symptom onsets help for symptomatic cases.
->  * If the community transmissions are high, the secondary attack rates needs correction for community acquired infections. Also commented at [Summary Madewell](#summary-madewell)].
-
-
-#### Summary Hall
-JA Hall, RJ Harris, A Zaidi, SC Woodhall, G Dabrera, JK Dunbar, 
-**HOSTED—England’s Household Transmission Evaluation Dataset: preliminary findings from a novel passive surveillance system of COVID-19**, 
-International Journal of Epidemiology, Volume 50, Issue 3, June 2021, Pages 743–752, 
-<https://doi.org/10.1093/ije/dyab057>
-
-##### Methods
-"The Household Transmission Evaluation Dataset (HOSTED) is a passive surveillance system linking laboratory-confirmed COVID-19 cases to individuals living in the same household in England. We explored the risk of household transmission according to: age of case and contact, sex, region, deprivation, month and household composition between April and September 2020, building a multivariate model."
-##### Results
-The heat map (Figure 3 in the paper) shows the secondary cases by age of the index case and age of the contact:
-
-![Heat map of secondary cases by age](images/hall_transmission_by_age.jpg)
-
-* _Few Spread:_ People younger than 30 year but older than 4 have few secondary cases (left third of the image except left most column).
-* _Much Spread:_ 
-  * For index cases above 40 years the transmissions are high. The transmission rates peak at an age of about 65 years.
-  * Very young children 0 to 4 of age transmit Covid well and mainly to their parents and their grand parents (left most column).
-  * Parents between 40 and 59 transmit to older children (15-24) but the children not to them (hotspot at middle right, missing hotspot on the mirrored)
-
-The graphs below show the secondary attack rate in the different administration division in the UK. 
-![Transmission by regions](images/hall_secondary_cases_by_region.jpg)
-
-The Southern regions have lower secondary attack rates likely due to the more comfortable climate in the summer months.
-
-
-##### Methods Details
-"As the incubation period for SAR-CoV-2 is thought to be 2–14 days [16],  we chose a threshold of 2 days between the specimen dates of the index and secondary cases as a pragmatic decision to offset the risks of misclassifying cases as either co-primary or as secondary. A sensitivity analysis using a cut-off of 4 days found to have little effect on any of the results or on the multivariable model. We have also made the implicit assumption that two (or more) cases oc- curring in a household within 2–14 days represents house- hold transmission when it also plausible that they are two independent community-acquired infections. However, given the timing of this study, when the number of cases was at its lowest, this risk is probably small." 
-
-> // Considering the asymptomatic/low symptomatic cases, simultaneous community acquired infection (e.g. at a super spreading event) cannot be ruled out even with the sensitivity analysis by varying the incubation cut-offs.
-
-
-#### Summary Madewell
-**Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate**
-Zachary J. Madewell, Yang Yang, Ira M. Longini Jr, M. Elizabeth Halloran, Natalie E. Dean
-medRxiv preprint 
-<https://doi.org/10.1101/2020.07.29.20164590>, posted August 1, 2020.
-
-##### Methods
-Meta-Analysis of studies regarding the transmission dynamics of Covid-19 in household settings. Many different kind of studies are included: 
-* Covid diagnosis based on live tests (RT-PCR) or past infections with antibody tests, some studies included symptoms, a few studies do whole-genome sequencing, some studies are in settings (area and times) of high prevalence.
-* The influence of the different factors (contact type, symptom status, adult/child contacts, sex, relationship to index case, number of contacts in household, ...) is analyzed.
-
-##### Findings
-Secondary Attach Rates with different groups as **infectors**. The error rate is in brackets. 
-* household: 0.19 (0.4); family including non household contacts: 0.18 (0.5)
-* symptomatic: 0.2 (0.6); pre- or asymptomatic: 0.07 (0.04)
-
-Secondary Attach Rates with different groups as **infectees**. The error rate is in brackets. 
-* children: 0.16 (0.6); adults: 0.31 (1.2) // adults includes spouses
-* spouse: 0.43 (1.6); other: 1.8 (0.8)
-
-Proportion of households where a secondary transmission was observed:
-* 0.32 (.025)
-
-Comparison with SARS-1 or MERS:
-* SARS-1: 0.06 (0.04)
-* MERS: 0.035 (0.035)
-
-> ##### Comment
-> Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for different household members are very likely and thus inferring the secondary attack rate from the prevalence in household members overestimates the secondary attack rate. 
-
-
-### References General Spread Patterns
-
-#### Summary Adam
-**Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
-Adam D, Wu P, Wong J, et al. Research Square; 2020. 
-<https://doi.org/10.21203/rs.3.rs-29548/v1>
-
-##### Methods
-"Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection."
-
-##### Results
-* Distribution of Infectivity:
-  * 20% of the cases induced 80% of infections
-  * 10% of the cases induced 20% of infections
-  * 70% of the cases induced no observed infections (despite most of them being not in quarantine, Fig.2)
-* "Gatherings in social settings such as bars, restaurants, weddings and religious sites appear to be at increased risk of superspreading events."
-* "Transmission in social settings was significantly associated with an increased number of secondary cases compared to transmission observed in family households."
-* Quarantine
-  * Home quarantine yielded sporadic infections (2 observed) in family settings (Fig.2 d) and none outside families
-  * Government quarantine yielded no further infections (Fig.2)
-* "Of all cases confirmed in Hong Kong, 195 (18.8%, 195/1,038) were asymptomatic at confirmation (Supplementary Table 2) and, of these, most (83.1%, 162/195) were PCR-confirmed from 27 March onward" (Extended Data Fig.2)
-* Infections caused by pre-symptomatic infectors were rarely observed: "Seven instances of likely pre-symptomatic transmission were observed where onset of the infectee preceded that of the infector or occurred on the same day."
-
-##### Limitations
-"These findings take advantage of the quality of case ascertainment and contact tracing data in Hong Kong, although some incompleteness in links between cases could potentially bias our estimates of transmission heterogeneity."
-
-
-#### Almadhi
-Almadhi, M. A., Abdulrahman, A., Sharaf, S. A., AlSaad, D., Stevenson, N. J., Atkin, S. L., & AlQahtani, M. M. (2021). The high prevalence of asymptomatic SARS-CoV-2 infection reveals the silent spread of COVID-19. International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases, 105, 656–661. 
-<https://doi.org/10.1016/j.ijid.2021.02.100>
-
-
-#### Summary Perez-Lopez
-**Dramatic decrease of laboratory‐ confirmed influenza A after school closure in response to COVID‐19**
-Perez‐Lopez A, Hasan M, Iqbal M, Janahi M, Roscoe D, Tang P.; Pediatric Pulmonology. 2020;1–2. 
-<https://doi.org/10.1002/ppul.24933>
-
-##### Methods
-* "A proactive school closure was the first social distancing measure implemented by the State of Qatar on 10 March."
-* "Table 1 shows a comparison of the molecular detection of respiratory viruses other than SARS‐CoV‐2 on nasopharyngeal swabs from our PED per 1000 emergency visits before school closure, between 13 February and 14 March, assuming a maximum incubation period for influenza of 4 days, and after school closure, between 15 March and 11 April."
-
-##### Results
-
-Virus tested| open schools|closed schools| RR (95% CI)
-------------|-------------|-------------|-------------------
-Total tests | 75.1 (69.1‐81.6) | 64.1 (60.3‐77.6) | 0.9 (0.7‐1)
-Influenza A | 8.7 (6.7‐11.1) | 0.3 (0.07‐1.5) | 0.03 (0.004‐0.2)
-Influenza B | 3.3 (2.2‐4.9) | 2.3 (1.1‐4.7) | 0.7 (0.3‐1.5)
-RSV |0.9 (0.4‐1.9) | 1 (0.3‐2.8)| 1.1 (0.3‐3.7
-Rhino/entero | 12.1 (9.7‐14.8) | 12.3 (9.7‐17.4)| 1 (0.7‐1.4)
-hMPV | 3.6 (2.4‐5.2) | 3.3 (1.9‐6.1)| 0.9 (0.5‐1.8)
-Common HCoVs | 3.1 (2‐4.6) |  2.3 (1.1‐4.7) | 0.7 (0.3‐1.6) 
-Adenovirus | 2.3 (1.3‐3.7) | 7.2 (5.1‐11.1) |3.2 (1.7‐5.8)
-Parainfluenza | 3.1 (2‐4.6)| 3.6 (2.1‐6.4) | 1.2 (0.6‐2.3)
 
 ---
    
@@ -768,6 +638,7 @@ Science 362 (6410), 75-79.
 * "Cities with higher mean intensity tend to be located in the east, have smaller population sizes, and have higher-amplitude seasonal fluctuations in specific humidity." (Fig 1 D-F)
 * "Increasing base transmission potential can decrease epidemic intensity in a seasonally forced compartmental epidemic model." (Fig 2)
 * Population size and crowding increase the base transmission potential. (Fig 3 F,G)
+
 
 
 ### References SARS-2 in India
@@ -1090,9 +961,6 @@ Revista de saude publica vol. 54 (2020): 69. <https://doi.org/10.11606/s1518-878
 
 ### References SARS-2 in Europe
 
-
-**HOSTED—England’s Household Transmission Evaluation Dataset: preliminary findings from a novel passive surveillance system of COVID-19**
-
 #### Summary Streeck
 Streeck, H., Schulte, B., Kümmerer, B.M. et al. 
 **Infection fatality rate of SARS-CoV2 in a super-spreading event in Germany.** 
@@ -1103,26 +971,6 @@ Nat Commun 11, 5829 (2020).  <https://doi.org/10.1038/s41467-020-19509-y>
 * "Anti-SARS-CoV-2 IgA and Anti-SARS-CoV-2 IgG were determined with enzyme-linked immunosorbent assays (ELISA) on the EUROIMMUN Analyzer I platform (most recent CE version for IgG ELISA as of April 2020, specificity 99.1%, sensitivity 90.9%,..."
 ##### Results
 "We found that of the 919 individuals with evaluable infection status, 15.5% (95% CI:[12.3%; 19.0%]) were infected. This is a fivefold higher rate than the reported cases for this community (3.1%). 22.2% of all infected individuals were asymptomatic. The estimated IFR was 0.36% (95% CI:[0.29%; 0.45%]) for the community and 0.35% [0.28%; 0.45%] when age-standardized to the population of the community. Participation in carnival increased both infection rate (21.3% versus 9.5%, p < 0.001) and number of symptoms (estimated relative mean increase 1.6, p = 0.007)."
-
-
-### References Spread Inferred from Sequences
-
-#### Summary Miller
-**Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel**
-##### Methods
-212 SARS-CoV-2 sequences in combination with "high-resolution epidemiological data" are used to deduce the spread into and within Israel.
-##### Results
-* "We find that travelers returning from the United States of America significantly contributed to viral spread in Israel, more than their proportion in incoming infected travelers."
-* "We further report high levels of transmission heterogeneity in SARS-CoV-2 spread, with between 2-10% of infected individuals resulting in 80% of secondary infections."
-  * "Specifically, if we assume almost complete case reporting, our phylodynamic analysis indicates that between 5% and 10% of infections are responsible for 80% of secondary infections. With lower assumed levels of case reporting, less than 5% of infections would be responsible for 80% of secondary infections." // considering that SARS-CoV-2 tests have a detection rate of about 50% and many cases are missed by contact tracing, an upper bound of 1/3 for the case reporting seem reasonable in the Spring 2020 in Israel => the model predicts that about 2% are responsible for 80% of the infections (p_h = 0.02 in Fig 6)
-##### Conclusions
-* "Our results indicate that superspreading events drive the transmission dynamics of SARS-CoV-2, suggesting that focused measures to reduce contacts of select individuals/social events could mitigate viral spread."
-* The global connectivity allows for massive introductions which suggests the importance of border controls. //The authors als conclude shelter-in-place restriction for halting viral spread but as of July 2021 it is known that shelter-in-place likely increases and not decreases the spread due to indoor aerosol transmissions.
-##### Method Details
-* "We obtained RNA extracted from nasopharyngeal samples. Sequencing was performed based on the V3 Artic protocol (https://artic.network/ncov-2019)."
-* "Instead of assuming a given level of transmission heterogeneity for Israel, we instead performed phylodynamic inference for the SEIR model across a range of transmission heterogeneities. Specifically, the SEIR-type model implemented two classes of infectious individuals, corresponding to a highly infectious subset of individuals (Ih) and a less
-infectious subset of individuals (Il)." // Detail description in Methods>Phylodynamic analysis> Equation (1) - (5).
-
 
 
 #### Summary Hodcroft
@@ -1137,8 +985,8 @@ The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequ
 * "The prevalence of early samples in Spain, diversity of the Spanish samples, and prominence of the cluster in Spanish sequences suggest Spain as the likely origin for the cluster, or at least the place where it first expanded and became common."
 * "Lentiviral particles with the A222V mutant spike had slightly higher titers than those without (mean 1.3-fold higher), although the difference was not statistically significant (Fig. S2). Therefore, A222V does not lead to the same large increases in the titers of spike-pseudotyped lentiviral that has been observed for the D614G mutation (Korber et al., 2020; Yurkovetskiy et al., 2020), which is a mutation that is now generally considered to have increased the fitness of SARS-CoV-2 (Plante et al., 2020; Volz et al., 2020)."
 
-### References Sars-2 in South East Asia
 
+### References Sars-2 in South East Asia
 
 ### References Spread and Air Pollution
 

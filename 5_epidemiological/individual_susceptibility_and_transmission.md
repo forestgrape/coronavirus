@@ -1,24 +1,17 @@
-# Transmission Distribution across Individuals
-Knowing how transmissions are distributed, helps to set and fine-tune control measures if the measures are  needed:
+# Individual Susceptibility and Transmission
+
+## Summary
+Population groups with an adequate and in form immune system in the lungs mostly get mild diseases and are less infectious, these includes young people and especially children. For children Covid is no more or even less dangerous than other respiratory viruses. 
+* [Transmission Distribution](#transmission-distribution): The transmission and spread varies across people: 20% are responsible for 80% of the infections. People from 5 to 29 years are less likely to get severely sick and transmit Covid less.
+* [Schools and Children](#schools-and-children): Children are less susceptible to infection and they spread Covid less than adults. In schools if there were many infected this is mostly due to super spreading teachers and not children infecting each other.
+
+
+## Relevance
+Knowing how transmissions are distributed, helps to set and fine-tune control measures. *If measures are necessary*.
 * Measures can few for those contributing few to the spread: children are not the carriers of the Covid spread and thus measures should not target them. 
-* People with higher R values can be offered better control measures: E.g. test access combined with [relaxed but adequate quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine), optimal masks (e.g. custom fit FFP2 including advice) and better education how to handle covid.
+* People with higher R values can be offered better control options: E.g. test access combined with [relaxed but adequate quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine), optimal masks (e.g. custom fit FFP2 including advice) and better education how to handle covid.
 
-> In my opinion, the actions for people with inherently higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects.
-
-> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume that currently available 'mRNA' and 'Adeno-virus-with-spike' vaccines are risk free and provide a useful protection against transmission. Even though no scientifically rigorous analyses are available proofing a useful transmission reduction for the delta variant [to my knowledge], a reduced transmission and susceptibility is assumed and taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated.
-
-> It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated.
-  >> whether it provides a useful protection against transmission is unclear (to my judgement).
-> Another scientific question is, which vaccines are safe. 
-
-> Relevant moral questions are (some go fare beyond the above considerations):
-> * Whether there should be restrictions for those being more likely infectious.
-> * The relations between opening the windows  / keeping distance / wearing a mask / living healthily or unhealthily / getting vaccinated / removable chip implant /being young or old.
-> * Who can say or has the right to say  something is safe, good or useful for somebody.
-> * How and by who, how fast and which risks are estimated and weighted.
-> * On different beliefs and world views.
-
-> This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I think comparisons fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences and medicine especially was less and causal connections and a fundamental understanding was often missing. Situations around the fascist regimes in Europe in the 30s and 40s were also fundamentally different.
+> In my opinion, the actions for people with higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects.
 
 
 ### Infector Distribution
@@ -31,11 +24,11 @@ The infector distribution is highly skewed:
 
 ### Observed Transmission Rates
 * [Hall et al](#summary-hall) reveal by analyzing "Household Transmission Evaluation Data" in England:
-  * people between 5 and 29 years have much lower household transmission rates than the other groups. 
+  * people between 5 and 29 years have lower household transmission rates than the other groups. 
   * The household transmission is high between people over 40 years of approximately the same age.
   * Very young children (0 to 4 years) transmit Covid frequently to their parents or grandparents. 
     > Their immune system in the lungs is early in the training phase and additionally they may not have had contact with any coronaviruses and so they lack the cross immunity most older have acquired from the human endemic CoVs.
-* Children are less susceptible and transmit Covid less than adults as discussed in the section [schools and children](#schools-and-children). Children also do not super spread since in school settings no super spreading can be traced back to children.
+* Children are less susceptible and transmit Covid less than adults as discussed in the section [schools and children](#schools-and-children). Children also do not super spread since in school settings no super spreading can be traced back to children - the super-spreading events observed, were likely caused by teachers.
 
 ### Possible Causes for varying Transmissions
 Possible reasons for the skewed distribution are:
@@ -172,15 +165,190 @@ PLoS Comput Biol 17(2): e1008559. <https://doi.org/ 10.1371/journal.pcbi.1008559
 #### Methods 
 * Data Observation Duration: March 2020 to 28.2.2021
 * Analyse the effect of seroconversion due to natural infection and vaccination on infection rates as part of the [OUCS testing](#testing-oucs).
+* "Although an unexpected rise in incidence was seen in the first 2 weeks postvaccination, this time period was excluded from effectiveness calculations."
 
 #### Results
 ##### Incidences Rates
-"Rates of any PCR-positive result, irrespective of symptoms, were highest in unvaccinated seronegative HCWs (635 cases), with 85% lower incidence in unvaccinated seropositive HCWs (12 cases, aIRR = 0.15 [95% CI .08–.26, P < .001]). Incidence was reduced by 64% in seronegative HCWs following first vaccination (64 cases, aIRR = 0.36 [95% CI .26–.50; P < .001]) and 90% following second vaccination (2 cases, aIRR = 0.10 [95% CI .02–.38; P < .001]) (Figures 1C and 2, Table 2 and Supplementary Table 2). " //vaccination two weeks after first dose.
+
+Group |  case count | adjusted incidence ratio | 95% confidence interval
+--|--|--|--
+seronegative HCWs | 635 | ref | -
+unvaccinated seropositive HCWs |12 | 0.15 | .08–.26 
+seronegative, 1 dose vaccine vaccination | 64|0.36 | .26–.50
+second vaccination | 2 | 0.10 | .02–.38
 
 ##### Viral Loads
-* "Viral loads were higher, that is, Ct values lower, in symptomatic infections (median [IQR] Ct: 16.3 [IQR 13.5–21.7]) compared to asymptomatic screening (Ct: 20 [IQR 14.5–29.5]) (Figure 4A, Kruskal-Wallis P < .001)." // since many asymptomatic individuals had low viral loads but high viral loads were observed in both groups.
-* "Unvaccinated seronegative HCWs had the highest viral loads (Ct: 18.3 [IQR 14.0–25.5]), followed by vaccinated previously seronegative HCWs (Ct: 19.7 [IQR 15.0–27.5]); unvaccinated seropositive HCWs had the lowest viral loads (Ct: 27.2 [IQR 18.8–32.2]) (Figure 4B, overall P = .06)." // low case count of unvaccinated seropositive
+* *By Symptom Status:* The median viral loads were higher, that is, lower Ct values lower in symptomatic infections (median [IQR] Ct: 16.3 [IQR 13.5–21.7]) compared to asymptomatic infections (Ct: 20 [IQR 14.5–29.5]) (Figure 4A, Kruskal-Wallis P < .001)." // since many asymptomatic individuals had low viral loads but high viral loads were observed in both groups.
+* *By Immune Status:* "Unvaccinated seronegative HCWs had the highest viral loads (Ct: 18.3 [IQR 14.0–25.5]), followed by vaccinated previously seronegative HCWs (Ct: 19.7 [IQR 15.0–27.5]); unvaccinated seropositive HCWs had the lowest viral loads (Ct: 27.2 [IQR 18.8–32.2]) (Figure 4B, overall P = .06)." // low case count of unvaccinated seropositive
 
 ##### Vaccination Efficacy
 * An increased infection risk in the first 2 weeks after vaccination especially for AstraZeneca
 * From two weeks on after the first vaccine dose the rate of PCR positivity was reduce by about 65% (as described in incidence rates). The reduction was the same for BT162 and AstraZeneca. (Figure 3 )
+
+
+
+
+### References Household Transmissions
+
+> #### Comments on Household Transmissions
+> * Even if the Covid prevalence is low, infected household members may community acquire the infection at the same event since the transmission is super-spreading-event driven and the disease onset can be hard to determine due to asymptomatic/low symptomatic cases and varying incubation times. Sensitivity analyses with varying the cut-off dates between symptom onsets help for symptomatic cases.
+>  * If the community transmissions are high, the secondary attack rates needs correction for community acquired infections. Also commented at [Summary Madewell](#summary-madewell)].
+
+
+#### Summary Hall
+JA Hall, RJ Harris, A Zaidi, SC Woodhall, G Dabrera, JK Dunbar, 
+**HOSTED—England’s Household Transmission Evaluation Dataset: preliminary findings from a novel passive surveillance system of COVID-19**, 
+International Journal of Epidemiology, Volume 50, Issue 3, June 2021, Pages 743–752, 
+<https://doi.org/10.1093/ije/dyab057>
+
+##### Methods
+"The Household Transmission Evaluation Dataset (HOSTED) is a passive surveillance system linking laboratory-confirmed COVID-19 cases to individuals living in the same household in England. We explored the risk of household transmission according to: age of case and contact, sex, region, deprivation, month and household composition between April and September 2020, building a multivariate model."
+
+##### Results
+The heat map (Figure 3 in the paper) shows the secondary cases by age of the index case and age of the contact:
+
+![Heat map of secondary cases by age](images/hall_transmission_by_age.jpg)
+
+* _Few Spread:_ People younger than 30 year but older than 4 have few secondary cases (left third of the image except left most column).
+* _Much Spread:_ 
+  * For index cases above 40 years the transmissions are high. The transmission rates peak at an age of about 65 years.
+  * Very young children 0 to 4 of age transmit Covid well and mainly to their parents and their grand parents (left most column).
+  * Parents between 40 and 59 transmit to older children (15-24) but the children not to them (hotspot at middle right, missing hotspot on the mirrored)
+
+The graphs below show the secondary attack rate in the different administration division in the UK. 
+![Transmission by regions](images/hall_secondary_cases_by_region.jpg)
+
+The Southern regions have lower secondary attack rates likely due to the more comfortable climate in the summer months.
+
+##### Methods Details
+"As the incubation period for SAR-CoV-2 is thought to be 2–14 days [16],  we chose a threshold of 2 days between the specimen dates of the index and secondary cases as a pragmatic decision to offset the risks of misclassifying cases as either co-primary or as secondary. A sensitivity analysis using a cut-off of 4 days found to have little effect on any of the results or on the multivariable model. We have also made the implicit assumption that two (or more) cases oc- curring in a household within 2–14 days represents house- hold transmission when it also plausible that they are two independent community-acquired infections. However, given the timing of this study, when the number of cases was at its lowest, this risk is probably small." 
+
+> // Considering the asymptomatic/low symptomatic cases, simultaneous community acquired infection (e.g. at a super spreading event) cannot be ruled out even with the sensitivity analysis by varying the incubation cut-offs.
+
+
+#### Summary Madewell
+**Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate**
+Zachary J. Madewell, Yang Yang, Ira M. Longini Jr, M. Elizabeth Halloran, Natalie E. Dean medRxiv preprint 
+<https://doi.org/10.1101/2020.07.29.20164590>, posted August 1, 2020.
+
+##### Methods
+Meta-Analysis of studies regarding the transmission dynamics of Covid-19 in household settings. Many different kind of studies are included: 
+* Covid diagnosis based on live tests (RT-PCR) or past infections with antibody tests, some studies included symptoms, a few studies do whole-genome sequencing, some studies are in settings (area and times) of high prevalence.
+* The influence of the different factors (contact type, symptom status, adult/child contacts, sex, relationship to index case, number of contacts in household, ...) is analyzed.
+
+##### Findings
+Secondary Attach Rates with different groups as **infectors**. The error rate is in brackets. 
+* household: 0.19 (0.4); family including non household contacts: 0.18 (0.5)
+* symptomatic: 0.2 (0.6); pre- or asymptomatic: 0.07 (0.04)
+
+Secondary Attach Rates with different groups as **infectees**. The error rate is in brackets. 
+* children: 0.16 (0.6); adults: 0.31 (1.2) // adults includes spouses
+* spouse: 0.43 (1.6); other: 1.8 (0.8)
+
+Proportion of households where a secondary transmission was observed:
+* 0.32 (.025)
+
+Comparison with SARS-1 or MERS:
+* SARS-1: 0.06 (0.04)
+* MERS: 0.035 (0.035)
+
+> ##### Comment
+> Studies from countries with high and very high Covid prevalence are included too, in these countries independent infections pathways for different household members are very likely and thus inferring the secondary attack rate from the prevalence in household members overestimates the secondary attack rate. 
+
+
+
+### References Spread from Contact Tracing
+
+#### Summary Adam
+**Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong**
+Adam D, Wu P, Wong J, et al. Research Square; 2020. 
+<https://doi.org/10.21203/rs.3.rs-29548/v1>
+
+##### Methods
+"Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection."
+
+##### Results
+* Distribution of Infectivity:
+  * 20% of the cases induced 80% of infections
+  * 10% of the cases induced 20% of infections
+  * 70% of the cases induced no observed infections (despite most of them being not in quarantine, Fig.2)
+* "Gatherings in social settings such as bars, restaurants, weddings and religious sites appear to be at increased risk of superspreading events."
+* "Transmission in social settings was significantly associated with an increased number of secondary cases compared to transmission observed in family households."
+* Quarantine
+  * Home quarantine yielded sporadic infections (2 observed) in family settings (Fig.2 d) and none outside families
+  * Government quarantine yielded no further infections (Fig.2)
+* "Of all cases confirmed in Hong Kong, 195 (18.8%, 195/1,038) were asymptomatic at confirmation (Supplementary Table 2) and, of these, most (83.1%, 162/195) were PCR-confirmed from 27 March onward" (Extended Data Fig.2)
+* Infections caused by pre-symptomatic infectors were rarely observed: "Seven instances of likely pre-symptomatic transmission were observed where onset of the infectee preceded that of the infector or occurred on the same day."
+
+##### Limitations
+"These findings take advantage of the quality of case ascertainment and contact tracing data in Hong Kong, although some incompleteness in links between cases could potentially bias our estimates of transmission heterogeneity."
+
+
+#### Almadhi
+Almadhi, M. A., Abdulrahman, A., Sharaf, S. A., AlSaad, D., Stevenson, N. J., Atkin, S. L., & AlQahtani, M. M. (2021). The high prevalence of asymptomatic SARS-CoV-2 infection reveals the silent spread of COVID-19. International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases, 105, 656–661. 
+<https://doi.org/10.1016/j.ijid.2021.02.100>
+
+
+### References Schools and Children
+
+#### Summary Perez-Lopez
+**Dramatic decrease of laboratory‐ confirmed influenza A after school closure in response to COVID‐19**
+Perez‐Lopez A, Hasan M, Iqbal M, Janahi M, Roscoe D, Tang P.; Pediatric Pulmonology. 2020;1–2. 
+<https://doi.org/10.1002/ppul.24933>
+
+##### Methods
+* "A proactive school closure was the first social distancing measure implemented by the State of Qatar on 10 March."
+* "Table 1 shows a comparison of the molecular detection of respiratory viruses other than SARS‐CoV‐2 on nasopharyngeal swabs from our PED per 1000 emergency visits before school closure, between 13 February and 14 March, assuming a maximum incubation period for influenza of 4 days, and after school closure, between 15 March and 11 April."
+
+##### Results
+
+Virus tested| open schools|closed schools| RR (95% CI)
+------------|-------------|-------------|-------------------
+Total tests | 75.1 (69.1‐81.6) | 64.1 (60.3‐77.6) | 0.9 (0.7‐1)
+Influenza A | 8.7 (6.7‐11.1) | 0.3 (0.07‐1.5) | 0.03 (0.004‐0.2)
+Influenza B | 3.3 (2.2‐4.9) | 2.3 (1.1‐4.7) | 0.7 (0.3‐1.5)
+RSV |0.9 (0.4‐1.9) | 1 (0.3‐2.8)| 1.1 (0.3‐3.7
+Rhino/entero | 12.1 (9.7‐14.8) | 12.3 (9.7‐17.4)| 1 (0.7‐1.4)
+hMPV | 3.6 (2.4‐5.2) | 3.3 (1.9‐6.1)| 0.9 (0.5‐1.8)
+Common HCoVs | 3.1 (2‐4.6) |  2.3 (1.1‐4.7) | 0.7 (0.3‐1.6) 
+Adenovirus | 2.3 (1.3‐3.7) | 7.2 (5.1‐11.1) |3.2 (1.7‐5.8)
+Parainfluenza | 3.1 (2‐4.6)| 3.6 (2.1‐6.4) | 1.2 (0.6‐2.3)
+
+
+
+### References Spread Inferred from Sequences
+
+#### Summary Miller
+**Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel**
+##### Methods
+212 SARS-CoV-2 sequences in combination with "high-resolution epidemiological data" are used to deduce the spread into and within Israel.
+##### Results
+* "We find that travelers returning from the United States of America significantly contributed to viral spread in Israel, more than their proportion in incoming infected travelers."
+* "We further report high levels of transmission heterogeneity in SARS-CoV-2 spread, with between 2-10% of infected individuals resulting in 80% of secondary infections."
+  * "Specifically, if we assume almost complete case reporting, our phylodynamic analysis indicates that between 5% and 10% of infections are responsible for 80% of secondary infections. With lower assumed levels of case reporting, less than 5% of infections would be responsible for 80% of secondary infections." // considering that SARS-CoV-2 tests have a detection rate of about 50% and many cases are missed by contact tracing, an upper bound of 1/3 for the case reporting seem reasonable in the Spring 2020 in Israel => the model predicts that about 2% are responsible for 80% of the infections (p_h = 0.02 in Fig 6)
+##### Conclusions
+* "Our results indicate that superspreading events drive the transmission dynamics of SARS-CoV-2, suggesting that focused measures to reduce contacts of select individuals/social events could mitigate viral spread."
+* The global connectivity allows for massive introductions which suggests the importance of border controls. //The authors als conclude shelter-in-place restriction for halting viral spread but as of July 2021 it is known that shelter-in-place likely increases and not decreases the spread due to indoor aerosol transmissions.
+##### Method Details
+* "We obtained RNA extracted from nasopharyngeal samples. Sequencing was performed based on the V3 Artic protocol (https://artic.network/ncov-2019)."
+* "Instead of assuming a given level of transmission heterogeneity for Israel, we instead performed phylodynamic inference for the SEIR model across a range of transmission heterogeneities. Specifically, the SEIR-type model implemented two classes of infectious individuals, corresponding to a highly infectious subset of individuals (Ih) and a less
+infectious subset of individuals (Il)." // Detail description in Methods>Phylodynamic analysis> Equation (1) - (5).
+
+
+
+## Appendix
+
+### Restrictions on Supposedly Increased R Value
+> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume that currently available 'mRNA' and 'Adeno-virus-with-spike' vaccines are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated.
+
+> It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated.
+> Another scientific question is, which vaccines are safe. 
+
+> Relevant moral questions are (some go fare beyond the above considerations):
+> * Whether there should be restrictions for those being more likely infectious.
+> * The relations between opening the windows  / keeping distance / wearing a mask / living healthily or unhealthily / getting vaccinated / removable chip implant /being young or old.
+> * Who can say or has the right to say  something is safe, good or useful for somebody.
+> * How and by who, how fast and which risks are estimated and weighted.
+> * On different beliefs and world views.
+
+> This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I think such comparisons fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences limited: Most diseases were not linked to pathogens and accordingly the transmission was often completely unknown. Situations around the fascist regimes in Europe in the 30s and 40s were also fundamentally different.
