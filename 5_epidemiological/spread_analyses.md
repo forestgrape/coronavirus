@@ -162,12 +162,16 @@ For regions across the world the following is analysed:
   * [in work] In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In october when temperatures felt and the heating season started, cases sharply increased.
 
 #### Transmissions in the UK
+
 ##### Summer 2020
-Overall quite low case numbers, though the numbers are higher in the Northern regions than in the warmer Southern regions (citation in work, e.g. visible in [Hall et al](#summary-hall)]). In parallel the secondary attack rate in households is higher in the Northern parts as observed by ([Hall et al](#summary-hall)). The higher secondary attack rate indicates a higher (transmission rate which would explain the higher case rates .
+Overall quite low case numbers, though the numbers are higher in the Northern regions than in the warmer Southern regions (citation in work, e.g. visible in [Hall et al](./individual_susceptibility_and_transmission.md#summary-hall)]). In parallel the secondary attack rate in households is higher in the Northern parts as observed by ([Hall et al](./individual_susceptibility_and_transmission.md#summary-hall)). The higher secondary attack rate indicates a higher (transmission rate which would explain the higher case rates .
+
 ##### Autumn 2020
+
 ##### November 2020 - Mid January 2021
 * *Situation and Measures:* Relaxing of measures in indoor rooms provided spread opportunities from November to December. 
 * *Observations:* The fast spreading alpha variant took advantage which resulted in a large and steep Covid wave.
+* 
 ##### Mid January - May 2021
 * Observations: Steep decrease in cases numbers.
 * Measures: A lockdown including measures to prevent spread in indoor rooms.
@@ -175,6 +179,7 @@ Overall quite low case numbers, though the numbers are higher in the Northern re
   * A large share of the carrier groups immunized by natural infection.
   * The alpha variant seems to infect faster and causes steeper waves ([Hypotheses on Competition Advantages](../5_epidemiological/competition_advantages.md)).
   * Measures to prevent spread in indoor rooms.
+  * 
 ##### June - August 2021
 * *Situation and Measures:* 
   * Relaxed of measures: Indoor rooms mostly open including nightlife.
@@ -183,6 +188,7 @@ Overall quite low case numbers, though the numbers are higher in the Northern re
 * *Observations:* 
   * Peaky wave starting in the North of England. 
   * Low death counts likely due to a high immunization of risk groups due to vaccination and natural infections.
+
 
 
 ### Transmissions in the USA
