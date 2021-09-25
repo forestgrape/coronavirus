@@ -1,6 +1,12 @@
 
 # Spread Analyses
-Spread Analyses across the World and across different settings. 
+From 
+* Geographical Spread Analyses across the World. 
+* Observed Spread in different settings. 
+
+it is inferred that severe Covid transmits in indoor dry air.
+  
+
 
 > The individual spread is analysed on the page [individual spread](./individual_susceptibility_and_transmission.md).
 
