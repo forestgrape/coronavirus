@@ -1,14 +1,14 @@
 
-# Spread Analyses
+# Spread Analyses regarding Transmission Environments
 From 
 * Geographical Spread Analyses across the World. 
 * Observed Spread in different settings. 
 
-it is inferred that severe Covid transmits in indoor dry air.
+it is inferred that severe Covid transmits in dry indoor air.
   
 
 
-> The individual spread is analysed on the page [individual spread](./individual_susceptibility_and_transmission.md).
+> The individual susceptibility and transmission is analysed on the page [individual spread](./individual_susceptibility_and_transmission.md) (rearrangement in work, 27.9.21).
 
 * [Short Summary](#short-summary)
 * [Summary](#summary)
@@ -28,8 +28,6 @@ it is inferred that severe Covid transmits in indoor dry air.
   * [Exchanged Air is associated to the Covid Spread](#exchanged-air-is-associated-to-the-covid-spread)
   * [Dry Indoor Air is associated to the Spread of severe Covid](#dry-indoor-air-is-associated-to-the-spread-of-severe-covid)
 * [Social Geography](#social-geography)
-  * [Dirty Air Exposure Increases is associated to a high Prevalence of Severe Covid](#dirty-air-exposure-increases-is-associated-to-a-high-prevalence-of-severe-covid)
-  * [High Overweight Prevalence is associated to High Covid Prevalence and Death Rates](#high-overweight-prevalence-is-associated-to-high-covid-prevalence-and-death-rates)
   * [Cities versus Rural](#cities-versus-rural)
   * [Living Space and Income](#living-space-and-income)
   * [Income](#income)
@@ -53,7 +51,6 @@ it is inferred that severe Covid transmits in indoor dry air.
   * [References SARS-2 in South America](#references-sars-2-in-south-america)
   * [References SARS-2 in Europe](#references-sars-2-in-europe)
   * [References Sars-2 in South East Asia](#references-sars-2-in-south-east-asia)
-  * [References Spread and Air Pollution](#references-spread-and-air-pollution)
 * [References](#references)
   * [References Specific Settings](#references-specific-settings)
 * [Appendix](#appendix)
@@ -376,33 +373,6 @@ Nearly all steep increases in severe cases and deaths have been observed in sett
 
 
 ## Social Geography
-
-### Dirty Air Exposure Increases is associated to a high Prevalence of Severe Covid
-#### Air Pollution
-_Through Air Pollution_: High rates of air pollution occur frequently in industrialized densely populated regions which have inversion weather situations (usually in the winter). Examples (order: most polluted air first, source: estimates from watching the maps at ventusky.com): northern India, central and northern China (including Wuhan), northern Italy, Tehran
-
-Specifically for Italy a correlation between Covid and air pollution is shown by [Kotsiou et al](#kotsiou).
-
-#### Smoking
-_Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers.
-
-> However the overall health benefits of a smoke stop outweigh by fare a possible increased Covid incidence: Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be caused by (possibly toxic) environment changes in the lung when smoking.[Local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the possibility of health hazards which smoke has. 
-
-> 12.6.21: It's not about smoke-free - Everyone should judge the risks to take in life on his own. Add restrictions for addictives, I consider as adequate however.
-
-
-### High Overweight Prevalence is associated to High Covid Prevalence and Death Rates
-* *Observations:*
-    Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
-
-    Selected countries with high rates of obesity (in decreasing order, source: obesity.procon.org):
-    US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
-
-    Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
-
-* *Possible Explanation:*
-    * One reason is that obesity increases the risk for severe Covid. But the case counts seem to increase overall i.e. also in people which are not obese [to check and cite/provide evidence]. 
-    * It is observed that the number of exhaled particles is correlated to the BMI, so obesity may increase transmission.
 
 ### Cities versus Rural
 A main distinguishing feature between rural and cities is that in rural areas people are segregated by geographical distance (corresponding a lower population density over entire regions) and thus the time to travel while in cities people tend to be segregated by social factors such as interest/jobs/hobbies/age/world views. The distance separation induces well defined clusters (villages). Social factors yield clusters to but the borders are softer and the clusters are different for each social factor. 
@@ -1000,22 +970,12 @@ The spread of the cluster 20A.EU1 in Europe is analyzed by comparing genome sequ
 
 ### References Sars-2 in South East Asia
 
-### References Spread and Air Pollution
 
-#### Kotsiou
-Kotsiou,O.S.;Kotsios,V.S.; Lampropoulos, I.; Zidros, T.; Zarogiannis, S.G.; Gourgoulianis, K.I. 
-**PM2.5 Pollution Strongly Predicted COVID-19 Incidence in Four High-Polluted Urbanized Italian Cities during the Pre-Lockdown and Lockdown Periods.** 
-Int. J. Environ. Res. Public Health 2021, 18, 5088. 
-<https://doi.org/10.3390/ijerph18105088>
 
 
 ## References
 References with a summary are in the section [Summarized References](#summarized-references)
 
-#### Lee,Raszka
-Lee B and Raszka WV. 
-**COVID-19 Transmission and Children: The Child Is Not to Blame.**
-Pediatrics. 2020;146(2):e2020004879 <https://doi.org/10.1542/peds.2020-004879>
 
 #### Choi
 Choi, E. M., Chu, D., Cheng, P., Tsang, D., Peiris, M., Bausch, D. G....Watson-Jones, D. (2020). 
