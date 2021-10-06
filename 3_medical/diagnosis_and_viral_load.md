@@ -43,7 +43,7 @@
   * [Timing Specimen Collection](#timing-specimen-collection)
   * [Diagnosis in different Situations](#diagnosis-in-different-situations)
 * [Appendix](#appendix)
-  * [Calculation of Viral Load from CT_Value](#calculation-of-viral-load-from-ct_value)
+  * [Calculation of Viral Load](#calculation-of-viral-load)
   * [Specimen Collection](#specimen-collection)
 
 
@@ -319,7 +319,6 @@ Often investigations for viral load are biased. Reasons are:
 
 
 
-
 ## Saliva Diagnosis
 Key features of saliva based Covid diagnosis are:
 
@@ -344,7 +343,7 @@ Summaries of the papers are in the section [Summarized References](#summarized-r
   * [Manabe et al](#summary-manabe) investigate crevicular fluid and review the literature on saliva diagnosis. 
 * Well specified and carefully carried out investigations are:
   * [Wong](#summary-wong). Early morning before eat saliva. Retrospective comparison of saliva to nasopharyngeal samples (mainly swabs but also some aspirates) from testing centers in Hong Kong. 
-  * [Wyllie](#summary-wyllie-letter). Early morning before eat saliva. **Recommended** read with illustrative plots, detailed information available in the appendix.
+  * [Wyllie](#summary-wyllie-letter). Early morning before eat saliva with illustrative plots. A follow up analyses in [Silva](#summary-silva) where it is shown that the prognostic value of saliva is higher than NPS samples. // Likely since early morning saliva samples correlate better to the viral load in the lungs.
   * [Rao](#summary-rao). Early morning before eat saliva.
   * [Huber](#summary-huber). Throat wash specimens.
 * Of interest
@@ -465,7 +464,7 @@ BALF          | 22.5 (21-24) | -
 * "We collected serial upper respiratory tract samples (1 nasopharyngeal swab and 1 throat swab put in a single collection tube with 1 mL of transport medium) for real-time PCR of SARS-CoV-2 RNA for all patients."
 * " Severe/critical patients were defined as those requiring invasive mechanical ventilation or high-flow nasal oxygen and mild as those not requiring supplementary oxygen or hospitalization."
 * "Viral load, expressed as log10 of viral RNA per swab, was calculated as (47 – observed cycle threshold value) / 3.4. This formula applies the average of the parameters (slope and constant) that we observe when we quantify viruses in serum using quantitative PCR with serial dilution of quantification standards (plasmid carrying target sequence) and presumes a 10-μL sample volume in the reaction and a 97% efficiency in the PCR."
-  > -> [Calculation of Viral Load from CT value](#calculation-of-viral-load-from-ct_value); 3.4 is about log2(10) = 3.322 and transforms from log2 to log10
+  > -> [Calculation of Viral Load](#calculation-of-viral-load); 3.4 is about log2(10) = 3.322 and transforms from log2 to log10
 
 ##### Results
 * "The highest viral loads were observed early after onset of symptoms in both groups of participants (Figure 1A and 1B). At 7 days, mean viral load among virus-positive patients was 5.8 log10 copies/swab for those with mild disease (n = 37) and 5.5 log10 copies/swab for those with severe/critical disease (n = 12) (P = .53). At 14 days, mean viral load was 4.4 log10 copies/swab for those with mild disease (n = 38) and 4.2 log10 copies/swab for those with severe/critical disease (n = 14) (P = .56)."
@@ -1273,14 +1272,19 @@ M. J. Mina and K. G. Andersen, Science 10.1126/science.abe9187 (2020).
 
 ## Appendix
 
-### Calculation of Viral Load from CT_Value
-`viral_load = d_c_h / 2^CT_cycles` where `d_c_h = detection_limit_for_helper_method` (the helper method detects when a certain concentration of DNA or RNA is reached, often optical fluorescence is used)
-For calculations taken logarithms is helpful. For logarithm to base 2:
-`log2(viral_load) = log2(d_c_h) - CT_cycles`
+### Calculation of Viral Load
+The viral load measurements often work as follows: specific sequences are doubled in cycles until the concentration is high enough that they can be detected by optical methods. When there are already many sequences to start with, one needs fewer doubling cycles (Ct cycles) until detection. Thus few cycles correspond to a high number of sequences in the sample to test (= a high viral load in the sample).
+
+The corresponding calculations go as follows: The viral load is doubled in cycles until detectable: `2^number_of_cycles * viral_load = d_c_h` where `d_c_h = detection_limit_for_helper_method` (the helper method detects when a certain concentration of DNA or RNA is reached, often optical fluorescence is used). Rearranged:
+`viral_load = d_c_h / 2^number_of_cycles` 
+
+The minimal viral load detectable:
+`viral_load_detection_limit * 2^max_number_of_cycles = helper_method_detection_limit`
+
+Often the viral load is given as logarithm:
+`log2(viral_load) = log2(d_c_h) - number_of_cycles`
 The viral load as logarithm to base 10:
-`log10(viral_load) =log2(viral_load)/log2(10) = (log2(d_c_h) - CT_cycles)/3.32`
-Detection limit:
-`PCR_detection_limit * 2^max_cycles = helper_method_detection_limit`
+`log10(viral_load) =log2(viral_load)/log2(10) = (log2(d_c_h) - number_of_cycles)/3.32`
 
 An example formula for their apparatus is in [Yilmaz et al](#summary-yilmaz).
 
