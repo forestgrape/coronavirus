@@ -6,10 +6,10 @@
 * [Virus Classification](#virus-classification)
 * [Virus Entities](#virus-entities)
 * [Behavior of Viruses](#behavior-of-viruses)
-  * [Behavior Virion Phase](#behavior-virion-phase)
-  * [Behavior Metabolic Phase](#behavior-metabolic-phase)
-  * [Situation Specific Behaviors](#situation-specific-behaviors)
+  * [Behavior by Life Cycle Phase](#behavior-by-life-cycle-phase)
+  * [Behavior by Infected Location](#behavior-by-infected-location)
 * [Tropism of Viruses](#tropism-of-viruses)
+  * [Tropism of Virus Entities](#tropism-of-virus-entities)
 * [Habitats](#habitats)
   * [Life form Habitats](#life-form-habitats)
   * [Conquering new Habitats](#conquering-new-habitats)
@@ -108,16 +108,16 @@ Features of interest for viruses are:
 
 
 ## Virus Entities
-[in work and experimental]
+[in work and explorative]
 
-Similarly for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviors in different cells and upon different situations:
-* DNA viruses can in theory encode the same differentiation mechanisms as eukaryotic cells 
-* RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#taxis-of-viruses) in different situations. 
+Similarly as [organisms](../2_biological/life-forms.md#organism) are usually considered as a whole and not as single cells, for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviors in different cells and upon different situations:
+* *Communication:* As cells in multicellular organisms communicate, viruses communicate too e.g. by producing virus like particles, which are similar to virions but don't contain the whole machinery to replicate and thus just influence other cells or other viruses.
+* *Differentiation:* DNA/Retro viruses can in theory encode the same differentiation mechanisms as eukaryotic cells. In fact the cellular differentiation is often driven by endogenous retroviruses. RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#taxis-of-viruses) in different situations. 
 
 > ###### Virus Entity
 > A *Virus Entity or Virus Organism* denotes all [infected cells](#infected-cell) in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*.
 
-Similar to the different cells in multicellular organism only few viruses in a virus entity are likely to infect new hosts and thereby form a new entity.
+A multicellular organism can arise from only one cell, similarly usually only few viruses of a virus entity transmit to a new host and give rise to a new virus entity.
 
 > Virus entities/organisms are a concept I haven't seen about in literature. Similar concepts may exists possibly under different names.
 
@@ -137,16 +137,23 @@ In outdoors living vertebrate hosts, the infection course of a coronavirus entit
 
 ## Behavior of Viruses
 
-> Behavior = Situation dependent metabolism including expression of proteins. Taxis is possibly a suitable name -  generalizes the existing use of taxis as stimulus induced movement)
+> clarifications needed and in work, October 2021
 
-### Behavior Virion Phase
+Behavior is used here to denote the situation dependent metabolism including expression of proteins. 
+
+> Taxis is possibly a (more) suitable name for the situation specific behavior at the 'micro'/'small-scale' level of life-forms. It generalizes the existing use of taxis as stimulus induced movement of cellular life-forms. So the term behavior could be used only when feedback loops via neural networks are involved. (as of October 21, it is in consideration which is the more concise usage)
+
+The behavior of viruses can be viewed
+* [by life cycle phase](#behavior-by-life-cycle-phase)
+* [by the infected locations in a host](#behavior-by-infected-location)
+
+
+### Behavior by Life Cycle Phase
+#### Behavior Virion Phase
 
 > in rework, June 2021
 
 As described in the section [virion activation](#virion-priming) the virions need to be activated. The activation factors determine the behavior of virions:
-
-  
-- <!--[Holmes](#holmes)-->.
 
 * Environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
   - physical environment: e.g. temperature
@@ -158,21 +165,21 @@ As described in the section [virion activation](#virion-priming) the virions nee
   - biochemistry inside the cells
 
 
+<!--[Holmes](#holmes)-->
 
-### Behavior Metabolic Phase 
+
+#### Behavior Metabolic Phase 
 [in work: incomplete and citations/confirmation in work]
 
-> The behavior in the virion phase is better known than the taxis in the metabolic phase. 
-> * The cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). Neither the transfected cell need to behave similar to the cells which are naturally infected nor the reprogrammed viruses behave similar once inside the cell.
-> * To investigate the metabolic phase, ideally one could look into the cells. Often one observes the cells just from the outside e.g. observing cell damage. 
-> * Detecting virus 'metabolites'/virion building blocks such as RNA or produced proteins is suitable to get hints for the intracellular behavior.
+The behavior in the virion phase is better known than the taxis in the metabolic phase. 
+* The cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). Neither the transfected cell need to behave similar to the cells which are naturally infected nor the reprogrammed viruses behave similar once inside the cell.
+* To investigate the metabolic phase, ideally one could look into the cells. Often one observes the cells just from the outside e.g. observing cell damage. 
+* Detecting virus 'metabolites'/virion building blocks such as RNA or produced proteins is suitable to get hints for the intracellular behavior.
 
 
-### Situation Specific Behaviors
+### Behavior by Infected Location
 
-> Possibly 'taxis' is a good name for situation specific behavior at the 'micro'/'small-scale' level of life-forms. Generalizing the existing use of taxis of the directional movement behavior of cellular life-forms.
-
-##### Cell Specific Behavior
+#### Cell Specific Behavior
 > *Cell specific behavior* is used on this page to describe how a virus behaves upon match of a virion to a specific cell type i.e. the behavior in specific cells.
 
 * Virion Phase:
@@ -191,8 +198,9 @@ The cell behavior is the combination of the [virion behavior](#behavior-virion-p
 * The cell should be able to produce many virions and thus should have a capable metabolism.
 
 
-##### Tissue Specific Behavior
- The tissue tropism depends on:
+#### Tissue Specific Behavior
+
+The tissue tropism depends on:
 * Infectable cells in the tissue
 * Movement within the tissue i.e. reaching the next cell in the tissue
   * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#apical-side-preference) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from the intestine from where they can leave and infect the next host. 
@@ -202,36 +210,35 @@ The cell behavior is the combination of the [virion behavior](#behavior-virion-p
 
 
 
-
-
 ## Tropism of Viruses
 
-In virology, tropism is mostly used when viruses replicate well in some cells or tissues (notes on [tropism usage](./life-forms.md#tropism-in-virology) in the chapter life form chapter). On this page, viral tropism is defined as follows:
+> Explorative section. The term tropism is used here to denote the growth of virus entities which is slightly different and more general than used in literature.
+
+In literature, tropism is mostly used when viruses replicate well in some cells or tissues (general notes on [tropism](./life-forms.md#tropism-in-virology) in the chapter life form chapter). On this page, viral tropism is used as follows:
 
 ###### Virus Tropism
-> A virus *has a tropism* for an object or a location if it is frequently infects an object. The tropism for a cell is called [Cell Tropism](#cell-tropism) and accordingly for tissues/organs [Tissue Tropism](#apical-side-tropism). 
-
-> For animals one speaks usually of hosts and not animal tropism.
-
-Examples:
-* Cells which are frequently [infected](#infected-cell). 
-* Tissues, organs or organisms that support the growth of virus entities or are influenced by infections by the virus.
-
-Tropism describes how virus entities growth, where the [virus entity](#virus-entity) consists of the infected cells in an organism i.e. when the population of viruses is viewed as a [virus entity](viruses.md#virus-entity) tropism denotes the growth preferences of a virus entity.
-
-
+> A virus *has a tropism* for an object or a location if it is frequently infects an object. The tropism for a cell is called [Cell Tropism](#cell-tropism) and for tissues/organs [Tissue Tropism](#apical-side-tropism). 
 
 ###### Cell Tropism
 > A virus has a *tropism* for a certain cell type if these cell are readily infected.
 
+Usually viruses within an organisms can't be considered as independent which gives rise to the [concept of virus entities](#virus-entities).
+
+### Tropism of Virus Entities
+Tropism describes how virus entities growth, where the [virus entity](#virus-entity) consists of the infected cells in an organism i.e. when the population of viruses is viewed as a [virus entity](viruses.md#virus-entity) tropism denotes the growth preferences of a virus entity.
+
 ###### Tissue Tropism 
 > *Tissue tropism* denotes tissues which are frequently by a virus [entity].
+
+So tropism denotes how virus entities growth within an organisms. Going on level up to determine which organisms are infected under which circumstances is discussed in [Habitats](#habitats).
 
 
 
 ## Habitats
-[in rework]
-As outlined in the chapter [behavior of viruses](#behavior-of-viruses) there are a variety of conditions for a virus to start to metabolism and even more too successfully replicate. Environments satisfying the behavior constraints for replication and frequently reached by viruses, form a place of living. These places are called habitats. 
+
+> Explorative section. The term virus habitat is to my knowledge not common in literature.
+
+The [behavior of viruses](#behavior-of-viruses) describes *how viruses behave* under different circumstances, the [tropism of viruses](#tropism-of-viruses) *how a virus entities growths* within a host, habitats denotes the locations *where viruses live*. Environments satisfying the behavior and tropism constraints and additionally are frequently reached by virus entities, form a place of living or habitat.
 
 > ###### Habitat
 > The *Habitat* of a virus are the locations which are frequently infected. The locations can be cells, tissues, organs, life forms or groups of life forms.
@@ -256,10 +263,10 @@ Life forms which serve as habitats are called hosts.
 
 Organisms in the habitat of a virus are frequently infected.
 
-> ###### Endemic
+> ###### Endemic Hosts
 > A virus strain is *endemic* in a collection of organisms if that collection is a habitat of the virus.
 
-Sometimes it is helpful to name frequently infected organism which play no role in the virus spread:
+Sometimes it is helpful to name frequently infected organism which play no role for the survival of virus lineages:
 
 > ###### Side Host
 > A *Side Host* or *Terminal Host* of a virus is a [host](#host) but the infections yield *no* relevant spread of the virus. E.g. the virus cannot efficiently replicate or leave the host. These infections can be viewed as side-effects of the random virus spread. Viruses can evolve such that a Side Host becomes a Host.
