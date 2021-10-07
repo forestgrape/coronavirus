@@ -58,16 +58,17 @@ Defining the immune system is not straight forward. One approach is to define th
 
 
 > ###### Immune System
-> The *immune system* denotes mechanisms which watch and regulate competitive life forms interactions to prevent damage. The interactions are at the cellular level or below. Prevention of damage is achieved by watching interactions within or between life forms and if necessary adapt or reduce the interactions such that the interactions not adverse or even advantageous.
+> The *immune system* denotes mechanisms which watch and regulate competitive life forms interactions at the cellular level or below. The goal is to prevent damage and this is achieved by watching interactions within or between life forms. If necessary the immune system redirects/adapts/reduces the interactions such that the interactions are advantageous or at least not adverse.
 
-> *On Definitions of the Immune System:*
+#### Alternative Definitions of the Immune System
 > * Earlier the immune system was defined as "targeting things recognized to be unwanted". To goal was to generalize the often given definition: The immune system fights pathogens or even more specific producing antibodies against pathogens. 
-> * Sometimes the immune system was and is equivalent to antibodies. The reason is, the vertebrate respond to infections often involves antibodies which can easily be measured.
+> * Sometimes in literature, the immune system was (and is) antibody centered. The reason is, the vertebrate respond to infections often involves antibodies which can easily be measured.
 
+#### The Immune System in Context
 * The immune system can be viewed as part of the homeostasis. The immune system handles life form interactions.
 * Nearly all forms of life have some immune mechanisms. Even viruses encode proteins to reduce the hosts from interfering with their metabolism. It's an interplay: The host immune system tries to reduce the virus metabolism and the virus immune system in turn tries the reduce the host immune system.
 
-
+#### Specifying Life Forms Interactions
 Competitive life form interactions are of the following forms:
 * The interactions are competitively and if out of balance with fitness costs.
 * Only regulations at the molecular or cellular level are considered to be part of the immune system. Trained neural network interaction are usually considered as not part of the immune system.
@@ -76,24 +77,23 @@ Competitive life form interactions are of the following forms:
   
   > As often discrete classifications in biology are approximations.
   
-In organisms the immune system includes the interactions within a life form. The transition from cellular regulation mechanisms to immune mechanisms is fluent. Examples:
+In organisms (i.e. lifeforms being composed of multiple smaller units of life) the immune system includes the interactions within a life form. The transition from 'classical' homeostasis to immune mechanisms is fluent. Examples:
 * Cancer cells within an organism can be viewed as selfish cells that don't respect the 'rules of an organism', therefore the immune system targets them. Cancer cells can be viewed as a life form within a host: They replicate without being integrated in the cellular communication of the host.
 * If an organism is physically damaged, the immune system handles the displaced cells and initiates repair mechanisms.
 
 
+#### Mindset of the Immune System
+The immune system gives 'immunity' to damage from interactions but usually does not prevent interactions. E.g. regarding pathogen infections the immune system reduce the pathogens just enough they don't do damage but no more or are even beneficial. There are some rare pathogens which nearly always do damage, but the vast majority of live forms interactions are only harmful in specific situations and often life forms find ways to work together for mutual benefit.
 
-
-* The immune system gives 'immunity' to damage from interactions but usually does not prevent interactions. E.g. regarding pathogen infections the immune system reduce the pathogens just enough they don't do damage but no more or are even beneficial. There are some rare pathogens which nearly always do damage, but the vast majority of live forms interactions are only harmful in specific situations and often life forms find ways to work together for mutual benefit.
-
-* *The immune system is pragmatic and efficiency focused*:
+*The immune system is pragmatic and efficiency focused*:
   * the immune system usually is minimalist and does just as much to prevent harm but no more.
   * the immune system can redirect interactions to mutual benefits.
   
-  > Else life forms on todays earth would be busy fighting and couldn't spend time on cooperating and creating.
+> Else life forms on todays earth would be busy fighting and couldn't spend time on cooperating and creating.
   
-  > Nearly all life forms on todays earth create and cooperate in a variety of forms, which indicates an evolutionary advantage of these behaviors.
+> Nearly all life forms on todays earth create and cooperate in a variety of forms, which indicates an evolutionary advantage of these behaviors.
 
-  > Interactions are often beneficial to learn and evolve.
+> Interactions are often beneficial to learn and evolve.
   
 
 ### Immune System Goals
