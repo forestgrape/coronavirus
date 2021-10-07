@@ -14,7 +14,7 @@
 * [Virion Shedding](#virion-shedding)
 * [Prevention and Treatment](#prevention-and-treatment)
   * [Movement](#movement)
-  * [Quarantine-Healthy Recovery Contradiction](#quarantine-healthy-recovery-contradiction)
+  * [Local Temperature and Humidity Modulation](#local-temperature-and-humidity-modulation)
 * [Recovery and Long Lasting Effects](#recovery-and-long-lasting-effects)
   * [Literature Recovery](#literature-recovery)
   * [How to Recover](#how-to-recover)
@@ -44,9 +44,14 @@ Many of the symptoms are not specific to Covid-19, they may have other causes th
 > A *disease* is a biological disorder of structure or function in an organism causing inconvenience and/or unwanted effects. 
 
 * Literally disease means without-ease (dis=without, separated from).
-* A disease is often caused by molecular life form interactions (e.g. pathogens infecting a host). Being out of balance due to lack of vitamins (e.g. scurvy caused by a shortage of vitamin C) is also considered a disease. 
-* Short term disturbances of the homeostasis e.g. by shortage of water is usually not considered a disease despite dis-ease is caused.
-* A disease is often dynamic and an immune response is induced/involved. Chemical/biochemical damages such as dehydration, a poisoning or physical damage such as a fracture or an injury are not diseases themselves but chemical/physical damage can result from a disease.
+
+Chemical/biochemical damages such as dehydration, a poisoning or physical damage such as a fracture or an injury are not diseases themselves but chemical/physical damage can result from a disease. Longer lasting biological damage or out of biological homeostasis is usually considered a disease. Life form interactions at the cellular level can cause biological imbalance.
+* A disease is can be (and often is) caused by life form interactions at the cellular level (e.g. pathogens infecting a host). As life from interactions are dynamic, the disease is dynamic and an immune response is induced/involved. 
+  > On this page, the immune system is defined as a system which regulates life form interactions to keep homeostasis ([Concepts of Immunology](./../4_immunological/concepts_of_immunology.md)).
+* Metabolic disorder
+  * Yes: Being out of balance due to lack of vitamins (e.g. scurvy caused by a shortage of vitamin C) is also considered a disease. 
+  * No: Short term disturbances of the homeostasis e.g. by shortage of water is usually not considered a disease despite dis-ease is caused.
+
 
 There are many different causes of diseases:
 * other [life forms](../2_biological/life-forms.md#life-form) interfering with the metabolism, such an interference is called [infection as defined below](#virus-infection). 
@@ -62,7 +67,7 @@ There are many different causes of diseases:
 Virus diseases are caused by virus infections:
 
 > ##### Virus Infection
-> A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing/hijacking the cells metabolism to produce virus progeny - called virions. More about viruses and their infections in the chapter [Introduction to Viruses](../2_biological/viruses.md#introduction-to-viruses)
+> A *virus infects* an organism by infecting cells of the organism. A virus infects a cell by entering it and changing the cells metabolism. More about viruses and how they live in the chapter [Introduction to Viruses](../2_biological/viruses.md#introduction-to-viruses).
 
 If a virus infection causes lack of ease, one has a virus disease:
 
@@ -71,18 +76,23 @@ If a virus infection causes lack of ease, one has a virus disease:
 
 Adverse effects result either directly through tissue damage caused by viruses or more frequent to keep the core parts of the body virus free (to prevent future cell/tissue damage) a strong immune response is induced causing effects on its own.
 
-The definition of a virus disease is not strict:  
-* Adverse effects or tissue damage are often small and no lack of ease is caused. For most viruses very mild infections are not considered diseases. 
-* For viruses which can be highly pathogenic usually one speaks of a disease if there is an infection diagnosed regardless whether there are symptoms or adverse effects.
+The definition of a virus disease is not strict: Adverse effects or tissue damage are often small and no lack of ease is caused. For most viruses very mild infections are not considered diseases. 
+
+For the SARS-CoV-2 virus, usually any infection is Covid even when asymptomatic:
 
 > ##### Covid-19
-> *Covid-19* stands for COronaVIrus Disease 2019. From early 2020 on, all SARS-CoV-2 infections are called Covid-19. Thus Covid-19 is *not* used to denote a disease but it is used to denote an infection with the SARS-CoV-2 coronavirus. 
+> *Covid-19* stands for COronaVIrus Disease 2019. 
 
-In colloquial language, "Covid-19" is often used synonymously with detecting parts of SARS-CoV-2 viruses in the upper respiratory tract, often tested by nasopharyngeal sampling and PCR testing. However the situation is not that simple:  
-* Not all persons infected with SARS-CoV-2 have a detectable amount of viruses in the nose since SARS-CoV-2 can infect the lower respiratory tract only. Especially people with a sensible immune system may experience symptoms without having a detectable viral load in the upper respiratory tract. But it is also possible to have severe Covid-19 without having detectable viruses by nose swabs [citation in work].  
-* Detectable SARS-2 parts (either RNA by PCR or proteins by antigens test) can result from a past infection and thus not equivalent to an ongoing infection and shedding infectious virions.
+On this page, Covid-19 is used when there is a disease. An asymptomatic SARS-CoV-2 infection is denoted as such. [rework in work as of October 21]
+ 
 
-More about in the chapter [Diagnosis](../3_medical/diagnosis_and_viral_load.md) and [Infections Locations](#infection-locations).
+> From early 2020 on, all SARS-CoV-2 infections are called Covid-19. Thus Covid-19 is *not* used to denote a disease but it is used to denote an infection with the SARS-CoV-2 coronavirus. 
+
+> In colloquial language, "Covid-19" is often used synonymously with detecting parts of SARS-CoV-2 viruses in the upper respiratory tract, often tested by nasopharyngeal sampling and PCR testing. However the situation is not that simple:  
+> * Not all persons infected with SARS-CoV-2 have a detectable amount of viruses in the nose since SARS-CoV-2 can infect the lower respiratory tract only. Especially people with a sensible immune system may experience symptoms without having a detectable viral load in the upper respiratory tract. But it is also possible to have severe Covid-19 without having detectable viruses by nose swabs [citation in work].  
+> * Detectable SARS-2 parts (either RNA by PCR or proteins by antigens test) can result from a past infection and thus not equivalent to an ongoing infection and shedding infectious virions.
+
+More in the chapter [Diagnosis](../3_medical/diagnosis_and_viral_load.md) and [Infections Locations](#infection-locations).
 
 
 The following terms describe the symptom stage of a person.
@@ -103,13 +113,12 @@ A virus disease is an interplay of host factors including the host immune system
     - Cells susceptible to infection and capable of producing viruses (not all cells are susceptible e.g. red blood cells are not susceptible to virus infections ).
     - Host [immune response](#immune-response-and-symptoms).
 * __Capabilities and Behavior of the Virus__
-  Viruses growth differently under different environmental factors called tropism (-> [Tropism of viruses](../2_biological/coronavirus.md#tropism). E.g. SARS-2 virions can initiate cell entry only for cells containing a matching receptor. To infect a tissue several conditions must be met as described in [coronavirus behavior](../2_biological/coronavirus.md#behaviors-of-coronaviruses).
+  Viruses growth differently under different environmental factors called tropism (-> [Tropism of viruses](../2_biological/viruses.md#tropism). E.g. SARS-2 virions can initiate cell entry only for cells containing a matching receptor. To infect a tissue several conditions must be met as described in [coronavirus behavior](../2_biological/coronavirus.md#behaviors-of-coronaviruses).
 * __Environmental Factors__
     - the travel of virions between hosts and thus the mode of the initial infection. E.g. in dry air exhaled droplets dry out and these are more likely to be deposited deep in the lungs.
     - Environmental factors can influence the host factors as well as the virus tropism and thus indirectly the course of the disease. E.g.:
       - Very dry air can weaken the immune system of the mucous membrane in the respiratory tract.
       - Dirty air can weaken defence mechanisms against viruses e.g. ciliated cells are damaged and thereby the clearance of particles in the respiratory tract is reduced. 
-
 
 
 
@@ -124,8 +133,8 @@ Different topics related to the infection locations are described in the section
 
 
 ## Pathology
-* Lung damage (described in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md))
-* Endothelial tissue damage in the case of severe Covid [Varga](#varga)
+* Lung anomalies in the case for moderate and damage for severe Covid are typical and thus can be used to diagnose moderate or severe Covid as described in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
+* Endothelial tissue damage in the case of severe Covid ([Varga et al](#varga)).
 
 
 
@@ -162,7 +171,8 @@ Being infected does not imply one sheds infectious virions. The viral shedding d
 
 
 ## Prevention and Treatment
-[in work and incomplete]
+
+> in work and incomplete
 
 ### Movement
 Movement is import for optimal functioning of the immune system. A good working immune system in turn is important regarding the prevention, the treatment and recovering of/from Covid-19. Moderate movement (e.g. a walk or home stretching. For home sports ventilation of the room before and afterwards is important) is recommended even when infected, while exercise is only recommended when fit and healthy.
@@ -173,12 +183,20 @@ Recommended articles regarding movement and exercise are:
 
 The articles are found on a chapter dedicated to the benefits of movements regarding Covid: [Movement Chapter](../6_prevention_and_treatment/movement.md). In the Movement chapter possible mechanisms and epidemiological evidences are discussed.
 
-### Quarantine-Healthy Recovery Contradiction
+> #### Quarantine Rules contradict a Healthy Recovery
 > The strict [quarantine and isolation rules](../7_social/controlling.md#covid-19-cases-and-quarantine) contradict a healthy recovery and therefore this rules should be relaxed.
 
 > In some regions if tested positive a walk outdoors is  only allowed for people in house with a garden. Though the detection rate of mild cases is usually very low, so many will have no formal restrictions.
 
 > Movement can be associated with deep breathing which is aerosol generating. Therefore when possibly infected and with people to protect in the same flat, it is important to be in a separate room and ventilate the room even after stretching and light exercise. Regarding aerosol transmission outdoors is still way safer.
+
+### Local Temperature and Humidity Modulation
+Local temperature and humidity modulation such as sauna or steam inhalation are promising prevention and steam inhalation also an early treatment method since:
+* coronaviruses are susceptible to environment changes especially high temperatures.
+* set the immune system into an alert state to provoke an early reaction.
+* coronaviruses live on the surface of the respiratory tract which is well reachable from the outside.
+
+Further discussed in the separate chapter [Local Temperature and Humidity Modulation](../6_prevention_and_treatment/temperature_modulation.md).
 
 
 
@@ -186,7 +204,7 @@ The articles are found on a chapter dedicated to the benefits of movements regar
 
 ## Recovery and Long Lasting Effects
 
-Over 90 % of people are adverse effects free a couple of weeks after a SARS-CoV-2 infection. Regarding athletes, countless have been diagnosed with Covid-19: Many of them competed in professional sports just a few weeks later and - to my knowledge - long-term adverse effects haven't been observed for any athlete. Athletes often have good fitness, do regular exercise and eat healthily . A healthy lifestyle including [movement](#movement) helps everybody to be in good health.
+Over 90 % of people are adverse effects free a couple of weeks after a SARS-CoV-2 infection. Regarding athletes, countless have been diagnosed with Covid-19: Many of them competed in professional sports just a few weeks later and - to my knowledge - long-term adverse effects haven't been observed for any athlete even though even the slight performance losses would be observed. Athletes often have good fitness, do regular exercise and eat healthily . A healthy lifestyle including [movement](#movement) helps everybody to be in good health.
 
 Nevertheless for some people a healthy life-style is not enough and some experience [long lasting effects](#long-lasting-effects). 
 
