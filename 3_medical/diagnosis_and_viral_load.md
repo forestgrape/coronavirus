@@ -29,7 +29,7 @@
   * [Literature on Saliva Diagnosis](#literature-on-saliva-diagnosis)
   * [Saliva Sampling Methods](#saliva-sampling-methods)
   * [Notes](#notes)
-* [Diagnosis Suggestions by Test Goal](#diagnosis-suggestions-by-test-goal)
+* [Diagnosis Suggestions by Goal](#diagnosis-suggestions-by-goal)
 * [Summarized References](#summarized-references)
   * [Time Series Viral Load in URT and LRT Samples](#time-series-viral-load-in-urt-and-lrt-samples)
   * [Viral Load Series in URT](#viral-load-series-in-urt)
@@ -370,7 +370,7 @@ Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield differ
 
 
 
-## Diagnosis Suggestions by Test Goal
+## Diagnosis Suggestions by Goal
 > partly subjective
 
 The optimal diagnosis method depends on the purpose of diagnosis (also addressed also in [Mina and Anderson](#mina)):
