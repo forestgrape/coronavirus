@@ -1,3 +1,7 @@
+technical: 5
+explorative: 5
+work status: 5
+
 
 # Life Forms with a Focus on Viruses
 
@@ -271,7 +275,7 @@ Plants adapt the environment by different growing patterns.
 
 
 #### Tropisms
-> // The word tropism comes from Greek 'tropos' which means turning. Correction: ~~For the movement of an organism, tropism describes the change of direction upon a stimulus. This is generalized to describe how forms of life behave under different stimuli or circumstances.~~ -> In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia article on tropism]
+> // The word tropism comes from Greek 'tropos' which means turning. In botany tropism is used to describe when plants turn to growth in a specific direction upon a stimulus. Phototropism is when plants growth towards the sunlight and hydrotropism is when the root growth towards water. [wikipedia article on tropism]
 
 ##### Tropism
 >> *Tropism* denotes here how organisms growth subject to environmental influences. When a life form growths preferable in some settings, the life life form has a tropism for that setting.
@@ -286,7 +290,7 @@ In botany, tropism is used how plants growth subject to stimuli.
 #### Tropism in Virology
 In virology, tropism is used to describe locations where viruses replicate well. Though the term is not precisely defined and so the usages vary. Mostly the term tropism is used as follows:
 * Cell tropism is used to describe cell which support viral replication.
-* Tissue tropism denotes the tissues which support viral replication which is often set equivalent to viral genome detection.
+* Tissue tropism denotes the tissues which support viral replication. Tissue tropism is usually determined by [diagnostic methods](./../3_medical/diagnosis_and_viral_load.md) such as the detection of cell damage or virus building blocks (e.g. by PCR).
 
 On this page, a virus has a tropism for a object if the virus is frequently found in the object and has a noticeable effect on that object. Defined in the [tropism section](./viruses.md#tropism) in the virus chapter.
 * Coronaviruses replicate well in the respiratory tract, thus coronaviruses have a tropism for the respiratory tract.
@@ -349,9 +353,9 @@ For many questions, organisms are considered as a whole and not the single cells
 
 
 #### Mechanism to Control Interactions
-Most life forms have have some mechanisms to keep their metabolism balance and control their environment interactions. These mechanisms form the [balance and control system](../4_immunological/concepts_of_immunology.md). One part of the balance system is the immune system. 
+Most life forms have have some mechanisms to keep their metabolism balance and control their environment interactions.  One part of the balance system is the [immune system](../4_immunological/concepts_of_immunology.md).
 
-A simple and effective way to control environment interactions, is shielding the metabolism by (semipermeable) membranes. The membranes evolved vary in permeability, thickness and rigidity.
+A simple and effective way to control environment interactions, is shielding the metabolism by membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
 
 ### Locations of Living
