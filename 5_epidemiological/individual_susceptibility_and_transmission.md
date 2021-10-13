@@ -3,17 +3,14 @@
 
 * [Summary](#summary)
 * [Relevance](#relevance)
+* [Introduction and how to diagnose SARS-CoV-2 Infections](#introduction-and-how-to-diagnose-sars-cov-2-infections)
+  * [Biological Background](#biological-background)
+  * [Viral Load](#viral-load)
+  * [Symptom Status](#symptom-status)
+  * [Correlation of Viral Load and Symptoms](#correlation-of-viral-load-and-symptoms)
 * [Infector Distribution](#infector-distribution)
   * [Observed Infector Distribution](#observed-infector-distribution)
   * [Possible Causes for uneven Spread](#possible-causes-for-uneven-spread)
-* [Viral Load](#viral-load)
-  * [Measuring the Viral Load](#measuring-the-viral-load)
-  * [Viral Load and Infectivity](#viral-load-and-infectivity)
-  * [Viral Load by Symptoms and acquired Immunity](#viral-load-by-symptoms-and-acquired-immunity)
-* [Symptom Status](#symptom-status)
-  * [Spread by Symptom Status](#spread-by-symptom-status)
-  * [Proportion of symptomatic Patients](#proportion-of-symptomatic-patients)
-  * [Viral Load by Symptom Status](#viral-load-by-symptom-status)
 * [Effects of  Acquired Immunity](#effects-of--acquired-immunity)
 * [Transmission by Age](#transmission-by-age)
   * [Transmissions in Schools](#transmissions-in-schools)
@@ -24,7 +21,7 @@
 * [Susceptibility through High BMI](#susceptibility-through-high-bmi)
   * [Geographical Observations of High Overweight Prevalence](#geographical-observations-of-high-overweight-prevalence)
 * [Overview of Data Sets](#overview-of-data-sets)
-  * [UK Infection Overview](#uk-infection-overview)
+  * [Population Infection Overviews](#population-infection-overviews)
   * [Hospital Cohort Studies](#hospital-cohort-studies)
 * [References](#references)
   * [References Spread Children and Schools](#references-spread-children-and-schools)
@@ -46,19 +43,79 @@
   * [Restrictions on Increased Spread](#restrictions-on-increased-spread)
 
 ## Summary
-* [Transmission Distribution](#transmission-distribution): The spread varies across people: Most studies conclude that 20% are responsible for 80% or more of the infections. 
-* Young people are less susceptible and less infectious ([Transmission by Age Groups](#transmission-by-age)). For children Covid is no more or even less dangerous than other respiratory viruses as described in the chapter [Immune System throughout Life](./../4_immunological/ontogenesis_and_locality_of_immunity.md). Accordingly few spread is observed [between children and in schools](#schools-and-children).
+* [Transmission Distribution](#transmission-distribution): The spread varies across people: Most studies conclude that 20% are responsible at least 80% of the infections.
 * [Transmission by Symptom Status](#spread-by-symptom-status): Symptomatic individuals are several times more infectious.
-* [Dirty air exposure](#susceptibility-through-dirty-air-exposure) is associated to high prevalence of severe Covid as geographical analyses show. 
-* [High BMI](#high-bmi) increases the susceptibility especially for severe Covid. Geographical analyses indicate that high population average BMI correlates to the number of severe Cases.
+
+Immune status:
+* Young people are less susceptible and less infectious ([Transmission by Age Groups](#transmission-by-age)). The immune system of children can control SARS-CoV-2 infections well since their immune system is built to handle unseen viruses ([Immune System throughout Life](./../4_immunological/ontogenesis_and_locality_of_immunity.md)). Accordingly few spread is observed [between children and in schools](#schools-and-children).
+
+* Previous infections provide a reliable and long lasting protection against hospitalization. The chance to test positive is reduced by about 80% and there is not much evidence of waning immunity by new variants. The chance to have a high viral load (Ct value <30) and symptoms is reduced by more than 90% [to confirm].
+
+* The muscular administrated mRNA and adenovirus vectored vaccines provide a good systemic immunity and accordingly a good protection (mostly above 80 % for at least half a year) against hospitalization. The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is mostly lost about 6 months after vaccination against the delta variant is prevalent. The ChAdOx1 initially starts with a lower protection compared to BNT162b2 (around 50%) but decrease slower and after a few months the protections in the upper respiratory tract seem similar (at least against high viral loads). The protection from mRNA-1273 seems higher than BNT162b2/ChAd0x1 [in work]. It is unclear whether the vaccines have an effect on transmission once infected, there is some evidence that for some people vaccines increase the transmission risk while short term they may decrease it for others.
+
+  > Overall there's does not seem to be much benefit to vaccinate people not at risk for severe Covid.
+
+
+Health and lifestyle related factors:
+* [Dirty air exposure](#susceptibility-through-dirty-air-exposure) seems to increase the risk for severe Covid. 
+* [High BMI](#high-bmi) increases the susceptibility especially for severe Covid.
+
 
 
 ## Relevance
 Knowing how transmissions are distributed, helps to set and fine-tune control measures. *If measures are necessary*.
 * Measures can few for those contributing few to the spread: children are not the carriers of the Covid spread and thus measures should not target them. 
-* People with higher R values can be offered better control options: E.g. test access combined with [relaxed but adequate quarantine](../7_social/controlling.md#covid-19-cases-and-quarantine), optimal masks (e.g. custom fit FFP2 including advice) and better education how to handle covid.
+* People with higher R values can be offered control options: E.g. free test access, suitable masks (e.g. custom fit FFP2 including advice) and better education how to handle covid. 
 
 > In my opinion, the actions for people with higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects. Further discussed in [Restrictions on Increased Spread](#restrictions-on-increased-spread)
+
+
+
+## Introduction and how to diagnose SARS-CoV-2 Infections
+
+To analyze susceptibility and transmission, one needs to specify how to measure SARS-CoV-2 infections. SARS-2 infections can be diagnosed by different methods, some are sensitive some less and some methods such as symptom detection only work when there is also a disease. 
+
+### Biological Background
+Coronaviruses infects preferably differentiated airway epithelial cells and often cause few cell damage in these cells. As long as the viruses are well kept in check and remain few, coronaviruses can be considered as part of human virome in healthy state. When the virions replicate to higher numbers symptoms and thus the disease Covid-19 can be caused. High viral loads in the lungs cause pneunomia and possibly ARDS.  
+* 'Few' for coronaviruses usually means less than 1000 virions per milliliter of airway fluid. This viral load is mostly not detected. Whether healthy people can be persistently infected with such low viral loads is possible but mostly not investigated.
+* 'Intermediate' number of coronaviruses range from about 1000 to a million virions per milliliter airway fluid. This viral loads usually don't cause symptoms but can be detected with PCR tests needing usually 30 to 40 cycles. Immunocompromised persons sometimes can be persistently infected with such intermediate viral loads. There is also evidence that the currently prevalent muscular administrated vaccines (especially mRNA vaccines) sometimes yield incomplete and inadequate immune responses which enables persistent infection with intermediate viral titre [to confirm and cite].
+* When the virions replicate to high numbers such that in the upper respiratory tract often a viral load of about million virions per milli liter which corresponds to a Ct value of about 30. 
+
+### Viral Load
+How much infected somebody is can be measured by the viral load and it also indicates infectivity.
+
+#### Measuring the Viral Load
+The viruses can infected multiple location throughout the respiratory tract and thus the viral load depends on the location measured ([Chapter Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
+
+> The viral load is often given is [cycle thresholds](../3_medical/diagnosis_and_viral_load.md#calculation-of-viral-load) (Ct) values, low Ct values correspond to a high viral load: For SARS-CoV-2, a Ct values of 10 corresponds to a very high viral load and a Ct value of 40 is a very low viral load and usually the detection limit of PCR apparatuses.
+
+#### Viral Load and Infectivity
+How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. Often the viral load is measured in the nose and the viral load there does not need to correlate with the amount of exhaled infectious aerosol for respiratory tract infections (discussed in the [transmission chapter](transmission.md); specifically shown for influenza by [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018)). Correctly sampled saliva or sputum predict the disease progression, which likely corresponds to the viral load in the lower airways, better than nose samples (chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
+
+
+
+### Symptom Status
+
+#### Spread by Symptom Status
+Note: The strains prevalent during the time of investigation is relevant since strains can induce varying immune responses e.g. coronaviruses can diminish or activate the immune system.
+* [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% of the infections (7 out of 309) were caused by pre-symptomatic people.
+* The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](./spread_analyses.md#freedman). 
+* [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
+
+#### Proportion of symptomatic Patients
+[in work]
+##### Early 2020
+The symptomatic proportion of cases varied through back since early 2020:
+* [Adam et al](#summary-adam) observe that until 27 March 2020 nearly everybody was symptomatic. Then abruptly from 27 March onwards the proportion of asymptomatic cases increased to about 40 %. // This could be due to the lineages having the D614G mutation.
+##### Early 2021
+* During the third Covid wave in Israel peaking around mid January 2021 about  [Regev-Yochay et al](#summary-regev-yochay) about 60 % of unvaccinated and about 50 % of vaccinated persons are asymptomatic.
+
+### Correlation of Viral Load and Symptoms
+
+* [Lumley et al](#summary-lumley-march-21) find for health care workers in Oxford the viral loads by nasal and oropharyngeal swabs: symptomatic infections (median [IQR] Ct: 16.3 [IQR 13.5–21.7]) compared to asymptomatic infections (Ct: 20 [IQR 14.5–29.5]). Previously infected persons tend to have a lower viral load (higher Ct values) than seronegative persons or vaccinated persons:
+   ![Viral Loads by Symptoms and Vaccination](images/lumley_march_figure4.jpeg)
+* [Pritchard et al](#summary-pritchard) find that previously infected persons rarely have a high viral load. A similar but weaker effect is also observed by vaccination.
+* [Regev-Yochay et al](#summary-regev-yochay) find for health care workers a mean Ct value of 21.7 for symptomatic cases and 25.8 for asymptomatic cases. For vaccinated persons the mean is about 22 and for unvaccinated about 27.
 
 
 
@@ -92,45 +149,10 @@ The infector distribution is highly skewed:
 
 
 
-## Viral Load
-How much infected somebody is can be measured by the viral load and it also indicates infectivity.
-
-### Measuring the Viral Load
-The viruses can infected multiple location throughout the respiratory tract and thus the viral load depends on the location measured ([Chapter Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)). 
-
-> The viral load is often given is [cycle thresholds](../3_medical/diagnosis_and_viral_load.md#calculation-of-viral-load) (Ct) values, low Ct values correspond to a high viral load: For SARS-CoV-2, a Ct values of 10 corresponds to a very high viral load and a Ct value of 40 is a very low viral load and usually the detection limit of PCR apparatuses.
-
-### Viral Load and Infectivity
-How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. Often the viral load is measured in the nose and the viral load there does not need to correlate with the amount of exhaled infectious aerosol for respiratory tract infections (discussed in the [transmission chapter](transmission.md); specifically shown for influenza by [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018)). Correctly sampled saliva or sputum predict the disease progression, which likely corresponds to the viral load in the lower airways, better than nose samples (chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
-
-
-### Viral Load by Symptoms and acquired Immunity
-* [Lumley et al](#summary-lumley-march-21) find for health care workers in Oxford the viral loads by nasal and oropharyngeal swabs: symptomatic infections (median [IQR] Ct: 16.3 [IQR 13.5–21.7]) compared to asymptomatic infections (Ct: 20 [IQR 14.5–29.5]). Previously infected persons tend to have a lower viral load (higher Ct values) than seronegative persons or vaccinated persons:
-   ![Viral Loads by Symptoms and Vaccination](images/lumley_march_figure4.jpeg)
-* [Pritchard et al](#summary-pritchard) find that previously infected persons rarely have a high viral load. A similar but weaker effect is also observed by vaccination.
-* [Regev-Yochay et al](#summary-regev-yochay) find for health care workers a mean Ct value of 21.7 for symptomatic cases and 25.8 for asymptomatic cases. For vaccinated persons the mean is about 22 and for unvaccinated about 27.
-
-## Symptom Status
-
-### Spread by Symptom Status
-Note: The strains prevalent during the time of investigation is relevant since strains can induce varying immune responses e.g. coronaviruses can diminish or activate the immune system.
-* [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% of the infections (7 out of 309) were caused by pre-symptomatic people.
-* The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](./spread_analyses.md#freedman). 
-* [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
-
-### Proportion of symptomatic Patients
-[in work]
-#### Early 2020
-The symptomatic proportion of cases varied through back since early 2020:
-* [Adam et al](#summary-adam) observe that until 27 March 2020 nearly everybody was symptomatic. Then abruptly from 27 March onwards the proportion of asymptomatic cases increased to about 40 %. // This could be due to the lineages having the D614G mutation.
-#### Early 2021
-* During the third Covid wave in Israel peaking around mid January 2021 about  [Regev-Yochay et al](#summary-regev-yochay) about 60 % of unvaccinated and about 50 % of vaccinated persons are asymptomatic.
-
-### Viral Load by Symptom Status
-Discussed in the section [viral load](#viral-load-by-symptoms-and-acquired-immunity).
-
-
 ## Effects of  Acquired Immunity
+
+* [Pritchard et al](#summary-pritchard) find that previously infected persons rarely have a high viral load. A similar but weaker effect is also observed by vaccination.
+* [Regev-Yochay et al](#summary-regev-yochay) find that for vaccinated persons the mean is about 22 and for unvaccinated about 27 Ct cycles.
 
 
 
@@ -206,29 +228,31 @@ _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for sev
 
 
 ## Overview of Data Sets
-### UK Infection Overview
+### Population Infection Overviews
+
 #### ONS-CIS
 The Office for National Statistics (ONS) in the UK carries out a COVID-19 Infection Survey (CIS). 
+* [ONS-CIS dataset](#references-ons-cis): Description of ONS-CIS followed by the references using this data.
 * [Prichard et al](#summary-pritchard) infer the risk of reinfection and the vaccine effectiveness from ONS-CIS data. 
 * [House et al](#summary-house) analyse the household transmission with or without vaccination.
 
 #### HOSTED
-Household Transmission Evaluation Dataset (HOSTED) links laboratory-confirmed COVID-19 cases in England to individuals living with the same address. Detail description of the [HOSTED data set](#references-of-household-transmissions-with-hosted).
+Household Transmission Evaluation Dataset (HOSTED) links laboratory-confirmed COVID-19 cases in England to individuals living with the same address.
+* [HOSTED data set](#references-of-household-transmissions-with-hosted):  Description of HOSTED data followed by the references using this data.
 * [JA Hall et al](#summary-ja-hall) analyse the household transmission by the age of the individuals, the regions of living and the season of the year.
 * [Harris et al](#summary-harris) infer the household transmission with or without vaccination.
 
 ### Hospital Cohort Studies
 #### OUCS
-Oxford University Hospitals offer symptomatic and asymptomatic SARS-CoV-2 testing to all staff: [References OUCS](#references-oucs).
+Oxford University Hospitals offer symptomatic and asymptomatic SARS-CoV-2 testing to all staff: 
+* [References OUCS](#references-oucs): OUCS testing methods followed by references using OUCS.
 * [Lumley December 20](#summary-lumley-december-20): Reinfection rates
 * [Lumley March 21](#summary-lumley-march-21): Reinfection rates and vaccine breakthroughs.
 * [Lumley July 21](#summary-lumley-july-2021): Infection paths and spreader distribution.
 
 #### SIREN
 Goal: "The SARS-CoV-2 Immunity and Reinfection Evaluation (SIREN) Study is a large, multicentre prospective cohort study of health-care workers and support staff in publicly- funded National Health Service (NHS) hospitals in the UK."
-
-Testing Scheme: "SIREN participants had asymptomatic PCR testing (anterior nasal swabs or combined nose and oropharyn- geal swabs) every 14 days and monthly antibody testing at their site of enrolment, with a variety of assays used across sites. As per government guidelines, hospitals introduced twice weekly asymptomatic testing using a lateral flow device, Innova SARS-CoV-2 Antigen Rapid Qualitative Test (Innova),12 to all front-line health-care workers for twice weekly asymptomatic testing in November, 2020."
-
+* [SIREN](#references-siren): SIREN testing scheme followed by references using SIREN.
 * [VJ Hall April 21](#summary-vj-hall-april-21): Reinfection and vaccine efficacy.
 
 ####  Sheba Medical Center
@@ -400,6 +424,9 @@ Comments:
 
 
 ### References SIREN
+#### Testing Scheme
+"SIREN participants had asymptomatic PCR testing (anterior nasal swabs or combined nose and oropharyn- geal swabs) every 14 days and monthly antibody testing at their site of enrolment, with a variety of assays used across sites. As per government guidelines, hospitals introduced twice weekly asymptomatic testing using a lateral flow device, Innova SARS-CoV-2 Antigen Rapid Qualitative Test (Innova),12 to all front-line health-care workers for twice weekly asymptomatic testing in November, 2020."
+
 #### Summary VJ Hall April 21
 *COVID-19 vaccine coverage in health-care workers in England and effectiveness of BNT162b2 mRNA vaccine against infection (SIREN): a prospective, multicentre, cohort study*
 ##### Methods
@@ -457,7 +484,7 @@ Comparison with SARS-1 or MERS:
 
 ### References of Household Transmissions with HOSTED
 
-#### HOSTED Dataset
+#### HOSTED Testing Scheme
 * "In brief, laboratory confirmed cases of COVID-19 in England which are reported to national laboratory surveillance systems(2) are linked to individuals who share the same address, using National Health Service (NHS) number and the Unique Property Reference Number (UPRN)." ([Supplement to Harris](#summary-harris))
 * Institutional settings (using UPRN information) such as care homes, prisons, and households with more than 10 residents are excluded.
 * "HOSTED includes individual-level socio-demographic data for cases and household contacts, including age, sex, and Index of Multiple Deprivation (IMD); information on property type, confirmed cases using PCR-based SARS-CoV-2 through national reporting systems, and linked information on hospitalisation and mortality. The vaccination data include date and type (ChAdOx1 nCoV-19 or BNT162b2) of first and second doses for all vaccinated individuals in the HOSTED dataset." (Supplement to [Harris](#summary-harris)).
@@ -502,18 +529,18 @@ The Southern regions have lower secondary attack rates likely due to the more co
 * "The analysis cohort included households with an index case occurring between 4th January 2021 to 28th February 2021, with 14 days observable follow up for all contacts."
 * "In all households, the majority of index cases and contacts were age <60, with a high proportion of individuals aged <40 in unvaccinated households."
 ##### Results
-1. *Non vaccinated:* about 10% household transmission. "In households where the index case was not vaccinated before testing positive, there were 96,898 secondary cases out of 960,765 household contacts (10.1%)."
-2. *Index vaccinated:* Just "There were 196 secondary cases in 3,424 contacts (5.72%) where the index case received the ChAdOx1 nCoV-19 vaccine 21 days or more before testing positive, and 371 secondary cases in 5,939 contacts (6.25%) where the index case received the BNT162b2 vaccine 21 days or more before testing positive." // not much difference between BNT162b2 and ChAdOx1 this despite BNT162b2 produces higher level of antibodies.
-3. *Index and (some) contact vaccinated:* The secondary attack rate when both the index case and the contacts are vaccinated seems to be not much different as when both are unvaccinated: Secondary attack rate when both index and contact are vaccinated: 8152 out of 67622 contacts (Table S1) -> SAR ~= 12%. The 12% SAR is about the attack rates observed between older people in winter (Table S2 and [Summary Hall](#summary-ja-hall) which is also based on HOSTED data). Since vaccinated contact are less likely to get infected, this observation indicates increased transmission from vaccinated persons to other vaccinated persons once positive tested.
+1. *Index Non vaccinated:* household attack rate is 10.1%: unvaccinated index cases induced 96,898 secondary cases out of 960,765 household contacts.
+2. *Index vaccinated (21 days after first dose):* household attack rate is roughly 6%: index vaccinated with 1 dose ChAdOx1 induced 196 secondary cases in 3,424 contacts (5.72%). Index case 1 dose BNT162b2 induced 371 secondary cases in 5,939 contacts (6.25%). // not much difference between BNT162b2 and ChAdOx1 this despite BNT162b2 produces higher level of antibodies.
+3. *Index and (some) contact vaccinated:* The secondary attack rate when both the index case and the contacts are vaccinated seems to be not much different as when both are unvaccinated: Secondary attack rate when both index and contact are vaccinated: 8152 out of 67622 contacts (Table S1) -> SAR ~= 12%. The 12% SAR is about the attack rates observed between older people in winter (Table S2 respectively [Summary Hall](#summary-ja-hall) which is also based on HOSTED data). Since vaccinated contact are less likely to get infected, this observation indicates increased transmission from vaccinated persons to other vaccinated persons once positive tested.
 
 ##### Comments
-> *Adjustments:* To calculate the odd ratios the authors do also some adjustments, however since adjusting is tricky: e.g. for older couples which belong to vaccine-prioritized groups, the secondary attack is higher, however in the weeks before a vaccination appointment the infection rate decreases as observed in [Pritchard](#summary-pritchard), and the latter is more likely in older couples. For the difficulties regarding correct adjustment, the unadjusted data are cited here.
+> *Adjustments:* To calculate the odd ratios the authors do also some adjustments, however since adjusting is tricky: e.g. for older couples which belong to vaccine-prioritized groups, the secondary attack is higher, however in the weeks before a vaccination appointment the infection rate decreases as observed in [Pritchard](#summary-pritchard), and the latter is more likely in older couples. For the difficulties regarding correct adjustment, the unadjusted data are stated above.
 
-> *Biases:* Vaccinated persons may be miss-classified as contacts since they are less likely symptomatic in the first month after vaccinations due to vaccine effectiveness at preventing symptomatic disease, placebo effects and the protection from severe disease. Which could yield to a bias in households with many infectees the index case is likely wrongly attributed to an unvaccinated person. Considering only households where both index and contact are vaccinated is less biased in this respect. As noted, the latter data (2.) indicate higher transmission from vaccinated persons.
+> *Biases:* Vaccinated persons may be miss-classified as contacts since they are less likely symptomatic in the first month after vaccinations due to vaccine effectiveness at preventing symptomatic disease, placebo effects and the protection from severe disease. Which could yield to a bias in households with many infectees the index case is likely wrongly attributed to an unvaccinated person. Considering only households where both index and contact are vaccinated is less biased in this respect. As noted in 3., this data indicates higher transmission from vaccinated persons.
 
 
 ### References ONS-CIS
-Households are visited and instructed how to self take nose and throat swabs. The swabs are then taken weekly for the first month and then monthly for the first year. The swabs are sent or colleted and analyzed in labs for PCR testing. The goal overview of the community prevalence.
+Households are visited and instructed how to self take nose and throat swabs. The household are visited weekly in the first month and then monthly for the first year. The swabs are sent or colleted and analyzed in labs for PCR testing. The goal overview of the community prevalence. From a random 10-20% of households, those 16 years or older were invited to participate in monthly antibody testing.
 
 #### Summary House
 House T, Pellis L, Pritchard E, McLean AR, Walker AS. *Total Effect Analysis of Vaccination on Household Transmission in the Office for National Statistics COVID-19 Infection Survey.* arXiv; 2021.
@@ -533,9 +560,29 @@ House T, Pellis L, Pritchard E, McLean AR, Walker AS. *Total Effect Analysis of 
 #### Summary Pritchard
 *Impact of vaccination on new SARS-CoV-2 infections in the United Kingdom*
 ##### Methods
-1,945,071 Covid PCR tests from nose and throat swabs taken from 383,812 [ONS-CIS](#ons-cis) participants between 1 December 2020 and 8 May 2021 are analyzed to assess the effects of vaccination and previous infections.
+* 1,945,071 Covid PCR tests from nose and throat swabs taken from 383,812 [ONS-CIS](#ons-cis) participants between 1 December 2020 and 8 May 2021 are analyzed to assess the effects of vaccination and previous infections.
+* Vaccines used are nearly exclusively BNT162b2 and ChAdOx1
+##### Results
+* Fig. 1 a: The vaccines reduce number of samples with very high viral loads. Natural infection does so even better.
+* Fig. 2 d: The two dose vaccines and natural infection reduce the chance for a positive test for B117 by about 80 %.
+* Fig. 3b: 
+  * BNT162b2 and ChAdOx1 show a very similar effectiveness at reducing the odds for a viral load Ct<40 and Ct<30. //follow up analysis ([Pouwels](#summary-pouwels)) reveals that BNT162b2 has a higher initial effectiveness but then decreases faster. The similar effectiveness obtained here, could be due to earlier vaccinations with BNT162b2 and so the time spans since vaccination were longer.
+  * The odds of a viral loads Ct<30 are more reduced compared to Ct<40 more compared to unvaccinated persons: The odds start to decrease about one week after the first dose, are further reduce 21 days after the first dose and reach a reduction of about 0.3 for Ct<40 and a reduction of about 0.15 for Ct<30.
+
+
+#### Summary Pouwels
+Impact of Delta on viral burden and vaccine effectiveness against new SARS-CoV-2 infections in the UK
+
+##### Methods
+ONS-CIS data is analysed for the periods 1 Dec 2020 – 16 May 2021 (Alpha) and 17 May 2021- 1 August 2021 (Delta)
+
+##### Method Details
+"During the Alpha-dominant period from 1 December 2020 to 16 May 2021 (Figure S1), nose and throat RT- PCR results were obtained from 384,543 individuals aged 18 years or older (221,909 households) at 2,580,021 visits (median [IQR] 7 [6-8]), of which 16,538 (0.6%) were the first PCR-positive in a new infection episode. During the Delta-dominant period from 17 May to 1 August 2021, results were obtained from 358,983 individuals (213,825 households) at 811,624 visits (median [IQR] 2 [2-3]), 3,123 (0.4%) being the first PCR-positive. Characteristics at included visits are shown in Table S1."
 
 ##### Results
+* Figure 1. (A): 
+
+
 
 ### References Contact Tracing
 
@@ -642,9 +689,9 @@ early vacc | 490  | 18 | 3.7 % | 1.7 % | 2.4 % | 1.0 % | .71 | 29 % | 45 %
 part. vacc | 1442 | 34 | 2.4 % | 1.2 % | 1.5 % | 0.6 % | .45 | 55 % | 59 %
 fully vacc | 1300 | 23 | 1.8 % | 0.9 % | 0.9 % | 0.3 % | .34 | 66 % | 70 %
 
-
 > In the table above, it is assumed that (as usually) PCR positive is equivalent to Ct < 40
 
+> => vaccine efficacy is about 66 % for a viral load <40 and about 70 % for a viral load <30 for BNT162b2 from two weeks to 2 months after vaccination.
 
 ###### Vaccine Effects by Incidence Rates
 
