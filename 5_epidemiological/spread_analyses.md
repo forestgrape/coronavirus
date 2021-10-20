@@ -492,7 +492,7 @@ Protection measures in airplanes (mostly based on [Freedman and Wilder-Smith](#f
 Around the world in many large scale production factories especially in those preparing food (e.g. meat, bread), large Covid-19 outbreaks among the personal have been observed [citations/sources in work].
 
 #### Analysis Factories
-> Noteworthy that often food production factories are concerned. This could be due to low temperatures and no sunlight, in these settings the [virion survive long](../2_biological/_site/virion_viability.md).[To check whether they reuse filtered air and what temperature/humidity settings]
+> Noteworthy that often food production factories are concerned. This could be due to low temperatures and no sunlight, in these settings the [virion survive long](../2_biological/virion_viability.md).[To check whether they reuse filtered air and what temperature/humidity settings]
 
 
 ### Large Scale Sporting Events
