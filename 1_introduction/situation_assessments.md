@@ -1,5 +1,7 @@
 
-# Situation Assessments
+Situation Assessments
+=====================
+
 The page contains subjective situation assessments and remarks. 
 
 > Before 23.8.21 the remarks have been scattered throughout different chapters. This page groups them together (The remarks as published are accessible via the github history function).
