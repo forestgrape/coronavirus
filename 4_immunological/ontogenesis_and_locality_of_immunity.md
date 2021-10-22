@@ -2,7 +2,7 @@
 
 How the immune system develops during lifetime and the protection at frequent pathogen entry locations is strengthened. In other words the ontogenesis and the generated compartmentalization of the immune system.
 
-> Entire page is **in work, incomplete and needs to be checked**. 
+> Entire page is **in work, incomplete and some parts need checking**. 
 
 > Early publishing due to the urgently needed rational discussion whether to vaccinate young people including children.
 
@@ -71,9 +71,9 @@ At young age the immune system is built to encounter new pathogens and handle th
 * [Kumar, Conners and Farber](#kumar) review how:
   * How the immune system is developes at the different locations throughout life (e.g. Figure 3) and is associated with pathogens encountered at the different sites. A focus is the compartmentalization and tissue residency, a topic in which the research group from Mrs. Farber does pioneering work.
   * Differences between the immune system development in mice and human are pointed out: E.g. in human the generation of naive T occurs often locally in tissues where as in mice it occurs mainly in the thymus. Also the lifespan of naive T cells is much longer in humans with a lifespan of 5 to 10 years compared to a few weeks in mice.
-* [Zheng et al](#zheng) investigate in detail the systemic immune cell landscape in young and old adults: Peripheral blood mononuclear cells are analyzed by single cell single-cell RNA sequencing (scRNA-seq), mass cytometry (CyTOF), and single-cell assay for transposase-accessible chromatin sequencing (scATAC-seq). Additionally mass cytometry is carried out in a cohort of Covid infectees and RNA sequencing in a cohort of recovered Covid patients (Fig. 1 B).
-* [Moderbacher et al](#moderbacher) investigate the systemic CD4+ and CD8+ T cell and neutralizing antibody responses of Covid patients in detail. Correlations between the percentage of naive CD4 and CD8 cells and the severity of Covid is found (Figure 6 E for CD4 and F for CD8).
-* [Loske et al](#loske) investigate the cells in the upper respiratory tract regarding immune responses to SARS-2 infections at different ages by single-cell RNA sequencing. A key finding is that the upper airways of children are primed to sense and handle viruses both by an increased prevalence of immune cells and the cell expression profile.
+* [Zheng et al](#zheng) investigate the systemic immune cell landscape in young and old adults: Peripheral blood mononuclear cells are analyzed by single cell single-cell RNA sequencing (scRNA-seq), mass cytometry (CyTOF), and single-cell assay for transposase-accessible chromatin sequencing (scATAC-seq). Additionally mass cytometry is carried out in a cohort of Covid infectees and RNA sequencing in a cohort of recovered Covid patients (Fig. 1 B).
+* [Moderbacher et al](#moderbacher) investigate the systemic CD4+ and CD8+ T cell and neutralizing antibody responses of Covid patients. Correlations between the percentage of naive CD4 and CD8 cells and the severity of Covid is found (Figure 6 E for CD4 and F for CD8).
+* [Loske et al](#loske) investigate the cells in the upper respiratory tract at steady state and during SARS-2 infections of persons of different ages by single-cell RNA sequencing. They find that the upper airways of children are primed to sense and handle infections both by an increased prevalence of immune cells and the expression profile of epithelial cells.
 
 
 
@@ -83,7 +83,7 @@ At young age the immune system is built to encounter new pathogens and handle th
 ### Surveillance for New Pathogens and Dangers
 Innate immune recognition works best at young age:
 * [Loske et al](#loske) find that the genes of the pathogen recognition receptors MDA5 (IFIH1) and RIG-I (DDX58) are expressed at higher levels and at higher percentages of cells across many upper respiratory tract cells in younger people (Fig. 2 b). The usefulness in preventing an infection of these receptors is demonstrated that people with higher expression rates of these PRR have less symptoms (Fig. 2 c).
-* At high age, endoplasmic reticulum stress is common in many cells and to keep homeostasis the associated danger signals are down regulated, which reduces the chance to detect many positive stranded RNA viruses by ER stress [to confirm and cite].
+* At high age, endoplasmic reticulum stress is common in many cells in order to keep full filling their tasks the associated danger signals are down regulated, which reduces the chance to detect viruses by ER stress, which is especially relevant for positive stranded RNA viruses as coronaviruses [to confirm and cite].
 
 ### Alertness of the Immune System
 At young age the homeostasis is more focussed on infection prevention whereas with increasing age to homeostasis shifts towards functionality and house keeping (including waste removal):
@@ -145,8 +145,6 @@ Early in life the majority of T cells are in the naive state. A naive T cell abl
 #### Learning of the Immune System
 * Strengthen the immunity for frequent entry locations and pathogen patterns.
 * Train the acquired part of the immune system. Build up a collection of memory T cell and B cell recognizing specific pathogens i.e. build up a library of specific pathogen recognizers.
-
-
 
 
 
