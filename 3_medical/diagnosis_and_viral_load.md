@@ -51,43 +51,61 @@
 ## Summary
 Different methods to diagnose a SARS-CoV-2 infection are discussed. A focus is on methods measuring the amount of viruses (viral load) at different locations. For this reason the topics diagnosis and viral load are discussed in the same chapter.
 
-_Common Methods to diagnose a Coronavirus Infection:_
-* Detect the viruses directly. The amount of viruses ([viral load](#viral-load)) is measured by antigen test or PCR tests.
-* Detect infections indirectly by detecting the tissue damage caused e.g. visual changes in the lungs by X-ray images.
-* Detect antibodies which are part of the immune response.
+There are different methods to diagnose a coronavirus infection:
+* Detect the viruses directly. The presence of virus building blocks is detected/measured by antigen test or PCR tests ([viral load](#viral-load)).
+* Virus infections can cause cell or tissue changes and sometimes damage. Tissue changes in the lungs can be detected by X-ray images. In the upper respiratory tract coronaviruses usually don't cause visible changes.
+* Detect an immune response to SARS-CoV-2. Antibodies is the immune response most easily detectable and most antibodies elicited are specific for SARS-CoV-2. 
+* Detect typical symptoms which may occur as part of a SARS-CoV-2 infection.
 
 _SARS-CoV-2 Viral Load:_
-Detecting SARS-CoV-2 viruses is highly specific to diagnose Covid-19. PCR tests are able to tell the viral load in virus copies per milliliter of specimen. Antigen tests usually just tell if there are viruses present. For both test methods a certain amount viruses needs to present for a positive test result. SARS-CoV-2 infects the upper respiratory tract (nose, mouth, throat) and the lower respiratory tract (bronchi, lungs) and the amount of viruses present at the different locations varies accordingly. So the sensitivity (detection rate) is dependent on the sampling location, the sampling method and the infected locations of the patient. 
+Detecting SARS-CoV-2 virus parts is highly specific to diagnose Covid-19. PCR tests quantify number of virus genomes per milliliter of specimen. Antigen tests usually just tell if there are virus proteins present. For both test methods a certain amount viruses needs to present for a positive test result. 
+
+SARS-CoV-2 infects the upper respiratory tract (nose, mouth, throat) and the lower respiratory tract (bronchi, lungs) and the amount of viruses present at the different locations varies accordingly. So the sensitivity (detection rate) is dependent on the sampling location, the sampling method and the infected locations of the patient. 
 
 _Common locations and fluids the viral load is measured are:_
 * The standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections and the results can vary from sample to sample and day to day.
 * Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). The viral load, and thus the detection rate, is reduced if the salivary flow is increased (e.g. eating or chewing gums).
 * Morning sputum and nasopharyngeal aspirate have high viral load and good detection rates. 
-* The viral load in the sputum and in saliva is an indication for disease progression. The viral load in NPS samples is not an indicator. 
+* The viral load in the sputum and in saliva indicates the disease progression (high viral low -> unfavorable prognosis). The viral load in NPS samples is not an indicator in the case of hospitalized patients.
 
-_Recommendations:_
-* _Recommended Diagnosis_: Repeated morning saliva specimens yield reliable viral loads which even predict the course of the disease. Morning saliva has shown is effectiveness in the surveillance system in Hong Kong. Sputum helps to diagnose lower respiratory tract infections and the viral load is a predictor for the prognosis. 
-* _With Reservation_: The standard methods nasopharyngeal swabs (NPS) has a mediocre detection rate of about 60%. Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation. Serum antibodies detect 
-* _To keep in mind_: The viral load and the immune responses depend on the infection location, infection severity and the individual immune systems. Therefore there's no all catching diagnose location or method. Not to every infection in the upper respiratory tract the body responds with serum antibodies. On the other hand a lower respiratory tract infection one can be infectious and the infection induces an antibody response, but a single virus test in the upper respiratory tract can be negative.
+_Assessment of Methods:_
+* _Saliva_: Repeated morning or at least before eat saliva specimens yield reliable viral loads which even predict the course of the disease. Before eat saliva has shown is effectiveness in the surveillance system in Hong Kong. Sputum helps to diagnose lower respiratory tract infections and the viral load is a predictor for the prognosis. 
+* _NPS_: The standard methods nasopharyngeal swabs (NPS) has a mediocre detection rate of about 60%. 
+* _NPA_: Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. 
+* _Tissue changes in the lungs:_ XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation.
+* 
+
+Which method is adequate depends on the purpose of the diagnosis. 
+* _To initiate optimal treatment:_ This is the classical use case of diagnosis: determine the pathogen causing a disease to initiate an optimal treatment. Symptoms are useful and they also give hints which location in the respiratory tract is infected. To confirm the presence and determine the extent of a SARS-2 infection early morning saliva analyzed by PCR is recommended. The latter can also be use for screening to initiate a treatment before there are symptoms.
+* _To determine infectivity:_ Antigen tests by nose or throat swabs combined with symptoms likely are suitable.
+* _Community prevalence:_ Saliva and nose swabs analyzed with (pooled) PCR tests or antigen tests.
+
+
+_To keep in mind_: 
+The viral load and the immune responses depend on the infection location, infection severity and the individual immune systems. Therefore there's no all catching diagnose location or method. For example, not to every infection in the upper respiratory tract the body responds with serum antibodies. On the other hand a lower respiratory tract infection one can be infectious and the infection induces an antibody response, but a single virus test in the upper respiratory tract can be negative.
+
 
 
 
 ## Introduction
 
 ### Introducing Diagnosis
-A defined in the [Covid-19 chapter](../3_medical/covid19.md) a [disease](../3_medical/covid19.md#disease) is a disordering of the body which can be caused by pathogens. For a virus disease, the cause (the viruses) can be detected directly section [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)). Possible disordering/damage caused (e.g. tissue damage) and possible induced immune responses can be inspected and indicate indirectly a virus infection (section [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)).
+A defined in the [Covid-19 chapter](../3_medical/covid19.md) a [disease](../3_medical/covid19.md#disease) is a disordering of the body which can be caused by pathogens. 
+* Possible disordering/damage caused (e.g. tissue damage) and possible induced immune responses can be inspected and indicate indirectly a virus infection (section [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)). 
+* If there is tissue damage or many cells get damaged, the body usually initiates an immune response which causes symptoms. 
+* For a virus disease, the cause (the viruses) can be detected directly section [Methods to Directly Detect Viruses](#methods-to-directly-detect-viruses)). With the latter method also infections which don't cause a disease can be detected.
 
 > ###### Diagnosis
 > Diagnosis comes from dia ‘apart’ + gignōskein ‘recognize, know’ (British English Thesaurus). Diagnose an illness is to figure out the causes i.e. determine which disease causes the illness. 
 
 ### History of Covid-19 Diagnosis
 * In late 2019 and January 2020 Covid-19 was mostly diagnosed based on lung CT findings.
-* In February 2020 PCR test became more widely available and often specimens from the lower respiratory tract such as BALF or sputum were used. With these methods not only a disease but also asymptomatic infections are diagnosed.
+* In February 2020 PCR test became more widely available and both specimens from the lower respiratory tract such as BALF or sputum and the upper respiratory tract were used. With these methods not only a disease but also asymptomatic infections are diagnosed.
 * From February/March 2020 to December 2020 the standard SARS-CoV-2 tests are nasopharyngeal swabs in most locations of the world. The viral load is detected either by [PCR-Test](#pcr-test) or [Antigen-Tests](#antigen-test).
 
   > In the very early phase of the Covid-19 pandemics PCR test were scarce and antigen tests not available so the work for BALF/sputum sampling was not the bottleneck. In the next months PCR test became more widely available but still limited, nasopharyngeal swabs were used: NPS sampling was doable since testing capacity was still limited. Then one just kept on doing NPS even though there have been early studies pointing to the benefits of other methods such as self collected saliva. 
 * Late 2020 antigen tests are getting more common.
-* 2021? Alternate Locations? Rethink [Diagnosis Locations and Methods](#viral-load-at-different-locations-with-a-focus-on-diagnosis) and a chapter is devoted to [saliva based diagnosis](#saliva-diagnosis).
+* 2021? Alternate Locations? An overview is given in the section [Diagnosis Locations](#overview-diagnosis-locations) and a section considers [saliva based diagnosis](#saliva-diagnosis).
 
 
 ### Overview Diagnosis Methods
@@ -227,7 +245,7 @@ The saliva is secreted from different glands in the mouth. How much each of thes
 
 
 ### Detection Rates
-Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken). In first week of severe respectively mild symptoms.
+Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken). In first week of a SARS-CoV-2 infection with severe or with mild symptoms.
 
 Severe  | Mild  | Specimen
 --|--|--
@@ -366,7 +384,8 @@ Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield differ
 
   > One reason more to relax the often overly strict [quarantine and isolation rules](../7_social/controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](../3_medical/covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected. With a positive test, most are likely careful (even without requirements).
 
-  To determine useful sampling/cheating an option is: Detection of members of the oral flora, since not only coronaviruses but also most other bacteria and viruses peak after sleep ([Carlson-Jones](#summary-carlson-jones)). RNaseP likely does not help: Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP does not decrease much on an increased flow rate [to check].
+  To determine useful sampling/cheating an option is: Detection of members of the oral flora, since not only coronaviruses but also most other bacteria and viruses peak after sleep ([Carlson-Jones](#summary-carlson-jones)). RNaseP likely does not help: Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP does not decrease much on an increased flow rate [to confirm and cite].
+
 
 
 
@@ -374,12 +393,24 @@ Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield differ
 > partly subjective
 
 The optimal diagnosis method depends on the purpose of diagnosis (also addressed also in [Mina and Anderson](#mina)):
-* Diagnosis of at risk for severe Covid individuals: Multiple early morning salvia. Possibly combined with sputum or x-ray (for patients at high risk) and possibly even CT (for patients at high risk and of high age) to check lung involvement.
-* Routine screening of health/care home personal: Twice per week early morning saliva analyzed with pooled PCR.
-* Routine screening of personal in public settings such as supermarkets/public offices: Early morning saliva combined with do it yourself antigen tests once a week during moderate to high incidence of hospitalized cases. Confirmation with PCR.
-* Schools: Pooled saliva to have an overview. 
-  > Quarantine should be waved for children since children rarely transmit SARS-CoV-2 and quarantine can be especially hard for them and quarantine can contribute to long Covid & possibly to PIMS.
+* Diagnosis of individuals at risk for severe Covid: Multiple early morning salvia. Optionally upon infection, the lower respiratory tract involvement can be diagnosed with sputum  or x-ray. Possibly CT (for patients at high risk and of high age) to check lung involvement.
 
+_Scientific analyses:_
+  * Epidemiological analysis e.g. to determine spread patterns: Ideally a combination of methods including saliva, NPS swabs and symptoms to detect acute infections and serology for past infections. 
+  * Medical analyses to assess the effectiveness of treatment methods and prevention methods: Same as epidemiological analyses and additionally sputum and exhaled aerosol are also very helpful at least in sub samples.
+
+  > Test for cohort testing and community studies are also discussed in the chapter [individual susceptibility and transmission](../5_epidemiological/individual_susceptibility_and_transmission.md).
+
+_Routine Screening:_
+* Routine screening of health/care home personal: Twice per week early morning saliva analyzed with pooled PCR.
+* Household samples to have an overview: PCR or antigen.
+* Airplane personal: saliva antigen tests. Travellers too if hospitalizations rates are high.
+
+_Routine Screening when hospitalization rates are high:_
+* Routine screening of personal in public settings such as supermarkets/public offices: Early morning saliva combined with do it yourself antigen tests once a week during moderate to high incidence of hospitalized cases. Confirmation with PCR.
+* Companies, Educational Settings: Pooled saliva to have an overview. 
+  
+  > Quarantine should be waved for children since children rarely transmit SARS-CoV-2 and quarantine can be especially hard for them and quarantine can contribute to long Covid & possibly to PIMS.
 
 
 ## Summarized References
@@ -397,8 +428,7 @@ As usually for summarized references:
 <https://doi.org/10.1016/j.xinn.2020.100061>
 
 > An early version of this article with fewer patients has the title "Evaluating the accuracy of different respiratory specimens in the
-laboratory diagnosis and monitoring the viral shedding of
-2019-nCoV infections"
+laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections" by Yang Yang et al and published at <https://doi.org/10.1101/2020.02.11.20021493>
 
 Location: Shenzhen, Guangdong, China; Date: written in May, patients likely from January to March
 ##### Methods
@@ -510,10 +540,12 @@ Different diagnostic tests for Covid-19 are reviewed and pro & contras discussed
 
 
 ### Viral Load in Sputum
-[in work]
 
 #### Summary Yu
-**SARS-CoV-2 viral load in sputum correlates with risk of COVID-19 progression**
+Yu et al. 
+*SARS-CoV-2 viral load in sputum correlates with risk of COVID-19 progression*
+Critical Care (2020) 24:170 https://doi.org/10.1186/s13054-020-02893-8
+
 ##### Methods
 * Total 92 patients
   * 30 were severe at hospitalization. 
@@ -1100,7 +1132,10 @@ Total       |  5    | 1758  | 1763
 ### Time Series of Viral Load in URT Samples
 
 #### Summary Yuwen He
-**Value of Viral Nucleic Acid in Sputum and Feces and Specific IgM/IgG in Serum for the Diagnosis of Coronavirus Disease 2019**
+HeY,LuoJ,YangJ,SongJ,WeiL and Ma W (2020) 
+*Value of Viral Nucleic Acid in Sputum and Feces and Specific IgM/IgG in Serum for the Diagnosis of Coronavirus Disease 2019.* 
+Front. Cell. Infect. Microbiol. 10:445. 
+<https://doi.org/10.3389/fcimb.2020.00445>
 
 ##### Methods
 * Participants: 
@@ -1126,10 +1161,13 @@ Total       |  5    | 1758  | 1763
 [in work]
 **Saliva viral load is a dynamic unifying correlate of COVID-19 severity and mortality**
 ##### Methods
-* Continuation of the saliva analyses done in [Wyllie et al](#summary-wyllie-letter). The time series of viral loads in saliva and NPS specimens are compared to the corresponding pathogeneses.
+Continuation of the saliva analyses done in [Wyllie et al](#summary-wyllie-letter). The time series of viral loads in saliva and NPS specimens are compared to the corresponding pathogeneses. As described in [Wyllie et al](#summary-wyllie-letter), saliva is self collected in the morning right after waking up and before eating.
 ##### Results
 * The faster the saliva viral load decreases the better the prognosis (shown in Figure 2 D).
 * The NPS viral load peaks later than the saliva viral load and is more variable i.e. the decrease is less monotone (Figure 2 J). 
+
+
+
 
 #### Summary To
 **Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study**
