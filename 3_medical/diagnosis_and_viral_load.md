@@ -324,16 +324,18 @@ Often investigations for viral load are biased. Reasons are:
 ## Saliva Diagnosis
 Key features of saliva based Covid diagnosis are:
 
-* Viral Load: 
-  * The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90%. The results vary across studies and the collections methods they use ([Sampling Methods](#viral-load-for-different-saliva-sampling-methods)). 
-  * The optimal [collection time](#saliva-collection-timing) is upon waking up and before eating. In this case the viral load and the detection rate is about 10% higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
-  * The viral load decrease in saliva is a predictor for the pathogenesis [Silva et al](#summary-silva).
-* Handling:
-  * The load of SARS-CoV-2 RNA stays stable and is detectable in saliva after some days ([Matic et al](#summary-matic); [Ott et al](#summary-ott))) with and without virus transport media (about half of the studies use some transport media).
-* Suitability: 
-  * Saliva is simpler than NPS and suitable for self collection.
-  * Pooled analysis [citation in work]. 
-  * Routine screening, possibly pooled (e.g. in hospitality, offices, care homes)
+Viral Load:
+* The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90%. The results vary across studies and the collections methods they use ([Sampling Methods](#viral-load-for-different-saliva-sampling-methods)). 
+* The optimal [collection time](#saliva-collection-timing) is upon waking up and before eating. In this case the viral load and the detection rate is about 10% higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
+* The viral load decrease in saliva is a predictor for the pathogenesis [Silva et al](#summary-silva).
+
+Handling:
+The load of SARS-CoV-2 RNA stays stable and is detectable in saliva after some days ([Matic et al](#summary-matic); [Ott et al](#summary-ott))) with and without virus transport media (about half of the studies use some transport media).
+
+Suitability: 
+* Saliva is simpler than NPS and suitable for self collection.
+* Pooled analysis 
+* Routine screening, possibly pooled (e.g. in hospitality, offices, care homes)
 
 
 ### Literature on Saliva Diagnosis
@@ -436,8 +438,8 @@ Location: Shenzhen, Guangdong, China; Date: written in May, patients likely from
 * "3,552 respiratory specimens from 410 patients were serially collected during hospitalization, including 559 oropharyngeal swabs, 2,231 nasopharyngeal swabs, 696 sputum samples, and 66 BALF samples."
 * "The different types of specimens from laboratory-confirmed COVID-19 cases were stratified into three groups based on the collection times: 0–7, 8–14, and R15 d.a.o."
 
-##### Results
 
+##### Results
 It is observed that NPS have quite a low detection rate (only about 60% for mild cases) and sputum has a high detection rate for both mild and severe cases (about 80%). Detection rates adapted and shortened from Table 1 in the paper:
 
 ###### Positive rate (n/N, %) during day 0 - 7 of illness
@@ -516,28 +518,24 @@ BALF          | 22.5 (21-24) | -
 **Diagnostic tests for SARS-CoV-2: current status and issues**
 Different diagnostic tests for Covid-19 are reviewed and pro & contras discussed:
 
-* ##### Virus culture
-  Not recommended for routine diagnosis since: Requires skilled workers, high biosafety & 3-6 days for SARS-CoV-2 to cause apparent cytopathic effects.
+Virus culture:
+Not recommended for routine diagnosis since: Requires skilled workers, high biosafety & 3-6 days for SARS-CoV-2 to cause apparent cytopathic effects.
 
-* ##### Molecular assays 
-  (sources for each specimen in the paper, the investigation from [Wang et al](#summary-wang) is one of those)
+PCR Tests:
+(sources for each specimen in the paper, the investigation from [Wang et al](#summary-wang) is one of those)
 
-  Specimen              | Sensitivity (%)
-  --|--
-  Nasopharyngeal swab   | 63 – 89
-  Oropharyngeal swab    | 32 – 84
-  Bronchoalveolar lavage| 93
-  Sputum                | 72
-  Blood                 | 3 – 15
-  Feces                 | 10
-  Anal swab             | 10-21.2
+Specimen              | Sensitivity (%)
+--|--
+Nasopharyngeal swab   | 63 – 89
+Oropharyngeal swab    | 32 – 84
+Bronchoalveolar lavage| 93
+Sputum                | 72
+Blood                 | 3 – 15
+Feces                 | 10
+Anal swab             | 10-21.2
 
-* ##### Immunoassays (antigen tests)
-  A challenge is especially specificity since: "Within a genus, antibodies against other coronaviruses might cross-react and such cross-reactive conserved viral proteins limit the use of whole virus–based assays, for example, immunofluorescence assay (IFA) [7]."
-
-* ##### Symptom-based diagnosis
-
-
+Immunoassays (antigen tests):
+A challenge is especially specificity since: "Within a genus, antibodies against other coronaviruses might cross-react and such cross-reactive conserved viral proteins limit the use of whole virus–based assays, for example, immunofluorescence assay (IFA) [7]."
 
 ### Viral Load in Sputum
 
