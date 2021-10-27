@@ -1,6 +1,5 @@
 
 # Airborne Transmission Models
-
 * [Overview Transmission Models](#overview-transmission-models)
   * [Overview Airborne Transmission](#overview-airborne-transmission)
   * [Non Airborne Transmission of Respiratory Tract Pathogens](#non-airborne-transmission-of-respiratory-tract-pathogens)
