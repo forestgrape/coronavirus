@@ -3,7 +3,7 @@ explorative: 5
 work status: 5
 
 
-# Life Forms with a Focus on Viruses
+# Life Forms
 
 > **Major rework in progress, early June 2021**
 
@@ -344,7 +344,7 @@ The coupling strengths vary:
 
 
 #### Organisms
-Many forms of life in the realm of eukaryotes on todays earth e.g. plants, fungi and animals, consists of different looking cells all clones from the same starting cell. These life forms are called organisms:
+Many forms of life in the realm of eukaryotes on todays earth e.g. plants, fungi and animals, consists of different looking cells all clones from the same starting cell.
 
 > ###### Organism
 > Start out as a single cell with replicates. At some point the replicates differentiate into specialized cells having different appearances and tasks. 
@@ -353,7 +353,7 @@ For many questions, organisms are considered as a whole and not the single cells
 
 
 #### Mechanism to Control Interactions
-Most life forms have have some mechanisms to keep their metabolism balance and control their environment interactions.  One part of the balance system is the [immune system](../4_immunological/concepts_of_immunology.md).
+Most life forms have have some mechanisms to keep their metabolism balance and control their environment interactions. One part of the balance system is the [immune system](../4_immunological/concepts_of_immunology.md).
 
 A simple and effective way to control environment interactions, is shielding the metabolism by membranes. The membranes evolved vary in permeability, thickness and rigidity.
 
