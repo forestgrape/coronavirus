@@ -1,11 +1,8 @@
 
 # Spread Analyses regarding Transmission Environments
-From 
+It is shown that severe Covid transmits in dry indoor air by
 * Geographical Spread Analyses across the World. 
 * Observed Spread in different settings. 
-
-it is inferred that severe Covid transmits in dry indoor air.
-  
 
 
 > The individual susceptibility and transmission is analysed on the page [individual spread](./individual_susceptibility_and_transmission.md) (rearrangement in work, 27.9.21).
