@@ -7,7 +7,7 @@
   * [History of Covid-19 Diagnosis](#history-of-covid-19-diagnosis)
   * [Overview Diagnosis Methods](#overview-diagnosis-methods)
   * [Overview Diagnosis Locations](#overview-diagnosis-locations)
-* [Directly Detect Viruses](#directly-detect-viruses)
+* [Methods to directly Detect Viruses](#methods-to-directly-detect-viruses)
   * [Measure Virus Building Blocks](#measure-virus-building-blocks)
   * [Detect Infectious Virions](#detect-infectious-virions)
   * [Detect Metabolism of Viruses](#detect-metabolism-of-viruses)
@@ -15,8 +15,8 @@
   * [Detect Tissue damage](#detect-tissue-damage)
   * [Detect Immune Response](#detect-immune-response)
 * [Introducing Viral Load](#introducing-viral-load)
-  * [Causes for Viral Loads](#causes-for-viral-loads)
-  * [Specimens with Viral Load](#specimens-with-viral-load)
+  * [Locations with Viruses](#locations-with-viruses)
+  * [Specimens with Viruses](#specimens-with-viruses)
   * [Temporal Variation of the Viral Load](#temporal-variation-of-the-viral-load)
 * [Diagnosis at Different Locations with a Focus on Viral Load](#diagnosis-at-different-locations-with-a-focus-on-viral-load)
   * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
@@ -36,14 +36,14 @@
   * [Viral Load in URT and LRT Samples](#viral-load-in-urt-and-lrt-samples)
   * [Viral Load in Sputum](#viral-load-in-sputum)
   * [Viral Load in URT](#viral-load-in-urt)
-  * [References NPA](#references-npa)
+  * [References NPA Respiratory Viruses](#references-npa-respiratory-viruses)
+  * [Viral Load in Saliva compared to NPA/NPS Respiratory Viruses](#viral-load-in-saliva-compared-to-npanps-respiratory-viruses)
   * [Viral Load in Saliva compared to NPS](#viral-load-in-saliva-compared-to-nps)
   * [References RNA Detection Stability](#references-rna-detection-stability)
   * [Time Series of Viral Load in URT Samples](#time-series-of-viral-load-in-urt-samples)
   * [Timing Specimen Collection](#timing-specimen-collection)
   * [Diagnosis in different Situations](#diagnosis-in-different-situations)
 * [Appendix](#appendix)
-  * [Calculation of Viral Load](#calculation-of-viral-load)
   * [Specimen Collection](#specimen-collection)
 
 
@@ -51,18 +51,17 @@
 ## Summary
 Different methods to diagnose a SARS-CoV-2 infection are discussed. A focus is on methods measuring the amount of viruses (viral load) at different locations. For this reason the topics diagnosis and viral load are discussed in the same chapter.
 
+SARS-CoV-2 infects the upper respiratory tract (nose, mouth, throat) and the lower respiratory tract (bronchi, lungs) and the amount of viruses present at the different locations varies accordingly. So the sensitivity (detection rate) is dependent on the sampling location, the sampling method and the infected locations of the patient. 
+
+_Diagnosis Methods:_
 There are different methods to diagnose a coronavirus infection:
-* Detect the viruses directly. The presence of virus building blocks is detected/measured by antigen test or PCR tests ([viral load](#viral-load)).
+* Detect the viruses directly. The presence of virus building blocks is detected/measured by antigen test or PCR tests ([viral load](#viral-load)). Detecting SARS-CoV-2 virus parts is highly specific to diagnose Covid-19. PCR tests quantify number of virus genomes per milliliter of specimen. Antigen tests usually just tell if there are virus proteins present. For both test methods a certain amount viruses needs to present for a positive test result. 
 * Virus infections can cause cell or tissue changes and sometimes damage. Tissue changes in the lungs can be detected by X-ray images. In the upper respiratory tract coronaviruses usually don't cause visible changes.
 * Detect an immune response to SARS-CoV-2. Antibodies is the immune response most easily detectable and most antibodies elicited are specific for SARS-CoV-2. 
 * Detect typical symptoms which may occur as part of a SARS-CoV-2 infection.
 
-_SARS-CoV-2 Viral Load:_
-Detecting SARS-CoV-2 virus parts is highly specific to diagnose Covid-19. PCR tests quantify number of virus genomes per milliliter of specimen. Antigen tests usually just tell if there are virus proteins present. For both test methods a certain amount viruses needs to present for a positive test result. 
 
-SARS-CoV-2 infects the upper respiratory tract (nose, mouth, throat) and the lower respiratory tract (bronchi, lungs) and the amount of viruses present at the different locations varies accordingly. So the sensitivity (detection rate) is dependent on the sampling location, the sampling method and the infected locations of the patient. 
-
-_Common locations and fluids the viral load is measured are:_
+_Diagnosis Locations and Specimen Types:_
 * The standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections and the results can vary from sample to sample and day to day.
 * Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). The viral load, and thus the detection rate, is reduced if the salivary flow is increased (e.g. eating or chewing gums).
 * Morning sputum and nasopharyngeal aspirate have high viral load and good detection rates. 
@@ -113,7 +112,7 @@ A defined in the [Covid-19 chapter](../3_medical/covid19.md) a [disease](../3_me
 * [Directly Detect Viruses](#directly-detect-viruses)
   * [Measure Virus Building Blocks](#measure-virus-building-blocks): The viral RNA is measured by PCR tests and the viral proteins are detected by antigen tests.
   * [Detect Infectious Virions](#detect-infectious-virions): Infecting virions can be measured by tissue or cell cultures tests. However this is tricky since coronavirus can be picky which cells they infect. This may even depend on the originating cell and tissue.
-  * [Detect Metabolism of Viruses](#detect-metabolism-of-viruses):
+  * [Detect Metabolism of Viruses](#detect-metabolism-of-viruses):Detect subgenomic RNAs or proteins not built into virions. // The cell needs to release those which happens when the cell membrane is breached, which can happen on cell death. In the case of orderly cell death RNAs are often degraded. [to confirm and cite]
 * [Methods to Indirectly Detect Viruses](#methods-to-indirectly-detect-viruses)
   * [Detect Tissue damage](#detect-tissue-damage): In the upper respiratory tract, tissue damage is hardly above the (visual) detection level. In the lower respiratory tract there's much more tissue damage and it can be even observed by X-ray or multiple x-ray images to construct a CT image.
   * [Detect Immune Response](#detect-immune-response): The immune system is sensible at detecting strange things going on. Once it detects cells inducing apoptosis and tissue damage, the immune system tries to figure out the causal agents and initiates immune responses. Against coronavirus infection this response includes antibodies which can be detected, however the immune system needs some days to produce antibodies in detectable amounts.
@@ -127,7 +126,7 @@ SARS-CoV-2 infections can diagnosed at the different locations they infect: [Dia
 
 
 
-## Directly Detect Viruses
+## Methods to directly Detect Viruses
 
 ### Measure Virus Building Blocks
 
@@ -140,7 +139,7 @@ Test for specific sequences in the genome of virions (positive single stranded R
 > A *PCR test* is a method to detect specific sequences of RNA or DNA. PCR doubles specific DNA/RNA strands in cycles called CT cycles. The concentration of the DNA/RNA doubles each round, at some point it gets high enough to be detected by some helper method e.g. by optical fluorescence. The doubling cycles needed are called CT values.
 
 ##### From CT-value to Concentration
-As described the PCR method approximately doubles the viral_load each cycle until detectable by the helper method. To calculate to original viral load, one needs to undo the doubling-cycles. Thus a difference of 10 CT-cycles corresponds to an amplification of 2^10=1024: If 10 additional CT cycles are needed the starting viral load was 1024 times smaller ([Calculation](#calculation-of-viral-load-from-ct_value) in the Appendix).
+The PCR method approximately doubles pieces of viral RNA present in cycles, until detectable by the helper method. To calculate to original viral load, one needs to undo the doubling-cycles. Thus a difference of 10 CT-cycles roughly corresponds to an amplification of 2^10=1024. Thus 10 additional CT cycles are needed, when the starting viral load was 1024 times smaller ([Calculation](./pcr_diagnosis.md#calculation-of-viral-load-from-ct_value) in the [PCR chapter](./pcr_diagnosis.md)).
 
 ##### PCR Detection Limit
 In theory a single sequence of RNA/DNA can be amplified. Practically PCR apparatuses have a detection limit. Often this is in the order of a few thousand copies per milliliter. This corresponds to a maximal PCR cycle number (often 40). 
@@ -158,11 +157,17 @@ Methods detecting proteins of virions are usually called antigen tests (virus pr
 ### Detect Infectious Virions
 [in work: to be checked and incomplete]
 Samples, which possibly contain virions, can be put on cell or organ cultures. These cell or organ cultures then can be inspected e.g. by cell damage (cytophatic effects), by detecting tissue change/damage or detecting RNA to see whether and how much the viral load increased. Virus and especially coronavirus culturing is tricky and often requires strict lab security measures, therefore for routine diagnosis virus culturing is not suitable. However virus culturing is very useful for research purposes: e.g. to detect whether and how long infected individuals shed infectious virions. 
-##### Cell Cultures
 
+
+##### Cell Cultures
+Cell cultures are cells of an organism which are grown and kept alive in laboratory settings. Usually a single cell type is used and mostly the cells are immortal cell line.
+
+<!--
 ##### Organ Cultures
+-->
+
 ##### Plague Assays
-The samples can be diluted to the point, new virus colonies originating from a single virion can be distinguished on cell or organ cultures (practically always used with cell cultures). The number of virions in the dilution is then equal to the number of colonies.
+Plague assays is a method to determine to amount of infectious virions. The samples can be diluted to the point, new virus colonies originating from a single virion can be distinguished on cell or organ cultures (practically always used with cell cultures). The number of virions in the dilution is then equal to the number of colonies.
 
 
 ### Detect Metabolism of Viruses
@@ -191,24 +196,25 @@ For infections triggering certain alarms, the immune response involves antibodie
 
 
 ## Introducing Viral Load 
-[**in work and unfinished**]
 
 > ##### Viral Load
-> The *viral load* denotes how many virions are present in specimen of tissue or body fluid.
+> The *viral load* denotes how many viruses are present in specimen of tissue or body fluid.
+
+The viral load is measured by the [methods to directly detect viruses](#methods-to-directly-detect-viruses). Mostly PCR is used.
 
 #### Relevance of Viral Load
 Knowing the viral load observed in different fluids and tissues is relevant for:
-* __Diagnosis__: For an optimal diagnosis location, the viral load is detectable across the different disease patterns caused by SARS-CoV-2 and taking specimens is easy.
-* __Transmission__: Knowing the viral load in different locations helps to understand and prevent transmissions of SARS-CoV-2 virions.
-* __Understanding Covid-19__: Knowing at which stages which locations are infected helps to predict the disease. Which is important to predict possible damage and to do the right treatment.
+* __Diagnosis__: The temporal development and the locations with viral load help to predict the prognosis and to initiate optimal treatments.
+* __Transmission__: Knowing the viral load in different locations helps to understand and prevent transmissions of SARS-CoV-2 virions. In theory a viral load 1000 times higher can increase transmission a 1000 fold.
+* __Understanding Covid-19__: Knowing at which stages which locations are infected helps to understand the pathogenesis.
 
-### Causes for Viral Loads
+### Locations with Viruses
 A viral load can be observed at a specific location for the following reasons:
-* __Primary infection locations__: the viruses replicate to high numbers and spread to other locations inside the organism and other organisms. Mainly the lungs, to a lesser extent the mouth e.g. salivary glands.
+* __Primary infection locations__: the viruses replicate to high numbers and spread to other locations inside the organism and other organisms. Mainly the conducting airways and in severe cases also the alveoli in the lungs. The relevance of oral infections (e.g. salivary glands) is unclear.
 * __Minor infection locations__: Deposited virions can infect local cells and thus the viral load is amplified. However these locations play only a minor role in the disease and transmission of the viruses. In the nose and the mouth are susceptible cells amplifying the viral load.
 * __Deposit only locations__: Virions are deposited but do *not* replicate: They are either inactivated or there are no susceptible cells. E.g. fluids from the respiratory tract are cleared towards the stomach where the virions are destroyed by the stomach acid. Therefore in the stomach, respiratory parasites can be detected but usually they do not infect the stomach. Often the viral load in deposit only location is not detectable.
 
-### Specimens with Viral Load
+### Specimens with Viruses
 Since coronaviruses including SARS-CoV-2 mostly release their virions on the apical side, the virions end up on the apical surfaces. The apical surfaces can be either sampled directly with swabs or aspirates of washing or covering fluids can be taken ([Specimen Collection](#specimen-collection).
 * __Viral Load on Tissue Surfaces:__ Coronaviruses usually release their virions on the apical side of cells in epithelium tissues ([ Cell Orientation](../2_biological/coronavirus.md#apical-side-tropism)). If the tissue surfaces are not naturally covered by collectable fluids, the surfaces can be washed with an appropriate fluid and collected by aspiration.
 * __Viral Load in Body Fluids__
@@ -233,6 +239,8 @@ The saliva is secreted from different glands in the mouth. How much each of thes
 
 
 ## Diagnosis at Different Locations with a Focus on Viral Load
+SARS-CoV-2 can infect different compartments in the respiratory tract. Depending on the infection pathway and the individual susceptibility at the different locations, the infection severity varies for the different locations vary: E.g. for children usually the upper respiratory tract or the conducting airways are infected while for adults infections of all compartments in the respiratory tract are possible. 
+
 * *Upper Respiratory Tract:* For accessibility reasons investigating the upper respiratory is preferred. The viruses cause few (detectable) tissue damage. Sensitive virus detection methods such as PCR test/Antigen tests are able to detect viruses in the URT e.g. in nose mucus or saliva.
 * *Lower Respiratory Tract:* The largest number of susceptible cells to SARS-CoV-2 are in the lower respiratory tract. 
   * Tissue damage can be observed there by imaging (CT/Xray).
@@ -429,10 +437,10 @@ As usually for summarized references:
 **Laboratory Diagnosis and Monitoring the Viral Shedding of SARS-CoV-2 Infection**
 <https://doi.org/10.1016/j.xinn.2020.100061>
 
-> An early version of this article with fewer patients has the title "Evaluating the accuracy of different respiratory specimens in the
-laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections" by Yang Yang et al and published at <https://doi.org/10.1101/2020.02.11.20021493>
+> An early version of this article with fewer patients has the title "Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections" by Yang Yang et al and published at <https://doi.org/10.1101/2020.02.11.20021493>
 
 Location: Shenzhen, Guangdong, China; Date: written in May, patients likely from January to March
+
 ##### Methods
 * Participants: "Four hundred and ten patients with confirmed COVID-19 from the Guangdong CDC (Center for Disease Control and Prevention), who were hospitalized in Shenzhen Third People’s Hospital, were included."
 * "3,552 respiratory specimens from 410 patients were serially collected during hospitalization, including 559 oropharyngeal swabs, 2,231 nasopharyngeal swabs, 696 sputum samples, and 66 BALF samples."
@@ -470,11 +478,16 @@ sputum        | 26 (19-32)   | 28 (18-38)
 BALF          | 22.5 (21-24) | -
 
 
-* Table 1 
-* Figure 2 shows time series of viral loads for a series 21 individuals (18 severe and 3 mild patients). The detection rates vary for different time points, for different patients and for different locations:
-  * While *no* viral RNA was detected in the upper respiratory tract, at the *same* time it was positive in BALF for the cases 01, 03, 07, 11, 12, 13, and 16 (Figure 2).  
-  * "Viral RNA was tested negative in the first three or all of the upper respiratory samples. However, viral RNA was detected either by the further detection of upper respiratory samples (cases 21–28) or BALF samples (cases 02, 04, 06, and 07) (Figures 2 and S1)."
-* Figure 3 shows CT Scans of the mentioned 11 cases (02, 04, 06, 07 and 21-28) tested negative at least 3 time in the upper respiratory tract. The CT  show typical ground-glass opacity in the lungs, suggesting a viral pneumonia.
+###### Yang Figure 1
+It is visible that the average viral load and the detection rate correlate: BAL>Sputum>NPS~OPS and severe cases have a slightly higher viral load especially in sputum.
+
+###### Yang Figure 2
+Figure 2 shows time series of viral loads for a series 21 individuals (18 severe and 3 mild patients). The detection rates vary for different time points, for different patients and for different locations:
+* While *no* viral RNA was detected in the upper respiratory tract, at the *same* time it was positive in BALF for the cases 01, 03, 07, 11, 12, 13, and 16.  
+* "Viral RNA was tested negative in the first three or all of the upper respiratory samples. However, viral RNA was detected either by the further detection of upper respiratory samples (cases 21–28) or BALF samples (cases 02, 04, 06, and 07) (Figures 2 and S1)."
+
+###### Yang Figure 3
+Figure 3 shows CT Scans of the mentioned 11 cases (02, 04, 06, 07 and 21-28) tested negative at least 3 time in the upper respiratory tract. The CT  show typical ground-glass opacity in the lungs, suggesting a viral pneumonia. //not displayed here.
 
 
 
@@ -492,7 +505,7 @@ BALF          | 22.5 (21-24) | -
 * "We collected serial upper respiratory tract samples (1 nasopharyngeal swab and 1 throat swab put in a single collection tube with 1 mL of transport medium) for real-time PCR of SARS-CoV-2 RNA for all patients."
 * " Severe/critical patients were defined as those requiring invasive mechanical ventilation or high-flow nasal oxygen and mild as those not requiring supplementary oxygen or hospitalization."
 * "Viral load, expressed as log10 of viral RNA per swab, was calculated as (47 – observed cycle threshold value) / 3.4. This formula applies the average of the parameters (slope and constant) that we observe when we quantify viruses in serum using quantitative PCR with serial dilution of quantification standards (plasmid carrying target sequence) and presumes a 10-μL sample volume in the reaction and a 97% efficiency in the PCR."
-  > -> [Calculation of Viral Load](#calculation-of-viral-load); 3.4 is about log2(10) = 3.322 and transforms from log2 to log10
+  > -> [Calculation of Viral Load](#calculation-of-viral-load); 1/3.4 transforms from a approximate log2 scale to a log10 scale since log2(10) = 3.322 ~ 3.4
 
 ##### Results
 * "The highest viral loads were observed early after onset of symptoms in both groups of participants (Figure 1A and 1B). At 7 days, mean viral load among virus-positive patients was 5.8 log10 copies/swab for those with mild disease (n = 37) and 5.5 log10 copies/swab for those with severe/critical disease (n = 12) (P = .53). At 14 days, mean viral load was 4.4 log10 copies/swab for those with mild disease (n = 38) and 4.2 log10 copies/swab for those with severe/critical disease (n = 14) (P = .56)."
@@ -524,7 +537,7 @@ Not recommended for routine diagnosis since: Requires skilled workers, high bios
 PCR Tests:
 (sources for each specimen in the paper, the investigation from [Wang et al](#summary-wang) is one of those)
 
-Specimen              | Sensitivity (%)
+Specimen              | % positive
 --|--
 Nasopharyngeal swab   | 63 – 89
 Oropharyngeal swab    | 32 – 84
@@ -536,6 +549,16 @@ Anal swab             | 10-21.2
 
 Immunoassays (antigen tests):
 A challenge is especially specificity since: "Within a genus, antibodies against other coronaviruses might cross-react and such cross-reactive conserved viral proteins limit the use of whole virus–based assays, for example, immunofluorescence assay (IFA) [7]."
+
+#### Mohammadi
+Abbas Mohammadi, Elmira Esmaeilzadeh, Yijia Li, Ronald J. Bosch, Jonathan Z. Li,
+SARS-CoV-2 detection in different respiratory sites: A systematic review and meta-analysis,
+EBioMedicine,Volume 59,2020,102903,ISSN 2352-3964,https://doi.org/10.1016/j.ebiom.2020.102903.
+
+The find that the sensitivity of all methods is highest in the early course of the disease:
+![sensitivity of methods during Covid](Images/mohammadi_pic2.jpg)
+
+> The higher detection rate soon after symptom onset is likely due to higher viral loads.
 
 ### Viral Load in Sputum
 
@@ -552,6 +575,22 @@ Critical Care (2020) 24:170 https://doi.org/10.1186/s13054-020-02893-8
 ##### Results
 "We found that the viral load of the sputum specimen in the lower respiratory tract tested at baseline is closely related to the severity of COVID-19. More importantly, patients with a higher baseline viral load are more likely to become severe." //shown in Figure 1 of the paper. 
 
+
+#### Lin 
+Lin, C., Xiang, J., Yan, M., Li, H., Huang, S., & Shen, C. (2020). *Comparison of throat swabs and sputum specimens for viral nucleic acid detection in 52 cases of novel coronavirus (SARS-Cov-2)-infected pneumonia (COVID-19).* Clinical chemistry and laboratory medicine, 58(7), 1089–1094. <https://doi.org/10.1515/cclm-2020-0187>
+
+#### Summary Lai
+Lai, C., Chen, Z., Lui, G., Ling, L., Li, T., Wong, M., Ng, R., Tso, E., Ho, T., Fung, K., Ng, S. T., Wong, B., Boon, S. S., Hui, D., & Chan, P. (2020). 
+*Prospective Study Comparing Deep Throat Saliva With Other Respiratory Tract Specimens in the Diagnosis of Novel Coronavirus Disease 2019.* 
+The Journal of infectious diseases, 222(10), 1612–1619. <https://doi.org/10.1093/infdis/jiaa487>
+
+##### Findings
+Most findings agree with those of [Yang et al](#summary-yang):
+* Sputum has a very high detection rate and higher than NPS or DTS.
+* The detection rate is highest in the early days. //astonishingly the viral load from day 6 to 10, but possibly there was a bias to sample severe cases multiple times.
+* For mild cases the viral load from sputum and NPS is similar, where as for severe cases the viral load is much higher in sputum (Figure 2). //as observed by Yang et al in [Figure 1](#yang-figure-1). //The observation is more pronounced than in Yang et al.
+
+However unlike in [Yang et al](#summary-yang) and many other investigations (e.g. review [Mohammadi et al](#mohammadi) the viral load increases in the first days.
 
 ### Viral Load in URT
 
@@ -577,7 +616,7 @@ x/T = specimen x pooled with throat swab
 ##### Results
 
 ###### Paired NPsp Saliva
-Out of all specimens analyzed 229 were NPsp - Saliva pairs (Abbreviations above).
+Out of all specimens analyzed 229 were nose sample - saliva pairs (specifically: 4 POPS - NPA, 161 POPS - NPS, 49 POPS - NPA/T, 15 POPS - NPS/T):
   
 Saliva\Swab   | NPsp + | NPsp -| Total
 --|--|--|--
@@ -585,13 +624,7 @@ Saliva +      |  104 |    37  | 141
 Saliva -      |   18 |    70  |  88
 Total         |  122 |   107  | 229 
 
-(pairs as follows:
-* 4 POPS - NPA
-* 161 POPS - NPS
-* 49 POPS - NPA/T
-* 15 POPS - NPS/T
 
-)
 
 ###### All Specimens
 * "A total of 13772 POPS and respiratory specimens from 8596 patients were received for SARS-CoV-2 RNA detection between 1 February 2020 and 15 April 2020, of which 12700 were performed for diagnostic purpose, with an overall positive rate of 1.55%. In particular, the positive rate of specimens sent from “Tier 1” patients and testing centers for symptomatic returned travelers were 8.34% and 6.18%, respectively. " //Tier 1 = Symptomatic patients with epidemiological risk factors.
@@ -680,7 +713,7 @@ Selected aggregated results, the complete list is found in Figure 2 in the paper
 * Symptomatic Patients have a score of 88 in saliva and 96 in NPS
 
 
-### References NPA
+### References NPA Respiratory Viruses
 [in work]
 #### Summary Sung
 **Comparative Study of Nasopharyngeal Aspirate and Nasal Swab Specimens for Diagnosis of Acute Viral Respiratory Infection**
@@ -695,6 +728,16 @@ Selected aggregated results, the complete list is found in Figure 2 in the paper
 "Paired nasopharyngeal aspirate (NPA) and nasopharyngeal swab (NPS) specimens obtained from each of 32 hospitalized infants with X-ray-confirmed  pneumonia (91%) or bronchiolitis were tested for respiratory syncytial virus (RSV) infection by virus culture, the indirect immunofluorescent-antibody (IFA) technique, enzyme-linked immunosorbent assay ..."
 ##### Results 
 "RSV was isolated in cell cultures from 72% (23of32) of patients by using NPA specimens compared with 47% (15of32)by using NPS specimens."
+
+
+### Viral Load in Saliva compared to NPA/NPS Respiratory Viruses
+##### KW To
+Kelvin KW To, Lu Lu, Cyril CY Yip, Rosana WS Poon, Ami MY Fung, Andrew Cheng, Daniel HK Lui, Deborah TY Ho, Ivan FN Hung, Kwok-Hung Chan & Kwok-Yung Yuen (2017) Additional molecular testing of saliva specimens improves the detection of respiratory viruses, Emerging Microbes & Infections, 6:1, 1-7, DOI: 10.1038/emi.2017.35
+
+##### Hammitt
+Added Value of an Oropharyngeal Swab in Detection of
+Viruses in Children Hospitalized with
+Lower Respiratory Tract Infection
 
 ### Viral Load in Saliva compared to NPS
 
@@ -1303,23 +1346,6 @@ M. J. Mina and K. G. Andersen, Science 10.1126/science.abe9187 (2020).
 
 
 ## Appendix
-
-### Calculation of Viral Load
-The viral load measurements often work as follows: specific sequences are doubled in cycles until the concentration is high enough that they can be detected by optical methods. When there are already many sequences to start with, one needs fewer doubling cycles (Ct cycles) until detection. Thus few cycles correspond to a high number of sequences in the sample to test (= a high viral load in the sample).
-
-The corresponding calculations go as follows: The viral load is doubled in cycles until detectable: `2^number_of_cycles * viral_load = d_c_h` where `d_c_h = detection_limit_for_helper_method` (the helper method detects when a certain concentration of DNA or RNA is reached, often optical fluorescence is used). Rearranged:
-`viral_load = d_c_h / 2^number_of_cycles` 
-
-The minimal viral load detectable:
-`viral_load_detection_limit * 2^max_number_of_cycles = helper_method_detection_limit`
-
-Often the viral load is given as logarithm:
-`log2(viral_load) = log2(d_c_h) - number_of_cycles`
-The viral load as logarithm to base 10:
-`log10(viral_load) =log2(viral_load)/log2(10) = (log2(d_c_h) - number_of_cycles)/3.32`
-
-An example formula for their apparatus is in [Yilmaz et al](#summary-yilmaz).
-
 
 
 ### Specimen Collection
