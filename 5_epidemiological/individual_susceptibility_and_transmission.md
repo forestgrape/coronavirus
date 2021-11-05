@@ -1,11 +1,11 @@
-# Individual Susceptibility and Transmission
+# Individual Variations in Susceptibility and Spread
+
+The susceptibility to the different kinds of SARS-CoV-2 infections and the individual determinants of transmission are analysed.
 
 
 * [Summary](#summary)
 * [Relevance](#relevance)
-* [Introduction and how to diagnose SARS-CoV-2 Infections](#introduction-and-how-to-diagnose-sars-cov-2-infections)
-  * [Biological Background](#biological-background)
-  * [Viral Load](#viral-load)
+* [Medical Background](#medical-background)
   * [Symptom Status](#symptom-status)
   * [Correlation of Viral Load and Symptoms](#correlation-of-viral-load-and-symptoms)
 * [Infector Distribution](#infector-distribution)
@@ -15,10 +15,11 @@
 * [Transmission by Age](#transmission-by-age)
   * [Transmissions in Schools](#transmissions-in-schools)
   * [Transmissions in Universities and Student Residences](#transmissions-in-universities-and-student-residences)
-* [Susceptibility through Dirty Air Exposure](#susceptibility-through-dirty-air-exposure)
+* [Susceptibility by Dirty Air Exposure](#susceptibility-by-dirty-air-exposure)
   * [Air Pollution](#air-pollution)
   * [Smoking](#smoking)
-* [Susceptibility through High BMI](#susceptibility-through-high-bmi)
+* [Susceptibility by Movement](#susceptibility-by-movement)
+* [Susceptibility by BMI](#susceptibility-by-bmi)
   * [Geographical Observations of High Overweight Prevalence](#geographical-observations-of-high-overweight-prevalence)
 * [Overview of Data Sets](#overview-of-data-sets)
   * [Population Infection Overviews](#population-infection-overviews)
@@ -28,11 +29,12 @@
   * [References OUCS](#references-oucs)
   * [References SIREN](#references-siren)
   * [References Household Transmissions](#references-household-transmissions)
+  * [References Household Transmission with Endemic CoVs](#references-household-transmission-with-endemic-covs)
   * [References of Household Transmissions with HOSTED](#references-of-household-transmissions-with-hosted)
   * [References ONS-CIS](#references-ons-cis)
   * [References Contact Tracing](#references-contact-tracing)
   * [References Spread from Sequences](#references-spread-from-sequences)
-  * [References General Transmissions](#references-general-transmissions)
+  * [References Transmission Heterogeneity](#references-transmission-heterogeneity)
   * [References Acquired Immunity Status](#references-acquired-immunity-status)
 * [References other Viruses](#references-other-viruses)
   * [References Smallpox](#references-smallpox)
@@ -40,25 +42,35 @@
   * [References Spread and Air Pollution](#references-spread-and-air-pollution)
   * [Transmission Respiratory Viruses](#transmission-respiratory-viruses)
 * [Appendix](#appendix)
-  * [Restrictions on Increased Spread](#restrictions-on-increased-spread)
+  * [Considerations on Increased R Value](#considerations-on-increased-r-value)
 
 ## Summary
-* [Transmission Distribution](#transmission-distribution): The spread varies across people: Most studies conclude that 20% are responsible at least 80% of the infections.
-* [Transmission by Symptom Status](#spread-by-symptom-status): Symptomatic individuals are several times more infectious.
+How much individuals contribute to the spread of SARS-CoV-2 is highly variable. Most observations conclude that only 20% of the infectees are responsible for at least 80% of the infections ([Transmission Distribution](#transmission-distribution)), while most infectees don't transmit SARS-CoV-2 infections. The individual transmission is associated to both biological and social factors. Social factors include the living situation and the behavior. Biological factors  influencing susceptibility and infectiousness are discussed in the following. 
 
-Immune status:
-* Young people are less susceptible and less infectious ([Transmission by Age Groups](#transmission-by-age)). The immune system of children can control SARS-CoV-2 infections well since their immune system is built to handle unseen viruses ([Immune System throughout Life](./../4_immunological/ontogenesis_and_locality_of_immunity.md)). Accordingly few spread is observed [between children and in schools](#schools-and-children).
+Most epidemiological analyses infections with the observables viral load in the upper respiratory tract and symptoms. Like infections with the other human coronaviruses, SARS-CoV-2 infections are not per se pathogenic just if SARS-2 replicates to too high numbers at the wrong locations. Even though SARS-2 infections are compartmentalized, measuring the viral load in the upper respiratory tract has predictive value for the lower respiratory tract. High viral load in the upper respiratory tract usually are associated to symptoms. In agreement with the viral load symptom correlation, symptomatic persons ([Transmission by Symptom Status](#spread-by-symptom-status)) transmit Covid more.
 
-* Previous infections provide a reliable and long lasting protection against hospitalization. The chance to test positive is reduced by about 80% and there is not much evidence of waning immunity by new variants. The chance to have a high viral load (Ct value <30) and symptoms is reduced by more than 90% [to confirm].
+People with an adequate and in form immune system in the respiratory tract can handle and control the replication of SARS-CoV-2. The infections are controlled early and if at all only mild symptoms are associated. The controlled viral replication induces a low viral load and accordingly the chance to detect it and infectiousness.
 
-* The muscular administrated mRNA and adenovirus vectored vaccines provide a good systemic immunity and accordingly a good protection (mostly above 80 % for at least half a year) against hospitalization. The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is mostly lost about 6 months after vaccination against the delta variant is prevalent. The ChAdOx1 initially starts with a lower protection compared to BNT162b2 (around 50%) but decrease slower and after a few months the protections in the upper respiratory tract seem similar (at least against high viral loads). The protection from mRNA-1273 seems higher than BNT162b2/ChAd0x1 [in work]. It is unclear whether the vaccines have an effect on transmission once infected, there is some evidence that for some people vaccines increase the transmission risk while short term they may decrease it for others.
+On the other hand, populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement the immune system in the respiratory tract is often not adequate to fight a new virus:
+* [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades have more cases and have higher death rates.
+* [Overweight](#overweight): Regions where overweight have more cases and higher fatality rates.
 
-  > Overall there's does not seem to be much benefit to vaccinate people not at risk for severe Covid.
+A major determinant how the body can handle new viruses is age. Young people are less susceptible and less infectious ([Transmission by Age Groups](#transmission-by-age)). This is especially true for children: Few spread is observed between children and in schools. In schools if there were many infected this is mostly due to super spreading teachers and not children infecting each other ([Schools and Children](#schools-and-children)). The immune system of young people is built to handle unseen viruses ([Immune System throughout Life](../4_immunological/ontogenesis_and_locality_of_immunity.md)). For children SARS-2 is no more or even less dangerous than other respiratory viruses, it is just another new coronavirus.
+The risk for uncontrolled viral replication increases with age: With increasing age, the immune system relies more and more on experience i.e. the innate immune mechanisms are reduced and the trained immunity takes over.
+
+From a microorganisms exposure the immune system is nearly always able to learn and to handle feature exposures. For SARS-CoV-2 the immune system
+* Previous infections provide a reliable and long lasting protection: 
+  * The protection against hospitalization is above 95%. 
+  * The chance to test positive is reduced by about 80% and there is not much evidence of waning immunity by new variants. The chance to have a high viral load (Ct value <30) and symptoms is reduced by more than 90% [to confirm].
+
+* The muscular administrated mRNA and adenovirus vectored vaccines provide a good systemic immunity. However already a few months after vaccination the chances the get infected and the viral loads in the upper respiratory tract are similar.
+  * *Protection against pneumonia and hospitalization:* Accordingly to the systemic immunity provided, a good protection against hospitalization (mostly above 80 % for at least half a year). 
+  * *Protection against infection:* The vaccines reduce the chance to test positive for a few months and during this time also give some protection against high viral loads but afterwards the protection vanishes: The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is lost about 6 months after vaccination against the delta variant. The ChAdOx1 initially starts with a lower protection compared to BNT162b2 (around 50%) but decrease slower and after a few months the protections in the upper respiratory tract seem similar (at least against high viral loads). The protection from mRNA-1273 is somewhat higher than BNT162b2/ChAd0x1. 
+  * It is unclear whether the vaccines have an effect on transmission once infected, even in the early phase when the viral load is reduced. After a few months when the infections risk and the viral load in the upper respiratory tract are the same as for unvaccinated people, a protection against transmission is unlikely.
+
+  > The widespread assumption that vaccinated people transmit Covid less *lacks* a scientific basis. To my judgement, there is neither an epidemiological nor a medical benefit/basis to (motivate to) vaccinate people not at risk for severe Covid.
 
 
-Health and lifestyle related factors:
-* [Dirty air exposure](#susceptibility-through-dirty-air-exposure) seems to increase the risk for severe Covid. 
-* [High BMI](#high-bmi) increases the susceptibility especially for severe Covid.
 
 
 
@@ -67,30 +79,19 @@ Knowing how transmissions are distributed, helps to set and fine-tune control me
 * Measures can few for those contributing few to the spread: children are not the carriers of the Covid spread and thus measures should not target them. 
 * People with higher R values can be offered control options: E.g. free test access, suitable masks (e.g. custom fit FFP2 including advice) and better education how to handle covid. 
 
-> In my opinion, the actions for people with higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects. Further discussed in [Restrictions on Increased Spread](#restrictions-on-increased-spread)
+> In my opinion, the actions for people with higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects. Further discussed in [considerations on increased R value](#considerations-on-increased-r-value).
 
 
+ 
 
-## Introduction and how to diagnose SARS-CoV-2 Infections
+## Medical Background
+SARS-2 infections can be diagnosed by different methods, some are sensitive some less and some methods such as symptom detection only work when there is also a disease. To analyze susceptibility and transmissions, one needs to specify which the SARS-CoV-2 infections to count and how to diagnose them.
 
-To analyze susceptibility and transmission, one needs to specify how to measure SARS-CoV-2 infections. SARS-2 infections can be diagnosed by different methods, some are sensitive some less and some methods such as symptom detection only work when there is also a disease. 
+If SARS-2 viruses are causing uneasiness, one has the disease Covid-19. 
 
-### Biological Background
-Coronaviruses infects preferably differentiated airway epithelial cells and often cause few cell damage in these cells. As long as the viruses are well kept in check and remain few, coronaviruses can be considered as part of human virome in healthy state. When the virions replicate to higher numbers symptoms and thus the disease Covid-19 can be caused. High viral loads in the lungs cause pneunomia and possibly ARDS.  
-* 'Few' for coronaviruses usually means less than 1000 virions per milliliter of airway fluid. This viral load is mostly not detected. Whether healthy people can be persistently infected with such low viral loads is possible but mostly not investigated.
-* 'Intermediate' number of coronaviruses range from about 1000 to a million virions per milliliter airway fluid. This viral loads usually don't cause symptoms but can be detected with PCR tests needing usually 30 to 40 cycles. Immunocompromised persons sometimes can be persistently infected with such intermediate viral loads. There is also evidence that the currently prevalent muscular administrated vaccines (especially mRNA vaccines) sometimes yield incomplete and inadequate immune responses which enables persistent infection with intermediate viral titre [to confirm and cite].
-* When the virions replicate to high numbers such that in the upper respiratory tract often a viral load of about million virions per milli liter which corresponds to a Ct value of about 30. 
+ Accordingly a very high number of viruses is associated to the probability to be symptomatic. Too many viruses in the lungs can cause severe or even deadly disease. The number of exhaled viruses is a major determinant for transmission - though the viral load can be measured by different methods and at different location e.g. the NPS viral load is no direct correlate of infectiousness. 
 
-### Viral Load
-How much infected somebody is can be measured by the viral load and it also indicates infectivity.
-
-#### Measuring the Viral Load
-The viruses can infected multiple location throughout the respiratory tract and thus the viral load depends on the location measured ([Chapter Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
-
-> The viral load is often given is [cycle thresholds](../3_medical/diagnosis_and_viral_load.md#calculation-of-viral-load) (Ct) values, low Ct values correspond to a high viral load: For SARS-CoV-2, a Ct values of 10 corresponds to a very high viral load and a Ct value of 40 is a very low viral load and usually the detection limit of PCR apparatuses.
-
-#### Viral Load and Infectivity
-How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. Often the viral load is measured in the nose and the viral load there does not need to correlate with the amount of exhaled infectious aerosol for respiratory tract infections (discussed in the [transmission chapter](transmission.md); specifically shown for influenza by [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018)). Correctly sampled saliva or sputum predict the disease progression, which likely corresponds to the viral load in the lower airways, better than nose samples (chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
+How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. 
 
 
 
@@ -191,10 +192,10 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 
 ### Transmissions in Universities and Student Residences
 [in work]
- 
+No increased transmission rates seem to occur [citations coming].
 
 
-## Susceptibility through Dirty Air Exposure
+## Susceptibility by Dirty Air Exposure
 *In short:* Dirty Air Exposure is associated to a high Prevalence of Severe Covid.
 
 ### Air Pollution
@@ -209,7 +210,13 @@ _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for sev
 
 > 12.6.21: It's not about smoke-free - Everyone should judge the risks to take in life on his own. Add restrictions for addictives, I consider as adequate however.
 
-## Susceptibility through High BMI
+
+## Susceptibility by Movement
+People with regular movement are less susceptible for symptomatic and severe disease as outlined in the chapter [Movement](../6_prevention_and_treatment/movement.md). 
+
+
+
+## Susceptibility by BMI
 ### Geographical Observations of High Overweight Prevalence
 *High Overweight Prevalence is associated to High Covid Prevalence and Death Rates*
 
@@ -481,6 +488,20 @@ Comparison with SARS-1 or MERS:
 * MERS: 0.035 (0.035)
 
 
+#### van der Hoek
+*De rol van kinderen in de transmissie van SARS-CoV-2*
+
+
+### References Household Transmission with Endemic CoVs
+#### Monto
+Coronavirus Occurrence and Transmission Over 8 Years in the HIVE Cohort of Households in Michigan
+
+##### Methods
+Around a 1000 individuals in Michigan were contacted weekly to report acute respiratory illnesses (two or more symptoms like cough, fever or feverishness, nasal congestion, chills, headache, body aches, and sore throat). Upon illness, nasal and throat swabs were taken and tested human coronaviruses (HCoV) types OC43, 229E, HKU1, and NL63. The participant were interviewed for the illness.
+##### Results
+* CoV were the causes of ARIs in about 10 to 15%.
+* The secondary attack rate is about 10%.
+* The incubation period is about 3 days.
 
 ### References of Household Transmissions with HOSTED
 
@@ -651,13 +672,12 @@ Using an algorithm based both on contacts patterns between people and sequencing
 <!-- todo include pic -->
 
 
-### References General Transmissions
 
-#### van der Hoek
-*De rol van kinderen in de transmissie van SARS-CoV-2*
-
-
-
+### References Transmission Heterogeneity
+#### Goyal
+Viral load and contact heterogeneity predict SARS-CoV-2 transmission and
+super-spreading events
+ 
 
 ### References Acquired Immunity Status
 
@@ -922,17 +942,28 @@ Parainfluenza | 3.1 (2‐4.6)| 3.6 (2.1‐6.4) | 1.2 (0.6‐2.3)
 
 ## Appendix
 
-### Restrictions on Increased Spread
-> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume that currently available 'mRNA' and 'Adeno-virus-with-spike' vaccines are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated.
+### Considerations on Increased R Value
+In my opinion, measures should not be based on individual R values target individuals but target risky situations. Risky is mainly dry indoor air (chapter [Spread analysis](./spread_analyses.md)). Dry indoor air can be cleaned or humidified if necessary ([Good air certificate](../7_social/good_air.md)).
 
-> It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated.
-> Another scientific question is, whether and which vaccines are safe. 
+> I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume that currently available intramuscular vaccines (e.g. 'mRNA' and 'Adeno-virus-with-spike' vaccines) are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated.
 
-> Relevant moral questions are (some go fare beyond the above considerations):
-> * Whether there should be restrictions for those being more likely infectious.
-> * The relations between opening the windows  / keeping distance / wearing a mask / living healthily or unhealthily / getting vaccinated / removable chip implant / being young or old.
-> * Who can say or has the right to say  something is safe, good or useful for somebody.
-> * How and by who, how fast and which risks are estimated and weighted.
-> * On different beliefs and world views.
+
+#### Science Considerations
+It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated. Another scientific question is, whether and which vaccines are safe. 
+
+
+#### Moral Considerations
+Relevant moral questions are:
+* Whether there should be restrictions for those being more likely infectious.
+* The relations between opening the windows / keeping distance / wearing a mask / living healthily or unhealthily / removable chip implant / getting vaccinated / being young or old. 
+* Who can say or has the right to say  something is safe, good or useful for somebody.
+* How and by who, how fast and which risks are estimated and weighted.
+* On different beliefs and world views.
 
 > This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I think such comparisons fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences limited: Most diseases were not linked to pathogens and accordingly the transmission paths were often completely unknown. With todays knowledged many measures taking back then were not adequate or even harmful. Situations around the fascist regimes in Europe in the 30s and 40s were also fundamentally different.
+
+
+#### Social Considerations
+> To restrict people in basic human rights in my opinion both a very solid scientific foundation is needed and an acute danger for public health. // Models predicting many cases in a few weeks or months times is *not* an acute danger. Many modelling approaches published turned out to be wrong many times.
+
+> To my judgement there is no scientific foundation to differentiate between vaccinated and unvaccinated persons especially if not at risk for severe Covid: the science published indicates that the vaccines don't provide any protection against transmission for more than a few months. Thus the current restrictions of people opting out of vaccinations is to outcast people based on peoples beliefs and attitudes and not for medical reasons - at least in the case of people not at elevated risk for severe Covid, which includes all people below 35. For people at risk for severe Covid there is a risk of hospitalization but then other behaviors which increase the risk of hospitalization need to be banned too. Also people can opt out of hospitalization/intense case and then this argument does not hold. // I don't think, it as nice to neglect (some) treatments, but is is a third option to experimental vaccination and to be out-casted from social life for months. *The (personal) risk to take in life, everybody should be eligible choose on his own.*
