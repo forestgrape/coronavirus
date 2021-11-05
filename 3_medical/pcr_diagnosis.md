@@ -4,12 +4,16 @@
 PCR test can be used both to detect microorganisms causing a disease and microorganisms being part of the microbiome in the healthy state. In healthy state the virus numbers are usually very low and often below the limit of detection. Thus the prevalence of viruses is usually much higher than the PCR positives.
 
 ## PCR Sensitivity and Accuracy
-The sensitivity can be viewed as the accuracy at very low DNA/RNA concentration which corresponds to high cycles numbers (usually above 35).
 
 ### Determinants of Accuracy
 The PCR sensitivity and accuracy for different settings. E.g.
 * Apparatus and Protocol: The efficacy of the apparatus for amplifications, the exact protocol e.g. whether and how the RNA is extracted.
 * The DNA/RNA of the microorganisms in questions: PCR works by amplifying specific genome sequences specified by a primer. Especially in the cases of RNA viruses the fast mutation rates can change the efficacy of a primer. Additionally RNA viruses even within a single host often have mutations.
+
+
+### Relation of Sensitivity and Accuracy
+For many considerations, the sensitivity can be viewed as the accuracy at very low DNA/RNA concentration which corresponds to high cycles numbers (usually above 35).
+
 
 ### Accuracy for SARS-CoV-2 Detection
 Due the significance of SARS-CoV-2, for SARS-CoV-2 there are several comparisons and evaluations of PCR protocols to detect it. The findings are likely similar for other coronaviruses, however the strains of the endemic coronaviruses are more divers [to confirm and cite] and thus construction primers which work for all strains can be more difficult.
@@ -26,7 +30,7 @@ Due the significance of SARS-CoV-2, for SARS-CoV-2 there are several comparisons
   * Up to a reference Ct value of 36 false negatives are below 10%. Above a ref Ct of 36 the values start to increase and reach about close to 50% at a ref Ct value of 39.
 
 ## From Ct Values to Viral Load
-> This is a conceptual description and technical difficulties are not considered (e.g. in a cycle the RNA is not precisely doubled but rather increases e.g. by the factor 1.8 since the the efficacy is usually around 90%).
+> This is a conceptual description and technical difficulties are skipped (e.g. in a cycle the RNA is not precisely doubled but rather increases e.g. by the factor 1.8 since the the efficacy is usually around 90%).
 
 The viral load measurements often work as follows: specific sequences are doubled in cycles until the concentration is high enough that they can be detected by optical methods. When there are already many sequences to start with, one needs fewer doubling cycles (Ct cycles) until detection. Thus few cycles correspond to a high number of sequences in the sample to test (= a high viral load in the sample).
 
@@ -43,7 +47,9 @@ The viral load as logarithm to base 10:
 
 An example formulas for specific protocols:
 * [Yilmaz et al](./diagnosis_and_viral_load.md#summary-yilmaz).
-* Supplement of Mali
+* Supplement of [Malik et al](./diagnosis_and_viral_load.md#summary-malik) show the relation between Ct value and viral load.
+
+
 
 ## References
 
