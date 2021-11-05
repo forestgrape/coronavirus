@@ -1,5 +1,5 @@
 
-# Airborne Transmission Models
+# Transmission of Coronaviruses
 * [Overview Transmission Models](#overview-transmission-models)
   * [Overview Airborne Transmission](#overview-airborne-transmission)
   * [Non Airborne Transmission of Respiratory Tract Pathogens](#non-airborne-transmission-of-respiratory-tract-pathogens)
@@ -13,7 +13,7 @@
   * [Particles Deposition](#particles-deposition)
   * [Particles Clearance](#particles-clearance)
   * [Simulations and Experiments](#simulations-and-experiments)
-* [Proposal of a Dry Form Transmission Model](#proposal-of-a-dry-form-transmission-model)
+* [Proposal of a Dry Form Transmission for Coronaviruses](#proposal-of-a-dry-form-transmission-for-coronaviruses)
   * [Summary Dry Form Transmission](#summary-dry-form-transmission)
   * [Dry Form Transmission Model](#dry-form-transmission-model)
   * [Evidence for the Dry Form Transmission Model](#evidence-for-the-dry-form-transmission-model)
@@ -197,7 +197,7 @@ This section describes when particles are generated and how they spread within t
 * [Fabian et al](#fabian) describes that the number of particles exhaled is very individual. Differences greater than a factor of 500 were observed. Data indicate a  positive correlation with age. 24% of participants exhaled 81% of all measured exhaled particles.
 * [Yan et al](#summary-yan-2018) observed that the aerosol amount exhaled correlated both with coughing and BMI. Coughing correlated with RNA shedding. However, with breathing and speaking alone, there are small infectious aerosols exhaled too. 
 
-That small particulates are exhaled upon breathing alone from the deep lungs, combined with the observations that in the deep lungs the SARS-CoV-2 receptor ACE2 is highly available, means that Covid-19 can be transmitted with breathing alone.
+> That small particulates are exhaled upon breathing alone from the deep lungs, combined with the observations that in the deep lungs the SARS-CoV-2 receptor ACE2 is highly available, means that Covid-19 can be transmitted with breathing alone.
 
 
 ### Particles Deposition
@@ -274,7 +274,7 @@ Usually many simplifications of [relevant factors](#particles-deposition) both f
 
     
 
-## Proposal of a Dry Form Transmission Model
+## Proposal of a Dry Form Transmission for Coronaviruses
 
 
 > Explorative
@@ -518,15 +518,19 @@ Measures in more detail are found in [Protection Measures](../7_social/controlli
 
 
 ### Summarized References Sources of Exhaled Particles
+
 ##### Summary Yan 2018
 Jing Yan, Michael Grantham, Jovan Pantelic, P. Jacob Bueno de Mesquita, Barbara Albert, Fengjie Liu, Sheryl Ehrman, Donald K. Milton, EMIT Consortium
 **Aerosol shedding of infectious influenza virus**
-Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; https://doi.org/10.1073/pnas.1716561115
+Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; 
+<https://doi.org/10.1073/pnas.1716561115>
+
 ##### Methods
 * Participants: 142 students with PCR confirmed influenza and who filled a questionary (age, BMI, vaccination status, ...)
 * Investigation:
   * "... 218 paired nasopharyngeal (NP) and 30-minute breath samples (coarse >5-μm and fine ≤5-μm fractions) on days 1–3 after symptom onset.
   * "We assessed viral RNA copy number for all samples and cultured NP swabs and fine aerosols."
+
 ##### Findings
 * "We recovered infectious virus from 52 (39%) of the fine aerosols and 150 (89%) of the NP swabs with valid cultures."
 * _Predictors of viral RNA shedding:_ (Table 3 and Table S4 in the paper)
@@ -534,6 +538,7 @@ Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086; htt
   * Fine-aerosol viral RNA shedding was positively associated with influenza vaccination in the current and/or prior season for influenza A (Table S4.).
   * "NP swab viral RNA was positively associated with upper respiratory symptoms and negatively associated with age but was not significantly associated with fine- or coarse-aerosol viral RNA or their predictors." 
   * "Sneezing was rare, and sneezing and coughing were not necessary for infectious aerosol generation."
+Coronaviruses are part of the virome of the respiratory tract. Mostly the they are beneficial e.g. by protecting against more pathogenic viruses such as RSV or influenza A. Coronaviruses can become pathogenic when they reach to high numbers or growth at/infect the wrong locations, members of the microbiome can become pathogenic.
 ##### Discussion
 * "We defined symptoms as upper respiratory (runny nose, stuffy nose, sneezing, sore throat, and earache), lower respiratory (chest tightness, shortness of breath, and cough), and systemic (malaise, headache, muscle/joint ache, fever/sweats/ chills, and swollen lymph nodes)."
 * "Our findings, that upper and lower airway infection are independent and that fine-particle exhaled aerosols reflect infection in the lung, opened a pathway for a deeper understanding of the human biology of influenza infection and transmission."
