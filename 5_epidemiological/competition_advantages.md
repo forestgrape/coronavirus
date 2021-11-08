@@ -15,6 +15,8 @@
   * [Evidence for Competition Advantages due to Immune Escape](#evidence-for-competition-advantages-due-to-immune-escape)
   * [Evidence for Competition Advantages due to Faster Infections Cycles](#evidence-for-competition-advantages-due-to-faster-infections-cycles)
   * [Why usually only One Variant Succeeds](#why-usually-only-one-variant-succeeds)
+* [References](#references)
+  * [Refs Incubation and Generation Times across Variants](#refs-incubation-and-generation-times-across-variants)
 
 ## Summary
 Since early in the SARS-2 pandemics new variants are observed. Sometimes new variants out compete existing variants. Often the competitive advantage is attributed to a higher transmissibility in the sense of a higher average R value. In the following it is argued that a competitive advantage is not necessarily the result of a higher transmissibility but can also result from immune evasion (even at low seroprevalences) or from faster spread. Faster spread alone makes the waves peakier but not larger.
@@ -136,4 +138,18 @@ Follow up reinfections with another variant are rare since:
 
 
 
+## References
+> in work and incomplete
+
+### Refs Incubation and Generation Times across Variants
+#### Snell
+Luke B Snell , Ali R Awan , Themoula Charalampous ,
+Adela Alcolea-Medina , Sam T Douthwaite , Jonathan D Edgeworth , Gaia Nebbia , SARS-CoV-2
+variants with shortened incubation periods necessitate new definitions for nosocomial acquisition,
+Journal of Infection (2021), doi: https://doi.org/10.1016/j.jinf.2021.08.041
+
+#### Hart 
+Generation time of the Alpha and Delta SARS-CoV-2 variants
+WS Hart, E Miller, NJ Andrews, P Waight, PK Maini, S Funk, RN Thompson
+medRxiv 2021.10.21.21265216; doi: https://doi.org/10.1101/2021.10.21.21265216
 
