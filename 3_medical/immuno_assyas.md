@@ -15,7 +15,17 @@ The following graphic by Ian M Campbell (https://commons.wikimedia.org/w/index.p
 
 ![Lateral Flow Device](Images/campell_lateral_flow_device.png)
 
-
-The device for a SARS-CoV-2 IgM and IgG antibody test has two test strips since two analytes (IgM and IgG) are tested. The graphics by Abdi Ghaffari, Robyn Meurant, and Ali Ardakani [todo: provide link] shows such a device:
+An antigen test works pretty much as shown above with the analyte being one of the SARS-CoV-2 proteins mostly the S protein. 
+For antibody tests often the two classes of antibodies IgM and IgG are analyzed. Therefore these devices have two test strips since two analytes (IgM and IgG) are tested. The graphics by [Ghaffari et al](#ghaffari) shows such a device:
 
 ![Lateral Flow for Covid AB Test](Images/ghaffari_sero_test.png)
+
+
+
+
+## References
+### Refs Serological Tests
+
+#### Ghaffari
+A. Ghaffari, R. Meurant, A. Ardakani, COVID-19 serological tests: how well do they actually perform? Diagnostics 10 (7) (2020) 453, https://doi.org/10.3390/ diagnostics10070453.
+
