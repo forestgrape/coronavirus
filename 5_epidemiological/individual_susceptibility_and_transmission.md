@@ -5,22 +5,28 @@ The susceptibility to the different kinds of SARS-CoV-2 infections and the indiv
 
 * [Summary](#summary)
 * [Relevance](#relevance)
-* [Medical Background](#medical-background)
-  * [Symptom Status](#symptom-status)
-  * [Correlation of Viral Load and Symptoms](#correlation-of-viral-load-and-symptoms)
+* [Observables for Covid Infections](#observables-for-covid-infections)
+  * [Medical Background](#medical-background)
+  * [Viral Load Symptom Association](#viral-load-symptom-association)
+  * [Spread by Symptom Status](#spread-by-symptom-status)
+  * [Proportion of symptomatic Patients](#proportion-of-symptomatic-patients)
 * [Infector Distribution](#infector-distribution)
   * [Observed Infector Distribution](#observed-infector-distribution)
   * [Possible Causes for uneven Spread](#possible-causes-for-uneven-spread)
-* [Effects of  Acquired Immunity](#effects-of--acquired-immunity)
-* [Transmission by Age](#transmission-by-age)
-  * [Transmissions in Schools](#transmissions-in-schools)
-  * [Transmissions in Universities and Student Residences](#transmissions-in-universities-and-student-residences)
-* [Susceptibility by Dirty Air Exposure](#susceptibility-by-dirty-air-exposure)
+* [Effects of Movement](#effects-of-movement)
+* [Associations to BMI](#associations-to-bmi)
+  * [Geographical Observations of High Overweight Prevalence](#geographical-observations-of-high-overweight-prevalence)
+* [Effects of Dirty Air Exposure](#effects-of-dirty-air-exposure)
   * [Air Pollution](#air-pollution)
   * [Smoking](#smoking)
-* [Susceptibility by Movement](#susceptibility-by-movement)
-* [Susceptibility by BMI](#susceptibility-by-bmi)
-  * [Geographical Observations of High Overweight Prevalence](#geographical-observations-of-high-overweight-prevalence)
+* [Effects of Age](#effects-of-age)
+  * [Household Transmission by Age](#household-transmission-by-age)
+  * [Transmissions in Schools](#transmissions-in-schools)
+  * [Transmissions between Young Adults](#transmissions-between-young-adults)
+  * [Biological Explanation for Age Effects](#biological-explanation-for-age-effects)
+* [Effects of  Acquired Immunity](#effects-of--acquired-immunity)
+  * [Effects of Acquired Immunity on Viral Load](#effects-of-acquired-immunity-on-viral-load)
+  * [Effects](#effects)
 * [Overview of Data Sets](#overview-of-data-sets)
   * [Population Infection Overviews](#population-infection-overviews)
   * [Hospital Cohort Studies](#hospital-cohort-studies)
@@ -28,11 +34,12 @@ The susceptibility to the different kinds of SARS-CoV-2 infections and the indiv
   * [References Spread Children and Schools](#references-spread-children-and-schools)
   * [References OUCS](#references-oucs)
   * [References SIREN](#references-siren)
-  * [References Household Transmissions](#references-household-transmissions)
-  * [References Household Transmission with Endemic CoVs](#references-household-transmission-with-endemic-covs)
-  * [References of Household Transmissions with HOSTED](#references-of-household-transmissions-with-hosted)
-  * [References ONS-CIS](#references-ons-cis)
-  * [References Contact Tracing](#references-contact-tracing)
+  * [Refs Household Transmissions](#refs-household-transmissions)
+  * [Refs Household Transmission Endemic CoVs](#refs-household-transmission-endemic-covs)
+  * [Refs of Household Transmissions with HOSTED](#refs-of-household-transmissions-with-hosted)
+  * [Refs ONS-CIS Analyses](#refs-ons-cis-analyses)
+  * [Refs Contact Tracing](#refs-contact-tracing)
+  * [Refs Spread from Seroprevalence](#refs-spread-from-seroprevalence)
   * [References Spread from Sequences](#references-spread-from-sequences)
   * [References Transmission Heterogeneity](#references-transmission-heterogeneity)
   * [References Acquired Immunity Status](#references-acquired-immunity-status)
@@ -40,35 +47,37 @@ The susceptibility to the different kinds of SARS-CoV-2 infections and the indiv
   * [References Smallpox](#references-smallpox)
   * [References Measles](#references-measles)
   * [References Spread and Air Pollution](#references-spread-and-air-pollution)
+  * [Refs Smoking effects on SARS-2 Infections](#refs-smoking-effects-on-sars-2-infections)
   * [Transmission Respiratory Viruses](#transmission-respiratory-viruses)
 * [Appendix](#appendix)
   * [Considerations on Increased R Value](#considerations-on-increased-r-value)
 
 ## Summary
-How much individuals contribute to the spread of SARS-CoV-2 is highly variable. Most observations conclude that only 20% of the infectees are responsible for at least 80% of the infections ([Transmission Distribution](#transmission-distribution)), while most infectees don't transmit SARS-CoV-2 infections. The individual transmission is associated to both biological and social factors. Social factors include the living situation and the behavior. Biological factors  influencing susceptibility and infectiousness are discussed in the following. 
+Most epidemiological analyses specify SARS-CoV-2 infections with the observables a "commonly detectable" viral load in the upper respiratory tract or symptoms. Sampling the upper respiratory tract is not necessarily predictive for the overall viral load since most SARS-CoV-2 virions infect cells in the conducting airways. 
+Nevertheless the viral load in the upper respiratory tract samples is correlated to symptoms. Symptomatic persons in turn ([Transmission by Symptom Status](#spread-by-symptom-status)) are more likely to transmit Covid. Most (Nearly all?) superspreading events described are caused by symptomatic persons, likely because superspreading involves high numbers of virions in the conducting airways, which in turn causes symptoms.
 
-Most epidemiological analyses infections with the observables viral load in the upper respiratory tract and symptoms. Like infections with the other human coronaviruses, SARS-CoV-2 infections are not per se pathogenic just if SARS-2 replicates to too high numbers at the wrong locations. Even though SARS-2 infections are compartmentalized, measuring the viral load in the upper respiratory tract has predictive value for the lower respiratory tract. High viral load in the upper respiratory tract usually are associated to symptoms. In agreement with the viral load symptom correlation, symptomatic persons ([Transmission by Symptom Status](#spread-by-symptom-status)) transmit Covid more.
+How much individuals contribute to the spread of SARS-CoV-2 is highly variable. Most observations conclude that 20% of the infectees are responsible for at least 80% of the infections ([Transmission Distribution](#transmission-distribution)). The individual transmission is associated to both biological and social factors. Social factors include the living situation and the behavior. Biological factors influencing susceptibility and infectiousness are discussed in the following. 
 
-People with an adequate and in form immune system in the respiratory tract can handle and control the replication of SARS-CoV-2. The infections are controlled early and if at all only mild symptoms are associated. The controlled viral replication induces a low viral load and accordingly the chance to detect it and infectiousness.
+People with an adequate and sensitive immune system control coronavirus infections early and if at all only mild symptoms are induced. Apart from a possible initial localized burst mainly in the upper respiratory tract, coronaviruses usually do *not* replicate to high numbers. Low numbers of coronaviruses don't cause severe disease and are associated to a low probability of onward transmission and detection. This theoretical argumentation is supported by the observations:
+* People with regular movement are about 30 % less likely to get both mild respiratory diseases including Covid. An even further reduction is observed for severe diseases. A healthy diet helps to maintain a good microbiome in the intestine which is important for overall immunity.
+* On the other hand,  long-time exposure to air pollution, few movement and obesity can reduce the capability of the respiratory tract to handle viruses. [Air Pollution](#dirty-air-exposure) und [overweight](#overweight) both increase the Covid prevalence at the individual and at the population level.
 
-On the other hand, populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement the immune system in the respiratory tract is often not adequate to fight a new virus:
-* [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades have more cases and have higher death rates.
-* [Overweight](#overweight): Regions where overweight have more cases and higher fatality rates.
+A major determinant how the body can handle SARS-CoV-2 is age, especially for the initial infection. Young people are less susceptible to get a disease and usually control the viral load timely and in agreement are less infectious ([Transmission by Age Groups](#transmission-by-age)). This is especially true for children: Few spread is observed between children and in schools. Superspreading with children as index cases is not observed.
 
-A major determinant how the body can handle new viruses is age. Young people are less susceptible and less infectious ([Transmission by Age Groups](#transmission-by-age)). This is especially true for children: Few spread is observed between children and in schools. In schools if there were many infected this is mostly due to super spreading teachers and not children infecting each other ([Schools and Children](#schools-and-children)). The immune system of young people is built to handle unseen viruses ([Immune System throughout Life](../4_immunological/ontogenesis_and_locality_of_immunity.md)). For children SARS-2 is no more or even less dangerous than other respiratory viruses, it is just another new coronavirus.
-The risk for uncontrolled viral replication increases with age: With increasing age, the immune system relies more and more on experience i.e. the innate immune mechanisms are reduced and the trained immunity takes over.
+The immune system can learn from exposures and induce an improved protection against subsequent similar exposures (this remembering can include the classical acquired immune responses such as T cells and B cells capable to produce antibodies but it is often broader e.g. location specific immunity).
 
-From a microorganisms exposure the immune system is nearly always able to learn and to handle feature exposures. For SARS-CoV-2 the immune system
-* Previous infections provide a reliable and long lasting protection: 
-  * The protection against hospitalization is above 95%. 
-  * The chance to test positive is reduced by about 80% and there is not much evidence of waning immunity by new variants. The chance to have a high viral load (Ct value <30) and symptoms is reduced by more than 90% [to confirm].
+Previous infections provide a reliable and long lasting protection:
+* The protection against hospitalization is above 95%.
+* The chance to test positive is reduced by about 80% and there is not much evidence of waning immunity by new variants. The chance to have a high viral load (Ct value <30) and symptoms is reduced by more than 90% [to confirm].
 
-* The muscular administrated mRNA and adenovirus vectored vaccines provide a good systemic immunity. However already a few months after vaccination the chances the get infected and the viral loads in the upper respiratory tract are similar.
-  * *Protection against pneumonia and hospitalization:* Accordingly to the systemic immunity provided, a good protection against hospitalization (mostly above 80 % for at least half a year). 
-  * *Protection against infection:* The vaccines reduce the chance to test positive for a few months and during this time also give some protection against high viral loads but afterwards the protection vanishes: The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is lost about 6 months after vaccination against the delta variant. The ChAdOx1 initially starts with a lower protection compared to BNT162b2 (around 50%) but decrease slower and after a few months the protections in the upper respiratory tract seem similar (at least against high viral loads). The protection from mRNA-1273 is somewhat higher than BNT162b2/ChAd0x1. 
-  * It is unclear whether the vaccines have an effect on transmission once infected, even in the early phase when the viral load is reduced. After a few months when the infections risk and the viral load in the upper respiratory tract are the same as for unvaccinated people, a protection against transmission is unlikely.
+The muscular administrated mRNA and adenovirus vectored vaccines induce mainly a systemic immunity. Accordingly the protection against pneumonia is quite good while the protections against infections lasts only a few months:
+* *Protection against pneumonia and hospitalization:* Accordingly to the systemic immunity provided, a good protection against hospitalization: most investigations conclude a reduction of at least 70 % for at least half a year.
+* *Protection against infection:* The vaccines reduce the chance to test positive (usually > 1000 cps/milliliter ~~ less than about 35 to 40 PCR cycles) for a few months and during this time the probability for high viral loads (>10^6 cps/milliliter ~~ less than about 25 to 30 PCR cycles) is even more reduced but afterwards the protection vanishes. The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is lost about 6 months after vaccination against the delta variant. The ChAdOx1 initially reduces the chances to test positive by about 50%. While starting higher BNT162b2 has a somewhat higher protection decay in the upper respiratory tract compared to ChAdOx1 and the protections even after a few months before later on vanishing entirely. The protection from mRNA-1273 is somewhat higher than BNT162b2/ChAd0x1. 
+* It is unclear whether the vaccines have an effect on transmission once infected, even in the early phase when the viral load is reduced. After a few months when the infections risk and the viral load in the upper respiratory tract are the same as for unvaccinated people, a protection against transmission is unlikely.
 
-  > The widespread assumption that vaccinated people transmit Covid less *lacks* a scientific basis. To my judgement, there is neither an epidemiological nor a medical benefit/basis to (motivate to) vaccinate people not at risk for severe Covid.
+> The widespread assumption that vaccinated people transmit Covid less for more than a few months *lacks* a rigorous scientific basis. To my judgement, there is neither an epidemiological nor a medical benefit/basis to (motivate to) vaccinate people not at risk for severe Covid.
+
+> A concise analysis stating exactly what is relevant is by Pierpont: [Covid-19 Vaccine Mandates Are Now Pointless](#pierpont)
 
 
 
@@ -82,45 +91,44 @@ Knowing how transmissions are distributed, helps to set and fine-tune control me
 > In my opinion, the actions for people with higher R values should always be options to take and *never be any restrictions* on human rights or any other any restrictions with outcast effects. Further discussed in [considerations on increased R value](#considerations-on-increased-r-value).
 
 
- 
 
-## Medical Background
-SARS-2 infections can be diagnosed by different methods, some are sensitive some less and some methods such as symptom detection only work when there is also a disease. To analyze susceptibility and transmissions, one needs to specify which the SARS-CoV-2 infections to count and how to diagnose them.
-
-If SARS-2 viruses are causing uneasiness, one has the disease Covid-19. 
-
- Accordingly a very high number of viruses is associated to the probability to be symptomatic. Too many viruses in the lungs can cause severe or even deadly disease. The number of exhaled viruses is a major determinant for transmission - though the viral load can be measured by different methods and at different location e.g. the NPS viral load is no direct correlate of infectiousness. 
-
-How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. 
+## Observables for Covid Infections
+To analyze susceptibility and transmissions, one needs to specify which the SARS-CoV-2 infections to count and how to diagnose them.
 
 
+### Medical Background
+SARS-2 infections can be diagnosed by different methods, some are sensitive some less and some methods such as symptom detection only work when there is also a disease. 
+* Like infections with the other human coronaviruses, SARS-CoV-2 infections are not per se pathogenic just if SARS-2 replicates to too high numbers at the wrong locations. If SARS-2 viruses are causing uneasiness, one has the disease Covid-19.  Too many viruses in the lungs can cause severe or even deadly disease. 
+* How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. The number of exhaled viruses is a major determinant for transmission - though the viral load can be measured by different methods and at different location e.g. the NPS viral load is no direct correlate of infectiousness.
 
-### Symptom Status
 
-#### Spread by Symptom Status
-Note: The strains prevalent during the time of investigation is relevant since strains can induce varying immune responses e.g. coronaviruses can diminish or activate the immune system.
-* [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% of the infections (7 out of 309) were caused by pre-symptomatic people.
-* The two mass infection events observed in airplanes were both caused by symptomatic infectors [Freedman and Wilder-Smith](./spread_analyses.md#freedman). 
-* [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
-
-#### Proportion of symptomatic Patients
-[in work]
-##### Early 2020
-The symptomatic proportion of cases varied through back since early 2020:
-* [Adam et al](#summary-adam) observe that until 27 March 2020 nearly everybody was symptomatic. Then abruptly from 27 March onwards the proportion of asymptomatic cases increased to about 40 %. // This could be due to the lineages having the D614G mutation.
-##### Early 2021
-* During the third Covid wave in Israel peaking around mid January 2021 about  [Regev-Yochay et al](#summary-regev-yochay) about 60 % of unvaccinated and about 50 % of vaccinated persons are asymptomatic.
-
-### Correlation of Viral Load and Symptoms
-
+### Viral Load Symptom Association
 * [Lumley et al](#summary-lumley-march-21) find for health care workers in Oxford the viral loads by nasal and oropharyngeal swabs: symptomatic infections (median [IQR] Ct: 16.3 [IQR 13.5–21.7]) compared to asymptomatic infections (Ct: 20 [IQR 14.5–29.5]). Previously infected persons tend to have a lower viral load (higher Ct values) than seronegative persons or vaccinated persons:
    ![Viral Loads by Symptoms and Vaccination](images/lumley_march_figure4.jpeg)
 * [Pritchard et al](#summary-pritchard) find that previously infected persons rarely have a high viral load. A similar but weaker effect is also observed by vaccination.
 * [Regev-Yochay et al](#summary-regev-yochay) find for health care workers a mean Ct value of 21.7 for symptomatic cases and 25.8 for asymptomatic cases. For vaccinated persons the mean is about 22 and for unvaccinated about 27.
 
 
+### Spread by Symptom Status
+Note: The strains prevalent during the time of investigation is relevant since strains can induce varying immune responses e.g. coronaviruses can diminish or activate the immune system.
+* [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% of the infections (7 out of 309) were caused by pre-symptomatic people.
+* [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
+
+
+### Proportion of symptomatic Patients
+// In theory, the proportion of symptomatic patients can be subject to various factors such as the SARS-CoV-2 variants present and the climate conditions. Therefore the dates and locations are stated.
+
+#### Early 2020
+The symptomatic proportion of cases varied through back since early 2020:
+* [Adam et al](#summary-adam) observe that until 27 March 2020 nearly everybody was symptomatic. Then abruptly from 27 March onwards the proportion of asymptomatic cases increased to about 40 %. // This could be due to the lineages having the D614G mutation.
+
+#### Early 2021
+* During the third Covid wave in Israel peaking around mid January 2021 about  [Regev-Yochay et al](#summary-regev-yochay) about 60 % of unvaccinated and about 50 % of vaccinated persons are asymptomatic.
+
+
 
 ## Infector Distribution
+
 ### Observed Infector Distribution
 The infector distribution is highly skewed:
 * Contact tracing in Hong Kong revealed that [Adam et al](#summary-adam):
@@ -150,52 +158,32 @@ The infector distribution is highly skewed:
 
 
 
-## Effects of  Acquired Immunity
-
-* [Pritchard et al](#summary-pritchard) find that previously infected persons rarely have a high viral load. A similar but weaker effect is also observed by vaccination.
-* [Regev-Yochay et al](#summary-regev-yochay) find that for vaccinated persons the mean is about 22 and for unvaccinated about 27 Ct cycles.
+## Effects of Movement
+People with regular movement are less likely for a symptomatic disease. Additionally if positive or symptomatic, the risk for severe disease and hospitalization is reduced as outlined in the chapter [Movement](../6_prevention_and_treatment/movement.md).
 
 
 
-## Transmission by Age
-* [Hall et al](#summary-ja-hall) reveal by analyzing "Household Transmission Evaluation Data" in England:
-  * people between 5 and 29 years have lower household transmission rates than the other groups. 
-  * The household transmission is high between people over 40 years of approximately the same age.
-  * Very young children (0 to 4 years) transmit Covid frequently to their parents or grandparents. 
-    > Their immune system in the lungs is early in the training phase and additionally they may not have had contact with any coronaviruses and so they lack the cross immunity most older have acquired from the human endemic CoVs.
+## Associations to BMI
 
-  The observed transmissions by the age of the index cases (x-axis) and the contacts (y-axis) in households visualized (Figure 3 in [Hall et al](#summary-ja-hall)):
+### Geographical Observations of High Overweight Prevalence
+*High Overweight Prevalence is associated to High Covid Prevalence and Death Rates*
 
-  ![Heat map of secondary cases by age](images/hall_transmission_by_age.jpg)
-  
+* *Observations:*
+    Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
 
-  > Similar observations are also made in the Netherlands by [van der Hoek et al](#van-der-hoek). The transmission pattern shown in "Figuur" in their paper is very similar to the results shown above. The article is in dutch and for this reason is not considered any further.
+    Selected countries with high rates of obesity (in decreasing order, source: obesity.procon.org):
+    US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
 
-* [Dattner et al](#summary-dattner) observe that children are relative to adults
-  * less susceptible 45% [40%, 55%]) 
-  * somewhat less infectious 85% [65%, 110%])
-* The meta-analysis by [Madewell et al](#summary-madewell) concludes that children are only about half as likely to get infected in households compared to adults (spouses which are most likely to get infected and the adult infections are subject to relationship habits).
+    Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
+
+* *Possible Explanation:*
+    * One reason is for the many severe cases, is that obesity itself increases the risk for severe Covid. But the case counts seem to increase overall i.e. also in people which are not obese [to check and cite/provide evidence]. 
+    * A possible biological explanation is that the mucus clearance is inversely proportional to the BMI which increases susceptibility for infection and the risk for a high viral load. High BMI also influences the exhaled aerosol (chapter [Particles in the Respiratory Tract](transmission.md#particle-dynamics-in-the-respiratory-tract).
 
 
 
-### Transmissions in Schools
-Children are less likely to be tested positive and less likely to be infectors. Children also do not super spread since in school settings no super spreading can be traced back to children - the super-spreading events observed, were likely caused by teachers.
 
-A recommended review is [COVID-19 Transmission and Children: The Child Is Not to Blame](#leeraszka) by B. Lee and W. Raszka.
-
-* [Vlachos, Hertegard and Svaleryd](#summary-vlachossvaleryd) found that parents children in the 9th school year (open schools)had about the same incidence rate for Covid-19 as parents children in the 10th school year (closed school). If adjusted for factors such as age and occupation the risk was about 15% higher for being diagnosed with Covid-19 when the child went to open schools. // Comment: this indicate that other factors are more important than whether the children go to school. 
-* Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by densely populated rooms and the permanent use of air-conditioning [Summary Stein-Zamir](#summary-stein-zamir). 
-* [Ehrhardt et al](#summary-ehrhardtbrockmann) observed in Baden-Wuertenberg between 19 May to 28 July:
-  * 6 of 137 infected pupils infected a total of 11 other pupils (an R value contribution of below .1)
-  * 3% of infections of children (0-19 year) could be traced back to schools. Where as 41% to families and 8% to festivals/events.
-* [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly in setting other than schools. This in turn indicates that most respiratory viruses are transmitted primarily by adults.
-
-### Transmissions in Universities and Student Residences
-[in work]
-No increased transmission rates seem to occur [citations coming].
-
-
-## Susceptibility by Dirty Air Exposure
+## Effects of Dirty Air Exposure
 *In short:* Dirty Air Exposure is associated to a high Prevalence of Severe Covid.
 
 ### Air Pollution
@@ -211,26 +199,64 @@ _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for sev
 > 12.6.21: It's not about smoke-free - Everyone should judge the risks to take in life on his own. Add restrictions for addictives, I consider as adequate however.
 
 
-## Susceptibility by Movement
-People with regular movement are less susceptible for symptomatic and severe disease as outlined in the chapter [Movement](../6_prevention_and_treatment/movement.md). 
 
 
+## Effects of Age
+### Household Transmission by Age
 
-## Susceptibility by BMI
-### Geographical Observations of High Overweight Prevalence
-*High Overweight Prevalence is associated to High Covid Prevalence and Death Rates*
+[Hall et al](#summary-ja-hall) reveal by analyzing "Household Transmission Evaluation Data" in England:
+* people between 5 and 29 years have lower household transmission rates than the other groups. 
+* The household transmission is high between people over 40 years of approximately the same age.
+* Very young children (0 to 4 years) transmit Covid frequently to their parents or grandparents. 
+  > Their immune system in the lungs is early in the training phase and additionally they may not have had contact with any coronaviruses and so they lack the cross immunity most older have acquired from the human endemic CoVs.
 
-* *Observations:*
-    Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
+The observed transmissions by the age of the index cases (x-axis) and the contacts (y-axis) in households visualized (Figure 3 in [Hall et al](#summary-ja-hall)):
 
-    Selected countries with high rates of obesity (in decreasing order, source: obesity.procon.org):
-    US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
+![Heat map of secondary cases by age](images/hall_transmission_by_age.jpg)
 
-    Few obesity: Vietnam, Bangladesh, India, Nepal, Japan
+> A very similar transmission pattern is also observed in the Netherlands by [van der Hoek et al](#van-der-hoek). The transmission pattern shown in "Figuur" in their paper is very similar to the results shown above. The article is in dutch and for this reason is not considered any further.
 
-* *Possible Explanation:*
-    * One reason is for the many severe cases, is that obesity itself increases the risk for severe Covid. But the case counts seem to increase overall i.e. also in people which are not obese [to check and cite/provide evidence]. 
-    * A possible biological explanation is that the mucus clearance is inversely proportional to the BMI which increases susceptibility for infection and the risk for a high viral load. High BMI also influences the exhaled aerosol (chapter [Particles in the Respiratory Tract](transmission.md#particle-dynamics-in-the-respiratory-tract).
+---
+[Dattner et al](#summary-dattner) observe that children are relative to adults
+* less susceptible 45% [40%, 55%]) 
+* somewhat less infectious 85% [65%, 110%])
+
+---
+The meta-analysis by [Madewell et al](#summary-madewell) concludes that children are only about half as likely to get infected in households compared to adults (spouses which are most likely to get infected and the adult infections are subject to relationship habits).
+
+
+### Transmissions in Schools
+Children are less likely to be tested positive and less likely to be infectors. Children also do not super spread since in school settings no super spreading can be traced back to children - the super-spreading events observed, were likely caused by teachers.
+
+A recommended review is [COVID-19 Transmission and Children: The Child Is Not to Blame](#leeraszka) by B. Lee and W. Raszka.
+
+* [Vlachos, Hertegard and Svaleryd](#summary-vlachossvaleryd) found that parents children in the 9th school year (open schools)had about the same incidence rate for Covid-19 as parents children in the 10th school year (closed school). If adjusted for factors such as age and occupation the risk was about 15% higher for being diagnosed with Covid-19 when the child went to open schools. // Comment: this indicate that other factors are more important than whether the children go to school. 
+* Large high school outbreak in Israel shortly after reopening of the schools. The outbreak was probably due to aerosol super-spreading from teacher(s) which was enable by densely populated rooms and the permanent use of air-conditioning [Summary Stein-Zamir](#summary-stein-zamir). 
+* [Ehrhardt et al](#summary-ehrhardtbrockmann) observed in Baden-Wuertenberg between 19 May to 28 July:
+  * 6 of 137 infected pupils infected a total of 11 other pupils (an R value contribution of below .1)
+  * 3% of infections of children (0-19 year) could be traced back to schools. Where as 41% to families and 8% to festivals/events.
+* [Perez-Lopez et al](#summary-perez-lopez) published statistics about viruses detected in nasopharyngeal swabs from visits in Sidra Medicine, the main pediatric center in Qatar. They observed a significant 30 fold reduction for influenza A. A 30% reduction was observed for influenza B and Common HCoVs. //Comment: Their observations indicate that in school settings only the influenza A transmission is efficient and other viruses are transmitted mainly in setting other than schools. This in turn indicates that most respiratory viruses are transmitted primarily by adults.
+
+
+### Transmissions between Young Adults
+[in work]
+* [Reyes et al](#reyes) conclude by analyzing seroprevalences that no increased transmission occurs in dormitories.
+
+
+### Biological Explanation for Age Effects
+The immune system of young people is built to handle unseen viruses ([Immune System throughout Life](../4_immunological/ontogenesis_and_locality_of_immunity.md)). For children SARS-2 is no more or even less dangerous than other respiratory viruses, it is just another new coronavirus.
+With increasing age the innate sensing mechanisms are diminished, which can give SARS-CoV-2 the opportunity to replicate to high numbers which in turn increases the probability for transmission and for severe disease. 
+
+
+## Effects of  Acquired Immunity
+
+### Effects of Acquired Immunity on Viral Load
+* [Pritchard et al](#summary-pritchard) find that previously infected persons rarely have a high viral load. A similar but weaker effect is also observed by vaccination.
+* [Regev-Yochay et al](#summary-regev-yochay) find that for vaccinated persons the mean is about 22 and for unvaccinated about 27 Ct cycles.
+
+### Effects 
+
+
 
 
 
@@ -452,7 +478,7 @@ sero + |  75 |  3 |  85 % (*)
 (*) Comments: The reductions given above are unadjusted (not in the paper). Adjustments are tricky e.g. since [Illingworth et al](#summary-illingworth) observed the majority of transmissions in *non* Covid wards. Adjustment for month would be important since in December and January there were many more cases than in February (e.g. observed in [Lumley](#summary-lumley-march-21)) and double vaccinated persons were mainly followed from mid January onwards.
 
 
-### References Household Transmissions
+### Refs Household Transmissions
 
 #### Notes on Household Transmissions
 * Even if the Covid prevalence is low, infected household members may community acquire the infection at the same event since the transmission is super-spreading-event driven and the disease onset can be hard to determine due to asymptomatic/low symptomatic cases and varying incubation times. Methods such as sensitivity analyses with varying the cut-off dates between symptom onsets can sometimes increase the confidence in the model used.
@@ -492,7 +518,7 @@ Comparison with SARS-1 or MERS:
 *De rol van kinderen in de transmissie van SARS-CoV-2*
 
 
-### References Household Transmission with Endemic CoVs
+### Refs Household Transmission Endemic CoVs
 #### Monto
 Coronavirus Occurrence and Transmission Over 8 Years in the HIVE Cohort of Households in Michigan
 
@@ -503,7 +529,7 @@ Around a 1000 individuals in Michigan were contacted weekly to report acute resp
 * The secondary attack rate is about 10%.
 * The incubation period is about 3 days.
 
-### References of Household Transmissions with HOSTED
+### Refs of Household Transmissions with HOSTED
 
 #### HOSTED Testing Scheme
 * "In brief, laboratory confirmed cases of COVID-19 in England which are reported to national laboratory surveillance systems(2) are linked to individuals who share the same address, using National Health Service (NHS) number and the Unique Property Reference Number (UPRN)." ([Supplement to Harris](#summary-harris))
@@ -560,7 +586,7 @@ The Southern regions have lower secondary attack rates likely due to the more co
 > *Biases:* Vaccinated persons may be miss-classified as contacts since they are less likely symptomatic in the first month after vaccinations due to vaccine effectiveness at preventing symptomatic disease, placebo effects and the protection from severe disease. Which could yield to a bias in households with many infectees the index case is likely wrongly attributed to an unvaccinated person. Considering only households where both index and contact are vaccinated is less biased in this respect. As noted in 3., this data indicates higher transmission from vaccinated persons.
 
 
-### References ONS-CIS
+### Refs ONS-CIS Analyses
 Households are visited and instructed how to self take nose and throat swabs. The household are visited weekly in the first month and then monthly for the first year. The swabs are sent or colleted and analyzed in labs for PCR testing. The goal overview of the community prevalence. From a random 10-20% of households, those 16 years or older were invited to participate in monthly antibody testing.
 
 #### Summary House
@@ -605,7 +631,11 @@ ONS-CIS data is analysed for the periods 1 Dec 2020 – 16 May 2021 (Alpha) and 
 
 
 
-### References Contact Tracing
+### Refs Contact Tracing
+
+#### Singanayagam
+Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study
+
 
 #### Summary Adam
 *Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong*
@@ -635,6 +665,12 @@ Adam D, Wu P, Wong J, et al. Research Square; 2020.
 #### Almadhi
 Almadhi, M. A., Abdulrahman, A., Sharaf, S. A., AlSaad, D., Stevenson, N. J., Atkin, S. L., & AlQahtani, M. M. (2021). The high prevalence of asymptomatic SARS-CoV-2 infection reveals the silent spread of COVID-19. International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases, 105, 656–661. 
 <https://doi.org/10.1016/j.ijid.2021.02.100>
+
+
+
+### Refs Spread from Seroprevalence
+#### Reyes
+Torres Reyes,C.R.; Steinmann, E.; Timmesfeld, N.; Trampisch, H.-J.; Stein, J.; Schütte, C.; Skrygan, M.; Meyer, T.; Sakinc-Güler, T.; Schlottmann, R.; et al. Students in Dormitories Were Not Major Drivers of the Pandemic during Winter Term 2020/2021: A Cohort Study with RT-PCR and Antibody Surveillance in a German University City. COVID 2021,1,345–356. https://doi.org/ 10.3390/covid1010029
 
 
 
@@ -680,6 +716,14 @@ super-spreading events
  
 
 ### References Acquired Immunity Status
+
+
+#### Pierpont
+Covid-19 Vaccine Mandates Are Now Pointless
+Published on September 14, 2021
+Written by Nina Pierpont
+
+> Highly recommended read.
 
 #### Summary Regev-Yochay
 Regev-Yochay, G., Amit, S., Bergwerk, M., Lipsitch, M., Leshem, E., Kahn, R., Lustig, Y., Cohen, C., Doolman, R., Ziv, A., Novikov, I., Rubin, C., Gimpelevich, I., Huppert, A., Rahav, G., Afek, A., & Kreiss, Y. (2021). *Decreased infectivity following BNT162b2 vaccination: A prospective cohort study in Israel.* 
@@ -908,6 +952,12 @@ Kotsiou,O.S.;Kotsios,V.S.; Lampropoulos, I.; Zidros, T.; Zarogiannis, S.G.; Gour
 **PM2.5 Pollution Strongly Predicted COVID-19 Incidence in Four High-Polluted Urbanized Italian Cities during the Pre-Lockdown and Lockdown Periods.** 
 Int. J. Environ. Res. Public Health 2021, 18, 5088. 
 <https://doi.org/10.3390/ijerph18105088>
+
+
+
+### Refs Smoking effects on SARS-2 Infections
+#### Simons
+David Simons, Lion Shahab, Jamie Brown, Olga Perski. (2021). The association of smoking status with SARS-CoV-2 infection, hospitalisation and mortality from COVID-19: A living rapid evidence review with Bayesian meta-analyses (version 11). Qeios. doi:10.32388/UJR2AW.13.
 
 
 
