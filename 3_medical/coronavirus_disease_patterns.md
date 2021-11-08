@@ -29,7 +29,7 @@ Coronaviruses cause infections and thereby induce induce different diseases:
 * The human endemic coronaviruses (OC43, HKU1, NL63 and E229) usually infect the middle or upper respiratory tract.
 * The coronaviruses directly emerging from zoonoses MERS-CoV and Sars-CoV-1 mainly infect the lower respiratory tract and sometimes the intestine. 
 
-In the case of bovine coronaviruses it is even observed that the same strains cause different diseases depending on the outbreak:
+In the case of bovine coronaviruses it is observed that the same strains cause different diseases depending on the outbreak:
 * Enteric disease (neonatal calf diarrhea, winter dysentery) 
 * Respiratory disease (shipping fever and general pneumonia). 
 
