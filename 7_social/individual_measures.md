@@ -1,7 +1,7 @@
 # Individual Measures
 
 ## Considerations on Increased R Value
-In my opinion, measures should not be based on individual R values target individuals but target risky situations. Risky is mainly dry indoor air (chapter [Spread analysis](./spread_analyses.md)). Dry indoor air can be cleaned and humidified if necessary ([Good air certificate](../7_social/good_air.md)).
+In my opinion, measures should not be based on individual R values target individuals but target risky situations. Risky is mainly dry indoor air (chapter [Spread analysis](../5_epidemiological/spread_analyses.md)). Dry indoor air can be cleaned and humidified if necessary ([Good air certificate](../7_social/good_air.md)).
 
 > I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume that currently available intramuscular vaccines (e.g. 'mRNA' and 'Adeno-virus-with-spike' vaccines) are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated.
 
