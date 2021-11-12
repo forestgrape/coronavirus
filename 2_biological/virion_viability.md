@@ -81,7 +81,7 @@ The halflifetimes are temperature dependent:
 [Virions](../2_biological/viruses.md#virion) decay happens everywhere: in the air, in the body, on surfaces and in water. Coronavirus virions decay fast compared to other forms of life.
 Depending on the environment at different speeds and with different mechanisms. In many situations one decay mechanism is much faster than the others, in this case the overall decay rate can be approximated by the fastest decay rate. In some situations different decay mechanisms interact or have similar speeds and so all of them have to be taken into account to estimate the overall decay.
 
-The principal reasons for the fast decay are:
+The principal decay mechanisms and reasons for the fast decay are:
 * The genome is [stored in ssRNA](../2_biological/life-forms.md#ssrna)
 * The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out imbalances such as osmotic pressures, without metabolism virions do not.
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
@@ -270,7 +270,7 @@ which are summarized in the table [Viability Data](./virion_viability/notes_on_v
 
 > numbers to be checked/confirmed, explorative section
 
-Self decay denotes the decay without inducing decay factors, therefore it is always observed. Extern factors can modify the decay rate by changing the internal state e.g. the environment temperature strongly influences the temperature within a virion. Self decay rate yields a lower bound for the decay at a given temperature.
+Self decay denotes the decay without inducing decay factors, therefore it is always observed. Extern factors can modify the decay rate by changing the internal state e.g. the environment temperature strongly influences the temperature within a virion which in turn determines the self decay (in rare situations the virion temperature can be different from the environment e.g. when aerosolized and exposed to infrared radiation/low UV sunlight the virions can be at a higher temperature than the ambient gas). Self decay rate yields a lower bound for the decay at a given temperature.
 
 #### Situations where Self Decay is Important
 In praxis self decay occurs: 
@@ -283,7 +283,7 @@ Self decay happens primarily by RNA self decay up to around 45 degrees. Above 45
 The self decay rates are estimated from the settings with the lowest observed decay rates for a given temperature. The lowest rates are observed when the samples are either dried out (at relative humidities below the [efflorescence humidity](#efflorescence-humidity) or in favorable solvents (stabilizing media).
 
 ##### Until about 45 degrees: RNA Self Decay
-The primary self decay mechanism is RNA self decay. The rate of the RNA decay is similar across different RNA viruses [to check and cite].
+The primary self decay mechanism is RNA decay. The rate of the RNA decay is similar across different RNA viruses [to check and cite].
 
 The halflifetime halves roughly every 4 to 7 degrees temperature increase:
 * at  4 degrees: about 300 - 400 hours
