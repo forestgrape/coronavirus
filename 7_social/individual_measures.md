@@ -9,8 +9,7 @@ In my opinion, measures should neither be based on individual R values neither t
 
 > Errāre hūmānum est. 
 
-> What if the vaccines companies get things wrong? Open source could help.
-
+> What if the vaccines companies get things wrong?
 
 
 ### Scientific Considerations
