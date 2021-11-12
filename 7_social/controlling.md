@@ -131,8 +131,8 @@ To prevent high rates of hospitalizations, some base measures can be adequate in
 > * communication and explanation
 > * knowledge & research
 > * self responsibility, independent decisions combined with a circumspect lifestyle
-> * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs). <!--// for things harmful and/or unwanted, advertisements restrictions are an option. It is always about acquiring new customers into an industry and not about competing on existing customers else the industry would cheer on saving ad costs. -->
-> 
+> * Focus on overall life quality. This includes keeping overall health effects in mind: comparing different risks and the number of diseases and deaths caused, long-term damage, life quality cost (which can include economic costs).
+
 > ### Strategy
 > * Measures preserving life quality and health of everybody.
 > * Keep the spread controllable and react if necessary. E.g. limiting super-spreader situation since they can yield sudden and hard to control explosion in cases.
@@ -157,7 +157,7 @@ To prevent high rates of hospitalizations, some base measures can be adequate in
 
 > Regarding overall health, I my opinion, many countries should take measures towards clean air. It causes so many years of life lost and is nearly impossible to self prevent. Many countries have unhealthy levels of air pollution. There are countries - mainly in the Americas and in Africa - that do quite *well*.
 
-> In regions with high air pollution the are more severe Covid cases ([Air Pollution](../5_epidemiological/spread_analyses.md#air-pollution) in Spread Analyses).
+> In regions with high air pollution the are more severe Covid cases ([Air Pollution](../5_epidemiological/individual_susceptibility_and_transmission.md#air-pollution) in Spread Analyses).
 
 The stringency of measures if given by the following table ([Full Stringency Table](../8_data/monitoring.md#from-numbers-to-measures) for all infection rates on the [Monitoring Page](../8_data/monitoring.md))
 
@@ -189,7 +189,7 @@ Reasons to avoid hospital overwhelming (with good planning some of the reasons c
 ## Individual Protection Measures
 
 ### Support Immune Protection
-Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is especially difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - ~~if once available~~ available in 2021 - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases overall health should be the main focus - alongside always open windows and no air-conditioners if there are Covid-19 cases.
+Completely avoiding Sars-CoV-2 can be as hard as avoiding dust and smoke. This is hard. Even in laboratory settings virus protection is difficult [[Wurtz, Raoult et al](#raoult), [Artika and Ma'roef](#artika)] and  Sars-CoV-1/2 protection is difficult. There have been several cases of infections in labs with Sars-CoV-1 [Orellana et al](#orellana), [Lim et al](#lim) and recommendations for autopsies of Covid-19 fatalities are very strict [Finegan et al](#finegan). Out of labs, once a coronavirus is widespread, complete avoidance is nearly impossible. Sars-Cov-2 is widespread. The best protection available is a good immune system. Vaccines - ~~if once available~~ available in 2021 - just prepare the immune system and do not replace it. So the long-term focus should be to support the overall health of humanity. In tropical regions where Sars-CoV-2 infects less virulent but there are many more infectious diseases overall health should be the main focus - alongside always open windows and no air-conditioners if there are Covid-19 cases.
 
 Proposals for good health:
 * providing settings that support good health
