@@ -9,7 +9,7 @@ In my opinion, measures should neither be based on individual R values neither t
 
 > Errāre hūmānum est. 
 
-> What if the vaccines companies get things wrong?
+> What if some errata happen with RNA transfection?
 
 
 ### Scientific Considerations
