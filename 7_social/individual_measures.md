@@ -5,7 +5,11 @@ In my opinion, measures should neither be based on individual R values neither t
 
 > I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume that currently available intramuscular vaccines (e.g. 'mRNA' and 'Adeno-virus-with-spike' vaccines) are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated.
 
-> A concise and pointed comment "[Covid-19 Vaccine Mandates Are Now Pointless](../5_epidemiological/individual_susceptibility_and_transmission.md#pierpont)" is by Pierpont.
+> A concise and pointed comment "[Covid-19 Vaccine Mandates Are Now Pointless](../5_epidemiological/individual_susceptibility_and_transmission.md#pierpont)" is by Pierpont (some errata however see notes at the reference.)
+
+> Errāre hūmānum est. 
+
+> What if the vaccines companies get things wrong? Open source could help.
 
 
 
