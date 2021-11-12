@@ -33,12 +33,16 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
   * [Literature on the Viral Load in Saliva](#literature-on-the-viral-load-in-saliva)
   * [Saliva Sampling Methods](#saliva-sampling-methods)
   * [Notes on Saliva Tests](#notes-on-saliva-tests)
-* [Summarized References](#summarized-references)
+* [Refs on Diagnosis](#refs-on-diagnosis)
   * [Refs Overview of Covid-19 Diagnosis](#refs-overview-of-covid-19-diagnosis)
+  * [Refs Diagnosis in different Situations](#refs-diagnosis-in-different-situations)
+  * [Refs Antigen Tests](#refs-antigen-tests)
+* [Refs on Viral Load](#refs-on-viral-load)
   * [Time Series Viral Load in URT and LRT Samples](#time-series-viral-load-in-urt-and-lrt-samples)
   * [Viral Load Series in URT](#viral-load-series-in-urt)
   * [Viral Load in URT and LRT Samples](#viral-load-in-urt-and-lrt-samples)
   * [Viral Load in Sputum](#viral-load-in-sputum)
+  * [Refs Viral Load in BALF](#refs-viral-load-in-balf)
   * [Viral Load in URT](#viral-load-in-urt)
   * [Refs NPA Respiratory Viruses](#refs-npa-respiratory-viruses)
   * [Refs Viral Load in Saliva compared to NPA/NPS Respiratory Viruses](#refs-viral-load-in-saliva-compared-to-npanps-respiratory-viruses)
@@ -47,8 +51,6 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
   * [Refs Time Series of Viral Load in URT Samples](#refs-time-series-of-viral-load-in-urt-samples)
   * [Timing Specimen Collection](#timing-specimen-collection)
   * [Refs References Viral Load and Infectivity](#refs-references-viral-load-and-infectivity)
-  * [Refs Diagnosis in different Situations](#refs-diagnosis-in-different-situations)
-  * [Refs Antigen Tests](#refs-antigen-tests)
 * [Appendix](#appendix)
   * [Specimen Collection](#specimen-collection)
 
@@ -150,16 +152,23 @@ Test for specific sequences in the genome of virions (positive single stranded R
 The PCR method approximately doubles pieces of viral RNA present in cycles, until detectable by the helper method. To calculate to original viral load, one needs to undo the doubling-cycles. Thus a difference of 10 CT-cycles roughly corresponds to an amplification of 2^10=1024. Thus 10 additional CT cycles are needed, when the starting viral load was 1024 times smaller ([Calculation](./pcr_diagnosis.md#calculation-of-viral-load-from-ct_value) in the [PCR chapter](./pcr_diagnosis.md)).
 
 ##### PCR Detection Limit
-In theory a single sequence of RNA/DNA can be amplified. Practically PCR apparatuses have a detection limit. Often this is in the order of a few thousand copies per milliliter. This corresponds to a maximal PCR cycle number (often 40). 
+In theory a single sequence of RNA/DNA can be amplified. Practically PCR apparatuses have a detection limit. Often this is in the order of a few thousand copies per milliliter. This corresponds to a maximal PCR cycle number (often 40) as discussed in the chapter [PCR diagnosis](pcr_diagnosis.md). 
 
 
 #### Protein Detection
 Methods detecting proteins of virions are usually called antigen tests (virus proteins are called antigens since these proteins can be recognized by the immune system as harmful).
-* There are many different products of antigen tests which vary a lot in sensitivity and specificity.
-* The sensitivity and specificity of antigen tests tend to be lower than PCR based tests.
 
 > ###### Antigen Test
-> Proteins have specific binding patterns to other proteins. This is used by vertebrates to produces specific proteins (called antibodies) which bind to foreign/unwanted proteins (called antigens). Antigen test work similarly by detecting specific proteins of SARS-CoV-2 (antigens).
+> Proteins have specific binding patterns to other proteins. This is used by vertebrates to produces specific proteins (called antibodies) which bind to foreign/unwanted proteins (called antigens). Antigen tests work similarly by detecting specific proteins of SARS-CoV-2 (antigens) and are therefore part of immune tests. How antigen test work is discussed in the chapter [Immuno Assays](immuno_assyas.md).
+
+
+The sensitivity and specificity of antigen tests tend to be lower than PCR based tests. There are many different products of antigen tests which vary a lot in sensitivity and specificity. Specifically for the Roche SARS-CoV-2 rapid antigen test [Salvagno et al](#salvagno) find, that this test gives a positive result for nearly all samples below 30 PCR cycles:
+
+![Roche antigen test vs PCR](Images/images%20diagnosis/salvagno_f2.jpg))
+
+
+
+
 
 
 ### Detect Infectious Virions
@@ -200,12 +209,14 @@ E.g. CT (quite accurate but high radiation to sensible locations) or Xray (less 
 
 #### Antibody Test
 [in work] 
-For infections triggering certain alarms, the immune response involves antibodies which can be detected in the blood or in the respiratory tract fluids. Antibodies are detected by [immunological methods](immuno_assyas.md). By "tradition" antibodies are measured in the serum of the blood. 
+For infections triggering certain alarms, the immune response involves antibodies which can be detected in the blood or in the respiratory tract fluids. Antibodies are detected by [immunological methods](immuno_assyas.md). By "tradition" antibodies are measured in the serum of the blood.
 
 > ###### Serology
 > Methods analyzing the blood serum are called *serology*. Antibody detection is referred as serological (Covid) tests. 
 
-Different kinds of antibodies are produced at different stages during and after an infection e.g. IgM and IgG, where IgG has again subclasses. Only infections in later stages and past infections can be diagnosed by this method since the viruses need first to replicate to high enough titers to trigger an immune response strong enough and then a couple of days are needed to produce a detectable amount of antibodies.
+However antibodies are also in secreted body fluids such as the mucus where mainly IgA is secreted.
+
+The types of antibodies not only vary by location but also by time: Different kinds of antibodies are produced at different stages during and after an infection e.g. IgM and IgG, where IgG has again subclasses. Only infections in later stages and past infections can be diagnosed by this method since the viruses need first to replicate to high enough titers to trigger an immune response strong enough and then a couple of days are needed to produce a detectable amount of antibodies.
 
 The following graphics from [Habli et al](#habli) shows a representative course of the detection by IgM, IgG and Viral Load:
 
@@ -348,16 +359,16 @@ Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of 
 * Specificity: The specificity to detect infectiousness is low in mild cases (rough estimate about 50%) since the infectiousness peaks early (according to virus culture investigations) and viral RNA decreases slowly in NPS.
  
 #### Nasopharyngeal Aspirate
-[in work] As NPS nasopharyngeal aspirates samples the back of the nose. Compared to swabs, apirates contain mucus from a much larger area. The large area reduces the randomness and the viral load less variable and the detection rate  superior as observed for other respiratory tract viruses and especially viruses with a lower respiratory tract tropism such as RSV ([Ahluwalia et al](#summary-ahluwalia), [Sung et al](#summary-sung).
+[in work] As NPS nasopharyngeal aspirates samples the back of the nose. Compared to swabs, apirates contain mucus from a much larger area. The large area reduces the randomness and the viral load less variable and a better detection rate than NPS is observed for other respiratory tract viruses, especially viruses with a lower respiratory tract tropism such as RSV ([Ahluwalia et al](#summary-ahluwalia), [Sung et al](#summary-sung)).
 
 #### Nasal Swab
 The anterior or mid-turbinate mucus can be swabbed. Overall detection rates tend to about 10% lower than NPS (Figure 5 in [Lee et al](#summarized-review-lee)). [Hanson et al](#summary-hanson) observed about a 10% lower detection for anterior nasal swabs compared to NPS or saliva. 
 
 
 ### Diagnosis in the Mouth
-The sensitivity depends on the timing (e.g. before or after eat), the location (e.g. back of the throat, normal spitting) and the exact protocol (e.g. gargling or coughing up sputum). Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Methods](#saliva-sampling-methods) in the section [Saliva Diagnosis Chapter](#viral-load-in-saliva). 
+The sensitivity depends on the timing (e.g. before or after eat), the location (e.g. back of the throat, normal spitting) and the exact protocol (e.g. gargling or coughing up sputum). Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Methods](#saliva-sampling-methods) in the section [Saliva Diagnosis section](#viral-load-in-saliva). 
 
-> Separate chapter since it is a good option for routine Covid diagnosis and thus discussed in more than detail than other diagnosis locations. 
+> Separate section since it is a good option for routine Covid diagnosis and thus discussed in more than detail than other diagnosis methods. 
 
 #### Oropharyngeal Swabs
 [Zhou et al](#summary-zhou) compared oropharyngeal swabs to NPS: OPS are more variables and have lower sensitivity. 
@@ -374,7 +385,7 @@ Round glassy occupancies in the lung are characteristic for Covid [to check and 
 => recommended for symptomatic risk patients of very high age (radiation exposure less relevant) with negative test in the upper respiratory tract.
 
 #### Sputum
-[in work]
+
 Sputum has a high detection rate: 
 * over 80% in the first week of symptoms and over 70% in the second [Yang et al](#summary-yang) both for mild and severe cases. 
 * [Wang et al](#summary-wang) observed a detection rate over 70%.
@@ -384,15 +395,16 @@ Sputum has a high detection rate:
 [in work]
 
 #### BALF 
-Broncho-alveolar-lavage fluid (BALF). Even though the lower respiratory tract is the most relevant location for pathogenesis, the viral load is less known especially for mild cases since sampling is complicated.
-[Yang et al](#summary-yang) detected a viral load in all severe cases. The BALF of two mild cases was analyzed in the second week of illness and negative. // Which doesn't exclude there where viruses in the lungs: BALF sampling only collects from a limited area of the lungs and for mild cases it is known from XRay that the lungs are often only locally infected.
+Broncho-alveolar-lavage fluid (BALF). Even though the lower respiratory tract is the most relevant location for pathogenesis, the viral load is less known especially for mild cases since sampling is complicated. For severe cases BALF can be sampled during the  
 
+* [Yang et al](#summary-yang) detected a viral load in all severe cases. The BALF of two mild cases was analyzed in the second week of illness and negative. // Which doesn't exclude there where viruses in the lungs: BALF sampling only collects from a limited area of the lungs and for mild cases it is known from XRay that the lungs are often only locally infected.
+* [Blot et al](#summary-blot) find that in intubated patients, a high viral load in the BALF indicates subsequent clinical worsening.
 
 ### Challenges and Biases regarding Viral Load
 Often investigations for viral load are biased.
 
 #### Bias towards Symptomatic Patients
-Sampling is biased towards symptomatic patients. // Not necessarily bad since symptomatic patients tend to are more infectious ([Section Infectors and Symptoms](../5_epidemiological/spread_analyses.md#infectors-and-symptoms) in the Chapter Spread Analyses), are at increased risk for severe disease and tend to have a higher viral load which is associated to infectiousness with a correlate to exhaled breath. For low viral loads the detection rate is usually lower which needs to be considered e.g. estimate to prevalence of SARS-CoV-2 or to estimate the effectiveness of intervention methods such as vaccination since both the symptoms and the infected locations can change.
+Sampling is biased towards symptomatic patients. // Not necessarily bad since symptomatic patients tend to are more infectious ([Chapter Individual Susceptibility](../5_epidemiological/individual_susceptibility_and_transmission.md)), are at increased risk for severe disease and tend to have a higher viral load which is associated to infectiousness with a correlate to exhaled breath. For low viral loads the detection rate is usually lower which needs to be considered e.g. estimate to prevalence of SARS-CoV-2 or to estimate the effectiveness of intervention methods such as vaccination since both the symptoms and the infected locations can change, also discussed in [Individual Susceptibility](../5_epidemiological/individual_susceptibility_and_transmission.md).
 
 #### Bias towards NPS Sampling
 Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measuring viral load e.g. in saliva is often compared to NPS viral load. Sometimes NPS sampling is assigned a sensitivity of 100%. However the sensitivity of NPS is not 100%.
@@ -470,11 +482,7 @@ Gingival crevicular fluid (GCF) sampling is usually used to diagnose periodontal
 
 
 
-## Summarized References
-As usually for summarized references:
-* in "..." are word-for-word extracts. 
-* "Figure 1" and similar refer to figures in the corresponding paper. 
-* While trying to capture the key findings of the investigations, the summaries are biased towards the findings referred on this page. 
+## Refs on Diagnosis
 
 ### Refs Overview of Covid-19 Diagnosis
 
@@ -484,8 +492,7 @@ Scientists still debate whether millions of cheap, fast diagnostic kits will hel
 Giorgia Guglielmi
 Nature 590, 202-205 (2021)
 doi: https://doi.org/10.1038/d41586-021-00332-4
-
-// A readable introduction and overview of different diagnosis methods.
+// Giorgia Guglielmi gives a readable introduction and overview of different diagnosis methods.
 
 #### Kilic
 Kilic, T., Weissleder, R., & Lee, H. (2020). Molecular and Immunological Diagnostic Tests of COVID-19: Current Status and Challenges. iScience, 23(8), 101406. https://doi.org/10.1016/j.isci.2020.101406
@@ -508,7 +515,6 @@ Current and innovative methods for the diagnosis of COVID‐19 infection (Review
 
 // Overview focussed on molecular methods (published in April 2021). The graphics below, copied from the paper, is an overview of the topics discussed.
 
-![Overview of Covid Diagnosis from 2019 to 2021](Images/falzone_fig1.jpg)
 
 #### Habli
 Habli Z, Saleh S, Zaraket H and Khraiche ML (2021) COVID-19 in-vitro Diagnostics: State-of-the-Art and Challenges for Rapid, Scalable, and High-Accuracy Screening. Front. Bioeng. Biotechnol. 8:605702. doi: 10.3389/fbioe.2020.605702
@@ -518,6 +524,23 @@ Habli Z, Saleh S, Zaraket H and Khraiche ML (2021) COVID-19 in-vitro Diagnostics
 Drobysh,M.; Ramanaviciene, A.; Viter, R.; Ramanavicius, A. Affinity Sensors for the Diagnosis of COVID-19. Micromachines2021,12,390. https:// doi.org/10.3390/mi12040390
 
 
+### Refs Diagnosis in different Situations
+
+#### Mina
+M. J. Mina and K. G. Andersen, Science 10.1126/science.abe9187 (2020).
+
+### Refs Antigen Tests
+
+#### Salvagno
+Salvagno, Gian Luca, Gianfilippi, Gianluca, Bragantini, Damiano, Henry, Brandon M. and Lippi, Giuseppe. "Clinical assessment of the Roche SARS-CoV-2 rapid antigen test" Diagnosis, vol. 8, no. 3, 2021, pp. 322-326. https://doi.org/10.1515/dx-2020-0154
+
+
+## Refs on Viral Load
+
+As usually for summarized references:
+* in "..." are word-for-word extracts. 
+* "Figure 1" and similar refer to figures in the corresponding paper. 
+* While trying to capture the key findings of the investigations, the summaries are biased towards the findings referred on this page. 
 
 ### Time Series Viral Load in URT and LRT Samples
 
@@ -695,6 +718,20 @@ Most findings agree with those of [Yang et al](#summary-yang):
 * For mild cases the viral load from sputum and NPS is similar, where as for severe cases the viral load is much higher in sputum (Figure 2). //as observed by Yang et al in [Figure 1](#yang-figure-1). //The observation is more pronounced than in Yang et al.
 
 However unlike in [Yang et al](#summary-yang) and many other investigations (e.g. review [Mohammadi et al](#mohammadi) the viral load increases in the first days.
+
+
+### Refs Viral Load in BALF
+
+#### Summary Blot
+Mathieu Blot, Marine Jacquier, Catherine Manoha, Lionel Piroth, Pierre-Emmanuel Charles, Pneumochondrie study group, Alveolar SARS-CoV-2 Viral Load Is Tightly Correlated With Severity in COVID-19 ARDS, Clinical Infectious Diseases, Volume 72, Issue 9, 1 May 2021, Pages e446–e447, 
+<https://doi.org/10.1093/cid/ciaa1172>
+
+##### Methods
+"A bronchoalveolar lavage (BAL) was performed shortly after intubation. The number of RNA copies of SARS-CoV-2 was quantified by RT-PCR targeting RNA-dependent RNA polymerase IP4 region. To correct for dilution, the epithelial lining fluid (ELF) concentration of SARS-CoV-2 RNA was calculated by multiplying BALF concentration with the [urea]BALF/[urea]plasma [4]."
+
+##### Results
+"Although no correlation was found with baseline SOFA scores or baseline PaO2:FiO2, on day 2 there was a significant positive correlation with SOFA score values (r = 0.658; P = .013) (Figure 1) and a negative correlation with the PaO2:FiO2 ratio (r = −0.556; P = .042).
+In line with the findings of Magleby et al, we showed that the alveolar viral load at the onset of ARDS is tightly correlated with subsequent clinical worsening, especially in terms of hypoxemia." //[Magleby]    (todo add ref)
 
 ### Viral Load in URT
 
@@ -1115,7 +1152,7 @@ Total           | 38     | 178    | 216
 Viral Load:
 
 Specimen\Gene | N-Gene | RNaseP 
---|--|--|--
+--|--|--
 Saliva        | 24.2   | 23   
 NPS           | 20.6   | 25.1
 
@@ -1456,17 +1493,6 @@ SARS-CoV-2 virus culture from the upper respiratory tract: Correlation with vira
 Ranawaka APM Perera, Eugene Tso, Owen TY Tsang, Dominic NC Tsang, Kitty Fung, Yonna WY Leung, Alex WH Chin, Daniel KW Chu, Samuel MS Cheung, Leo LM Poon, Vivien WM Chuang, Malik Peiris
 medRxiv 2020.07.08.20148783; doi: https://doi.org/10.1101/2020.07.08.20148783
 
-
-
-### Refs Diagnosis in different Situations
-
-#### Mina
-M. J. Mina and K. G. Andersen, Science 10.1126/science.abe9187 (2020).
-
-### Refs Antigen Tests
-
-#### Salvagno
-Salvagno, Gian Luca, Gianfilippi, Gianluca, Bragantini, Damiano, Henry, Brandon M. and Lippi, Giuseppe. "Clinical assessment of the Roche SARS-CoV-2 rapid antigen test" Diagnosis, vol. 8, no. 3, 2021, pp. 322-326. https://doi.org/10.1515/dx-2020-0154
 
 
 ## Appendix
