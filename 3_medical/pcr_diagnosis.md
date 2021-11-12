@@ -15,8 +15,8 @@ The PCR sensitivity and accuracy for different settings. E.g.
 For many considerations, the sensitivity can be viewed as the accuracy at very low DNA/RNA concentration which corresponds to high cycles numbers (usually above 35).
 
 
-### Accuracy for SARS-CoV-2 Detection
-Due the significance of SARS-CoV-2, for SARS-CoV-2 there are several comparisons and evaluations of PCR protocols to detect it. The findings are likely similar for other coronaviruses, however the strains of the endemic coronaviruses are more divers [to confirm and cite] and thus construction primers which work for all strains can be more difficult.
+### RT-PCR Accuracy for SARS-CoV-2
+Due the significance of SARS-CoV-2, for SARS-CoV-2 there are several comparisons and evaluations of PCR protocols to detect it. The findings are likely similar for other coronaviruses, however the strains of the endemic coronaviruses are more divers [to confirm and cite] and thus construction primers which work for all strains can be more difficult. [to check whether local 2nd structure can affect accuracy]
 
 * [Vogels et al](#vogels) evaluate different primers for PCR amplifications and find:
   * *Ct value > 35:* PCR tests detect coronavirus RNA reliable for concentrations higher than 10^2 copies/microliter = 10^5 copies/milliliter (500 copies/initial reaction) which corresponds to a Ct value of 35. Above this value the standard deviation is about 2 cycles.
@@ -29,8 +29,22 @@ Due the significance of SARS-CoV-2, for SARS-CoV-2 there are several comparisons
   * Comparing all the Ct values obtained by the different labs yielded a distribution with a mean of 33.2 and a standard deviation of 3.2.
   * Up to a reference Ct value of 36 false negatives are below 10%. Above a ref Ct of 36 the values start to increase and reach about close to 50% at a ref Ct value of 39.
 
+* [Walker et al](#summary-walker) use primers for the three genes encoding the N protein, the S protein, and the ORF1ab. They observe that for frequently just 1 or 2 of 3 PCR genes are detected. For high viral loads (low Ct values) usually all genes are detected: 
+  ![Ct values by primer](pcr_images/walker_f1.jpg)
+
+  The different results are grouped into evidence classes:
+  * Higher evidence: two or three genes detected
+  * Moderate evidence: single-gene detected and Ct<34 or (2) higher pre-test probability of infection, defined as any symptoms at/around the test or exposed job.
+  * Lower evidence: all other positives i.e. single-gene at Ct > 34 in asymptomatic individuals and no exposed job. 
+
+  To check whether the 'lower' and the 'moderate' are false or true positives the average Ct values (A) and the prevalence (B) is plotted and compared to the prevalence of the higher evidence samples (=sure positives):
+
+  ![prevalence by evidence class](pcr_images/walker_f2.jpg)
+
+  As visible from B, the prevalences rise and fall in parallel, which indicates that all are *true* positives. 
+
 ## From Ct Values to Viral Load
-> This is a conceptual description and technical difficulties are skipped (e.g. in a cycle the RNA is not precisely doubled but rather increases e.g. by the factor 1.8 since the the efficacy is usually around 90%).
+> This is a conceptual description and technical difficulties are skipped (e.g. in a cycle the RNA is not precisely doubled but rather increases e.g. for 90 % doubling efficacy the increase factor is 1.8).
 
 The viral load measurements often work as follows: specific sequences are doubled in cycles until the concentration is high enough that they can be detected by optical methods. When there are already many sequences to start with, one needs fewer doubling cycles (Ct cycles) until detection. Thus few cycles correspond to a high number of sequences in the sample to test (= a high viral load in the sample).
 
@@ -75,8 +89,8 @@ Journal of Clinical Virology, Volume 129,2020,
 
 ### Refs Practical Observations of PCR Accuracy
 
-#### Walkers
-[coming]
+#### Summary Walker
+Walker, A. S., Pritchard, E., House, T., Robotham, J. V., Birrell, P. J., Bell, I., Bell, J. I., Newton, J. N., Farrar, J., Diamond, I., Studley, R., Hay, J., Vihta, K. D., Peto, T. E., Stoesser, N., Matthews, P. C., Eyre, D. W., Pouwels, K. B., & COVID-19 Infection Survey team (2021). Ct threshold values, a proxy for viral load in community SARS-CoV-2 cases, demonstrate wide variation across populations and over time. eLife, 10, e64683. https://doi.org/10.7554/eLife.64683
 
 ### Refs Digital Droplet PCR
 
