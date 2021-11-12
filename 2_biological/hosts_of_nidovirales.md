@@ -1,7 +1,7 @@
 
 # Hosts of Nidovirales
 
-> EXPLORATIVE 
+> EXPLORATIVE, originally named backtracing SARS-like
 
 Hypotheses about the host tropism of Nidovirales are discussed. They extend the [page coronaviruses](../2_biological/coronavirus.md#top). 
 
@@ -85,14 +85,14 @@ Many references that base and inspire this findings, are [summarized](./hosts_of
     * Insect are the main hosts of SARS-like and mammals are side-hosts.
 
     Evidence:
-    * animals tested positive in markets for SARS-like are insectivores:
+    * Animals tested positive in markets for SARS-like are insectivores:
         - Civets, racoon dogs and ferrets badgers in live animals markets in 2003/2004. Some SARS-1 strains in civets were near the same as the human strains, indicating civets were intermediate hosts
         - Pangolins for SARS-2
-    * animals tested positive in the wild for SARS-like are insectivores:
+    * Animals tested positive in the wild for SARS-like are insectivores:
         - Bats around China test positive for SARS-like
         - Bats in Yunnan were infected with the closets relatives found [Zhou et al](#summary-zhou)
         - In the case of MERS-like the wild animals positive are bats and hedgehogs. 
-    * insects often nourish from feces and thus the life cycle of SARS-like could be closed. Horseshoe bats in turn have feces-nourishing beetles on their menu, which would explain their infections but they would be only side-hosts and not primary hosts.  
+    * Insects often nourish from feces and thus the life cycle of SARS-like could be closed. Horseshoe bats in turn have feces-nourishing beetles on their menu, which would explain their infections but they would be only side-hosts and not primary hosts.  
     
 5. Insectivores mammals could be intermediate hosts for the transmissions to humans. SARS-like infected mammals often have a respiratory disease and transmission can occur airborne from then on. Civets likely have been intermediate hosts responsible for some jumps to humans. 
 
@@ -104,12 +104,12 @@ Many references that base and inspire this findings, are [summarized](./hosts_of
 > [in work]
 
 The focus of the summaries is in the following order:
-1. capture the findings used in the above argumentation
-2. capture the essence of the studies
+1. Capture the findings used in the above argumentation
+2. Capture the essence of the studies
 
 Notes:
-* references like 'Figure 2' refer to 'Figure 2' in the corresponding paper. 
-* word by word extracts are between "..." and denoted as extracts
+* References like 'Figure 2' refer to 'Figure 2' in the corresponding paper. 
+* Word by word extracts are between "..." and denoted as extracts
 
 
 ### Origin and Evolution of SARS-like
@@ -243,7 +243,7 @@ and recombination analysis (Fig 2)
     - all 12 had a high viral load in the gut
     - RNA in other tissues was 10 fold lower but still at about 10^5/ml if observed, but not all animals had viruses in all tissues
     - 6 of the 12 MERS RNA positive and 7 of the 14 MERS RNA negative hedgehogs had MERS antibodies (by staining of MERS-CoV infected Vero cells) 
-        > Somewhat intriguing that about 50% of RNA positive animals had no detectable antibodies and moreover antibody positivity seems to be independent of RNA positivity. 
+        > Somewhat intriguing that about 50% of RNA positive animals had no detectable antibodies and moreover antibody positivity seems to be independent of RNA positivity. // Supports the insect hypothesis
 
       
 ### Observations in Bats
