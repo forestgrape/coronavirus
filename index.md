@@ -38,6 +38,14 @@ This section overviews the entire content. The [content section](#content) lists
 
 ## Updates
 ### Recent Topics Added
+- 12.11.: [Respiratory Tract Microbiota with a focus on Virobiota](5_epidemiological/virome.md) and some notes [PCR diagnosis](3_medical/pcr_diagnosis.md).
+- 12.11.: Split up the spread analyses chapter into 
+  - [Spread Analyses regarding Transmission Environments](./5_epidemiological/spread_analyses.md)
+  - [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md). Added sections:
+    - Effects of acquired immunity
+    - Extended many section e.g. transmission by age groups.
+    - updates still in work
+- 12.11.: Proposal for an [Advisory Covid App](7_social/advisory_covid_app.md)
 - 9.9. [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md): How the immune system developes during lifetime and how the pathogen exposures induce immune adaptions which are often localized. During childhood SARS-CoV-2 is just another new virus as each virus is encountered once for the first time. With increasing age the immune system increasingly relies on the previously seen pathogens and looses capabilities to handle new viruses.
 
   > Early online due to its relevance for acute questions such as whether to vaccinate children or to close schools.
@@ -56,6 +64,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
+- 12.11.: Updates across the page, for example: added pictures to [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md).
 - 12.9.: [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md) clarified and extended.
 - 9.9. Many small changes across the page and a new chapter added: [Recent Topics added](#recent-topics-added).
 - 5.9.: New brainstorming [Chapter on Air Quality](7_social/good_air.md). How to measure, achieve and certify the air quality. 
