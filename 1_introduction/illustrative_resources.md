@@ -27,8 +27,8 @@ H Jia, et al **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Co
 
 #### Highlighted
 * The ACE2 receptor is expressed on ciliated epithelial cells. This differentiation is dynamic and is lost when submerged.
-* According to the ACE2 expression, Sars-Cov-1 infects mainly well differentiated ciliated airway epithelia cells. // Differentiated cells in the airways have a fast renewal time which makes longer lasting adverse effects or even permanent damage very unlikely (except for severe cases and/or when the immune system fails other cells can get infected)
-* Sars-Cov-1 virions are mainly released on the apical cell side. //So the SARS lives on the surface of respiratory tract and not within tissues. 
+* According to the ACE2 expression, Sars-Cov-1 infects mainly well differentiated ciliated airway epithelia cells. // Differentiated cells in the airways have a fast renewal time which makes longer lasting adverse effects or even permanent damage very unlikely for SARS-CoV-2 infection in the airways (except for severe cases and/or when the immune system fails other cells can get infected)
+* Sars-Cov-1 virions are mainly released on the apical cell side. //-> the SARS viruses live on the surface of respiratory tract and not within tissues. 
 
 #### Usage Here
 [Summary and full citation](../2_biological/coronavirus.md#summary-jia-2005) on the coronavirus page, where this paper provides insight to [Respiratory Tract Tropism of Coronaviruses](../2_biological/coronavirus.md#respiratory-tract-tropism)
@@ -39,7 +39,7 @@ H Jia, et al **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Co
 Bertram S, et al. (2012) **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.** <https://doi.org/10.1371/journal.pone.0035876>
 
 #### Highlighted
-The paper describes and compares infectable locations for the SARS coronavirus and influenza. It shows the distribution of the  entry receptors (influenza: 2,6-linked sialic acids and SARS: ACE2) and the required proteases (influenza: HAT, TMPRSS2 and SARS: TMPRSS2). E.g. influenza can infect the vocal folds and thus can cause horse voice while SARS-CoV-1/2 do not.
+The paper describes and compares infectable locations for the SARS coronavirus and influenza. It shows the distribution of the  entry receptors (influenza: 2,6-linked sialic acids and SARS: ACE2) and the activation proteases (influenza: HAT, TMPRSS2 and SARS: TMPRSS2). E.g. influenza can infect the vocal folds and thus can cause horse voice while SARS-CoV-1 (//and SARS-2) do not.
 
 #### Usage Here
 [Referenced](../3_medical/coronavirus_disease_patterns.md#summary-bertram-2012) in the chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md) which relies on the possible infection locations of SARS-like.
@@ -50,7 +50,7 @@ The paper describes and compares infectable locations for the SARS coronavirus a
 **FAQs on Protecting Yourself from COVID-19 Aerosol Transmission**
 <https://tinyurl.com/FAQ-aerosols> Version: 1.87, 9-Dec-2020
 
-* A illustrative and readable description of aerosol transmission.
+* Illustrative and readable description of aerosol transmission.
 * Practical measures and tips how to protect from aerosol transmission.
 * Written by renowned aerosol experts to inform and design protection measures in the US.
 
@@ -86,11 +86,11 @@ Boast A, Munro A, Goldstein H. **An evidence summary of Paediatric COVID-19 lite
 * An overview of the Covid spread in schools and children which has rolling updates.
 * Concise summaries of many investigations of the spread in schools.
 * Children are less infectious than adults and no super spreading is observed for children
-  * adults in school settings yield more secondary cases than children (despite children tend to have closer contact)
+  * adults in school settings yield more secondary cases than children //despite children tend to have closer contact
   * hardly any clusters among pupils are observed
 
 #### Usage Here
-Not yet, but will be included to [Spread Analyses of Children and Schools](../5_epidemiological/spread_analyses.md#schools-and-children) 
+* [Spread Analyses of Children and Schools](../5_epidemiological/individual_susceptibility_and_transmission.md#transmission-by-age) 
 
 
 
