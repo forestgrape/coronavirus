@@ -33,8 +33,8 @@
 
 
 ## Public Description
-Covid-19 has different clinical pictures and [symptoms](#immune-response-and-symptoms). The appearances vary since SARS-CoV-2 can infect different parts of the respiratory tract (except the vocal folds) and even other organs. The locations infected in turn determine the symptoms. Therefore any kind of respiratory symptoms - except a hoarse voice - can indicate Covid-19. With symptoms avoiding crowded indoor spaces is important. 
-Many of the symptoms are not specific to Covid-19, they may have other causes than SARS-CoV-2 such as having a (respiratory) infection with different virus or a bacterium, having eaten/drunken something harmful (e.g. rotten or too much alcohol)or just not having had enough sleep. In doubt a Covid-19 test can help. A positive results means avoiding foreign indoor room. A negative result is no free pass however, a single negative test does not exclude an infection. 
+Respiratory SARS-CoV-2 infections causing uneasiness are the disease Covid-19. Covid-19 has different clinical pictures and [symptoms](#immune-response-and-symptoms). The appearances vary since SARS-CoV-2 can infect different parts of the respiratory tract (except the vocal folds) and also other parts of the body (though the clinical significance of these infections quite unclear as of 12.11.21). The locations infected in turn determine the symptoms. Therefore any kind of respiratory symptoms - except a hoarse voice - can indicate Covid-19. With symptoms avoiding crowded indoor spaces is important. 
+Many of the symptoms are not specific to Covid-19, they may have other causes than SARS-CoV-2 such as having a (respiratory) infection with different virus or a bacterium, having eaten/drunken something harmful (e.g. rotten or too much alcohol) or just not having had enough sleep. In doubt a Covid-19 test can help. A positive results means avoiding foreign indoor spaces. A negative result is no free pass however, a single negative test does not exclude an infection. 
 
 
 
@@ -43,26 +43,34 @@ Many of the symptoms are not specific to Covid-19, they may have other causes th
 > ##### Disease
 > A *disease* is a biological disorder of structure or function in an organism causing inconvenience and/or unwanted effects. 
 
-* Literally disease means without-ease (dis=without, separated from).
+Literally disease means without-ease (dis=without, separated from).
 
-Chemical/biochemical damages such as dehydration, a poisoning or physical damage such as a fracture or an injury are not diseases themselves but chemical/physical damage can result from a disease. Longer lasting biological damage or out of biological homeostasis is usually considered a disease. Life form interactions at the cellular level can cause biological imbalance.
-* A disease is can be (and often is) caused by life form interactions at the cellular level (e.g. pathogens infecting a host). As life from interactions are dynamic, the disease is dynamic and an immune response is induced/involved. 
-  > On this page, the immune system is defined as a system which regulates life form interactions to keep homeostasis ([Concepts of Immunology](./../4_immunological/concepts_of_immunology.md)).
+Disease: YES or NO
+* Chemical/biochemical damages such as dehydration, a poisoning or physical damage such as a fracture or an injury are not diseases themselves but chemical/physical damage can result from a disease.  
+* Longer lasting biological damage or out of biological homeostasis is usually considered a disease. Life form interactions at the cellular level can cause biological imbalance.
+* A disease is can be (and often is) caused by life form interactions at the cellular level (e.g. pathogens infecting a host).
 * Metabolic disorder
   * Yes: Being out of balance due to lack of vitamins (e.g. scurvy caused by a shortage of vitamin C) is also considered a disease. 
   * No: Short term disturbances of the homeostasis e.g. by shortage of water is usually not considered a disease despite dis-ease is caused.
 
 
 There are many different causes of diseases:
-* other [life forms](../2_biological/life-forms.md#life-form) interfering with the metabolism, such an interference is called [infection as defined below](#virus-infection). 
-  * outside of cells but inside multicellular organisms
-    * most bacteria
-    * fungi
-  * inside cells
-    * some bacteria
-    * all viruses
+* other [life forms](../2_biological/life-forms.md#life-form) interactions with the metabolism, called [infections](#infection). As life from interactions are dynamic, the disease is dynamic and an immune response is induced/involved. 
+  > On this page, the immune system is defined as a system which regulates life form interactions to keep homeostasis ([Concepts of Immunology](./../4_immunological/concepts_of_immunology.md)). 
 * immune disease in which the immune system overreacts to substances without need (notes on the immune system in the [Immune System chapter](../4_immunological/concepts_of_immunology.md))
 * shortage of necessary biological substances e.g. vitamins.
+
+
+> ##### Infection
+> When microorganisms induce metabolism changes on a host organism, the host is infected by the microorganisms. [in work and in consideration whether this is a suitable definition]
+
+Examples:
+* outside of cells but inside multicellular organisms
+  * most bacteria
+  * fungi
+* inside cells
+  * some bacteria
+  * all viruses
 
 Virus diseases are caused by virus infections:
 
