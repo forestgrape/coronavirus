@@ -1,8 +1,8 @@
 # The Respiratory Tract Microbiota with a Focus on Coronaviruses
 
-> Entire page in work. 
+> **Entire page is in early work** and needs to be checked
 
-> The page is partly explorative mainly since not all parts are well cited (yet?)
+> The page is partly explorative mainly since not all parts are well cited and some content needs to be checked and confirmed.
 
 The prevalence of microbiota living in the respiratory tract. A special focus is on 
 * which viruses are prevalent in health and which in disease.
@@ -13,18 +13,21 @@ The prevalence of microbiota living in the respiratory tract. A special focus is
 * [Introduction](#introduction)
   * [Terminology](#terminology)
   * [Mucosal Microbiota](#mucosal-microbiota)
-* [Detection of Virus Infections](#detection-of-virus-infections)
-* [Commensal Microorganisms](#commensal-microorganisms)
+* [Detecting Virobiota](#detecting-virobiota)
+* [Microbiota in Health and Disease](#microbiota-in-health-and-disease)
+  * [Commensal Microorganisms](#commensal-microorganisms)
+  * [Viruses in Health and Disease](#viruses-in-health-and-disease)
+  * [Bocaviruses](#bocaviruses)
 * [Coronaviruses in Health and Disease](#coronaviruses-in-health-and-disease)
   * [Coronavirus Viral Loads](#coronavirus-viral-loads)
   * [Coronavirus Viral Load Interpretation](#coronavirus-viral-load-interpretation)
 * [References](#references)
   * [Refs Virome by Sequencing](#refs-virome-by-sequencing)
   * [Refs Viruses in Health and Disease](#refs-viruses-in-health-and-disease)
-  * [Refs Respiratory Viruses in Kilifi, Kenia](#refs-respiratory-viruses-in-kilifi-kenia)
+  * [Refs Viruses in Health and Disease Reviews](#refs-viruses-in-health-and-disease-reviews)
+  * [Refs Respiratory Viruses in Kilifi](#refs-respiratory-viruses-in-kilifi)
   * [Refs Coronaviruses in Health and Disease](#refs-coronaviruses-in-health-and-disease)
   * [Refs Symptomatic Coronavirus Infections](#refs-symptomatic-coronavirus-infections)
-  * [Refs Coronaviruses in Health and Disease Reviews](#refs-coronaviruses-in-health-and-disease-reviews)
   * [Refs Respiratory Viruses Viral Load](#refs-respiratory-viruses-viral-load)
   * [Refs Microbiome Variations](#refs-microbiome-variations)
 
@@ -78,8 +81,8 @@ Both the inner part and the outer surfaces of multicellular organism are inhabit
 
 
 
-## Detection of Virus Infections
-Virus infections can be detected by a variety of methods such as laboratory methods detecting virus components, inspecting tissues for changes, or immune responses induced upon infection. Nearly all methods are geared towards diagnosing diseases: Symptom analyses or detection of tissue damage nearly exclusively work if there is a disease. To investigate the virome in the healthy state is difficult since 1) there's usually no (visible) tissue change, 2) the viral load is usually low and 3) the immune response very subtle. Diagnosis with a focus on the diagnosis of the Covid-19 disease is discussed in the chapter ([Chapter Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
+## Detecting Virobiota
+Virus infections can be detected by a variety of methods such as laboratory methods detecting virus components, inspecting tissues for changes, or immune responses induced upon infection. Nearly all methods are for diagnosing diseases: Symptom analyses or detection of tissue damage nearly exclusively work if there is a disease. To investigate the virome in the healthy state is difficult since 1) there's usually no (visible) tissue change, 2) the viral load is usually low and 3) the immune response very subtle. Diagnosis with a focus on the diagnosis of the Covid-19 disease is discussed in the chapter ([Chapter Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
 
 To detect the virome in healthy state, PCR tests can be used, when accounting for the low sensitivity at low viral loads. At low viral loads which correspond to high CT values (usually above 35) the PCR sensitivity starts to decrease (chapter on [PCR](../3_medical/pcr_diagnosis.md)). The sensitivity is a challenge to detect infections, especially in healthy state, since:
 * *Low Viral Load:* Even at the location of infection in healthy state, the viral load is mostly below 10^3 virions per milliliter of respiratory tract fluid.
@@ -87,18 +90,53 @@ To detect the virome in healthy state, PCR tests can be used, when accounting fo
 
 
 
+## Microbiota in Health and Disease
 
-## Commensal Microorganisms
+### Commensal Microorganisms
 
-Commensal microorganisms usually only cause a disease if they replicate to very high numbers or at the wrong locations. So the questions are: 
+> ###### Commensalism
+> One organisms benefits from a host while not doing harm to the host.
+
+Commensal microorganisms usually do not cause a disease. However if they replicate to very high numbers or at the wrong locations they can cause a disease. So the questions are: 
 * How many members of a certain type cause a disease?
 * At which locations which commensal microorganisms are healthy and which locations they cause a disease?
+
+Commensal microorganism are not strictly specified, in the sense some microorganisms can be commensal in some individuals while harmful in others.
+
+
+### Viruses in Health and Disease
+[in work and to check]
+Some viruses are more frequently detected in disease and some viruses are more frequently detected in health. In the following graphics from [Munywoki et al](#munywoki) the columns A and B show viruses  detected in healthy people, while in C samples from diseased people are analysed:
+
+![viruses in health and disease in Kenya](images_virome/munywoki-F3small.jpeg)
+
+Some viruses such as RSV or HMPV are strongly associated with a disease, while other viruses namely coronaviruses are more frequently detected in health. 
+
+Consistent with the observations above, in meta-analysis [Shi et al](#shi) find:
+
+Virus Type| OR of ALRI
+--|--
+RSV | 9.79
+IFV A | 5.97
+IFV B | 2.7
+MPV | 3.76
+AdV | 1.13
+CoV all| 1.03
+HKU1 | 0.61
+NL63 | 0.68
+229E | 1.47
+OC43 | 0.91
+
+(ALRI = Acute lower respiratory infection)
+
+
+
+### Bocaviruses
 
 
 
 
 ## Coronaviruses in Health and Disease
-
 
 ### Coronavirus Viral Loads
 Similarly to SARS-CoV-2, the endemic coronaviruses just cause symptoms at high viral loads. The violin plots of the viral loads by symptom status, show the association between high viral load (low Ct values) and symptoms. The values shown are from the [sampling in Kilifi](#kil), Kenya and the graphics is from the paper by [Nyaguthii et al](#nyaguthii):
@@ -110,7 +148,7 @@ Similarly to SARS-CoV-2, the endemic coronaviruses just cause symptoms at high v
 
 Amount | #copies per ml | ~ Ct Value | Significance 
 --|--|--|--
-'Very Few'| < 100 | > 40 | This viral load is mostly not detected. Whether healthy people can be persistently infected with such low viral loads is possible but hardly investigated. Such infections are not clinically relevant but may have an epidemiological relevance since the viruses evolve.// As of October 2021 nearly nothing is published about viral loads below 100 copies/ml.
+'Very Few'| < 100 | > 40 | This viral load is mostly not detected. Whether healthy people can be persistently infected with such low viral loads is possible but hardly investigated. Such infections are not clinically relevant but may have an epidemiological relevance since the viruses evolve.// As of early November 2021 nearly nothing is published about viral loads below 100 copies/ml. I consider low number persistent infections as likely and also as healthy.
 'Few' | 1000 | 35 | Mostly asymptomatic. Sometimes people are persistently infected with such intermediate viral loads. The risk for such infections is higher in immunocompromised and there is also evidence that the currently prevalent muscular administrated vaccines, sometimes induce a dumb immune responses which enable persistent infection with such viral loads [to cite].
 'Intermediate' | 10^6 | 25 | With a million virions per milliliter, there are usually symptoms i.e. there is a disease. 
 'High' | 10^9 | 15 | With a billion of viruses per milliliter (!) one is usually severely sick.
@@ -147,14 +185,28 @@ ONE 14(10): e0223952.
 
 ### Refs Viruses in Health and Disease
 
+
+
+
+
+### Refs Viruses in Health and Disease Reviews
+
+#### Shi
+Shi, T., McLean, K., Campbell, H., & Nair, H. (2015). Aetiological role of common respiratory viruses in acute lower respiratory infections in children under five years: A systematic review and meta-analysis. Journal of global health, 5(1), 010408. 
+<https://doi.org/10.7189/jogh.05.010408>
+
+// Meta-analysis showing the disease associations of a variety of viruses including the human covs.
+
+
+
+#### Refs Viral Load in Health and Disease
+
 #### Chonmaitree
 Chonmaitree, T., Alvarez-Fernandez, P., Jennings, K., Trujillo, R., Marom, T., Loeffelholz, M. J., Miller, A. L., McCormick, D. P., Patel, J. A., & Pyles, R. B. (2015). Symptomatic and asymptomatic respiratory viral infections in the first year of life: association with acute otitis media development. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America, 60(1), 1–9. https://doi.org/10.1093/cid/ciu714
 
 ##### Notes
 * Coronaviruses are found more frequently in monthly testing than in testing associated to upper respiratory tract infection episodes.
 * Across viruses, the viral load is significantly higher during URTI than in monthly screening.
-
-#### Refs Viral Load in Health and Disease
 
 #### Granados
 Granados, A., Goodall, E. C., Luinstra, K., Smieja, M., & Mahony, J. (2015). Comparison of asymptomatic and symptomatic rhinovirus infections in university students: incidence, species diversity, and viral load. Diagnostic microbiology and infectious disease, 82(4), 292–296. 
@@ -166,15 +218,19 @@ Granados, A., Goodall, E. C., Luinstra, K., Smieja, M., & Mahony, J. (2015). Com
 ##### Results
 "HRV was identified in 33/400 (8.3%) and 85/92 (92.4%) of the asymptomatic and symptomatic students, respectively. We identified a higher than previously reported rate of HRV-B in both groups, although the distribution of HRV species was similar (P = 0.37). Asymptomatic viral load averaged 1.2 log10 copies/mL lower than symptomatic HRV (P b 0.001)."
 
-### Refs Respiratory Viruses in Kilifi, Kenia
+### Refs Respiratory Viruses in Kilifi
 
 #### Sampling in Kilifi
 In Kilifi Kenya multiple house hold surveys for respiratory viruses have been carried out:
-* One survey with sampling was from December 2009 to June 2010.
+* First sampling round was from December 2009 to June 2010. These samples are used in:
+  * [Nyaguthii](#nyaguthii)
 
 #### Nyaguthii
 Nyaguthii DM, Otieno GP, Kombe IK et al. Infection patterns of endemic human coronaviruses in rural households in coastal Kenya [version 1; peer review: 1 approved] Wellcome Open Research 2021, 6:27 
 <https://doi.org/10.12688/wellcomeopenres.16508.1>
+
+#### Munywoki
+Patrick K Munywoki, Dorothy C Koech, Charles N Agoti, Patricia A Cane, Graham F Medley, D James Nokes, Continuous Invasion by Respiratory Viruses Observed in Rural Households During a Respiratory Syncytial Virus Seasonal Outbreak in Coastal Kenya, Clinical Infectious Diseases, Volume 67, Issue 10, 15 November 2018, Pages 1559–1567, https://doi.org/10.1093/cid/ciy313
 
 
 
@@ -191,6 +247,8 @@ Nokso-Koivisto, J., Kinnari, T. J., Lindahl, P., Hovi, T., & Pitkäranta, A. (20
 
 
 
+
+
 ### Refs Symptomatic Coronavirus Infections
 
 #### Monto 2020
@@ -203,13 +261,6 @@ Coronavirus Occurrence and Transmission Over 8 Years in the HIVE Cohort of House
 
 
 
-### Refs Coronaviruses in Health and Disease Reviews
-
-#### Shi
-Shi, T., McLean, K., Campbell, H., & Nair, H. (2015). Aetiological role of common respiratory viruses in acute lower respiratory infections in children under five years: A systematic review and meta-analysis. Journal of global health, 5(1), 010408. 
-<https://doi.org/10.7189/jogh.05.010408>
-
-
 ### Refs Respiratory Viruses Viral Load 
 #### Clark
 Clark, T. W., Ewings, S., Medina, M. J., Batham, S., Curran, M. D., Parmar, S., & Nicholson, K. G. (2016). Viral load is strongly associated with length of stay in adults hospitalised with viral acute respiratory illness. The Journal of infection, 73(6), 598–606. 
@@ -217,6 +268,14 @@ Clark, T. W., Ewings, S., Medina, M. J., Batham, S., Curran, M. D., Parmar, S., 
 
 ##### Findings
 "High viral load was associated with a longer duration of hospitalisation for all patients (p < 0.0001)."
+
+#### Jacot
+Jacot, D., Greub, G., Jaton, K., & Opota, O. (2020). Viral load of SARS-CoV-2 across patients and compared to other respiratory viruses. Microbes and infection, 22(10), 617–621. 
+<https://doi.org/10.1016/j.micinf.2020.08.004>
+
+
+#### Feikin
+Daniel R. Feikin, et al, for the PERCH Study Group, *Is Higher Viral Load in the Upper Respiratory Tract Associated With Severe Pneumonia?* Findings From the PERCH Study, Clinical Infectious Diseases, Volume 64, Issue suppl_3, 15 June 2017, Pages S337–S346, https://doi.org/10.1093/cid/cix148
 
 
 
