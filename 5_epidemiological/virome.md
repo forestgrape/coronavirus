@@ -1,8 +1,8 @@
 # The Respiratory Tract Microbiota with a Focus on Coronaviruses
 
-> **Entire page is in early work** and needs to be checked
+> **Entire page is in early work**
 
-> The page is partly explorative mainly since not all parts are well cited and some content needs to be checked and confirmed.
+> The page is partly explorative. Not all parts are well cited and some content needs to be checked and confirmed.
 
 The prevalence of microbiota living in the respiratory tract. A special focus is on 
 * which viruses are prevalent in health and which in disease.
@@ -11,6 +11,7 @@ The prevalence of microbiota living in the respiratory tract. A special focus is
 
 * [Summary](#summary)
 * [Introduction](#introduction)
+* [Relevance](#relevance)
   * [Terminology](#terminology)
   * [Mucosal Microbiota](#mucosal-microbiota)
 * [Detecting Virobiota](#detecting-virobiota)
@@ -34,14 +35,20 @@ The prevalence of microbiota living in the respiratory tract. A special focus is
 
 
 ## Summary
-Multicellular organisms are permanently and temporarily inhabited by a variety of microorganisms. Most microorganisms inhabiting organisms are beneficial and required. However if the microorganisms are out of balance and a certain type replicates to high numbers, a disease can be caused.
-Normally the immune system controls the microorganisms. In the case of viruses, most are below the detection limit of common diagnosis methods such as PCR. The commensal microorganisms are subject to fluctuations during lifetime. When the immune system diminished and/or at high age, the immune system may fail at control commensal microorganism. Uncontrolled replication can result in severe diseases. Uncontrolled replication is especially a problem if a significantly different microorganism arrives e.g. SARS-CoV-2.
+Multicellular organisms are permanently and temporarily inhabited by a variety of microorganisms. Most microorganisms inhabiting organisms are commensal and some are beneficial and required. However if the microorganisms are out of balance and a certain type replicates to high numbers, a disease can be caused.
+Normally the immune system controls the microorganisms. In the case of viruses, most are below the detection limit of common diagnosis methods such as PCR. The commensal microorganisms are subject to fluctuations during lifetime. When the immune system diminished and/or at high age, the immune system may fail at control commensal microorganism. Uncontrolled replication can result in severe diseases. Uncontrolled replication is especially a problem if a significantly different microorganism arrives e.g. SARS-CoV-2 or a if an influenza A strain changed much.
 
-Coronaviruses cause often persistent infections at low viral load and thereby are part of the virome of the respiratory tract in the healthy state. Mostly the they are beneficial e.g. by protecting against more pathogenic viruses such as RSV or influenza A. Coronaviruses can cause symptoms or even a moderate to deadly diseases when they reach to high/much too high numbers. For young people this is rarely a problem since the strong innate immune system of young people detects them reliably.
+Coronaviruses cause often persistent infections at low viral load and thereby are part of the virome of the respiratory tract in the healthy state. Mostly the they are beneficial e.g. by protecting against more pathogenic viruses such as RSV or influenza A. Coronaviruses can cause symptoms or even a moderate to deadly diseases when they reach to high/much too high numbers. For young people this is rarely a problem since their strong innate immune system detects them reliably.
+
 
 
 ## Introduction
 Life form interactions are ubiquitous on earth. Some interactions are lineage permanent (i.e. stable across generations), some lifetime permanent and some vary throughout lifetime. The mitochondria in eukaryotic cells is an example of a lineage permanent coupling. An other example of a lineage permanent coupling are the retroviruses integrated inside the genome of eukaryotes. The transition from infections with permanent coupling to loose coupling is continuous: Many plant viruses are transmitted vertically (from one generation to the next generation) and also in the case of animals vertical transmission is prevalent e.g. herpes viruses often are transmitted vertically.
+
+
+## Relevance
+The virobiota and their interactions are relevant for measures influencing the virobiota and the viruses we are exposed to:
+* Vaccine Effects on Endemic Coronaviruses: The vaccine induced immune response is cross-reactive to the endemic coronaviruses (e.g. through cross reactive CD4 and CD8 T cells). This effect can induce increased immune responses against the endemic human coronaviruses living as commensal viruses in the respiratory tract and diminish them. 
 
 
 
