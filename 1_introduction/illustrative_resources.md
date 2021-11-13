@@ -39,10 +39,13 @@ H Jia, et al **ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Co
 Bertram S, et al. (2012) **Influenza and SARS-Coronavirus Activating Proteases TMPRSS2 and HAT Are Expressed at Multiple Sites in Human Respiratory and Gastrointestinal Tracts.** <https://doi.org/10.1371/journal.pone.0035876>
 
 #### Highlighted
-The paper describes and compares infectable locations for the SARS coronavirus and influenza. It shows the distribution of the  entry receptors (influenza: 2,6-linked sialic acids and SARS: ACE2) and the activation proteases (influenza: HAT, TMPRSS2 and SARS: TMPRSS2). E.g. influenza can infect the vocal folds and thus can cause horse voice while SARS-CoV-1 (//and SARS-2) do not.
+The paper describes and compares infectable locations for the SARS coronavirus and influenza. It shows the distribution of frequently used entry receptors (influenza: 2,6-linked sialic acids and SARS: ACE2) and frequently used activation proteases (influenza: HAT, TMPRSS2 and SARS: TMPRSS2). E.g. influenza can infect the vocal folds and thus can cause horse voice while SARS-CoV-1 (//and SARS-2) do not.
 
 #### Usage Here
 [Referenced](../3_medical/coronavirus_disease_patterns.md#summary-bertram-2012) in the chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md) which relies on the possible infection locations of SARS-like.
+
+
+
 
 ## Transmission
 
