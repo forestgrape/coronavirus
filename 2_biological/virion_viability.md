@@ -40,7 +40,7 @@
 * [References](#references)
   * [References Temperature Viability SARS-2](#references-temperature-viability-sars-2)
   * [References Temperature Viability of other Viruses](#references-temperature-viability-of-other-viruses)
-  * [References Droplets and Influenza](#references-droplets-and-influenza)
+  * [References Viruses in the Air](#references-viruses-in-the-air)
   * [References UV](#references-uv)
 * [Appendix](#appendix)
   * [Efflorescence Humidity](#efflorescence-humidity)
@@ -86,7 +86,6 @@ The principal decay mechanisms and reasons for the fast decay are:
 * The envelope of coronaviruses consists of fatty acids acquired form the host cell and similar to the host cell membrane. In multicellular organism the cell-membranes neither have evolved to be stable outside the organism nor to keep out most substances. Cells also have ion pumps to even out imbalances such as osmotic pressures, without metabolism virions do not.
 * The spikes proteins are under tension, since they have spring loaded energy to induce cell membrane fusion. On heat, temperature changes or chemical forces the spikes can loose this energy. To some extent this is also the case for the N protein.
 * Virions have no metabolism and thus cannot repair damage or even out chemical imbalances.
-
 
 ### Summary Decay by UV Light
 UV light renders the RNA unreadable. At low UV (low sun in the fall) the halflife time is about 6 minutes and at intense UV (sun at noon in the summer) about 2 min.
@@ -201,7 +200,6 @@ The following equations hold (by properties of the exp and the log functions):
 
 
 ## Viability Observations
-
 
 ### Viability in Sunlight
 The UVB part in sunlight is absorbed by DNA/RNA and can cause decay.
@@ -716,11 +714,17 @@ https://doi.org/10.1101/2020.10.16.341883
 #### Summary Laude
 **Thermal Inactivation Studies of a Coronavirus, Transmissible Gastroenteritis Virus**
 
-> Extending the research-path started by [Fleming](#summary-fleming) where the decay of the Semliki Forest Virus is investigated, Laude and Gelfi investigate the decay of TGEV. They confirm/reach groundbreaking findings: Showing a that two different decay rate increases below respectively above 40 to 45 degrees celsius. It is demonstrated that TGEV can evolve to increase the survival at higher temperatures (55 degrees), but not at lower temperatures (38).
+> Extending the research-path started by [Fleming](#summary-fleming) where the decay of the Semliki Forest Virus is investigated, Laude and Gelfi investigate the decay of TGEV. They confirm/reach groundbreaking findings: Showing a that two different decay rate increases below respectively above 40 to 45 degrees celsius indicated by a piecewise linear arrhenius plot. Four cycles of survivor selection increase the viability at higher temperatures (55 degrees), but have no effect at lower temperatures (38 degrees) - which is interesting by itself and also support the two step inactivation.
 
 ##### Methods
 * The decay rate of the TGEV coronavirus at temperatures between 31 and 55 degrees with 4 degree steps at the pH values 7 and 8 is determined.
 * 4 respectively 8 rounds of survivor selection were carried out at 38 and 54 degrees.
+
+##### Methods Details
+* Virus Strain: "Purdue and the D52 strains were used as the source of transmissible gastroenteritis virus (TGEV)"
+* Cell and Virus Cultures: "The virus was propagated in the pig kidney cell line RP_D, and maintained in Eagle's minimum essential medium (MEM) containing 2% calf serum; the cultures were frozen at -70 °C at the first signs of c.p.e."
+* Sample Preparation and Medium: "Supernatant fluids from infected cultures were thawed and then clarified by low-speed centrifugation before dilution 1:10 in a 50 mM-HEPES solution (Sigma) buffered at pH 7 or 8, and supplemented with antibiotics. For short incubations this solution was preheated before adding the virus. One ml amounts in glass tubes were placed in well-stirred water baths in the dark. Duplicate aliquots were removed at given times and stored at -70 °C until titration of infectivity."
+
 ##### Results
 1. _Inactivation of infectivity_
    * "An exponential decrease of infectivity, without an initial shoulder, could be observed between 31 and 51 °C. Thus, the inactivation proceeded as a first-order reaction, implying that the virus preparations were homogeneous." // Figure 1 a and b
@@ -729,10 +733,7 @@ https://doi.org/10.1101/2020.10.16.341883
    * "Thermal inactivation of a coronavirus essentially resembles that observed previously with several other RNA viruses. TGEV thermal inactivation is mediated by two thermodynamically distinct reactions below and above 45 °C."
 2. _Selection of thermal-resistant (tr) mutants_
   "Using four independent stocks of mutagenized virus, we failed to select thermal-resistant mutants by survivor selection at 38 °C. In contrast, thermal-resistant mutants were consistently obtained at 54 °C. However, the latter did not show any increased stability at 38 °C, confirming the fact that a different inactivation process takes place at high and at physiological temperatures." // Figure 3
-##### Methods Details
-* Virus Strain: "Purdue and the D52 strains were used as the source of transmissible gastroenteritis virus (TGEV)"
-* Cell and Virus Cultures: "The virus was propagated in the pig kidney cell line RP_D, and maintained in Eagle's minimum essential medium (MEM) containing 2% calf serum; the cultures were frozen at -70 °C at the first signs of c.p.e."
-* Sample Preparation and Medium: "Supernatant fluids from infected cultures were thawed and then clarified by low-speed centrifugation before dilution 1:10 in a 50 mM-HEPES solution (Sigma) buffered at pH 7 or 8, and supplemented with antibiotics. For short incubations this solution was preheated before adding the virus. One ml amounts in glass tubes were placed in well-stirred water baths in the dark. Duplicate aliquots were removed at given times and stored at -70 °C until titration of infectivity."
+
 
 #### Biryukov
 Biryukov J, Boydston JA, Dunning RA, Yeager JJ, Wood S, Reese AL, Ferris A, Miller D, Weaver W, Zeitouni NE, Phillips A, Freeburger D, Hooper I, Ratnesar-Shumate S, Yolitz J, Krause M, Williams G, Dawson DG, Herzog A, Dabisch P, Wahl V, Hevey MC, Altamura LA. 2020. **Increasing temperature and relative humidity accelerates inactivation of SARS-CoV- 2 on surfaces.** 
@@ -742,6 +743,8 @@ mSphere 5:e00441-20.
 #### Methods
 * "Vero (ATCC CCL-81) cells were used to propagate SARS-CoV-2 and in virus microtitration assays. Cells were cultured at 37°C and 5% CO2 in complete growth medium (gMEM) as previously described (16)."
 * *Experiment:* The virus viability was measured for RH and temperature combinations in the range 20 to 80% RH and 24 to 35°C. 
+
+
 
 
 ### References Temperature Viability of other Viruses
@@ -773,26 +776,32 @@ The loss of viability in aerosols of Escherichia coli B, E. coli commune and E. 
 #### Summary Fleming
 **Thermal Inactivation of Semliki Forest Virus**
 
-> Recommended to read [Laude](#summary-laude) as follow up where the research path is continued.
+> Recommended to read [Laude](#summary-laude) as follow up where the research path is continued and the switch of decay mechanism between 40 and 45 is confirmed.
 
 ##### Methods
 * First the influence of the originating cells and the surrounding matrix was determined to select a appropriate model for the thermal inactivation studies.
 * The inactivation of homogenous virions at temperatures between 2o° and 50° degrees in different dilution of stabilizing medium was determined.
+
+##### Methods Details
+* Virus Strain: "Purdue and the D52 strains were used as the source of transmissible gastroenteritis virus (TGEV)"
+* Cell and Virus Cultures: "The virus was propagated in the pig kidney cell line RP_D, and maintained in Eagle's minimum essential medium (MEM) containing 2% calf serum; the cultures were frozen at -70 °C at the first signs of c.p.e."
+* Sample Preparation and Medium: "Supernatant fluids from infected cultures were thawed and then clarified by low-speed centrifugation before dilution 1:10 in a 50 mM-HEPES solution (Sigma) buffered at pH 7 or 8, and supplemented with antibiotics. For short incubations this solution was preheated before adding the virus. One ml amounts in glass tubes were placed in well-stirred water baths in the dark. Duplicate aliquots were removed at given times and stored at -70 °C until titration of infectivity."
+
 ##### Results
-* *Primarily Experiments*
-  * *Influence of originating cells:*
-    * At 35°, the rate of inactivation was independent of the originating cell lines (Figure 2 a).
-    * At 50°, only virions originating from a stable cell line (mouse embryo cells) showed a 1 step log-linear inactivation. For other cells lines a 2 step log-linear inactivation is observed (Figure 2 b).
-    > Stable cell line means likely a homogenous cell line. In a homogenous cell line, the virions have the same lipid envelope unlike in mixed cell lines where each cell type can yield slightly different appearances of the virions -> [Virion Properties](#virion-properties).
-  * *Influence of Medium:* At 22° the more the stabilizing medium 199, CS was diluted by a phosphate buffer solution, the greater was the loss viability (Figure 1 and 3). The loss of viability was shifted to higher dilutions in the dark (Figure 1).
+*Primarily Experiments:*
+* *Influence of originating cells:*
+  * At 35°, the rate of inactivation was independent of the originating cell lines (Figure 2 a).
+  * At 50°, only virions originating from a stable cell line (mouse embryo cells) showed a 1 step log-linear inactivation. For other cells lines a 2 step log-linear inactivation is observed (Figure 2 b).
+  > Stable cell line means likely a homogenous cell line. In a homogenous cell line, the virions have the same lipid envelope unlike in mixed cell lines where each cell type can yield slightly different appearances of the virions -> [Virion Properties](#virion-properties).
+* *Influence of Medium:* At 22° the more the stabilizing medium 199, CS was diluted by a phosphate buffer solution, the greater was the loss viability (Figure 1 and 3). The loss of viability was shifted to higher dilutions in the dark (Figure 1).
 
-* *Decay Mechanisms at different Temperatures:* The arrhenius plots in Figure 3 and the corresponding values in Table 1 show:
-  * There's a switch of the inactivation mechanism between 40 and 45 degrees.
-  * The dilution-ratio and the pH value (6.5 vs 7.5) change the decay rate but leave the mechanism unchanged.
-  * The decay at 50° (but not the decay at 35° or by UV radiation) induces a reduced neutralization by antibodies, which indicates changes of the surface proteins. However since the neutralizing tests were done by an excess of antibodies which makes the neutralization independent of the virus concentration, this change was faster than the reduction of viability.
+*Decay Mechanisms at different Temperatures:* The arrhenius plots in Figure 3 and the corresponding values in Table 1 show:
+* There's a switch of the inactivation mechanism between 40 and 45 degrees. // since two step linear in the arrhenius plot
+* The dilution-ratio and the pH value (6.5 vs 7.5) change the decay rate but leave the mechanism unchanged.
+* The decay at 50° (but not the decay at 35° or by UV radiation) induces a reduced neutralization by antibodies, which indicates changes of the surface proteins. However since the neutralizing tests were done by an excess of antibodies which makes the neutralization independent of the virus concentration, this change was faster than the reduction of viability.
 
 
-### References Droplets and Influenza
+### References Viruses in the Air
 
 #### Marr
 Marr LC, Tang JW, Van Mullekom J, Lakdawala SS. 2019 
