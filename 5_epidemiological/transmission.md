@@ -39,8 +39,8 @@ Watery droplets in the air that cannot be seen, are called aerosol since it look
 Model | Metaphor   | Generating Actions | Source/Deposition | Situations/Climate| Prevent              
 ------|------------|---------|-------------------|-------------------|----------
 [droplets](#droplets)  | cone of a spray |  coughing, sneezing, shouting| mouth, pharynx| any (upper respiratory tract infections)| Any mask in face-to-face situations, distance 
-[aerosol](#aerosol)  | bad breath, cooking steams| coughing, peaking, breathing | vocal folds, central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
-[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs (alveoli)  | between person air exchange usually indoors| high-filtration-mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
+[aerosol](#aerosol)  | bad breath, cooking steams| coughing, peaking, breathing | vocal folds (mainly source), central lungs (trachea, bronchi), nose (deposition only) | low relative humidity (in high humidity particles growth) | (high-filtration-)mask, distance, **ventilate**, **outdoors** is best
+[proposed dry form aerosol](#proposal-of-a-dry-form-transmission-model) | soot of smoke, dust   | (heavy) breathing (opening and closing of the deep lungs), drying of aerosols| deep lungs including the alveoli  | between person air exchange usually indoors| suitable mask with good fit, **ventilate**, no deep inhalation indoors e.g. no indoor sport, **outdoors** is best
 
 #### Comments
 * In warm climates rooms can be ventilated well, which reliably reduces and if done right mostly prevents aerosol spread. Careless use of air-conditioning enables and enhances aerosol spread. 
@@ -355,12 +355,12 @@ The larger tend to fall to the ground since their movement is driven more by gra
 Infectious aerosols can get into the air from the lower or upper respiratory tract through breathing, coughing or speaking (section [exhaling particles](../5_epidemiological/transmission.md#particles-sources)).
 
 
-Dry particulates get into the air either by the above conversion from aerosols, directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt]
+Dry particulates get into the air either by the above conversion from aerosols, directly from an infected lung [to be searched/calculated if this is possible, work in progress] or from dirt. Dirt can be from sedimented air particles or from faeces. [to check: vacuum cleaner particle filter size].  [to be checked if dirt is/can be relevant and what kind of dirt //likely not relevant due virion decay]
 
 <!--todo deposition of particles with dry form, short summary-->
 
-
 <!--
+
 ------------unfinished------------------
 * (A) source -> aerosol  -> target<br>
 * (B) source -> aerosol  --dry-air-> dry particulate -> target
@@ -375,17 +375,18 @@ Dry particulates get into the air either by the above conversion from aerosols, 
 * source = faeces [evidence from ] and possibly the lung (calculations are on the way whether the relative humidity in the lung can be low enough)
 * source can also be indirect. However one has to keep in mind that for the probability to be in two digit percentages there need to be many infectious particulates in the air. 
 ---------------------------------------
+
 -->
 
 
 ### Evidence for the Dry Form Transmission Model
 
 #### Evidence from Biological Properties
-For severe betacoronavirus diseases nearly always the lower respiratory tract is involved (always in ARDS) (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)):
+For severe betacoronavirus diseases nearly always the lower respiratory tract is involved (always in ARDS) (chapter [Disease Pattering](../3_medical/coronavirus_disease_patterns.md)).
   
 As described in [particles deposition](../5_epidemiological/transmission.md#particles-deposition) only aerosols and tiny dry particulates enter the lower respiratory tract, with dry particulates having a higher chance of deposition. 
 * [MERS](../2_biological/coronavirus.md#mers-cov) likely requires lower respiratory tract entry for successful infection. Lower respiratory tract entry likely is also needed for SARS-Cov-1. 
-* There are several [Disease Patterns](../3_medical/coronavirus_disease_patterns.md) observed resulting from SARS-Cov-2 infections and severe Covid is mostly associated with an early lower respiratory tract involvement.
+* There are several [Disease Patterns](../3_medical/coronavirus_disease_patterns.md) observed resulting from SARS-Cov-2 infections and severe Covid is mostly associated with an early lower respiratory tract involvement (early morning saliva, sputum and BALF viral load predict disease progression in hospitalized patients while NPS do not (Chapter [Viral Load](../3_medical/diagnosis_and_viral_load.md))).
 
 That in swab tests there are viruses in the nose and the mouth is caused by breathing them up and/or local replication. 
 * [Kleinstreuer et al](#kleinstreuer-2018) have shown that upon exhale particles are deposited in the nose. 
@@ -538,7 +539,7 @@ Proceedings of the National Academy of Sciences Jan 2018, 115 (5) 1081-1086;
   * Fine-aerosol viral RNA shedding was positively associated with influenza vaccination in the current and/or prior season for influenza A (Table S4.).
   * "NP swab viral RNA was positively associated with upper respiratory symptoms and negatively associated with age but was not significantly associated with fine- or coarse-aerosol viral RNA or their predictors." 
   * "Sneezing was rare, and sneezing and coughing were not necessary for infectious aerosol generation."
-Coronaviruses are part of the virome of the respiratory tract. Mostly the they are beneficial e.g. by protecting against more pathogenic viruses such as RSV or influenza A. Coronaviruses can become pathogenic when they reach to high numbers or growth at/infect the wrong locations, members of the microbiome can become pathogenic.
+
 ##### Discussion
 * "We defined symptoms as upper respiratory (runny nose, stuffy nose, sneezing, sore throat, and earache), lower respiratory (chest tightness, shortness of breath, and cough), and systemic (malaise, headache, muscle/joint ache, fever/sweats/ chills, and swollen lymph nodes)."
 * "Our findings, that upper and lower airway infection are independent and that fine-particle exhaled aerosols reflect infection in the lung, opened a pathway for a deeper understanding of the human biology of influenza infection and transmission."
