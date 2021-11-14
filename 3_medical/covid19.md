@@ -5,11 +5,11 @@
 * [Infections and Diseases](#infections-and-diseases)
 * [Disease Factors](#disease-factors)
 * [Infection Locations](#infection-locations)
-* [Pathology](#pathology)
 * [Immune Response and Symptoms](#immune-response-and-symptoms)
   * [Causes of Symptoms](#causes-of-symptoms)
   * [Symptoms at different Locations](#symptoms-at-different-locations)
   * [Individual Immune System Adequateness](#individual-immune-system-adequateness)
+* [Clinical Pictures](#clinical-pictures)
 * [Disease Stages](#disease-stages)
 * [Virion Shedding](#virion-shedding)
 * [Prevention and Treatment](#prevention-and-treatment)
@@ -17,7 +17,6 @@
   * [Local Temperature and Humidity Modulation](#local-temperature-and-humidity-modulation)
 * [Recovery and Long Lasting Effects](#recovery-and-long-lasting-effects)
   * [Literature Recovery](#literature-recovery)
-  * [How to Recover](#how-to-recover)
   * [Long Lasting Effects](#long-lasting-effects)
 * [Fatality Rate](#fatality-rate)
   * [Comparing Case and Infection Fatality](#comparing-case-and-infection-fatality)
@@ -140,11 +139,6 @@ Different topics related to the infection locations are described in the section
 * The experimental chapter [Coronavirus Disease Pattering](../3_medical/coronavirus_disease_patterns.md) describes that coronavirus infections at different locations can be experienced/observed as different diseases.
 
 
-## Pathology
-* Lung anomalies in the case for moderate and damage for severe Covid are typical and thus can be used to diagnose moderate or severe Covid as described in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
-* Endothelial tissue damage in the case of severe Covid ([Varga et al](#varga)).
-
-
 
 ## Immune Response and Symptoms
 [in work]
@@ -168,6 +162,14 @@ Infection symptoms depend on the infected locations. SARS-CoV-2 infects differen
 
 ### Individual Immune System Adequateness
 The immune system preparedness to new viruses vary and some clear the viruses faster and earlier. E.g. younger people tend to have an immune system which better and faster learns new pathogens and the the innate immune is stronger (the acquired immunity has the learn new pathogens by definition, so it needs to be learnable and the immune system needs backups to handle unknown pathogens since each pathogen is new on the first encounter) which can handle and control new pathogens quickly. Essentially SARS-CoV-2 is as new to them as any other pathogens. With increasing age to immune system becomes less adaptable (e.g. the number of naive T cells decrease) and relies much more on acquired immunity, in this case the immune response is often delayed and/or not adequate [citations coming].
+
+
+## Clinical Pictures
+* Lung anomalies in the case for moderate and damage for severe Covid are typical and thus can be used to diagnose moderate or severe Covid as described in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)).
+* Endothelial tissue damage in the case of severe Covid ([Varga et al](#varga)).
+* Severe 
+
+
 
 ## Disease Stages
 [in work]
@@ -222,13 +224,8 @@ Nevertheless for some people a healthy life-style is not enough and some experie
 * More detailed reads are [Management of post-acute covid-19 in primary care](#greenhalgh-aug2020) by Greenhalgh et al and [The Stanford Hall consensus statement for post-COVID-19 rehabilitation](#barker-davies) by Barker-Davies et al
 
 
-### How to Recover
-[in work]
-How to optimally recover is addressed in papers listed in [Literature Recovery](#literature-recovery).
-
-
 ### Long Lasting Effects
-Sometime long lasting symptoms such as fatigue and decreased physical fitness can occur, called long Covid/long-haulers. Tissues damage which needs some time to repair can be a cause ([Marshall](#marshall)). Another cause for long covid can be that immune system overshoots. To prevent the latter moderate [movement](#movement) can help.
+Sometime long lasting symptoms such as fatigue and decreased physical fitness can occur, called long Covid/long-haulers. Tissues damage which needs some time to repair can be a cause ([Marshall](#marshall)). Another cause for long covid can be that immune system overshoots. To prevent the latter careful and at most moderate [movement](#movement) in the diseased phased and with carefully increased intensities after the disease in the recovery phase.
 
 
 ## Fatality Rate
@@ -240,10 +237,10 @@ Sometime long lasting symptoms such as fatigue and decreased physical fitness ca
 > *Fatality rate* on this page is used synonymously to [infection fatality rate](#infection-fatality-rate).
 
 The fatality rate depends on the definition of a SARS-CoV-2 infection and a death cause by SARS-CoV-2. Both are not straight forward to define: 
-* SARS-CoV-2 infections and diseases are described in the chapter [Diseases and Infections](#infections-and-diseases). Acute [Covid-19](#covid-19) is usually diagnosed by PCR tests and past infections detecting antibodies by serology. These methods don't agree in all cases: One can have a positive PCR test but no antibody in the blood or an antibody response in the blood without a negative PCR test in the nose (especially if measured only at a single time point) ([Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)). 
-* For many Covid associated deaths Covid is the main death cause. But for some cases the patients have other severe illnesses and to finally single out a death cause is difficult. Hard to estimate is also how many life years Covid takes.
+* *Counting overall Cases:* SARS-CoV-2 infections and diseases are described in the section [Diseases and Infections](#infections-and-diseases). Acute [Covid-19](#covid-19) is usually diagnosed by PCR tests and past infections by detecting antibodies with serology. These methods don't agree in all cases: One can have a positive PCR test but no antibody in the blood or an antibody response in the blood without a negative PCR test in the nose (especially if measured only at a single time point) ([Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md)). 
+* *Counting Deaths:* For many Covid associated deaths Covid is the main death cause. But for some cases the patients have other severe illnesses and to finally single out a death cause is difficult. Hard to estimate is also how many life years Covid takes.
 
-Once agreed upon a uniform way to measure the fatality rate, the rate still varies considerably due to different populations structures (e.g. age, overall health, ...), medical systems, environmental factors and living conditions such as climate and air pollution. 
+Once agreed upon a uniform way to measure the fatality rate, the rate still varies considerably due to different populations structures (e.g. age, overall health, ...), medical systems, environmental factors and living conditions such as climate and air pollution. These determinants are insightful to analyse for prevention and treatment.
 
 
 > ###### Case Fatality Rate
