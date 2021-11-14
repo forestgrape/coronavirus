@@ -5,11 +5,11 @@ In my opinion, measures should  not target individuals and accordingly not be ba
 
 > I am aware of the fact that many (governments, doctors, parliaments, citizens) around the world assume that currently available intramuscular vaccines (e.g. 'mRNA' and 'Adeno-virus-with-spike' vaccines) are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated.
 
-> A concise and pointed comment "[Covid-19 Vaccine Mandates Are Now Pointless](../5_epidemiological/individual_susceptibility_and_transmission.md#pierpont)" is by Pierpont (some errata however, see notes at the references.)
+> A concise and pointed comment "[Covid-19 Vaccine Mandates Are Now Pointless](../5_epidemiological/individual_susceptibility_and_transmission.md#pierpont)" is by Pierpont (some errata however, see notes at the reference.)
 
 > Errāre hūmānum est. 
 
-> What if some errata happen with RNA transfection?
+> What if there are errata with RNA transfection?
 
 
 ### Scientific Considerations
@@ -28,8 +28,12 @@ Relevant moral questions are:
 
 
 ### Social Considerations
-> To restrict people in basic human rights in my opinion both a very solid scientific foundation is needed and an acute danger for public health. // Models predicting many cases in a few weeks or months times is *not* an acute danger. Numerous modelling predictions published turned out to be wrong.
+> To restrict basic human rights of selected people, needs in my opinion, both a very solid scientific foundation and an acute danger for public health. // Models predicting many cases in a few weeks or months is *not* an acute danger. Numerous modelling predictions published turned out to be wrong.
 
-> To my judgement, there is no rigorous scientific foundation to differentiate between vaccinated and unvaccinated persons especially if not at risk for severe Covid: the science published suggests that intramuscular vaccines don't provide any protection against transmission for more than a few months. Thus the current restrictions of people opting out of vaccinations can be viewed as out casting people without a medical basis - at least in the case of people not at elevated risk for severe Covid, which includes all people below 30 years of age. For people at risk for severe Covid there is a risk of hospitalization but then other behaviors which increase the risk of hospitalization need to be banned too. Also people can opt out of hospitalization/intense case and then this argument does not hold. Furthermore the long-risk of the current vaccines is unknown. // I don't think, it is nice to neglect (some) treatments (also commented in [Controlling>Strategy](controlling.md#strategy)), but is is a third option to experimental vaccination and to be out-casted from social life for months. Good treatment would be nice, I am confident they will be available soon!
+> To my judgement, there is no rigorous scientific foundation to differentiate between vaccinated and unvaccinated persons especially if not at risk for severe Covid: the science published suggests that intramuscular vaccines don't provide any protection against transmission for more than a few months. Thus the current restrictions of people opting out of vaccinations can be viewed as out casting people without a medical basis - at least in the case of people not at elevated risk for severe Covid, which includes all people below 30 years of age. For people at risk for severe Covid there is a risk of hospitalization but then other behaviors which increase the risk of hospitalization need to be banned too. Also people can opt out of hospitalization/intense case and then this argument does not hold. Furthermore the long-risk of the current vaccines is unknown. 
+
+>> I don't think, it is nice to neglect (some) treatments (as commented in [Controlling>Strategy](controlling.md#strategy)), but is is a third option to experimental vaccination and to be out-casted from social life for months or longer. 
+
+> Good treatment would be nice, I am confident they will be available soon!
 
 > *The risks to take in life, everybody should be eligible to choose on his own.*
