@@ -64,10 +64,12 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 
 ### Effects of Genome Evolution
 
-#### Change the Molecular Appearance
-Changing the appearance can yield escape from immune system recognition. 
+#### Change the Evolutionary Stability
+Changing the RNA or protein structure even without immediate effects on the function can influence future mutations. This can yield more mutative or more stable progeny.
 
-+: Escaping the immune system is often beneficial or even required for a virus lineage to survive.
++/-: 
+  * In a changing environment with relaxed survival constraints, a mutative state is advantageous regarding the change of functions.
+  * Exposed to immune responses targeting molecular patterns, change of molecular appearance is beneficial.
 
 #### Change the Functioning
 Change the function which is beneficial if the previous functioning was suboptimal and the new function does better.
@@ -76,13 +78,10 @@ Change the function which is beneficial if the previous functioning was suboptim
   * If the life-form is not well adapted to the environment, function improvement upon function change is more likely.
   * If the life-form is in an environment with relaxed fitness constraints, delirious  mutations are better tolerated.
 
-#### Change the Evolutionary Stability
-Changing the RNA or protein structure even without immediate effects on the function can influence future mutations. This can yield more mutative or more stable progeny.
+#### Change the Molecular Appearance
+Changing the appearance can yield escape from immune system recognition. 
 
-+/-: 
-  * In a changing environment with relaxed survival constraints, a mutative state is advantageous regarding the change of functions.
-  * Exposed to immune responses targeting molecular patterns, change of molecular appearance is beneficial.
-
++: Escaping the immune system is often beneficial or even required for a virus lineage to survive.
 
 
 ### Determinants of Evolutionary Rate
