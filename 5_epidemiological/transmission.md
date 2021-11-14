@@ -254,12 +254,16 @@ The physiology of the airways is evolved that particles are absorbed and cleared
 Modeling or experimentally determine the deposition rates is not easy and both simulation and experimental methods have caveats as described in the section [Limitations](#limitations-of-experiments).
 
 #### Types of Experiments
+
 ##### In vitro
-Build an artificial lung and measure: [sznitman](#sznitman). 
+Build an artificial lung and measure: [sznitman](#sznitman).
+
 ##### In vivo
-  * A person inhales aerosols and the deposited fraction is measured. Recent experiments are done by [Rissler et al](#rissler).
-  * A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volume is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [reference to be added].
-  * Experimental data on the regional deposition of radio-labelled aerosol particles can be derived from gamma camera images.  The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
+Experiment types:
+* A person inhales aerosols and the deposited fraction is measured. 
+* A person inhales some test particles and the number of absorbed particles is measured for different volumes inhaled. For small volumes, the air goes not fare into to lung and so for this part the absorption is calculated. Then the volume is increased, the adsorbed particles measured again and the next part of the lung is calculated: the previous result is subtracted and the remaining adsorption is the next deeper lung part  [reference to be added].
+* Experimental data on the regional deposition of radio-labelled aerosol particles can be derived from gamma camera images. The limited resolution of the planar image allows no separation between the peripheral and the bronchial airways. This separation can be done by measuring the particle clearance kinetics during the first few days after inhalation[reference to be added].
+
 ##### In silico
 Theoretical simulations model the respiratory tract and mostly use the laws of fluid dynamics to calculate the airflow. An often used model is the [ICRP Model](#bailey). 
 * Traditional methods: Model the respiratory tract as a static pipe system and do the physics [Stuart 84](#stuart),  [ICRP by Bailey](#bailey). Usually some differential equations are fitted and these equations are often solved/simulated with a computer-based approach e.g. Monte Carlo methods. 
@@ -276,12 +280,7 @@ Usually many simplifications of [relevant factors](#particles-deposition) both f
 
 ## Proposal of a Dry Form Transmission for Coronaviruses
 
-
-> Explorative
-
 > That's the chapter this page started.
-
-> Updates with evidence from spread patterns observed for SARS-CoV-2 in work.
 
 ### Summary Dry Form Transmission
 
@@ -298,7 +297,7 @@ this new model is added:
 Larger droplets behave like balls and are transmitted only over short distances. Watery particles between 2 to 100 micrometers move with the air and can stay quite long in the air, however they still tend to spread local both in time and space - an example is the scent of a cooking soup - and less often reach the deep lungs. On the other hand tiny dry particulates behave dust/smoke like - smoke is a collection of tiny dry particulates diffusing around - so they move with the air and stay in the air even longer. Dry particulates have a potentially more infectious lung deposition and less clearance. 
 
 #### Epidemiological Evidence
-Betacoronavirus clusters of severe cases are nearly always observed in settings with dry indoor air. 
+Clusters of severe betacoronavirus diseases (MERS, SARS, severe Covid) are nearly always observed in settings with dry indoor air, as discussed in the chapter [Spread Analyses](spread_analyses.md).
 
 #### Biological Evidence
 
@@ -312,14 +311,14 @@ The described properties of dry form transmission explain best the transmission 
   * __MERS__: the cells susceptible to MERS infections are in the lower respiratory tract lower respiratory tract as obligate entry point.
 
 ##### Viability of Virions
-The viability of virions is highest when dried.
+The viability of virions is highest when dried ([Virion Viability](../2_biological/virion_viability.md)).
 
 ##### Aerosol Science
 The larger the ratio of the surface to the mass, the more the particulates go with the air. For tiny dry particulates the ratio is larger than for roundish droplets. Roundish droplets if small enough still move with the air, but less than tiny dry particulates.
   
 #### Medical Evidence
-Viral load and tissue damage indicate that MERS and SARS-1 infect primarily the lower respiratory tract. SARS-2 infections are especially dangerous if they reach the lower respiratory tract (and similar to MERS and SARS-1 infections).
-* the observed viral load in different tissue indicate that MERS and SARS-1 infect primarily the lower respiratory tract. The observed viral loads of severe SARS-2 infections are highest in the lower respiratory tract.
+Viral load and tissue damage indicate that MERS and SARS-1 infect primarily the lower respiratory tract. SARS-2 infections are especially dangerous if they reach the lower respiratory tract (which can result in severe pneumonia similar as observed for MERS and SARS-1 infections).
+* the observed viral load in different tissue indicate that MERS and SARS-1 infect primarily the lower respiratory tract. The observed viral loads of severe SARS-2 infections are highest in the lower respiratory tract in severe cases ([Viral Load](../3_medical/diagnosis_and_viral_load.md)).
 * Tissue damage for SARS-1/2 and MERS infection is observed in the lower respiratory tract.
   
 The pieces of evidence indicate that aerosol and the proposed dry form are relevant transmission pathways. 
