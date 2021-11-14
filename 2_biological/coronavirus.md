@@ -15,7 +15,8 @@ Topics on Coronaviruses helpful to understand the infections they cause.
 * [Molecular Biology](#molecular-biology)
   * [Coronavirus Proteins](#coronavirus-proteins)
 * [Capabilities](#capabilities)
-  * [Enter Cells](#enter-cells)
+  * [Capabilities in the Virion Phase](#capabilities-in-the-virion-phase)
+  * [Capabilities in the Metabolic Phase](#capabilities-in-the-metabolic-phase)
 * [Behaviors of Coronaviruses](#behaviors-of-coronaviruses)
   * [Introduction to the Behavior of Coronaviruses](#introduction-to-the-behavior-of-coronaviruses)
   * [Cell Behavior of Coronaviruses](#cell-behavior-of-coronaviruses)
@@ -122,6 +123,8 @@ The viral metabolism starts once the genetic material of a virion is processed b
 #### Metabolism Phase 1: Build the Factory Hall and incorporate Host Machines (Ribosomes)
 > in work
 
+Build double membrane shielded replication complexes.
+
 #### Metabolism Phase 2: Build the Machines = Build the RdRP Protein
 [in work]
 The goal of the first phase in the metabolism is to produce RdRP (RNA dependent RNA Polymerase protein). Additionally let the ribosomes produce some proteins that diminish the cells immune mechanisms such that the cell doesn't ring the bells. Steps:
@@ -145,27 +148,28 @@ The metabolism can produce new virions that are released from the cell. The prop
 > **in work**
 
 ### Coronavirus Proteins  
-RNA viruses have small but highly optimized genomes. Each protein is often - like a swiss army knife - capable of different functions.
+RNA viruses have small but highly optimized genomes. Each protein is often - like a swiss army knife - capable and used for different functions.
 
 #### Virion Proteins
 
 > **in work and incomplete June 2021**
 
-Virion proteins = structural proteins: used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N. Besides their function in virions these proteins may have functions in the metabolic phase.
-- stabilize the RNA: N, E
-- stabilize the Envelope:
-- diminish host defence: N
+Virion proteins = structural proteins: since they are used to give newly built viruses structure. These are the membrane proteins (E, S, M, [HE]) and the internal protein N. Besides their function in virions these proteins usually have functions in the metabolic phase as well.
+
 ##### N Protein
 N stand for Nucleocapsid protein
 * diminish host defense
+
 ##### M Protein
 M stand for Membrane protein
 * M helps to build the membrane around the nucleocapsid
+
 ##### E Protein
 E stand for Envelop protein
+
 ##### S Protein
-S stand for Spike protein. The spike proteins point spike-like out of the spherical virions. This gives coronaviruses virions a corona (latin for crown or solar corona) like appearance under the electron microscope and therefore their name. Functions:
-* RBD: The RBDs are located in the S1 part of the spike protein and binds to the ACE2 receptor. 
+S stand for Spike protein. The spike proteins point spike-like out of the spherical virions. This gives coronaviruses virions a corona (from latin corona=crown or from solar corona) like appearance under the electron microscope. Functions:
+* RBD: At the S1 part there is an RBD which binds to the ACE2 receptor and enables the virions to attach to cells. ACE2 is a cell adhesion receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)].
 
 
 #### Metabolic Phase only Proteins
@@ -177,9 +181,19 @@ S stand for Spike protein. The spike proteins point spike-like out of the spheri
 ## Capabilities
 [in work]
 
-### Enter Cells
-#### SARS-2 Cell Adhesion
-The cell adhesion receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [[LiF](#lif)],[[Hoffmann](#hoffmann)] is ACE2.
+### Capabilities in the Virion Phase
+
+- stabilize the RNA: N, E
+- stabilize the Envelope: E, M
+- cell attachment and entry: S
+
+### Capabilities in the Metabolic Phase
+> in work and >95% incomplete
+
+- diminish host defence: N
+
+
+
 
 
 
@@ -187,19 +201,20 @@ The cell adhesion receptor used by SARS-CoV-1 [[Jiang](#jiang)] and SARS-Cov-2 [
 
 ### Introduction to the Behavior of Coronaviruses
 
-Viruses optimized to their environment usually only infect cells involved in the survival of the virus strain:
+Viruses optimized to their environment usually infect cells beneficial to the survival of the virus strain:
 * Cells used as entry point. For coronaviruses these are often cells on the epithelial layer of respiratory tract.
 * Cells that support efficient virus replications takes place and virions easily reach the next cells to build up a population. For betacoronaviruses these are similar the entry cells i.e. secretory and ciliated cells in the epithelium of the respiratory tract.
 * Cells relevant to leave a host. These vary for the different coronavirus species and the hosts infected.
     - Coronaviruses entities infecting outdoor living hosts, usually leave the hosts by feces. So cells in the intestine are infected.
     - For indoor living hosts (us humans and our domestic animals) these are often the same cells as entered i.e. cells in the respiratory tract.
 * Cells which are relevant for the host immune response. Coronaviruses can infect immune system cells (dendritic and T cells) and induce apoptosis.
+* Sometimes viruses infect cells to manipulate the host behavior.
 
 
 ### Cell Behavior of Coronaviruses
 #### Polarized Cells
-* In vitro [cell culture to check] experiments from [McCray & Co](#summary-jia-2005) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [McCray & Co](#summary-jia-2005) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. 
-* Similar observations for the coronavirus 229E [[McCray](#mccray)]: It infects the cells, corresponding to its receptor (amino-peptidase N) expression, preferably from the apical surface. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) even for basal entry.  
+* In vitro experiments from [Jia et al](#summary-jia-2005) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [Jia et al](#summary-jia-2005) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. 
+* Similar observations for the coronavirus 229E [[McCray & Co](#mccray)]: It infects the cells, corresponding to its receptor (amino-peptidase N) expression, preferably from the apical surface. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) even for basal entry.  
 
 
 ### Cell Specific Behavior of Sars-Cov-2
@@ -220,19 +235,18 @@ Viruses optimized to their environment usually only infect cells involved in the
 
 
 ## Tropisms of Coronaviruses
-Tropism for viruses denotes the cells and tissues they preferable replicate (defined on the [Viruses Page](viruses.md#virus-tropism)).
+Tropism for viruses denotes the cells and tissues they preferable populate (defined on the [Viruses Page](viruses.md#virus-tropism)). The tropism is determined by the [cell behavior](#cell-behavior-of-coronaviruses) and how the viruses are moved.
 
 ### Respiratory Tract Tropism
-Coronaviruses are initially deposited and replicate well in the respiratory tract, thus they have a tropism for the respiratory tract.
-However if large number of coronaviruses infect the single cell layer in the alveoli, a fraction of them can be released into the blood stream and spread with the blood.
+Coronaviruses are initially deposited and replicate well on the surface of the respiratory tract, thus they have a tropism for epithelial cells in the respiratory tract:
 
-#### Apical Side Tropism
-* The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side together with the barrier function of the epithelial cell layer, the virions come mostly in contact with the apical sides of cells.
-* Since coronaviruses preferable infect and leave cell on the apical side ([Cell Behavior](#cell-behavior-of-coronaviruses)), they remain on the apical side and spread through the respiratory tract lining fluid. 
+* The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side of the respiratory tract. The barrier function of the epithelial cell layer mostly prevents virions from reaching the basal side without infecting cells.
+* Coronaviruses preferable infect and leave cell on the apical side ([Cell Behavior](#cell-behavior-of-coronaviruses)), they remain on the apical side and spread through the respiratory tract lining fluid.
+* If a huge number of coronaviruses infect the single cell layer in the alveoli, a noticeable fraction of them can be released into the blood stream and spread with the blood.
 
-> Unlike other viruses, betacoronaviruses usually don't enter tissues. 
+> Human coronaviruses usually don't use the respiratory tract as passway to enter tissues but keep restricted to the surface of the respiratory tract. Coronaviruses are thus typical respiratory viruses.
 
- 
+> Coronaviruses can cause persistent infections of other tissues, their clinical significance is unclear as of November 2021.
 
 
 
@@ -241,7 +255,6 @@ However if large number of coronaviruses infect the single cell layer in the alv
 [in work]
 
 Coronaviruses can adapt fast to changed or new environments if given time and opportunity. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome. Measured in mutations per time unit coronaviruses are among the fastest evolving life forms on earth. More in the [Evolution Chapter](./coronavirus_evolution.md).
-
 
 
 ### Conquering to New Hosts
