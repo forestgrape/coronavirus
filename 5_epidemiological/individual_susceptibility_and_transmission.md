@@ -923,7 +923,7 @@ Published on September 14, 2021, Written by Nina Pierpont
 https://principia-scientific.com/covid-19-vaccine-mandates-are-now-pointless/
 or https://childrenshealthdefense.org/wp-content/uploads/Pierpont-Why-mandated-vaccines-are-pointless-final-1.pdf
 
-Pointed article on vaccine mandates. The articles has some errata however: The study of [Pouwels et al](#summary-pouwels) is analysed and N Pierpont argues that the vaccine lost efficacy in preventing infection. Which is not true (and the efficacies by Pouwels et al are correct) since the study population has a high vaccine coverage and only adults over 18 are considered and the vaccine status is  considered per visit, which has its own challenges/caveats though (see [Summary Pouwels](#summary-pouwels) and Table S2 in Pouwels for visit counts by immune status).
+Errata in the article: The study of [Pouwels et al](#summary-pouwels) is analysed and it is argued that the vaccine completely lost efficacy in preventing infection. Which is not true (and the calculations by Pouwels et al are correct) since 1) the study population has a high vaccine coverage and only adults over 18 are considered and 2) the vaccine status is  considered per visit. The latter has its own challenges/caveats though (see [Summary Pouwels](#summary-pouwels) and Table S2 in Pouwels for visit counts by immune status).
 
 
 #### Summary Regev-Yochay
@@ -932,24 +932,22 @@ The Lancet regional health. Europe, 7, 100150.
 https://doi.org/10.1016/j.lanepe.2021.100150
 
 ##### Methods
-Analyse the effect of BNT162b2 regarding SARS-Cov-2 infections in health care workers with a prospective cohort study.
+Analyse the effect of BNT162b2 regarding SARS-Cov-2 infections in health care workers with a prospective cohort study from 19.12.20 to 14.3.21.
 
 ##### Methods Details
-* From 19. December 2020 to 14. March 2021.
+* "The study took place at the Sheba Medical Center, the largest ter- tiary medical center in Israel, with 1400 acute care beds and 200 rehabilitation beds, from December 19, 2020, when vaccine rollout began, until March 14, 2021. All HCW were allowed and encouraged to receive the vaccine, without any prioritization, except that initially those with previous documented SARS-CoV-2 infection were not eligible. During this period, a third surge of COVID-19 took place in Israel, peaking on January 14, 2021, with 8,424 daily detected cases (7- day moving average)."
 * "On each day, we considered individuals to have a status of being either Unvaccinated, in the Early Vaccine stage (defined as 4 to 10 days post the first dose), those Partially Vaccinated (11 days post first dose to 10 days post second dose), or Fully Vaccinated (11 days or more post second dose)."
 * " Staff could transition from one group to another following seroconversion or vaccination after 60 or 14 days, respectively, disregarding any PCR-positive result during this crossover period, including the 14 days following a second vaccination for previously seronega- tive HCWs vaccinated twice."
-
 
 ##### Results
 "Among those exposed, 295 individuals (8.2%) had a positive result. N-gene Ct value was available for 224 (75.9%) cases."
 
 ###### Vaccine Effects upon Exposure
-* Table 2a in the paper
-* Testing uniform after exposure regardless of vaccination status
+Testing after exposure regardless of vaccination status. The table below shows the results (adapted from Table 2a in the paper):
 
 Status | # Exposures | # PCR Ct <40 | Prev Ct <40 | Prev Ct <30 | Prev never Symptoms | Prev Symptom & <30 | RR PCR<40 | reduction Ct<40 | reduction Ct<30
 --|--|--|--|--|--|--|--|--|--
-unvacc     | 1441 | 75 | 5.2 % | 3.1 % | 3.3 % | 1.8 % | ref | 0 %  | 0 %
+unvacc     | 1441 | 75 | 5.2 % | 3.1 % | 3.3 % | 1.8 % | 1 (ref) | 0 % (ref) | 0 % (ref)
 early vacc | 490  | 18 | 3.7 % | 1.7 % | 2.4 % | 1.0 % | .71 | 29 % | 45 %
 part. vacc | 1442 | 34 | 2.4 % | 1.2 % | 1.5 % | 0.6 % | .45 | 55 % | 59 %
 fully vacc | 1300 | 23 | 1.8 % | 0.9 % | 0.9 % | 0.3 % | .34 | 66 % | 70 %
@@ -959,13 +957,11 @@ fully vacc | 1300 | 23 | 1.8 % | 0.9 % | 0.9 % | 0.3 % | .34 | 66 % | 70 %
 > => vaccine efficacy is about 66 % for a viral load <40 and about 70 % for a viral load <30 for BNT162b2 from two weeks to 2 months after vaccination.
 
 ###### Vaccine Effects by Incidence Rates
-
-* Table 2b in the paper
-* All tests: Those after exposure as above but also all other tests (which likely are less for vaccinated)
+All tests: Those after exposure as above but also all infections detected by other tests (which likely are likely less for vaccinated e.g. indicated by comparing the larger case count for unvaccinated periods when going from exposures to incidence). 
 
 Status | # cases Ct<40 | Rate per Person days | reduction Ct<40 (prevalence adjusted) | reduction  Ct<40 and symptomatic| reduction Ct<30 and symptomatic
 --|--|--|--|--|--
-unvacc     | 163 | 8.2 | 0 %  | 0 % |  0 %
+unvacc     | 163 | 8.2 | 0 % (ref) | 0 % (ref) |  0 % (ref)
 early vacc |  42 | 7.8 | 13 % | 21 %| 23 %
 partly vacc|  50 | 3.0 | 75 % | 80 %| 80 %
 fully vacc |  31 | 0.9 | 88 % | 90 %| 88 %
