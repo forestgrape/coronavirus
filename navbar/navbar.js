@@ -3,8 +3,7 @@ function hideNav() {
     document.getElementById('side-nav').style.display = "none"
 
     //expand content
-    const content = document.getElementById('central-content')
-    content.setAttribute("style", "margin-left:0%")
+    document.getElementById('central-content').setAttribute("style", "margin-left:0%")
 
     //display menu button (without mouseover only whitespace are displayed)
     document.getElementById('menu-button').style.display = "block"
@@ -15,9 +14,8 @@ function showNav() {
     document.getElementById('side-nav').style.display = "block"
 
     //shrink content 
-    const content = document.getElementById('central-content')
     //in this order : 9% + 9rem!!
-    content.setAttribute("style", 'margin-left:calc(9% + 9rem)')
+    document.getElementById('central-content').setAttribute("style", 'margin-left:calc(9% + 9rem)')
 
     //disable menu button
     document.getElementById('menu-button').style.display = "none"
@@ -35,24 +33,27 @@ function showSideNavScrollbar() {
 }
 
 function hideSideNavScrollbar() {
-    //without if sets display=block
+    /*hide the nav scroll bar*/ 
+    //is only necessary on desktop; on mobile usually hidden by default
+    // if since style attribute change sets display=block
     if (side_nav.style.display != "none") {
         side_nav.setAttribute("style", "overflow-y:hidden")
     }
 }
 
 function onContentMove() {
-    /* 
-    * scrolls the nav element if necessary
-    * hide the nav scroll bar //would be only necessary on desktop on mobile usually auto hidden
-    */
+    /*  scroll the nav element if necessary */
 
     if (side_nav.style.display != "none") {
         const lowest_placement = parseInt(.8 * side_nav.offsetHeight)
+        // get loc of active element in toc
         const active_elem = document.getElementsByClassName('is-active-link')[0]
-        const loc_of_active = active_elem.offsetTop      //alternative would be: getBoundingClientRect().top //gets position respect to view port
-        //console.log('top:'+active_elem + parseInt(loc_of_active))
-        /*usually works; ?option smooth in safari?*/
+        const loc_of_active = active_elem.offsetTop      
+        //alternative is: _.getBoundingClientRect().top //gets position respect to view port
+
+        /* scroll down if below lowest placement*/
+        //console.log('top:'+active_elem.innerHTML + 'loc:' + parseInt(loc_of_active))
+        //smooth behavior available for most browsers; ?option smooth in safari?
         side_nav.scrollTo({ top: Math.max(0, loc_of_active - lowest_placement), 'behavior': 'smooth' })
     }
 }

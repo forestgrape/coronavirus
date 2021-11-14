@@ -15,7 +15,6 @@
 
 <body onscroll="onContentMove()">
 
-
   <nav  class="toc-list" id="side-nav" onmouseover="showSideNavScrollbar()" >
     <span style="font-size: .8rem; cursor:pointer; padding-left: 1em; padding-right: 1em;" onclick="hideNav()">&#10006</span>
     <hr>
@@ -25,14 +24,15 @@
     <hr>
     <hr>
     <p style="font-size: 0.5em;">Current Page:</p>
-    <p class="is-active-link">{{page.title}}</p>
+    <p style="font-weight: 700">{{page.title}}</p>
     <p style="font-size: 0.5em;">Location on Page:</p>
     <section id="nav-toc"> </section>
   </nav>
 
 
   <section id='central-content' class="main-content" onmouseover="hideSideNavScrollbar()">
-    <!--on this page: header and footer are only visible when on top respectively bottom-->
+    <!-- on this page: header and footer are only visible when on top respectively bottom-->
+    <!-- central-content used for placement; main-content for cayman-style-->
 
     <div 
       id="menu-button" style="font-size:2.5rem; cursor:pointer"
@@ -60,7 +60,7 @@
       <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
         is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
       {% endif %}
-      <span class="site-footer-credits">This page is <a href="https://github.com/forestgrape/coronavirus">open source at GitHub</a> and hosted with Github Pages.</span>
+      <span class="site-footer-credits"><a href="https://github.com/forestgrape/coronavirus">open source on GitHub</a> and hosted with Github Pages.</span>
     </footer>
   </section>
 
