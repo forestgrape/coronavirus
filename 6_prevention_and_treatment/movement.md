@@ -12,12 +12,11 @@
   * [Literature on Movement during Covid Times](#literature-on-movement-during-covid-times)
   * [Biological Mechanisms](#biological-mechanisms)
 * [Biological Mechanisms](#biological-mechanisms-1)
-  * [How Movement increases the Resilience to Infections](#how-movement-increases-the-resilience-to-infections)
-  * [Light Movement During a Respiratory Infection including a SARS-2 Infections](#light-movement-during-a-respiratory-infection-including-a-sars-2-infections)
+  * [Early Phase of Covid-19](#early-phase-of-covid-19)
   * [Convalescent Phase of Covid-19](#convalescent-phase-of-covid-19)
 * [Epidemiological Evidence](#epidemiological-evidence)
-  * [Epidemiological Evidence a Lifestyle with Movement is beneficial to the Covid-19 Prognosis](#epidemiological-evidence-a-lifestyle-with-movement-is-beneficial-to-the-covid-19-prognosis)
-  * [Epidemiological Evidence that NO Movement before and during Covid-19 is bad for the Prognosis](#epidemiological-evidence-that-no-movement-before-and-during-covid-19-is-bad-for-the-prognosis)
+  * [Epidemiological Evidence Movement is Beneficial](#epidemiological-evidence-movement-is-beneficial)
+  * [Epidemiological Evidence that NO Movement is Bad](#epidemiological-evidence-that-no-movement-is-bad)
 * [References](#references)
   * [References Exercise During Covid Times](#references-exercise-during-covid-times)
   * [References Effects of Movement on SARS-CoV-2 Infections](#references-effects-of-movement-on-sars-cov-2-infections)
@@ -50,14 +49,11 @@ Movement ahead of an infection increases the overall fitness level.
 ## Biological Mechanisms
 > [simplified, a more detailed argumentation to be done]
 
+> While the focus is on SARS-CoV-2 many mechanisms generalize to other virus infections.
 
-### How Movement increases the Resilience to Infections
-> in work
-
-### Light Movement During a Respiratory Infection including a SARS-2 Infections
 > Only light movement is recommended. Intense movement is discourage due to various risks such as heart muscle inflammations.
 
-#### Early Phase of Covid-19
+### Early Phase of Covid-19
 One reason movement is important in the early phase of Covid, is that the circulation of the lymph is better since the circulation is partly passive and driven by body movement [to confirm and cite]. With movement the virus 'signatures' reach the lymph nodes faster where capable immune cells can be recruited. Some of these cells migrate to protect other body locations: e.g. when infected in the upper respiratory tract some cells migrate to protect lower the lungs. Extern movement makes them migrate faster. With healthy movement, for infections starting in the upper respiratory tract, protective immune cells (mainly T cells) are likely to reach the lungs before the viruses have time to replicate to high numbers.
 
 ### Convalescent Phase of Covid-19
@@ -67,7 +63,8 @@ In the convalescent phase movement is important since
 
 
 ## Epidemiological Evidence
-### Epidemiological Evidence a Lifestyle with Movement is beneficial to the Covid-19 Prognosis
+
+### Epidemiological Evidence Movement is Beneficial
 There is epidemiological evidence supporting the above argumentation:
 * Countless athletes have caught Covid infections. Despite their fitness is thoroughly supervised and regularly competitively evaluated so that even a slight performance decrease is noticed - to my knowledge - no long term effects have been observed. Besides having a good health, adequate training likely helped to overcome Covid.
   > In 2021, sporadic cases of sportives with longer lasting effects or effects on their performance have been published. This effects could be associated to mRNA vaccinations which mess around with the immune system.
@@ -83,9 +80,9 @@ There is epidemiological evidence supporting the above argumentation:
 * [Rowlands et al](#rowlands) find that increased physical activity measured by accelerometers during 2013 - 2015 is associated to less severe Covid is especially for women. The chances to catch Covid are more or less the same. // Odds ratios are visualized in Figure S2 and S3 with adjustments and in Figure S4 for unadjusted models.
 
 
-### Epidemiological Evidence that NO Movement before and during Covid-19 is bad for the Prognosis
+### Epidemiological Evidence that NO Movement is Bad
 * In situations with strict stay-at-home orders the fatality rate (fatality rates in different locations shown in Table 4 in [Ioannidis](../3_medical/covid19.md#ioannidis) including rates for those younger than 70) and the rates of severe cases are higher than in situations without stay-at-home orders (isolation rules can be mostly ignored, especially in spring 2020 since the case detection rates were below 5 %). [more precise analyses on todo]
-
+* Long Covid seems to be nearly exclusively observed in countries with strict quarantine rules. E.g. in Africa seroprevalence observed in late 2020 was often symptom associated, not even during the infection ([Spread Analysis Covid in Africa](./../5_epidemiological/spread_analyses.md#(#transmissions-in-africa))).
 
 ## References
 ### References Exercise During Covid Times
