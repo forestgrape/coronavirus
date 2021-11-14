@@ -20,8 +20,10 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
 * [Introducing Viral Load](#introducing-viral-load)
   * [Locations with Viruses](#locations-with-viruses)
   * [Specimens with Viruses](#specimens-with-viruses)
-  * [Temporal Variation of the Viral Load](#temporal-variation-of-the-viral-load)
-  * [Viral Load and Infectiousness](#viral-load-and-infectiousness)
+* [Variation of the Viral Load](#variation-of-the-viral-load)
+  * [Variation in Time and Space](#variation-in-time-and-space)
+  * [Temporal Variations](#temporal-variations)
+  * [Viral Load in Exhaled Air compared to NPS](#viral-load-in-exhaled-air-compared-to-nps)
 * [Diagnosis at Different Locations with a Focus on Viral Load](#diagnosis-at-different-locations-with-a-focus-on-viral-load)
   * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
   * [Detection Rates](#detection-rates)
@@ -168,20 +170,19 @@ The sensitivity and specificity of antigen tests tend to be lower than PCR based
 
 
 
-
-
-
 ### Detect Infectious Virions
 [in work: to be checked and incomplete]
 Samples, which possibly contain virions, can be put on cell or organ cultures. These cell or organ cultures then can be inspected e.g. by cell damage (cytophatic effects), by detecting tissue change/damage or detecting RNA to see whether and how much the viral load increased. Virus and especially coronavirus culturing is tricky and often requires strict lab security measures, therefore for routine diagnosis virus culturing is not suitable. However virus culturing is very useful for research purposes: e.g. to detect whether and how long infected individuals shed infectious virions. 
 
 
 ##### Cell Cultures
-Cell cultures are cells of an organism which are grown and kept alive in laboratory settings. Usually a single cell type is used and mostly the cells are immortal cell line.
+Cell cultures are cells of an organism which are grown and kept alive in laboratory settings. 
+* Usually a single cell type is used.
+* Usually cells from immortal cell line are used.
 
-<!--
+
 ##### Organ Cultures
--->
+Coronaviruses often have a well defined tropism and infect only certain cell in the right environment ([Coronavirus behavior](../2_biological/coronavirus.md#behaviors-of-coronaviruses))
 
 ##### Plague Assays
 Plague assays is a method to determine to amount of infectious virions. The samples can be diluted to the point, new virus colonies originating from a single virion can be distinguished on cell or organ cultures (practically always used with cell cultures). The number of virions in the dilution is then equal to the number of colonies.
@@ -282,33 +283,41 @@ Since coronaviruses including SARS-CoV-2 mostly release their virions on the api
 
 
 
-### Temporal Variation of the Viral Load
-The metabolisms of organism vary across situation/activities performed. Many metabolic functions follow also a daily=circadian (circa = about, dies=day) cycle. The fluids used for disease diagnosis often have a daily cycle e.g. sputum and saliva. 
+## Variation of the Viral Load
+
+### Variation in Time and Space
+The viral load varies both across the different locations and across time. The graphics by [Yang et al](#summary-yang) visualizes how the viral load changes from day to day and varies between URT and LRT samples (URT in green, LRT in black; black arrow: hospital admission, red arrow: anti viral treatment started; severe cases in red and mild cases in black):
+
+![time series of viral load in URT and LRT](Images/yang_viral_load_series_small.jpg)
+
+### Temporal Variations
+The metabolisms of organism vary across situation/activities performed. Many metabolic functions follow also a daily=circadian (circa = about, dies=day) cycle. The fluids used for disease diagnosis often have a daily cycle e.g. sputum and saliva.
 
 #### Saliva Collection Timing
-The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source give rise to different microhabitats for bacteria and viruses. 
-* [Carlson-Jones et al](#carlson-jones) investigated these habitats with flow cytometry and observe that both the bacteria and virus like particles concentrations peak in the morning after sleep.
-* A morning peak is also observed for the SARS-CoV-2 viral load by [Hung et al](#summary-hung).
+The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source give rise to different micro-habitats for bacteria and viruses. 
+* [Carlson-Jones et al](#carlson-jones) investigated these habitats with flow cytometry and observe that both  virus like particles and bacteria concentrations peak in the morning after sleep.
+* A morning peak is also observed for the SARS-CoV-2 viral load as observed by [Hung et al](#summary-hung).
 
-#### NPS Variations
+### Viral Load in Exhaled Air compared to NPS
+#### Temporal NPS Variations
 [Malik et al](#summary-malik) observed quite some variation for NPS samples whereas exhaled breath samples are more stable:
+
 ![viral load series by NPS and exhaled breaths](Images/malik_fig2.jpg)
 
 
-
-### Viral Load and Infectiousness
+#### Correlation of Viral Load in NPS and exhaled Air
 How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. The virus exhaled are mostly from the conducting airways or the lungs but not from the nose. 
 
 `Infectiousness = amount of exhaled particles * viral load at the source of the particles`
 
-The exhaled aerosol mostly originates from the lower respiratory tract. Accordingly URI specimens usually do *not* correlate well with the amount of exhaled aerosol:
+The exhaled aerosol mostly originates from the lower respiratory tract. URI specimens usually do *not* correlate well with the amount of exhaled aerosol:
 
 [Malik et al](#summary-malik) observe for patients hospitalized with Covid nearly no correlation between the viral load in NPS specimens and in exhaled breath:
 
 ![Viral Load from NPS versus exhaled breath](Images/malik_fig4.jpg)
 
 
-In the case of symptomatic influenza infections, the viral load in the nose does not well predict the of exhaled infectious aerosol as shown by [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018)). Also it is observed that vaccination increases the amount of exhaled infectious aerosol for symptomatic influenza A infections.
+In the case of symptomatic influenza infections, the viral load in the nose does not well predict the of exhaled infectious aerosol as shown by [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018)). Also it is observed that vaccination increases the amount of exhaled infectious aerosol for symptomatic influenza A infections (across influenza A and B the viral load in NPS samples and course aerosol didn't change much).
 
 Sputum is from the lower airways and may better predict the exhaled aerosol than NPS. Early morning saliva samples (as sputum) predict the disease progression, which likely corresponds to the viral load in the lower airways.
 
@@ -378,14 +387,15 @@ The sensitivity depends on the timing (e.g. before or after eat), the location (
 #### XRay-Imaging
 Conventional XRay or computer tomography (essentially multiple XRay pictures enabling computer assisted construction of 3d image[to check])
 Round glassy occupancies in the lung are characteristic for Covid [to check and cite]
-(+) specific
+(+) specific (at least that a RNA virus infection is present and treatments are often similar)
 (+) detects infection of the lung regardless whether there are viruses in the upper respiratory tract
 (-) radiation exposure for patient
 (-) only in diseases involving the lung significantly and thus sensitivity low
+
 => recommended for symptomatic risk patients of very high age (radiation exposure less relevant) with negative test in the upper respiratory tract.
 
-#### Sputum
 
+#### Sputum
 Sputum has a high detection rate: 
 * over 80% in the first week of symptoms and over 70% in the second [Yang et al](#summary-yang) both for mild and severe cases. 
 * [Wang et al](#summary-wang) observed a detection rate over 70%.
@@ -592,6 +602,8 @@ BALF          | 22.5 (21-24) | -
 It is visible that the average viral load and the detection rate correlate: BAL>Sputum>NPS~OPS and severe cases have a slightly higher viral load especially in sputum.
 
 ###### Yang Figure 2
+>  displayed in the section [Viral Load Variations](#variation-in-time-and-space)
+
 Figure 2 shows time series of viral loads for a series 21 individuals (18 severe and 3 mild patients). The detection rates vary for different time points, for different patients and for different locations:
 * While *no* viral RNA was detected in the upper respiratory tract, at the *same* time it was positive in BALF for the cases 01, 03, 07, 11, 12, 13, and 16.  
 * "Viral RNA was tested negative in the first three or all of the upper respiratory samples. However, viral RNA was detected either by the further detection of upper respiratory samples (cases 21–28) or BALF samples (cases 02, 04, 06, and 07) (Figures 2 and S1)."
