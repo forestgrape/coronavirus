@@ -153,3 +153,6 @@ Generation time of the Alpha and Delta SARS-CoV-2 variants
 WS Hart, E Miller, NJ Andrews, P Waight, PK Maini, S Funk, RN Thompson
 medRxiv 2021.10.21.21265216; doi: https://doi.org/10.1101/2021.10.21.21265216
 
+#### Homma
+Y. Homma, T. Katsuta, H. Oka, et al., The incubation period of the SARS-CoV-2 B1.1.7 variant is shorter than that of other strains, J. Inf. Secur. 83 (2) (2021) e15- e7.
+
