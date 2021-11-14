@@ -178,6 +178,7 @@ S stand for Spike protein. The spike proteins point spike-like out of the spheri
 
 
 
+
 ## Capabilities
 [in work]
 
@@ -191,8 +192,6 @@ S stand for Spike protein. The spike proteins point spike-like out of the spheri
 > in work and >95% incomplete
 
 - diminish host defence: N
-
-
 
 
 
