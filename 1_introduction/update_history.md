@@ -47,8 +47,8 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 > In my opinion, for the time being, the vaccines should be used as the evaluations published show clear benefits: For seronegative and PCR negative people at risk for severe Covid. If it turns out, that the benefits outweigh the risks, summer would be a good time to vaccine many/those not at risk. 
 > [Argumentation in advanced work.]
 
-- 22.12.-23.1. [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md) (before 18.1. on the Covid19 page). 
-  - Repeated morning saliva and sputum have a reliable viral load which predicts the disease progression. 
+- 22.12.-23.1. [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md) (before 18.1. on the Covid19 page).
+  - Repeated morning saliva and sputum have a reliable viral load which predicts the disease progression.
   - Nose swabs have a detection rate of about 60% and the viral load does not predict disease progression.
   -  Experiences from HongKong (Summary [Wong](../3_medical/diagnosis_and_viral_load.md#summary-wong)) and an investigation from Dubai [Summary Senok](../3_medical/diagnosis_and_viral_load.md#summary-senok).
 - 24.11. New Page on [Economics](../economics.md): The proposal is to provide universal capital services (e.g. credits) instead of providing targeted support in different situations/crisis (e.g. the current Covid situation). Goals are:
@@ -60,27 +60,27 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     * Air-conditioning: Brazil, Middle East and Southern US (in California noteworthy is the difference between hot Los Angeles and temperate San Francisco)
     * High altitudes which means cold nights and increased breathing: La Paz in Bolivia, Quito in Ecuador and Bogota in Columbia or at high altitude combined with heat: Mexico City and currently (28.10.) in Kenya.
 - 25.10. New page [Spread Analyses](../5_epidemiological/spread_analyses.md) in work: Observations and analysis how Covid-19 spreads in different settings.
-- 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content). 
+- 5.10./6.10. moved from literal single-page (all content in index.md) to multiple pages. Pages including short description are in the in the [content](#content).
   > Even though I liked the single page version since it acknowledges the connections, multi-page is simpler to read & manage and helps to make the topics as self-contained as possible.
 - 21.9. new section [Backtracing Sars-CoV-1/2](../2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12)
 - 30.7. Updates and corrections across the page in work/in the process of writing down:
 	* I wrongly ignored upper respiratory infections for a long time (because most hospitalized/severe cases were/are in the lungs) -> [Disease patterns](../3_medical/coronavirus_disease_patterns.md)
-	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.  
+	* In the first months Sars-CoV-2 didn't have the ability to spread well in humid climate. This has changed: the currently circulating strains spread well in humid climate too.
 - 27.7. [Disease pattering](../3_medical/coronavirus_disease_patterns.md)
 - 29.4/3.5. Reordering of content and new Sections 'Coronaviruses with a Focus on Sars-CoV-2' and 'Immune Protection with a Focus on Coronaviruses' 
 - 17.4.20 00:04 GMT  New section online: Evidence for Increased [Immune Protection against Sars-CoV-2 from Exposure to BCoVs](../5_epidemiological/covid_and_bovine_farming.md)
 - 4.4.20 Added Section Ideas to Explore
-    - starting with [Early On Ventilators](../6_prevention_and_treatment/increasing_the_mucus_flow.md): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS. 
+    - starting with [Early On Ventilators](../6_prevention_and_treatment/increasing_the_mucus_flow.md): Increase the mucus flow and clearance by humidified air early on,  to decrease the risk for developing ARDS.
 - 25-30.3/9.4.20:  Corrected and looked up aerosol/particulate inhalation which yields to the new section [Particles in the Respiratory Tract](../5_epidemiological/transmission.md##particle-dynamics-in-the-respiratory-tract).
     In the first version, I had written that aerosols don't enter the lungs. False. Aerosols DO enter the lungs. The train of thought yielding this mistake: Entering the lungs is halfway entering the body. So there must have been enough evolutionary pressure to prevent this. This is ~~double~~ triple wrong:
-    1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as the lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.  
+    1. The evolutionary roots of the lungs are the alimentary system (some dozens millions of generations ago), so substances coming in were just cleared down. Even as the lungs and the alimentary separated this process stayed. As we often do too, evolution usually gradually bends things right, rather than rebuilding from scratch.
     2. The lungs developed before we were upright (just a couple of hundred thousand generations ago) and in the original case the clearance of aerosols is earlier and better; shown for mice in [Kleinstreuer](../5_epidemiological/transmission.md#kleinstreuer-2018). Ciliate based movement works even uphill, as ski tourers know. But there are limits. A gradual adaption evolved first, the oscillation frequency of the cilia increased, but wasn't yet enough so a workaround evolved:  smallest particulates are cleared by macrophages [citation to be added].
-    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.  
+    3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.
 
 ## Minor Updates
 - 24.8.: General notes on data handling moved to its own page [Data](8_data/data.md) (previously section on monitoring.md or scattered remarks).
 - 24.8.: A new page [Situation Assessments](1_introduction/situation_assessments.md) grouping the previously scattered situation assessments.
-- 22.8.: Many updates and clarifications across the page. E.g. 
+- 22.8.: Many updates and clarifications across the page. E.g.
   - updated and extend the Immune System Page and renamed it to [Concepts of Immunology](4_immunological/concepts_of_immunology.md).
   - updates on the [Controlling Page](7_social/controlling.md) and added section with [measures recommendations](7_social/controlling.md#measure-recommendations)
 - 6.8.: [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md): Clarifications and added examples of faster (alpha, delta)/immune evasion variants (beta, delta).
