@@ -3,17 +3,17 @@
 * [Summary](#summary)
 * [Introduction to Viruses](#introduction-to-viruses)
 * [Life Cycles of Viruses](#life-cycles-of-viruses)
-* [Virus Classification](#virus-classification)
-* [Virus Entities](#virus-entities)
 * [Behavior of Viruses](#behavior-of-viruses)
   * [Behavior by Life Cycle Phase](#behavior-by-life-cycle-phase)
   * [Behavior by Infected Location](#behavior-by-infected-location)
+* [Virus Entities](#virus-entities)
 * [Tropism of Viruses](#tropism-of-viruses)
   * [Tropism of Virus Entities](#tropism-of-virus-entities)
 * [Habitats](#habitats)
   * [Life form Habitats](#life-form-habitats)
   * [Conquering new Habitats](#conquering-new-habitats)
   * [Infecting New Species](#infecting-new-species)
+* [Virus Classification](#virus-classification)
 
 
 
@@ -35,21 +35,39 @@ Viruses are defined as life forms which can't produce all enzymes required for t
   
 Viruses integrate enzymes produced by other forms of life into their metabolism. Since all life forms which are enzymatically independent life forms on today's earth are [cell based](../2_biological/life-forms.md#cell-forming-life-forms) [to check] and the metabolisms is inside the cells, viruses need to be within cells to replicate.
 
+
 > ###### Infected Cell
 > A cell is called *infected* by a virus if it contains genetic material of the virus which influences the cell's metabolism.
 
 > ###### Infected Object
 > An object is *infected* if it contains [infected cells](#infected-cell). An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.
 
+=> An organism is infected if it has some [cells that are infected](#infected-cell).
+
+
 These can mean that the virus is replicating inside the cell. A cell is also called infected if only some viral genes are translated and the resulting enzymes are active and thus influence the cells metabolism. To specify, cells in which replication takes place are called host cells.
+
+
+> ###### Infectable Cell
+> A *infectable cell* is a cell which can be [infected](#infected-cell). There are [constraints on a cell](#cell-tropism) to be infectable.
+
+> ###### Infectable Object
+> An object is *infectable* if can become [infected](#infected-object). Necessary conditions are (1) [infectable cells](#infectable-cell) and this cell must also be reachable. An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.
+
+> ##### Infectable Organism
+> An *infectable organism* is an [infectable object](#infectable-object) where the object is an organism.
+
+There are [constraints on a object to be infectable](#behavior-of-viruses). A necessary condition for an object to become infected is the availability of [infectable cells](#infectable-cell). However this condition is not sufficient, reachability, priming factors and immune evasion are other conditions needed.
+
 
 > ###### Host Cell
 > A *host cell* is a cell in which a virus replicates. 
 
-So a host cell is always an infected cell. 
+A host cell is always an infected cell since to produce new viruses the virus needs to run its metabolism.
 
-Most cells don't live forever. In multicellular organisms most cells live fare shorter than the organism itself and even most cell lines don't survive and only few cells have the chance of being part of the cells giving raise to descendants organisms. If virus infected, cells usually die even faster. Thus viruses need to jump to next cells. To switch between cells, most viruses, including coronaviruses, have a 2 phase life cycle.
+Once a virus infects cells, it changes the metabolism of the cell.
 
+Most cells don't live forever. In multicellular organisms most cells live fare shorter than the organism itself. Some cell lines such as neurons are long-lived, however these long lived cells mostly have their life time limited by the life time of the organism itself. A notable exception are the germ line cells, which have the chance of being part of the cell line giving raise to descendants organisms. Virus infected cells usually die even faster than normal cells. Thus viruses need to jump to next cells. To switch between cells, most viruses, including coronaviruses, have a two phase life cycle.
 
 
 ## Life Cycles of Viruses
@@ -57,7 +75,7 @@ Different viruses have different life cycles:
 * 1 Phase Life Cycle: Some viruses live always within cells and accordingly are only transmitted vertically and not horizontally [to confirm and cite].
 * 2 Phase Life Cycle: Most viruses including coronaviruses, have a two phase life cycle.
     Coronaviruses have a two phase life cycle:
-    1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: [passive travel](#virion-travel), wait to be [activated](#virion-priming) by matched with an [infectable cell](#infectable-cell) in the right environment. Once activated virions try to enter the cell.
+    1. Virion phase: They are born/produced as [virion](#virion). Virions are similar to seeds of plants in the sense they have no metabolism: passive travel, wait to be activated in the right environment (mostly attached to a cell in the right environment). Once activated virions try to enter the cell.
     2. Metabolic phase: Once inside a cell, a virus uses the cells metabolism to produce proteins and other substances using the structures, ribosomes, enzymes and resources (fatty acids, amino acids and ribonucleic acids) from the host cell. As for all forms of life the ultimate goal is to produce progeny = new virions.
 * 4 Phase life cycle: Retroviruses have a four 4 phase cycle [to confirm and cite]:
   1. Sleeping Phase A: Virion Phase (corresponds the virion phase of 2-phase viruses).
@@ -69,69 +87,10 @@ Different viruses have different life cycles:
 > ###### Virion
 > A *virion* is the 'birth-form' of a virus. The genome and proteins required to infect a cell are usually packed into some form of protective shell. A virion has no active metabolism.
 
-Viruses while outside of cells are present as virions. Virions are passively [moved around](#movement-of-virions). Most virions decay but some get matched to an infectable cell. On match [infect cells](#infected-cell) and transform to the [metabolic phase](#metabolic-phase).
+Viruses while outside of cells are present as virions. Virions are passively moved around. Most virions decay but some get matched to an infectable cell. If matched with an infectable cell under the right circumstances, a virion tries to enter the cell.
 
-> Virions are [similar to seeds of plants](../2_biological/coronavirus.md#plant-seeds-to-virions): They are dormant and wait for activation. Virions don't have a metabolism running. They evolved to induce infection on the right circumstances. Once activated/primed cell fusion is initiated by using spring loaded energy stored in the structure of special proteins.
+> Virions are similar to seeds of plants: They are dormant and wait for activation. Virions don't have a metabolism running. They evolved to induce infection on the right circumstances. Once activated/primed cell fusion is initiated by using spring loaded energy stored in the structure of special proteins. The virions phase and the analogies to plant seeds are further discussed in the [coronavirus chapter](./coronavirus.md#virion-phase).
 
-Once a virus infects cells, it changes metabolism of the cell.
-
-
-> ###### Virus Infection
-> An object is called *infected* by a virus if it contains cells that are infected. An object can be a tissue, an organ, a structure or an [organism](#organism).
-
-So an organism is infected if it has some [cells that are infected](#infected-cell).
-
-> ###### Infectable Cell
-> A *infectable cell* is a cell which can be [infected](#infected-cell). There are [constraints on a cell](#cell-tropism) to be infectable.
-
-> ###### Infectable Object
-> An object is *infectable* if can become [infected](#infected-object). Necessary conditions are (1) [infectable cells](#infectable-cell) and this cell must also be reachable. An object can be a tissue, an organ, a structure (e.g. upper respiratory tract) or an organism.
-
-> ##### Infectable Organism
-> An *infectable organism* is an [infectable object](#infectable-object) where the object is an organism.
-
-There are [constraints on a object to be infectable](#taxis-of-viruses). A necessary condition for an object to become infected is the availability of [infectable cells](#infectable-cell). However this condition is not sufficient, reachability, priming factors and immune evasion are other conditions needed.
-
-Therefore viruses are dependent on the host cells. Long-term surviving virus strains generally have a symbiotic relationship with their natural host life form as a whole but still can be fatal for individuals. The survival of fit ecosystems is ubiquitous in nature.
-
-
-## Virus Classification
-By definition, a [virus](#virus) is a [life form](../2_biological/life-forms.md#life-form) encoding proteins but not all. This definition is very broad so often further classifications/grouping are done. 
-
-> The goal of classification is usually to group things together which are similar to some properties or behavior of interest. 
-
-Features of interest for viruses are:
-* Viruses can be classified by the hosts they infect. E.g. bacteriophages infect bacteria.
-* Genetic and metabolic similarity. Viruses exists across all the [different storage forms](../2_biological/life-forms.md#storage-organization) used by life forms.
-* Structural Similarity. E.g. viruses can be classified into enveloped and non-enveloped viruses.
-
-
-
-## Virus Entities
-[in work and explorative]
-
-Similarly as [organisms](../2_biological/life-forms.md#organism) are usually considered as a whole and not as single cells, for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviors in different cells and upon different situations:
-* *Communication:* As cells in multicellular organisms communicate, viruses communicate too e.g. by producing virus like particles, which are similar to virions but don't contain the whole machinery to replicate and thus just influence other cells or other viruses.
-* *Differentiation:* DNA/Retro viruses can in theory encode the same differentiation mechanisms as eukaryotic cells. In fact the cellular differentiation is often driven by endogenous retroviruses. RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#taxis-of-viruses) in different situations. 
-
-> ###### Virus Entity
-> A *Virus Entity or Virus Organism* denotes all [infected cells](#infected-cell) in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*.
-
-A multicellular organism can arise from only one cell, similarly usually only few viruses of a virus entity transmit to a new host and give rise to a new virus entity.
-
-> Virus entities/organisms are a concept I haven't seen about in literature. Similar concepts may exists possibly under different names.
-
-<!--
-#### life cycle of a coronavirus entity
-[in rework in ideas to explore section]
-In outdoors living vertebrate hosts, the infection course of a coronavirus entity is likely [citations and argumentation in work]:
-* enter the respiratory system
-* spread throughout respiratory tract and replicate to high numbers (often in ciliated epithelial cells) 
-* [diminish parts of the host immune system]
-* reach the intestine (or sometimes the kidney) by spreading through blood or through the alimentary tract via stomach
-* establish a possibly longer lasting infection in the intestine(/kidney) and continuously have progeny released
-* progeny: the virions get transported by wind or water to new susceptible hosts
--->
 
 
 
@@ -139,9 +98,9 @@ In outdoors living vertebrate hosts, the infection course of a coronavirus entit
 
 > clarifications needed and in work, October 2021
 
-Behavior is used here to denote the situation dependent metabolism including expression of proteins. 
+Behavior is used here to denote the situation dependent metabolism including the expression of proteins. 
 
-> Taxis is possibly a (more) suitable name for the situation specific behavior at the 'micro'/'small-scale' level of life-forms. It generalizes the existing use of taxis as stimulus induced movement of cellular life-forms. So the term behavior could be used only when feedback loops via neural networks are involved. (as of October 21, it is in consideration which is the more concise usage)
+> Taxis is possibly a (more) suitable name (than behavior) for the situation specific behavior at the 'micro'/'small-scale' level of life-forms. It generalizes the existing use of taxis as stimulus induced movement of cellular life-forms. So the term behavior could be used only when feedback loops via neural networks are involved. (as of October 21, it is in consideration which is the more concise usage)
 
 The behavior of viruses can be viewed
 * [by life cycle phase](#behavior-by-life-cycle-phase)
@@ -149,11 +108,12 @@ The behavior of viruses can be viewed
 
 
 ### Behavior by Life Cycle Phase
+
 #### Behavior Virion Phase
 
 > in rework, June 2021
 
-As described in the section [virion activation](#virion-priming) the virions need to be activated. The activation factors determine the behavior of virions:
+To infect a cell the virions need to be activated. The activation factors determine the behavior of virions:
 
 * Environmental factors throughout the lifetime of a virion and around the cells mainly determine entry:
   - physical environment: e.g. temperature
@@ -164,17 +124,19 @@ As described in the section [virion activation](#virion-priming) the virions nee
   - Matching Receptor on the target cell membrane
   - biochemistry inside the cells
 
-
-<!--[Holmes](#holmes)-->
-
+The behavior in the virions phase in mostly determined by the proteins and lipids accessible from the outside. In the case of coronaviruses the spike plays a central role in the virion phase behavior.
 
 #### Behavior Metabolic Phase 
-[in work: incomplete and citations/confirmation in work]
+[in early work]
 
-The behavior in the virion phase is better known than the taxis in the metabolic phase. 
+The metabolic phase is varies widely across viruses. The metabolic phase of coronaviruses is described on the [coronavirus page in the section metabolic phase](./coronavirus.md#metabolic-phase).
+
+#### Investigating the Behavior
+The behavior in the virion phase is better known than the behavior in the metabolic phase. 
 * The cell entry can be investigated with reprogrammed viruses (often retroviruses) expressing the coronavirus spikes and transfected cells (mostly standard laboratory cell-lines where some genes are changed so they express the desired receptors). Neither the transfected cell need to behave similar to the cells which are naturally infected nor the reprogrammed viruses behave similar once inside the cell.
 * To investigate the metabolic phase, ideally one could look into the cells. Often one observes the cells just from the outside e.g. observing cell damage. 
 * Detecting virus 'metabolites'/virion building blocks such as RNA or produced proteins is suitable to get hints for the intracellular behavior.
+
 
 
 ### Behavior by Infected Location
@@ -198,6 +160,7 @@ The cell behavior is the combination of the [virion behavior](#behavior-virion-p
 * The cell should be able to produce many virions and thus should have a capable metabolism.
 
 
+
 #### Tissue Specific Behavior
 
 The tissue tropism depends on:
@@ -205,8 +168,35 @@ The tissue tropism depends on:
 * Movement within the tissue i.e. reaching the next cell in the tissue
   * Coronaviruses usually infect the apical cell layer of the respiratory tract epithelium initially. Most [virions are released](#apical-side-preference) again on the apical side to spread via the covering fluids. Some virions are released on the basal layer and can yield further infections deeper in the tissue or spread via the blood stream, especially if released from the intestine from where they can leave and infect the next host. 
   * Coronaviruses are to big to diffuse efficiently inside most tissues.
-* Immune defenses present locally in the tissue.
+* Immune defenses present in the tissue.
 
+
+
+## Virus Entities
+[in work and explorative]
+
+[Organisms](../2_biological/life-forms.md#organism) which are usually considered as a whole and not as single cells. Similarly for viruses infecting organisms, often to grasp the full picture it is necessary to consider all viruses as an entity and not as unrelated. Viruses can show different behaviors in different cells and upon different situations:
+* *Communication:* As cells in multicellular organisms communicate, viruses communicate too e.g. by producing virus like particles, which are similar to virions but don't contain the whole machinery to replicate and thus just influence other cells or other viruses.
+* *Differentiation:* DNA/Retro viruses can in theory encode the same differentiation mechanisms as eukaryotic cells. In fact the cellular differentiation is often driven by endogenous retroviruses. RNA viruses don't encode the same mechanisms as DNA based forms of life e.g. for gene expression. However they still are able to show [different behaviors](#behavior-of-viruses) in different situations. 
+
+> ###### Virus Entity
+> A *Virus Entity or Virus Organism* denotes all [infected cells](#infected-cell) in an organism resulting from a single infection occurrence. Upon a new infection the infections can interact and give rise to a *new entity*.
+
+A multicellular organism can arise from only one cell, similarly usually only few viruses of a virus entity transmit to a new host and give rise to a new virus entity.
+
+> Virus entities/organisms are a concept I haven't seen about in literature. Similar concepts may exists possibly under different names.
+
+<!--
+#### life cycle of a coronavirus entity
+[in rework in ideas to explore section]
+In outdoors living vertebrate hosts, the infection course of a coronavirus entity is likely [citations and argumentation in work]:
+* enter the respiratory system
+* spread throughout respiratory tract and replicate to high numbers (often in ciliated epithelial cells) 
+* [diminish parts of the host immune system]
+* reach the intestine (or sometimes the kidney) by spreading through blood or through the alimentary tract via stomach
+* establish a possibly longer lasting infection in the intestine(/kidney) and continuously have progeny released
+* progeny: the virions get transported by wind or water to new susceptible hosts
+-->
 
 
 
@@ -299,3 +289,17 @@ With no metabolism running virions can not move on their own and so they can't s
 > A *zoonosis* is an [interspecies jump](#interspecies-jump) where the new host species is human (homo sapiens).
 
 So an interspecies infection denotes a transmission without spread in the new species. If these infections occur frequently the new species becomes a side host but not a natural host. Frequent infections allow the virus strain to adapt to the new host. The host may become part of a life cycle of a possibly new virus strain which is then an [interspecies jump]
+
+
+
+
+
+## Virus Classification
+By definition, a [virus](#virus) is a [life form](../2_biological/life-forms.md#life-form) encoding proteins but not all. This definition is very broad so often further classifications/grouping are done. 
+
+> The goal of classification is usually to group things together which are similar to some properties or behavior of interest. 
+
+Features of interest for viruses are:
+* Viruses can be classified by the hosts they infect. E.g. bacteriophages infect bacteria.
+* Genetic and metabolic similarity. Viruses exists across all the [different storage forms](../2_biological/life-forms.md#storage-organization) used by life forms.
+* Structural Similarity. E.g. viruses can be classified into enveloped and non-enveloped viruses.
