@@ -31,7 +31,7 @@ Mild measures (but no closures) such as ventilation and masks in sensible indoor
 
 If the Summer 2021 is used to ensure adequate ventilation in sensible settings such as super markets, public transport, stairwells in residential blocks, indoor arenas and other indoor places with many people: Only very few other measures will be necessary. Coronaviruses mutate fast and may [out-mutate recognition by neutralizing antibodies](../4_immunological/immune_evasion.md) within a few months but they cannot out-mutate ventilation.
 
-> Well not quite. The evolution of directed flying is possible but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Both are multicellular organisms which in turn are a subgroup of eukaryotes. Going back the string of evolution, likely at some point one a arrives at a [RNA life forms](../2_biological/life-forms.md#ssrna) similar to coronaviruses. However this evolution took place during billions of years.
+> Well not quite. The evolution of directed flying is possible but not so fast: There are [life forms](../2_biological/life-forms.md) which are capable of directed flying such as insects or birds. Both are multicellular organisms which in turn are a subgroup of eukaryotes. Going back the string of evolution, likely at some point one a arrives at a [RNA life form](../2_biological/life-forms.md#ssrna) similar to coronaviruses. This evolution took place during billions of years and was accompanied by many changes in way of life.
 
 
 ## Situation in Switzerland May 2020
