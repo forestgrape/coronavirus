@@ -19,7 +19,7 @@ Topics on Coronaviruses helpful to understand the infections they cause.
   * [Capabilities in the Metabolic Phase](#capabilities-in-the-metabolic-phase)
 * [Behaviors of Coronaviruses](#behaviors-of-coronaviruses)
   * [Introduction to the Behavior of Coronaviruses](#introduction-to-the-behavior-of-coronaviruses)
-  * [Cell Behavior of Coronaviruses](#cell-behavior-of-coronaviruses)
+  * [Cell Specific Behavior of Coronaviruses](#cell-specific-behavior-of-coronaviruses)
   * [Cell Specific Behavior of Sars-Cov-2](#cell-specific-behavior-of-sars-cov-2)
 * [Tropisms of Coronaviruses](#tropisms-of-coronaviruses)
   * [Respiratory Tract Tropism](#respiratory-tract-tropism)
@@ -90,7 +90,6 @@ The infectable cell can be:
 
 
 #### Virion Priming
-
 Coronaviruses virions usually need to be primed before they bind to cell or initiate cell fusion. Since:
 * Target Cell Selection:
   *  Without metabolism virions can't reload the spikes (The spike are like springs and have stored energy by which a coronavirus virion can induce cell fusion) -> release the energy only on infectable cells.
@@ -210,25 +209,37 @@ Viruses optimized to their environment usually infect cells beneficial to the su
 * Sometimes viruses infect cells to manipulate the host behavior.
 
 
-### Cell Behavior of Coronaviruses
-#### Polarized Cells
+### Cell Specific Behavior of Coronaviruses
+
+#### In Vitro Experiments
+Coronaviruses often have a preference for the apical side of polarized epithelial cells:
 * In vitro experiments from [Jia et al](#summary-jia-2005) show both increased apical ACE2 expression and a corresponding increased cell entry from the apical side. [Jia et al](#summary-jia-2005) also observed in the lab that Sars-CoV-1 exits the cell on the apical side following an apical entry with a preference of more than 1000:1. 
 * Similar observations for the coronavirus 229E [[McCray & Co](#mccray)]: It infects the cells, corresponding to its receptor (amino-peptidase N) expression, preferably from the apical surface. 229E exits apically with a preference of 10:1 (about 91%) for an apical entry and 5:1 (about 83%) even for basal entry.  
+
+#### Cell Entry Mechanisms:
+
+1. 
+   - *Attachment Receptor:* Cell membrane expression of ACE2 or an other adhesion receptor.
+   - *Get Taken Up by the Cell:* Some cells (e.g. macrophages, dendritic cells) phagocyte coronaviruses (antibodies can mark virions for phagocytosis). Once phagocytosed the coronaviruses usually find themselves within intracellular vehicles.
+     > Antibody induced phagocytosis is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword. The risk is much greater for spike-only vaccines since the immune response induced is very narrow.
+
+2. Once attached on the outside or within intracellular vehicles, coronaviruses need to pass the membranes. They do this by using their spikes. The spikes attached to the cell surface undergo a conformation change which brings the cell membrane and virus membrane together and fuses them. 
+
+  <!--add lipid droplet bsp-->
+
+  > The spikes can be imagined like spring under tension: Upon activation this energy is released to fuse the membranes.
 
 
 ### Cell Specific Behavior of Sars-Cov-2
 [in work]
+
 * infection and efficient replication
     - alveolar type 2 cells
     - alveolar macrophages
     - ciliated epithelial cells in the bronchi
 * infection but no replication
-    - dendritic cells [to check entry mechanism]: usually apoptosis induced
-* no entry and thus no infection
-    - Cells neither expressing ACE2 nor phagocyting virions on their own and the virions are able to fuse the membranes once phagocyted (usually captured in an endosome). 
-    E.g. antibody marked virions can get phagocyted by macrophages. 
-    
-        > This is both relevant upon reinfection and for the design of vaccines. Antibodies against the outer membrane proteins (e.g. the spike) can be a two-sided sword.
+    - dendritic cells [to check entry mechanism, possibly phagocytosis]: usually apoptosis induced
+
 
 
 
@@ -253,7 +264,7 @@ Coronaviruses are initially deposited and replicate well on the surface of the r
 ## Evolution
 [in work]
 
-Coronaviruses can adapt fast to changed or new environments if given time and opportunity. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome. Measured in mutations per time unit coronaviruses are among the fastest evolving life forms on earth. More in the [Evolution Chapter](./coronavirus_evolution.md).
+Coronaviruses can adapt fast to changed or new environments ~~if given time and opportunity~~ 15.11.21: coronaviruses don't need much space and time to evolve. The adaption over multiple generations occurs through genetic evolution i.e. mutation of RNA genome. Measured in mutations per time unit coronaviruses are among the fastest evolving life forms on earth. More in the [Evolution Chapter](./coronavirus_evolution.md).
 
 
 ### Conquering to New Hosts
