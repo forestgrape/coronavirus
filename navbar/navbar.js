@@ -2,10 +2,10 @@ function hideNav() {
     //console.log("hide side-nav")
     document.getElementById('side-nav').style.display = "none"
 
-    //expand content
+    /*expand content*/
     document.getElementById('central-content').setAttribute("style", "margin-left:0%")
 
-    //display menu button (without mouseover only whitespace are displayed)
+    /*display menu button (without mouseover only whitespace are displayed)*/
     document.getElementById('menu-button').style.display = "block"
 }
 
@@ -13,13 +13,14 @@ function showNav() {
     //console.log('show')
     document.getElementById('side-nav').style.display = "block"
 
-    //shrink content 
-    //in this order : 9% + 9rem!!
+    /*shrink content */
+    //in this order: 9% + 9rem!!
     document.getElementById('central-content').setAttribute("style", 'margin-left:calc(9% + 9rem)')
 
-    //disable menu button
+    /*disable menu button*/
     document.getElementById('menu-button').style.display = "none"
 }
+
 
 const side_nav = document.getElementById('side-nav')
 
@@ -33,8 +34,7 @@ function showSideNavScrollbar() {
 }
 
 function hideSideNavScrollbar() {
-    /*hide the nav scroll bar*/ 
-    //is only necessary on desktop; on mobile usually hidden by default
+    // is only necessary on desktop; on mobile usually hidden by default
     // if since style attribute change sets display=block
     if (side_nav.style.display != "none") {
         side_nav.setAttribute("style", "overflow-y:hidden")
