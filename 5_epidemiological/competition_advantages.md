@@ -25,7 +25,6 @@ Since early in the SARS-2 pandemics new variants are observed. Sometimes new var
 * *Model: Immune Evasion even at low Seroprevalence yields a Competition Advantage*: The Covid spread is highly uneven, in the sense that some individuals have many secondary cases while most individuals have no secondary cases. Thus the distribution of the individual R values is skewed: Many individuals have low R values, while a few have high R values. If a Covid variant now is able to reinfect and spread through people with high R values, it has a competition advantage.
 * *Biological Mechanisms:* One way immune escapes arise is through points mutations in antigen epitopes.
 
-
 #### Hypothesis 2
 * *Model: Faster Infection yields a Competition Advantage*: Some variants infect faster which makes their incidence rates peakier. These variants have competitions advantages over slower variants even without a higher transmissibility: The fast variants rush through the most hosts with highest R values and leave only few hosts for slow variants, since reinfection within a couple of weeks is rare.
 * *Biological Mechanism:* Mutations affecting the cleavage sites can increase the priming through proteases which yields a shorter virion time which results in faster infections (and also effectiveness of neutralizing antibodies is reduced due to a shorter virion time and thus exposure time).
@@ -39,18 +38,14 @@ The hypotheses above explain patterns observed for the spread of new variants:
 
 
 ## Introduction
-Coronaviruses are well known for the ability to cross species borders and adapt to new situations:
-* Bovine coronaviruses spread from cattle to many ungulates both domestic and wild.
-* In cell cultures coronavirus can adapt within a couple of generations. E.g. 
-  * they can adapt such that the virions tolerate high temperature (55 degrees) better [Laude](../2_biological/virion_viability.md#summary-laude).
-* SARS-CoV-2 jumps to domestic animals and adapts.
+Coronaviruses are well known for the ability to cross species borders and adapt to new situations e.g. to changed temperatures or new species ([Observed Coronavirus Evolution](../2_biological/coronavirus_evolution.md#observed-evolution)).
 
-Even when staying within a species, human coronavirus are known to mutate frequently. The new strains replace the existing strains and are able to reinfect.
+Even when staying within a species, human coronavirus are known to mutate frequently. The new strains replace the existing strains and are able to reinfect. This is observe both for the human endemic coronaviruses and bovine coronaviruses [to cite].
 
 Regarding SARS-CoV-2, new lineages emerge and often show a competition advantage. The underlying mechanisms for the competition advantages are often unclear. Often from the competition advantage a higher overall R values is presumed. The goal of this chapter is to outline that a competition advantage can have different causes:
 * Higher transmissibility in the sense of an overall higher R value
-* Immune escape which enables reinfection. Since the individual R value distribution is skewed this can yield a higher spread. (Hypothesis 1)
-* * Faster spread and thus outpacing lineages spreading at the same time. (Hypothesis 2)
+* Immune escape which enables reinfection. Since the individual R value distribution is skewed, this can yield a higher spread even at low seroprevalence. (Hypothesis 1)
+* Faster spread and thus outpacing lineages spreading at the same time. (Hypothesis 2)
 
 
 
@@ -60,7 +55,7 @@ Regarding SARS-CoV-2, new lineages emerge and often show a competition advantage
 The Covid transmission [distribution is skewed](#skewed-spreader-distribution). The skewed spread motivates to define individual R values. The overall R value of a SARS-CoV-2 variant calculates as averaging the individual R values of the persons susceptible to transmit the variant in question. If a variant is able to reinfect individuals with a high R value, it has a competitive advantage over other variants and the observed R value is higher than for a variant which needs to spread through population groups with low R values.
 
 ### Skewed Spreader Distribution
-Epidemiological and experimental observations show that: A few percent of people infect many others while most infected have no secondary cases as described in the [Transmission Distribution](./spread_analyses.md#transmission-distribution) on the spread analyses page.
+Epidemiological and experimental observations show that: A few percent of people infect many others while most infected have no secondary cases as described in the [Transmission Distribution](./individual_susceptibility_and_transmission.md#infector-distribution) on the spread analyses page.
 
 ### Biological Mechanism: How Mutations directly effect Immune Evasion
 Coronaviruses have evolved to escape immune responses and have a variety of mechanisms to evade immune response ([Immune Evasion](../4_immunological/immune_evasion.md)). 

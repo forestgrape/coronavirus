@@ -6,6 +6,7 @@
 * [Evolution Variations across the Genome](#evolution-variations-across-the-genome)
   * [Effects of Genome Evolution](#effects-of-genome-evolution)
   * [Determinants of Evolutionary Rate](#determinants-of-evolutionary-rate)
+* [Observed Evolution](#observed-evolution)
 * [References](#references)
 
 
@@ -100,6 +101,12 @@ Changing the appearance can yield escape from immune system recognition.
   * The replication mechanism of coronaviruses is well conserved and thus the proteins involved e.g. functional parts of the RNA-dependent RNA polymerase protein [to check and cite]. 
 * *Adapted Function:*
   * The receptor binding 
+
+## Observed Evolution
+* Bovine coronaviruses spread from cattle to many ungulates both domestic and wild [to cite].
+* In cell cultures coronavirus can adapt within a couple of generations. E.g. 
+  * they can adapt such that the virions tolerate high temperature (55 degrees) better [Laude](../2_biological/virion_viability.md#summary-laude).
+* SARS-CoV-2 jumps to domestic animals and adapts.
 
 
 ## References
