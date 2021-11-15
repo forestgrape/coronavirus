@@ -66,7 +66,7 @@ This section overviews the entire content. The [content section](#content) lists
 ### Recent Updates
 - 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
 - 13.-15.11.: Formulations. Some formulations changed back and forth. 
-  > *When rules target individuals based on R values or even without medical basis - both is firmly opposed on this page-, conciseness and directness are the focus.*
+  > *When rules restrict individuals based on R values or even without medical basis - both is in general firmly opposed on this page-, conciseness and directness are the focus.*
 - 12.11.: Updates across the page, for example: added pictures to [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md).
 - 12.9.: [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md) clarified and extended.
 - 9.9. Many small changes across the page and a new chapter added: [Recent Topics added](#recent-topics-added).
