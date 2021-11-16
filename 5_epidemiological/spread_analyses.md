@@ -1020,12 +1020,12 @@ The *attack rate* is the percentage of exposed-to-infection population that cont
 
 #### Settings in Sport Stadiums
 [**in work**]
-* Netherlands: 15 - 35% of capacity until 1.10. 
+* Netherlands: 15 - 35% of capacity until 1.10.20 
 * Switzerland:up to 2/3 of capacity [to check] allowed between 1.10.20 and 28.10.20 both for ice hockey (indoor) and football. All fans needed to wear a mask (of any type) but were allowed to drink (including alcoholic beverages).
 * Ukraine: allowed in mid October (exact dates to be checked)
-* Belgium: up to 400 outdoors and 200 indoors allowed from 23.9. to 23.10.
-* Russia: still several thousand fans seem to be allowed in football [as indicated by stadium counts on 4.11.]
-* Turkey: several hundred fans seem to be allowed in football [as indicated by stadium counts on 4.11.] [to check]
+* Belgium: up to 400 outdoors and 200 indoors allowed from 23.9. to 23.10.20
+* Russia: still several thousand fans seem to be allowed in football [as indicated by stadium counts on 4.11.20]
+* Turkey: several hundred fans seem to be allowed in football [as indicated by stadium counts on 4.11.20] [to check]
 * UK: After a 4 week lockdown which ended on 2nd December 2020 until 5.1.2021 ([Appendix UK Sport Data](#data-uk-sport-events)):
   4000 spectators in Tier 1 (about 10%-15% of capacity)
   2000 spectators in Tier 2 (about 5%-7.5% of capacity)
@@ -1034,7 +1034,7 @@ The *attack rate* is the percentage of exposed-to-infection population that cont
 
 
 #### Results from Leagues with Spectators
-Sources: <https://www.sofascore.com>, <https://www.bbc.com/sport/football/scores-fixtures>, <https://www.srf.ch/sports> [accessed in early November]
+Sources: <https://www.sofascore.com>, <https://www.bbc.com/sport/football/scores-fixtures>, <https://www.srf.ch/sports> [accessed in early November 2020]
 * Netherlands
   * A very steep increase of Covid-19 cases in early October
 * Switzerland
@@ -1061,8 +1061,8 @@ Sources: <https://www.sofascore.com>, <https://www.bbc.com/sport/football/scores
 
 
 #### Results from Leagues without Fans
-* UK (no spectators until 2.12.): between 21.10. and 4.11. all matches (16) have been played
-* Netherlands (allowed only until 1.10.): between 21.10. and 4.11. all matches (18) have been played
+* UK (no spectators until 2.12.20): between 21.10. and 4.11.20 all matches (16) have been played
+* Netherlands (allowed only until 1.10.): between 21.10. and 4.11.20 all matches (18) have been played
 * Germany: no matches cancelled [to confirm]
   
 
@@ -1070,10 +1070,10 @@ Sources: <https://www.sofascore.com>, <https://www.bbc.com/sport/football/scores
 
 ##### scott-bbc
 **Fans at sporting events: Maximum of 4,000 to be allowed in England**
-By Laura Scott and Mandeep Sanghera
+By Laura Scott and Mandeep Sanghera, 2020
 
 ##### Premier League Case Counts
-Source: <https://www.premierleague.com/news/1814863>
+Source: <https://www.premierleague.com/news/1814863>; Results for season 20/21
 
 "
 Round 5: 28 Sep-4 Oct - 1,587 tested, with nine testing positive. 
