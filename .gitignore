@@ -2,5 +2,6 @@ cites.md
 .*
 _site/*
 */_site/*
+*/*/_site/*
 Gemfile
 Gemfile.lock
