@@ -20,7 +20,7 @@ For risk groups, Covid-19 can be serious short-term and such serious infections 
 
 > Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page. 
 
-> The page started in March 2020. Content has been added, updated and corrected since. Though statements such as the note below are timeless. 
+> The page started in 2020 with a very experimental flavour. Content has been added, updated and corrected many times since. Some statements date back long - some went overlooked, some are still valid.
  
 Time to act mindfully, carefully and circumspectly & work together in an open, fair and honest way. 
 
@@ -49,7 +49,7 @@ A more in depth description is in the section [Airborne Transmission](../5_epide
 
 > Remark: Some of the following advices are meant when Sars-Cov-2 ARDS/SARS disease patterns peak (which is usually associated to setting with dry air e.g. indoor heated or air-conditioned).
 
-In brief: Think aerosol transmission as smoke like. To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
+In brief: Aerosol transmission is smoke like. To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
 
 * ### Outdoors
     [outdoors with some distance is safe](../7_social/controlling.md#outdoors-is-safer). Ideally, walk or cycle directly from home. outdoors is unconfined settings, face-to-face talking poses an transmission risk. In heated and few ventilated regions, beware the corridor and stairwell, don't stay too long or wear a mask. 
@@ -66,20 +66,20 @@ In brief: Think aerosol transmission as smoke like. To reduce the infection poss
     * Dry air increases the chance that a virus infection starts in the lungs, where it is more likely to cause a symptomatic or even severe disease.
     * Dry air reduces the defences of the respiratory tract against pathogens.
     
-    In areas with indoor heating, drying the frequently washed cloths inside keeps the air humid. If the outside air is warm and dry the windows should be open always. If the air outside is humid and warm air-conditioning should not be used.
+    In areas with indoor heating, drying the frequently washed cloths indoors keeps the air humid. If the outside air is warm and dry the windows should be open always. If the air outside is humid and warm air-conditioning should not be used.
 
 * ### Masks
     Wear a [mask](../7_social/controlling.md#masks) in indoor places where susceptible or infectious people are. The longer one stays, the more people there are and the less ventilation there is, the more important. This because the infection risk increases with the amount of indoor air breathed.
 
-    The mask should have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible infected. But if symptomatic staying home or at least at of crowds is crucial, since masks just reduce the spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
+    The mask should have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible diseased. But if symptomatic staying ~~home or at least at~~ out of indoor crowds is crucial, since masks just reduce the spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
     
-    Especially to protect others, masks should be switched frequently (e.g. each 2 hours). However coronaviruses are not stable and after two days waiting, putting into the sunlight or washed with soap/warm water nearly all [viruses are decayed](../2_biological/virion_viability.md)). So masks can be reused if [cleaned](../6_prevention_and_treatment/masks.md#mask-reuse-and-cleaning). From time to time it should replaced or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+    To protect others, masks ideally are switched frequently (e.g. each 2 hours). Coronaviruses are not stable and after two days waiting, putting into the sunlight or washed with soap/warm water nearly all [viruses are decayed](../2_biological/virion_viability.md)). So masks can be reused if [cleaned](../6_prevention_and_treatment/masks.md#mask-reuse-and-cleaning). From time to time it should replaced or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
 
 * ### Distancing
     Distancing reduces infection risk.
 
 * ### Hygiene
-    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap cleans most pathogens and usually destroys enveloped viruses such as coronaviruses or influenza. Hygiene is important because many pathogens are transmitted through fomites. Pathogens can cause tissue damage and/or weaken the immune system. E.g. common cold viruses attempt to weaken the immune system [[kikkert](../4_immunological/immune_evasion.md#kikkert)] and therefore can induce an increased infection risk. Additionally many infections can burden and even if not it is hard to distinguish them from mild SARS-2 infections.
+    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap removes most pathogens and even destroys enveloped viruses such as coronaviruses or influenza viruses. Many microbiota, some pathogenic, are transmitted through fomites - worms nearly exclusively, bacteria often by fomites, RNA viruses sometimes but mostly by direct contact or airborne. Diseases can burden by itself and respiratory diseases can be difficult to distinguish from Covid-19.
 
     But do NOT rely on hygiene alone, since the majority of severe Covid [transmissions occur through air](../5_epidemiological/transmission.md).
 
@@ -106,14 +106,16 @@ While we often prefer straight plans, adaptive planning can be needed in Covid t
 
 Increased infection probability:
 * *Increased Exposure to Viruses:* Being in a densely populated and poorly ventilated indoor spaces.
-* *Increased Susceptibility to Viruses:* Diminished immune system (long party nights) and increased inhalation of air (e.g. sports, high altitude)
+* *Increased Susceptibility to Viruses:* 
+  * Diminished immune system (e.g. long party nights). 
+  * Deep inhalation causes more particles to reach the lungs (e.g. sports, high altitude).
 
 Keeping benefits and risks in mind:
 * Whether, when and what to do and care about
-* Whether to take additional carefulness otherwhere. E.g. in the Tour the France 2020 not a single cyclist has caught Covid-19 [to confirm] despite excessive sports diminishes the immune system. Likely they were able to reduce exposure to viruses by being careful and a good overall organization.
+* Whether to take additional carefulness otherwhere. E.g. in the Tour the France 2020 not a single cyclist has caught Covid-19 [to confirm] despite  sports at the limits diminishes the immune system. Likely they were able to reduce exposure to viruses by being careful and a good overall organization.
 
 ## Respect and Take Care 
-> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all. 
+> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all.
 
 Respecting others to handle and view Covid differently yields an approach with base protections: enabling people to avoid it, but not narrowing others much. 
 
@@ -123,26 +125,32 @@ Respecting others to handle and view Covid differently yields an approach with b
 Note: In cold seasons, overall cases need to be kept lower, since self protection is more difficult due to aerosol transmission (e.g. good fit high filtration masks) and severe Covid is much more likely in indoor dry air (heated or air-conditioned).
 
 > ### Communities and Societies
+
+> mostly written during 2020, some updates November 2021
+
 > Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
 
-Controlling SARS-CoV-2 is an individual, a local and global task. The better everybody helps to control it, the lesser the negative effects and the fewer rules and restrictions need to be put into place. 
+Controlling ~~SARS-CoV-2~~ severe Covid (changed 16.11.21, SARS-CoV-2 are very widespread, the important is to control clusters of severe cases) is an individual, a local and to some extent a global task. The better everybody helps, the lesser the negative effects and the fewer rules and restrictions need to be put into place.
 
+If there are many severe cases:
 * Staying out of crowds and taking care even with mild respiratory disease symptoms, a runny nose is enough reason to stay home. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
-* Giving infections time to cure. It is known for various virus infections that they can become persistent.
-* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects seem to be rare but experiences are still limited. Keeping cases low is good for everybody and the more people help doing so the better.
+* Giving diseases time to cure. This doesn't mean lying in bed 24 hours, some careful and situation adapted movement is beneficial for a good recovery ([Movement Chapter](../6_prevention_and_treatment/movement.md)). ~~It is known for various virus infections that they can become persistent~~
+    > Viruses persistently infect various parts of the body. Such infections are especially common on the skin, on the mucosal surfaces in the intestine and in the respiratory tract. Usually coronavirus infections are not disease associated and even can have beneficial effects as discussed in the [virome chapter](../5_epidemiological/virome.md). Just if they replicate to very high numbers a disease or even severe disease can be caused. <!--Microbiota interact with each other some increase and some diminish the risk for other infections. possibly move up to hygiene which can influence the microbiome-->
+* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects seem to be rare but experiences are still limited. Keeping severe cases low is good for everybody and the more people help doing so the better.
 * Transport: Ventilation, masks and distance if possible (in that order) are important in public transport. Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. // written during shutdown in Spring 2020
-* Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is crucial, which detects infections early, induces symptoms and clears them. 
+* Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them. 
 
 
 ## Live Healthily
-A good immune system goes hand in hand with a healthy lifestyle.
+A good immune system goes hand in hand with a healthy lifestyle. For an optimal immune system: 
 * Sleep enough, eat healthily, relax and do some sport. 
 
 and avoid weakening the immune system:
-* Avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
+* avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
 * avoid being cold or even freezing for a longer period. For this reason, in cold climates, windows shouldn't be kept open permanently. 
-* avoid immunosuppressants unless necessary for medical reasons. Immunosuppressants are not a major risk factor for Covid though so no reason to be afraid if they are necessary for medical reasons. 
+* avoid immunosuppressants unless necessary for medical reasons.        
+  > Immunosuppressants are *not* a major risk factor for Covid though => no reason to be afraid if they are necessary (some carefulness is appropriate however). 
 * try reducing stress for yourself and others. Trying too hard won't help though. 
     
 Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
