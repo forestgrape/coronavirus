@@ -12,15 +12,15 @@ Notes on Covid as a virus diseases. How Covid is transmitted and how to prevent 
 
 
 ## Covid-19 and Virus Infections
-For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a healthy recovery it is important to have a healthy lifestyle with moderate and situation adapted [movement](../6_prevention_and_treatment/movement.md). A healthy lifestyle reliably helps to prevent longer lasting tiredness (long-covid) or immune system overreactions. 
+For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a good recovery it is important to have a healthy lifestyle with moderate and situation adapted [movement](../6_prevention_and_treatment/movement.md), then longer lasting symptoms such as tiredness or immune system overreactions are unlikely. 
 
-*Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Many viruses live temporarily or permanently in our body and form the our virome and some literally became part of our DNA. Viruses can be harmful, but mostly the immune system controls and if necessary limits the virus interactions. Viruses helped us evolving and still can do so.
+*Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Many viruses live temporarily or permanently in our body and form our [virome](../5_epidemiological/virome.md) and some literally became part of our DNA. Viruses can be harmful, but mostly the immune system controls and if necessary limits the virus interactions. Viruses helped us evolving and still can do so.
 
 > Regarding effects: short-term and long-term, adverse and beneficial, unwanted and wanted effects are known and even proven for many things and behaviors, so its about setting priorities. Ideally we all - if we want - are capable to take own educated decisions on priorities or at least can contributing to decisions. 
 
 > Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page. 
 
-> The page started in 2020 with a very experimental flavour. Content has been added, updated and corrected many times since. Some statements date back long - some went overlooked, some are still valid.
+> The page started in March 2020 with a very experimental flavour. Content has been added, updated and corrected many times since. Some statements date back long: some went overlooked, some are still valid.
  
 Time to act mindfully, carefully and circumspectly & work together in an open, fair and honest way. 
 
@@ -79,7 +79,7 @@ In brief: Aerosol transmission is smoke like. To reduce the infection possibilit
     Distancing reduces infection risk.
 
 * ### Hygiene
-    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap removes most pathogens and even destroys enveloped viruses such as coronaviruses or influenza viruses. Many microbiota, some pathogenic, are transmitted through fomites - worms nearly exclusively, bacteria often by fomites, RNA viruses sometimes but mostly by direct contact or airborne. Diseases can burden by itself and respiratory diseases can be difficult to distinguish from Covid-19.
+    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap removes most pathogens and even destroys enveloped viruses such as coronaviruses or influenza viruses. Many microbiota, some pathogenic, are transmitted through fomites - worms nearly exclusively, bacteria often by fomites, RNA viruses rarely by fomites but airborne or by direct contact. Diseases can burden by itself and respiratory diseases can be difficult to distinguish from Covid-19.
 
     But do NOT rely on hygiene alone, since the majority of severe Covid [transmissions occur through air](../5_epidemiological/transmission.md).
 
