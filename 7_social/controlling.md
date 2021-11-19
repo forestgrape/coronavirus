@@ -594,12 +594,12 @@ The virion decay is fast compared to other forms of life since they are fragile 
 Outdoors there is much more air per person than inside:
 * In an indoor room with 3 meters high and each person has a distance of 2 meters to the next, there are 12 cubic meters of air per person.
 * Even in the most densely populated cities the population density reaches at most 100'000 person per square kilometer. Assuming that only the lower 150 meters of air are mixed, this yields an average of (1'000'000 m^2 * 150 m) / 100'000 persons = 1500 cubic meters of air per person. <!--Compared to an indoor room with a high of 3 meters this corresponds to a distance of 22 meters to the next (if only aerosols transmission and not droplet transmission is taken into account). -->
-* Large areas/entire world: Assuming a mixing of air in the lower 1500 density meters and an average population density of about 15 persons per square kilometer:
+* Large areas/entire world: Assuming a mixing of air in the lower 1500 'density meters' and an average population density of about 15 persons per square kilometer:
 (1'000'000 * 1500 cubic meters)/15 persons  = 100 million cubic meters of air per person.
 
 #### Virion Clearance
-Virion are cleared from the air by the mechanism below and due to [virion decay](#virion-decay) there's no accumulation.
-- [Virion Decay](./stability.md) in air: occurs mainly through sun light
+Virion are cleared from the air by the mechanism below and due to virion decay there's no accumulation:
+- [Virion Decay](#virion-decay) in air: occurs mainly through sun light
 - Condensation 
 - Washed out by rain
 - Virion attachment to non infectable materials which are non living things such as earth, water or rocks or living things which cannot be infected e.g. coronaviruses can *not* infect plants. So outdoors, the vast majority of surfaces are not infectable. 
