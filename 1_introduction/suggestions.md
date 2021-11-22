@@ -12,7 +12,7 @@ Notes on Covid as a virus diseases. How Covid is transmitted and how to prevent 
 
 
 ## Covid-19 and Virus Infections
-For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a good recovery it is important to have a healthy lifestyle with moderate and situation adapted [movement](../6_prevention_and_treatment/movement.md), then longer lasting symptoms such as tiredness or immune system overreactions are unlikely. 
+For risk groups, Covid-19 can be serious short-term and such serious infections can damage organs or even be deadly. For people with a good immune system and without risk factors the severity of Covid-19 ranges usually from asymptomatic to moderate illness. For a good recovery it is important to have a healthy lifestyle and giving the infection time to cure. A good recovery includes moderate and situation adapted [movement](../6_prevention_and_treatment/movement.md), then longer lasting symptoms such as tiredness or immune system overreactions are unlikely. 
 
 *Awareness* for viruses and *knowledge* what they do and how they can harm or help is important. No reason to be afraid or panic however, unlike viruses we've got a mind, better communication and a superb body police called immune system. The immune system is crucial since avoiding viruses is _not_ possible. Many viruses live temporarily or permanently in our body and form our [virome](../5_epidemiological/virome.md) and some literally became part of our DNA. Viruses can be harmful, but mostly the immune system controls and if necessary limits the virus interactions. Viruses helped us evolving and still can do so.
 
@@ -20,7 +20,7 @@ For risk groups, Covid-19 can be serious short-term and such serious infections 
 
 > Trying to contribute to knowledge and explain knowledge on coronaviruses is a major motivation for this page. 
 
-> The page started in March 2020 with a very experimental flavour. Content has been added, updated and corrected many times since. Some statements date back long: some went overlooked, some are still valid.
+> The page started in March 2020, experimental in flavour. Content has been added, updated and corrected many times since. Some statements date back long - some went overlooked and some are still valid:
  
 Time to act mindfully, carefully and circumspectly & work together in an open, fair and honest way. 
 
@@ -135,7 +135,7 @@ Controlling ~~SARS-CoV-2~~ severe Covid (changed 16.11.21, SARS-CoV-2 are very w
 If there are many severe cases:
 * Staying out of crowds and taking care even with mild respiratory disease symptoms, a runny nose is enough reason to stay home. E.g. home office/school (e.g. reading)
   > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
-* Giving diseases time to cure. This doesn't mean lying in bed 24 hours, some careful and situation adapted movement is beneficial for a good recovery ([Movement Chapter](../6_prevention_and_treatment/movement.md)). ~~It is known for various virus infections that they can become persistent~~
+* When diseased, to cure it well a healthy diet and situation adapted behavior helps.  This doesn't mean lying in bed 24 hours, some careful and situation adapted movement is beneficial for a good recovery ([Movement Chapter](../6_prevention_and_treatment/movement.md)). ~~It is known for various virus infections that they can become persistent~~
     > Viruses persistently infect various parts of the body. Such infections are especially common on the skin, on the mucosal surfaces in the intestine and in the respiratory tract. Usually coronavirus infections are not disease associated and even can have beneficial effects as discussed in the [virome chapter](../5_epidemiological/virome.md). Just if they replicate to very high numbers a disease or even severe disease can be caused. <!--Microbiota interact with each other some increase and some diminish the risk for other infections. possibly move up to hygiene which can influence the microbiome-->
 * Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects seem to be rare but experiences are still limited. Keeping severe cases low is good for everybody and the more people help doing so the better.
 * Transport: Ventilation, masks and distance if possible (in that order) are important in public transport. Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. // written during shutdown in Spring 2020
