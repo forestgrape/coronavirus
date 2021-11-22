@@ -255,14 +255,18 @@ The observed transmissions by the age of the index cases (x-axis) and the contac
 
 * A very similar transmission pattern is also observed in the Netherlands by [van der Hoek et al](#van-der-hoek). The transmission pattern shown in "Figuur" in their paper is very similar to the results shown above. The article is in dutch and for this reason is not considered any further.
 
-> Analyzing the household transmission by age is tricky since older people often tend live in small households whereas children often in larger households. In larger households the attack rates usually are lower e.g. since people there are often several rooms. On the other hand the lower transmission rates in larger households could be due to the lower transmission rates of children. [Lyngse et al](#summary-lyngse) tackle this, by defining the transmission risk as a least one transmission occurring and the transmission rate as the proportion of transmissions occurring. The risk is excepted to be higher in large households while the rate is excepted to be higher in small households since in the latter people tend to be closer together.
+> Analyzing the household transmission by age is tricky, since older people often live in small households whereas children often in larger households. In larger households the attack rates (probability of infection) usually are lower e.g. there are usually several rooms. So in large household with children, an observed lower transmission rate, could be either due to the lower transmission rates of children or the larger household size. [Lyngse et al](#summary-lyngse) tackle this, by defining the transmission risk as a least one transmission occurring and the transmission rate as the proportion of transmissions occurring. The transmission risk is excepted to be higher in larger households while the transmission rate is excepted to be higher in small households since in the latter people tend to be closer together.
 
+[Lyngse et al](#summary-lyngse) observe:  
+* Even with high viral loads in the upper respiratory tract teenagers and young adults on average transmit less than other age groups.
+* In the case of infants and young children the transmissions are low at low viral loads but increase with higher viral loads.
+* With increasing age, the transmissions get higher. 
 
-[Lyngse et al](#summary-lyngse) observe that even with high viral loads in the upper respiratory tract teenagers and young adults are on average transmit less SARS-CoV-2 even with high viral loads in the URT than other age groups:
+as visible from their graphics:
 
 ![transmission by age and viral load](images/lyngse_F8.jpg)
 
-The transmission rate (left graph above) is from age to age for the different quartiles is visualized as follows by [Lyngse et al](#summary-lyngse) (as the graph above by Hall from the UK patterns but from Denmark and split into viral load quartiles; the color-scales vary and are bounded by the maximal values observed in each quartile):
+The transmission rate (left graphics above) from age to age for the different quartiles is visualized as follows by [Lyngse et al](#summary-lyngse) (as the graph above by Hall from the UK patterns but from Denmark and split into viral load quartiles; the color-scales vary and are bounded by the maximal values observed in each quartile):
 
 ![transmission from age to age by viral load](images/lyngse_F10.jpg)
 
@@ -1117,7 +1121,7 @@ Total    | 15| 28 | 43
 
 ###### Table B SAR by Severity
 
-Severity of index case| # Index Cases | # Vacc. Contacts | # Vacc. Cases | Vacc Rate | # Unvacc. Contacts | # Unvac Cases | Unvacc Rate | # All Contacts | # all cases | Rate | % contacts vaccinated
+Severity of index case| # Index Cases | # Vacc. Contacts | # Vacc. Cases | Vacc Attack Rate | # Unvacc. Contacts | # Unvac Cases | Unvacc Attack Rate | # All Contacts | # all cases | Attack Rate | % contacts vaccinated
 --|--|--|--|--|--|--|--|--|--|--|--
 Severe   | 17 |256 | 20 | 7.8 %|34| 28 | 82 % | 290 | 48 | 16.5 % | 88.3 %
 Discrete | 26 |405 | 27 | 6.6 %|46| 33 | 71 % | 451 | 60 | 13.3 % | 89.8 %
@@ -1128,7 +1132,7 @@ Total    | 43 |661 | 47 | 7.1 %|80| 61 | 76 % | 741 |108 | 14.6 % | 89.2 %
 ###### Table C SAR by Vaccination 
 *SAR by Vaccination Status of Index (discrete cases only) and Contacts*
 
-Vaccinationstatus of index case| # Cases | # Vacc. Contacts | # Vacc. Cases | Vacc Rate | # Unvacc. Contacts | # Unvac Cases | Unvacc Rate
+Vaccinationstatus of index case| # Cases | # Vacc. Contacts | # Vacc. Cases | Vacc AttackRate | # Unvacc. Contacts | # Unvac Cases | Unvacc AttackRate
 --|--|--|--|--|--|--|--
 Vaccinated   | 13 |281 | 15 | 5.3%|36| 24 | 66 %
 Unvaccinated | 13 |124 | 12 | 9.7%|10|  9 | 90 %
@@ -1137,7 +1141,7 @@ Total        | 26 |405 | 27 | 6.6%|46| 33 | 71 %
 (Summary of Table 7. [with corrections](#corrections-table-7))
 
 ###### Corrections Table 7
-> Some of the data in Table 7. in the paper are not consistent with Table 4. and Table 1. and additionally the data in Table 7. are partly unlikely/wrong. Therefore some of the data in Table 7. and accordingly in the table P-B above, have  corrections by "educated guessing" to make the data consistent. No inconsistencies for other data has been observed, but not all tables have been crosschecked. The paper is pretty old, I consider to reach the authors nevertheless.
+> Some of the data in Table 7. in the paper are not consistent with Table 4. and Table 1. and additionally the data in Table 7. are partly unlikely/wrong. Therefore some of the data in Table 7. and accordingly in the table P-B above, have  corrections by "educated guessing" to make the data consistent. No inconsistencies for other data has been observed, but not all tables have been crosschecked. <!--The paper is pretty old, I consider to reach the authors nevertheless.-->
 
 ###### Table D SAR by Contact
 *SAR by Contact Pattern and Vaccination Status of Contact*
@@ -1159,9 +1163,9 @@ Analyses of a measles outbreak in Detroit in 1935. Families with measles cases a
 
 ##### Findings
 * The household attack rate of measles among susceptible contacts (not having had measles before) is about 85 % (Table 1).
-* Index cases aged between 5 and 9 are most infectious with about 88 % compared to index cases between 1 and 4 which infect 73 % and index cases between 10 and 14 which infect about 70 % of susceptible contact (Table 1 or Table 2).
-* Children between 1 and 4 are most susceptible and get infected with above 90 % compared to about 50 % for children below 1 and about 80 % for children between 5 and 9 (Table 3 or Table 2).
-* The household attack rates and the case numbers are highest in the winter months. Nearly no cases were observed in the summer months. (Table 4)
+* Index cases aged between 5 and 9 are most infectious with about 88 % infected contacts compared to index cases between 1 and 4 which infect 73 % and index cases between 10 and 14 which infect about 70 % of susceptible contacts (Table 1 or Table 2).
+* Children between 1 and 4 are most susceptible and get infected with a probability above 90 % compared to about 50 % for children below 1 and about 80 % for children between 5 and 9 (Table 3 or Table 2).
+* The household attack rates and the case numbers are highest in the winter months. Nearly no cases were observed in the summer months (Table 4).
 
 
 #### Summary Cisse
@@ -1179,10 +1183,27 @@ Age Group (years) | Vaccination | Children with history of measles | Total Immun
 10 - 14 years | 36 % | 39 % | 75 %
 
 #### Findings
-* Attack rates for about 50% for unvaccinated children in households/huts and about 20% in compounds regardless of age group (Table 2.) // surprising since in the older age groups previous measles infection are more prevalent ([Setting](#setting-measles-senegal)) and a previous infection provides near complete immunity.
+* Attack rates are about 50% for unvaccinated children in households/huts and about 20% in compounds regardless of age group (Table 2.) // surprising since in the older age groups previous measles infection are more prevalent ([Setting](#setting-measles-senegal)) and a previous infection provides near complete immunity [to cite].
 * Attack rates for vaccinated children were about 10 % across all settings and age groups. (Table 2) // thus the vaccine seem to reduce susceptibility by 80 %
 * Unvaccinated index cases yield about 1.5 to 2 times more secondary cases (Table 3).
 * A measles infection was not associated to a change in school grades.
+
+#### Summary Sundell
+Sundell Nicklas, Dotevall Leif, Sansone Martina, Andersson Maria, Lindh Magnus, Wahlberg Thomas, Tyrberg Tobias, Westin Johan, Liljeqvist Jan-Åke, Bergström Tomas, Studahl Marie, Andersson Lars-Magnus. Measles outbreak in Gothenburg urban area, Sweden, 2017 to 2018: low viral load in breakthrough infections. Euro Surveill. 2019;24(17):pii=1900114. https://doi.org/10.2807/1560-7917.ES.2019.24.17.1900114
+
+##### Methods
+
+##### Setting
+* "Vaccination was given as post-exposure prophylaxis, but also to individuals in the society who were uncertain of their vaccination history." 
+
+##### Findings
+* The spread was superspreader driven with 4 cases with onward transmission, all index cases not vaccinated. Of 27 onwards transmissions, a total of 24 (11 + 13) were caused by two patient with a NPS viral loads of 17 and 18. The transmission chains visualized (shown is Figure 2 from the paper):
+
+* 16 of 28 measles infections were vaccine breakthroughs (some 1 and some 2 doses) and 12 naive infections. This despite an estimated vaccine coverage > 95 %;in  2007 seroprevalence investigation, antibodies were detected in >98% participants (Introduction section in the paper). Thus the vaccine seems to efficiently reduce detectable infections. 
+
+* Viral loads from vaccinated cases were much lower than than those of unvaccinated cases (shown is Figure 4 from the paper)
+
+* "In addition, six confirmed vaccine infections were diagnosed in adult patients, who all received their first dose of measles vaccine during or directly after the outbreak (Table 3)."
 
 
 
