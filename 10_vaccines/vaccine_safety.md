@@ -8,7 +8,7 @@
 
 > My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However, I am not sure whether anybody understands RNA. RNA can do a lot. In public discussions about 'mRNA' vaccine safety, views, outdated for decades are widespread e.g. that RNA is always degraded fast and that it is only used to message protein-encodings:
 > * RNA is always degraded fast? This is *wrong*. E.g. ribosomes largely consists of RNA. Many viruses including coronaviruses encode their genome in RNA, when RNA would be degraded fast, there wouldn't be many RNA viruses.
-> * RNA is  just a messenger for protein translation? Not completely wrong, since a small fraction of all RNA is indeed used to message proteins but RNA does much more and most RNA has other functions than to encode proteins.
+> * RNA is  just a messenger for protein translation? Not completely wrong, since a small fraction of all RNA is indeed used to message proteins but RNA does much more. Most RNA has other functions than to encode proteins.
 
 > I am thankful to be informed when and which of the points below are wrong or the safety regarding them is known.
 
@@ -44,7 +44,7 @@ The method of tolerable symptoms watching is not necessarily enough to ensure th
 In conclusion, the safety of vaccines can only be ensured by symptoms if a thorough understanding of their behavior in the body is known.
 
 ## Recent Updates
-* 23.7 Extended list of speculative adverse effects: 
+* 23.7.: Extended list of speculative adverse effects: 
 	- Intramuscular administrated Adenovirus vaccine may increase the cancer risk (depends on the adenovirus strain, mainly whether they enter replication capable cells).
 	- 'mRNA vaccines' if they have a tropism for the ovaries, they may damage some follicles. Effect could be similar to some years of smoking, which also can damage the follicles.
 
@@ -184,14 +184,14 @@ What happens upon cell entry?
   
 ### Kinetics of Adenovirus Vaccines
 In comparison to 'mRNA' vaccines, for adenovirus vaccines it seems less likely that they enter arbitrary cells and tissues since adenoviruses are bigger than lipid nano particles and need a receptor to enter cells. However 
-* some adenoviruses strains have a broad cells tropism.
+* some adenoviruses strains have a broad cell tropism.
 * adenoviruses can influence the cellular metabolism in many ways e.g. they can prevent apoptosis.
 * adenoviruses can reside within tissues or within cells for a long time since double stranded DNA is stable.
 
 > Natural adenovirus infection are mostly limited to the respiratory tract and not systemic, therefore the these infections are mostly harmless does not necessarily transform to the systemic administration of vaccines.
 
 #### Adenovirus Vaccines Clearance
-The adenovirus vaccine induced antibody production increases slowly over the time span of several weeks. This indicates a slow clearance. The adenoviruses can either reside dormant within tissues but outside of cells or within cells.
+The adenovirus vaccine induced antibody production increases slowly over the time span of several weeks. This indicates a slow clearance. The adenoviruses can reside dormant within tissues but outside of cells or within cells.
 
 #### Tissue Kinetics
 Which tissues are entered? Which share of the administrated dose remains in the muscle, which share is distributed?
@@ -217,7 +217,7 @@ Many adenoviruses attach to redblood cells and thereby can cause haemagglutinati
 ##### Adenovirus Cell Entry
 Different adenovirus strains use different cell entry receptors. Some adenoviruses have a very broad cell tropism. 
 
-> The broad cell tropism of adenoviruses is worrisome due to their within cell behavior. Adverse effects may occur if long lived or replication capable cells are entered.
+> The broad cell tropism of adenoviruses is worrisome due to their within cell behavior. Adverse effects may occur if long lived or replication capable cells are entered. 
 
 #### Within Cell Behavior
 Adenoviruses vaccines used adenoviruses rendered replication incapable but apart from this the adenoviruses are similar to their wild type counterparts. As such they can do a lot within cells: 
