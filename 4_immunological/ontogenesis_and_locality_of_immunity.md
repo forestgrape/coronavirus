@@ -1,6 +1,6 @@
 # Development and Localization of the Immune System during Life with a Focus on the Respiratory Tract
 
-How the immune system develops during lifetime and the protection at frequent pathogen entry locations is strengthened. In other words the ontogenesis and the generated compartmentalization of the immune system.
+How the immune system develops during lifetime and the protection at frequent pathogen entry locations is strengthened. In jargon, the ontogenesis and the generated compartmentalization of the immune system.
 
 > Entire page is **in work, incomplete and some parts need checking**. 
 
@@ -35,9 +35,9 @@ How the immune system develops during lifetime and the protection at frequent pa
 
 
 ## Conceptual Summary
-The human immune system changes throughout the lifetime and its development is closely interlinked with ageing. The microbes encountered at the different entry locations shape and train the immune system locally.
+The human immune system changes throughout the lifetime and its development is closely interlinked with ageing. The microbes encountered at the different entry locations shape and train the immune system locally. Once all microbes are new and mostly encountered at young age, thus at young age the immune system is primed to handle new pathogens. With increasing age the immune system relies more and more on the skills learned from previous exposures.
 
-* Infants recognize new pathogens and learn to handle them thanks to strong innate recognition mechanisms and a permanent alertness of the immune system. However many pathogens are completely new and so the recognition and early handling relies on innate mechanisms alone. Additionally the entry locations need to be tuned: e.g. foreign viruses entering the lungs is new from an evolutionary perspective. Furthermore the body is in early development and so the cell-lineages themselves and their cooperations mechanisms are just being built up. For these reasons, it is not uncommon that infants need to initiate high fever to control virus infections - which has temporarily high fitness costs - but reduces many virus infection efficiently.
+* Infants recognize new pathogens and learn to handle them thanks to strong innate recognition mechanisms and a permanent alertness of the immune system. However many pathogens are completely new and so the recognition and the handling relies on 1) innate mechanisms, 2) inherited information of the acquired immunity and 3) the immune system support through substances, antibodies and immune cells in the mother milk. The innate immunity is crucial for many pathogens. Additionally the entry locations need to be tuned: e.g. foreign viruses entering the lungs is new from an evolutionary perspective. Furthermore the body is in early development and so the cell-lineages themselves and their cooperations mechanisms are just being built up. For these reasons, it is not uncommon that infants need to initiate high fever to control virus infections - which has temporarily high fitness costs - but reduces many virus infection efficiently.
 
 * After a few years of life the immune system is strong since it has encountered many pathogens and learned: Surveillance and protection at frequent pathogen entry locations and a repertoire of mechanism to adequately handle different pathogens. The learning of new pathogens work very well at this stage.
 
@@ -54,7 +54,7 @@ The human immune system changes throughout the lifetime and its development is c
 
 
 ## Relevance regarding SARS-CoV-2 Infections
-At young age the immune system is built to encounter new pathogens and handle them appropriately. It is well known that if one encounters a completely new pathogen for the first time as adult, the disease is much more severe. However to handle somewhat new pathogens works well as young adult due to cross immune mechanisms. SARS-CoV-2 as a betacoronavirus is such a somewhat new pathogen.
+At young age the immune system is built to encounter new pathogens and handle them appropriately: It is well known that if one encounters a completely new pathogen for the first time as adult, the disease is much more severe. The handling of 'somewhat new' pathogens works also well for young adults due to cross immune mechanisms. SARS-CoV-2 is a 'somewhat new' virus: SARS-CoV-2 as a new coronavirus, is new to the immune system in some aspects, but not in other aspects since it shares conserved units with the endemic human coronaviruses especially the betacoronaviruses OC43 und HKU1. The immune system knows to handle the endemic coronaviruses.
 
 * For infants and children SARS-CoV-2 is just another new virus e.g. like the other endemic human coronaviruses. For coronavirus unexposed people, the current SARS-CoV-2 strains are even less pathogenic than the endemic human coronaviruses since the latter have evolved to evade the human (innate) immune system.
 
@@ -62,7 +62,7 @@ At young age the immune system is built to encounter new pathogens and handle th
 
 * For adolescents and young adults SARS-CoV-2 is not dangerous neither: Both innate and acquired (mainly coronavirus-cross-reactive tissue resident T cells) immune mechanisms recognize the infection. The pool of immune cells to recruit is still large enough (and even shaped to recognize coronaviruses) to give rise to an adequate and virus clearing immune response. Nearly always the immune response is timely enough to prevent the viruses spreading throughout the lungs and thus severe disease is prevented.
 
-* With increasing age the recognition of new viruses and the capabilities to handle them decreases. One of the reason is the low count of naive T cells with are the basis of acquired immune responses; accordingly [Moderbacher et al](#moderbacher) observe that low counts of naive T cells are well correlated both to severe Covid and age. Additionally the body works slower which delays a timely immune response. 
+* With increasing age the recognition of new viruses and the capabilities to handle them decreases. One of the reason is the low count of naive T cells with are crucial to produce a highly specific immune response; accordingly [Moderbacher et al](#moderbacher) observe that low counts of naive T cells are well correlated both to severe Covid and age. Additionally the body works slower which delays a timely immune response. 
 
 
 
@@ -159,10 +159,6 @@ Loske, J., Röhmel, J., Lukassen, S. et al. Pre-activated antiviral innate immun
 
 ### References Ontogenesis of the Lung Immunity
 
-#### Lambert
-Lambert L and Culley FJ (2017) Innate Immunity to Respiratory Infection in Early Life. Front.Immunol. 8:1570. 
-<https://doi.org/10.3389/fimmu.2017.01570>
-
 #### Lloyd
 Lloyd, C. M., & Marsland, B. J. (2017). Lung Homeostasis: Influence of Age, Microbes, and the Immune System. Immunity, 46(4), 549–561. 
 <https://doi.org/10.1016/j.immuni.2017.04.005>
@@ -193,7 +189,7 @@ Rydyznski Moderbacher et al.,
 *Antigen-Specific Adaptive Immunity to SARS-CoV-2 in Acute COVID-19 and Associations with Age and Disease Severity,* 
 Cell (2020), <https://doi.org/10.1016/j.cell.2020.09.038>
 
-> this article by Moderbacher et al inspired the (re)search for naive immune cells and age.
+> this article by Moderbacher et al inspired the discussion of naive immune cells in this chapter.
 
 #### Cohen
 Cohen, C.A., Li, A.P.Y., Hachim, A. et al. SARS-CoV-2 specific T cell responses are lower in children and increase with age and time after infection. Nat Commun 12, 4678 (2021). 
