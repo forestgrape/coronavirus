@@ -22,8 +22,8 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
   * [Specimens with Viruses](#specimens-with-viruses)
 * [Variation of the Viral Load](#variation-of-the-viral-load)
   * [Variation in Time and Space](#variation-in-time-and-space)
+  * [Viral Load in Exhaled Air](#viral-load-in-exhaled-air)
   * [Temporal Variations](#temporal-variations)
-  * [Viral Load in Exhaled Air compared to NPS](#viral-load-in-exhaled-air-compared-to-nps)
 * [Diagnosis at Different Locations with a Focus on Viral Load](#diagnosis-at-different-locations-with-a-focus-on-viral-load)
   * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
   * [Detection Rates](#detection-rates)
@@ -290,22 +290,10 @@ The viral load varies both across the different locations and across time. The g
 
 ![time series of viral load in URT and LRT](Images/yang_viral_load_series_small.jpg)
 
-### Temporal Variations
-The metabolisms of organism vary across situation/activities performed. Many metabolic functions follow also a daily=circadian (circa = about, dies=day) cycle. The fluids used for disease diagnosis often have a daily cycle e.g. sputum and saliva.
-
-#### Saliva Collection Timing
-The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source give rise to different micro-habitats for bacteria and viruses. 
-* [Carlson-Jones et al](#carlson-jones) investigated these habitats with flow cytometry and observe that both  virus like particles and bacteria concentrations peak in the morning after sleep.
-* A morning peak is also observed for the SARS-CoV-2 viral load as observed by [Hung et al](#summary-hung).
-
-### Viral Load in Exhaled Air compared to NPS
-#### Temporal NPS Variations
-[Malik et al](#summary-malik) observed quite some variation for NPS samples whereas exhaled breath samples are more stable:
-
-![viral load series by NPS and exhaled breaths](Images/malik_fig2.jpg)
 
 
-#### Correlation of Viral Load in NPS and exhaled Air
+### Viral Load in Exhaled Air
+
 How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. The virus exhaled are mostly from the conducting airways or the lungs but not from the nose. 
 
 `Infectiousness = amount of exhaled particles * viral load at the source of the particles`
@@ -320,6 +308,22 @@ The exhaled aerosol mostly originates from the lower respiratory tract. URI spec
 In the case of symptomatic influenza infections, the viral load in the nose does not well predict the of exhaled infectious aerosol as shown by [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018)). Also it is observed that vaccination increases the amount of exhaled infectious aerosol for symptomatic influenza A infections (across influenza A and B the viral load in NPS samples and course aerosol didn't change much).
 
 Sputum is from the lower airways and may better predict the exhaled aerosol than NPS. Early morning saliva samples (as sputum) predict the disease progression, which likely corresponds to the viral load in the lower airways.
+
+
+
+### Temporal Variations
+The metabolisms of organism vary across situation/activities performed. Many metabolic functions follow also a daily=circadian (circa = about, dies=day) cycle. The fluids used for disease diagnosis often have a daily cycle e.g. sputum and saliva.
+
+#### Saliva Collection Timing
+The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source give rise to different micro-habitats for bacteria and viruses. 
+* [Carlson-Jones et al](#carlson-jones) investigated these habitats with flow cytometry and observe that both  virus like particles and bacteria concentrations peak in the morning after sleep.
+* A morning peak is also observed for the SARS-CoV-2 viral load as observed by [Hung et al](#summary-hung).
+
+#### Temporal NPS Variations
+[Malik et al](#summary-malik) observed quite some variation for NPS samples whereas exhaled breath samples are more stable:
+
+![viral load series by NPS and exhaled breaths](Images/malik_fig2.jpg)
+
 
 
 
