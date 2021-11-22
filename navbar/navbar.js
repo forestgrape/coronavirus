@@ -35,7 +35,7 @@ function showSideNavScrollbar() {
 
 function hideSideNavScrollbar() {
     // is only necessary on desktop; on mobile usually hidden by default
-    // if since style attribute change sets display=block
+    // style attribute change sets display=block
     if (side_nav.style.display != "none") {
         side_nav.setAttribute("style", "overflow-y:hidden")
     }
@@ -54,6 +54,7 @@ function onContentMove() {
         /* scroll down if below lowest placement*/
         //console.log('top:'+active_elem.innerHTML + 'loc:' + parseInt(loc_of_active))
         //smooth behavior available for most browsers; ?option smooth in safari?
+        //guarding with if, can prevent scrolling on jumps (e.g. link)
         side_nav.scrollTo({ top: Math.max(0, loc_of_active - lowest_placement), 'behavior': 'smooth' })
     }
 }
