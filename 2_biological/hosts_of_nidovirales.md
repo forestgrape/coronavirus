@@ -51,7 +51,7 @@ The goal of this section is to trace the natural habitats of Sars-like viruses.
 * The natural habitat of both Sars-CoV-1 and Sars-CoV-2 as of 21.9.20 is often though as bats. 
 * The jump and adaption to humans is unclear
 
-Here we will show that SARS-like likely have a dual host life cycle alternating between insects and mammals. 
+Here the hypothesis of a dual host life cycle alternating between insects and mammals is stated and argued. 
 
 ### Relevance
 * Knowing the habitat can help to adequately prevent additional jumps.
@@ -63,7 +63,7 @@ Many references that base and inspire this findings, are [summarized](./hosts_of
 
 1. The virus strains closely related to SARS-CoV-2 and including those using the ACE 2 receptor are endemic to the region around northern Yunnan. Evidence:
     * Bats containing SARS-like viruses using the ACE 2 receptor are found in northern Yunnan and only in this region. 
-    * The tropism of the early SARS-2 strains in November through January was such that that SARS-CoV-2 spread only in cool and dry but not in warm and humid conditions. A similar climate is expected for the evolutionary habitat of SARS-CoV-2 and such a climate is found in the mountainous part of northern Yunnan. 
+    * The tropism of the early SARS-2 strains in November through January was such that that SARS-CoV-2 spread only in cool and dry but not in warm and humid conditions. A similar climate is expected for the evolutionary habitat of SARS-CoV-2 and such a climate is found in the mountainous part of northern Yunnan.
 2. Domestic animals are part of the natural habitat of SARS-CoV-1/2 and regular limited infections of humans occur. Evidence:
     - The tropism of SARS-CoV-2 suggests adaption humans and indoor transmission. Noteworthy a much better adaption than SARS-CoV-1. 
     - Serology of farmers in northern Yunnan shows regular infections. 
