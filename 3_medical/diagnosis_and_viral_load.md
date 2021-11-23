@@ -272,7 +272,7 @@ A viral load can be observed at a specific location for the following reasons:
 
 ### Specimens with Viruses
 Since coronaviruses including SARS-CoV-2 mostly release their virions on the apical side, the virions end up on the apical surfaces. The apical surfaces can be either sampled directly with swabs or aspirates of washing or covering fluids can be taken ([Specimen Collection](#specimen-collection).
-* __Viral Load on Tissue Surfaces:__ Coronaviruses usually release their virions on the apical side of cells in epithelium tissues ([ Cell Orientation](../2_biological/coronavirus.md#apical-side-tropism)). If the tissue surfaces are not naturally covered by collectable fluids, the surfaces can be washed with an appropriate fluid and collected by aspiration.
+* __Viral Load on Tissue Surfaces:__ Coronaviruses usually release their virions on the apical side of cells in epithelium tissues ([ Cell Orientation](../2_biological/coronavirus.md#respiratory-tract-tropism)). If the tissue surfaces are not naturally covered by collectable fluids, the surfaces can be washed with an appropriate fluid and collected by aspiration.
 * __Viral Load in Body Fluids__
   Fluid specimens can be collected either by [swabs](#swab) or by [aspiration](#aspirate).
   Body fluids can contain viruses since
