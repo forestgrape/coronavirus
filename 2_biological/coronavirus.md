@@ -251,7 +251,7 @@ Tropism for viruses denotes the cells and tissues they preferable populate (defi
 Coronaviruses are initially deposited and replicate well on the surface of the respiratory tract, thus they have a tropism for epithelial cells in the respiratory tract:
 
 * The transmission pathways of human coronaviruses (mostly airborne and vector-less) yield an initial deposition of the virions on the apical side of the respiratory tract. The barrier function of the epithelial cell layer mostly prevents virions from reaching the basal side without infecting cells.
-* Coronaviruses preferable infect and leave cell on the apical side ([Cell Behavior](#cell-behavior-of-coronaviruses)), they remain on the apical side and spread through the respiratory tract lining fluid.
+* Coronaviruses preferable infect and leave cell on the apical side ([Cell Behavior](#cell-specific-behavior-of-coronaviruses)), they remain on the apical side and spread through the respiratory tract lining fluid.
 * If a huge number of coronaviruses infect the single cell layer in the alveoli, a noticeable fraction of them can be released into the blood stream and spread with the blood.
 
 > Human coronaviruses usually don't use the respiratory tract as passway to enter tissues but keep restricted to the surface of the respiratory tract. Coronaviruses are thus typical respiratory viruses.
