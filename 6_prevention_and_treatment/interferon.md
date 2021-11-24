@@ -1,12 +1,14 @@
 # Interferon Treatment
 
-> entire page in early work. Most parts need be checked. 
+> entire page is in *work and incomplete*. Most parts need be checked. 
 
-> Online since early and topically administrated interferons look very promising to prevent severe Covid and death.
+> 24.11. early online, since early administrated interferons look very promising to prevent severe Covid and death.
 
 
+* [Conceptual Summary](#conceptual-summary)
+* [Summarized Observations](#summarized-observations)
 * [Introduction](#introduction)
-* [Overview](#overview)
+* [Overview Topical IFN](#overview-topical-ifn)
   * [Overview Topical IFN Alpha](#overview-topical-ifn-alpha)
   * [Overview Topical IFN Beta](#overview-topical-ifn-beta)
   * [Overview Topical IFN Kappa](#overview-topical-ifn-kappa)
@@ -15,7 +17,7 @@
   * [Overview Systemic IFN Lambda](#overview-systemic-ifn-lambda)
 * [IFN Medications used](#ifn-medications-used)
   * [IFN-alpha 2b](#ifn-alpha-2b)
-* [Timing of Treatment onset](#timing-of-treatment-onset)
+  * [Considerations on the Treatment Start](#considerations-on-the-treatment-start)
 * [Administration Method](#administration-method)
 * [Ref Topical IFN](#ref-topical-ifn)
   * [Refs Topical IFN Alpha](#refs-topical-ifn-alpha)
@@ -34,17 +36,55 @@
   * [Refs IFN other CoVs](#refs-ifn-other-covs)
 
 
+## Conceptual Summary
+Interferons (IFNs) are signalling proteins which induce an antiviral state of the target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically(=local e.g. by spray to the respiratory tract or as cream to the skin) or systemically (subcutaneous, intramuscular, intravenously). Topical administration to the respiratory tract can be done with sprays or with special nebulizers. 
+Interferon treatments are very promising to early on inhibit the replication of SARS-CoV-2 viruses in the respiratory tract: Early on administrated interferons of type 1 reduce the Covid mortality by over 75%. When patients are already at advanced disease stage systemically administrated interferons often have adverse effects on the outcome through increased immune pathology due to their inflammatory effects.
+
+
+## Summarized Observations
+
+##### Summary Topical IFN Treatment
+> ###### Topical Administration
+> Topical administration denotes in the following either nebulized/aerosolized or sprayed application to the respiratory tract.
+
+Overall topically administrated IFNs show improved outcomes and even at quite late disease stage some benefits are observed.
+
+*Topical IFN Alpha:* Topical IFN alphas (all of subtype alpha-2b) reduce the mortality by 80% if early administrated. Even at mid disease stage an unfavorable disease progression is stopped in 50% of the cases. Later than 10 days after symptom onset the beneficial effects are reduced, however no adverse effects on the outcomes are observed. -> [Overview Topical IFN alpha](#overview-topical-ifn-alpha)
+> mostly based on retrospective uncontrolled (many different treatment combinations) studies with patients treated in early or mid 2020.
+
+*Topical IFN Beta:* Nebulized IFN beta-1a reduced the progression to severe Covid by roughly 50% in a RCT by [Monk et al](#summary-monk) in the UK. Another RCT by [Khamis et al](#summary-khamis) with IFN beta-1b found no effect. -> [Overview Topical IFN beta](#overview-topical-ifn-beta)
+
+*Topical IFN K:* Early topical IFN K increases the viral clearance and accordingly the clinical improvement is faster. -> [Overview Topical IFN K](#refs-topical-ifn-k)
+
+
+##### Summary Systemic IFN Treatment
+
+Systemic IFNs show benefits if given very early in a mild disease stage. At later stage no effect or even adverse effects are observed.
+
+*Systemic IFN alpha:* Early IFN-α2b treatment induces a faster viral load clearance and a favorable disease progression ([Overview Systemic IFN alpha](#overview-systemic-ifn-alpha)).
+
+*Systemic IFN beta:* If administrated at severe disease stage (oxygen needed or even ventilated), systemic IFN beta treatment often increases the mortality and the occurrence of adverse effects. If administrate in the mild disease stage beneficial effects are observed such as better prognosis and faster viral clearance. ([Overview Systemic IFN beta](#overview-systemic-ifn-beta))
+
+#Systemic IFN lambda:* In the case of mild SARS-CoV-2 infections, it reduces the time for viral clearance if administrated early. ([Overview Systemic IFN lambda](#overview-systemic-ifn-lambda))
+
+
+
+
+
 ## Introduction
 [in work]
 
+The induction of interferons is one of the first immune responses upon a viral infection. Interferons induce an antiviral state of the cells. For many epithelial cells the metabolisms is slowed down or even paused [to confirm and cite]. They are produced naturally upon a viral infection. For SARS-CoV-2 a major risk factor for severe disease is a disrupted interferon response.
 
-## Overview 
+
+## Overview Topical IFN
+
 ### Overview Topical IFN Alpha
 
-Author | Type | Treatment |Status at Treatment Start | Effects Early Administration| Effects Mid Administration | Effects Late Administration | Notes
+Author | Type | Treatment |Treatment_Start (days from symptoms/admission; disease stage) | Effects Early Administration| Effects Mid Administration | Effects Late Administration | Notes_and_Comments
 --|--|--|--|--|--|--|--
 [Yu](#summary-yu)| retrospective, 1401 patients of which 852 with IFN | 5 mio U of IFN-α-2b twice daily | from symptom onset: early <=2;mid 3 to 8; late>= 9 days| -85 %  ICU, -90%  life threating events | -60 %  ICU, -50%  life threating events| -25 %  ICU, -35%  life threating events | large cohort and analysed by days after symptom onset ([Yu et al](#summary-yu))
-[Nan Wang](#summary-nan-wang)| retrospective, 446 patients|  IFN-α-2b for 10 days | from admission: early less than 5 days; late = after 5 days | -80% mortality; not much change on discharge time and CT improvement | - | late IFN increased mortality and discharge time | data fairly heterogenous; umifenovir has promising effects
+[Nan Wang](#summary-nan-wang)| retrospective, 446 patients|  IFN-α-2b for 10 days | from admission: early less than 5 days; late = after 5 days | -80% mortality; not much change on discharge time and CT improvement | - | late IFN increased mortality and discharge time | data fairly heterogenous with different treatment combinations, not all efficacies observed are consistent; umifenovir has a similar efficacy profile as IFN
 [Liu](#summary-liu)|  retrospective, 103 case matched to 103 as control | 89 patients: IFN-α2b 5 mIU as spray, 15 patients: IFN-α1b subcutaneous|  not specified, at wave peak -> mostly pneumonia cases in hospitals |- | -50% critical cases; -80% mortality| - | Wave peak in Wuhan
 [Chkihis](#chkihis)| retrospective, 37 IFN, 36 control  | IFN α 2b 10 mio IU spray 2 times a day for 5 days | early after admission, mostly moderate pneumonia | - | -60% ventilation |  - |  inclusion criteria: SpO2 <90%, bilateral lung lesions, cough, fever
 
@@ -52,10 +92,10 @@ Author | Type | Treatment |Status at Treatment Start | Effects Early Administrat
 
 ### Overview Topical IFN Beta
 
-Author | Type | Treatment | Status at Treatment Start | Effects Early Adm | Effects Mid Administration | Effects Late Adm  | Notes
+Author | Type | Treatment | Status at Treatment Start | Eff Early Adm | Effects Mid Administration | Eff Late Adm  | Notes_and_Comments
 --|--|--|--|--|--|--|--
 [Monk](#summary-monk)| randomised, double-blind, placebo-controlled, phase 2 pilot trial at 9 UK sites | SNG001 (6 MIU interferon beta-1a)| median duration of symptoms was 10 days | - | -50% progression to severe Covid (OSCI>=5) | - |  Mortality: 0 of 48 in IFN group an 3 of 49 in control
-[Khamis](#summary-khamis) | randomized, open-label controlled trial |  interferon beta-1b at a dose of 8 million IU (0.25 mg) twice a day | less than 10 days after symptom onset | - | no effect on ICU and mortality (36 (86%) with bilateral lung lesions at start) | - | only study with topical IFN and no effect; possible cause: convalescent plasma for more than 50%; 
+[Khamis](#summary-khamis) | randomized, open-label controlled trial |  interferon beta-1b at a dose of 8 million IU (0.25 mg) twice a day | less than 10 days after symptom onset | - | no effect on ICU and mortality | - | only study where topical IFN are not beneficial - possible cause: convalescent plasma administrated to more than 50% of the patients and most patients already had bilateral pneumonia (86%).
 
 
 ### Overview Topical IFN Kappa
@@ -71,7 +111,7 @@ Author | Type | Treatment | Status at Treatment Start  | Effects Early Administr
 Author | Type | Treatment | Status_at_Treatment Start | Effects Early Administration| Effects Mid Administration | Effects Late Administration | Notes
 --|--|--|--|--|--|--|--
 [Bhushan](#bhushan)|phase 3, multi-centric, randomized, comparator-controlled, open-label trial | PEG IFN-α2b (1 μg/kg subcutaneous injection, single dose)  | moderate pneumonia, respiratory rate ≥24 breaths/min, SpO2 90–94%| - | faster viral load clearance (odds ratio 2.75), lower median oxygen support duration| - | 2 Covid deaths in IFN group, 0 in control
-[Pereda](#pereda)| population cohort | LPV/RTV + CQ + IFN-α2b | for risk groups start upon exposure, else upon positive test | Cuban Overall CFR was 3.70% and 0.92% for this group => -75% mortality
+[Pereda](#pereda)| population cohort | LPV/RTV + CQ + IFN-α2b | for risk groups start upon exposure, else upon positive test | Cuban Overall CFR was 3.70% and 0.92% for this group => -75% mortality|||start upon exposure is great for IFN!! 
 [Bo Wang](#bo-wang)| | Subcutaneous injection of IFN alpha-2b (3 million IU/ dose), until viral clearance| at admission patients moderately ill; early: 11 patients within 72 h of admission; 8 patients after 72 horus | -50% hospital duration | slight increase in hospital duration | - | IFN treatment yielded faster viral clearance (early and late combined) compared to control
 
 
@@ -83,22 +123,41 @@ Author | Type | Treatment | Status_at_Treatment Start | Effects Early Administra
 [WHO Solidarity Trial](#who-solidarity-trial-consortium)| Multicentre (across the world) randomized open label trial |  44 μg of subcutaneous interferon beta-1a on day 0,3,6 (for severe cases sometimes intravenously) | early: no oxygen; mid: oxygen; late: ventilation | -20% mortality | +10% mortality | +30% mortality and increase of other adverse events| very heterogenous since centres from across the world; better outcome for patients older than 65 
 [Kalil](#summary-kalil)| double-blind, randomised, placebo-controlled trial at 63 hospitals (56 in the USA). | 4 doses of 44 μg interferon beta-1a subcutaneously every other day; both groups  intravenous remdesivir |*Grouping:* mid: patients ordinal score of 4 or 5 (~450 patients per group); late: patients with score 6 (~35 patients; mostly with oxygen);  //Patients included:  symptom duration ~8.5 days; SaO2: 94% or less or oxygen but no ventilation; | - | overall not much effect; recovery rate ratio: ~1 | +75% mortality (up to 7 from 4 in the control); recovery rate ratio: 0.4 | slight overall benefit for patients older than 65;
 [Davoudi-Monfared](#davoudi-monfared)| randomized clinical trial in early 2020 |  44-microgram/ml (12 million IU/ml) dose of IFN beta-1a  subcutaneously  3 per week for 2 weeks| at admission mostly ill patients and 8 days post symptom onset. Administration was done early and late during hospitalization (early classified here as mid since patients quite sick)| - | -75% mortality | increased mortality |  [in work]
+[Hung](#summary-hung)|  multicentre, prospective, open-label, randomised, phase 2 trial | subcutaneous_injection of beta-1b, 8 mio IU per dose; 2 doses for start on day 4, 1 dose for start on day 5/6 (=>no dose post day 7 | within 7 days of symptom onset, mostly mild illness (fever and cough were common) | -50% duration to SOFA==0 (3 days instead of 7) and -50% days in hospital (8 instead of 15) | - | - | -
 
 ### Overview Systemic IFN Lambda
 
-Author | Type | Treatment | Status_at_Treatment Start | Effects_Early_Administration| Effects Mid Adm | Effects Late Adm | Notes
---|--|--|--|--|--|--|--
-[Jagannathan](#summary-jagannathan)| single-blind, placebo- controlled trial |   single, 180 mcg subcutaneous dose of Peginterferon Lambda |120 (60 per group) outpatients with mild to moderate COVID-19, administration within 72 hours of diag | viral shedding was 7 days (hazard ratio [HR] = 0.81; 95% confidence interval [CI] 0.56 to 1.19). Symptoms resolved in 8 (Lambda) and 9 (placebo) (HR 0.94; 95% CI 0.64 to 1.39)
-[Feld](#summary-feld)|  double-blind, placebo-controlled trial |  subcutaneous injection of peginterferon lambda 180 μg | outpatients within 7 days of symptom onset or first positive swab | viral load declines faster (difference of 2·42 log copies per mL at day 7); undetectable virus by day 7 more likely (odds ratio [OR] 4·12 [95% CI 1·15–16·73| ||
+Author | Type | Treatment | Status_at_Treatment Start | Effects_Mid_Administration| Effects Late_Administration | Notes
+--|--|--|--|--|--|--
+[Jagannathan](#summary-jagannathan)| single-blind, placebo- controlled trial |   single, 180 mcg subcutaneous dose of Peginterferon Lambda |120 (60 per group) outpatients with mild to moderate COVID-19, outpatients with mean of 4 symptom days; seropositivity in treatment-group 35% and in control 47% | -|viral shedding was 7 days (hazard ratio [HR] = 0.81; 95% confidence interval [CI] 0.56 to 1.19). Symptoms resolved in 8 (Lambda) and 9 (placebo) (HR 0.94; 95% CI 0.64 to 1.39)| classified as late administration due to high seroprevalence 
+[Feld](#summary-feld)|  double-blind, placebo-controlled trial |  subcutaneous injection of peginterferon lambda 180 μg | outpatients with mean of 4.3 symptom days; seropositivity in treatment-group 0% and in control 21%| viral load declines faster (difference of 2·42 log copies per mL at day 7); undetectable virus by day 7 more likely (odds ratio [OR] 4·12 [95% CI 1·15–16·73| ||
 
 ## IFN Medications used
+[in work]
 ### IFN-alpha 2b
 * usually nebulized with 5 mio unit is standard (200K - 400K IU/kg each dose, two time a day) [to confirm and cite]
 
-## Timing of Treatment onset
+
+### Considerations on the Treatment Start
+> in work
+
+The timing and patient state at the treatment start is noted, since IFNs are most beneficial when administrated very early. In the late phase - especially systemically administrated - IFNs can increase inflammation. Different studies use different measurements: 1) days after symptom onset, 2) days after hospital admission and 3) the disease stage/clinical appearance. 
+
+* Here when available days after symptom onset and clinical appearance (symptoms, O2 saturation including whether O2 is supplemented and CT findings are used). Mild clinical appearance can either mean an early disease stage or just a mild disease.
+* Treatment is most important for patients with possibly unfavorable disease progression, those in cohorts, as the state of the sub-cohort at risk is considered as the state of the entire cohort.
+* Regarding severe Covid the viral load in the lungs and the distribution of the viruses is relevant. The viral load in the lungs does not always correlate to upper respiratory tract samples such as NPS and the viral load in the lungs can remain high for many days or sometimes even a few weeks for patients with severe Covid ([Diagnosis and Viral Load](./../3_medical/diagnosis_and_viral_load.md#variation-by-time-and-location)).
+
+The reasoning behind following grouping treatment starts is, that interferons can prevent reaching high viral load and support the respiratory tract reducing the viral load:
+* Early treatment start: The viral load is increasing and patients in the cohort progress possibly to a more severe disease state.
+* Mid treatment start: The viral load is still increasing or plateauing. For severe Covid cases the viral load in the lungs can stay at high values for a long time. The patients can progress to a more severe state if the viral load stays high.
+* Late treatment start: The viral load is decreasing. An increase of disease severity is mainly due to the widespread inflammation.
+
+The above definitions are followed when possible/adequate which is not always the case e.g. often the viral load peak of the relevant group at risk is not specified/unknown. 
+
+
 
 ## Administration Method
-
+[in work]
 
 ## Ref Topical IFN
 
@@ -117,15 +176,25 @@ Yu J, Lu X, Tong L, Shi X, Ma J, Lv F, Wu J, Pan Q, Yang J, Cao H, Li L. Interfe
 5 000 000 U of IFN-α-2b via aerosol inhalation twice daily.
 
 ##### Treatment Timing
-Grouped by time after symptom onset.
+Grouped by time after symptom onset. 
 
-##### Outcome
-* "The composite endpoint was defined as at least one of the following: (1) respiratory failure requiring mechanical ventilation, (2) other organ failure and need for intensive care unit (ICU) monitoring and treatment, and (3) death."
+Characteristics at admission (patients with all symptom onsets included):
+Group\Status| Age| Days of symptoms| Temperature| % Fever | % Cough | % Muscle ache|% Fatigue| Shortness of Breath
+--|--|--|--|--|--|--|--|--
+Intervention | 48.06 (14.33)|4 (2–7) | 37.93 (0.84) | 692 (81.2%) | 509 (59.7%)| 86 (10.1%)| 187 (22.0%)|  37 (4.3%)
+Control | 49.73 (15.42)|5 (2–7)| 37.82 (0.86) | 417 (76.0%)|288 (52.5%)| 54 (9.8%) | 134 (24.4%)| 49 (8.9%)
 
-##### Setting
+<!--ta: symptoms by symptom onset time!! -->
+
+##### Outcomes
+* *Composite Endpoint:* "The composite endpoint was defined as at least one of the following: (1) respiratory failure requiring mechanical ventilation, (2) other organ failure and need for intensive care unit (ICU) monitoring and treatment, and (3) death."
+* ICU admission
+* Mechanical Ventilation
+
+##### Settings 
 It is  a retrospective study and there are differences in the medical characteristics and demographics of the patients across the groups. Examples of uneven grouping (Table 2 and Table S4 in the paper): 
 * early treatment onset is associated to younger age (45 years for those at 0 -2 days, 51 years for >=12 days and 49.7 years for the control group)
-* 77% of the IFN alpha treatment patients received Lopinavir/ritonavir while only 30.8% (considering that Lopinavir/ritonavir is not very efficient for Covid likely not that relevant [to confirm])
+* 77% of the IFN alpha treatment patients received Lopinavir/ritonavir while only 30.8%. Since Lopinavir/ritonavir is seems to have not much effect on Covid [to cite] and does not interfere with IFN treatment (Figure 3), lopinavir/ritonavir treatment is not considered as relevant here.
 
 ##### Results
 "The risk probability for crude endpoints was lower in the IFN-α-2b group (3.8%) than in the non-IFN-α-2b group (9.3%, P < .001). After adjusting the confounding factors, IFN-α-2b therapy achieved a reduction of 64% in occurrence of endpoint events (hazard ratio, 0.36; 95% confidence interval [CI], 0.21–0.62)."
@@ -145,6 +214,8 @@ Composite endpoint in %    |3.8%|1.0%|3.2%|5.8%|5.5%|6.0%|9.3%
 Reduction Mechanical ventilation |54%|85%|55%|24%|57%|37%|0%
 Reduction ICU admission          |63%|87%|70%|53%|37%|18%|0%
 Reduction Composite endpoint     |60%|90%|65%|37%|41%|35%|0%
+
+// The data above are all unadjusted. The different patients cohorts don't differ that much (Table 2 and S4) and accordingly the adjustments don't change the overall interpretation (e.g. overall reduction of composite endpoint is 64% with adjustments in the paper and 60% without as in the table above.). The patients treated with later treatment starts had some increased risk factors both compared to those with earlier treatment starts and the control, thus the efficacies for the later stages are possibly underestimated without adjustments. The patients with early treatments had marginally reduced risk factors, thus a slight overestimation of efficacies is possible. // Patients characteristics are discussed in the sections above.
 
 > => Efficacy of aerosolized IFN-α-2b is up to 90% if started within the first few days of symptom onset. Topical IFN-α-2b treatment is beneficial even in the later disease stage, however at much less than when started early.
 
@@ -434,7 +505,6 @@ Wang B, Li D, Liu T, Wang H, Luo F, Liu Y. Subcutaneous injection of IFN alpha-2
 
 ### Refs Systemic IFN Beta
 
-
 #### WHO Solidarity Trial Consortium
 WHO Solidarity Trial Consortium. Repurposed antiviral drugs for COVID-19—interim WHO SOLIDARITY trial results. New England journal of medicine. 2021 Feb 11;384(6):497-511
 
@@ -464,6 +534,47 @@ in-hospital mortality regardless of time point.
 
 
 ### Refs Subcutaneous IFN Beta
+
+
+#### Summary Hung
+Triple combination of interferon beta-1b, lopinavir–ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial
+
+##### Methods
+* *Type:* "This was a multicentre, prospective, open-label, randomised, phase 2 trial in adults with COVID-19 who were admitted to six hospitals in Hong Kong."
+* 127 Patients were randomly assigned (2:1) to the intervention (86) and to the control (41). // 52 IFN intervention and 24 in control (Table 3)
+
+##### Treatment
+* *Base Treatment:* "Patients assigned to the control group received only oral lopinavir–ritonavir (lopinavir 400 mg and ritonavir 100 mg) every 12 h for 14 days."
+* *Intervention: Base + Interferon + Ribavirin:* In addition to base, subcutaneous injection of one to three doses of interferon beta-1b 1 mL (8 million international units [IU]) on alternate days but no later than day 7 (start on day 1–2 from symptom onset: 3 doses, start on day 3–4: 2 doses; start on day 5–6: 1 dose). For those entering the trial later than 7 days after onset, interferon was omitted to avoid proinflammatory effects. Ribavirin 400 mg every 12 h.
+
+> => all IFN doses within the first 7 days of symptoms. Later doses were omitted.
+
+##### Treatment Timing 
+Baseline Status:
+
+Group\Status| Age| Days of symptoms| % Fever | % Chills | % Cough | % Myalgia|% Malaise
+--|--|--|--|--|--|--|--
+Intervention | 51 | 5 (4–7)| 70 (81%) |13 (15%) |45 (52%) |10 (12%)| 19 (22%)
+Control | 52 | 4 (3–8)| 32 (78%)|6 (15%)|23 (56%)|8 (20%)| 5 (12%)
+
+##### Outcome
+"The primary endpoint was the time to providing a nasopharyngeal swab negative for severe acute respiratory syndrome coronavirus 2 RT-PCR, and was done in the intention-to-treat population."
+
+##### Assessment of Progression
+"Daily nasopharyngeal swab, posterior oropharyngeal saliva, throat swab, stool or rectal swabs, and urine if available, were obtained until discharge, for quantification of viral load and genetic mutation testing (appendix pp 20–23)."
+
+##### Findings
+> all results left side table 3 (Table 2 and Figure 2: not all have IFN since some post day 7)
+* Average days to negative in post. saliva for the IFN group: 6·0 (2·0–7·0) and control: 8·5 (5·3–11·8) (Table 3)
+* Days to SOFA 0: 3 days for IFN and 7 for control (Table 3).
+* Days in hospital: IFN: 8 (6–12·5) and control: 15 (9–16)
+
+##### Adverse Events
+" Adverse events included self-limited nausea and diarrhoea with no difference between the two groups."
+
+> => -50% duration to SOFA==0 (3 days instead of 7) and -50% days in hospital (8 instead of 15)
+
+
 
 #### Summary Kalil
 Kalil AC, Mehta AK, Patterson TF, Erdmann N, Gomez CA, Jain MK, Wolfe CR, Ruiz-Palacios GM, Kline S, Pineda JR, Luetkemeyer AF. Efficacy of interferon beta-1a plus remdesivir compared with remdesivir alone in hospitalised adults with COVID-19: a double-bind, randomised, placebo-controlled, phase 3 trial. The Lancet Respiratory Medicine. 2021 Oct 18.
@@ -558,28 +669,44 @@ Seyfi S, Latifi K, Zavareh MS, Ezoji K, Mohammadnia-Afrozi M. Comparing the Outc
 ##### Results
 "Mortality rate was also estimated as 10% among IFN-β 1-a recipients and 14% among IFN-β 1-b recipients, which was not statistically significant (p = 0.190). ICU hospitalization rate for the IFN-β 1-a recipients and IFN-β 1-b recipients was 26% and 36%, respectively."
 
+> => beta 1-a seems better than beta 1-b regarding mortality and ICU 
+
+
+
 ### Refs IFN Lambda
 #### Summary Jagannathan
 Jagannathan P, Andrews JR, Bonilla H, Hedlin H, Jacobson KB, Balasubramanian V, Purington N, Kamble S, de Vries CR, Quintero O, Feng K. Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial. Nature communications. 2021 Mar 30;12(1):1-0.
 
 ##### Methods
-"We conducted a randomized, single-blind, placebo- controlled trial (NCT04331899) in 120 outpatients with mild to moderate COVID-19 to determine whether a single, 180 mcg subcutaneous dose of Peginterferon Lambda-1a (Lambda) within 72 hours of diagnosis could shorten the duration of viral shedding (primary endpoint) or symptoms (secondary endpoint)."
-
-##### Patients
-120 outpatients with mild to moderate COVID-19 
-
-##### Dates
-April 25 and July 17, 2020
-
+* *Type:* randomized, single-blind, placebo-controlled trial (NCT04331899)
+* *Patients:* 120 outpatients with mild to moderate COVID-19 
+* *Dates:* April 25 and July 17, 2020
 ##### Treatment
 Single, 180 mcg subcutaneous dose of Peginterferon Lambda-1a (Lambda) within 72 hours of diagnosis
+##### Treatment Timing
+
+Group\Status|Age|BMI|Days since symptom onset| Baseline SARS-2 IgG+ | Viral load| CT value
+--|--|--|--|--|--|--
+Trial |37 (18–66) |27.6|4 (3–6)| 21 (35.0%)| 4.2 (3.3–5.5)|30.9(26.4–33.8)
+Control|34 (20–71)|28.5|5 (3–5)| 28 (46.7%)| 4.7 (3.2–5.5)|29.3(26.4–34.3)
+
+> * Quite low viral loads/high Ct values. Some randomness is excepted due to [PCR accuracy/sensitivity](./../3_medical/pcr_diagnosis.md).
+> * Seropositivity quite high already which possibly ameliorates IFN effects and indicates that some patients are already in the recovery phase.
+
+<!--
+Quite many cycles (~31) to amplify 4 copies. -->
+
+* In the treatment group the prevalence of Fatigue,Cough, Headache and Myalgias was about 50%. SaO2: 98%,
+* Viral load prevalence (<40) and (<30) decreases in both groups from day 0 ~> already in the recovery phase. 
 
 ##### Outcomes
-1. Duration of viral shedding (primary endpoint)
-2. duration of symptoms (secondary endpoint).
+1. Duration of detectable oropharyngeal viral load.
+2. duration of symptoms.
 
 ##### Results
 "In both the 60 patients receiving Lambda and 60 receiving placebo, the median time to cessation of viral shedding was 7 days (hazard ratio [HR] = 0.81; 95% confidence interval [CI] 0.56 to 1.19). Symptoms resolved in 8 and 9 days in Lambda and placebo, respectively, and symptom duration did not differ significantly between groups (HR 0.94; 95% CI 0.64 to 1.39)."
+
+> => Nearly 50% seropositivity in the control group, suggests the patients are in the recovery phase, which is consistent with the vanishing viral loads.
 
 ---
 
@@ -587,12 +714,27 @@ Single, 180 mcg subcutaneous dose of Peginterferon Lambda-1a (Lambda) within 72 
 Feld JJ, Kandel C, Biondi MJ, Kozak RA, Zahoor MA, Lemieux C, Borgia SM, Boggild AK, Powis J, McCready J, Tan DH. Peginterferon lambda for the treatment of outpatients with COVID-19: a phase 2, placebo-controlled randomised trial. The Lancet Respiratory Medicine. 2021 May 1;9(5):498-510.
 
 ##### Methods 
-"In this double-blind, placebo-controlled trial, outpatients with laboratory-confirmed COVID-19 were randomly assigned to a single subcutaneous injection of peginterferon lambda 180 μg or placebo within 7 days of symptom onset or first positive swab if asymptomatic."
+* *Type:* double-blind, placebo-controlled trial
+* "Between May 18, and Sept 4, 2020, we recruited 30 patients per group."
+
+###### Treatment
+Single subcutaneous injection of peginterferon lambda 180 μg or placebo
+##### Treatment Timing
+
+Group\Status|Age|BMI|Days since symptom onset| Baseline SARS-2 IgG+ | Viral load
+--|--|--|--|--|--
+Trial |48 (30–53) | 27·3 (5·2)| 4·3 (1·7)| 0/27| 6·16 (3·14)
+Control|39 (33–55)|26·1 (4·2)|4·7 (1·7)| 5/24 (21%)| 4·87 (3·68)
+
+* Regarding respiratory symptoms, in the treatment group: roughly 20% no symptoms, 60% mild, 20% moderate (Figure 4).
+* Viral load in control is constant from day 0 to day 1 and decrease from day 1 onwards. => indicate treatment started around the viral load peak.
 
 ##### Results
-"The decline in SARS-CoV-2 RNA was greater in those treated with peginterferon lambda than placebo from day 3 onwards, with a difference of 2·42 log copies per mL at day 7 (p=0·0041). By day 7, 24 (80%) participants in the peginterferon lambda group had an undetectable viral load, compared with 19 (63%) in the placebo group (p=0·15). After controlling for baseline viral load, patients in the peginterferon lambda group were more likely to have undetectable virus by day 7 than were those in the placebo group (odds ratio [OR] 4·12 [95% CI 1·15–16·73; p=0·029)."
+* "The decline in SARS-CoV-2 RNA was greater in those treated with peginterferon lambda than placebo from day 3 onwards, with a difference of 2·42 log copies per mL at day 7 (p=0·0041). By day 7, 24 (80%) participants in the peginterferon lambda group had an undetectable viral load, compared with 19 (63%) in the placebo group (p=0·15). After controlling for baseline viral load, patients in the peginterferon lambda group were more likely to have undetectable virus by day 7 than were those in the placebo group (odds ratio [OR] 4·12 [95% CI 1·15–16·73; p=0·029)."
+* "Of those with baseline viral load above 106 copies per mL, 15 (79%) of 19 patients in the peginterferon lambda group had undetectable virus on day 7, compared with six (38%) of 16 in the placebo group (OR 6·25 [95% CI 1·49–31·06]; p=0·012)."
+* Overall symptom and respiratory symptoms decreased faster in control (Figure 4).
 
-> => Viral load declined faster in interferon lambda group.
+> => Viral load declined faster in interferon lambda group. Overall symptoms and respiratory symptoms declined somewhat slower in the IFN group. // start of treatment is around viral load peak of control group => some inflammatory effects possible.
 
 ##### Adverse Events
 "Peginterferon lambda was well tolerated, and adverse events were similar between groups with mild and transient aminotransferase, concentration increases more frequently observed in the peginterferon lambda group."
