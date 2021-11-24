@@ -37,8 +37,8 @@
 
 
 ## Conceptual Summary
-Interferons (IFNs) are signalling proteins which induce an antiviral state of the target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically(=local e.g. by spray to the respiratory tract or as cream to the skin) or systemically (subcutaneous, intramuscular, intravenously). Topical administration to the respiratory tract can be done with sprays or with special nebulizers. 
-Interferon treatments are very promising to early on inhibit the replication of SARS-CoV-2 viruses in the respiratory tract: Early on administrated interferons of type 1 reduce the Covid mortality by over 75%. When patients are already at advanced disease stage systemically administrated interferons often have adverse effects on the outcome through increased immune pathology due to their inflammatory effects.
+Interferons (IFNs) are signalling proteins which induce an antiviral state of the target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically(=local e.g. by spray to the respiratory tract or as cream to the skin) or systemically (subcutaneous, intramuscular, intravenously). Topical administration to the respiratory tract is possible with sprays or with special nebulizers. 
+Interferon treatments are very promising to early on inhibit the replication of SARS-CoV-2 viruses in the respiratory tract: Early on administrated interferons of type 1 reduce the Covid mortality by over 75%. When patients are already at advanced disease stage systemically administrated interferons often have adverse effects on the outcome through increased immune pathology due to the mentioned inflammatory effects. For topical application such adverse effects have been observed.
 
 
 ## Summarized Observations
@@ -49,10 +49,10 @@ Interferon treatments are very promising to early on inhibit the replication of 
 
 Overall topically administrated IFNs show improved outcomes and even at quite late disease stage some benefits are observed.
 
-*Topical IFN Alpha:* Topical IFN alphas (all of subtype alpha-2b) reduce the mortality by 80% if early administrated. Even at mid disease stage an unfavorable disease progression is stopped in 50% of the cases. Later than 10 days after symptom onset the beneficial effects are reduced, however no adverse effects on the outcomes are observed. -> [Overview Topical IFN alpha](#overview-topical-ifn-alpha)
+*Topical IFN Alpha:* Topical IFN alphas (all of subtype alpha-2b) reduce the mortality by 80% if early administrated. Even at mid disease stage an unfavorable disease progression is prevented in 50% of the cases. Later than 10 days after symptom onset the beneficial effects are reduced, however no adverse effects on the outcomes are observed. -> [Overview Topical IFN alpha](#overview-topical-ifn-alpha)
 > mostly based on retrospective uncontrolled (many different treatment combinations) studies with patients treated in early or mid 2020.
 
-*Topical IFN Beta:* Nebulized IFN beta-1a reduced the progression to severe Covid by roughly 50% in a RCT by [Monk et al](#summary-monk) in the UK. Another RCT by [Khamis et al](#summary-khamis) with IFN beta-1b found no effect. -> [Overview Topical IFN beta](#overview-topical-ifn-beta)
+*Topical IFN Beta:* Nebulized IFN beta-1a reduces the progression to severe Covid by roughly 50% in a RCT by [Monk et al](#summary-monk) in the UK. Another RCT by [Khamis et al](#summary-khamis) with IFN beta-1b found no effect. -> [Overview Topical IFN beta](#overview-topical-ifn-beta)
 
 *Topical IFN K:* Early topical IFN K increases the viral clearance and accordingly the clinical improvement is faster. -> [Overview Topical IFN K](#refs-topical-ifn-k)
 
