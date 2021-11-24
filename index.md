@@ -10,7 +10,7 @@ explorative: 1
 
 This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses (tagged as 'explorative').
 
-## Sections of this Page (index)
+## Sections of this Chapter (index)
 * [Bird View of Content](#bird-view-of-content): Gives a short overview of the different topics.
 * [Updates](#updates): Lists the most recent topics added and changes of content:
   * [Recent Topics Added](#recent-topics-added)
@@ -38,6 +38,8 @@ This section overviews the entire content. The [content section](#content) lists
 
 ## Updates
 ### Recent Topics Added
+- 24.11.: [Interferon Treatment](6_prevention_and_treatment/interferon.md): Early interferon treatment helps to reduce the viral load and prevents in more than half of the cases severe disease. Early interferon alpha treatment shows the best results with a mortality reduction above 75%. Topical administration to the respiratory tract (spray or nebulized) shows benefits even in mid to advanced disease stages. Systemically applied interferons (especially IFN beta) on the other hand yield adverse outcomes when applied late. => 1) Topical IFN alpha is recommended to treat SARS-CoV-2 infection and treatment should start as early as possible. 2) Systemic or topical IFNs are recommended as prophylaxis for risk groups upon exposure or at high incidence rates of severe Covid.
+
 - 12.11.: [Respiratory Tract Microbiota with a focus on Virobiota](5_epidemiological/virome.md) and some notes [PCR diagnosis](3_medical/pcr_diagnosis.md).
 - 12.11.: Split up the spread analyses chapter into 
   - [Spread Analyses regarding Transmission Environments](./5_epidemiological/spread_analyses.md)
@@ -46,6 +48,7 @@ This section overviews the entire content. The [content section](#content) lists
     - Extended many section e.g. transmission by age groups.
     - updates still in work
 - 12.11.: Proposal for an [Advisory Covid App](7_social/advisory_covid_app.md)
+
 - 9.9. [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md): How the immune system developes during lifetime and how the pathogen exposures induce immune adaptions which are often localized. During childhood SARS-CoV-2 is just another new virus as each virus is encountered once for the first time. With increasing age the immune system increasingly relies on the previously seen pathogens and looses capabilities to handle new viruses.
 
   > Early online due to its relevance for acute questions such as whether to vaccinate children or to close schools.
