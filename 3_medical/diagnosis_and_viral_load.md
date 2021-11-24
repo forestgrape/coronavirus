@@ -21,7 +21,7 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
   * [Locations with Viruses](#locations-with-viruses)
   * [Specimens with Viruses](#specimens-with-viruses)
 * [Variation of the Viral Load](#variation-of-the-viral-load)
-  * [Variation in Time and Space](#variation-in-time-and-space)
+  * [Variation by Time and Location](#variation-by-time-and-location)
   * [Viral Load in Exhaled Air](#viral-load-in-exhaled-air)
   * [Temporal Variations](#temporal-variations)
 * [Diagnosis at Different Locations with a Focus on Viral Load](#diagnosis-at-different-locations-with-a-focus-on-viral-load)
@@ -196,28 +196,29 @@ Coronaviruses produce temporary RNA similar to mRNA of DNA based life forms. Thi
 ## Methods to Indirectly Detect Viruses
 
 ### Detect Tissue damage
-Detecting tissue damage is generally not very specific since other diseases e.g. other virus infections cause similar tissue damage.
+Detecting tissue damage is not very specific since other diseases e.g. other virus infections cause similar tissue damage.
 
 #### Biochemical 
-E.g. detecting cell damage through cell decay products e.g. distinctive proteins. This is useful in combination with other methods: If at a location, SARS-2 viruses are detected combined with above average cell decay products then SARS-2 likely replicates at this location. 
+E.g. detecting cell damage through cell decay products. This is useful in combination with other methods: If at a location, many SARS-2 viruses are detected combined with above average cell decay products then SARS-2 likely replicates at this location.
 
 #### Optical 
 [in work]
-E.g. CT (quite accurate but high radiation to sensible locations) or Xray (less radiation but also less accurate than CT): round glassy occupancies in the lung are characteristic for Covid-19. Other (viral) lung infections look similar so the specificity depends on the prevalence of SARS-CoV-2 compared other virus infections. 
+E.g. CT (quite sensitive to detect lung changes but high radiation to sensible locations upon a lung CT) or Xray (less radiation but also less accurate than CT): round glassy occupancies in the lung are characteristic for Covid-19 involving the lungs. Other (viral) lung infections look similar so usually used to determine the lung involvement upon a positive virus test. Determine the exact virus is not always necessary:
+* Regarding Treatment: Many respiratory virus infections are treated similarly. 
+* When SARS-CoV-2 is the most prevalent pneumonia causing agent, the probability for SARS-CoV-2 as the causing agent is high.
 
 
 ### Detect Immune Response
 
 #### Antibody Test
-[in work] 
 For infections triggering certain alarms, the immune response involves antibodies which can be detected in the blood or in the respiratory tract fluids. Antibodies are detected by [immunological methods](immuno_assyas.md). By "tradition" antibodies are measured in the serum of the blood.
 
 > ###### Serology
 > Methods analyzing the blood serum are called *serology*. Antibody detection is referred as serological (Covid) tests. 
 
-However antibodies are also in secreted body fluids such as the mucus where mainly IgA is secreted.
+However antibodies are also in secreted body fluids such as the mucus. In the mucus mainly antibodies of the class IgA are secreted.
 
-The types of antibodies not only vary by location but also by time: Different kinds of antibodies are produced at different stages during and after an infection e.g. IgM and IgG, where IgG has again subclasses. Only infections in later stages and past infections can be diagnosed by this method since the viruses need first to replicate to high enough titers to trigger an immune response strong enough and then a couple of days are needed to produce a detectable amount of antibodies.
+The types of antibodies not only vary by location but also by time: Different classes of antibodies are produced at different stages during and after an infection e.g. IgM and IgG. Only infections in later stages and past infections can be diagnosed by this method since the viruses need first to replicate to high enough titers to trigger an immune response involving antibodies and then a couple of days are needed to produce a detectable amount of antibodies.
 
 The following graphics from [Habli et al](#habli) shows a representative course of the detection by IgM, IgG and Viral Load:
 
@@ -285,7 +286,7 @@ Since coronaviruses including SARS-CoV-2 mostly release their virions on the api
 
 ## Variation of the Viral Load
 
-### Variation in Time and Space
+### Variation by Time and Location
 The viral load varies both across the different locations and across time. The graphics by [Yang et al](#summary-yang) visualizes how the viral load changes from day to day and varies between URT and LRT samples (URT in green, LRT in black; black arrow: hospital admission, red arrow: anti viral treatment started; severe cases in red and mild cases in black):
 
 ![time series of viral load in URT and LRT](Images/yang_viral_load_series_small.jpg)
@@ -606,7 +607,7 @@ BALF          | 22.5 (21-24) | -
 It is visible that the average viral load and the detection rate correlate: BAL>Sputum>NPS~OPS and severe cases have a slightly higher viral load especially in sputum.
 
 ###### Yang Figure 2
->  displayed in the section [Viral Load Variations](#variation-in-time-and-space)
+>  displayed in the section [Viral Load Variations](#variation-by-time-and-location)
 
 Figure 2 shows time series of viral loads for a series 21 individuals (18 severe and 3 mild patients). The detection rates vary for different time points, for different patients and for different locations:
 * While *no* viral RNA was detected in the upper respiratory tract, at the *same* time it was positive in BALF for the cases 01, 03, 07, 11, 12, 13, and 16.  
