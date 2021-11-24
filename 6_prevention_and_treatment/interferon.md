@@ -2,7 +2,7 @@
 
 > entire page is in *work and incomplete*. Most parts need be checked. 
 
-> 24.11. early online, since early administrated interferons look very promising to prevent severe Covid and death.
+> 24.11. early online, since early administrated interferons look very promising to prevent disease progression including severe Covid and death.
 
 
 * [Conceptual Summary](#conceptual-summary)
