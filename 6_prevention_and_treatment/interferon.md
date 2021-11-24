@@ -37,8 +37,9 @@
 
 
 ## Conceptual Summary
-Interferons (IFNs) are signalling proteins which induce an antiviral state of the target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically(=local e.g. by spray to the respiratory tract or as cream to the skin) or systemically (subcutaneous, intramuscular, intravenously). Topical administration to the respiratory tract is possible with sprays or with special nebulizers. 
-Interferon treatments are very promising to early on inhibit the replication of SARS-CoV-2 viruses in the respiratory tract: Early on administrated interferons of type 1 reduce the Covid mortality by over 75%. When patients are already at advanced disease stage systemically administrated interferons often have adverse effects on the outcome through increased immune pathology due to the mentioned inflammatory effects. For topical application such adverse effects have been observed.
+Interferons (IFNs) are signalling proteins which induce an antiviral state of the target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically(=locally, e.g. by spray to the respiratory tract or as cream to the skin) or systemically (subcutaneous, intramuscular, intravenously). Topical administration to the respiratory tract is possible with sprays or with special nebulizers.
+
+Interferon treatments are very promising to early on inhibit the replication of SARS-CoV-2 viruses in the respiratory tract: Early on administrated interferons of type 1 reduce the Covid mortality by over 75%. When patients are already at advanced disease stage, systemically administrated interferons often have adverse effects on the outcome through increased immune pathology due to the mentioned inflammatory effects. For topical application such adverse effects are not observed and even some benefits in mid to advanced disease stages are observed.
 
 
 ## Summarized Observations
