@@ -35,6 +35,7 @@ It is shown that severe Covid transmits in dry indoor air by
   * [Cruise Ships](#cruise-ships)
   * [Airplanes](#airplanes)
   * [Factories](#factories)
+  * [Competitive Indoor Sports](#competitive-indoor-sports)
   * [Large Scale Sporting Events](#large-scale-sporting-events)
 * [Other Viruses](#other-viruses)
   * [Betacoronaviruses](#betacoronaviruses)
@@ -114,7 +115,7 @@ Spread events are observed indoors or sometimes in semi-confined settings such a
   * [Large Buildings](#living-space-and-income): In cold seasons small living spaces are associated with an increased spread.
 
 #### Situations with NO increased Spread 
-For crowded events during the day in unconfined settings (e.g. demonstrations or crowded swimming pools) no increased spread is observed (neither by contact tracing nor monitoring of the overall cases).
+For crowded events during the day in unconfined settings (e.g. demonstrations or crowded swimming pools) no increased spread is observed (neither by contact tracing nor an increase of the regional case counts or hospitalization).
 * In regions/settings with limited access to water for washing hands, which is mostly relevant before eating. E.g. for outdoor take away food no increased transmission has been observed even though hand washing is often waved.
 * Crowded settings during the day in unconfined settings: Neither superspreading nor steep increases in the populations for repeated events (e.g. demonstrations, crowded parks, beaches and swimming pools).
 
@@ -124,7 +125,6 @@ For crowded events during the day in unconfined settings (e.g. demonstrations or
 Populations with long-time exposure to air pollution or have high prevalence of risk factors such as few movement and/or severe obesity tend to have more Covid cases and higher fatality rates.
 * [Air Pollution](#dirty-air-exposure): Regions which had high air pollution over the last decades have more cases and have higher death rates.
 * [Overweight](#overweight): Regions where overweight have more cases and higher fatality rates.
-
 
 
 
@@ -152,8 +152,11 @@ For regions across the world the following is analysed:
 ##### Summer and Autumn 2020
 * Measures: Focus on droplet prevention, Masks usage becomes common.
 * Observations: 
-  * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal). [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]. So the wave probably started in ACs rooms in Portugal moved to Spain and in late summer to France and UK. Next the wave hit Switzerland, Belgium and Netherlands.
-  * [in work] In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In october when temperatures felt and the heating season started, cases sharply increased.
+  * A wave with the linage 20A.EU1 starts on the iberian peninsula (Spain and Portugal e.g. [Hodcroft et al](#summary-hodcroft) show that the lineage 20A.EU1 was first primarily sequenced in Spain and later in many parts of Europe. Before Spain was hit by this wave, there was an excess in deaths in Portugal, which could be due to Covid [to clarify and link statistics]). So the wave likely started in air conditioned rooms in Portugal and Spain and then spread over to France and the UK with the holidays ending in late summer. Next the wave hit Switzerland, Belgium and Netherlands. //the waving through Europe suggests that while initially travelling played a role, later the transmissions went locally from city to city. 
+  * In late summer and early autumn cases increased at low level in central Europe and Great Britain but overall stayed low until climate got cooler. In October when temperatures felt and the heating season started, cases sharply increased.
+
+##### Winter 2020
+[todo]
 
 #### Transmissions in the UK
 
@@ -490,6 +493,13 @@ Around the world in many large scale production factories especially in those pr
 
 #### Analysis Factories
 > Noteworthy that often food production factories are concerned. This could be due to low temperatures and no sunlight, in these settings the [virion survive long](../2_biological/virion_viability.md).[To check whether they reuse filtered air and what temperature/humidity settings]
+
+
+
+### Competitive Indoor Sports
+In competitive indoor sports, the air is usually deeply inhaled and exhaled. The deep inhaling and exhaling increases the probability for particles to enter and leave from the lower respiratory tract ([Transmission Chapter](./transmission.md)).
+In competitive indoor sports the transmission rate is increased:
+* [Termansen et al](#termansen) observe that in 
 
 
 ### Large Scale Sporting Events
@@ -1006,8 +1016,8 @@ LIN, K., YEE-TAK FONG, D., ZHU, B., & KARLBERG, J. (2006).
 **Environmental factors on the SARS epidemic: Air temperature, passage of time and multiplicative effect of hospital infection.** 
 Epidemiology and Infection, 134(2), 223-230. <https://doi.org/10.1017/S0950268805005054>
 
-
-
+#### Termansen
+Termansen MB, Christiansen AV, Frische S. SARS-CoV-2 prevalence and transmission in swimming activities: Results from a retrospective cohort study. Scand J Med Sci Sports. 2021;00:1–13. https://doi. org/10.1111/sms.14071
 
 
 ## Appendix
