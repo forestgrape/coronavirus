@@ -38,7 +38,7 @@ This section overviews the entire content. The [content section](#content) lists
 
 ## Updates
 ### Recent Topics Added
-
+- 25.11.: [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md): Added notes that the detection probability of SARS-CoV-2 in different specimens depends on the excepted viral load: For high viral loads the detection is much more likely than for low viral loads. E.g. NPS samples shortly after symptom onset tend to have high viral loads and accordingly the detection rate is often above 90% in this case. For asymptomatic cases where the viral loads tends to be lower the detection decreases.
 - 24.11.: [Interferon Treatment](6_prevention_and_treatment/interferon.md): Early interferon treatment helps to reduce the viral load and prevents more than half of severe disease cases. Interferon alpha treatment shows the best results with a mortality reduction above 75% if used early. Topical administration to the respiratory tract (spray or nebulized) shows benefits even in mid to advanced disease stages. Systemically applied interferons (especially IFN beta) on the other hand yield adverse outcomes when applied late.<br>
   => 1) Topical IFN alpha is recommended to treat SARS-CoV-2 infection and treatment should start as early as possible.<br>
   => 2) Systemic or topical IFNs are recommended as prophylaxis for risk groups upon exposure or at high incidence rates of severe Covid.
