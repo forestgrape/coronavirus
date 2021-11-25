@@ -61,8 +61,6 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
 ## Summary
 Different methods to diagnose a SARS-CoV-2 infection are discussed. A focus is on methods measuring the amount of viruses (viral load) at different locations. For this reason the topics diagnosis and viral load are discussed in the same chapter.
 
-SARS-CoV-2 infects the upper respiratory tract (nose, mouth, throat) and the lower respiratory tract (bronchi, lungs) and the amount of viruses present at the different locations varies accordingly. So the sensitivity (detection rate) is dependent on the sampling location, the sampling method and the infected locations of the patient. 
-
 _Diagnosis Methods:_
 There are different methods to diagnose a coronavirus infection:
 * Detect the viruses directly. The presence of virus building blocks is detected/measured by antigen test or PCR tests ([viral load](#viral-load)). Detecting SARS-CoV-2 virus parts is highly specific to diagnose Covid-19. PCR tests quantify number of virus genomes per milliliter of specimen. Antigen tests usually just tell if there are virus proteins present. For both test methods a certain amount viruses needs to present for a positive test result. 
@@ -72,17 +70,21 @@ There are different methods to diagnose a coronavirus infection:
 
 
 _Diagnosis Locations and Specimen Types:_
-* The standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections and the results can vary from sample to sample and day to day.
+SARS-CoV-2 infects the upper respiratory tract (nose, mouth, throat) and the lower respiratory tract (bronchi, lungs). Each location can have a different amount of viruses and at each location the amount of viruses varies during the disease. The viruses detection methods (e.g. PCR or antigen tests) detect viruses only above a certain amount (usually a couple of thousands viruses per milliliter of specimen. So according to the varying amount of viruses, the sensitivity (detection rate) is dependent on the sampling location, the sampling timing, the sampling method and the infected locations of the patient.
+When the viral load peaks - for symptomatic infections, usually shortly after the symptom onset - the detection rate is highest. When the viral load is highest the detection rate by NPS/morning saliva reach detections rates above 90%. 
+
+The relative values tend to be generally valid (new virus variants can induce small changes however). The absolute values are during the entire disease course. As noted shortly after symptom onset when the viral loads are highest the detection rates are higher. Additionally the higher viral loads are reported for the delta variant, so the absolute sensitivities can further increase.
+* The standard method NPS analyzed by PCR has a detection rate of about  50 - 70 % across infections and the results can vary from sample to sample and day to day. //The detection is rate is higher for symptomatic infections shortly after symptom onset reaching values above 90%.
 * Morning before eat saliva analyzed by PCR has a higher detection rate than NPS in the first days of symptom onset (about 10% higher, so 60% - 80%). The viral load, and thus the detection rate, is reduced if the salivary flow is increased (e.g. eating or chewing gums).
 * Morning sputum and nasopharyngeal aspirate have high viral load and good detection rates. 
 * The viral load in the sputum and in saliva indicates the disease progression (high viral low -> unfavorable prognosis). The viral load in NPS samples is not an indicator in the case of hospitalized patients.
 
 _Assessment of Methods:_
 * _Saliva_: Repeated morning or at least before eat saliva specimens yield reliable viral loads which even predict the course of the disease. Before eat saliva has shown is effectiveness in the surveillance system in Hong Kong. Sputum helps to diagnose lower respiratory tract infections and the viral load is a predictor for the prognosis. 
-* _NPS_: The standard methods nasopharyngeal swabs (NPS) has a mediocre detection rate of about 60%. 
+* _NPS_: The standard methods nasopharyngeal swabs (NPS) has a slightly lower detection rate than morning saliva.
 * _NPA_: Nasopharyngeal aspirate has a good detection rate but is not so easy to sample. 
 * _Tissue changes in the lungs:_ XRay/CTs of the lungs work to detect lung infections causing tissue damage (possible super spreaders) but there's radiation.
-* 
+
 
 Which method is adequate depends on the purpose of the diagnosis. 
 * _To initiate optimal treatment:_ This is the classical use case of diagnosis: determine the pathogen causing a disease to initiate an optimal treatment. Symptoms are useful and they also give hints which location in the respiratory tract is infected. To confirm the presence and determine the extent of a SARS-2 infection early morning saliva and possibly sputum analyzed by PCR are recommended. Saliva test are also adequate for screening to start treatments ahead of symptoms.
@@ -344,7 +346,9 @@ SARS-CoV-2 can infect different compartments in the respiratory tract. Depending
 
 
 ### Detection Rates
-Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken). In first week of a SARS-CoV-2 infection with severe or with mild symptoms.
+Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken). In first week of a SARS-CoV-2 disease with severe or with mild symptoms. 
+
+> The absolute viral loads vary according during the seasons, the variants present and there's even evidence that the precaution measures in place influence the viral load (argumentation in planned). Very high viral loads are nearly always detected while viral loads towards the detection limit of a the given test method have a certain probability to give a negative test. Accordingly the sensitivities are very high when the distribution of the viral is centered at high values and the sensitivity decreases when low viral loads are excepted. Thus the following values are mostly valid as relative values, the absolute percentages given can vary however (e.g. the detection rate by NPS samples shortly after symptom onset reach values above 90% in many situations). 
 
 Severe  | Mild  | Specimen
 --|--|--
@@ -469,14 +473,14 @@ Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield differ
 * [Wong](#summary-wong) the detection rate of saliva is on average about 10 % better than nasopharyngeal samples (NPS, NPA and sometimes even mixed with throat swabs).
 * [Rao et al](#summary-rao) observed much higher detection rates from early morning saliva than from NPS specimens in male recruits asymptomatic at the time of testing (average age 27) on day 8-10 in isolation after an initial positive NPS test.
 
-#### Throat saliva
-Testees (mostly symptomatic or exposed) in [Huber et al](#summary-huber) were asked to clear the throat and then provide a saliva. The viral load and detection rate in NPS were higher but about 90% of NPS positive were also positive in saliva. A tendency for increasing the saliva sensitivity for triple throat washing is observed. 
-
 #### Coughing up Sputum/Nasal Secretions by sniffing
 * [Procop et al](#summary-procop): 216 Covid-19 symptomatic patients had enhanced saliva (provide different secretions: strong sniff, elicited cough) collected and PCR analyzed. 38 were positive both for NPS and saliva. 1 testee had only saliva tested positive. 
 
 #### Coughing up
 * [Otto et al](#summary-otto)
+
+#### Throat saliva
+Testees (mostly symptomatic or exposed) in [Huber et al](#summary-huber) were asked to clear the throat and then provide a saliva. The viral load and detection rate in NPS were higher but about 90% of NPS positive were also positive in saliva. A tendency for increasing the saliva sensitivity for triple throat washing is observed. 
 
 #### Saline Gargle
 [Berenger et al](#summary-berenger): Testees in a first group gargle saline water. Testees in a second group accumulate and then spit saliva which is then mixed with universal transport medium (UTM). The sensitivity observed in the UTM method is higher than in the saline gargle method.
@@ -560,7 +564,7 @@ As usually for summarized references:
 ### Time Series Viral Load in URT and LRT Samples
 
 #### Summary Yang
-**Laboratory Diagnosis and Monitoring the Viral Shedding of SARS-CoV-2 Infection**
+Yang Y, Yang M, Yuan J, Wang F, Wang Z, Li J, Zhang M, Xing L, Wei J, Peng L, Wong G. Laboratory diagnosis and monitoring the viral shedding of SARS-CoV-2 infection. The innovation. 2020 Nov 25;1(3):100061.
 <https://doi.org/10.1016/j.xinn.2020.100061>
 
 > An early version of this article with fewer patients has the title "Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections" by Yang Yang et al and published at <https://doi.org/10.1101/2020.02.11.20021493>
@@ -703,6 +707,10 @@ The find that the sensitivity of all methods is highest in the early course of t
 ![sensitivity of methods during Covid](Images/mohammadi_pic2.jpg)
 
 > The higher detection rate soon after symptom onset is likely due to higher viral loads.
+
+
+#### Poukka
+Poukka E, Mäkelä H, Hagberg L, Vo T, Nohynek H, Ikonen N, Liitsola K, Helve O, Savolainen-Kopra C, Dub T. Detection of SARS-CoV-2 Infection in Gargle, Spit, and Sputum Specimens. Microbiology spectrum. 2021 Sep 1;9(1):e00035-21.
 
 ### Viral Load in Sputum
 
@@ -1494,7 +1502,8 @@ Summarized in the virome chapter: [Summary Carlson-Jones](../5_epidemiological/v
 
 
 #### Summary Hung
-**Early-Morning vs Spot Posterior Oropharyngeal Saliva for Diagnosis of SARS-CoV-2 Infection: Implication of Timing of Specimen Collection for Community-Wide Screening**
+Hung DL, Li X, Chiu KH, Yip CC, To KK, Chan JF, Sridhar S, Chung TW, Lung KC, Liu RW, Kwan GS. Early-morning vs spot posterior oropharyngeal saliva for diagnosis of SARS-CoV-2 infection: implication of timing of specimen collection for community-wide screening. InOpen forum infectious diseases 2020 Jun (Vol. 7, No. 6, p. ofaa210). US: Oxford University Press.
+
 ##### Methods 
 * "Posterior oropharyngeal saliva was collected at 5 different time points within the same day from 18 patients with previously confirmed SARS-CoV-2 infection by molecular testing. Cycle threshold (Ct) values were compared."
 * "The 5 specific time points were (1) early-morning (first thing in the morning upon awakening, before teeth brushing, mouth rinsing, and eating breakfast); (2) before lunch; (3) before afternoon tea at 3 pm; (4) before dinner; and (5) before bedtime (and before teeth brushing). Patients were not asked to refrain from eating, drinking, or mouth rinsing before collection of posterior oropharyngeal saliva at the second, third, and fourth time points to resemble spot saliva taken at the clinic in real life."
