@@ -20,8 +20,8 @@
   * [Expression Locations of ACE2](#expression-locations-of-ace2)
   * [Disease Pattering for Influenza](#disease-pattering-for-influenza)
 * [Appendix](#appendix)
-  * [On the Origin](#on-the-origin)
   * [ACE2 Receptor](#ace2-receptor)
+  * [On the Origin](#on-the-origin)
 
 
 ## Introduction to Coronavirus Disease Patterns
@@ -231,18 +231,7 @@ PLoS ONE 7(4): e35876. doi:10.1371/journal.pone.0035876
 
 
 
-
 ## Appendix
-### On the Origin
-
-> The origin of Sars-CoV-1 is unclear: Related viruses are found in bats and even more similar in civet cats. However seroprevalence of antibodies in civet cats suggest that Sars-CoV-1 is not endemic to civet cats and thus there was a jump to civet cats around the same time (2002) when Sars-CoV-1 jumped to humans.
-
-> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers is a possibility. Goats or sheep could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered in a live-animal-market goes in line or a least is no contradiction with a farming origin: Rare severe cases in rural areas may not have rung the bells. However severe lung disease cases connected to a live-animal-market, could have triggered thorough investigations resulting in the discovery of Sars-CoV-2. The capable virology research facility in Wuhan may have sped the discovery. 
-
-> Virus discovery is not easy and requires the right settings. Some of the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite both being endemic to human for a long time and virologists had the (theoretical) possibilities to discover coronaviruses since the 70's. MERS got discovered in 2012 but likely human infections have occurred long before. 
-
-> For this page the originating i.e. the natural hosts are of relevance since they could inspire treatment methods: A hypothesis that SARS-like have a dual host life cycle in their natural habitat is discussed in [Backtracing SARS-like](../2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-1/2).
-
 
 
 ### ACE2 Receptor
@@ -279,3 +268,19 @@ ACE2 is apically available
 * in the upper respiratory tract
     - the basal layer of the non-keratinised squamous epithelium of the nasal, oral mucosa and the nasopharynx expresses ACE2 [Timens](#timens), [Lau](#lau) [in rework]. 
     - goblet cells [in work]
+
+
+
+
+### On the Origin
+
+> The origin of Sars-CoV-1 is unclear: Related viruses are found in bats and even more similar in civet cats. However seroprevalence of antibodies in civet cats suggest that Sars-CoV-1 is not endemic to civet cats and thus there was a jump to civet cats around the same time (2002) when Sars-CoV-1 jumped to humans.
+
+> The origin of Sars-CoV-2 is unknown. Considering its tropism, animal farming origin with frequent and even persistent infections of farmers is a possibility. Goats or sheep could be the hosts of the Sars-2 viruses, possibly even of Sars-like in general. That Sars-CoV-2 was discovered in a live-animal-market goes in line or a least is no contradiction with a farming origin: Rare severe cases in rural areas may not have rung the bells. However severe lung disease cases connected to a live-animal-market, could have triggered thorough investigations resulting in the discovery of Sars-CoV-2. The capable virology research facility in Wuhan may have sped the discovery. 
+
+> Virus discovery is not easy and requires the right settings. Some of the settings often need to be guessed since the virus in question are unknown. The human coronaviruses HKU1 and NL63 have been discovered only in 2004/5 despite both being endemic to human for a long time and virologists had the (theoretical) possibilities to discover coronaviruses since the 70's. MERS got discovered in 2012 but likely human infections have occurred long before. 
+
+> On this page (and for me) the originating i.e. the natural hosts are of relevance since they could inspire treatment methods: A hypothesis that SARS-like have a dual host life cycle in their natural habitat is discussed in [Backtracing SARS-like](../2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-1/2). 
+
+> The current Covid crisis is both risk and chance. It has to potential to split societies and the world. It is a chance to increase cooperations and sharing, our understanding of nature, transparency and fairness, to cooperate and to respect each other - all all.
+
