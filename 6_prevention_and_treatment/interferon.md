@@ -121,10 +121,10 @@ Author | Type | Treatment | Status_at_Treatment Start | Effects Early Administra
 
 Author | Type | Treatment | Status_at_Treatment Start | Effects Early Administration| Effects Mid Administration | Effects Late Administration | Notes
 --|--|--|--|--|--|--|--
-[WHO Solidarity Trial](#who-solidarity-trial-consortium)| Multicentre (across the world) randomized open label trial |  44 μg of subcutaneous interferon beta-1a on day 0,3,6 (for severe cases sometimes intravenously) | early: no oxygen; mid: oxygen; late: ventilation | -20% mortality | +10% mortality | +30% mortality and increase of other adverse events| very heterogenous since centres from across the world; better outcome for patients older than 65 
-[Kalil](#summary-kalil)| double-blind, randomised, placebo-controlled trial at 63 hospitals (56 in the USA). | 4 doses of 44 μg interferon beta-1a subcutaneously every other day; both groups  intravenous remdesivir |*Grouping:* mid: patients ordinal score of 4 or 5 (~450 patients per group); late: patients with score 6 (~35 patients; mostly with oxygen);  //Patients included:  symptom duration ~8.5 days; SaO2: 94% or less or oxygen but no ventilation; | - | overall not much effect; recovery rate ratio: ~1 | +75% mortality (up to 7 from 4 in the control); recovery rate ratio: 0.4 | slight overall benefit for patients older than 65;
-[Davoudi-Monfared](#davoudi-monfared)| randomized clinical trial in early 2020 |  44-microgram/ml (12 million IU/ml) dose of IFN beta-1a  subcutaneously  3 per week for 2 weeks| at admission mostly ill patients and 8 days post symptom onset. Administration was done early and late during hospitalization (early classified here as mid since patients quite sick)| - | -75% mortality | increased mortality |  [in work]
-[Hung](#summary-hung)|  multicentre, prospective, open-label, randomised, phase 2 trial | subcutaneous_injection of beta-1b, 8 mio IU per dose; 2 doses for start on day 4, 1 dose for start on day 5/6 (=>no dose post day 7 | within 7 days of symptom onset, mostly mild illness (fever and cough were common) | -50% duration to SOFA==0 (3 days instead of 7) and -50% days in hospital (8 instead of 15) | - | - | -
+[WHO Solidarity Trial](#who-solidarity-trial-consortium)| Multicentre (across the world) randomized open label trial |  44 μg of subcutaneous interferon beta-1a on day 0,3,6 (for severe cases sometimes intravenously) | early: no oxygen; mid: oxygen; late: ventilation. //Classification into early/mid/late to fit table, the disease stages are more early to mid/late/very late| early to mid:-20% mortality | mid to late:+10% mortality | very late:+30% mortality and increase of other adverse events| very heterogenous since centres from across the world; better outcome for patients older than 65 
+[Kalil](#summary-kalil)| double-blind, randomised, placebo-controlled trial at 63 hospitals (56 in the USA). | 4 doses of 44 μg interferon beta-1a subcutaneously every other day; both groups intravenous remdesivir |*Grouping:* mid: patients ordinal score of 4 or 5 (~450 patients per group); late: patients with score 6 (~35 patients; mostly with oxygen);  //Patients included:  symptom duration ~8.5 days; SaO2: 94% or less or oxygen but no ventilation; | - | overall not much effect; recovery rate ratio: ~1 | +75% mortality (up to 7 from 4 in the control); recovery rate ratio: 0.4 | slight overall benefit for patients older than 65;
+[Davoudi-Monfared](#davoudi-monfared)| randomized clinical trial in early 2020 |  44-microgram/ml (12 million IU/ml) dose of IFN beta-1a  subcutaneously, 3 times per week for 2 weeks| at admission mostly ill patients and 8 days post symptom onset. Administration was done early and late during hospitalization (early classified here as mid since patients quite sick)| - | -75% mortality | increased mortality | 
+[Hung](#summary-hung)|  multicentre, prospective, open-label, randomised, phase 2 trial | subcutaneous_injection of beta-1b, 8 mio IU per dose; 2 doses for start on day 4, 1 dose for start on day 5/6 (=>no dose post day 7 | mostly mild illness (fever and cough common); no IFN post day 7 of symptom onset| -50% duration to SOFA==0 (3 days instead of 7) and -50% days in hospital (8 instead of 15) | - | - | -
 
 ### Overview Systemic IFN Lambda
 
@@ -195,7 +195,7 @@ Control | 49.73 (15.42)|5 (2–7)| 37.82 (0.86) | 417 (76.0%)|288 (52.5%)| 54 (9
 ##### Settings 
 It is  a retrospective study and there are differences in the medical characteristics and demographics of the patients across the groups. Examples of uneven grouping (Table 2 and Table S4 in the paper): 
 * early treatment onset is associated to younger age (45 years for those at 0 -2 days, 51 years for >=12 days and 49.7 years for the control group)
-* 77% of the IFN alpha treatment patients received Lopinavir/ritonavir while only 30.8%. Since Lopinavir/ritonavir is seems to have not much effect on Covid [to cite] and does not interfere with IFN treatment (Figure 3), lopinavir/ritonavir treatment is not considered as relevant here.
+* 77% of the IFN alpha treatment patients received Lopinavir/ritonavir whereas only 30.8% in the control. //Since lopinavir/ritonavir seems to have not much effect on Covid [to cite] and does not interfere with IFN treatment (Figure 3), lopinavir/ritonavir treatment is not considered as relevant here.
 
 ##### Results
 "The risk probability for crude endpoints was lower in the IFN-α-2b group (3.8%) than in the non-IFN-α-2b group (9.3%, P < .001). After adjusting the confounding factors, IFN-α-2b therapy achieved a reduction of 64% in occurrence of endpoint events (hazard ratio, 0.36; 95% confidence interval [CI], 0.21–0.62)."
@@ -313,6 +313,15 @@ Intervention was applied early.
 14 of 36 patients in the control group required mechanical ventilation, whereas only 6 of 37 in the intervention group. // => 58% reduction in mechanical ventilation by early treatment with IFN alpha 2b.
 
 > about 60% reduction for ventilation
+
+
+#### Summary Mordyk
+Mordyk A.V., Ivanova O.G., Samsonov K.Yu., Sitnikova S.V., Zenkova L.A. Interferon alpha-2b in comprehensive treatment of patients with COVID-19. Infekc. bolezni (Infectious diseases). 2021; 19(1): 16–25. (In Russian). DOI: 10.20953/1729-9225-2021-1-16-25
+
+
+
+
+
 
 ### Refs Topical IFN Beta
 
@@ -538,7 +547,7 @@ in-hospital mortality regardless of time point.
 
 
 #### Summary Hung
-Triple combination of interferon beta-1b, lopinavir–ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial
+Hung IF, Lung KC, Tso EY, Liu R, Chung TW, Chu MY, Ng YY, Lo J, Chan J, Tam AR, Shum HP. Triple combination of interferon beta-1b, lopinavir–ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial. The Lancet. 2020 May 30;395(10238):1695-704.
 
 ##### Methods
 * *Type:* "This was a multicentre, prospective, open-label, randomised, phase 2 trial in adults with COVID-19 who were admitted to six hospitals in Hong Kong."
@@ -761,10 +770,10 @@ Nakhlband A, Fakhari A, Azizi H. Interferon‐alpha position in combating with C
 #### Kumar 
 Kumar S, Saurabh MK, Narasimha VL, Maharshi V. Efficacy of Interferon-β in Moderate-to-Severe Hospitalised Cases of COVID-19: A Systematic Review and Meta-analysis. Clinical Drug Investigation. 2021 Oct 23:1-0.
 
-// includes 8 studies:
+Includes 8 studies:
 * [Darazam](#darazam-april-20)
 * [Davoudi-Monfared](#davoudi-monfared)
-* Khmais
+* [Khmais](#summary-khamis)
 * [Monk](#summary-monk)
 * Rahmani
 * [WHO Solidarity Trial Consortium](#who-solidarity-trial-consortium)
