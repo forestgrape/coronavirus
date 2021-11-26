@@ -38,7 +38,6 @@ This section overviews the entire content. The [content section](#content) lists
 
 ## Updates
 ### Recent Topics Added
-- 25.11.: [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md): Added notes that the detection probability of SARS-CoV-2 in different specimens depends on the excepted viral load: For high viral loads the detection is much more likely than for low viral loads. E.g. NPS samples shortly after symptom onset tend to have high viral loads and accordingly the detection rate is often above 90% in this case. For asymptomatic cases where the viral loads tends to be lower the detection decreases.
 - 24.11.: [Interferon Treatment](6_prevention_and_treatment/interferon.md): Early interferon treatment helps to reduce the viral load and prevents more than half of severe disease cases. Interferon alpha treatment shows the best results with a mortality reduction above 75% if used early. Topical administration to the respiratory tract (spray or nebulized) shows benefits even in mid to advanced disease stages. Systemically applied interferons (especially IFN beta) on the other hand yield adverse outcomes when applied late.<br>
   => 1) Topical IFN alpha is recommended to treat SARS-CoV-2 infection and treatment should start as early as possible.<br>
   => 2) Systemic or topical IFNs are recommended as prophylaxis for risk groups upon exposure or at high incidence rates of severe Covid.
@@ -70,6 +69,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
+- 25.11.: [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md): Added notes that the detection probability of SARS-CoV-2 in different specimens depends on the excepted viral load: For high viral loads the detection is much more likely than for low viral loads. E.g. NPS samples shortly after symptom onset tend to have high viral loads and accordingly the detection rate is often above 90% in this case. For asymptomatic cases where the viral loads tend to be lower the detection decreases. Accordingly the detection rates which for different specimens generally are valid as relative rates and the absolute values are only valid in specific situations.
 - 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
 - 13.-15.11.: Formulations. Some formulations changed back and forth. 
   > *When rules restrict individuals based on R values or even without medical basis - both is in general firmly opposed on this page -, conciseness and directness are the focus.*
