@@ -45,10 +45,11 @@ Different properties of the air we breath can be measured:
 
 Property | Measured by | Influenced by |  Relevance
 --|--|--|--
-Humidity    | Humidity sensor | humidifier, heating combined with ventilation, AC| In dry air: lower clearance of the respiratory tract, increased survival of viruses, dry particulates have a higher deposition in the deep lungs 
+Humidity    | Humidity sensor | humidifier, heating combined with ventilation, AC| In dry air: lower clearance of the respiratory tract, increased [survival of viruses](../2_biological/virion_viability.md)
+, dry particulates have a higher deposition in the deep lungs
 Temperature | Thermometer | heating, ventilation, AC |comfort
-CO2 content | CO2 Sensor| ventilation, breathing  | How much air is 're-breathed' which in turn is associated to respiratory infection transmission
-Particulate content | particulate sensor | outdoor air quality, ventilation, humidity, indoor particle sources, air cleaners| Cleanness of the air which indicate possible infectious aerosol and air pollutants/allergens.
+CO2 content | CO2 Sensor| ventilation, breathing  | How much air is 're-breathed' which is associated to the transmission of respiratory tract infections
+Particulate content | particulate sensor | outdoor air quality, ventilation, humidity, indoor particle sources, air cleaners| Cleanness of the air indicates possible infectious aerosol and air pollutants/allergens.
 
 
 ## Use Cases
