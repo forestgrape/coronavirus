@@ -3,7 +3,7 @@
 ## Considerations on Increased R Value
 In my opinion, measures should  not target individuals and accordingly not be based on individual R values. Measures should target risky situations. Risky is mainly dry indoor air (chapter [Spread analysis](../5_epidemiological/spread_analyses.md)). Dry indoor air can be ventilated, cleaned and humidified ([Good air certificate](../7_social/good_air.md)).
 
-> I am aware that many (governments, scientists, doctors, parliaments, citizens) around the world assume that currently available intramuscular vaccines (e.g. 'mRNA' and 'Adeno-virus-with-spike' vaccines) are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated. While those vaccinated even at high rates of Covid hospitalizations are can do near everything even with symptoms and without antigen tests (// for airplane travel and large scale events I consider e.g. antigen tests as appropriate when hospitalization rates are high).
+> I am aware that many (governments, scientists, doctors, parliaments, citizens) around the world assume that currently available intramuscular vaccines (e.g. 'mRNA' and 'Adeno-virus-with-spike' vaccines) are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated. While those vaccinated - even at high rates of Covid hospitalizations - can do near everything even with symptoms and often without any tests (// for airplane travel and large scale events I consider e.g. antigen tests as appropriate when hospitalization rates are high).
 
 > A concise and pointed comment "[Covid-19 Vaccine Mandates Are Now Pointless](../5_epidemiological/individual_susceptibility_and_transmission.md#pierpont)" is by Pierpont (some errata however, see notes at the reference.)
 
@@ -17,7 +17,7 @@ It is scientific task to determine the properties/features that predicts whether
 
 > Both infectiousness and vaccine safety are not rigorously discussed on this page. Some notes are available however:
 > * A possible method to determine infectiousness are the number of viruses in exhaled aerosol ([Viral Load in exhaled Air](./../3_medical/diagnosis_and_viral_load.md#viral-load-in-exhaled-air)). In the chapter [individual factors for transmission and susceptibility](./../5_epidemiological/individual_susceptibility_and_transmission.md) there are some epidemiological observations on the effects of vaccines on transmission.
-> * Some speculations/open question about the safety of the 'mRNA' and 'Adeno-Vector' vaccines are on the [Open Safety Question](./../10_vaccines/vaccine_safety.md).
+> * Some speculations/open question about the safety of the 'mRNA' and 'Adeno-Vector' vaccines in [Vaccine Safety Questions](./../10_vaccines/vaccine_safety.md).
 
 
 ### Moral Considerations
@@ -32,14 +32,19 @@ Relevant moral questions are:
 
 > One important difference is that those opting for vaccination choose to get vaccinated themselves.
 > 
-> .... at least initially. With boosters some are more skeptical, but if adults are skeptical (with good reasons in my opinion regarding the short lived protection against transmission versus possible adverse effects) at the same time forcing teenagers to vaccinate is *not* nice. // On this page 'boosters' are not generally recommended. Forcing teenagers to vaccinate is considered a no go. (as of November 2021)
+> ... at least initially. With boosters some are more skeptical (with good reasons in my opinion weighting the short lived protection against transmission versus described, indicated and possible (long-term) adverse effects). If adults are skeptical due to safety concerns and at the same time force teenagers to vaccinate, this is *not* nice. 
+> 
+>>On this page 'boosters' are not generally recommended. Forcing teenagers to vaccinate is considered a no go. (as of November 2021)
 
 
 ### Social Considerations
 > To restrict basic human rights of selected people, needs in my opinion, both a very solid scientific foundation and an acute danger for public health. // Models predicting many cases in a few weeks or months is *not* an acute danger. Numerous modelling predictions published turned out to be wrong.
 
-> To my judgement, there is no rigorous scientific foundation to differentiate between vaccinated and unvaccinated persons if not at risk for severe Covid: the science published suggests that intramuscular vaccines don't provide a protection against transmission for more than a few months. Thus the current restrictions of people opting out of vaccinations can be viewed as out casting people based on attitudes without a medical basis - at least in the case of people not at elevated risk for severe Covid, which includes all people below 30 years of age. For people at risk for severe Covid there is a risk of hospitalization but 1) transmissions of (severe) Covid often happen within residential block and 2) other behaviors which increase the risk of hospitalization need to be banned too. Also the long-term risk of the current vaccines is unknown and time-associated hospitalizations and even deaths are reported (//nevertheless for high risk groups one time vaccination is recommended on this page since severe Covid is severe). Also people can opt out of hospitalization/intense care and then this argument does not hold.// I don't think, it is nice to neglect (some) treatments (as commented in [Controlling>Strategy](controlling.md#strategy)), but is is a third option to experimental vaccination and to be out-casted from social life for months or more.
+> To my judgement, there is no rigorous scientific foundation to differentiate between vaccinated and unvaccinated persons if not at risk for severe Covid: The science published suggests that intramuscular vaccines don't provide a protection against transmission for more than a few months. Thus the current restrictions of people opting out of vaccinations can be viewed as out casting people based on attitudes without a medical basis - at least in the case of people not at elevated risk for severe Covid, which includes all people below 30 years of age. For people at risk for severe Covid there is a risk of hospitalization but 1) transmissions of (severe) Covid often happen within residential block and 2) other behaviors which increase the risk of hospitalization need to be banned too. Also the long-term risk of the current vaccines is unknown and time-associated hospitalizations and even deaths are reported (//nevertheless for high risk groups one time vaccination is recommended on this page since severe Covid is severe). Also people can opt out of hospitalization/intense care and then this argument does not hold.// I don't think, it is nice to neglect (some) treatments (as commented in [Controlling>Strategy](controlling.md#strategy)), but is is a third option to experimental vaccination and to be out-casted from social life for months or more.
 
-> Good treatment options would be nice, I am confident they will be available soon!
+> Good treatment options would be nice! 
+> 
+> A very promising treatment is early administrated interferon alpha which reduces mortality by over 75% (chapter [Interferon Treatment](../6_prevention_and_treatment/interferon.md)).
+
 
 > *The risks to take in life, everybody should be eligible to choose on his own.*
