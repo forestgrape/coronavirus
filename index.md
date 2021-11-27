@@ -69,7 +69,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
-- 27.11.: Restrictions should be nearly no for children, very relaxed teenagers and relaxed twenty-agers.
+- 27.11.: Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.
 - 25.11.: [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md): Added notes that the detection probability of SARS-CoV-2 in different specimens depends on the excepted viral load: For high viral loads the detection probability is much higher than for low viral loads. E.g. NPS samples taken shortly after symptom onset tend to have high viral loads and accordingly the detection rate is often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tend to be lower the detection decreases. For different specimens, the detection rates are compared by the detection rates, these rates given are generally valid as relative rates; however the absolute values are only valid in specific situations.
 - 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
 - 13.-15.11.: Formulations. Some formulations changed back and forth. 
