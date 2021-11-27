@@ -37,9 +37,9 @@
 
 
 ## Conceptual Summary
-Interferons (IFNs) are signalling proteins which induce an antiviral state of the target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically(=locally, e.g. by spray to the respiratory tract or as cream to the skin) or systemically (subcutaneous, intramuscular, intravenously). Topical administration to the respiratory tract is possible with sprays or with special nebulizers.
+Interferons (IFNs) are signalling proteins which induce an antiviral state in their target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically (=locally, e.g. by spray to the respiratory tract or as cream) or systemically (subcutaneous, intramuscular, intravenously). Topical administration to the respiratory tract is possible with sprays or with special nebulizers.
 
-Interferon treatments are very promising to early on inhibit the replication of SARS-CoV-2 viruses in the respiratory tract: Early on administrated interferons of type 1 reduce the Covid mortality by over 75%. When patients are already at advanced disease stage, systemically administrated interferons often have adverse effects on the outcome through increased immune pathology due to the mentioned inflammatory effects. For topical application such adverse effects are not observed and even some benefits in mid to advanced disease stages are observed.
+Interferon treatments inhibit the replication of SARS-CoV-2 viruses in the respiratory tract and thereby if administrated before there are many viruses prevent disease progression: Early on administrated interferons of type 1 reduce the Covid mortality by over 75%. When patients are already at advanced disease stage, systemically administrated interferons often have adverse effects on the outcome through increased immune pathology due to the mentioned inflammatory effects. For topical application even some benefits in mid to advanced disease stages are observed.
 
 
 ## Summarized Observations
@@ -48,7 +48,7 @@ Interferon treatments are very promising to early on inhibit the replication of 
 > ###### Topical Administration
 > Topical administration denotes in the following either nebulized/aerosolized or sprayed application to the respiratory tract.
 
-Overall topically administrated IFNs show improved outcomes and even at quite late disease stage some benefits are observed.
+Overall topically administrated IFNs show improved outcomes, especially if the treatment is started early. At late disease stage the benefits are less though unlike systemic IFNs, for topical application no adverse outcomes are observed.
 
 *Topical IFN Alpha:* Topical IFN alphas (all of subtype alpha-2b) reduce the mortality by 80% if early administrated. Even at mid disease stage an unfavorable disease progression is prevented in 50% of the cases. Later than 10 days after symptom onset the beneficial effects are reduced, however no adverse effects on the outcomes are observed. -> [Overview Topical IFN alpha](#overview-topical-ifn-alpha)
 > mostly based on retrospective uncontrolled (many different treatment combinations) studies with patients treated in early or mid 2020.
@@ -62,11 +62,11 @@ Overall topically administrated IFNs show improved outcomes and even at quite la
 
 Systemic IFNs show benefits if given very early in a mild disease stage. At later stage no effect or even adverse effects are observed.
 
-*Systemic IFN alpha:* Early IFN-α2b treatment induces a faster viral load clearance and a favorable disease progression ([Overview Systemic IFN alpha](#overview-systemic-ifn-alpha)).
+*Systemic IFN alpha:* Early IFN-α2b treatment induces a faster viral load clearance and a favorable disease progression. -> [Overview Systemic IFN alpha](#overview-systemic-ifn-alpha)
 
-*Systemic IFN beta:* If administrated at severe disease stage (oxygen needed or even ventilated), systemic IFN beta treatment often increases the mortality and the occurrence of adverse effects. If administrate in the mild disease stage beneficial effects are observed such as better prognosis and faster viral clearance. ([Overview Systemic IFN beta](#overview-systemic-ifn-beta))
+*Systemic IFN beta:* If administrated at severe disease stage (oxygen needed or even ventilated), systemic IFN beta treatment often increases the mortality and the occurrence of adverse effects. If administrate in the mild disease stage beneficial effects are observed such as better prognosis and faster viral clearance. -> [Overview Systemic IFN beta](#overview-systemic-ifn-beta)
 
-#Systemic IFN lambda:* In the case of mild SARS-CoV-2 infections, it reduces the time for viral clearance if administrated early. ([Overview Systemic IFN lambda](#overview-systemic-ifn-lambda))
+*Systemic IFN lambda:* In the case of mild SARS-CoV-2 infections, it reduces the time for viral clearance if administrated early. -> [Overview Systemic IFN lambda](#overview-systemic-ifn-lambda)
 
 
 
