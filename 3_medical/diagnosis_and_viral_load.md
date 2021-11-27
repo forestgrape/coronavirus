@@ -560,7 +560,7 @@ Salvagno, Gian Luca, Gianfilippi, Gianluca, Bragantini, Damiano, Henry, Brandon 
 As usually for summarized references:
 * in "..." are word-for-word extracts. 
 * "Figure 1" and similar refer to figures in the corresponding paper. 
-* While trying to capture the key findings of the investigations, the summaries are biased towards the findings referred on this page. 
+* While trying to capture the key findings of the investigations, the summaries are biased towards the usage on this page. 
 
 ### Time Series Viral Load in URT and LRT Samples
 
