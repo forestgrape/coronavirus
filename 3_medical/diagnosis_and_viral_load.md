@@ -46,6 +46,7 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
   * [Viral Load in Sputum](#viral-load-in-sputum)
   * [Refs Viral Load in BALF](#refs-viral-load-in-balf)
   * [Viral Load in URT](#viral-load-in-urt)
+  * [Refs Viral Load in URT Review](#refs-viral-load-in-urt-review)
   * [Refs NPA Respiratory Viruses](#refs-npa-respiratory-viruses)
   * [Refs Viral Load in Saliva compared to NPA/NPS Respiratory Viruses](#refs-viral-load-in-saliva-compared-to-npanps-respiratory-viruses)
   * [Refs Viral Load in Saliva compared to NPS](#refs-viral-load-in-saliva-compared-to-nps)
@@ -166,7 +167,7 @@ Methods detecting proteins of virions are usually called antigen tests (virus pr
 > Proteins have specific binding patterns to other proteins. This is used by vertebrates to produces specific proteins (called antibodies) which bind to foreign/unwanted proteins (called antigens). Antigen tests work similarly by detecting specific proteins of SARS-CoV-2 (antigens) and are therefore part of immune tests. How antigen test work is discussed in the chapter [Immuno Assays](immuno_assyas.md).
 
 
-The sensitivity and specificity of antigen tests tend to be lower than PCR based tests. There are many different products of antigen tests which vary a lot in sensitivity and specificity. Specifically for the Roche SARS-CoV-2 rapid antigen test [Salvagno et al](#salvagno) find, that this test gives a positive result for nearly all samples below 30 PCR cycles:
+The sensitivity and specificity of antigen tests tend to be lower than PCR based tests. There are many different products of antigen tests which vary a lot in sensitivity and specificity. Specifically for the Roche SARS-CoV-2 rapid antigen test [Salvagno et al](#salvagno) find, that this test gives a positive result for nearly all samples below 30 PCR cycles. In numbers, the sensitivity is about 90% for less than 30 PCR cycles. The PCR test is done for 3 different genes: the E gene, the RdRP gene and the N gene whereas always the same antigen test (from Roche) is used. The PCR test results vary across the genes. The rapid antigen test agrees best with the PCR test for the RdRP gene (shown the middle).
 
 ![Roche antigen test vs PCR](Images/images%20diagnosis/salvagno_f2.jpg))
 
@@ -563,6 +564,12 @@ As usually for summarized references:
 
 ### Time Series Viral Load in URT and LRT Samples
 
+
+#### Savela
+Savela ES, Winnett A, Romano AE, Porter MK, Shelby N, Akana R, Ji J, Cooper MM, Schlenker NW, Reyes JA, Carter AM. Quantitative SARS-CoV-2 viral-load curves in paired saliva and nasal swabs inform appropriate respiratory sampling site and analytical test sensitivity required for earliest viral detection. medRxiv. 2021 Apr 7:2021-04.
+
+
+
 #### Summary Yang
 Yang Y, Yang M, Yuan J, Wang F, Wang Z, Li J, Zhang M, Xing L, Wei J, Peng L, Wong G. Laboratory diagnosis and monitoring the viral shedding of SARS-CoV-2 infection. The innovation. 2020 Nov 25;1(3):100061.
 <https://doi.org/10.1016/j.xinn.2020.100061>
@@ -663,6 +670,9 @@ doi: https://doi.org/10.1101/2020.03.24.20042382
 
 
 
+
+
+
 ### Viral Load in URT and LRT Samples
 
 #### Summary Malik
@@ -704,7 +714,7 @@ SARS-CoV-2 detection in different respiratory sites: A systematic review and met
 EBioMedicine,Volume 59,2020,102903,ISSN 2352-3964,https://doi.org/10.1016/j.ebiom.2020.102903.
 
 The find that the sensitivity of all methods is highest in the early course of the disease:
-![sensitivity of methods during Covid](Images/mohammadi_pic2.jpg)
+
 
 > The higher detection rate soon after symptom onset is likely due to higher viral loads.
 
@@ -757,6 +767,11 @@ Mathieu Blot, Marine Jacquier, Catherine Manoha, Lionel Piroth, Pierre-Emmanuel 
 ##### Results
 "Although no correlation was found with baseline SOFA scores or baseline PaO2:FiO2, on day 2 there was a significant positive correlation with SOFA score values (r = 0.658; P = .013) (Figure 1) and a negative correlation with the PaO2:FiO2 ratio (r = −0.556; P = .042).
 In line with the findings of Magleby et al, we showed that the alveolar viral load at the onset of ARDS is tightly correlated with subsequent clinical worsening, especially in terms of hypoxemia." //[Magleby]    (todo add ref)
+
+
+
+
+
 
 ### Viral Load in URT
 
@@ -862,11 +877,24 @@ Table 1 show the patients characteristics including the E-gene Ct-values for NPS
 -->
 
 
+#### Kerneis
+Kernéis S, Elie C, Fourgeaud J, Choupeaux L, Delarue SM, Alby ML, Quentin P, Pavie J, Brazille P, Néré ML, Minier M. Accuracy of saliva and nasopharyngeal sampling for detection of SARS-CoV-2 in community screening: a multicentric cohort study. European Journal of Clinical Microbiology & Infectious Diseases. 2021 Nov;40(11):2379-88.
+
+
+#### Kerimov
+Kerimov D, Tamminen P, Viskari H, Lehtimäki L, Aittoniemi J. Sampling site for SARS-CoV-2 RT-PCR—An intrapatient four-site comparison from Tampere, Finland. PloS one. 2021 Nov 16;16(11):e0260184.
+
+
+
+### Refs Viral Load in URT Review
+
 #### Summarized Review Lee
 Lee, Rose & Herigon, Joshua & Benedetti, Andrea & Pollock, Nira & Denkinger, Claudia. (2020). **Performance of Saliva, Oropharyngeal Swabs, and Nasal Swabs for SARS-CoV-2 Molecular Detection: A Systematic Review and Meta-analysis.** 10.1101/2020.11.12.20230748. 
-A review and meta analysis. Helpful plots showing uniformly the detection rates of SARS-CoV-2 in NPS/saliva/NS for the reviewed studies and aggregated detection rates for different features (e.g. symptomatic) and different collection methods (NPS/saliva/NS). 
+A review and meta analysis. Helpful plots showing uniformly the detection rates of SARS-CoV-2 in NPS/saliva/NS for the reviewed studies and aggregated detection rates for different features (e.g. symptomatic) and different collection methods (NPS/saliva/NS).
+
 ##### Methods
 "We systematically searched PubMed, Google Scholar, medRxiv, and bioRxiv (last retrieval October 1st, 2020) for comparative studies of alternative specimen types [saliva, oropharyngeal (OP), and nasal (NS) swabs] versus NP swabs for SARS-CoV-2 diagnosis using nucleic acid amplification testing (NAAT)." => "From 1,253 unique citations, we identified 25 saliva, 11 NS, 6 OP, and 4 OP/NS studies meeting 15 inclusion criteria."
+
 ##### Findings
 The results from the different studies/data aggregated by feature are summarized to a figure which shows % positive alternate specimens, % positive NP specimens and (if available) % specimens where both NP and alternate are positive. 
 Selected aggregated results, the complete list is found in Figure 2 in the paper
@@ -1507,6 +1535,7 @@ Hung DL, Li X, Chiu KH, Yip CC, To KK, Chan JF, Sridhar S, Chung TW, Lung KC, Li
 ##### Methods 
 * "Posterior oropharyngeal saliva was collected at 5 different time points within the same day from 18 patients with previously confirmed SARS-CoV-2 infection by molecular testing. Cycle threshold (Ct) values were compared."
 * "The 5 specific time points were (1) early-morning (first thing in the morning upon awakening, before teeth brushing, mouth rinsing, and eating breakfast); (2) before lunch; (3) before afternoon tea at 3 pm; (4) before dinner; and (5) before bedtime (and before teeth brushing). Patients were not asked to refrain from eating, drinking, or mouth rinsing before collection of posterior oropharyngeal saliva at the second, third, and fourth time points to resemble spot saliva taken at the clinic in real life."
+
 ##### Results
 * "There was an overall trend of lower Ct values from specimens collected in the early morning, with a gradual decrease of viral load towards nighttime, but reaching statistical significance only when compared with the specimens collected at bedtime. Eight out of 13 subjects had a higher viral load in the early morning than the rest of the 4 time points (before lunch, before teatime at 3 pm, before dinner, before bedtime)."
 * "The distribution of Ct values at 5 different time points is shown in Figure 1. The medians (IQRs) at early morning, before lunch, before teatime at 3 pm, before dinner, and before bedtime were 34.5 (32.5–41), 38.2 (33.9–41), 36.3 (34.5–41), 41 (34.7–41), and 41 (34.7–41), respectively."
