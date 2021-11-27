@@ -32,8 +32,10 @@ Relevant moral questions are:
 
 > One important difference is that those opting for vaccination choose to get vaccinated themselves.
 > 
-> ... at least initially. With boosters some are more skeptical (with good reasons in my opinion weighting the short lived protection against transmission versus described, indicated and possible (long-term) adverse effects). If adults are skeptical due to safety concerns and at the same time force teenagers to vaccinate, this is *not* nice. 
+> ... at least initially. With boosters some are more skeptical (with good reasons in my opinion weighting the short lived protection against transmission versus described, indicated and possible (long-term) adverse effects). If adults are skeptical due to safety concerns, then it is time to removed any measures that are to push teenagers to vaccinate.
 > 
+>> Restrictions should be nearly no for children, very relaxed teenagers and relaxed twenty-agers.
+>
 >>On this page 'boosters' are not generally recommended. Forcing teenagers to vaccinate is considered a no go. (as of November 2021)
 
 
