@@ -3,7 +3,7 @@
 ## Considerations on Increased R Value
 In my opinion, measures should  not target individuals and accordingly not be based on individual R values. Measures should target risky situations. Risky is mainly dry indoor air (chapter [Spread analysis](../5_epidemiological/spread_analyses.md)). Dry indoor air can be ventilated, cleaned and humidified ([Good air certificate](../7_social/good_air.md)).
 
-> I am aware that many (governments, scientists, doctors, parliaments, citizens) around the world assume that currently available intramuscular vaccines (e.g. 'mRNA' and 'Adeno-virus-with-spike' vaccines) are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated. While those vaccinated - even at high rates of Covid hospitalizations - can do near everything even with symptoms and often without any tests (// for airplane travel and large scale events I consider e.g. antigen tests as appropriate when hospitalization rates are high).
+> I am aware that many (governments, scientists, doctors, parliaments, citizens) around the world assume that currently available intramuscular vaccines (e.g. 'mRNA' and 'Adeno-virus-with-spike' vaccines) are risk free and provide a useful protection against transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated. While those vaccinated - even at high rates of Covid hospitalizations - can do near everything even with symptoms and often without any tests (// for airplane travel and large scale events I consider e.g. antigen tests as appropriate when hospitalization rates are high [optional measures](controlling.md#optional-measures)).
 
 > A concise and pointed comment "[Covid-19 Vaccine Mandates Are Now Pointless](../5_epidemiological/individual_susceptibility_and_transmission.md#pierpont)" is by Pierpont (some errata however, see notes at the reference.)
 
@@ -16,8 +16,8 @@ In my opinion, measures should  not target individuals and accordingly not be ba
 It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated. Another scientific question is, whether and which vaccines are safe. 
 
 > Both infectiousness and vaccine safety are not rigorously discussed on this page. Some notes are available however:
-> * A possible method to determine infectiousness are the number of viruses in exhaled aerosol ([Viral Load in exhaled Air](./../3_medical/diagnosis_and_viral_load.md#viral-load-in-exhaled-air)). In the chapter [individual factors for transmission and susceptibility](./../5_epidemiological/individual_susceptibility_and_transmission.md) there are some epidemiological observations on the effects of vaccines on transmission.
-> * Some speculations/open question about the safety of the 'mRNA' and 'Adeno-Vector' vaccines in [Vaccine Safety Questions](./../10_vaccines/vaccine_safety.md).
+> * A possible method to determine infectiousness are the number of viruses in exhaled aerosol ([Viral Load in exhaled Air](../3_medical/diagnosis_and_viral_load.md#viral-load-in-exhaled-air)). In the chapter [individual factors for transmission and susceptibility](../5_epidemiological/individual_susceptibility_and_transmission.md) there are some epidemiological observations on the effects of vaccines on transmission.
+> * Some incomplete speculations/open question about the safety of the 'mRNA' and 'Adeno-Vector' vaccines are in [Vaccine Safety Questions](../10_vaccines/vaccine_safety.md).
 
 
 ### Moral Considerations
@@ -32,11 +32,13 @@ Relevant moral questions are:
 
 > One important difference is that those opting for vaccination choose to get vaccinated themselves.
 > 
-> ... at least initially. With 'boosters' some are more skeptical (with good reasons in my opinion weighting the short lived protection (regarding transmission) against (long-term) adverse effects). If adults are skeptical due to safety concerns, then it is high time to removed any measures that are to push teenagers to vaccinate.
-> 
->> Restrictions should be nearly no for children, very relaxed teenagers and relaxed twenty-agers.
+> ... at least initially. With 'boosters' some are more skeptical - with good reasons (in my opinion) weighting the short lived protection regarding transmission against described or un-described adverse effects. If adults are only a tiny bit skeptical for (re)vaccination due to safety concerns, then it is high time to remove any measures that could push teenagers to vaccinate.
 >
->> On this page 'boosters' are not generally recommended. Forcing teenagers to vaccinate is considered a no go. (as of November 2021)
+>> On this page 'boosters' are not generally recommended. Pushing teenagers to vaccinate is considered a no go. (as of November 2021)
+>
+>> Restrictions should be nearly no for children, very relaxed teenagers and relaxed twenty-agers.
+
+
 
 
 ### Social Considerations
