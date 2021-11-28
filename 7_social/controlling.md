@@ -104,13 +104,13 @@ A short summary of recommended measure packages to reduce the Covid.
 ### Year Round Measures
 To prevent high rates of hospitalizations, some base measures can be adequate in risk regions.
 
-#### Base Year Round Measures
+#### Base Measures
 * [Schools and Universities](#corona-conform-schooling): Regular ventilation and education on viruses and their transmission.
 * Education on ventilation: Regular [ventilation](#ventilation) of residential blocks and education of caretakers how to ventilate.
 
-#### Optional Year Round Measures
+#### Optional Measures
 * [Nightlife](#reduction-of-nightlife) e.g. an early closure at 2 AM.
-* Reducing Superspreading by capacity and/or CO2 limits for large scale settings: These include large stadiums and shopping malls.
+* Reducing (super)spreading by capacity, CO2 limits and/or masks (when possible) for large scale settings: These include large stadiums and shopping malls.
 * Slowing down transmission associated with travelling, especially airplane travel: For airplane travelling one Covid test one or two days ahead of travel and one Covid test one or two days after arrival.
   * The tests should be done by everybody including those vaccinated else the spread of variants circumventing vaccination is promoted.
   * (Short-term) Business travelling is risky, no exception for tests.
@@ -305,8 +305,8 @@ Isolation by a stay-at-home-order may be working for people with own houses with
 
 > **To be redone** (23.8.21). I opted here back in 2020 for benefit associated testing, it is widespread now in 2021. However not in the sense this was once intended and written back in November 2020:
 > * The idea was to have easy accessible tests without 'punishment' upon a positive test result and motivation to take tests in *sensible* situations and not required testing for day-to-day life.
-  >> In Switzerland antigen test are free to obtain in pharmacies (limited number per month). I consider this a good solution in sensible situations one can do a morning before breakfast test and if both are negative, changes are low for a Covid infection ([Covid Diagnosis](../3_medical/diagnosis_and_viral_load.md)).
-> * In November 2020 the situation was different than now in than in August 2021: [Suitable immunisation options](../10_vaccines/immunization.md) for risk groups is available and   promising treatments options are proposed (citations in work; on this page there is 'only' a brainstorming chapter on [Topical Treatments](../6_prevention_and_treatment/topical_treatment.md)).
+  >> In Switzerland antigen test are free to obtain in pharmacies (limited number per month) (not any more as of November 21). I consider this a good solution in sensible situations one can do a morning before breakfast test and if both are negative, changes are low for a Covid infection ([Covid Diagnosis](../3_medical/diagnosis_and_viral_load.md)).
+> * In November 2020 the situation was different than now in than in August/November 2021: [Suitable immunisation options](../10_vaccines/immunization.md) for risk groups are available and promising treatments options are known, e.g. [interferons](../6_prevention_and_treatment/interferon.md). Topical methods such as steam inhalation may also be beneficial as proposed in a  brainstorming chapter on [Topical Treatments](../6_prevention_and_treatment/topical_treatment.md).
 
 
 Often turning up for test is not associated with any benefits, on the contrary if tested positive for Covid in many countries a home [isolation rules](#covid-19-cases-and-quarantine) apply and one needs to disclose contacts and possibly movement history. A different approach is whitelist testing e.g. those who test negative get benefits. 
@@ -315,7 +315,7 @@ Often turning up for test is not associated with any benefits, on the contrary i
   * In Slovakia in early November 2020 a nationwide testing campaign and only those with negative tests were excluded from a general curfew. 
     > A new tactics and it will be interesting to analyze it. A general curfew I consider to strict in any situation including this. Only allowing people with negative tests to enter foreign indoor settings (e.g. gastronomy/offices) should be enough.
 
-    ~~> A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign indoor rooms.~~ this was to prevent home lockdown, long shutdowns and chaotic hospital overflows. This is obsolete as of August 2021.
+    ~~> A tactics like this could be applied locally in regions: Just those with negative are allowed to leave the region and enter foreign crowded indoor rooms.~~ this was to prevent home lockdown, long shutdowns and chaotic hospital overflows. This is obsolete as of August 2021.
 
 
 ### Outdoor Days
