@@ -1,6 +1,7 @@
+
 # Interferon Treatment
 
-> 24.-27.11.: entire page is in *work and incomplete*. Most parts need be checked. 
+> 24.-27.11.: entire page is in *work and incomplete*. Many parts need checking.
 
 > Early administrated interferons look very promising to prevent disease progression including severe Covid and death.
 
@@ -18,9 +19,12 @@
   * [Overview Systemic IFN Lambda](#overview-systemic-ifn-lambda)
 * [IFN Medications used](#ifn-medications-used)
   * [IFN-alpha 2b](#ifn-alpha-2b)
-  * [Considerations on the Treatment Start](#considerations-on-the-treatment-start)
-* [Administration Method](#administration-method)
-* [Ref Topical IFN](#ref-topical-ifn)
+* [Considerations on the Treatment Start](#considerations-on-the-treatment-start)
+  * [Why the Treatment Start is relevant](#why-the-treatment-start-is-relevant)
+  * [Criteria to categorize Treatment Starts](#criteria-to-categorize-treatment-starts)
+  * [Treatment Start Categories](#treatment-start-categories)
+* [Motivation to Use Interferon Treatments](#motivation-to-use-interferon-treatments)
+* [References Topical IFN](#references-topical-ifn)
   * [Refs Topical IFN Alpha](#refs-topical-ifn-alpha)
   * [Refs Topical IFN Beta](#refs-topical-ifn-beta)
   * [Refs Topical IFN-K](#refs-topical-ifn-k)
@@ -40,7 +44,7 @@
 ## Conceptual Summary
 Interferons (IFNs) are signalling proteins which induce an antiviral state in their target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically (=locally, e.g. aerosolized or by spray to the respiratory tract or as cream) or systemically (subcutaneous, intramuscular, intravenously).
 
-Interferon treatments inhibit the replication of SARS-CoV-2 viruses in the respiratory tract and thereby if administrated before there are many viruses prevent disease progression: Early initiated interferon treatments have been shown to reduce the Covid mortality by over 75%. When patients are already at an advanced disease stage, systemically administrated interferons often have adverse effects on the outcome due to the mentioned inflammatory effects. For topical application even some benefits in mid to advanced disease stages are observed.
+Interferon treatments inhibit the replication of SARS-CoV-2 viruses in the respiratory tract and thereby if administrated before there are many viruses prevent disease progression: Early initiated interferon treatments have been shown to reduce the Covid mortality by over 75%. When patients are already at an advanced disease stage, systemically administrated interferons often have adverse effects on the outcome due to the mentioned inflammatory effects. For topical application even some benefits in mid to advanced disease stages are observed. 
 
 
 ## Summarized Observations
@@ -74,7 +78,7 @@ Systemic IFNs show benefits if given very early in a mild disease stage. At late
 ## Introduction
 [in work]
 
-The induction of interferons is one of the first immune responses upon a viral infection. Interferons induce an antiviral state of the cells. For many epithelial cells the metabolisms is slowed down or even paused [to specify and cite]. For SARS-CoV-2 a major risk factor for severe disease is a disrupted interferon response [to cite].
+The induction of interferons is one of the first immune responses upon a viral infection. Interferons induce an antiviral state of the cells. For many epithelial cells the metabolisms is slowed down or even paused [to specify and cite] and interferons activate the immune system. The timing for the treatment start is thus relevant and always specified as a category early, mid or late ([Consideration on the Treatment Start](#considerations-on-the-treatment-start)).
 
 
 ## Overview Topical IFN
@@ -93,6 +97,7 @@ Author | Type | Treatment |Treatment_Start (days from symptoms/admission; diseas
 [Nan Wang](#summary-nan-wang)| retrospective, 446 patients|  IFN-α-2b for 10 days | from admission: early less than 5 days; late = after 5 days | -80% mortality; not much change on discharge time and CT improvement | - | late IFN increased mortality and discharge time | data fairly heterogenous with different treatment combinations, not all efficacies observed are consistent; umifenovir has a similar efficacy profile as IFN
 [Liu](#summary-liu)|  retrospective, 103 case matched to 103 as control | 89 patients: IFN-α2b 5 mIU as spray, 15 patients: IFN-α1b subcutaneous|  not specified, at wave peak -> mostly pneumonia cases in hospitals |- | -50% critical cases; -80% mortality| - | Wave peak in Wuhan
 [Chkihis](#chkihis)| retrospective, 37 IFN, 36 control  | IFN α 2b 10 mio IU spray 2 times a day for 5 days | early after admission, mostly moderate pneumonia | - | -60% ventilation |  - |  inclusion criteria: SpO2 <90%, bilateral lung lesions, cough, fever
+[Mordyk](#summary-mordyk)|  prospective, comparative, controlled study, each group 70 patients | IFN α 2b: rectal 3 mio IU three 3/day and gel 36K IU/g 5/day for nasal mucosa and tonsils for 14 days. | patients were quite sick (fatigue, cough, shortness of breath common). | - | -25% time to viral clearance; much better CT outcome; up to 50% faster symptom resolution| - | unique administration: cream for nose and mouse, systemic via rectal depository
 
 
 
@@ -116,7 +121,7 @@ Author | Type | Treatment | Status at Treatment Start  | Effects Early Administr
 
 ### Overview Systemic IFN Alpha
 
-Author | Type | Treatment | Status_at_Treatment Start | Effects Early Administration| Effects Mid Administration | Effects Late Administration | Notes
+Author | Type | Treatment | Status_at_Treatment Start | Effects Early Administration| Effects Mid Administration | Effects Late Administration | Notes_______
 --|--|--|--|--|--|--|--
 [Bhushan](#bhushan)|phase 3, multi-centric, randomized, comparator-controlled, open-label trial | PEG IFN-α2b (1 μg/kg subcutaneous injection, single dose)  | moderate pneumonia, respiratory rate ≥24 breaths/min, SpO2 90–94%| - | faster viral load clearance (odds ratio 2.75), lower median oxygen support duration| - | 2 Covid deaths in IFN group, 0 in control
 [Pereda](#pereda)| population cohort | LPV/RTV + CQ + IFN-α2b | for risk groups start upon exposure, else upon positive test | Cuban Overall CFR was 3.70% and 0.92% for this group => -75% mortality|||start upon exposure is great for IFN!! 
@@ -126,9 +131,9 @@ Author | Type | Treatment | Status_at_Treatment Start | Effects Early Administra
 
 ### Overview Systemic IFN Beta
 
-Author | Type | Treatment | Status_at_Treatment Start | Effects Early Administration| Effects Mid Administration | Effects Late Administration | Notes
+Author | Type | Treatment | Status_at_Treatment_Start | Effects Early Administration| Effects Mid Administration | Effects Late Administration | Notes
 --|--|--|--|--|--|--|--
-[WHO Solidarity Trial](#who-solidarity-trial-consortium)| Multicentre (across the world) randomized open label trial |  44 μg of subcutaneous interferon beta-1a on day 0,3,6 (for severe cases sometimes intravenously) | early: no oxygen; mid: oxygen; late: ventilation. //Classification into early/mid/late to fit table, the disease stages are more early to mid/late/very late| early to mid:-20% mortality | mid to late:+10% mortality | very late:+30% mortality and increase of other adverse events| very heterogenous since centres from across the world; better outcome for patients older than 65 
+[WHO Solidarity Trial](#who-solidarity-trial-consortium)| Multicentre (across the world) randomized open label trial |  44 μg of subcutaneous interferon beta-1a on day 0,3,6 (for severe cases sometimes intravenously) | early: no oxygen; mid: oxygen; late: ventilation. //Classification into early/mid/late to fit table, the disease stages are more like: early to mid/late/very late| early to mid:-20% mortality | mid to late:+10% mortality | very late:+30% mortality and increase of other adverse events| very heterogenous since centres from across the world; better outcome for patients older than 65 
 [Kalil](#summary-kalil)| double-blind, randomised, placebo-controlled trial at 63 hospitals (56 in the USA). | 4 doses of 44 μg interferon beta-1a subcutaneously every other day; both groups intravenous remdesivir |*Grouping:* mid: patients ordinal score of 4 or 5 (~450 patients per group); late: patients with score 6 (~35 patients; mostly with oxygen);  //Patients included:  symptom duration ~8.5 days; SaO2: 94% or less or oxygen but no ventilation; | - | overall not much effect; recovery rate ratio: ~1 | +75% mortality (up to 7 from 4 in the control); recovery rate ratio: 0.4 | slight overall benefit for patients older than 65;
 [Davoudi-Monfared](#davoudi-monfared)| randomized clinical trial in early 2020 |  44-microgram/ml (12 million IU/ml) dose of IFN beta-1a  subcutaneously, 3 times per week for 2 weeks| at admission mostly ill patients and 8 days post symptom onset. Administration was done early and late during hospitalization (early classified here as mid since patients quite sick)| - | -75% mortality | increased mortality | 
 [Hung](#summary-hung)|  multicentre, prospective, open-label, randomised, phase 2 trial | subcutaneous_injection of beta-1b, 8 mio IU per dose; 2 doses for start on day 4, 1 dose for start on day 5/6 (=>no dose post day 7 | mostly mild illness (fever and cough common); no IFN post day 7 of symptom onset| -50% duration to SOFA==0 (3 days instead of 7) and -50% days in hospital (8 instead of 15) | - | - | -
@@ -144,30 +149,32 @@ Author | Type | Treatment | Status_at_Treatment Start | Effects_Mid_Administrati
 [in work]
 ### IFN-alpha 2b
 * usually nebulized with 5 mio unit is standard (200K - 400K IU/kg each dose, two time a day) [to confirm and cite]
+* rectal depository and as cream for the nose and tonsils in [Mordyk et al](#summary-mordyk) 
 
 
-### Considerations on the Treatment Start
-> in work
+## Considerations on the Treatment Start
 
-The timing and patient state at the treatment start is noted, since IFNs are most beneficial when administrated very early. In the late phase - especially systemically administrated - IFNs can increase inflammation. Different studies use different measurements: 1) days after symptom onset, 2) days after hospital admission and 3) the disease stage/clinical appearance. 
+### Why the Treatment Start is relevant 
+The timing and the disease stage at the treatment start is relevant, since IFNs are most beneficial when administrated early. Interferons stimulate the immune response and thereby prevent reaching high viral loads or induce an earlier viral load clearance. If a strong immune response is already in place, interferons are usually not beneficial and can increase inflammation, especially observed for systemic administration.
 
-* Here when available days after symptom onset and clinical appearance (symptoms, O2 saturation including whether O2 is supplemented and CT findings are used). Mild clinical appearance can either mean an early disease stage or just a mild disease.
-* Treatment is most important for patients with possibly unfavorable disease progression, those in cohorts, as the state of the sub-cohort at risk is considered as the state of the entire cohort.
-* Regarding severe Covid the viral load in the lungs and the distribution of the viruses is relevant. The viral load in the lungs does not always correlate to upper respiratory tract samples such as NPS and the viral load in the lungs can remain high for many days or sometimes even a few weeks for patients with severe Covid ([Diagnosis and Viral Load](./../3_medical/diagnosis_and_viral_load.md#variation-by-time-and-location)).
+### Criteria to categorize Treatment Starts
+Different studies use different measurements: 1) days after symptom onset, 2) days after hospital admission and 3) the disease stage/clinical appearance. 
 
-The reasoning behind following grouping treatment starts is, that interferons can prevent reaching high viral load and support the respiratory tract reducing the viral load:
+Here the following criteria are used to categorize the treatment starts:
+* When available days after symptom onset and clinical appearance (symptoms, O2 saturation including whether O2 is supplemented and CT findings are used). Mild clinical appearance can either mean an early disease stage or just a mild disease.
+* Treatment is most important for patients with possibly unfavorable disease progression. Therefore the state of the sub-cohort at risk is considered as the state of the entire cohort. 
+
+### Treatment Start Categories
 * Early treatment start: The viral load is increasing and patients in the cohort progress possibly to a more severe disease state.
-* Mid treatment start: The viral load is still increasing or plateauing. For severe Covid cases the viral load in the lungs can stay at high values for a long time. The patients can progress to a more severe state if the viral load stays high.
-* Late treatment start: The viral load is decreasing. An increase of disease severity is mainly due to the widespread inflammation.
-
-The above definitions are followed when possible/adequate which is not always the case e.g. often the viral load peak of the relevant group at risk is not specified/unknown. 
+* Mid treatment start: The viral load is still increasing or plateauing. For severe Covid cases the viral load in the lungs can stay at high values for a long time ([Viral Load by during Covid](./../3_medical/diagnosis_and_viral_load.md#variation-by-time-and-location)). The patients can progress to a more severe state if the viral load stays high.
+* Late treatment start: The viral load is decreasing and/or the lung is already very inflamed. 
 
 
+## Motivation to Use Interferon Treatments
+Interferon treatment is also motivated by the observation that a dSARS-CoV-2 a major risk factor for severe disease is a disrupted interferon response [to cite].
 
-## Administration Method
-[in work]
 
-## Ref Topical IFN
+## References Topical IFN
 
 ### Refs Topical IFN Alpha 
 
@@ -183,10 +190,11 @@ Yu J, Lu X, Tong L, Shi X, Ma J, Lv F, Wu J, Pan Q, Yang J, Cao H, Li L. Interfe
 ##### Treatment 
 5 000 000 U of IFN-α-2b via aerosol inhalation twice daily.
 
-##### Treatment Timing
+##### Situation at Treatment Start
 Grouped by time after symptom onset. 
 
 Characteristics at admission (patients with all symptom onsets included):
+
 Group\Status| Age| Days of symptoms| Temperature| % Fever | % Cough | % Muscle ache|% Fatigue| Shortness of Breath
 --|--|--|--|--|--|--|--|--
 Intervention | 48.06 (14.33)|4 (2–7) | 37.93 (0.84) | 692 (81.2%) | 509 (59.7%)| 86 (10.1%)| 187 (22.0%)|  37 (4.3%)
@@ -260,7 +268,7 @@ Wang N, Zhan Y, Zhu L, Hou Z, Liu F, Song P, Qiu F, Wang X, Zou X, Wan D, Qian X
 * IFN-α-2b administered to the airway directly via an aerosol nebulizer for roughly 10 days.
 * Additionally: lopinavir/ritonavir (LPV/ r), and umifenovir (UFV). 
 
-##### Treatment Timing
+##### Situation at Treatment Start
 Early start is defined as treatment start within 5 days of hospital admission and late start after 5 days. The 'late group' was both more severe at admission compared to the 'early IFN' and control and additionally the IFN treatment was initiated later than the 'early IFN' (Table 1 in the paper). E.g. the O2 Saturation by group at admission (not at treatment start [to confirm]):
 
 O2 Saturation\Group | Early IFN | Control | Late IFN
@@ -314,7 +322,7 @@ Chkhis A, Abdulrazzaq N, Mokhtar S, Al Jasmi A. Efficacy of High-Dose Nebulized 
 ##### Treatment
 Intervention: Nebulized IFN α 2b at a dose of 10 million IU. Patients received 2 doses a day for 5 days.
 Additional care for intervention and control group: Mostly hydroxychloroquine, lopinavir/ritonavir  or Favipiravir. Antibiotics.
-##### Treatment Timing
+##### Situation at Treatment Start
 Intervention was applied early.
 ##### Results
 14 of 36 patients in the control group required mechanical ventilation, whereas only 6 of 37 in the intervention group. // => 58% reduction in mechanical ventilation by early treatment with IFN alpha 2b.
@@ -325,9 +333,32 @@ Intervention was applied early.
 #### Summary Mordyk
 Mordyk A.V., Ivanova O.G., Samsonov K.Yu., Sitnikova S.V., Zenkova L.A. Interferon alpha-2b in comprehensive treatment of patients with COVID-19. Infekc. bolezni (Infectious diseases). 2021; 19(1): 16–25. (In Russian). DOI: 10.20953/1729-9225-2021-1-16-25
 
+##### Methods
+* *Type:* "This prospective, comparative, controlled study included 140 patients with COVID-19 randomized in two groups."
+* *Location and Date of Study:* Omsk, 2020
 
+##### Treatment
+* Interferon alpha-2b (VIFERON®) as one rectal suppository 3,000,000 IU three times a day and gel 36,000 IU/g 5 times a day applied to the nasal mucosa and palatine tonsils for 14 days.
+* standard therapy for both groups
 
+##### Patients
 
+Group\Status| % Concomitant diseases, total | % Arterial Hypertension | % Allergy 
+--|--|--|--
+Intervention | 61 | 47 | 10 
+Control | 50 |41 | 4 
+
+##### Situation at Treatment Start
+
+Group\Status| % Dry Cough | % Muscle ache|% Fatigue| Shortness of Breath | 26-50% Lung Involvement in %| 51-75% Lung Involvement in %
+--|--|--|--|--|--|--
+Intervention  | 56 | 83 |100 | 77 | 59 | 19 
+Control | 59 | 63 | 100 | 60 | 53 | 7
+
+##### Results
+* Patient with more than 50% lung tissue affected decreased from 19% to 1% in the treatment group during the 14 days of treatment, in the control group there is an increase from 7% to 13%. (Table 4.)
+* The longest lasting symptoms such as loss of small/taste, fatigue and mild cough resolved on average about 50% faster. (Fig 1.)
+* From day 7 on a faster viral load clearance is observed. The average time to viral clearance is about 25% lower.
 
 
 ### Refs Topical IFN Beta
@@ -343,7 +374,7 @@ Monk PD, Marsden RJ, Tear VJ, Brookes J, Batten TN, Mankowski M, Gabbay FJ, Davi
 ##### Treatment
 "SNG001 (6 MIU interferon beta-1a) or placebo were delivered via the I-neb nebuliser (Philips Respironics, Murrysville, PA, USA) once daily for up to 14 days (appendix p 4)."
 
-##### Treatment Timing
+##### Situation at Treatment Start
 "In our study, patients had a median duration of symptoms of 10 days at recruitment and SNG001 was given daily for 14 days."
 
 ##### Outcome
@@ -417,7 +448,7 @@ Fu W, Liu Y, Liu L, Hu H, Cheng X, Liu P, Song Z, Zha L, Bai S, Xu T, Yuan S. An
 ##### Treatment
 "In addition, both proteins (5 mg TFF2 plus 2 mg IFN-k) were dissolved in 5 mL sterilized water, and the combination aerosol was delivered to the patient for 20 -30 min by a nasal mask driven by a medical compressed air atomizer (YUWELL, 403M). The aerosol inhalation treatment started from the first day of hospitalization and was administered 6 times every 24 h."
 
-##### Treatment Timing
+##### Situation at Treatment Start
 Patients with peripheral capillary oxygen saturation (SpO2) was > 94% on room air at screening and moderate pneumonia.
 
 ##### Medical Analysis of Treatment Effects
@@ -458,7 +489,7 @@ Bhushan SB, Wanve S, Koradia P, Bhomia V, Soni P, Chakraborty S, Khobragade A, J
 
 ##### Treatment
 PEG IFN-α2b (1 μg/kg subcutaneous injection, single dose) + standard care for both groups
-##### Treatment Timing
+##### Situation at Treatment Start
 moderate pneumonia, respiratory rate ≥24 breaths/min, SpO2 90–94% 
 ##### Outcome
 "The primary endpoint was a two-point improvement in clinical status on Day 11, measured by the World Health Organization’s seven-point ordinal scale."
@@ -503,7 +534,7 @@ Wang B, Li D, Liu T, Wang H, Luo F, Liu Y. Subcutaneous injection of IFN alpha-2
 * *Both groups:* Lopinavir/ritonavir tablets (Abb-Vie Ltd., North Chicago, IL, USA; 200 mg/50 mg/ pill), 400 mg/ time, twice a day
 * *IFN group:* Subcutaneous injection of IFN alpha-2b (3SBIO Inc., Shenyang, China; 3 million IU/ dose), 3 million IU/time, qod, in addition to LPV/r treatment. 
 
-##### Treatment Timing
+##### Situation at Treatment Start
 * at baseline (hospital admission, Table 1): mostly cough (55%), shortness of breath (25%), fatigue (40%).
 * Early intervention: 11 patients received IFN alpha-2b within 72 h of admission.
 * Delayed intervention: 8 patients received IFN alpha-2b after 72h of admission.
@@ -566,7 +597,7 @@ Hung IF, Lung KC, Tso EY, Liu R, Chung TW, Chu MY, Ng YY, Lo J, Chan J, Tam AR, 
 
 > => all IFN doses within the first 7 days of symptoms. Later doses were omitted.
 
-##### Treatment Timing 
+##### Situation at Treatment Start 
 Baseline Status:
 
 Group\Status| Age| Days of symptoms| % Fever | % Chills | % Cough | % Myalgia|% Malaise
@@ -623,7 +654,7 @@ Davoudi-Monfared E, Rahmani H, Khalili H, Hajiabdolbaghi M, Salehi M, Abbasian L
 ##### Treatment 
 "Each 44-microgram/ml (12 million IU/ml) dose of interferon beta-1a (ReciGen, CinnaGen Co., Iran) was subcutaneously injected three times weekly for two consecutive weeks." // medications in Table 3; of note Corticosteroid were given to 62% of IFN treated while only to 44% in the control
 
-##### Treatment Timing
+##### Situation at Treatment Start
 Symptoms at baseline (from Table 1 in the paper):
 
 Group\Status| Symptoms in days|% cough|% fever|% dyspnea|% myalgia
@@ -649,7 +680,7 @@ Darazam IA, Shokouhi S, Pourhoseingholi MA, Irvani SS, Mokhtari M, Shabani M, Am
  * *Date:* Early 2020
 ##### Treatment
 "Patients were randomly assigned in a 1:1:1 ratio to IFNβ1a (subcutaneous injections of 12,000 IU on days 1, 3, 6), IFNβ1b (subcutaneous injections of 8,000,000 IU on days 1, 3, 6), or the control group." // + standard care in both groups
-##### Treatment Timing
+##### Situation at Treatment Start
 The patients had an oxygen saturation between 80 and 90% (Table 1 list baseline characteristics):
 * group IFN beta-1a: 87.0 (82.5–89.0)
 * group IFN beta-1b: 85.0 (82.0–88.7)
@@ -668,7 +699,7 @@ Darazam IA, Hatami F, Rabiei MM, Pourhoseingholi MA, Shabani M, Shokouhi S, Mard
 ##### Methods and Treatment
 "The intervention group was treated with high-dose IFN-β 1a (Recigen) (Subcutaneous injections of 88 μg (24 million IU) on days 1, 3, 6) + lopinavir /ritonavir (Kaletra) (400 mg/100 mg twice a day for 10 days, orally) and the control group was treated with low-dose IFN-β 1a (Recigen) (Subcutaneous injections of 44 μg (12 million IU) on days 1, 3, 6) + lopinavir /ritonavir (Kaletra) (400 mg/100 mg twice a day for 10 days, orally)."
 
-##### Treatment Timing
+##### Situation at Treatment Start
 All patients with oxygen support and mostly saturation below 90%.
 
 ##### Results
@@ -700,7 +731,7 @@ Jagannathan P, Andrews JR, Bonilla H, Hedlin H, Jacobson KB, Balasubramanian V, 
 * *Dates:* April 25 and July 17, 2020
 ##### Treatment
 Single, 180 mcg subcutaneous dose of Peginterferon Lambda-1a (Lambda) within 72 hours of diagnosis
-##### Treatment Timing
+##### Situation at Treatment Start
 
 Group\Status|Age|BMI|Days since symptom onset| Baseline SARS-2 IgG+ | Viral load| CT value
 --|--|--|--|--|--|--
@@ -736,7 +767,7 @@ Feld JJ, Kandel C, Biondi MJ, Kozak RA, Zahoor MA, Lemieux C, Borgia SM, Boggild
 
 ###### Treatment
 Single subcutaneous injection of peginterferon lambda 180 μg or placebo
-##### Treatment Timing
+##### Situation at Treatment Start
 
 Group\Status|Age|BMI|Days since symptom onset| Baseline SARS-2 IgG+ | Viral load
 --|--|--|--|--|--
