@@ -88,6 +88,7 @@ There are various standards to classify mask by their filtration quality: E.g. i
 * #### Low-Intermediate Filtration 
   Textile mask often have low filter performance. They prevent the [droplet exchange](../5_epidemiological/transmission.md#droplets) when face-to-face talking and offer some self protection regarding aerosols. However, they do not prevent the spread of aerosols, which is important in indoor rooms if possibly infected. Indoors where aerosol transmission is likely low filtration masks shouldn't be used to protect others. 
 
+
 ### Usage Classes
 * #### Dust Protection Masks
   _Protection masks_ against dust are constructed for outside-in protection and therefore good for self protection. Sometimes they have valves which let out the air unfiltered i.e. no inside to outside filtration protection. Thus masks with valves offer protection for the wearer only and *not* for others. Dust mask exists for all mid to very high filter classes including all FFP filter classes. The fit is usually good and the comfort ok.
@@ -103,6 +104,7 @@ There are various standards to classify mask by their filtration quality: E.g. i
 
 ## Mask Reuse and Cleaning
 
+
 ### Cleaning Methods
 The coronaviruses virions are not very stable especially if exposed to disinfectants, sunlight, soap and temperatures above 45 degrees (-> [Page Virion Viability](../2_biological/virion_viability.md)). So making a mask 'coronavirus clean' is easy:
 
@@ -112,8 +114,10 @@ The coronaviruses virions are not very stable especially if exposed to disinfect
 * __disinfect__: spray with *pure* alcohol (*not* alcohol with additives which some cleaning products have). Other disinfectants are not recommended since they may have health hazards if inhaled.
 * __waiting__: Usually half of the virions decay during several hours at room temperature (i.e. the halflife time is several hours). Thus the next day (or even better a few days) most virions are not infectious anymore.
 
+
 ### Reasons for Clean Masks
 The [mask effectiveness](#mask-effectiveness) is usually evaluated with fresh masks and not with mask worn for several hours. The problem if the mask is continuously worn for several hours is, that virions can be slowly breathed through the filter, which occurs more at exhalation than inhalation ([mask effectiveness](#mask-effectiveness)). Therefore masks should regularly be changed or [cleaned](#mask-reuse-and-cleaning). Even rotating a bunch masks through each day and reusing them the next day helps. Wearing the same mask as short as doable especially if its about protecting others.
+
 
 ### Mask Recommendation
 > written in Spring 2020 and left for historical reasons.
@@ -129,9 +133,9 @@ Reasons against masks seem sometimes rather searched:
 
 ## References
 
-* ##### milton2013
-    Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). 
-    **Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.** PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
+##### milton2013
+Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J. (2013). 
+*Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.* PLoS pathogens, 9(3), e1003205. https://doi.org/10.1371/journal.ppat.1003205
 
 ---
 
@@ -139,7 +143,7 @@ Reasons against masks seem sometimes rather searched:
 ## Appendix: Personal Mask Preferences
 
 ### Tips & Tricks
-* Carefully rounding the wire above the nose helps to reduce the airstream to the eyes.
+* Carefully rounding the wire above the nose helps to reduce the airstream to the eyes. Works best before putting the mask on.
 * Putting the masks a couple of hours to the fresh air before wearing reduces smells. Fabric smells can indicate volatile substances which may not be healthy to inhale (although I don't think these substance are any more hazardous than other substances we are daily exposed e.g. micro-plastic from car wires).
 * FFP1 masks of fold type and surgical masks to my experience become more comfortable with use since they loose their stiffness. As noted mask shouldn't be continuously over many hours; better to switch masks and [reuse the next day](#mask-reuse-and-cleaning).
 
@@ -153,7 +157,7 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
  
 > [Dense] masks are less important if cases go towards zero (e.g. in summer). But there are also good reasons to continue using masks in certain indoor public spaces (e.g. large shopping centers, crowded public transport, airplanes). Not necessarily in facultative places (e.g. offices or libraries) and probably not a general mandate since there are miles between going to the next door shop/office and taking some international flight. One reason is, masks also reduce the spread of the other respiratory diseases: 
 > * When mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and take adequate precaution steps upon infection.
-> * Respiratory pathogens are sometimes underestimated so reducing the circulating strains, is a nice [side] effect.
+> * Respiratory pathogens are sometimes underestimated so reducing the circulating strains, ~~is a nice [side] effect.~~ 28.11.21:depends on the virus type some are disease and some not disease associated (->[Human virobiota](../5_epidemiological/virome.md)).
 
 
 > Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable future proof protection against transmissions, there is no reason to make masks exceptions when it's about protecting others (However past infections reliably prevent severe Covid and vaccination also do a good job at preventing severe Covid).
