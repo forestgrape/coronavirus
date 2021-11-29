@@ -77,9 +77,9 @@ Coronaviruses can evolve to infect faster i.e. once infected a high viral load b
 3. *Advantages in Competent Immune Systems*
   Slow infecting coronaviruses such as SARS-1 and MERS take long to build up a high viral load: 
     * which is mostly possible when the immune system is (temporary) reduced
-    * at the time of peak infectiousness  usually symptoms are present
+    * at the time of peak infectiousness usually symptoms are present
   
-    All strains of SARS-2 are already faster than SARS-1 and MERS, however there are variations among the SARS-2 strains. Even for people with a good immune system, a fast infecting variant may transmit before immune protections are in place. So when a strain is able to infect fast, an increased spread through immune-competent people is thinkable. Which could mean that the spread becomes more evenly distributed. 
+    All strains of SARS-2 are already faster than SARS-1 and MERS, however there are variations among the SARS-2 strains. Even for people with a good immune system, a fast infecting variant may transmit before immune protections are in place. So when a strain is able to infect fast, a spread before symptom onset and more evenly distributed transmission is thinkable.
 
 > The effects of 2. can be reduced by information. The effects of 3. by testing. 
 
@@ -88,7 +88,7 @@ Coronaviruses can evolve to infect faster i.e. once infected a high viral load b
 
 ### Biological Mechanism of faster Priming
 The spike proteins of coronaviruses need to be [primed](../2_biological/coronavirus.md#virion-priming) in one or several steps until the spikes under go the conformation change to induce membrane fusion. The spikes can mutate such that
-* New proteases can prime the spikes (A major difference between SARS-CoV-2 and SARS-CoV-1 is that SARS-2 can be primed by the furin protease i.e. the S1/S2 junction has an insertion of some basic residues, => called polybasic, furin now can cleave this junction).
+* New proteases can prime the spikes (A major difference between SARS-CoV-2 and SARS-CoV-1 is that SARS-2 can be primed by the furin protease i.e. the S1/S2 junction has an insertion of some basic residues (called polybasic) and furin now can cleave this junction.
 * Fewer priming steps are required (The D614G mutation in the spike has this effect since the receptor domain is more in the UP state.).
 * The existing proteases can better prime (the mutations P681{H,R} of the variants B.1.1.7).
 
