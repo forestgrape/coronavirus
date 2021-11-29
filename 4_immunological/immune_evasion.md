@@ -16,13 +16,12 @@
 * [References](#references)
 
 
-
 ## Immune Evasion Mechanisms
 
 ### Overcome Phagocytosis
 Phagocyte <- exploit phagocytosis by infecting the cell
 - SARS-2 can replicate in macrophages (in vitro and in vivo detected by biopsies of severe cases.)
-- In many immune cells no replication takes place (e.g. T cells) since usually immediate/early apoptosis is triggered. By cell death the immune cell is still knocked out, though usually at the cost of triggering immune system alarms.
+- In many immune cells no replication takes place e.g. since immediate/early apoptosis is triggered (dendritic cells) or no space in cytoplasm (T/B Cells) [to confirm]. By cell death the immune cell is still knocked out, though usually at the cost of triggering immune system alarms.
 
 Costs: If phagocytes are infected at some point usually apoptosis is induced and thereby they ring the immune system bells (e.g. by releasing cytokines).
 
@@ -118,7 +117,7 @@ The only coronavirus protein well accessible from the outside is the spike prote
 
 > Neutralizing antibodies are a useful tools to do in vitro experiments. In vivo the neutralizing effect seems to be not really relevant [argumentation in work].
 
-> ##### Opsonizing Antibody
+> ##### Opsonize Antibody
 > An antibody can *opsonize* a virion for phagocytosis.
 
 Upon phagocytosis, mostly the virions are digested but sometimes the virions infect the phagocyting cell (especially if the intracellular detection mechanisms are reduced).
@@ -149,9 +148,9 @@ Methods to change appearance are [mutating](#mutate-the-genome) or [masking](#ma
 Exploiting antibody induced phagocytosis by infecting the [phagocyte cell](#overcome-phagocytosis)
 
 
-> Natural infections and vaccines also produce antibodies targeting internal parts of the spike and internal proteins (natural infections and vaccines which include internal proteins as antigens), these helps to fight infections: the intracellular virion assembly process gets disrupted.
+> Natural infections and vaccines also produce antibodies targeting internal parts of the spike and internal proteins (natural infections and vaccines which include internal proteins as antigens), these helps to fight infections: the intracellular virion assembly process gets disrupted. [to check and cite]
 
-> Besides antibodies, natural infections and to some extent vaccines induce also specific immune cells such as memory T cells targeting different antigens of viruses. T cells are effective at recognizing infected cells since cells (especially cells in the epithelium) present pieces of the proteins they produce.
+> Besides antibodies, natural infections and to some extent vaccines induce also specific immune cells such as memory T cells targeting different antigens of viruses. T cells are effective at recognizing infected cells since cells <!--(especially cells in the epithelium):check and cite--> present pieces of the proteins they produce.
 
 #### Adaptions to Increase Neutralizing Antibody Escape
 Coronaviruses can adapt to increase the resistance towards neutralizing antibodies:
@@ -167,6 +166,7 @@ Coronaviruses can adapt to increase the resistance towards neutralizing antibodi
   Coronaviruses can induce cell-cell fusion with their spikes. Thereby they circumvent the virion phase and thus they cannot be classically neutralized. 
 
   > To induce cell-cell fusion the spikes are still used, so antibodies targeting the spikes can prevent cell fusion in theory, but cell fusion can be initiated fast and between the cells the antibody concentration can be low [to confirm and cite].
+
 
 
 
