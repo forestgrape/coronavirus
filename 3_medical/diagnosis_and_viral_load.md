@@ -20,21 +20,25 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
 * [Introducing Viral Load](#introducing-viral-load)
   * [Locations with Viruses](#locations-with-viruses)
   * [Specimens with Viruses](#specimens-with-viruses)
-* [Variation of the Viral Load](#variation-of-the-viral-load)
-  * [Variation by Time and Location](#variation-by-time-and-location)
-  * [Viral Load in Exhaled Air](#viral-load-in-exhaled-air)
-  * [Temporal Variations](#temporal-variations)
-* [Diagnosis at Different Locations with a Focus on Viral Load](#diagnosis-at-different-locations-with-a-focus-on-viral-load)
+* [Viral Load at Different Locations](#viral-load-at-different-locations)
   * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
   * [Detection Rates](#detection-rates)
-  * [Diagnosis in the Nose](#diagnosis-in-the-nose)
-  * [Diagnosis in the Mouth](#diagnosis-in-the-mouth)
-  * [Diagnosis in the Lungs](#diagnosis-in-the-lungs)
+  * [Viral Load in the Nose](#viral-load-in-the-nose)
+  * [Viral Load in the Mouth](#viral-load-in-the-mouth)
+  * [Viral Load in the Conducting Airways](#viral-load-in-the-conducting-airways)
+  * [Viral Load in BALF](#viral-load-in-balf)
   * [Challenges and Biases regarding Viral Load](#challenges-and-biases-regarding-viral-load)
 * [Viral Load in Saliva](#viral-load-in-saliva)
+  * [Features of Saliva Viral Load](#features-of-saliva-viral-load)
   * [Literature on the Viral Load in Saliva](#literature-on-the-viral-load-in-saliva)
   * [Saliva Sampling Methods](#saliva-sampling-methods)
+  * [Saliva Collection Timing](#saliva-collection-timing)
   * [Notes on Saliva Tests](#notes-on-saliva-tests)
+* [Viral Load in Exhaled Air](#viral-load-in-exhaled-air)
+* [Variation of the Viral Load](#variation-of-the-viral-load)
+  * [Causes for Viral Load Variation](#causes-for-viral-load-variation)
+  * [Viral Load Kinetics](#viral-load-kinetics)
+  * [Retrospective Viral Load Kinetics](#retrospective-viral-load-kinetics)
 * [Refs on Diagnosis](#refs-on-diagnosis)
   * [Refs Overview of Covid-19 Diagnosis](#refs-overview-of-covid-19-diagnosis)
   * [Refs Diagnosis in different Situations](#refs-diagnosis-in-different-situations)
@@ -134,10 +138,14 @@ A defined in the [Covid-19 chapter](../3_medical/covid19.md) a [disease](../3_me
 
 
 ### Overview Diagnosis Locations
-SARS-CoV-2 infections can diagnosed at the different locations they infect: [Diagnosis at Different Locations with a Focus on Viral Load](#diagnosis-at-different-locations-with-a-focus-on-viral-load). Important and frequently infected locations are:
-* [Diagnosis in the Nose](#diagnosis-in-the-nose)
-* [Diagnosis in the Mouth](#diagnosis-in-the-mouth)
-* [Diagnosis in the Lungs](#diagnosis-in-the-lungs)
+SARS-CoV-2 infections can diagnosed at the different locations they infect. Coronaviruses infect most locations throughout the respiratory tract ([Infection Locations](../3_medical/coronavirus_disease_patterns.md)). In the lungs tissue changes can be detected, in the other locations usually just the viral load is determined:
+* Upper Respiratory Tract: Due to the easy accessibility, the upper respiratory tract is the most frequent diagnosis location.
+  * Tissue damage is usually only subtle and non specific. 
+  * The viral load can be measured:
+    * [Viral Load in the Nose](#viral-load-in-the-mouth)
+    * [Viral Load in the Mouth](#diagnosis-in-the-mouth)
+* Conducting Airways. In the conducting airways the viral load can be measured via [sputum](#sputum) or sampling of [endotracheal aspirate](#endotracheal-aspirate).
+* Diagnosis in the Lungs: In the lungs, tissue damage can be detected by the [optical methods](#optical-diagnosis). The viral load can be measured by [BALF sampling](#viral-load-in-balf) which is usually only done for intubated patients.
 
 
 
@@ -201,14 +209,19 @@ Coronaviruses produce temporary RNA similar to mRNA of DNA based life forms. Thi
 ### Detect Tissue damage
 Detecting tissue damage is not very specific since other diseases e.g. other virus infections cause similar tissue damage.
 
-#### Biochemical 
+#### Biochemical Diagnosis
 E.g. detecting cell damage through cell decay products. This is useful in combination with other methods: If at a location, many SARS-2 viruses are detected combined with above average cell decay products then SARS-2 likely replicates at this location.
 
-#### Optical 
-[in work]
-E.g. CT (quite sensitive to detect lung changes but high radiation to sensible locations upon a lung CT) or Xray (less radiation but also less accurate than CT): round glassy occupancies in the lung are characteristic for Covid-19 involving the lungs. Other (viral) lung infections look similar so usually used to determine the lung involvement upon a positive virus test. Determine the exact virus is not always necessary:
-* Regarding Treatment: Many respiratory virus infections are treated similarly. 
-* When SARS-CoV-2 is the most prevalent pneumonia causing agent, the probability for SARS-CoV-2 as the causing agent is high.
+#### Optical Diagnosis
+As optical methods only XRay respectively CT are frequently used. With these methods tissue damage in the lungs is detected. Round glassy occupancies in the lung are characteristic for Covid [to check and cite]
+* Xray (less radiation but also less accurate than CT)
+* CT (=computer tomography; essentially multiple XRay pictures enabling computer assisted construction of 3d image): quite sensitive to detect lung changes but high radiation to sensible locations upon a lung CT
+
+(+/-) Other (viral) lung infections look similar [to confirm]. Treatments for respiratory viruses are often similar however.
+(+) detects infection of the lung regardless whether there are viruses in the upper respiratory tract
+(+) the magnitude of the lung tissue changes can be determined.
+(-) radiation exposure for patient (less relevant with increasing age)
+(-) only in diseases involving the lung significantly
 
 
 ### Detect Immune Response
@@ -233,11 +246,13 @@ The following graphics from [Habli et al](#habli) shows a representative course 
 > partly subjective
 
 The optimal diagnosis method depends on the purpose of diagnosis (also addressed also in [Mina and Anderson](#mina)):
-* Diagnosis of individuals at risk for severe Covid: Multiple early morning salvia. Optionally upon infection, the lower respiratory tract involvement can be diagnosed with sputum  or x-ray. Possibly CT (for patients at high risk and of high age) to check lung involvement.
+
+_Disease Diagnosis:_
+* Diagnosis of individuals at risk for severe Covid: Multiple early morning salvia. Saliva [predicts the disease progression](#features-of-saliva-viral-load) and has a favorable [viral load kinetics](#viral-load-kinetics) for early diagnosis. Optionally upon infection, the lower respiratory tract involvement can be diagnosed with sputum  or x-ray. Possibly CT (for patients at high risk and of high age) to check lung involvement.
 
 _Scientific analyses:_
-  * Epidemiological analysis e.g. to determine spread patterns: Ideally a combination of methods including saliva, NPS swabs and symptoms to detect acute infections and serology for past infections. 
-  * Medical analyses to assess the effectiveness of treatment methods and prevention methods: Same as epidemiological analyses and additionally sputum and exhaled aerosol are also very helpful at least in sub samples.
+* Epidemiological analysis e.g. to determine spread patterns: Ideally a combination of methods including saliva, NPS swabs and symptoms to detect acute infections and serology for past infections. 
+* Medical analyses to assess the effectiveness of treatment methods and prevention methods: Same as epidemiological analyses and additionally exhaled aerosol at least in sub samples.
 
   > Test for cohort testing and community studies are also discussed in the chapter [individual susceptibility and transmission](../5_epidemiological/individual_susceptibility_and_transmission.md).
 
@@ -264,7 +279,7 @@ The viral load is measured by the [methods to directly detect viruses](#methods-
 
 #### Relevance of Viral Load
 Knowing the viral load observed in different fluids and tissues is relevant for:
-* __Diagnosis__: The temporal development and the locations with viral load help to predict the prognosis and to initiate optimal treatments.
+* __Diagnosis__: The temporal development and the locations with viral load help to predict the prognosis and to initiate optimal treatments ([Early Treatments](../6_prevention_and_treatment/treatment_overview.md)).
 * __Transmission__: Knowing the viral load in different locations helps to understand and prevent transmissions of SARS-CoV-2 virions. In theory a viral load 1000 times higher can increase transmission a 1000 fold.
 * __Understanding Covid-19__: Knowing at which stages which locations are infected helps to understand the pathogenesis.
 
@@ -287,52 +302,9 @@ Since coronaviruses including SARS-CoV-2 mostly release their virions on the api
 
 
 
-## Variation of the Viral Load
-
-### Variation by Time and Location
-The viral load varies both across the different locations and across time. The graphics by [Yang et al](#summary-yang) visualizes how the viral load changes from day to day and varies between URT and LRT samples (URT in green, LRT in black; black arrow: hospital admission, red arrow: anti viral treatment started; severe cases in red and mild cases in black):
-
-![time series of viral load in URT and LRT](Images/yang_viral_load_series_small.jpg)
 
 
-
-### Viral Load in Exhaled Air
-
-How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. The virus exhaled are mostly from the conducting airways or the lungs but not from the nose. 
-
-`Infectiousness = amount of exhaled particles * viral load at the source of the particles`
-
-The exhaled aerosol mostly originates from the lower respiratory tract. URI specimens usually do *not* correlate well with the amount of exhaled aerosol:
-
-[Malik et al](#summary-malik) observe for patients hospitalized with Covid nearly no correlation between the viral load in NPS specimens and in exhaled breath:
-
-![Viral Load from NPS versus exhaled breath](Images/malik_fig4.jpg)
-
-
-In the case of symptomatic influenza infections, the viral load in the nose does not well predict the of exhaled infectious aerosol as shown by [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018)). Also it is observed that vaccination increases the amount of exhaled infectious aerosol for symptomatic influenza A infections (across influenza A and B the viral load in NPS samples and course aerosol didn't change much).
-
-Sputum is from the lower airways and may better predict the exhaled aerosol than NPS. Early morning saliva samples (as sputum) predict the disease progression, which likely corresponds to the viral load in the lower airways.
-
-
-
-### Temporal Variations
-The metabolisms of organism vary across situation/activities performed. Many metabolic functions follow also a daily=circadian (circa = about, dies=day) cycle. The fluids used for disease diagnosis often have a daily cycle e.g. sputum and saliva.
-
-#### Saliva Collection Timing
-The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source give rise to different micro-habitats for bacteria and viruses. 
-* [Carlson-Jones et al](#carlson-jones) investigated these habitats with flow cytometry and observe that both  virus like particles and bacteria concentrations peak in the morning after sleep.
-* A morning peak is also observed for the SARS-CoV-2 viral load as observed by [Hung et al](#summary-hung).
-
-#### Temporal NPS Variations
-[Malik et al](#summary-malik) observed quite some variation for NPS samples whereas exhaled breath samples are more stable:
-
-![viral load series by NPS and exhaled breaths](Images/malik_fig2.jpg)
-
-
-
-
-
-## Diagnosis at Different Locations with a Focus on Viral Load
+## Viral Load at Different Locations
 SARS-CoV-2 can infect different compartments in the respiratory tract. Depending on the infection pathway and the individual susceptibility at the different locations, the infection severity varies for the different locations vary: E.g. for children usually the upper respiratory tract or the conducting airways are infected while for adults infections of all compartments in the respiratory tract are possible. 
 
 * *Upper Respiratory Tract:* For accessibility reasons investigating the upper respiratory is preferred. The viruses cause few (detectable) tissue damage. Sensitive virus detection methods such as PCR test/Antigen tests are able to detect viruses in the URT e.g. in nose mucus or saliva.
@@ -342,14 +314,14 @@ SARS-CoV-2 can infect different compartments in the respiratory tract. Depending
 
 
 ### Literature for Viral Load and Diagnosis
-* A recommended review for the viral load in upper respiratory tract specimens is [Lee et al](#summarized-review-lee).
+* A recommended meta analysis for the viral load in upper respiratory tract specimens is [Lee et al](#summarized-review-lee).
 * [Yang et al](#summary-yang) investigated the viral load across locations the respiratory tract.
 
 
 ### Detection Rates
 Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken). In first week of a SARS-CoV-2 disease with severe or with mild symptoms. 
 
-> The absolute viral loads vary according during the seasons, the variants present and there's even evidence that the precaution measures in place influence the viral load (argumentation in planned). Very high viral loads are nearly always detected while viral loads towards the detection limit of a the given test method have a certain probability to give a negative test. Accordingly the sensitivities are very high when the distribution of the viral is centered at high values and the sensitivity decreases when low viral loads are excepted. Thus the following values are mostly valid as relative values, the absolute percentages given can vary however (e.g. the detection rate by NPS samples shortly after symptom onset reach values above 90% in many situations). 
+> The absolute viral loads vary for example during the seasons and the variants present. Very high viral loads are nearly always detected while viral loads towards the detection limit of a the given test method have a certain probability to give a negative test. Accordingly the sensitivities are very high when the distribution of the viral is centered at high values and the sensitivity decreases when low viral loads are excepted. Thus the following values are mostly valid as relative values, the absolute percentages given can vary however (e.g. the detection rate by NPS samples around symptom onset often reach values above 90%). 
 
 Severe  | Mild  | Specimen
 --|--|--
@@ -359,23 +331,29 @@ Severe  | Mild  | Specimen
 75      | 60    | [NPS](#nasopharyngeal-swabs) 
 65      | 50    | [Nasal Swab](#nasal-swab)
 90      | 80    | [sputum](#sputum)
-90      | 30    | [BALF](#balf)
+90      | 30    | [BALF](#viral-load-in-balf)
 75      | 25    | [Lung XRay](#xray-imaging) 
 
 Sources: Mainly the [recommended literature](#literature-for-viral-load-and-diagnosis) above but also from other [summarized references](#summarized-references).
 
 
-### Diagnosis in the Nose
+### Viral Load in the Nose
 
 #### Nasopharyngeal Swabs
 Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of December 2020, often used as 'gold standard' for Covid-19 diagnosis. NPS samples can be analyzed either by PCR or antigen tests.
 * quite easy to take but trained persons are needed
-* Sensitivity:
-  * [Yang et al](#summary-yang) observe the sensitivities: 85% for severe cases and 62 % for mild cases in first week of illness. In the second week 69% for severe and 53 % for mild cases.
-  * 71% in the first 5 days of hospitalization [Wyllie](#summary-wyllie-letter)
-  //patients initially positive by NPS so results possibly biased (the study is about evaluating saliva and comparing it to NPS)
-* Slow decrease of viral load and high variability across specimens and days ([Zhou](#summary-zhou), Figure B and D in [Wyllie](#summary-wyllie-letter)). (The slow decrease likely since the cleaning of dead cells and dirt is not very fast at the back of the nose. The variability can be explained by a small sampling area).
-* Specificity: The specificity to detect infectiousness is low in mild cases (rough estimate about 50%) since the infectiousness peaks early (according to virus culture investigations) and viral RNA decreases slowly in NPS.
+##### Sensitivity
+* [Yang et al](#summary-yang) observe the sensitivities: 85% for severe cases and 62 % for mild cases in first week of illness. In the second week 69% for severe and 53 % for mild cases.
+* 71% in the first 5 days of hospitalization [Wyllie](#summary-wyllie-letter)
+//patients initially positive by NPS so results possibly biased (the study is about evaluating saliva and comparing it to NPS)
+
+##### Variability
+Slow decrease of viral load and high variability across specimens and days ([Zhou](#summary-zhou), Figure B and D in [Wyllie](#summary-wyllie-letter)). (The slow decrease likely since the cleaning of dead cells and dirt is not very fast at the back of the nose. The variability can be explained by a small sampling area).
+
+[Malik et al](#summary-malik) observed quite some variation for NPS samples whereas exhaled breath samples are more stable:
+
+![viral load series by NPS and exhaled breaths](Images/malik_fig2.jpg)
+
  
 #### Nasopharyngeal Aspirate
 [in work] As NPS nasopharyngeal aspirates samples the back of the nose. Compared to swabs, apirates contain mucus from a much larger area. The large area reduces the randomness and the viral load less variable and a better detection rate than NPS is observed for other respiratory tract viruses, especially viruses with a lower respiratory tract tropism such as RSV ([Ahluwalia et al](#summary-ahluwalia), [Sung et al](#summary-sung)).
@@ -384,26 +362,16 @@ Nasopharyngeal Swabs (NPS) sample posterior nasopharyngeal mucus and are, as of 
 The anterior or mid-turbinate mucus can be swabbed. Overall detection rates tend to about 10% lower than NPS (Figure 5 in [Lee et al](#summarized-review-lee)). [Hanson et al](#summary-hanson) observed about a 10% lower detection for anterior nasal swabs compared to NPS or saliva. 
 
 
-### Diagnosis in the Mouth
+### Viral Load in the Mouth
 The sensitivity depends on the timing (e.g. before or after eat), the location (e.g. back of the throat, normal spitting) and the exact protocol (e.g. gargling or coughing up sputum). Early morning saliva has high viral loads and good detection rates as described in [Saliva Sampling Methods](#saliva-sampling-methods) in the section [Saliva Diagnosis section](#viral-load-in-saliva). 
 
 > Separate section since it is a good option for routine Covid diagnosis and thus discussed in more than detail than other diagnosis methods. 
 
 #### Oropharyngeal Swabs
-[Zhou et al](#summary-zhou) compared oropharyngeal swabs to NPS: OPS are more variables and have lower sensitivity. 
+[Zhou et al](#summary-zhou) compared oropharyngeal swabs to NPS: OPS are more variable and have lower sensitivity. 
 
-### Diagnosis in the Lungs 
 
-#### XRay-Imaging
-Conventional XRay or computer tomography (essentially multiple XRay pictures enabling computer assisted construction of 3d image[to check])
-Round glassy occupancies in the lung are characteristic for Covid [to check and cite]
-(+) specific (at least that a RNA virus infection is present and treatments are often similar)
-(+) detects infection of the lung regardless whether there are viruses in the upper respiratory tract
-(-) radiation exposure for patient
-(-) only in diseases involving the lung significantly and thus sensitivity low
-
-=> recommended for symptomatic risk patients of very high age (radiation exposure less relevant) with negative test in the upper respiratory tract.
-
+### Viral Load in the Conducting Airways 
 
 #### Sputum
 Sputum has a high detection rate: 
@@ -414,7 +382,8 @@ Sputum has a high detection rate:
 #### Endotracheal Aspirate
 [in work]
 
-#### BALF 
+### Viral Load in BALF
+
 Broncho-alveolar-lavage fluid (BALF). Even though the lower respiratory tract is the most relevant location for pathogenesis, the viral load is less known especially for mild cases since sampling is complicated. For severe cases BALF can be sampled during the  
 
 * [Yang et al](#summary-yang) detected a viral load in all severe cases. The BALF of two mild cases was analyzed in the second week of illness and negative. // Which doesn't exclude there where viruses in the lungs: BALF sampling only collects from a limited area of the lungs and for mild cases it is known from XRay that the lungs are often only locally infected.
@@ -432,7 +401,8 @@ Often NPS samples are taking as a 'Gold Standard' to diagnose Covid-19. Measurin
 
 
 ## Viral Load in Saliva
-Notable features of the viral load in saliva:
+
+### Features of Saliva Viral Load
 * The viral load in saliva depends on the exact method and location of sampling (e.g. throat wash, coughing up sputum) and the time taken (e.g. the saliva flow is increased during eating and decreased at night). Overall the viral load is similar to the viral load in the nose with an agreement of about 90%. The results vary across studies and the collections methods they use ([Sampling Methods](#viral-load-for-different-saliva-sampling-methods)). 
 * The optimal [collection time](#saliva-collection-timing) is upon waking up and before eating. In this case the viral load and the detection rate is about 10% higher than in NPS specimens ([Upon Waking Saliva](#upon-waking-saliva))
 * The viral load decrease in saliva is a predictor for the pathogenesis [Silva et al](#summary-silva).
@@ -461,11 +431,13 @@ Summaries of the papers are in the section [Summarized References](#summarized-r
   * An interesting read is [Yokota 2](#summary-yokota-2). In his [Opinion Paper](#summary-opinion-by-azzi) L. Azzi opts for saliva based diagnosis and summarizes key points of [Yokota et al](#summary-yokota-2).
   * [Hung et al](#summary-hung) describe the SARS-CoV-2 viral load in saliva at 5 different time point during the day and observe that the viral load peaks in the morning.
 
+
 ### Saliva Sampling Methods
 [in work]
 Different [saliva Sampling Procedures](#saliva-sampling-procedures) yield different results:
 * Different sampling procedures (e.g. throat wash, coughing up sputum) collect saliva from different locations. 
 * The timing matters since at a low saliva flow rate (e.g. during night) virus material can accumulate and [the saliva flow is higher after eating and lower during night](#saliva-collection-timing)). 
+
 
 #### Upon Waking Saliva
 * [Wyllie et al](#summary-wyllie-letter) analyze saliva samples from hospitalized patients given each couple of days:
@@ -492,6 +464,12 @@ Gingival crevicular fluid (GCF) sampling is usually used to diagnose periodontal
 * [Gupta et al](#summary-gupta) observe a detection rate about 35% lower than NPS (21 positive out of 33 positive by NPS). 
 
 
+### Saliva Collection Timing
+The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source give rise to different micro-habitats for bacteria and viruses. 
+* [Carlson-Jones et al](#carlson-jones) investigated these habitats with flow cytometry and observe that both  virus like particles and bacteria concentrations peak in the morning after sleep.
+* A morning peak is also observed for the SARS-CoV-2 viral load as observed by [Hung et al](#summary-hung).
+
+
 ### Notes on Saliva Tests
 * The validity of saliva and most other specimens can be validated by detecting the RNaseP enzyme (enzyme made from RNA and proteins which degrades extracellular RNA). RNaseP is only contained in correctly taken specimens since: RNaseP is an enzyme which is mostly consisting of RNA and some proteins. RNaseP is released from the cells to extracellular fluids such as mucus, blood or saliva. Its RNA parts can be amplified & detected by PCR.
 * Saliva tests can be tricked by increasing the saliva flow ([Dawes](#summary-dawes)). 
@@ -499,6 +477,61 @@ Gingival crevicular fluid (GCF) sampling is usually used to diagnose periodontal
   > One reason more to relax the often overly strict [quarantine and isolation rules](../7_social/controlling.md#covid-19-cases-and-quarantine). Across the world the [detection rate](../3_medical/covid19.md#comparing-case-and-infection-fatality) is often below 10%. So 90% aren't sure or even don't know whether they are infected. With a positive test, most are likely careful (even without requirements).
 
   To determine useful sampling/cheating an option is: Detection of members of the oral flora, since not only coronaviruses but also most other bacteria and viruses peak after sleep ([Carlson-Jones](#carlson-jones)). RNaseP likely does not help: Saliva is essentially ultra-filtrated blood enriched with some enzymes and electrolytes and is secreted from cells in the different salivary glands ([Dawes](#summary-dawes)). Since RNaseP is both in the blood and in the secretory cells, RNaseP does not decrease much on an increased flow rate [to confirm and cite].
+
+
+
+
+## Viral Load in Exhaled Air
+
+How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. The virus exhaled are mostly from the conducting airways or the lungs but not from the nose. 
+
+`Infectiousness = amount of exhaled particles * viral load at the source of the particles`
+
+The exhaled aerosol mostly originates from the lower respiratory tract. URI specimens usually do *not* correlate well with the amount of exhaled aerosol:
+
+[Malik et al](#summary-malik) observe for patients hospitalized with Covid nearly no correlation between the viral load in NPS specimens and in exhaled breath:
+
+![Viral Load from NPS versus exhaled breath](Images/malik_fig4.jpg)
+
+
+In the case of symptomatic influenza infections, the viral load in the nose does not well predict the of exhaled infectious aerosol as shown by [Yan et al](../5_epidemiological/transmission.md#summary-yan-2018)). Also it is observed that vaccination increases the amount of exhaled infectious aerosol for symptomatic influenza A infections (across influenza A and B the viral load in NPS samples and course aerosol didn't change much).
+
+Sputum is from the lower airways and may better predict the exhaled aerosol than NPS. Early morning saliva samples (as sputum) predict the disease progression, which likely corresponds to the viral load in the lower airways.
+
+
+
+
+
+## Variation of the Viral Load
+
+### Causes for Viral Load Variation
+There are different causes for a variation of the viral load:
+* Circadian changes of the metabolism. The metabolisms of organism vary across situation/activities performed. Many metabolic functions follow also a daily=circadian (circa = about, dies=day) cycle. The fluids used for disease diagnosis often have a daily cycle e.g. sputum and saliva. E.g. ([The Saliva Collection Timing](#saliva-collection-timing)) is relevant.
+* The viral load varies during the disease course.
+* Coarse and Exact Sampling Location. Relevant are both the [location where the specimen is taken from](#viral-load-at-different-locations) and for some sampling location the exact sub-location is important: [BALF](#viral-load-in-balf) or [NPS](#nasopharyngeal-swabs) specimens sample only from a small area of the lungs or the upper pharynx.
+
+
+### Viral Load Kinetics
+#### Prospective Viral Load Kinetics
+The variation during a the entire disease coarse can only be obtained by prospective studies.
+[Savela et al](#savela) obtain viral loads and symptoms during the entire disease course of 7 patients. The goal is to find the optimal method for early diagnosis.
+
+*Methods:* Household members of known Covid cases were instructed to take saliva and anterior nares samples each day upon waking and before bed. Additionally participants kept a symptom diary. The salvia specimens were evaluated by PCR (CDC RT-qPCR assay for N1 and N2). 
+
+With this methods they can visualize the viral loads during the entire disease phase as follows (The LOD for a common nose antigen test, Abbott ID NOW, is show as green bar):
+
+![Viral load during disease](Images/savela_F2.large.jpg) 
+
+* Of interest is that in the graph (G) and the marked region ROI #2 where the viral load in saliva is very high and undetectable in the nose. The patient later got quite symptomatic. Likely the saliva viral load indicates early a high viral load in the lungs, which is also consistent with patient having fever.
+* For most participants the  saliva viral load precedes the nose viral load. For some patients symptoms precede viral load detection while for others its the other way round: E.g. for (G) the symptoms started before testing positive while for (A) virus detection preceded symptom onset.
+* The vertical shading in gray indicates night time (8 pm - 8 am). When looking closely it is visible that participants (A) and 
+
+
+### Retrospective Viral Load Kinetics
+In "real life" scenarios i.e. not in controlled studies but in retrospective analyses of hospitalized Covid cases, often [all the different causes](#causes-for-viral-load-variation) such as exact sampling location, circadian changes and variation during the disease interplay. The graphics by [Yang et al](#summary-yang) visualizes how the viral load changes from day to day and varies between URT and LRT samples (URT in green, LRT in black; black arrow: hospital admission, red arrow: anti viral treatment started; severe cases in red and mild cases in black):
+
+![time series of viral load in URT and LRT](Images/yang_viral_load_series_small.jpg)
+
 
 
 
@@ -618,7 +651,7 @@ BALF          | 22.5 (21-24) | -
 It is visible that the average viral load and the detection rate correlate: BAL>Sputum>NPS~OPS and severe cases have a slightly higher viral load especially in sputum.
 
 ###### Yang Figure 2
->  displayed in the section [Viral Load Variations](#variation-by-time-and-location)
+>  displayed in the section [Viral Load Variations](#retrospective-viral-load-kinetics)
 
 Figure 2 shows time series of viral loads for a series 21 individuals (18 severe and 3 mild patients). The detection rates vary for different time points, for different patients and for different locations:
 * While *no* viral RNA was detected in the upper respiratory tract, at the *same* time it was positive in BALF for the cases 01, 03, 07, 11, 12, 13, and 16.  
@@ -659,7 +692,7 @@ doi: https://doi.org/10.1101/2020.03.24.20042382
 
 
 #### Summary Zhou
-**SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients**
+Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, Yu J, Kang M, Song Y, Xia J, Guo Q. SARS-CoV-2 viral load in upper respiratory specimens of infected patients. New England Journal of Medicine. 2020 Mar 19;382(12):1177-9.
 ##### Methods
 "We analyzed the viral load in nasal and throat swabs obtained from the 17 symptomatic patients in relation to day of onset of any symptoms (Fig. 1C)." 
 ##### Results
@@ -1454,8 +1487,9 @@ Notes:
 
 
 #### Summary Wyllie Letter
-**Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2**
-This is a more up to date version of the [paper above](#summary-wyllie) published as letter on nejm.org.
+Wyllie AL, Fournier J, Casanovas-Massana A, Campbell M, Tokuyama M, Vijayakumar P, Warren JL, Geng B, Muenker MC, Moore AJ, Vogels CB. Saliva or nasopharyngeal swab specimens for detection of SARS-CoV-2. New England Journal of Medicine. 2020 Sep 24;383(13):1283-6.
+
+> This is a more up to date version of the [paper above](#summary-wyllie) published as letter on nejm.org.
 
 > This letter motivated me to read about saliva diagnosis. Key information such as sampling methods is in the appendix of the letter (which I first overlooked and thus summarized the paper version first) and even some raw data. Follow up analyses in [Silva](#summary-silva). 
 
