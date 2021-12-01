@@ -328,17 +328,16 @@ Intervention was applied early.
 > about 60% reduction for ventilation
 
 
+
 #### Summary Mordyk
 Mordyk A.V., Ivanova O.G., Samsonov K.Yu., Sitnikova S.V., Zenkova L.A. Interferon alpha-2b in comprehensive treatment of patients with COVID-19. Infekc. bolezni (Infectious diseases). 2021; 19(1): 16–25. (In Russian). DOI: 10.20953/1729-9225-2021-1-16-25
 
 ##### Methods
 * *Type:* "This prospective, comparative, controlled study included 140 patients with COVID-19 randomized in two groups."
 * *Location and Date of Study:* Omsk, 2020
-
 ##### Treatment
 * Interferon alpha-2b (VIFERON®) as one rectal suppository 3,000,000 IU three times a day and gel 36,000 IU/g 5 times a day applied to the nasal mucosa and palatine tonsils for 14 days.
 * standard therapy for both groups
-
 ##### Patients
 
 Group\Status| % Concomitant diseases, total | % Arterial Hypertension | % Allergy 
@@ -359,29 +358,55 @@ Control | 59 | 63 | 100 | 60 | 53 | 7
 * From day 7 on a faster viral load clearance is observed. The average time to viral clearance is about 25% lower.
 
 
+
+
+#### Huang
+Huang Y-Q, Tang S-Q, Xu X-L, Zeng Y-M, He X-Q, Li Y, Harypursat V, Lu Y-Q, Wan Y, Zhang L, Sun Q-Z, Sun N-N, Wang G-X, Yang Z-P and Chen Y-K (2020) No Statistically Apparent Difference in Antiviral Effectiveness Observed Among Ribavirin Plus Interferon-Alpha, Lopinavir/Ritonavir Plus Interferon- Alpha, and Ribavirin Plus Lopinavir/ Ritonavir Plus Interferon-Alpha in Patients With Mild to Moderate Coronavirus Disease 2019: Results of a Randomized, Open-Labeled Prospective Study. Front. Pharmacol. 11:1071. doi: 10.3389/fphar.2020.01071
+
+##### Methods
+"This was a single-center, randomized, open-labeled, prospective clinical trial. Eligible patients with mild to moderate COVID-19 were randomized into three groups: ribavirin (RBV) plus interferon-a (IFN-a), lopinavir/ritonavir (LPV/r) plus IFN-a, and RBV plus LPV/r plus IFN-a at a 1:1:1 ratio."
+
+##### Results
+"The proportion of patients with SARS-CoV-2 nucleic acid negativity in the LPV/ r+IFN-a-treated group (61.1%) was higher than the RBV+ IFN-a-treated group (51.5%) and the RBV+LPV/r+IFN-a-treated group (46.9%) at day 14; however, the difference between these groups was calculated to be statistically insignificant."
+
+> => Additional lopinavir/ritonavir or ribavirin or both had no much effect on the viral load clearance.
+
+
+#### Meng
+Meng, Z., Wang, T., Li, C., Chen, X., Li, L., Qin, X., ... & Luo, J. (2020). An experimental trial of recombinant human interferon alpha nasal drops to prevent coronavirus disease 2019 in medical staff in an epidemic area. MedRxiv.
+##### Study Population
+* 2415 medical staff not in direct contact with Covid cases categorized as low risk.
+* 529 medical staff involved in diagnosis and treatment of COVID-19 were categorized into high-risk.
+##### Treatment
+IFN-α 1b, 3000 μ/ml nasal drops (Beijing Tri-Prime Gene Pharmaceutical Co., Ltd., China) administered at a dosage of 2-3 drops/nostril/time, four times/day for 28 days. Additionally the high risk group received thymosin-α-1 subcutaneously at a dosage of 1.6 mg, once a week.
+##### Situation at Treatment Start
+Healthy
+##### Results
+No staff member developed Covid-19 (neither pulmonary image of viral pneumonia-like features,  nor fever/respiratory symptoms.)
+##### Side Effects
+"No flu-like symptoms were observed among nearly 2,000 participants in our study. A few of participants experienced transient irritation of nasal mucosa such as itching, which relieved without interrupting the intervention."
+
+
+
+
+
 ### Refs Topical IFN Beta
 
 #### Summary Monk
 Monk PD, Marsden RJ, Tear VJ, Brookes J, Batten TN, Mankowski M, Gabbay FJ, Davies DE, Holgate ST, Ho LP, Clark T. Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial. The Lancet Respiratory Medicine. 2021 Feb 1;9(2):196-206
-
 ##### Methods
 * "We did a randomised, double-blind, placebo-controlled, phase 2 pilot trial at nine UK sites. Adults aged 18 years or older and admitted to hospital with COVID-19 symptoms, with a positive RT-PCR or point-of-care test, or both, were randomly assigned (1:1) to receive SNG001 (6 MIU) or placebo by inhalation via a mouthpiece daily for 14 days."
 * *Founding:* Synairgen Research
 * *Patients:* 48 IFN; 49 control
-
 ##### Treatment
 "SNG001 (6 MIU interferon beta-1a) or placebo were delivered via the I-neb nebuliser (Philips Respironics, Murrysville, PA, USA) once daily for up to 14 days (appendix p 4)."
-
 ##### Situation at Treatment Start
 "In our study, patients had a median duration of symptoms of 10 days at recruitment and SNG001 was given daily for 14 days."
-
 ##### Outcome
 * "The OSCI is a 9-point scale, where 0 corresponds to no infection and 8 corresponds to death."
 * *Recovered* is defined as having an unchanged post-baseline OSCI score of 0 or 1
-
 ##### Setting
 "66 (67%) patients required oxygen supplementation at baseline: 29 in the placebo group and 37 in the SNG001 group."
-
 ##### Results
 
 Outcome\Group | IFN beta-1a (48)| control (49)
@@ -398,11 +423,12 @@ Deaths | 0 of 48 | 3 of 49
 > * About 50% reduction in severe disease despite the treatment start was quite late with a median symptom duration of 10 days. 3 deaths without IFN and 0 with IFN indicates a death rate reduction >=70%.
 > * The probability to be recovered was about two times higher in the IFN group from day 5 to day 28.
 
-
 ##### Adverse Events
 "SNG001 was well tolerated. The most frequently reported treatment-emergent adverse event was headache (seven [15%] patients in the SNG001 group and five [10%] in the placebo group). There were three deaths in the placebo group and none in the SNG001 group."
 ##### Comments
 " The optimal route and specific type of interferon might depend on the stage of disease, the spread of viral infection beyond the lung, and the ease of administration in different clinical settings."
+
+
 
 ---
 
@@ -427,12 +453,15 @@ Khamis F, Al Naabi H, Al Lawati A, Ambusaidi Z, Al Sharji M, Al Barwani U, Panda
 ---
 
 
+
+
 ### Refs Topical IFN-K
 
 #### Summary Fu Pilot
 Fu, W., Liu, Y., Xia, L., Li, M., Song, Z., Hu, H., ... & Lu, H. (2020). A clinical pilot study on the safety and efficacy of aerosol inhalation treatment of IFN-κ plus TFF2 in patients with moderate COVID-19. EClinicalMedicine, 25, 100478.
 
 // basis for the [follow up trial](#summary-fu-trial)
+
 
 
 #### Summary Fu Trial
@@ -473,8 +502,15 @@ Notes:
 
 
 
+
+
 ## Refs Systemic IFN
 ### Refs Subcutaneous IFN Alpha
+
+#### Pandit
+Pandit A, Bhalani N, Bhushan BS, Koradia P, Gargiya S, Bhomia V, Kansagra K. Efficacy and safety of pegylated interferon alfa-2b in moderate COVID-19: A phase II, randomized, controlled, open-label study. International Journal of Infectious Diseases. 2021 Apr 1;105:516-21.
+
+> follow up phase 3 trial is by [Bhushan et al](#bhushan)
 
 #### Bhushan 
 Bhushan SB, Wanve S, Koradia P, Bhomia V, Soni P, Chakraborty S, Khobragade A, Joshi S, Mendiratta SK, Kansagra KK, Parihar A. Efficacy and safety of pegylated interferon-α2b in moderate COVID-19: a phase 3, randomized, comparator-controlled, open-label study. International Journal of Infectious Diseases. 2021 Oct 1;111:281-7.
@@ -502,17 +538,15 @@ moderate pneumonia, respiratory rate ≥24 breaths/min, SpO2 90–94%
 <!--f2-->
 
 
+
 #### Pereda
 Therapeutic effectiveness of interferon alpha 2b treatment for COVID-19 patient recovery
-
 ##### Method
 * For persons at risk for severe Covid (age 50 or older and subjects below age 50 with comorbidities), the antiviral treatment ( with LPV/RTV + CQ + IFN-α2b) was initiated directly after exposure. 
 * otherwise treatment was started within 48 hours after a positive RT-PCR confirming SARS-CoV-2 infection
-
 ##### Treatment 
 * "IFN-α2b human recombinant (Heberon® Alpha R) by intramuscular injection 3 million IU 3 times per week, for 4 weeks" //+ LPV/RTV + CQ
 * "To treat pediatric cases, all drugs were adjusted for age and weight or body surface (i.e. IFN: 100.000 IU/Kg) and use subcutaneous route for IFN-α2b."
-
 ##### Findings
 "On the cut-off date analyzed in this report, the Cuban Overall CFR was 3.70% and 0.92% for patients treated with IFN alpha-2b."
 
@@ -526,27 +560,22 @@ Wang B, Li D, Liu T, Wang H, Luo F, Liu Y. Subcutaneous injection of IFN alpha-2
 ##### Methods
 * "Patients diagnosed with laboratory-confirmed COVID-19 infection in Wuhan Red Cross hospital during the period from January 23, 2020 to March 19, 2020 were included. The length of stay, the time to viral clearance and adverse reactions during hospitalization were compared between patients using oral LPV/r and combined therapy of LPV/r and subcutaneous injection of IFN alpha-2b."
 * "A total of 22 patients were treated with LPV/r alone and 19 with combined therapy with subcutaneous injection of IFN alpha-2b."
-
-
 ##### Treatment
 * *Both groups:* Lopinavir/ritonavir tablets (Abb-Vie Ltd., North Chicago, IL, USA; 200 mg/50 mg/ pill), 400 mg/ time, twice a day
 * *IFN group:* Subcutaneous injection of IFN alpha-2b (3SBIO Inc., Shenyang, China; 3 million IU/ dose), 3 million IU/time, qod, in addition to LPV/r treatment. 
-
 ##### Situation at Treatment Start
 * at baseline (hospital admission, Table 1): mostly cough (55%), shortness of breath (25%), fatigue (40%).
 * Early intervention: 11 patients received IFN alpha-2b within 72 h of admission.
 * Delayed intervention: 8 patients received IFN alpha-2b after 72h of admission.
-
 ##### Outcome
 "The primary outcomes were the length of hospitalization and the time to viral clearance of SARS-CoV-2 in the upper respiratory tract from hospital admission."
-
 ##### Results
 * IFN alpha-2b treatment reduced the average viral clearance time. 
 * Early intervention reduced the hospital stay by about 50% to about 10 days, while late intervention slightly increased the hospital stay (from about 23 days for the control to about 25 days for the late interferon groups). (td:add Fig 2)
 
 
-
-
+#### Frankel
+Frankel AE, Reddy R, DeSuza KR, Deeb K, Carlin AF, Smith D, Xie Y, Naik E, Silver RT, Hasselbalch HC. Response to pegylated interferon in a COVID‐19–positive elderly woman with primary myelofibrosis treated with ruxolitinib. Clinical case reports. 2021 Apr;9(4):2228-35.
 
 
 ### Refs Systemic IFN Beta
@@ -718,6 +747,9 @@ Seyfi S, Latifi K, Zavareh MS, Ezoji K, Mohammadnia-Afrozi M. Comparing the Outc
 > => beta 1-a seems better than beta 1-b regarding mortality and ICU 
 
 
+#### Estebanez
+Estebanez M, Ramirez-Olivencia G, Mata T, Marti D, Gutierrez C, De Dios B, Herrero MD, Roel A, Martinez Y, Aguirre A, Nicolas FA. Clinical evaluation of IFN beta1b in COVID-19 pneumonia: a retrospective study. MedRxiv. 2020 Jan 1.
+
 
 ### Refs IFN Lambda
 #### Summary Jagannathan
@@ -792,8 +824,14 @@ Control|39 (33–55)|26·1 (4·2)|4·7 (1·7)| 5/24 (21%)| 4·87 (3·68)
 ## Refs IFN Reviews and Overviews
 
 ### Refs General IFN Treatment
+
 #### Sodeifian
 Sodeifian F, Nikfarjam M, Kian N, Mohamed K, Rezaei N. The role of type I interferon in the treatment of COVID‐19. J Med Virol. 2021;1‐19. https://doi.org/10.1002/jmv.27317
+
+
+
+#### Wong
+Wong CK, Wan EY, Luo S, Ding Y, Lau EH, Ling P, Hu X, Lau EC, Wong J, Zheng X, Cowling BJ. Clinical outcomes of different therapeutic options for COVID-19 in two Chinese case cohorts: A propensity-score analysis. EClinicalMedicine. 2021 Feb 1;32:100743.
 
 ### Refs IFN Alpha Review 
 
@@ -816,3 +854,4 @@ Includes 8 studies:
 
 ## Refs IFN other Viruses
 ### Refs IFN other CoVs
+
