@@ -21,7 +21,6 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
   * [Locations with Viruses](#locations-with-viruses)
   * [Specimens with Viruses](#specimens-with-viruses)
 * [Viral Load at Different Locations](#viral-load-at-different-locations)
-  * [Literature for Viral Load and Diagnosis](#literature-for-viral-load-and-diagnosis)
   * [Detection Rates](#detection-rates)
   * [Viral Load in the Nose](#viral-load-in-the-nose)
   * [Viral Load in the Mouth](#viral-load-in-the-mouth)
@@ -38,7 +37,6 @@ Methods and locations to diagnose SARS-CoV-2 infections are discussed. The focus
 * [Variation of the Viral Load](#variation-of-the-viral-load)
   * [Causes for Viral Load Variation](#causes-for-viral-load-variation)
   * [Viral Load Kinetics](#viral-load-kinetics)
-  * [Retrospective Viral Load Kinetics](#retrospective-viral-load-kinetics)
 * [Refs on Diagnosis](#refs-on-diagnosis)
   * [Refs Overview of Covid-19 Diagnosis](#refs-overview-of-covid-19-diagnosis)
   * [Refs Diagnosis in different Situations](#refs-diagnosis-in-different-situations)
@@ -185,15 +183,16 @@ The sensitivity and specificity of antigen tests tend to be lower than PCR based
 [in work: to be checked and incomplete]
 Samples, which possibly contain virions, can be put on cell or organ cultures. These cell or organ cultures then can be inspected e.g. by cell damage (cytophatic effects), by detecting tissue change/damage or detecting RNA to see whether and how much the viral load increased. Virus and especially coronavirus culturing is tricky and often requires strict lab security measures, therefore for routine diagnosis virus culturing is not suitable. However virus culturing is very useful for research purposes: e.g. to detect whether and how long infected individuals shed infectious virions. 
 
-
 ##### Cell Cultures
 Cell cultures are cells of an organism which are grown and kept alive in laboratory settings. 
 * Usually a single cell type is used.
 * Usually cells from immortal cell line are used.
 
-
 ##### Organ Cultures
-Coronaviruses often have a well defined tropism and infect only certain cell in the right environment ([Coronavirus behavior](../2_biological/coronavirus.md#behaviors-of-coronaviruses))
+Unlike in cell cultures in organ cultures cells are differentiated into different types. The differentiation can cause the cells to change shape e.g. to express different cell surface receptors. Viruses which infect only certain types of cells in a certain environment (i.e. the behavior is well defined  ([Coronavirus behavior](../2_biological/coronavirus.md#behaviors-of-coronaviruses)), may not growth in cell cultures and thus organ cultures are necessary. 
+
+> A coronavirus which growths best in organ cultures is the human endemic coronavirus OC43. OC stands for organ culture.
+
 
 ##### Plague Assays
 Plague assays is a method to determine to amount of infectious virions. The samples can be diluted to the point, new virus colonies originating from a single virion can be distinguished on cell or organ cultures (practically always used with cell cultures). The number of virions in the dilution is then equal to the number of colonies.
@@ -313,15 +312,11 @@ SARS-CoV-2 can infect different compartments in the respiratory tract. Depending
   * The viral load can be estimated by analyzing sputum, endotracheal aspirate or bronchoalveolar lavage. To some extent back of throat early morning saliva works too (since the lower respiratory tract fluids are cleared via the laryngopharynx towards the stomach. In lying positions these fluids can flow up to the back of the throat).
 
 
-### Literature for Viral Load and Diagnosis
-* A recommended meta analysis for the viral load in upper respiratory tract specimens is [Lee et al](#summarized-review-lee).
-* [Yang et al](#summary-yang) investigated the viral load across locations the respiratory tract.
-
 
 ### Detection Rates
 Sensitivity of Different Specimens freely estimated (if no direct data are available then the specimen is estimated from differences to known specimens. E.g. Nasal Swabs have about 10% lower detection rates than NPS so a rounded value of 0.9 * NPS rate is taken). In first week of a SARS-CoV-2 disease with severe or with mild symptoms. 
 
-> The absolute viral loads vary for example during the seasons and the variants present. Very high viral loads are nearly always detected while viral loads towards the detection limit of a the given test method have a certain probability to give a negative test. Accordingly the sensitivities are very high when the distribution of the viral is centered at high values and the sensitivity decreases when low viral loads are excepted. Thus the following values are mostly valid as relative values, the absolute percentages given can vary however (e.g. the detection rate by NPS samples around symptom onset often reach values above 90%). 
+> Very high viral loads are nearly always detected while viral loads towards the detection limit of a the given test method have a certain probability to give a negative test. Accordingly the sensitivities are very high when the distribution of the viral is centered at high values and the sensitivity decreases when low viral loads are excepted. The absolute viral loads vary for example during the seasons [to cite], during the disease ([Viral Load Kinetics](#viral-load-kinetics)) and the variants present [to cite]. Thus the following values are mostly valid as relative values, the absolute percentages given can vary however (e.g. the detection rate by NPS samples around symptom onset often reach values above 90%). 
 
 Severe  | Mild  | Specimen
 --|--|--
@@ -332,9 +327,13 @@ Severe  | Mild  | Specimen
 65      | 50    | [Nasal Swab](#nasal-swab)
 90      | 80    | [sputum](#sputum)
 90      | 30    | [BALF](#viral-load-in-balf)
-75      | 25    | [Lung XRay](#xray-imaging) 
 
-Sources: Mainly the [recommended literature](#literature-for-viral-load-and-diagnosis) above but also from other [summarized references](#summarized-references).
+
+Sources, mainly from:
+* [Lee et al](#summarized-review-lee) is arecommended meta analysis for the viral load in upper respiratory tract specimens.
+* [Yang et al](#summary-yang) investigated the viral load across locations the respiratory tract.
+ 
+but also from other [summarized references](#summarized-references).
 
 
 ### Viral Load in the Nose
@@ -468,6 +467,7 @@ Gingival crevicular fluid (GCF) sampling is usually used to diagnose periodontal
 The saliva is secreted from different glands in the mouth. How much each of these glands secrets depends on activities such as sleeping or eating (very readable described in [Dawes](#summary-dawes)). The saliva flow rate, location and source give rise to different micro-habitats for bacteria and viruses. 
 * [Carlson-Jones et al](#carlson-jones) investigated these habitats with flow cytometry and observe that both  virus like particles and bacteria concentrations peak in the morning after sleep.
 * A morning peak is also observed for the SARS-CoV-2 viral load as observed by [Hung et al](#summary-hung).
+* [Viral load kinetics investigations](#prospective-viral-load-kinetics) observe for some participants higher viral loads in the morning.
 
 
 ### Notes on Saliva Tests
@@ -513,7 +513,7 @@ There are different causes for a variation of the viral load:
 
 ### Viral Load Kinetics
 #### Prospective Viral Load Kinetics
-The variation during a the entire disease coarse can only be obtained by prospective studies.
+The variation during a the entire disease coarse are obtained by prospective studies when fine-grained sampling is started upon exposure or at high incidence.
 [Savela et al](#savela) obtain viral loads and symptoms during the entire disease course of 7 patients. The goal is to find the optimal method for early diagnosis.
 
 *Methods:* Household members of known Covid cases were instructed to take saliva and anterior nares samples each day upon waking and before bed. Additionally participants kept a symptom diary. The salvia specimens were evaluated by PCR (CDC RT-qPCR assay for N1 and N2). 
@@ -524,10 +524,10 @@ With this methods they can visualize the viral loads during the entire disease p
 
 * Of interest is that in the graph (G) and the marked region ROI #2 where the viral load in saliva is very high and undetectable in the nose. The patient later got quite symptomatic. Likely the saliva viral load indicates early a high viral load in the lungs, which is also consistent with patient having fever.
 * For most participants the  saliva viral load precedes the nose viral load. For some patients symptoms precede viral load detection while for others its the other way round: E.g. for (G) the symptoms started before testing positive while for (A) virus detection preceded symptom onset.
-* The vertical shading in gray indicates night time (8 pm - 8 am). When looking closely it is visible that participants (A) and 
+* The vertical shading in gray indicates night time (8 pm - 8 am). When looking closely alternations are visible which show that participants (A), (D) and (G) have usually higher viral loads in the morning ([Saliva Collection Timing](#saliva-collection-timing)).
 
 
-### Retrospective Viral Load Kinetics
+#### Retrospective Viral Load Kinetics
 In "real life" scenarios i.e. not in controlled studies but in retrospective analyses of hospitalized Covid cases, often [all the different causes](#causes-for-viral-load-variation) such as exact sampling location, circadian changes and variation during the disease interplay. The graphics by [Yang et al](#summary-yang) visualizes how the viral load changes from day to day and varies between URT and LRT samples (URT in green, LRT in black; black arrow: hospital admission, red arrow: anti viral treatment started; severe cases in red and mild cases in black):
 
 ![time series of viral load in URT and LRT](Images/yang_viral_load_series_small.jpg)
