@@ -166,7 +166,7 @@ Here the following criteria are used to categorize the treatment starts:
 
 ### Treatment Start Categories
 * Early treatment start: The viral load is increasing and patients in the cohort progress possibly to a more severe disease state.
-* Mid treatment start: The viral load is still increasing or plateauing. For severe Covid cases the viral load in the lungs can stay at high values for a long time ([Viral Load by during Covid](./../3_medical/diagnosis_and_viral_load.md#variation-by-time-and-location)). The patients can progress to a more severe state if the viral load stays high.
+* Mid treatment start: The viral load is still increasing or plateauing. For severe Covid cases the viral load in the lungs can stay at high values for a long time ([Viral Load by during Covid](./../3_medical/diagnosis_and_viral_load.md#viral-load-kinetics)). The patients can progress to a more severe state if the viral load stays high.
 * Late treatment start: The viral load is decreasing and/or the lung is already very inflamed. 
 
 
