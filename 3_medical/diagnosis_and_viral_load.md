@@ -278,7 +278,7 @@ The viral load is measured by the [methods to directly detect viruses](#methods-
 
 #### Relevance of Viral Load
 Knowing the viral load observed in different fluids and tissues is relevant for:
-* __Diagnosis__: The temporal development and the locations with viral load help to predict the prognosis and to initiate optimal treatments ([Early Treatments](../6_prevention_and_treatment/treatment_overview.md)).
+* __Diagnosis__: The temporal development and the locations with viral load help to predict the prognosis and to initiate optimal treatments ([Treatment Overview](../6_prevention_and_treatment/treatment_overview.md)) at the different disease stages. Many treatments are ideally initiated early.
 * __Transmission__: Knowing the viral load in different locations helps to understand and prevent transmissions of SARS-CoV-2 virions. In theory a viral load 1000 times higher can increase transmission a 1000 fold.
 * __Understanding Covid-19__: Knowing at which stages which locations are infected helps to understand the pathogenesis.
 
