@@ -1,5 +1,28 @@
 # PCR Diagnosis
 
+* [Summary](#summary)
+* [Use cases](#use-cases)
+* [PCR Sensitivity and Accuracy](#pcr-sensitivity-and-accuracy)
+  * [Determinants of Accuracy](#determinants-of-accuracy)
+  * [Relation of Sensitivity and Accuracy](#relation-of-sensitivity-and-accuracy)
+  * [RT-PCR Accuracy for SARS-CoV-2](#rt-pcr-accuracy-for-sars-cov-2)
+* [From Ct Values to Viral Load](#from-ct-values-to-viral-load)
+* [References](#references)
+  * [Refs PCR Accuracy and Sensitivity Evaluations](#refs-pcr-accuracy-and-sensitivity-evaluations)
+  * [Refs Practical Observations of PCR Accuracy](#refs-practical-observations-of-pcr-accuracy)
+  * [Refs Digital Droplet PCR](#refs-digital-droplet-pcr)
+
+> entire page in work
+
+## Summary
+> in work
+The accuracy of most PCR apparatuses has a standard deviation of roughly 1 to 2 cycles [to check for different apparatuses]. A probe containing a viral load just above the limit of detection (LOD), each probe has a certain probability to go undetected due to the mentioned inaccuracy. 
+
+The LOD for SARS-2 PCR apparatuses varies and ranges from about 10^2 copies/milliliter to 10^5 copies/milliliter for the different apparatuses.
+
+
+
+
 ## Use cases
 PCR test can be used both to detect microorganisms causing a disease and microorganisms being part of the microbiome in the healthy state. In healthy state the virus numbers are usually very low and often below the limit of detection. Thus the prevalence of viruses is usually much higher than the PCR positives.
 
@@ -19,8 +42,8 @@ For many considerations, the sensitivity can be viewed as the accuracy at very l
 Due the significance of SARS-CoV-2, for SARS-CoV-2 there are several comparisons and evaluations of PCR protocols to detect it. The findings are likely similar for other coronaviruses, however the strains of the endemic coronaviruses are more divers [to confirm and cite] and thus construction primers which work for all strains can be more difficult. [to check whether local 2nd structure can affect accuracy]
 
 * [Vogels et al](#vogels) evaluate different primers for PCR amplifications and find:
-  * *Ct value > 35:* PCR tests detect coronavirus RNA reliable for concentrations higher than 10^2 copies/microliter = 10^5 copies/milliliter (500 copies/initial reaction) which corresponds to a Ct value of 35. Above this value the standard deviation is about 2 cycles.
-  * *Ct value < 35:* Below 10^2 copies/microliter = 10^5 copies/milliliter the sensitivity decreases and is about 25% to 50% for 10^1 copies/microliter (50 copies/initial reaction). For lower concentrations such as 1 copies/microliter the sensitivity is further reduced. Regarding accuracy, all that can be said it's a value below 10^5 copies/mL.
+  * *Ct value < 35:* PCR tests detect coronavirus RNA reliable for concentrations higher than 10^2 copies/microliter = 10^5 copies/milliliter (500 copies/initial reaction) which corresponds to a Ct value of 35. Above this value the standard deviation is about 2 cycles.
+  * *Ct value > 35:* Below 10^2 copies/microliter = 10^5 copies/milliliter (500 copies/initial reaction) the sensitivity decreases and is about 25% to 50% for 10^1 copies/microliter (50 copies/initial reaction). For lower concentrations such as 1 copies/microliter the sensitivity is further reduced. Regarding accuracy, all that can be said it's a value below 10^5 copies/mL.
 
 * [Visseaux et al](#visseaux) evaluate the the RealStar SARS-CoV-2 RT- PCR Kit Research Use Only (Altona) and compare is to the WHO references. For the RealStar they observe a reliable detection up to 600 copies/mL (Table 1 in the paper) which corresponds to 13 copies per PCR sample. For the WHO reference assays the detection limits are roughly 10^5 for RdRp gene (Table 2 in the paper) and 10^3 for the E gene which corresponds to 25 copies per PCR sample (Table 1 and 2).
 
