@@ -1,7 +1,7 @@
 
 # Interferon Treatment
 
-> 24.-27.11.: entire page is in *work and incomplete*. Many parts need checking.
+> 24.11.-1.12.: entire page is *in work*. Many parts need checking.
 
 > Early administrated interferons look very promising to prevent disease progression including severe Covid and death.
 
@@ -76,8 +76,6 @@ Systemic IFNs show benefits if given very early in a mild disease stage. At late
 
 
 ## Introduction
-[in work]
-
 The induction of interferons is one of the first immune responses upon a viral infection. Interferons induce an antiviral state of the cells. For many epithelial cells the metabolisms is slowed down or even paused [to specify and cite] and interferons activate the immune system. The timing for the treatment start is thus relevant and always specified as a category early, mid or late ([Consideration on the Treatment Start](#considerations-on-the-treatment-start)).
 
 
