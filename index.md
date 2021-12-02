@@ -93,16 +93,15 @@ This section overviews the entire content. The [content section](#content) lists
 * The writing often is conversational and some parts aren't rigorous. 
 * This is work in progress. Parts under heavy work are mostly marked with '[in work]'. Mistakes of any form are likely.
 * _Support_ [Support on ko-fi.com](https://ko-fi.com/H2H72F6XY) is welcome, to enable full-time re-searching on coronaviruses.
-* _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is required (as long as its not copy & paste) but __referencing is always welcome__ (most content is founded enough by now). <!-- in science citing/Referencing is a good and helpful practice.-->
+* _License_ The license is Creative Commons Attribution 4.0. Relaxation: For any use with the main purpose of public health and public information no attribution is required (as long as its not copy & paste) but __referencing is always welcome__ (most content is founded enough by now).
 * Questions, pointing out mistakes, improvement suggestions and feedback are __welcome__.
 * _[Table of Content](#content)_ The content is ordered mostly by dependencies i.e. content founding other sections is ahead. The dependencies are often circular however.
 * _Source_ This page is open source on GitHub: <https://github.com/forestgrape/coronavirus/blob/master/index.md>, where it can be read both as Markdown and GitHub Preview and hosted on GitHub Pages: <https://forestgrape.github.io/coronavirus>
 * _References_
   * Often references are summarized. Word-by-word extracts are in "_ _ _". The summaries are biased towards to results relevant for this page. To capture the essence of the research is tried too.
-  * As much as possible original work is referred. Sometimes reviews or remarks in introductions are referred which point further to the original work/articles.
-  * The references are named by the first author. (In the beginning of this work sometimes references were named by the correspondence author or a descriptive tag. Some sections still have this naming scheme).
+  * The references are named by the first author.
   * References are usually grouped by topic. If several topics apply, one is chosen.
-  * For term definitions and general topics, wikipedia (English), encyclopedia britannica and the oxford dictionary are frequently consulted. Currently they are referenced for each specific term. It is planned to improve this.
+  * For term definitions and general topics, wikipedia (English), encyclopedia britannica and the oxford dictionary are frequently consulted. Currently they omitted as reference at each location. It is planned to improve this.
 * _Formulations_
    Some are subjective and marked as [comments](#comments). Sometimes words are not weighted carefully or formulations are unclear/ambiguous. Upon discovery, unfitting formulations are improved. Feedback is appreciated and questions welcome.
 > * _No Ambiguity:_ Some formulations especially in comments are general but ambiguity is not indented. The reason is clarity. (In the beginning, a few comments were ambiguous but this is not intended anymore, since this neither works nor fits a project like this.)
