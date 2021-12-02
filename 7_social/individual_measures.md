@@ -31,17 +31,39 @@ Relevant moral questions are:
 
 > On this page it is considered a no go to push people to vaccination. Especially if adults are only a tiny bit skeptical for (re)vaccination due to safety concerns, then it is high time to remove any measures that could push teenagers to vaccinate. 
 
->> Anybody should have safety concerns. This is a new technology with *NO* experiences regarding mid and long-term adverse effects. // E.g. adverse effects on the immune system (without specifying a magnitude), I consider as likely considering the observations made by December 2021.
-
->> Restrictions should be nearly no for children, very relaxed teenagers and relaxed twenty-agers.
+>> Anybody should have safety concerns. This is a new technology with *NO* experiences regarding mid and long-term adverse effects. // E.g. adverse effects on the immune system (without specifying a magnitude), I consider as likely as of December 2021 based on  observations (global data and the close environment). [Argumentation about the global data planned]
 
 
 
-> This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I think such comparisons fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences limited: Most diseases were not linked to pathogens and accordingly the transmission paths were often completely unknown. With todays knowledged many measures taking back then were not adequate or even harmful. Situations around the fascist regimes in Europe in the 30s and 40s were also fundamentally different. 
+### Legal Considerations
 
+> Vaccine mandates or rules out-casting people solely (if no medically equivalent options such as testing are permitted) based on their vaccine status (in the following referred as vaccine mandates), in my opinion violate 4 of the first 5 human rights.
 
+#### The first 5 Articles of the Universal Declaration of Human Rights
+source:<https://www.un.org/en/about-us/universal-declaration-of-human-rights>
 
+Article 1
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
+Article 2
+Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.
+
+Article 3
+Everyone has the right to life, liberty and security of person.
+
+Article 4
+No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.
+
+Article 5
+No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
+
+#### Vaccine Mandates contradict Human Rights
+* Article 1 is violated by vaccine mandate violates the right of reason and conscience. When it's about to reduce transmission pre-testing is an alternative (and much safer). When its about catching a disease, the risks to take in life, in my opinion, is an individual decision of reason and conscience.
+* Article 2 is violated since a distinction is made by the vaccine/antibody status.
+* Article 3 is violated since:
+  * For some of the currently available vaccines (namely for 'mRNA' vaccines and adenovirus vaccines) temporarily associated deaths have been recorded.
+  * Vaccination can have adverse effects and therefor it violates the security and liberty.
+* Article 5 is violated since experimental vaccination can be perceived as cruel, inhuman or degrading treatment. Vaccination can be perceived as punishment for following the precaution measures and/or living healthily and therefore not catching an infection with the associated recovery certificate (only valid if there are recovered certificates, if not, the violations of Article 1 and 2 are emphasized).
 
 
 
