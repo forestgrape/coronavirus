@@ -35,7 +35,7 @@ The PCR sensitivity and accuracy for different settings. E.g.
 
 
 ### Relation of Sensitivity and Accuracy
-For many considerations, the sensitivity can be viewed as the accuracy at very low DNA/RNA concentration which corresponds to high cycles numbers (usually above 35).
+At very low DNA/RNA concentration (usually above 35) the accuracy fluctuations cause with a certain probability the measured result to be below the LOD. Thereby the sensitivity is decreased.
 
 
 ### RT-PCR Accuracy for SARS-CoV-2
@@ -67,25 +67,26 @@ Due the significance of SARS-CoV-2, for SARS-CoV-2 there are several comparisons
   As visible from B, the prevalences rise and fall in parallel, which indicates that all are *true* positives. 
 
 ## From Ct Values to Viral Load
-> This is a conceptual description and technical difficulties are skipped (e.g. in a cycle the RNA is not precisely doubled but rather increases e.g. for 90 % doubling efficacy the increase factor is 1.8).
+> This is a conceptual description and technical difficulties are skipped (e.g. in a cycle the RNA is not precisely doubled: e.g. for 90 % doubling efficacy, the increase factor is 1.8).
 
 The viral load measurements often work as follows: specific sequences are doubled in cycles until the concentration is high enough that they can be detected by optical methods. When there are already many sequences to start with, one needs fewer doubling cycles (Ct cycles) until detection. Thus few cycles correspond to a high number of sequences in the sample to test (= a high viral load in the sample).
 
 The corresponding calculations go as follows: The viral load is doubled in cycles until detectable: `2^number_of_cycles * viral_load = d_c_h` where `d_c_h = detection_limit_for_helper_method` (the helper method detects when a certain concentration of DNA or RNA is reached, often optical fluorescence is used). Rearranged:
-`viral_load = d_c_h / 2^number_of_cycles` 
+`viral_load = d_c_h / 2^number_of_cycles`
+
+To get the viral load in a log2 scale:
+`log2(viral_load) = log2(d_c_h) - number_of_cycles`
+To get the viral load in a log10 scale:
+`log10(viral_load) =log2(viral_load)/log2(10) = (log2(d_c_h) - number_of_cycles)/3.32`
 
 The minimal viral load detectable:
 `viral_load_detection_limit * 2^max_number_of_cycles = helper_method_detection_limit`
 
-Often the viral load is given as logarithm:
-`log2(viral_load) = log2(d_c_h) - number_of_cycles`
-The viral load as logarithm to base 10:
-`log10(viral_load) =log2(viral_load)/log2(10) = (log2(d_c_h) - number_of_cycles)/3.32`
 
-An example formulas for specific protocols:
+An example formulas for specific protocols (not all papers display the Ct value - viral load relation):
 * [Yilmaz et al](./diagnosis_and_viral_load.md#summary-yilmaz).
 * Supplement of [Malik et al](./diagnosis_and_viral_load.md#summary-malik) show the relation between Ct value and viral load.
-
+* [Savela et al](./diagnosis_and_viral_load.md#savela) describe the LOD and the Ct value viral load relation for their protocol.
 
 
 ## References
