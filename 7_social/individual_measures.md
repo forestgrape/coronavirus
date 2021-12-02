@@ -16,7 +16,7 @@ In my opinion, measures should  not target individuals and accordingly not be ba
 It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated. Another scientific question is, whether and which vaccines are safe. 
 
 > Both infectiousness and vaccine safety are not rigorously discussed on this page. Some notes are available however:
-> * A possible method to determine infectiousness are the number of viruses in exhaled aerosol ([Viral Load in exhaled Air](../3_medical/diagnosis_and_viral_load.md#viral-load-in-exhaled-air)). In the chapter [individual factors for transmission and susceptibility](../5_epidemiological/individual_susceptibility_and_transmission.md) there are some epidemiological observations on the effects of vaccines on transmission.
+> * A possible method to determine infectiousness is to determine the number of viruses in exhaled aerosol ([Viral Load in exhaled Air](../3_medical/diagnosis_and_viral_load.md#viral-load-in-exhaled-air)). In the chapter [individual factors for transmission and susceptibility](../5_epidemiological/individual_susceptibility_and_transmission.md) there are some epidemiological observations on the effects of vaccines on transmission.
 > * Some incomplete speculations/open question about the safety of the 'mRNA' and 'Adeno-Vector' vaccines are in [Vaccine Safety Questions](../10_vaccines/vaccine_safety.md).
 
 
