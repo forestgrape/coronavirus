@@ -28,15 +28,20 @@ Relevant moral questions are:
 * How and by who, how fast and which risks are estimated and weighted.
 * On different beliefs and world views.
 
+
+> On this page it is considered a no go to push people to vaccination. Especially if adults are only a tiny bit skeptical for (re)vaccination due to safety concerns, then it is high time to remove any measures that could push teenagers to vaccinate. 
+
+>> Anybody should have safety concerns. This is a new technology with *NO* experiences regarding mid and long-term adverse effects. // E.g. adverse effects on the immune system (without specifying a magnitude), I consider as likely considering the observations made by December 2021.
+
+>> Restrictions should be nearly no for children, very relaxed teenagers and relaxed twenty-agers.
+
+
+
 > This is about *the present situation and the near future* and neither about the past nor the fare future. Sometimes historical comparisons are made. I think such comparisons fall short and are not helpful for an unbiased and rational discussion. E.g. in the middle ages the knowledge of natural sciences limited: Most diseases were not linked to pathogens and accordingly the transmission paths were often completely unknown. With todays knowledged many measures taking back then were not adequate or even harmful. Situations around the fascist regimes in Europe in the 30s and 40s were also fundamentally different. 
 
-> One important difference is that those opting for vaccination choose to get vaccinated themselves.
-> 
-> ... at least initially. With 'boosters' some are more skeptical - with good reasons (in my opinion) weighting the short lived protection regarding transmission against described or un-described adverse effects. If adults are only a tiny bit skeptical for (re)vaccination due to safety concerns, then it is high time to remove any measures that could push teenagers to vaccinate.
->
->> On this page 'boosters' are not generally recommended. Pushing teenagers to vaccinate is considered a no go. (as of November 2021)
->
->> Restrictions should be nearly no for children, very relaxed teenagers and relaxed twenty-agers.
+
+
+
 
 
 
