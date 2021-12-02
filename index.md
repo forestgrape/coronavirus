@@ -69,7 +69,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
-- 2.12. Clarifications and made the content for objective across chapters.
+- 2.12. Clarifications across page and made content for objective.
 - 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
 - 27.11.: Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.
 - 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
