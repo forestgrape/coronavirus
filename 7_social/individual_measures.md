@@ -31,7 +31,7 @@ Relevant moral questions are:
 
 > On this page it is considered a no go to push people to vaccination. Especially if adults are only a tiny bit skeptical for (re)vaccination due to safety concerns, then it is high time to remove any measures that could push teenagers to vaccinate. 
 
->> Anybody should have safety concerns. This is a new technology with *NO* experiences regarding mid and long-term adverse effects. // E.g. adverse effects on the immune system (without specifying a magnitude), I consider as likely as of December 2021 based on  observations (global data and the close environment). [Argumentation about the global data planned]
+>> Anybody, especially the young, should have safety concerns. This is a new technology with *NO* experiences regarding mid and long-term adverse effects. // E.g. adverse effects on the immune system (without specifying a magnitude), I consider as likely as of December 2021 based on  observations (global data and the close environment). [Argumentation about the global data planned]
 
 
 
