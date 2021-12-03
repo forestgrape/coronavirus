@@ -45,7 +45,9 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 >  
 > An unbiased discussion is missing since many risks ignored and unknown risks are dismissed as not possible. 
 > In my opinion, for the time being, the vaccines should be used as the evaluations published show clear benefits: For seronegative and PCR negative people at risk for severe Covid. If it turns out, that the benefits outweigh the risks, summer would be a good time to vaccine many/those not at risk. 
-> [Argumentation in advanced work.]
+>
+> [Argumentation in advanced work.] //a partly different consideration than originally thought is published as [Vaccine Safety Questions](../10_vaccines/vaccine_safety.md). How the RNA is processed in the cells, how and which immune responses can be triggered I am still investigating. It turned out, to understand the depths of eukaryotic life is a matter of years and not months even when working a lot - the interdisciplinary readings (e.g. cellular differentiation pathways and the RNA communication associated), turned out to found the above considerations. 
+> Not unexpected, RNA vaccines turned out they don't tame SARS-CoV-2, so from a coronavirus perspective alone one should stop mass vaccination (3.12.21). To understand coronaviruses what they do and how to tame them, to find a prevention and/or treatment which is known to be safe seemed/is (!) easier. [Interferons](./../6_prevention_and_treatment/interferon.md) look promising!
 
 - 22.12.-23.1. [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md) (before 18.1. on the Covid19 page).
   - Repeated morning saliva and sputum have a reliable viral load which predicts the disease progression.
