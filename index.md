@@ -33,6 +33,9 @@ This section overviews the entire content. The [content section](#content) lists
 9. [Topics in Physics](#9-physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
 10. [Vaccines](#10-vaccines): Safety considerations.
 
+There is also a rather subjective page in German with some comments on the Corona Situation and Policy in Switzerland: <https://forestgrape.github.io/corona-ch/>
+
+
 ---
 
 
@@ -69,7 +72,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
 
 ### Recent Updates
-- 2.12. Clarifications across page and made content for objective.
+- 2.12. Clarifications across page and made content for objective and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md) *(announced here 4.12.)*
 - 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
 - 27.11.: Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.
 - 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
@@ -148,6 +151,7 @@ This section overviews the entire content. The [content section](#content) lists
 
 > In the [source on github](https://github.com/forestgrape/coronavirus/blob/master/index.md) the topics correspond to folders and the chapters correspond to files.
 
+
 ### 1 Introductory Topics
 
 * [Public Suggestions and Tips](1_introduction/suggestions.md)
@@ -191,13 +195,20 @@ This section overviews the entire content. The [content section](#content) lists
   - describe how particles behave in the respiratory tract,
   - analyse spread pattern of Covid-19 which indicate aerosol transmission
   - and based on the discussed transmission pathways, protection measures are suggested: smoke protection and masks.
-- [Spread Analyses](5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
+- [Situation specific Spread Analyses](5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
+- [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md). How much individual factors such as age, dirty air exposure and acquired immunity (either by natural infection or vaccination) influence the susceptibility and the onwards spread 
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](5_epidemiological/covid_and_bovine_farming.md) (*explorative section*)
 
 
 ### 6 Treatment and Prevention
+- [Interferon Treatment](6_prevention_and_treatment/interferon.md): Early interferon treatment helps to reduce the viral load and prevents more than half of severe disease cases. Interferon alpha treatment shows the best results with a mortality reduction above 75% if used early. Topical administration to the respiratory tract (spray or nebulized) shows benefits even in mid to advanced disease stages. Systemically applied interferons (especially IFN beta) on the other hand yield adverse outcomes when applied late.<br>
+  => 1) Topical IFN alpha is recommended to treat SARS-CoV-2 infection and treatment should start as early as possible.<br>
+  => 2) Systemic or topical IFNs are recommended as prophylaxis for risk groups upon exposure or at high incidence rates of severe Covid.
+
 - [Movement](6_prevention_and_treatment/movement.md) How movement helps to get a better immune reaction upon a Covid infection and to recover faster and better.
+
 - [Masks](6_prevention_and_treatment/masks.md). Mask both reduce the spread and prevent infections. Not only from SARS-2 but from all viruses which infect through the respiratory tract e.g. influenza.
+
 - [Topical Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to prevent and cure respiratory infections including Covid. Coronaviruses (and other respiratory viruses) live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
   - [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment: It reduces the number of infectious virions and enhances the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
   - [Increase the mucus Flow by humidified air](./6_prevention_and_treatment/increasing_the_mucus_flow.md): Humidify inhaled air early on to increase the mucus flow and wash the virions out. The goal is a reduce viral load and better prognosis. (explorative)
@@ -207,6 +218,7 @@ This section overviews the entire content. The [content section](#content) lists
 * [Thoughts about Controlling Sars-CoV-2](7_social/controlling.md)
     Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
 * [Thoughts on Economical Systems](7_social/economics.md): How to design an economical system which enables free choice for the economic life.
+* [Legal Considerations on Vaccine Mandates](7_social/individual_measures.md) 
 
 
 ### 8 Data Topics
