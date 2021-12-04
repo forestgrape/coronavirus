@@ -229,6 +229,7 @@ There is also a rather subjective page in German with some comments on the Coron
 ### 9 Topics in Physics, Chemistry and Biology 
 * [Aggregation of Atoms](9_physics/aggregations_of_atoms.md). How atoms aggregate to form the different kinds of matter.
 
+
 ### 10 Vaccines
 * [Vaccine Safety Considerations](10_vaccines/vaccine_safety.md)
 
