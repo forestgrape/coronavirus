@@ -34,9 +34,13 @@ Relevant moral questions are:
 
 
 
+
+
 ## Legal Considerations
 
 > Vaccine mandates or rules out-casting people solely (if no medically equivalent options such as testing are permitted) based on their vaccine status (in the following also referred as vaccine mandates), in my opinion violate 4 of the first 5 human rights.
+
+
 
 ### The first 5 Articles of the Universal Declaration of Human Rights
 source:<https://www.un.org/en/about-us/universal-declaration-of-human-rights>
@@ -56,6 +60,8 @@ No one shall be held in slavery or servitude; slavery and the slave trade shall 
 Article 5
 No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
 
+
+
 ### Vaccine Mandates contradict Human Rights
 Article 1 is violated by vaccine mandate violates the right of reason and conscience. When it's about to reduce transmission pre-testing is an alternative (and much safer). When its about catching a disease, the risks to take in life, in my opinion, is an individual decision of reason and conscience.
 
@@ -63,9 +69,10 @@ Article 2 is violated since a distinction is made by the vaccine/antibody status
 
 Article 3 is violated since:
 * For some of the currently available vaccines (namely for 'mRNA' vaccines and adenovirus vaccines) temporarily associated deaths have been recorded.
-* Vaccination can have adverse effects and therefor it violates the security and liberty.
+* Vaccination can have adverse effects and therefor it violates security and liberty of person.
 
-Article 5 is violated since experimental vaccination can be perceived as cruel, inhuman or degrading treatment. Vaccination can be perceived as punishment for following the precaution measures and/or living healthily and therefore not catching an infection with the associated recovery certificate (only valid if there are recovered certificates, if not, the violations of Article 1 and 2 are emphasized).
+Article 5 is violated since experimental vaccination can be perceived as cruel, inhuman or degrading treatment. Vaccination can be perceived as punishment for following the precaution measures and/or living healthily and therefore not having caught an infection with the associated recovery certificate (only valid if there are recovered certificates, if not, the violations of Article 1 and 2 are emphasized).
+
 
 
 
