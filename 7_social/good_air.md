@@ -13,9 +13,9 @@
 ## Introduction
 
 Covid demonstrates the importance of the air we breath: 
-* Covid only spreads well if the air is not well ventilated/cleaned.
-* Severe Covid only spreads well if the air is dry.
-* Severe Covid spread is increased in regions with a history of air pollution.
+* Covid mainly spreads well if the air is not well ventilated/cleaned.
+* Severe Covid mainly spreads well if the air is dry.
+* Severe Covid prevalence is increased in regions with a history of air pollution.
 
 Epidemiological evidence is described in the [Spread Analyses chapter](../5_epidemiological/spread_analyses.md) and the underlying mechanisms in the [Transmission chapter](../5_epidemiological/transmission.md).
 
@@ -29,15 +29,15 @@ To reduce the transmission of Covid the air is ideally above 25 degrees and has 
 
 * *Warm Settings:* The prevention of the spread of severe Covid is simple when the air is warm and humid: Opening the windows and turning off air-conditioners. The comfort can be decreased however. So a compromise would be to adjust the air to a temperature of around 27 degrees to a humidity of around 60%. 
 
-* *Cold Settings:* In cold climates it is tricky to achieve a good balance between a comfortable temperature (around 22 degrees), high ventilation (low CO2) and high humidity (much H2O): permanently opening the windows is usually not an option for comfort reasons. Even if the temperature comfort is reached with good ventilation combined with heating, heating reduces the relative humidity - in other words the air dries when heated. So there is a tradeoff between low CO2 values and not very dry air indoors, if the air is heated to a comfort level. Solutions are: ventilation combined with humidification or cleaning the air to reduce the need for ventilation.
+* *Cold Settings:* In cold climates it is tricky to achieve a good balance between a comfortable temperature (around 20 to 22 degrees), high ventilation (low CO2) and high humidity (much H2O). 1) Permanently opening the windows is usually not an option for comfort reasons. 2) Even if the temperature comfort is reached with good ventilation combined with heating, heating reduces the relative humidity - in other words the air dries when heated. So when heating there is a tradeoff between low CO2 values and not very dry air indoors. Solutions are: ventilation combined with humidification or cleaning the air to reduce the need for ventilation.
 
 ## Exposure to Air Pollutants
 The short and long term exposure to air pollutants is relevant for the susceptibility to severe Covid and also influences the overall health:
 * The Covid death rates are higher in regions which regularly have high air pollution. 
 * Air pollution is generally relevant for susceptibility to respiratory infections.
-* Air pollution can affect health in many ways e.g. increase the risk of arteriosclerosis.
+* Air pollution can affect health in many ways e.g. increase the risk of arteriosclerosis which is risk factor for severe Covid.
 
-    > This page about betacoronaviruses is mostly written in settings with clean air: In regions of Swiss Alps and pre alps and some parts - in 2020 - also in the Austrian and Italian alps. Subjectively, I can better concentrate and have a better endurance in settings with clean air.
+    > This page about betacoronaviruses is mostly written in settings with clean air: In regions of Swiss Alps and pre alps and some parts - in 2020 - also in the Austrian and Italian alps. Working at the coast (including islands) also works well. Subjectively, I can better concentrate and have a better endurance in settings with good air.
 
 
 ## Air Quality Certification
