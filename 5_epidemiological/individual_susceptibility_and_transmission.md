@@ -6,14 +6,14 @@ The susceptibility to the different kinds of SARS-CoV-2 infections and the indiv
 
 * [Summary](#summary)
 * [Relevance](#relevance)
-* [Viral Load in Epidemiology](#viral-load-in-epidemiology)
-  * [Viral Load Interpretation](#viral-load-interpretation)
-  * [Limit of Detection](#limit-of-detection)
-  * [Viral Load Distribution](#viral-load-distribution)
 * [Observables for Covid Infections](#observables-for-covid-infections)
   * [Association between Viral Load and Symptoms](#association-between-viral-load-and-symptoms)
   * [Proportion of symptomatic Patients](#proportion-of-symptomatic-patients)
   * [Spread by Symptom Status](#spread-by-symptom-status)
+* [Viral Load in Epidemiology](#viral-load-in-epidemiology)
+  * [Viral Load Interpretation](#viral-load-interpretation)
+  * [Limit of Detection](#limit-of-detection)
+  * [Viral Load Distribution](#viral-load-distribution)
   * [Spread by Viral Load](#spread-by-viral-load)
 * [Infector Distribution](#infector-distribution)
   * [Observed Infector Distribution](#observed-infector-distribution)
@@ -59,8 +59,11 @@ The susceptibility to the different kinds of SARS-CoV-2 infections and the indiv
 * [Appendix](#appendix)
   * [Analyzing Incidence Rates and Upon Exposure](#analyzing-incidence-rates-and-upon-exposure)
 
+
+
 ## Summary
-Most epidemiological analyses specify SARS-CoV-2 infections with the observables a "commonly detectable" viral load in the upper respiratory tract or symptoms. Sampling the upper respiratory tract is not perfectly predictive for the overall viral load since most SARS-CoV-2 virions infect cells in the conducting airways.  Nevertheless the viral load in the upper respiratory tract samples is correlated to symptoms. Symptomatic persons in turn ([Transmission by Symptom Status](#spread-by-symptom-status)) are more likely to transmit Covid. Most (Nearly all?) superspreading events described are caused by symptomatic persons, likely because superspreading involves high numbers of virions in the conducting airways, which usually causes symptoms.
+
+Most epidemiological analyses specify SARS-CoV-2 infections with the observables a "commonly detectable" viral load in the upper respiratory tract or symptoms. Sampling the upper respiratory tract is not perfectly predictive for the overall viral load since most SARS-CoV-2 virions infect cells in the conducting airways.  Nevertheless the viral load in the upper respiratory tract samples is correlated to symptoms. Symptomatic persons in turn ([Transmission by Symptom Status](#spread-by-symptom-status)) are more likely to transmit Covid. Most (nearly all?) superspreading events described, are caused by symptomatic persons, likely because superspreading involves high numbers of virions in the conducting airways, which usually causes symptoms.
 
 How much individuals contribute to the spread of SARS-CoV-2 is highly variable. Most observations conclude that 20% of the infectees are responsible for at least 80% of the infections ([Transmission Distribution](#transmission-distribution)). The individual transmission is associated to both biological and social factors. Social factors include the living situation and the behavior. Biological factors influencing susceptibility and infectiousness. These biological factors are discussed in the following.
 
@@ -75,10 +78,10 @@ Previous infections provide a reliable and long lasting protection:
 * The protection against hospitalization is above 95%.
 * The chance to test positive is reduced by about 80% to 90%. The protections is stable across time and mostly across variants. The chance to have a high viral load (Ct value <30) and symptoms is reduced by more than 90% [to confirm].
 
-The muscular administrated 'mRNA' and adenovirus vectored vaccines induce mainly a systemic immunity. Accordingly the protection against pneumonia (=severe Covid) is good (more than 70% protection for a least half a year) while the protections against infections in the URT and the conducting airways mediocre and last only a few months:
+The muscular administrated 'mRNA' and adenovirus vectored vaccines induce mainly a systemic immunity. Accordingly the protection against pneumonia (=severe Covid) is good. On the other hand the protection against infections and transmission is mediocre and last only a few months:
 * *Protection against pneumonia and hospitalization:* Accordingly to the systemic immunity provided, a good protection against hospitalization: most investigations conclude a reduction of at least 70 % in the first half year after vaccination.
-* *Protection against infection:* In the first few months after vaccination the chance to test positive (the detection limit is usually about 1000 cps/milliliter ~~ about 35 to 40 PCR cycles) is reduced and during this time the probability for high viral loads (>10^6 cps/milliliter ~~ less than about 25 to 30 PCR cycles) is even further reduced. The protection gradually decreases and vanishes about half a year after vaccination (depends individual immune system and SARS-2 variants present). The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is lost about 6 months after vaccination against the delta variant. The ChAdOx1 initially reduces the chances to test positive by about 50%. While starting higher BNT162b2 has a somewhat higher protection decay for the protection in the upper respiratory tract compared to ChAdOx1. The protection from mRNA-1273 is higher than BNT162b2/ChAd0x1. 
-* *Protection against Transmission:* Some studies observe in the phase when the vaccine induced immunity reduces the viral load, a reduced onwards transmission from vaccinated index cases; other studies observe no difference even in this  phase. After a few months when the viral load in the  tract are the same as for unvaccinated people, there seems to be no reduction, at least in household settings. 
+* *Protection against infection:* In the first few months after vaccination the chance to test positive (the detection limit is usually at 40 PCR cycles which is about 1000 cps/milliliter) is reduced and during this time the probability for high viral loads is even further reduced. The protection gradually decreases and vanishes about 3 to 6 months after vaccination (depends individual factors and SARS-2 variants present). The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is lost about 3 to 6 months after vaccination against the delta variant. The ChAdOx1 initially reduces the chances to test positive by about 50%. While ChAdOx1 starts lower than BNT162b2 the decay of protection is slower. The protection from mRNA-1273 starts and stays higher than BNT162b2/ChAd0x1. 
+* *Protection against Transmission:* Some studies observe in the phase when the vaccine induced immunity reduces the viral load, a reduced onwards transmission from vaccinated index cases; other studies observe no difference even in this  phase. After a few months when the viral load in the  tract are the same as for unvaccinated people, there seems to be no reduction, at least in household settings.
 
 > The widespread assumption that vaccinated people transmit Covid less for more than a few months *lacks* a rigorous scientific basis. To my judgement, there is neither an epidemiological nor a medical benefit/basis to (push to) vaccinate people not at risk for severe Covid.
 
@@ -92,16 +95,55 @@ Knowing how transmissions are distributed, helps to set and fine-tune control me
 
 
 
+## Observables for Covid Infections
+To analyze susceptibility and transmissions, one needs to specify which the SARS-CoV-2 infections to count and how to diagnose them. Diagnosis is traditionally geared toward diagnosing a disease to possibly initiate a treatment, discussed in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md). 
+
+Detection of infections for epidemiological investigations is mostly done by:
+* Symptoms
+* Hospitalizations, Deaths
+* Viral load
+* Antibody detection for previous infections
+
+Since SARS-CoV-2 so fare hardly causes any deaths and hospitalizations in healthy people below 50, the viral load or symptoms are mostly used for epidemiological investigations.
+
+
+### Association between Viral Load and Symptoms
+* [Lumley et al](#summary-lumley-march-21) observe for the viral loads taken by nasal and oropharyngeal swabs: symptomatic infections (median [IQR] Ct: 16.3 [IQR 13.5–21.7]) compared to asymptomatic infections (Ct: 20 [IQR 14.5–29.5]). Previously infected persons tend to have a lower viral load (higher Ct values) than seronegative persons or vaccinated persons:
+
+![Viral Loads by Symptoms and Vaccination](images/lumley_march_figure4.jpeg)
+
+* [Regev-Yochay et al](#summary-regev-yochay) find for health care workers (vaccinated and unvaccinated) a mean Ct value of 21.7 for symptomatic cases and 25.8 for asymptomatic cases.
+
+
+
+### Proportion of symptomatic Patients
+
+> The proportion of symptomatic patients is likely subject to various factors such as the SARS-CoV-2 variants present and the climate conditions. Therefore the dates and locations are stated from which both the variants prevalent and the climate conditions can be inferred.
+
+#### Early 2020
+The symptomatic proportion of cases varied through back since early 2020:
+* [Adam et al](#summary-adam) observe that until 27 March 2020 nearly everybody was symptomatic. Then abruptly from 27 March onwards the proportion of asymptomatic cases increased to about 40 %. // This could be due to the lineages having the D614G mutation.
+
+#### Early 2021
+* During the third Covid wave in Israel peaking around mid January 2021 about  [Regev-Yochay et al](#summary-regev-yochay) about 60 % of unvaccinated and about 50 % of vaccinated persons are asymptomatic.
+
+
+### Spread by Symptom Status
+Note: The strains prevalent during the time of investigation is relevant since strains can induce varying immune responses e.g. coronaviruses can diminish or activate the immune system.
+* [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% of the infections (7 out of 309) were caused by pre-symptomatic people.
+* [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
+
+
+
 
 ## Viral Load in Epidemiology
 
-
 ### Viral Load Interpretation
-Like infections with the other human coronaviruses, SARS-CoV-2 infections are not per se pathogenic just if SARS-2 replicates to very high numbers at the wrong locations (chapter [Virobiota](virome.md)). In the healthy state, the viral load is usually very low and so even sensitive tests such as PCR often don't detect the viruses. If SARS-2 viruses are causing uneasiness, one has the disease [Covid-19](./../3_medical/covid19.md). Very high numbers of viruses in the lungs can cause severe or even deadly pneumonia (Chapter Viral Load: section [Viral Load in the Lungs](../3_medical/diagnosis_and_viral_load.md#balf)).
+Like infections with the other human coronaviruses, SARS-CoV-2 infections are not per se pathogenic just if SARS-2 replicates to very high numbers at the wrong locations. If SARS-2 viruses are causing uneasiness, one has the disease [Covid-19](./../3_medical/covid19.md). Very high numbers of viruses in the lungs can cause severe or even deadly pneumonia (Chapter Viral Load: section [Viral Load in the Lungs](../3_medical/diagnosis_and_viral_load.md#balf)). Coronaviruses in health and disease are discussed in the chapter [Virobiota](./virome.md).
 
 
 ### Limit of Detection
-The detection limit is mostly due to technical limits and not that lower viral loads are not frequently. Low viral load cause only rarely a disease and so for disease diagnosis a limit of detection of 10^3 to 10^4  copies per milliliter (for most apparatuses 35 to 40 cycles) is more than good enough. However coronaviruses living as commensal microorganisms in the human respiratory tract however are only detected with a low probability. Coronaviruses as commensal microorganisms are discussed in the chapter [Virobiota](./virome.md) and the PCR accuracy in the chapter [PCR Diagnosis](./../3_medical/pcr_diagnosis.md).
+The detection limit is mostly due to technical limits and not that lower viral loads are not frequently. Low viral load cause only rarely a disease and so for disease diagnosis a limit of detection of 10^3 to 10^4  copies per milliliter (corresponds to 35 to 40 cycles for most apparatuses) is more than good enough. As noted, coronaviruses living as commensal microorganisms in the human respiratory tract in healthy state are usually low in numbers and therefore only detected with a low probability. Some note on PCR accuracy in the chapter [PCR Diagnosis](./../3_medical/pcr_diagnosis.md). The diagnosis of SARS-CoV-2 infections with a focus on disease causing infections is discussed in the chapter [Diagnosis](../3_medical/diagnosis_and_viral_load.md).
 
 
 ### Viral Load Distribution
@@ -111,9 +153,8 @@ The viral load of a population sample has a continuous distribution.
 The distribution of the Ct values often looks left skewed with many increasing frequencies towards higher Ct values and towards the PCR cutoff the distribution then sharply decreases towards the Ct value detection limit. This is not reflecting the actual viral load distribution since towards the detection limit the PCR sensitivity decreases which causes the Ct distribution to be increasingly chopped off at high Ct values. The actual distribution just continues below the LOD and then gradually decreases.
 
 #### Viral Load Distribution Shifts
+
 ##### Viral Load Shift by Immunity
-
-
 The same effect how the building up the vaccine immunity shifts the viral load distribution is also observed by [Regev-Yochay et al](#summary-regev-yochay) when the vaccine induced immunity builds up (fully vaccinated is 10 days after the 2nd dose) in their cohort of hospital staff.
 
 ![Viral Load by Vaccination Status](images/ry_viral_load.jpg)
@@ -138,7 +179,7 @@ Increased immune protection induces a shift of the distribution of the viral loa
 
 
 ##### Viral Load Shift by Age
-The same effect is observed for children from 5 to 10 years as [Lyngse et al](#summary-lyngse) show. From 10 to 20 there quite a lot of variation in the viral load and still many values towards the cutoff boarder indicating that many individuals have viral loads which are reliably detected. 
+A shift in the viral load distribution is observed for different age groups. The graphics below, by [Lyngse et al](#summary-lyngse), visualizes the viral load distribution for different age groups. For children from 5 to 10 years the CT values plots are shifted towards higher CT values. From 10 to 20 there quite a lot of variation in the viral load and still many values towards the cutoff boarder indicating that many individuals have viral loads which are not reliably detected. For people above 80 years the viral load distribution is more centered.
 
 ![Viral Load Distribution Children by Lyngse](images/lyngse_F6.jpg)
 
@@ -152,50 +193,17 @@ The same effect is observed for children from 5 to 10 years as [Lyngse et al](#s
 Considering the unbounded viral load distributions, the PCR cutoff values of 30, 35 or 40 PCR cycles are just arbitrary cutoffs and yield the number of samples below these values. So a positive test defined by 30 cycles - say 10^6 copies/milliliter - just detects all samples with a higher viral load (when away from the PCR detection limit, when close to the border samples are not detected with a certain probability since towards the detection limit the PCR accuracy is lost {[PCR Diagnosis](./../3_medical/pcr_diagnosis.md)}). 
 
 ##### Hypothesis
-*As long as the distribution is shifted 'uniformly', a 1 to 1 correspondence between the viral load distribution shift and the number of samples above or below a certain threshold value is expected.*
+*As long as the distribution is shifted 'uniformly' (the true viral load distribution not the Ct value distribution), a 1 to 1 correspondence between the viral load distribution shift and the number of samples above or below a certain threshold value is expected.*
 
 So if an immune protection reduces the viral loads when sampling at a given location, the positivity rate is reduced and the other way round. E.g.: If natural immunity reduces the viral load, it reduces the chance for a positive test (can be a PCR test with a cutoff of 30 or 40 as described in [Viral Load Shift by Immunity](#viral-load-shift-by-immunity)). Accordingly for vaccination: If vaccines fail to shift the viral load towards lower values in other words *if vaccinated persons have about the same viral load distribution as unvaccinated persons, the vaccines do not offer a protection.*
 
-
-
-## Observables for Covid Infections
-To analyze susceptibility and transmissions, one needs to specify which the SARS-CoV-2 infections to count and how to diagnose them. Diagnosis is traditionally geared toward diagnosing a disease to possibly initiate a treatment, discussed in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md). 
-
-Detection of infections for epidemiological investigations is mostly done by:
-* Symptom assessment
-* Viral load detection by PCR
-* Antibody detection for previous infections
-
-### Association between Viral Load and Symptoms
-* [Lumley et al](#summary-lumley-march-21) observe for the viral loads taken by nasal and oropharyngeal swabs: symptomatic infections (median [IQR] Ct: 16.3 [IQR 13.5–21.7]) compared to asymptomatic infections (Ct: 20 [IQR 14.5–29.5]). Previously infected persons tend to have a lower viral load (higher Ct values) than seronegative persons or vaccinated persons:
-   ![Viral Loads by Symptoms and Vaccination](images/lumley_march_figure4.jpeg)
-
-* [Regev-Yochay et al](#summary-regev-yochay) find for health care workers (vaccinated and unvaccinated) a mean Ct value of 21.7 for symptomatic cases and 25.8 for asymptomatic cases.
-
-
-
-### Proportion of symptomatic Patients
-
-> The proportion of symptomatic patients is likely subject to various factors such as the SARS-CoV-2 variants present and the climate conditions. Therefore the dates and locations are stated from which both the variants prevalent and the climate conditions can be inferred.
-
-#### Early 2020
-The symptomatic proportion of cases varied through back since early 2020:
-* [Adam et al](#summary-adam) observe that until 27 March 2020 nearly everybody was symptomatic. Then abruptly from 27 March onwards the proportion of asymptomatic cases increased to about 40 %. // This could be due to the lineages having the D614G mutation.
-
-#### Early 2021
-* During the third Covid wave in Israel peaking around mid January 2021 about  [Regev-Yochay et al](#summary-regev-yochay) about 60 % of unvaccinated and about 50 % of vaccinated persons are asymptomatic.
-
-
-### Spread by Symptom Status
-Note: The strains prevalent during the time of investigation is relevant since strains can induce varying immune responses e.g. coronaviruses can diminish or activate the immune system.
-* [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% of the infections (7 out of 309) were caused by pre-symptomatic people.
-* [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
 
 
 ### Spread by Viral Load
 How many virions are at the different locations in the respiratory tract and how much particulates are exhaled from each location determine the amount of virions exhaled. The number of exhaled viruses is a major determinant for transmission - however the viral load in the URT (e.g. nose) can be quite different from the number of exhaled virions (Chapter Viral Load: [Viral Load in Exhaled Air](../3_medical/diagnosis_and_viral_load.md#viral-load-and-infectiousness)). On average however the viral load in URT predicts transmission. The following graphics from [Lynsge et al](#summary-lyngse) shows the household transmission risk and rate by the viral load (risk=at least one contact infected and rate=infected/exposed):
 
 ![transmission by viral load](images/lyngse_F1.jpg)
+
 
 
 
@@ -251,7 +259,7 @@ People with regular movement are less likely for a symptomatic disease. Addition
 
 * *Possible Explanation:*
     * One reason is for the many severe cases, is that obesity itself increases the risk for severe Covid. But the case counts seem to increase overall i.e. also in people which are not obese [to check and cite/provide evidence]. 
-    * A possible biological explanation is that the mucus clearance is inversely proportional to the BMI which increases susceptibility for infection and the risk for a high viral load. High BMI also influences the exhaled aerosol (chapter [Particles in the Respiratory Tract](transmission.md#particle-dynamics-in-the-respiratory-tract).
+    * A possible biological explanation is that the mucus clearance is inversely proportional to the BMI which increases susceptibility for infection and the risk for a high viral load (some notes in [Increase the Mucus Flow](../6_prevention_and_treatment/increasing_the_mucus_flow.md)). High BMI also increases the exhaled aerosol (chapter [Particles in the Respiratory Tract](transmission.md#particle-dynamics-in-the-respiratory-tract)).
 
 
 
@@ -267,7 +275,7 @@ Specifically for Italy a correlation between Covid and air pollution is shown by
 ### Smoking
 _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for severe risk than never smokers. For current smoker the risk is similar or only slightly higher than for never smokers.
 
-* [Simons et al](#simons)
+* [Simons et al](#simons) is a meta analysis with studies from across the world.
 
 > The overall health benefits of a smoke stop outweigh by fare a possible increased Covid incidence: Current smokers seem to have no higher Covid risk than never smokers, but a lower risk than former smokers. This could be caused by (possibly toxic) environment changes in the lung when smoking. [Local environment changes in the lungs](../6_prevention_and_treatment/temperature_modulation.md) can also be achieved with sauna or steam inhalation which don't have the possibility of health hazards which smoke has.
 
@@ -280,7 +288,7 @@ _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for sev
 
 ## Transmissions by Age
 ### Household Transmission by Age
-
+#### Household Transmission in the UK
 [JA Hall et al](#summary-ja-hall) reveal by analyzing "Household Transmission Evaluation Data" in England:
 * people between 5 and 29 years have lower household transmission rates than the other groups. 
 * The household transmission is high between people over 40 years of approximately the same age.
@@ -293,6 +301,7 @@ The observed transmissions by the age of the index cases (x-axis) and the contac
 
 * A very similar transmission pattern is also observed in the Netherlands by [van der Hoek et al](#van-der-hoek). The transmission pattern shown in "Figuur" in their paper is very similar to the results shown above. The article is in dutch and for this reason is not considered any further.
 
+#### Household Transmission in Denmark
 > Analyzing the household transmission by age is tricky, since older people often live in small households whereas children often in larger households. In larger households the attack rates (probability of infection) usually are lower e.g. there are usually several rooms. So in large household with children, an observed lower transmission rate, could be either due to the lower transmission rates of children or the larger household size. [Lyngse et al](#summary-lyngse) tackle this, by defining the transmission risk as a least one transmission occurring and the transmission rate as the proportion of transmissions occurring. The transmission risk is excepted to be higher in larger households while the transmission rate is excepted to be higher in small households since in the latter people tend to be closer together.
 
 [Lyngse et al](#summary-lyngse) observe:  
@@ -308,12 +317,14 @@ The transmission rate (left graphics above) from age to age for the different qu
 
 ![transmission from age to age by viral load](images/lyngse_F10.jpg)
 
----
-[Dattner et al](#summary-dattner) observe that children are relative to adults
-* less susceptible 45% [40%, 55%]) 
-* somewhat less infectious 85% [65%, 110%])
 
-#### General Household Transmission 
+#### Household Transmission in Israel
+[Dattner et al](#summary-dattner) observe that children are relative to adults
+* less susceptible 45% [40%, 55%]
+* somewhat less infectious 85% [65%, 110%]
+
+
+#### Household Transmission Meta-Analysis
 The meta-analysis by [Madewell et al](#summary-madewell) concludes that children are only about half as likely to get infected in households compared to adults (spouses are most likely to get infected, the adult infections are subject to relationship habits).
 
 
@@ -346,6 +357,7 @@ With increasing age the innate sensing mechanisms are diminished, which can give
 
 
 
+
 ## Effects of Acquired Immunity
 
 ### Effects of Natural Infection
@@ -361,13 +373,15 @@ With increasing age the innate sensing mechanisms are diminished, which can give
 #### Vaccine Time Varying Effects
 ##### Building Up Vaccines Induced Immunity
 The viral load viral load decreases (the Ct values increase) in a steady way with increased protection from vaccination (Maximal protection is achieved from about 10 days after the second dose). These effects are described in more detail in the section [viral load shifts](#viral-load-by-vaccination).
+
 ##### Waning of Vaccine Induced Immunity
 [to be done]
 
 
 #### Vaccine Effects on Transmission
-[to be completed]
-* 
+
+
+
 
 ### Comparing Vaccines and SARS-CoV-2 Infection
 [in work]
@@ -723,7 +737,7 @@ The Southern regions have lower secondary attack rates likely due to the more co
 ##### Methods Details
 "As the incubation period for SAR-CoV-2 is thought to be 2–14 days [16],  we chose a threshold of 2 days between the specimen dates of the index and secondary cases as a pragmatic decision to offset the risks of misclassifying cases as either co-primary or as secondary. A sensitivity analysis using a cut-off of 4 days found to have little effect on any of the results or on the multivariable model. We have also made the implicit assumption that two (or more) cases occurring in a household within 2–14 days represents household transmission when it also plausible that they are two independent community-acquired infections. However, given the timing of this study, when the number of cases was at its lowest, this risk is probably small." 
 
-> // Considering the asymptomatic/low symptomatic cases, simultaneous community acquired infection (e.g. at a super spreading event) cannot be ruled out even with the sensitivity analysis by varying the incubation cut-offs.
+> // Simultaneous community acquired infection (e.g. at a super spreading event) cannot be ruled out even with the sensitivity analysis by varying the incubation cut-offs taking into account quite frequent asymptomatic/low symptomatic cases.
 
 
 #### Summary Harris
@@ -1218,8 +1232,8 @@ Age Group (years) | Vaccination | Children with history of measles | Total Immun
 10 - 14 years | 36 % | 39 % | 75 %
 
 #### Findings
-* Attack rates are about 50% for unvaccinated children in households/huts and about 20% in compounds regardless of age group (Table 2.) // surprising since in the older age groups previous measles infection are more prevalent ([Setting](#setting-measles-senegal)) and a previous infection provides near complete immunity [to cite].
-* Attack rates for vaccinated children were about 10 % across all settings and age groups. (Table 2) // thus the vaccine seem to reduce susceptibility by 80 %
+* Attack rates are about 50% for unvaccinated children in households/huts and about 20% in compounds regardless of age group (Table 2.) // surprising since in the older age groups previous measles infection are more prevalent ([Setting](#setting-measles-senegal)) and a previous infection provides near complete immunity [to cite]. The equal attack rates combined with increased seroprevalence at higher age, indicates that the susceptibility tends to increase with age.
+* Attack rates for vaccinated children were about 10 % across all settings and age groups. (Table 2) // thus the vaccine reduce the susceptibility by 80 %
 * Unvaccinated index cases yield about 1.5 to 2 times more secondary cases (Table 3).
 * A measles infection was not associated to a change in school grades.
 
