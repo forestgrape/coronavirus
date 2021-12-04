@@ -44,7 +44,7 @@
 ## Conceptual Summary
 Interferons (IFNs) are signalling proteins which induce an antiviral state in their target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically (=locally, e.g. aerosolized or by spray to the respiratory tract or as cream) or systemically (subcutaneous, intramuscular, intravenously).
 
-Interferon treatments inhibit the replication of SARS-CoV-2 viruses in the respiratory tract and thereby if administrated before there are many viruses prevent disease progression: Early initiated interferon treatments have been shown to reduce the Covid mortality by over 75%. When patients are already at an advanced disease stage, systemically administrated interferons often have adverse effects on the outcome due to the mentioned inflammatory effects. For topical application even some benefits in mid to advanced disease stages are observed. 
+Interferon treatments inhibit the replication of SARS-CoV-2 viruses in the respiratory tract and thereby, if administrated before there are many viruses, prevents disease progression: Early initiated interferon treatments have been shown to reduce the Covid mortality by over 75%. When patients are already at an advanced disease stage, systemically administrated interferons often have adverse effects on the outcome due to the mentioned inflammatory effects. For topical application even some benefits in mid to advanced disease stages are observed. 
 
 
 ## Summarized Observations
