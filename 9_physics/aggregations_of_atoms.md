@@ -7,6 +7,7 @@
 
 > Currently (May 2021) a loose collection of topics, how atoms arrange to form matter. Mainly topics relevant for other part of this page are discussed. The topics are sketchy and incomplete. Long-term goal: Description how atomic elements arrange to form inorganic or organic matter.
 
+
 ## Content
 * [Content](#content)
 * [Summary](#summary)
@@ -52,6 +53,7 @@ Changes in the temperature or the mixture of substances influence the intermolec
 Particles which can absorb water are called hygroscopic. These can growth or shrink in humid respectively in dry air.
 
 Evaporation can lead to over saturation of a solution and cause the organic or inorganic materials to crystallize. This process is called efflorescence and is reverse to deliquescence. Deliquescence is when particles absorb water and become solute therein.
+
 
 
 ## Principles 
@@ -198,7 +200,7 @@ At the condeva equilibrium the particles stay constant in size. For a given subs
 ### Efflorescence and Deliquescence
 
 > ##### Efflorescence
-> Efflorescence is the process dissolved matter falls out and crystallizes. 
+> Efflorescence (derived from fluorspar/fluorite which is the salt calcium fluoride) is the process dissolved matter falls out and crystallizes. 
 
 Usually efflorescence happens because of evaporation of water out of a solution but other mechanism to remove water are possible to such as other substances which absorb water. 
 
@@ -214,7 +216,7 @@ Notes:
     >  The efflorescent humidity is likely lower for upper respiratory tract fluids than for LRT fluids since URT fluids are more hydrophilic [to confirm and cite]. Guess: about 40% for LRT fluids and about 30% for URT fluids.
 
 > ##### Deliquescence
-> *Deliquescence* is the process when solid matter goes into solution.
+> *Deliquescence* (= de ‘down’ + liquescere ‘become liquid’) is the process when solid matter goes into solution.
 
 1. Deliquescence for salts is usually due to absorption of water.
 2. Deliquescence is opposite to efflorescence for the adsorption of water.
