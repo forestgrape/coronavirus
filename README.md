@@ -1,3 +1,3 @@
 * Readable on github pages: <https://forestgrape.github.io/coronavirus/> 
-* Readable and inspectable here on github. Recommended start point is [Index.md](./index.md)
+* Readable and inspectable on this github repository. How the page is organized is described in [Index.md](./index.md).
 
