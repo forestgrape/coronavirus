@@ -37,7 +37,7 @@ The short and long term exposure to air pollutants is relevant for the susceptib
 * Air pollution is generally relevant for susceptibility to respiratory infections.
 * Air pollution can affect health in many ways e.g. increase the risk of arteriosclerosis which is risk factor for severe Covid.
 
-    > This page about betacoronaviruses is mostly written in settings with clean air: In regions of Swiss Alps and pre alps and some parts - in 2020 - also in the Austrian and Italian alps. Working at the coast (including islands) also works well. Subjectively, I can better concentrate and have a better endurance in settings with good air.
+    > This page about betacoronaviruses is mostly written in settings with clean air: In regions of Swiss Alps and pre alps and some parts - in 2020 - also in the Austrian and Italian alps. Important basics were layed when working on islands and in coastal regions. Subjectively, I can better concentrate and have a better endurance in settings with good air.
 
 
 ## Air Quality Certification
