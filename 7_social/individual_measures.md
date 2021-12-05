@@ -12,7 +12,7 @@ In my opinion, measures should  not target individuals and accordingly not be ba
 
 
 ## Scientific Considerations
-It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated. Another scientific question is, whether and which vaccines are safe. 
+It is scientific task to determine the properties/features that predicts whether someone is more or less likely to be infectious. One such feature is being vaccinated. Another scientific question is, whether and which vaccines are safe.
 
 > Both infectiousness and vaccine safety are not rigorously discussed on this page. Some notes are available however:
 > * A possible method to determine infectiousness is to determine the number of viruses in exhaled aerosol ([Viral Load in exhaled Air](../3_medical/diagnosis_and_viral_load.md#viral-load-in-exhaled-air)). In the chapter [individual factors for transmission and susceptibility](../5_epidemiological/individual_susceptibility_and_transmission.md) there are some epidemiological observations on the effects of vaccines on transmission.
@@ -61,9 +61,8 @@ Article 5
 No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
 
 
-
 ### Vaccine Mandates contradict Human Rights
-Article 1 is violated by vaccine mandate violates the right of reason and conscience. When it's about to reduce transmission pre-testing is an alternative (and much safer). When its about catching a disease, the risks to take in life, in my opinion, is an individual decision of reason and conscience.
+Article 1 violates the right of reason and conscience. When it's about to reduce transmission pre-testing is an alternative (and much safer). When its about catching a disease, the risks to take in life is an individual decision of reason and conscience.
 
 Article 2 is violated since a distinction is made by the vaccine/antibody status.
 
@@ -83,8 +82,7 @@ Article 5 is violated since experimental vaccination can be perceived as cruel, 
 > To my judgement, there is no rigorous scientific foundation to differentiate between vaccinated and unvaccinated persons if not at risk for severe Covid: The science published suggests that intramuscular vaccines don't provide a protection against transmission for more than a few months. Thus the current restrictions of people opting out of vaccinations can be viewed as out casting people based on attitudes without a medical basis - at least in the case of people not at elevated risk for severe Covid, which includes all people below 30 years of age. For people at risk for severe Covid there is a risk of hospitalization but 1) transmissions of (severe) Covid often happen within residential block and 2) other behaviors which increase the risk of hospitalization need to be banned too. Also the long-term risk of the current vaccines is unknown and time-associated hospitalizations and even deaths are reported (//nevertheless for high risk groups one time vaccination is recommended on this page since severe Covid is severe). Also people can opt out of hospitalization/intense care and then this argument does not hold.// I don't think, it is nice to neglect (some) treatments (as commented in [Controlling>Strategy](controlling.md#strategy)), but is is a third option to experimental vaccination and to be out-casted from social life for months or more.
 
 > Good treatment options would be nice! 
-> 
-> A very promising treatment is early administrated interferon alpha which reduces mortality by over 75% (chapter [Interferon Treatment](../6_prevention_and_treatment/interferon.md)).
+> A very promising treatment is early administrated interferon alpha  (chapter [Interferon Treatment](../6_prevention_and_treatment/interferon.md)).
 
 
 > *The risks to take in life, everybody should be eligible to choose on his own.*
