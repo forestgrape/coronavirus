@@ -8,7 +8,7 @@ explorative: 1
 
 # Understanding Betacoronaviruses and their Diseases
 
-This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses (tagged as 'explorative').
+This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses (which are tagged as 'explorative').
 
 ## Sections of this Chapter (index)
 * [Bird View of Content](#bird-view-of-content): Gives a short overview of the different topics.
