@@ -19,9 +19,10 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
   * properties of their genome copying:
     * [single stranded RNA](../2_biological/life-forms.md#ssRNA) is copied by RNA-dependent RNA polymerase, which yields a higher rate of random point errors (mutations) compared to DNA polymerases
     * a homologous recombination mechanism [[Woo et al.](#woo)] , more refs coming]
-* A large overall populations size = (within host population) * (number of infected hosts)
+* A large overall populations size = (within host population) * (number of infected hosts) 
   * large population size within hosts. 
   * the number of infected hosts can be large (for Sars-CoV-2)
+  > *This ignores the transmission bottleneck which is usually only a couple of viruses. Therefore if SARS-CoV-2 frequently changes hosts the effective population size is much lower.*
 
 * Coronaviruses have large genomes (in comparison to other RNA viruses or messenger RNAs) which both back the recombination and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occurring on todays earth, possibly even the largest [to check].  
 
