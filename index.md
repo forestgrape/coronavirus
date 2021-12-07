@@ -72,7 +72,8 @@ There is also a rather subjective page in German with some comments on the Coron
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources.
 
 ### Recent Updates
-<!-->>> 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination even if the vaccines would be considered as safe(3.12.21).-->
+<!-->>> 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
+- 7.12. Thanks @allwebtechs  enabling this project. Special thanks @github, thanks @gmail for free and reliable web services. thanks @anybody helping.
 - 7.12. Updated [Table of Content](#content).
 - 2.12. Clarifications across page and made content for objective and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md) *(announced here 4.12.)*
 - 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
