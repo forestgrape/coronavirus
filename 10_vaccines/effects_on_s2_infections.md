@@ -1,8 +1,10 @@
-# Effects of Vaccination on the Immune System and the induced effects on SARS-CoV-2 Infections
+# Effects of "Covid Vaccines" on the Immune System and the induced effects on SARS-CoV-2 Infections
 
 > * *In work and incomplete.*
 > * *To be checked.* 
 > * *Often just emphasizing open questions.*
+
+> *Mostly written in June 2021. To updated to the current stand of published research e.g. immune responses caused by vaccines are to some extent known by now (December 2021, also many have already been known back in June but I didn't known the publications back then).*
 
 * [Summary](#summary)
 * [Introduction](#introduction)
@@ -15,7 +17,7 @@
 
 
 ## Summary
-The admitted vaccines are administrated into the muscle and mostly use the spike as antigen. This produces a strong IgG antibody response with neutralizing capabilities. People immunized like this are less likely to develop typical Covid symptoms and ADRS compared to SARS-2 unexposed individuals. Most vaccines also reduce the average viral load measured in the upper respiratory tract (mostly NPS but mostly not well specified). Less is published about other effects of spike-muscle vaccination such as the prevalence atypical infections or the durations of infections, the effect on evolution and transmission pathways of SARS-CoV-2. 
+The admitted vaccines are administrated into the muscle and mostly use the spike as antigen. This produces a strong IgG antibody response with neutralizing capabilities in vitro. People immunized like this are less likely to develop typical Covid symptoms in the first few months and there is protection against ADRS which lasts for a least half a year. Most vaccines also reduce the average viral load measured in the upper respiratory tract (mostly NPS). Less is published about other effects of spike-muscle vaccination such as the prevalence atypical infections or the durations of infections, the effect on evolution and transmission pathways of SARS-CoV-2. 
 Here open questions emphasized and observations from other respiratory viruses are considered: 
 * It is observed for influenza A that once symptomatic aerosol transmission is increased 
 * For delta coronaviruses, vaccines have been shown to promote immune escape evolution
@@ -51,7 +53,7 @@ In the trials it has been shown that the Cov-spike-into-muscle vaccines induced 
 ### Immune Response upon Infection depending on Vaccine Status
 Few is published about what happens upon infection.
 * Are the IgG globulins up-scaled? Stay they constant because they are already high enough or the body judges them as not adequate against respiratory infections?
-* Are the IgA globulins up-scaled? More quickly than at SARS-2 unexposed people?  // It can be that the main protection of the vaccines results from the knowledge of the antibodies to target SARS-2 and not from the IgG levels in the blood. If that's the case much lower doses of vaccines could be sufficient - offering near the same protection at lower risks for unwanted effects.
+* Are the IgA globulins up-scaled? More quickly than at SARS-2 unexposed people?  // It can be that the main protection of the vaccines results from the knowledge of the antibodies to target SARS-2 and mainly irrespective of the IgG levels in the blood. If that's the case much lower doses of vaccines could be sufficient - offering near the same protection at lower risks for unwanted effects respectively causing less damage.
 
 
 
@@ -62,7 +64,7 @@ Few is published about what happens upon infection.
 Background: For vaccinated people at baseline there's much IgG but few IgA ([Immune Responses](#immune-responses)). The viruses may be mainly prevented from infecting the alveoli (which corresponds to the observations that vaccines reduce the frequency of ARDS).
 
 There are open questions, how the vaccination primed immune system alters SARS-CoV-2 infections:
-* Which locations are infected? Or concretely in which specimens SARS-2 RNA is detected? In NPS samples, saliva samples, endotracheal lavage fluid, bronchealveolar lavage fluid? E.g. it could be that mainly the bronchi are infected but not the alveoli. This is possible since the bronchial epithelium is less protected by IgG, but the alveolar cells are protected by IgG.
+* Which locations are infected? Or concretely in which specimens SARS-2 RNA is detected? In NPS samples, saliva samples, endotracheal lavage fluid, bronchoalveolar lavage fluid? E.g. it could be that mainly the bronchi are infected but not the alveoli. This is possible since the bronchial epithelium is less protected by IgG, but the alveolar cells are protected by IgG and circulating T cells.
 * Is the clearance faster or slower. Longer infection durations or even persistent infections are possible in the bronchial epithelium.
 
 
@@ -70,4 +72,4 @@ There are open questions, how the vaccination primed immune system alters SARS-C
 ## Transmission
 > in work
 
-Vaccination may provide preparedness which could reduces spread. However whether Covid vaccines (admitted as of 30 June 21 are mostly intramuscular vaccines which do not produce much IgA) have a reducing effect on viral shedding for a given symptom status is currently unclear (many investigations are heavily biased since vaccinated people have less reason to get a Covid test for many reasons (less likely to be hospitalized, Covid certificates often suppose vaccinated can *not* be infectors, ...). Some investigations do uniform screening but often NPS swabs are taken which are not necessarily predictive for aerosol shedding).
+Vaccination may provide preparedness which could reduces spread. However whether Covid vaccines (admitted as of 30 June 21 are mostly intramuscular vaccines which do not produce much IgA) have a reducing effect on viral shedding for a given symptom status is currently unclear (many investigations are heavily biased since vaccinated people have less reason to get a Covid test for many reasons (less likely to be hospitalized, Covid certificates often suppose vaccinated can *not* be infectors, ...). Some investigations do uniform screening but often NPS swabs are taken which are not a good predictor for aerosol shedding.
