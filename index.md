@@ -69,19 +69,21 @@ There is also a rather subjective page in German with some comments on the Coron
   
   > Risk groups in risk regions (e.g. countries in the Southern hemisphere) will thank for vaccines now. Later can be to late.
 
-- 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources. Sometimes
+- 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources.
 
 ### Recent Updates
+<!-->>> 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination even if the vaccines would be considered as safe(3.12.21).-->
+
 - 2.12. Clarifications across page and made content for objective and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md) *(announced here 4.12.)*
 - 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
 - 27.11.: Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.
 - 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
-- 13.-15.11.: Formulations. Some formulations changed back and forth. 
+- 13.-15.11.: Formulations. Some formulations changed back and forth.
   > *When rules restrict individuals based on R values or even without medical basis - both is in general firmly opposed on this page -, conciseness and directness are the focus.*
 - 12.11.: Updates across the page, for example: added pictures to [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md).
 - 12.9.: [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md) clarified and extended.
 - 9.9. Many small changes across the page and a new chapter added: [Recent Topics added](#recent-topics-added).
-- 5.9.: New brainstorming [Chapter on Air Quality](7_social/good_air.md). How to measure, achieve and certify the air quality. 
+- 5.9.: New brainstorming [Chapter on Air Quality](7_social/good_air.md). How to measure, achieve and certify the air quality.
 - 1.9.: Added some references that a lifestyle [movement](6_prevention_and_treatment/movement.md) helps to prevent severe Covid.
 - 27.8.: New Accompanying Page which contains situations estimates/analyses for Switzerland: <https://forestgrape.github.io/corona-ch/> (Page in German)
 - 27.8.: Section [Outdoors is Safer](7_social/controlling.md#outdoors-is-safer) on the controlling page clarified.
@@ -152,12 +154,14 @@ There is also a rather subjective page in German with some comments on the Coron
 > In the [source on github](https://github.com/forestgrape/coronavirus/blob/master/index.md) the topics correspond to folders and the chapters correspond to files.
 
 
-### 1 Introductory Topics
 
+### 1 Introductory Topics
 * [Public Suggestions and Tips](1_introduction/suggestions.md)
     Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
 * [Update History](1_introduction/update_history.md): Content and updates as published in reverse chronological order.
 * [Situation Assessments](1_introduction/situation_assessments.md).
+* [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources.
+
 
 
 ### 2 Biological Topics
@@ -170,21 +174,28 @@ There is also a rather subjective page in German with some comments on the Coron
   * Above 45 degrees the decay fastens and is less dependent on the biochemical environment since the spring-loaded proteins loose their energy.
   * A fast decay occurs when the concentration of salts is very low in the surrounding water. This is the case in distilled water and in situations with a lot of condensation. Possible mechanisms: osmotic pressure or increase of degrees of freedom of movement especially of the single stranded RNA/DNA.
 - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
-- [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
-    The natural habitat of SARS-CoV-1/2 includes domestic animals and insects in the region northern Yunnan. The life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
+  - [Coronavirus Evolution](2_biological/coronavirus_evolution.md)
+  - [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
+    The natural habitat of SARS-CoV-1/2 likely includes domestic animals and insects in the region northern Yunnan. Possibly the life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
+
 
 
 ### 3 Medical Topics
 * [Covid-19](3_medical/covid19.md)
     The Covid-19 results from the interplay between the immune system and SARS-CoV-2. SARS-CoV-2 can infect different locations throughout the respiratory tract and  the immune response experienced depends on the location. Therefore Covid-19 is a disease with many faces. 
 * [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md) How to diagnose Covid with a focus on methods detecting parts of viruses (virus RNA with PCR or virus proteins with antigen test) at different locations (e.g. in the nose, mouth, lungs).
-- [Infection Locations and Disease Patterns](3_medical/coronavirus_disease_patterns.md) (*explorative*)
+  * [Immunological Detection Methods](3_medical/immuno_assyas.md): Antibodies bind very specifically to certain substance (mostly proteins), immuno assays use this property to detect specific substances. Antigen and antibody tests for by this principle.
+  * [PCR Detection](3_medical/pcr_diagnosis.md): Some notes on the detection of viruses by PCR. PCR usually have an error rate of a few cycles (95% confidence interval). Low viral loads have a certain probability to go undetected.
+* [Infection Locations and Disease Patterns](3_medical/coronavirus_disease_patterns.md) (*explorative*)
+
 
 
 ### 4 Immunological Topics
 * [A conceptual View of Immunology](4_immunological/concepts_of_immunology.md)
   Selected topics of the immune protection with a focus protection versus coronaviruses are discussed. 
-* [Immune Evasion](4_immunological/immune_evasion.md) How coronaviruses circumvent immune system obstacles.
+* [Immune Evasion Mechanism of Coronaviruses](4_immunological/immune_evasion.md) How coronaviruses circumvent immune system obstacles.
+* [Development and Localization of the Immune System during Life](4_immunological/ontogenesis_and_locality_of_immunity.md): How the immune system developes during lifetime and how the pathogen exposures induce immune adaptions which are often localized. During childhood SARS-CoV-2 is just another new virus as each virus is encountered once for the first time. With increasing age the immune system increasingly relies on the previously seen pathogens and looses capabilities to handle new viruses.
+
 
 
 ### 5 Epidemiological Topics 
@@ -196,11 +207,14 @@ There is also a rather subjective page in German with some comments on the Coron
   - analyse spread pattern of Covid-19 which indicate aerosol transmission
   - and based on the discussed transmission pathways, protection measures are suggested: smoke protection and masks.
 - [Situation specific Spread Analyses](5_epidemiological/spread_analyses.md) Situations where Covid-19 spreading is observed or is *not* observed are described. High transmission of severe Covid is observed in situations where much air is exchanged between people. Much air is exchanged when spending a lot time indoors without ventilation, crowded confined settings, at high altitude and when deep breathing (e.g. sports, singing).
-- [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md). How much individual factors such as age, dirty air exposure and acquired immunity (either by natural infection or vaccination) influence the susceptibility and the onwards spread 
+- [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md): How much individual factors such as age, dirty air exposure and acquired immunity (either by natural infection or vaccination) influence the susceptibility and the onwards spread.
+- [Microbiota with a Focus on Virobiota in the Respiratory Tract](5_epidemiological/virome.md): The mucosal surfaces such as the intestine and the respiratory tract form habitats to a variety of microorganisms. The focus is on viruses in the respiratory tract and their roles in health and disease.
 - [Evidence for Increased Immune Protection against Sars-CoV-2 from Exposure to BCoVs](5_epidemiological/covid_and_bovine_farming.md) (*explorative section*)
 
 
+
 ### 6 Treatment and Prevention
+- [Treatment Overview](6_prevention_and_treatment/treatment_overview.md): Which treatments at which time.
 - [Interferon Treatment](6_prevention_and_treatment/interferon.md): Early interferon treatment helps to reduce the viral load and prevents more than half of severe disease cases. Interferon alpha treatment shows the best results with a mortality reduction above 75% if used early. Topical administration to the respiratory tract (spray or nebulized) shows benefits even in mid to advanced disease stages. Systemically applied interferons (especially IFN beta) on the other hand yield adverse outcomes when applied late.<br>
   => 1) Topical IFN alpha is recommended to treat SARS-CoV-2 infection and treatment should start as early as possible.<br>
   => 2) Systemic or topical IFNs are recommended as prophylaxis for risk groups upon exposure or at high incidence rates of severe Covid.
@@ -214,24 +228,32 @@ There is also a rather subjective page in German with some comments on the Coron
   - [Increase the mucus Flow by humidified air](./6_prevention_and_treatment/increasing_the_mucus_flow.md): Humidify inhaled air early on to increase the mucus flow and wash the virions out. The goal is a reduce viral load and better prognosis. (explorative)
 
 
+
 ### 7 Social Topics
-* [Thoughts about Controlling Sars-CoV-2](7_social/controlling.md)
-    Thoughts how to tackle and control Covid-19. Different kind of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
+* [Thoughts about Controlling Sars-CoV-2](7_social/controlling.md): Thoughts how to tackle and control Covid-19. Different kinds of measures are discussed from physical (mask, ventilation) to social measures such as an early closure of nightlife.
 * [Thoughts on Economical Systems](7_social/economics.md): How to design an economical system which enables free choice for the economic life.
-* [Legal Considerations on Vaccine Mandates](7_social/individual_measures.md) 
+* [Considerations on Individual Measures](7_social/individual_measures.md): Consideration on measures targeting individuals. E.g. splitting societies by the immune status or vaccine status is discussed.
+* [Good Air Certificate](7_social/good_air.md): Severe Covid mainly spreads from lung to lungs through dry air. Thoughts how to reduce this spread by ventilation, air humidification and air cleaning.
+* [Advisory Covid App](7_social/advisory_covid_app.md): Proposal of an advisory app that estimates the exposure risk. Upon high exposure risk a test can be adequate to early detect a possible infection either to initiate a treatment for risk groups or to reduce ongoing transmission.
+
 
 
 ### 8 Data Topics
-* [Monitoring](8_data/monitoring.md)
-    About testing, monitoring, gathering and publishing data.
+* [Monitoring](8_data/monitoring.md): About testing, monitoring, gathering and publishing data.
+* [Data](8_data/data.md): On publishing and analyzing data.
+
 
 
 ### 9 Topics in Physics, Chemistry and Biology 
 * [Aggregation of Atoms](9_physics/aggregations_of_atoms.md). How atoms aggregate to form the different kinds of matter.
 
 
+
 ### 10 Vaccines
-* [Vaccine Safety Considerations](10_vaccines/vaccine_safety.md)
+* [Immunization](10_vaccines/immunization.md): How to prepare the immune system to pathogens.
+* [Vaccine Safety Considerations](10_vaccines/vaccine_safety.md): Open safety question and possible adverse effects of 'mRNA' vaccines and adenovirus vaccines.
+* [Effect of Covid-Vaccines on SARS-CoV-2 Infections](10_vaccines/effects_on_s2_infections.md): What effects the current have or can have on SARS-2 infections. The knowns and the unknowns.
+
 
 ---
 
