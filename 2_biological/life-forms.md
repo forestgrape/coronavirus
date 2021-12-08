@@ -92,15 +92,16 @@ The simplest life forms on todays earth are viroids.
 > ###### Viroid
 > *Viroids* are pieces of RNA able to replicate.
 
-All other known life forms on todays earth also encode enzymes made of proteins. The base units of proteins are polypeptides:
-
+All other known life forms on todays earth also encode enzymes made of proteins. 
 > ###### Polypeptides
 > A *polypeptide* consists of amino acids chained together.
+
+One or more polypeptides are structured to form a functional unit, called protein:
 
 > ###### Protein
 > A *Protein* consists of one or more polypeptides. 
 
-Polypeptides are assembled by ribosomes:
+Polypeptides are produced by ribosomes:
 
 > ###### Ribosome
 > *Ribosomes* read RNA in positive sense and select a amino acid for each triple of RNA acids and chain these amino acids together to polypeptides.
@@ -115,13 +116,23 @@ As noted RNA is able to have nearly all functions related to live e.g. as enzyme
 
 Translatable RNA is ribosome and life form specific.
 
-One or more polypeptides are structured to form a protein:
+
 
 
 The storage piece encoding RNA making up a functional protein or a functional RNA is called a gene:
 
 > ###### Gene
 > A *gene* denotes a piece of storage encoding a functional polypeptide or RNA strand.
+
+> ###### Messenger RNA
+> Messenger RNA (mRNA) is a special from of translatable RNA which is transcribed from DNA in the cell nucleus and sent to the cytoplasm for translation. 
+
+How mRNA is processed is strictly regulated [to check, to confirm and to cite]:
+* mRNA be subject to variety of post-transcriptional modifications
+* a variety of "helper RNAs" guide the translation to proteins:
+  * How much protein is produced
+  * At which ribosomes the proteins are proteins e.g. at the rough endoplasmic reticulum or at free ribosomes in the cytoplasm.
+  * Possibly helper RNAs are also involved in post-translational modifications [to check]
 
 
 
@@ -217,10 +228,10 @@ As noted all forms of life which encode their entire metabolism are dsDNA based.
 > ##### Prokaryotes
 > Life forms having an outer membrane but no inner membrane shielding the genome away from the main metabolism. These forms are called *prokaryotes* (from Greek: pro=before, karyo=kernel).
 
-Some cells are subdivided again by membranes into different compartments which are called cell organelles. If the genome is shielded by a kernel genome is shielded by a membrane this organelle is called nucleus. 
+Some cells are subdivided again by membranes into different compartments which are called cell organelles. If the genome is shielded by a kernel, this organelle is called nucleus. 
 
 > ##### Eukaryotes
-> Cell forming life forms shielding their genome by an inner membrane are called *eukaryotes* (naming done in the 60's eukaryote = with-a-well-formed-kernel; eu=well and karyo=kernel). This inner structure is called nucleus.
+> Cell forming life forms shielding with their genome within a nucleus are called *eukaryotes* (naming done in the 60's eukaryote = with-a-well-formed-kernel; eu=well and karyo=kernel). 
 
 * Prokaryotes
   - Eubacteria
@@ -261,7 +272,7 @@ Storage form of behavior and responses:
 
  
 #### Responses to Stimuli
-> section in work and changes likely
+> *section is unfinished, clarifications are needed and changes likely*
 
 > ##### Taxis
 > *Taxis* denotes directed movement in response to a stimulus.
