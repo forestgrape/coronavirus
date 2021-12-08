@@ -52,7 +52,7 @@ In conclusion, the safety of vaccines can only be ensured by symptoms if a thoro
 * 23.7.: Extended list of speculative adverse effects: 
 	- Intramuscular administrated Adenovirus vaccine may increase the cancer risk (depends on the adenovirus strain, mainly whether they enter replication capable cells).
 	- 'mRNA vaccines' if they have a tropism for the ovaries, they may transfect some follicles. Effect could be similar to some years of smoking.
-
+* 8.12.: Noted, that I likely caused a TBE infection when thinking about this page with only causing slight symptoms despite TBE has a neurotropism.
 
 
 
