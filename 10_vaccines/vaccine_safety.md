@@ -44,14 +44,14 @@ The method of tolerable symptoms watching is not necessarily enough to ensure th
 
 In conclusion, the safety of vaccines can only be ensured by symptoms if a thorough understanding of their behavior in the body is known. 
 
-> To my knowledge, to behavior of the 'mRNA' vaccines and the adeno with spikes vaccines in the body is not published detailed enough for the scientific community to estimate the risk of possible adverse effects. 
+> To my knowledge, to behavior of the 'mRNA' vaccines and the adeno with spikes vaccines in the body is not published detailed enough for the scientific community to estimate adverse effects. 
 
-> In software, open source yields huge quality improvements. 
+> In software, open source often yields quality improvements. 
 
 ## Recent Updates
 * 23.7.: Extended list of speculative adverse effects: 
 	- Intramuscular administrated Adenovirus vaccine may increase the cancer risk (depends on the adenovirus strain, mainly whether they enter replication capable cells).
-	- 'mRNA vaccines' if they have a tropism for the ovaries, they may damage some follicles. Effect could be similar to some years of smoking, which also can damage the follicles.
+	- 'mRNA vaccines' if they have a tropism for the ovaries, they may transfect some follicles. Effect could be similar to some years of smoking.
 
 
 
@@ -131,7 +131,8 @@ Some points relevant for Covid vaccines are:
 * *Tissues:* To which tissues the vaccines are distributed?
 	If the vaccines reside within the deltoid muscle where administrated, possible direct effects are mostly localized there. If they vaccines are distributed systemically effects are not localized and much harder to diagnose. 
 	
-	> Also there tissues like the bone marrow or the brain where damage is not wanted.
+	> Also there tissues like the bone marrow or the brain where mRNA transfection is not wanted.
+
 
 * *Cells:* What's the cell tropism of the vaccines i.e. which cells they preferably attach and enter?
 
@@ -151,7 +152,7 @@ Since no tissue tropism experiments are officially published, the tissue tropism
 
 * The side effects observed for the Comirnaty vaccine (Pfizer/Biontech) hint a lymphotropism (swollen lymph nodes and herpes zooster)
 * Neurotropism (bell's palsy, headache) for both Moderna and Pfizer/Biontech.
-* Tropism for the ovaries: For the Moderna vaccine there are reports that it is affecting women's periods, this could be due to a tropism for the ovaries.
+* Tropism for the  fertility organ: For the Moderna vaccine there are reports that it is affecting women's periods.
 
 > Absence of symptoms for a certain tropism does not mean a vaccine lacks that tropism or even is safe. Only published tissue tropisms could bring clarity.
 
@@ -159,11 +160,14 @@ Since no tissue tropism experiments are officially published, the tissue tropism
 The cell and tissue tropism is crucial to estimate adverse effects. For virus infections it is known that neurotropism, lymphotropism and reproductive system tropism are dangerous. Possibly too for artificial RNA transfection.
 
 * *Neuro-Tropism:* Infections of neuron tissues in the bone marrow or in the brain are a main cause of the dangers resulting from mumps and polio. Severe effects do not occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited death of neurones could occur: in the range from a sleepless night to a couple or many MDMA trips.
+
 	> Bell's palsy then could be attributed that by chance neurones involved in the facial nerve were knocked off.
 	
 	> Analyzing competitive athletes (including E-Sports) could elucidate even slight performance losses.
 
 	> Even minor brain damage is not wanted for children, adolescents or pregnant women.
+
+	> For viruses having a neurotropism effects can be both serious or harmless. Sometimes this can have very bad effects which can e.g. result from severe mumps or polio infections. However some viruses such as flaviviruses can cause virulent infections but can also subtle persistent infections without causing much damage // This summer, when thinking exactly about this chapter, I caught a tick which likely infected me with the tick-borne encephalitis virus. It initially caused a very mild illness which was followed by regular but slight back pain for a couple of weeks which mostly went away by now. I don't experience other adverse effects even though TBE infections may be persistent (TBE can also infect the brain and cause serious or even deadly Meningoencephalitis).
 
 * *Lympho-Tropism:* If lymphoid tissues are entered and many lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else. In theory, some cancer cells may remain undetected and cause cancer in the coming months or years.
 
@@ -175,6 +179,7 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 
 > The above effects are highly speculative. Predictions can only be done when ALL the cells and tissue tropism experiments (including the failed trials and research experiments) are published!
 
+
 #### Cell Kinetics
 The 'mRNA' vaccines encapsulate the RNA in in lipid nano-particles. Such particulates may in theory enter arbitrary cells.
 * Are stem cell entered? 
@@ -183,6 +188,7 @@ The 'mRNA' vaccines encapsulate the RNA in in lipid nano-particles. Such particu
 > Most viruses infect differentiated cells and those infecting long lived or stem cells tend to be dangerous. RNA strands encapsulated in lipid particulates are taken up and processed by stem cells too, since cell communication for differentiation relies on lipid encapsulated RNA.
 
 > These are fundamental properties mandatory to estimate possible adverse effects. However nearly nothing is linked in the trials and a search (google scholar) yields very few  results published.
+
 
 #### Within Cell Kinetics
 What happens upon cell entry? 
