@@ -76,7 +76,7 @@ There is also a rather subjective page in German with some comments on the Coron
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
 - > 9.12. Transparency and Democracy
-- > For true democracy transparent and honest information is key in my opinion. True democracy and a state treating everybody as the same in agreement with the human rights may not be possible without transparency. The longer transparency is lost, to harder it may be to reintroduce it.
+- > For true democracy transparent and honest information is key in my opinion. True democracy and a state treating everybody as the same in agreement with the human rights may not be possible without transparency. The longer transparency and equality before law are lost, to harder it may be to reintroduce them.
 
 
 - > 9.12. Transparency of adverse Effects
