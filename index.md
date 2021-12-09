@@ -85,7 +85,7 @@ There is also a rather subjective page in German with some comments on the Coron
 
 - 9.12. Note [Vaccine Safety Questions](10_vaccines/vaccine_safety.md):
   > The formulations in this chapter are often *dramatic*. For the following reasons:
-  > * When written in June the goal was to motivate investigations on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of actions are clarified.
+  > * When written the goal was to motivate investigations on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified.
   > * The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated. I don't think they should both for epidemiological reasons due to escape mutations and for adverse effects, even when rare when vaccinating hundred thousands or millions there will be many.
 
   > It is to keep in mind that many mentioned effects are very unlikely, possibly 1 in 1000 or 10000 serious, so more than 99.9% are mostly safe. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels are hit. Also one needs to keep in mind that many viruses such as flaviviruses also have an unfavorable tissue kinetics (usually called tropism in the case of viruses). So the body needs to have mechanisms in place to handle unfavorable kinetics.
