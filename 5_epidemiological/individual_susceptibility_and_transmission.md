@@ -32,7 +32,7 @@ The susceptibility to the different kinds of SARS-CoV-2 infections and the indiv
 * [Effects of Acquired Immunity](#effects-of-acquired-immunity)
   * [Effects of Natural Infection](#effects-of-natural-infection)
   * [Vaccine Induced Immunity](#vaccine-induced-immunity)
-  * [Comparing Vaccines and SARS-CoV-2 Infection](#comparing-vaccines-and-sars-cov-2-infection)
+  * [Comparing Vaccines and natural SARS-CoV-2 Infection](#comparing-vaccines-and-natural-sars-cov-2-infection)
 * [Overview of Data Sets](#overview-of-data-sets)
   * [Population Infection Overviews](#population-infection-overviews)
   * [Hospital Cohort Studies](#hospital-cohort-studies)
@@ -90,13 +90,13 @@ The muscular administrated 'mRNA' and adenovirus vectored vaccines induce mainly
 
 ## Relevance
 Knowing how transmissions are distributed, helps to set and fine-tune control measures. *If measures are necessary*.
-* Measures can few for those contributing few to the spread: children  and young adults are not the carriers of the Covid spread and thus measures should not target them. 
-* People with higher R values can be offered control options: E.g. free test access, suitable masks (e.g. custom fit FFP2 including advice on wearing them) and better education how to handle covid. 
+* Measures can few for those contributing few to the spread: children  and young adults are not the carriers of the Covid spread and thus measures should not target them.
+* People with higher R values can be offered control options: E.g. free test access, suitable masks (e.g. custom fit FFP2 including advice on wearing them) and better education how to handle covid.
 
 
 
 ## Observables for Covid Infections
-To analyze susceptibility and transmissions, one needs to specify which the SARS-CoV-2 infections to count and how to diagnose them. Diagnosis is traditionally geared toward diagnosing a disease to possibly initiate a treatment, discussed in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md). 
+To analyze susceptibility and transmissions, one needs to specify which the SARS-CoV-2 infections to count and how to diagnose them. Diagnosis is traditionally geared toward diagnosing a disease to possibly initiate a treatment, discussed in the chapter [Diagnosis and Viral Load](../3_medical/diagnosis_and_viral_load.md).
 
 Detection of infections for epidemiological investigations is mostly done by:
 * Symptoms
@@ -131,7 +131,7 @@ The symptomatic proportion of cases varied through back since early 2020:
 ### Spread by Symptom Status
 Note: The strains prevalent during the time of investigation is relevant since strains can induce varying immune responses e.g. coronaviruses can diminish or activate the immune system.
 * [Adam et al](#summary-adam) found in January through April in Hong Kong 2020 only 2.2% of the infections (7 out of 309) were caused by pre-symptomatic people.
-* [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors. 
+* [Madewell et al](#summary-madewell) find that in household settings symptomatic infectors cause about 3 times as many infections as pre/asymptomatic infectors.
 
 
 
@@ -188,14 +188,16 @@ A shift in the viral load distribution is observed for different age groups. The
 
 
 #### Relation between Viral Load Distribution and Positivity Rate
-> Explorative section. To check whether there can exception from the considerations below. 
+> Explorative section.
 
 Considering the unbounded viral load distributions, the PCR cutoff values of 30, 35 or 40 PCR cycles are just arbitrary cutoffs and yield the number of samples below these values. So a positive test defined by 30 cycles - say 10^6 copies/milliliter - just detects all samples with a higher viral load (when away from the PCR detection limit, when close to the border samples are not detected with a certain probability since towards the detection limit the PCR accuracy is lost {[PCR Diagnosis](./../3_medical/pcr_diagnosis.md)}). 
 
 ##### Hypothesis
 *As long as the distribution is shifted 'uniformly' (the true viral load distribution not the Ct value distribution), a 1 to 1 correspondence between the viral load distribution shift and the number of samples above or below a certain threshold value is expected.*
 
-So if an immune protection reduces the viral loads when sampling at a given location, the positivity rate is reduced and the other way round. E.g.: If natural immunity reduces the viral load, it reduces the chance for a positive test (can be a PCR test with a cutoff of 30 or 40 as described in [Viral Load Shift by Immunity](#viral-load-shift-by-immunity)). Accordingly for vaccination: If vaccines fail to shift the viral load towards lower values in other words *if vaccinated persons have about the same viral load distribution as unvaccinated persons, the vaccines do not offer a protection.*
+So if an immune protection reduces the viral loads when sampling at a given location, the positivity rate is reduced and the other way round. E.g.:
+* If natural immunity reduces the viral load, it reduces the chance for a positive test (can be a PCR test with a cutoff of 30 or 40 as described in [Viral Load Shift by Immunity](#viral-load-shift-by-immunity)).
+* Accordingly for vaccination: If vaccines fail to shift the viral load towards lower values the vaccines have no effects on testing positive at the given location => *if vaccinated persons have about the same viral load distribution as unvaccinated persons, the vaccines do not offer a protection for infection at the location the viral load is measured.*
 
 
 
@@ -221,10 +223,12 @@ The infector distribution is highly skewed:
 
 * A spread analysis (SEIR model based on sequencing and epidemiological data) in Israel in spring 2020 shows that between 2% and 5% of the population contribute for 80% of the spread ([Miller et al](#summary-miller)). Comment: The simulation infers that if the actual cases were several fold higher than the actual cases, 2% of the population are responsible for 80% of the spread. This is likely the case since experience shows that even the best detection schemes miss the majority of cases.
 
+
 ### Possible Causes for uneven Spread
+
 #### Possible Biological Causes
 * *Individuality of SARS-CoV-2 Infections*
-  SARS-CoV-2 infections are highly individual and situation specific. 
+  SARS-CoV-2 infections are highly individual and situation specific.
   * One reason is the immune system which in turn is influence by [age and the associated exposure to pathogens](../4_immunological/ontogenesis_and_locality_of_immunity.md). Young people tend to have a strong innate immune system which prevents SARS-CoV-2 to replicate to high numbers. The immune system of adults however, relies more on the acquired immunity from previously encountered pathogens. If a good immune response is not fast enough, in the big surface of the lower respiratory tract SARS-2 can replicate to high numbers. High viral in the lower respiratory tract can cause super spreading and severe Covid.
   * *Situation specific Transmission:* In the lower respiratory tract the immune system can control viruses less well. [Dry particulates enter the lungs well](../5_epidemiological/transmission.md) and accordingly [most spread of severe Covid is in dry air](./spread_analyses.md).
 * *Individuality of Respiratory Tract Particle Shedding:*
@@ -250,7 +254,7 @@ People with regular movement are less likely for a symptomatic disease. Addition
 *High Overweight Prevalence is associated to High Covid Prevalence and Death Rates*
 
 * *Observations:*
-    Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics. 
+    Countries with high rates of obesity tend to have much more severe cases than countries with lower rates but otherwise similar characteristics.
 
     Selected countries with high rates of obesity (in decreasing order, source: obesity.procon.org):
     US, Jordan, Turkey, Mexico, UK, Hungary, Israel, Czechia
@@ -287,7 +291,9 @@ _Through Smoking_: Smokers and Ex-Smokers. Ex-smokers have a higher risk for sev
 
 
 ## Transmissions by Age
+
 ### Household Transmission by Age
+
 #### Household Transmission in the UK
 [JA Hall et al](#summary-ja-hall) reveal by analyzing "Household Transmission Evaluation Data" in England:
 * people between 5 and 29 years have lower household transmission rates than the other groups. 
@@ -305,15 +311,19 @@ The observed transmissions by the age of the index cases (x-axis) and the contac
 > Analyzing the household transmission by age is tricky, since older people often live in small households whereas children often in larger households. In larger households the attack rates (probability of infection) usually are lower e.g. there are usually several rooms. So in large household with children, an observed lower transmission rate, could be either due to the lower transmission rates of children or the larger household size. [Lyngse et al](#summary-lyngse) tackle this, by defining the transmission risk as a least one transmission occurring and the transmission rate as the proportion of transmissions occurring. The transmission risk is excepted to be higher in larger households while the transmission rate is excepted to be higher in small households since in the latter people tend to be closer together.
 
 [Lyngse et al](#summary-lyngse) observe:  
-* Even with high viral loads in the upper respiratory tract teenagers and young adults on average cause relatively few transmissions.
-* In the case of infants and young children the transmissions are low at low viral loads but increase with higher viral loads. // The transmission risk increases more than the transmission rate likely since they tend to live in larger households. 
-* With increasing age, the transmissions get higher. // The transmission risk plateaus from 40 to 60 since the household size decreases. 
+* *Infants and young children:* 
+  * In the case of infants and young children the transmissions are low at low viral loads but increase with higher viral loads. However, as visualized in the section viral load by age in infants and young children a high viral load is rare.
+  * The transmission risk increases more than the transmission rate likely since they tend to live in larger households. Possibly, small children infect their mother but the risk siblings and father is likely lower.
+* Teenagers and young adults are about half as infectious compared to people above 50. Even with high viral loads in the upper respiratory tract teenagers and young adults on average cause relatively few transmissions.
+* With increasing age, the transmissions get higher. // The transmission risk plateaus from 40 to 60 likely since the household size decreases. 
 
 as visible from their graphics:
 
 ![transmission by age and viral load](images/lyngse_F8.jpg)
 
-The transmission rate (left graphics above) from age to age for the different quartiles is visualized as follows by [Lyngse et al](#summary-lyngse) (as the graph above by Hall from the UK patterns but from Denmark and split into viral load quartiles; the color-scales vary and are bounded by the maximal values observed in each quartile):
+The transmission rate (left graphics above) from age to age for the different quartiles is visualized as follows by [Lyngse et al](#summary-lyngse).
+
+> As the graph above by Hall from the UK patterns but from Denmark and split into viral load quartiles; the color-scales vary and are bounded by the maximal values observed in each quartile.
 
 ![transmission from age to age by viral load](images/lyngse_F10.jpg)
 
@@ -366,24 +376,38 @@ With increasing age the innate sensing mechanisms are diminished, which can give
 
 ### Vaccine Induced Immunity
 
-#### Protection of BNT162b2
+#### Peak Protection of BNT162b2
+The protection of BNT162b2 is highest from about 10 days after the 2nd does until about 6 weeks afterwards (depend several factors such as age and variants present) and then starts decreasing.
+
 * [Regev-Yochay et al](#summary-regev-yochay) find that for vaccinated persons the mean is about 22 and for unvaccinated about 27 Ct cycles NPS. The vaccine protection against is 66 % for a viral load <40 PCR cycles and 70% for a viral load <30 PCR cycles.
-* [VJ Hall et al](#summary-vj-hall-april-21) observe that BNT162b2 provides protection of 75% against testing positive for SARS-2 in the staff of the UK NHS hospitals.
+* [VJ Hall et al](#summary-vj-hall-april-21) observe that BNT162b2 provides protection of 75% against testing positive for SARS-2 in the staff of the UK NHS hospitals in about the first 6 weeks after the 2nd dose.
+
 
 #### Vaccine Time Varying Effects
+
 ##### Building Up Vaccines Induced Immunity
 The viral load viral load decreases (the Ct values increase) in a steady way with increased protection from vaccination (Maximal protection is achieved from about 10 days after the second dose). These effects are described in more detail in the section [viral load shifts](#viral-load-by-vaccination).
 
 ##### Waning of Vaccine Induced Immunity
 [to be done]
-
+sweden study, us and israel 
 
 #### Vaccine Effects on Transmission
+Vaccines usually reduce the probability to get infected. Some vaccines (depends on the vaccine and the virus type) also reduce the probability for ongoing transmission once infected.
+
+##### Vaccines on the Transmission of SARS-CoV-2
+* [Singanayagam](#singanayagam) find that the SAR in household contacts exposed to fully vaccinated index cases was 25% (17 got infected of 69 exposed) and the SAR in household contacts exposed to unvaccinated index cases is 23% (23 got infected of 100 exposed). => vaccines don't change transmission rates in households settings once infected, the vaccines did induce a slightly faster virus clearance however.
+* [Harris et al](#summary-harris) observe a reduction for 1 time vaccinated index cases when the contacts are unvaccinated of about 40%. However when the contacts are also vaccinated there seems to be no reduction. The results thus are inclusive.
+
+##### Vaccines on the Transmission for Measles and Small Pox
+Measles and small pox vaccines reduce the ongoing transmission if a vaccinated index case gets infected despite vaccination. E.g. for measles by about 40% as observed by [Cisse et al](#summary-cisse) and for small pox by about 30% as observed by [Mukherjee et al](#mukherjee). 
+
+##### Vaccines on Shedding for Influenza A and B
+Influenza A the vaccines do not to reduce viral shedding once symptomatically infected but even increase viral shedding as observed by [Yan et al](../5_epidemiological/transmission.md#yan-2018). [Yan et al](../5_epidemiological/transmission.md#yan-2018) also observe that for influenza B the shedding is the same regardless whether vaccinated.
 
 
 
-
-### Comparing Vaccines and SARS-CoV-2 Infection
+### Comparing Vaccines and natural SARS-CoV-2 Infection
 [in work]
 
 
@@ -619,6 +643,7 @@ Hall, V. J., Foulkes, S., Saei, A., Andrews, N., Oguti, B., Charlett, A., Wellin
 "At least one dose of vaccine was given to 20641 (89%) participants by Feb 5, 2021; 19384 (94%) received the BNT162b2 vaccine and 1252 (6%) received the ChAdOx1 vaccine." // both first and second doses (for those who got them) peaked in early January 21 (Figure 1) -> unvaccinated follow was mostly December to early January, while vaccinated follow was early January to 5. February; 94% BNT162b2
 
 ##### Results
+
 Immune Status| # PCR positives | Incidence per 10 K person days | Reduction to sero -
 --|--|--|--
 sero - | 902 | 20 | ref
@@ -626,7 +651,7 @@ sero + |  75 |  3 |  85 % (*)
 1 dose |  66 | 11 |  45 % (*)
 2 dose |   8 |  5 |  75 % (*)
 
-(*) Comment: The reductions given above are unadjusted (in the paper adjustments are done). Adjustments are tricky e.g. [Illingworth et al](#summary-illingworth) observe the majority of transmissions in *non* Covid wards. Adjustment for month would be important since in December and January there were many more cases than in February (e.g. observed in [Lumley](#summary-lumley-march-21)) and double vaccinated persons were mainly followed from mid January onwards. Further considerations in [Analyzing Incidence Rates](#analyzing-incidence-rates-and-upon-exposure).
+(\*) Comment: The reductions given above are unadjusted (in the paper adjustments are done). Adjustments are tricky e.g. [Illingworth et al](#summary-illingworth) observe the majority of transmissions in *non* Covid wards. Adjustment for month would be important since in December and January there were many more cases than in February (e.g. observed in [Lumley](#summary-lumley-march-21)) and double vaccinated persons were mainly followed from mid January onwards. Further considerations in [Analyzing Incidence Rates](#analyzing-incidence-rates-and-upon-exposure).
 
 
 ### Refs Household Transmissions
@@ -751,8 +776,10 @@ Harris RJ, Hall JA, Zaidi A, et al. Effect of vaccination on household transmiss
 
 ##### Results
 1. *Index Non vaccinated:* household attack rate is 10.1%: unvaccinated index cases induced 96,898 secondary cases out of 960,765 household contacts.
-2. *Index vaccinated (21 days after first dose):* household attack rate is roughly 6%: Index vaccinated with 1 dose ChAdOx1 induced 196 secondary cases in 3,424 contacts (5.72%). Index case 1 dose BNT162b2 induced 371 secondary cases in 5,939 contacts (6.25%). // not much difference between BNT162b2 and ChAdOx1 this despite BNT162b2 produces higher level of antibodies.
-3. *Index and (some) contact vaccinated:* The secondary attack rate when both the index case and the contacts are vaccinated seems to be not much different as when both are unvaccinated: Secondary attack rate when both index and contact are vaccinated: 8152 out of 67622 contacts (Table S1) -> SAR ~= 12%. The 12% SAR is about 60% of the attack rates of 19.6% observed between older couples (Table S4). Since vaccinated contact are less likely to get infected, this observation indicates no reduced transmission from vaccinated persons to other vaccinated persons once positive tested. // This calculation does not take days since vaccination into account (in the first 2 weeks after vaccination the infectivity seems to be stable for ChAdOx1 respectively to increase for BNT162b2 (Figure 2)).
+2. *Index vaccinated (21 days after first dose):* household attack rate is roughly 6%: Index vaccinated with 1 dose ChAdOx1 induced 196 secondary cases in 3,424 contacts (5.72%). Index case 1 dose BNT162b2 induced 371 secondary cases in 5,939 contacts (6.25%). // not much difference between BNT162b2 and ChAdOx1 this despite BNT162b2 initially offers a higher protection against infection. 
+3. *Index and (some) contact vaccinated:* The secondary attack rate when both the index case and the contacts are vaccinated seems to be not much different as when both are unvaccinated: Secondary attack rate when both index and contact are vaccinated: 8152 out of 67622 contacts (Table S1) > SAR ~= 12%. The 12% SAR is about 60% of the attack rates of 19.6% observed between older couples (Table S4). Since vaccinated contact are less likely to get infected (though not necessarily all are vaccinated), this observation indicates no or only a slightly reduced transmission from vaccinated persons to other vaccinated persons once positive tested. // This calculation does not take days since vaccination into account (in the first 2 weeks after vaccination the infectivity seems to be stable for ChAdOx1 respectively to increase for BNT162b2 (Figure 2)).
+
+=> The effect of vaccination on infectiousness is not quite clear. Comparing 1. and 2. indicates a reduced infectiousness by about 40%. However this could be influence by the decreasing incidence rates from January to February. The observations if both index cases and at least one contact is vaccinated in 3. indicates no much not much effect of vaccination on transmission if positively tested.
 
 ##### Comments
 > *Adjustments:* For the difficulties regarding correct adjustment, unadjusted data are stated above. This since adjusting is tricky: e.g. for older couples which belong to vaccine-prioritized groups, the secondary attack is higher, however in the weeks before a vaccination appointment the infection rate decreases in the UK as observed in [Pritchard](#summary-pritchard), and the latter is more likely in older couples (possibly due to increased care). 
