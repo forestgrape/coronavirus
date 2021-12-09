@@ -80,7 +80,7 @@ There is also a rather subjective page in German with some comments on the Coron
 
 
 - > 9.12. Transparency of adverse Effects
-  > If there would be possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these: A fond for the affected can be founded. Supervision and if necessary treatments or other precautions measures could be initiated for those affected. Trying to hide possible adverse effect could have extremely high costs in the long run.
+  > If there would be possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these. A fond for the affected can be founded. Supervision and if necessary treatments or other precautions measures could be initiated for those affected. Trying to hide possible adverse effect could have extremely high costs for the society in the long run.
 
 
 - 9.12. Note [Vaccine Safety Questions](10_vaccines/vaccine_safety.md):
