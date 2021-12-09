@@ -92,6 +92,9 @@ There is also a rather subjective page in German with some comments on the Coron
 
   > Coincidentally when my thoughts were focussed on the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). While the initial symptoms were very mild, some back pain persisted for months. TBEV can infect both the CNS and the bone marrow. *Unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections (there are vaccines against TBEV which protect against initial severe disease, the effects of the current vaccines (all based on inactivated viruses with adjuvants) on persistent infections are to my knowledge largely unknown). (also commented in appropriate sections)
 
+- 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work. Added: 
+  - some observations on the effects of vaccine on transmission once infected.
+
 - 7.12. Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft, thanks @Gmail for free and reliable web services. Thanks @everybody helping.
 - 7.12. Updated [Table of Content](#content).
 - 2.12. Clarifications across page and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md)
