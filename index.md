@@ -72,10 +72,29 @@ There is also a rather subjective page in German with some comments on the Coron
 - 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources.
 
 ### Recent Updates
-<!-->>> 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
-- 7.12. Thanks @all-webtechs  enabling this project. Special thanks @Github (Microsoft), thanks @Gmail (Google) for free and reliable web services. thanks @everybody helping.
+
+<!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
+
+- > 9.12. Transparency and Democracy
+- > For true democracy transparent and honest information is key. True democracy and a state treating everybody as the same in agreement with the human rights may not be possible without transparency. The longer transparency is lost, to harder it may be to reintroduce it.
+
+
+- > 9.12. Transparency of adverse Effects
+  > If there would be possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these: A fond for the affected can be founded. Supervision and if necessary treatments or other precautions measures could be initiated.
+
+
+- 9.12. Note [Vaccine Safety Questions](10_vaccines/vaccine_safety.md):
+  > The formulations in this chapter are often *dramatic*. For the following reasons:
+  > * When written in June the goal was to motivate investigations on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of actions are clarified.
+  > * The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated. I don't think they should both for epidemiological reasons due to escape mutations and for adverse effects, even when rare when vaccinating hundred thousands or millions there will be many.
+
+  > It is to keep in mind that many mentioned effects are very unlikely, possibly 1 in 1000 or 10000 serious, so more than 99.9% are mostly safe. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels are hit. Also one needs to keep in mind that many viruses such as flaviviruses also have an unfavorable tissue kinetics (usually called tropism in the case of viruses). So the body needs to have mechanisms in place to handle unfavorable kinetics.
+
+  > Coincidentally when my thoughts were focussed on the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). While the initial symptoms were very mild, some back pain persisted for months. TBEV can infect both the CNS and the bone marrow. *Unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections (there are vaccines against TBEV which protect against initial severe disease, the effects of the current vaccines (all based on inactivated viruses with adjuvants) on persistent infections are to my knowledge largely unknown). (also commented in appropriate sections)
+
+- 7.12. Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft, thanks @Gmail for free and reliable web services. Thanks @everybody helping.
 - 7.12. Updated [Table of Content](#content).
-- 2.12. Clarifications across page and made content for objective and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md) *(announced here 4.12.)*
+- 2.12. Clarifications across page and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md)
 - 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
 - 27.11.: Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.
 - 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
