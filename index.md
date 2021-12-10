@@ -75,12 +75,13 @@ There is also a rather subjective page in German with some comments on the Coron
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- > 9.12. Transparency and Democracy
-- > For true democracy transparent and honest information is key in my opinion. True democracy and a state treating everybody as the same in agreement with the human rights may not be possible without transparency. The longer transparency and equality before law are lost, to harder it may be to reintroduce them.
+- > 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
 
 
-- > 9.12. Transparency of adverse Effects
-  > If there would be possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these. A fond for the affected could be founded. Supervision and if necessary treatments or other precautions measures could be initiated for those affected. Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries. And the world in the long run.
+- 9.12. *Transparency of adverse Effects:* If it  would known that there are previously unknown possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these. 
+  * A fond for the affected could be founded. 
+  * Supervision and if necessary treatments or other precautions measures could be initiated for those affected. 
+  * Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries - and the world in the long run.
 
 
 - 9.12. Note on [Vaccine Safety Questions](10_vaccines/vaccine_safety.md):
@@ -88,16 +89,16 @@ There is also a rather subjective page in German with some comments on the Coron
   > * When written the goal was to motivate investigations on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified.
   > * The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated. I don't think they should both for epidemiological reasons due to escape mutations and for adverse effects, even when rare when vaccinating hundred thousands or millions the adverse events add up.
 
-  > Many mentioned effects are very unlikely, possibly 1 in 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels are hit. 
+  > Many mentioned effects are possibly unlikely, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels are hit. 
   >
-  > Also one needs to keep in mind that many viruses such as flaviviruses also have an unfavorable tissue kinetics (usually called tropism in the case of viruses). So the body has some mechanisms in place to handle unfavorable kinetics. SARS-CoV-2 so fare (until and including delta), has a harmless tropism  and just causes a severe disease when the immune system fails to timely control it which is nearly exclusively the case at increased age.
+  > Also one needs to keep in mind that some viruses such as flaviviruses also have an unfavorable tissue kinetics (usually called tropism in the case of viruses). So the body has some mechanisms in place to handle unfavorable kinetics.
 
-  > Coincidentally when my thoughts were focussed on the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). While the initial symptoms were mild, some back pain persisted for months. TBEV can infect both the CNS and the bone marrow. *Unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections. There are vaccines against TBEV which protect mice against deadly disease, but the effects (positive or negative) of these vaccines (inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown). Ideally there would be an attenuated live virus vaccine mimicking natural infections because wild type infections are risky, the immunity induce is good however: Natural TBEV infections induce a long-lasting and very reliable protection against reinfection, which is useful if one loves to move through nature.
+  > Coincidentally when my thoughts were focussed on the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). While the initial symptoms were mild, some back pain persisted for months. TBEV can infect both the CNS and the bone marrow. *Unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections. There are vaccines against TBEV which protect mice against deadly disease, but the effects (positive or negative) of these vaccines (inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown). Ideally there would be an safe live virus vaccine mimicking natural infections because wild type infections are risky, though the immunity induced is good: Natural TBEV infections induce a long-lasting and very reliable protection against reinfection, which is useful if one loves to move through nature.
 
 - 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work. Added: 
   - some observations on the effects of vaccine on transmission once infected.
 
-- 7.12. Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft, thanks @Gmail for free and reliable web services. Thanks @everybody helping.
+- 7.12. Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft & @Gmail for free and reliable web services. Thanks @everybody helping.
 - 7.12. Updated [Table of Content](#content).
 - 2.12. Clarifications across page and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md)
 - 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
