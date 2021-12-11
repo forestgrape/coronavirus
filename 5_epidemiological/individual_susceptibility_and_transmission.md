@@ -358,7 +358,7 @@ A recommended review is [COVID-19 Transmission and Children: The Child Is Not to
 ### Susceptibility and Spread of Young Adults
 
 * [Reyes et al](#reyes) conclude by analyzing seroprevalences that no increased transmission occurs in student dormitories.
-* From [Household Transmission by Age](#household-transmission-by-age) it is visible that young adults mostly don't spread SARS-CoV-2 infections much.
+* In households setting young adults spread SARS-CoV-2 less than other age groups ([Household Transmission by Age](#household-transmission-by-age)).
 
 
 ### Biological Explanation for Age Effects
@@ -1067,7 +1067,7 @@ Ct Values by Vaccination (regardless of symptoms)
 Gazit, S., Shlezinger, R., Perez, G., Lotan, R., Peretz, A., Ben-Tov, A., Cohen, D., Muhsen, K., Chodick, G. and Patalon, T., 2021. Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity: reinfections versus breakthrough infections. MedRxiv.
 
 ##### Methods
-* *Type:* Retrospective cohort study based on case matching using the data from MHS health fund. 
+* *Type:* Retrospective cohort study based on case matching using the data from MHS health care fund. 
 * *Population:* The study population included MHS members aged 16 or older." //the different cohorts are described under models in the result section below
 * *Diagnosis:* RT-PCR test and symptoms in the next 5 days (chiefly fever, cough, breathing difficulties, diarrhea, loss of taste or smell, myalgia, weakness, headache and sore throat.)
 * *Dependent Variables:* "Outcomes, or second events: documented RT-PCR confirmed SARS-CoV-2 infection, COVID-19, COVID-19-related hospitalization and death. Outcomes were evaluated during the follow-up period of June 1 to August 14, 2021, the date of analysis, corresponding to the time in which the Delta variant became dominant in Israel."
@@ -1180,7 +1180,6 @@ Bulletin of the World Health Organization, 51(3), 219.
 * "The areas affected by smallpox were generally slum areas where the houses consisted of compounds or open spaces surrounded by 5-7 rooms, each living room being occupied by a " family" (multiple family compound). Very rarely, a family had more than 1 room or a separate compound (single family compound). The members of all the families in each compound mixed freely amongst themselves."
 
 ##### Findings
-
 * Vaccinated persons are less likely to get infected (Table B), if infected less likely to be severely ill (Table A shows that the majority of index cases wasn't pox vaccinated and in agreement Table B and C show that vaccinated persons have a much lower risk to get infected. Table A indicates that the share of severe cases is much higher among unvaccinated persons). 
 * Vaccinated persons transmit smallpox less since less likely to get ill and if ill they transmit less since fewer severe cases (Table A) which transmit more (Table B) and even with the same symptom level vaccinated persons transmit less (Table C)
 * The secondary attack rates (SAR) in household settings is up to 90 % between unvaccinated individuals and decreases to about 5 % between vaccinated individuals (Table C). 
@@ -1268,8 +1267,7 @@ Age Group (years) | Vaccination | Children with history of measles | Total Immun
 Sundell Nicklas, Dotevall Leif, Sansone Martina, Andersson Maria, Lindh Magnus, Wahlberg Thomas, Tyrberg Tobias, Westin Johan, Liljeqvist Jan-Åke, Bergström Tomas, Studahl Marie, Andersson Lars-Magnus. Measles outbreak in Gothenburg urban area, Sweden, 2017 to 2018: low viral load in breakthrough infections. Euro Surveill. 2019;24(17):pii=1900114. https://doi.org/10.2807/1560-7917.ES.2019.24.17.1900114
 
 ##### Methods
-
-##### Setting
+* Investigation of a measles outbreak in Gothenburg in a population with high vaccination rate.
 * "Vaccination was given as post-exposure prophylaxis, but also to individuals in the society who were uncertain of their vaccination history." 
 
 ##### Findings
