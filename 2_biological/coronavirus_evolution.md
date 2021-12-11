@@ -43,6 +43,8 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 * The above definition is analog to the definition of species for animals with sexual recombination, where a species denotes a set of lineages with can recombine.
 * The above definition means the viruses draw from the same gene pool.
 
+> Traditionally virus species are defined on antibody binding [to confirm and cite].
+
 ##### Virus Variant
 >> A virus variant is a collection of virus lineages which are closely related but differ in their behavior.
 
@@ -77,8 +79,8 @@ Changing the RNA or protein structure even without immediate effects on the func
 Change the function which is beneficial if the previous functioning was suboptimal and the new function does better.
 
 +/-: Most mutations do *not* improve the function. However if they do the advantage can be significant. 
-  * If the life-form is not well adapted to the environment, function improvement upon function change is more likely.
-  * If the life-form is in an environment with relaxed fitness constraints, delirious  mutations are better tolerated.
+* If the life-form is not well adapted to the environment, function improvement upon function change is more likely.
+* If the life-form is in an environment with relaxed fitness constraints, delirious  mutations are better tolerated.
 
 #### Change the Molecular Appearance
 Changing the appearance can yield escape from immune system recognition. 
@@ -91,7 +93,7 @@ Changing the appearance can yield escape from immune system recognition.
 > in raw work and incomplete
 
 #### Immune Evasion Drive
-* Exposure:* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to mutate.
+* *Exposure:* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to mutate.
   * The N terminal part of the spike protein mutates frequently. By such mutations coronaviruses can evade neutralizing antibodies (described on the page [Immune Evasion](./../4_immunological/immune_evasion.md)).
 * *Expression Level:* Proteins with low expression levels: The immune system learning system comes more in contact with frequent proteins and thus learns them more likely.
   * For coronaviruses (for most other viruses too) the non structural proteins have much lower expression levels than the structural proteins.
