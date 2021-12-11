@@ -141,10 +141,10 @@ Examples of observed cross immune protections are:
 
 
 ## Next Steps
-* Analyse spread patterns in other countries: USA, France, ... // Comment 27.11.21: spread pattern are mainly driven by climate. Secondary spread pattern are different in rural areas and cities //often due to cleaner air and/or less dense living conditions e.g. less residential blocks ([Spread Analyses](./spread_analyses.md)).
+* Analyse spread patterns in other countries: USA, France, ... // The spread is different in rural areas and cities e.g. due to cleaner air and/or less dense living conditions e.g. less residential blocks ([Spread Analyses](./spread_analyses.md)).
 * Widespread serology for HCoVs and statistics if there's a relation to pathogenesis of Covid-19. 
 * Analyse birthplace and grow up locations of Covid-19 patients (e.g. from the cruise ships).
-* figuring out whether BCoVs genetically cross/combine with other HCoVs. // for the human endemic covs there's seem to be nearly no recombination between different types [to confirm and cite], so recombination seems unlikely.
+* figuring out whether BCoVs genetically cross/combine with other HCoVs. // to check how frequent recombination between different different coronaviruses species and between different types and with other viruses/hosts are (the He gene is likely influenza acquired [to cite])
 
 
 
