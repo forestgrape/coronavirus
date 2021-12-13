@@ -75,6 +75,8 @@ There is also a rather subjective page in German with some comments on the Coron
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
+- 12.12. (Pago Pago Time Zone to keep own set publish dates without compromising [to much] on sleep time): Speculative Hypothesis about Omicron: The Omicron Variants has possibly a changed tropism away from  airways epithelial cells towards myeloid immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for a possible change in tropism.
+
 - > 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
 
 
