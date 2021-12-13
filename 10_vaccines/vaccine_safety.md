@@ -68,12 +68,12 @@ The first vaccines were based on live pathogens (and nearly all of the most succ
 
 Later on one started to use adjuvants (substances increasing the immune response). If these substances remain long-term in the body or the effects are diffuse and hard to diagnose  symptom watching is not enough.
 
-> A classical example though not in vaccination but in treatment is mercury. Symptom tests were and are common practice for medications. Mercury once passed such symptom tests (its kinetics and behavior within the body were unknown) and was as medication. Since today the subtle damages of mercury and enrichment with the body are known it is not used anymore.
+> A classical example though not in vaccination but in treatment is mercury. Symptom tests were and are common practice for medications. Mercury once passed such symptom tests (its kinetics and behavior within the body were unknown) and was as medication. Since quite some ago it became known, that mercury can cause subtle damages and enriches within the body it is not used anymore.
 
 
 ### Symptom Surveillance is Enough If
 Symptom surveillance is enough if one knows what to except including possible adverse effects can be predicted. All the following points should be true:
-* The pathogens or substances in question  cause immediate adverse effects. Many pathogens of acute diseases don't stay latent or in equilibrium in the human body but they replicate and thereby their number growths or the immune system controls and reduces them.
+* The pathogens or substances in question  cause immediate adverse effects. Many pathogens of acute diseases don't stay latent or in equilibrium in the human body but they replicate and thereby their number growths until the immune system controls and reduces them.
 * The kinetics of the medication is known:
 	* The distribution of the medication within the body is known.
 	* It is known how, how fast and the which products the medication in question is metabolized.
