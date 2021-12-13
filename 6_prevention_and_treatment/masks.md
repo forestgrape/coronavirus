@@ -119,8 +119,11 @@ The coronaviruses virions are not very stable especially if exposed to disinfect
 The [mask effectiveness](#mask-effectiveness) is usually evaluated with fresh masks and not with mask worn for several hours. The problem if the mask is continuously worn for several hours is, that virions can be slowly breathed through the filter, which occurs more at exhalation than inhalation ([mask effectiveness](#mask-effectiveness)). Therefore masks should regularly be changed or [cleaned](#mask-reuse-and-cleaning). Even rotating a bunch masks through each day and reusing them the next day helps. Wearing the same mask as short as doable especially if its about protecting others.
 
 
+
 ### Mask Recommendation
-> written in Spring 2020 and left for historical reasons.
+
+"""
+// written in Spring 2020
 
 Officially recommend masks for spread reduction in indoor rooms. Without an official recommendation, people can be put off or look afraid of masks, at least [were] in Europe, which is not desirable, since masks are protective.
 
@@ -129,6 +132,12 @@ Reasons against masks seem sometimes rather searched:
   > Infection is not possible by touching the skin alone, this is true for the skin in the face too. Touching into the mouth or the nose is something else, but for this, masks are protective. 
 * Reserve for healthcare workers is needed for the big wave. 
   > If masks help to prevent the big wave in its roots, then that's the better option.
+
+"""
+
+A third argument was, that the evidence of the usefulness is not yet strong enough for an official recommendation.
+
+> 13.12.21: Looking back when the situation is judged unclear to withhold an official recommendation - from a health authorities perspective - seems reasonable.
 
 
 ## References
@@ -149,17 +158,17 @@ Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L., & McDevitt, J. J.
 
 ### Personal Mask Preferences
 (December 2020 through May 2021)
-* April to June 2021: Often FFP1 masks of fold type, currently the model CX9501 (made by Jiangsu Sanfo Outdoor Products Co, Suqian, Jiangsu, China and sold for about 1$ at Migros). This mask has some foam protection above the nose which prevents an airstream into the eyes and provides comfort. Also behind-the-head clips are supplemented. The masks have a fabric when opened, open ahead of usage helps. Sometimes I also use surgical masks for day to day use.
+* June to December 2021: Colorful surgical masks from CPS MASK (Type2R, EN 14683, distributed by Pro Dimi Pharma GmbH & Co, made in Turkey by CPS Pressform SAN). These masks are somewhat narrow which makes bypassed air passing on the sides instead of reaching the eyes) but the fit is quite dense and so - to my judgement - overall no more air bypasses than for 'normal' surgical masks. As a fallback for sensible situations: FFP2 (CX9501 or similar).
+* April to June 2021: Often FFP1 masks of fold type, currently the model CX9501 (made by Jiangsu Sanfo Outdoor Products Co, Suqian, Jiangsu, China and sold for about 1$ at Migros). This mask has some foam protection above the nose which prevents an airstream into the eyes and provides comfort. Also behind-the-head clips are supplemented. The masks have a fabric when opened, open the package at least a day ahead of usage helps to reduce fabric smelling. Sometimes I also use surgical masks for day to day use.
 * December 20 to May 21: Especially longer time periods (more than about half an hour e.g. during train travel): I mainly use FFP 1 dust protection masks (3M 8710 E made in Wroclaw PL; about 1$ a piece). The filtration requirements for FFP1 masks is less than FFP2 masks but stricter than surgical masks. To my judgement the 3M 8710 E model does protect others from very fine aerosol as good as FFP2 models. Nevertheless I recommend FFP2 models if infected (tested or strong evidence) if transmission opportunities can't be avoided.
 __Advantages__: As for most dust protection masks, the fit is dense due to bands behind the head. They wear about as (un)comfortable as ski googles: tight but ok. Breathing is easy and there's no sidelined air into the eyes.
 __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgical masks. As most dust protections masks, the 8710 E don't look fashionable.
 
  
-> [Dense] masks are less important if cases go towards zero (e.g. in summer). But there are also good reasons to continue using masks in certain indoor public spaces (e.g. large shopping centers, crowded public transport, airplanes). Not necessarily in facultative places (e.g. offices or libraries) and probably not a general mandate since there are miles between going to the next door shop/office and taking some international flight. One reason is, masks also reduce the spread of the other respiratory diseases: 
+> Early Summer 2021: [Dense] masks are less important if cases go towards zero (e.g. in summer). But there are also good reasons to continue using masks in certain indoor public spaces (e.g. large shopping centers, crowded public transport, airplanes). Not necessarily in facultative places (e.g. offices or libraries) and probably not a general mandate since there are miles between going to the next door shop/office and taking some international flight. One reason is, masks also reduce the spread of the other respiratory diseases: 
 > * When mainly SARS-2 is around causing cough, it is much easier to detect outbreaks and take adequate precaution steps upon infection.
 > * Respiratory pathogens are sometimes underestimated so reducing the circulating strains, ~~is a nice [side] effect.~~ 28.11.21:depends on the virus type some are disease and some not disease associated (->[Human virobiota](../5_epidemiological/virome.md)).
-
-
+>
 > Considering infections with other viruses and since both a past infection and vaccination seem unlikely to provide a reliable future proof protection against transmissions, there is no reason to make masks exceptions when it's about protecting others (However past infections reliably prevent severe Covid and vaccination also do a good job at preventing severe Covid).
 
 
@@ -169,10 +178,11 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
    * a direct (subjective and not scientific) comparison to the FFP2 masks of 2021, the 2021 models have much better filters.
 2. In summer 2020 I bought some cloth mask but I didn't like the fit since there was no fixation above the nose. I went to the hardware store to get some other dust FFP2s, however these were sold out but instead they had cloth masks. These had a good fit and were comfortable and I used them during summer.
 3. In autumn when (evidence for) aerosol transmission increased combined with reports that many cloth mask were not dense enough, I went on to surgical masks. There are differences between the models of surgical masks: some are easier to breath through while others more air sidelines by the nose/eyes, which can be distracting.
-4. Over the winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters sometimes produces purpose defeating and uncomfortable sidelined air. But usually no more than surgical masks, so overall the protection from FFP1 masks is better.
-5. Around christmas time I went once again to a hardware store to buy some dust FFP2. Sold out FFP2 dust masks again, but dust FFP1 were available. They fit and are in use since then(Introduction statement).
-6. In spring 2021 I started using FFP1 masks of fold type. They are widely available to ok prices (about 1$/SFR/Euro) and the breathing ability is good by now.
+4. Over the winter I tried different 'Covid edition' FFP2s. The bands usually went around the ears and so the fit was not very tight. The loose fit combined with dense filters sometimes produces purpose defeating and uncomfortable sidelined air. But usually no more than surgical masks, so overall the protection from FFP2 masks is better, even at decreased comfort (//back in late 2020).
+5. Around christmas time I went once again to a hardware store to buy some dust FFP2. Sold out FFP2 dust masks again, but dust FFP1 were available. They fit and are in use since then (Introduction statement).
+6. In spring 2021 I started using FFP2 masks of fold type. They are widely available to ok prices (about 1$/piece) and the breathing ability is good by now.
 7. In summer 2021 I moved to (colorful) surgical masks since transmission of severe Covid is very low.
+8. Autumn 2021, I mostly stayed with colorful surgical masks from CPS MASK (Type2R, EN 14683). As a fallback for sensible situations, FFP2 of fold type (CX9501-P).
 
 
 
