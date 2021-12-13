@@ -10,6 +10,9 @@
 * [References](#references)
 
 
+
+
+
 ## Evolution Speed
 The genetic evolution of coronaviruses is fast compared to other [forms of life](./life-forms.md) because:
 * a short average generation-time (only a few hours [to be confirmed]) 
@@ -25,6 +28,8 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
   > *This ignores the transmission bottleneck which is usually only a couple of viruses. Therefore if SARS-CoV-2 frequently changes hosts the effective population size is much lower.*
 
 * Coronaviruses have large genomes (in comparison to other RNA viruses or messenger RNAs) which both back the recombination and encode complex proteins. The coronavirus RNA genome is among the largest strands of RNA occurring on todays earth, possibly even the largest [to check].  
+
+
 
 
 
@@ -46,7 +51,7 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 > Traditionally virus species are defined on antibody binding [to confirm and cite].
 
 ##### Virus Variant
->> A virus variant is a collection of virus lineages which are closely related but differ in their behavior.
+>> A virus variant is a collection of virus lineages which belong to the same species but differ in their behavior.
 
 ##### Virus Strain
 >> A virus variant is a collection of virus lineages where the members share the behavior but not necessarily the structure or sequence. 
@@ -55,10 +60,14 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 
 
 
+
+
 ## Evolution Occurrence and Mechanisms
 * Spontaneous Mutation
-* Duplication Error
-* Recombination
+* Mutation upon Duplication
+* Recombination (template switch)
+
+
 
 
 
@@ -66,14 +75,18 @@ The genetic evolution of coronaviruses is fast compared to other [forms of life]
 
 > This section is written generally and valid for most life forms
 
+
+
 ### Effects of Genome Evolution
+
 
 #### Change the Evolutionary Stability
 Changing the RNA or protein structure even without immediate effects on the function can influence future mutations. This can yield more mutative or more stable progeny.
 
 +/-: 
-  * In a changing environment with relaxed survival constraints, a mutative state is advantageous regarding the change of functions.
-  * Exposed to immune responses targeting molecular patterns, change of molecular appearance is beneficial.
+* In a changing environment with relaxed survival constraints, a mutative state is advantageous regarding the change of functions.
+* Exposed to immune responses targeting molecular patterns, change of molecular appearance is beneficial.
+
 
 #### Change the Functioning
 Change the function which is beneficial if the previous functioning was suboptimal and the new function does better.
@@ -82,10 +95,13 @@ Change the function which is beneficial if the previous functioning was suboptim
 * If the life-form is not well adapted to the environment, function improvement upon function change is more likely.
 * If the life-form is in an environment with relaxed fitness constraints, delirious  mutations are better tolerated.
 
+
 #### Change the Molecular Appearance
 Changing the appearance can yield escape from immune system recognition. 
 
 +: Escaping the immune system is often beneficial or even required for a virus lineage to survive.
+
+
 
 
 ### Determinants of Evolutionary Rate
@@ -93,23 +109,37 @@ Changing the appearance can yield escape from immune system recognition.
 > in raw work and incomplete
 
 #### Immune Evasion Drive
-* *Exposure:* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to mutate.
-  * The N terminal part of the spike protein mutates frequently. By such mutations coronaviruses can evade neutralizing antibodies (described on the page [Immune Evasion](./../4_immunological/immune_evasion.md)).
+* *Exposure:* Internal proteins of viruses are more difficult to target for the immune system, therefore the corresponding genes have less evolutionary drive to mutate:
+  * *Virion Phase:* Antibodies can target the external proteins of virions. 
+  * *Metabolic Phase:* Cells target proteins present via MHC 1, and possibly antibodies [to check and cite]. Some cells take up antibodies these antibodies can bind the virions during the metabolic phase. 
+
 * *Expression Level:* Proteins with low expression levels: The immune system learning system comes more in contact with frequent proteins and thus learns them more likely.
   * For coronaviruses (for most other viruses too) the non structural proteins have much lower expression levels than the structural proteins.
   * The share of proteins mass is as follows: 1. N protein, 2. S protein, 3. E Protein, 4. M Membrane Protein [to finish, check and cite]
 
+
 #### Functional Drive
-* *Conserved Function:* Functional units of proteins. The more conserved the function is, the more conserved they tend to be.
-  * The replication mechanism of coronaviruses is well conserved and thus the proteins involved e.g. functional parts of the RNA-dependent RNA polymerase protein [to check and cite]. 
-* *Adapted Function:*
-  * The receptor binding 
+* *Stabilizing = Conserved Functions:* Functional units of proteins with virus intrinsic functions:
+  * The replication mechanism of coronaviruses is well conserved and thus the proteins involved e.g. functional parts of the RNA-dependent RNA polymerase protein (RdRP) [to check and cite]. 
+* *Mutative = Functions to Optimize:*
+  * The receptor binding needs to be optimized upon a species jump.
+  * The spike protein is a key determinant of the tropism, thus a tropism change is often associated with changes in the spike.
+  * Shutting down cellular immune responses needs to be adapted upon a species jump and sometimes upon tropism change if the new target cells have different intracellular immunity. E.g. the NSP6 protein is 
+* *No Functional Drive = Functionless structures:*
+  * E.g. the N terminal part of the spike of SARS-CoV-1/2 has no known function.
+
+
+
+
 
 ## Observed Evolution
 * Bovine coronaviruses spread from cattle to many ungulates both domestic and wild [to cite].
 * In cell cultures coronavirus can adapt within a couple of generations. E.g. 
   * they can adapt such that the virions tolerate high temperature (55 degrees) better [Laude](../2_biological/virion_viability.md#summary-laude).
 * SARS-CoV-2 jumps to domestic animals and adapts.
+
+
+
 
 
 ## References
