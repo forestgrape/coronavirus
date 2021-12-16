@@ -147,10 +147,14 @@ A good immune system goes hand in hand with a healthy lifestyle. For an optimal 
 * Sleep enough, eat healthily, relax and do some sport. 
 
 and avoid weakening the immune system:
-* avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
+
 * avoid being cold or even freezing for a longer period. For this reason, in cold climates, windows shouldn't be kept open permanently. 
 * avoid immunosuppressants unless necessary for medical reasons.        
   > Immunosuppressants are *not* a major risk factor for Covid though => no reason to be afraid if they are necessary (some carefulness is appropriate however). 
+
+* avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
+    > From time to time exceptions - as long as not overly excessive - seem to be not much adverse or even healthy such as in the case of excessive sports, possibly since the immune system and overall body homeostasis gets some training. Recovery time is important however.
+
 * try reducing stress for yourself and others. Trying too hard won't help though. 
     
 Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
