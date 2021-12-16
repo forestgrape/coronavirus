@@ -39,26 +39,26 @@
 * [References](#references)
   * [Interspecies Transmission, Adaption & Evolution](#interspecies-transmission-adaption--evolution)
   * [Adaption of the Innate Immune System](#adaption-of-the-innate-immune-system)
-  * [Acquired Immunity](#acquired-immunity)
-  * [Books](#books)
+  * [References Books](#references-books)
 
 
 
 ## Summary
 Selected topics of the immune system with a focus on the principles. The immune system is viewed as the part of the homeostasis system which handles life form interactions at the molecular level. 
 
-> The focus is on the principles to understand to immune interaction with coronaviruses.
+> The focus is conceptual view to understand to immune interaction with coronaviruses.
 
 
 ## Introduction
 
 ### Defining the Immune System
 
-Defining the immune system is not straight forward. One approach is to define the immune system as the mechanisms which prevent a disease. [A disease](../3_medical/covid19.md#disease) is often the loss of ease due to life form interactions but not necessarily. Here the immune system is defined general as mechanisms which handle life form interactions.
+Defining the immune system is not straight forward. One approach is to define the immune system as the mechanisms which prevent a disease. However the immune system is involved in [a disease](../3_medical/covid19.md#disease) and thus such a definition is circular (at least to some extent).
 
+Here the immune system is defined general as mechanisms which handle life form interactions.
 
 > ###### Immune System
-> The *immune system* denotes mechanisms which watch and regulate competitive life forms interactions at the cellular level or below. The goal is to prevent damage and this is achieved by watching interactions within or between life forms. If necessary the immune system redirects/adapts/reduces the interactions such that the interactions are advantageous or at least not adverse.
+> The *immune system* denotes mechanisms which watch and regulate competitive life forms interactions at the cellular level or below. The goal is to prevent damage and this is achieved by watching interactions within or between life forms. If necessary the immune system redirects/adapts/reduces the interactions such that the interactions are not adverse or even advantageous.
 
 #### Alternative Definitions of the Immune System
 > * Earlier the immune system was defined as "targeting things recognized to be unwanted". To goal was to generalize the often given definition: The immune system fights pathogens or even more specific producing antibodies against pathogens. 
@@ -278,13 +278,13 @@ The entire immune system varies both during lifetime and from generation to gene
 2. the mechanisms targets are handled
 3. the targets recognized and handled.
 
-(1.) and (2.) don't involve a change of the targets throughout the lifetime. The part of the immune system which vary only through 1. and 2. are called [innate immunity](#innate-immune-system), since the target capabilities are present upon birth. The parts of the immunity which can acquire new target capabilities upon encounter with new things are called [acquired immunity](#acquired-immunity).
+(1.) and (2.) don't involve a change of the targets throughout the lifetime. The part of the immune system which vary only through 1. and 2. are called [innate immunity](#innate-immune-system), since the target capabilities are present upon birth. The parts of the immunity which can acquire new target capabilities upon encounter with new things are called [acquired immunity](#acquired-immunity) i.e. the target capabilities are acquired throughout lifetime and not present upon birth.
 
 
 ### Factors Influencing Variability
 The immune adaption depends both on the personal history of exposure to pathogens and the one, ones the ancestors have been exposed to (genetic adaption)
-* lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#acquired-immunity))
-* generational adaption: personal and ancestral exposures are memorized and cause both the innate and acquired immune system to adapt
+* Lifetime adaption: personal history of exposure to antigens experienced to be harmful. One hand hand more immune cells may relocate or replicate increased in locations where pathogens haven been observed. On the other hand the specific parts of immune systems have mechanism of memorizing seen pathogens ([Variable Immune System](#acquired-immunity)). How the immune system develops during lifetime is discussed in the chapter [Immunity throughout Lifetime](ontogenesis_and_locality_of_immunity.md).
+* Generational adaption: personal and ancestral exposures are memorized and cause both the innate and acquired immune system to adapt
 
 
 ### Target Variability
@@ -330,7 +330,10 @@ Checking these conditions is called training (described for T cells in [T Cell T
  --> 
 
 
+
+
 ## Immune System Members
+
 
 ### Intra Cellular Immunity
 The intracellular immunity is cell type dependent and varies much, even within an organism. Most cells a surveillance system of different receptors supervise in a [default allow scheme](../8_data/data.md#default-allow) and the cell intern RNA is strictly monitored often by a [default deny scheme](../8_data/data.md#default-deny) i.e. only RNA which looks good is translated to proteins.
@@ -379,7 +382,7 @@ T cells are in the blood, in lymph nodes and resident T cells in tissues. Lymph 
 2. _Thymus:_ The genes encoding the T cell receptor (TCR) undergo somatic recombination => the TCRs differ from T cell to T cell. In the thymus it is checked if the cells have the right binding capabilities: The TCR should bind the MHC 1 receptors neither to weak nor to strong. Don't attack self substances. 
    * Fail (wrong MHC binding strength or self substances attacked) => trigger cell death (if goes wrong, an autoimmune disease can result)
    * Succeed (right MHC binding strength If the cell does *not* bind self) => send the cell to the lymph nodes. 
-3. _Lymph Nodes:_ In the lymph nodes the cells are exposed to foreign substances. If a cell binds to unknown and harmful substances the cell is useful. If the cells is useful often replication is triggered.
+3. _Lymph Nodes:_ In the lymph nodes T cells are presented antigens by antigen presenting cells (APCs). If a T cells recognizes an antigen which is classified as dangerous, the T cell transforms from the naive to a mature state [to check and cite].
 
 
 
@@ -407,10 +410,7 @@ Cell. 2018;175(6):1463–1465.
 <!--* ##### han2006-->
 
 
-### Acquired Immunity
-
-
-### Books
+### References Books
 [in work]
 
 #### Lydyard
