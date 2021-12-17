@@ -75,9 +75,9 @@ There is also a rather subjective page in German with some comments on the Coron
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- 17.12.: Omicron is noteworthy different from the previous SARS-CoV-2 lineages: 1) Higher Transmission 2) changed disease and 3) very high number of mutations in the spike. Two hypotheses are discussed which could explain these observations: 
-  - Explanation 1 (very speculative): The Omicron Variants has a changed tropism away from  airways epithelial cells towards myeloid immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for a possible change in tropism.
-  - Explanation 2: The Omicron variant mutated to escape spike binding antibodies.
+- 17.12.: Omicron is noteworthy different from the previous SARS-CoV-2 lineages: 1) Higher Transmission 2) reports for changed disease symptoms and 3) very high number of mutations in the spike. Two possible explanations are discussed: 
+  - _Explanation 1 (very speculative):_ The Omicron Variants has a changed tropism away from airways epithelial cells towards myeloid immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for a possible change in tropism.
+  - _Explanation 2:_ The Omicron variant mutated to escape spike binding antibodies and thereby gained a transmission advantage.
 
 - 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work. Added: 
   - some observations on the effects of vaccine on transmission once infected.
