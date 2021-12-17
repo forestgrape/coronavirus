@@ -15,6 +15,21 @@
 > __entire page is in work__
 
 
+
+> ##### Comment 9.12. 
+> (originally published in the updated section)
+> The formulations in this chapter are often *dramatic*, once to motivate investigations/publications on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified/published. The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated. I don't think they should both for epidemiological reasons due to escape mutations and for adverse effects, even when rare if vaccinating hundred thousands or millions the adverse events add up.
+
+> Many mentioned effects are possibly unlikely, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels (even tiny ones could be adverse) are hit.
+
+> 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
+
+> 9.12. *Transparency of adverse Effects:* If it there would known that there are previously unknown possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these. 
+> * A fond for the affected could be founded. 
+> * Supervision and if necessary treatments or other precautions measures could be initiated for those affected. 
+> * Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries - and the world in the long run.
+
+
 * [Summary](#summary)
 * [Recent Updates](#recent-updates)
 * [Introduction](#introduction)
@@ -131,7 +146,9 @@ Some points relevant for Covid vaccines are:
 * *Tissues:* To which tissues the vaccines are distributed?
 	If the vaccines reside within the deltoid muscle where administrated, possible direct effects are mostly localized there. If they vaccines are distributed systemically effects are not localized and much harder to diagnose. 
 	
-	> Also there tissues like the bone marrow or the brain where mRNA transfection is not wanted.
+	> Also there tissues like the bone marrow or the brain where mRNA transfection is not wanted. 
+
+	> Coincidentally when my thoughts were focussed on the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). While the initial symptoms were mild, some back pain persisted for months. TBEV can infect both the CNS and the bone marrow. *Unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections. There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in human [to check which type], but the effects (positive or negative) of these vaccines (inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown). Ideally there would be an safe live virus vaccine mimicking natural infections because wild type infections while being very risk, induce a good immunity: Natural TBEV infections induce a long-lasting and very reliable protection against reinfection, which is useful if one loves to move through nature.
 
 
 * *Cells:* What's the cell tropism of the vaccines i.e. which cells they preferably attach and enter?

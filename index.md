@@ -75,27 +75,9 @@ There is also a rather subjective page in German with some comments on the Coron
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- 12.12. (Pago Pago Time Zone to keep own set publish dates without compromising [to much] on sleep time): Speculative Hypothesis about Omicron: The Omicron Variants has possibly a changed tropism away from  airways epithelial cells towards myeloid immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for a possible change in tropism.
-
-- > 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
-
-
-- 9.12. *Transparency of adverse Effects:* If it  would known that there are previously unknown possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these. 
-  * A fond for the affected could be founded. 
-  * Supervision and if necessary treatments or other precautions measures could be initiated for those affected. 
-  * Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries - and the world in the long run.
-
-
-- 9.12. Note on [Vaccine Safety Questions](10_vaccines/vaccine_safety.md):
-  > The formulations in this chapter are often *dramatic*. For the following reasons:
-  > * When written the goal was to motivate investigations on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified.
-  > * The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated. I don't think they should both for epidemiological reasons due to escape mutations and for adverse effects, even when rare if vaccinating hundred thousands or millions the adverse events add up.
-
-  > Many mentioned effects are possibly unlikely, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels are hit.
-  >
-  > Also one needs to keep in mind that some viruses such as flaviviruses also have an unfavorable tissue kinetics (usually called tropism in the case of viruses). So the body has some mechanisms in place to handle unfavorable kinetics.
-
-  > Coincidentally when my thoughts were focussed on the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). While the initial symptoms were mild, some back pain persisted for months. TBEV can infect both the CNS and the bone marrow. *Unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections. There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in human [to check which type], but the effects (positive or negative) of these vaccines (inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown). Ideally there would be an safe live virus vaccine mimicking natural infections because wild type infections while being very risk, induce a good immunity: Natural TBEV infections induce a long-lasting and very reliable protection against reinfection, which is useful if one loves to move through nature.
+- 17.12.: Omicron is noteworthy different from the previous SARS-CoV-2 lineages: 1) Higher Transmission 2) changed disease and 3) very high number of mutations in the spike. Two hypotheses are discussed which could explain these observations: 
+  - Explanation 1 (very speculative): The Omicron Variants has a changed tropism away from  airways epithelial cells towards myeloid immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for a possible change in tropism.
+  - Explanation 2: The Omicron variant mutated to escape spike binding antibodies.
 
 - 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work. Added: 
   - some observations on the effects of vaccine on transmission once infected.
