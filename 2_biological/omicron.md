@@ -22,7 +22,7 @@
 ## Summary  
 
 ##### Summarized Observations
-Omicron is a lineage which arouse from a lineage from SARS-CoV-2. However is has features different from all previous lineages (usually referred as variants) of SARS-CoV-2:
+Omicron is a lineage which arouse from a lineage from SARS-CoV-2. However it has features different from all previous lineages (usually referred as variants) of SARS-CoV-2:
 * *Symptoms:* Rather than a typical respiratory disease, there are reports for more systemic symptoms such as night sweets and tiredness. Cough is still observed though.
 * *Transmission:* 
   * Previous infections provide a lower protection compared to the protection they provided against previous variants.
@@ -30,7 +30,7 @@ Omicron is a lineage which arouse from a lineage from SARS-CoV-2. However is has
 * *Mutation Distribution:* The number and distribution of mutations. Omicron has many mutations in the spike of which a surprisingly large number in RBD and a new insertion in the NTD part of the spike. There is also an increased mutation rate in NSP6, however the genes of most other proteins didn't mutate much.
 
 ##### Possible Explanations
-In the following two possible explanations for these observations are outlined. The explanation 1 states the hypothesis that Omicron has a changed tropism and can replicate in immune cells such as macrophages. This is a speculative hypothesis though there are arguments. Explanation 2 is close to the standard explanation stated often in literature and just explains the higher transmission rates: The mutations in the spike of Omicron mostly render the spike binding antibodies useless and thereby it can escape the acquired immune response. 
+In the following two possible explanations for these observations are outlined. Explanation 1 states the hypothesis that Omicron has a changed tropism and can replicate in immune cells such as macrophages. This is a speculative hypothesis. Explanation 2 is close to the standard explanation stated: Omicron mutated to escape spike targeting antibodies and the immune escape gained yields a  transmission advantage.
 
 ###### Possible Explanation 1: How an altered Tropism explain the Changes
 One possible observation for the above observations, is a shift of tropism away from differentiated respiratory tract epithelial cells towards immune cells such as macrophages:
