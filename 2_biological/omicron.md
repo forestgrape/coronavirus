@@ -4,7 +4,9 @@
 
 > Many statements are *ideas and hypotheses and not facts*.
 
-> **not only explorative but speculative**
+> **not only explorative but partly speculative**
+
+> **only summary and some refs are available**
 
 * [Summary](#summary)
 * [References](#references)
@@ -15,8 +17,9 @@
   * [References Reinfection of Omicron](#references-reinfection-of-omicron)
   * [References ADE](#references-ade)
 
+
+
 ## Summary  
-The hypothesis is that the Omicron has a different tropism away from airway epithelial cells towards phagocytes such as macrophages.
 
 ##### Summarized Observations
 Omicron is a lineage which arouse from a lineage from SARS-CoV-2. However is has features different from all previous lineages (usually referred as variants) of SARS-CoV-2:
