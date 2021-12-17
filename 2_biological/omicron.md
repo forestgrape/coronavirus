@@ -2,8 +2,6 @@
 
 > entire page in work and subject to changes. 
 
-> Many statements are *ideas and hypotheses and not facts*.
-
 > **not only explorative but partly speculative**
 
 > **only summary and some refs are available**
