@@ -1,12 +1,10 @@
 # Antibodies
 
-> Mainly online for the references. Some of refs are used in the chapter [Hypothesis on the Tropism of Omicron](../2_biological/omicron.md), where the possible of a changed tropism of the omicron variant and possible ADE effects are discussed. To grasp ADE the refs here on the different classes of antibodies are helpful.
+> Mainly online for the references. Many of references are relevant for the chapter [Hypothesis on the Tropism of Omicron](../2_biological/omicron.md), where the possible of a changed tropism of the omicron variant and possible ADE effects are discussed.
 
 
 ## Summary
-There are different classes of antibodies. The antibody class produced depends on the immune stimulant and its locations. Upon binding with the matching antigen the antibodies trigger effector functions.
-
-_Effector Functions:_
+There are different classes of antibodies. The antibody class produced depends on the immune stimulant and its locations. Upon binding with the matching antigen the antibodies trigger effector functions. The effector functions are:
 * Antibodies can render the antigen incapable to function/to do damage i.e. the antigen is neutralized. Examples:
   * an antibody to the RBD of coronavirus spikes can prevent the spike to bind to its target receptor. Antibodies with such effects are called neutralizing antibodies.
   * Antibodies can neutralized toxic enzymes [to confirm and cite].
