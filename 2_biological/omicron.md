@@ -1,4 +1,4 @@
-# Speculative Hypothesis about a Changed Tropism of the Omicron Variant
+# Omicron
 
 > entire page in work and subject to changes. 
 
