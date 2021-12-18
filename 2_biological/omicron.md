@@ -20,15 +20,14 @@
 ## Summary  
 
 ##### Summarized Observations
-Omicron is a lineage which arouse from a lineage from SARS-CoV-2. However it has features different from all previous lineages (usually referred as variants) of SARS-CoV-2:
+Omicron is a SARS-CoV-2 lineage. However it has features different from all previous lineages (usually referred as variants) of SARS-CoV-2:
 * *Symptoms:* Rather than a typical respiratory disease, there are reports for more systemic symptoms such as night sweets and tiredness. Cough is still observed though.
 * *Transmission:* 
   * Previous infections provide a lower protection compared to the protection they provided against previous variants.
-  * The transmission rate is much higher than observed for all previous variants. This is the case in many different settings: household transmission, social events and populations level increase in cases. Noteworthy this is the case in settings where many people are vaccinated.
-* *Mutation Distribution:* The number and distribution of mutations. Omicron has many mutations in the spike of which a surprisingly large number in RBD and a new insertion in the NTD part of the spike. There is also an increased mutation rate in NSP6, however the genes of most other proteins didn't mutate much.
-
+  * The transmission rate is much higher than observed for all previous variants. This is the case in many different settings: household transmission, social events and populations level increase in cases. Noteworthy, many locations where very high transmission rates are observed have high vaccination rates.
+* *Mutation Distribution:* Omicron has a lot of mutations in the spike of which a surprisingly large number in RBD. In the NTD part of the spike there is also an insertion which hasn't been seen before. NSP6 mutated also at an increased mutation rate. The mutation rate in the other genes seems to be at a comparative level as observed for other variants.
 ##### Possible Explanations
-In the following two possible explanations for these observations are outlined. Explanation 1 states the hypothesis that Omicron has a changed tropism and can replicate in immune cells such as macrophages. This is a speculative hypothesis. Explanation 2 is close to the standard explanation stated: Omicron mutated to escape spike targeting antibodies and the immune escape gained yields a  transmission advantage.
+In the following two possible explanations for these observations are outlined. Explanation 1 states the hypothesis that Omicron has a changed tropism and can replicate in immune cells such as macrophages. This is a speculative hypothesis. Explanation 2 is close to the standard explanation stated: Omicron mutated to escape spike targeting antibodies. The immune escape gained yields a  transmission advantage.
 
 ###### Possible Explanation 1: How an altered Tropism explain the Changes
 One possible observation for the above observations, is a shift of tropism away from differentiated respiratory tract epithelial cells towards immune cells such as macrophages:
@@ -48,12 +47,14 @@ The spike mutations enable Omicron to escape spike binding antibodies: Antibodie
 * For naturally acquired immunity a reduction of protection occurs since one part of natural immunity are spike targeting antibodies. The magnitude of this effect depends how important spike targeting antibodies are for naturally acquired immunity.
 
 ###### Likelihood of the Explanations
+_Likelihood by the Immune Protection Mechanism:_
 The likelihood of the possible explanations depends by which mechanism(s) the acquired immunity works both for vaccines and natural infections. Acquired immunity can protect through:
 * Antibody mediated immunity. Antibodies can provide protection through neutralizing activity (spike binding only and mostly RBD) and by opsonizing to virions for phagocytosis (spike binding only) or for antibody-dependent cellular cytotoxicity (Chapter [Antibodies](../4_immunological/antibodies.md)).
-* T cells mediated immunity. One form of protection by T cell immunity are cytotoxic CD8 cells which detect and eliminate infected cells. Often these T cells are resident in the lungs (a concept known as tissue resident T cells).
+* T cells mediated immunity. One form of protection by T cell immunity are cytotoxic CD8 cells which detect and eliminate infected cells. In the conducting airways (bronchi, trachea, to some extent URT) these are mostly Tissue resident T cells [to confirm and cite].
 
-For coronavirus immunity all the above mechanism are observed. The relative importance of the different mechanisms is not quite clear (yet) however. Natural infection induce both antibodies and tissue resident T cells. The latter are likely central for protection. Explanation 2 though, is only likely when the protection is predominately provided by spike binding antibodies, else there is not reason that Omicron escapes natural immunity better since Omicron just mutated much in the outer part of the spike and not in other antigenic sites targeted by natural acquired immunity. Thus explanation 2 is considered unlikely.
+For coronavirus immunity all the above mechanism are observed. The relative importance of the different mechanisms is not quite clear (yet) however. Natural infection induce both antibodies and tissue resident T cells. There is good evidence that tissue resident T cells play an important role. Explanation 2 though, is only likely when the protection is predominately provided by spike binding antibodies, else there is not reason that Omicron escapes natural immunity better than other variants, since Omicron just mutated much in the outer part of the spike but not in other antigenic sites targeted by natural acquired immunity. Thus explanation 2 is less likely.
 
+_Likelihood by the observed Transmission Rates:_
 Additionally the extremely high attack rates observed e.g. at single dinner over 70% of the participants got infected. Such high attack rates are more likely for viruses infecting immune cells and thus make explanation 1 more likely.
 
 
