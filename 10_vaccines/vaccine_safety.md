@@ -16,19 +16,22 @@
 
 
 
-> ##### Comment 9.12. 
+> ##### Comment 9.12. (adapted 19.12.21)
 > (originally published in the updated section)
-> The formulations in this chapter are often *dramatic*, once to motivate investigations/publications on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified/published. The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated. I don't think they should both for epidemiological reasons due to escape mutations and for adverse effects, even when rare if vaccinating hundred thousands or millions the adverse events add up.
+> The formulations in this chapter are often *dramatic*. 
+> * Once to motivate investigations/publications on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified/published. 
+> * The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated and additionally repeated vaccination - commonly referred as 'boosters' - is considered/carried out. 
 
 > Many mentioned effects are possibly unlikely, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels (even tiny ones could be adverse) are hit.
 
-> 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
+> Tn my opinion any vaccination (1st, 2nd, 3rd, ...) for the young should be stopped right now, both for epidemiological reasons due to escape mutations and for adverse effects (even when rare if vaccinating millions the counts of adverse events add up).
 
 > 9.12. *Transparency of adverse Effects:* If it there would known that there are previously unknown possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these. 
 > * A fond for the affected could be founded. 
 > * Supervision and if necessary treatments or other precautions measures could be initiated for those affected. 
 > * Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries - and the world in the long run.
 
+> 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
 
 * [Summary](#summary)
 * [Recent Updates](#recent-updates)
@@ -55,7 +58,7 @@ The method of tolerable symptoms watching is not necessarily enough to ensure th
 * For adenovirus based vaccines the adenovirus species and its characterization is needed e.g.  how they distribute, which cells they attach or infect and the clearance kinetics. 
   * Haemagglutination is observed for many adenoviruses, which is possibly the cause of the observed thrombosis events. Which could be prevented e.g. by dosage or administration adaption (e.g. sprayed to the respiratory tract)
   	> Sprayed vaccines would induce an airway local immunity which unlike systemic immunity provides a good protection against mild disease and transmission.
-  * Some adenoviruses have a broad cell tropism. When infecting replication capable cells, adenovirus possibly increase the cancer risk.
+  * Some adenoviruses have a broad cell tropism. When infecting replication capable cells, adenovirus could in theory increase the cancer risk.
 
 In conclusion, the safety of vaccines can only be ensured by symptoms if a thorough understanding of their behavior in the body is known. 
 
@@ -67,7 +70,6 @@ In conclusion, the safety of vaccines can only be ensured by symptoms if a thoro
 * 23.7.: Extended list of speculative adverse effects: 
 	- Intramuscular administrated Adenovirus vaccine may increase the cancer risk (depends on the adenovirus strain, mainly whether they enter replication capable cells).
 	- 'mRNA vaccines' if they have a tropism for the ovaries, they may transfect some follicles. Effect could be similar to some years of smoking.
-* 8.12.: Note, that I likely caused a TBE infection when thinking about this page with only causing slight symptoms despite TBE has a neurotropism.
 
 
 
@@ -141,15 +143,12 @@ Some points relevant for Covid vaccines are:
 * How long the vaccines reside within the body? 
 	Knowing the decay is mandatory to know the timescales of possible effects and thus needed to determine the surveillance period.
 	
-	> Animal experiments or pathology of deaths close in time to vaccination including full sequencing would help to bring clarity.
+	> Animal experiments or pathology of deaths close in time to vaccination including RNA sequencing and detailed analysis in whether there are any coronavirus spikes around in the cells and tissues would help to bring clarity.
 
 * *Tissues:* To which tissues the vaccines are distributed?
 	If the vaccines reside within the deltoid muscle where administrated, possible direct effects are mostly localized there. If they vaccines are distributed systemically effects are not localized and much harder to diagnose. 
 	
 	> Also there tissues like the bone marrow or the brain where mRNA transfection is not wanted. 
-
-	> Coincidentally when my thoughts were focussed on the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). While the initial symptoms were mild, some back pain persisted for months. TBEV can infect both the CNS and the bone marrow. *Unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections. There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in human [to check which type], but the effects (positive or negative) of these vaccines (inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown). Ideally there would be an safe live virus vaccine mimicking natural infections because wild type infections while being very risk, induce a good immunity: Natural TBEV infections induce a long-lasting and very reliable protection against reinfection, which is useful if one loves to move through nature.
-
 
 * *Cells:* What's the cell tropism of the vaccines i.e. which cells they preferably attach and enter?
 
@@ -157,7 +156,7 @@ Some points relevant for Covid vaccines are:
 	
 	> On the other hand it is usually bad if long-lived neurones or stem cells are infected. These cell are usually well protected by the body: deep within tissues or even within the bones. Additionally these cell have their own protection against virus infections.
 	
-* *Within Cells:* What happens upon cell infection/transfection? Is cell death induced if yes orderly through apoptosis? Are anti-apoptotic factors expressed? Is the nucleus entered? How long the induced materials reside inside cells (mainly relevant for long lived and replication capable cells)?
+* *Within Cells:* What happens upon cell infection/transfection? Is cell death induced? If yes, orderly through apoptosis? Are anti-apoptotic factors expressed? Is the nucleus entered? How long the induced materials reside inside cells (mainly relevant for long lived and replication capable cells)?
 
 
 ### Kinetics of mRNA Vaccines
@@ -184,17 +183,23 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 
 	> Even minor brain damage is not wanted for children, adolescents or pregnant women.
 
-	> For viruses having a neurotropism effects can be both serious or harmless. Sometimes this can have very bad effects which can e.g. result from severe mumps or polio infections. However some viruses such as flaviviruses can cause virulent infections but can also subtle persistent infections without causing much damage // This summer, when thinking exactly about this chapter, I caught a tick which likely infected me with the tick-borne encephalitis virus. It initially caused a very mild illness which was followed by regular but slight back pain for a couple of weeks which mostly went away by now. I don't experience other adverse effects even though TBE infections may be persistent (TBE can also infect the brain and cause serious or even deadly Meningoencephalitis).
+	> For viruses having a neuro-tropism effects can be both serious or harmless. Sometimes this can have very bad effects which can e.g. result from severe mumps or polio infections. Some viruses such as flaviviruses can cause virulent infections but can also subtle persistent infections, whether these are adverse is not quite clear.
 
 * *Lympho-Tropism:* If lymphoid tissues are entered and many lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else. In theory, some cancer cells may remain undetected and cause cancer in the coming months or years.
 
 * *Bone Marrow:* If the bone marrow is infiltrated, pluripotent stem cells can be altered or knocked off. The stem cell niches in the bone marrow are some of the best protected cells for good reason. In theory messing around with the bone marrow stem cell niches can cause many adverse effects e.g. increased aging or cancer risk.
 
-* *Ovaries:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects for having children. E.g. cells can die and the number of  primordial follicles (respectively local stem cell populations) decline which can cause decreased fertility and can be viewed as early aging of the fertility system. Other effects are possible too, the transfected RNA, other ingredients such as polyethylen-glycol or the produced spikes may remain in oocytes or close by cells - this could cause a mess during embryogenesis. 
+* *Ovaries:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects. E.g. cells can die and the number of  primordial follicles (respectively local stem cell populations) decline, this could be viewed as an early aging of the fertility system. Other effects are possible too, the transfected RNA, other ingredients such as polyethylen-glycol or the produced spikes may remain in oocytes or close by cells - in theory this could affect embryogenesis. 
 
-	> The chances for the latter likely are low but for in the case of mass vaccination (with unclear benefits for the young) even low probabilities are relevant.
+> The chances for the latter likely are low but for in the case of mass vaccination (with unclear benefits for the young) even low probabilities are relevant.
 
 > The above effects are highly speculative. Predictions can only be done when ALL the cells and tissue tropism experiments (including the failed trials and research experiments) are published!
+
+>> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV) - borrelia are unlikely due to symptoms and to 2x200mg doxycycline post-exposure prophylaxis. It initially caused a very mild illness which was followed by regular but slight back pain for a couple of months which mostly went away by now. I don't experience other adverse effects even though TBEV can infect both the CNS and the bone marrow and *unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections.
+> 
+>> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans [to check which type], but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections since wild type infections carry risks both short- and long-term, however they reliably protect against subsequent infection - which is useful if one loves to move through nature.
+
+>> The above example of TBEV, is put to emphasize that some viral infections are in theory much more risky than 'mRNA' vaccination. However SARS-CoV-2 is by fare less dangerous for the young than TBEV - at least before Omicron for which the tropism and the direction of evolution is not yet clear. Though against Omicron it is unclear whether vaccination is beneficial (as of 19.12.).
 
 
 #### Cell Kinetics
@@ -202,7 +207,7 @@ The 'mRNA' vaccines encapsulate the RNA in in lipid nano-particles. Such particu
 * Are stem cell entered? 
 * Are long live cells entered such as immune memory cell or neurons?
  
-> Most viruses infect differentiated cells and those infecting long lived or stem cells tend to be dangerous. RNA strands encapsulated in lipid particulates are taken up and processed by stem cells too, since cell communication for differentiation relies on lipid encapsulated RNA.
+> Most viruses infect differentiated cells and those infecting long lived or stem cells can be dangerous. RNA strands encapsulated in lipid particulates are taken up and processed by stem cells too, since cell communication for differentiation relies on lipid encapsulated RNA.
 
 > These are fundamental properties mandatory to estimate possible adverse effects. However nearly nothing is linked in the trials and a search (google scholar) yields very few  results published.
 
@@ -216,6 +221,7 @@ What happens upon cell entry?
   > Often it is presumed not without argumentation - I except it as rare but not impossible.
 
   
+
 ### Kinetics of Adenovirus Vaccines
 In comparison to 'mRNA' vaccines, for adenovirus vaccines it seems less likely that they enter arbitrary cells and tissues since adenoviruses are bigger than lipid nano particles and need a receptor to enter cells. However 
 * some adenoviruses strains have a broad cell tropism.
@@ -224,8 +230,10 @@ In comparison to 'mRNA' vaccines, for adenovirus vaccines it seems less likely t
 
 > Natural adenovirus infection are mostly limited to the respiratory tract and not systemic, therefore the observation that these infections are mostly harmless does not transform to the systemic administration of vaccines.
 
+
 #### Adenovirus Vaccines Clearance
 The adenovirus vaccine induced antibody production increases slowly over the time span of several weeks. This indicates a slow clearance. The adenoviruses can reside dormant within tissues but outside of cells or within cells.
+
 
 #### Tissue Kinetics
 Which tissues are entered? Which share of the administrated dose remains in the muscle, which share is distributed?
@@ -238,7 +246,7 @@ Two things can happen upon match with a cell:
 * [Cell Entry](#adenovirus-cell-entry) adenovirus enters the cells.
 
 ##### Adenovirus Cell Attachment
-Many adenoviruses attach to redblood cells and thereby can cause haemagglutination i.e. they act as glue to clump red blood cells.
+Many adenoviruses attach to red blood cells and thereby can cause haemagglutination i.e. they act as glue to clump red blood cells.
 
 > When the vaccine is now overdosed and/or not accurately administrated into the muscle, a large number of adenoviruses can be released into the bloodstream which may cause the blood cells to clump. 
 
@@ -255,9 +263,10 @@ Different adenovirus strains use different cell entry receptors. Some adenovirus
 
 #### Within Cell Behavior
 Adenoviruses vaccines used adenoviruses rendered replication incapable but apart from this the adenoviruses are similar to their wild type counterparts. As such they can do a lot within cells: 
-* Enter the cell nucleus. The cell nucleus is the core part of the cell for long lived or replication capable cells this is risky.
-* Reside dormant within cells for a long time.
+* Enter the cell nucleus. The cell nucleus is the core part of the cell for long lived or replication capable cells this could have adverse effects.
 * Alter the cells metabolism in various ways: One thing they do is to produce proteins including the coronavirus spike. Additionally they produce also anti apoptotic substances which is mainly a problem in replication capable cells since the cancer risk can increase. 
+* Reside dormant within cells for a long time.
+
 
 
 
