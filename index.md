@@ -41,6 +41,10 @@ There is also a rather subjective page in German with some comments on the Coron
 
 ## Updates
 ### Recent Topics Added
+- 17.12.(20.12. moved here from the update section): New Chapter on [Omicron](2_biological/omicron.md). Omicron is noteworthy different from the previous SARS-CoV-2 lineages: 1) Higher Transmission 2) reports for changed disease symptoms and 3) very high number of mutations in the spike. Two possible explanations are discussed: 
+  - _Explanation 1 (very speculative):_ The Omicron Variants has a changed tropism away from airways epithelial cells towards myeloid immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for a possible change in tropism.
+  - _Explanation 2:_ The Omicron variant mutated to escape spike binding antibodies and thereby gained a transmission advantage.
+
 - 24.11.: [Interferon Treatment](6_prevention_and_treatment/interferon.md): Early interferon treatment helps to reduce the viral load and prevents more than half of severe disease cases. Interferon alpha treatment shows the best results with a mortality reduction above 75% if used early. Topical administration to the respiratory tract (spray or nebulized) shows benefits even in mid to advanced disease stages. Systemically applied interferons (especially IFN beta) on the other hand yield adverse outcomes when applied late.<br>
   => 1) Topical IFN alpha is recommended to treat SARS-CoV-2 infection and treatment should start as early as possible.<br>
   => 2) Systemic or topical IFNs are recommended as prophylaxis for risk groups upon exposure or at high incidence rates of severe Covid.
@@ -75,9 +79,12 @@ There is also a rather subjective page in German with some comments on the Coron
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- 17.12.: Omicron is noteworthy different from the previous SARS-CoV-2 lineages: 1) Higher Transmission 2) reports for changed disease symptoms and 3) very high number of mutations in the spike. Two possible explanations are discussed: 
-  - _Explanation 1 (very speculative):_ The Omicron Variants has a changed tropism away from airways epithelial cells towards myeloid immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for a possible change in tropism.
-  - _Explanation 2:_ The Omicron variant mutated to escape spike binding antibodies and thereby gained a transmission advantage.
+- 20.12. Formulations improved across the page. Feedback of any kind, especially improvement suggestions, is always welcome (forestgrape@runbox.com).
+
+- 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to [Recent Topics](#recent-topics-added).
+
+  >>> Omicron is a new Topic and not just an Update.
+
 
 - 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work. Added: 
   - some observations on the effects of vaccine on transmission once infected.
