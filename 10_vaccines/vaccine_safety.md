@@ -18,18 +18,18 @@
 
 > ##### Comment 9.12. (adapted 19.12.21)
 > (originally published in the updated section)
-> The formulations in this chapter are often *dramatic*. 
+> The formulations in this chapter are often *dramatic*. (20.12. changes to more factual formulations in work)
 > * Once to motivate investigations/publications on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified/published. 
 > * The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated and additionally repeated vaccination - commonly referred as 'boosters' - is considered/carried out. 
 
 > Many mentioned effects are possibly unlikely, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels (even tiny ones could be adverse) are hit.
 
-> Tn my opinion any vaccination (1st, 2nd, 3rd, ...) for the young should be stopped right now, both for epidemiological reasons due to escape mutations and for adverse effects (even when rare if vaccinating millions the counts of adverse events add up).
+> Tn my opinion any vaccination (1st, 2nd, 3rd, ...) for the young should be stopped right now, both for epidemiological reasons due to escape mutations and for adverse effects, rare events also add up.
 
 > 9.12. *Transparency of adverse Effects:* If it there would known that there are previously unknown possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these. 
 > * A fond for the affected could be founded. 
 > * Supervision and if necessary treatments or other precautions measures could be initiated for those affected. 
-> * Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries - and the world in the long run.
+> * Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries - and the world in the long run. To costs likely scale with time.
 
 > 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
 
@@ -187,9 +187,10 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 
 * *Lympho-Tropism:* If lymphoid tissues are entered and many lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else. In theory, some cancer cells may remain undetected and cause cancer in the coming months or years.
 
+* *Ovaries:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects. E.g. the number of  primordial follicles (respectively local stem cell populations) could early decline. Other effects are possible too, e.g. ingredients such as the transfected RNA, polyethylen-glycol or the produced spikes may remain in oocytes or close by cells - in theory this could affect embryogenesis. If the latter is the case, waiting with pregnancy a few months after vaccination could be adequate.
+
 * *Bone Marrow:* If the bone marrow is infiltrated, pluripotent stem cells can be altered or knocked off. The stem cell niches in the bone marrow are some of the best protected cells for good reason. In theory messing around with the bone marrow stem cell niches can cause many adverse effects e.g. increased aging or cancer risk.
 
-* *Ovaries:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects. E.g. cells can die and the number of  primordial follicles (respectively local stem cell populations) decline, this could be viewed as an early aging of the fertility system. Other effects are possible too, the transfected RNA, other ingredients such as polyethylen-glycol or the produced spikes may remain in oocytes or close by cells - in theory this could affect embryogenesis. 
 
 > The chances for the latter likely are low but for in the case of mass vaccination (with unclear benefits for the young) even low probabilities are relevant.
 
@@ -199,7 +200,9 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 > 
 >> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans [to check which type], but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections since wild type infections carry risks both short- and long-term, however they reliably protect against subsequent infection - which is useful if one loves to move through nature.
 
->> The above example of TBEV, is put to emphasize that some viral infections are in theory much more risky than 'mRNA' vaccination. However SARS-CoV-2 is by fare less dangerous for the young than TBEV - at least before Omicron for which the tropism and the direction of evolution is not yet clear. Though against Omicron it is unclear whether vaccination is beneficial (as of 19.12.).
+>> The above example of TBEV, is to emphasize that some viral infections can be much more risky than 'mRNA' vaccination and also to mention that I had my "risks" too. TBEV cases are few so when 1 in 10 got hit baldy the absolute numbers are still low, vaccination is done for millions and even repeatedly when 1 in 1000 get hit badly the numbers add up. 
+
+>> SARS-CoV-2 is by fare less dangerous for the young than TBEV - at least before Omicron for which the tropism and the direction of evolution is not yet clear. Though against Omicron it is unclear whether vaccination is beneficial (as of 19.12.).
 
 
 #### Cell Kinetics
