@@ -83,13 +83,13 @@ There is also a rather subjective page in German with some comments on the Coron
 
 - 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to [Recent Topics](#recent-topics-added).
 
-  >>> Omicron is a new Topic and not just an Update.
+  > Omicron is a new Topic and not just an Update, both as conceptual and biological.
 
 
 - 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work. Added: 
   - some observations on the effects of vaccine on transmission once infected.
 
-- 7.12. Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft & @Gmail for free and reliable web services. Thanks @everybody helping.
+- 7.12.(adapted 21.12.) Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft & @Gmail & @runbox for reliable web services. Thanks @everybody helping.
 - 7.12. Updated [Table of Content](#content).
 - 2.12. Clarifications across page and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md)
 - 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
