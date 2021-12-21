@@ -46,6 +46,8 @@
 	* [Motivation to consider the Kinetics](#motivation-to-consider-the-kinetics)
 	* [Kinetics of mRNA Vaccines](#kinetics-of-mrna-vaccines)
 	* [Kinetics of Adenovirus Vaccines](#kinetics-of-adenovirus-vaccines)
+* [Appendix](#appendix)
+	* [Personal Risk Exposure](#personal-risk-exposure)
 
 
 ## Summary
@@ -64,7 +66,7 @@ In conclusion, the safety of vaccines can only be ensured by symptoms if a thoro
 
 > To my knowledge, to behavior of the 'mRNA' vaccines and the adeno with spikes vaccines in the body is not published detailed enough for the scientific community to estimate adverse effects. 
 
-> In software, open source often yields quality improvements. 
+> In software, open source often yields quality improvements. Most successful software at least started open source. Until the 80's = before sophisticated compilers and performant mid and high level languages, software was mostly open source anyways.
 
 ## Recent Updates
 * 23.7.: Extended list of speculative adverse effects: 
@@ -196,25 +198,17 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 
 > The above effects are highly speculative. Predictions can only be done when ALL the cells and tissue tropism experiments (including the failed trials and research experiments) are published!
 
->> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV) - borrelia are unlikely due to symptoms and to 2x200mg doxycycline post-exposure prophylaxis. It initially caused a very mild illness which was followed by regular but slight back pain for a couple of months which mostly went away by now. I don't experience other adverse effects even though TBEV can infect both the CNS and the bone marrow and *unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections.
-> 
->> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans [to check which type], but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections since wild type infections carry risks both short- and long-term, however they reliably protect against subsequent infection - which is useful if one loves to move through nature.
 
->> The above example of TBEV, is to emphasize that some viral infections can be much more risky than 'mRNA' vaccination. 
->> * So no point in worrying about past vaccination, but carefully consider future ones - regardless whether 1st, 2nd, 3rd, ... . 
->> * TBEV cases are few, so when 1 in 10 got hit baldy the absolute numbers are still low. Vaccination is done for millions and even repeatedly. When 1 in 1000 shots causes adverse effects the numbers add up.
-
->> SARS-CoV-2 is by fare less dangerous for the young than TBEV - at least before Omicron for which the tropism and the direction of evolution is not yet clear. Though against Omicron it is unclear whether vaccination is beneficial (as of 19.12.).
 
 
 #### Cell Kinetics
-The 'mRNA' vaccines encapsulate the RNA in in lipid nano-particles. Such particulates may in theory enter arbitrary cells.
+The 'mRNA' vaccines encapsulate the RNA in in lipid nano-particles. Such particulates can in theory enter arbitrary cells.
 * Are stem cell entered? 
 * Are long live cells entered such as immune memory cell or neurons?
  
-> Most viruses infect differentiated cells and those infecting long lived or stem cells can be dangerous. RNA strands encapsulated in lipid particulates are taken up and processed by stem cells too, since cell communication for differentiation relies on lipid encapsulated RNA.
+> Most viruses infect differentiated cells and those infecting long lived or stem cells can be dangerous. At least some RNA strands encapsulated in lipid particulates are taken up and processed by stem cells too, since cell communication for differentiation relies on lipid encapsulated RNA.
 
-> These are fundamental properties mandatory to estimate possible adverse effects. However nearly nothing is linked in the trials and a search (google scholar) yields very few  results published.
+> These are fundamental properties mandatory to estimate possible adverse effects. However nearly nothing is linked in the trials and a search (google scholar) yields very few results published.
 
 
 #### Within Cell Kinetics
@@ -273,6 +267,18 @@ Adenoviruses vaccines used adenoviruses rendered replication incapable but apart
 * Reside dormant within cells for a long time.
 
 
+
+
+## Appendix
+### Personal Risk Exposure
+>> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV) - stupidly forgot to screen for ticks at home and realized the tick late which increases the chances for transmission. Tough borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis. - Initially there was a very mild illness which was followed by regular but slight back pain for a couple of months which mostly went away by now. TBEV can infect both the CNS and the bone marrow and *unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections.
+> 
+>> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans [to check which type], but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections since wild type infections carry risks both short- and long-term, however they reliably protect against subsequent infection - which is useful if one loves to move through nature.
+
+>> The above example of TBEV, is to emphasize that some viral infections can be much more risky than 'mRNA' vaccination. Often personal experience are biased so they don' fit science, though the above story seems to fit and also I also it makes it easier for me to talk about vaccine risks (to those vaccinated) since I got 'hit' much more risky.
+>> * So no point in worrying about past vaccination, but carefully consider future ones - regardless whether 1st, 2nd, 3rd, ... . 
+	>> >> SARS-CoV-2 is by fare less dangerous for the young than TBEV - at least before Omicron for which the tropism and the direction of evolution is not yet clear. Though against Omicron it is unclear whether vaccination is beneficial (as of 19.12.).
+>> * TBEV cases are few, so when 1 in 10 got hit baldy the absolute numbers are still low. Vaccination is done for millions and even repeatedly. When 1 in 1000 shots causes adverse effects the numbers add up.
 
 
 
