@@ -200,7 +200,9 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 > 
 >> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans [to check which type], but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections since wild type infections carry risks both short- and long-term, however they reliably protect against subsequent infection - which is useful if one loves to move through nature.
 
->> The above example of TBEV, is to emphasize that some viral infections can be much more risky than 'mRNA' vaccination and also to mention that I had my "risks" too. TBEV cases are few so when 1 in 10 got hit baldy the absolute numbers are still low, vaccination is done for millions and even repeatedly when 1 in 1000 get hit badly the numbers add up. 
+>> The above example of TBEV, is to emphasize that some viral infections can be much more risky than 'mRNA' vaccination. 
+>> * So no point in worrying about past vaccination, but carefully consider future ones - regardless whether 1st, 2nd, 3rd, ... . 
+>> * TBEV cases are few, so when 1 in 10 got hit baldy the absolute numbers are still low. Vaccination is done for millions and even repeatedly. When 1 in 1000 shots causes adverse effects the numbers add up.
 
 >> SARS-CoV-2 is by fare less dangerous for the young than TBEV - at least before Omicron for which the tropism and the direction of evolution is not yet clear. Though against Omicron it is unclear whether vaccination is beneficial (as of 19.12.).
 
@@ -253,11 +255,11 @@ Many adenoviruses attach to red blood cells and thereby can cause haemagglutinat
 
 > When the vaccine is now overdosed and/or not accurately administrated into the muscle, a large number of adenoviruses can be released into the bloodstream which may cause the blood cells to clump. 
 
-> The deaths of young women observed would agree with the theory of overdosing. In the trials possibly the personal was better able to accurately administer the dose exactly into the muscle.
+> The deaths of young people observed would agree with the theory of overdosing. In the trials possibly the personal was better able to accurately administer the dose exactly into the muscle.
 
 > This can be prevented by 
 > * weight adjusted dosage (still risky)
-> * using a nasal or oral spray formulation as it is done in farming for decades. Nasal administration would also reduce the risk for other side effects.
+> * using a nasal or oral spray formulation as it is done in farming for decades. Nasal administration would also reduce the risk for other side effects. Additionally provide airways local immunity which helps to reduced viral loads early on and not just prevent pneumonia.
 
 ##### Adenovirus Cell Entry
 Different adenovirus strains use different cell entry receptors. Some adenoviruses have a very broad cell tropism. 
