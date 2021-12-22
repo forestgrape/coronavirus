@@ -8,11 +8,13 @@
 
 * [Summary](#summary)
 * [References](#references)
+  * [References Biology of Omicron](#references-biology-of-omicron)
+  * [References Omicron Spike Computer based Simulations](#references-omicron-spike-computer-based-simulations)
   * [References Genetics of Omicron](#references-genetics-of-omicron)
   * [References Tropism of Omicron](#references-tropism-of-omicron)
   * [References Immune Escape of Omicron](#references-immune-escape-of-omicron)
   * [References Transmission of Omicron](#references-transmission-of-omicron)
-  * [References Reinfection of Omicron](#references-reinfection-of-omicron)
+  * [References Omicron Epidemiology](#references-omicron-epidemiology)
   * [References ADE](#references-ade)
 
 
@@ -37,7 +39,11 @@ One possible observation for the above observations, is a shift of tropism away 
   * The very high transmission rate in settings with a high rate of vaccinated can be explained by AIE i.e. antibody mediated infection of immune cells. 
 * *Mutation Distribution:* The spike of coronaviruses is a key determinant which cells they enter and a changed tropism would explain the high number of mutations. The mutation distribution with many mutation in the RBD indicates a relaxed evolutionary pressure on the RBD, alternate entry pathways could have enable this high mutation rate. The insertion in NTD of domain of the spike is possibly acquired from the human coronavirus E229, a human coronavirus which frequently enters macrophages.
 
-> Here the term AIE for Antibody induced Infection Enhancement (AIE) is used. In literature the term ADE for Antibody dependent Disease Enhancement is common. ADE can be caused either by AIE or by an increased immune response alone without increased viral loads. AIE is here since the observations just indicate that the infections rates and likely the viral loads in upper respiratory tract specimens are higher. What effects the possibly changed tropism has on the diseases caused has is currently unclear: e.g. some early data indicate, that the antibodies themselves enhance the infection and possibly the disease so there is an ADE effect however the other features of acquired immunity such as T cells ameliorate the disease so that overall acquired immunity still has protective effect against severe disease.
+> Antibody dependent disease enhancement (ADE) denotes when antibodies increase the disease. ADE is mainly observed for RNA+ viruses such as flaviviruses (e.g. dengue virus) and some coronaviruses (e.g. feline coronavirus). ADE can be due to an increased infection i.e. higher viral loads, an increase immune pathology without increased viral loads or both combined.
+
+> Here the term AIE for Antibody induced Infection Enhancement (AIE) is used. AIE is used here, since the observations indicate that the infection probability is increased by spike targeting antibodies. 
+
+> The effects of the different kinds of acquired immunity on the overall disease burden from Omicron infections are currently to some extent unclear. The symptoms seem to be different as noted and early data indicate, that the antibodies themselves enhance the probability of infection. This could result in a disease enhancement so there there would be an ADE effect. However other parts of acquired immunity such as T cells may ameliorate the disease. Therefore it is possible that overall acquired immunity still has protective effect against severe disease; the effects likely depend on the exact type of acquired immunity i.e. the type of vaccine or natural infection with the different variants.
 
 A change of tropism towards macrophages is possible in theory since other human coronaviruses such as MERS and E229 can infect and replicate inside macrophages. Additionally a tropism for macrophages is observed for animal coronaviruses. Arteriviruses which also belong to the order of Nidovirales and share key molecular features even mainly have a tropism for myeloid immune cells [to confirm and cite].
 
@@ -93,6 +99,41 @@ The SARS-like disease patterns could disappear and omicron induced disease could
 -->
 
 ## References
+
+### References Biology of Omicron 
+#### Zhang
+Zhang X, Wu S, Wu B, Yang Q, Chen A, Li Y, Zhang Y, Pan T, Zhang H, He X. SARS-CoV-2 Omicron strain exhibits potent capabilities for immune evasion and viral entrance. Signal Transduction and Targeted Therapy. 2021 Dec 17;6(1):1-3.
+
+
+#### Summary Jawaid
+Jawaid, M. Z., Baidya, A., Mahboubi-Ardakani, R., Davis, R. L., & Cox, D. L. (2021). Simulation of the omicron variant of SARS-CoV-2 shows broad antibody escape, weakened ACE2 binding, and modest increase in furin binding. bioRxiv.
+
+
+
+#### Summary He
+He X, Hong W, Pan X, Lu G, Wei X. SARS‐CoV‐2 Omicron variant: characteristics and prevention. MedComm.
+
+
+
+### References Omicron Spike Computer based Simulations
+#### Glocker
+Glocker, M. O., Opuni, K. F., & Thiesen, H. J. (2021). Compared with SARS-CoV2 wild type's spike protein, the SARS-CoV2 omicron's receptor binding motif has adopted a more SARS-CoV1 and/or bat/civet-like structure. bioRxiv.
+
+> less binding
+
+#### Fratev
+Fratev, F. (2021). The High Transmission of SARS-CoV-2 Omicron (B. 1.1. 529) Variant is Not Only Due to Its hACE2 binding: A Free Energy of Perturbation Study. bioRxiv.
+
+> less binding
+
+#### Kumar
+Kumar S, Thambiraja TS, Karuppanan K, Subramaniam G. Omicron and Delta Variant of SARS‐CoV‐2: A Comparative Computational Study of Spike Protein. Journal of Medical Virology. 2021 Jan 1.
+
+#### Sadek
+Sadek, A., Zaha, D., & Ahmed, M. S. (2021). Structural Insights of SARS-CoV-2 Spike Protein from Delta and Omicron Variants. bioRxiv.
+
+
+
 ### References Genetics of Omicron
 #### Durmaz
 Structural-bioinformatics analysis of SARS-CoV-2 variants reveals higher hACE2 receptor binding affinity for Omicron B.1.1.529 spike RBD compared to wild-type reference.
@@ -100,13 +141,21 @@ Structural-bioinformatics analysis of SARS-CoV-2 variants reveals higher hACE2 r
 #### Venkatakrishnan
 Venkatakrishnan AJ, Anand P, Lenehan PJ, Suratekar R, Raghunathan B, Niesen MJ, Soundararajan V. Omicron variant of SARS-CoV-2 harbors a unique insertion mutation of putative viral or human genomic origin.
 
+> The proposed insertion mechanism is visualized in a (5-Minutes) video on the youtube channel Hussain Biology: Omicron Variant | Common Cold | Ins214EPE Mutation (<https://www.youtube.com/watch?v=fRJMmUmduI4>)
+
 
 #### Kannan
 Kannan SR, Spratt AN, Sharma K, Chand HS, Byrareddy SN, Singh K. Omicron SARS-CoV-2 variant: Unique features and their impact on pre-existing antibodies. Journal of Autoimmunity. 2022 Jan 1;126:102779.
 
+#### CoVariants
+CoVariants. Variant: 21K (Omicron). 2021. Accessed December
+21, 2021. https://covariants.org/variants/21K.Omicron
+
+
+
 
 ### References Tropism of Omicron
-#### HKUMed
+#### Summary HKUMed
 *HKUMed finds Omicron SARS-CoV-2 can infect faster and better than Delta in human bronchus but with less severe infection in lung*
 https://www.med.hku.hk/en/news/press/20211215-omicron-sars-cov-2-infection
 
@@ -121,7 +170,7 @@ Wilhelm, A., Widera, M., Grikscheit, K., Toptan, T., Schenk, B., Pallas, C., ...
 Roessler, A., Riepler, L., Bante, D., von Laer, D. and Kimpel, J., 2021. SARS-CoV-2 B. 1.1. 529 variant (Omicron) evades neutralization by sera from vaccinated and convalescent individuals. medRxiv.
 
 ### References Transmission of Omicron
-#### UK Technical Briefing 31
+#### Summary UK Technical Briefing 31
 *SARS-CoV-2 variants of concern and variants under investigation in England*
 <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1040076/Technical_Briefing_31.pdf>
 
@@ -132,13 +181,45 @@ Roessler, A., Riepler, L., Bante, D., von Laer, D. and Kimpel, J., 2021. SARS-Co
 * In Figure 9 the variation of spike mutation in the sub-lineages BA.1 and BA.2 are displayed.
 * In Figure 10 a maximum likelihood phylogeny for Omicron VOC-21Nov-01 (B.1.1.529) genomes as of 7 December 2021 is shown. South african but also US and UK samples are well distributed across the tree.
 
-### References Reinfection of Omicron
+
+
+
+### References Omicron Epidemiology
 
 #### Pulliam
 Pulliam, J.R., van Schalkwyk, C., Govender, N., von Gottberg, A., Cohen, C., Groome, M.J., Dushoff, J., Mlisana, K. and Moultrie, H., 2021. Increased risk of SARS-CoV-2 reinfection associated with emergence of the Omicron variant in South Africa. medRxiv.
+
+#### Karim
+Karim, S., & Karim, Q. A. (2021). Omicron SARS-CoV-2 variant: a new chapter in the COVID-19 pandemic. Lancet (London, England), 398(10317), 2126–2128. <https://doi.org/10.1016/S0140-6736(21)02758-6>
+
+#### Brandal
+Brandal LT, MacDonald E, Veneti L, Ravlo T, Lange H, Naseer U, Feruglio S, Bragstad K, Hungnes O, Ødeskaug LE, Hagen F. Outbreak caused by the SARS-CoV-2 Omicron variant in Norway, November to December 2021. Eurosurveillance. 2021 Dec 16;26(50):2101147.
+
+#### CDC Response Team
+COVID C, Team R. SARS-CoV-2 B. 1.1. 529 (Omicron) Variant—United States, December 1–8, 2021. MMWR. Morbidity and mortality weekly report. 2021 Dec 17;70(50):1731-4.
+
+#### CDC Tracker
+https://covid.cdc.gov/covid-data-tracker/#variant-proportions
+https://covid.cdc.gov/covid-data-tracker/#trends_dailycases_7daytestingpositive
+
+* cases increase roughly linearly since 10.11.21 (~76K) to 19.12. (~130K) 
+* Omicron share
+  * 20.11.: 0.0%
+  * 27.11.: 0.1% (0%-0.1%)
+  * 4.12.: 0.7% (.4% - 1.1%)
+  * 11.12.:12.6% (5% - 26%)
+  * 18.12.:73% (34% - 95%)
 
 
 ### References ADE
 #### Wan
 Wan Y, Shang J, Sun S, Tai W, Chen J, Geng Q, He L, Chen Y, Wu J, Shi Z, Zhou Y, Du L, Li F. 2020. Molecular mechanism for antibodydependent enhancement of coronavirus entry. J Virol 94:e02015
 
+#### Arvin
+Arvin AM, Fink K, Schmid MA, Cathcart A, Spreafico R, Havenar-Daughton C, Lanzavecchia A, Corti D, Virgin HW. A perspective on potential antibody-dependent enhancement of SARS-CoV-2. Nature. 2020 Aug;584(7821):353-63.
+
+#### Shen
+Shen XR, Li Q, Li HL, Wang X, Wang Q, Zheng XS, Geng R, Zhang YL, Li B, Jiang RD, Liu MQ. Antibody-Dependent Enhancement of SARS-CoV-2 Infection of Human Immune Cells: In Vitro Assessment Provides Insight in COVID-19 Pathogenesis. Viruses. 2021 Dec;13(12):2483.
+
+#### Maemura
+Maemura T, Kuroda M, Armbrust T, Yamayoshi S, Halfmann PJ, Kawaoka Y. Antibody-Dependent Enhancement of SARS-CoV-2 Infection Is Mediated by the IgG Receptors FcγRIIA and FcγRIIIA but Does Not Contribute to Aberrant Cytokine Production by Macrophages. Mbio. 2021 Sep 28;12(5):e01987-21.
