@@ -371,8 +371,17 @@ With increasing age the innate sensing mechanisms are diminished, which can give
 ## Effects of Acquired Immunity
 
 ### Effects of Natural Infection
+
+#### Reinfection in Hospital Cohort Studies
 * [Lumley et al](#summary-lumley-march-21) observe a protection of 85% against testing positive for staff in the Oxford Uni hospitals.
 * [VJ Hall et al](#summary-vj-hall-april-21) observe a protection of 85% against testing positive at NHS hospitals in the UK.
+
+#### Reinfection in Population Cohort Studies
+* [Chemaitelly et al](#summary-chemaitelly) find a protection of 92.3% (95% CI, 90.3 to 93.8) for the beta variant and a protection 97.6% (95% CI, 95.7 to 98.7) for the alpha variant in a case matched retrospective cohort study in Qatar.
+* [Hanson](#hansen) observe the following protection against reinfection in a national cohort study in Denmark: 
+  * General population: 78·8% (95% CI 74·9–82·1)
+  * 65 years and older: 47·1% (95% CI 24·7–62·8).
+  * time (3–6 months of follow-up 79·3% [74·4–83·3], ≥7 months of follow-up 77·7% [70·9–82·9]
 
 ### Vaccine Induced Immunity
 
@@ -393,11 +402,16 @@ The viral load viral load decreases (the Ct values increase) in a steady way wit
 sweden study, us and israel 
 
 #### Vaccine Effects on Transmission
-Vaccines usually reduce the probability to get infected. Some vaccines (depends on the vaccine and the virus type) also reduce the probability for ongoing transmission once infected.
+Covid vaccines usually reduce the probability to get infected. Some vaccines (depends on the vaccine and the virus type) also reduce the probability for ongoing transmission once infected.
 
 ##### Vaccines on the Transmission of SARS-CoV-2
-* [Singanayagam](#singanayagam) find that the SAR in household contacts exposed to fully vaccinated index cases was 25% (17 got infected of 69 exposed) and the SAR in household contacts exposed to unvaccinated index cases is 23% (23 got infected of 100 exposed). => vaccines don't change transmission rates in households settings once infected, the vaccines did induce a slightly faster virus clearance however.
-* [Harris et al](#summary-harris) observe a reduction for 1 time vaccinated index cases when the contacts are unvaccinated of about 40%. However when the contacts are also vaccinated there seems to be no reduction. The results thus are inclusive.
+
+The effect on vaccination on transmission is often analyzed in household settings. Another option is to analyse the effects of vaccination at a region level and check whether the case counts decrease. 
+
+> Often vaccination is marketed as providing a very reliable immunity also against infection and transmission (Some countries even go as fare as to put restrictions on those not vaccinated). The supposed 'safety' can prompt relaxed precautions measures of those vaccinated, thus the protection can be underestimated in epidemiological analyses. However sometimes analyses seem to 'assume' a reduced transmission which can result in a biased analysis e.g. through adjustments.
+
+* [Singanayagam](#singanayagam) find that the SAR in household contacts exposed to fully vaccinated index cases was 25% (17 got infected of 69 exposed) and the SAR in household contacts exposed to unvaccinated index cases is 23% (23 got infected of 100 exposed). => Vaccines didn't change transmission rates in households settings once infected. The vaccines did induce a slightly faster virus clearance however.
+* [Harris et al](#summary-harris) observe a reduction for 1 dose vaccinated index cases when the contacts are unvaccinated of about 40%. However when the contacts are also vaccinated there seems to be no reduction. The results thus are inclusive.
 
 ##### Vaccines on the Transmission for Measles and Small Pox
 Measles and small pox vaccines reduce the ongoing transmission if a vaccinated index case gets infected despite vaccination. E.g. for measles by about 40% as observed by [Cisse et al](#summary-cisse) and for small pox by about 30% as observed by [Mukherjee et al](#mukherjee). 
@@ -408,10 +422,8 @@ Influenza A the vaccines do not to reduce viral shedding once symptomatically in
 
 
 ### Comparing Vaccines and natural SARS-CoV-2 Infection
-[in work]
 
-
-
+* [Gazit et al](#summary-gazit) use analyse data from a health care provider in Israel. Personsn with natural infection and vaccination before 28.2.21 were included (vaccination was December trough February and natural infections occurred mostly in a wave August through October 2020 and in one in January trough February 2021). Case matching results in 46035 persons per group. Using this model, natural infection resulted in a about 6 times higher protection against  PCR positivity, about 7 higher protection against symptomatic infection and about 7 higher protection against hospitalization.
 
 
 
@@ -848,6 +860,7 @@ ONS-CIS data is analysed for the periods 1 Dec 2020 – 16 May 2021 (Alpha) and 
 
 ### Refs Contact Tracing
 
+
 #### Singanayagam
 Singanayagam, Anika et al Angie. (2021). Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study. The Lancet Infectious Diseases. 10.1016/S1473-3099(21)00648-4. 
 
@@ -867,10 +880,14 @@ Singanayagam, Anika et al Angie. (2021). Community transmission and viral load k
 viral load decline (0·95 log copies per mL per day) than did unvaccinated individuals with pre-alpha (0·69), alpha (0·82), 10
 or delta (0·79) variant infections."
 
+
+
 #### Wilder-Smith
 Wilder-Smith, A. (2021). What is the vaccine effect on reducing transmission in the context of the SARS-CoV-2 delta variant?. The Lancet Infectious Diseases.
 
 Wilder-Smith comments on article by [Singanayagam et al](#singanayagam).
+
+
 
 #### Summary Adam
 *Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong*
@@ -902,6 +919,7 @@ Almadhi, M. A., Abdulrahman, A., Sharaf, S. A., AlSaad, D., Stevenson, N. J., At
 <https://doi.org/10.1016/j.ijid.2021.02.100>
 
 
+
 #### Summary Eyre
 The impact of SARS-CoV-2 vaccination on Alpha & Delta variant transmission
 David W Eyre, Donald Taylor, Mark Purver, David Chapman, Tom Fowler, Koen B Pouwels, A Sarah Walker, Tim EA Peto
@@ -913,6 +931,7 @@ doi: <https://doi.org/10.1101/2021.09.28.21264260>
 
 
 ### Refs Cohort Studies
+
 
 #### Reyes
 Torres Reyes,C.R.; Steinmann, E.; Timmesfeld, N.; Trampisch, H.-J.; Stein, J.; Schütte, C.; Skrygan, M.; Meyer, T.; Sakinc-Güler, T.; Schlottmann, R.; et al. Students in Dormitories Were Not Major Drivers of the Pandemic during Winter Term 2020/2021: A Cohort Study with RT-PCR and Antibody Surveillance in a German University City. COVID 2021,1,345–356. https://doi.org/10.3390/covid1010029
@@ -927,7 +946,8 @@ The following graphics from the paper displays the SARS-2 infection incidence ra
 
 ### Refs Population Cohort Studies in Denmark 
 
-#### Hansen
+
+#### Summary Hansen
 Hansen, Christian Holm, et al. "Assessment of protection against reinfection with SARS-CoV-2 among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational study." The Lancet 397.10280 (2021): 1204-1212.
 
 #### Findings
@@ -936,7 +956,6 @@ Protection against reinfection at least months after first infection:
 * 65 years and older: 47·1% (95% CI 24·7–62·8).
 * male sex: 78·4% [72·1–83·2], female 79·1% [73·9–83·3])
 * time (3–6 months of follow-up 79·3% [74·4–83·3], ≥7 months of follow-up 77·7% [70·9–82·9]
-
 
 
 
@@ -962,6 +981,7 @@ Miller, D., Martin, M.A., Harel, N. et al. Full genome viral sequences inform pa
 ##### Conclusions
 * "Our results indicate that superspreading events drive the transmission dynamics of SARS-CoV-2, suggesting that focused measures to reduce contacts of select individuals/social events could mitigate viral spread."
 * The global connectivity allows for massive introductions which suggests the importance of border controls. //The authors als conclude shelter-in-place restriction for halting viral spread but as of July 2021 it is known that shelter-in-place likely increases and not decreases the spread due to indoor aerosol transmissions.
+
 ##### Method Details
 * "We obtained RNA extracted from nasopharyngeal samples. Sequencing was performed based on the V3 Artic protocol (https://artic.network/ncov-2019)."
 * "Instead of assuming a given level of transmission heterogeneity for Israel, we instead performed phylodynamic inference for the SEIR model across a range of transmission heterogeneities. Specifically, the SEIR-type model implemented two classes of infectious individuals, corresponding to a highly infectious subset of individuals (Ih) and a less
@@ -990,6 +1010,7 @@ About 10% of the people for responsible for 50% of infections and about 20% for 
 
 
 ### References Transmission Heterogeneity
+
 #### Goyal
 Goyal, A., Reeves, D. B., Cardozo-Ojeda, E. F., Schiffer, J. T., & Mayer, B. T. (2021). Viral load and contact heterogeneity predict SARS-CoV-2 transmission and super-spreading events. eLife, 10, e63537. https://doi.org/10.7554/eLife.63537
 
@@ -1116,6 +1137,21 @@ Positive PCR  | 19 | 28 |  0.68 | .38 to 1.21
 -> only 1 prev vaccinated and then natural infected; updates available??
 -->
 
+
+#### Summary Chemaitelly
+Chemaitelly H, Bertollini R, Abu-Raddad LJ. Efficacy of Natural Immunity against SARS-CoV-2 Reinfection with the Beta Variant. New England Journal of Medicine. 2021 Dec 15.
+
+> in work (22.12.)
+
+##### Methods
+* *Type:* Retrospective Cohort Study with case matching (matched on age, sex, and nationality, and only individuals *not* vaccinated were included)
+* *Setting:* 
+  * positive cohort: PCR confirmed infection before 1.1.21 (alternate analysis by seropositivity)
+  * outcome: confirmed infection SARS-CoV-2 (re)infection during a wave with the alpha respectively with the beta variant.
+
+##### Results
+* "At 42 days of fol- low-up, the cumulative incidence was 0.27% (95% confidence interval [CI], 0.22 to 0.32) in the previous-infection cohort and 3.44% (95% CI, 3.27 to 3.61) in the antibody-negative cohort for the beta variant and 0.03% (95% CI, 0.02 to 0.06) and 1.35% (95% CI, 1.25 to 1.46), respectively, for the alpha variant."
+* "The efficacy of natural infection against reinfection, which was derived by comparing the incidence rate in both cohorts, was estimated at 92.3% (95% CI, 90.3 to 93.8) for the beta variant and at 97.6% (95% CI, 95.7 to 98.7) for the alpha variant."
 
 
 ### References Spread and Air Pollution
