@@ -1160,13 +1160,16 @@ Chemaitelly H, Bertollini R, Abu-Raddad LJ. Efficacy of Natural Immunity against
 * "The efficacy of natural infection against reinfection, which was derived by comparing the incidence rate in both cohorts, was estimated at 92.3% (95% CI, 90.3 to 93.8) for the beta variant and at 97.6% (95% CI, 95.7 to 98.7) for the alpha variant."
 
 
+#### Summary Abu-Raddad
+Abu-Raddad LJ, Chemaitelly H, Bertollini R. Severity of SARS-CoV-2 Reinfections as Compared with Primary Infections. New England Journal of Medicine. 2021 Nov 24.
+
+
 ### References Spread and Air Pollution
 
 #### Kotsiou
 Kotsiou,O.S.;Kotsios,V.S.; Lampropoulos, I.; Zidros, T.; Zarogiannis, S.G.; Gourgoulianis, K.I. 
-**PM2.5 Pollution Strongly Predicted COVID-19 Incidence in Four High-Polluted Urbanized Italian Cities during the Pre-Lockdown and Lockdown Periods.** 
-Int. J. Environ. Res. Public Health 2021, 18, 5088. 
-<https://doi.org/10.3390/ijerph18105088>
+*PM2.5 Pollution Strongly Predicted COVID-19 Incidence in Four High-Polluted Urbanized Italian Cities during the Pre-Lockdown and Lockdown Periods.*
+Int. J. Environ. Res. Public Health 2021, 18, 5088. <https://doi.org/10.3390/ijerph18105088>
 
 
 
