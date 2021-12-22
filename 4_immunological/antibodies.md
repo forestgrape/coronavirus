@@ -4,6 +4,8 @@
 
 > **in work, subject to changes, to be checked**
 
+
+
 ## Summary
 Antibodies are composed of two fragments: 
 * Fab (fragment antigen binding) which determines the specific antigens recognized.
@@ -20,17 +22,27 @@ Antibodies have different effector functions to handle antigens:
   
 
 
+
 ## Antibody Fragments
 Antibodies have two fragments and antigen binding fraction (called Fab for Fraction antigen binding) and immune instruction fraction (called Fc for fraction constant). The genes encoding the Fab are subject to somatic recombination and thereby new Fabs recognizing specific antigens are produced. The genes for the different Fc are constant throughout lifetime.
+
 
 
 
 ## Antibody Classification and Immune Instructions
 The Fc fragment determines the antibody classification: Antibodies are grouped into classes (IgG, IgA, IgM and IgE) and sometimes additionally into subclasses (e.g. IgG1, IgG2 and IgG3 for IgG antibodies). Additionally the Fc fraction can have post-translational modifications such as glycosylation.
 
+### IgG
+In the case of IgG, there are the subclasses IgG1, IgG2, IgG3 and IgG4. Each subclass in turn can have additional modifications e.g.  glycosylations. These properties determine to receptors the IgG antibody gets attached to.
+
+### IgA
+### IgE
+
+
+
+
 
 ## Mechanisms of Action
-
 
 ### Neutralization
 [in work]
@@ -38,8 +50,24 @@ The Fc fragment determines the antibody classification: Antibodies are grouped i
 ### Change the Kinetics
 [in work]
 
+Antibodies can change the kinetics of bound antigens (mostly antibody class specific) i.e. how the antigen is distributed within the body. 
+
+> The kinetics is also changed when the antigen is phagocytosed. Phagocytosis is discussed in [immune system instructions](#immune-system-instructions).
+
+
+
 ### Immune System Instructions
-* In the case of IgG, there are the subclasses IgG1, IgG2, IgG3 and IgG4. Each subclass in turn can have additional modifications e.g.  glycosylations. These properties determine to receptors the IgG antibody gets attached to.
+
+<!--
+
+#### Phagocytosis
+
+#### Cellular Cytotoxicity
+
+#### Complement Activation
+
+#### Signalling Induced
+-->
 
 
 
@@ -49,8 +77,13 @@ The Fc fragment determines the antibody classification: Antibodies are grouped i
 
 
 ### Antibody Classes and Subclasses
+
+
+
+
+### Antibody Receptor mediated Effector Functions
 #### de Taeye
-The Ligands for Human IgG and Their Effector Functions
+de Taeye SW, Rispens T, Vidarsson G. The ligands for human IgG and their effector functions. Antibodies. 2019 Jun;8(2):30.
 
 
 #### Irani
@@ -59,9 +92,11 @@ http://dx.doi.org/10.1016/j.molimm.2015.03.255
 
 
 #### Hoepel
-IgG Subclasses Shape Cytokine Responses by Human Myeloid Immune Cells through Differential Metabolic Reprogramming
+Hoepel, W., Allahverdiyeva, S., Harbiye, H., de Taeye, S. W., van der Ham, A. J., de Boer, L., ... & den Dunnen, J. (2020). IgG subclasses shape cytokine responses by human myeloid immune cells through differential metabolic reprogramming. The Journal of Immunology, 205(12), 3400-3407.
 
-
+### Refs Antibody induced Phagocytosis
+#### Johnson
+Johnson M, Stockdale L, de Haan N, Wuhrer M, Nouta J, Koeleman CA, Clarke J, Marinou S, Shakya M, Colin-Jones R, Theiss-Nyland K. Association of Antibody-dependent neutrophil phagocytosis with distinct antibody glycosylation profiles following typhoid vaccination. Frontiers in Tropical Diseases. 2021 Sep 16:25.
 
 ### Antibodies in Virus Infections
 
