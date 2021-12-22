@@ -79,11 +79,11 @@ There is also a rather subjective page in German with some comments on the Coron
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- 20  /21/22.12. Formulations improved across the page. A few formulations about were/still are too dramatic, these were written months ago in a different situation and with a different (narrower) audience in mind - sorry & reformulations on the way. Feedback of any kind, especially improvement suggestions, is always welcome (witotraub@gmail.com/@runbox.com).
+- 20/21/22.12. Formulations improved across the page. A few formulations about were/still are too dramatic, these were written months ago in a different situation and with a different (narrower) audience in mind - sorry & reformulations on the way. Feedback of any kind, especially improvement suggestions, is always welcome (witotraub@gmail.com/@runbox.com).
 
 - 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to [Recent Topics](#recent-topics-added).
 
-  > Omicron is a new Topic and not just an Update, both as conceptual and biological.
+  > Omicron is a new Chapter and not just an Update, both biological and organizational.
 
 
 - 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work. Added: 
