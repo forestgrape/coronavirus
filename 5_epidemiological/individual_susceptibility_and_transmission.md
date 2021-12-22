@@ -63,24 +63,24 @@ The susceptibility to the different kinds of SARS-CoV-2 infections and the indiv
 
 ## Summary
 
-Most epidemiological analyses specify SARS-CoV-2 infections with the observables a "commonly detectable" viral load in the upper respiratory tract or symptoms. Sampling the upper respiratory tract is not perfectly predictive for the overall viral load since most SARS-CoV-2 virions infect cells in the conducting airways.  Nevertheless the viral load in the upper respiratory tract samples is correlated to symptoms. Symptomatic persons in turn ([Transmission by Symptom Status](#spread-by-symptom-status)) are more likely to transmit Covid. Most (nearly all?) superspreading events described, are caused by symptomatic persons, likely because superspreading involves high numbers of virions in the conducting airways, which usually causes symptoms.
+Most epidemiological analyses specify SARS-CoV-2 infections with the observables typical symptoms and/or a "detectable" viral load in the upper respiratory tract. However sampling the upper respiratory tract is not perfectly predictive for the overall viral load since most SARS-CoV-2 lineages infect cells in the conducting airways.  Nevertheless the viral load in the upper respiratory tract is correlated to symptoms. Symptoms are also correlated to the overall viral load. Symptomatic persons ([Transmission by Symptom Status](#spread-by-symptom-status)) are more likely to transmit Covid. Most (nearly all?) superspreading events described, are caused by symptomatic persons, likely because superspreading involves high numbers of virions in the conducting airways, which usually causes symptoms.
 
-How much individuals contribute to the spread of SARS-CoV-2 is highly variable. Most observations conclude that 20% of the infectees are responsible for at least 80% of the infections ([Transmission Distribution](#transmission-distribution)). The individual transmission is associated to both biological and social factors. Social factors include the living situation and the behavior. Biological factors influencing susceptibility and infectiousness. These biological factors are discussed in the following.
+How much a person contribute to the spread of SARS-CoV-2 is highly individual. Most observations conclude that 20% of the infectees are responsible for at least 80% of the infections ([Transmission Distribution](#transmission-distribution)). The individual transmission is associated to both biological and social factors. Social factors include the living situation and the behavior. Biological factors influencing susceptibility and infectiousness. These biological factors are discussed in the following.
 
-People with an adequate and sensitive immune system control coronavirus infections early and if at all only mild symptoms are induced. Apart from a possible initial localized burst mainly in the upper respiratory tract, coronaviruses usually do *not* replicate to high numbers. Low numbers of coronaviruses don't cause severe disease and are associated with a low probability of transmission and detection. This theoretical argumentation is supported by the observations:
+People with an adequate and sensitive immune system control coronavirus infections early and if at all only mild symptoms are induced. Sometimes there is a high initial viral load localized to the mid or upper respiratory tract, but usually coronaviruses do *not* replicate to high numbers. Low numbers of coronaviruses don't cause severe disease and are associated with a low probability of transmission and detection. This theoretical argumentation is supported by the observations:
 * People with regular movement are about 30 % less likely to get both mild respiratory diseases including Covid. An even further reduction is observed for severe diseases. A healthy diet helps to maintain a good microbiome in the intestine which is important for the overall immunity.
-* Long-time exposure to air pollution, few movement and obesity can reduce the capability of the respiratory tract to handle viruses. [Air Pollution](#dirty-air-exposure) und [overweight](#overweight) both increase the Covid risk as observations of individuals and observation at the population level suggest.
-* A major determinant how the body can handle SARS-CoV-2 is age, especially for the initial infection. Young people are less susceptible to get a disease and usually control the viral load timely and in agreement are less infectious ([Transmission by Age Groups](#transmission-by-age)). This is especially true for the age from 5 to 25 years: Few spread is observed between children and in schools. Superspreading with children as index cases is nearly never observed.
+* Long-time exposure to air pollution, few movement and obesity can reduce the capability of the respiratory tract to handle viruses. [Air Pollution](#dirty-air-exposure) und [overweight](#overweight) both increase the Covid risk as observations at the individual and at the population level suggest.
+* A major determinant how well the body can handle SARS-CoV-2 is age, especially for the initial infection. Young people are less susceptible to get a disease and usually control the viral load timely. Accordingly a lower susceptibility and on ward spread are observed in household settings ([Transmission by Age Groups](#transmission-by-age)). Few spread is observed between children and in schools. Superspreading with children as index cases is nearly never observed.
 
-The immune system can learn from exposures and induce an improved protection against subsequent similar exposures (this remembering can include the classical acquired immune responses such as T cells and B cells capable to produce antibodies. Infections usually induce a location specific adaptions).
+The immune system can learn from exposures and induce an improved protection against subsequent similar exposures. This remembering includes the classical acquired immune responses such as T cells and B cells capable to produce antibodies. Additionally infections usually induce a location specific adaptions.
 
 Previous infections provide a reliable and long lasting protection:
 * The protection against hospitalization is above 95%.
-* The chance to test positive is reduced by about 80% to 90%. The protections is stable across time and mostly across variants. The chance to have a high viral load (Ct value <30) and symptoms is reduced by more than 90% [to confirm].
+* The chance to test positive is reduced by 80% or more. The protections is stable across time and mostly across variants. The chance to have a high viral load (Ct value <30) and symptoms is reduced by more than 90% [to confirm].
 
-The muscular administrated 'mRNA' and adenovirus vectored vaccines induce mainly a systemic immunity. Accordingly the protection against pneumonia (=severe Covid) is good. On the other hand the protection against infections and transmission is mediocre and last only a few months:
+The muscular administrated 'mRNA' and adenovirus vectored vaccines induce mainly a systemic immunity. Accordingly the protection against pneumonia (=severe Covid) is good. On the other hand the protection against infections in the conducting airways or the upper respiratory tract is mediocre and last only a few months. Similarly for transmission. 
 * *Protection against pneumonia and hospitalization:* Accordingly to the systemic immunity provided, a good protection against hospitalization: most investigations conclude a reduction of at least 70 % in the first half year after vaccination.
-* *Protection against infection:* In the first few months after vaccination the chance to test positive (the detection limit is usually at 40 PCR cycles which is about 1000 cps/milliliter) is reduced and during this time the probability for high viral loads is even further reduced. The protection gradually decreases and vanishes about 3 to 6 months after vaccination (depends individual factors and SARS-2 variants present). The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is lost about 3 to 6 months after vaccination against the delta variant. The ChAdOx1 initially reduces the chances to test positive by about 50%. While ChAdOx1 starts lower than BNT162b2 the decay of protection is slower. The protection from mRNA-1273 starts and stays higher than BNT162b2/ChAd0x1. 
+* *Protection against infection:* In the first few months after vaccination the chance to test positive (the detection limit is usually at 40 PCR cycles which is about 1000 cps/milliliter) is reduced and during this time the probability for high viral loads is even further reduced. The protection gradually decreases and vanishes about 3 to 6 months after vaccination (depends individual factors and SARS-2 variants present). The chance for testing positive after exposure is reduced by about 70% for BNT162b2 in the first 2 months and then gradually decreases and the reduction is lost about 3 to 6 months after vaccination against the delta variant. The ChAdOx1 initially reduces the chances to test positive by about 50%. While ChAdOx1 starts lower than BNT162b2 the decay of protection is slower. The protection from mRNA-1273 starts and stays higher than BNT162b2/ChAd0x1.
 * *Protection against Transmission:* Some studies observe in the phase when the vaccine induced immunity reduces the viral load, a reduced onwards transmission from vaccinated index cases; other studies observe no difference even in this  phase. After a few months when the viral load in the  tract are the same as for unvaccinated people, there seems to be no reduction, at least in household settings.
 
 > The widespread assumption that vaccinated people transmit Covid less for more than a few months *lacks* a rigorous scientific basis. To my judgement, there is neither an epidemiological nor a medical benefit/basis to (push to) vaccinate people not at risk for severe Covid.
@@ -91,7 +91,7 @@ The muscular administrated 'mRNA' and adenovirus vectored vaccines induce mainly
 ## Relevance
 Knowing how transmissions are distributed, helps to set and fine-tune control measures. *If measures are necessary*.
 * Measures can few for those contributing few to the spread: children  and young adults are not the carriers of the Covid spread and thus measures should not target them.
-* People with higher R values can be offered control options: E.g. free test access, suitable masks (e.g. custom fit FFP2 including advice on wearing them) and better education how to handle covid.
+* People with higher R values can be offered control options: E.g. free test access, suitable masks (e.g. custom fit FFP2 including advice on wearing them) and better education how to handle Covid.
 
 
 
@@ -104,7 +104,7 @@ Detection of infections for epidemiological investigations is mostly done by:
 * Viral load
 * Antibody detection for previous infections
 
-Since SARS-CoV-2 so fare hardly causes any deaths and hospitalizations in healthy people below 50, the viral load or symptoms are mostly used for epidemiological investigations.
+For mild diseases the viral load or symptoms are often used as observables for epidemiological investigations. Similarly the viral load is often used to determine the possibility of transmissions. In the case of severe disease the variables of main interest, hospitalizations and deaths, are observable themselves. Additionally hospitalization is a good proxy for severe disease.
 
 
 ### Association between Viral Load and Symptoms
@@ -147,10 +147,26 @@ The detection limit is mostly due to technical limits and not that lower viral l
 
 
 ### Viral Load Distribution
-The viral load of a population sample has a continuous distribution. 
+The viral load of a population sample has a continuous distribution. In practice the viral load is measured by methods such as PCR tests or antigen tests. These tests have detection limit above which the values are truncated. The viral load distribution obtained from ct values is thus chopped of at low viral load values (high Ct values) ([Viral Load from Ct values](#viral-load-from-ct-value)). For similar reasons, since each viral load measurement has an error associated, low viral load values can pass as false negatives. The tests methods are mainly constructed to diagnose diseases and a disease is usually associated with high viral loads. Therefore these effects are mainly observed when diagnosing asymptomatic infections. In people with an early and good immune response (e.g. young people or people with a adequate immunization) the immune system restricts the growth of the viruses early and accordingly the [viral load distribution are shifted](#viral-load-distribution-shifts) towards lower values. These low viral loads usually don't cause a disease.
 
-#### Ct Value Plots
+
+#### Viral Load from Ct Value 
 The distribution of the Ct values often looks left skewed with many increasing frequencies towards higher Ct values and towards the PCR cutoff the distribution then sharply decreases towards the Ct value detection limit. This is not reflecting the actual viral load distribution since towards the detection limit the PCR sensitivity decreases which causes the Ct distribution to be increasingly chopped off at high Ct values. The actual distribution just continues below the LOD and then gradually decreases.
+
+
+#### Relation between Viral Load Distribution and Positivity Rate
+> Explorative section.
+
+Considering the unbounded viral load distributions, the PCR cutoff values such as 30, 35 or 40 PCR cycles are just arbitrary cutoffs and yield the number of samples below these values. So a positive test defined by 30 cycles - say 10^6 copies/milliliter - just detects all samples with a higher viral load. When close to the border, each samples is not detected with a certain probability due to the PCR error rate ([PCR Diagnosis](./../3_medical/pcr_diagnosis.md)). 
+
+##### Hypothesis
+*There is a 1 to 1 correspondence between a shift of the viral load distribution and the probability of samples being above or below a certain threshold value as long as the shape of the distribution remains invariant (the true viral load distribution not the Ct value distribution)*. 
+
+> In practice the distribution shape may slightly change, so the correspondence is only approximate.
+
+Specifically, if an immune protection shifts the viral load distribution to lower values at a given location, the positivity rate is reduced and the other way round. E.g.:
+* If natural immunity reduces the viral load, it reduces the chance for a positive test (can be a PCR test with a cutoff of 30 or 40 as described in [Viral Load Shift by Immunity](#viral-load-shift-by-immunity)).
+* Accordingly for vaccination: If vaccines fail to shift the viral load towards lower values the vaccines have no effects on testing positive at the given location => *if vaccinated persons have about the same viral load distribution as unvaccinated persons, the vaccines do not offer a protection for infection at the location the viral load is measured.*
 
 #### Viral Load Distribution Shifts
 
@@ -173,8 +189,9 @@ fully vacc | 66 % | 70 %
 Increased immune protection induces a shift of the distribution of the viral loads towards lower values (respectively higher Ct values). This is illustrated as violin plot by [Pritchard et al](#summary-pritchard):
 ![viral load distribution violin plot Pritchard]
 
-> This are [Ct value plots](#ct-value-plots) so they are chopped of towards the detection limit and the actual viral load distribution would probably peak at 10 cp/milliliter which translates to an imaginary Ct value of 45 in the case of seropositive persons.
+> This are [Viral Load approximated by Ct values](#viral-load-by-ct-value) so they are chopped of towards the detection limit and the actual viral load distribution would probably peak at 10 cp/milliliter which translates to an imaginary Ct value of 45 in the case of seropositive persons.
 -->
+
 
 
 
@@ -187,17 +204,6 @@ A shift in the viral load distribution is observed for different age groups. The
 ---
 
 
-#### Relation between Viral Load Distribution and Positivity Rate
-> Explorative section.
-
-Considering the unbounded viral load distributions, the PCR cutoff values of 30, 35 or 40 PCR cycles are just arbitrary cutoffs and yield the number of samples below these values. So a positive test defined by 30 cycles - say 10^6 copies/milliliter - just detects all samples with a higher viral load (when away from the PCR detection limit, when close to the border samples are not detected with a certain probability since towards the detection limit the PCR accuracy is lost {[PCR Diagnosis](./../3_medical/pcr_diagnosis.md)}). 
-
-##### Hypothesis
-*As long as the distribution is shifted 'uniformly' (the true viral load distribution not the Ct value distribution), a 1 to 1 correspondence between the viral load distribution shift and the number of samples above or below a certain threshold value is expected.*
-
-So if an immune protection reduces the viral loads when sampling at a given location, the positivity rate is reduced and the other way round. E.g.:
-* If natural immunity reduces the viral load, it reduces the chance for a positive test (can be a PCR test with a cutoff of 30 or 40 as described in [Viral Load Shift by Immunity](#viral-load-shift-by-immunity)).
-* Accordingly for vaccination: If vaccines fail to shift the viral load towards lower values the vaccines have no effects on testing positive at the given location => *if vaccinated persons have about the same viral load distribution as unvaccinated persons, the vaccines do not offer a protection for infection at the location the viral load is measured.*
 
 
 
