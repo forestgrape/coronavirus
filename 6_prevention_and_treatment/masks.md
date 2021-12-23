@@ -183,6 +183,5 @@ __Drawbacks__: Taken on/off is cumbersome, for short time usage I prefer surgica
 6. In spring 2021 I started using FFP2 masks of fold type. They are widely available to ok prices (about 1$/piece) and the breathing ability is good by now.
 7. In summer 2021 I moved to (colorful) surgical masks since transmission of severe Covid is very low.
 8. Autumn 2021, I mostly stayed with colorful surgical masks from CPS MASK (Type2R, EN 14683). As a fallback for sensible situations, FFP2 of fold type (CX9501-P).
-
-
+9. Winter 2021. Similar to autumn, but with the advent of Omicron increasingly FFP2s e.g. in crowded settings.
 
