@@ -8,7 +8,10 @@ explorative: 1
 
 # Understanding Betacoronaviruses and their Diseases
 
-This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses (which are tagged as 'explorative').
+This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses which are tagged as 'explorative'.
+
+Practical tips & tricks are discussed in [Public Suggestions and Tips](./1_introduction/suggestions.md). The section [bird view of content](#bird-view-of-content) overviews the overall content and in the [content](#content) section the topics discussed are presented in more detail. Usually it is possible to cherry pick content. Usually there is a summary outlining the concepts. The more 'in depth' content sometimes is somewhat technical.
+
 
 ## Sections of this Chapter (index)
 * [Bird View of Content](#bird-view-of-content): Gives a short overview of the different topics.
@@ -41,9 +44,9 @@ There is also a rather subjective page in German with some comments on the Coron
 
 ## Updates
 ### Recent Topics Added
-- 17.12.(20.12. moved here from the update section): New Chapter on [Omicron](2_biological/omicron.md). Omicron is noteworthy different from the previous SARS-CoV-2 lineages: 1) Higher Transmission 2) reports for changed disease symptoms and 3) very high number of mutations in the spike. Two possible explanations are discussed: 
-  - _Explanation 1 (very speculative):_ The Omicron Variants has a changed tropism away from airways epithelial cells towards myeloid immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for a possible change in tropism.
-  - _Explanation 2:_ The Omicron variant mutated to escape spike binding antibodies and thereby gained a transmission advantage.
+- 17.12.: New Chapter on [Omicron](2_biological/omicron.md). Omicron is noteworthy different from the previous SARS-CoV-2 lineages: 1) Higher Transmission 2) reports for changed disease symptoms and 3) very high number of mutations in the spike. Two possible explanations are discussed: 
+  - _Explanation 1 (speculative):_ The Omicron Variants has a changed tropism away from airways epithelial cells towards immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for the change of tropism.
+  - _Explanation 2:_ The Omicron variant mutated to escape spike binding antibodies and thereby gained a transmission advantage. This could also have been or be an intermediated step towards explanation 1.
 
 - 24.11.: [Interferon Treatment](6_prevention_and_treatment/interferon.md): Early interferon treatment helps to reduce the viral load and prevents more than half of severe disease cases. Interferon alpha treatment shows the best results with a mortality reduction above 75% if used early. Topical administration to the respiratory tract (spray or nebulized) shows benefits even in mid to advanced disease stages. Systemically applied interferons (especially IFN beta) on the other hand yield adverse outcomes when applied late.<br>
   => 1) Topical IFN alpha is recommended to treat SARS-CoV-2 infection and treatment should start as early as possible.<br>
