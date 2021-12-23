@@ -44,9 +44,11 @@ The susceptibility to the different kinds of SARS-CoV-2 infections and the indiv
   * [Refs Household Transmission Endemic CoVs](#refs-household-transmission-endemic-covs)
   * [Refs of Household Transmissions with HOSTED](#refs-of-household-transmissions-with-hosted)
   * [Refs ONS-CIS Analyses](#refs-ons-cis-analyses)
-  * [Refs Contact Tracing](#refs-contact-tracing)
+  * [Refs Maccabi Healthcare Services](#refs-maccabi-healthcare-services)
   * [Refs Cohort Studies](#refs-cohort-studies)
-  * [Refs Population Cohort Studies in Denmark](#refs-population-cohort-studies-in-denmark)
+  * [Refs Cohort Studies in Denmark](#refs-cohort-studies-in-denmark)
+  * [Refs Cohort Studies in Qatar](#refs-cohort-studies-in-qatar)
+  * [Refs Contact Tracing](#refs-contact-tracing)
   * [References Spread from Sequences](#references-spread-from-sequences)
   * [References Transmission Heterogeneity](#references-transmission-heterogeneity)
   * [References Acquired Immunity Status](#references-acquired-immunity-status)
@@ -470,7 +472,8 @@ Goal: "The SARS-CoV-2 Immunity and Reinfection Evaluation (SIREN) Study is a lar
 * [Regev-Yochay et al](#summary-regev-yochay) Ramat-Gan, Israel the effectiveness of BNT162b2 is evaluated.
 
 #### Health Insurance Studies
-[in work]
+* Maccabi Healthcare Services (MHS), Israel's second largest Health Maintenance Organization analyses data from their members. 
+  * [Gazit et al](#summary-gazit) compare the protection provided by vaccination and natural infections.
 
 #### Spread from Contact Tracing
 [in work]
@@ -861,6 +864,153 @@ ONS-CIS data is analysed for the periods 1 Dec 2020 – 16 May 2021 (Alpha) and 
 
 
 
+### Refs Maccabi Healthcare Services
+Maccabi Healthcare Services (MHS), Israel's second largest Health Maintenance Organization, with 2.5 million members (25% of the population).
+
+#### Summary Gazit
+Gazit, S., Shlezinger, R., Perez, G., Lotan, R., Peretz, A., Ben-Tov, A., Cohen, D., Muhsen, K., Chodick, G. and Patalon, T., 2021. Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity: reinfections versus breakthrough infections. MedRxiv.
+
+##### Methods
+* *Type:* Retrospective cohort study with case matching analyzing data from members of MHS health care fund. 
+* *Population:* The study population included MHS members aged 16 or older." //the different cohorts are described under models in the result section below
+* *Diagnosis:* RT-PCR test and symptoms in the next 5 days (chiefly fever, cough, breathing difficulties, diarrhea, loss of taste or smell, myalgia, weakness, headache and sore throat.)
+* *Dependent Variables:* "Outcomes, or second events: documented RT-PCR confirmed SARS-CoV-2 infection, COVID-19, COVID-19-related hospitalization and death. Outcomes were evaluated during the follow-up period of June 1 to August 14, 2021, the date of analysis, corresponding to the time in which the Delta variant became dominant in Israel."
+
+##### Results
+Three different comparison denoted as Model 1 (infected in early 2020 compared to vaccinated in early 2020), Model 2 (anytime infected compared to vaccinated in early 2020) and Model 3 (infected compared to infected and additionally vaccinated) are made. 
+
+The odds ratios below are adjusted for comorbidities and market with (*).
+
+###### Model 1
+Comparison of vaccinated persons (second dose between 1.1. and 28.2.21) to persons infected (SARS-CoV-2 positive PCR test between 1.1. and 28.2.21). A total of 16215 persons were in both groups.
+
+Outcome  |  outcome in vaccinated | outcome in recovered  | odds ratio (*) | 95% confidence (*)
+--|--|--|--|--
+Positive PCR  | 238 | 19 | 13.06 | [8.08, 21.11]
+Symptomatic Inf.  | 191 | 8 | 27.02 | [12.7, 57.5]
+Hospitalization  | 8 | 1 | ~ 8 | too few cases
+
+###### Model 2
+Comparison of vaccinated persons to infected any time before. Each of the two groups contained 46035 persons. 
+Notes
+* The difference to model 1 is that the natural infection was allowed to occur *any time* before 28.2.21. Most infections happened in September 2020, thus the natural infections occurred on average before the vaccination. The study population is more than 3 times as large.
+* To check whether the Covid pass from natural infection was valid throughout the entire study period. //else the results could be "Covid certificate" biased, which could for example induce an overestimation of the vaccine efficacy compared to natural infection.
+
+Outcome  |  outcome in vaccinated | outcome in recovered  | odds ratio (*) | 95% confidence (*)
+--|--|--|--|--
+Positive PCR  | 640 | 108 |  5.96 | [4.85, 7.33]
+Symptomatic Inf.  | 484 | 68 | 7.13 | [5.51, 9.21]
+Hospitalization  | 21 | 4 | 6.7 | [1.99, 22.56]
+
+###### Model 3
+Comparison of immunity by natural infection alone and infection followed by vaccination (between March and 25.5.21). // the vaccination occurred right before the study period, thus this model 3 describes primarily whether an additional vaccine has an effect on reinfection in the first few months.
+
+Outcome  |  outcome in recovered and vaccinated | outcome in recovered  | odds ratio (*) | 95% confidence (*)
+--|--|--|--|--
+Positive PCR  | 20 | 37 |  0.53 | [0.3, 0.92]
+Symptomatic Inf.  | 16 | 23 | ~0.7 | -
+Hospitalization  | - | - | -| -
+
+<!--
+The probability if the vaccination was only allowed to occur *after* the natural infection was:
+Outcome  |  outcome in recovered and vaccinated | outcome in recovered  | odds ratio (*) | 95% confidence (*)
+--|--|--|--|--
+Positive PCR  | 19 | 28 |  0.68 | .38 to 1.21
+
+-> only 1 prev vaccinated and then natural infected; updates available??
+-->
+
+#### Summary Levine-Tiefenbrun
+Levine-Tiefenbrun, M., Yelin, I., Alapi, H., Katz, R., Herzel, E., Kuint, J., ... & Kishony, R. (2021). Viral loads of Delta-variant SARS-CoV2 breakthrough infections following vaccination and booster with the BNT162b2 vaccine. medRxiv.
+
+##### Methods
+* "In this study, we retrospectively collected and analyzed the reverse transcription quantitative polymerase chain reaction (RT–qPCR) test measurements of three SARS-CoV-2 genes - E, N and RdRp (Allplex 2019-nCoV assay, Seegene) - from positive tests of patients of Maccabi Healthcare Services (HMS). We focus on infections of adults above the age of 20 between June 28 and August 24, when Delta was the dominant variant in Israel (over 93%)36. Crossing this dataset with vaccination data, we identified in total 1,910 infections of unvaccinated, 9,734 BTI of 2-dose-vaccinated and 245 BTI of booster-vaccinated (Methods: “Vaccination status”, Extended Data Table 1)." //data by time after vaccination in Extended Data Table 1
+* "Considering all of these infections (n = 11,889), we built a multivariable linear regression model for the Ct value of each of the three genes, accounting for vaccination, at different time bins prior to the infection, and for receiving the booster as well as adjusting for sex, age and calendric date."
+
+##### Results
+> Results are described in the text and shown in Figure 1 for RdRp gene and for the N and E gene in Extended Data Figure 1. The results for the different gene are consistent and similar.
+
+* The viral load from 1 week after the second dose up to 2 months thereafter is reduced about 15 fold (Ci:4-53) which corresponds to a Ct value of 4 (this is consistent with the observations by [Regev-Yochay et al](#summary-regev-yochay) where a reduction of 5 Ct values was observed). 
+* From 2 to 4 months the Ct values are reduced by about 0.7.
+* From 4 to 6 months the Ct values are reduced by about 0.3.
+* From 6 months onwards no relevant reduction is observed.
+* A booster increases the reduction to about 2 Ct values. //mainly older people got a 'booster'.
+
+For people above 50 years:
+> Extended Data Figure 2. 
+
+* In the first 2 months the reduction of the Ct values is about 6.
+* After 2 months there is no relevant reduction of Ct values.
+
+#### Summary Mizrahi
+Mizrahi B, Lotan R, Kalkstein N, Peretz A, Perez G, Ben-Tov A, Chodick G, Gazit S, Patalon T. Correlation of SARS-CoV-2-breakthrough infections to time-from-vaccine. Nature communications. 2021 Nov 4;12(1):1-5.
+
+##### Methods
+" Leveraging the centralized computerized database of Maccabi Healthcare Services (MHS), we assessed the correlation between time-from-vaccine and incidence of breakthrough infection between June 1 and July 27, the date of analysis."
+
+##### Results
+Figure 1 shows the crude breakthrough infection rates per 10'000 individuals by month of vaccination:
+
+![Infection rate by month of vaccination](images/mizrahi_F1.png)
+
+
+
+
+### Refs Cohort Studies
+
+
+#### Reyes
+Torres Reyes,C.R.; Steinmann, E.; Timmesfeld, N.; Trampisch, H.-J.; Stein, J.; Schütte, C.; Skrygan, M.; Meyer, T.; Sakinc-Güler, T.; Schlottmann, R.; et al. Students in Dormitories Were Not Major Drivers of the Pandemic during Winter Term 2020/2021: A Cohort Study with RT-PCR and Antibody Surveillance in a German University City. COVID 2021,1,345–356. https://doi.org/10.3390/covid1010029
+
+The following graphics from the paper displays the SARS-2 infection incidence rates for the dormitory population in relation to the population in Bochum:
+
+![Covid Incidence in Student Dormitory and General Pop](images/reyes_f2.jpeg)
+
+=> neither living in a dormitory nor open campus seems to have a big effect on SARS-CoV-2 infections.
+
+
+
+### Refs Cohort Studies in Denmark 
+
+
+#### Summary Hansen
+Hansen, Christian Holm, et al. "Assessment of protection against reinfection with SARS-CoV-2 among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational study." The Lancet 397.10280 (2021): 1204-1212.
+
+#### Findings
+Protection against reinfection at least months after first infection: 
+* General population: 78·8% (95% CI 74·9–82·1)
+* 65 years and older: 47·1% (95% CI 24·7–62·8).
+* male sex: 78·4% [72·1–83·2], female 79·1% [73·9–83·3])
+* time (3–6 months of follow-up 79·3% [74·4–83·3], ≥7 months of follow-up 77·7% [70·9–82·9]
+
+
+
+#### Summary Lyngse
+Lyngse, F.P., Mølbak, K., Franck, K.T., Nielsen, C., Skov, R.L., Voldstedlund, M., Cohen, A.S. and Kirkeby, C.T., 2021. Association between SARS-CoV-2 Transmissibility, Viral Load, and Age in Households. medRxiv.
+
+
+### Refs Cohort Studies in Qatar 
+
+
+#### Summary Chemaitelly
+Chemaitelly H, Bertollini R, Abu-Raddad LJ. Efficacy of Natural Immunity against SARS-CoV-2 Reinfection with the Beta Variant. New England Journal of Medicine. 2021 Dec 15.
+
+> in work (22.12.)
+
+##### Methods
+* *Type:* Retrospective Cohort Study with case matching (matched on age, sex, and nationality, and only individuals *not* vaccinated were included)
+* *Setting:* 
+  * positive cohort: PCR confirmed infection before 1.1.21 (alternate analysis by seropositivity)
+  * outcome: confirmed infection SARS-CoV-2 (re)infection during a wave with the alpha respectively with the beta variant.
+
+##### Results
+* "At 42 days of fol- low-up, the cumulative incidence was 0.27% (95% confidence interval [CI], 0.22 to 0.32) in the previous-infection cohort and 3.44% (95% CI, 3.27 to 3.61) in the antibody-negative cohort for the beta variant and 0.03% (95% CI, 0.02 to 0.06) and 1.35% (95% CI, 1.25 to 1.46), respectively, for the alpha variant."
+* "The efficacy of natural infection against reinfection, which was derived by comparing the incidence rate in both cohorts, was estimated at 92.3% (95% CI, 90.3 to 93.8) for the beta variant and at 97.6% (95% CI, 95.7 to 98.7) for the alpha variant."
+
+
+#### Summary Abu-Raddad
+Abu-Raddad LJ, Chemaitelly H, Bertollini R. Severity of SARS-CoV-2 Reinfections as Compared with Primary Infections. New England Journal of Medicine. 2021 Nov 24.
+
 
 
 
@@ -896,8 +1046,7 @@ Wilder-Smith comments on article by [Singanayagam et al](#singanayagam).
 
 
 #### Summary Adam
-*Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong*
-Adam D, Wu P, Wong J, et al. Research Square; 2020. 
+*Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong* Adam D, Wu P, Wong J, et al. Research Square; 2020. 
 <https://doi.org/10.21203/rs.3.rs-29548/v1>
 
 ##### Methods
@@ -934,39 +1083,6 @@ doi: <https://doi.org/10.1101/2021.09.28.21264260>
 
 > By the group of Prof Walker, who also analyses the ONS CIS data. However this article uses more general data from the UK (to check overlap with hosted data)
 
-
-
-### Refs Cohort Studies
-
-
-#### Reyes
-Torres Reyes,C.R.; Steinmann, E.; Timmesfeld, N.; Trampisch, H.-J.; Stein, J.; Schütte, C.; Skrygan, M.; Meyer, T.; Sakinc-Güler, T.; Schlottmann, R.; et al. Students in Dormitories Were Not Major Drivers of the Pandemic during Winter Term 2020/2021: A Cohort Study with RT-PCR and Antibody Surveillance in a German University City. COVID 2021,1,345–356. https://doi.org/10.3390/covid1010029
-
-The following graphics from the paper displays the SARS-2 infection incidence rates for the dormitory population in relation to the population in Bochum:
-
-![Covid Incidence in Student Dormitory and General Pop](images/reyes_f2.jpeg)
-
-=> neither living in a dormitory nor open campus seems to have a big effect on SARS-CoV-2 infections.
-
-
-
-### Refs Population Cohort Studies in Denmark 
-
-
-#### Summary Hansen
-Hansen, Christian Holm, et al. "Assessment of protection against reinfection with SARS-CoV-2 among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational study." The Lancet 397.10280 (2021): 1204-1212.
-
-#### Findings
-Protection against reinfection at least months after first infection: 
-* General population: 78·8% (95% CI 74·9–82·1)
-* 65 years and older: 47·1% (95% CI 24·7–62·8).
-* male sex: 78·4% [72·1–83·2], female 79·1% [73·9–83·3])
-* time (3–6 months of follow-up 79·3% [74·4–83·3], ≥7 months of follow-up 77·7% [70·9–82·9]
-
-
-
-#### Summary Lyngse
-Lyngse, F.P., Mølbak, K., Franck, K.T., Nielsen, C., Skov, R.L., Voldstedlund, M., Cohen, A.S. and Kirkeby, C.T., 2021. Association between SARS-CoV-2 Transmissibility, Viral Load, and Age in Households. medRxiv.
 
 
 
@@ -1019,6 +1135,10 @@ About 10% of the people for responsible for 50% of infections and about 20% for 
 
 #### Goyal
 Goyal, A., Reeves, D. B., Cardozo-Ojeda, E. F., Schiffer, J. T., & Mayer, B. T. (2021). Viral load and contact heterogeneity predict SARS-CoV-2 transmission and super-spreading events. eLife, 10, e63537. https://doi.org/10.7554/eLife.63537
+
+
+
+
 
 ### References Acquired Immunity Status
 
@@ -1090,78 +1210,6 @@ Ct Values by Vaccination (regardless of symptoms)
 
 
 
-#### Summary Gazit
-Gazit, S., Shlezinger, R., Perez, G., Lotan, R., Peretz, A., Ben-Tov, A., Cohen, D., Muhsen, K., Chodick, G. and Patalon, T., 2021. Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity: reinfections versus breakthrough infections. MedRxiv.
-
-##### Methods
-* *Type:* Retrospective cohort study based on case matching using the data from MHS health care fund. 
-* *Population:* The study population included MHS members aged 16 or older." //the different cohorts are described under models in the result section below
-* *Diagnosis:* RT-PCR test and symptoms in the next 5 days (chiefly fever, cough, breathing difficulties, diarrhea, loss of taste or smell, myalgia, weakness, headache and sore throat.)
-* *Dependent Variables:* "Outcomes, or second events: documented RT-PCR confirmed SARS-CoV-2 infection, COVID-19, COVID-19-related hospitalization and death. Outcomes were evaluated during the follow-up period of June 1 to August 14, 2021, the date of analysis, corresponding to the time in which the Delta variant became dominant in Israel."
-
-##### Results
-Three different comparison denoted as Model 1 (infected in early 2020 compared to vaccinated in early 2020), Model 2 (anytime infected compared to vaccinated in early 2020) and Model 3 (infected compared to infected and additionally vaccinated) are made. 
-
-The odds ratios below are adjusted for comorbidities and market with (*).
-
-###### Model 1
-Comparison of vaccinated persons (second dose between 1.1. and 28.2.21) to persons infected (SARS-CoV-2 positive PCR test between 1.1. and 28.2.21). A total of 16215 persons were in both groups.
-
-Outcome  |  outcome in vaccinated | outcome in recovered  | odds ratio (*) | 95% confidence (*)
---|--|--|--|--
-Positive PCR  | 238 | 19 | 13.06 | [8.08, 21.11]
-Symptomatic Inf.  | 191 | 8 | 27.02 | [12.7, 57.5]
-Hospitalization  | 8 | 1 | ~ 8 | too few cases
-
-###### Model 2
-Comparison of vaccinated persons to infected any time before. Each of the two groups contained 46035 persons. 
-Notes
-* The difference to model 1 is that the natural infection was allowed to occur *any time* before 28.2.21. Most infections happened in September 2020, thus the natural infections occurred on average before the vaccination. The study population is more than 3 times as large.
-* To check whether the Covid pass from natural infection was valid throughout the entire study period. //else the results could be "Covid certificate" biased, which could for example induce an overestimation of the vaccine efficacy compared to natural infection.
-
-Outcome  |  outcome in vaccinated | outcome in recovered  | odds ratio (*) | 95% confidence (*)
---|--|--|--|--
-Positive PCR  | 640 | 108 |  5.96 | [4.85, 7.33]
-Symptomatic Inf.  | 484 | 68 | 7.13 | [5.51, 9.21]
-Hospitalization  | 21 | 4 | 6.7 | [1.99, 22.56]
-
-###### Model 3
-Comparison of immunity by natural infection alone and infection followed by vaccination (between March and 25.5.21). // the vaccination occurred right before the study period, thus this model 3 describes primarily whether an additional vaccine has an effect on reinfection in the first few months.
-
-Outcome  |  outcome in recovered and vaccinated | outcome in recovered  | odds ratio (*) | 95% confidence (*)
---|--|--|--|--
-Positive PCR  | 20 | 37 |  0.53 | [0.3, 0.92]
-Symptomatic Inf.  | 16 | 23 | ~0.7 | -
-Hospitalization  | - | - | -| -
-
-<!--
-The probability if the vaccination was only allowed to occur *after* the natural infection was:
-Outcome  |  outcome in recovered and vaccinated | outcome in recovered  | odds ratio (*) | 95% confidence (*)
---|--|--|--|--
-Positive PCR  | 19 | 28 |  0.68 | .38 to 1.21
-
--> only 1 prev vaccinated and then natural infected; updates available??
--->
-
-
-#### Summary Chemaitelly
-Chemaitelly H, Bertollini R, Abu-Raddad LJ. Efficacy of Natural Immunity against SARS-CoV-2 Reinfection with the Beta Variant. New England Journal of Medicine. 2021 Dec 15.
-
-> in work (22.12.)
-
-##### Methods
-* *Type:* Retrospective Cohort Study with case matching (matched on age, sex, and nationality, and only individuals *not* vaccinated were included)
-* *Setting:* 
-  * positive cohort: PCR confirmed infection before 1.1.21 (alternate analysis by seropositivity)
-  * outcome: confirmed infection SARS-CoV-2 (re)infection during a wave with the alpha respectively with the beta variant.
-
-##### Results
-* "At 42 days of fol- low-up, the cumulative incidence was 0.27% (95% confidence interval [CI], 0.22 to 0.32) in the previous-infection cohort and 3.44% (95% CI, 3.27 to 3.61) in the antibody-negative cohort for the beta variant and 0.03% (95% CI, 0.02 to 0.06) and 1.35% (95% CI, 1.25 to 1.46), respectively, for the alpha variant."
-* "The efficacy of natural infection against reinfection, which was derived by comparing the incidence rate in both cohorts, was estimated at 92.3% (95% CI, 90.3 to 93.8) for the beta variant and at 97.6% (95% CI, 95.7 to 98.7) for the alpha variant."
-
-
-#### Summary Abu-Raddad
-Abu-Raddad LJ, Chemaitelly H, Bertollini R. Severity of SARS-CoV-2 Reinfections as Compared with Primary Infections. New England Journal of Medicine. 2021 Nov 24.
 
 
 ### References Spread and Air Pollution
