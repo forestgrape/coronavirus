@@ -156,7 +156,7 @@ The viral load of a population sample has a continuous distribution. In practice
 The distribution of the Ct values often looks left skewed with many increasing frequencies towards higher Ct values and towards the PCR cutoff the distribution then sharply decreases towards the Ct value detection limit. This is not reflecting the actual viral load distribution since towards the detection limit the PCR sensitivity decreases which causes the Ct distribution to be increasingly chopped off at high Ct values. The actual distribution just continues below the LOD and then gradually decreases.
 
 
-#### Relation between Viral Load Distribution and Positivity Rate
+#### Viral Load Distribution and Positivity Rate
 > Explorative section.
 
 Considering the unbounded viral load distributions, the PCR cutoff values such as 30, 35 or 40 PCR cycles are just arbitrary cutoffs and yield the number of samples below these values. So a positive test defined by 30 cycles - say 10^6 copies/milliliter - just detects all samples with a higher viral load. When close to the border, each samples is not detected with a certain probability due to the PCR error rate ([PCR Diagnosis](./../3_medical/pcr_diagnosis.md)). 
@@ -168,7 +168,9 @@ Considering the unbounded viral load distributions, the PCR cutoff values such a
 
 Specifically, if an immune protection shifts the viral load distribution to lower values at a given location, the positivity rate is reduced and the other way round. E.g.:
 * If natural immunity reduces the viral load, it reduces the chance for a positive test (can be a PCR test with a cutoff of 30 or 40 as described in [Viral Load Shift by Immunity](#viral-load-shift-by-immunity)).
-* Accordingly for vaccination: If vaccines fail to shift the viral load towards lower values the vaccines have no effects on testing positive at the given location => *if vaccinated persons have about the same viral load distribution as unvaccinated persons, the vaccines do not offer a protection for infection at the location the viral load is measured.*
+* Accordingly for vaccination: If vaccines fail to shift the viral load towards lower values the vaccines have no effects on testing positive at the given location => *If vaccinated persons have about the same viral load distribution as unvaccinated persons, the vaccines do not offer a protection for infection at the location the viral load is measured.*
+
+> The above effects are observed by analyzing members of Maccabi Healthcare Services (MHS): [Levin-Tiefenbrun et al](#summary-levine-tiefenbrun) where in the first 2 months vaccination reduces a decrease viral load, whereas after 4 months vaccination by BNT162b2 results in nearly no reduction of viral load. Accordingly [Mizrahi et al](#summary-mizrahi) observe that the protection from vaccination decreases each month and seems to vanish about 4 to 6 months post vaccination (also noted in [Comment on Protection decrease](#comment-on-protection-decrease)).
 
 #### Viral Load Distribution Shifts
 
@@ -942,17 +944,24 @@ For people above 50 years:
 * In the first 2 months the reduction of the Ct values is about 6.
 * After 2 months there is no relevant reduction of Ct values.
 
+> The reduced shifts in viral load go in parallel to a protection decrease as noted in [Comment to Mizrahi et al](#comment-on-protection-decrease).
+
+
+
+
 #### Summary Mizrahi
 Mizrahi B, Lotan R, Kalkstein N, Peretz A, Perez G, Ben-Tov A, Chodick G, Gazit S, Patalon T. Correlation of SARS-CoV-2-breakthrough infections to time-from-vaccine. Nature communications. 2021 Nov 4;12(1):1-5.
 
 ##### Methods
-" Leveraging the centralized computerized database of Maccabi Healthcare Services (MHS), we assessed the correlation between time-from-vaccine and incidence of breakthrough infection between June 1 and July 27, the date of analysis."
+"Leveraging the centralized computerized database of Maccabi Healthcare Services (MHS), we assessed the correlation between time-from-vaccine and incidence of breakthrough infection between June 1 and July 27, the date of analysis."
 
 ##### Results
 Figure 1 shows the crude breakthrough infection rates per 10'000 individuals by month of vaccination:
 
 ![Infection rate by month of vaccination](images/mizrahi_F1.png)
 
+##### Comment on Protection Decrease
+> Table 1 in the paper indicates that the change to get infected increases each month since vaccination by about a third = 33%. So 1 month: 1.33, 2 months: 1.77 and 3 months: 2.35 i.e. the hazard ratio is 1.33 when comparing 1 month difference and 1.77 when the difference is 2 months and 2.35 for 3 months.  After 4 to 5 months this would yield an increase of 3.13 to 4.16. When the initially the hazard ratio compared to unvaccinated is 0.3 (as indicated by the data from [Regev-Yochay et al](#summary-regev-yochay)) then after 4 to 5 months the protection is lost. This is consistent with the hypothesis that the vaccine are only efficient as long as they induce a shift towards lower viral loads since [Levine-Tiefenbrun et al](#summary-levine-tiefenbrun) observe that there is nearly no reduction of viral loads after 4 months ([Viral Load Shift and Positivity Rate Hypothesis](#viral-load-distribution-and-positivity-rate)).
 
 
 
@@ -1388,7 +1397,7 @@ Incidence rates are used by a many studies to analyze the protection provided by
 
 ##### Testing for Biases
 * Taking into account the test positivity rate. // for safe and shift effects
-* Viral Load: For most protection methods (including increased immune protection) a shift of the viral load distribution (over location&time or over populations) a shift towards lower viral loads is expected if the the protection works ([Relation between Viral Load Distribution and Positivity](#relation-between-viral-load-distribution-and-positivity-rate)). If just two cutoff viral loads are taken: High viral loads are excepted to be reduced more than low viral loads e.g. a greater reduction of samples with Ct<30 (high viral loads) than of samples with Ct<40 is expected. // for safe effects and shift effects
+* Viral Load: For most protection methods (including increased immune protection) a shift of the viral load distribution (over location&time or over populations) a shift towards lower viral loads is expected if the the protection works ([Relation between Viral Load Distribution and Positivity](#viral-load-distribution-and-positivity-rate)). If just two cutoff viral loads are taken: High viral loads are excepted to be reduced more than low viral loads e.g. a greater reduction of samples with Ct<30 (high viral loads) than of samples with Ct<40 is expected. // for safe effects and shift effects
 * Sensitivity Analyzes: sub samples e.g. varying the time period. // varying the time period is ideal to detect shift effects.
 * Look for Jumps: E.g. the vaccines effectiveness increase and decrease linearly ([Vaccine Time Varying Effects](#vaccine-time-varying-effects)). If there is a sudden jump in efficacy e.g. right after the 2nd dose then this is likely due to be safe effects e.g. testing is no longer recommended/required (by authorities).
 
