@@ -82,7 +82,9 @@ There is also a rather subjective page in German with some comments on the Coron
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- 20/21/22.12. Formulations improved across the page. A few formulations about were/still are too dramatic, these were written months ago in a different situation and with a different (narrower) audience in mind - sorry & reformulations on the way. Feedback of any kind, especially improvement suggestions, is always welcome (witotraub@gmail.com/@runbox.com).
+- > 20-22/26.12. Sorry, without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. Some statements regarding the safety of vaccines were much to dramatic (and partly still are). These were written in a different situation and with a different (narrower) audience in mind. Sorry again & corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them.
+  
+- 20/21/22.12. Help & Feedback of any kind, especially improvements suggestions, is always welcome (witotraub@gmail.com/@runbox.com).
 
 - 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to [Recent Topics](#recent-topics-added).
 
