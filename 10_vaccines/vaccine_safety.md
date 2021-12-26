@@ -2,33 +2,34 @@
 
 > __Rolling publication__ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. Safety is relative: for risk persons of old age, no short term adverse effects is enough for vaccines to be much safer than to catch possibly life-threating Covid. However for young for whom Covid is mostly similar to common cold or a flu, just knowing there are no serious adverse and diagnoseable effects in the next months, does not at all mean a vaccine is safe.
 
-> Some adverse effects are **speculative** but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. People may have life-long adverse effects or even die for a supposed considerate and safe action. // I just read yesterday (12.6.21) about a 18 year old person who died due to thrombosis likely because of vaccination.
+> The adverse effects below are **speculative** and if they should occur they likely will occur only rarely but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. People may have possibly long lasting adverse effects or even die for a supposed considerate and safe action. // I read on the 12.6.21 about a 18 year old person who died due to thrombosis likely because of vaccination, which pushed me to go out with the speculative concerns below.
 
-> Additionally it is summer for the coming months on the northern hemisphere and so no need to rush vaccinating the young and healthy persons: in most regions the indoor air will not be very dry and so severe cases will be low anyways.
+> My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However anybody understands RNA?  RNA can do a lot. RNA is often set equal to mRNA which is translated to proteins. RNA is much more and only a small fraction all RNA is translated to proteins. Most RNA has regulatory or enzymatic functions. E.g. RNA is used by the cells for communication, RNA regulates the translation of mRNA and many cell intern enzymes are RNA. Also the properties of RNA vary with the functions: E.g. the life time of mRNA produced in the nucleus is usually short: One break is usually enough to prevent the translation to the functional protein and mRNA is strictly regulated which includes the lifetime. In general however, RNA can have a long life time: E.g. RNA ribosomes largely consists of RNA. Many viruses including coronaviruses and influenza encode their genome in RNA.
 
-> My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However, I am not sure whether anybody understands RNA. RNA can do a lot. In public discussions about 'mRNA' vaccine safety, views, outdated for decades are widespread e.g. that RNA is always degraded fast and that it is only used to message protein-encodings:
-> * RNA is always degraded fast? As mRNA to be translated to a well defined protein this is to some extent true, since one break is enough to prevent a translation to the protein. In general however, this is *wrong* since pieces of the RNA or the RNA in rearranged form can continue to exist. E.g. ribosomes largely consists of RNA. Many viruses including coronaviruses encode their genome in RNA, when RNA would be degraded fast, there wouldn't be many RNA viruses.
-> * RNA is  just a messenger for protein translation? Not completely wrong, since a small fraction of all RNA is indeed used to message proteins but RNA does much more. Most RNA has other functions than to encode proteins.
 
 > I am thankful to be informed when and which of the points below are wrong or the safety regarding them is known.
 
-> __entire page is in work__
+
+
+> __entire page is in work and speculative__
 
 
 
-> ##### Comment 9.12. (adapted 19.12.21)
+> ##### Comment 9.12. (adapted 19./24.12.21)
 > (originally published in the updated section)
 > The formulations in this chapter are often *dramatic*. (20.12. changes to more factual formulations in work)
 > * Once to motivate investigations/publications on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified/published. 
-> * The formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated and additionally repeated vaccination - commonly referred as 'boosters' - is considered/carried out. 
+> * To some extent the formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated and additionally repeated vaccination - commonly referred as 'boosters' - is considered/carried out. 
 
-> Many mentioned effects are possibly unlikely, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether draining lymph or blood vessels (even tiny ones could be adverse) are hit.
+> Many mentioned of the speculative even if they should occur are likely rare, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether a draining lymph or a tiny blood vessel is hit.
 
-> Tn my opinion any vaccination (1st, 2nd, 3rd, ...) for the young should be stopped right now, both for epidemiological reasons due to escape mutations and for adverse effects, rare events also add up.
+> In my opinion, the current spike targeting vaccines are not ideal for epidemiological reasons since the spike undergoes frequent mutations which can yield to escape forms and even changes of the tropism. So for epidemiological reasons alone a stop of vaccinating those not at risk for severe Covid can be considered. For people at risk for severe Covid any vaccination which provides protection against severe Covid is recommended though.
 
-> 9.12. *Transparency of adverse Effects:* If it there would known that there are previously unknown possible adverse effects from the vaccines, in my opinion the most important is to go transparently public with these. 
+> The speculative adverse effects below are most relevant for children or repeated vaccination.
+
+> 9.12. *Transparency of adverse Effects:* If it there would known that there are previously unknown/unpublished adverse events from the vaccines, in my opinion the most important is to go transparently public. 
 > * A fond for the affected could be founded. 
-> * Supervision and if necessary treatments or other precautions measures could be initiated for those affected. 
+> * Supervision and if necessary treatments and other precautions measures could be initiated for those affected. 
 > * Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries - and the world in the long run. To costs likely scale with time.
 
 > 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
@@ -53,7 +54,7 @@
 ## Summary
 Surveillance of symptoms is often enough for attenuated live pathogen [vaccines](./immunization.md#vaccine) since it is known what to except: the possibly severe disease intended to prevent. When the symptoms are tolerable and mild, the (severe) disease is not caused and so the controlled infection by vaccination is safer than the natural infection.
 
-The method of tolerable symptoms watching is not necessarily enough to ensure the safety of other vaccines technologies. Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine. Examples where symptom watching is not enough:
+Surveillance of symptoms is not necessarily enough to ensure the safety of other vaccines technologies. Whether tolerable symptoms predict vaccine safety, depends on the technology, the exact formulation and mode of action of a vaccine. Examples where symptom watching is not enough:
 * Pathogen causing subtle and/or long lasting infections. In this case to ensure the safety of a live vaccines is not straight forward. E.g. an AIDS vaccine based on the wild type AIDS virus will pass a short term tolerable symptom test and antibodies will be detected. =>  the kinetics of the pathogen is needed to ensure watching is done over the entire period during which adverse effects can occur.
 * For vaccines with adjuvants, safety depends both on the antigens inoculated and the adjuvant. While long-term or subtle adverse effects for protein antigens are unlikely or can be estimated, adjuvants can be anything and possibly reside in the body for decades. => The safety of the adjuvants needs to be ensured.
 * Transfected RNA ('mRNA' vaccines) may enter arbitrary tissues and cells: Transfection of the wrong cells such as long-lived neurones, stem cells or immune cells can have bad and long lasting effects. Upon transfection different things can happen e.g. cell death can be caused. => For mRNA vaccines it is mandatory to know the tissue and cell kinetics and the exact sequence and nucleoside modifications.
@@ -66,7 +67,7 @@ In conclusion, the safety of vaccines can only be ensured by symptoms if a thoro
 
 > To my knowledge, to behavior of the 'mRNA' vaccines and the adeno with spikes vaccines in the body is not published detailed enough for the scientific community to estimate adverse effects. 
 
-> In software, open source often yields quality improvements. Most successful software at least started open source. Until the 80's = before sophisticated compilers and performant mid and high level languages, software was mostly open source anyways.
+> In software, open source often yields quality improvements. Most successful software at least started open source. Until the 80's (= before sophisticated compilers and performant mid and high level languages), most software was open source.
 
 ## Recent Updates
 * 23.7.: Extended list of speculative adverse effects: 
@@ -87,7 +88,7 @@ The first vaccines were based on live pathogens (and nearly all of the most succ
 
 Later on one started to use adjuvants (substances increasing the immune response). If these substances remain long-term in the body or the effects are diffuse and hard to diagnose  symptom watching is not enough.
 
-> A classical example though not in vaccination but in treatment is mercury. Symptom tests were and are common practice for medications. Mercury once passed such symptom tests (its kinetics and behavior within the body were unknown) and was as medication. Since quite some ago it became known, that mercury can cause subtle damages and enriches within the body it is not used anymore.
+> An example, though not in vaccination, but in medications is mercury. Symptom tests were and are common practice for medications. Mercury once passed such symptom tests (its kinetics and behavior within the body were unknown) and was used as medication. Since quite some ago it became known, that mercury can cause subtle damages and enriches within the body it is not used anymore.
 
 
 ### Symptom Surveillance is Enough If
@@ -116,9 +117,10 @@ Regarding the current mRNA and vector technologies long term and subtle health h
 
 > To me this is strange and not understandable.
 
-> Subtle damage (e.g. brain damage or stem cell damage) are especially relevant when vaccinating children or repeated vaccination.
+> Subtle damage (e.g. brain damage or stem cell damage) are mainly relevant when vaccinating children or repeated vaccination.
 
 > In my opinion, the rumoured contracts which frees vaccines companies of liability should be waved unless the companies go open source with the entire vaccine technology stack such that an independent safety assessment is possible. If the companies don't want, they can buy insurances. In the case of the 'mRNA' vaccines, these are sold with margin large enough that insurances can be paid if the adverse effects are indeed as rare and unlikely as claimed.
+
 
 
 
@@ -174,6 +176,7 @@ Since no tissue tropism experiments are officially published, the tissue tropism
 
 > Absence of symptoms for a certain tropism does not mean a vaccine lacks that tropism or even is safe. Only published tissue tropisms could bring clarity.
 
+
 ##### Possible Effects in different Tissues
 The cell and tissue tropism is crucial to estimate adverse effects. For virus infections it is known that neurotropism, lymphotropism and reproductive system tropism are dangerous. Possibly too for artificial RNA transfection.
 
@@ -189,12 +192,16 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 
 * *Lympho-Tropism:* If lymphoid tissues are entered and many lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else. In theory, some cancer cells may remain undetected and cause cancer in the coming months or years.
 
-* *Ovaries:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects. E.g. the number of  primordial follicles (respectively local stem cell populations) could early decline. Other effects are possible too, e.g. ingredients such as the transfected RNA, polyethylen-glycol or the produced spikes may remain in oocytes or close by cells - in theory this could affect embryogenesis. If the latter is the case, waiting with pregnancy a few months after vaccination could be adequate.
+* *Ovaries:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects:
+  * the number of  primordial follicles (respectively local stem cell populations) could be affected.
+  	> This is highly speculative and even if it would be the case then it is likely mainly relevant for children and repeated vaccination. 
+  * Other effects are possible too, e.g. ingredients such as the transfected RNA, polyethylen-glycol or the produced spikes may remain in oocytes or close by cells - in theory this could affect embryogenesis. 
+  	> If the latter is the case, waiting with pregnancy a few months after vaccination could be adequate.
 
 * *Bone Marrow:* If the bone marrow is infiltrated, pluripotent stem cells can be altered or knocked off. The stem cell niches in the bone marrow are some of the best protected cells for good reason. In theory messing around with the bone marrow stem cell niches can cause many adverse effects e.g. increased aging or cancer risk.
 
 
-> The chances for the latter likely are low but for in the case of mass vaccination (with unclear benefits for the young) even low probabilities are relevant.
+> Even if any of the above is should occur, the probabilities to occur are likely low. But for in the case of mass vaccination (with unclear benefits for the young) even low probabilities are relevant.
 
 > The above effects are highly speculative. Predictions can only be done when ALL the cells and tissue tropism experiments (including the failed trials and research experiments) are published!
 
@@ -249,7 +256,7 @@ Many adenoviruses attach to red blood cells and thereby can cause haemagglutinat
 
 > When the vaccine is now overdosed and/or not accurately administrated into the muscle, a large number of adenoviruses can be released into the bloodstream which may cause the blood cells to clump. 
 
-> The deaths of young people observed would agree with the theory of overdosing. In the trials possibly the personal was better able to accurately administer the dose exactly into the muscle.
+> The deaths of young people observed would agree with the theory of overdosing. In the trials possibly the personal was better able to accurately administer the vaccine exactly into the muscle.
 
 > This can be prevented by 
 > * weight adjusted dosage (still risky)
@@ -260,10 +267,12 @@ Different adenovirus strains use different cell entry receptors. Some adenovirus
 
 > The broad cell tropism of adenoviruses is worrisome due to their within cell behavior. Adverse effects may occur if long lived or replication capable cells are entered. 
 
+>> The modified adenoviruses used in the vaccines seem to enter mainly myeloid immune cells [to confirm and cite]. If the myeloid are terminally differentiated the cell would not be replication capable and the risk for long-term adverse effects would be greatly reduced [to check and cite].
+
 #### Within Cell Behavior
 Adenoviruses vaccines used adenoviruses rendered replication incapable but apart from this the adenoviruses are similar to their wild type counterparts. As such they can do a lot within cells: 
 * Enter the cell nucleus. The cell nucleus is the core part of the cell for long lived or replication capable cells this could have adverse effects.
-* Alter the cells metabolism in various ways: One thing they do is to produce proteins including the coronavirus spike. Additionally they produce also anti apoptotic substances which is mainly a problem in replication capable cells since the cancer risk can increase. 
+* Alter the cells metabolism in various ways: One thing they do is to produce proteins including the coronavirus spike. Additionally they produce also anti apoptotic substances which is mainly a problem in replication capable cells since the cancer risk could increase. 
 * Reside dormant within cells for a long time.
 
 
@@ -271,14 +280,14 @@ Adenoviruses vaccines used adenoviruses rendered replication incapable but apart
 
 ## Appendix
 ### Personal Risk Exposure
->> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV) - stupidly forgot to screen for ticks at home and realized the tick late which increases the chances for transmission. Tough borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis. - Initially there was a very mild illness which was followed by regular but slight back pain for a couple of months which mostly went away by now. TBEV can infect both the CNS and the bone marrow and *unlike* the 'mRNA' vaccines, these viruses can cause life-long persistent infections.
+>> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV) - stupidly didn't screen for ticks at home and realized the tick late which increases the chance for the transmission tick borne pathogens. Borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis. - Initially there was a very mild illness which was followed by regular but slight back pain for a couple of months which mostly went away by now. TBEV can infect both the CNS and the bone marrow and *unlike* 'mRNA' vaccines, TBEV can cause life-long persistent infections.
 > 
 >> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans [to check which type], but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections since wild type infections carry risks both short- and long-term, however they reliably protect against subsequent infection - which is useful if one loves to move through nature.
 
->> The above example of TBEV, is to emphasize that some viral infections can be much more risky than 'mRNA' vaccination. Often personal experience are biased so they don' fit science, though the above story seems to fit and also I also it makes it easier for me to talk about vaccine risks (to those vaccinated) since I got 'hit' much more risky.
->> * So no point in worrying about past vaccination, but carefully consider future ones - regardless whether 1st, 2nd, 3rd, ... . 
-	>> >> SARS-CoV-2 is by fare less dangerous for the young than TBEV - at least before Omicron for which the tropism and the direction of evolution is not yet clear. Though against Omicron it is unclear whether vaccination is beneficial (as of 19.12.).
->> * TBEV cases are few, so when 1 in 10 got hit baldy the absolute numbers are still low. Vaccination is done for millions and even repeatedly. When 1 in 1000 shots causes adverse effects the numbers add up.
+>> The above example of TBEV, is to emphasize that quite common viral infections can be much much more risky than 'mRNA' vaccination. This relativizes the risks and helps factual discussions about the tropism of vaccines.
+
+>> * No point in worrying about past vaccination. Careful considerations about future ones - regardless whether 1st, 2nd, 3rd, 4rd, ... . 
+>> * TBEV cases are few, so when 1 in 10 gets hit baldy the absolute numbers are still low. Vaccination is done for millions and even repeatedly. When 1 in 1000 shots causes adverse effects, the risk is quite low for individuals however the overall numbers would be high.
 
 
 
