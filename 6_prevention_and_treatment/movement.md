@@ -76,7 +76,7 @@ There is epidemiological evidence supporting the above argumentation:
 
 * Important risk factors for severe Covid are well correlated with few movements/sports e.g. obesity, arteriosclerosis and diabetes. Since behavior patters are often stable, it is possible that too few movement/sports is to some extent a confounding cause for the mentioned risk factors.
 
-* [Bielik et al](#bielik) observe that physically active people are about two times as likely to experience a SARS-CoV-2 infection as asymptomatic compared to less active controls. When additional to physical activity, cold water swimming is practiced to chance of being asymptomatic is even higher. Furthermore the cold water swimmers often have about double the chance to have *no* acute respiratory infection in a year. //all results shown in Table 3 in the paper.
+* [Bielik et al](#bielik) observe that physically active people are about two times as likely to experience a SARS-CoV-2 infection as asymptomatic compared to less active controls. When additional to physical activity, cold water swimming is practiced to chance of being asymptomatic is even higher. Furthermore the cold water swimmers have about double the chance to have *no* acute respiratory infection in a year. // the results are shown in Table 3 in the paper.
 
 * [de Souza et al](#de-souza) Performing at least 150 min of moderate or 75 min intense  physical activity per week reduces the probability of hospitalization by about a third. The reduction is about 35% and significant with 0.028 even when adjusted for age, sex and BMI (Results are shown in Table 3 in the paper). Spending more than 4.7 hours a day sitting increases the hospitalization rate by about 30%.
 
@@ -114,7 +114,7 @@ Zhu W. **Should, and how can, exercise be done during a coronavirus outbreak? An
 
 
 #### Bielik
-Bielik,V.;Grendar,M.; Kolisek, M. A Possible Preventive Role of Physically Active Lifestyle during the SARS-CoV-2 Pandemic; Might Regular Cold-Water Swimming and Exercise Reduce the Symptom Severity of COVID-19? Int. J. Environ. Res. Public Health 2021, 18, 7158. 
+Bielik,V.;Grendar,M.; Kolisek, M. **A Possible Preventive Role of Physically Active Lifestyle during the SARS-CoV-2 Pandemic; Might Regular Cold-Water Swimming and Exercise Reduce the Symptom Severity of COVID-19?** Int. J. Environ. Res. Public Health 2021, 18, 7158. 
 <https://doi.org/10.3390/ijerph18137158>
 
 
@@ -150,5 +150,5 @@ Lee, S. W., Lee, J., Moon, S. Y., Jin, H. Y., Yang, J. M., Ogino, S., Song, M., 
 ### References Effects of Movement on Respiratory Infections
 
 #### Chastin
-Chastin, S., Abaraogu, U., Bourgois, J. G., Dall, P. M., Darnborough, J., Duncan, E., Dumortier, J., Pavón, D. J., McParland, J., Roberts, N. J., & Hamer, M. (2021). Effects of Regular Physical Activity on the Immune System, Vaccination and Risk of Community-Acquired Infectious Disease in the General Population: Systematic Review and Meta-Analysis. Sports medicine (Auckland, N.Z.), 51(8), 1673–1686. 
+Chastin, S., Abaraogu, U., Bourgois, J. G., Dall, P. M., Darnborough, J., Duncan, E., Dumortier, J., Pavón, D. J., McParland, J., Roberts, N. J., & Hamer, M. (2021). **Effects of Regular Physical Activity on the Immune System, Vaccination and Risk of Community-Acquired Infectious Disease in the General Population: Systematic Review and Meta-Analysis.** Sports medicine (Auckland, N.Z.), 51(8), 1673–1686. 
 <https://doi.org/10.1007/s40279-021-01466-1>
