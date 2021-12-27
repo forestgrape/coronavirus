@@ -48,7 +48,7 @@
 	* [Kinetics of mRNA Vaccines](#kinetics-of-mrna-vaccines)
 	* [Kinetics of Adenovirus Vaccines](#kinetics-of-adenovirus-vaccines)
 * [Appendix](#appendix)
-	* [Personal Risk Exposure](#personal-risk-exposure)
+	* [TBEV Infections](#tbev-infections)
 
 
 ## Summary
@@ -72,7 +72,8 @@ In conclusion, the safety of vaccines can only be ensured by symptoms if a thoro
 ## Recent Updates
 * 23.7.: Extended list of speculative adverse effects: 
 	- Intramuscular administrated Adenovirus vaccine may increase the cancer risk (depends on the adenovirus strain, mainly whether they enter replication capable cells).
-	- 'mRNA vaccines' if they have a tropism for the ovaries, they may transfect some follicles. Effect could be similar to some years of smoking.
+	- 'mRNA vaccines' if they have a tropism for the ovaries, they may transfect some follicles. 
+  		> Effect could be similar to some years of smoking.
 
 
 
@@ -194,7 +195,9 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 
 * *Ovaries:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects:
   * the number of  primordial follicles (respectively local stem cell populations) could be affected.
-  	> This is highly speculative and even if it would be the case then it is likely mainly relevant for children and repeated vaccination. 
+  	> This is highly speculative and even if the case the effects are likely not that relevant for adults. 
+	  
+	>> If someone has concerns about vaccination, these should not be dismissed but to be accepted. When more is known about the underlying mechanisms better risk estimates are possible.
   * Other effects are possible too, e.g. ingredients such as the transfected RNA, polyethylen-glycol or the produced spikes may remain in oocytes or close by cells - in theory this could affect embryogenesis. 
   	> If the latter is the case, waiting with pregnancy a few months after vaccination could be adequate.
 
@@ -279,15 +282,15 @@ Adenoviruses vaccines used adenoviruses rendered replication incapable but apart
 
 
 ## Appendix
-### Personal Risk Exposure
->> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV) - stupidly didn't screen for ticks at home and realized the tick late which increases the chance for the transmission tick borne pathogens. Borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis. - Initially there was a very mild illness which was followed by regular but slight back pain for a couple of months which mostly went away by now. TBEV can infect both the CNS and the bone marrow and *unlike* 'mRNA' vaccines, TBEV can cause life-long persistent infections.
+### TBEV Infections
+> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). Stupidly didn't screen for ticks at home and realized the tick late, which increases the chance for the transmission tick borne pathogens. Borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis. The initial illness was very mild which was followed by regular but slight back pain for a couple of months which mostly went away by now. TBEV can infect both the CNS and the bone marrow and *unlike* 'mRNA' vaccines, TBEV can cause life-long persistent infections.
 > 
->> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans [to check which type], but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections since wild type infections carry risks both short- and long-term, however they reliably protect against subsequent infection - which is useful if one loves to move through nature.
+> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans, but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections. Because 1) wild type infections reliably protect against subsequent infections; 2) however wild type infections have risks associated both short-term and long-term. TBEV protection is useful if one loves to move through nature.
 
->> The above example of TBEV, is to emphasize that quite common viral infections can be much much more risky than 'mRNA' vaccination. This relativizes the risks and helps factual discussions about the tropism of vaccines.
+> The above example of TBEV, is to emphasize that quite common viral infections can be much much more risky than 'mRNA' vaccination. This relativizes the risks and helps factual discussions about the tropism of vaccines.
 
->> * No point in worrying about past vaccination. Careful considerations about future ones - regardless whether 1st, 2nd, 3rd, 4rd, ... . 
->> * TBEV cases are few, so when 1 in 10 gets hit baldy the absolute numbers are still low. Vaccination is done for millions and even repeatedly. When 1 in 1000 shots causes adverse effects, the risk is quite low for individuals however the overall numbers would be high.
+> * No point in worrying about past vaccination. Careful considerations about future ones - regardless whether 1st, 2nd, 3rd, 4rd, ... . 
+> * TBEV cases are few, so when 1 in 10 gets hit baldy the absolute numbers are still low. Vaccination is done for millions and even repeatedly. When 1 in 1000 shots causes adverse effects, the risk is quite low for individuals however the overall numbers would be high.
 
 
 
