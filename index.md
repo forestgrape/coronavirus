@@ -82,7 +82,7 @@ There is also a rather subjective page in German with some comments on the Coron
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example some statements regarding the safety of vaccines were much to dramatic (and partly still are) - some were formulated in a different situation and with a different (narrower) audience in mind. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form happen on this page regularly.
+- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - quite a few of these were formulated in a different situation and with a different (narrower) audience in mind. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly.
   
 - 20/21/22.12. Help & Feedback of any kind, especially improvements suggestions, is always welcome (witotraub@gmail.com/@runbox.com).
 
