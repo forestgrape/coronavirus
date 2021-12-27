@@ -36,7 +36,7 @@ This section overviews the entire content. The [content section](#content) lists
 9. [Topics in Physics](#9-physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
 10. [Vaccines](#10-vaccines): Safety considerations.
 
-There is also a rather subjective page in German with some comments on the Corona Situation and Policy in Switzerland: <https://forestgrape.github.io/corona-ch/>
+
 
 
 ---
