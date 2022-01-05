@@ -82,7 +82,11 @@ This section overviews the entire content. The [content section](#content) lists
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - quite a few of these were formulated in a different situation and with a different (narrower) audience in mind. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly.
+- 5.1.22: Some updates in various chapters e.g.
+  - [Individual Transmission and Susceptibility](5_epidemiological/individual_susceptibility_and_transmission.md): Added evidence for the hypothesis that the average viral and the positivity rate are correlated (already online since 27.12.21).
+  - [Omicron Chapter](2_biological/omicron.md): Clarified summary and some references regarding the tropism and acquired immunity [still in work].
+
+- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - quite a few of these were formulated in a different situation and with a different (narrower) audience in mind. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly on this page.
   
 - 20/21/22.12. Help & Feedback of any kind, especially improvements suggestions, is always welcome (witotraub@gmail.com/@runbox.com).
 
@@ -96,6 +100,8 @@ This section overviews the entire content. The [content section](#content) lists
 
 - 7.12.(adapted 21.12.) Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft & @Gmail & @runbox for reliable web services. Thanks @everybody helping.
 - 7.12. Updated [Table of Content](#content).
+
+
 - 2.12. Clarifications across page and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md)
 - 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
 - 27.11.: Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.
