@@ -1,19 +1,21 @@
 # Antibodies
 
-> Mainly online for the references. Many of references are relevant for the chapter [Hypothesis on the Tropism of Omicron](../2_biological/omicron.md), where the possible of a changed tropism of the omicron variant and possible ADE effects are discussed.
+> Mainly online for the references and not yet announced in updates. Many of references are relevant for the chapter [Hypothesis on the Tropism of Omicron](../2_biological/omicron.md), where the possible of a changed tropism of the omicron variant and possible ADE effects are discussed.
 
-> **in work, subject to changes, to be checked**
+> **in early work**
+
+> **subject to changes, to be checked**
 
 
 
 ## Summary
 Antibodies are composed of two fragments: 
-* Fab (fragment antigen binding) which determines the specific antigens recognized.
-* Fc (fragment crystallizable) which determines structural properties, the kinetics and instruction for the immune system. 
+* F_ab (fragment antigen binding) which determines the specific antigens recognized.
+* F_c (fragment crystallizable) which determines structural properties, the kinetics and encodes instructions to the immune system. 
 
 Which antibody is produced depends on the immune stimulant and its locations. 
 
-Antibodies have different effector functions to handle antigens:
+Antibodies have direct effects by binding and thereby preventing the function (neutralizing activity) or by opsonizing the antigens for follow up handling.
 * _Neutralization:_ Antibodies can render the antigen incapable to function i.e. the antigen is neutralized. Examples:
   * an antibody to the RBD of coronavirus spikes can prevent the spike to bind to its target receptor. Antibodies with such effects are called neutralizing antibodies.
   * Antibodies can neutralized toxic enzymes [to confirm and cite].
@@ -24,13 +26,19 @@ Antibodies have different effector functions to handle antigens:
 
 
 ## Antibody Fragments
-Antibodies have two fragments and antigen binding fraction (called Fab for Fraction antigen binding) and immune instruction fraction (called Fc for fraction constant). The genes encoding the Fab are subject to somatic recombination and thereby new Fabs recognizing specific antigens are produced. The genes for the different Fc are constant throughout lifetime.
+Antibodies have two fragments and antigen binding fraction (called F_ab for fragment antigen binding) and immune instruction fraction (called Fc for fragment crystallizable). The genes encoding the F_ab undergo somatic recombination and thereby new F_abs recognizing specific antigens are produced. The genes for the different Fc are constant throughout lifetime.
 
 
 
 
 ## Antibody Classification and Immune Instructions
 The Fc fragment determines the antibody classification: Antibodies are grouped into classes (IgG, IgA, IgM and IgE) and sometimes additionally into subclasses (e.g. IgG1, IgG2 and IgG3 for IgG antibodies). Additionally the Fc fraction can have post-translational modifications such as glycosylation.
+
+### Literature Antibody Classes and Immune System Instructions
+* [de Taeye](#de-taeye) "The ligands for human IgG and their effector functions."
+* [Irani] "Molecular properties of human IgG subclasses and their implications for designing therapeutic monoclonal antibodies against infectious diseases"
+* [Hoepel] "IgG subclasses shape cytokine responses by human myeloid immune cells through differential metabolic reprogramming."
+
 
 ### IgG
 In the case of IgG, there are the subclasses IgG1, IgG2, IgG3 and IgG4. Each subclass in turn can have additional modifications e.g.  glycosylations. These properties determine to receptors the IgG antibody gets attached to.
@@ -47,10 +55,12 @@ In the case of IgG, there are the subclasses IgG1, IgG2, IgG3 and IgG4. Each sub
 ### Neutralization
 [in work]
 
+
+
 ### Change the Kinetics
 [in work]
 
-Antibodies can change the kinetics of bound antigens (mostly antibody class specific) i.e. how the antigen is distributed within the body. 
+Antibodies can change the kinetics of bound antigens (mostly antibody class specific) i.e. how the antigen is distributed within the body. E.g. IgM clumps antigens together and to some extent IgA [to confirm and cite].
 
 > The kinetics is also changed when the antigen is phagocytosed. Phagocytosis is discussed in [immune system instructions](#immune-system-instructions).
 
@@ -94,9 +104,15 @@ http://dx.doi.org/10.1016/j.molimm.2015.03.255
 #### Hoepel
 Hoepel, W., Allahverdiyeva, S., Harbiye, H., de Taeye, S. W., van der Ham, A. J., de Boer, L., ... & den Dunnen, J. (2020). IgG subclasses shape cytokine responses by human myeloid immune cells through differential metabolic reprogramming. The Journal of Immunology, 205(12), 3400-3407.
 
+
+
+
 ### Refs Antibody induced Phagocytosis
 #### Johnson
 Johnson M, Stockdale L, de Haan N, Wuhrer M, Nouta J, Koeleman CA, Clarke J, Marinou S, Shakya M, Colin-Jones R, Theiss-Nyland K. Association of Antibody-dependent neutrophil phagocytosis with distinct antibody glycosylation profiles following typhoid vaccination. Frontiers in Tropical Diseases. 2021 Sep 16:25.
+
+
+
 
 ### Antibodies in Virus Infections
 
@@ -106,6 +122,8 @@ van Erp EA, Luytjes W, Ferwerda G and van Kasteren PB (2019) Fc-Mediated Antibod
 #### Davis
 Longitudinal Analysis of the Human B Cell Response to Ebola Virus Infection
 Davis et al., 2019, Cell 177, 1566–1582 May 30, 2019 a 2019 Elsevier Inc. https://doi.org/10.1016/j.cell.2019.04.036
+
+
 
 
 ### References Antibodies to Tetanus Toxin
