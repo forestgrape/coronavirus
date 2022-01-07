@@ -53,21 +53,21 @@ Particulate content | particulate sensor | outdoor air quality, ventilation, hum
 
 
 ## Use Cases
-Well adjusted air in indoor rooms/businesses (hotels, restaurants, shopping malls) provides:
+Well adjusted air in indoor rooms/businesses (hotels, restaurants, shopping malls) helps to:
 * Reduce the overall burden of respiratory diseases.
-* Supporting a good customer experience. Which can marketed (especially if measured/certified).
+* Support a good customer experience and can marketed (especially if measured/certified).
 
 The optimal values and methods to achieve them depend on the settings:
 * Very strong ventilation can cause some noise, air streams and possibly lower the temperature.
 * Air cleaning can cause some noise.
 * Higher humidity and temperature values, which reduce the virion viability and the risk for severe infections, are comfortable in some settings while not in other settings.
 
-E.g. in fitness studios fresh and clean air is important due to deep inhaling, not only for Covid but for all pathogens and dirt particles. Ventilation and air cleaning are probably adequate options since some noise and some air stream are ok. When really really necessary, maxed ventilation should be possible even in winter since lower temperatures (e.g. 15 degrees) likely are tolerated as long as the customers are prepared.
+E.g. in fitness studios fresh and clean air is important due to deep inhaling, not only for Covid but for all pathogens and dirt particles. Ventilation and air cleaning are probably adequate options since some noise and some air stream are ok. When really really necessary, maxed ventilation should be possible even in winter since lower temperatures (e.g. 17 degrees) likely are tolerated as long as the customers are prepared.
 
 
 
 ## Summed up Benefits of Good Air
-Properties of the air we breath are determinants for the spread of Covid but also for the spread of many other respiratory diseases. Additionally pollutants can be health hazards and allergens cause discomfort. So 'good' air not only reduces the spread of Covid but also of many other respiratory infections and increases overall health.
+Properties of the air we breath are determinants for the spread of Covid but also for the spread of many other respiratory diseases. Additionally pollutants can be health hazards and allergens cause discomfort. All in all, 'good air' has beyond Corona many benefits. 
 
 
 
