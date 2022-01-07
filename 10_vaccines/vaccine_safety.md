@@ -281,13 +281,14 @@ Adenoviruses vaccines used adenoviruses rendered replication incapable but apart
 
 
 
+
 ## Appendix
 ### TBEV Infections
-> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). Stupidly didn't screen for ticks at home and realized the tick late, which increases the chance for the transmission tick borne pathogens. Borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis. The initial illness was very mild which was followed by regular but slight back pain for a couple of months which mostly went away by now - so I seem to have been lucky and come through without much sequela.
-> 
-> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans, but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections. Because 1) wild type infections reliably protect against subsequent infections; 2) however wild type infections have risks associated both short-term and long-term. TBEV protection is useful if one loves to move through nature.
+> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). Stupidly didn't screen for ticks afterwards and realized the tick late, which increases the chance for the transmission tick borne pathogens (Borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis). The initial illness was very mild which was followed by a regular but slight back pain for a couple of months which mostly went away by now - so I seem to have been lucky and come through without much sequela.
 
-> The above example of TBEV, is to emphasize that quite common viral infections can be much much more risky than 'mRNA' vaccination. TBEV can infect both the CNS and the bone marrow and *unlike* 'mRNA' vaccines, TBEV can cause life-long persistent infections. This relativizes the risks and helps factual discussions about the tropism of vaccines.
+> There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans, but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections. Because 1) wild type infections reliably protect against subsequent infections; however 2) wild type infections have risks associated both short-term and long-term. TBEV protection is useful if one loves to move through nature.
+
+> The above example of TBEV, is to emphasize that quite common viral infections can be much much more risky than 'mRNA' vaccination. TBEV can infect both the CNS and the bone marrow and *unlike* 'mRNA' vaccines TBEV can cause life-long persistent infections. This relativizes the risks and helps factual discussions about the tropism of vaccines.
 
 > * No point in worrying about past Covid vaccination. Careful weighting the risk versus the benefits for future ones - regardless whether 1st, 2nd, 3rd, 4rd, ... . 
 > * TBEV cases are few, so when 1 in 10 gets hit baldy the absolute numbers are still low. Vaccination is done for millions and even repeatedly. When 1 in 1000 shots causes adverse effects, the risk is low on a individual basis, however the overall numbers would be high.
