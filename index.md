@@ -82,9 +82,9 @@ This section overviews the entire content. The [content section](#content) lists
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
 
-- 5.1.22: Some updates in various chapters e.g.
+- 7.1.22: Some updates in various chapters e.g.
   - [Individual Transmission and Susceptibility](5_epidemiological/individual_susceptibility_and_transmission.md): Added evidence for the hypothesis that the average viral and the positivity rate are correlated (already online since 27.12.21).
-  - [Omicron Chapter](2_biological/omicron.md): Clarified summary and some references regarding the tropism and acquired immunity [still in work].
+  - [Omicron Chapter](2_biological/omicron.md): Summary updated: Omicron infects less the lungs, likely since it enters cells mainly via endosomal cathepsin primed pathways and through TMPRSS2 primed surface entry. A few month after vaccination the efficacy can turn negative. Both observations provide additional evidence for F_c mediated immune cell infection by escape of intracellular vehicles.
 
 - > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - quite a few of these were formulated in a different situation and with a different (narrower) audience in mind. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly on this page.
   
