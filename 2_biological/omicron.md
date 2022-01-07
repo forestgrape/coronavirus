@@ -7,6 +7,11 @@
 > **only summary and some refs are available**
 
 * [Summary](#summary)
+* [Hypotheses for the high Transmission Rates](#hypotheses-for-the-high-transmission-rates)
+  * [Hypothesis Immune Cell Infection](#hypothesis-immune-cell-infection)
+  * [Hypothesis Immune Escape Only](#hypothesis-immune-escape-only)
+  * [Likelihood of the Explanations](#likelihood-of-the-explanations)
+  * [Significance of a changed Tropism](#significance-of-a-changed-tropism)
 * [References](#references)
   * [Refs Biology of Omicron](#refs-biology-of-omicron)
   * [Refs Omicron Spike Computer based Simulations](#refs-omicron-spike-computer-based-simulations)
@@ -27,83 +32,35 @@
 
 ## Summary  
 
-##### Summarized Observations
 Omicron is a SARS-CoV-2 lineage. However it has features different from all previous lineages (usually referred as variants) of SARS-CoV-2:
 * *Symptoms:* Rather than a typical respiratory disease, there are reports for more systemic symptoms such as night sweets and tiredness. Cough is still observed though.
 * *Transmission:*
   * Previous infections provide a lower protection compared to the protection they provided against previous variants.
   * The transmission rate is much higher than observed for all previous variants. This is the case in many different settings: household transmission, social events and populations level increase in cases. Noteworthy, many locations where very high transmission rates are observed have high vaccination rates.
+* *Acquired Immunity:* The protection from acquired immunity is reduced compared to other SARS-CoV-2 lineages. For vaccines, initially there is  months there is even a negative efficacy is observed.
 * *Mutation Distribution:* Omicron has a lot of mutations in the spike of which a surprisingly large number in RBD. In the NTD part of the spike there is also an insertion which hasn't been seen before. NSP6 mutated also at an increased mutation rate. The mutation rate in the other genes seems to be at a comparative level as observed for other variants.
 * *Biology of Omicron*
-  * *Observations for the Cell Tropism and Entry:* Omicron enters cells mainly through the endosomal pathways where the priming occurs by endosomal proteases such as cathepsins. However Omicron is not well primed at the cells surface by TMPRSS2. Accordingly Omicron infects mainly cells where an endosomal entry is possible. SARS-CoV-2 infects lungs cells mainly through the cell surface pathway by TMPRSS2 priming, since e.g. the Delta variant uses the surface TMPRSS2 pathway better, the delta variant infects lungs cells better than Omicron.
+  * *Observations for the Cell Tropism and Entry:* Omicron enters cells mainly through the endosomal pathways where the priming occurs by endosomal proteases such as cathepsins. Omicron is not well primed at the cells surface by TMPRSS2. Accordingly Omicron infects cells through by the endosomal pathway where the spike is primed by cathepsins. Since lungs cells support mainly the cell surface pathway with TMPRSS2 priming, other lineages such as Delta infects lungs cells much better than Omicron. Also cell cell fusion requires cell surface priming of the spike e.g. by TMPRSS2 and accordingly Omicron hardly induces cell fusion.
   * *Observed Tissue Tropism:* In agreement with the cell tropism, Omicron infects less the lungs than the previous variants as animal experiments and the observed disease patterns indicate.
 
+ A central part of this chapter, is the hypothesis that Omicron can replicate in immune cells such as macrophages. Antibodies inducing phagocytosis then can increase the infection rate when Omicron infects the phagocytes. Such an immune cell tropism would explain many observations such as the high attack rates (immune cells actively take up virions), the changed symptoms (immune cell produce different cytokines) and increased infection rates a few months after systemic immunization. The explanation that Omicron escapes of spike targeting antibodies, just can explain an competition advantage over delta in populations with high antibody based immunity.
 
-##### Possible Explanations of High Transmission
-In the following two possible explanations for these observations are outlined. Explanation 1 states the hypothesis that Omicron has a changed tropism and can replicate in immune cells such as macrophages. This is a speculative hypothesis. Explanation 2 is close to the standard explanation stated: Omicron mutated to escape spike targeting antibodies. The immune escape gained yields a  transmission advantage.
+> As noted F_c antibodies seem to enhance the probability of infection and possibly also enhance the disease. However other parts of acquired immunity such as T cells still protect and ameliorate the disease. This explains observations that upon infection, acquired immunity still has protective effect against severe disease. Natural infection induces both local and systemic T cells, while intramuscular vaccination mostly induces systemic T cells.
 
-###### Hypothesis Immune Cell Infection
-*How an altered Tropism explains the Observations*
-
-One possible observation for the above observations, is a shift of tropism away from differentiated respiratory tract epithelial cells towards immune cells such as macrophages:
-* *Symptoms:* Symptoms such as night sweets and tiredness are frequently observed for microorganisms infecting macrophages such as HIV, some flaviviruses and tuberculosis.
-* *Transmission:* The higher infection rates can be explained by S targeting antibody mediated infection enhancement (AIE): Virions opsonized with S targeting antibodies are taken up by phagocytes such as macrophages (F_c induced phagocytosis). 
-  * *Natural Infections:* The lowered but still available protections from previous infections can be explained as follows while AIE increases the infection rate however the T cells and antibody induced cellular cytotoxicity (antibodies targeting e.g. the S2 part of S, the N protein or some NSPs) still provide protection throughout the respiratory tract. 
-  * *Vaccines:* The very high transmission rate in settings with a high rate of vaccinated can be explained by antibody enhanced infection (AIE) i.e. the antibodies mark the virions for phagocytosis and the Omicron is able to escape the intracellular vehicles and infect the phagocytes. Systemic T cells still provide protection e.g. in the lungs and in the blood, therefore there is still a protection against severe disease. While initially the vaccines provide protection, after a few months an increase risk of infection is observed compared to unvaccinated, this also supports AIE by the F_c induced phagocytosis since the antibody types inducing phagocytosis decrease slower than the neutralizing activity and antibodies inducing cytotoxicity [to check and cite]. 
-* *Mutation Distribution:* The spike of coronaviruses is a key determinant which cells they enter and a changed tropism would explain the high number of mutations. The mutation distribution with many mutation in the RBD indicates a relaxed evolutionary pressure on the RBD, alternate entry pathways could have enable this high mutation rate. The insertion in NTD of domain of the spike is possibly acquired from the human coronavirus E229, a human coronavirus which frequently enters macrophages. NSP6 infers with autophagy pathways, so mutations in this protein possibly enable escape from intracellular vehicles (possibly endosomes in phagocytes, to check).
-
->> Antibody dependent disease enhancement (ADE) denotes when antibodies increase the disease. ADE is mainly observed for RNA+ viruses such as flaviviruses (e.g. dengue virus) and some coronaviruses (e.g. feline coronavirus). ADE can be due to antibody induced infection enhancement (AIE) i.e. higher viral loads, an increase immune pathology without increased viral loads or both combined. Here AIE used, since the observations indicate that the infection probability is increased by spike targeting antibodies. 
-
-> The effects of the different kinds of acquired immunity on the overall disease burden from Omicron infections are currently to some extent unclear. The symptoms seem to be different as noted and early data indicate, that the antibodies themselves enhance the probability of infection. This could result in a disease enhancement so there there would be an ADE effect. However other parts of acquired immunity such as T cells may ameliorate the disease. Therefore it is possible that overall acquired immunity still has protective effect against severe disease; the effects likely depend on the exact type of acquired immunity i.e. the type of vaccine or natural infection.
-
-A change of tropism towards macrophages is possible in theory since other human coronaviruses such as MERS and E229 can infect and replicate inside macrophages. Additionally a tropism for macrophages is observed for animal coronaviruses. Arteriviruses which also belong to the order of Nidovirales and share key molecular features even mainly have a tropism for myeloid immune cells [to confirm and cite].
-
-###### Hypothesis Immune Escape Only
-*How Escape of Spike binding Antibodies could explain the Observations*
-
-The spike mutations enable Omicron to escape spike binding antibodies: Antibodies induced by previous variants or by vaccines based on previous variants bind much less to the Omicron spike than all other lineages so fare. This reduces the protection by spike targeting antibodies. 
-* For muscular administrated vaccines, for which spike targeting antibodies are likely central to the immunity in the conducting respiratory tract, the protection against infection in the conducting airways likely significantly decreases or even vanishes (a protection in the lungs,i.e. against pneumonia, through circulating T cells recognizing conserved epitopes in the S2 part of the spike is still excepted). 
-* For naturally acquired immunity a reduction of protection occurs since one part of natural immunity are spike targeting antibodies. The magnitude of this effect depends how important spike targeting antibodies are for naturally acquired immunity.
+> Initially this chapter was posted to argue a changed tropism of Omicron towards immune cell infection. This hypothesis is still part of the chapter, though the chapter underwent major reworkings and more content has been added.
 
 
-##### Likelihood of the Explanations
-###### Likelihood by Immune Protection Mechanism
-The likelihood of the possible explanations depends by which mechanism(s) the acquired immunity works both for vaccines and natural infections. Acquired immunity can protect through:
-* Antibody mediated immunity. Antibodies can provide protection through neutralizing activity (spike binding only and mostly RBD) and by opsonizing to virions for phagocytosis (spike binding only), antibody-dependent cellular cytotoxicity (Chapter [Antibodies](../4_immunological/antibodies.md)) or induce an other immune mechanisms such as the complement or cytokines production. 
-* T cells mediated immunity. One form of protection by T cell immunity are cytotoxic CD8 cells which detect and eliminate infected cells. In the conducting airways (bronchi, trachea, to some extent URT) these are mostly tissue resident T cells [to confirm and cite]. The alveoli are additionally supervised by T cells circulating in the blood [to cite].
-
-For coronavirus immunity all the above mechanism are observed. The relative importance of the different mechanisms is not quite clear (yet) however. Natural infection induce both antibodies and tissue resident T cells. There is good evidence that tissue resident T cells play an important role. Explanation 2 though, is only likely when the protection is predominately provided by spike binding antibodies, else there is not reason that Omicron escapes natural immunity significantly better than other variants: 1) Omicron just mutated much in the outer part of the spike but not in other antigenic sites targeted by naturally acquired immunity such as the N and the E protein. 2) for the previous variants such as alpha, beta and delta hardly any protection reduction of natural immunity has been observed despite these variants also have some escape mutations. 
-
-=> *[Hypothesis immune escape only](#hypothesis-immune-escape-only)* is unlikely.
-
-###### Likelihood by the observed Transmission Rates
-The extremely high attack rates observed e.g. at single dinner over 70% of the participants got infected. Such high attack rates are more likely and enabled for viruses infecting immune cells: The infections do not depend anymore on the virus randomly match with an epithelial cell but rather the immune cells actively take up the virions.
-
-> Virions getting moved in the respiratory tract and infection upon matched with a suitable cells is like throwing balls at random and see how many hit go into the goal. When virions can infect collecting immune cells, the virions are still are subject to movements they can't control, however the immune cells actively move around and collect them. => Each collected virion is a potentially a goal from a virus perspective. 
-
-=> *[Hypothesis Immune Cell Infection](#hypothesis-immune-cell-infection)* is likely.
-
-
-##### Summarized Significance
-A change of tropism towards immune cells and upper respiratory tract cells changes the disease cause profoundly:
-* Acquired immunity is not necessarily helpful anymore. Since if Omicron can replicate well in immune cells, antibody mediated uptake can yield to an increased replication which is a form of antibody-dependent enhancement (ADE).
-* The disease course can change: 
-  * Epithelial cell infections can go unnoticed until a high viral is reached. A very high number of viruses in the lungs, in the late stage of the disease, then can cause ARDS mainly through inflammation. This is the main disease pattern observed for SARS-CoV-2 variants until Omicron.
-  * Viruses infecting immune cells usually cause symptoms earlier since immune cells have quite sensitive pathogen recognition receptors, however the viruses can travel with immune cells, cause systemic disease and infect various locations throughout the body. 
-  > (speculative comment) For immunized people, cross reactive T cells likely prevent a systemic spread and keep the infections localized to the respiratory tract. Cross reactive T cells are induced by natural infection and most (all?) approved Covid vaccines ('mRNA' vaccines, adeno virus vaccines and inactivated virus vaccines all induce a solid T cell immunity [to cite]). For people without antibodies, Omicron may not be able to infect immune cells well and thus an infection is possibly less likely. Additionally 1) the epithelial cell layer may prevent a systemic spread since coronavirus virions are quite large, 2) Omicron has acquired this tropism fairly recently and possibly cannot (yet) evade the strong immune cell detection mechanisms well.
-  
-The SARS-like disease patterns could disappear and omicron induced disease could become prevalent. 
 
 <!--
-
-## Transmission of Omicron
+## Epidemiological Observations
+### Transmission Rates
 > in work, to complete and to check
 
 * In South Africa the Omicron wave is steeper than the previous waves <https://www.economist.com/graphic-detail/2021/12/11/early-data-on-omicron-show-surging-cases-but-milder-symptoms> 
 * In Scotland the numbers doubling every few days.
   * <https://www.gov.scot/publications/omicron-scotland-evidence-paper/> 
   * <https://www.bbc.com/news/uk-scotland-59610582>
-* Extremely high attack rates observed in social events:
+* Very high attack rates of more than 70% are observed:
   * Christmas Dinner in Norway with a high vaccination rate among the participants: <https://www.fhi.no/en/news/2021/preliminary-findings-from-outbreak-investigation-after-christmas-party-in-o/>)
 
 
@@ -119,6 +76,67 @@ The SARS-like disease patterns could disappear and omicron induced disease could
 //Coronavirus Infections of Immune Cells
 
 -->
+
+
+
+
+## Hypotheses for the high Transmission Rates
+
+### Hypothesis Immune Cell Infection
+*How an altered Tropism explains the Observations*
+
+One possible observation for the above observations, is a shift of tropism away from differentiated respiratory tract epithelial cells towards immune cells such as macrophages:
+* *Symptoms:* Symptoms such as night sweets and tiredness are frequently observed for microorganisms infecting macrophages such as HIV, some flaviviruses and tuberculosis.
+* *Transmission:* The higher infection rates can be explained by S targeting antibody mediated infection enhancement (AIE): Virions opsonized with S targeting antibodies are taken up by phagocytes such as macrophages (F_c induced phagocytosis).
+* *Acquired Immunity:* 
+  * *Natural Infections:* The lowered but still available protections from previous infections can be explained as follows while AIE increases the infection rate however the T cells and antibody induced cellular cytotoxicity (antibodies targeting e.g. the S2 part of S, the N protein or some NSPs) still provide protection both systemic and throughout the respiratory tract. 
+  * *Vaccines:* While in the first weeks the vaccines provide protection against infection, after a few months an increased risk of infection is observed compared to unvaccinated. This suggests AIE by F_c induced phagocytosis since the antibody types inducing phagocytosis decrease slower than the neutralizing activity and antibodies inducing cytotoxicity. That despite AIE the diseases mostly are neither severe nor systemic is possibly due to systemic T cells protecting the alveoli, the lymph system and the blood.
+* *Mutation Distribution:* The spike of coronaviruses is a key determinant which cells they enter and a changed tropism would explain the high number of mutations. The mutation distribution with many mutation in the RBD indicates a relaxed evolutionary pressure on the RBD, alternate entry pathways could have enable this high mutation rate. The insertion in NTD of domain of the spike is possibly acquired from the human coronavirus E229, a human coronavirus which frequently enters macrophages. NSP6 infers with autophagy pathways, so mutations in this protein possibly enable escape from intracellular vehicles (possibly endosomes in phagocytes, to check).
+
+>> Antibody dependent disease enhancement (ADE) denotes when antibodies increase the disease. ADE is mainly observed for RNA+ viruses such as flaviviruses (e.g. dengue virus) and some coronaviruses (e.g. feline coronavirus). ADE can be due to antibody induced infection enhancement (AIE) i.e. higher viral loads, an increase immune pathology without increased viral loads or both combined. Here AIE used, since the observations indicate that the infection probability is increased by spike targeting antibodies.
+
+
+A change of tropism towards macrophages is possible in theory since other human coronaviruses such as MERS and E229 can infect and replicate inside macrophages. Additionally a tropism for macrophages is observed for animal coronaviruses. Arteriviruses which also belong to the order of Nidovirales and share key molecular features even mainly have a tropism for myeloid immune cells [to confirm and cite].
+
+
+### Hypothesis Immune Escape Only
+*How Escape of Spike binding Antibodies could explain the Observations*
+
+The spike mutations enable Omicron to escape spike binding antibodies: Antibodies induced by previous variants or by vaccines based on previous variants bind much less to the Omicron spike than all other lineages so fare. This reduces the protection by spike targeting antibodies. 
+* For muscular administrated vaccines, for which spike targeting antibodies are likely central to the immunity in the conducting respiratory tract, the protection against infection in the conducting airways likely significantly decreases or even vanishes (a protection in the lungs,i.e. against pneumonia, through circulating T cells recognizing conserved epitopes in the S2 part of the spike is still excepted). 
+* For naturally acquired immunity a reduction of protection occurs since one part of natural immunity are spike targeting antibodies. The magnitude of this effect depends how important spike targeting antibodies are for naturally acquired immunity.
+
+
+### Likelihood of the Explanations
+#### Likelihood by Immune Protection Mechanism
+The likelihood of the possible explanations depends by which mechanism(s) the acquired immunity works both for vaccines and natural infections. Acquired immunity can protect through:
+* Antibody mediated immunity. Antibodies can provide protection through neutralizing activity (spike binding only and mostly RBD) and by opsonizing to virions for phagocytosis (spike binding only), antibody-dependent cellular cytotoxicity (Chapter [Antibodies](../4_immunological/antibodies.md)) or induce an other immune mechanisms such as the complement or cytokines production. 
+* T cells mediated immunity. One form of protection by T cell immunity are cytotoxic CD8 cells which detect and eliminate infected cells. In the conducting airways (bronchi, trachea, to some extent URT) these are mostly tissue resident T cells [to confirm and cite]. The alveoli are additionally supervised by T cells circulating in the blood [to cite].
+
+For coronavirus immunity all the above mechanism are observed. The relative importance of the different mechanisms is not quite clear (yet) however. Natural infection induce both antibodies and tissue resident T cells. There is good evidence that tissue resident T cells play an important role. Explanation 2 though, is only likely when the protection is predominately provided by spike binding antibodies, else there is not reason that Omicron escapes natural immunity significantly better than other variants: 1) Omicron just mutated much in the outer part of the spike but not in other antigenic sites targeted by naturally acquired immunity such as the N and the E protein. 2) for the previous variants such as alpha, beta and delta hardly any protection reduction of natural immunity has been observed despite these variants also have some escape mutations. 
+
+=> *[Hypothesis immune escape only](#hypothesis-immune-escape-only)* is unlikely.
+
+#### Likelihood by the observed Transmission Rates
+The extremely high attack rates observed e.g. at single dinner over 70% of the participants got infected. Such high attack rates are more likely and enabled for viruses infecting immune cells: The infections do not depend anymore on the virus randomly match with an epithelial cell but rather the immune cells actively take up the virions.
+
+> Virions getting moved in the respiratory tract and infection upon matched with a suitable cells is like throwing balls at random and see how many hit go into the goal. When virions can infect collecting immune cells, the virions are still are subject to movements they can't control, however the immune cells actively move around and collect them. => Each collected virion is a potentially a goal from a virus perspective. 
+
+=> *[Hypothesis Immune Cell Infection](#hypothesis-immune-cell-infection)* is likely.
+
+
+### Significance of a changed Tropism
+A change of tropism towards immune cells and upper respiratory tract cells changes the disease cause profoundly:
+* Acquired immunity is not necessarily helpful anymore. Since if Omicron can replicate well in immune cells, antibody mediated uptake can yield to an increased replication which is a form of antibody-dependent enhancement (ADE).
+* The disease course can change: 
+  * Epithelial cell infections can go unnoticed until a high viral is reached. A very high number of viruses in the lungs, in the late stage of the disease, then can cause ARDS mainly through inflammation. This is the main disease pattern observed for SARS-CoV-2 variants until Omicron.
+  * Viruses infecting immune cells usually cause symptoms earlier since immune cells have quite sensitive pathogen recognition receptors, however the viruses can travel with immune cells, cause systemic disease and infect various locations throughout the body. 
+  > (speculative comment) For immunized people, cross reactive T cells likely prevent a systemic spread and keep the infections localized to the respiratory tract. Cross reactive T cells are induced by natural infection and most (all?) approved Covid vaccines ('mRNA' vaccines, adeno virus vaccines and inactivated virus vaccines all induce a solid T cell immunity [to cite]). For people without antibodies, Omicron may not be able to infect immune cells well and thus an infection is possibly less likely. Additionally 1) the epithelial cell layer may prevent a systemic spread since coronavirus virions are quite large, 2) Omicron has acquired this tropism fairly recently and possibly cannot (yet) evade the strong immune cell detection mechanisms well.
+  
+The SARS-like disease patterns could disappear and omicron induced disease could become prevalent. 
+
+
+
 
 ## References
 
@@ -177,9 +195,23 @@ Marais, G. J. K., Hsiao, N. Y., Iranzadeh, A., Doolabh, D., Enoch, A., Chu, C. Y
 #### Zhao
 Zhao H, Lu L, Peng Z, Chen LL, Meng X, Zhang C, Ip JD, Chan WM, Chu AW, Chan KH, Jin DY. SARS-CoV-2 Omicron variant shows less efficient replication and fusion activity when compared with delta variant in TMPRSS2-expressed cells: Omicron variant replication kinetics. Emerging Microbes & Infections. 2021 Dec 27(just-accepted):1-8.
 
-#### Willett
+#### Summary Willett
 *The hyper-transmissible SARS-CoV-2 Omicron variant exhibits significant antigenic change,vaccine escape and a switch in cell entry mechanism*
 <https://www.gla.ac.uk/media/Media_829360_smxx.pdf>
+
+> The study does bundles different laboratory and epidemiological investigations, there the findings are grouped by investigations type (and not by methods/results as normally)
+
+> In work
+
+__Antibody Binding:__
+Omicron escapes antibodies well
+
+__Acquired Immunity Effects:__
+The vaccines effects are determined by test-negative case control design.s
+
+__Cell Entry Route:__
+Omicron enters mostly through the endosomal activated by cathepsins and not through the cell surface route activated by TMPRSS2.
+
 
 
 ### Refs Animal Models
@@ -220,7 +252,7 @@ Structural-bioinformatics analysis of SARS-CoV-2 variants reveals higher hACE2 r
 CoVariants. Variant: 21K (Omicron). 2021. Accessed December
 21, 2021. https://covariants.org/variants/21K.Omicron
 
-> "Spinoff" from the next-strain project by E. Hodcroft et al. Contains notes and links about Omicron and other variants (incl all named variants).
+> "Spinoff" from the next-strain project. Contains notes and links about Omicron and other variants (incl all named variants).
 
 
 #### Venkatakrishnan
