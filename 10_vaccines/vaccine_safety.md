@@ -1,21 +1,18 @@
 # Vaccine Safety and (open?) Questions
 
-> __Rolling publication__ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. Safety is relative: for risk persons of old age, no short term adverse effects is enough for vaccines to be much safer than to catch possibly life-threating Covid. However for young for whom Covid is mostly similar to common cold or a flu, just knowing there are no serious adverse and diagnoseable effects in the next months, does not at all mean a vaccine is safe.
+> __Rolling publication__ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. Safety is relative: for risk persons of old age, no short term adverse effects is enough for vaccines to be much safer than to catch possibly life-threating Covid. However for young, just knowing there are no serious adverse and diagnoseable effects in the next months, does not mean a vaccine is safe. For young, Covid is mostly similar to common cold or a flu. So the risk estimation is rare adverse events from Covid versus rare and/or speculative adverse effects from vaccination. Possibilities of rare and/or speculative adverse events are the topic of this page.
 
-> The adverse effects below are **speculative** and if they should occur they likely will occur only rarely but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. People may have possibly long lasting adverse effects or even die for a supposed considerate and safe action. // I read on the 12.6.21 about a 18 year old person who died due to thrombosis likely because of vaccination, which pushed me to go out with the speculative concerns below.
+> The adverse effects below are **speculative** and if they should occur they likely will occur only rarely but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. People may have possibly long lasting adverse effects or even die for a supposed considerate and safe action. // On the 12.6.21, news papers mentioned a case of a 18 year old person who died due to thrombosis likely because of vaccination, which was a push to publish the speculative concerns below.
 
-> My knowledge of adenoviruses and how transfected RNA works and what it can cause is very limited. However anybody understands RNA?  RNA can do a lot. RNA is often set equal to mRNA which is translated to proteins. RNA is much more and only a small fraction all RNA is translated to proteins. Most RNA has regulatory or enzymatic functions. E.g. RNA is used by the cells for communication, RNA regulates the translation of mRNA and many cell intern enzymes are RNA. Also the properties of RNA vary with the functions: E.g. the life time of mRNA produced in the nucleus is usually short: One break is usually enough to prevent the translation to the functional protein and mRNA is strictly regulated which includes the lifetime. In general however, RNA can have a long life time: E.g. RNA ribosomes largely consists of RNA. Many viruses including coronaviruses and influenza encode their genome in RNA.
+> Adenoviruses and how transfected RNA works are currently not main topic of this page and in depth treatment and understanding of RNA is lacked here. However anybody understands RNA?  RNA can do a lot. RNA is often set equal to the messenger RNA (mRNA) which is transcribed from DNA and after a variety of processing steps is translated to proteins. However most RNA has regulatory or enzymatic functions such as: RNA is used by cells for communication, RNA regulates the translation of mRNA and many cell intern enzymes are RNA. Also the properties of RNA vary with the functions. For example the life time of mRNA produced in the nucleus is usually limited since 1)mRNA is strictly regulated and 2) one break can prevent the translation to the functional protein. In general however, the life time of RNA varies. For example the RNA ribosomes largely consists of RNA and such these tend to live much longer than mRNA. The of RNA of RNA viruses including coronaviruses and influenza also tends to be more stable, even though in the case of most (all?) RNA+ stranded virus, the RNA is translated by ribosomes and thus acts as mRNA.
 
-
-> I am thankful to be informed when and which of the points below are wrong or the safety regarding them is known.
-
-
+> Information for which of the speculations below the safety is known (both safe and unsafe) is appreciated.
 
 > __entire page is in work and speculative__
 
 
 
-> ##### Comment 9.12. (adapted 19./24.12.21)
+> ##### Comment 9.12. (adapted 19./24.12.21/8.1.22)
 > (originally published in the updated section)
 > The formulations in this chapter are often *dramatic*. (20.12. changes to more factual formulations in work)
 > * Once to motivate investigations/publications on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified/published. 
@@ -23,16 +20,18 @@
 
 > Many mentioned of the speculative even if they should occur are likely rare, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether a draining lymph or a tiny blood vessel is hit.
 
-> In my opinion, the current spike targeting vaccines are not ideal for epidemiological reasons since the spike undergoes frequent mutations which can yield to escape forms and even changes of the tropism. So for epidemiological reasons alone a stop of vaccinating those not at risk for severe Covid can be considered. For people at risk for severe Covid any vaccination which provides protection against severe Covid is recommended though.
+> In my opinion, the current spike targeting vaccines are not ideal for epidemiological reasons since the outer part of spike mutates frequently is a determinant for the tropism. The frequent mutations make escape forms likely and many mutations can change the tropism. A change in tropism can change the disease pattern - positive and negative. From an epidemiological perspective it is not obvious whether anti-spike immunizing those not at risk has advantages. From an individual perspective, it is a weighting of possible adverse effects versus the protection provided. For people at risk for severe Covid, vaccination is recommended though. 
 
 > The speculative adverse effects below are most relevant for children or repeated vaccination.
 
 > 9.12. *Transparency of adverse Effects:* If it there would known that there are previously unknown/unpublished adverse events from the vaccines, in my opinion the most important is to go transparently public. 
-> * A fond for the affected could be founded. 
-> * Supervision and if necessary treatments and other precautions measures could be initiated for those affected. 
-> * Trying to hide possible adverse effect could have extremely high costs both within and between societies and countries - and the world in the long run. To costs likely scale with time.
+> * A fond for the affected could be founded. // Founding should be possible e.g. (direct or even indirect) profits and possibly scaled through an insurance. 
+> * Supervision and if necessary treatments and other precautions measures could be initiated if it would be necessary and helpful.
+> * Trying to hide possible adverse effect could have high costs both within and between societies and countries - and the world. To costs likely scale with time.
 
 > 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
+
+
 
 * [Summary](#summary)
 * [Recent Updates](#recent-updates)
