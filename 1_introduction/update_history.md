@@ -11,6 +11,18 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 > Note: Not all links work since the page structure has changed.
 
 
+
+- 12.7. How a SARS-CoV-2 variant can have a competition advantage by infecting faster or by immune evasion even without having a higher transmissibility (defined as the average R value): [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
+- 13./14.6. [General Chapter on Vaccination](10_vaccines/immunization.md)
+- 12./13.6. [Vaccine Safety Questions](10_vaccines/vaccine_safety.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
+  > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
+
+  > In temperate climates on the northern hemisphere, there is no need to rush vaccinating the healthy and young.
+  
+  > Risk groups in risk regions (e.g. countries in the Southern hemisphere) will thank for vaccines now. Later can be to late.
+
+- 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources.
+
 - 12.5. [Aggregation of Atoms](9_physics/aggregations_of_atoms.md) page to provide context to topics such as condensation & evaporation and efflorescence.
 - 23.3. [Temperature and Humidity Modulation](6_prevention_and_treatment/temperature_modulation.md) is proposed as a topical treatment. It reduces the number of infectious virions and optimize the immune response. There is solid biological and epidemiological evidence that it works if used early on! (explorative)
 - 23.3. Proposal of [Local Treatments of the Respiratory Tract](6_prevention_and_treatment/topical_treatment.md) to cure respiratory infections including Covid. Coronaviruses live on the surface of the respiratory tract and release their progeny as delicate virions to the covering fluids. The idea is to reduce these virions by local treatments. Similar as we disinfect wounds - the medications need to be adapted of course. (explorative)
@@ -89,6 +101,16 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
     3. Upright clearance evolved when we all were in warm and mostly humid parts of Africa (well it likely got a little drier in the winter months and savanna replaced rainforest in East Africa, so we had motivation to stand up more and more). In such humid environments, clearance works better. In evolutionary dimensions, there has been only a short time for the adaption to cold and dry climate (how much depends on the overall drive for adaption, which isn't straight forward to say since migration routes have twists, crossings and turns, desert nights tend to be cold around the world and lifestyles were and are different). To a permanent stay in heated indoor spaces, there has been and no genetic adaption at all.
 
 ## Minor Updates
+- 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
+- 13.-15.11.: Formulations. Some formulations changed back and forth.
+  > *When rules restrict individuals based on R values or even without medical basis - both is in general firmly opposed on this page -, conciseness and directness are the focus.*
+- 12.11.: Updates across the page, for example: added pictures to [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md).
+- 12.9.: [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md) clarified and extended.
+- 9.9. Many small changes across the page and a new chapter added: [Recent Topics added](#recent-topics-added).
+- 5.9.: New brainstorming [Chapter on Air Quality](7_social/good_air.md). How to measure, achieve and certify the air quality.
+- 1.9.: Added some references that a lifestyle [movement](6_prevention_and_treatment/movement.md) helps to prevent severe Covid.
+- 27.8.: New Accompanying Page which contains situations estimates/analyses for Switzerland: <https://forestgrape.github.io/corona-ch/> (Page in German)
+- 27.8.: Section [Outdoors is Safer](7_social/controlling.md#outdoors-is-safer) on the controlling page clarified.
 - 24.8.: General notes on data handling moved to its own page [Data](8_data/data.md) (previously section on monitoring.md or scattered remarks).
 - 24.8.: A new page [Situation Assessments](1_introduction/situation_assessments.md) grouping the previously scattered situation assessments.
 - 22.8.: Many updates and clarifications across the page. E.g.
