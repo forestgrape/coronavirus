@@ -63,20 +63,10 @@ This section overviews the entire content. The [content section](#content) lists
 
 - 9.9. [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md): How the immune system developes during lifetime and how the pathogen exposures induce immune adaptions which are often localized. During childhood SARS-CoV-2 is just another new virus as each virus is encountered once for the first time. With increasing age the immune system increasingly relies on the previously seen pathogens and looses capabilities to handle new viruses.
 
-  > Early online due to its relevance for acute questions such as whether to vaccinate children or to close schools.
+  > Early online due to its relevance for questions such as whether to vaccinate children or to close schools.
 
-  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity upon SARS-CoV-2 Infections and the wanted and unwanted Effects of the currently available/used vaccines). One goal is to contribute to the scientific foundations to estimate for whom the currently available vaccines are adequate and useful. 
+  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity upon SARS-CoV-2 Infections and the wanted and unwanted Effects of the currently available/used vaccines). One goal is to contribute to scientific foundations for rational vaccines recommendations.
 
-- 12.7. How a SARS-CoV-2 variant can have a competition advantage by infecting faster or by immune evasion even without having a higher transmissibility (defined as the average R value): [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
-- 13./14.6. [General Chapter on Vaccination](10_vaccines/immunization.md)
-- 12./13.6. [Vaccine Safety Questions](10_vaccines/vaccine_safety.md): Open question and assessment of vaccines safety. It is argued that symptom watching is mostly not enough to ensure safety.
-  > The chapter is rolling release since healthy and young people and even children are motivated or even pressured to get highly experimental (neither sufficiently disclosed, nor understood nor investigated) first generation 'mRNA' vaccines. Subtle but life-long adverse effects are possibly in theory.
-
-  > In temperate climates on the northern hemisphere, there is no need to rush vaccinating the healthy and young.
-  
-  > Risk groups in risk regions (e.g. countries in the Southern hemisphere) will thank for vaccines now. Later can be to late.
-
-- 9.6. [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources.
 
 ### Recent Updates
 
@@ -86,9 +76,9 @@ This section overviews the entire content. The [content section](#content) lists
   - [Individual Transmission and Susceptibility](5_epidemiological/individual_susceptibility_and_transmission.md): Added evidence for the hypothesis that the average viral and the positivity rate are correlated (already online since 27.12.21).
   - [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show that lung cells are less susceptible to Omicron - likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for the hypothesis of immune cell infection.
 
-- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - quite a few of these were formulated in a different situation and with a different (narrower) audience in mind. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly on this page.
+- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - quite a few of these were formulated in a different situation. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly on this page.
   
-- 20/21/22.12. Help & Feedback of any kind, especially improvements suggestions, is always welcome (witotraub@gmail.com/@runbox.com).
+- 20/21/22.12. Help & Feedback of any kind, especially improvements suggestions including pointing out mistakes, is always welcome (witotraub@gmail.com/@runbox.com).
 
 - 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to [Recent Topics](#recent-topics-added).
 
@@ -103,20 +93,9 @@ This section overviews the entire content. The [content section](#content) lists
 
 
 - 2.12. Clarifications across page and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md)
-- 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
-- 27.11.: Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.
-- 14./15.11.: Fixed some mistakes. E.g. in [immuno assyas](./3_medical/immuno_assyas.md), some scrolling error, many spelling mistakes. Clarifications in [viruses](./2_biological/viruses.md) and [coronaviruses](2_biological/coronavirus.md) (ongoing work).
-- 13.-15.11.: Formulations. Some formulations changed back and forth.
-  > *When rules restrict individuals based on R values or even without medical basis - both is in general firmly opposed on this page -, conciseness and directness are the focus.*
-- 12.11.: Updates across the page, for example: added pictures to [Diagnosis and Viral Load](3_medical/diagnosis_and_viral_load.md).
-- 12.9.: [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md) clarified and extended.
-- 9.9. Many small changes across the page and a new chapter added: [Recent Topics added](#recent-topics-added).
-- 5.9.: New brainstorming [Chapter on Air Quality](7_social/good_air.md). How to measure, achieve and certify the air quality.
-- 1.9.: Added some references that a lifestyle [movement](6_prevention_and_treatment/movement.md) helps to prevent severe Covid.
-- 27.8.: New Accompanying Page which contains situations estimates/analyses for Switzerland: <https://forestgrape.github.io/corona-ch/> (Page in German)
-- 27.8.: Section [Outdoors is Safer](7_social/controlling.md#outdoors-is-safer) on the controlling page clarified.
-* [-> Full Update History](./1_introduction/update_history.md)
 
+- 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
+- 27.11.: Note: *Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.*
 
 
 ---
