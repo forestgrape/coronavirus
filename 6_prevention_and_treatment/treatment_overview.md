@@ -1,6 +1,8 @@
 # Prevention and Treatment Overview
 
-> mostly treatments discussed on this page are mentioned (which are very few currently).
+> mainly treatments discussed on this page are mentioned (which are very few currently).
+
+> Treatments for Omicron may differ to some extent since the disease cause is different.
 
 
 ## Steady State Prevention
@@ -8,7 +10,7 @@
 * Vaccination (systemic vaccination only for risk groups)
 
 ## Upon Exposure Prevention
-Upon exposure or at high incidence prevention methods are meant to be started using upon exposure to a Covid case or at very high incidence rates of Covid.
+Upon exposure or at high incidence prevention methods.
 
 * [Systemic or topical Interferon](../6_prevention_and_treatment/interferon.md)
 
@@ -23,3 +25,12 @@ Early treatments are meant to be started in the first days after symptom onset o
 
 ## Late Treatments
 * Glucocorticoids such as Dexamethasone
+
+
+
+
+## Refs
+> in early work
+
+#### Morra
+Morra ME, Van Thanh L, Kamel MG, Ghazy AA, Altibi AM, Dat LM, Thy TN, Vuong NL, Mostafa MR, Ahmed SI, Elabd SS. Clinical outcomes of current medical approaches for Middle East respiratory syndrome: a systematic review and meta‐analysis. Reviews in medical virology. 2018 May;28(3):e1977.
