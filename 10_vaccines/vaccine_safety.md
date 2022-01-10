@@ -1,10 +1,10 @@
 # Vaccine Safety and (open?) Questions
 
-> __Rolling publication__ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. Safety is relative: for risk persons of old age, no short term adverse effects is enough for vaccines to be much safer than to catch possibly life-threating Covid. However for young, just knowing there are no serious adverse and diagnoseable effects in the next months, does not mean a vaccine is safe. For young, Covid is mostly similar to common cold or a flu. So the risk estimation is rare adverse events from Covid versus rare and/or speculative adverse effects from vaccination. Possibilities of rare and/or speculative adverse events are the topic of this page.
+> __Rolling publication__ since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. Safety is relative: for risk persons of old age, no short term adverse effects is enough for vaccines to be much safer than to catch possibly life-threating Covid. However for young, just knowing there are no serious adverse and diagnoseable effects in the next months, does not mean a vaccine is safe, especially since Covid is mild for the young. *Overall the risk estimation is the protection against adverse events from Covid versus rare and/or speculative adverse effects from vaccination. The possibility of such rare and/or speculative adverse events, is the topic of this page.*
 
-> The adverse effects below are **speculative** and if they should occur they likely will occur only rarely but if healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. People may have possibly long lasting adverse effects or even die for a supposed considerate and safe action. // On the 12.6.21, news papers mentioned a case of a 18 year old person who died due to thrombosis likely because of vaccination, which was a push to publish the speculative concerns below.
+> If healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. People may have possibly long lasting adverse effects or even die for a supposed considerate and safe action. // On the 12.6.21, news papers mentioned a case of a 18 year old person who died due to thrombosis likely because of vaccination, which was a push to publish the speculative concerns below.
 
-> Adenoviruses and how transfected RNA works are currently not main topic of this page and in depth treatment and understanding of RNA is lacked here. However anybody understands RNA?  RNA can do a lot. RNA is often set equal to the messenger RNA (mRNA) which is transcribed from DNA and after a variety of processing steps is translated to proteins. However most RNA has regulatory or enzymatic functions such as: RNA is used by cells for communication, RNA regulates the translation of mRNA and many cell intern enzymes are RNA. Also the properties of RNA vary with the functions. For example the life time of mRNA produced in the nucleus is usually limited since 1)mRNA is strictly regulated and 2) one break can prevent the translation to the functional protein. In general however, the life time of RNA varies. For example the RNA ribosomes largely consists of RNA and such these tend to live much longer than mRNA. The of RNA of RNA viruses including coronaviruses and influenza also tends to be more stable, even though in the case of most (all?) RNA+ stranded virus, the RNA is translated by ribosomes and thus acts as mRNA.
+> Adenoviruses and how transfected RNA works are currently not main topic of this page and in depth treatment and understanding of RNA is lacked here. However anybody understands RNA?  RNA can do a lot. RNA is often set equal to the messenger RNA (mRNA) which is transcribed from DNA and after a variety of processing steps is translated to proteins. However most RNA has regulatory or enzymatic functions such as: RNA is used by cells for communication, RNA regulates the translation of mRNA and many cell intern enzymes are RNA. Also the properties of RNA vary with the functions. For example the life time of mRNA produced in the nucleus is usually limited since 1)mRNA is strictly regulated and 2) one break can prevent the translation to the functional protein. In general however, the life time of RNA varies. For example the RNA ribosomes largely consists of RNA and such these tend to live much longer than mRNA. The of RNA of RNA viruses including coronaviruses tends to be more stable than the mRNA produced by the cells themselves, even though in the case of most (all?) RNA+ stranded viruses, the RNA is translated by ribosomes and thus acts as mRNA.
 
 > Information for which of the speculations below the safety is known (both safe and unsafe) is appreciated.
 
@@ -12,24 +12,26 @@
 
 
 
-> ##### Comment 9.12. (adapted 19./24.12.21/8.1.22)
-> (originally published in the updated section)
-> The formulations in this chapter are often *dramatic*. (20.12. changes to more factual formulations in work)
+##### Comment and Clarifications in View of Vaccine Mandates
+> (originally published in the updated section on 9.12. and adapted 19./24.12.21/8.1.22)
+> Some formulations in this chapter are dramatic. // 20.12. changes to more factual formulations in work
 > * Once to motivate investigations/publications on the cell and tissue tropism and to opt against vaccination of the young until the mechanisms of action are clarified/published. 
-> * To some extent the formulations are left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated and additionally repeated vaccination - commonly referred as 'boosters' - is considered/carried out. 
+> * To some extent the formulations are/were left dramatic since not only vaccine are recommended but often pushed or even mandated even for the young. Across the world a large share of the people below 30 years is not yet vaccinated and additionally repeated vaccination - commonly referred as 'boosters' - is considered/carried out. 
 
 > Many mentioned of the speculative even if they should occur are likely rare, possibly 1 in 100 or 1000 or less. Possible adverse effects often are random and depend for example on how accurately the vaccine is administrated to the deltoid muscle and whether a draining lymph or a tiny blood vessel is hit.
 
-> In my opinion, the current spike targeting vaccines are not ideal for epidemiological reasons since the outer part of spike mutates frequently is a determinant for the tropism. The frequent mutations make escape forms likely and many mutations can change the tropism. A change in tropism can change the disease pattern - positive and negative. From an epidemiological perspective it is not obvious whether anti-spike immunizing those not at risk has advantages. From an individual perspective, it is a weighting of possible adverse effects versus the protection provided. For people at risk for severe Covid, vaccination is recommended though. 
+> Besides possible adverse effects, spike targeting vaccines also have epidemiological risks since the outer part of spike mutates frequently is a determinant for the tropism. The frequent mutations make escape forms likely and many mutations can change the tropism. A change in tropism can change the disease pattern - positive and negative. It is not obvious whether anti-spike immunizing those not at risk has advantages on virus evolution. From an individual perspective, it is a weighting of possible adverse effects versus the effects on SARS-2 infections/protection provided (both short-term and long-term).
 
-> The speculative adverse effects below are most relevant for children or repeated vaccination.
+> The speculative adverse effects below are most relevant for children and/or repeated vaccination.
 
-> 9.12. *Transparency of adverse Effects:* If it there would known that there are previously unknown/unpublished adverse events from the vaccines, in my opinion the most important is to go transparently public. 
-> * A fond for the affected could be founded. // Founding should be possible e.g. (direct or even indirect) profits and possibly scaled through an insurance. 
+##### Transparency of adverse Effects
+> If it would known that there are previously unknown/unpublished adverse events, in my opinion the most important is to go transparently public. 
+> * A fond for the affected could be founded. // Founding should be possible - on option is (direct or even indirect) profits and possibly scaled through an insurance. 
 > * Supervision and if necessary treatments and other precautions measures could be initiated if it would be necessary and helpful.
 > * Trying to hide possible adverse effect could have high costs both within and between societies and countries - and the world. To costs likely scale with time.
 
-> 9.12. *Transparency and Democracy:* For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
+##### Transparency and Democracy
+> For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
 
 
 
