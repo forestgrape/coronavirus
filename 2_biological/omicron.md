@@ -26,6 +26,7 @@
   * [Refs Epidemiology in Canada](#refs-epidemiology-in-canada)
   * [Refs Disease Caused by Omicron](#refs-disease-caused-by-omicron)
   * [Refs Epidemiological Vaccines Effectiveness](#refs-epidemiological-vaccines-effectiveness)
+  * [Refs Antibody Types and their Kinetics](#refs-antibody-types-and-their-kinetics)
   * [References ADE](#references-ade)
 
 
@@ -34,20 +35,24 @@
 
 Omicron is a SARS-CoV-2 lineage. However it has features different from all previous lineages (usually referred as variants) of SARS-CoV-2:
 * *Symptoms:* Rather than a typical respiratory disease, there are reports for more systemic symptoms such as night sweets and tiredness. Cough is still observed though.
-* *Transmission:*
+* *Transmission and Immune Status:*
   * Previous infections provide a lower protection compared to the protection they provided against previous variants.
-  * The transmission rate is much higher than observed for all previous variants. This is the case in many different settings: household transmission, social events and populations level increase in cases. Noteworthy, many locations where very high transmission rates are observed have high vaccination rates.
-* *Acquired Immunity:* The protection from acquired immunity is reduced compared to other SARS-CoV-2 lineages. For vaccines, initially there is  months there is even a negative efficacy is observed.
-* *Mutation Distribution:* Omicron has a lot of mutations in the spike of which a surprisingly large number in RBD. In the NTD part of the spike there is also an insertion which hasn't been seen before. NSP6 mutated also at an increased mutation rate. The mutation rate in the other genes seems to be at a comparative level as observed for other variants.
+  * The transmission rate observed is much higher than the rates observed for the previous variants. This is the case in many different settings: household transmission, social events and populations level increase in cases. Noteworthy, many locations where very high transmission rates are observed have high vaccination rates.
+  * For vaccines, early data indicate, that initially there is a protection, but after a few months there seems to be an increased risk of infection. 
+  * Acquired immunity (infection and vaccines) still protects against severe disease once infected.
+* *Mutation Distribution:* Omicron has a lot of mutations in the spike of which a surprisingly large number in RBD. In the NTD part of the spike there is also an insertion which hasn't been seen before. NSP6 mutated also at an increased mutation rate. The mutation rate in the other genes seems to be at a comparative level as observed for other lineages.
 * *Biology of Omicron*
   * *Observations for the Cell Tropism and Entry:* Omicron enters cells mainly through the endosomal pathways where the priming occurs by endosomal proteases such as cathepsins. Omicron is not well primed at the cells surface by TMPRSS2. Accordingly Omicron infects cells through by the endosomal pathway where the spike is primed by cathepsins. Since lungs cells support mainly the cell surface pathway with TMPRSS2 priming, other lineages such as Delta infects lungs cells much better than Omicron. Also cell cell fusion requires cell surface priming of the spike e.g. by TMPRSS2 and accordingly Omicron hardly induces cell fusion.
   * *Observed Tissue Tropism:* In agreement with the cell tropism, Omicron infects less the lungs than the previous variants as animal experiments and the observed disease patterns indicate.
 
- A central part of this chapter, is the hypothesis that Omicron can replicate in immune cells such as macrophages. Antibodies inducing phagocytosis then can increase the infection rate when Omicron infects the phagocytes. Such an immune cell tropism would explain many observations such as the high attack rates (immune cells actively take up virions), the changed symptoms (immune cell produce different cytokines) and increased infection rates a few months after systemic immunization. The explanation that Omicron escapes of spike targeting antibodies, just can explain an competition advantage over delta in populations with high antibody based immunity.
+A central part of this chapter, is the hypothesis that Omicron can replicate in immune cells such as macrophages.  Such an immune cell tropism would explain many observations such as the high attack rates (immune cells actively take up virions), the changed symptoms (immune cell produce different cytokines) and increased infection rates a few months after systemic immunization. The negative vaccines efficacies a few months after vaccination can be attributed to increased phagocytosis induced by spike binding antibodies. 
 
-> As noted F_c antibodies seem to enhance the probability of infection and possibly also enhance the disease. However other parts of acquired immunity such as T cells still protect and ameliorate the disease. This explains observations that upon infection, acquired immunity still has protective effect against severe disease. Natural infection induces both local and systemic T cells, while intramuscular vaccination mostly induces systemic T cells.
+The explanation that Omicron escapes of spike targeting antibodies, just explains competition advantages over other variants such as Delta in populations with high prevalence of antibody based immunity. However it does not explain the high attack rates, the changed symptoms and negative vaccine efficacies.
 
-> Initially this chapter was posted to argue a changed tropism of Omicron towards immune cell infection. This hypothesis is still part of the chapter, though the chapter underwent major reworkings and more content has been added.
+> As noted antibodies inducing phagocytosis seem to enhance the probability of infection and possibly also enhance the disease. However other parts of acquired immunity such as antibodies inducing cellular cytotoxicity or T cells can also protect and ameliorate the disease. Observations that upon infection, acquired immunity still has protective effect against severe disease can be due to these mechanisms. The immune mechanisms induced differ from natural infection and the different vaccines, for example natural infection induces both local and systemic T cells and intramuscular vaccination mostly induces systemic T cells. The antibody effector functions also differ.
+
+
+> Initially this chapter was posted to argue a changed tropism of Omicron towards immune cell infection. This hypothesis is still part of the chapter, though major reworkings are in progress.
 
 
 
@@ -270,11 +275,14 @@ Kannan SR, Spratt AN, Sharma K, Chand HS, Byrareddy SN, Singh K. Omicron SARS-Co
 
 ### Refs Omicron Epidemiology
 
+
 #### Pulliam
 Pulliam, J.R., van Schalkwyk, C., Govender, N., von Gottberg, A., Cohen, C., Groome, M.J., Dushoff, J., Mlisana, K. and Moultrie, H., 2021. Increased risk of SARS-CoV-2 reinfection associated with emergence of the Omicron variant in South Africa. medRxiv.
 
+
 #### Karim
 Karim, S., & Karim, Q. A. (2021). Omicron SARS-CoV-2 variant: a new chapter in the COVID-19 pandemic. Lancet (London, England), 398(10317), 2126–2128. <https://doi.org/10.1016/S0140-6736(21)02758-6>
+
 
 #### Brandal
 Brandal LT, MacDonald E, Veneti L, Ravlo T, Lange H, Naseer U, Feruglio S, Bragstad K, Hungnes O, Ødeskaug LE, Hagen F. Outbreak caused by the SARS-CoV-2 Omicron variant in Norway, November to December 2021. Eurosurveillance. 2021 Dec 16;26(50):2101147.
@@ -282,6 +290,7 @@ Brandal LT, MacDonald E, Veneti L, Ravlo T, Lange H, Naseer U, Feruglio S, Brags
 
 
 ### Refs Epidemiology in the UK
+
 
 #### Summary UK Technical Briefing 31
 *SARS-CoV-2 variants of concern and variants under investigation in England*
@@ -300,6 +309,7 @@ Brandal LT, MacDonald E, Veneti L, Ravlo T, Lange H, Naseer U, Feruglio S, Brags
 
 #### CDC Response Team
 COVID C, Team R. SARS-CoV-2 B. 1.1. 529 (Omicron) Variant—United States, December 1–8, 2021. MMWR. Morbidity and mortality weekly report. 2021 Dec 17;70(50):1731-4.
+
 
 #### CDC Tracker
 https://covid.cdc.gov/covid-data-tracker/#variant-proportions
@@ -331,35 +341,91 @@ https://public.tableau.com/app/profile/bccdc/viz/BCCDCCOVID-19SurveillanceDashbo
 
 ### Refs Disease Caused by Omicron
 
+
 #### Public Health Ontario
-Ontario Agency for Health Protection and Promotion (Public Health Ontario). **Early estimates of Omicron severity in Ontario based on a matched cohort study, November 22 to December 17, 2021.** Toronto, ON: Queen’s Printer for Ontario; 2021.
-<https://www.publichealthontario.ca/-/media/documents/ncov/epi/covid-19-epi-enhanced-estimates-omicron-severity-study.pdf?sc_lang=en>
+Ontario Agency for Health Protection and Promotion (Public Health Ontario). **Early estimates of Omicron severity in Ontario based on a matched cohort study, November 22 to December 17, 2021.** Toronto, ON: Queen’s Printer for Ontario; 2021. <https://www.publichealthontario.ca/-/media/documents/ncov/epi/covid-19-epi-enhanced-estimates-omicron-severity-study.pdf?sc_lang=en>
 
 
 
 ### Refs Epidemiological Vaccines Effectiveness
 
+
 #### Buchan
 Buchan et al **Effectiveness of COVID-19 vaccines against Omicron or Delta infection**
 medRxiv preprint doi: <https://doi.org/10.1101/2021.12.30.21268565>; this version posted January 1, 2022
 
+
 #### Eggink
 Eggink, D., Andeweg, S. P., Vennema, H., van Maarseveen, N., Vermaas, K., Vlaemynck, B., ... & Knol, M. J. (2021). Increased risk of infection with SARS-CoV-2 Omicron compared to Delta in vaccinated and previously infected individuals, the Netherlands, 22 November to 19 December 2021. medRxiv.
+
 
 #### Hansen
 Hansen, C. H., Schelde, A. B., Moustsen-Helms, I. R., Emborg, H. D., Krause, T. G., Mølbak, K., & Valentiner-Branth, P. (2021). Vaccine effectiveness against SARS-CoV-2 infection with the Omicron or Delta variants following a two-dose or booster BNT162b2 or mRNA-1273 vaccination series: A Danish cohort study. medRxiv.
 
 
 
+
+### Refs Antibody Types and their Kinetics
+
+> Separate chapters with the immune responses and kinetics from vaccination and natural infection are planned. The references below contain finding on antibody F_c induced functions both induced by vaccination and natural infection and how these effects change by time.
+
+> *Summaries below are in work and unfinished.*
+
+
+
+#### Farkash
+Farkash et al., Anti-SARS-CoV-2 antibodies elicited by COVID-19 mRNA vaccine exhibit a unique glycosylation pattern, Cell Reports (2021), <https://doi.org/10.1016/j.celrep.2021.110114>
+
+##### Methods
+* Anti-RBD total IgG and subclass responses 
+  * 2 weeks: vaccinated, n = 127 of which 60 less than 60 years; mild, n = 5; severe, n = 4
+  * 5 weeks:vaccinated, n = 127 (same cohort as after 2 weeks); mild, n = 16; severe, n = 12 
+* IgG levels were determined by ELISA.
+
+##### Results
+* Figure 1: BNT162b2 induces mainly IgG1 and IgG3 (Figure 1 D) and the ratio IgG1 + IgG3/(IgG2 + IgG4) is even increased after the 2nd dose (Figure 1 E)
+* Figure 2: 
+  * Overall IgG level tend to be inversely correlated to age (Figure 2. A and B)
+  * IgG subclasses are similar for over and under 60 years (Figure 2. C)
+  * FcR2a and FcR3a binding tend to be slightly higher for those over 60 years. 
+> in work
+
+
+
+#### Lee
+Lee et al., 2021, Cell Reports Medicine 2, 100296 June 15, 2021 a 2021 The Author(s). <https://doi.org/10.1016/j.xcrm.2021.100296>
+
+
+
+#### Kaplonek
+Kaplonek et al. Subtle immunological differences in mRNA-1273 and BNT162b2 COVID-19 vaccine induced Fc-functional profiles bioRxiv preprint doi: https://doi.org/10.1101/2021.08.31.458247; this version posted August 31, 2021
+
+##### Background
+mRNA-1273 offers a higher protection than BNT-162b2 in real world scenarios. One goal of the investigation whether such differences could be due to differences in antibody types.
+##### Methods
+Determine the AB profiles (F_c profiles and effector functions induced (phagocytosis, cellular toxicity, complement activation) against different variants and from different forms of immunization (mRNA-1272, BNT162b2 and natural infection).
+##### Methods Details
+*Participants:* 
+* The measure the ABs responses against wild type infections (Figure 1) and Alpha/Beta/Gamma (Figure 2): 28 participants with mRNA-1273  and 45 with BNT162b2.
+* Comparison of antibody profiles were compared across mRNA-1273 (n = 16) and BNT162b (n = 15) vaccines and 10 convalescents (Figure.3) against WT, Alpha=B.1.1.7, Beta=B.1.351, Gamma=P1, Delta1=B.1.617.1 and Delta2=B.1.617.2
+
+
+
+
 ### References ADE
+
+
 #### Wan
 Wan Y, Shang J, Sun S, Tai W, Chen J, Geng Q, He L, Chen Y, Wu J, Shi Z, Zhou Y, Du L, Li F. 2020. Molecular mechanism for antibodydependent enhancement of coronavirus entry. J Virol 94:e02015
+
 
 #### Arvin
 Arvin AM, Fink K, Schmid MA, Cathcart A, Spreafico R, Havenar-Daughton C, Lanzavecchia A, Corti D, Virgin HW. A perspective on potential antibody-dependent enhancement of SARS-CoV-2. Nature. 2020 Aug;584(7821):353-63.
 
+
 #### Shen
 Shen XR, Li Q, Li HL, Wang X, Wang Q, Zheng XS, Geng R, Zhang YL, Li B, Jiang RD, Liu MQ. Antibody-Dependent Enhancement of SARS-CoV-2 Infection of Human Immune Cells: In Vitro Assessment Provides Insight in COVID-19 Pathogenesis. Viruses. 2021 Dec;13(12):2483.
+
 
 #### Maemura
 Maemura T, Kuroda M, Armbrust T, Yamayoshi S, Halfmann PJ, Kawaoka Y. Antibody-Dependent Enhancement of SARS-CoV-2 Infection Is Mediated by the IgG Receptors FcγRIIA and FcγRIIIA but Does Not Contribute to Aberrant Cytokine Production by Macrophages. Mbio. 2021 Sep 28;12(5):e01987-21.
