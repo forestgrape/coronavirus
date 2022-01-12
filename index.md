@@ -21,23 +21,21 @@ Practical tips & tricks are discussed in [Public Suggestions and Tips](./1_intro
 * [Notes on Reading](#notes-on-reading): Notations used and how the page is written.
 * [Content](#content). Detailed content overview including twittering summaries.
  
+
 ## Bird View of Content
 
 This section overviews the entire content. The [content section](#content) lists the topics discussed in more detail. The links point there.
 
 1. [Introductory Topics](#1-introductory-topics). [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. A healthy lifestyle helps to prevent and overcome Covid. Additionally chronological updates and situations assessments are grouped here.
-2. [Biological Topics](#2-biological-topics). Forms of life and how coronaviruses compare and interact with them.
+2. [Biological Topics](#2-biological-topics). Forms of life on earth including viruses. How life forms relate and interact with a focus on coronaviruses.
 3. [Medical Topics](#3-medical-topics). What Covid-19 is and how to diagnose it.
 4. [Immunological Topics](#4-immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
-5. [Epidemiological Topics](#5-epidemiological-topics): Where and when coronaviruses spread and how they spread (transmission paths).
-6. [Treatment and Prevention](#6-treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention with positive 'side-effects' is a healthy lifestyle. For young and healthy people this is a reliable and the recommended prevention from severe Covid infections.
+5. [Epidemiological Topics](#5-epidemiological-topics): Where and when coronaviruses spread and how they spread (transmission paths). Individual factors such as age relevant for the transmission of SARS-CoV-2.
+6. [Treatment and Prevention](#6-treatment-and-prevention). Ideas to prevent and treat virus diseases including Covid. A good prevention with positive 'side-effects' is a healthy lifestyle. For young and healthy people this is a reliable and recommended prevention against severe Covid.
 7. [Social Topics](#7-social-topics). Thoughts about measures to reduce the spread.
 8. [Data Topics](#8-data-topics).
-9. [Topics in Physics](#9-physical-topics): Principles of intra- and intermolecular forces which are relevant for transmission and viability.
-10. [Vaccines](#10-vaccines): Safety considerations.
-
-
-
+9. [Topics in Physics](#9-topics-in-physics): How atoms and molecules aggregate (e.g. to droplets) which is relevant for transmission and viability of viruses.
+10. [Vaccines](#10-vaccines): Thoughts on the safety of vaccines.
 
 ---
 
@@ -45,7 +43,7 @@ This section overviews the entire content. The [content section](#content) lists
 ## Updates
 ### Recent Topics Added
 - 17.12.: New Chapter on [Omicron](2_biological/omicron.md). Omicron is noteworthy different from the previous SARS-CoV-2 lineages: 1) Higher Transmission 2) reports for changed disease symptoms and 3) very high number of mutations in the spike. Two possible explanations are discussed: 
-  - _Explanation 1 (speculative):_ The Omicron Variants has a changed tropism away from airways epithelial cells towards immune cells such as macrophages. From a molecular biology this is possible since various members of coronaviruses (and Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for the change of tropism.
+  - _Explanation 1 (speculative):_ The Omicron Variants has a changed tropism away from airways epithelial cells towards immune cells such as macrophages. From biology this is possible since various members of coronaviruses (and other members of Nidovirales) are known to replicate in immune cells. The changed symptoms, the increased transmissibility especially in immunized people and the mutations observed provide evidence for the change of tropism.
   - _Explanation 2:_ The Omicron variant mutated to escape spike binding antibodies and thereby gained a transmission advantage. This could also have been or be an intermediated step towards explanation 1.
 
 - 24.11.: [Interferon Treatment](6_prevention_and_treatment/interferon.md): Early interferon treatment helps to reduce the viral load and prevents more than half of severe disease cases. Interferon alpha treatment shows the best results with a mortality reduction above 75% if used early. Topical administration to the respiratory tract (spray or nebulized) shows benefits even in mid to advanced disease stages. Systemically applied interferons (especially IFN beta) on the other hand yield adverse outcomes when applied late.<br>
@@ -70,7 +68,9 @@ This section overviews the entire content. The [content section](#content) lists
 
 ### Recent Updates
 
-<!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone one should stop mass vaccination.-->
+<!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone the benefits of mass vaccination unclear.-->
+
+<!-- - 12.1.22  How this page was communicated or better often not communicated was bad. I try to communicate better. -->
 
 - 7.-11.1.22: Rolling updates of the [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show that lung cells are less susceptible to Omicron - likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for immune cell infection. 3) ABs inducing phagocytosis decay slower than ABs inducing other functions such as cytotoxicity after natural infection (possibly too after vaccination).
 
@@ -79,19 +79,18 @@ This section overviews the entire content. The [content section](#content) lists
 - 7.1.(announced here) [Individual Transmission and Susceptibility](5_epidemiological/individual_susceptibility_and_transmission.md): Added evidence for the hypothesis that the average viral and the positivity rate are correlated. // online since 27.12.21
 
 
-- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - quite a few of these were formulated in a different situation. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly on this page.
+- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - these mostly were formulated in a different situation. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly on this page.
   
 - 20/21/22.12. Help & Feedback of any kind, especially improvements suggestions including pointing out mistakes, is always welcome (witotraub@gmail.com/@runbox.com).
 
-- 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to [Recent Topics](#recent-topics-added).
+- 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to section [Recent Topics](#recent-topics-added).
 
   > Omicron is a new Chapter and not just an Update, both biological and organizational.
 
-
-- 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work. Added: 
-  - some observations on the effects of vaccine on transmission once infected.
+- 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work, for example added some observations on the effects of vaccine on transmission once infected.
 
 - 7.12.(adapted 21.12.) Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft & @Gmail & @runbox for reliable web services. Thanks @everybody helping.
+
 - 7.12. Updated [Table of Content](#content).
 
 
@@ -254,7 +253,7 @@ This section overviews the entire content. The [content section](#content) lists
 
 
 
-### 9 Topics in Physics, Chemistry and Biology 
+### 9 Topics in Physics 
 * [Aggregation of Atoms](9_physics/aggregations_of_atoms.md). How atoms aggregate to form the different kinds of matter.
 
 
