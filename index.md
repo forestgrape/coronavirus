@@ -10,7 +10,7 @@ explorative: 1
 
 This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses which are tagged as 'explorative'.
 
-Practical tips & tricks are discussed in [Public Suggestions and Tips](./1_introduction/suggestions.md). The section [bird view of content](#bird-view-of-content) overviews the overall content and in the [content](#content) section the topics discussed are presented in more detail. Usually it is possible to cherry pick content. Usually there is a summary outlining the concepts. The more 'in depth' content sometimes is somewhat technical.
+The section [bird view of content](#bird-view-of-content) overviews the overall content and in the [content](#content) section the topics discussed are presented in more detail. Usually it is possible to cherry pick content and most chapters have a summary outlining the concepts. The more 'in depth' content often is written in technical jargon.
 
 
 ## Sections of this Chapter (index)
@@ -26,7 +26,7 @@ Practical tips & tricks are discussed in [Public Suggestions and Tips](./1_intro
 
 This section overviews the entire content. The [content section](#content) lists the topics discussed in more detail. The links point there.
 
-1. [Introductory Topics](#1-introductory-topics). [Public Suggestions and Tips](./1_introduction/suggestions.md). _Recommended starting point._ Tips how to prevent or handle Covid infections: Transmission is smoke like and thus goes with the air. A healthy lifestyle helps to prevent and overcome Covid. Additionally chronological updates and situations assessments are grouped here.
+1. [Introductory Topics](#1-introductory-topics). [Public Suggestions and Tips](./1_introduction/suggestions.md). Day to day tips how to handle 'Covid times'. Covid transmits with the air, similar to smoke. A healthy lifestyle helps to prevent and overcome Covid. Situations assessments are also grouped here.
 2. [Biological Topics](#2-biological-topics). Forms of life on earth including viruses. How life forms relate and interact with a focus on coronaviruses.
 3. [Medical Topics](#3-medical-topics). What Covid-19 is and how to diagnose it.
 4. [Immunological Topics](#4-immunological-topics): The interplay between coronaviruses and their hosts where the immune system plays a central role.
@@ -74,7 +74,7 @@ This section overviews the entire content. The [content section](#content) lists
 
 - 7.-11.1.22: Rolling updates of the [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show that lung cells are less susceptible to Omicron - likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for immune cell infection. 3) ABs inducing phagocytosis decay slower than ABs inducing other functions such as cytotoxicity after natural infection (possibly too after vaccination).
 
-- 1.1. - 11.1. Clarifications and formulations across the page.
+- 1.1. - 12.1. Clarifications and formulations across the page. E.g. [Suggestions and Tips](1_introduction/suggestions.md) clarified and most content was written in the first and second wave in 2020 when the Covid situations were different.
 
 - 7.1.(announced here) [Individual Transmission and Susceptibility](5_epidemiological/individual_susceptibility_and_transmission.md): Added evidence for the hypothesis that the average viral and the positivity rate are correlated. // online since 27.12.21
 
