@@ -393,7 +393,7 @@ Farkash et al., Anti-SARS-CoV-2 antibodies elicited by COVID-19 mRNA vaccine exh
 
 
 #### Lee
-Lee et al., 2021, Cell Reports Medicine 2, 100296 June 15, 2021 a 2021 The Author(s). <https://doi.org/10.1016/j.xcrm.2021.100296>
+Lee WS, Selva KJ, Davis SK, Wines BD, Reynaldi A, Esterbauer R, Kelly HG, Haycroft ER, Tan HX, Juno JA, Wheatley AK. Decay of Fc-dependent antibody functions after mild to moderate COVID-19. Cell Reports Medicine. 2021 May 9:100296. <https://doi.org/10.1016/j.xcrm.2021.100296>
 
 
 
@@ -409,6 +409,8 @@ Determine the AB profiles (F_c profiles and effector functions induced (phagocyt
 * The measure the ABs responses against wild type infections (Figure 1) and Alpha/Beta/Gamma (Figure 2): 28 participants with mRNA-1273  and 45 with BNT162b2.
 * Comparison of antibody profiles were compared across mRNA-1273 (n = 16) and BNT162b (n = 15) vaccines and 10 convalescents (Figure.3) against WT, Alpha=B.1.1.7, Beta=B.1.351, Gamma=P1, Delta1=B.1.617.1 and Delta2=B.1.617.2
 
+#### Atyeo
+Atyeo C, DeRiso EA, Davis C, Bordt EA, De Guzman RM, Shook LL, Yonker LM, Fasano A, Akinwunmi B, Lauffenburger DA, Elovitz MA. COVID-19 mRNA vaccines drive differential antibody Fc-functional profiles in pregnant, lactating, and nonpregnant women. Science Translational Medicine. 2021 Oct 27;13(617):eabi8631.
 
 
 
