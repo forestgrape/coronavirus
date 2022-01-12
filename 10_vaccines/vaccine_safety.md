@@ -33,6 +33,8 @@
 ##### Transparency and Democracy
 > For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
 
+>> Honestly and transparently publishing the different vaccine efficacies (against infections only and against severe disease) and adverse effects and the epidemiological situations. The reasoning behind measures - whether necessary for epidemiological reasons or whether other purposes (e.g. as 'backdoor' vaccine mandates), some considerations in [Individual Measures](../7_social/individual_measures.md)).
+
 
 
 * [Summary](#summary)
