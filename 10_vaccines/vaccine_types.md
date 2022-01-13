@@ -6,7 +6,7 @@ Name\Properties| Company | Technology | Specification | Administration | Antigen
 Zekvaria | Uni Oxford, Astrazeneca | viral vector | Adenovirus Type 22 | delta muscle | pre-fusion stabilized S protein 
 Comnirnaty | Biontech, Pfizer | RNA | stabilized and translation enhanced RNA in lipid bilayer | delta muscle | pre-fusion stabilized S protein
 Moderna | Moderna | RNA | stabilized and translation enhanced RNA in lipid bilayer| delta muscle | fusion stabilized S protein
-Sputnik | Gam | viral vector | Adenovirus Type 5 and ? | delta muscle |
+Sputnik | Gam | viral vector | Adenovirus Type 5 and Type 26 (to check) | delta muscle |
 
 ### Notes
 * BT162b
