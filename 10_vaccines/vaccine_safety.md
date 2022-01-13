@@ -38,7 +38,7 @@
 > Factual and transparent information
 > * on the different vaccine efficacies (effects on testing positive, on transmission, on hospitalization rates, ...)
 > * on adverse effects and the mechanisms of action.
-> * on the reasoning behind measures - whether necessary for epidemiological reasons or whether put/left in place for other purposes for example as 'backdoor' vaccine mandates (some notes on vaccines mandates in [Individual Measures](../7_social/individual_measures.md)) or as decoy measures for whatever reason.
+> * on the reasoning behind measures - whether necessary for epidemiological reasons or whether put/left in place for other purposes for example as 'backdoor' vaccine mandates (some notes on vaccines mandates in [Individual Measures](../7_social/individual_measures.md)) or as decoy measures.
 
 
 
