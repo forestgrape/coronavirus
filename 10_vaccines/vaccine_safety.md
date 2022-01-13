@@ -24,16 +24,22 @@
 
 > The speculative adverse effects below are most relevant for children and/or repeated vaccination.
 
+
 ##### Transparency of adverse Effects
 > If it would known that there are previously unknown/unpublished adverse events, in my opinion the most important is to go transparently public. 
 > * A fond for the affected could be founded. // Founding should be possible - on option is (direct or even indirect) profits and possibly scaled through an insurance. 
-> * Supervision and if necessary treatments and other precautions measures could be initiated if it would be necessary and helpful.
 > * Trying to hide possible adverse effect could have high costs both within and between societies and countries - and the world. To costs likely scale with time.
+> * Supervision and if necessary treatments and other precautions measures could be initiated.
+
 
 ##### Transparency and Democracy
 > For democracy transparent and honest information is key.  Democracy and a state were everybody is equal before law in agreement with the human rights, may not be possible without transparency. The longer transparency and equality before law are lost, to harder it is to reintroduce them.
+>
+> Factual and transparent information
+> * on the different vaccine efficacies (effects on testing positive, on transmission, on hospitalization rates, ...)
+> * on adverse effects and the mechanisms of action.
+> * on the reasoning behind measures - whether necessary for epidemiological reasons or whether put/left in place for other purposes for example as 'backdoor' vaccine mandates (some notes on vaccines mandates in [Individual Measures](../7_social/individual_measures.md)) or as decoy measures for whatever reason.
 
->> Honestly and transparently publishing the different vaccine efficacies (against infections only and against severe disease) and adverse effects and the epidemiological situations. The reasoning behind measures - whether necessary for epidemiological reasons or whether other purposes (e.g. as 'backdoor' vaccine mandates), some considerations in [Individual Measures](../7_social/individual_measures.md)).
 
 
 
