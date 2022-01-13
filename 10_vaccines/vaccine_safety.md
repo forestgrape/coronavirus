@@ -25,11 +25,6 @@
 > The speculative adverse effects below are most relevant for children and/or repeated vaccination.
 
 
-##### Transparency of adverse Effects
-> If it would known that there are previously unknown/unpublished adverse events, in my opinion the most important is to go transparently public. 
-> * A fond for the affected could be founded. // Founding should be possible - on option is (direct or even indirect) profits and possibly scaled through an insurance. 
-> * Trying to hide possible adverse effect could have high costs both within and between societies and countries - and the world. To costs likely scale with time.
-> * Supervision and if necessary treatments and other precautions measures could be initiated.
 
 
 ##### Transparency and Democracy
@@ -38,7 +33,14 @@
 > Factual and transparent information
 > * on the different vaccine efficacies (effects on testing positive, on transmission, on hospitalization rates, ...)
 > * on adverse effects and the mechanisms of action.
-> * on the reasoning behind measures - whether necessary for epidemiological reasons or whether put/left in place for other purposes for example as 'backdoor' vaccine mandates (some notes on vaccines mandates in [Individual Measures](../7_social/individual_measures.md)) or as decoy measures.
+> * on the reasoning behind measures - whether necessary for epidemiological reasons or whether put/left in place for other purposes for example as 'backdoor' vaccine mandates (some notes on vaccines mandates in [Individual Measures](../7_social/individual_measures.md)).
+
+
+##### Transparency of adverse Effects
+> If it would known that there are previously unknown/unpublished adverse events, in my opinion the most important is to go transparently public. 
+> * A fond for the affected could be founded. // Founding should be possible - on option is (direct or even indirect) profits and possibly scaled through an insurance. 
+> * Trying to hide possible adverse effect could have high costs both within and between societies and countries - and the world. To costs likely scale with time.
+> * Supervision and if necessary treatments and other precautions measures could be initiated.
 
 
 
@@ -87,7 +89,7 @@ In conclusion, the safety of vaccines can only be ensured by symptoms if a thoro
 
 
 ## Introduction
-There are different definitions of immunisation and vaccination around. Here a general definition is used: *Immunisation* prepares the immune system to something and thereby provide prevents a disease. *Vaccination* teaches the immune system to recognize something. 
+There are different definitions of immunisation and vaccination around. Here a general definition is used: *Immunisation* prepares the immune system to something and thereby protects against a disease. *Vaccination* teaches the immune system to recognize something. 
 
 
 
