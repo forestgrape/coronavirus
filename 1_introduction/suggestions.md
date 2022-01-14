@@ -5,10 +5,7 @@ Notes on Covid as a virus diseases. How Covid is transmitted and how to prevent 
 * [Covid-19 and Virus Infections](#covid-19-and-virus-infections)
 * [Sars-CoV-2 Transmission](#sars-cov-2-transmission)
 * [How to Reduce Covid-19 Transmissions](#how-to-reduce-covid-19-transmissions)
-  * [Observing - helps to Detect Infections](#observing---helps-to-detect-infections)
-  * [Estimate and Adaptive Planning](#estimate-and-adaptive-planning)
-* [Respect and Take Care](#respect-and-take-care)
-  * [Communities and Societies](#communities-and-societies)
+* [Observing - helps to Detect Infections](#observing---helps-to-detect-infections)
 * [Live Healthily](#live-healthily)
 
 
@@ -49,7 +46,7 @@ A more in depth description is in the section [Airborne Transmission](../5_epide
 
 ## How to Reduce Covid-19 Transmissions
 
-> Remark: To reduce transmissions is mostly adequate/needed when Sars-Cov-2 ARDS/SARS disease patterns are high. Coronaviruses are not harmful per se, so when there are no or very few cases of severe Covid, the benefits of reducing transmissions are questionable/unclear. Overall the suggestions below are mainly meant when many get really sick and the suggestions below were written in such situations, namely mostly during the first wave in Europe in spring 2020 and with some updates during the second and autumn 2020 - even though formulations have been updated since, the flavour stayed and so this special situation should be kept in mind when reading the notes below. // As of January 2022 the situation is different and SARS-CoV-2 is on the way to become an endemic virus, precautions are mostly needed in sensible situations.
+> Remark: To reduce transmissions is mostly adequate/needed when Sars-Cov-2 ARDS/SARS disease patterns are high. Coronaviruses are not harmful per se, so when there are no or very few cases of severe Covid, the benefits of reducing transmissions are questionable/unclear. Overall the suggestions below are mainly meant when many get really sick. An early version of the suggestions in March 2020, many updates and corrections have been done since, however the flavour of that unknown situation in 2020 stayed, this kept in mind when reading the notes below. // As of January 2022 the situation is different and SARS-CoV-2 is on the way to become an endemic virus, precautions are mostly needed in sensible situations.
 
 In brief: Aerosol transmission is smoke like. To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
 
@@ -71,20 +68,23 @@ In brief: Aerosol transmission is smoke like. To reduce the infection possibilit
 * ### Masks
     [Mask](../6_prevention_and_treatment/masks.md) in indoor places can reduce transmissions. The longer one stays, the more people there are and the less ventilation there is, the more important. Since transmission increase with the amount of indoor air breathed.
 
-    The mask should have a good fit and a good filter. In some situation high-filtration is especially important: in hospitals and if one is possible diseased. But if symptomatic staying out of indoor crowds is crucial, since masks just reduce the spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
+    The mask should have a good fit and a good filter. In some situation high-filtration is important: in hospitals and if one is possible diseased. But if symptomatic staying out of indoor crowds is crucial, since masks just reduce the spread but do not prevent it. The same is true for all other prevention measures such as distancing and hygiene, they reduce but do not prevent spread. 
     
     To protect others, masks ideally are switched frequently (each few hours). Coronaviruses are not stable and after two days waiting, putting into the sunlight or washed with soap/warm water nearly all [viruses are decayed](../2_biological/virion_viability.md)). So masks can be reused if cleaned or left unused for 2 days. From time to time it should replaced or washed thoroughly - there's more than Sars-CoV-2, that's not to forget!
+
+* ### Transport
+  Ventilation, masks and distance if possible in public transport. Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic.
 
 * ### Distancing
     Distancing reduces infection risk.
 
 * ### Hygiene
-    Keep proper hygiene. Especially wash hands before eating and after toilet. Soap removes most pathogens and even destroys enveloped viruses such as coronaviruses or influenza viruses. Many microbiota, some pathogenic, are transmitted through fomites - worms nearly exclusively, bacteria often by fomites, RNA viruses rarely by fomites but airborne or by direct contact. Diseases can burden by itself and respiratory diseases can be difficult to distinguish from Covid-19.
+    Keep proper hygiene. Especially wash hands when appropriate. Soap removes most pathogens and even destroys enveloped viruses such as coronaviruses or influenza viruses. Many microbiota, some pathogenic, are transmitted through fomites - worms nearly exclusively, bacteria often by fomites, however RNA viruses not so often but mostly airborne or by direct contact. Diseases can burden by itself and respiratory diseases can be difficult to distinguish from Covid-19.
 
     But do NOT rely on hygiene alone, since the majority of severe Covid [transmissions occur through air](../5_epidemiological/transmission.md).
 
 
-### Observing - helps to Detect Infections
+## Observing - helps to Detect Infections
 Paying attention to disease symptoms. The more common Covid-19 in a region is, the more likely a respiratory disease is Covid-19. 
 
 > In South East Switzerland, my place, a day hike away from northern Italy - Covid-19 is/was (as of March 2020) the most prevalent disease.
@@ -98,53 +98,12 @@ Keep in mind that the temperature varies during a day and with the activities pe
     > It's time [for medicine] to move on from digitalization schemes to a continuous color-space and individuality. There's no hard border for fever at 37.5 or at 38 degrees.
 
 
-### Estimate and Adaptive Planning
-While we often prefer straight plans, adaptive planning can be needed in Covid times. Similar to games. Viruses are sometimes hard to predict. One reason is that virions don't move on their own and so their movement is mostly random. Nevertheless probabilities can be estimated. E.g. a few days before visiting the grand grand parents, going out late every evening in densely populated pubs is not the best idea. However even if all precautions are taken, there is some probability that one falls sick before the visit, in this case the right step is possibly to withdraw from social gatherings.
-
-> For larger communities (above a few thousand people) planning works better since there is less randomness than for individuals.
-
-Increased infection probability:
-* *Increased Exposure to Viruses:* Being in a densely populated and poorly ventilated indoor spaces.
-* *Increased Susceptibility to Viruses:* 
-  * Diminished immune system (e.g. long party nights). 
-  * Deep inhalation causes more particles to reach the lungs (e.g. sports, high altitude).
-
-Keeping benefits and risks in mind:
-* Whether, when and what to do and care about
-* Whether to take additional carefulness otherwhere. E.g. in the Tour the France 2020 not a single cyclist has caught Covid-19 [to confirm] despite  sports at the limits diminishes the immune system. Likely they were able to reduce exposure to viruses by being careful and a good overall organization.
-
-## Respect and Take Care 
-> *We all should be able to live the life we want, as long that's respecting the rest of the world doing so too.* That needs compromises. Every day compromises are searched, negotiated, found and enabled - thanks to everybody! We live in groups with complex interactions, so *we* stands for groups of friends, families, communities, societies, countries and even us all.
-
-Respecting others to handle and view Covid differently yields an approach with base protections: enabling people to avoid it, but not narrowing others much. 
-
-* Precautions/Protection measures in place in public spaces which everybody needs to use. 
-* In *non* general public settings respecting everybody to take/resume/go on with the lifestyle preferred - a considerate lifestyle of course. Depending on the epidemiological situation protections measures can be community/local decisions. E.g. universities provide both on campus and off campus studying.
-
-Note: In cold seasons, overall cases need to be kept lower, since self protection is more difficult due to aerosol transmission (e.g. good fit high filtration masks) and severe Covid is much more likely in indoor dry air (heated or air-conditioned).
-
-
-### Communities and Societies
-
-> mostly written during 2020, some updates November 2021
-
-> Many tasks and challenges are solved best or can only be solved by groups. Even small groups often need some organization, guiding and rules to work. For large groups such as societies these points are even more important. The better group members understand each other, understand the task and work together, the more liberal the settings and relaxed the rules can be.
-
-Controlling ~~SARS-CoV-2~~ severe Covid (changed 16.11.21, SARS-CoV-2 is very widespread, the important is to control clusters of severe cases) is an individual, a local and to some extent a global task. The better everybody helps, the lesser the negative effects and the fewer rules and restrictions need to be put into place.
-
-If there are many severe cases:
-* Staying out of crowds and taking care even with mild respiratory disease symptoms, a runny nose is enough reason to stay home. E.g. home office/school (e.g. reading)
-  > much of the knowledge for this page I acquired by reading. Thanks to everybody making knowledge and articles available!
-* When diseased, to cure it well a healthy diet and situation adapted behavior helps.  This doesn't mean lying in bed 24 hours, some careful and situation adapted movement is beneficial for a good recovery ([Movement Chapter](../6_prevention_and_treatment/movement.md)). ~~It is known for various virus infections that they can become persistent~~
-    > Viruses persistently infect various parts of the body. Such infections are especially common on the skin, on the mucosal surfaces in the intestine and in the respiratory tract. Usually coronavirus infections are not disease associated and even can have beneficial effects as discussed in the [virome chapter](../5_epidemiological/virome.md). Just if they replicate to very high numbers a disease or even severe disease can be caused. <!--Microbiota interact with each other some increase and some diminish the risk for other infections. possibly move up to hygiene which can influence the microbiome-->
-* Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects seem to be rare but experiences are still limited. Keeping severe cases low is good for everybody and the more people help doing so the better.
-* Transport: Ventilation, masks and distance if possible in public transport. Considering, that many people, especially children, will and should go outside right where they live, limited use of cars in cities is polite - it's nicer and safer with light traffic. // written during shutdowns in Spring 2020
-* Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them. 
-
 
 ## Live Healthily
-A good immune system goes hand in hand with a healthy lifestyle. For an optimal immune system: 
-* Sleep enough, eat healthily, relax and do some sport. 
+A good immune system goes hand in hand with a healthy lifestyle. 
+
+For a good immune system it helps to: 
+* sleep enough, eat healthily, relax and do some sport. 
 
 and avoid weakening the immune system:
 
@@ -155,6 +114,6 @@ and avoid weakening the immune system:
 * avoid excessive caffeine, excessive sport (if in a very high risk region), excessive alcohol ...
     > From time to time exceptions - as long as not overly excessive - seem to be not much adverse or even healthy such as in the case of excessive sports, possibly since the immune system and overall body homeostasis gets some training. Recovery time is important however.
 
-* try reducing stress for yourself and others. Trying too hard won't help though. 
+* try to reduce stress for oneself and others. Trying too hard won't help though. 
     
 Stress is an important factor, who hasn't experienced falling sick after a stressful period? It's about balancing the different kinds of risks and chances we have been and are facing through our entire evolution. 
