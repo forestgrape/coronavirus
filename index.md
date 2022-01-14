@@ -165,11 +165,14 @@ This section overviews the entire content. The [content section](#content) lists
 
 
 ### 1 Introductory Topics
-* [Public Suggestions and Tips](1_introduction/suggestions.md)
-    Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission can be smoke-like. Don't burden the immune system.
-* [Update History](1_introduction/update_history.md): Content and updates as published in reverse chronological order.
-* [Situation Assessments](1_introduction/situation_assessments.md).
 * [Illustrative Resources](1_introduction/illustrative_resources.md): A subjective list of especially helpful, insightful and/or extraordinary Resources.
+* [Suggestions and Tips](1_introduction/suggestions.md)
+    Keep distance and hygiene. Then outdoors is safe. Inside ventilate well and/or wear a mask. Transmission of severe Covid is mostly smoke-like. Don't burden the immune system.
+* [Covid and Social Life](./1_introduction/social_life.md)
+* [Situation Assessments](1_introduction/situation_assessments.md).
+* [Update History](1_introduction/update_history.md): Content and updates as published in reverse chronological order.
+
+
 
 
 
