@@ -4,11 +4,9 @@ In my opinion, measures should  not target individuals and accordingly not be ba
 
 > Often the vaccines available in 2021, are presumed as effective reducing transmission. The supposedly reduced transmission and susceptibility is taken as a reason to restrict elementary rights and the freedom in varying degrees for those not vaccinated. While those vaccinated - even at high rates of Covid hospitalizations - can do near everything even with symptoms and often without any tests (// Here, for airplane travel and large scale events, testing (e.g. antigen tests) is considered as appropriate when hospitalization rates are high [optional measures](controlling.md#optional-measures)).
 
-> A concise and pointed comment "[Covid-19 Vaccine Mandates Are Now Pointless](../5_epidemiological/individual_susceptibility_and_transmission.md#pierpont)" is by Pierpont (some errata however, see notes at the reference.)
+> A concise and pointed comment "[Covid-19 Vaccine Mandates Are Now Pointless](../5_epidemiological/individual_susceptibility_and_transmission.md#pierpont)" is by Pierpont (some errata however, see notes at the reference.) 
 
-> Errāre hūmānum est. 
-
-> What if there are errata with RNA transfection?
+> Errāre hūmānum est. What if there are errata with the new technologies used?
 
 
 ## Scientific Considerations
