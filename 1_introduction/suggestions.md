@@ -46,7 +46,7 @@ A more in depth description is in the section [Airborne Transmission](../5_epide
 
 ## How to Reduce Covid-19 Transmissions
 
-> Remark: To reduce transmissions is mostly adequate/needed when Sars-Cov-2 ARDS/SARS disease patterns are high. Coronaviruses are not harmful per se, so when there are no or very few cases of severe Covid, the benefits of reducing transmissions are questionable/unclear. Overall the suggestions below are mainly meant when many get really sick. An early version of the suggestions in March 2020, many updates and corrections have been done since, however the flavour of that unknown situation in 2020 stayed, this kept in mind when reading the notes below. // As of January 2022 the situation is different and SARS-CoV-2 is on the way to become an endemic virus, precautions are mostly needed in sensible situations.
+> Remark: To reduce transmissions is mostly adequate/needed when Sars-Cov-2 ARDS/SARS disease patterns are high. Coronaviruses are not harmful per se, so when there are no or very few cases of severe Covid, the benefits of reducing transmissions are questionable/unclear. Overall the suggestions below are mainly meant when many get really sick. An early version of the suggestions in March 2020, many updates and corrections have been done since, however the flavour of that unknown situation in 2020 stayed - to keep in mind when reading the notes below. // As of January 2022 the situation is different and SARS-CoV-2 is on the way to become an endemic virus - precautions are mostly needed in sensible situations.
 
 In brief: Aerosol transmission is smoke like. To reduce the infection possibilities keep some distance or wear a mask, prefer fresh air and think ahead. 
 
