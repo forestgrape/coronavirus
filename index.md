@@ -66,11 +66,14 @@ This section overviews the entire content. The [content section](#content) lists
   > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity upon SARS-CoV-2 Infections and the wanted and unwanted Effects of the currently available/used vaccines). One goal is to contribute to scientific foundations for rational vaccines recommendations.
 
 
-### Recent Updates
+### News Board
 
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone the benefits of mass vaccination unclear.-->
 
-<!-- - 12.1.22  How this page was communicated or better often not communicated was bad. I try to communicate better. -->
+
+
+
+> - 14.1.22  How this page was communicated/marketed or better often not communicated was bad. Improvements in work. Often successful projects were just done good enough they spread on their own, well this seems not have been and be [yet?] the case here -  even though that was and is a hope. Which can be difficult in some settings since not everything on this page is possibly liked ... The focus will be put more on basic science such as [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md)... even there some parts can be controversial.
 
 - 7.-11.1.22: Rolling updates of the [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show that lung cells are less susceptible to Omicron - likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for immune cell infection. 3) ABs inducing phagocytosis decay slower than ABs inducing other functions such as cytotoxicity after natural infection (possibly too after vaccination).
 
