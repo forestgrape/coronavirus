@@ -1,6 +1,6 @@
 # Thoughts on Covid and Social Life
 
-> Originally written during the second Covid wave in Europe in late autumn 2020.
+> Originally written during the second Covid wave in Europe in late autumn 2020,  corrections have been done since.
 
 
 
@@ -44,5 +44,5 @@ If there are many severe cases:
 * To cure it well, situation adapted behavior.  This doesn't mean lying in bed 24 hours, some careful and situation adapted movement (e.g. some stretching) can be beneficial for a good recovery ([Movement Chapter](../6_prevention_and_treatment/movement.md)). ~~It is known for various virus infections that they can become persistent~~
     > Viruses persistently infect various parts of the body. Such infections are especially common on the skin, on the mucosal surfaces in the intestine and in the respiratory tract. Usually coronavirus infections are not disease associated and even can have beneficial effects as discussed in the [virome chapter](../5_epidemiological/virome.md). Just if they replicate to very high numbers a disease or even severe disease can be caused. <!--Microbiota interact with each other some increase and some diminish the risk for other infections. possibly move up to hygiene which can influence the microbiome-->
 * Respecting everybody who wants or needs (either directly since in risk group or indirectly since direct/indirect contact to persons who need/want to protect) to protect to do so. Long-term effects seem to be rare but experiences are still limited. Keeping severe cases low is good for everybody and the more people help doing so the better.
-* Some slowdown of life: E.g. no party weeks, going home at time. For all including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them. 
+* Some slowdown of life: E.g. no party weeks, going home at time. For all, including the young, a good immune system in place is important, which detects infections early, induces symptoms and clears them. 
 
