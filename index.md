@@ -71,7 +71,9 @@ This section overviews the entire content. The [content section](#content) lists
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone the benefits of mass vaccination unclear.-->
 
 
-> - 14.1.22  How this page was communicated/marketed or better often not communicated was not good respectively often didn't work as intended. Many successful projects were done good enough they spread on their own, which is challenging in many aspects. For the time being, the focus is on more direct communication and on basic science.
+> - 14./15.1.22  How this page was communicated/marketed or better often not communicated was overall bad. Many successful projects were done good enough they spread on their own, which is challenging in many aspects - here, some awkwardness, a messy presentation and controversial/unbiased comments may not have helped. More direct communication is attempted. Additionally the focus is more on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). 
+> 
+> Findings and interpretations are stated, to the best knowledge, even-handed. Subjective/controversial comments, if considered appropriate, will be still done, especially when it is about basic human rights.
 
 - 7.-11.1.22: Rolling updates of the [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show that lung cells are less susceptible to Omicron - likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for immune cell infection. 3) ABs inducing phagocytosis decay slower than ABs inducing other functions such as cytotoxicity after natural infection (possibly too after vaccination).
 
