@@ -71,7 +71,7 @@ This section overviews the entire content. The [content section](#content) lists
 <!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone the benefits of mass vaccination unclear.-->
 
 
-> - 14./15.1.22  How this page was communicated/marketed or better often not communicated was overall bad. Many successful projects were done good enough they spread on their own, which is challenging in many aspects - here, some awkwardness, a messy presentation and controversial/unbiased comments may not have helped. More direct communication is attempted. Additionally the focus is more on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). 
+> - 14./15.1.22  How this page was communicated/marketed or better often not communicated was overall bad/didn't work. Many successful projects were done good enough they spread on their own, which is challenging in many aspects - here, some awkwardness, a messy presentation, missing rigor and controversial/unbiased comments may not have helped. More direct communication is attempted. Additionally the focus is more on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). 
 > 
 > Findings and interpretations are stated, to the best knowledge, even-handed. Subjective/controversial comments, if considered appropriate, will be still done, especially when it is about basic human rights.
 
