@@ -69,14 +69,13 @@ This section overviews the entire content. The [content section](#content) lists
 
 
 ### News Board
-*Pinned:*
-- *Findings and interpretations are stated, to the best knowledge, even-handed. Human rights are kept in mind.*
-- 27.11.: Note: *Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.*
+- 17.1.22: *Findings and interpretations are stated, to the best knowledge, even-handed. Human rights are kept in mind.*
 
 
 
-- 17.1.22 (adapted from comment 5.12.21): As spike-only vaccines turned out not to control SARS-CoV-2, from a coronavirus perspective [alone], the benefits to [push to] vaccinate non risk groups are unclear.
-> - 14./15.1.22  How this page was communicated/marketed or not enough communicated was often bad/didn't work timely. Many successful projects were done good enough they spread on their own, which is challenging in many aspects - here, some awkwardness, a messy presentation, missing rigor and controversial and/or not well founded comments may not have helped. More direct communication is attempted. Also planned is to publish selected chapters on public science portals to make them findable (some polishing is needed first). The focus will be on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). 
+
+- 17.1.22 (adapted from programming comment from 5.12.21): As spike-only vaccines turned out not to control SARS-CoV-2, from a coronavirus perspective [alone], the benefits to [push to] vaccinate non risk groups are unclear.
+> - 14./15./17.1.22  How this page was communicated/marketed or not enough communicated was often bad/didn't work timely. Many successful projects were done good enough they spread on their own, which is challenging in many aspects - here, some awkwardness, a messy presentation, missing rigor and controversial and/or not well founded comments may not have helped. More direct communication is attempted. Also planned is to publish selected chapters on public science portals to make them findable (some polishing is needed first). The focus will be on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). 
 
 
 - 7.-11.1.22: Rolling updates of the [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show that lung cells are less susceptible to Omicron - likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for immune cell infection. 3) ABs inducing phagocytosis decay slower than ABs inducing other functions such as cytotoxicity after natural infection (possibly too after vaccination).
@@ -93,6 +92,9 @@ This section overviews the entire content. The [content section](#content) lists
 - 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to section [Recent Topics](#recent-topics-added).
 
   > Omicron is a new Chapter and not just an Update, both biological and organizational.
+
+
+- 27.11. (pinned): *Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.* //as of January 2022, this counts for most.
 
 ---
 
