@@ -69,11 +69,13 @@ This section overviews the entire content. The [content section](#content) lists
 
 
 ### News Board
+*Pinned:*
+- 17.1.22 (adapted from comment 5.12.21): As spike-only vaccines turned out not to control SARS-CoV-2, from a coronavirus perspective [alone] the benefits of vaccinating non risk groups are unclear.
+- 27.11.: Note: *Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.*
 
-<!-- 5.12.21: As RNA vaccines turned out they don't tame SARS-CoV-2, from a coronavirus perspective alone the benefits of mass vaccination unclear.-->
 
 
-> - 14./15.1.22  How this page was communicated/marketed or not enough communicated was often bad/didn't work timely. Many successful projects were done good enough they spread on their own, which is challenging in many aspects - here, some awkwardness, a messy presentation, missing rigor and controversial and/or not well founded comments may not have helped. More direct communication is attempted. Also planned is to publish selected chapters on public science portals to make them findable (some polishing is needed first). The focus will be on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). *Findings and interpretations are stated, to the best knowledge, even-handed.*
+> - 14./15.1.22  How this page was communicated/marketed or not enough communicated was often bad/didn't work timely. Many successful projects were done good enough they spread on their own, which is challenging in many aspects - here, some awkwardness, a messy presentation, missing rigor and controversial and/or not well founded comments may not have helped. More direct communication is attempted. Also planned is to publish selected chapters on public science portals to make them findable (some polishing is needed first). The focus will be on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). *Findings and interpretations are stated, to the best knowledge, even-handed. Human rights are kept in mind.*
 
 
 - 7.-11.1.22: Rolling updates of the [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show that lung cells are less susceptible to Omicron - likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for immune cell infection. 3) ABs inducing phagocytosis decay slower than ABs inducing other functions such as cytotoxicity after natural infection (possibly too after vaccination).
@@ -90,19 +92,6 @@ This section overviews the entire content. The [content section](#content) lists
 - 20.12. Correctly linked [Omicron chapter](2_biological/omicron.md) and moved the announcement to section [Recent Topics](#recent-topics-added).
 
   > Omicron is a new Chapter and not just an Update, both biological and organizational.
-
-- 9.12. [Individual Susceptibility and Transmission](5_epidemiological/individual_susceptibility_and_transmission.md) updates in work, for example added some observations on the effects of vaccine on transmission once infected.
-
-- 7.12.(adapted 21.12.) Thanks @open science is noted already for long. Now it is time for thanks @webtechs. Special thanks @Github/Microsoft & @Gmail & @runbox for reliable web services. Thanks @everybody helping.
-
-- 7.12. Updated [Table of Content](#content).
-
-
-- 2.12. Clarifications across page and added a section [Legal Considerations on Vaccine Mandates](./7_social/individual_measures.md)
-
-- 25.11.- 1.12. Updated the chapter [Diagnosis and Viral Load](./3_medical/diagnosis_and_viral_load.md) and added a section on the [viral load kinetics](./3_medical/diagnosis_and_viral_load.md#viral-load-kinetics). The viral load at the different location varies during the disease. As detection methods have a lower limit of detection, the detection rates by various detection methods varies through the disease course. E.g. for nose samples the viral load usually peak around symptom onset  and accordingly the detection rate is high at this time point, often above 90%. NPS samples taken before the viral load peak or after, or taken from asymptomatic cases where the viral loads tends to be lower the detection decreases.
-- 27.11.: Note: *Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.*
-
 
 ---
 
