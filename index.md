@@ -72,9 +72,7 @@ This section overviews the entire content. The [content section](#content) lists
 - 17.1.22: *Findings and interpretations are stated, to the best knowledge, even-handed. Human rights are kept in mind.*
 
 
-
-
-- 17.1.22 (adapted from programming comment from 5.12.21): As spike-only vaccines turned out not to control SARS-CoV-2, from a coronavirus perspective [alone], the benefits to [push to] vaccinate non risk groups are unclear.
+<!--- 17.1.22 (adapted from programming comment from 5.12.21): As spike-only vaccines turned out not to control SARS-CoV-2, from a coronavirus perspective [alone], the benefits to [push to] vaccinate non risk groups are unclear.-->
 > - 14./15./17.1.22  How this page was communicated/marketed or not enough communicated was often bad/didn't work timely. Many successful projects were done good enough they spread on their own, which is challenging in many aspects - here, some awkwardness, a messy presentation, missing rigor and controversial and/or not well founded comments may not have helped. More direct communication is attempted. Also planned is to publish selected chapters on public science portals to make them findable (some polishing is needed first). The focus will be on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). 
 
 
