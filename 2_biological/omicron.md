@@ -25,6 +25,7 @@
   * [Refs Epidemiology in the US](#refs-epidemiology-in-the-us)
   * [Refs Epidemiology in Canada](#refs-epidemiology-in-canada)
   * [Refs Disease Caused by Omicron](#refs-disease-caused-by-omicron)
+  * [Refs Omicron Viral Load](#refs-omicron-viral-load)
   * [Refs Epidemiological Vaccines Effectiveness](#refs-epidemiological-vaccines-effectiveness)
   * [Refs Antibody Types and their Kinetics](#refs-antibody-types-and-their-kinetics)
   * [References ADE](#references-ade)
@@ -90,12 +91,12 @@ The explanation that Omicron escapes of spike targeting antibodies, just explain
 ### Hypothesis Immune Cell Infection
 *How an altered Tropism explains the Observations*
 
-One possible observation for the above observations, is a shift of tropism away from differentiated respiratory tract epithelial cells towards immune cells such as macrophages:
+One possible explanation for the above observations, is a shift of tropism away from differentiated respiratory tract epithelial cells towards immune cells such as macrophages:
 * *Symptoms:* Symptoms such as night sweets and tiredness are frequently observed for microorganisms infecting macrophages such as HIV, some flaviviruses and tuberculosis.
-* *Transmission:* The higher infection rates can be explained by S targeting antibody mediated infection enhancement (AIE): Virions opsonized with S targeting antibodies are taken up by phagocytes such as macrophages (F_c induced phagocytosis).
+* *Transmission:* The higher infection rates can be explained by S targeting antibody mediated infection enhancement (AIE): Virions opsonized with S targeting antibodies are taken up by phagocytes such as macrophages (F_c induced phagocytosis). Since the phagocytes actively move around to take up virions, the chances for phagocytosis are much higher than a match with ACE2 on an airway epithelial cell through undirected movement.
 * *Acquired Immunity:* 
-  * *Natural Infections:* The lowered but still available protections from previous infections can be explained as follows while AIE increases the infection rate however the T cells and antibody induced cellular cytotoxicity (antibodies targeting e.g. the S2 part of S, the N protein or some NSPs) still provide protection both systemic and throughout the respiratory tract. 
-  * *Vaccines:* While in the first weeks the vaccines provide protection against infection, after a few months an increased risk of infection is observed compared to unvaccinated. This suggests AIE by F_c induced phagocytosis since the antibody types inducing phagocytosis decrease slower than the neutralizing activity and antibodies inducing cytotoxicity. That despite AIE the diseases mostly are neither severe nor systemic is possibly due to systemic T cells protecting the alveoli, the lymph system and the blood.
+  * *Natural Infections:* The protection is lowered compared to other variants but still available. A possibly explanation is, that while ABs inducing phagocytosis  increase the infection rates, T cells and ABs inducing cellular cytotoxicity (antibodies targeting e.g. the S2 part of S, the N protein or some NSPs) still provide protection both systemic and throughout the respiratory tract. 
+  * *Vaccines:* First some protection against infection is observed, however after a few months an increased risk of infection is observed compared to unvaccinated. This suggests AIE by F_c induced phagocytosis since the antibody types inducing phagocytosis decrease slower than the neutralizing activity and antibodies inducing cytotoxicity. That despite AIE the diseases mostly are neither severe nor systemic is possibly due to systemic T cells protecting the alveoli, the lymph system and the blood.
 * *Mutation Distribution:* The spike of coronaviruses is a key determinant which cells they enter and a changed tropism would explain the high number of mutations. The mutation distribution with many mutation in the RBD indicates a relaxed evolutionary pressure on the RBD, alternate entry pathways could have enable this high mutation rate. The insertion in NTD of domain of the spike is possibly acquired from the human coronavirus E229, a human coronavirus which frequently enters macrophages. NSP6 infers with autophagy pathways, so mutations in this protein possibly enable escape from intracellular vehicles (possibly endosomes in phagocytes, to check).
 
 >> Antibody dependent disease enhancement (ADE) denotes when antibodies increase the disease. ADE is mainly observed for RNA+ viruses such as flaviviruses (e.g. dengue virus) and some coronaviruses (e.g. feline coronavirus). ADE can be due to antibody induced infection enhancement (AIE) i.e. higher viral loads, an increase immune pathology without increased viral loads or both combined. Here AIE used, since the observations indicate that the infection probability is increased by spike targeting antibodies.
@@ -165,6 +166,7 @@ Hu, J., Peng, P., Wu, K., Long, Q. X., Chen, J., Wang, K., ... & Huang, A. L. (2
 
 
 ### Refs Omicron Spike Computer based Simulations
+
 #### Glocker
 Glocker, M. O., Opuni, K. F., & Thiesen, H. J. (2021). Compared with SARS-CoV2 wild type's spike protein, the SARS-CoV2 omicron's receptor binding motif has adopted a more SARS-CoV1 and/or bat/civet-like structure. bioRxiv.
 
@@ -180,6 +182,12 @@ Kumar S, Thambiraja TS, Karuppanan K, Subramaniam G. Omicron and Delta Variant o
 
 #### Sadek
 Sadek, A., Zaha, D., & Ahmed, M. S. (2021). Structural Insights of SARS-CoV-2 Spike Protein from Delta and Omicron Variants. bioRxiv.
+
+#### Carter
+Carter C, Airas J, Parish CA. Wild Type and Omicron SARS-CoV-2 Spike Receptor Binding Domains Bind Similarly to the Human ACE2 Receptor: An MM-GBSA Study.
+
+> sim
+
 
 
 
@@ -218,6 +226,8 @@ __Cell Entry Route:__
 Omicron enters mostly through the endosomal activated by cathepsins and not through the cell surface route activated by TMPRSS2.
 
 
+#### Sato
+Sato K, Suzuki R, Yamasoba D, Kimura I, Wang L, Kishimoto M, Ito J, Morioka Y, Nao N, Nasser H, Uriu K. Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant.
 
 ### Refs Animal Models
 
@@ -243,7 +253,8 @@ Wang, X., Zhao, X., Song, J., Wu, J., Zhu, Y., Li, M., ... & Wang, P. (2021). Ho
 #### Keeton
 Keeton, R., Tincho, M. B., Ngomti, A., Baguma, R., Benede, N., Suzuki, A., ... & Riou, C. (2021). SARS-CoV-2 spike T cell responses induced upon vaccination or infection remain robust against Omicron. medRxiv.
 
-
+#### Naranbhai
+Naranbhai V, Nathan A, Kaseke C, Berrios C, Khatri A, Choi S, Getz MA, Tano-Menka RK, Ofoman O, Gayton AC, Senjobe F. T cell reactivity to the SARS-CoV-2 Omicron variant is preserved in most but not all prior infected and vaccinated individuals. medRxiv. 2022 Jan 1.
 
 
 
@@ -270,7 +281,8 @@ Venkatakrishnan AJ, Anand P, Lenehan PJ, Suratekar R, Raghunathan B, Niesen MJ, 
 Kannan SR, Spratt AN, Sharma K, Chand HS, Byrareddy SN, Singh K. Omicron SARS-CoV-2 variant: Unique features and their impact on pre-existing antibodies. Journal of Autoimmunity. 2022 Jan 1;126:102779.
 
 
-
+#### Lippi, Henry
+Lippi G, Mattiuzzi C, Henry BM. Updated picture of SARS-CoV-2 variants and mutations. Diagnosis. 2021 Dec 23.
 
 
 ### Refs Omicron Epidemiology
@@ -346,6 +358,22 @@ https://public.tableau.com/app/profile/bccdc/viz/BCCDCCOVID-19SurveillanceDashbo
 Ontario Agency for Health Protection and Promotion (Public Health Ontario). **Early estimates of Omicron severity in Ontario based on a matched cohort study, November 22 to December 17, 2021.** Toronto, ON: Queen’s Printer for Ontario; 2021. <https://www.publichealthontario.ca/-/media/documents/ncov/epi/covid-19-epi-enhanced-estimates-omicron-severity-study.pdf?sc_lang=en>
 
 
+#### Lippi, Mattiuizzi
+Lippi, Giuseppe, Camilla Mattiuzzi, and Brandon M. Henry. "Is SARS-CoV-2 Omicron (B. 1.1. 529) variant causing different symptoms?." (2022).
+
+
+#### Christensen
+Christensen PA, Olsen RJ, Long SW, Snehal R, Davis JJ, Saavedra MO, Reppond K, Shyer MN, Cambric J, Gadd R, Thakur RM. Early signals of significantly increased vaccine breakthrough, decreased hospitalization rates, and less severe disease in patients with COVID-19 caused by the Omicron variant of SARS-CoV-2 in Houston, Texas. medRxiv. 2022 Jan 1:2021-12.
+
+
+
+
+### Refs Omicron Viral Load
+#### Puhach
+Puhach O, Adea K, Hulo N, Sattonnet-Roche P, Genecand C, Iten A, Bausch FJ, Kaiser L, Vetter P, Eckerle I, Meyer B. Infectious viral load in unvaccinated and vaccinated patients infected with SARS-CoV-2 WT, Delta and Omicron. medRxiv. 2022 Jan 1.
+
+
+
 
 ### Refs Epidemiological Vaccines Effectiveness
 
@@ -377,9 +405,9 @@ Hansen, C. H., Schelde, A. B., Moustsen-Helms, I. R., Emborg, H. D., Krause, T. 
 Farkash et al., Anti-SARS-CoV-2 antibodies elicited by COVID-19 mRNA vaccine exhibit a unique glycosylation pattern, Cell Reports (2021), <https://doi.org/10.1016/j.celrep.2021.110114>
 
 ##### Methods
-* Anti-RBD total IgG and subclass responses 
-  * 2 weeks: vaccinated, n = 127 of which 60 less than 60 years; mild, n = 5; severe, n = 4
-  * 5 weeks:vaccinated, n = 127 (same cohort as after 2 weeks); mild, n = 16; severe, n = 12 
+* Anti-RBD total IgG and subclass responses at
+  * 2 weeks -> vaccinated: n = 127 of which 60 less than 60 years; Covid:  5 with mild and 4 with severe disease
+  * 5 weeks -> vaccinated: n = 127 (same cohort as after 2 weeks); Covid: 16 with mild and  12 with severe disease
 * IgG levels were determined by ELISA.
 
 ##### Results
@@ -411,6 +439,14 @@ Determine the AB profiles (F_c profiles and effector functions induced (phagocyt
 
 #### Atyeo
 Atyeo C, DeRiso EA, Davis C, Bordt EA, De Guzman RM, Shook LL, Yonker LM, Fasano A, Akinwunmi B, Lauffenburger DA, Elovitz MA. COVID-19 mRNA vaccines drive differential antibody Fc-functional profiles in pregnant, lactating, and nonpregnant women. Science Translational Medicine. 2021 Oct 27;13(617):eabi8631.
+
+
+#### Adhikari
+Adhikari, A., Abayasingam, A., Rodrigo, C., Agapiou, D., Pandzic, E., Brasher, N. A., ... & Tedla, N. (2021). Longitudinal characterisation of phagocytic and neutralisation functions of anti-Spike antibodies in plasma of patients after SARS-CoV-2 infection. bioRxiv.
+
+
+
+
 
 
 
