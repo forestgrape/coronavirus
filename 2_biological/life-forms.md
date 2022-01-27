@@ -27,8 +27,11 @@ work status: 5
 
 > **major updates in progress, April 2021**]
 
+
 ## Summary
-First things first, a life-forms is a thing with memorized environment interactions and is able to produce rough copies of itself, called progeny. The interactions are stored in genomes. All genomes are made from ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). RNA is common to all life forms on earth and RNA is used to store information, as enzyme and as structural units. Life-forms differ in the way they interact with the environment and with each other. Some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism.
+A life-forms is a thing with memorized environment interactions and is able to produce rough copies of itself, called progeny. The interactions are stored in a genome. All genomes are made from ribonucleic acid (RNA) or deoxyribonucleic acid (DNA). RNA is common to all life forms on earth. RNA has different function in life: RNA stores and transfers information, RNA can act as enzyme and RNA provide structure. DNA on the other hand is nearly exclusively used for storing information. Life-forms differ in the way they interact with the environment and with each other. Some are more self contained and some less. The interactions determine to a large part how life forms are built and shield their metabolism and vice versa.
+
+
 
 
 ## Introduction to Life
@@ -39,6 +42,10 @@ First things first, a life-forms is a thing with memorized environment interacti
 > A *life form* in a given environment is an identifiable thing which is able to initiate re-production of itself giving rise to things which are near the same. These are called *progeny* or *next generation*.
 
 In other words, a form of live has memorized environment interactions and passes rough copies of those memories to the next generation.
+
+> There are different definitions of life in literature. Some definitions have focus more on the structure than on the functions e.g. sometimes a life form is defined as a cell (what a cell is needs to be defined then) - by such a definition a virus is then considered as a life-form.
+
+
 
 ### Building Blocks of Life Forms
 
@@ -136,6 +143,7 @@ How mRNA is processed is strictly regulated [to check, to confirm and to cite]:
 
 
 
+
 ## Memorizing Interactions
 
 ### Storage Options
@@ -157,6 +165,7 @@ Life forms memorize their machinery and structure, which in turn determine the e
     double stranded DNA:
     - very stable
     - reliable duplication possible
+
 
 
 
