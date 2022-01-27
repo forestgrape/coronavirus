@@ -5,7 +5,7 @@ title: Coronaviruses
 # Coronaviruses with a Focus on Sars-CoV-2
 Topics on Coronaviruses helpful to understand the infections they cause.
 
-* [Summary](#summary)
+* [Description](#description)
 * [Systematics of Coronaviruses](#systematics-of-coronaviruses)
   * [Nidovirales](#nidovirales)
   * [Coronaviruses](#coronaviruses)
@@ -32,13 +32,13 @@ Topics on Coronaviruses helpful to understand the infections they cause.
 
 > **major (re)work in progress, April 2021**
 
-## Summary
-Coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.
+## Description
+*Coronaviruses with a focus on SARS-CoV-2: features, life cycle, tropism, habitats and evolution.*
 
 ## Systematics of Coronaviruses
 
 ### Nidovirales
-Coronaviruses belong to the order of Nidovirales. Nidovirales are positive single-stranded, non-segmented and enveloped RNA viruses. This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. Nido is latin for nest and describes two distinguishing features:  
+Coronaviruses belong to the order of Nidovirales. Nidovirales are positive single-stranded, non-segmented and enveloped [RNA viruses](life-forms.md#rna-virus). This means that their genetic material is encoded as a single positive strand of RNA - the same way as messenger RNA pieces of the cell. Enveloped means they have a membrane. Nido is latin for nest and describes two distinguishing features:  
 * Nidovirales share a gene expression pattern in which several genes are encoded on the same RNA piece in a nested way[todo add ref lai 92]. 
 * Moreover they partly shield their metabolism with nest like structures (double vesicles membrane vesicles [Lim et al 2016](#lim,liu-2016)) inside the host cell where the new virions are assembled. 
 
