@@ -61,22 +61,17 @@ This section overviews the entire content. The [content section](#content) lists
     - updates still in work
 - 12.11.: Proposal for an [Advisory Covid App](7_social/advisory_covid_app.md)
 
-- 9.9. [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md): How the immune system developes during lifetime and how the pathogen exposures induce immune adaptions which are often localized. During childhood SARS-CoV-2 is just another new virus as each virus is encountered once for the first time. With increasing age the immune system increasingly relies on the previously seen pathogens and looses capabilities to handle new viruses.
-
-  > Early online due to its relevance for questions such as whether to vaccinate children or to close schools.
-
-  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity upon SARS-CoV-2 Infections and the wanted and unwanted Effects of the currently available/used vaccines). One goal is to contribute to scientific foundations for rational vaccines recommendations.
 
 
 ### News Board
 - 17.1.22: *Findings and interpretations are stated, to the best knowledge, even-handed. Human rights are kept in mind.*
 
+<!-- 17./27.1.22 (adapted from 5.12.21): From an epidemiological perspective, systemic spike-only vaccines do not to reduce SARS-CoV-2 transmissions but mainly prevent pneumonia (which is great and very important). Additionally spike-only immunity put mutation pressure on the spikes which can increase the spike mutation rate, which can both yield escape variants and change the tropism. The latter can be favorable or not. Overall it is unclear whether it has benefits to [push to] vaccinate those not at risk for pneumonia. Thus the benefits-risks calculation can be done at  individual calculations [from a scientific perspective]. -->
 
-<!--- 17.1.22 (adapted from programming comment from 5.12.21): As spike-only vaccines turned out not to control SARS-CoV-2, from a coronavirus perspective [alone], the benefits to [push to] vaccinate non risk groups are unclear.-->
-> - 14./15./17.1.22  How this page was communicated/marketed or not communicated was often bad/didn't work timely. Many successful projects were done good enough they spread on their own, which is challenging in many aspects. Here, some awkwardness, a messy presentation, missing rigor and controversial and/or not well founded content may not have helped. To communicate more is a goal and to publish selected chapters on searchable science portals (some polishing is needed first). The general focus will be on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). 
+> - 14./15./17./27.1.22  How this page was communicated/marketed or not communicated often was bad/didn't work. To re-search and to work on content went and goes for me often easier than (written) communication and sometimes being (too) ambitious or insecure on content was also taken as a reason to procrastinate communication. Many successful projects or at least concepts were done good enough they spread on their own, which is challenging in many aspects. Here, some awkwardness, a messy presentation, missing rigor and controversial and/or not well founded content may not have helped. To communicate more is a goal and to publish selected chapters on searchable science portals (some polishing will be done first). The general focus will be on basic science such as [Virion Viability](2_biological/virion_viability.md) or [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md). 
 
 
-- 7.-11.1.22: Rolling updates of the [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show that lung cells are less susceptible to Omicron - likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for immune cell infection. 3) ABs inducing phagocytosis decay slower than ABs inducing other functions such as cytotoxicity after natural infection (possibly too after vaccination).
+- 7.-11.1.22: Rolling updates of the [Omicron Chapter](2_biological/omicron.md): Summary updated: 1) Omicron infects the lungs less. In agreement, in vitro experiments show Omicron replicates less in the lungs. Likely since Omicron enters cells mainly via the endosomal cathepsin primed pathway and not through the TMPRSS2 primed cell surface pathway. 2) A few month after vaccination the efficacy against infection can turn negative (once infected, the vaccine induced immunity still protects against severe disease). Both observations provide evidence for immune cell infection. 3) The levels of ABs inducing phagocytosis decay slower than the levels of ABs inducing other functions such as cytotoxicity after natural infection (if the mechanism is independent of the way of immunization, likely too after vaccination).
 
 - 1.1. - 12.1. Clarifications and formulations across the page. E.g. [Suggestions and Tips](1_introduction/suggestions.md) clarified and most content was written in the first and second wave in 2020 when the Covid situations were different.
 
@@ -92,7 +87,7 @@ This section overviews the entire content. The [content section](#content) lists
   > Omicron is a new Chapter and not just an Update, both biological and organizational.
 
 
-- 27.11. (pinned): *Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.* //as of January 2022, this counts for most.
+- 27.11. (pinned): *Restrictions should be nearly no for children, very relaxed teenagers and relaxed for the twenties.* //as of January 2022, few restriction are necessary anyways.
 
 ---
 
@@ -182,7 +177,7 @@ This section overviews the entire content. The [content section](#content) lists
 - [Coronaviruses](2_biological/coronavirus.md). Life cycle, distinguishing features and capabilities of coronaviruses.
   - [Coronavirus Evolution](2_biological/coronavirus_evolution.md)
   - [Backtracing Sars-CoV-1/2](./2_biological/hosts_of_nidovirales.md#backtracing-sars-cov-12) (*explorative*)
-    The natural habitat of SARS-CoV-1/2 likely includes domestic animals and insects in the region northern Yunnan. Possibly the life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
+    The natural habitat of SARS-CoV-1/2 may include domestic animals and/or insects in the region northern Yunnan. Possibly the life cycle of SARS-like is alternating in hosts and follows nutrient cycles. 
 
 
 

@@ -10,6 +10,11 @@ Larger updates here, smaller updates are noted in the section [Minor Updates](#m
 
 > Note: Not all links work since the page structure has changed.
 
+- 9.9. [Development and Localization of the Immunity](4_immunological/ontogenesis_and_locality_of_immunity.md): How the immune system developes during lifetime and how the pathogen exposures induce immune adaptions which are often localized. During childhood SARS-CoV-2 is just another new virus as each virus is encountered once for the first time. With increasing age the immune system increasingly relies on the previously seen pathogens and looses capabilities to handle new viruses.
+
+  > Early online due to its relevance for questions such as whether to vaccinate children or to close schools.
+
+  > The chapter is part of a bundle of chapters where the immunity regarding virus infections with a focus on SARS-CoV-2 infections is considered (other chapters in work are Acquired Immunity upon SARS-CoV-2 Infections and the wanted and unwanted Effects of the currently available/used vaccines). One goal is to contribute to scientific foundations for rational vaccines recommendations.
 
 
 - 12.7. How a SARS-CoV-2 variant can have a competition advantage by infecting faster or by immune evasion even without having a higher transmissibility (defined as the average R value): [Competition Advantages and Transmissibility](5_epidemiological/competition_advantages.md).
