@@ -146,6 +146,8 @@ The SARS-like disease patterns could disappear and omicron induced disease could
 
 ## References
 
+
+
 ### Refs Biology of Omicron 
 #### Zhang
 Zhang X, Wu S, Wu B, Yang Q, Chen A, Li Y, Zhang Y, Pan T, Zhang H, He X. SARS-CoV-2 Omicron strain exhibits potent capabilities for immune evasion and viral entrance. Signal Transduction and Targeted Therapy. 2021 Dec 17;6(1):1-3.
@@ -164,6 +166,9 @@ Hu, J., Peng, P., Wu, K., Long, Q. X., Chen, J., Wang, K., ... & Huang, A. L. (2
 
 > AB evasion but less efficient replication in 
 
+#### Bojkova
+Bojkova D, Widera M, Ciesek S, Wass MN, Michaelis M, Cinatl J. Reduced interferon antagonism but similar drug sensitivity in Omicron variant compared to Delta variant of SARS-CoV-2 isolates. Cell Research. 2022 Jan 21:1-3.
+
 
 ### Refs Omicron Spike Computer based Simulations
 
@@ -177,16 +182,22 @@ Fratev, F. (2021). The High Transmission of SARS-CoV-2 Omicron (B. 1.1. 529) Var
 
 > less binding
 
+
+
 #### Kumar
 Kumar S, Thambiraja TS, Karuppanan K, Subramaniam G. Omicron and Delta Variant of SARS‐CoV‐2: A Comparative Computational Study of Spike Protein. Journal of Medical Virology. 2021 Jan 1.
+
+> Analysis of molecular properties by several computational tools. Docking energies using HEX tool predict -540 for Omicron, -530 for delta and -500 for wild type. More alpha helices for delta (23.5%) compared to 22% for delta.
+
 
 #### Sadek
 Sadek, A., Zaha, D., & Ahmed, M. S. (2021). Structural Insights of SARS-CoV-2 Spike Protein from Delta and Omicron Variants. bioRxiv.
 
+
 #### Carter
 Carter C, Airas J, Parish CA. Wild Type and Omicron SARS-CoV-2 Spike Receptor Binding Domains Bind Similarly to the Human ACE2 Receptor: An MM-GBSA Study.
 
-> sim
+> similar
 
 
 
@@ -194,16 +205,19 @@ Carter C, Airas J, Parish CA. Wild Type and Omicron SARS-CoV-2 Spike Receptor Bi
 ### Refs Tropism of Omicron
 
 #### Summary HKUMed
-*HKUMed finds Omicron SARS-CoV-2 can infect faster and better than Delta in human bronchus but with less severe infection in lung*
+*HKUMed finds Omicron SARS-CoV-2 can infect faster and better than Delta in human bronchus but with less severe infection in lung*, December 2021
 https://www.med.hku.hk/en/news/press/20211215-omicron-sars-cov-2-infection
 
-> This study does not tell a tropism for macrophages, it just indicates a changed tropism. A tropism for the bronchi could explain some vaccine escape since they are farther away from systemic immunity. However from a tropism for the bronchi alone, unlikely induces a reduction of the immunity induced by natural infections.
+> In view of the hypothesis of immune cell infection, this study does not tell a tropism for macrophages, it just indicates a changed tropism. A tropism for the bronchi could explain some vaccine escape since they are farther away from systemic immunity. However from a tropism for the bronchi alone, unlikely induces a reduction of the immunity induced by natural infections.
+
 
 #### Chan
 Chan MC, Hui KP, Ho J, Cheung MC, Ng KC, Ching R, Lai KL, Kam T, Gu H, Sit KY, Hsin M. SARS-CoV-2 Omicron variant replication in human respiratory tract ex vivo.
 
+
 #### Marais
 Marais, G. J. K., Hsiao, N. Y., Iranzadeh, A., Doolabh, D., Enoch, A., Chu, C. Y., ... & Hardie, D. R. (2021). Saliva swabs are the preferred sample for Omicron detection. medRxiv.
+
 
 #### Zhao
 Zhao H, Lu L, Peng Z, Chen LL, Meng X, Zhang C, Ip JD, Chan WM, Chu AW, Chan KH, Jin DY. SARS-CoV-2 Omicron variant shows less efficient replication and fusion activity when compared with delta variant in TMPRSS2-expressed cells: Omicron variant replication kinetics. Emerging Microbes & Infections. 2021 Dec 27(just-accepted):1-8.
@@ -213,8 +227,6 @@ Zhao H, Lu L, Peng Z, Chen LL, Meng X, Zhang C, Ip JD, Chan WM, Chu AW, Chan KH,
 <https://www.gla.ac.uk/media/Media_829360_smxx.pdf>
 
 > The study does bundles different laboratory and epidemiological investigations, there the findings are grouped by investigations type (and not by methods/results as normally)
-
-> In work
 
 __Antibody Binding:__
 Omicron escapes antibodies well
@@ -229,10 +241,106 @@ Omicron enters mostly through the endosomal activated by cathepsins and not thro
 #### Sato
 Sato K, Suzuki R, Yamasoba D, Kimura I, Wang L, Kishimoto M, Ito J, Morioka Y, Nao N, Nasser H, Uriu K. Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant.
 
+
+
+
 ### Refs Animal Models
 
-#### Diamond
+#### Summary Diamond
 Diamond, Michael & Halfmann, Peter & Maemura, Tadashi & Iwatsuki-Horimoto, Kiyoko & Iida, Shun & Kiso, Maki & Scheaffer, Suzanne & Darling, Tamarand & Joshi, Astha & Loeber, Samantha & Foster, Stephanie & Ying, Baoling & Whitener, Bradley & Floyd, Katharine & Ujie, Michiko & Nakajima, Noriko & Ito, Mutsumi & Wright, Ryan & Uraki, Ryuta & Simon, Viviana. (2021). The SARS-CoV-2 B.1.1.529 Omicron virus causes attenuated infection and disease in mice and hamsters. 10.21203/rs.3.rs-1211792/v1. 
+
+##### Background
+Collaboration of different research groups of the SARS-CoV-2 Assessment of Viral Evolution (SAVE) program of the National Institute of Allergy and Infectious Diseases (NIAID) in the US.
+
+##### Methods 
+Replication of B.1.1.529 (Omicron) and other SARS-2 strains such as B.1.351 (Beta, HP01542), B.1.617.2 (Delta, strain hCoV-19/USA/WI-UW-5250/2021) in
+* in different mice: 129 mice at different ages, C57BL/6 mice, K18-hACE2 mice (human ACE2)
+* in different hamsters: syrian hamsters with native ACE2 and hACE2 hamsters
+
+##### Results in Short 
+* In mice, Omicron causes attenuated disease compared to other variants, the Omicron viral loads are similar in the lungs and the nose.
+* In hamsters, the the viral loads in the nose are similar to WT-like SARS-2 strains but the viral loads are much lower in the lungs compared to WT-like strains and compared to the viral loads in the nose. Thus in hamster, similar to observations in humans, the tropism shifts away from the lungs.
+
+##### Results
+Figure 1 shows the results for mice:
+* *Wild-type vs native ACE2:* Beta replicates better in ACE2-wild-type mice than Omicron, which indicates that Omicron may not bind that well to ACE2-wild-type (absolute values and relative percentages to other strains which are all similar). The viral loads are more similar between Omicron and Beta in  K18-hACE2 mice (Figure 1g)
+* *Viral Load in the nose vs lungs:* In mice (but not in hamsters Figure 2), the viral load of Omicron is higher in the lungs than in the nose (absolute values and as relative to WT-like S2 strains) both for ACE2-wild-type mice and hACE2 mice.
+* *Disease observed:* Omicron caused milder diseases even in hACE2 mice where similar viral loads have been observed.
+
+Figure 2 shows the results for syrian and hACE2 hamsters:
+* *Wild-type vs native ACE2:* hACE2 has not much effects on the viral loads of WT-like SARS-2 strains and Omicron.
+* *Viral Load in the nose vs lungs:* Omicron replicates to similar titres as WT-like SARS-2 strains, however Omicron replicates less well in the lungs both compared to WT-like strains and in absolute values (except in one experiment, where the viral load in the lungs are higher than in the nose, Figure 2f).
+* *Disease observed:* Omicron causes attenuated diseases:
+  * nearly no weight loss (a-e and l)
+  * lower CT scores (k)
+  * higher survival (m)
+  * Pathology by microscopy (Figure 3)
+
+
+#### Summary Shuai
+Shuai H, Chan JF, Hu B, Chai Y, Yuen TT, Yin F, Huang X, Yoon C, Hu JC, Liu H, Shi J. Attenuated replication and pathogenicity of SARS-CoV-2 B. 1.1. 529 Omicron. Nature. 2022 Jan 21:1-.
+
+> Summary partly based on an earlier version, only partly checked for updates
+
+##### Methods
+How Omicron behaves (accessed by RdRp gene copies, sgRNA of the E gene, virus titres) in compared to WT, Alpha, Beta, Delta with
+* In vitro experiment with different cells: Calu3, Caco2, VeroE6 with and without TMPRSS2 and 293T-ACE2 with and without TMPRSS2. 
+* In vivo experiment with K18-hACE2 transgenic mice and wildtype C57B6 mice.
+
+##### Results in Short
+* Omicron enters cells not via TMPRSS2 priming and in agreement replicates less in cells lines where TMPRSS2 priming is common such as Calu3 (lung cells) and Caco-2.
+* In mice, Omicron causes an attenuated disease and replicates less than other variants both in the nose and the lungs.
+
+##### Results
+Figure 1: 
+* Omicron replicates less well in the cell lines Calu3 and Caco2 and similarly in VeroE6 compared to WT, Alpha, Beta, Delta.
+* The cell viability (VeroE6-TMPRSS2) is highest in Delta and Omicron.
+
+Figure 2: TMPRSS2 expression on 293T-ACE2 or VeroE6 increases the entry of pseudoviruses with spikes from WT, Alpha, Beta and Delta, however TMPRSS2 expression hardly affects entry with Omicron spikes. In agreement camostat has limited effects on entry.
+
+Figure 3 and 4: Omicron in K18-hACE2 mice:
+* Omicron replicates less in both in nasal turbinate and the lungs compared to WT and Delta which replicate similar. Accessed by RdRp gene copies, subgenomic E and infectious titres which all produce similar results. Similarly, lower replication of Omicron compared to Alpha is observed in C57B6 wildtype mice as shown in Extended Data Fig. 2.. 
+* Also IP-10 and IFN gamma are lower in Omicron than Delta which in turn are lower than WT.
+* Weight loss and death rate from high to low: Alpha, WT, Beta, Delta, Omicron (Figure 3 e and f).
+* Omicron induces less lung pathology (Figure 4).
+
+=> In mice, Omicron replicates less and causes a less severe disease.
+
+
+
+#### Summary Yuan
+Yuan, S., Ye, Z. W., Liang, R., Tang, K., Zhang, A. J., Lu, G., ... & Chan, J. F. (2022). The SARS-CoV-2 Omicron (B. 1.1. 529) variant exhibits altered pathogenicity, transmissibility, and fitness in the golden Syrian hamster model. bioRxiv.
+
+"One Sentence Summary: The novel SARS-CoV-2 Omicron variant, though less pathogenic, is highly transmissible and outcompetes the Delta variant under immune selection pressure in the golden Syrian hamster COVID-19 model."
+
+##### Experiment 1: Pathogenicity of Omicron versus Delta in Syrian Hamsters
+(key findings shown in Figure 1 in the paper)
+###### Methods
+* At 0 dpi,intranasal inoculation with 100μL of DMEM containing 10^5 PFU of SARS-CoV-2.
+* At 2 dpi, 4 dpi, and 7 dpi (n=5 per variant per time-point) determine
+  * the viral load by qRT-PCR, virus titer by plaque assay
+  * histopathology by immunofluorescent staining.
+  * body weight and clinical score
+  * cytokines produced
+
+###### Results
+At day | viral load nose | viral load  trachea | viral load  lungs | viral load oral swab | clinical score | cytokines
+--|--|--|--|--|--|--
+2 dpi| similar | similar| lower | - |lower | lower except similar IFN beta
+4 dpi| lower | little lower | much lower | lower| much lower | all much lower except similar IFN alpha 
+7 dpi| lower |  lower| lower | much lower | much lower | all much lower
+
+
+##### Experiment 2: Contact and non-contact transmissions of the Omicron and Delta variants in Syrian Hamsters
+(key findings shown in Figure 2 in the paper)
+* Both variants readily transmit via contact reaching 100% in the experiment setting for both variants
+* High aerosol transmission and a tendency to be 10% higher for Omicron.
+
+##### Experiment 3: Competition assays between Omicron and Delta
+(key findings shown in Figure 3 in the paper)
+* *IN VITRO:* In lung derived Calu-3 cells, Delta outcompetes Omicron without antibodies (Fig 3 A and B). Omicron outcompetes Delta in the presence of antibodies against WT-like strains (Fig. 3 D)
+* *IN VIVO:* Methods: Naive and vaccinated hamsters (by inactivated virus vaccine) were six index hamsters were infected  intranasally with 10^5 PFU of a mixture of both viruses (1:1 ratio). Replication by viral load at 2 dpi and transmission by co-housing for 4 hours at 2 dpi. Results: In naive Syrian hamsters, Delta outcompetes Omicron by higher viral replication and onwards transmission to naive hamsters. In vaccinated index hamsters Omicron outcompetes Delta with higher replication and slightly higher onwards transmission to naive hamsters. // The viral loads of Delta were much higher in naive index hamsters at 2 dpi (Figure 3 I), which can explain the higher Delta transmission when co-housed in naive animals.
+
 
 
 
@@ -248,10 +356,14 @@ Roessler, A., Riepler, L., Bante, D., von Laer, D. and Kimpel, J., 2021. SARS-Co
 Wang, X., Zhao, X., Song, J., Wu, J., Zhu, Y., Li, M., ... & Wang, P. (2021). Homologous or Heterologous Booster of Inactivated Vaccine Reduces SARS-CoV-2 Omicron Variant Escape from Neutralizing Antibodies. bioRxiv.
 
 
+
+
 ### Refs T Cell Immunity
 
 #### Keeton
 Keeton, R., Tincho, M. B., Ngomti, A., Baguma, R., Benede, N., Suzuki, A., ... & Riou, C. (2021). SARS-CoV-2 spike T cell responses induced upon vaccination or infection remain robust against Omicron. medRxiv.
+
+
 
 #### Naranbhai
 Naranbhai V, Nathan A, Kaseke C, Berrios C, Khatri A, Choi S, Getz MA, Tano-Menka RK, Ofoman O, Gayton AC, Senjobe F. T cell reactivity to the SARS-CoV-2 Omicron variant is preserved in most but not all prior infected and vaccinated individuals. medRxiv. 2022 Jan 1.
@@ -260,21 +372,25 @@ Naranbhai V, Nathan A, Kaseke C, Berrios C, Khatri A, Choi S, Getz MA, Tano-Menk
 
 ### Refs Genetics of Omicron
 
+
 #### Durmaz
 Structural-bioinformatics analysis of SARS-CoV-2 variants reveals higher hACE2 receptor binding affinity for Omicron B.1.1.529 spike RBD compared to wild-type reference.
 
+<!--
+#### NextStrain
 
 #### CoVariants
 CoVariants. Variant: 21K (Omicron). 2021. Accessed December
 21, 2021. https://covariants.org/variants/21K.Omicron
 
-> "Spinoff" from the next-strain project. Contains notes and links about Omicron and other variants (incl all named variants).
-
+> "Spinoff" from the [next-strain project](#nextstrain). Contains notes and links about Omicron and other variants (incl all named variants).
+-->
 
 #### Venkatakrishnan
 Venkatakrishnan AJ, Anand P, Lenehan PJ, Suratekar R, Raghunathan B, Niesen MJ, Soundararajan V. Omicron variant of SARS-CoV-2 harbors a unique insertion mutation of putative viral or human genomic origin.
 
 > The proposed insertion mechanism is visualized in a (5-Minutes) video on the youtube channel Hussain Biology: Omicron Variant | Common Cold | Ins214EPE Mutation (<https://www.youtube.com/watch?v=fRJMmUmduI4>)
+
 
 
 #### Kannan
@@ -283,6 +399,8 @@ Kannan SR, Spratt AN, Sharma K, Chand HS, Byrareddy SN, Singh K. Omicron SARS-Co
 
 #### Lippi, Henry
 Lippi G, Mattiuzzi C, Henry BM. Updated picture of SARS-CoV-2 variants and mutations. Diagnosis. 2021 Dec 23.
+
+
 
 
 ### Refs Omicron Epidemiology
@@ -332,8 +450,8 @@ https://covid.cdc.gov/covid-data-tracker/#trends_dailycases_7daytestingpositive
   * 20.11.: 0.0%
   * 27.11.: 0.1% (0%-0.1%)
   * 4.12.: 0.7% (.4% - 1.1%)
-  * 11.12.:12.6% (5% - 26%)
-  * 18.12.:73% (34% - 95%)
+  * 11.12.: 12.6% (5% - 26%)
+  * 18.12.: 73% (34% - 95%)
 
 
 
@@ -365,7 +483,19 @@ Lippi, Giuseppe, Camilla Mattiuzzi, and Brandon M. Henry. "Is SARS-CoV-2 Omicron
 #### Christensen
 Christensen PA, Olsen RJ, Long SW, Snehal R, Davis JJ, Saavedra MO, Reppond K, Shyer MN, Cambric J, Gadd R, Thakur RM. Early signals of significantly increased vaccine breakthrough, decreased hospitalization rates, and less severe disease in patients with COVID-19 caused by the Omicron variant of SARS-CoV-2 in Houston, Texas. medRxiv. 2022 Jan 1:2021-12.
 
+#### Davies
+Davies, M. A., Kassanjee, R., Rousseau, P., Morden, E., Johnson, L., Solomon, W., ... & Boulle, A. (2022). Outcomes of laboratory-confirmed SARS-CoV-2 infection in the Omicron-driven fourth wave compared with previous waves in the Western Cape Province, South Africa. medRxiv.
 
+
+#### Lewnard
+Lewnard, J. A., Hong, V. X., Patel, M. M., Kahn, R., Lipsitch, M., & Tartof, S. Y. (2022). Clinical outcomes among patients infected with Omicron (B. 1.1. 529) SARS-CoV-2 variant in southern California. medRxiv.
+
+#### Bojkova
+Bojkova, D., Widera, M., Ciesek, S., Wass, M. N., Michaelis, M., & Cinatl, J. N. (2022). Reduced interferon antagonism but similar drug sensitivity in Omicron variant compared to Delta variant SARS-CoV-2 isolates. bioRxiv.
+
+
+#### Abdullah
+Abdullah F, Myers J, Basu D, Tintinger G, Ueckermann V, Mathebula M, Ramlall R, Spoor S, de Villiers T, Van der Walt Z, Cloete J. Decreased severity of disease during the first global omicron variant covid-19 outbreak in a large hospital in tshwane, south africa. International Journal of Infectious Diseases. 2021 Dec 28.
 
 
 ### Refs Omicron Viral Load
@@ -445,6 +575,8 @@ Atyeo C, DeRiso EA, Davis C, Bordt EA, De Guzman RM, Shook LL, Yonker LM, Fasano
 Adhikari, A., Abayasingam, A., Rodrigo, C., Agapiou, D., Pandzic, E., Brasher, N. A., ... & Tedla, N. (2021). Longitudinal characterisation of phagocytic and neutralisation functions of anti-Spike antibodies in plasma of patients after SARS-CoV-2 infection. bioRxiv.
 
 
+#### Bartsch
+Bartsch, Y., Tong, X., Kang, J., Avendaño, M. J., Serrano, E. F., García-Salum, T., ... & Alter, G. (2021). Preserved Omicron Spike specific antibody binding and Fc-recognition across COVID-19 vaccine platforms. medRxiv.
 
 
 
