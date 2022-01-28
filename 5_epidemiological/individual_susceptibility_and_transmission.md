@@ -177,14 +177,14 @@ Specifically, if an immune protection shifts the viral load distribution to lowe
 ##### Viral Load Shift by Immunity
 The same effect how the building up the vaccine immunity shifts the viral load distribution is also observed by [Regev-Yochay et al](#summary-regev-yochay) when the vaccine induced immunity builds up (fully vaccinated is 10 days after the 2nd dose) in their cohort of hospital staff. According to the distribution shift, the detection rates decrease respectively the protection rates for CT values below 30/40 gradually increase:
 
-Status  | Mean Ct values | reduction Ct<40 | reduction Ct<30
---|--|--|--
-unvacc     | 22   |0 % (ref) | 0 % (ref)
-early vacc | 23   | 29 % | 45 %
-part. vacc | 26   | 55 % | 59 %
-fully vacc | 27   | 66 % | 70 %
+Status  | mean Ct  | reduction mean Ct |  reduction Ct<40 | reduction Ct<30
+--|--|--|--|--
+unvacc     | 22.2   | 0 (ref) | 0 % (ref) | 0 % (ref)
+early vacc | 24     | 1.8 | 29 % | 45 %
+part. vacc | 25.8   | 3.6 |55 % | 59 %
+fully vacc | 27.3   | 5.1 | 66 % | 70 %
 
-> The mean Ct values are taken from Fig. 3. in the paper. //For a couple of weeks (until 28.1.22) the mentioned Fig. 3 was displayed above, but since the license is CC BY-NC-ND (and not open access by CC BY as I previously thought) it is currently not shown anymore. For the time being only CC BY graphics are shown on this page.
+> As of 28.1.22, the mean Ct values are roughly read from Fig. 3. in the paper. //For a couple of weeks (until 28.1.22) the mentioned Fig. 3 was displayed above, but since the license is CC BY-NC-ND (and not open access by CC BY as I previously thought) it is currently not shown anymore. For the time being only CC BY graphics are shown on this page.
 
 
 
