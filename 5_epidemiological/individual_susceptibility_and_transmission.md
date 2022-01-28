@@ -175,18 +175,17 @@ Specifically, if an immune protection shifts the viral load distribution to lowe
 #### Viral Load Distribution Shifts
 
 ##### Viral Load Shift by Immunity
-The same effect how the building up the vaccine immunity shifts the viral load distribution is also observed by [Regev-Yochay et al](#summary-regev-yochay) when the vaccine induced immunity builds up (fully vaccinated is 10 days after the 2nd dose) in their cohort of hospital staff.
+The same effect how the building up the vaccine immunity shifts the viral load distribution is also observed by [Regev-Yochay et al](#summary-regev-yochay) when the vaccine induced immunity builds up (fully vaccinated is 10 days after the 2nd dose) in their cohort of hospital staff. According to the distribution shift, the detection rates decrease respectively the protection rates for CT values below 30/40 gradually increase:
 
-![Viral Load by Vaccination Status](images/ry_viral_load.jpg)
+Status  | Mean Ct values | reduction Ct<40 | reduction Ct<30
+--|--|--|--
+unvacc     | 22   |0 % (ref) | 0 % (ref)
+early vacc | 23   | 29 % | 45 %
+part. vacc | 26   | 55 % | 59 %
+fully vacc | 27   | 66 % | 70 %
 
-According to the distribution shift, the detection rates decrease respectively the protection rates for CT values below 30/40 gradually increase:
+> The mean Ct values are taken from Fig. 3. in the paper. //For a couple of weeks (until 28.1.22) the mentioned Fig. 3 was displayed above, but since the license is CC BY-NC-ND (and not open access by CC BY as I previously thought) it is currently not shown anymore. For the time being only CC BY graphics are shown on this page.
 
-Status  | reduction Ct<40 | reduction Ct<30
---|--|--
-unvacc     | 0 % (ref) | 0 % (ref)
-early vacc | 29 % | 45 %
-part. vacc | 55 % | 59 %
-fully vacc | 66 % | 70 %
 
 
 <!--
@@ -996,6 +995,9 @@ Protection against reinfection at least months after first infection:
 
 #### Summary Lyngse
 Lyngse, F.P., Mølbak, K., Franck, K.T., Nielsen, C., Skov, R.L., Voldstedlund, M., Cohen, A.S. and Kirkeby, C.T., 2021. Association between SARS-CoV-2 Transmissibility, Viral Load, and Age in Households. medRxiv.
+
+#### Honge
+Hønge BL, Hindhede L, Kaspersen KA, Harritshøj LH, Mikkelsen S, Holm DK, Nilsson AC, Sækmose SG, Sørensen E, Aagaard B, Hjalgrim H. Long-term detection of SARS-CoV-2 antibodies after infection and risk of re-infection. International Journal of Infectious Diseases. 2022 Jan 22.
 
 
 ### Refs Cohort Studies in Qatar 
