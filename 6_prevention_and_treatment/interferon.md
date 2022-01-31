@@ -17,6 +17,7 @@
   * [Overview Systemic IFN Alpha](#overview-systemic-ifn-alpha)
   * [Overview Systemic IFN Beta](#overview-systemic-ifn-beta)
   * [Overview Systemic IFN Lambda](#overview-systemic-ifn-lambda)
+* [Changes in Treatment Outcomes](#changes-in-treatment-outcomes)
 * [IFN Medications used](#ifn-medications-used)
   * [IFN-alpha 2b](#ifn-alpha-2b)
 * [Considerations on the Treatment Start](#considerations-on-the-treatment-start)
@@ -42,9 +43,10 @@
 
 
 ## Conceptual Summary
-Interferons (IFNs) are signalling proteins which induce an antiviral state in their target cells. Interferons also can induce tissue inflammation - either directly or through a cascade of ongoing signals. Most interferons can be produced artificially. IFNs can be administrated either topically (=locally, e.g. aerosolized or by spray to the respiratory tract or as cream) or systemically (subcutaneous, intramuscular, intravenously).
+Interferons (IFNs) are signalling proteins which induce an antiviral state in their target cells. Interferons also can induce tissue inflammation - either direct or through a cascade of ongoing signals. Many interferons can be produced artificially. IFNs can be administrated either topically (=locally, e.g. aerosolized or by spray to the respiratory tract or as cream) or systemically (subcutaneous, intramuscular, intravenously).
 
 Interferon treatments inhibit the replication of SARS-CoV-2 viruses in the respiratory tract and thereby, if administrated before there are many viruses, prevents disease progression: Early initiated interferon treatments have been shown to reduce the Covid mortality by over 75%. When patients are already at an advanced disease stage, systemically administrated interferons often have adverse effects on the outcome due to the mentioned inflammatory effects. For topical application even some benefits in mid to advanced disease stages are observed. 
+
 
 
 ## Summarized Observations
@@ -77,6 +79,7 @@ Systemic IFNs show benefits if given very early in a mild disease stage. At late
 
 ## Introduction
 The induction of interferons is one of the first immune responses upon a viral infection. Interferons induce an antiviral state of the cells. For many epithelial cells the metabolisms is slowed down or even paused [to specify and cite] and interferons activate the immune system. The timing for the treatment start is thus relevant and always specified as a category early, mid or late ([Consideration on the Treatment Start](#considerations-on-the-treatment-start)).
+
 
 
 ## Overview Topical IFN
@@ -142,6 +145,19 @@ Author | Type | Treatment | Status_at_Treatment Start | Effects_Mid_Administrati
 --|--|--|--|--|--|--
 [Jagannathan](#summary-jagannathan)| single-blind, placebo- controlled trial |   single, 180 mcg subcutaneous dose of Peginterferon Lambda |120 (60 per group) outpatients with mild to moderate COVID-19, outpatients with mean of 4 symptom days; seropositivity in treatment-group 35% and in control 47% | -|viral shedding was 7 days (hazard ratio [HR] = 0.81; 95% confidence interval [CI] 0.56 to 1.19). Symptoms resolved in 8 (Lambda) and 9 (placebo) (HR 0.94; 95% CI 0.64 to 1.39)| classified as late administration due to high seroprevalence 
 [Feld](#summary-feld)|  double-blind, placebo-controlled trial |  subcutaneous injection of peginterferon lambda 180 μg | outpatients with mean of 4.3 symptom days; seropositivity in treatment-group 0% and in control 21%| viral load declines faster (difference of 2·42 log copies per mL at day 7); undetectable virus by day 7 more likely (odds ratio [OR] 4·12 [95% CI 1·15–16·73| ||
+
+
+
+## Changes in Treatment Outcomes
+IFN treatment effects are possibly SARS-CoV-2 variant specific and change with the acquired immunity status:
+  - In vitro experiments indicate that Omicron induces more IFN than previous variants in some settings.
+  - When acquired immunity is present, a changed IFN induction could occur. For example F_c mediated uptake by macrophages or dendritic cells could induce higher IFN secretion. Also the changed cytokines landscape (e.g. due to CD4 T cells), possibly changes the effects of external IFNs.
+
+> To evaluate IFN treatments effects up-to-date and detect changing effects, analyzing whether individuals receiving IFN treatments for other indications (for example multiple sclerosis), have different probabilities to test positive and to be hospitalized due to Covid. 
+>> Similarly, the effects of interferon treatments on other viral infections (e.g. for influenza).
+
+
+
 
 ## IFN Medications used
 [in work]

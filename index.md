@@ -64,6 +64,9 @@ This section overviews the entire content. The [content section](#content) lists
 
 
 ### News Board
+
+- 31.1.22: Possibly [changed IFN treatment effects](6_prevention_and_treatment/interferon.md#changes-in-treatment-outcomes) with Omicron and with acquired immunity present. Looking at individuals treated with IFNs for other indications, could discover changes in treatment effects.
+
 - 17./30.1.22: *Findings and interpretations are stated, to the best knowledge, even-handed. Biased thinking may happen nevertheless, please point out. Human rights are kept in mind.*
 
 <!-- 17./27.1.22 (adapted from 5.12.21): From an epidemiological perspective, systemic spike-only vaccines do not to reduce SARS-CoV-2 transmissions but mainly prevent pneumonia (which is great and very important). Additionally spike-only immunity put mutation pressure on the spikes which can increase the spike mutation rate, which can both yield escape variants and change the tropism. The latter can be favorable or not. Overall it is unclear whether it has benefits to [push to] vaccinate those not at risk for pneumonia. Thus the benefits-risks calculation can be done at individual calculations [from a scientific perspective]. -->
