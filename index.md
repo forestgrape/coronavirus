@@ -12,7 +12,7 @@ explorative: 1
 > 24.2.2022
 > A ceasefire and stop of all military actions are important to enable negotiations and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace can get more difficult with any further escalation.
 > <br>
-> *Everyone* seems to agree that *the people in Ukraine are innocent and endowed with all the human rights*.
+> *Everyone* seems to agree that *the people of the Ukraine are innocent and endowed with all the human rights*.
 
 
 
