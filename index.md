@@ -5,6 +5,9 @@ technicality: 1
 explorative: 1
 ---
 
+
+
+<br>
 > # Cease-Fire
 > 24.2.2022
 > A ceasefire and stop of all military actions are important to enable negotiations and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace can get more difficult with any further escalation.
