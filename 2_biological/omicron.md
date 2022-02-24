@@ -14,13 +14,16 @@
   * [Significance of a changed Tropism](#significance-of-a-changed-tropism)
 * [References](#references)
   * [Refs Biology of Omicron](#refs-biology-of-omicron)
-  * [Refs Omicron Spike Computer based Simulations](#refs-omicron-spike-computer-based-simulations)
+  * [Refs Omicron Treatment](#refs-omicron-treatment)
+  * [Refs Omicron Spike Binding by Simulations](#refs-omicron-spike-binding-by-simulations)
   * [Refs Tropism of Omicron](#refs-tropism-of-omicron)
   * [Refs Animal Models](#refs-animal-models)
   * [Refs AB Binding and Neutralization](#refs-ab-binding-and-neutralization)
   * [Refs T Cell Immunity](#refs-t-cell-immunity)
   * [Refs Genetics of Omicron](#refs-genetics-of-omicron)
   * [Refs Omicron Epidemiology](#refs-omicron-epidemiology)
+  * [Refs Epidemiology in South Africa](#refs-epidemiology-in-south-africa)
+  * [Refs Epidemiology in Norway](#refs-epidemiology-in-norway)
   * [Refs Epidemiology in the UK](#refs-epidemiology-in-the-uk)
   * [Refs Epidemiology in the US](#refs-epidemiology-in-the-us)
   * [Refs Epidemiology in Canada](#refs-epidemiology-in-canada)
@@ -28,7 +31,7 @@
   * [Refs Omicron Viral Load](#refs-omicron-viral-load)
   * [Refs Epidemiological Vaccines Effectiveness](#refs-epidemiological-vaccines-effectiveness)
   * [Refs Antibody Types and their Kinetics](#refs-antibody-types-and-their-kinetics)
-  * [References ADE](#references-ade)
+  * [Refs ADE](#refs-ade)
 
 
 
@@ -149,6 +152,7 @@ The SARS-like disease patterns could disappear and omicron induced disease could
 
 
 ### Refs Biology of Omicron 
+
 #### Zhang
 Zhang X, Wu S, Wu B, Yang Q, Chen A, Li Y, Zhang Y, Pan T, Zhang H, He X. SARS-CoV-2 Omicron strain exhibits potent capabilities for immune evasion and viral entrance. Signal Transduction and Targeted Therapy. 2021 Dec 17;6(1):1-3.
 
@@ -166,11 +170,30 @@ Hu, J., Peng, P., Wu, K., Long, Q. X., Chen, J., Wang, K., ... & Huang, A. L. (2
 
 > AB evasion but less efficient replication in 
 
-#### Bojkova
-Bojkova D, Widera M, Ciesek S, Wass MN, Michaelis M, Cinatl J. Reduced interferon antagonism but similar drug sensitivity in Omicron variant compared to Delta variant of SARS-CoV-2 isolates. Cell Research. 2022 Jan 21:1-3.
 
 
-### Refs Omicron Spike Computer based Simulations
+
+
+
+### Refs Omicron Treatment
+
+
+#### Chong
+Chong Z, Karl CE, Halfmann PJ, Kawaoka Y, Winkler ES, Yu J, Diamond MS. Nasally-delivered interferon-λ protects mice against upper and lower respiratory tract infection of SARS-CoV-2 variants including Omicron 2.
+
+
+
+#### Summary Bojkova
+Bojkova, D., Widera, M., Ciesek, S. et al. Reduced interferon antagonism but similar drug sensitivity in Omicron variant compared to Delta variant of SARS-CoV-2 isolates. Cell Res (2022). <https://doi.org/10.1038/s41422-022-00619-9>
+
+
+
+
+
+
+
+
+### Refs Omicron Spike Binding by Simulations
 
 #### Glocker
 Glocker, M. O., Opuni, K. F., & Thiesen, H. J. (2021). Compared with SARS-CoV2 wild type's spike protein, the SARS-CoV2 omicron's receptor binding motif has adopted a more SARS-CoV1 and/or bat/civet-like structure. bioRxiv.
@@ -187,7 +210,7 @@ Fratev, F. (2021). The High Transmission of SARS-CoV-2 Omicron (B. 1.1. 529) Var
 #### Kumar
 Kumar S, Thambiraja TS, Karuppanan K, Subramaniam G. Omicron and Delta Variant of SARS‐CoV‐2: A Comparative Computational Study of Spike Protein. Journal of Medical Virology. 2021 Jan 1.
 
-> Analysis of molecular properties by several computational tools. Docking energies using HEX tool predict -540 for Omicron, -530 for delta and -500 for wild type. More alpha helices for delta (23.5%) compared to 22% for delta.
+> Analysis of molecular properties by several computational tools. Docking energies using HEX tool predict -540 for Omicron, -530 for delta and -500 for wild type => Omicron better binding. More alpha helices for delta (23.5%) compared to 22% for delta.
 
 
 #### Sadek
@@ -197,7 +220,7 @@ Sadek, A., Zaha, D., & Ahmed, M. S. (2021). Structural Insights of SARS-CoV-2 Sp
 #### Carter
 Carter C, Airas J, Parish CA. Wild Type and Omicron SARS-CoV-2 Spike Receptor Binding Domains Bind Similarly to the Human ACE2 Receptor: An MM-GBSA Study.
 
-> similar
+> similar binding
 
 
 
@@ -208,7 +231,7 @@ Carter C, Airas J, Parish CA. Wild Type and Omicron SARS-CoV-2 Spike Receptor Bi
 *HKUMed finds Omicron SARS-CoV-2 can infect faster and better than Delta in human bronchus but with less severe infection in lung*, December 2021
 https://www.med.hku.hk/en/news/press/20211215-omicron-sars-cov-2-infection
 
-> In view of the hypothesis of immune cell infection, this study does not tell a tropism for macrophages, it just indicates a changed tropism. A tropism for the bronchi could explain some vaccine escape since they are farther away from systemic immunity. However from a tropism for the bronchi alone, unlikely induces a reduction of the immunity induced by natural infections.
+> A tropism for the bronchi and less for the lungs is good since a severe disease is much when the lungs are infected. In view of the hypothesis of immune cell infection, this study does not tell a tropism for macrophages, it just indicates a changed tropism. A tropism for the bronchi could explain some vaccine escape since they are farther away from systemic immunity. Tough escaping natural immunity is unlikely by a tropism for the bronchi alone.
 
 
 #### Chan
@@ -315,7 +338,8 @@ Yuan, S., Ye, Z. W., Liang, R., Tang, K., Zhang, A. J., Lu, G., ... & Chan, J. F
 
 ##### Experiment 1: Pathogenicity of Omicron versus Delta in Syrian Hamsters
 (key findings shown in Figure 1 in the paper)
-###### Methods
+
+_Methods Experiment 1:_
 * At 0 dpi,intranasal inoculation with 100μL of DMEM containing 10^5 PFU of SARS-CoV-2.
 * At 2 dpi, 4 dpi, and 7 dpi (n=5 per variant per time-point) determine
   * the viral load by qRT-PCR, virus titer by plaque assay
@@ -323,7 +347,7 @@ Yuan, S., Ye, Z. W., Liang, R., Tang, K., Zhang, A. J., Lu, G., ... & Chan, J. F
   * body weight and clinical score
   * cytokines produced
 
-###### Results
+_Results Experiment 1:_
 At day | viral load nose | viral load  trachea | viral load  lungs | viral load oral swab | clinical score | cytokines
 --|--|--|--|--|--|--
 2 dpi| similar | similar| lower | - |lower | lower except similar IFN beta
@@ -368,6 +392,17 @@ Keeton, R., Tincho, M. B., Ngomti, A., Baguma, R., Benede, N., Suzuki, A., ... &
 #### Naranbhai
 Naranbhai V, Nathan A, Kaseke C, Berrios C, Khatri A, Choi S, Getz MA, Tano-Menka RK, Ofoman O, Gayton AC, Senjobe F. T cell reactivity to the SARS-CoV-2 Omicron variant is preserved in most but not all prior infected and vaccinated individuals. medRxiv. 2022 Jan 1.
 
+#### Jergovic
+Resilient T cell responses to B.1.1.529 (Omicron) SARS-CoV-2 variant
+Mladen Jergovic, Christopher P. Coplen, Jennifer L. Uhrlaub, Shawn C. Beitel, Jefferey L. Burgess, Karen Lutrick, Katherine D. Ellingson, Makiko Watanabe, Janko Nikolich-Žugich
+medRxiv 2022.01.16.22269361; doi: https://doi.org/10.1101/2022.01.16.22269361
+
+#### Choi
+Choi, S.J., Kim, DU., Noh, J.Y. et al. T cell epitopes in SARS-CoV-2 proteins are substantially conserved in the Omicron variant. Cell Mol Immunol (2022). https://doi.org/10.1038/s41423-022-00838-5
+
+
+
+
 
 
 ### Refs Genetics of Omicron
@@ -403,24 +438,34 @@ Lippi G, Mattiuzzi C, Henry BM. Updated picture of SARS-CoV-2 variants and mutat
 
 
 
+
+
 ### Refs Omicron Epidemiology
-
-
-#### Pulliam
-Pulliam, J.R., van Schalkwyk, C., Govender, N., von Gottberg, A., Cohen, C., Groome, M.J., Dushoff, J., Mlisana, K. and Moultrie, H., 2021. Increased risk of SARS-CoV-2 reinfection associated with emergence of the Omicron variant in South Africa. medRxiv.
-
 
 #### Karim
 Karim, S., & Karim, Q. A. (2021). Omicron SARS-CoV-2 variant: a new chapter in the COVID-19 pandemic. Lancet (London, England), 398(10317), 2126–2128. <https://doi.org/10.1016/S0140-6736(21)02758-6>
 
 
+
+#### Cedro-Tanda
+Cedro-Tanda, A., Gomez-Romero, L., de Anda-Jauregui, G., Garnica-Lopez, D., Alfaro-Mora, Y., Sanchez-Xochipa, S., ... & Herrera, L. A. (2022). Early genomic, epidemiological, and clinical description of the SARS-CoV-2 Omicron variant in Mexico City. medRxiv.
+
+
+### Refs Epidemiology in South Africa
+#### Pulliam
+Pulliam, J.R., van Schalkwyk, C., Govender, N., von Gottberg, A., Cohen, C., Groome, M.J., Dushoff, J., Mlisana, K. and Moultrie, H., 2021. Increased risk of SARS-CoV-2 reinfection associated with emergence of the Omicron variant in South Africa. medRxiv.
+
+
+### Refs Epidemiology in Norway
 #### Brandal
 Brandal LT, MacDonald E, Veneti L, Ravlo T, Lange H, Naseer U, Feruglio S, Bragstad K, Hungnes O, Ødeskaug LE, Hagen F. Outbreak caused by the SARS-CoV-2 Omicron variant in Norway, November to December 2021. Eurosurveillance. 2021 Dec 16;26(50):2101147.
 
 
+#### Jalali
+Jalali, N., Brustad, H. K., Frigessi, A., MacDonald, E. A., Meijerink, H., Feruglio, S. L., ... & De Blasio, B. F. (2022). Increased household transmission and immune escape of the SARS-CoV-2 Omicron variant compared to the Delta variant: evidence from Norwegian contact tracing and vaccination data. medRxiv.
+
 
 ### Refs Epidemiology in the UK
-
 
 #### Summary UK Technical Briefing 31
 *SARS-CoV-2 variants of concern and variants under investigation in England*
@@ -469,6 +514,8 @@ https://public.tableau.com/app/profile/bccdc/viz/BCCDCCOVID-19SurveillanceDashbo
 
 
 
+
+
 ### Refs Disease Caused by Omicron
 
 
@@ -483,6 +530,7 @@ Lippi, Giuseppe, Camilla Mattiuzzi, and Brandon M. Henry. "Is SARS-CoV-2 Omicron
 #### Christensen
 Christensen PA, Olsen RJ, Long SW, Snehal R, Davis JJ, Saavedra MO, Reppond K, Shyer MN, Cambric J, Gadd R, Thakur RM. Early signals of significantly increased vaccine breakthrough, decreased hospitalization rates, and less severe disease in patients with COVID-19 caused by the Omicron variant of SARS-CoV-2 in Houston, Texas. medRxiv. 2022 Jan 1:2021-12.
 
+
 #### Davies
 Davies, M. A., Kassanjee, R., Rousseau, P., Morden, E., Johnson, L., Solomon, W., ... & Boulle, A. (2022). Outcomes of laboratory-confirmed SARS-CoV-2 infection in the Omicron-driven fourth wave compared with previous waves in the Western Cape Province, South Africa. medRxiv.
 
@@ -490,18 +538,34 @@ Davies, M. A., Kassanjee, R., Rousseau, P., Morden, E., Johnson, L., Solomon, W.
 #### Lewnard
 Lewnard, J. A., Hong, V. X., Patel, M. M., Kahn, R., Lipsitch, M., & Tartof, S. Y. (2022). Clinical outcomes among patients infected with Omicron (B. 1.1. 529) SARS-CoV-2 variant in southern California. medRxiv.
 
-#### Bojkova
-Bojkova, D., Widera, M., Ciesek, S., Wass, M. N., Michaelis, M., & Cinatl, J. N. (2022). Reduced interferon antagonism but similar drug sensitivity in Omicron variant compared to Delta variant SARS-CoV-2 isolates. bioRxiv.
+
 
 
 #### Abdullah
 Abdullah F, Myers J, Basu D, Tintinger G, Ueckermann V, Mathebula M, Ramlall R, Spoor S, de Villiers T, Van der Walt Z, Cloete J. Decreased severity of disease during the first global omicron variant covid-19 outbreak in a large hospital in tshwane, south africa. International Journal of Infectious Diseases. 2021 Dec 28.
 
 
+#### Veneti
+Veneti, L., Bøås, H., Kristoffersen, A. B., Stålcrantz, J., Bragstad, K., Hungnes, O., ... & Whittaker, R. (2022). Reduced risk of hospitalisation among reported COVID-19 cases infected with the SARS-CoV-2 Omicron BA. 1 variant compared with the Delta variant, Norway, December 2021 to January 2022. Eurosurveillance, 27(4), 2200077. 
+<https://doi.org/10.2807/1560-7917.ES.2022.27.4.2200077>
+Received: 21 Jan 2022;   Accepted: 25 Jan 2022
+
+
+#### Auvigne
+Auvigne, V., Vaux, S., Le Strat, Y., Schaeffer, J., Fournier, L., Montagnat, C., ... & du Chatelet, I. P. (2022). Serious hospital events following symptomatic infection with Sars-CoV-2 Omicron and Delta variants: an exposed-unexposed cohort study in December 2021 from the COVID-19 surveillance databases in France. medRxiv.
+
+#### Nyberg
+Nyberg T, Ferguson NM, Nash SG, Webster HH, Flaxman S, Andrews N, Hinsley W, Bernal JL, Kall M, Bhatt S, Blomquist PB. Comparative Analysis of the Risks of Hospitalisation and Death Associated with SARS-CoV-2 Omicron (B. 1.1. 529) and Delta (B. 1.617. 2) Variants in England.
+
+
 ### Refs Omicron Viral Load
+
+
 #### Puhach
 Puhach O, Adea K, Hulo N, Sattonnet-Roche P, Genecand C, Iten A, Bausch FJ, Kaiser L, Vetter P, Eckerle I, Meyer B. Infectious viral load in unvaccinated and vaccinated patients infected with SARS-CoV-2 WT, Delta and Omicron. medRxiv. 2022 Jan 1.
 
+#### Tham
+Tham, K. W., Tan, K. S., Ong, S. W., Koh, M. H., Tay, D. J. W., Aw, D. Z. H., ... & Tambyah, P. (2022). Differential aerosol shedding of SARS-CoV-2 Delta and Omicron variants during respiratory activities.
 
 
 
@@ -582,8 +646,12 @@ Bartsch, Y., Tong, X., Kang, J., Avendaño, M. J., Serrano, E. F., García-Salum
 
 
 
-### References ADE
 
+
+
+
+
+### Refs ADE
 
 #### Wan
 Wan Y, Shang J, Sun S, Tai W, Chen J, Geng Q, He L, Chen Y, Wu J, Shi Z, Zhou Y, Du L, Li F. 2020. Molecular mechanism for antibodydependent enhancement of coronavirus entry. J Virol 94:e02015
