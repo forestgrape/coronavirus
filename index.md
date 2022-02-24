@@ -5,6 +5,19 @@ technicality: 1
 explorative: 1
 ---
 
+> # Cease-Fire
+> 24.2.2022
+> A ceasefire and stop of all military actions are important to enable negotiations and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace may get more difficult with any further escalation.
+> <br>
+> *Everyone* seems to agree that *the people in Ukraine are innocent and endowed with all the human rights*.
+
+
+
+
+
+
+
+
 
 # Understanding Betacoronaviruses and their Diseases
 
@@ -65,7 +78,7 @@ This section overviews the entire content. The [content section](#content) lists
 
 ### News Board
 
-- 31.1.22: Possibly [changed IFN treatment effects](6_prevention_and_treatment/interferon.md#changes-in-treatment-outcomes) with Omicron and with acquired immunity present. Looking at individuals treated with IFNs for other indications, could discover changes in treatment effects.
+- 31.1.22: Possibly [changed IFN treatment effects](6_prevention_and_treatment/interferon.md#changes-in-treatment-outcomes) with Omicron and with acquired immunity present. Looking at individuals treated with IFNs for other indications, could elucidate changes in treatment effects.
 
 - 17./30.1.22: *Findings and interpretations are stated, to the best knowledge, even-handed. Biased thinking may happen nevertheless, please point out. Human rights are kept in mind.*
 
