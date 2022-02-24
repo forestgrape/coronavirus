@@ -1,5 +1,7 @@
 # Vaccine Safety and (open?) Questions
 
+> mostly written in Summer 2021. Partly out of date and wrong. Updates coming.
+
 __Rolling publication__, new findings and speculations continuously added, since young and healthy people and in some regions even children are not only allowed and motivated but often pressured to take vaccines deemed as safe. Here it is argued that the observed tolerable symptoms do *not* guarantee safety. Safety is relative: for risk persons of old age, no short term adverse effects is enough for vaccines to be much safer than to catch possibly life-threating Covid. However for young, just knowing there are no serious adverse and diagnoseable effects in the next months, does not mean a vaccine is safe, especially since acute Covid is mild, similar to a common cold or flue, for the young . When its about long-term effects there are unknowns both for SARS-CoV-2 infections and for vaccines. *Overall the risk estimation is the protection against adverse events from Covid versus rare and/or speculative adverse effects from vaccination. The possibility of such rare and/or speculative adverse events, is the topic of this page.*
 
 > In summer 2021, a case of a 18 year old person who died due to thrombosis likely because of vaccination was in the news, which was a push to publish the speculative concerns below. If healthy people are motivated or even pressured to vaccinate, in my opinion, the safety must be ensured and not just be presumed. Often vaccination said to be a considerate and safe action by that the risks and alternatives such as testing come short.
@@ -83,8 +85,7 @@ In conclusion, the safety of vaccines can only be ensured by symptoms if a thoro
 ## Recent Updates
 * 23.7.: Extended list of speculative adverse effects: 
 	- Intramuscular administrated Adenovirus vaccine may increase the cancer risk (depends on the adenovirus strain, mainly whether they enter replication capable cells).
-	- 'mRNA vaccines' if they have a tropism for the ovaries, they may transfect some follicles. 
-  		> Effect could be similar to some years of smoking.
+
 
 
 
@@ -190,9 +191,14 @@ Since no tissue tropism experiments are officially published, the tissue tropism
 
 
 ##### Possible Effects in different Tissues
-The cell and tissue tropism is crucial to estimate adverse effects. For virus infections it is known that neurotropism, lymphotropism and reproductive system tropism are dangerous. Possibly too for artificial RNA transfection.
+The cell and tissue tropism is crucial to estimate adverse effects. For virus infections it is known that neurotropism, lymphotropism and reproductive system tropism can be dangerous. Possibly too for artificial RNA transfection.
 
-* *Neuro-Tropism:* Infections of neuron tissues in the bone marrow or in the brain are a main cause of the dangers resulting from mumps and polio. Severe effects do not occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited death of neurones could occur: in the range from a sleepless night to a couple or many MDMA trips.
+> Even if any of the following effects should occur, the probabilities to occur are likely low. But for in the case of mass vaccination (with unclear benefits for the young) even low probabilities are relevant.
+
+> The effects are highly speculative. Predictions can only be done when ALL the cells and tissue tropism experiments are published (including experiments and trials from formulations which were not proceeded)!
+
+
+* *Neuro-Tropism:* Infections of neuron tissues in the bone marrow or in the brain are main dangers of mumps and polio. Severe effects do *not* occur in the case of "mRNA" vaccines as the trials and the ongoing supervision show. However a limited death of neurones could occur: Possibly in the range from a sleepless night to a couple or many MDMA trips.
 
 	> Bell's palsy then could be attributed that by chance neurones involved in the facial nerve were knocked off.
 	
@@ -200,24 +206,24 @@ The cell and tissue tropism is crucial to estimate adverse effects. For virus in
 
 	> Even minor brain damage is not wanted for children, adolescents or pregnant women.
 
-	> For viruses having a neuro-tropism effects can be both serious or harmless. Sometimes this can have very bad effects which can e.g. result from severe mumps or polio infections. Some viruses such as flaviviruses can cause virulent infections but can also subtle persistent infections, whether these are adverse is not quite clear.
+	> Infections with viruses having a neuro-tropism can be both serious or harmless. Sometimes such infections can cause neurological damage for example severe mumps or polio infections. Some viruses such as flaviviruses can cause virulent infections but can also subtle persistent infections, adverse effects of the latter are unclear.
 
-* *Lympho-Tropism:* If lymphoid tissues are entered and many lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else. In theory, some cancer cells may remain undetected and cause cancer in the coming months or years.
+* *Lympho-Tropism:* If lymphoid tissues are entered and many lymphocytes die, a weakening of the immune system can occur: For some this may cause herpes zooster which is easy diagnosable from visible changes on the skin for others it may be something else: 
+  * The susceptibility for other herpes viruses (such as CMV) could increase.* Some cancer cells may remain undetected and cause cancer in the coming months or years.
 
-* *Ovaries:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects:
+* *Female Reproductive Organs:* If cells in the follicles or even oocytes themselves are transfected this can have unwanted effects:
   * the number of  primordial follicles (respectively local stem cell populations) could be affected.
-  	> This is highly speculative and even if the case the effects are likely not that relevant for adults. 
-	  
-	>> If someone has concerns about vaccination, these should not be dismissed but to be accepted. When more is known about the underlying mechanisms better risk estimates are possible.
+  	
+	> This is highly speculative and even if the case the effects are likely not very relevant for adults. In the unlikely event an effect occurs (e.g. since a blood vessel is hit accidentally), it could be in the order of an unhealthy lifestyle for some years.
+
+	>> Concerns on 'mRNA' vaccination, should be accepted until more is known about the underlying mechanisms and better risk estimates are possible.
+
   * Other effects are possible too, e.g. ingredients such as the transfected RNA, polyethylen-glycol or the produced spikes may remain in oocytes or close by cells - in theory this could affect embryogenesis. 
   	> If the latter is the case, waiting with pregnancy a few months after vaccination could be adequate.
 
-* *Bone Marrow:* If the bone marrow is infiltrated, pluripotent stem cells can be altered or knocked off. The stem cell niches in the bone marrow are some of the best protected cells for good reason. In theory messing around with the bone marrow stem cell niches can cause many adverse effects e.g. increased aging or cancer risk.
+* *Bone Marrow:* If the bone marrow is infiltrated, pluripotent stem cells can be altered or knocked off. The stem cell niches in the bone marrow are some of the best protected cells for good reason. In theory messing around with the bone marrow stem cell niches can cause many adverse effects such as increased cancer risk.
 
 
-> Even if any of the above is should occur, the probabilities to occur are likely low. But for in the case of mass vaccination (with unclear benefits for the young) even low probabilities are relevant.
-
-> The above effects are highly speculative. Predictions can only be done when ALL the cells and tissue tropism experiments (including the failed trials and research experiments) are published!
 
 
 
@@ -295,7 +301,7 @@ Adenoviruses vaccines used adenoviruses rendered replication incapable but apart
 
 ## Appendix
 ### TBEV Infections
-> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). Stupidly didn't screen for ticks afterwards and realized the tick late, which increases the chance for the transmission tick borne pathogens (Borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis). The initial illness was very mild which was followed by a regular but slight back pain for a couple of months which mostly went away by now - so I seem to have been lucky and come through without much sequela.
+> Coincidentally when thinking about the above kinetics in early summer 2021, I didn't pay attention to ticks, caught one and likely also caught tick-borne encephalitis virus (TBEV). Stupidly didn't screen for ticks afterwards and realized the tick late, which increases the chance for the transmission tick borne pathogens (Borrelia are unlikely due to symptoms and due to 2x200mg doxycycline post-exposure prophylaxis). The initial illness was very mild which was followed by a regular but slight back pain for a couple of months which more and more faded - so I seem to have been lucky and come through without sequela.
 
 > There are vaccines against TBEV which protect mice against deadly disease and produce IgG antibodies in humans, but the effects (positive or negative e.g. ADE is a risk for flaviviruses) of these vaccines (all inactivated viruses with adjuvants) on subtle but possibly persistent infections are to my knowledge unknown. Ideally there would be a safe vaccine mimicking natural infections. Because 1) wild type infections reliably protect against subsequent infections; however 2) wild type infections have risks associated both short-term and long-term. TBEV protection is useful if one loves to move through nature.
 
