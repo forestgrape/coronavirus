@@ -17,11 +17,6 @@ explorative: 1
 
 
 
-
-
-
-
-
 # Understanding Betacoronaviruses and their Diseases
 
 This page contains topics around Covid and Coronaviruses. The content discussed is broad and reaches from practical tips to current re-search topics including new hypotheses which are tagged as 'explorative'.
