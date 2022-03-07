@@ -6,18 +6,38 @@ explorative: 1
 ---
 
 
+---
+---
+---
+---
+> # Diplomacy and Compromises from All Parties are likely the best Way out
+> 7.3.2022 [in work]
 
-<br>
+<!--
+[in consideration/thinking]
+> Best in the sense of - given the current situation - an optimal/least bad outcome for all the people. 
+> An overall agreed just way out is often very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
+-->
+
+
+> # Keeping Civilians out
+> 7.3.2022
+> Keeping civilians out of warfare should be a common interest for *all* parties to prevent immediate suffering and losses and in the long run to prevent dividing people and hostile thinking. Such effects can last long. With modern imaging (e.g. satellites/drones), the pictures of the brutality of war are not kept local but are shown across the world.
+> 
+> Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open.
+
 
 > # Cease-Fire
-> 24.2.2022
-> A ceasefire and stop of all military actions are important to enable negotiations and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation.
+> 24.2.2022 (formulations 7.3. adapted)
+> A ceasefire and stop of all military actions are important to enable diplomacy and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation.
 > <br>
-> It is not questioned that *the people of the Ukraine are innocent*.
+> There seems to be a consensus in belief that *the people of the Ukraine are innocent*.
 > <br>
 > *We all are endowed with the same human rights*.
 
-
+---
+---
+---
 
 
 # Understanding Betacoronaviruses and their Diseases
