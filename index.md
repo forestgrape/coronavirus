@@ -11,7 +11,7 @@ explorative: 1
 ---
 ---
 > # Diplomacy and Compromises from All Parties are likely the best Way out
-> 7.3.2022 [in work]
+> 7.3.2022 [in consideration]
 
 <!--
 [in consideration/thinking]
