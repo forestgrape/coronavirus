@@ -21,8 +21,8 @@ explorative: 1
 
 
 > # Keeping Civilians out
-> 7.3.2022
-> Keeping civilians out of warfare should be a common interest for *all* parties to prevent immediate suffering and losses and in the long run to prevent dividing people and hostile thinking. Such effects can last long. With modern technologies (e.g. satellites), the pictures of the brutality of war are not kept local but reach the world.
+> 7.3.2022 
+> Keeping civilians out of warfare should be a common interest for *all* parties to prevent immediate suffering and losses and in the long run to prevent to divide people and antagonistic thinking. With modern imaging the pictures of the brutality of war are not kept local but reach the world.
 > 
 > Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open.
 
