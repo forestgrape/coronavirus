@@ -15,14 +15,14 @@ explorative: 1
 
 <!--
 [in consideration/thinking]
-> Best in the sense of - given the current situation - an optimal/least bad outcome for all the people. 
-> An overall agreed just way out is often very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
+> 'best' in the sense of - given the current situation - an optimal/least bad outcome for all the people. 
+> An overall agreed fully just way out is likely very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
 -->
 
 
 > # Keeping Civilians out
 > 7.3.2022
-> Keeping civilians out of warfare should be a common interest for *all* parties to prevent immediate suffering and losses and in the long run to prevent dividing people and hostile thinking. Such effects can last long. With modern imaging (e.g. satellites/drones), the pictures of the brutality of war are not kept local but are shown across the world.
+> Keeping civilians out of warfare should be a common interest for *all* parties to prevent immediate suffering and losses and in the long run to prevent dividing people and hostile thinking. Such effects can last long. With modern technologies (e.g. satellites), the pictures of the brutality of war are not kept local but reach the world.
 > 
 > Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open.
 
