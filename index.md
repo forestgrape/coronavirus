@@ -21,19 +21,19 @@ explorative: 1
 
 
 > # Keeping Civilians out
-> 7.3.2022 
-> Keeping civilians out of warfare should be a common interest for *all* parties to prevent immediate suffering and losses and in the long run to prevent to divide people and antagonistic thinking. Such effects can last long especially when the suffering is high and widespread. Additionally, with modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war are not kept local but reach the world.
+> 7.3.2022 (18./26.3. formulations adapted)
+> Keeping civilians out of warfare should be a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world. 
 > 
-> Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open.
+> Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open. 
 
 
 > # Cease-Fire
-> 24.2.2022 (formulations 7.3. adapted)
-> A ceasefire and stop of all military actions are important to enable diplomacy and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation.
+> 24.2.2022 (formulations 7./16./26.3. adapted)
+> A ceasefire and stop of all military actions are important to empower diplomacy and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation.
 > <br>
 > There seems to be a consensus in belief that *the people of the Ukraine are innocent*.
 > <br>
-> *We all are endowed with the same human rights*.
+> *We all - everyone - are endowed with the same human rights*.
 
 ---
 ---
@@ -115,7 +115,8 @@ This section overviews the entire content. The [content section](#content) lists
 - 7.1.(announced here) [Individual Transmission and Susceptibility](5_epidemiological/individual_susceptibility_and_transmission.md): Added evidence for the hypothesis that the average viral and the positivity rate are correlated. // online since 27.12.21
 
 
-- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - these mostly were formulated in a different situation. Corrections in work. To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly on this page.
+- > 20-22/27.12. Sorry. Without the peace of mind for careful considerations and concise, factual and tactful formulations, the page was rushed out to a wider audience. For example, some statements regarding the safety of vaccines were much to dramatic (and partly still are) - these mostly were formulated in a different situation. Corrections in work. 
+  >> To keep in mind, the focus of this page is on (corona)viruses what they do, how they transmit and how to handle them. Mistakes of any form [are likely to] happen regularly on this page.
   
 - 20/21/22.12. Help & Feedback of any kind, especially improvements suggestions including pointing out mistakes, is always welcome (witotraub@gmail.com/@runbox.com).
 
