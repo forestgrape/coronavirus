@@ -6,7 +6,7 @@ explorative: 1
 ---
 
 
-*New page on People Interactions. Currently holds notes on the Russian military actions/invasion into the Ukraine: <https://github.com/forestgrape/people_interactions/blob/situation0705/conflicts/ru_ukr_conflict.md> (some of these notes were originally published here*)
+*New page with thoughts on People Interactions. Currently holds thoughts on the Russian military actions/invasion into the Ukraine: <https://github.com/forestgrape/people_interactions/blob/situation0705/conflicts/ru_ukr_conflict.md> (some of the notes were originally published here.) It's just personal thoughts but not a scientific or political work.*
 
 
 # Understanding Betacoronaviruses and their Diseases
